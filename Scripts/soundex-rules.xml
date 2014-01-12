@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    This file documents the conflations and simplifications needed to create a soundex representation of a word
+-->
+<conflations>
+    <!-- 
+        process in this order: 
+        strip all punctuation and convert everything to lower case
+        strip <sup> start and </sup> end tags, so that superscript letters are treated as if not superscript
+        strip <lacuna> and <lb> tags without a trace
+            (there will be other rules about handling markup later)
+        then, in this order, process the manyToOne, oneToMany, and oneToOne groups below
+        then degeminate all geminate consonants (e.g., нн > н)
+        then strip all non-word-initial vowels
+        then truncate long words and right-pad with zero ("0") short words so that all representations are exactly four characters
+    -->
+    <manyToOne>
+        <!--
+        each <set> in the <manyToOne> element contains an <in> and an <out>
+        <in> is a sequence of characters that might occur in an input document
+        <out> is a single character to which the entire sequence should be mapped
+        this section then, is for situations where a sequence of more than one character is mapped to a single character
+    -->
+        <set>
+            <in>оу</in>
+            <out>у</out>
+        </set>
+        <set>
+            <in>шт</in>
+            <out>щ</out>
+        </set>
+    </manyToOne>
+    <oneToMany>
+        <!--
+        each <set> in the <oneToMany> element contains an <in> and an <out>
+        <in> is a single Unicode character
+        <out> is a sequence of more than one Unicode character to which the <in> value sould be mapped
+        this section, then, is for situations where a single input character is mapped to an output sequence of more than one character
+    -->
+        <set>
+            <in>ѿ</in>
+            <out>ѡт</out>
+        </set>
+        <set>
+            <in>ѯ</in>
+            <out>кс</out>
+        </set>
+        <set>
+            <in>ѱ</in>
+            <out>пс</out>
+        </set>
+    </oneToMany>
+    <oneToOne>
+        <!--
+        each <set> in the <oneToOne> element contains an <in> and an <out> element
+        <in> is a sequence of characters; <out> is a single character
+        each character in the <in> sequence should be mapped to the single character in the <out> sequence
+        this section, then, is for situations where single characters are mapped to other single characters
+    -->
+        <set>
+            <in>аꙗ</in>
+            <out>а</out>
+        </set>
+        <set>
+            <in>еєѥ</in>
+            <out>е</out>
+        </set>
+        <set>
+            <in>ыꙑиіїꙇ</in>
+            <out>и</out>
+        </set>
+        <set>
+            <in>оꙩꙫꙭꙮѡꙍѽѻ</in>
+            <out>о</out>
+        </set>
+        <set>
+            <in>уꙋюꙕѵѷӱѹ</in>
+            <out>у</out>
+        </set>
+        <set>
+            <in>ѧѩꙙꙝ</in>
+            <out>ѧ</out>
+        </set>
+        <set>
+            <in>ѫѭꙛ</in>
+            <out></out>
+        </set>
+        <set>
+            <in>ѣꙓ</in>
+            <out>ѣ</out>
+        </set>
+        <set>
+            <in>зꙁꙃѕꙅ</in>
+            <out>з</out>
+        </set>
+    </oneToOne>
+</conflations>
