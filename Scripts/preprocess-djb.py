@@ -5,7 +5,7 @@ getRidOf = ['lacuna', 'sup', 'sub']
 
 def stripPunct(string):
     """Remove punctuation from a given string"""
-    punct = u'҃ⸯ·҇!#$%&=\'()*+,-.:;?@[\\]^_`{|}~'
+    punct = u'̈҃ⸯ·҇!#$%&=\'()*+,-.:;?@[\\]^_`{|}~'
     assemble = []
     inTag= False
     for char in string:
