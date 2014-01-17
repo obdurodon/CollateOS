@@ -1,0 +1,17 @@
+Inside TEI <choice>, get rid of the <choice> ... </choice> wrapper and
+keep the second item in the following pairs, but not the tags:
+
+<sic> / <corr>
+<orig> / <reg>
+<abbr> / <expan>
+
+Keep the text content of the following TEI elements, but remove the tags:
+
+<add>
+<hi>
+<unclear>
+
+Exclude the contents of the following TEI elements, as well as the tags:
+
+<del>
+<gap>
