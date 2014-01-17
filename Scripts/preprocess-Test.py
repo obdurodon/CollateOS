@@ -36,8 +36,8 @@ def splitTagsFromText(string):
         pos = opens.find(char)
         if pos >= 0:
             if result and not stack:
-               yield ''.join(result)
-               result = []
+                yield ''.join(result)
+                result = []
             result.append(char)
             stack.append(closes[pos])
             continue

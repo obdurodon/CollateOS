@@ -27,7 +27,7 @@ def stripElements(elements, string):
     return string
 
 def splitTagsFromText(string):
-    """Helper function to split text to xml tags and text. Useful when you din't want operation to alter contents of the tag"""
+    """Helper function to split text to xml tags and text. Useful when you don't want operation to alter contents of the tag"""
     opens = '<'
     closes = '>'
     stack = []
