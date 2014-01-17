@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import codecs, os, sys, xml.dom.minidom as minidom
 path = r'../sample_ms_files/scholia'
-getRidOf = ['lacuna', 'sup', 'sub']
+getRidOf = ['lacuna', 'sup', 'sub', 'lb']
 
 def stripPunct(string):
     """Remove punctuation from a given string"""
@@ -61,16 +61,26 @@ def conflate(string):
     oneToOne = rules.getElementsByTagName('oneToOne')[0].getElementsByTagName('set')
     generalVowels = vowels.getElementsByTagName('general')[0].getElementsByTagName('vowel')
     specialVowels = vowels.getElementsByTagName('special')[0].getElementsByTagName('vowel')
+
+# apply rules as specified in soundex-rules.xml
+    
     for rule in manyToOne:
         string = string.replace(rule.getElementsByTagName('in')[0].firstChild.nodeValue, rule.getElementsByTagName('out')[0].firstChild.nodeValue)
     for rule in oneToMany:
         string = string.replace(rule.getElementsByTagName('in')[0].firstChild.nodeValue, rule.getElementsByTagName('out')[0].firstChild.nodeValue)
     for rule in oneToOne:
-        string = string.replace(rule.getElementsByTagName('in')[0].firstChild.nodeValue, rule.getElementsByTagName('out')[0].firstChild.nodeValue)
+        for char in rule.getElementsByTagName('in')[0].firstChild.nodeValue:
+            string = string.replace(char, rule.getElementsByTagName('out')[0].firstChild.nodeValue)
+
+# entirely eliminating vowels in the special category from all words
+
     for vowel in specialVowels:
-        string = string.replace(vowel.firstChild.nodeValue, '') # entirely eliminating vowels in the special category from all words
+        string = string.replace(vowel.firstChild.nodeValue, '') 
+    
+# degeminate words, get rid of noninitial vowels
+        
     temp = []
-    for i in list(splitTagsFromText(xmlDoc)):
+    for i in list(splitTagsFromText(string)):
         if i.startswith('<'):
             temp.append(i)
         else:
@@ -79,14 +89,34 @@ def conflate(string):
             for word in words:
                 newWord = [word[0]] # Keep the first character even if it's a vowel
                 degeminated = reduce(lambda x, y: x+y if x[-1:]!=y else x, word, "") # remove one of the letters if found a geminate pair
-                for char in degeminated[1:]: #Appendonly consonants starting at the char in position 1
+                for char in degeminated[1:]: #Append only consonants starting at the char in position 1
                     if not char in vowelList:
                         newWord.append(char)
-##                print word, ''.join(newWord) ##Uncomment to see word by word change after all the rules up to this point have taken effect
                 newWords.append(''.join(newWord))
             temp.extend(newWords)
     string = ' '.join(temp)
+
+# pad short words with zeros, truncate long ones to be only 4 chars long.
+
+    temp = []
+    for i in list(splitTagsFromText(string)):
+        if i.startswith('<'):
+            temp.append(i)
+        else:
+            words = i.split()
+            newWords= []
+            for word in words:
+                if len(word) <4:
+                    newWord = word + '0'*(4-len(word))
+                elif len(word) == 4:
+                    newWord = word
+                else:
+                    newWord = word[:4]
+                newWords.append(newWord)
+            temp.extend(newWords)
+    string = ' '.join(temp)
     return string
+
 for f in filter(lambda x: str(x.split('.')[len(x.split('.'))-1]) == 'xml' , os.listdir(path)):
     xmlDoc = stripElements(getRidOf, stripPunct(codecs.open(os.path.join(path, f), 'r', encoding='UTF-8').read()))
-    print conflate(xmlDoc)
+    print conflate(xmlDoc), '\n'
