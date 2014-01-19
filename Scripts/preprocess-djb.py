@@ -27,25 +27,20 @@ def stripElements(elements, string):
     return string
 
 def splitTagsFromText(string):
-    """Helper function to split text to xml tags and text. Useful when you don't want operation to alter contents of the tag"""
-    opens = '<'
-    closes = '>'
-    stack = []
     result = []
+    stack = []
     for char in string:
-        pos = opens.find(char)
-        if pos >= 0:
+        if char == '<':
             if result and not stack:
                 yield ''.join(result)
                 result = []
             result.append(char)
-            stack.append(closes[pos])
+            stack.append('>')
             continue
         result.append(char)
-        pos = closes.find(char)
-        if pos >= 0:
+        if char == '>':
             stack.pop()
-            if not stack: 
+            if not stack:
                 yield ''.join(result)
                 result = []
     if result:
