@@ -1,4 +1,7 @@
-﻿import os, xml.dom.minidom as minidom
+﻿import datetime, os, xml.dom.minidom as minidom
+
+startTime = datetime.datetime.now()
+
 path = r'..\sample_ms_files\scholia'
 xmls = filter(lambda x: str(x.split('.')[len(x.split('.'))-1]) == 'xml' , os.listdir(path))
 
@@ -16,11 +19,12 @@ def choose(choice):
             found = True
             choice.replaceChild(choice.getElementsByTagName(choices[ch])[0].firstChild, choice.getElementsByTagName(ch)[0])
             deleteElements(choices[ch], choice)
-            continue
+            break
     if not found:
         raise Exception("I don't know what to do with this choice element: " + choice.toxml())
 
 def splitTagsFromText(string):
+    """Create a generaor that splits given string into xml tags and text"""
     result = []
     stack = []
     for char in string:
@@ -56,6 +60,36 @@ def stripPunct(string):
             assemble.append(char.lower()) #if charis not part of tag and is not a punctuation mark, add char to the output lowercased
     return ''.join(assemble)
 
+def applyRule(word, ruleSet):
+    """Helper function to conflate. Applies rules from the conflation file"""
+    if ruleSet[0].parentNode.localName == 'oneToOne':
+        for rule in ruleSet:
+            for char in rule.getElementsByTagName('in')[0].firstChild.nodeValue:
+                word = word.replace(char, rule.getElementsByTagName('out')[0].firstChild.nodeValue)
+        return word
+    else:
+        for rule in ruleSet:
+            return word.replace(rule.getElementsByTagName('in')[0].firstChild.nodeValue, rule.getElementsByTagName('out')[0].firstChild.nodeValue)
+
+def degeminate(word):
+    """Helper function to conflate. Degeminates words."""
+    output = ''
+    for index, char in enumerate(word):
+        if index > 0:
+            if word[index] == word[index-1]:
+                continue
+            output += char
+    return output
+
+def padWithZeros(word):
+    """Helper function to conflate. Pads words with zeroes or cuts them off to have all words be 4 charslong"""
+    if len(word) < 4:
+        return word + '0'*(4-len(word))
+    elif len(word) > 4:
+        return word[:4]
+    else:
+        return word
+    
 def conflate(word):
     """Execute conflation rules in a given order"""
     rules = minidom.parse(r'soundex-rules.xml')
@@ -69,13 +103,9 @@ def conflate(word):
 
 # apply rules as specified in soundex-rules.xml
     
-    for rule in manyToOne:
-        word = word.replace(rule.getElementsByTagName('in')[0].firstChild.nodeValue, rule.getElementsByTagName('out')[0].firstChild.nodeValue)
-    for rule in oneToMany:
-        word = word.replace(rule.getElementsByTagName('in')[0].firstChild.nodeValue, rule.getElementsByTagName('out')[0].firstChild.nodeValue)
-    for rule in oneToOne:
-        for char in rule.getElementsByTagName('in')[0].firstChild.nodeValue:
-            word = word.replace(char, rule.getElementsByTagName('out')[0].firstChild.nodeValue)
+    word = applyRule(word, manyToOne)
+    word = applyRule(word, oneToMany)
+    word = applyRule(word, oneToOne)
 
 # entirely eliminating vowels in the special category from all words
 
@@ -84,29 +114,21 @@ def conflate(word):
     
 # degeminate words, get rid of noninitial vowels
         
-    newWord = [word[0]] # Keep the first character even if it's a vowel
-    degeminated = reduce(lambda x, y: x+y if x[-1:]!=y else x, word, "") # remove one of the letters if found a geminate pair
+    newWord = word[0] # Keep the first character even if it's a vowel
+    degeminated = degeminate(word)
     for char in degeminated[1:]: #Append only consonants starting at the char in position 1
         if not char in vowelList:
-            newWord.append(char)
-    word = ''.join(newWord)
+            newWord += char
 
-# pad short words with zeros, truncate long ones to be only 4 chars long.
+    return padWithZeros(newWord)
 
-    if len(word) < 4:
-        word = word + '0'*(4-len(word))
-    elif len(word) > 4:
-        word = word[:4]
-    return word
-
-class Word(object):
-    def __init__(self, original, conflated):
-        self.o = original
-        self.c = conflated
+##class Word(object):
+##    def __init__(self, original, conflated):
+##        self.o = original
+##        self.c = conflated
 
 for afile in xmls:
-    xml = minidom.parse(os.path.join(path, afile))
-    body = xml.getElementsByTagName('body')[0]
+    body = minidom.parse(os.path.join(path, afile)).getElementsByTagName('body')[0]
     p = body.getElementsByTagName('p')[0]
     for tag in ['add', 'hi', 'unclear']:
         removeElementTags(tag, p)
@@ -128,3 +150,5 @@ for afile in xmls:
 ##                print w, 'becomes', c)             Uncomment to see word by word conflation results
             temp.extend(words)
     print ' '.join(temp),'\n\n'    
+
+print 'Took', datetime.datetime.now()-startTime, 'to execute'
