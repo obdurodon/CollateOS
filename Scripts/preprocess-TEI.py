@@ -2,7 +2,7 @@
 
 startTime = datetime.datetime.now()
 
-path = r'..\sample_ms_files\scholia'
+path = r'../sample_ms_files/scholia'
 xmls = filter(lambda x: str(x.split('.')[len(x.split('.'))-1]) == 'xml' , os.listdir(path))
 
 def removeElementTags(element, parent):
