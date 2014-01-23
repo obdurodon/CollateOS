@@ -1,7 +1,13 @@
-﻿import datetime, os, xml.dom.minidom as minidom
+# -*- coding: utf-8 -*-
+
+import datetime, os, sys, xml.dom.minidom as minidom
 
 startTime = datetime.datetime.now()
-
+args = sys.argv
+debug = False
+if 'debug' in args:
+    debug = True
+    
 path = r'../sample_ms_files/scholia'
 xmls = filter(lambda x: str(x.split('.')[len(x.split('.'))-1]) == 'xml' , os.listdir(path))
 
@@ -121,13 +127,12 @@ def conflate(word):
             newWord += char
 
     return padWithZeros(newWord)
-
-##class Word(object):
-##    def __init__(self, original, conflated):
-##        self.o = original
-##        self.c = conflated
-
+if debug:
+    html = open('debug.html', 'w')
+    html.write('<html><head><title>Debugging at ' + str(datetime.datetime.now()) + '</title></head><body>')
 for afile in xmls:
+    if debug:
+        html.write('<h2>' + afile + '</h2><table border = "1"><th>Original<th>Conflated</th>')
     body = minidom.parse(os.path.join(path, afile)).getElementsByTagName('body')[0]
     p = body.getElementsByTagName('p')[0]
     for tag in ['add', 'hi', 'unclear']:
@@ -145,10 +150,15 @@ for afile in xmls:
             words = []
             for w in i.split():
                 c = conflate(w)
+                if debug:
+                    html.write('<tr><td>' + w.encode('utf-8') + '</td><td>' + c.encode('utf-8') + '</td></tr>')
                 words.append(c)
-##                W = Word(w, c)
-##                print w, 'becomes', c)             Uncomment to see word by word conflation results
             temp.extend(words)
-    print ' '.join(temp),'\n\n'    
+    html.write('</table>')
+    ##print ' '.join(temp),'\n\n'  ## Currently getting unicode error upon printing if script is called from command line.   
 
+if debug:
+    html.write('</body></html>')
+    print 'debug file written to', os.path.join(os.getcwd(), html.name)
+    html.close()
 print 'Took', datetime.datetime.now()-startTime, 'to execute'
