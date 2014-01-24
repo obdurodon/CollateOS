@@ -7,7 +7,8 @@ args = sys.argv
 debug = False
 if 'debug' in args:
     debug = True
-    
+    html = open('debug.html', 'w')
+    html.write('<html><head><title>Debugging at ' + str(datetime.datetime.now()) + '</title></head><body>')
 path = r'../sample_ms_files/scholia'
 xmls = filter(lambda x: str(x.split('.')[len(x.split('.'))-1]) == 'xml' , os.listdir(path))
 
@@ -127,9 +128,7 @@ def conflate(word):
             newWord += char
 
     return padWithZeros(newWord)
-if debug:
-    html = open('debug.html', 'w')
-    html.write('<html><head><title>Debugging at ' + str(datetime.datetime.now()) + '</title></head><body>')
+
 for afile in xmls:
     if debug:
         html.write('<h2>' + afile + '</h2><table border = "1"><th>Original<th>Conflated</th>')
@@ -154,7 +153,8 @@ for afile in xmls:
                     html.write('<tr><td>' + w.encode('utf-8') + '</td><td>' + c.encode('utf-8') + '</td></tr>')
                 words.append(c)
             temp.extend(words)
-    html.write('</table>')
+    if debug:
+        html.write('</table>')
     ##print ' '.join(temp),'\n\n'  ## Currently getting unicode error upon printing if script is called from command line.   
 
 if debug:
