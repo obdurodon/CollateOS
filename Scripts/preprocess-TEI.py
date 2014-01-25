@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
 
-import datetime, os, sys, xml.dom.minidom as minidom
+import datetime, json, os, sys, xml.dom.minidom as minidom
 
 startTime = datetime.datetime.now()
 args = sys.argv
 debug = False
+Json = open('json.txt', 'w')
 if 'debug' in args:
     debug = True
     html = open('debug.html', 'w')
@@ -129,36 +130,52 @@ def conflate(word):
 
     return padWithZeros(newWord)
 
+root = {}
+alldocs = []
 for afile in xmls:
+    docLevel = {}
+    docLevel['id'] = afile
+    tokenList = []
     if debug:
         html.write('<h2>' + afile + '</h2><table border = "1"><th>Original<th>Conflated</th>')
     body = minidom.parse(os.path.join(path, afile)).getElementsByTagName('body')[0]
-    p = body.getElementsByTagName('p')[0]
-    for tag in ['add', 'hi', 'unclear']:
-        removeElementTags(tag, p)
-    for tag in ['del', 'gap', 'lacuna', 'lb']:
-        deleteElements(tag, p)
-    for choice in p.getElementsByTagName('choice'):
-        choose(choice)
-    removeElementTags('choice', p)
+    divs = body.getElementsByTagName('div')
     temp = []
-    for i in list(splitTagsFromText(stripPunct(p.toxml()))):
-        if i.startswith('<'):
-            temp.append(i)
-        else:
-            words = []
-            for w in i.split():
-                c = conflate(w)
-                if debug:
-                    html.write('<tr><td>' + w.encode('utf-8') + '</td><td>' + c.encode('utf-8') + '</td></tr>')
-                words.append(c)
-            temp.extend(words)
-    if debug:
-        html.write('</table>')
-    ##print ' '.join(temp),'\n\n'  ## Currently getting unicode error upon printing if script is called from command line.   
-
+    for div in divs:
+        ps = div.getElementsByTagName('p')
+        for p in ps:
+            for tag in ['add', 'hi', 'unclear']:
+                removeElementTags(tag, p)
+            for tag in ['del', 'gap', 'lacuna', 'lb']:
+                deleteElements(tag, p)
+            for choice in p.getElementsByTagName('choice'):
+                choose(choice)
+            removeElementTags('choice', p)
+            for i in list(splitTagsFromText(stripPunct(p.toxml()))):
+                if i.startswith('<'):
+                    temp.append(i)
+                else:
+                    words = []
+                    for w in i.split():
+                        c = conflate(w)
+                        token = {}
+                        token['t'] = w
+                        token['n'] = c
+                        if debug:
+                            html.write('<tr><td>' + w.encode('utf-8') + '</td><td>' + c.encode('utf-8') + '</td></tr>')
+                        words.append(c)
+                        tokenList.append(token)
+                    temp.extend(words)
+            if debug:
+                html.write('</table>')
+            ##print ' '.join(temp),'\n\n'  ## Currently getting unicode error upon printing if script is called from command line.
+    docLevel['tokens'] = tokenList
+    alldocs.append(docLevel)
+root['witnesses'] = alldocs
 if debug:
     html.write('</body></html>')
     print 'debug file written to', os.path.join(os.getcwd(), html.name)
     html.close()
+Json.write(json.dumps(root).decode('utf-8'))
+Json.close()
 print 'Took', datetime.datetime.now()-startTime, 'to execute'
