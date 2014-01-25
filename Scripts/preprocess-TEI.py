@@ -176,6 +176,6 @@ if debug:
     html.write('</body></html>')
     print 'debug file written to', os.path.join(os.getcwd(), html.name)
     html.close()
-Json.write(json.dumps(root).decode('utf-8'))
+Json.write(json.dumps(root, ensure_ascii=False).encode('utf-8'))
 Json.close()
 print 'Took', datetime.datetime.now()-startTime, 'to execute'
