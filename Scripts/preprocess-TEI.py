@@ -9,7 +9,7 @@ Json = open('json.txt', 'w')
 if 'debug' in args:
     debug = True
     html = open('debug.html', 'w')
-    html.write('<html><head><title>Debugging at ' + str(datetime.datetime.now()) + '</title></head><body>')
+    html.write('<html><head><title>Debugging at ' + str(datetime.datetime.now()) + '</title><meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" /></head><body>')
 path = r'../sample_ms_files/scholia'
 xmls = filter(lambda x: str(x.split('.')[len(x.split('.'))-1]) == 'xml' , os.listdir(path))
 
