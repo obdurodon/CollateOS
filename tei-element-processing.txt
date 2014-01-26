@@ -1,3 +1,11 @@
+2014-01-26 djb updated to clarify "t" vs "n" versions, and to explore a
+complication of internal markup in the TEI input files
+
+The "t" property of the JSON file to serve as input into CollateX should
+retain all information present in the original TEI XML files. To create
+the "n" property though, before applying the Soundex mappings, a copy of
+the original TEI-tagged tokens should be processed as follows:
+
 Inside TEI <choice>, get rid of the <choice> ... </choice> wrapper and
 keep the second item in the following pairs, but not the tags:
 
@@ -15,3 +23,14 @@ Exclude the contents of the following TEI elements, as well as the tags:
 
 <del>
 <gap>
+
+There is a complication where markup may contain more than one logical
+token, e.g.: <p>The <add>quick brown</add> fox. To create the "n" version
+we just follow the rule above: keep the two words but strip the tags, 
+which means that each word will naturally be a single token. The problem
+for the "t" property is that we can't have the start tag in one location
+and the end tag in another in the XML output, since that wouldn't be
+well formed. Tentative strategy: we'll preprocess the TEI files before
+creating the JSON version that will serve as input into CollateX, and the
+preprocessing will split such examples, yielding something like:
+<p>The <add>quick</add> <add>brown</add> fox</p>
