@@ -23,6 +23,8 @@ Exclude the contents of the following TEI elements, as well as the tags:
 
 <del>
 <gap>
+<lb> (empty element)
+<pb> (empty element, may have attributes)
 
 There is a complication where markup may contain more than one logical
 token, e.g.: <p>The <add>quick brown</add> fox. To create the "n" version
