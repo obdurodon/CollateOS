@@ -5,12 +5,12 @@ import datetime, json, os, sys, xml.dom.minidom as minidom
 startTime = datetime.datetime.now()
 args = sys.argv
 debug = False
-Json = open('json.txt', 'w')
+Json = open('json.json', 'w')
 if 'debug' in args:
     debug = True
     html = open('debug.html', 'w')
     html.write('<html><head><title>Debugging at ' + str(datetime.datetime.now()) + '</title><meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" /></head><body>')
-path = r'../sample_ms_files/scholia'
+path = r'../sample_ms_files/scholia_word-tagged'
 xmls = filter(lambda x: str(x.split('.')[len(x.split('.'))-1]) == 'xml' , os.listdir(path))
 
 def removeElementTags(element, parent):
@@ -98,8 +98,15 @@ def padWithZeros(word):
     else:
         return word
     
-def conflate(word):
+def conflate(w):
     """Execute conflation rules in a given order"""
+    for tag in ['add', 'hi', 'unclear']:
+        removeElementTags(tag, w)
+    for tag in ['del', 'gap', 'lacuna', 'lb']:
+        deleteElements(tag, w)
+    for choice in w.getElementsByTagName('choice'):
+        choose(choice)
+    removeElementTags('choice', w)
     rules = minidom.parse(r'soundex-rules.xml')
     vowels = minidom.parse(r'vowels.xml')
     vowelList = [v.firstChild.nodeValue for v in vowels.getElementsByTagName('vowel')]
@@ -108,27 +115,32 @@ def conflate(word):
     oneToOne = rules.getElementsByTagName('oneToOne')[0].getElementsByTagName('set')
     generalVowels = vowels.getElementsByTagName('general')[0].getElementsByTagName('vowel')
     specialVowels = vowels.getElementsByTagName('special')[0].getElementsByTagName('vowel')
+    wlist = []
+    for i in list(splitTagsFromText(w.toxml())):
+        if not i.startswith('<'):
+            wlist.append(i)
+    word = stripPunct(''.join(wlist))
 
 # apply rules as specified in soundex-rules.xml
     
     word = applyRule(word, manyToOne)
     word = applyRule(word, oneToMany)
     word = applyRule(word, oneToOne)
-
 # entirely eliminating vowels in the special category from all words
 
     for vowel in specialVowels:
         word = word.replace(vowel.firstChild.nodeValue, '') 
     
 # degeminate words, get rid of noninitial vowels
-        
-    newWord = word[0] # Keep the first character even if it's a vowel
-    degeminated = degeminate(word)
-    for char in degeminated[1:]: #Append only consonants starting at the char in position 1
-        if not char in vowelList:
-            newWord += char
-
-    return padWithZeros(newWord)
+    if len(word) > 0:    
+        newWord = word[0] # Keep the first character even if it's a vowel
+        degeminated = degeminate(word)
+        for char in degeminated[1:]: #Append only consonants starting at the char in position 1
+            if not char in vowelList:
+                newWord += char
+        return padWithZeros(newWord)
+    else:
+        return ''
 
 root = {}
 alldocs = []
@@ -138,37 +150,20 @@ for afile in xmls:
     tokenList = []
     if debug:
         html.write('<h2>' + afile + '</h2><table border = "1"><th>Original<th>Conflated</th>')
-    body = minidom.parse(os.path.join(path, afile)).getElementsByTagName('body')[0]
-    divs = body.getElementsByTagName('div')
-    temp = []
-    for div in divs:
-        ps = div.getElementsByTagName('p')
-        for p in ps:
-            for tag in ['add', 'hi', 'unclear']:
-                removeElementTags(tag, p)
-            for tag in ['del', 'gap', 'lacuna', 'lb']:
-                deleteElements(tag, p)
-            for choice in p.getElementsByTagName('choice'):
-                choose(choice)
-            removeElementTags('choice', p)
-            for i in list(splitTagsFromText(stripPunct(p.toxml()))):
-                if i.startswith('<'):
-                    temp.append(i)
-                else:
-                    words = []
-                    for w in i.split():
-                        c = conflate(w)
-                        token = {}
-                        token['t'] = w
-                        token['n'] = c
-                        if debug:
-                            html.write('<tr><td>' + w.encode('utf-8') + '</td><td>' + c.encode('utf-8') + '</td></tr>')
-                        words.append(c)
-                        tokenList.append(token)
-                    temp.extend(words)
-            if debug:
-                html.write('</table>')
-            ##print ' '.join(temp),'\n\n'  ## Currently getting unicode error upon printing if script is called from command line.
+    ws = minidom.parse(os.path.join(path, afile)).getElementsByTagName('w')
+    words = []
+    for w in ws:
+        token = {}
+        token['t'] = w.toxml()
+        c = conflate(w)
+        token['n'] = c
+        if debug:
+            html.write('<tr><td>' + w.encode('utf-8') + '</td><td>' + c.encode('utf-8') + '</td></tr>')
+        words.append(c)
+        tokenList.append(token)
+    if debug:
+        html.write('</table>')
+    ##print ' '.join(temp),'\n\n'  ## Currently getting unicode error upon printing if script is called from command line.
     docLevel['tokens'] = tokenList
     alldocs.append(docLevel)
 root['witnesses'] = alldocs
