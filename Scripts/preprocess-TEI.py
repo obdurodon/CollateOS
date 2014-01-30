@@ -154,7 +154,7 @@ for afile in xmls:
     words = []
     for w in ws:
         token = {}
-        token['t'] = w.toxml()
+        token['t'] = w.toxml()[3:-4]
         c = conflate(w)
         token['n'] = c
         if debug:
