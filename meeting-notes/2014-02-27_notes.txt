@@ -1,0 +1,30 @@
+To deal with repetitions:
+
+Modify Soundex normalization to add a digit if the preceding word is the same as the current one. 
+That is, if two words in order would have the Soundex representation ABCD, make the second one
+ABCD1. Complication: won't help if the repetition is a phrase of more than one word.
+
+Defer: For end-of-word after lacuna, postprocess to find alignment where 1) not a Soundex match 
+and 2) gap in the following position. In that case, reverse the words and do a Soundex normalization
+from the end, matching the closest substring.
+
+David:
+More data samples.
+Defer: Modify XSLT to take XML, rather than pseudo-HTML, as input.
+Write mss loci into TEI XML input.
+Write units into TEI XML input.
+Defer: Bdinski Abraham "syna brata" ~ "snovi" (one ~ two words)
+
+Minas:
+Modify Soundex to add digit in case of repetition.
+Convert JSON output of CollateX to XML, preserving original TEI markup within words.
+XML should include Soundex as attribute of word.
+Specify input directory on command line; convention for default output filename and location,
+which can be overridden on command line. Caters to selection of input files.
+Driver (wrapper) script.
+Copy CollateX files into working space to keep constant paths.
+Defer: When mss loci are in TEI XML input, write them into the JSON output.
+<block>
+<token soundex="ABCD" locus="23r7-8" unit="47: 23" witness="ch">
+... more tokens ...
+</block>
