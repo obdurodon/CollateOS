@@ -158,7 +158,7 @@ for afile in xmls:
         c = conflate(w)
         token['n'] = c
         if debug:
-            html.write('<tr><td>' + w.encode('utf-8') + '</td><td>' + c.encode('utf-8') + '</td></tr>')
+            html.write('<tr><td>' + w.toxml().encode('utf-8') + '</td><td>' + c.encode('utf-8') + '</td></tr>')
         words.append(c)
         tokenList.append(token)
     if debug:
