@@ -1,0 +1,34 @@
+body{
+    font-family:Bukyvede, BukyvedeQWeb;
+}
+div{
+    /* div elements contain six tables plus labels*/
+/*    border:1px solid black;
+*/    margin-bottom:1em;
+    clear:both;
+    display:block;
+    /* 
+    http://www.quirksmode.org/css/clearing.html 
+    hack to preserve spacing between divs
+    */
+    overflow:auto;
+}
+table{
+    /* tables run together horizontally within a div*/
+    display:inline;
+    float:left;
+    border:none;
+    margin:0;
+    padding:0.5em 0;
+}
+table:first-child{
+    border-right:1px solid black;
+    font-style:italic;
+}
+td{
+    border: none;
+    padding:0 0.5em;
+}
+sup{
+    line-height:0;
+}

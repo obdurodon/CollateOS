@@ -1,6 +1,21 @@
 2014-01-26 djb updated to clarify "t" vs "n" versions, and to explore a
 complication of internal markup in the TEI input files
 
+2014-02-07 djb updated to include processing order
+
+To process:
+python preprocess-TEI.py
+    reads input files from fixed directory and creates json.json output
+collatex -t -o output.json json.json
+    generates output collation as output.json from json.json input
+python jsonToHTML.py
+    converts output.json to semi-HTML testOut.html
+saxon -o:final.html -s:testOut.html -xsl:initial-to-final-HTML.xsl
+    fixes up testOut.html as final.html
+View file using collate.css styling
+
+Structure of json file expected by CollateX:
+
 The "t" property of the JSON file to serve as input into CollateX should
 retain all information present in the original TEI XML files. To create
 the "n" property though, before applying the Soundex mappings, a copy of
