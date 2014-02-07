@@ -37,6 +37,7 @@
             <xsl:apply-templates select="node()|@*" mode="#current"/>
         </xsl:copy>
     </xsl:template>
+    <xsl:template match="gap" mode="first"/>
     <xsl:template match="body/div/p/text()" mode="first">
         <xsl:analyze-string select="." regex="\s+">
             <xsl:matching-substring>
