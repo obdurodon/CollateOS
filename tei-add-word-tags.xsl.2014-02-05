@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 
-    tei-add-word-tags.xsl
-    2014-02-06 djb
-    
-    adds <w> tags around words in TEI ms transcriptions 
-    $first replaces \s+ in p/text() with <wb/>
-        to do: this will break if there is something like <add> ... </add> with multiple words
-    $second copies the <teiHeader> and then applies templates to the <text>
-        the templates take groups starting with <wb/> and wrap <w> tags around
-        erroneously tags isolated punctuation, such as ":~", as well as isolated <lb/>
-    $third fixes the isolated bits by uniting them with what precedes
-        to do: not handling <pb/>
-    
-    to do: <add> may contain a string of words
--->
+<!-- adds <w> tags around words in TEI ms transcriptions -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="#all"
     xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0"
@@ -70,15 +56,8 @@
                     <lb/>
                 </w>
             </xsl:when>
-            <xsl:when test="matches(following-sibling::w[1]/node()[1],'^\P{L}+$')">
-                <w>
-                    <xsl:apply-templates select="node()|@*"/>
-                    <xsl:text> </xsl:text>
-                    <xsl:value-of select="following-sibling::w[1]/node()[1]"/>
-                </w>
-            </xsl:when>
             <xsl:when
-                test="node()[1][self::lb] or matches(.,'^\P{L}+$') or (string-length(normalize-space(.)) eq 0 and not(*))"/>
+                test="node()[1][self::lb] or (string-length(normalize-space(.)) eq 0 and not(*))"/>
             <xsl:otherwise>
                 <w>
                     <xsl:apply-templates/>
