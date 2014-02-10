@@ -48,7 +48,6 @@
         </xsl:for-each-group>
     </xsl:template>
     <xsl:template match="ch|n|r|z|b">
-        <milestone n="{../@n}"/>
         <xsl:apply-templates/>
         <xsl:text> </xsl:text>
     </xsl:template>
