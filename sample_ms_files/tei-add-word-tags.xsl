@@ -7,8 +7,9 @@
     $first replaces \s+ in p/text() with <wb/>
         to do: this will break if there is something like <add> ... </add> with multiple words
     $second copies the <teiHeader> and then applies templates to the <text>
-        the templates take groups starting with <wb/> and wrap <w> tags around
-        erroneously tags isolated punctuation, such as ":~", as well as isolated <lb/>
+        the templates take groups starting with <wb/> and wrap <w> tags around;
+        erroneously tags isolated punctuation, such as ":~", as well as isolated <lb/>,
+        which gets fixed below
     $third fixes the isolated bits by uniting them with what precedes
         to do: not handling <pb/>
     
@@ -51,9 +52,17 @@
     <xsl:template match="p" mode="second">
         <p>
             <xsl:for-each-group select="node()" group-starting-with="wb">
+                <!--
+                    If current-group() includes a milestone, we're beginning a new unit
+                    Otherwise we're still in an on-going one, so get the closest preceding unit number
+                    Don't include <wb> or <milestone> elements inside the <w> elements
+                -->
+                <xsl:variable name="unit"
+                    select="(current-group()/self::milestone/@n/string(),preceding::milestone[1]/@n/string())[1]"/>
                 <xsl:text>&#x0a;</xsl:text>
-                <w>
-                    <xsl:apply-templates select="current-group()[not(self::wb)]" mode="second"/>
+                <w n="{$unit}">
+                    <xsl:apply-templates select="current-group()[not(self::wb | self::milestone)]"
+                        mode="second"/>
                 </w>
             </xsl:for-each-group>
         </p>
@@ -66,6 +75,7 @@
         <xsl:choose>
             <xsl:when test="following-sibling::w[1]/node()[1][self::lb]">
                 <w>
+                    <xsl:copy-of select="@n"/>
                     <xsl:apply-templates select="node()|@*"/>
                     <xsl:text> </xsl:text>
                     <lb/>
@@ -73,6 +83,7 @@
             </xsl:when>
             <xsl:when test="matches(following-sibling::w[1]/node()[1],'^\P{L}+$')">
                 <w>
+                    <xsl:copy-of select="@n"/>
                     <xsl:apply-templates select="node()|@*"/>
                     <xsl:text> </xsl:text>
                     <xsl:value-of select="following-sibling::w[1]/node()[1]"/>
@@ -82,6 +93,7 @@
                 test="node()[1][self::lb] or matches(.,'^\P{L}+$') or (string-length(normalize-space(.)) eq 0 and not(*))"/>
             <xsl:otherwise>
                 <w>
+                    <xsl:copy-of select="@n"/>
                     <xsl:apply-templates/>
                 </w>
             </xsl:otherwise>
