@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# sys.argv[1] = input folder; sys.argv[2] = output json file name. Json if none is provided.
 
 import datetime, json, os, sys, xml.dom.minidom as minidom
 
@@ -10,7 +11,12 @@ if 'debug' in args:
     debug = True
     html = open('debug.html', 'w')
     html.write('<html><head><title>Debugging at ' + str(datetime.datetime.now()) + '</title><meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" /></head><body>')
-path = r'../sample_ms_files/scholia_word-tagged'
+path = sys.argv[1]
+if len(sys.argv) == 2:
+    Json = open(sys.argv[2] + '.json', 'w')
+else:
+    Json = open('json.json', 'w') # default directory if no output file provided
+##path = r'../sample_ms_files/scholia_word-tagged'
 xmls = filter(lambda x: str(x.split('.')[len(x.split('.'))-1]) == 'xml' , os.listdir(path))
 
 def removeElementTags(element, parent):
