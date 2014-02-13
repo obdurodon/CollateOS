@@ -167,9 +167,10 @@ for folder in dirs:
         words = []
         for w in ws:
             token = {}
-            token['t'] = w.toxml()[3:-4]
+            token['t'] = w.toxml()[8+len(w.getAttribute('n')):-4]
             c = conflate(w)
             token['n'] = c
+            token['u'] = w.getAttribute('n')
             if debug:
                 html.write('<tr><td>' + w.toxml().encode('utf-8') + '</td><td>' + c.encode('utf-8') + '</td></tr>')
             words.append(c)
