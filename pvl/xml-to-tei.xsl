@@ -53,26 +53,26 @@
         </TEI>
     </xsl:template>
     <xsl:template match="block">
-        <xsl:if test="@column ne preceding-sibling::block[1]/@column">
+        <xsl:if test="position() = 1 or @column ne preceding-sibling::block[1]/@column">
             <milestone unit="column" n="{@column}"/>
         </xsl:if>
         <div type="block" n="{@line}">
             <p>
                 <app>
+                    <lem>
+                        <xsl:apply-templates select="paradosis"/>
+                    </lem>
                     <rdgGrp n="manuscripts">
                         <xsl:apply-templates select="manuscripts"/>
                     </rdgGrp>
                     <rdgGrp n="editions">
                         <xsl:apply-templates select="* except (manuscripts | paradosis)"/>
                     </rdgGrp>
-                    <lem>
-                        <xsl:apply-templates select="paradosis"/>
-                    </lem>
                 </app>
             </p>
         </div>
     </xsl:template>
-    <xsl:template match="manuscripts/*">
+    <xsl:template match="manuscripts/* | block/*[not(self::manuscripts | self::paradosis)]">
         <rdg wit="#{lower-case(local-name(.))}">
             <xsl:apply-templates/>
         </rdg>
@@ -86,7 +86,8 @@
         <hi rend="sub">
             <xsl:apply-templates/>
         </hi>
-    </xsl:template>    <xsl:template match="pageRef">
+    </xsl:template>
+    <xsl:template match="pageRef">
         <pb n="{.}"/>
     </xsl:template>
     <xsl:template match="lb">
