@@ -165,14 +165,18 @@ for folder in dirs:
             html.write('<h2>' + afile + '</h2><table border = "1"><th>Original<th>Conflated</th>')
         ws = minidom.parse(os.path.join(docs, afile)).getElementsByTagName('w')
         words = []
-        for w in ws:
+        for w in range(len(ws)):
+            currentWord = ws[w]
             token = {}
-            token['t'] = w.toxml()[8+len(w.getAttribute('n')):-4]
-            c = conflate(w)
+            token['t'] = currentWord.toxml()[8+len(currentWord.getAttribute('n')):-4]
+            c = conflate(currentWord)
+            if w > 0:
+                if c == conflate(ws[w-1]):
+                    c += '1' # tag '1' to the end of a wod that we suspect is repeated in the manuscript.
             token['n'] = c
-            token['u'] = w.getAttribute('n')
+            token['u'] = currentWord.getAttribute('n')
             if debug:
-                html.write('<tr><td>' + w.toxml().encode('utf-8') + '</td><td>' + c.encode('utf-8') + '</td></tr>')
+                html.write('<tr><td>' + currentWord.toxml().encode('utf-8') + '</td><td>' + c.encode('utf-8') + '</td></tr>')
             words.append(c)
             tokenList.append(token)
         if debug:
