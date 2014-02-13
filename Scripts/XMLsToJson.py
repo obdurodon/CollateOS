@@ -1,23 +1,25 @@
 # -*- coding: utf-8 -*-
-# sys.argv[1] = input folder; sys.argv[2] = output json file name. Json if none is provided.
 
 import datetime, json, os, sys, xml.dom.minidom as minidom
 
 startTime = datetime.datetime.now()
+
 args = sys.argv
+path = '..\sample_ms_files' #default, overwritten if provided with -i flag
+if '-i' in args:
+    path = args[args.index('-i')+1]
+JsonSpecified = False
+if '-o' in args:
+    jsonFileName = args[args.index('-o')+1] + '.json'
+    JsonSpecified = True
 debug = False
-Json = open('json.json', 'w')
 if 'debug' in args:
     debug = True
     html = open('debug.html', 'w')
     html.write('<html><head><title>Debugging at ' + str(datetime.datetime.now()) + '</title><meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" /></head><body>')
-path = sys.argv[1]
-if len(sys.argv) == 2:
-    Json = open(sys.argv[2] + '.json', 'w')
-else:
-    Json = open('json.json', 'w') # default directory if no output file provided
-##path = r'../sample_ms_files/scholia_word-tagged'
-xmls = filter(lambda x: str(x.split('.')[len(x.split('.'))-1]) == 'xml' , os.listdir(path))
+
+
+
 
 def removeElementTags(element, parent):
     for child in parent.getElementsByTagName(element):
@@ -147,36 +149,43 @@ def conflate(w):
         return padWithZeros(newWord)
     else:
         return ''
-
-root = {}
-alldocs = []
-for afile in xmls:
-    docLevel = {}
-    docLevel['id'] = afile
-    tokenList = []
-    if debug:
-        html.write('<h2>' + afile + '</h2><table border = "1"><th>Original<th>Conflated</th>')
-    ws = minidom.parse(os.path.join(path, afile)).getElementsByTagName('w')
-    words = []
-    for w in ws:
-        token = {}
-        token['t'] = w.toxml()[3:-4]
-        c = conflate(w)
-        token['n'] = c
+dirs = [name for name in os.listdir(path) if os.path.isdir(os.path.join(path, name))]
+for folder in dirs:
+    docs = os.path.join(path, folder, 'word-tagged')
+    if not os.path.exists(docs):
+        continue
+    xmls = filter(lambda x: str(x.split('.')[len(x.split('.'))-1]) == 'xml' , os.listdir(docs))
+    root = {}
+    alldocs = []
+    for afile in xmls:
+        docLevel = {}
+        docLevel['id'] = afile
+        tokenList = []
         if debug:
-            html.write('<tr><td>' + w.toxml().encode('utf-8') + '</td><td>' + c.encode('utf-8') + '</td></tr>')
-        words.append(c)
-        tokenList.append(token)
+            html.write('<h2>' + afile + '</h2><table border = "1"><th>Original<th>Conflated</th>')
+        ws = minidom.parse(os.path.join(docs, afile)).getElementsByTagName('w')
+        words = []
+        for w in ws:
+            token = {}
+            token['t'] = w.toxml()[3:-4]
+            c = conflate(w)
+            token['n'] = c
+            if debug:
+                html.write('<tr><td>' + w.toxml().encode('utf-8') + '</td><td>' + c.encode('utf-8') + '</td></tr>')
+            words.append(c)
+            tokenList.append(token)
+        if debug:
+            html.write('</table>')
+        ##print ' '.join(temp),'\n\n'  ## Currently getting unicode error upon printing if script is called from command line.
+        docLevel['tokens'] = tokenList
+        alldocs.append(docLevel)
+    root['witnesses'] = alldocs
     if debug:
-        html.write('</table>')
-    ##print ' '.join(temp),'\n\n'  ## Currently getting unicode error upon printing if script is called from command line.
-    docLevel['tokens'] = tokenList
-    alldocs.append(docLevel)
-root['witnesses'] = alldocs
-if debug:
-    html.write('</body></html>')
-    print 'debug file written to', os.path.join(os.getcwd(), html.name)
-    html.close()
-Json.write(json.dumps(root, ensure_ascii=False).encode('utf-8'))
-Json.close()
+        html.write('</body></html>')
+        print 'debug file written to', os.path.join(os.getcwd(), html.name)
+        html.close()
+    if not JsonSpecified:
+        jsonFileName = folder + '.json'
+    with open(os.path.join(docs, jsonFileName), 'w') as Json:
+        Json.write(json.dumps(root, ensure_ascii=False).encode('utf-8'))
 print 'Took', datetime.datetime.now()-startTime, 'to execute'
