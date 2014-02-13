@@ -1,7 +1,9 @@
 import codecs, json, xml.dom.minidom as minidom
 data = json.loads(open('output.json', 'r').read())
 nameToNumber = {number:name for number, name in enumerate(data['witnesses'])}
-with codecs.open('XMLObjects.xml','w','utf-8') as out:
+def normalChars(l):
+    return l.replace('&lt;', '<').replace('&gt;','>').replace('&quot;', '"')
+with codecs.open('XMLObjects.xml','w') as out:
     doc = minidom.Document()
     witnessElement = doc.createElement('witnesses')
     doc.appendChild(witnessElement)
@@ -24,4 +26,5 @@ with codecs.open('XMLObjects.xml','w','utf-8') as out:
             blockElement.appendChild(tokenElement)
             number += 1
         witnessElement.appendChild(blockElement)
-    doc.writexml(out, encoding='utf-8')
+    for ln in doc.toprettyxml().split('\n'):
+        out.write(normalChars(ln).encode('utf-8') + '\n')
