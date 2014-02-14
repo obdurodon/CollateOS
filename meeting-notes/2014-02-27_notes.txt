@@ -16,13 +16,13 @@ Defer: Write mss loci into TEI XML input. (defer: current samples have no mss lo
 Defer: Bdinski Abraham "syna brata" ~ "snovi" (one ~ two words); is this really a problem?
 
 Minas:
-Modify Soundex to add digit in case of repetition.
-Convert JSON output of CollateX to XML, preserving original TEI markup within words.
-XML should include Soundex as attribute of word.
-Specify input directory on command line; convention for default output filename and location,
-which can be overridden on command line. Caters to selection of input files.
+Done: Modify Soundex to add digit in case of repetition.
+Done: Convert JSON output of CollateX to XML, preserving original TEI markup within words.
+Done: XML should include Soundex as attribute of word.
+Done: Specify input directory on command line; convention for default output filename and location,
+		which can be overridden on command line. Caters to selection of input files.
 Driver (wrapper) script.
-Copy CollateX files into working space to keep constant paths.
+Done: Copy CollateX files into working space to keep constant paths.
 Defer: When mss loci are in TEI XML input, write them into the JSON output.
 <block>
 <token soundex="ABCD" locus="23r7-8" unit="47: 23" witness="ch">
