@@ -22,15 +22,92 @@
                             Institute.</p>
                     </publicationStmt>
                     <sourceDesc>
-                        <p>Paper publication by Harvard University Press, 2003 [2004], edited by
-                            Donald Ostrowski, with David J. Birnbaum (associate editor) and Horace
-                            G. Lunt (senior consultant). ISBN 9780916458911.</p>
-                        <p>The digital edition and paper publication were derived from the same
-                            troff source files. That is, except for corrections (see below), they
-                            have the same content, but neither is textually secondary to the
-                            other.</p>
-                        <p>Digital edition includes corrections to the paper edition as published at
-                            http://hudce7.harvard.edu/~ostrowski/pvl/pvlchanges.pdf.</p>
+                        <list>
+                            <item>Paper publication by Harvard University Press, 2003 [2004], edited
+                                by Donald Ostrowski, with David J. Birnbaum (associate editor) and
+                                Horace G. Lunt (senior consultant). ISBN 9780916458911.</item>
+                            <item>The digital edition and paper publication were derived from the
+                                same troff source files. That is, except for corrections (see
+                                below), they have the same content, but neither is textually
+                                secondary to the other.</item>
+                            <item>Digital edition includes corrections to the paper edition as
+                                published at
+                                http://hudce7.harvard.edu/~ostrowski/pvl/pvlchanges.pdf.</item>
+                        </list>
+                        <listWit>
+                            <witness xml:id="lav">
+                                <choice>
+                                    <abbr>Lav</abbr>
+                                    <expan>Laurentian</expan>
+                                </choice>
+                            </witness>
+                            <witness xml:id="tro">
+                                <choice>
+                                    <abbr>Tro</abbr>
+                                    <expan>Trinity</expan>
+                                </choice>
+                            </witness>
+                            <witness xml:id="rad">
+                                <choice>
+                                    <abbr>Rad</abbr>
+                                    <expan>Radziwiłł</expan>
+                                </choice>
+                            </witness>
+                            <witness xml:id="aka">
+                                <choice>
+                                    <abbr>Aka</abbr>
+                                    <expan>Academy</expan>
+                                </choice>
+                            </witness>
+                            <witness xml:id="ipa">
+                                <choice>
+                                    <abbr>Ipa</abbr>
+                                    <expan>Hypatian</expan>
+                                </choice>
+                            </witness>
+                            <witness xml:id="xle">
+                                <choice>
+                                    <abbr>Xle</abbr>
+                                    <expan>Xlebnikov</expan>
+                                </choice>
+                            </witness>
+                            <witness xml:id="kom">
+                                <choice>
+                                    <abbr>Kom</abbr>
+                                    <expan>Commission (Novg I)</expan>
+                                </choice>
+                            </witness>
+                            <witness xml:id="tol">
+                                <choice>
+                                    <abbr>Tol</abbr>
+                                    <expan>Tolstoy (Novg I)</expan>
+                                </choice>
+                            </witness>
+                            <witness xml:id="nak">
+                                <choice>
+                                    <abbr>NAk</abbr>
+                                    <expan>Academy (Novg I)</expan>
+                                </choice>
+                            </witness>
+                            <witness xml:id="bych">
+                                <choice>
+                                    <abbr>Byč</abbr>
+                                    <expan>Byčkov</expan>
+                                </choice>
+                            </witness>
+                            <witness xml:id="shakh">
+                                <choice>
+                                    <abbr>Šax</abbr>
+                                    <expan>Šaxmatov</expan>
+                                </choice>
+                            </witness>
+                            <witness xml:id="likh">
+                                <choice>
+                                    <abbr>Lix</abbr>
+                                    <expan>Lixačev</expan>
+                                </choice>
+                            </witness>
+                        </listWit>
                     </sourceDesc>
                 </fileDesc>
                 <encodingDesc>
@@ -62,10 +139,10 @@
                     <lem>
                         <xsl:apply-templates select="paradosis"/>
                     </lem>
-                    <rdgGrp n="manuscripts">
+                    <rdgGrp type="manuscripts">
                         <xsl:apply-templates select="manuscripts"/>
                     </rdgGrp>
-                    <rdgGrp n="editions">
+                    <rdgGrp type="editions">
                         <xsl:apply-templates select="* except (manuscripts | paradosis)"/>
                     </rdgGrp>
                 </app>
