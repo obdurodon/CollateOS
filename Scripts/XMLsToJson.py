@@ -167,12 +167,16 @@ for folder in dirs:
         words = []
         for w in range(len(ws)):
             currentWord = ws[w]
+            previousWord = ''
+            try:
+                previousWord = ws[w-1]
+            except IndexError:
+                pass
             token = {}
             token['t'] = currentWord.toxml()[8+len(currentWord.getAttribute('n')):-4]
             c = conflate(currentWord)
-            if w > 0:
-                if c == conflate(ws[w-1]):
-                    c += '1' # tag '1' to the end of a wod that we suspect is repeated in the manuscript.
+            if c == conflate(previousWord):
+                c += '1' # tag '1' to the end of a wod that we suspect is repeated in the manuscript.
             token['n'] = c
             token['u'] = currentWord.getAttribute('n')
             if debug:
@@ -181,7 +185,6 @@ for folder in dirs:
             tokenList.append(token)
         if debug:
             html.write('</table>')
-        ##print ' '.join(temp),'\n\n'  ## Currently getting unicode error upon printing if script is called from command line.
         docLevel['tokens'] = tokenList
         alldocs.append(docLevel)
     root['witnesses'] = alldocs
