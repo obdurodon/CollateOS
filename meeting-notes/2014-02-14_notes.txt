@@ -1,0 +1,26 @@
+2014-02-14 CollateOS consultation
+
+python XMLtoJSON.py -i path-to-XML-input-file-directory -o path-to-JSON-output-filename
+Default input directory = current directory
+Default output filename = XMLtoJSON.json in current directory
+
+python JSONtoXML.py -i path-to-JSON-input-filename -o path-to-XML-output-filename
+Default input file: none
+Default output file: input filename with .json removed and .xml added
+
+XMLtoJSON: input is one file per ms, output is one json file
+CollateX: input and output are both one json file
+JSONtoXML: input is one json file, output is one xml file
+
+David:
+Fix scholia1 section 13 misalignment
+Word-tag PVL
+Break each block into its own input group
+Shell script for batch processing of PVL Karskij-line-level folders
+<choice><seg></seg><seg></seg></choice> should be entire <choice> inside one <w>
+
+Minas:
+Adjust command-line arguments for XMLtoJSON and JSONtoXML
+Fix debug flag
+Comment code; user manual (HTML)
+
