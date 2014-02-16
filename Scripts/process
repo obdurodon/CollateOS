@@ -1,0 +1,60 @@
+#!/usr/bin/env bash
+######
+# filename: process
+# synopsis: creates XML word-level collation from TEI block-level collation
+# author: djb, djbpitt@gmail.com, http://www.obdurodon.org
+# initial version: 2014-02-16
+# last modified: 2014-02-16
+#
+# run from: directory that contains input file
+# input: TEI XML file containing word-tagged <app> entries
+# output: XML file containing word-aligned blocks
+# output, including temporary files, created in same directory as input
+# XMLtoJSON, CollateX, JSONtoXML, and XMLtoHTML must be on path
+#
+# Step 1: XMLtoJSON
+# Step 2: CollateX
+# Step 3: JSONtoXML
+# Step 4: XMLtoHTML
+#
+# To do:
+# Add steps 1-4 (!)
+# Input file should not have to be in current directory
+# Should we clobber existing files?
+######
+
+#####
+# Begin command line validation
+# Validate input: exactly one argument, a TEI XML file
+# Verifies that file exists; does not validate as TEI XML
+#####
+#
+if [ $# -ne 1 ]
+  then
+    echo "Requires exactly one command-line argument; you suppled $#"
+    exit
+elif [ ! -f $1 ]
+  then
+    if [ -a $1  ]
+      then
+        echo "The file $1 exists, but it is not a regular file"
+        exit
+      else
+        echo "The file $1 does not exist"
+        exit
+    fi
+else
+  echo "$1 exists"
+fi
+#
+######
+# End command line validation
+######
+
+######
+# Begin XMLtoJSON
+######
+
+######
+# End XMLtoJSON
+######

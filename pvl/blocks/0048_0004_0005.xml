@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>4, 5</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished interim file for collation</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Extracted from pvl-tei.xml</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="block" n="5">
+            <p>
+               <app>
+                  <lem>
+                     <w>Чюдь,</w>
+                     <w>Пермь,</w>
+                     <w>Печера,</w>
+                     <w>Ямь,</w>
+                     <w>Югра,</w>
+                  </lem>
+                  <rdgGrp type="manuscripts">
+                     <rdg wit="#lav">
+                        <w>чюдь.</w>
+                        <w>
+                           <sic>пермь печера <lb/> ямь. оугра</sic>
+                        </w>
+                     </rdg>
+                     <rdg wit="#tro">
+                        <w>чюдь</w>
+                        <w>югра</w>
+                        <w>печера</w>
+                        <w>емь</w>
+                        <w>угра</w>
+                     </rdg>
+                     <rdg wit="#rad">
+                        <w>ч<hi rend="sup">д</hi>ю</w>
+                        <w>пермь</w>
+                        <w>печера <lb/>
+                        </w>
+                        <w>ямь</w>
+                     </rdg>
+                     <rdg wit="#aka">
+                        <w>чюдь.</w>
+                        <w>пермь. <lb/>
+                        </w>
+                        <w>печера.</w>
+                        <w>ямь.</w>
+                     </rdg>
+                     <rdg wit="#ipa">
+                        <w>чюдь.</w>
+                        <w>пермь.</w>
+                        <w>печера.</w>
+                        <w>я<lb/>мь.</w>
+                        <w>югра.</w>
+                     </rdg>
+                     <rdg wit="#xle">
+                        <w>ч<hi rend="sup">д</hi>ю,</w>
+                        <w>пермь.</w>
+                        <w>печера.</w>
+                        <w>я<hi rend="sup">м</hi>.</w>
+                        <w>югра. <lb/>
+                        </w>
+                     </rdg>
+                  </rdgGrp>
+                  <rdgGrp type="editions">
+                     <rdg wit="#bych">
+                        <w>Чюдь,</w>
+                        <w>Пермь,</w>
+                        <w>Печера,</w>
+                        <w>Ямь,</w>
+                        <w>Угра,</w>
+                     </rdg>
+                     <rdg wit="#shakh">
+                        <w>Чюдь,</w>
+                        <w>Пьрмь,</w>
+                        <w>Печера,</w>
+                        <w>Ямь,</w>
+                        <w>Угра,</w>
+                     </rdg>
+                     <rdg wit="#likh">
+                        <w>чюдь,</w>
+                        <w>пермь,</w>
+                        <w>печера,</w>
+                        <w>ямь,</w>
+                        <w>угра,</w>
+                     </rdg>
+                  </rdgGrp>
+               </app>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
