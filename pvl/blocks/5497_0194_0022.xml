@@ -1,130 +1,104 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>194, 22</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="22">
-            <p>
-               <app>
-                  <lem>
-                     <w>положаху</w>
-                     <w>предъ</w>
-                     <w>нимъ</w>
-                     <w>хлѣбъ,</w>
-                     <w>и</w>
-                     <w>не</w>
-                     <w>възьмяше</w>
-                     <w>его,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>
-                           <add place="margin">по</add>ложаху</w>
-                        <w>пред</w>
-                        <w>ни<hi rend="sup">м</hi>
-                        </w>
-                        <w>хлѣбъ.</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>въ<lb/>змѧше</w>
-                        <w>ѥго.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>положахоу</w>
-                        <w>пред</w>
-                        <w>ни<hi rend="sup">м</hi> 
-                           <lb/>
-                        </w>
-                        <w>хлѣбъ.</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>взимаше</w>
-                        <w>его.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>положаахѹ <lb/>
-                        </w>
-                        <w>пре<hi rend="sup">д</hi>
-                        </w>
-                        <w>нимь</w>
-                        <w>хлѣбъ.</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>возымааше</w>
-                        <w>его.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>положаху <lb/>
-                        </w>
-                        <w>пред</w>
-                        <w>нимь.</w>
-                        <w>хлѣбъ</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>взима<lb/>ше</w>
-                        <w>его.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>положахѫ</w>
-                        <w>пре<hi rend="sup">д</hi>
-                        </w>
-                        <w>ни<hi rend="sup">м</hi>
-                        </w>
-                        <w>хлѣбь.</w>
-                        <w>и</w>
-                        <w>не <lb/>
-                        </w>
-                        <w>възимаше</w>
-                        <w>его</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>положаху</w>
-                        <w>пред</w>
-                        <w>нимъ</w>
-                        <w>хлѣбъ,</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>възмяше</w>
-                        <w>его,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>положаху</w>
-                        <w>предъ</w>
-                        <w>нимъ</w>
-                        <w>хлѣбъ,</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>възьмяше</w>
-                        <w>его,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>положаху</w>
-                        <w>пред</w>
-                        <w>ним</w>
-                        <w>хлѣбъ,</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>възмяше</w>
-                        <w>его,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>194, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="22"><p>
+<app>
+<lem wit="#lem">
+<w>положаху</w>
+<w>предъ</w>
+<w>нимъ</w>
+<w>хлѣбъ,</w>
+<w>и</w>
+<w>не</w>
+<w>възьмяше</w>
+<w>его,</w>
+</lem>
+
+<rdg wit="#lav">
+<w><milestone unit="add" n="start" place="margin"/>по<milestone unit="add" n="end"/>ложаху</w>
+<w>пред</w>
+<w>ни<hi rend="sup">м</hi></w>
+<w>хлѣбъ.</w>
+<w>и</w>
+<w>не</w>
+<w>въ<lb/>змѧше</w>
+<w>ѥго.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>положахоу</w>
+<w>пред</w>
+<w>ни<hi rend="sup">м</hi><lb/></w>
+<w>хлѣбъ.</w>
+<w>и</w>
+<w>не</w>
+<w>взимаше</w>
+<w>его.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>положаахѹ <lb/></w>
+
+<w>пре<hi rend="sup">д</hi></w>
+<w>нимь</w>
+<w>хлѣбъ.</w>
+<w>и</w>
+<w>не</w>
+<w>возымааше</w>
+<w>его.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>положаху <lb/></w>
+
+<w>пред</w>
+<w>нимь.</w>
+<w>хлѣбъ</w>
+<w>и</w>
+<w>не</w>
+<w>взима<lb/>ше</w>
+<w>его.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>положахѫ</w>
+<w>пре<hi rend="sup">д</hi></w>
+<w>ни<hi rend="sup">м</hi></w>
+<w>хлѣбь.</w>
+<w>и</w>
+<w>не <lb/></w>
+
+<w>възимаше</w>
+<w>его</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>положаху</w>
+<w>пред</w>
+<w>нимъ</w>
+<w>хлѣбъ,</w>
+<w>и</w>
+<w>не</w>
+<w>възмяше</w>
+<w>его,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>положаху</w>
+<w>предъ</w>
+<w>нимъ</w>
+<w>хлѣбъ,</w>
+<w>и</w>
+<w>не</w>
+<w>възьмяше</w>
+<w>его,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>положаху</w>
+<w>пред</w>
+<w>ним</w>
+<w>хлѣбъ,</w>
+<w>и</w>
+<w>не</w>
+<w>възмяше</w>
+<w>его,</w>
+</rdg>
+</app></p></div></body></text></TEI>

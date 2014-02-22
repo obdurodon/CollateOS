@@ -1,132 +1,114 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>7, 19</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="19">
-            <p>
-               <app>
-                  <lem>
-                     <w>Симовъ,</w>
-                     <w>а</w>
-                     <w>по</w>
-                     <w>Двинѣ</w>
-                     <w>въ</w>
-                     <w>Варягы,</w>
-                     <w>изъ</w>
-                     <w>Варягъ</w>
-                     <w>и</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>симовъ.</w>
-                        <w>а</w>
-                        <w>по</w>
-                        <w>двинѣ</w>
-                        <w>въ</w>
-                        <w>варѧги.</w>
-                        <w>изъ <lb/>
-                        </w>
-                        <w>варѧгъ</w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad">
-                        <w>симовъ</w>
-                        <w>а</w>
-                        <w>по</w>
-                        <w>двинѣ</w>
-                        <w>в</w>
-                        <w>варѧ<lb/>гы</w>
-                        <w>и<sic>дз</sic>
-                        </w>
-                        <w>варѧгъ</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>симовь.</w>
-                        <w>а</w>
-                        <w>по</w>
-                        <w>дви<lb/>нѣ</w>
-                        <w>в</w>
-                        <w>вареги.</w>
-                        <w>из</w>
-                        <w>варегъ</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>симовъ.</w>
-                        <w>а</w>
-                        <w>по</w>
-                        <w>дви<lb/>нѣ</w>
-                        <w>въ</w>
-                        <w>варѧгы.</w>
-                        <w>а</w>
-                        <w>изъ</w>
-                        <w>ва<lb/>рѧгъ</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>симовь.</w>
-                        <w>а</w>
-                        <w>по</w>
-                        <w>двинѣ <lb/>
-                        </w>
-                        <w>въ</w>
-                        <w>варѧгы,</w>
-                        <w>а</w>
-                        <w>из</w>
-                        <w>варѧгь</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Симовъ,</w>
-                        <w>а</w>
-                        <w>по</w>
-                        <w>Двинѣ</w>
-                        <w>въ</w>
-                        <w>Варяги,</w>
-                        <w>изъ</w>
-                        <w>Варягъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Симовъ,</w>
-                        <w>а</w>
-                        <w>по</w>
-                        <w>Двинѣ</w>
-                        <w>въ</w>
-                        <w>Варягы,</w>
-                        <w>а</w>
-                        <w>изъ</w>
-                        <w>Варягъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Симовъ,</w>
-                        <w>а</w>
-                        <w>по</w>
-                        <w>Двинѣ</w>
-                        <w>въ</w>
-                        <w>Варяги,</w>
-                        <w>изъ</w>
-                        <w>Варягъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>7, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="19"><p>
+<app>
+<lem wit="#lem">
+<w>Симовъ,</w>
+<w>а</w>
+<w>по</w>
+<w>Двинѣ</w>
+<w>въ</w>
+<w>Варягы,</w>
+<w>изъ</w>
+<w>Варягъ</w>
+<w>и</w>
+</lem>
+
+<rdg wit="#lav">
+<w>симовъ.</w>
+<w>а</w>
+<w>по</w>
+<w>двинѣ</w>
+<w>въ</w>
+<w>варѧги.</w>
+<w>изъ <lb/></w>
+
+<w>варѧгъ</w>
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+<w>симовъ</w>
+<w>а</w>
+<w>по</w>
+<w>двинѣ</w>
+<w>в</w>
+<w>варѧ<lb/>гы</w>
+<w>и<milestone unit="sic" n="start"/>дз<milestone unit="sic" n="end"/></w>
+<w>варѧгъ</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>симовь.</w>
+<w>а</w>
+<w>по</w>
+<w>дви<lb/>нѣ</w>
+<w>в</w>
+<w>вареги.</w>
+<w>из</w>
+<w>варегъ</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>симовъ.</w>
+<w>а</w>
+<w>по</w>
+<w>дви<lb/>нѣ</w>
+<w>въ</w>
+<w>варѧгы.</w>
+<w>а</w>
+<w>изъ</w>
+<w>ва<lb/>рѧгъ</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>симовь.</w>
+<w>а</w>
+<w>по</w>
+<w>двинѣ <lb/></w>
+
+<w>въ</w>
+<w>варѧгы,</w>
+<w>а</w>
+<w>из</w>
+<w>варѧгь</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Симовъ,</w>
+<w>а</w>
+<w>по</w>
+<w>Двинѣ</w>
+<w>въ</w>
+<w>Варяги,</w>
+<w>изъ</w>
+<w>Варягъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Симовъ,</w>
+<w>а</w>
+<w>по</w>
+<w>Двинѣ</w>
+<w>въ</w>
+<w>Варягы,</w>
+<w>а</w>
+<w>изъ</w>
+<w>Варягъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Симовъ,</w>
+<w>а</w>
+<w>по</w>
+<w>Двинѣ</w>
+<w>въ</w>
+<w>Варяги,</w>
+<w>изъ</w>
+<w>Варягъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

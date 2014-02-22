@@ -1,106 +1,90 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>224, 1</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="1">
-            <p>
-               <app>
-                  <lem>
-                     <w>не</w>
-                     <w>разумѣхомъ;</w>
-                     <w>куплени</w>
-                     <w>бывъше,</w>
-                     <w>не</w>
-                     <w>поработахомъ;</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>не</w>
-                        <w>разумѣхо<hi rend="sup">м</hi>·</w>
-                        <w>куплени</w>
-                        <w>бы<lb/>вше</w>
-                        <w>не</w>
-                        <w>поработахо<hi rend="sup">м</hi>·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>не</w>
-                        <w>разѹмѣхо<hi rend="sup">м</hi>.</w>
-                        <w>коуплени</w>
-                        <w>бывше</w>
-                        <w>не <lb/>
-                        </w>
-                        <w>работахо<hi rend="sup">м</hi>.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>не</w>
-                        <w>разѹмѣхомъ·</w>
-                        <w>кѹплени</w>
-                        <w>бы·̏вше <lb/>
-                        </w>
-                        <w>не</w>
-                        <w>работахомъ·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>не</w>
-                        <w>разумѣхомъ·</w>
-                        <w>купле<lb/>ни</w>
-                        <w>бывше</w>
-                        <w>не</w>
-                        <w>поработахомъ· <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>не</w>
-                        <w>разоумѣхѡ<hi rend="sup">м</hi>, <lb/>
-                        </w>
-                        <w>кѹплени</w>
-                        <w>бывше</w>
-                        <w>не</w>
-                        <w>поработахо<hi rend="sup">м</hi>.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>не</w>
-                        <w>разумѣхомъ;</w>
-                        <w>куплени</w>
-                        <w>бывше,</w>
-                        <w>не</w>
-                        <w>поработахомъ; 216,13</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>не</w>
-                        <w>разумѣхомъ;</w>
-                        <w>куплени</w>
-                        <w>бывъше,</w>
-                        <w>не</w>
-                        <w>поработахомъ; 282,8</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>не</w>
-                        <w>разумѣхом;</w>
-                        <w>куплени</w>
-                        <w>бывше,</w>
-                        <w>не</w>
-                        <w>поработахом; 146,26</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>224, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="1"><p>
+<app>
+<lem wit="#lem">
+<w>не</w>
+<w>разумѣхомъ;</w>
+<w>куплени</w>
+<w>бывъше,</w>
+<w>не</w>
+<w>поработахомъ;</w>
+</lem>
+
+<rdg wit="#lav">
+<w>не</w>
+<w>разумѣхо<hi rend="sup">м</hi>·</w>
+<w>куплени</w>
+<w>бы<lb/>вше</w>
+<w>не</w>
+<w>поработахо<hi rend="sup">м</hi>·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>не</w>
+<w>разѹмѣхо<hi rend="sup">м</hi>.</w>
+<w>коуплени</w>
+<w>бывше</w>
+<w>не <lb/></w>
+
+<w>работахо<hi rend="sup">м</hi>.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>не</w>
+<w>разѹмѣхомъ·</w>
+<w>кѹплени</w>
+<w>бы·̏вше <lb/></w>
+
+<w>не</w>
+<w>работахомъ·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>не</w>
+<w>разумѣхомъ·</w>
+<w>купле<lb/>ни</w>
+<w>бывше</w>
+<w>не</w>
+<w>поработахомъ· <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>не</w>
+<w>разоумѣхѡ<hi rend="sup">м</hi>, <lb/></w>
+
+<w>кѹплени</w>
+<w>бывше</w>
+<w>не</w>
+<w>поработахо<hi rend="sup">м</hi>.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>не</w>
+<w>разумѣхомъ;</w>
+<w>куплени</w>
+<w>бывше,</w>
+<w>не</w>
+<w>поработахомъ;</w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>не</w>
+<w>разумѣхомъ;</w>
+<w>куплени</w>
+<w>бывъше,</w>
+<w>не</w>
+<w>поработахомъ;</w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>не</w>
+<w>разумѣхом;</w>
+<w>куплени</w>
+<w>бывше,</w>
+<w>не</w>
+<w>поработахом;</w>
+
+</rdg>
+</app></p></div></body></text></TEI>

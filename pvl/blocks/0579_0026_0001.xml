@@ -1,122 +1,107 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>26, 1</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="1">
-            <p>
-               <app>
-                  <lem>
-                     <w>нынѣ</w>
-                     <w>зовомая</w>
-                     <w>Русь.</w>
-                     <w>Симъ</w>
-                     <w>бо</w>
-                     <w>пьрвое</w>
-                     <w>преложены</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>нынѣ</w>
-                        <w>зовомая</w>
-                        <w>русь.</w>
-                        <w>симъ</w>
-                        <w>бо</w>
-                        <w>первое</w>
-                        <w>пре<lb/>ложены</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>ныне</w>
-                        <w>зовомая</w>
-                        <w>русь</w>
-                        <w>симъ</w>
-                        <w>бо</w>
-                        <w>первая</w>
-                        <w>предложены</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>н҃нѣ</w>
-                        <w>зовомая</w>
-                        <w>роусь: <lb/>
-                        </w>
-                        <w>Симъ</w>
-                        <w>бо</w>
-                        <w>первое</w>
-                        <w>преложена</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>н҃нѣ</w>
-                        <w>зовомаа</w>
-                        <w>рѹ<hi rend="sup">с</hi>:·</w>
-                        <w>Симъ</w>
-                        <w>бо</w>
-                        <w>первое</w>
-                        <w>преложе<lb/>на</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>н҃нѣ</w>
-                        <w>зове<lb/>мая</w>
-                        <w>русь.</w>
-                        <w>симъ</w>
-                        <w>пѣрвѣе <lb/>
-                        </w>
-                        <w>положены</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>н҃нѣ <lb/>
-                        </w>
-                        <w>зовомаа</w>
-                        <w>роу<hi rend="sup">с</hi>.</w>
-                        <w>с<hi rend="sup">м</hi>и</w>
-                        <w>бо</w>
-                        <w>пръвое</w>
-                        <w>положены</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>нынѣ</w>
-                        <w>зовомая</w>
-                        <w>Русь.</w>
-                        <w>Симъ</w>
-                        <w>бо</w>
-                        <w>первое</w>
-                        <w>преложены 25,8</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>нынѣ</w>
-                        <w>зовомая</w>
-                        <w>Русь.</w>
-                        <w>Симъ</w>
-                        <w>бо</w>
-                        <w>пьрвое</w>
-                        <w>преложены 26,1</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>нынѣ</w>
-                        <w>зовомая</w>
-                        <w>Русь.</w>
-                        <w>Симъ</w>
-                        <w>бо</w>
-                        <w>первое</w>
-                        <w>преложены 21,30</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>26, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="1"><p>
+<app>
+<lem wit="#lem">
+<w>нынѣ</w>
+<w>зовомая</w>
+<w>Русь.</w>
+<w>Симъ</w>
+<w>бо</w>
+<w>пьрвое</w>
+<w>преложены</w>
+</lem>
+
+<rdg wit="#lav">
+<w>нынѣ</w>
+<w>зовомая</w>
+<w>русь.</w>
+<w>симъ</w>
+<w>бо</w>
+<w>первое</w>
+<w>пре<lb/>ложены</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>ныне</w>
+<w>зовомая</w>
+<w>русь</w>
+<w>симъ</w>
+<w>бо</w>
+<w>первая</w>
+<w>предложены</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>н҃нѣ</w>
+<w>зовомая</w>
+<w>роусь: <lb/></w>
+
+<w>Симъ</w>
+<w>бо</w>
+<w>первое</w>
+<w>преложена</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>н҃нѣ</w>
+<w>зовомаа</w>
+<w>рѹ<hi rend="sup">с</hi>:·</w>
+<w>Симъ</w>
+<w>бо</w>
+<w>первое</w>
+<w>преложе<lb/>на</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>н҃нѣ</w>
+<w>зове<lb/>мая</w>
+<w>русь.</w>
+<w>симъ</w>
+<w>пѣрвѣе <lb/></w>
+
+<w>положены</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>н҃нѣ <lb/></w>
+
+<w>зовомаа</w>
+<w>роу<hi rend="sup">с</hi>.</w>
+<w>с<hi rend="sup">м</hi>и</w>
+<w>бо</w>
+<w>пръвое</w>
+<w>положены</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>нынѣ</w>
+<w>зовомая</w>
+<w>Русь.</w>
+<w>Симъ</w>
+<w>бо</w>
+<w>первое</w>
+<w>преложены</w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>нынѣ</w>
+<w>зовомая</w>
+<w>Русь.</w>
+<w>Симъ</w>
+<w>бо</w>
+<w>пьрвое</w>
+<w>преложены</w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>нынѣ</w>
+<w>зовомая</w>
+<w>Русь.</w>
+<w>Симъ</w>
+<w>бо</w>
+<w>первое</w>
+<w>преложены</w>
+
+</rdg>
+</app></p></div></body></text></TEI>

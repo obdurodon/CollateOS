@@ -1,88 +1,71 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>115, 22</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="22">
-            <p>
-               <app>
-                  <lem>
-                     <w>Алексаньдриискыи,</w>
-                     <w>Федоритъ</w>
-                     <w>Антиохиискыи,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ѡле<lb/>ксаньдрьскии.</w>
-                        <w>федоритъ</w>
-                        <w>антиѡхьскии.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>александрьскии.</w>
-                        <w>фе<hi rend="sup">д</hi> 
-                           <lb/>
-                        </w>
-                        <w>антиѡхиискыи.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>александрѣискїи.</w>
-                        <w>ѳеѡдоръ</w>
-                        <w>антїѡхѣ<lb/>искїи.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>алекса<lb/>ндрѣискыи.</w>
-                        <w>феѡдоръ.</w>
-                        <w>анти<lb/>ѡхиѡхиискыи.</w>
-                     </rdg>
-                     <rdg wit="#xle"/>
-                     <rdg wit="#kom">
-                        <w>александрѣискии</w>
-                        <w>феодорит</w>
-                        <w>антиохиискыи</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>александрескии</w>
-                        <w>феодорит</w>
-                        <w>антиохиискии</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>александрескыи</w>
-                        <w>феодорит</w>
-                        <w>антиохиискии</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Олексаньдрьский,</w>
-                        <w>Федоритъ</w>
-                        <w>Антиохийскый,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Алексаньдриискыи,</w>
-                        <w>Федоритъ</w>
-                        <w>Антиохиискыи,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Олексаньдрьский,</w>
-                        <w>Федоритъ</w>
-                        <w>Антиохийскый,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>115, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="22"><p>
+<app>
+<lem wit="#lem">
+<w>Алексаньдриискыи,</w>
+<w>Федоритъ</w>
+<w>Антиохиискыи,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ѡле<lb/>ксаньдрьскии.</w>
+<w>федоритъ</w>
+<w>антиѡхьскии.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>александрьскии.</w>
+<w>фе<hi rend="sup">д</hi><lb/>ръ</w>
+<w>антиѡхиискыи.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>александрѣискїи.</w>
+<w>ѳеѡдоръ</w>
+<w>антїѡхѣ<lb/>искїи.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>алекса<lb/>ндрѣискыи.</w>
+<w>феѡдоръ.</w>
+<w>анти<lb/>ѡхиѡхиискыи.</w>
+</rdg>
+
+<rdg wit="#xle">
+</rdg>
+
+<rdg wit="#kom">
+<w>александрѣискии</w>
+<w>феодорит</w>
+<w>антиохиискыи</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>александрескии</w>
+<w>феодорит</w>
+<w>антиохиискии</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>александрескыи</w>
+<w>феодорит</w>
+<w>антиохиискии</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Олексаньдрьский,</w>
+<w>Федоритъ</w>
+<w>Антиохийскый,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Алексаньдриискыи,</w>
+<w>Федоритъ</w>
+<w>Антиохиискыи,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Олексаньдрьский,</w>
+<w>Федоритъ</w>
+<w>Антиохийскый,</w>
+</rdg>
+</app></p></div></body></text></TEI>

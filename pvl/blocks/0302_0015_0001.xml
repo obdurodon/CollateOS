@@ -1,110 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>15, 1</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="1">
-            <p>
-               <app>
-                  <lem>
-                     <w>Върахмане</w>
-                     <w>и</w>
-                     <w>Островици,</w>
-                     <w>иже</w>
-                     <w>отъ</w>
-                     <w>прадѣдъ</w>
-                     <w>показаниемь</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>вра<lb/>хмане</w>
-                        <w>и</w>
-                        <w>ѡстровьници.</w>
-                        <w>ѥже</w>
-                        <w>ѿ</w>
-                        <w>прадѣдъ</w>
-                        <w>пок<hi rend="sup">з</hi>а<hi rend="sup">а</hi>нь<lb/>емь.</w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad">
-                        <w>върахме<hi rend="sup">х</hi>
-                        </w>
-                        <w>ѡстро<lb/>вници.</w>
-                        <w>иже</w>
-                        <w>ѿ</w>
-                        <w>предѣлъ</w>
-                        <w>показание<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>върахме<hi rend="sup">х</hi>
-                        </w>
-                        <w>ѡстро<lb/>внїци.</w>
-                        <w>иже</w>
-                        <w>ѿ</w>
-                        <w>предѣлъ</w>
-                        <w>показанїемь</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>върахмане.</w>
-                        <w>и</w>
-                        <w>ѡстрови<lb/>
-                        </w>
-                        <w>
-                           <sic>ц</sic>и.</w>
-                        <w>иже</w>
-                        <w>ѿ</w>
-                        <w>прадѣдъ</w>
-                        <w>
-                           <sic>предѣлъ</sic>
-                        </w>
-                        <w>пока<lb/>заньемь</w>
-                     </rdg>
-                     <rdg wit="#xle"/>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Врахмане</w>
-                        <w>и</w>
-                        <w>островьници,</w>
-                        <w>еже</w>
-                        <w>отъ</w>
-                        <w>прадѣдъ</w>
-                        <w>наказаньемъ 14,2</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Врахмане</w>
-                        <w>и</w>
-                        <w>Островьници,</w>
-                        <w>еже</w>
-                        <w>отъ</w>
-                        <w>прадѣдъ</w>
-                        <w>показаниемь 14,6</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>врахманеи</w>
-                        <w>островьници,</w>
-                        <w>еже</w>
-                        <w>от</w>
-                        <w>прадѣдъ</w>
-                        <w>показаньемъ 15,22</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>15, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="1"><p>
+<app>
+<lem wit="#lem">
+<w>Върахмане</w>
+<w>и</w>
+<w>Островици,</w>
+<w>иже</w>
+<w>отъ</w>
+<w>прадѣдъ</w>
+<w>показаниемь</w>
+</lem>
+
+<rdg wit="#lav">
+<w>вра<lb/>хмане</w>
+<w>и</w>
+<w>ѡстровьници.</w>
+<w>ѥже</w>
+<w>ѿ</w>
+<w>прадѣдъ</w>
+<w>пок<hi rend="sup">з</hi>а<hi rend="sup">а</hi>нь<lb/>емь.</w>
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+<w>върахме<hi rend="sup">х</hi></w>
+<w>ѡстро<lb/>вници.</w>
+<w>иже</w>
+<w>ѿ</w>
+<w>предѣлъ</w>
+<w>показание<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>върахме<hi rend="sup">х</hi></w>
+<w>ѡстро<lb/>внїци.</w>
+<w>иже</w>
+<w>ѿ</w>
+<w>предѣлъ</w>
+<w>показанїемь</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>върахмане.</w>
+<w>и</w>
+<w>ѡстрови<lb/><milestone unit="sic" n="start"/>ц<milestone unit="sic" n="end"/>и.</w>
+<w>иже</w>
+<w>ѿ</w>
+<w>прадѣдъ</w>
+<w><milestone unit="sic" n="start"/>предѣлъ<milestone unit="sic" n="end"/></w>
+<w>пока<lb/>заньемь</w>
+</rdg>
+
+<rdg wit="#xle">
+</rdg>
+
+<rdg wit="#bych">
+<w>Врахмане</w>
+<w>и</w>
+<w>островьници,</w>
+<w>еже</w>
+<w>отъ</w>
+<w>прадѣдъ</w>
+<w>наказаньемъ</w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>Врахмане</w>
+<w>и</w>
+<w>Островьници,</w>
+<w>еже</w>
+<w>отъ</w>
+<w>прадѣдъ</w>
+<w>показаниемь</w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>врахманеи</w>
+<w>островьници,</w>
+<w>еже</w>
+<w>от</w>
+<w>прадѣдъ</w>
+<w>показаньемъ</w>
+
+</rdg>
+</app></p></div></body></text></TEI>

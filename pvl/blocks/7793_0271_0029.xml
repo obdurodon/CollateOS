@@ -1,108 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>271, 29</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="29">
-            <p>
-               <app>
-                  <lem>
-                     <w>него</w>
-                     <w>Берстияне,</w>
-                     <w>Пиняне,</w>
-                     <w>Выгошевьци.</w>
-                     <w>И</w>
-                     <w>ста</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>него</w>
-                        <w>берстья<lb/>не·</w>
-                        <w>пинѧне·</w>
-                        <w>выгошевци·</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>ста</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>не<hi rend="sup">г</hi>
-                        </w>
-                        <w>берестьяне·</w>
-                        <w>пинѧне·</w>
-                        <w>выгошевци·</w>
-                        <w>и</w>
-                        <w>ста</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>него</w>
-                        <w>бересть<lb/>яне</w>
-                        <w>пинѧне·</w>
-                        <w>выгошевци·</w>
-                        <w>и</w>
-                        <w>ста</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>него</w>
-                        <w>берестьяне</w>
-                        <w>и</w>
-                        <w>пинѧни· <lb/>
-                        </w>
-                        <w>вышегоро<hi rend="sup">д</hi>ци·</w>
-                        <w>и</w>
-                        <w>ста</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>него,</w>
-                        <w>берестїане,</w>
-                        <w>и</w>
-                        <w>пинѧне,</w>
-                        <w>и</w>
-                        <w>выше<lb/>горѡ<hi rend="sup">д</hi>ци.</w>
-                        <w>и</w>
-                        <w>ста</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>него</w>
-                        <w>Берстьяне,</w>
-                        <w>Пиняне,</w>
-                        <w>Выгошевци;</w>
-                        <w>и</w>
-                        <w>ста</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>него</w>
-                        <w>Берстияне,</w>
-                        <w>Пиняне,</w>
-                        <w>Выгошевьци.</w>
-                        <w>И</w>
-                        <w>ста</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>него</w>
-                        <w>берстьяне,</w>
-                        <w>пиняне,</w>
-                        <w>выгошевци.</w>
-                        <w>И</w>
-                        <w>ста</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="29"><p>
+<app>
+<lem wit="#lem">
+<w>него</w>
+<w>Берстияне,</w>
+<w>Пиняне,</w>
+<w>Выгошевьци.</w>
+<w>И</w>
+<w>ста</w>
+</lem>
+
+<rdg wit="#lav">
+<w>него</w>
+<w>берстья<lb/>не·</w>
+<w>пинѧне·</w>
+<w>выгошевци·</w>
+<w>и <lb/></w>
+
+<w>ста</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>не<hi rend="sup">г</hi></w>
+<w>берестьяне·</w>
+<w>пинѧне·</w>
+<w>выгошевци·</w>
+<w>и</w>
+<w>ста</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>него</w>
+<w>бересть<lb/>яне</w>
+<w>пинѧне·</w>
+<w>выгошевци·</w>
+<w>и</w>
+<w>ста</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>него</w>
+<w>берестьяне</w>
+<w>и</w>
+<w>пинѧни· <lb/></w>
+
+<w>вышегоро<hi rend="sup">д</hi>ци·</w>
+<w>и</w>
+<w>ста</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>него,</w>
+<w>берестїане,</w>
+<w>и</w>
+<w>пинѧне,</w>
+<w>и</w>
+<w>выше<lb/>горѡ<hi rend="sup">д</hi>ци.</w>
+<w>и</w>
+<w>ста</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>него</w>
+<w>Берстьяне,</w>
+<w>Пиняне,</w>
+<w>Выгошевци;</w>
+<w>и</w>
+<w>ста</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>него</w>
+<w>Берстияне,</w>
+<w>Пиняне,</w>
+<w>Выгошевьци.</w>
+<w>И</w>
+<w>ста</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>него</w>
+<w>берстьяне,</w>
+<w>пиняне,</w>
+<w>выгошевци.</w>
+<w>И</w>
+<w>ста</w>
+</rdg>
+</app></p></div></body></text></TEI>

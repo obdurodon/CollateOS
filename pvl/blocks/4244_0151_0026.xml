@@ -1,104 +1,79 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>151, 26</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="26">
-            <p>
-               <app>
-                  <lem>
-                     <w>почаша</w>
-                     <w>мъножитися,</w>
-                     <w>и</w>
-                     <w>манастыреве</w>
-                     <w>починаху</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>почаша</w>
-                        <w>множитисѧ. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>манастыреве</w>
-                        <w>починаху <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>почаша</w>
-                        <w>множити<hi rend="sup">с</hi>.</w>
-                        <w>и</w>
-                        <w>монастыреве</w>
-                        <w>починахоу</w>
-                        <w>
-                           <pb n="87v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>почаша</w>
-                        <w>множитисѧ.</w>
-                        <w>и</w>
-                        <w>монастыреве</w>
-                        <w>починахѹ</w>
-                        <w>
-                           <pb n="79v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>поча</w>
-                        <w>множитисѧ.</w>
-                        <w>и</w>
-                        <w>манасты<lb/>реве</w>
-                        <w>почаху</w>
-                        <w>
-                           <pb n="57a"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>начаша</w>
-                        <w>мнѡжитисѧ.</w>
-                        <w>и</w>
-                        <w>мо<lb/>настыреве</w>
-                        <w>починахѫ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>почаша</w>
-                        <w>множитися,</w>
-                        <w>и</w>
-                        <w>манастыреве</w>
-                        <w>починаху</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>почаша</w>
-                        <w>мъножитися,</w>
-                        <w>и</w>
-                        <w>манастыреве</w>
-                        <w>починаху</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>почаша</w>
-                        <w>множитися,</w>
-                        <w>и</w>
-                        <w>манастыреве</w>
-                        <w>починаху</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>151, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="26"><p>
+<app>
+<lem wit="#lem">
+<w>почаша</w>
+<w>мъножитися,</w>
+<w>и</w>
+<w>манастыреве</w>
+<w>починаху</w>
+</lem>
+
+<rdg wit="#lav">
+<w>почаша</w>
+<w>множитисѧ. <lb/></w>
+
+<w>и</w>
+<w>манастыреве</w>
+<w>починаху <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>почаша</w>
+<w>множити<hi rend="sup">с</hi>.</w>
+<w>и</w>
+<w>монастыреве</w>
+<w>починахоу <pb n="87v"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>почаша</w>
+<w>множитисѧ.</w>
+<w>и</w>
+<w>монастыреве</w>
+<w>починахѹ <pb n="79v"/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>поча</w>
+<w>множитисѧ.</w>
+<w>и</w>
+<w>манасты<lb/>реве</w>
+<w>почаху <pb n="57a"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>начаша</w>
+<w>мнѡжитисѧ.</w>
+<w>и</w>
+<w>мо<lb/>настыреве</w>
+<w>починахѫ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>почаша</w>
+<w>множитися,</w>
+<w>и</w>
+<w>манастыреве</w>
+<w>починаху</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>почаша</w>
+<w>мъножитися,</w>
+<w>и</w>
+<w>манастыреве</w>
+<w>починаху</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>почаша</w>
+<w>множитися,</w>
+<w>и</w>
+<w>манастыреве</w>
+<w>починаху</w>
+</rdg>
+</app></p></div></body></text></TEI>

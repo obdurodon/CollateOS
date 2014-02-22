@@ -1,130 +1,106 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>270, 3</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="3">
-            <p>
-               <app>
-                  <lem>
-                     <w>семь,</w>
-                     <w>яко</w>
-                     <w>“На</w>
-                     <w>Давыда</w>
-                     <w>пришьлъ</w>
-                     <w>есмь,</w>
-                     <w>а</w>
-                     <w>съ</w>
-                     <w>вама</w>
-                     <w>хощю</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>се<hi rend="sup">м</hi>
-                        </w>
-                        <w>яко</w>
-                        <w>на</w>
-                        <w>двд҃а</w>
-                        <w>пришелъ <lb/>
-                        </w>
-                        <w>есмъ·</w>
-                        <w>а</w>
-                        <w>с</w>
-                        <w>вама</w>
-                        <w>хочю</w>
-                     </rdg>
-                     <rdg wit="#rad"/>
-                     <rdg wit="#aka"/>
-                     <rdg wit="#ipa">
-                        <w>и</w>
-                        <w>двд҃у</w>
-                        <w>рѣша</w>
-                        <w>ц<hi rend="sup">н</hi>ѣ<hi rend="sup">а</hi>лова<hi rend="sup">н</hi>
-                        </w>
-                        <w>
-                           <add place="margin">приш<hi rend="sup">л</hi>е еси</add>
-                        </w>
-                        <w>и</w>
-                        <w>ре<hi rend="sup">ч</hi>
-                        </w>
-                        <w>дв҃дъ· <lb/>
-                        </w>
-                        <w>пришелъ·</w>
-                        <w>есмь·</w>
-                        <w>а</w>
-                        <w>с</w>
-                        <w>вама</w>
-                        <w>хо<lb/>щю</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>се<hi rend="sup">м</hi>.</w>
-                        <w>яко</w>
-                        <w>на</w>
-                        <w>дв҃да</w>
-                        <w>пришелъ</w>
-                        <w>есмъ.</w>
-                        <w>а</w>
-                        <w>с</w>
-                        <w>вама</w>
-                        <w>хощю</w>
-                        <w>
-                           <pb n="115v"/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>семъ,</w>
-                        <w>“яко</w>
-                        <w>на</w>
-                        <w>Давыда</w>
-                        <w>пришелъ</w>
-                        <w>есмъ,</w>
-                        <w>а</w>
-                        <w>с</w>
-                        <w>вама</w>
-                        <w>хочю</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>семь,</w>
-                        <w>яко</w>
-                        <w>“на</w>
-                        <w>Давыда</w>
-                        <w>пришьлъ</w>
-                        <w>есмь,</w>
-                        <w>а</w>
-                        <w>съ</w>
-                        <w>вама</w>
-                        <w>хощю</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>сем,</w>
-                        <w>яко</w>
-                        <w>“На</w>
-                        <w>Давыда</w>
-                        <w>пришелъ</w>
-                        <w>есмъ,</w>
-                        <w>а</w>
-                        <w>с</w>
-                        <w>вама</w>
-                        <w>хочю</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="3"><p>
+<app>
+<lem wit="#lem">
+<w>семь,</w>
+<w>яко</w>
+<w>“На</w>
+<w>Давыда</w>
+<w>пришьлъ</w>
+<w>есмь,</w>
+<w>а</w>
+<w>съ</w>
+<w>вама</w>
+<w>хощю</w>
+</lem>
+
+<rdg wit="#lav">
+<w>се<hi rend="sup">м</hi></w>
+<w>яко</w>
+<w>на</w>
+<w>двд҃а</w>
+<w>пришелъ <lb/></w>
+
+<w>есмъ·</w>
+<w>а</w>
+<w>с</w>
+<w>вама</w>
+<w>хочю</w>
+</rdg>
+
+<rdg wit="#rad">
+</rdg>
+
+<rdg wit="#aka">
+</rdg>
+
+<rdg wit="#ipa">
+<w>и</w>
+<w>двд҃у</w>
+<w>рѣша</w>
+<w>ц<hi rend="sup">н</hi>ѣ<hi rend="sup">а</hi>лова<hi rend="sup">н</hi><milestone unit="add" n="start" place="margin"/>приш<hi rend="sup">л</hi>е</w>
+<w>еси<milestone unit="add" n="end"/></w>
+<w>и</w>
+<w>ре<hi rend="sup">ч</hi></w>
+<w>дв҃дъ· <lb/></w>
+
+<w>пришелъ·</w>
+<w>есмь·</w>
+<w>а</w>
+<w>с</w>
+<w>вама</w>
+<w>хо<lb/>щю</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>се<hi rend="sup">м</hi>.</w>
+<w>яко</w>
+<w>на</w>
+<w>дв҃да</w>
+<w>пришелъ</w>
+<w>есмъ.</w>
+<w>а</w>
+<w>с</w>
+<w>вама</w>
+<w>хощю <pb n="115v"/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>семъ,</w>
+<w>“яко</w>
+<w>на</w>
+<w>Давыда</w>
+<w>пришелъ</w>
+<w>есмъ,</w>
+<w>а</w>
+<w>с</w>
+<w>вама</w>
+<w>хочю</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>семь,</w>
+<w>яко</w>
+<w>“на</w>
+<w>Давыда</w>
+<w>пришьлъ</w>
+<w>есмь,</w>
+<w>а</w>
+<w>съ</w>
+<w>вама</w>
+<w>хощю</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>сем,</w>
+<w>яко</w>
+<w>“На</w>
+<w>Давыда</w>
+<w>пришелъ</w>
+<w>есмъ,</w>
+<w>а</w>
+<w>с</w>
+<w>вама</w>
+<w>хочю</w>
+</rdg>
+</app></p></div></body></text></TEI>

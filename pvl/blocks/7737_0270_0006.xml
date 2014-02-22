@@ -1,105 +1,81 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>270, 6</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="6">
-            <p>
-               <app>
-                  <lem>
-                     <w>на</w>
-                     <w>поли</w>
-                     <w>на</w>
-                     <w>Рожьни.</w>
-                     <w>Испълчивъшимъ</w>
-                     <w>ся</w>
-                     <w>обоимъ,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>на</w>
-                        <w>поли</w>
-                        <w>на <lb/>
-                        </w>
-                        <w>
-                           <lb/> ...</w>
-                        <w>
-                           <sic>...</sic>рожни·</w>
-                        <w>исполчивши<hi rend="sup">м</hi>сѧ</w>
-                        <w>ѡбои<hi rend="sup">м</hi>· <lb/>
-                        </w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#rad"/>
-                     <rdg wit="#aka"/>
-                     <rdg wit="#ipa">
-                        <w>на</w>
-                        <w>поли</w>
-                        <w>на·</w>
-                        <w>жьни·</w>
-                        <w>исполчившимъ·<lb/>сѧ</w>
-                        <w>имъ</w>
-                        <w>ѡбоимъ</w>
-                        <w>
-                           <pb n="92d"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>на</w>
-                        <w>поли</w>
-                        <w>на</w>
-                        <w>ро<hi rend="sup">ж</hi>ни. <lb/>
-                        </w>
-                        <w>испол′чив′шимсѧ</w>
-                        <w>и<hi rend="sup">м</hi>
-                        </w>
-                        <w>ѡбои<hi rend="sup">м</hi>.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>на</w>
-                        <w>поли</w>
-                        <w>на</w>
-                        <w>Рожни,</w>
-                        <w>исполчившимся</w>
-                        <w>обоимъ,</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>на</w>
-                        <w>поли</w>
-                        <w>на</w>
-                        <w>Рожьни.</w>
-                        <w>Испълчивъшемъся</w>
-                        <w>имъ</w>
-                        <w>обоимъ,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>на</w>
-                        <w>поли</w>
-                        <w>на</w>
-                        <w>Рожни,</w>
-                        <w>исполчившимся</w>
-                        <w>обоим,</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="6"><p>
+<app>
+<lem wit="#lem">
+<w>на</w>
+<w>поли</w>
+<w>на</w>
+<w>Рожьни.</w>
+<w>Испълчивъшимъ</w>
+<w>ся</w>
+<w>обоимъ,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>на</w>
+<w>поли</w>
+<w>на <lb/><milestone unit="sic" n="start"/>...<milestone unit="sic" n="end"/>рожни·</w>
+
+<w>исполчивши<hi rend="sup">м</hi>сѧ</w>
+<w>ѡбои<hi rend="sup">м</hi>· <lb/></w>
+
+<w>и</w>
+</rdg>
+
+<rdg wit="#rad">
+</rdg>
+
+<rdg wit="#aka">
+</rdg>
+
+<rdg wit="#ipa">
+<w>на</w>
+<w>поли</w>
+<w>на·</w>
+<w>жьни·</w>
+<w>исполчившимъ·<lb/>сѧ</w>
+<w>имъ</w>
+<w>ѡбоимъ <pb n="92d"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>на</w>
+<w>поли</w>
+<w>на</w>
+<w>ро<hi rend="sup">ж</hi>ни. <lb/></w>
+
+<w>испол′чив′шимсѧ</w>
+<w>и<hi rend="sup">м</hi></w>
+<w>ѡбои<hi rend="sup">м</hi>.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>на</w>
+<w>поли</w>
+<w>на</w>
+<w>Рожни,</w>
+<w>исполчившимся</w>
+<w>обоимъ,</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>на</w>
+<w>поли</w>
+<w>на</w>
+<w>Рожьни.</w>
+<w>Испълчивъшемъся</w>
+<w>имъ</w>
+<w>обоимъ,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>на</w>
+<w>поли</w>
+<w>на</w>
+<w>Рожни,</w>
+<w>исполчившимся</w>
+<w>обоим,</w>
+<w>и</w>
+</rdg>
+</app></p></div></body></text></TEI>

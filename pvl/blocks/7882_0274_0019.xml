@@ -1,118 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>274, 19</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="19">
-            <p>
-               <app>
-                  <lem>
-                     <w>буди</w>
-                     <w>вама</w>
-                     <w>Перемышль.</w>
-                     <w>Да</w>
-                     <w>аще</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>буди</w>
-                        <w>ва<hi rend="sup">м</hi> 
-                           <lb/>
-                        </w>
-                        <w>ѥдина</w>
-                        <w>власть</w>
-                        <w>перемышль· <lb/>
-                        </w>
-                        <w>да</w>
-                        <w>аще</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>бо<hi rend="sup">д</hi>у<hi rend="sup">и</hi>
-                        </w>
-                        <w>ваю</w>
-                        <w>едина</w>
-                        <w>вла<hi rend="sup">с</hi>ть. <lb/>
-                        </w>
-                        <w>перемышль·</w>
-                        <w>да<hi rend="sup">ч</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>бѹди</w>
-                        <w>ваю</w>
-                        <w>едина <lb/>
-                        </w>
-                        <w>власть·</w>
-                        <w>перемы·̏шль·</w>
-                        <w>да</w>
-                        <w>с</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>буди <lb/>
-                        </w>
-                        <w>ва<sic>
-                              <hi rend="sup">м</hi>
-                           </sic>
-                        </w>
-                        <w>перемышль</w>
-                        <w>да<sic>
-                              <hi rend="sup">а</hi>
-                           </sic>че</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>б<hi rend="sup">д</hi>ѫ<hi rend="sup">ї</hi>
-                        </w>
-                        <w>ва<hi rend="sup">м</hi>
-                        </w>
-                        <w>перемышль.</w>
-                        <w>да</w>
-                        <w>что</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>буди</w>
-                        <w>вама</w>
-                        <w>едина</w>
-                        <w>власть,</w>
-                        <w>Перемышль;</w>
-                        <w>да</w>
-                        <w>аще</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>буди</w>
-                        <w>вама</w>
-                        <w>едина</w>
-                        <w>власть,</w>
-                        <w>Перемышль;</w>
-                        <w>да</w>
-                        <w>аще</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>буди</w>
-                        <w>вама</w>
-                        <w>едина</w>
-                        <w>власть,</w>
-                        <w>Перемышль.</w>
-                        <w>Да</w>
-                        <w>аще</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>274, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="19"><p>
+<app>
+<lem wit="#lem">
+<w>буди</w>
+<w>вама</w>
+<w>Перемышль.</w>
+<w>Да</w>
+<w>аще</w>
+</lem>
+
+<rdg wit="#lav">
+<w>буди</w>
+<w>ва<hi rend="sup">м</hi><lb/></w>
+<w>ѥдина</w>
+<w>власть</w>
+<w>перемышль· <lb/></w>
+
+<w>да</w>
+<w>аще</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>бо<hi rend="sup">д</hi>у<hi rend="sup">и</hi></w>
+<w>ваю</w>
+<w>едина</w>
+<w>вла<hi rend="sup">с</hi>ть. <lb/></w>
+
+<w>перемышль·</w>
+<w>да<hi rend="sup">ч</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>бѹди</w>
+<w>ваю</w>
+<w>едина <lb/></w>
+
+<w>власть·</w>
+<w>перемы·̏шль·</w>
+<w>да</w>
+<w>с</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>буди <lb/></w>
+
+<w>ва<milestone unit="sic" n="start"/><hi rend="sup">м</hi><milestone unit="sic" n="end"/></w>
+<w>перемышль</w>
+<w>да<milestone unit="sic" n="start"/><hi rend="sup">а</hi><milestone unit="sic" n="end"/>че</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>б<hi rend="sup">д</hi>ѫ<hi rend="sup">ї</hi></w>
+<w>ва<hi rend="sup">м</hi></w>
+<w>перемышль.</w>
+<w>да</w>
+<w>что</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>буди</w>
+<w>вама</w>
+<w>едина</w>
+<w>власть,</w>
+<w>Перемышль;</w>
+<w>да</w>
+<w>аще</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>буди</w>
+<w>вама</w>
+<w>едина</w>
+<w>власть,</w>
+<w>Перемышль;</w>
+<w>да</w>
+<w>аще</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>буди</w>
+<w>вама</w>
+<w>едина</w>
+<w>власть,</w>
+<w>Перемышль.</w>
+<w>Да</w>
+<w>аще</w>
+</rdg>
+</app></p></div></body></text></TEI>

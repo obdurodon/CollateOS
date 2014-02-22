@@ -1,129 +1,104 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>265, 18</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="18">
-            <p>
-               <app>
-                  <lem>
-                     <w>хощеши</w>
-                     <w>посълати</w>
-                     <w>мужа</w>
-                     <w>своего,</w>
-                     <w>и</w>
-                     <w>воротить</w>
-                     <w>ся</w>
-                     <w>Володимиръ,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>хощеши</w>
-                        <w>послати</w>
-                        <w>мужь</w>
-                        <w>свои·</w>
-                        <w>и</w>
-                        <w>во<lb/>ротит</w>
-                        <w>сѧ</w>
-                        <w>володимеръ·</w>
-                        <w>
-                           <pb n="89c"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>хощеши</w>
-                        <w>послати</w>
-                        <w>моу<hi rend="sup">ж</hi>
-                        </w>
-                        <w>своі· <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>воротить<hi rend="sup">с</hi>
-                        </w>
-                        <w>воло<hi rend="sup">д</hi>меръ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>хощеши</w>
-                        <w>послати</w>
-                        <w>мѹжь</w>
-                        <w>свои·</w>
-                        <w>и</w>
-                        <w>воротить</w>
-                        <w>сѧ</w>
-                        <w>володимиръ·</w>
-                        <w>
-                           <pb n="132r"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>хощеши</w>
-                        <w>посла<lb/>ти</w>
-                        <w>мужа</w>
-                        <w>своего·</w>
-                        <w>и</w>
-                        <w>воротит</w>
-                        <w>сѧ <lb/>
-                        </w>
-                        <w>володимеръ·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>хощеши</w>
-                        <w>к</w>
-                        <w>вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>мероу</w>
-                        <w>послати <lb/>
-                        </w>
-                        <w>мѫжа</w>
-                        <w>своего,</w>
-                        <w>и</w>
-                        <w>воротит</w>
-                        <w>сѧ</w>
-                        <w>въл<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>меръ.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>хощеши</w>
-                        <w>послати</w>
-                        <w>мужь</w>
-                        <w>свой,</w>
-                        <w>и</w>
-                        <w>воротится</w>
-                        <w>Володимеръ,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>хощеши</w>
-                        <w>посълати</w>
-                        <w>мужь</w>
-                        <w>свои,</w>
-                        <w>и</w>
-                        <w>воротиться</w>
-                        <w>Володимеръ,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>хощеши</w>
-                        <w>послати</w>
-                        <w>мужь</w>
-                        <w>свой,</w>
-                        <w>и</w>
-                        <w>воротится</w>
-                        <w>Володимеръ,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>265, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="18"><p>
+<app>
+<lem wit="#lem">
+<w>хощеши</w>
+<w>посълати</w>
+<w>мужа</w>
+<w>своего,</w>
+<w>и</w>
+<w>воротить</w>
+<w>ся</w>
+<w>Володимиръ,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>хощеши</w>
+<w>послати</w>
+<w>мужь</w>
+<w>свои·</w>
+<w>и</w>
+<w>во<lb/>ротит</w>
+<w>сѧ</w>
+<w>володимеръ· <pb n="89c"/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>хощеши</w>
+<w>послати</w>
+<w>моу<hi rend="sup">ж</hi></w>
+<w>своі· <lb/></w>
+
+<w>и</w>
+<w>воротить<hi rend="sup">с</hi></w>
+<w>воло<hi rend="sup">д</hi>меръ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>хощеши</w>
+<w>послати</w>
+<w>мѹжь</w>
+<w>свои·</w>
+<w>и</w>
+<w>воротить</w>
+<w>сѧ</w>
+<w>володимиръ· <pb n="132r"/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>хощеши</w>
+<w>посла<lb/>ти</w>
+<w>мужа</w>
+<w>своего·</w>
+<w>и</w>
+<w>воротит</w>
+<w>сѧ <lb/></w>
+
+<w>володимеръ·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>хощеши</w>
+<w>к</w>
+<w>вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>мероу</w>
+<w>послати <lb/></w>
+
+<w>мѫжа</w>
+<w>своего,</w>
+<w>и</w>
+<w>воротит</w>
+<w>сѧ</w>
+<w>въл<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>меръ.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>хощеши</w>
+<w>послати</w>
+<w>мужь</w>
+<w>свой,</w>
+<w>и</w>
+<w>воротится</w>
+<w>Володимеръ,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>хощеши</w>
+<w>посълати</w>
+<w>мужь</w>
+<w>свои,</w>
+<w>и</w>
+<w>воротиться</w>
+<w>Володимеръ,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>хощеши</w>
+<w>послати</w>
+<w>мужь</w>
+<w>свой,</w>
+<w>и</w>
+<w>воротится</w>
+<w>Володимеръ,</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,122 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>279, 17</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="17">
-            <p>
-               <app>
-                  <lem>
-                     <w>нъ</w>
-                     <w>проливашете</w>
-                     <w>кръвь</w>
-                     <w>хрьстияньску?</w>
-                     <w>Да</w>
-                     <w>се</w>
-                     <w>буди</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>но <lb/>
-                        </w>
-                        <w>проливаше<hi rend="sup">т</hi>
-                        </w>
-                        <w>кровь</w>
-                        <w>х<hi rend="sup">с</hi>ьяньску· <lb/>
-                        </w>
-                        <w>да</w>
-                        <w>се</w>
-                        <w>буди</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>но</w>
-                        <w>про<lb/>ливали</w>
-                        <w>есть</w>
-                        <w>кровь</w>
-                        <w>хр<hi rend="sup">с</hi>тьянескѹю.</w>
-                        <w>да</w>
-                        <w>се</w>
-                        <w>бѹди</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>но <lb/>
-                        </w>
-                        <w>проливали</w>
-                        <w>есте</w>
-                        <w>кровь</w>
-                        <w>хр<hi rend="sup">с</hi>тьяньскѹю·</w>
-                        <w>да</w>
-                        <w>се</w>
-                        <w>бѹ<lb/>ди</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>но</w>
-                        <w>пролива<lb/>
-                        </w>
-                        <w>
-                           <sic>ш</sic>ете</w>
-                        <w>кровь</w>
-                        <w>хрестьяньску·</w>
-                        <w>да <lb/>
-                        </w>
-                        <w>се</w>
-                        <w>буди</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>но</w>
-                        <w>проливаша</w>
-                        <w>кръвъ</w>
-                        <w>хр<hi rend="sup">с</hi>тїан′скоую.</w>
-                        <w>да</w>
-                        <w>се</w>
-                        <w>б<hi rend="sup">д</hi>ѫ<hi rend="sup">ї</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>но</w>
-                        <w>проливашеть</w>
-                        <w>кровь</w>
-                        <w>хрестьяньску?</w>
-                        <w>да</w>
-                        <w>се</w>
-                        <w>буди</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>нъ</w>
-                        <w>проливашете</w>
-                        <w>кръвь</w>
-                        <w>хрьстияньску?</w>
-                        <w>Да</w>
-                        <w>се</w>
-                        <w>буди</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>но</w>
-                        <w>проливашеть</w>
-                        <w>кровь</w>
-                        <w>хрестьяньску?</w>
-                        <w>Да</w>
-                        <w>се</w>
-                        <w>буди</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>279, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="17"><p>
+<app>
+<lem wit="#lem">
+<w>нъ</w>
+<w>проливашете</w>
+<w>кръвь</w>
+<w>хрьстияньску?</w>
+<w>Да</w>
+<w>се</w>
+<w>буди</w>
+</lem>
+
+<rdg wit="#lav">
+<w>но <lb/></w>
+
+<w>проливаше<hi rend="sup">т</hi></w>
+<w>кровь</w>
+<w>х<hi rend="sup">с</hi>ьяньску· <lb/></w>
+
+<w>да</w>
+<w>се</w>
+<w>буди</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>но</w>
+<w>про<lb/>ливали</w>
+<w>есть</w>
+<w>кровь</w>
+<w>хр<hi rend="sup">с</hi>тьянескѹю.</w>
+<w>да</w>
+<w>се</w>
+<w>бѹди</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>но <lb/></w>
+
+<w>проливали</w>
+<w>есте</w>
+<w>кровь</w>
+<w>хр<hi rend="sup">с</hi>тьяньскѹю·</w>
+<w>да</w>
+<w>се</w>
+<w>бѹ<lb/>ди</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>но</w>
+<w>пролива<lb/><milestone unit="sic" n="start"/>ш<milestone unit="sic" n="end"/>ете</w>
+<w>кровь</w>
+<w>хрестьяньску·</w>
+<w>да <lb/></w>
+
+<w>се</w>
+<w>буди</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>но</w>
+<w>проливаша</w>
+<w>кръвъ</w>
+<w>хр<hi rend="sup">с</hi>тїан′скоую.</w>
+<w>да</w>
+<w>се</w>
+<w>б<hi rend="sup">д</hi>ѫ<hi rend="sup">ї</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>но</w>
+<w>проливашеть</w>
+<w>кровь</w>
+<w>хрестьяньску?</w>
+<w>да</w>
+<w>се</w>
+<w>буди</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>нъ</w>
+<w>проливашете</w>
+<w>кръвь</w>
+<w>хрьстияньску?</w>
+<w>Да</w>
+<w>се</w>
+<w>буди</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>но</w>
+<w>проливашеть</w>
+<w>кровь</w>
+<w>хрестьяньску?</w>
+<w>Да</w>
+<w>се</w>
+<w>буди</w>
+</rdg>
+</app></p></div></body></text></TEI>

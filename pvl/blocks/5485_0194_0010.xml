@@ -1,127 +1,105 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>194, 10</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="10">
-            <p>
-               <app>
-                  <lem>
-                     <w>се</w>
-                     <w>сътвори</w>
-                     <w>около</w>
-                     <w>его.</w>
-                     <w>Се</w>
-                     <w>же</w>
-                     <w>бысть</w>
-                     <w>дивьно</w>
-                     <w>чюдьно;</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>се</w>
-                        <w>сотвори</w>
-                        <w>ѡколо</w>
-                        <w>его.</w>
-                        <w>се</w>
-                        <w>же</w>
-                        <w>бы<hi rend="sup">с</hi> 
-                           <lb/>
-                        </w>
-                        <w>дивно</w>
-                        <w>чю<hi rend="sup">д</hi>но</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>се</w>
-                        <w>сътвори</w>
-                        <w>ѡколо</w>
-                        <w>его.</w>
-                        <w>се</w>
-                        <w>же <lb/>
-                        </w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>дивно</w>
-                        <w>чюдно.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ство<lb/>ри</w>
-                        <w>се</w>
-                        <w>ѡколо</w>
-                        <w>его.</w>
-                        <w>се</w>
-                        <w>же</w>
-                        <w>бы<hi rend="sup">с</hi>.</w>
-                        <w>чю<lb/>дно</w>
-                        <w>и</w>
-                        <w>дивно.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>се</w>
-                        <w>твори</w>
-                        <w>около <lb/>
-                        </w>
-                        <w>его.</w>
-                        <w>се</w>
-                        <w>же</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>дивно</w>
-                        <w>и</w>
-                        <w>чюдно.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>се</w>
-                        <w>сотвори</w>
-                        <w>около</w>
-                        <w>его.</w>
-                        <w>Се</w>
-                        <w>же</w>
-                        <w>бысть</w>
-                        <w>дивно</w>
-                        <w>чюдно:</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>се</w>
-                        <w>сътвори</w>
-                        <w>около</w>
-                        <w>его.</w>
-                        <w>Се</w>
-                        <w>же</w>
-                        <w>бысть</w>
-                        <w>дивьно</w>
-                        <w>чюдьно:</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>се</w>
-                        <w>сотвори</w>
-                        <w>около</w>
-                        <w>его.</w>
-                        <w>Се</w>
-                        <w>же</w>
-                        <w>бысть</w>
-                        <w>дивно</w>
-                        <w>чюдно;</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>194, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="10"><p>
+<app>
+<lem wit="#lem">
+<w>се</w>
+<w>сътвори</w>
+<w>около</w>
+<w>его.</w>
+<w>Се</w>
+<w>же</w>
+<w>бысть</w>
+<w>дивьно</w>
+<w>чюдьно;</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>се</w>
+<w>сотвори</w>
+<w>ѡколо</w>
+<w>его.</w>
+<w>се</w>
+<w>же</w>
+<w>бы<hi rend="sup">с</hi><lb/></w>
+<w>дивно</w>
+<w>чю<hi rend="sup">д</hi>но</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>се</w>
+<w>сътвори</w>
+<w>ѡколо</w>
+<w>его.</w>
+<w>се</w>
+<w>же <lb/></w>
+
+<w>бы<hi rend="sup">с</hi></w>
+<w>дивно</w>
+<w>чюдно.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ство<lb/>ри</w>
+<w>се</w>
+<w>ѡколо</w>
+<w>его.</w>
+<w>се</w>
+<w>же</w>
+<w>бы<hi rend="sup">с</hi>.</w>
+<w>чю<lb/>дно</w>
+<w>и</w>
+<w>дивно.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>се</w>
+<w>твори</w>
+<w>около <lb/></w>
+
+<w>его.</w>
+<w>се</w>
+<w>же</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>дивно</w>
+<w>и</w>
+<w>чюдно.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>се</w>
+<w>сотвори</w>
+<w>около</w>
+<w>его.</w>
+<w>Се</w>
+<w>же</w>
+<w>бысть</w>
+<w>дивно</w>
+<w>чюдно:</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>се</w>
+<w>сътвори</w>
+<w>около</w>
+<w>его.</w>
+<w>Се</w>
+<w>же</w>
+<w>бысть</w>
+<w>дивьно</w>
+<w>чюдьно:</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>се</w>
+<w>сотвори</w>
+<w>около</w>
+<w>его.</w>
+<w>Се</w>
+<w>же</w>
+<w>бысть</w>
+<w>дивно</w>
+<w>чюдно;</w>
+</rdg>
+</app></p></div></body></text></TEI>

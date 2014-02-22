@@ -1,77 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>4, 16</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="16">
-            <p>
-               <app>
-                  <lem>
-                     <w>племеньмъ</w>
-                     <w>Хамовъмь.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>пл<sic>емѧнемъ хамов<hi rend="sup">м</hi>ы<hi rend="sup">ъ</hi>
-                           </sic>.</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>племенемъ</w>
-                        <w>хамовымъ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>племен<hi rend="sup">м</hi>е</w>
-                        <w>хамовы<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>племенемъ</w>
-                        <w>хамовымъ. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>племен<hi rend="sup">м</hi>е <lb/>
-                        </w>
-                        <w>хамовомъ.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>племен<hi rend="sup">м</hi>е <lb/>
-                        </w>
-                        <w>
-                           <sic>съ</sic>
-                        </w>
-                        <w>хамовы<hi rend="sup">м</hi>.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>племянемъ</w>
-                        <w>Хамовымъ.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>племеньмь</w>
-                        <w>Хамовъмь.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>племянемъ</w>
-                        <w>хамовым.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>4, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="16"><p>
+<app>
+<lem wit="#lem">
+<w>племеньмъ</w>
+<w>Хамовъмь.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>пл<milestone unit="sic" n="start"/>емѧнемъ</w>
+<w>хамов<hi rend="sup">м</hi>ы<hi rend="sup">ъ</hi><milestone unit="sic" n="end"/>.</w>
+
+</rdg>
+
+<rdg wit="#tro">
+<w>племенемъ</w>
+<w>хамовымъ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>племен<hi rend="sup">м</hi>е</w>
+<w>хамовы<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>племенемъ</w>
+<w>хамовымъ. <lb/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>племен<hi rend="sup">м</hi>е <lb/></w>
+
+<w>хамовомъ.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>племен<hi rend="sup">м</hi>е <lb/><milestone unit="sic" n="start"/>съ<milestone unit="sic" n="end"/></w>
+
+<w>хамовы<hi rend="sup">м</hi>.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>племянемъ</w>
+<w>Хамовымъ.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>племеньмь</w>
+<w>Хамовъмь.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>племянемъ</w>
+<w>хамовым.</w>
+</rdg>
+</app></p></div></body></text></TEI>

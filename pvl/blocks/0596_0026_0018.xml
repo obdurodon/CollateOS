@@ -1,120 +1,101 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>26, 18</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="18">
-            <p>
-               <app>
-                  <lem>
-                     <w>“Есть</w>
-                     <w>мужь</w>
-                     <w>въ</w>
-                     <w>Селуни,</w>
-                     <w>именьмь</w>
-                     <w>Львъ,</w>
-                     <w>и</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>есть</w>
-                        <w>мужь</w>
-                        <w>в</w>
-                        <w>селуни</w>
-                        <w>и<lb/>менемъ</w>
-                        <w>левъ.</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>есть</w>
-                        <w>мужъ</w>
-                        <w>в</w>
-                        <w>селуни</w>
-                        <w>именемъ</w>
-                        <w>левъ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>е</w>
-                        <w>моуже</w>
-                        <w>в</w>
-                        <w>селоуни</w>
-                        <w>именемъ</w>
-                        <w>левъ.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>есть</w>
-                        <w>мѹ<lb/>жь</w>
-                        <w>в</w>
-                        <w>селѹни</w>
-                        <w>именемь</w>
-                        <w>левь.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>есть</w>
-                        <w>мужь <lb/>
-                        </w>
-                        <w>в</w>
-                        <w>селуни.</w>
-                        <w>именемь</w>
-                        <w>ле<lb/>въ.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>е<hi rend="sup">с</hi>
-                        </w>
-                        <w>мѫжь</w>
-                        <w>в</w>
-                        <w>селоуни</w>
-                        <w>именемь <lb/>
-                        </w>
-                        <w>левь.</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>“есть</w>
-                        <w>мужь</w>
-                        <w>в</w>
-                        <w>Селуни,</w>
-                        <w>именемъ</w>
-                        <w>Левъ,</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>“есть</w>
-                        <w>мужь</w>
-                        <w>въ</w>
-                        <w>Селуни,</w>
-                        <w>именьмь</w>
-                        <w>Львъ,</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>“Есть</w>
-                        <w>мужь</w>
-                        <w>в</w>
-                        <w>Селуни,</w>
-                        <w>именемъ</w>
-                        <w>Левъ.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>26, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="18"><p>
+<app>
+<lem wit="#lem">
+<w>“Есть</w>
+<w>мужь</w>
+<w>въ</w>
+<w>Селуни,</w>
+<w>именьмь</w>
+<w>Львъ,</w>
+<w>и</w>
+</lem>
+
+<rdg wit="#lav">
+<w>есть</w>
+<w>мужь</w>
+<w>в</w>
+<w>селуни</w>
+<w>и<lb/>менемъ</w>
+<w>левъ.</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>есть</w>
+<w>мужъ</w>
+<w>в</w>
+<w>селуни</w>
+<w>именемъ</w>
+<w>левъ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>е</w>
+<w>моуже</w>
+<w>в</w>
+<w>селоуни</w>
+<w>именемъ</w>
+<w>левъ.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>есть</w>
+<w>мѹ<lb/>жь</w>
+<w>в</w>
+<w>селѹни</w>
+<w>именемь</w>
+<w>левь.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>есть</w>
+<w>мужь <lb/></w>
+
+<w>в</w>
+<w>селуни.</w>
+<w>именемь</w>
+<w>ле<lb/>въ.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>е<hi rend="sup">с</hi></w>
+<w>мѫжь</w>
+<w>в</w>
+<w>селоуни</w>
+<w>именемь <lb/></w>
+
+<w>левь.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>“есть</w>
+<w>мужь</w>
+<w>в</w>
+<w>Селуни,</w>
+<w>именемъ</w>
+<w>Левъ,</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>“есть</w>
+<w>мужь</w>
+<w>въ</w>
+<w>Селуни,</w>
+<w>именьмь</w>
+<w>Львъ,</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>“Есть</w>
+<w>мужь</w>
+<w>в</w>
+<w>Селуни,</w>
+<w>именемъ</w>
+<w>Левъ.</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,125 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>123, 11</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="11">
-            <p>
-               <app>
-                  <lem>
-                     <w>горяче,</w>
-                     <w>и</w>
-                     <w>пустиша</w>
-                     <w>быка.</w>
-                     <w>И</w>
-                     <w>побѣже</w>
-                     <w>быкъ</w>
-                     <w>мимо</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>
-                           <sic>го</sic> 
-                           <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>быка</w>
-                        <w>пустиша.</w>
-                        <w>и</w>
-                        <w>побѣ<lb/>же</w>
-                        <w>быкъ</w>
-                        <w>мимо</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>горѧча.</w>
-                        <w>и</w>
-                        <w>пѹстиша</w>
-                        <w>быка.</w>
-                        <w>и</w>
-                        <w>по<lb/>беже</w>
-                        <w>быкъ</w>
-                        <w>мимо</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>горѧча.</w>
-                        <w>и</w>
-                        <w>пѹ<lb/>стиша</w>
-                        <w>быка.</w>
-                        <w>и</w>
-                        <w>побѣже</w>
-                        <w>быкъ</w>
-                        <w>мимо</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>горѧче.</w>
-                        <w>и</w>
-                        <w>пустиша <lb/>
-                        </w>
-                        <w>
-                           <sic>вола</sic>.</w>
-                        <w>и</w>
-                        <w>побѣже</w>
-                        <w>
-                           <sic>волъ</sic>
-                        </w>
-                        <w>мимо <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>горѧче,</w>
-                        <w>и</w>
-                        <w>поустиша</w>
-                        <w>быка</w>
-                        <w>мимо</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>горяча,</w>
-                        <w>и</w>
-                        <w>быка</w>
-                        <w>пустиша,</w>
-                        <w>и</w>
-                        <w>побѣже</w>
-                        <w>быкъ</w>
-                        <w>мимо</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>горяча,</w>
-                        <w>и</w>
-                        <w>быка</w>
-                        <w>пустиша.</w>
-                        <w>И</w>
-                        <w>побѣже</w>
-                        <w>быкъ</w>
-                        <w>мимо</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>горяча,</w>
-                        <w>и</w>
-                        <w>быка</w>
-                        <w>пустиша.</w>
-                        <w>И</w>
-                        <w>побѣже</w>
-                        <w>быкъ</w>
-                        <w>мимо</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>123, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="11"><p>
+<app>
+<lem wit="#lem">
+<w>горяче,</w>
+<w>и</w>
+<w>пустиша</w>
+<w>быка.</w>
+<w>И</w>
+<w>побѣже</w>
+<w>быкъ</w>
+<w>мимо</w>
+</lem>
+
+<rdg wit="#lav">
+<w><milestone unit="sic" n="start"/>го<milestone unit="sic" n="end"/><lb/>рѧча.</w>
+<w>и</w>
+<w>быка</w>
+<w>пустиша.</w>
+<w>и</w>
+<w>побѣ<lb/>же</w>
+<w>быкъ</w>
+<w>мимо</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>горѧча.</w>
+<w>и</w>
+<w>пѹстиша</w>
+<w>быка.</w>
+<w>и</w>
+<w>по<lb/>беже</w>
+<w>быкъ</w>
+<w>мимо</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>горѧча.</w>
+<w>и</w>
+<w>пѹ<lb/>стиша</w>
+<w>быка.</w>
+<w>и</w>
+<w>побѣже</w>
+<w>быкъ</w>
+<w>мимо</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>горѧче.</w>
+<w>и</w>
+<w>пустиша <lb/><milestone unit="sic" n="start"/>вола<milestone unit="sic" n="end"/>.</w>
+
+<w>и</w>
+<w>побѣже</w>
+<w><milestone unit="sic" n="start"/>волъ<milestone unit="sic" n="end"/></w>
+<w>мимо <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>горѧче,</w>
+<w>и</w>
+<w>поустиша</w>
+<w>быка</w>
+<w>мимо</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>горяча,</w>
+<w>и</w>
+<w>быка</w>
+<w>пустиша,</w>
+<w>и</w>
+<w>побѣже</w>
+<w>быкъ</w>
+<w>мимо</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>горяча,</w>
+<w>и</w>
+<w>быка</w>
+<w>пустиша.</w>
+<w>И</w>
+<w>побѣже</w>
+<w>быкъ</w>
+<w>мимо</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>горяча,</w>
+<w>и</w>
+<w>быка</w>
+<w>пустиша.</w>
+<w>И</w>
+<w>побѣже</w>
+<w>быкъ</w>
+<w>мимо</w>
+</rdg>
+</app></p></div></body></text></TEI>

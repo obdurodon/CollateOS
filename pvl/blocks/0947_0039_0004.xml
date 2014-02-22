@@ -1,115 +1,95 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>39, 4</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="4">
-            <p>
-               <app>
-                  <lem>
-                     <w>живъ”.</w>
-                     <w>И</w>
-                     <w>повелѣ</w>
-                     <w>осѣдьлати</w>
-                     <w>конь:</w>
-                     <w>“Атъ</w>
-                     <w>вижю</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>
-                           <hi rend="sup">ж</hi>въ:·</w>
-                        <w>И</w>
-                        <w>повелѣ</w>
-                        <w>ѡседлати</w>
-                        <w>конь.</w>
-                        <w>а</w>
-                        <w>то</w>
-                        <w>вижю</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>живъ:·</w>
-                        <w>И</w>
-                        <w>повелѣ</w>
-                        <w>ѡседлати</w>
-                        <w>собѣ</w>
-                        <w>конь.</w>
-                        <w>атъ <lb/>
-                        </w>
-                        <w>вижю</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>живъ.</w>
-                        <w>и</w>
-                        <w>по<lb/>велѣ</w>
-                        <w>ѡсѣдлати</w>
-                        <w>конь.</w>
-                        <w>да <lb/>
-                        </w>
-                        <w>ть</w>
-                        <w>вижю</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>живь.</w>
-                        <w>и</w>
-                        <w>повелѣ</w>
-                        <w>ѡседлати</w>
-                        <w>ко<hi rend="sup">н</hi>
-                        </w>
-                        <w>ать</w>
-                        <w>вижѹ <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>живъ”.</w>
-                        <w>И</w>
-                        <w>повелѣ</w>
-                        <w>оседлати</w>
-                        <w>конь:</w>
-                        <w>“а</w>
-                        <w>то</w>
-                        <w>вижю</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>живъ”.</w>
-                        <w>И</w>
-                        <w>повелѣ</w>
-                        <w>оседьлати</w>
-                        <w>си</w>
-                        <w>конь:</w>
-                        <w>“да</w>
-                        <w>ти</w>
-                        <w>вижю</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>живъ”.</w>
-                        <w>И</w>
-                        <w>повелѣ</w>
-                        <w>оседлати</w>
-                        <w>конь:</w>
-                        <w>“А</w>
-                        <w>то</w>
-                        <w>вижю</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>39, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="4"><p>
+<app>
+<lem wit="#lem">
+<w>живъ”.</w>
+<w>И</w>
+<w>повелѣ</w>
+<w>осѣдьлати</w>
+<w>конь:</w>
+<w>“Атъ</w>
+<w>вижю</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w><hi rend="sup">ж</hi>въ:·</w>
+<w>И</w>
+<w>повелѣ</w>
+<w>ѡседлати</w>
+<w>конь.</w>
+<w>а</w>
+<w>то</w>
+<w>вижю</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>живъ:·</w>
+<w>И</w>
+<w>повелѣ</w>
+<w>ѡседлати</w>
+<w>собѣ</w>
+<w>конь.</w>
+<w>атъ <lb/></w>
+
+<w>вижю</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>живъ.</w>
+<w>и</w>
+<w>по<lb/>велѣ</w>
+<w>ѡсѣдлати</w>
+<w>конь.</w>
+<w>да <lb/></w>
+
+<w>ть</w>
+<w>вижю</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>живь.</w>
+<w>и</w>
+<w>повелѣ</w>
+<w>ѡседлати</w>
+<w>ко<hi rend="sup">н</hi></w>
+<w>ать</w>
+<w>вижѹ <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>живъ”.</w>
+<w>И</w>
+<w>повелѣ</w>
+<w>оседлати</w>
+<w>конь:</w>
+<w>“а</w>
+<w>то</w>
+<w>вижю</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>живъ”.</w>
+<w>И</w>
+<w>повелѣ</w>
+<w>оседьлати</w>
+<w>си</w>
+<w>конь:</w>
+<w>“да</w>
+<w>ти</w>
+<w>вижю</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>живъ”.</w>
+<w>И</w>
+<w>повелѣ</w>
+<w>оседлати</w>
+<w>конь:</w>
+<w>“А</w>
+<w>то</w>
+<w>вижю</w>
+</rdg>
+</app></p></div></body></text></TEI>

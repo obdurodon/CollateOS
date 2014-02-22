@@ -1,119 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>42, 19</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="19">
-            <p>
-               <app>
-                  <lem>
-                     <w>ся</w>
-                     <w>реть</w>
-                     <w>имуть,</w>
-                     <w>отъидоша</w>
-                     <w>въ</w>
-                     <w>своя</w>
-                     <w>си,</w>
-                     <w>а</w>
-                     <w>Българе</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>сѧ</w>
-                        <w>рѣ<hi rend="sup">ч</hi>
-                        </w>
-                        <w>имѹть.</w>
-                        <w>ѿидоша</w>
-                        <w>въ</w>
-                        <w>своасы.</w>
-                        <w>а</w>
-                        <w>болгаре <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>сѧ</w>
-                        <w>рѣ<hi rend="sup">т</hi> 
-                           <lb/>
-                        </w>
-                        <w>имѹть.</w>
-                        <w>ѿидоша</w>
-                        <w>во</w>
-                        <w>свояси.</w>
-                        <w>а</w>
-                        <w>болгаре</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>сѧ</w>
-                        <w>реть</w>
-                        <w>имуть.</w>
-                        <w>ѿидоша</w>
-                        <w>въ</w>
-                        <w>свояси.</w>
-                        <w>а</w>
-                        <w>болгаре <lb/>
-                        </w>
-                        <w>
-                           <pb n="17a"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>сѧ</w>
-                        <w>ре<hi rend="sup">т</hi>
-                        </w>
-                        <w>имоу<hi rend="sup">т</hi>,</w>
-                        <w>ѿидоша</w>
-                        <w>въ</w>
-                        <w>своаси.</w>
-                        <w>А</w>
-                        <w>бо<hi rend="sup">л</hi>га<lb/>ре</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>ся</w>
-                        <w>рать</w>
-                        <w>имуть,</w>
-                        <w>отъидоша</w>
-                        <w>въсвоасы,</w>
-                        <w>а</w>
-                        <w>Болгаре</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>ся</w>
-                        <w>реть</w>
-                        <w>имуть,</w>
-                        <w>отъидоша</w>
-                        <w>въ</w>
-                        <w>свояси,</w>
-                        <w>а</w>
-                        <w>Българе</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>ся</w>
-                        <w>рѣть</w>
-                        <w>имуть,</w>
-                        <w>отъидоша</w>
-                        <w>въсвоасы,</w>
-                        <w>а</w>
-                        <w>болгаре</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>42, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="19"><p>
+<app>
+<lem wit="#lem">
+<w>ся</w>
+<w>реть</w>
+<w>имуть,</w>
+<w>отъидоша</w>
+<w>въ</w>
+<w>своя</w>
+<w>си,</w>
+<w>а</w>
+<w>Българе</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>сѧ</w>
+<w>рѣ<hi rend="sup">ч</hi></w>
+<w>имѹть.</w>
+<w>ѿидоша</w>
+<w>въ</w>
+<w>своасы.</w>
+<w>а</w>
+<w>болгаре <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>сѧ</w>
+<w>рѣ<hi rend="sup">т</hi><lb/></w>
+<w>имѹть.</w>
+<w>ѿидоша</w>
+<w>во</w>
+<w>свояси.</w>
+<w>а</w>
+<w>болгаре</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>сѧ</w>
+<w>реть</w>
+<w>имуть.</w>
+<w>ѿидоша</w>
+<w>въ</w>
+<w>свояси.</w>
+<w>а</w>
+<w>болгаре <lb/><pb n="17a"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>сѧ</w>
+<w>ре<hi rend="sup">т</hi></w>
+<w>имоу<hi rend="sup">т</hi>,</w>
+<w>ѿидоша</w>
+<w>въ</w>
+<w>своаси.</w>
+<w>А</w>
+<w>бо<hi rend="sup">л</hi>га<lb/>ре</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>ся</w>
+<w>рать</w>
+<w>имуть,</w>
+<w>отъидоша</w>
+<w>въсвоасы,</w>
+<w>а</w>
+<w>Болгаре</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>ся</w>
+<w>реть</w>
+<w>имуть,</w>
+<w>отъидоша</w>
+<w>въ</w>
+<w>свояси,</w>
+<w>а</w>
+<w>Българе</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>ся</w>
+<w>рѣть</w>
+<w>имуть,</w>
+<w>отъидоша</w>
+<w>въсвоасы,</w>
+<w>а</w>
+<w>болгаре</w>
+</rdg>
+</app></p></div></body></text></TEI>

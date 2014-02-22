@@ -1,114 +1,93 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>52, 7</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="7">
-            <p>
-               <app>
-                  <lem>
-                     <w>въ</w>
-                     <w>толико</w>
-                     <w>же</w>
-                     <w>проданъ</w>
-                     <w>будеть,</w>
-                     <w>яко</w>
-                     <w>да</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>в</w>
-                        <w>только</w>
-                        <w>же</w>
-                        <w>про<lb/>данъ</w>
-                        <w>будеть.</w>
-                        <w>яко</w>
-                        <w>да</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>в</w>
-                        <w>толико</w>
-                        <w>проданъ</w>
-                        <w>боу<hi rend="sup">д</hi>ть.</w>
-                        <w>яко</w>
-                        <w>да</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>в</w>
-                        <w>толко</w>
-                        <w>продань</w>
-                        <w>бѹдеть. <lb/>
-                        </w>
-                        <w>яко</w>
-                        <w>даже</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>въ <lb/>
-                        </w>
-                        <w>толко</w>
-                        <w>же</w>
-                        <w>и</w>
-                        <w>проданъ</w>
-                        <w>будеть. <lb/>
-                        </w>
-                        <w>яко</w>
-                        <w>да</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>в</w>
-                        <w>толико<hi rend="sup">ж</hi>
-                        </w>
-                        <w>и</w>
-                        <w>прода<hi rend="sup">н</hi>
-                        </w>
-                        <w>бѭде<hi rend="sup">т</hi>.</w>
-                        <w>яко</w>
-                        <w>да</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>в</w>
-                        <w>только</w>
-                        <w>же</w>
-                        <w>проданъ</w>
-                        <w>будеть,</w>
-                        <w>яко</w>
-                        <w>да</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>въ</w>
-                        <w>толикоже</w>
-                        <w>проданъ</w>
-                        <w>будеть,</w>
-                        <w>яко</w>
-                        <w>да</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>в</w>
-                        <w>только</w>
-                        <w>же</w>
-                        <w>проданъ</w>
-                        <w>будеть,</w>
-                        <w>яко</w>
-                        <w>да</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>52, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="7"><p>
+<app>
+<lem wit="#lem">
+<w>въ</w>
+<w>толико</w>
+<w>же</w>
+<w>проданъ</w>
+<w>будеть,</w>
+<w>яко</w>
+<w>да</w>
+</lem>
+
+<rdg wit="#lav">
+<w>в</w>
+<w>только</w>
+<w>же</w>
+<w>про<lb/>данъ</w>
+<w>будеть.</w>
+<w>яко</w>
+<w>да</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>в</w>
+<w>толико</w>
+<w>проданъ</w>
+<w>боу<hi rend="sup">д</hi>ть.</w>
+<w>яко</w>
+<w>да</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>в</w>
+<w>толко</w>
+<w>продань</w>
+<w>бѹдеть. <lb/></w>
+
+<w>яко</w>
+<w>даже</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>въ <lb/></w>
+
+<w>толко</w>
+<w>же</w>
+<w>и</w>
+<w>проданъ</w>
+<w>будеть. <lb/></w>
+
+<w>яко</w>
+<w>да</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>в</w>
+<w>толико<hi rend="sup">ж</hi></w>
+<w>и</w>
+<w>прода<hi rend="sup">н</hi></w>
+<w>бѭде<hi rend="sup">т</hi>.</w>
+<w>яко</w>
+<w>да</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>в</w>
+<w>только</w>
+<w>же</w>
+<w>проданъ</w>
+<w>будеть,</w>
+<w>яко</w>
+<w>да</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>въ</w>
+<w>толикоже</w>
+<w>проданъ</w>
+<w>будеть,</w>
+<w>яко</w>
+<w>да</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>в</w>
+<w>только</w>
+<w>же</w>
+<w>проданъ</w>
+<w>будеть,</w>
+<w>яко</w>
+<w>да</w>
+</rdg>
+</app></p></div></body></text></TEI>

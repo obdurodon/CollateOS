@@ -1,123 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>136, 21</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="21">
-            <p>
-               <app>
-                  <lem>
-                     <w>именьмь</w>
-                     <w>Търчинъ,</w>
-                     <w>вынезъ</w>
-                     <w>ножь,</w>
-                     <w>зарѣза</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>именемь</w>
-                        <w>торчинъ.</w>
-                        <w>выне<lb/>зъ</w>
-                        <w>ножь</w>
-                        <w>зарѣза</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>име<lb/>немъ</w>
-                        <w>торчинъ.</w>
-                        <w>вынзе</w>
-                        <w>но<hi rend="sup">ж</hi>
-                        </w>
-                        <w>и</w>
-                        <w>зарѣза</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>именемь</w>
-                        <w>торчинъ. <lb/>
-                        </w>
-                        <w>вынзе</w>
-                        <w>ножь</w>
-                        <w>и</w>
-                        <w>зарѣза</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>именемь</w>
-                        <w>торчинъ.</w>
-                        <w>выньзъ <lb/>
-                        </w>
-                        <w>ножь.</w>
-                        <w>зарѣза</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>имене<hi rend="sup">м</hi>
-                        </w>
-                        <w>торчинь,</w>
-                        <w>выне<hi rend="sup">з</hi> 
-                           <lb/>
-                        </w>
-                        <w>ножь</w>
-                        <w>и</w>
-                        <w>зарѣза</w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>именемь</w>
-                        <w>торчинъ</w>
-                        <w>иземь</w>
-                        <w>ножь</w>
-                        <w>зарѣза</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>именемь</w>
-                        <w>торчинъ</w>
-                        <w>въземъ</w>
-                        <w>ножь</w>
-                        <w>зарѣза</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>именемь</w>
-                        <w>торчинъ</w>
-                        <w>вземъ</w>
-                        <w>ножь</w>
-                        <w>зарѣза</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>именемь</w>
-                        <w>Торчинъ,</w>
-                        <w>вынезъ</w>
-                        <w>ножь,</w>
-                        <w>зарѣза</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>именьмь</w>
-                        <w>Търчинъ,</w>
-                        <w>вынезъ</w>
-                        <w>ножь,</w>
-                        <w>зарѣза</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>именемь</w>
-                        <w>Торчинъ,</w>
-                        <w>вынезъ</w>
-                        <w>ножь,</w>
-                        <w>зарѣза</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>136, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="21"><p>
+<app>
+<lem wit="#lem">
+<w>именьмь</w>
+<w>Търчинъ,</w>
+<w>вынезъ</w>
+<w>ножь,</w>
+<w>зарѣза</w>
+</lem>
+
+<rdg wit="#lav">
+<w>именемь</w>
+<w>торчинъ.</w>
+<w>выне<lb/>зъ</w>
+<w>ножь</w>
+<w>зарѣза</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>име<lb/>немъ</w>
+<w>торчинъ.</w>
+<w>вынзе</w>
+<w>но<hi rend="sup">ж</hi></w>
+<w>и</w>
+<w>зарѣза</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>именемь</w>
+<w>торчинъ. <lb/></w>
+
+<w>вынзе</w>
+<w>ножь</w>
+<w>и</w>
+<w>зарѣза</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>именемь</w>
+<w>торчинъ.</w>
+<w>выньзъ <lb/></w>
+
+<w>ножь.</w>
+<w>зарѣза</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>имене<hi rend="sup">м</hi></w>
+<w>торчинь,</w>
+<w>выне<hi rend="sup">з</hi><lb/></w>
+<w>ножь</w>
+<w>и</w>
+<w>зарѣза</w>
+</rdg>
+
+<rdg wit="#kom">
+<w>именемь</w>
+<w>торчинъ</w>
+<w>иземь</w>
+<w>ножь</w>
+<w>зарѣза</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>именемь</w>
+<w>торчинъ</w>
+<w>въземъ</w>
+<w>ножь</w>
+<w>зарѣза</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>именемь</w>
+<w>торчинъ</w>
+<w>вземъ</w>
+<w>ножь</w>
+<w>зарѣза</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>именемь</w>
+<w>Торчинъ,</w>
+<w>вынезъ</w>
+<w>ножь,</w>
+<w>зарѣза</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>именьмь</w>
+<w>Търчинъ,</w>
+<w>вынезъ</w>
+<w>ножь,</w>
+<w>зарѣза</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>именемь</w>
+<w>Торчинъ,</w>
+<w>вынезъ</w>
+<w>ножь,</w>
+<w>зарѣза</w>
+</rdg>
+</app></p></div></body></text></TEI>

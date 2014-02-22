@@ -1,120 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>63, 24</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="24">
-            <p>
-               <app>
-                  <lem>
-                     <w>моя</w>
-                     <w>сему</w>
-                     <w>смѣяти</w>
-                     <w>ся</w>
-                     <w>начьнуть”.</w>
-                     <w>Она</w>
-                     <w>же</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>сему <lb/>
-                        </w>
-                        <w>смѣятисѧ</w>
-                        <w>начнуть.</w>
-                        <w>ѡна</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>моа</w>
-                        <w>сему</w>
-                        <w>сме<sic>ѧ</sic>тисѧ</w>
-                        <w>начнеть.</w>
-                        <w>ѡна<hi rend="sup">ж</hi> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>моа</w>
-                        <w>семѹ</w>
-                        <w>сме<lb/>ятисѧ</w>
-                        <w>начнѹть.</w>
-                        <w>ѡна</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>моя</w>
-                        <w>сему</w>
-                        <w>смѣяти<hi rend="sup">с</hi> 
-                           <lb/>
-                        </w>
-                        <w>начну<hi rend="sup">т</hi>.</w>
-                        <w>ѡна</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>моѧ</w>
-                        <w>семоу</w>
-                        <w>смѣатисѧ <lb/>
-                        </w>
-                        <w>начноу<hi rend="sup">т</hi>.</w>
-                        <w>ѡна<hi rend="sup">ж</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>смѣятися</w>
-                        <w>начнуть</w>
-                        <w>и</w>
-                        <w>ругатися</w>
-                        <w>олга</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>смѣятися</w>
-                        <w>начнуть</w>
-                        <w>она</w>
-                        <w>же</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>моа</w>
-                        <w>сему</w>
-                        <w>смѣятися</w>
-                        <w>начнуть.”</w>
-                        <w>Она</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>сему</w>
-                        <w>смѣятися</w>
-                        <w>начьнуть”.</w>
-                        <w>Она</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>моа</w>
-                        <w>сему</w>
-                        <w>смѣятися</w>
-                        <w>начнуть”.</w>
-                        <w>Она</w>
-                        <w>же</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>63, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="24"><p>
+<app>
+<lem wit="#lem">
+<w>моя</w>
+<w>сему</w>
+<w>смѣяти</w>
+<w>ся</w>
+<w>начьнуть”.</w>
+<w>Она</w>
+<w>же</w>
+</lem>
+
+<rdg wit="#lav">
+<w>сему <lb/></w>
+
+<w>смѣятисѧ</w>
+<w>начнуть.</w>
+<w>ѡна</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>моа</w>
+<w>сему</w>
+<w>сме<milestone unit="sic" n="start"/>ѧ<milestone unit="sic" n="end"/>тисѧ</w>
+<w>начнеть.</w>
+<w>ѡна<hi rend="sup">ж</hi><lb/></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>моа</w>
+<w>семѹ</w>
+<w>сме<lb/>ятисѧ</w>
+<w>начнѹть.</w>
+<w>ѡна</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>моя</w>
+<w>сему</w>
+<w>смѣяти<hi rend="sup">с</hi><lb/></w>
+<w>начну<hi rend="sup">т</hi>.</w>
+<w>ѡна</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>моѧ</w>
+<w>семоу</w>
+<w>смѣатисѧ <lb/></w>
+
+<w>начноу<hi rend="sup">т</hi>.</w>
+<w>ѡна<hi rend="sup">ж</hi></w>
+</rdg>
+
+<rdg wit="#kom">
+<w>смѣятися</w>
+<w>начнуть</w>
+<w>и</w>
+<w>ругатися</w>
+<w>олга</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>смѣятися</w>
+<w>начнуть</w>
+<w>она</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>моа</w>
+<w>сему</w>
+<w>смѣятися</w>
+<w>начнуть.”</w>
+<w>Она</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>сему</w>
+<w>смѣятися</w>
+<w>начьнуть”.</w>
+<w>Она</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>моа</w>
+<w>сему</w>
+<w>смѣятися</w>
+<w>начнуть”.</w>
+<w>Она</w>
+<w>же</w>
+</rdg>
+</app></p></div></body></text></TEI>

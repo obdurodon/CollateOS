@@ -1,126 +1,107 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>102, 19</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="19">
-            <p>
-               <app>
-                  <lem>
-                     <w>кънижьникы</w>
-                     <w>и</w>
-                     <w>старьца</w>
-                     <w>людьскыя,</w>
-                     <w>въпрашаше:</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>книжникі <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>старци</w>
-                        <w>людьския.</w>
-                        <w>и</w>
-                        <w>въпраша</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>кни<hi rend="sup">ж</hi> 
-                           <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>старци</w>
-                        <w>лю<hi rend="sup">д</hi>скыа.</w>
-                        <w>и</w>
-                        <w>въпраша</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>кнїжни<lb/>ки.</w>
-                        <w>и</w>
-                        <w>старци</w>
-                        <w>людьскїа.</w>
-                        <w>вопрашаше</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>книжникы</w>
-                        <w>и</w>
-                        <w>ста<lb/>рци</w>
-                        <w>людьскыя.</w>
-                        <w>въпраша<lb/>ше</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>книжникы</w>
-                        <w>и</w>
-                        <w>старци</w>
-                        <w>лю<hi rend="sup">д</hi>скыа,</w>
-                        <w>и</w>
-                        <w>въпрошааш<sic>е</sic>
-                        </w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>книжникы</w>
-                        <w>и</w>
-                        <w>старци</w>
-                        <w>людьстѣи</w>
-                        <w>и</w>
-                        <w>въпрашаше</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>книжникы</w>
-                        <w>и</w>
-                        <w>старци</w>
-                        <w>люстии</w>
-                        <w>и</w>
-                        <w>въпрашаше</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>книжникы</w>
-                        <w>и</w>
-                        <w>старци</w>
-                        <w>людстии</w>
-                        <w>и</w>
-                        <w>впрашаше</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>книжники</w>
-                        <w>и</w>
-                        <w>старци</w>
-                        <w>людьския,</w>
-                        <w>и</w>
-                        <w>въпраша</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>кънижьникы</w>
-                        <w>и</w>
-                        <w>старьца</w>
-                        <w>людьскыя,</w>
-                        <w>въпрашаше:</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>книжники</w>
-                        <w>и</w>
-                        <w>старци</w>
-                        <w>людьския,</w>
-                        <w>и</w>
-                        <w>въпраша</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>102, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="19"><p>
+<app>
+<lem wit="#lem">
+<w>кънижьникы</w>
+<w>и</w>
+<w>старьца</w>
+<w>людьскыя,</w>
+<w>въпрашаше:</w>
+</lem>
+
+<rdg wit="#lav">
+<w>книжникі <lb/></w>
+
+<w>и</w>
+<w>старци</w>
+<w>людьския.</w>
+<w>и</w>
+<w>въпраша</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>кни<hi rend="sup">ж</hi><lb/>ники.</w>
+<w>и</w>
+<w>старци</w>
+<w>лю<hi rend="sup">д</hi>скыа.</w>
+<w>и</w>
+<w>въпраша</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>кнїжни<lb/>ки.</w>
+<w>и</w>
+<w>старци</w>
+<w>людьскїа.</w>
+<w>вопрашаше</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>книжникы</w>
+<w>и</w>
+<w>ста<lb/>рци</w>
+<w>людьскыя.</w>
+<w>въпраша<lb/>ше</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>книжникы</w>
+<w>и</w>
+<w>старци</w>
+<w>лю<hi rend="sup">д</hi>скыа,</w>
+<w>и</w>
+<w>въпрошааш<milestone unit="sic" n="start"/>е<milestone unit="sic" n="end"/></w>
+</rdg>
+
+<rdg wit="#kom">
+<w>книжникы</w>
+<w>и</w>
+<w>старци</w>
+<w>людьстѣи</w>
+<w>и</w>
+<w>въпрашаше</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>книжникы</w>
+<w>и</w>
+<w>старци</w>
+<w>люстии</w>
+<w>и</w>
+<w>въпрашаше</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>книжникы</w>
+<w>и</w>
+<w>старци</w>
+<w>людстии</w>
+<w>и</w>
+<w>впрашаше</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>книжники</w>
+<w>и</w>
+<w>старци</w>
+<w>людьския,</w>
+<w>и</w>
+<w>въпраша</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>кънижьникы</w>
+<w>и</w>
+<w>старьца</w>
+<w>людьскыя,</w>
+<w>въпрашаше:</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>книжники</w>
+<w>и</w>
+<w>старци</w>
+<w>людьския,</w>
+<w>и</w>
+<w>въпраша</w>
+</rdg>
+</app></p></div></body></text></TEI>

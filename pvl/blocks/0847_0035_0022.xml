@@ -1,113 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>35, 22</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="22">
-            <p>
-               <app>
-                  <lem>
-                     <w>своя</w>
-                     <w>си</w>
-                     <w>мѣста,</w>
-                     <w>съпотружаемъ</w>
-                     <w>ся</w>
-                     <w>гребьцемъ</w>
-                     <w>тоя</w>
-                     <w>лодия</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>своа</w>
-                        <w>си</w>
-                        <w>мѣста.</w>
-                        <w>спотрѹжае<hi rend="sup">м</hi>сѧ.</w>
-                        <w>гребцемъ</w>
-                        <w>тоа</w>
-                        <w>ло<hi rend="sup">д</hi>а. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>своа</w>
-                        <w>си</w>
-                        <w>мѣста.</w>
-                        <w>спотрѹжаемсѧ. <lb/>
-                        </w>
-                        <w>гребцемъ</w>
-                        <w>тоя</w>
-                        <w>лодїѧ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>своя <lb/>
-                        </w>
-                        <w>си</w>
-                        <w>мѣста.</w>
-                        <w>спотружае<lb/>мъсѧ.</w>
-                        <w>грѣбцемъ</w>
-                        <w>бо</w>
-                        <w>тоя</w>
-                        <w>лодья</w>
-                        <w>
-                           <pb n="14b"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>своѧ</w>
-                        <w>си</w>
-                        <w>мѣста.</w>
-                        <w>спотрѹ<lb/>жаемсѧ.</w>
-                        <w>гребце<hi rend="sup">м</hi>
-                        </w>
-                        <w>бо</w>
-                        <w>тоѧ</w>
-                        <w>лодїа</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>своа</w>
-                        <w>си</w>
-                        <w>мѣста,</w>
-                        <w>спотружаемся</w>
-                        <w>гребцемъ</w>
-                        <w>тоа</w>
-                        <w>лодьа</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>своя</w>
-                        <w>си</w>
-                        <w>мѣста,</w>
-                        <w>съпотружаемъся</w>
-                        <w>гребьцемъ</w>
-                        <w>тоя</w>
-                        <w>лодия</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>своа</w>
-                        <w>си</w>
-                        <w>мѣста,</w>
-                        <w>спотружаемся</w>
-                        <w>гребцем</w>
-                        <w>тоа</w>
-                        <w>лодьа</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>35, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="22"><p>
+<app>
+<lem wit="#lem">
+<w>своя</w>
+<w>си</w>
+<w>мѣста,</w>
+<w>съпотружаемъ</w>
+<w>ся</w>
+<w>гребьцемъ</w>
+<w>тоя</w>
+<w>лодия</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>своа</w>
+<w>си</w>
+<w>мѣста.</w>
+<w>спотрѹжае<hi rend="sup">м</hi>сѧ.</w>
+<w>гребцемъ</w>
+<w>тоа</w>
+<w>ло<hi rend="sup">д</hi>а. <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>своа</w>
+<w>си</w>
+<w>мѣста.</w>
+<w>спотрѹжаемсѧ. <lb/></w>
+
+<w>гребцемъ</w>
+<w>тоя</w>
+<w>лодїѧ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>своя <lb/></w>
+
+<w>си</w>
+<w>мѣста.</w>
+<w>спотружае<lb/>мъсѧ.</w>
+<w>грѣбцемъ</w>
+<w>бо</w>
+<w>тоя</w>
+<w>лодья <pb n="14b"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>своѧ</w>
+<w>си</w>
+<w>мѣста.</w>
+<w>спотрѹ<lb/>жаемсѧ.</w>
+<w>гребце<hi rend="sup">м</hi></w>
+<w>бо</w>
+<w>тоѧ</w>
+<w>лодїа</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>своа</w>
+<w>си</w>
+<w>мѣста,</w>
+<w>спотружаемся</w>
+<w>гребцемъ</w>
+<w>тоа</w>
+<w>лодьа</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>своя</w>
+<w>си</w>
+<w>мѣста,</w>
+<w>съпотружаемъся</w>
+<w>гребьцемъ</w>
+<w>тоя</w>
+<w>лодия</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>своа</w>
+<w>си</w>
+<w>мѣста,</w>
+<w>спотружаемся</w>
+<w>гребцем</w>
+<w>тоа</w>
+<w>лодьа</w>
+</rdg>
+</app></p></div></body></text></TEI>

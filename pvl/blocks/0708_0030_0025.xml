@@ -1,114 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>30, 25</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="25">
-            <p>
-               <app>
-                  <lem>
-                     <w>земля.</w>
-                     <w>Ольгъ</w>
-                     <w>же,</w>
-                     <w>мало</w>
-                     <w>отъступивъ</w>
-                     <w>отъ</w>
-                     <w>града,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#tro">
-                        <w>и</w>
-                        <w>олегъ</w>
-                        <w>отступивъ</w>
-                        <w>мало</w>
-                        <w>отъ</w>
-                        <w>града</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>земли:- <lb/>
-                        </w>
-                        <w>ѡлегъ<hi rend="sup">ж</hi>
-                        </w>
-                        <w>мало</w>
-                        <w>ѿстоупи</w>
-                        <w>ѿ</w>
-                        <w>гра<hi rend="sup">д</hi>.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>землї:·</w>
-                        <w>ѡлегъ</w>
-                        <w>же</w>
-                        <w>мало</w>
-                        <w>ѿстѹпи</w>
-                        <w>ѿ</w>
-                        <w>града.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>земли.</w>
-                        <w>ѡлегъ <lb/>
-                        </w>
-                        <w>же</w>
-                        <w>мало</w>
-                        <w>ѿступивъ</w>
-                        <w>об</w>
-                        <w>горо<lb/>да.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>зе<hi rend="sup">м</hi>ли <lb/>
-                        </w>
-                        <w>ѡлег</w>
-                        <w>же</w>
-                        <w>мало</w>
-                        <w>ѿстоупивь</w>
-                        <w>об</w>
-                        <w>града.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>земли.</w>
-                        <w>Олегъ</w>
-                        <w>же</w>
-                        <w>мало</w>
-                        <w>отступивъ</w>
-                        <w>отъ</w>
-                        <w>града,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>земля.</w>
-                        <w>Ольгъ</w>
-                        <w>же,</w>
-                        <w>мало</w>
-                        <w>отъступивъ</w>
-                        <w>отъ</w>
-                        <w>града,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>земли.</w>
-                        <w>Олегъ</w>
-                        <w>же,</w>
-                        <w>мало</w>
-                        <w>отступивъ</w>
-                        <w>от</w>
-                        <w>града,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>30, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="25"><p>
+<app>
+<lem wit="#lem">
+<w>земля.</w>
+<w>Ольгъ</w>
+<w>же,</w>
+<w>мало</w>
+<w>отъступивъ</w>
+<w>отъ</w>
+<w>града,</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#tro">
+<w>и</w>
+<w>олегъ</w>
+<w>отступивъ</w>
+<w>мало</w>
+<w>отъ</w>
+<w>града</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>земли:- <lb/></w>
+
+<w>ѡлегъ<hi rend="sup">ж</hi></w>
+<w>мало</w>
+<w>ѿстоупи</w>
+<w>ѿ</w>
+<w>гра<hi rend="sup">д</hi>.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>землї:·</w>
+<w>ѡлегъ</w>
+<w>же</w>
+<w>мало</w>
+<w>ѿстѹпи</w>
+<w>ѿ</w>
+<w>града.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>земли.</w>
+<w>ѡлегъ <lb/></w>
+
+<w>же</w>
+<w>мало</w>
+<w>ѿступивъ</w>
+<w>об</w>
+<w>горо<lb/>да.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>зе<hi rend="sup">м</hi>ли <lb/></w>
+
+<w>ѡлег</w>
+<w>же</w>
+<w>мало</w>
+<w>ѿстоупивь</w>
+<w>об</w>
+<w>града.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>земли.</w>
+<w>Олегъ</w>
+<w>же</w>
+<w>мало</w>
+<w>отступивъ</w>
+<w>отъ</w>
+<w>града,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>земля.</w>
+<w>Ольгъ</w>
+<w>же,</w>
+<w>мало</w>
+<w>отъступивъ</w>
+<w>отъ</w>
+<w>града,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>земли.</w>
+<w>Олегъ</w>
+<w>же,</w>
+<w>мало</w>
+<w>отступивъ</w>
+<w>от</w>
+<w>града,</w>
+</rdg>
+</app></p></div></body></text></TEI>

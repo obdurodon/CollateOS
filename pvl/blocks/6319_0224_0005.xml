@@ -1,100 +1,77 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>224, 5</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="5">
-            <p>
-               <app>
-                  <lem>
-                     <w>преидемъ</w>
-                     <w>поля,</w>
-                     <w>идеже</w>
-                     <w>пасома</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ѡпустѣша·</w>
-                        <w>преидемъ</w>
-                        <w>полѧ</w>
-                        <w>идеже</w>
-                        <w>пасоми</w>
-                        <w>
-                           <pb n="74d"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>преидемъ</w>
-                        <w>полѧ· <lb/>
-                        </w>
-                        <w>идѣже</w>
-                        <w>пасоми</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>и</w>
-                        <w>прїидемь</w>
-                        <w>полѧ·</w>
-                        <w>идеже <lb/>
-                        </w>
-                        <w>пасоми</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ї</w>
-                        <w>пере<lb/>идѣмъ</w>
-                        <w>полѧ</w>
-                        <w>їдѣже</w>
-                        <w>пасома <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ѡпоустѣша.</w>
-                        <w>и</w>
-                        <w>преиде<hi rend="sup">м</hi> 
-                           <lb/>
-                        </w>
-                        <w>полѧ</w>
-                        <w>идеже</w>
-                        <w>пасома</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>опустѣша;</w>
-                        <w>прейдемъ</w>
-                        <w>поля,</w>
-                        <w>идеже</w>
-                        <w>пасома</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>преидемъ</w>
-                        <w>поля,</w>
-                        <w>идеже</w>
-                        <w>пасома</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>опустѣша;</w>
-                        <w>прейдемъ</w>
-                        <w>поля,</w>
-                        <w>иде</w>
-                        <w>же</w>
-                        <w>пасома</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>224, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="5"><p>
+<app>
+<lem wit="#lem">
+<w>преидемъ</w>
+<w>поля,</w>
+<w>идеже</w>
+<w>пасома</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ѡпустѣша·</w>
+<w>преидемъ</w>
+<w>полѧ</w>
+<w>идеже</w>
+<w>пасоми <pb n="74d"/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>преидемъ</w>
+<w>полѧ· <lb/></w>
+
+<w>идѣже</w>
+<w>пасоми</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>и</w>
+<w>прїидемь</w>
+<w>полѧ·</w>
+<w>идеже <lb/></w>
+
+<w>пасоми</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ї</w>
+<w>пере<lb/>идѣмъ</w>
+<w>полѧ</w>
+<w>їдѣже</w>
+<w>пасома <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>ѡпоустѣша.</w>
+<w>и</w>
+<w>преиде<hi rend="sup">м</hi><lb/></w>
+<w>полѧ</w>
+<w>идеже</w>
+<w>пасома</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>опустѣша;</w>
+<w>прейдемъ</w>
+<w>поля,</w>
+<w>идеже</w>
+<w>пасома</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>преидемъ</w>
+<w>поля,</w>
+<w>идеже</w>
+<w>пасома</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>опустѣша;</w>
+<w>прейдемъ</w>
+<w>поля,</w>
+<w>иде</w>
+<w>же</w>
+<w>пасома</w>
+</rdg>
+</app></p></div></body></text></TEI>

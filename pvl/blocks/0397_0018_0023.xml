@@ -1,118 +1,101 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>18, 23</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="23">
-            <p>
-               <app>
-                  <lem>
-                     <w>въ</w>
-                     <w>лѣта</w>
-                     <w>си,</w>
-                     <w>якоже</w>
-                     <w>преже</w>
-                     <w>почали</w>
-                     <w>бяхомъ</w>
-                     <w>пьрвое</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>та</w>
-                        <w>си <lb/>
-                        </w>
-                        <w>якоже</w>
-                        <w>преже</w>
-                        <w>почали</w>
-                        <w>бѧхомъ</w>
-                        <w>первое</w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad"/>
-                     <rdg wit="#aka">
-                        <w>в</w>
-                        <w>лѣта</w>
-                        <w>си.</w>
-                        <w>якоже</w>
-                        <w>преже</w>
-                        <w>почали</w>
-                        <w>бѣхомъ</w>
-                        <w>.а҃. <lb/>
-                        </w>
-                        <w>речеть</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>в</w>
-                        <w>лѣта</w>
-                        <w>си.</w>
-                        <w>яко<lb/>же</w>
-                        <w>преже</w>
-                        <w>почали</w>
-                        <w>бѧхомъ. <lb/>
-                        </w>
-                        <w>пѣрвое</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>въ</w>
-                        <w>лѣта</w>
-                        <w>сїа. <lb/>
-                        </w>
-                        <w>яко<hi rend="sup">ж</hi>
-                        </w>
-                        <w>преже</w>
-                        <w>почали</w>
-                        <w>бѣхо<hi rend="sup">м</hi>.</w>
-                        <w>Пръвое</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>в</w>
-                        <w>лѣта</w>
-                        <w>си,</w>
-                        <w>якоже</w>
-                        <w>преже</w>
-                        <w>почали</w>
-                        <w>бяхомъ</w>
-                        <w>первое</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>въ</w>
-                        <w>лѣта</w>
-                        <w>си,</w>
-                        <w>якоже</w>
-                        <w>преже</w>
-                        <w>почали</w>
-                        <w>бѣхомъ</w>
-                        <w>пьрвое</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>в</w>
-                        <w>лѣта</w>
-                        <w>си,</w>
-                        <w>яко</w>
-                        <w>же</w>
-                        <w>преже</w>
-                        <w>почали</w>
-                        <w>бяхомъ</w>
-                        <w>первое</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="23"><p>
+<app>
+<lem wit="#lem">
+<w>въ</w>
+<w>лѣта</w>
+<w>си,</w>
+<w>якоже</w>
+<w>преже</w>
+<w>почали</w>
+<w>бяхомъ</w>
+<w>пьрвое</w>
+</lem>
+
+<rdg wit="#lav">
+<w>та</w>
+<w>си <lb/></w>
+
+<w>якоже</w>
+<w>преже</w>
+<w>почали</w>
+<w>бѧхомъ</w>
+<w>первое</w>
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+</rdg>
+
+<rdg wit="#aka">
+<w>в</w>
+<w>лѣта</w>
+<w>си.</w>
+<w>якоже</w>
+<w>преже</w>
+<w>почали</w>
+<w>бѣхомъ</w>
+<w>.а҃. <lb/></w>
+
+<w>речеть</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>в</w>
+<w>лѣта</w>
+<w>си.</w>
+<w>яко<lb/>же</w>
+<w>преже</w>
+<w>почали</w>
+<w>бѧхомъ. <lb/></w>
+
+<w>пѣрвое</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>въ</w>
+<w>лѣта</w>
+<w>сїа. <lb/></w>
+
+<w>яко<hi rend="sup">ж</hi></w>
+<w>преже</w>
+<w>почали</w>
+<w>бѣхо<hi rend="sup">м</hi>.</w>
+<w>Пръвое</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>в</w>
+<w>лѣта</w>
+<w>си,</w>
+<w>якоже</w>
+<w>преже</w>
+<w>почали</w>
+<w>бяхомъ</w>
+<w>первое</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>въ</w>
+<w>лѣта</w>
+<w>си,</w>
+<w>якоже</w>
+<w>преже</w>
+<w>почали</w>
+<w>бѣхомъ</w>
+<w>пьрвое</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>в</w>
+<w>лѣта</w>
+<w>си,</w>
+<w>яко</w>
+<w>же</w>
+<w>преже</w>
+<w>почали</w>
+<w>бяхомъ</w>
+<w>первое</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,109 +1,90 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>225, 23</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="23">
-            <p>
-               <app>
-                  <lem>
-                     <w>волю</w>
-                     <w>вѣдуще,</w>
-                     <w>и</w>
-                     <w>презьрѣвъше,</w>
-                     <w>въ</w>
-                     <w>лѣпоту</w>
-                     <w>паче</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>волю</w>
-                        <w>дѣюще</w>
-                        <w>и</w>
-                        <w>презрѣ<lb/>вше·</w>
-                        <w>в</w>
-                        <w>лѣпоту</w>
-                        <w>паче</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>волю</w>
-                        <w>ведѹще</w>
-                        <w>презрѣвше·</w>
-                        <w>в</w>
-                        <w>лѣпотѹ</w>
-                        <w>паче</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>волею</w>
-                        <w>ведѹще</w>
-                        <w>пре<lb/>зрѣвше·</w>
-                        <w>в</w>
-                        <w>лѣпотѹ</w>
-                        <w>паче</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>волю</w>
-                        <w>вѣдуще·</w>
-                        <w>ї</w>
-                        <w>презрѣвше</w>
-                        <w>въ</w>
-                        <w>лѣпоту</w>
-                        <w>паче</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>волю</w>
-                        <w>вѣдающе</w>
-                        <w>и</w>
-                        <w>презрѣ·̏вше.</w>
-                        <w>в</w>
-                        <w>лѣпотоу</w>
-                        <w>паче</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>волю</w>
-                        <w>ведуще,</w>
-                        <w>и</w>
-                        <w>презрѣвше,</w>
-                        <w>в</w>
-                        <w>лѣпоту</w>
-                        <w>паче</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>волю</w>
-                        <w>вѣдуще</w>
-                        <w>и</w>
-                        <w>презьрѣвъше,</w>
-                        <w>въ</w>
-                        <w>лѣпоту</w>
-                        <w>паче</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>волю</w>
-                        <w>ведуще,</w>
-                        <w>и</w>
-                        <w>презрѣвше,</w>
-                        <w>в</w>
-                        <w>лѣпоту</w>
-                        <w>паче</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>225, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="23"><p>
+<app>
+<lem wit="#lem">
+<w>волю</w>
+<w>вѣдуще,</w>
+<w>и</w>
+<w>презьрѣвъше,</w>
+<w>въ</w>
+<w>лѣпоту</w>
+<w>паче</w>
+</lem>
+
+<rdg wit="#lav">
+<w>волю</w>
+<w>дѣюще</w>
+<w>и</w>
+<w>презрѣ<lb/>вше·</w>
+<w>в</w>
+<w>лѣпоту</w>
+<w>паче</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>волю</w>
+<w>ведѹще</w>
+<w>презрѣвше·</w>
+<w>в</w>
+<w>лѣпотѹ</w>
+<w>паче</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>волею</w>
+<w>ведѹще</w>
+<w>пре<lb/>зрѣвше·</w>
+<w>в</w>
+<w>лѣпотѹ</w>
+<w>паче</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>волю</w>
+<w>вѣдуще·</w>
+<w>ї</w>
+<w>презрѣвше</w>
+<w>въ</w>
+<w>лѣпоту</w>
+<w>паче</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>волю</w>
+<w>вѣдающе</w>
+<w>и</w>
+<w>презрѣ·̏вше.</w>
+<w>в</w>
+<w>лѣпотоу</w>
+<w>паче</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>волю</w>
+<w>ведуще,</w>
+<w>и</w>
+<w>презрѣвше,</w>
+<w>в</w>
+<w>лѣпоту</w>
+<w>паче</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>волю</w>
+<w>вѣдуще</w>
+<w>и</w>
+<w>презьрѣвъше,</w>
+<w>въ</w>
+<w>лѣпоту</w>
+<w>паче</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>волю</w>
+<w>ведуще,</w>
+<w>и</w>
+<w>презрѣвше,</w>
+<w>в</w>
+<w>лѣпоту</w>
+<w>паче</w>
+</rdg>
+</app></p></div></body></text></TEI>

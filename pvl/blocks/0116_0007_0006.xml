@@ -1,116 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>7, 6</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="6">
-            <p>
-               <app>
-                  <lem>
-                     <w>вътечеть</w>
-                     <w>въ</w>
-                     <w>озеро</w>
-                     <w>великое</w>
-                     <w>Нево,</w>
-                     <w>и</w>
-                     <w>того</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>вътечеть</w>
-                        <w>в</w>
-                        <w>озеро <lb/>
-                        </w>
-                        <w>великое</w>
-                        <w>ново.</w>
-                        <w>того</w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad">
-                        <w>втече<hi rend="sup">т</hi>
-                        </w>
-                        <w>въ</w>
-                        <w>ѡзеро</w>
-                        <w>великое</w>
-                        <w>невъ</w>
-                        <w>и</w>
-                        <w>то<hi rend="sup">г</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>втечетъ</w>
-                        <w>въ</w>
-                        <w>ѡзеро</w>
-                        <w>великое</w>
-                        <w>не<lb/>во.</w>
-                        <w>и</w>
-                        <w>того</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>втечеть</w>
-                        <w>въ</w>
-                        <w>ѡ<lb/>зеро</w>
-                        <w>великое</w>
-                        <w>нево.</w>
-                        <w>и</w>
-                        <w>того</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>втече<hi rend="sup">т</hi>
-                        </w>
-                        <w>въ</w>
-                        <w>зеро <lb/>
-                        </w>
-                        <w>великое</w>
-                        <w>нево.</w>
-                        <w>и</w>
-                        <w>того</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>вътечеть</w>
-                        <w>в</w>
-                        <w>озеро</w>
-                        <w>великое</w>
-                        <w>Нево,</w>
-                        <w>и</w>
-                        <w>того</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>вътечеть</w>
-                        <w>въ</w>
-                        <w>езеро</w>
-                        <w>великое</w>
-                        <w>Нево;</w>
-                        <w>и</w>
-                        <w>того</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>вътечеть</w>
-                        <w>в</w>
-                        <w>озеро</w>
-                        <w>великое</w>
-                        <w>Нево,</w>
-                        <w>и</w>
-                        <w>того</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>7, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="6"><p>
+<app>
+<lem wit="#lem">
+<w>вътечеть</w>
+<w>въ</w>
+<w>озеро</w>
+<w>великое</w>
+<w>Нево,</w>
+<w>и</w>
+<w>того</w>
+</lem>
+
+<rdg wit="#lav">
+<w>вътечеть</w>
+<w>в</w>
+<w>озеро <lb/></w>
+
+<w>великое</w>
+<w>ново.</w>
+<w>того</w>
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+<w>втече<hi rend="sup">т</hi></w>
+<w>въ</w>
+<w>ѡзеро</w>
+<w>великое</w>
+<w>невъ</w>
+<w>и</w>
+<w>то<hi rend="sup">г</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>втечетъ</w>
+<w>въ</w>
+<w>ѡзеро</w>
+<w>великое</w>
+<w>не<lb/>во.</w>
+<w>и</w>
+<w>того</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>втечеть</w>
+<w>въ</w>
+<w>ѡ<lb/>зеро</w>
+<w>великое</w>
+<w>нево.</w>
+<w>и</w>
+<w>того</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>втече<hi rend="sup">т</hi></w>
+<w>въ</w>
+<w>зеро <lb/></w>
+
+<w>великое</w>
+<w>нево.</w>
+<w>и</w>
+<w>того</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>вътечеть</w>
+<w>в</w>
+<w>озеро</w>
+<w>великое</w>
+<w>Нево,</w>
+<w>и</w>
+<w>того</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>вътечеть</w>
+<w>въ</w>
+<w>езеро</w>
+<w>великое</w>
+<w>Нево;</w>
+<w>и</w>
+<w>того</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>вътечеть</w>
+<w>в</w>
+<w>озеро</w>
+<w>великое</w>
+<w>Нево,</w>
+<w>и</w>
+<w>того</w>
+</rdg>
+</app></p></div></body></text></TEI>

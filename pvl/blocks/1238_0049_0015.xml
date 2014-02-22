@@ -1,119 +1,95 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>49, 15</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="15">
-            <p>
-               <app>
-                  <lem>
-                     <w>отъсюду,</w>
-                     <w>възимають</w>
-                     <w>отъ</w>
-                     <w>насъ,</w>
-                     <w>еже</w>
-                     <w>надобѣ</w>
-                     <w>брашьно</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ѿсюда.</w>
-                        <w>въсимають</w>
-                        <w>ѿ</w>
-                        <w>насъ.</w>
-                        <w>еже</w>
-                        <w>надобѣ</w>
-                        <w>бра<lb/>шно</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ѿсюдѹ</w>
-                        <w>взимаю<hi rend="sup">т</hi>
-                        </w>
-                        <w>ѿ</w>
-                        <w>на<hi rend="sup">с</hi>
-                        </w>
-                        <w>еже</w>
-                        <w>надобе.</w>
-                        <w>брашно</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ѿсѹдѹ.</w>
-                        <w>взимають</w>
-                        <w>ѿ</w>
-                        <w>на<hi rend="sup">с</hi>.</w>
-                        <w>еже</w>
-                        <w>надобе</w>
-                        <w>бра<lb/>шно</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ѿсюду</w>
-                        <w>взимають</w>
-                        <w>ѿ <lb/>
-                        </w>
-                        <w>на<hi rend="sup">с</hi>
-                        </w>
-                        <w>еже</w>
-                        <w>надоби</w>
-                        <w>брашно</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ѿсюдѹ <lb/>
-                        </w>
-                        <w>възимаю<hi rend="sup">т</hi>
-                        </w>
-                        <w>ѿ</w>
-                        <w>на<hi rend="sup">с</hi>
-                        </w>
-                        <w>еже</w>
-                        <w>надобѣ</w>
-                        <w>брашно</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>отсюда</w>
-                        <w>взимають</w>
-                        <w>отъ</w>
-                        <w>насъ,</w>
-                        <w>еже</w>
-                        <w>надобѣ,</w>
-                        <w>брашно</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>отъсюду,</w>
-                        <w>да</w>
-                        <w>възимають</w>
-                        <w>отъ</w>
-                        <w>насъ,</w>
-                        <w>еже</w>
-                        <w>надобѣ</w>
-                        <w>брашьно</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>отсюда</w>
-                        <w>взимають</w>
-                        <w>от</w>
-                        <w>насъ,</w>
-                        <w>еже</w>
-                        <w>надобѣ,</w>
-                        <w>брашно</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>49, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="15"><p>
+<app>
+<lem wit="#lem">
+<w>отъсюду,</w>
+<w>възимають</w>
+<w>отъ</w>
+<w>насъ,</w>
+<w>еже</w>
+<w>надобѣ</w>
+<w>брашьно</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ѿсюда.</w>
+<w>въсимають</w>
+<w>ѿ</w>
+<w>насъ.</w>
+<w>еже</w>
+<w>надобѣ</w>
+<w>бра<lb/>шно</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ѿсюдѹ</w>
+<w>взимаю<hi rend="sup">т</hi></w>
+<w>ѿ</w>
+<w>на<hi rend="sup">с</hi></w>
+<w>еже</w>
+<w>надобе.</w>
+<w>брашно</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ѿсѹдѹ.</w>
+<w>взимають</w>
+<w>ѿ</w>
+<w>на<hi rend="sup">с</hi>.</w>
+<w>еже</w>
+<w>надобе</w>
+<w>бра<lb/>шно</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ѿсюду</w>
+<w>взимають</w>
+<w>ѿ <lb/></w>
+
+<w>на<hi rend="sup">с</hi></w>
+<w>еже</w>
+<w>надоби</w>
+<w>брашно</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ѿсюдѹ <lb/></w>
+
+<w>възимаю<hi rend="sup">т</hi></w>
+<w>ѿ</w>
+<w>на<hi rend="sup">с</hi></w>
+<w>еже</w>
+<w>надобѣ</w>
+<w>брашно</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>отсюда</w>
+<w>взимають</w>
+<w>отъ</w>
+<w>насъ,</w>
+<w>еже</w>
+<w>надобѣ,</w>
+<w>брашно</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>отъсюду,</w>
+<w>да</w>
+<w>възимають</w>
+<w>отъ</w>
+<w>насъ,</w>
+<w>еже</w>
+<w>надобѣ</w>
+<w>брашьно</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>отсюда</w>
+<w>взимають</w>
+<w>от</w>
+<w>насъ,</w>
+<w>еже</w>
+<w>надобѣ,</w>
+<w>брашно</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,103 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>155, 27</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="27">
-            <p>
-               <app>
-                  <lem>
-                     <w>митрополитъмь</w>
-                     <w>Руси</w>
-                     <w>въ</w>
-                     <w>святѣи</w>
-                     <w>Софии,</w>
-                     <w>събьравъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>митропо<lb/>литомь.</w>
-                        <w>русина.</w>
-                        <w>въ</w>
-                        <w>с҃тѣи</w>
-                        <w>со<lb/>ѳьи.</w>
-                        <w>собравъ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>митрополито<hi rend="sup">м</hi>.</w>
-                        <w>роусина.</w>
-                        <w>въ</w>
-                        <w>с҃тѣ</w>
-                        <w>софии. <lb/>
-                        </w>
-                        <w>собравъ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>митрополи<lb/>томъ.</w>
-                        <w>рѹсина.</w>
-                        <w>въ</w>
-                        <w>ст҃еи</w>
-                        <w>софии</w>
-                        <w>събравъ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>митропо<lb/>литомъ.</w>
-                        <w>руси</w>
-                        <w>ст҃ѣи</w>
-                        <w>софьи. <lb/>
-                        </w>
-                        <w>собравъ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>митрополитѡ<hi rend="sup">м</hi>
-                        </w>
-                        <w>роуси</w>
-                        <w>въ</w>
-                        <w>ст҃ѣи</w>
-                        <w>соѳїи.</w>
-                        <w>съ<lb/>бравь</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>митрополитомь</w>
-                        <w>Руси</w>
-                        <w>въ</w>
-                        <w>святѣй</w>
-                        <w>Соѳьи,</w>
-                        <w>собравъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>митрополитъмь,</w>
-                        <w>Русина,</w>
-                        <w>святѣи</w>
-                        <w>Софии,</w>
-                        <w>събьравъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>митрополитомь</w>
-                        <w>русина</w>
-                        <w>въ</w>
-                        <w>святѣй</w>
-                        <w>Софьи,</w>
-                        <w>собравъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>155, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="27"><p>
+<app>
+<lem wit="#lem">
+<w>митрополитъмь</w>
+<w>Руси</w>
+<w>въ</w>
+<w>святѣи</w>
+<w>Софии,</w>
+<w>събьравъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>митропо<lb/>литомь.</w>
+<w>русина.</w>
+<w>въ</w>
+<w>с҃тѣи</w>
+<w>со<lb/>ѳьи.</w>
+<w>собравъ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>митрополито<hi rend="sup">м</hi>.</w>
+<w>роусина.</w>
+<w>въ</w>
+<w>с҃тѣ</w>
+<w>софии. <lb/></w>
+
+<w>собравъ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>митрополи<lb/>томъ.</w>
+<w>рѹсина.</w>
+<w>въ</w>
+<w>ст҃еи</w>
+<w>софии</w>
+<w>събравъ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>митропо<lb/>литомъ.</w>
+<w>руси</w>
+<w>ст҃ѣи</w>
+<w>софьи. <lb/></w>
+
+<w>собравъ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>митрополитѡ<hi rend="sup">м</hi></w>
+<w>роуси</w>
+<w>въ</w>
+<w>ст҃ѣи</w>
+<w>соѳїи.</w>
+<w>съ<lb/>бравь</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>митрополитомь</w>
+<w>Руси</w>
+<w>въ</w>
+<w>святѣй</w>
+<w>Соѳьи,</w>
+<w>собравъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>митрополитъмь,</w>
+<w>Русина,</w>
+<w>святѣи</w>
+<w>Софии,</w>
+<w>събьравъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>митрополитомь</w>
+<w>русина</w>
+<w>въ</w>
+<w>святѣй</w>
+<w>Софьи,</w>
+<w>собравъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

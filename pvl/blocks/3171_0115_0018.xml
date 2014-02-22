@@ -1,123 +1,107 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>115, 18</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="18">
-            <p>
-               <app>
-                  <lem>
-                     <w>На</w>
-                     <w>шестѣмь</w>
-                     <w>съборѣ:</w>
-                     <w>отъ</w>
-                     <w>Рима</w>
-                     <w>Агафонъ,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>на</w>
-                        <w>.ѕ҃.</w>
-                        <w>мь</w>
-                        <w>сборѣ.</w>
-                        <w>ѿ</w>
-                        <w>рима</w>
-                        <w>агафо<lb/>нъ.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>на</w>
-                        <w>ѕ҃.</w>
-                        <w>соборѣ.</w>
-                        <w>ѿ</w>
-                        <w>рима</w>
-                        <w>агафонъ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>на</w>
-                        <w>шестомъ</w>
-                        <w>соборе.</w>
-                        <w>ѿ</w>
-                        <w>рима</w>
-                        <w>агафонъ.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>на</w>
-                        <w>шесто<hi rend="sup">м</hi> 
-                           <lb/>
-                        </w>
-                        <w>сборѣ</w>
-                        <w>ѿ</w>
-                        <w>рима</w>
-                        <w>агафонь.</w>
-                     </rdg>
-                     <rdg wit="#xle"/>
-                     <rdg wit="#kom">
-                        <w>на 6</w>
-                        <w>мь</w>
-                        <w>съборѣ</w>
-                        <w>от</w>
-                        <w>рима</w>
-                        <w>агафонъ</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>на</w>
-                        <w>шестом</w>
-                        <w>соборѣ</w>
-                        <w>от</w>
-                        <w>рима</w>
-                        <w>агафонъ</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>на</w>
-                        <w>шестом</w>
-                        <w>соборѣ</w>
-                        <w>от</w>
-                        <w>рима</w>
-                        <w>агафонъ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>На</w>
-                        <w>6-мь</w>
-                        <w>сборѣ</w>
-                        <w>отъ</w>
-                        <w>Рима</w>
-                        <w>Агафонъ,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>На</w>
-                        <w>шестѣмь</w>
-                        <w>же</w>
-                        <w>съборѣ:</w>
-                        <w>отъ</w>
-                        <w>Рима</w>
-                        <w>Агафонъ,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>На</w>
-                        <w>6-мь</w>
-                        <w>сборѣ</w>
-                        <w>от</w>
-                        <w>Рима</w>
-                        <w>Агафонъ,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>115, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="18"><p>
+<app>
+<lem wit="#lem">
+<w>На</w>
+<w>шестѣмь</w>
+<w>съборѣ:</w>
+<w>отъ</w>
+<w>Рима</w>
+<w>Агафонъ,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>на</w>
+<w>.ѕ҃.</w>
+<w>мь</w>
+<w>сборѣ.</w>
+<w>ѿ</w>
+<w>рима</w>
+<w>агафо<lb/>нъ.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>на</w>
+<w>ѕ҃.</w>
+<w>соборѣ.</w>
+<w>ѿ</w>
+<w>рима</w>
+<w>агафонъ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>на</w>
+<w>шестомъ</w>
+<w>соборе.</w>
+<w>ѿ</w>
+<w>рима</w>
+<w>агафонъ.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>на</w>
+<w>шесто<hi rend="sup">м</hi><lb/></w>
+<w>сборѣ</w>
+<w>ѿ</w>
+<w>рима</w>
+<w>агафонь.</w>
+</rdg>
+
+<rdg wit="#xle">
+</rdg>
+
+<rdg wit="#kom">
+<w>на 6</w>
+
+<w>мь</w>
+<w>съборѣ</w>
+<w>от</w>
+<w>рима</w>
+<w>агафонъ</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>на</w>
+<w>шестом</w>
+<w>соборѣ</w>
+<w>от</w>
+<w>рима</w>
+<w>агафонъ</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>на</w>
+<w>шестом</w>
+<w>соборѣ</w>
+<w>от</w>
+<w>рима</w>
+<w>агафонъ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>На</w>
+<w>6-мь</w>
+<w>сборѣ</w>
+<w>отъ</w>
+<w>Рима</w>
+<w>Агафонъ,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>На</w>
+<w>шестѣмь</w>
+<w>же</w>
+<w>съборѣ:</w>
+<w>отъ</w>
+<w>Рима</w>
+<w>Агафонъ,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>На</w>
+<w>6-мь</w>
+<w>сборѣ</w>
+<w>от</w>
+<w>Рима</w>
+<w>Агафонъ,</w>
+</rdg>
+</app></p></div></body></text></TEI>

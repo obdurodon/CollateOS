@@ -1,88 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>13, 16</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="16">
-            <p>
-               <app>
-                  <lem>
-                     <w>живяху</w>
-                     <w>звѣриньскъмь</w>
-                     <w>образъмь,</w>
-                     <w>живуще</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>живѧху</w>
-                        <w>звѣриньскимъ</w>
-                        <w>ѡ<lb/>бразомъ.</w>
-                        <w>жиоуще</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>живяху</w>
-                        <w>звѣринымъ</w>
-                        <w>образомъ</w>
-                        <w>живуще</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>живѧхоу</w>
-                        <w>звѣрьскы<hi rend="sup">м</hi>
-                        </w>
-                        <w>ѡбразо<hi rend="sup">м</hi>.</w>
-                        <w>живоу<lb/>ще</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>живѧхѹ</w>
-                        <w>ѕвѣрьск<sic>и</sic> 
-                           <lb/>
-                        </w>
-                        <w>ѡбразомъ</w>
-                        <w>живѹще</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>живѧху</w>
-                        <w>звѣ<lb/>рьскымъ</w>
-                        <w>ѡбразомъ.</w>
-                        <w>жі<lb/>вуще</w>
-                     </rdg>
-                     <rdg wit="#xle"/>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>живяху</w>
-                        <w>звѣриньскимъ</w>
-                        <w>образомъ,</w>
-                        <w>живуще</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>живяху</w>
-                        <w>звѣриньскъмь</w>
-                        <w>образъмь,</w>
-                        <w>живуще</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>живяху</w>
-                        <w>звѣриньскимъ</w>
-                        <w>образомъ,</w>
-                        <w>живуще</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>13, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="16"><p>
+<app>
+<lem wit="#lem">
+<w>живяху</w>
+<w>звѣриньскъмь</w>
+<w>образъмь,</w>
+<w>живуще</w>
+</lem>
+
+<rdg wit="#lav">
+<w>живѧху</w>
+<w>звѣриньскимъ</w>
+<w>ѡ<lb/>бразомъ.</w>
+<w>жиоуще</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>живяху</w>
+<w>звѣринымъ</w>
+<w>образомъ</w>
+<w>живуще</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>живѧхоу</w>
+<w>звѣрьскы<hi rend="sup">м</hi></w>
+<w>ѡбразо<hi rend="sup">м</hi>.</w>
+<w>живоу<lb/>ще</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>живѧхѹ</w>
+<w>ѕвѣрьск<milestone unit="sic" n="start"/>и<milestone unit="sic" n="end"/><lb/>мъ</w>
+<w>ѡбразомъ</w>
+<w>живѹще</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>живѧху</w>
+<w>звѣ<lb/>рьскымъ</w>
+<w>ѡбразомъ.</w>
+<w>жі<lb/>вуще</w>
+</rdg>
+
+<rdg wit="#xle">
+</rdg>
+
+<rdg wit="#bych">
+<w>живяху</w>
+<w>звѣриньскимъ</w>
+<w>образомъ,</w>
+<w>живуще</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>живяху</w>
+<w>звѣриньскъмь</w>
+<w>образъмь,</w>
+<w>живуще</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>живяху</w>
+<w>звѣриньскимъ</w>
+<w>образомъ,</w>
+<w>живуще</w>
+</rdg>
+</app></p></div></body></text></TEI>

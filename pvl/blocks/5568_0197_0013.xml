@@ -1,102 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>197, 13</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="13">
-            <p>
-               <app>
-                  <lem>
-                     <w>и</w>
-                     <w>въ</w>
-                     <w>образѣ</w>
-                     <w>медвѣжии,</w>
-                     <w>овъгда</w>
-                     <w>же</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>и</w>
-                        <w>въ</w>
-                        <w>ѡбразѣ</w>
-                        <w>медвѣ<lb/>жи.</w>
-                        <w>ѡвогда</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>въ</w>
-                        <w>ѡбра<lb/>зѣ</w>
-                        <w>медвѣжомъ.</w>
-                        <w>ѡвогда</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>въ</w>
-                        <w>ѡбразѣ</w>
-                        <w>ме<hi rend="sup">д</hi>вежомъ.</w>
-                        <w>ѡвог<hi rend="sup">д</hi>а</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>и</w>
-                        <w>во <lb/>
-                        </w>
-                        <w>ѡбразѣ.</w>
-                        <w>медвѣжьи</w>
-                        <w>ѡвогда <lb/>
-                        </w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>его</w>
-                        <w>въ <lb/>
-                        </w>
-                        <w>образѣ</w>
-                        <w>медвеже<hi rend="sup">м</hi>.</w>
-                        <w>ѡвог<hi rend="sup">д</hi>а</w>
-                        <w>же</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>и</w>
-                        <w>въ</w>
-                        <w>образѣ</w>
-                        <w>медвѣжи;</w>
-                        <w>овогда</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>и</w>
-                        <w>въ</w>
-                        <w>образѣ</w>
-                        <w>медвѣжии,</w>
-                        <w>овъгда</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>и</w>
-                        <w>въ</w>
-                        <w>образѣ</w>
-                        <w>медвѣжи;</w>
-                        <w>овогда</w>
-                        <w>же</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>197, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="13"><p>
+<app>
+<lem wit="#lem">
+<w>и</w>
+<w>въ</w>
+<w>образѣ</w>
+<w>медвѣжии,</w>
+<w>овъгда</w>
+<w>же</w>
+</lem>
+
+<rdg wit="#lav">
+<w>и</w>
+<w>въ</w>
+<w>ѡбразѣ</w>
+<w>медвѣ<lb/>жи.</w>
+<w>ѡвогда</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>въ</w>
+<w>ѡбра<lb/>зѣ</w>
+<w>медвѣжомъ.</w>
+<w>ѡвогда</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>въ</w>
+<w>ѡбразѣ</w>
+<w>ме<hi rend="sup">д</hi>вежомъ.</w>
+<w>ѡвог<hi rend="sup">д</hi>а</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>и</w>
+<w>во <lb/></w>
+
+<w>ѡбразѣ.</w>
+<w>медвѣжьи</w>
+<w>ѡвогда <lb/></w>
+
+<w>же</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>его</w>
+<w>въ <lb/></w>
+
+<w>образѣ</w>
+<w>медвеже<hi rend="sup">м</hi>.</w>
+<w>ѡвог<hi rend="sup">д</hi>а</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>и</w>
+<w>въ</w>
+<w>образѣ</w>
+<w>медвѣжи;</w>
+<w>овогда</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>и</w>
+<w>въ</w>
+<w>образѣ</w>
+<w>медвѣжии,</w>
+<w>овъгда</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>и</w>
+<w>въ</w>
+<w>образѣ</w>
+<w>медвѣжи;</w>
+<w>овогда</w>
+<w>же</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,102 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>46, 24</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="24">
-            <p>
-               <app>
-                  <lem>
-                     <w>Слуды</w>
-                     <w>Игоревъ,</w>
-                     <w>нетия</w>
-                     <w>Игорева;</w>
-                     <w>Улѣбъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>слуды</w>
-                        <w>игоревъ.</w>
-                        <w>нети</w>
-                        <w>и<sic>го</sic> 
-                           <lb/>
-                        </w>
-                        <w>оулѣ<sic>бъ</sic>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>слоу<lb/>гъ</w>
-                        <w>игоревъ.</w>
-                        <w>нетии</w>
-                        <w>игоревъ.</w>
-                        <w>оулѣбъ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>слѹ<hi rend="sup">д</hi> 
-                           <lb/>
-                        </w>
-                        <w>игоревь.</w>
-                        <w>нетїи</w>
-                        <w>игоревь.</w>
-                        <w>оу<add place="margin">лѣ</add>бъ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>слуды</w>
-                        <w>и<lb/>горевъ.</w>
-                        <w>нетии</w>
-                        <w>игоревъ.</w>
-                        <w>оулѣбъ</w>
-                        <w>
-                           <pb n="18c"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>слоуды</w>
-                        <w>игоревь.</w>
-                        <w>нетїи</w>
-                        <w>игоревь. <lb/>
-                        </w>
-                        <w>оулѣбь</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Слуды</w>
-                        <w>Игоревъ,</w>
-                        <w>нети</w>
-                        <w>Игоревъ;</w>
-                        <w>Улѣбъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Слуды</w>
-                        <w>Игоревъ,</w>
-                        <w>нетия</w>
-                        <w>Игорева;</w>
-                        <w>Улѣбъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Слуды</w>
-                        <w>Игоревъ,</w>
-                        <w>нети</w>
-                        <w>Игоревъ;</w>
-                        <w>Улѣбъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>46, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="24"><p>
+<app>
+<lem wit="#lem">
+<w>Слуды</w>
+<w>Игоревъ,</w>
+<w>нетия</w>
+<w>Игорева;</w>
+<w>Улѣбъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>слуды</w>
+<w>игоревъ.</w>
+<w>нети</w>
+<w>и<milestone unit="sic" n="start"/>го<milestone unit="sic" n="end"/><lb/>ревъ.</w>
+<w>оулѣ<milestone unit="sic" n="start"/>бъ<milestone unit="sic" n="end"/></w>
+</rdg>
+
+<rdg wit="#rad">
+<w>слоу<lb/>гъ</w>
+<w>игоревъ.</w>
+<w>нетии</w>
+<w>игоревъ.</w>
+<w>оулѣбъ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>слѹ<hi rend="sup">д</hi><lb/></w>
+<w>игоревь.</w>
+<w>нетїи</w>
+<w>игоревь.</w>
+<w>оу<milestone unit="add" n="start" place="margin"/>лѣ<milestone unit="add" n="end"/>бъ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>слуды</w>
+<w>и<lb/>горевъ.</w>
+<w>нетии</w>
+<w>игоревъ.</w>
+<w>оулѣбъ <pb n="18c"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>слоуды</w>
+<w>игоревь.</w>
+<w>нетїи</w>
+<w>игоревь. <lb/></w>
+
+<w>оулѣбь</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Слуды</w>
+<w>Игоревъ,</w>
+<w>нети</w>
+<w>Игоревъ;</w>
+<w>Улѣбъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Слуды</w>
+<w>Игоревъ,</w>
+<w>нетия</w>
+<w>Игорева;</w>
+<w>Улѣбъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Слуды</w>
+<w>Игоревъ,</w>
+<w>нети</w>
+<w>Игоревъ;</w>
+<w>Улѣбъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

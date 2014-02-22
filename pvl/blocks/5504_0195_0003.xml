@@ -1,105 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>195, 3</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="3">
-            <p>
-               <app>
-                  <lem>
-                     <w>Исакии</w>
-                     <w>же</w>
-                     <w>въсприя</w>
-                     <w>пакы</w>
-                     <w>дьрзновение</w>
-                     <w>и</w>
-                     <w>въздьржание</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>исакии</w>
-                        <w>же</w>
-                        <w>вспри<lb/>ятъ</w>
-                        <w>въздержанье</w>
-                        <w>пакы</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>исакии</w>
-                        <w>же</w>
-                        <w>въсприя</w>
-                        <w>паки</w>
-                        <w>дерзновение.</w>
-                        <w>и</w>
-                        <w>въздержание <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>исакии</w>
-                        <w>же</w>
-                        <w>въсприя</w>
-                        <w>пакы</w>
-                        <w>дръ<lb/>зновение.</w>
-                        <w>и</w>
-                        <w>въздержанїе</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>исакии</w>
-                        <w>же</w>
-                        <w>вьсприя</w>
-                        <w>де<lb/>рьзновение</w>
-                        <w>и</w>
-                        <w>вьздержа<lb/>ние</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>исакїи</w>
-                        <w>же</w>
-                        <w>въспрїа</w>
-                        <w>пакы</w>
-                        <w>дръзновенїе</w>
-                        <w>и</w>
-                        <w>въздръ<lb/>жанїе</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Исакий</w>
-                        <w>же</w>
-                        <w>всприятъ</w>
-                        <w>въздержанье</w>
-                        <w>пакы</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Исакии</w>
-                        <w>же</w>
-                        <w>въсприятъ</w>
-                        <w>пакы</w>
-                        <w>дьрзновение</w>
-                        <w>и</w>
-                        <w>въздьржание</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Исакий</w>
-                        <w>же</w>
-                        <w>всприятъ</w>
-                        <w>въздержанье</w>
-                        <w>пакы</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>195, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="3"><p>
+<app>
+<lem wit="#lem">
+<w>Исакии</w>
+<w>же</w>
+<w>въсприя</w>
+<w>пакы</w>
+<w>дьрзновение</w>
+<w>и</w>
+<w>въздьржание</w>
+</lem>
+
+<rdg wit="#lav">
+<w>исакии</w>
+<w>же</w>
+<w>вспри<lb/>ятъ</w>
+<w>въздержанье</w>
+<w>пакы</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>исакии</w>
+<w>же</w>
+<w>въсприя</w>
+<w>паки</w>
+<w>дерзновение.</w>
+<w>и</w>
+<w>въздержание <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>исакии</w>
+<w>же</w>
+<w>въсприя</w>
+<w>пакы</w>
+<w>дръ<lb/>зновение.</w>
+<w>и</w>
+<w>въздержанїе</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>исакии</w>
+<w>же</w>
+<w>вьсприя</w>
+<w>де<lb/>рьзновение</w>
+<w>и</w>
+<w>вьздержа<lb/>ние</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>исакїи</w>
+<w>же</w>
+<w>въспрїа</w>
+<w>пакы</w>
+<w>дръзновенїе</w>
+<w>и</w>
+<w>въздръ<lb/>жанїе</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Исакий</w>
+<w>же</w>
+<w>всприятъ</w>
+<w>въздержанье</w>
+<w>пакы</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Исакии</w>
+<w>же</w>
+<w>въсприятъ</w>
+<w>пакы</w>
+<w>дьрзновение</w>
+<w>и</w>
+<w>въздьржание</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Исакий</w>
+<w>же</w>
+<w>всприятъ</w>
+<w>въздержанье</w>
+<w>пакы</w>
+</rdg>
+</app></p></div></body></text></TEI>

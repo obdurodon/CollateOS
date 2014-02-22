@@ -1,109 +1,90 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>199, 9</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="9">
-            <p>
-               <app>
-                  <lem>
-                     <w>Святославъ,</w>
-                     <w>сынъ</w>
-                     <w>Ярославль,</w>
-                     <w>мѣсяца</w>
-                     <w>декабря 27,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ст҃ославъ</w>
-                        <w>сн҃ъ</w>
-                        <w>я<lb/>рославль.</w>
-                        <w>мц<hi rend="sup">с</hi>а.</w>
-                        <w>декабрѧ</w>
-                        <w>.к҃з. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ст҃ославъ</w>
-                        <w>сн҃ъ</w>
-                        <w>ярославовъ.</w>
-                        <w>мц<hi rend="sup">с</hi>а</w>
-                        <w>де<hi rend="sup">к</hi>
-                        </w>
-                        <w>.к҃з.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ст҃ославъ.</w>
-                        <w>сн҃ъ</w>
-                        <w>ярославовъ.</w>
-                        <w>мц<hi rend="sup">с</hi>а</w>
-                        <w>декабрѧ</w>
-                        <w>.к҃з. <lb/>
-                        </w>
-                        <w>
-                           <pb n="105r"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ст҃ославъ.</w>
-                        <w>сн҃ъ <lb/>
-                        </w>
-                        <w>ярославль.</w>
-                        <w>мц҃а.</w>
-                        <w>дек<hi rend="sup">б</hi>ѧ.</w>
-                        <w>въ. <lb/>
-                        </w>
-                        <w>.к҃з.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ст҃ославь.</w>
-                        <w>сн҃ъ <lb/>
-                        </w>
-                        <w>ярославль.</w>
-                        <w>мц<hi rend="sup">с</hi>а</w>
-                        <w>декабрѧ</w>
-                        <w>въ</w>
-                        <w>к҃з.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Святославъ,</w>
-                        <w>сынъ</w>
-                        <w>Ярославль,</w>
-                        <w>мѣсяца</w>
-                        <w>декабря 27,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Святославъ,</w>
-                        <w>сынъ</w>
-                        <w>Ярославль,</w>
-                        <w>мѣсяца</w>
-                        <w>декабря 27,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Святославъ,</w>
-                        <w>сынъ</w>
-                        <w>Ярославль,</w>
-                        <w>мѣсяца</w>
-                        <w>декабря 27,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>199, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="9"><p>
+<app>
+<lem wit="#lem">
+<w>Святославъ,</w>
+<w>сынъ</w>
+<w>Ярославль,</w>
+<w>мѣсяца</w>
+<w>декабря 27,</w>
+
+</lem>
+
+<rdg wit="#lav">
+<w>ст҃ославъ</w>
+<w>сн҃ъ</w>
+<w>я<lb/>рославль.</w>
+<w>мц<hi rend="sup">с</hi>а.</w>
+<w>декабрѧ</w>
+<w>.к҃з. <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>ст҃ославъ</w>
+<w>сн҃ъ</w>
+<w>ярославовъ.</w>
+<w>мц<hi rend="sup">с</hi>а</w>
+<w>де<hi rend="sup">к</hi></w>
+<w>.к҃з.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ст҃ославъ.</w>
+<w>сн҃ъ</w>
+<w>ярославовъ.</w>
+<w>мц<hi rend="sup">с</hi>а</w>
+<w>декабрѧ</w>
+<w>.к҃з. <lb/><pb n="105r"/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>ст҃ославъ.</w>
+<w>сн҃ъ <lb/></w>
+
+<w>ярославль.</w>
+<w>мц҃а.</w>
+<w>дек<hi rend="sup">б</hi>ѧ.</w>
+<w>въ. <lb/></w>
+
+<w>.к҃з.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ст҃ославь.</w>
+<w>сн҃ъ <lb/></w>
+
+<w>ярославль.</w>
+<w>мц<hi rend="sup">с</hi>а</w>
+<w>декабрѧ</w>
+<w>въ</w>
+<w>к҃з.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Святославъ,</w>
+<w>сынъ</w>
+<w>Ярославль,</w>
+<w>мѣсяца</w>
+<w>декабря 27,</w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>Святославъ,</w>
+<w>сынъ</w>
+<w>Ярославль,</w>
+<w>мѣсяца</w>
+<w>декабря 27,</w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>Святославъ,</w>
+<w>сынъ</w>
+<w>Ярославль,</w>
+<w>мѣсяца</w>
+<w>декабря 27,</w>
+
+</rdg>
+</app></p></div></body></text></TEI>

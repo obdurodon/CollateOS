@@ -1,78 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>12, 13</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="13">
-            <p>
-               <app>
-                  <lem>
-                     <w>послѣже</w>
-                     <w>при</w>
-                     <w>Ользѣ.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>послѣже</w>
-                        <w>прі <lb/>
-                        </w>
-                        <w>ѡлзѣ.</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>послѣже</w>
-                        <w>при</w>
-                        <w>олзѣ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>после<hi rend="sup">ж</hi>
-                        </w>
-                        <w>при</w>
-                        <w>ѡлзѣ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>послеже</w>
-                        <w>при</w>
-                        <w>ѡлзѣ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>послѣже</w>
-                        <w>при</w>
-                        <w>ѡль<lb/>зѣ.</w>
-                     </rdg>
-                     <rdg wit="#xle"/>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>послѣже</w>
-                        <w>при</w>
-                        <w>Олзѣ.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>послѣже,</w>
-                        <w>при</w>
-                        <w>Ользѣ.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>послѣже</w>
-                        <w>при</w>
-                        <w>Олзѣ.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>12, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="13"><p>
+<app>
+<lem wit="#lem">
+<w>послѣже</w>
+<w>при</w>
+<w>Ользѣ.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>послѣже</w>
+<w>прі <lb/></w>
+
+<w>ѡлзѣ.</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>послѣже</w>
+<w>при</w>
+<w>олзѣ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>после<hi rend="sup">ж</hi></w>
+<w>при</w>
+<w>ѡлзѣ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>послеже</w>
+<w>при</w>
+<w>ѡлзѣ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>послѣже</w>
+<w>при</w>
+<w>ѡль<lb/>зѣ.</w>
+</rdg>
+
+<rdg wit="#xle">
+</rdg>
+
+<rdg wit="#bych">
+<w>послѣже</w>
+<w>при</w>
+<w>Олзѣ.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>послѣже,</w>
+<w>при</w>
+<w>Ользѣ.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>послѣже</w>
+<w>при</w>
+<w>Олзѣ.</w>
+</rdg>
+</app></p></div></body></text></TEI>

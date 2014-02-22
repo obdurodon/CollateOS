@@ -1,107 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>148, 18</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="18">
-            <p>
-               <app>
-                  <lem>
-                     <w>Ярославъ</w>
-                     <w>противу,</w>
-                     <w>и</w>
-                     <w>съступиша</w>
-                     <w>ся</w>
-                     <w>въ</w>
-                     <w>чело</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ярославъ</w>
-                        <w>противу</w>
-                        <w>со<lb/>бѣ.</w>
-                        <w>и</w>
-                        <w>сступисѧ</w>
-                        <w>чело</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ярославъ</w>
-                        <w>противѹ</w>
-                        <w>емѹ.</w>
-                        <w>и</w>
-                        <w>стѹпиша<hi rend="sup">с</hi>
-                        </w>
-                        <w>в</w>
-                        <w>чело</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>
-                           <add place="margin">яросл<hi rend="sup">в</hi>а</add>
-                        </w>
-                        <w>противѹ</w>
-                        <w>емѹ.</w>
-                        <w>и</w>
-                        <w>стѹ<lb/>пишасѧ</w>
-                        <w>в</w>
-                        <w>чело</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ярославъ</w>
-                        <w>противу.</w>
-                        <w>и</w>
-                        <w>състу<lb/>п<hi rend="sup">ш</hi>и<hi rend="sup">а</hi>сѧ</w>
-                        <w>ч<hi rend="sup">в</hi>е<hi rend="sup">ъ</hi>ло</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ярославь</w>
-                        <w>противоу.</w>
-                        <w>и</w>
-                        <w>зстоупиша<hi rend="sup">с</hi>
-                        </w>
-                        <w>в</w>
-                        <w>чело</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Ярославъ</w>
-                        <w>противу</w>
-                        <w>ему,</w>
-                        <w>и</w>
-                        <w>сступися</w>
-                        <w>чело</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Ярославъ</w>
-                        <w>противу,</w>
-                        <w>и</w>
-                        <w>съступися</w>
-                        <w>чело,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Ярославъ</w>
-                        <w>противу</w>
-                        <w>ему,</w>
-                        <w>и</w>
-                        <w>сступися</w>
-                        <w>чело</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>148, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="18"><p>
+<app>
+<lem wit="#lem">
+<w>Ярославъ</w>
+<w>противу,</w>
+<w>и</w>
+<w>съступиша</w>
+<w>ся</w>
+<w>въ</w>
+<w>чело</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ярославъ</w>
+<w>противу</w>
+<w>со<lb/>бѣ.</w>
+<w>и</w>
+<w>сступисѧ</w>
+<w>чело</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ярославъ</w>
+<w>противѹ</w>
+<w>емѹ.</w>
+<w>и</w>
+<w>стѹпиша<hi rend="sup">с</hi></w>
+<w>в</w>
+<w>чело</w>
+</rdg>
+
+<rdg wit="#aka">
+<w><milestone unit="add" n="start" place="margin"/>яросл<hi rend="sup">в</hi>а<milestone unit="add" n="end"/></w>
+<w>противѹ</w>
+<w>емѹ.</w>
+<w>и</w>
+<w>стѹ<lb/>пишасѧ</w>
+<w>в</w>
+<w>чело</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ярославъ</w>
+<w>противу.</w>
+<w>и</w>
+<w>състу<lb/>п<hi rend="sup">ш</hi>и<hi rend="sup">а</hi>сѧ</w>
+<w>ч<hi rend="sup">в</hi>е<hi rend="sup">ъ</hi>ло</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ярославь</w>
+<w>противоу.</w>
+<w>и</w>
+<w>зстоупиша<hi rend="sup">с</hi></w>
+<w>в</w>
+<w>чело</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Ярославъ</w>
+<w>противу</w>
+<w>ему,</w>
+<w>и</w>
+<w>сступися</w>
+<w>чело</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Ярославъ</w>
+<w>противу,</w>
+<w>и</w>
+<w>съступися</w>
+<w>чело,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Ярославъ</w>
+<w>противу</w>
+<w>ему,</w>
+<w>и</w>
+<w>сступися</w>
+<w>чело</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,109 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>6, 15</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="15">
-            <p>
-               <app>
-                  <lem>
-                     <w>межи</w>
-                     <w>Припетью</w>
-                     <w>и</w>
-                     <w>Двиною</w>
-                     <w>и</w>
-                     <w>нарекоша</w>
-                     <w>ся</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>межю</w>
-                        <w>припетью</w>
-                        <w>и</w>
-                        <w>двиною.</w>
-                        <w>и</w>
-                        <w>нарекошасѧ</w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad">
-                        <w>межи</w>
-                        <w>припѧ<hi rend="sup">т</hi>ю</w>
-                        <w>и</w>
-                        <w>двиною</w>
-                        <w>и</w>
-                        <w>на<lb/>рекоша<hi rend="sup">с</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>межи</w>
-                        <w>прїпетью</w>
-                        <w>и</w>
-                        <w>двиною.</w>
-                        <w>и</w>
-                        <w>нарекоша<lb/>сѧ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>межи</w>
-                        <w>припѣ<lb/>тью</w>
-                        <w>и</w>
-                        <w>двиною.</w>
-                        <w>и</w>
-                        <w>наркоша<hi rend="sup">с</hi> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>межю</w>
-                        <w>припе<hi rend="sup">т</hi>ю</w>
-                        <w>и</w>
-                        <w>двиною. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>нарекоша<hi rend="sup">с</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>межю</w>
-                        <w>Припетью</w>
-                        <w>и</w>
-                        <w>Двиною</w>
-                        <w>и</w>
-                        <w>нарекошася</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>межю</w>
-                        <w>Припетию</w>
-                        <w>и</w>
-                        <w>Двиною,</w>
-                        <w>и</w>
-                        <w>нарекошася</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>межю</w>
-                        <w>Припетью</w>
-                        <w>и</w>
-                        <w>Двиною</w>
-                        <w>и</w>
-                        <w>нарекошася</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>6, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="15"><p>
+<app>
+<lem wit="#lem">
+<w>межи</w>
+<w>Припетью</w>
+<w>и</w>
+<w>Двиною</w>
+<w>и</w>
+<w>нарекоша</w>
+<w>ся</w>
+</lem>
+
+<rdg wit="#lav">
+<w>межю</w>
+<w>припетью</w>
+<w>и</w>
+<w>двиною.</w>
+<w>и</w>
+<w>нарекошасѧ</w>
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+<w>межи</w>
+<w>припѧ<hi rend="sup">т</hi>ю</w>
+<w>и</w>
+<w>двиною</w>
+<w>и</w>
+<w>на<lb/>рекоша<hi rend="sup">с</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>межи</w>
+<w>прїпетью</w>
+<w>и</w>
+<w>двиною.</w>
+<w>и</w>
+<w>нарекоша<lb/>сѧ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>межи</w>
+<w>припѣ<lb/>тью</w>
+<w>и</w>
+<w>двиною.</w>
+<w>и</w>
+<w>наркоша<hi rend="sup">с</hi><lb/></w>
+</rdg>
+
+<rdg wit="#xle">
+<w>межю</w>
+<w>припе<hi rend="sup">т</hi>ю</w>
+<w>и</w>
+<w>двиною. <lb/></w>
+
+<w>и</w>
+<w>нарекоша<hi rend="sup">с</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>межю</w>
+<w>Припетью</w>
+<w>и</w>
+<w>Двиною</w>
+<w>и</w>
+<w>нарекошася</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>межю</w>
+<w>Припетию</w>
+<w>и</w>
+<w>Двиною,</w>
+<w>и</w>
+<w>нарекошася</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>межю</w>
+<w>Припетью</w>
+<w>и</w>
+<w>Двиною</w>
+<w>и</w>
+<w>нарекошася</w>
+</rdg>
+</app></p></div></body></text></TEI>

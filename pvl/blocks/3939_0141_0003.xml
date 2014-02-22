@@ -1,97 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>141, 3</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="3">
-            <p>
-               <app>
-                  <lem>
-                     <w>Заутра</w>
-                     <w>же</w>
-                     <w>събьравъ</w>
-                     <w>избытъкъ</w>
-                     <w>Новъгородьцевь,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>заоу<lb/>тра</w>
-                        <w>же</w>
-                        <w>собравъ</w>
-                        <w>избытокъ</w>
-                        <w>но<lb/>вгородець</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>Наоутра</w>
-                        <w>же</w>
-                        <w>собравъ</w>
-                        <w>избытоко</w>
-                        <w>новгоро<hi rend="sup">д</hi>цевъ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>Наоутрїи</w>
-                        <w>же</w>
-                        <w>собравь</w>
-                        <w>избытокь</w>
-                        <w>новгоро<hi rend="sup">д</hi>це<lb/>вь.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>заоутра</w>
-                        <w>же</w>
-                        <w>собра<lb/>въ</w>
-                        <w>избытокъ</w>
-                        <w>новгородцевь. <lb/>
-                        </w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>зау<hi rend="sup">т</hi>ра</w>
-                        <w>же</w>
-                        <w>събравь</w>
-                        <w>избыто<hi rend="sup">к</hi> 
-                           <lb/>
-                        </w>
-                        <w>новогорѡдець.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>заутра</w>
-                        <w>же</w>
-                        <w>собравъ</w>
-                        <w>избытокъ</w>
-                        <w>Новгородець,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Заутра</w>
-                        <w>же</w>
-                        <w>събьравъ</w>
-                        <w>избытъкъ</w>
-                        <w>Новъгородьць</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Заутра</w>
-                        <w>же</w>
-                        <w>собравъ</w>
-                        <w>избытокъ</w>
-                        <w>новгородець,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>141, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="3"><p>
+<app>
+<lem wit="#lem">
+<w>Заутра</w>
+<w>же</w>
+<w>събьравъ</w>
+<w>избытъкъ</w>
+<w>Новъгородьцевь,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>заоу<lb/>тра</w>
+<w>же</w>
+<w>собравъ</w>
+<w>избытокъ</w>
+<w>но<lb/>вгородець</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>Наоутра</w>
+<w>же</w>
+<w>собравъ</w>
+<w>избытоко</w>
+<w>новгоро<hi rend="sup">д</hi>цевъ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>Наоутрїи</w>
+<w>же</w>
+<w>собравь</w>
+<w>избытокь</w>
+<w>новгоро<hi rend="sup">д</hi>це<lb/>вь.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>заоутра</w>
+<w>же</w>
+<w>собра<lb/>въ</w>
+<w>избытокъ</w>
+<w>новгородцевь. <lb/></w>
+
+<w>и</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>зау<hi rend="sup">т</hi>ра</w>
+<w>же</w>
+<w>събравь</w>
+<w>избыто<hi rend="sup">к</hi><lb/></w>
+<w>новогорѡдець.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>заутра</w>
+<w>же</w>
+<w>собравъ</w>
+<w>избытокъ</w>
+<w>Новгородець,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Заутра</w>
+<w>же</w>
+<w>събьравъ</w>
+<w>избытъкъ</w>
+<w>Новъгородьць</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Заутра</w>
+<w>же</w>
+<w>собравъ</w>
+<w>избытокъ</w>
+<w>новгородець,</w>
+</rdg>
+</app></p></div></body></text></TEI>

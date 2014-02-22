@@ -1,101 +1,81 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>40, 6</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="6">
-            <p>
-               <app>
-                  <lem>
-                     <w>из</w>
-                     <w>града</w>
-                     <w>комари</w>
-                     <w>и</w>
-                     <w>скорпия.</w>
-                     <w>Испросиша</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>и<lb/>з</w>
-                        <w>гра<hi rend="sup">д</hi>.</w>
-                        <w>скоропиа.</w>
-                        <w>и</w>
-                        <w>комарье.</w>
-                        <w>испросиша</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>из</w>
-                        <w>гра<lb/>да</w>
-                        <w>скоропїа.</w>
-                        <w>и</w>
-                        <w>комарье.</w>
-                        <w>испросиша</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>изъ</w>
-                        <w>града</w>
-                        <w>комари. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>скорпия.</w>
-                        <w>испросиша <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>из</w>
-                        <w>града.</w>
-                        <w>ком<hi rend="sup">р</hi>а<hi rend="sup">и</hi> 
-                           <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>скорпїа.</w>
-                        <w>испросиша</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>изъ</w>
-                        <w>града</w>
-                        <w>скоропиа</w>
-                        <w>и</w>
-                        <w>комарье.</w>
-                        <w>И</w>
-                        <w>просиша</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>из</w>
-                        <w>града</w>
-                        <w>скоропия</w>
-                        <w>и</w>
-                        <w>комари</w>
-                        <w>Въспросиша</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>из</w>
-                        <w>града</w>
-                        <w>скоропиа</w>
-                        <w>и</w>
-                        <w>комарье.</w>
-                        <w>И</w>
-                        <w>спросиша</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>40, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="6"><p>
+<app>
+<lem wit="#lem">
+<w>из</w>
+<w>града</w>
+<w>комари</w>
+<w>и</w>
+<w>скорпия.</w>
+<w>Испросиша</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>и<lb/>з</w>
+<w>гра<hi rend="sup">д</hi>.</w>
+<w>скоропиа.</w>
+<w>и</w>
+<w>комарье.</w>
+<w>испросиша</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>из</w>
+<w>гра<lb/>да</w>
+<w>скоропїа.</w>
+<w>и</w>
+<w>комарье.</w>
+<w>испросиша</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>изъ</w>
+<w>града</w>
+<w>комари. <lb/></w>
+
+<w>и</w>
+<w>скорпия.</w>
+<w>испросиша <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>из</w>
+<w>града.</w>
+<w>ком<hi rend="sup">р</hi>а<hi rend="sup">и</hi><lb/></w>
+<w>и</w>
+<w>скорпїа.</w>
+<w>испросиша</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>изъ</w>
+<w>града</w>
+<w>скоропиа</w>
+<w>и</w>
+<w>комарье.</w>
+<w>И</w>
+<w>просиша</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>из</w>
+<w>града</w>
+<w>скоропия</w>
+<w>и</w>
+<w>комари</w>
+<w>Въспросиша</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>из</w>
+<w>града</w>
+<w>скоропиа</w>
+<w>и</w>
+<w>комарье.</w>
+<w>И</w>
+<w>спросиша</w>
+</rdg>
+</app></p></div></body></text></TEI>

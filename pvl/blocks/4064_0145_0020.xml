@@ -1,136 +1,111 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>145, 20</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="20">
-            <p>
-               <app>
-                  <lem>
-                     <w>отъ</w>
-                     <w>неи</w>
-                     <w>смрадъ</w>
-                     <w>зълъ.</w>
-                     <w>Се</w>
-                     <w>же</w>
-                     <w>Богъ</w>
-                     <w>показа</w>
-                     <w>на</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ѿ</w>
-                        <w>нея</w>
-                        <w>смрадъ</w>
-                        <w>золъ.</w>
-                        <w>се</w>
-                        <w>же</w>
-                        <w>б҃ъ <lb/>
-                        </w>
-                        <w>показа</w>
-                        <w>на</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>из</w>
-                        <w>нее</w>
-                        <w>смра<hi rend="sup">д</hi>
-                        </w>
-                        <w>зо<hi rend="sup">л</hi>
-                        </w>
-                        <w>се<hi rend="sup">ж</hi> 
-                           <lb/>
-                        </w>
-                        <w>б҃ъ</w>
-                        <w>показа</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>из</w>
-                        <w>нее</w>
-                        <w>смра<hi rend="sup">д</hi>
-                        </w>
-                        <w>ѕѡлъ.</w>
-                        <w>се</w>
-                        <w>же</w>
-                        <w>бг҃ъ</w>
-                        <w>показа <lb/>
-                        </w>
-                        <w>на</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ѿ</w>
-                        <w>неи</w>
-                        <w>смра<lb/>дъ</w>
-                        <w>золъ.</w>
-                        <w>се</w>
-                        <w>же</w>
-                        <w>б҃ъ</w>
-                        <w>показа</w>
-                        <w>на <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ѿ</w>
-                        <w>неѧ</w>
-                        <w>смра<hi rend="sup">д</hi>
-                        </w>
-                        <w>ѕѡлъ.</w>
-                        <w>се</w>
-                        <w>же</w>
-                        <w>б҃ъ</w>
-                        <w>показа</w>
-                        <w>на</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>отъ</w>
-                        <w>нея</w>
-                        <w>смрадъ</w>
-                        <w>золъ.</w>
-                        <w>Се</w>
-                        <w>же</w>
-                        <w>Богъ</w>
-                        <w>показа</w>
-                        <w>на</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>отъ</w>
-                        <w>нея</w>
-                        <w>смрадъ</w>
-                        <w>зълъ.</w>
-                        <w>Се</w>
-                        <w>же</w>
-                        <w>Богъ</w>
-                        <w>показа</w>
-                        <w>на</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>от</w>
-                        <w>нея</w>
-                        <w>смрадъ</w>
-                        <w>золъ.</w>
-                        <w>Се</w>
-                        <w>же</w>
-                        <w>богъ</w>
-                        <w>показа</w>
-                        <w>на</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>145, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="20"><p>
+<app>
+<lem wit="#lem">
+<w>отъ</w>
+<w>неи</w>
+<w>смрадъ</w>
+<w>зълъ.</w>
+<w>Се</w>
+<w>же</w>
+<w>Богъ</w>
+<w>показа</w>
+<w>на</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ѿ</w>
+<w>нея</w>
+<w>смрадъ</w>
+<w>золъ.</w>
+<w>се</w>
+<w>же</w>
+<w>б҃ъ <lb/></w>
+
+<w>показа</w>
+<w>на</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>из</w>
+<w>нее</w>
+<w>смра<hi rend="sup">д</hi></w>
+<w>зо<hi rend="sup">л</hi></w>
+<w>се<hi rend="sup">ж</hi><lb/></w>
+<w>б҃ъ</w>
+<w>показа</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>из</w>
+<w>нее</w>
+<w>смра<hi rend="sup">д</hi></w>
+<w>ѕѡлъ.</w>
+<w>се</w>
+<w>же</w>
+<w>бг҃ъ</w>
+<w>показа <lb/></w>
+
+<w>на</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ѿ</w>
+<w>неи</w>
+<w>смра<lb/>дъ</w>
+<w>золъ.</w>
+<w>се</w>
+<w>же</w>
+<w>б҃ъ</w>
+<w>показа</w>
+<w>на <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>ѿ</w>
+<w>неѧ</w>
+<w>смра<hi rend="sup">д</hi></w>
+<w>ѕѡлъ.</w>
+<w>се</w>
+<w>же</w>
+<w>б҃ъ</w>
+<w>показа</w>
+<w>на</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>отъ</w>
+<w>нея</w>
+<w>смрадъ</w>
+<w>золъ.</w>
+<w>Се</w>
+<w>же</w>
+<w>Богъ</w>
+<w>показа</w>
+<w>на</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>отъ</w>
+<w>нея</w>
+<w>смрадъ</w>
+<w>зълъ.</w>
+<w>Се</w>
+<w>же</w>
+<w>Богъ</w>
+<w>показа</w>
+<w>на</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>от</w>
+<w>нея</w>
+<w>смрадъ</w>
+<w>золъ.</w>
+<w>Се</w>
+<w>же</w>
+<w>богъ</w>
+<w>показа</w>
+<w>на</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,119 +1,95 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>53, 23</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="23">
-            <p>
-               <app>
-                  <lem>
-                     <w>рѣчи</w>
-                     <w>цьсаря</w>
-                     <w>Романа.</w>
-                     <w>Игорь</w>
-                     <w>же</w>
-                     <w>призъва</w>
-                     <w>посълы</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>рѣчи</w>
-                        <w>ц҃рѧ</w>
-                        <w>рама<lb/>на.</w>
-                        <w>игорь</w>
-                        <w>же</w>
-                        <w>призва</w>
-                        <w>слы</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>рѣ<hi rend="sup">ч</hi>
-                        </w>
-                        <w>цр҃ѧ</w>
-                        <w>романа:-</w>
-                        <w>Игор</w>
-                        <w>же</w>
-                        <w>призва</w>
-                        <w>послы</w>
-                        <w>
-                           <pb n="26v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>рѣчи</w>
-                        <w>ц҃рѧ</w>
-                        <w>рома<lb/>на:·</w>
-                        <w>Игор</w>
-                        <w>же</w>
-                        <w>призва</w>
-                        <w>послы</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>рѣ<lb/>чи</w>
-                        <w>ц<hi rend="sup">с</hi>рѧ</w>
-                        <w>романа.</w>
-                        <w>игорь</w>
-                        <w>же</w>
-                        <w>призва</w>
-                        <w>посль</w>
-                        <w>
-                           <pb n="21b"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>рѣчи</w>
-                        <w>ц҃рѧ</w>
-                        <w>романа.</w>
-                        <w>игор</w>
-                        <w>же</w>
-                        <w>призва <lb/>
-                        </w>
-                        <w>послы</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>рѣчи</w>
-                        <w>царя</w>
-                        <w>Рамана.</w>
-                        <w>Игорь</w>
-                        <w>же</w>
-                        <w>призва</w>
-                        <w>слы</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>рѣчи</w>
-                        <w>цѣсаря</w>
-                        <w>Романа.</w>
-                        <w>Игорь</w>
-                        <w>же</w>
-                        <w>призъва</w>
-                        <w>сълы</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>рѣчи</w>
-                        <w>царя</w>
-                        <w>Рамана.</w>
-                        <w>Игорь</w>
-                        <w>же</w>
-                        <w>призва</w>
-                        <w>слы</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>53, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="23"><p>
+<app>
+<lem wit="#lem">
+<w>рѣчи</w>
+<w>цьсаря</w>
+<w>Романа.</w>
+<w>Игорь</w>
+<w>же</w>
+<w>призъва</w>
+<w>посълы</w>
+</lem>
+
+<rdg wit="#lav">
+<w>рѣчи</w>
+<w>ц҃рѧ</w>
+<w>рама<lb/>на.</w>
+<w>игорь</w>
+<w>же</w>
+<w>призва</w>
+<w>слы</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>рѣ<hi rend="sup">ч</hi></w>
+<w>цр҃ѧ</w>
+<w>романа:-</w>
+<w>Игор</w>
+<w>же</w>
+<w>призва</w>
+<w>послы <pb n="26v"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>рѣчи</w>
+<w>ц҃рѧ</w>
+<w>рома<lb/>на:·</w>
+<w>Игор</w>
+<w>же</w>
+<w>призва</w>
+<w>послы</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>рѣ<lb/>чи</w>
+<w>ц<hi rend="sup">с</hi>рѧ</w>
+<w>романа.</w>
+<w>игорь</w>
+<w>же</w>
+<w>призва</w>
+<w>посль <pb n="21b"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>рѣчи</w>
+<w>ц҃рѧ</w>
+<w>романа.</w>
+<w>игор</w>
+<w>же</w>
+<w>призва <lb/></w>
+
+<w>послы</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>рѣчи</w>
+<w>царя</w>
+<w>Рамана.</w>
+<w>Игорь</w>
+<w>же</w>
+<w>призва</w>
+<w>слы</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>рѣчи</w>
+<w>цѣсаря</w>
+<w>Романа.</w>
+<w>Игорь</w>
+<w>же</w>
+<w>призъва</w>
+<w>сълы</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>рѣчи</w>
+<w>царя</w>
+<w>Рамана.</w>
+<w>Игорь</w>
+<w>же</w>
+<w>призва</w>
+<w>слы</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,109 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>233, 22</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="22">
-            <p>
-               <app>
-                  <lem>
-                     <w>иже</w>
-                     <w>попалить</w>
-                     <w>дубравы,</w>
-                     <w>тако</w>
-                     <w>поженеши</w>
-                     <w>я</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>иже</w>
-                        <w>попалѧеть</w>
-                        <w>дубра<lb/>вы·</w>
-                        <w>тако</w>
-                        <w>пожениши</w>
-                        <w>я</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>иже</w>
-                        <w>попалить</w>
-                        <w>доу<lb/>бравы·</w>
-                        <w>тако</w>
-                        <w>поженеши</w>
-                        <w>я</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>иже</w>
-                        <w>попали<lb/>тъ</w>
-                        <w>дѹбравы·</w>
-                        <w>и</w>
-                        <w>тако</w>
-                        <w>поженешї</w>
-                        <w>а</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>иже</w>
-                        <w>по<lb/>палить</w>
-                        <w>дубравы·</w>
-                        <w>тако <lb/>
-                        </w>
-                        <w>поженеши</w>
-                        <w>я</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>иже</w>
-                        <w>попали<hi rend="sup">т</hi>
-                        </w>
-                        <w>доубравы.</w>
-                        <w>тако</w>
-                        <w>же</w>
-                        <w>поженешї</w>
-                        <w>а</w>
-                        <w>
-                           <pb n="106r"/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>иже</w>
-                        <w>попаляеть</w>
-                        <w>дубравы,</w>
-                        <w>тако</w>
-                        <w>поженеши</w>
-                        <w>я</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>иже</w>
-                        <w>попаляеть</w>
-                        <w>дубравы,</w>
-                        <w>Тако</w>
-                        <w>поженеши</w>
-                        <w>я</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>иже</w>
-                        <w>попаляеть</w>
-                        <w>дубравы,</w>
-                        <w>тако</w>
-                        <w>поженеши</w>
-                        <w>я</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>233, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="22"><p>
+<app>
+<lem wit="#lem">
+<w>иже</w>
+<w>попалить</w>
+<w>дубравы,</w>
+<w>тако</w>
+<w>поженеши</w>
+<w>я</w>
+</lem>
+
+<rdg wit="#lav">
+<w>иже</w>
+<w>попалѧеть</w>
+<w>дубра<lb/>вы·</w>
+<w>тако</w>
+<w>пожениши</w>
+<w>я</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>иже</w>
+<w>попалить</w>
+<w>доу<lb/>бравы·</w>
+<w>тако</w>
+<w>поженеши</w>
+<w>я</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>иже</w>
+<w>попали<lb/>тъ</w>
+<w>дѹбравы·</w>
+<w>и</w>
+<w>тако</w>
+<w>поженешї</w>
+<w>а</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>иже</w>
+<w>по<lb/>палить</w>
+<w>дубравы·</w>
+<w>тако <lb/></w>
+
+<w>поженеши</w>
+<w>я</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>иже</w>
+<w>попали<hi rend="sup">т</hi></w>
+<w>доубравы.</w>
+<w>тако</w>
+<w>же</w>
+<w>поженешї</w>
+<w>а <pb n="106r"/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>иже</w>
+<w>попаляеть</w>
+<w>дубравы,</w>
+<w>тако</w>
+<w>поженеши</w>
+<w>я</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>иже</w>
+<w>попаляеть</w>
+<w>дубравы,</w>
+<w>Тако</w>
+<w>поженеши</w>
+<w>я</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>иже</w>
+<w>попаляеть</w>
+<w>дубравы,</w>
+<w>тако</w>
+<w>поженеши</w>
+<w>я</w>
+</rdg>
+</app></p></div></body></text></TEI>

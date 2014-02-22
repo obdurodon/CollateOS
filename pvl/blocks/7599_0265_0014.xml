@@ -1,116 +1,97 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>265, 14</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="14">
-            <p>
-               <app>
-                  <lem>
-                     <w>своего</w>
-                     <w>къ</w>
-                     <w>Володимиру</w>
-                     <w>воротить</w>
-                     <w>ся,</w>
-                     <w>вѣдѣ</w>
-                     <w>бо</w>
-                     <w>ся</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>свои</w>
-                        <w>к</w>
-                        <w>володи<lb/>меру</w>
-                        <w>воротить</w>
-                        <w>сѧ·</w>
-                        <w>вѣдѣ</w>
-                        <w>бо</w>
-                        <w>сѧ <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>к</w>
-                        <w>воло<hi rend="sup">д</hi>мерѹ·</w>
-                        <w>вѣде</w>
-                        <w>сѧ</w>
-                        <w>бо</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>к</w>
-                        <w>володимирю·</w>
-                        <w>вѣде</w>
-                        <w>сѧ</w>
-                        <w>бо</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>сво<lb/>его</w>
-                        <w>к</w>
-                        <w>володимер<sic>у</sic>·</w>
-                        <w>вороти</w>
-                        <w>сѧ <lb/>
-                        </w>
-                        <w>вѣде</w>
-                        <w>бо</w>
-                        <w>сѧ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>своего</w>
-                        <w>къ</w>
-                        <w>вол<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>мероу,</w>
-                        <w>и</w>
-                        <w>ворѡтит</w>
-                        <w>сѧ· <lb/>
-                        </w>
-                        <w>вѣдаю</w>
-                        <w>бо</w>
-                        <w>сѧ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>свой</w>
-                        <w>к</w>
-                        <w>Володимеру</w>
-                        <w>воротиться,</w>
-                        <w>вѣдѣ</w>
-                        <w>бо</w>
-                        <w>ся</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>свои</w>
-                        <w>къ</w>
-                        <w>Володимеру</w>
-                        <w>воротиться,</w>
-                        <w>и</w>
-                        <w>вѣдѣ</w>
-                        <w>бо</w>
-                        <w>ся</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>свой</w>
-                        <w>к</w>
-                        <w>Володимеру</w>
-                        <w>воротиться,</w>
-                        <w>вѣдѣ</w>
-                        <w>бо</w>
-                        <w>ся</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>265, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="14"><p>
+<app>
+<lem wit="#lem">
+<w>своего</w>
+<w>къ</w>
+<w>Володимиру</w>
+<w>воротить</w>
+<w>ся,</w>
+<w>вѣдѣ</w>
+<w>бо</w>
+<w>ся</w>
+</lem>
+
+<rdg wit="#lav">
+<w>свои</w>
+<w>к</w>
+<w>володи<lb/>меру</w>
+<w>воротить</w>
+<w>сѧ·</w>
+<w>вѣдѣ</w>
+<w>бо</w>
+<w>сѧ <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>к</w>
+<w>воло<hi rend="sup">д</hi>мерѹ·</w>
+<w>вѣде</w>
+<w>сѧ</w>
+<w>бо</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>к</w>
+<w>володимирю·</w>
+<w>вѣде</w>
+<w>сѧ</w>
+<w>бо</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>сво<lb/>его</w>
+<w>к</w>
+<w>володимер<milestone unit="sic" n="start"/>у<milestone unit="sic" n="end"/>·</w>
+<w>вороти</w>
+<w>сѧ <lb/></w>
+
+<w>вѣде</w>
+<w>бо</w>
+<w>сѧ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>своего</w>
+<w>къ</w>
+<w>вол<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>мероу,</w>
+<w>и</w>
+<w>ворѡтит</w>
+<w>сѧ· <lb/></w>
+
+<w>вѣдаю</w>
+<w>бо</w>
+<w>сѧ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>свой</w>
+<w>к</w>
+<w>Володимеру</w>
+<w>воротиться,</w>
+<w>вѣдѣ</w>
+<w>бо</w>
+<w>ся</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>свои</w>
+<w>къ</w>
+<w>Володимеру</w>
+<w>воротиться,</w>
+<w>и</w>
+<w>вѣдѣ</w>
+<w>бо</w>
+<w>ся</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>свой</w>
+<w>к</w>
+<w>Володимеру</w>
+<w>воротиться,</w>
+<w>вѣдѣ</w>
+<w>бо</w>
+<w>ся</w>
+</rdg>
+</app></p></div></body></text></TEI>

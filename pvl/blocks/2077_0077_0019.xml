@@ -1,124 +1,105 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>77, 19</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="19">
-            <p>
-               <app>
-                  <lem>
-                     <w>къ</w>
-                     <w>граду,</w>
-                     <w>яко</w>
-                     <w>предамы</w>
-                     <w>ти</w>
-                     <w>Яропълка;</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>къ</w>
-                        <w>граду.</w>
-                        <w>яко</w>
-                        <w>предамы</w>
-                        <w>ти</w>
-                        <w>ярополка.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ко</w>
-                        <w>гра<hi rend="sup">д</hi>у.</w>
-                        <w>яко</w>
-                        <w>предамы</w>
-                        <w>ти</w>
-                        <w>яро<lb/>полка.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ко</w>
-                        <w>гра<hi rend="sup">д</hi>ѹ.</w>
-                        <w>яко</w>
-                        <w>предамы</w>
-                        <w>ти</w>
-                        <w>ярополка.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>къ</w>
-                        <w>городу</w>
-                        <w>бранью.</w>
-                        <w>як<hi rend="sup">о</hi> 
-                           <lb/>
-                        </w>
-                        <w>предамы</w>
-                        <w>ти</w>
-                        <w>ярополка.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>къ</w>
-                        <w>градоу <lb/>
-                        </w>
-                        <w>бра<hi rend="sup">н</hi>ю.</w>
-                        <w>яко</w>
-                        <w>предамы</w>
-                        <w>ти</w>
-                        <w>ярополка;</w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>ко</w>
-                        <w>граду</w>
-                        <w>яко</w>
-                        <w>предамы</w>
-                        <w>и</w>
-                        <w>тя</w>
-                        <w>ярополка</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>ко</w>
-                        <w>граду</w>
-                        <w>яко</w>
-                        <w>предамы</w>
-                        <w>ти</w>
-                        <w>ярополка</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>къ</w>
-                        <w>граду,</w>
-                        <w>яко</w>
-                        <w>предамы</w>
-                        <w>ти</w>
-                        <w>Ярополка;</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>къ</w>
-                        <w>граду,</w>
-                        <w>яко</w>
-                        <w>предамы</w>
-                        <w>ти</w>
-                        <w>Яропълка;</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>къ</w>
-                        <w>граду,</w>
-                        <w>яко</w>
-                        <w>предамы</w>
-                        <w>ти</w>
-                        <w>Ярополка.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>77, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="19"><p>
+<app>
+<lem wit="#lem">
+<w>къ</w>
+<w>граду,</w>
+<w>яко</w>
+<w>предамы</w>
+<w>ти</w>
+<w>Яропълка;</w>
+</lem>
+
+<rdg wit="#lav">
+<w>къ</w>
+<w>граду.</w>
+<w>яко</w>
+<w>предамы</w>
+<w>ти</w>
+<w>ярополка.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ко</w>
+<w>гра<hi rend="sup">д</hi>у.</w>
+<w>яко</w>
+<w>предамы</w>
+<w>ти</w>
+<w>яро<lb/>полка.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ко</w>
+<w>гра<hi rend="sup">д</hi>ѹ.</w>
+<w>яко</w>
+<w>предамы</w>
+<w>ти</w>
+<w>ярополка.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>къ</w>
+<w>городу</w>
+<w>бранью.</w>
+<w>як<hi rend="sup">о</hi><lb/></w>
+<w>предамы</w>
+<w>ти</w>
+<w>ярополка.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>къ</w>
+<w>градоу <lb/></w>
+
+<w>бра<hi rend="sup">н</hi>ю.</w>
+<w>яко</w>
+<w>предамы</w>
+<w>ти</w>
+<w>ярополка;</w>
+</rdg>
+
+<rdg wit="#kom">
+<w>ко</w>
+<w>граду</w>
+<w>яко</w>
+<w>предамы</w>
+<w>и</w>
+<w>тя</w>
+<w>ярополка</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>ко</w>
+<w>граду</w>
+<w>яко</w>
+<w>предамы</w>
+<w>ти</w>
+<w>ярополка</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>къ</w>
+<w>граду,</w>
+<w>яко</w>
+<w>предамы</w>
+<w>ти</w>
+<w>Ярополка;</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>къ</w>
+<w>граду,</w>
+<w>яко</w>
+<w>предамы</w>
+<w>ти</w>
+<w>Яропълка;</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>къ</w>
+<w>граду,</w>
+<w>яко</w>
+<w>предамы</w>
+<w>ти</w>
+<w>Ярополка.</w>
+</rdg>
+</app></p></div></body></text></TEI>

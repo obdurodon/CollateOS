@@ -1,120 +1,97 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>207, 3</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="3">
-            <p>
-               <app>
-                  <lem>
-                     <w>жизни</w>
-                     <w>и</w>
-                     <w>покою</w>
-                     <w>съподоби</w>
-                     <w>ся.</w>
-                     <w>Такъ</w>
-                     <w>бо</w>
-                     <w>бяше</w>
-                     <w>блаженыи</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>жизни</w>
-                        <w>и</w>
-                        <w>покою</w>
-                        <w>сподобї<lb/>сѧ.</w>
-                        <w>такъ</w>
-                        <w>бѧше</w>
-                        <w>блж҃ныи</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>жизни</w>
-                        <w>спо<hi rend="sup">д</hi>би<hi rend="sup">с</hi>.</w>
-                        <w>так</w>
-                        <w>же</w>
-                        <w>бѧше</w>
-                        <w>блж҃ныи</w>
-                        <w>
-                           <pb n="120r"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>жизни</w>
-                        <w>сподобисѧ.</w>
-                        <w>такь <lb/>
-                        </w>
-                        <w>же</w>
-                        <w>бѧше</w>
-                        <w>блж҃ны</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>жизни.</w>
-                        <w>и</w>
-                        <w>покою</w>
-                        <w>спо<lb/>добисѧ.</w>
-                        <w>такъ</w>
-                        <w>бо</w>
-                        <w>бѧше <lb/>
-                        </w>
-                        <w>блжн҃ыи</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>жизни</w>
-                        <w>и</w>
-                        <w>покою</w>
-                        <w>сп<hi rend="sup">д</hi>ѡ<hi rend="sup">о</hi> 
-                           <lb/>
-                        </w>
-                        <w>таковъ</w>
-                        <w>бо</w>
-                        <w>бѧше</w>
-                        <w>блж҃енныи</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>жизни</w>
-                        <w>и</w>
-                        <w>покою</w>
-                        <w>сподобіся.</w>
-                        <w>Такъ</w>
-                        <w>бяше</w>
-                        <w>блаженый</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>жизни</w>
-                        <w>и</w>
-                        <w>покою</w>
-                        <w>съподобися.</w>
-                        <w>Такъ</w>
-                        <w>бяше</w>
-                        <w>блаженыи</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>жизни</w>
-                        <w>и</w>
-                        <w>покою</w>
-                        <w>сподобися.</w>
-                        <w>Такъ</w>
-                        <w>бяше</w>
-                        <w>блаженый</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>207, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="3"><p>
+<app>
+<lem wit="#lem">
+<w>жизни</w>
+<w>и</w>
+<w>покою</w>
+<w>съподоби</w>
+<w>ся.</w>
+<w>Такъ</w>
+<w>бо</w>
+<w>бяше</w>
+<w>блаженыи</w>
+</lem>
+
+<rdg wit="#lav">
+<w>жизни</w>
+<w>и</w>
+<w>покою</w>
+<w>сподобї<lb/>сѧ.</w>
+<w>такъ</w>
+<w>бѧше</w>
+<w>блж҃ныи</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>жизни</w>
+<w>спо<hi rend="sup">д</hi>би<hi rend="sup">с</hi>.</w>
+<w>так</w>
+<w>же</w>
+<w>бѧше</w>
+<w>блж҃ныи <pb n="120r"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>жизни</w>
+<w>сподобисѧ.</w>
+<w>такь <lb/></w>
+
+<w>же</w>
+<w>бѧше</w>
+<w>блж҃ны</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>жизни.</w>
+<w>и</w>
+<w>покою</w>
+<w>спо<lb/>добисѧ.</w>
+<w>такъ</w>
+<w>бо</w>
+<w>бѧше <lb/></w>
+
+<w>блжн҃ыи</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>жизни</w>
+<w>и</w>
+<w>покою</w>
+<w>сп<hi rend="sup">д</hi>ѡ<hi rend="sup">о</hi><lb/>бисѧ.</w>
+<w>таковъ</w>
+<w>бо</w>
+<w>бѧше</w>
+<w>блж҃енныи</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>жизни</w>
+<w>и</w>
+<w>покою</w>
+<w>сподобіся.</w>
+<w>Такъ</w>
+<w>бяше</w>
+<w>блаженый</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>жизни</w>
+<w>и</w>
+<w>покою</w>
+<w>съподобися.</w>
+<w>Такъ</w>
+<w>бяше</w>
+<w>блаженыи</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>жизни</w>
+<w>и</w>
+<w>покою</w>
+<w>сподобися.</w>
+<w>Такъ</w>
+<w>бяше</w>
+<w>блаженый</w>
+</rdg>
+</app></p></div></body></text></TEI>

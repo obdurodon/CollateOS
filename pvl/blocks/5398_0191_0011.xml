@@ -1,117 +1,93 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>191, 11</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="11">
-            <p>
-               <app>
-                  <lem>
-                     <w>заутрьни”.</w>
-                     <w>И</w>
-                     <w>повѣда</w>
-                     <w>старьць</w>
-                     <w>видѣние</w>
-                     <w>се</w>
-                     <w>игумену</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>заоутрени.</w>
-                        <w>и</w>
-                        <w>по<lb/>вѣда</w>
-                        <w>старець</w>
-                        <w>видѣньѥ</w>
-                        <w>се</w>
-                        <w>и<lb/>гумену.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>заоутрени.</w>
-                        <w>и</w>
-                        <w>поведа</w>
-                        <w>старець</w>
-                        <w>видѣ<lb/>ние</w>
-                        <w>се</w>
-                        <w>игоуменѹ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>заоутрени.</w>
-                        <w>и</w>
-                        <w>поведа</w>
-                        <w>старець <lb/>
-                        </w>
-                        <w>видение</w>
-                        <w>се</w>
-                        <w>игѹменѹ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>за<lb/>вѣтрѣнии.</w>
-                        <w>и</w>
-                        <w>повѣда</w>
-                        <w>старѣ<lb/>
-                        </w>
-                        <w>
-                           <sic>ц</sic>ь</w>
-                        <w>видѣние</w>
-                        <w>се</w>
-                        <w>игумену</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>зау<hi rend="sup">т</hi>рени.</w>
-                        <w>и</w>
-                        <w>повѣда</w>
-                        <w>старе<hi rend="sup">ц</hi> 
-                           <lb/>
-                        </w>
-                        <w>виденїе</w>
-                        <w>се</w>
-                        <w>игоуменоу</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>заутрени”.</w>
-                        <w>И</w>
-                        <w>повѣда</w>
-                        <w>старець</w>
-                        <w>видѣнье</w>
-                        <w>се</w>
-                        <w>игумену</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>заутрьни”.</w>
-                        <w>И</w>
-                        <w>повѣда</w>
-                        <w>старьць</w>
-                        <w>видѣние</w>
-                        <w>се</w>
-                        <w>игумену</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>заутрени”.</w>
-                        <w>И</w>
-                        <w>повѣда</w>
-                        <w>старець</w>
-                        <w>видѣнье</w>
-                        <w>се</w>
-                        <w>игумену</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>191, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="11"><p>
+<app>
+<lem wit="#lem">
+<w>заутрьни”.</w>
+<w>И</w>
+<w>повѣда</w>
+<w>старьць</w>
+<w>видѣние</w>
+<w>се</w>
+<w>игумену</w>
+</lem>
+
+<rdg wit="#lav">
+<w>заоутрени.</w>
+<w>и</w>
+<w>по<lb/>вѣда</w>
+<w>старець</w>
+<w>видѣньѥ</w>
+<w>се</w>
+<w>и<lb/>гумену.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>заоутрени.</w>
+<w>и</w>
+<w>поведа</w>
+<w>старець</w>
+<w>видѣ<lb/>ние</w>
+<w>се</w>
+<w>игоуменѹ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>заоутрени.</w>
+<w>и</w>
+<w>поведа</w>
+<w>старець <lb/></w>
+
+<w>видение</w>
+<w>се</w>
+<w>игѹменѹ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>за<lb/>вѣтрѣнии.</w>
+<w>и</w>
+<w>повѣда</w>
+<w>старѣ<lb/><milestone unit="sic" n="start"/>ц<milestone unit="sic" n="end"/>ь</w>
+<w>видѣние</w>
+<w>се</w>
+<w>игумену</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>зау<hi rend="sup">т</hi>рени.</w>
+<w>и</w>
+<w>повѣда</w>
+<w>старе<hi rend="sup">ц</hi><lb/></w>
+<w>виденїе</w>
+<w>се</w>
+<w>игоуменоу</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>заутрени”.</w>
+<w>И</w>
+<w>повѣда</w>
+<w>старець</w>
+<w>видѣнье</w>
+<w>се</w>
+<w>игумену</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>заутрьни”.</w>
+<w>И</w>
+<w>повѣда</w>
+<w>старьць</w>
+<w>видѣние</w>
+<w>се</w>
+<w>игумену</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>заутрени”.</w>
+<w>И</w>
+<w>повѣда</w>
+<w>старець</w>
+<w>видѣнье</w>
+<w>се</w>
+<w>игумену</w>
+</rdg>
+</app></p></div></body></text></TEI>

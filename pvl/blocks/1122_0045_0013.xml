@@ -1,122 +1,105 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>45, 13</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="13">
-            <p>
-               <app>
-                  <lem>
-                     <w>Въ</w>
-                     <w>лѣто 6451.</w>
-                     <w>Пакы</w>
-                     <w>придоша</w>
-                     <w>Угъри</w>
-                     <w>на</w>
-                     <w>Цьсарьградъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>В</w>
-                        <w>лѣ<hi rend="sup">т</hi>.</w>
-                        <w>҂ѕ҃.у҃.н҃а.</w>
-                        <w>Паки</w>
-                        <w>придоша <lb/>
-                        </w>
-                        <w>оугри</w>
-                        <w>на</w>
-                        <w>ц҃рьградъ.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>҂ѕ҃</w>
-                        <w>у҃</w>
-                        <w>н҃а.</w>
-                        <w>пакы</w>
-                        <w>приидоша</w>
-                        <w>оугре</w>
-                        <w>на</w>
-                        <w>ц҃рьгра<hi rend="sup">д</hi>.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>В</w>
-                        <w>лѣ<hi rend="sup">т</hi>.</w>
-                        <w>҂ѕ҃.у҃.н҃а.</w>
-                        <w>паки</w>
-                        <w>прїидоша</w>
-                        <w>оугри</w>
-                        <w>на</w>
-                        <w>царьгра<hi rend="sup">д</hi>. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>В</w>
-                        <w>лѣто.</w>
-                        <w>҂ѕ҃.у҃.н҃а·:· <lb/>
-                        </w>
-                        <w>Пакы</w>
-                        <w>приидоша</w>
-                        <w>на</w>
-                        <w>цр<hi rend="sup">с</hi>ьгра<hi rend="sup">д</hi>. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>В</w>
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>҂ѕ҃.у҃.<lb/>н҃а.</w>
-                        <w>пакы</w>
-                        <w>прїидоша</w>
-                        <w>оугре</w>
-                        <w>на</w>
-                        <w>ц҃рьгра<hi rend="sup">д</hi>.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>В</w>
-                        <w>лѣто 6451.</w>
-                        <w>Паки</w>
-                        <w>придоша</w>
-                        <w>Угри</w>
-                        <w>на</w>
-                        <w>Царьградъ,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Въ</w>
-                        <w>лѣто 6451.</w>
-                        <w>Пакы</w>
-                        <w>придоша</w>
-                        <w>Угъри</w>
-                        <w>на</w>
-                        <w>Цѣсарьградъ,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>В</w>
-                        <w>лѣто 6451.</w>
-                        <w>Паки</w>
-                        <w>придоша</w>
-                        <w>угри</w>
-                        <w>на</w>
-                        <w>Царьградъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>45, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="13"><p>
+<app>
+<lem wit="#lem">
+<w>Въ</w>
+<w>лѣто 6451.</w>
+
+<w>Пакы</w>
+<w>придоша</w>
+<w>Угъри</w>
+<w>на</w>
+<w>Цьсарьградъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>В</w>
+<w>лѣ<hi rend="sup">т</hi>.</w>
+<w>҂ѕ҃.у҃.н҃а.</w>
+<w>Паки</w>
+<w>придоша <lb/></w>
+
+<w>оугри</w>
+<w>на</w>
+<w>ц҃рьградъ.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>лѣ<hi rend="sup">т</hi></w>
+<w>҂ѕ҃</w>
+<w>у҃</w>
+<w>н҃а.</w>
+<w>пакы</w>
+<w>приидоша</w>
+<w>оугре</w>
+<w>на</w>
+<w>ц҃рьгра<hi rend="sup">д</hi>.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>В</w>
+<w>лѣ<hi rend="sup">т</hi>.</w>
+<w>҂ѕ҃.у҃.н҃а.</w>
+<w>паки</w>
+<w>прїидоша</w>
+<w>оугри</w>
+<w>на</w>
+<w>царьгра<hi rend="sup">д</hi>. <lb/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>В</w>
+<w>лѣто.</w>
+<w>҂ѕ҃.у҃.н҃а·:· <lb/></w>
+
+<w>Пакы</w>
+<w>приидоша</w>
+<w>на</w>
+<w>цр<hi rend="sup">с</hi>ьгра<hi rend="sup">д</hi>. <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>В</w>
+<w>лѣ<hi rend="sup">т</hi></w>
+<w>҂ѕ҃.у҃.<lb/>н҃а.</w>
+<w>пакы</w>
+<w>прїидоша</w>
+<w>оугре</w>
+<w>на</w>
+<w>ц҃рьгра<hi rend="sup">д</hi>.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>В</w>
+<w>лѣто 6451.</w>
+
+<w>Паки</w>
+<w>придоша</w>
+<w>Угри</w>
+<w>на</w>
+<w>Царьградъ,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Въ</w>
+<w>лѣто 6451.</w>
+
+<w>Пакы</w>
+<w>придоша</w>
+<w>Угъри</w>
+<w>на</w>
+<w>Цѣсарьградъ,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>В</w>
+<w>лѣто 6451.</w>
+
+<w>Паки</w>
+<w>придоша</w>
+<w>угри</w>
+<w>на</w>
+<w>Царьградъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

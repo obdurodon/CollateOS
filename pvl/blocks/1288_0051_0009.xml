@@ -1,115 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>51, 9</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="9">
-            <p>
-               <app>
-                  <lem>
-                     <w>Русьску</w>
-                     <w>и</w>
-                     <w>Грьчьску.</w>
-                     <w>Аще</w>
-                     <w>обрящють</w>
-                     <w>Русь</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>руску</w>
-                        <w>и</w>
-                        <w>гречьску.</w>
-                        <w>а<lb/>ще</w>
-                        <w>ѡбрѧщеть</w>
-                        <w>въ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>роускоу</w>
-                        <w>и</w>
-                        <w>грек<hi rend="sup">ц</hi>
-                        </w>
-                        <w>
-                           <sic>ѹ</sic>.</w>
-                        <w>аще</w>
-                        <w>ѡбрѧ<lb/>щють</w>
-                        <w>роу<hi rend="sup">с</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>рѹс<hi rend="sup">с</hi>кѹ</w>
-                        <w>и</w>
-                        <w>грецкѹ.</w>
-                        <w>аще</w>
-                        <w>ѡбрѧщѹть</w>
-                        <w>рѹ<hi rend="sup">с</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>рускому</w>
-                        <w>и</w>
-                        <w>грѣцком<hi rend="sup">у</hi>. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>аще</w>
-                        <w>ѡбрѧщють</w>
-                        <w>русь</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>грецкомѹ</w>
-                        <w>и</w>
-                        <w>роу<hi rend="sup">с</hi>комоу.</w>
-                        <w>и</w>
-                        <w>аще</w>
-                        <w>обрѧщоу<hi rend="sup">т</hi>
-                        </w>
-                        <w>роу<hi rend="sup">с</hi>
-                        </w>
-                        <w>
-                           <pb n="19v"/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Руску</w>
-                        <w>и</w>
-                        <w>Гречьску.</w>
-                        <w>Аще</w>
-                        <w>обрящють</w>
-                        <w>въ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Русьску</w>
-                        <w>и</w>
-                        <w>Грьчьску.</w>
-                        <w>Аще</w>
-                        <w>обрящють</w>
-                        <w>въ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>руску</w>
-                        <w>и</w>
-                        <w>гречьску.</w>
-                        <w>Аще</w>
-                        <w>обрящють</w>
-                        <w>въ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>51, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="9"><p>
+<app>
+<lem wit="#lem">
+<w>Русьску</w>
+<w>и</w>
+<w>Грьчьску.</w>
+<w>Аще</w>
+<w>обрящють</w>
+<w>Русь</w>
+</lem>
+
+<rdg wit="#lav">
+<w>руску</w>
+<w>и</w>
+<w>гречьску.</w>
+<w>а<lb/>ще</w>
+<w>ѡбрѧщеть</w>
+<w>въ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>роускоу</w>
+<w>и</w>
+<w>грек<hi rend="sup">ц</hi><milestone unit="sic" n="start"/>ѹ<milestone unit="sic" n="end"/>.</w>
+<w>аще</w>
+<w>ѡбрѧ<lb/>щють</w>
+<w>роу<hi rend="sup">с</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>рѹс<hi rend="sup">с</hi>кѹ</w>
+<w>и</w>
+<w>грецкѹ.</w>
+<w>аще</w>
+<w>ѡбрѧщѹть</w>
+<w>рѹ<hi rend="sup">с</hi></w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>рускому</w>
+<w>и</w>
+<w>грѣцком<hi rend="sup">у</hi>. <lb/></w>
+
+<w>и</w>
+<w>аще</w>
+<w>ѡбрѧщють</w>
+<w>русь</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>грецкомѹ</w>
+<w>и</w>
+<w>роу<hi rend="sup">с</hi>комоу.</w>
+<w>и</w>
+<w>аще</w>
+<w>обрѧщоу<hi rend="sup">т</hi></w>
+<w>роу<hi rend="sup">с</hi><pb n="19v"/></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Руску</w>
+<w>и</w>
+<w>Гречьску.</w>
+<w>Аще</w>
+<w>обрящють</w>
+<w>въ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Русьску</w>
+<w>и</w>
+<w>Грьчьску.</w>
+<w>Аще</w>
+<w>обрящють</w>
+<w>въ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>руску</w>
+<w>и</w>
+<w>гречьску.</w>
+<w>Аще</w>
+<w>обрящють</w>
+<w>въ</w>
+</rdg>
+</app></p></div></body></text></TEI>

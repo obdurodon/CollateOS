@@ -1,109 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>261, 3</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="3">
-            <p>
-               <app>
-                  <lem>
-                     <w>пьрсьмъ</w>
-                     <w>троскотати.</w>
-                     <w>И</w>
-                     <w>приступи</w>
-                     <w>Търчинъ,</w>
-                     <w>именьмь</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>персе<hi rend="sup">м</hi>
-                        </w>
-                        <w>троскотати·</w>
-                        <w>и</w>
-                        <w>присту<lb/>пи</w>
-                        <w>торчинъ</w>
-                        <w>имене<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>персемъ·</w>
-                        <w>троската:-</w>
-                        <w>пристоупи</w>
-                        <w>торчинъ·</w>
-                        <w>именемъ·</w>
-                        <w>
-                           <pb n="140v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>персе·̏<lb/>мъ</w>
-                        <w>троскатъ:·</w>
-                        <w>И</w>
-                        <w>пристѹпи</w>
-                        <w>торчинъ·</w>
-                        <w>имене<lb/>мь</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>персемъ</w>
-                        <w>троскотати <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>пр<sic>и</sic>ступи</w>
-                        <w>т<sic>ъ</sic>рчинъ·</w>
-                        <w>имене<lb/>мь</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>пръсе<hi rend="sup">м</hi>
-                        </w>
-                        <w>троско<lb/>тати.</w>
-                        <w>и</w>
-                        <w>пристѫпи</w>
-                        <w>тор′чинь</w>
-                        <w>имене<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>персемъ</w>
-                        <w>троскотати.</w>
-                        <w>И</w>
-                        <w>приступи</w>
-                        <w>Торчинъ,</w>
-                        <w>именемъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>пьрсьмъ</w>
-                        <w>троскотати.</w>
-                        <w>И</w>
-                        <w>приступи</w>
-                        <w>Търчинъ,</w>
-                        <w>именьмь</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>персем</w>
-                        <w>троскотати.</w>
-                        <w>И</w>
-                        <w>приступи</w>
-                        <w>торчинъ,</w>
-                        <w>именем</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>261, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="3"><p>
+<app>
+<lem wit="#lem">
+<w>пьрсьмъ</w>
+<w>троскотати.</w>
+<w>И</w>
+<w>приступи</w>
+<w>Търчинъ,</w>
+<w>именьмь</w>
+</lem>
+
+<rdg wit="#lav">
+<w>персе<hi rend="sup">м</hi></w>
+<w>троскотати·</w>
+<w>и</w>
+<w>присту<lb/>пи</w>
+<w>торчинъ</w>
+<w>имене<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#rad">
+<w>персемъ·</w>
+<w>троската:-</w>
+<w>пристоупи</w>
+<w>торчинъ·</w>
+<w>именемъ· <pb n="140v"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>персе·̏<lb/>мъ</w>
+<w>троскатъ:·</w>
+<w>И</w>
+<w>пристѹпи</w>
+<w>торчинъ·</w>
+<w>имене<lb/>мь</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>персемъ</w>
+<w>троскотати <lb/></w>
+
+<w>и</w>
+<w>пр<milestone unit="sic" n="start"/>и<milestone unit="sic" n="end"/>ступи</w>
+<w>т<milestone unit="sic" n="start"/>ъ<milestone unit="sic" n="end"/>рчинъ·</w>
+<w>имене<lb/>мь</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>пръсе<hi rend="sup">м</hi></w>
+<w>троско<lb/>тати.</w>
+<w>и</w>
+<w>пристѫпи</w>
+<w>тор′чинь</w>
+<w>имене<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>персемъ</w>
+<w>троскотати.</w>
+<w>И</w>
+<w>приступи</w>
+<w>Торчинъ,</w>
+<w>именемъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>пьрсьмъ</w>
+<w>троскотати.</w>
+<w>И</w>
+<w>приступи</w>
+<w>Търчинъ,</w>
+<w>именьмь</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>персем</w>
+<w>троскотати.</w>
+<w>И</w>
+<w>приступи</w>
+<w>торчинъ,</w>
+<w>именем</w>
+</rdg>
+</app></p></div></body></text></TEI>

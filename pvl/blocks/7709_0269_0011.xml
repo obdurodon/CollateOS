@@ -1,122 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>269, 11</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="11">
-            <p>
-               <app>
-                  <lem>
-                     <w>И</w>
-                     <w>послушавъ</w>
-                     <w>ихъ</w>
-                     <w>Давыдъ,</w>
-                     <w>иде</w>
-                     <w>Берестию</w>
-                     <w>съ</w>
-                     <w>Володиславъмь.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>и <lb/>
-                        </w>
-                        <w>послушавъ</w>
-                        <w>ихъ</w>
-                        <w>дв҃дъ·</w>
-                        <w>иде</w>
-                        <w>бе<lb/>рестью</w>
-                        <w>с</w>
-                        <w>володиславо<hi rend="sup">м</hi>·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>послѹшавъ</w>
-                        <w>ихъ</w>
-                        <w>дв<hi rend="sup">д</hi>ъ.</w>
-                        <w>иде</w>
-                        <w>с</w>
-                        <w>володи<lb/>славомъ·</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>послѹшавъ</w>
-                        <w>и<hi rend="sup">х</hi>
-                        </w>
-                        <w>двд҃ъ·</w>
-                        <w>иде</w>
-                        <w>с</w>
-                        <w>во<lb/>лодиславомъ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>и</w>
-                        <w>по<lb/>слушавъ</w>
-                        <w>ихъ</w>
-                        <w>давыдъ</w>
-                        <w>иде</w>
-                        <w>бе<lb/>рестью</w>
-                        <w>с</w>
-                        <w>володиславомъ·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>и</w>
-                        <w>послоуша<hi rend="sup">в</hi> 
-                           <lb/>
-                        </w>
-                        <w>и<hi rend="sup">х</hi>
-                        </w>
-                        <w>двд҃ь</w>
-                        <w>иде</w>
-                        <w>къ</w>
-                        <w>берестїю</w>
-                        <w>с</w>
-                        <w>вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>славѡ<hi rend="sup">м</hi>.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>и</w>
-                        <w>послушавъ</w>
-                        <w>ихъ</w>
-                        <w>Давыдъ,</w>
-                        <w>иде</w>
-                        <w>Берестью</w>
-                        <w>с</w>
-                        <w>Володиславомъ.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>И</w>
-                        <w>послушавъ</w>
-                        <w>ихъ</w>
-                        <w>Давыдъ,</w>
-                        <w>иде</w>
-                        <w>Берестию</w>
-                        <w>съ</w>
-                        <w>Володиславъмь.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>И</w>
-                        <w>послушавъ</w>
-                        <w>ихъ</w>
-                        <w>Давидъ,</w>
-                        <w>иде</w>
-                        <w>Берестью</w>
-                        <w>с</w>
-                        <w>Володиславом.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>269, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="11"><p>
+<app>
+<lem wit="#lem">
+<w>И</w>
+<w>послушавъ</w>
+<w>ихъ</w>
+<w>Давыдъ,</w>
+<w>иде</w>
+<w>Берестию</w>
+<w>съ</w>
+<w>Володиславъмь.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>и <lb/></w>
+
+<w>послушавъ</w>
+<w>ихъ</w>
+<w>дв҃дъ·</w>
+<w>иде</w>
+<w>бе<lb/>рестью</w>
+<w>с</w>
+<w>володиславо<hi rend="sup">м</hi>·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>послѹшавъ</w>
+<w>ихъ</w>
+<w>дв<hi rend="sup">д</hi>ъ.</w>
+<w>иде</w>
+<w>с</w>
+<w>володи<lb/>славомъ·</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>послѹшавъ</w>
+<w>и<hi rend="sup">х</hi></w>
+<w>двд҃ъ·</w>
+<w>иде</w>
+<w>с</w>
+<w>во<lb/>лодиславомъ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>и</w>
+<w>по<lb/>слушавъ</w>
+<w>ихъ</w>
+<w>давыдъ</w>
+<w>иде</w>
+<w>бе<lb/>рестью</w>
+<w>с</w>
+<w>володиславомъ·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>и</w>
+<w>послоуша<hi rend="sup">в</hi><lb/></w>
+<w>и<hi rend="sup">х</hi></w>
+<w>двд҃ь</w>
+<w>иде</w>
+<w>къ</w>
+<w>берестїю</w>
+<w>с</w>
+<w>вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>славѡ<hi rend="sup">м</hi>.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>и</w>
+<w>послушавъ</w>
+<w>ихъ</w>
+<w>Давыдъ,</w>
+<w>иде</w>
+<w>Берестью</w>
+<w>с</w>
+<w>Володиславомъ.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>И</w>
+<w>послушавъ</w>
+<w>ихъ</w>
+<w>Давыдъ,</w>
+<w>иде</w>
+<w>Берестию</w>
+<w>съ</w>
+<w>Володиславъмь.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>И</w>
+<w>послушавъ</w>
+<w>ихъ</w>
+<w>Давидъ,</w>
+<w>иде</w>
+<w>Берестью</w>
+<w>с</w>
+<w>Володиславом.</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,126 +1,105 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>16, 9</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="9">
-            <p>
-               <app>
-                  <lem>
-                     <w>вьси.</w>
-                     <w>Въ</w>
-                     <w>время</w>
-                     <w>же</w>
-                     <w>хотящимъ</w>
-                     <w>родити,</w>
-                     <w>аще</w>
-                     <w>родить</w>
-                     <w>ся</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>вси</w>
-                        <w>во</w>
-                        <w>времѧ</w>
-                        <w>же</w>
-                        <w>хотѧщихъ</w>
-                        <w>родити.</w>
-                        <w>а<lb/>ще</w>
-                        <w>родитсѧ</w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad">
-                        <w>вси.</w>
-                        <w>въ</w>
-                        <w>вре<lb/>мѧ</w>
-                        <w>же</w>
-                        <w>хотѧщи<hi rend="sup">м</hi>
-                        </w>
-                        <w>родити.</w>
-                        <w>аще</w>
-                        <w>родидитсѧ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>вси.</w>
-                        <w>во</w>
-                        <w>времѧ<hi rend="sup">ж</hi>
-                        </w>
-                        <w>хо<lb/>тѧщимь</w>
-                        <w>родити.</w>
-                        <w>аще</w>
-                        <w>родитсѧ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>вси.</w>
-                        <w>въ</w>
-                        <w>вре<hi rend="sup">м</hi>
-                        </w>
-                        <w>же</w>
-                        <w>хотѧ<lb/>щимъ</w>
-                        <w>родити.</w>
-                        <w>аще</w>
-                        <w>роди<lb/>тсѧ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>вси.</w>
-                        <w>въ</w>
-                        <w>времѧ</w>
-                        <w>же <lb/>
-                        </w>
-                        <w>хотѧщи<hi rend="sup">м</hi>
-                        </w>
-                        <w>р<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>ти.</w>
-                        <w>аще</w>
-                        <w>р<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>тсѧ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>вси.</w>
-                        <w>Во</w>
-                        <w>время</w>
-                        <w>же</w>
-                        <w>хотящимъ</w>
-                        <w>родити,</w>
-                        <w>аще</w>
-                        <w>родится</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>вься;</w>
-                        <w>въ</w>
-                        <w>время</w>
-                        <w>же</w>
-                        <w>хотящимъ</w>
-                        <w>родити,</w>
-                        <w>аще</w>
-                        <w>родиться</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>вси.</w>
-                        <w>Во</w>
-                        <w>время</w>
-                        <w>же</w>
-                        <w>хотящимъ</w>
-                        <w>родити,</w>
-                        <w>аще</w>
-                        <w>родится</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>16, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="9"><p>
+<app>
+<lem wit="#lem">
+<w>вьси.</w>
+<w>Въ</w>
+<w>время</w>
+<w>же</w>
+<w>хотящимъ</w>
+<w>родити,</w>
+<w>аще</w>
+<w>родить</w>
+<w>ся</w>
+</lem>
+
+<rdg wit="#lav">
+<w>вси</w>
+<w>во</w>
+<w>времѧ</w>
+<w>же</w>
+<w>хотѧщихъ</w>
+<w>родити.</w>
+<w>а<lb/>ще</w>
+<w>родитсѧ</w>
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+<w>вси.</w>
+<w>въ</w>
+<w>вре<lb/>мѧ</w>
+<w>же</w>
+<w>хотѧщи<hi rend="sup">м</hi></w>
+<w>родити.</w>
+<w>аще</w>
+<w>родидитсѧ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>вси.</w>
+<w>во</w>
+<w>времѧ<hi rend="sup">ж</hi></w>
+<w>хо<lb/>тѧщимь</w>
+<w>родити.</w>
+<w>аще</w>
+<w>родитсѧ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>вси.</w>
+<w>въ</w>
+<w>вре<hi rend="sup">м</hi></w>
+<w>же</w>
+<w>хотѧ<lb/>щимъ</w>
+<w>родити.</w>
+<w>аще</w>
+<w>роди<lb/>тсѧ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>вси.</w>
+<w>въ</w>
+<w>времѧ</w>
+<w>же <lb/></w>
+
+<w>хотѧщи<hi rend="sup">м</hi></w>
+<w>р<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>ти.</w>
+<w>аще</w>
+<w>р<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>тсѧ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>вси.</w>
+<w>Во</w>
+<w>время</w>
+<w>же</w>
+<w>хотящимъ</w>
+<w>родити,</w>
+<w>аще</w>
+<w>родится</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>вься;</w>
+<w>въ</w>
+<w>время</w>
+<w>же</w>
+<w>хотящимъ</w>
+<w>родити,</w>
+<w>аще</w>
+<w>родиться</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>вси.</w>
+<w>Во</w>
+<w>время</w>
+<w>же</w>
+<w>хотящимъ</w>
+<w>родити,</w>
+<w>аще</w>
+<w>родится</w>
+</rdg>
+</app></p></div></body></text></TEI>

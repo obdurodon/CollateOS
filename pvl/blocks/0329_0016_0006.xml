@@ -1,121 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>16, 6</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="6">
-            <p>
-               <app>
-                  <lem>
-                     <w>мужи,</w>
-                     <w>яко</w>
-                     <w>нѣкоторое</w>
-                     <w>имъ</w>
-                     <w>тържьство</w>
-                     <w>и</w>
-                     <w>велико</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>мужи</w>
-                        <w>яко</w>
-                        <w>нѣвторое</w>
-                        <w>имъ</w>
-                        <w>то<lb/>ржьство.</w>
-                        <w>и</w>
-                        <w>велико</w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad">
-                        <w>моужы</w>
-                        <w>яко</w>
-                        <w>некоторое</w>
-                        <w>имъ</w>
-                        <w>торжеств<sic>о</sic> 
-                           <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>велик<sic>о</sic>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>мѹжи</w>
-                        <w>яко</w>
-                        <w>нек<hi rend="sup">т</hi>о<hi rend="sup">о</hi>рое</w>
-                        <w>имь</w>
-                        <w>торж<hi rend="sup">д</hi>ество.</w>
-                        <w>и</w>
-                        <w>велико</w>
-                        <w>
-                           <pb n="6v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>мужи.</w>
-                        <w>яко <lb/>
-                        </w>
-                        <w>нѣкоторое</w>
-                        <w>имъ</w>
-                        <w>торже<lb/>ство</w>
-                        <w>и</w>
-                        <w>велико</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>мѫжи <lb/>
-                        </w>
-                        <w>яко</w>
-                        <w>нѣкоторое</w>
-                        <w>тръжество</w>
-                        <w>и<hi rend="sup">м</hi>
-                        </w>
-                        <w>и</w>
-                        <w>великое</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>мужи,</w>
-                        <w>яко</w>
-                        <w>нѣкоторое</w>
-                        <w>имъ</w>
-                        <w>торжьство</w>
-                        <w>и</w>
-                        <w>велико</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>мужи,</w>
-                        <w>яко</w>
-                        <w>нѣкоторое</w>
-                        <w>имъ</w>
-                        <w>тържьство</w>
-                        <w>и</w>
-                        <w>велико</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>мужи,</w>
-                        <w>яко</w>
-                        <w>нѣкоторое</w>
-                        <w>имъ</w>
-                        <w>торжьство</w>
-                        <w>и</w>
-                        <w>велико</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>16, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="6"><p>
+<app>
+<lem wit="#lem">
+<w>мужи,</w>
+<w>яко</w>
+<w>нѣкоторое</w>
+<w>имъ</w>
+<w>тържьство</w>
+<w>и</w>
+<w>велико</w>
+</lem>
+
+<rdg wit="#lav">
+<w>мужи</w>
+<w>яко</w>
+<w>нѣвторое</w>
+<w>имъ</w>
+<w>то<lb/>ржьство.</w>
+<w>и</w>
+<w>велико</w>
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+<w>моужы</w>
+<w>яко</w>
+<w>некоторое</w>
+<w>имъ</w>
+<w>торжеств<milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/><lb/></w>
+<w>и</w>
+<w>велик<milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>мѹжи</w>
+<w>яко</w>
+<w>нек<hi rend="sup">т</hi>о<hi rend="sup">о</hi>рое</w>
+<w>имь</w>
+<w>торж<hi rend="sup">д</hi>ество.</w>
+<w>и</w>
+<w>велико <pb n="6v"/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>мужи.</w>
+<w>яко <lb/></w>
+
+<w>нѣкоторое</w>
+<w>имъ</w>
+<w>торже<lb/>ство</w>
+<w>и</w>
+<w>велико</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>мѫжи <lb/></w>
+
+<w>яко</w>
+<w>нѣкоторое</w>
+<w>тръжество</w>
+<w>и<hi rend="sup">м</hi></w>
+<w>и</w>
+<w>великое</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>мужи,</w>
+<w>яко</w>
+<w>нѣкоторое</w>
+<w>имъ</w>
+<w>торжьство</w>
+<w>и</w>
+<w>велико</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>мужи,</w>
+<w>яко</w>
+<w>нѣкоторое</w>
+<w>имъ</w>
+<w>тържьство</w>
+<w>и</w>
+<w>велико</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>мужи,</w>
+<w>яко</w>
+<w>нѣкоторое</w>
+<w>имъ</w>
+<w>торжьство</w>
+<w>и</w>
+<w>велико</w>
+</rdg>
+</app></p></div></body></text></TEI>

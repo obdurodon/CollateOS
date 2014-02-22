@@ -1,137 +1,113 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>149, 27</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="27">
-            <p>
-               <app>
-                  <lem>
-                     <w>на</w>
-                     <w>Чюдь,</w>
-                     <w>и</w>
-                     <w>побѣди</w>
-                     <w>я,</w>
-                     <w>и</w>
-                     <w>постави</w>
-                     <w>градъ</w>
-                     <w>Юриевъ.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>на</w>
-                        <w>чюдь.</w>
-                        <w>и</w>
-                        <w>побѣди <lb/>
-                        </w>
-                        <w>я.</w>
-                        <w>и</w>
-                        <w>постави</w>
-                        <w>градъ</w>
-                        <w>юрьевъ.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>на</w>
-                        <w>чю<hi rend="sup">д</hi>.</w>
-                        <w>и</w>
-                        <w>победи</w>
-                        <w>я</w>
-                        <w>и</w>
-                        <w>постави <lb/>
-                        </w>
-                        <w>гра<hi rend="sup">д</hi>
-                        </w>
-                        <w>гоургевъ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>на</w>
-                        <w>чю<lb/>дь.</w>
-                        <w>и</w>
-                        <w>победи</w>
-                        <w>ѧ.</w>
-                        <w>и</w>
-                        <w>постави</w>
-                        <w>гра<hi rend="sup">д</hi>
-                        </w>
-                        <w>гѹгревъ.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>на</w>
-                        <w>чюдь.</w>
-                        <w>и</w>
-                        <w>побѣ<lb/>ди</w>
-                        <w>я.</w>
-                        <w>и</w>
-                        <w>постави</w>
-                        <w>городъ</w>
-                        <w>юрь<lb/>евъ.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>на</w>
-                        <w>чю<hi rend="sup">д</hi>
-                        </w>
-                        <w>и</w>
-                        <w>поб<hi rend="sup">д</hi>ѣ<hi rend="sup">и</hi>
-                        </w>
-                        <w>ѧ.</w>
-                        <w>и</w>
-                        <w>постави</w>
-                        <w>горѡ<hi rend="sup">д</hi>
-                        </w>
-                        <w>гоурге<hi rend="sup">в</hi>. <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>на</w>
-                        <w>Чюдь,</w>
-                        <w>и</w>
-                        <w>побѣди</w>
-                        <w>я,</w>
-                        <w>и</w>
-                        <w>постави</w>
-                        <w>градъ</w>
-                        <w>Юрьевъ.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>на</w>
-                        <w>Чюдь,</w>
-                        <w>и</w>
-                        <w>побѣди</w>
-                        <w>я,</w>
-                        <w>и</w>
-                        <w>постави</w>
-                        <w>градъ</w>
-                        <w>Юриевъ.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>на</w>
-                        <w>чюдь,</w>
-                        <w>и</w>
-                        <w>побѣди</w>
-                        <w>я,</w>
-                        <w>и</w>
-                        <w>постави</w>
-                        <w>градъ</w>
-                        <w>Юрьевъ.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>149, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="27"><p>
+<app>
+<lem wit="#lem">
+<w>на</w>
+<w>Чюдь,</w>
+<w>и</w>
+<w>побѣди</w>
+<w>я,</w>
+<w>и</w>
+<w>постави</w>
+<w>градъ</w>
+<w>Юриевъ.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>на</w>
+<w>чюдь.</w>
+<w>и</w>
+<w>побѣди <lb/></w>
+
+<w>я.</w>
+<w>и</w>
+<w>постави</w>
+<w>градъ</w>
+<w>юрьевъ.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>на</w>
+<w>чю<hi rend="sup">д</hi>.</w>
+<w>и</w>
+<w>победи</w>
+<w>я</w>
+<w>и</w>
+<w>постави <lb/></w>
+
+<w>гра<hi rend="sup">д</hi></w>
+<w>гоургевъ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>на</w>
+<w>чю<lb/>дь.</w>
+<w>и</w>
+<w>победи</w>
+<w>ѧ.</w>
+<w>и</w>
+<w>постави</w>
+<w>гра<hi rend="sup">д</hi></w>
+<w>гѹгревъ.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>на</w>
+<w>чюдь.</w>
+<w>и</w>
+<w>побѣ<lb/>ди</w>
+<w>я.</w>
+<w>и</w>
+<w>постави</w>
+<w>городъ</w>
+<w>юрь<lb/>евъ.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>на</w>
+<w>чю<hi rend="sup">д</hi></w>
+<w>и</w>
+<w>поб<hi rend="sup">д</hi>ѣ<hi rend="sup">и</hi></w>
+<w>ѧ.</w>
+<w>и</w>
+<w>постави</w>
+<w>горѡ<hi rend="sup">д</hi></w>
+<w>гоурге<hi rend="sup">в</hi>. <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>на</w>
+<w>Чюдь,</w>
+<w>и</w>
+<w>побѣди</w>
+<w>я,</w>
+<w>и</w>
+<w>постави</w>
+<w>градъ</w>
+<w>Юрьевъ.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>на</w>
+<w>Чюдь,</w>
+<w>и</w>
+<w>побѣди</w>
+<w>я,</w>
+<w>и</w>
+<w>постави</w>
+<w>градъ</w>
+<w>Юриевъ.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>на</w>
+<w>чюдь,</w>
+<w>и</w>
+<w>побѣди</w>
+<w>я,</w>
+<w>и</w>
+<w>постави</w>
+<w>градъ</w>
+<w>Юрьевъ.</w>
+</rdg>
+</app></p></div></body></text></TEI>

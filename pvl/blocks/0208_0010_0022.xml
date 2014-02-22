@@ -1,120 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>10, 22</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="22">
-            <p>
-               <app>
-                  <lem>
-                     <w>Кривичи.</w>
-                     <w>Таже</w>
-                     <w>Сѣверо</w>
-                     <w>отъ</w>
-                     <w>нихъ.</w>
-                     <w>На</w>
-                     <w>Бѣлѣозерѣ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>кривичи</w>
-                        <w>таже</w>
-                        <w>с<sic>ѣвер</sic>ъ</w>
-                        <w>ѿ</w>
-                        <w>нихъ</w>
-                        <w>
-                           <sic>н<hi rend="sup">а</hi>
-                           </sic> 
-                           <lb/>
-                        </w>
-                        <w>бѣлѣѡзерѣ</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>кривичи</w>
-                        <w>таже</w>
-                        <w>сѣверъ</w>
-                        <w>от</w>
-                        <w>нихъ</w>
-                        <w>сѣдять</w>
-                        <w>на</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>криви<hi rend="sup">ч</hi>.</w>
-                        <w>та<hi rend="sup">ж</hi>
-                        </w>
-                        <w>сѣра</w>
-                        <w>ѿ</w>
-                        <w>ни<hi rend="sup">х</hi>.</w>
-                        <w>на</w>
-                        <w>белѣѡзере</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>кривичи. <lb/>
-                        </w>
-                        <w>таже</w>
-                        <w>сѣвера</w>
-                        <w>ѿ</w>
-                        <w>нихъ</w>
-                        <w>на</w>
-                        <w>белѣѡзере</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>кри<lb/>вичи.</w>
-                        <w>таже</w>
-                        <w>сѣверо</w>
-                        <w>ѿ</w>
-                        <w>ни<hi rend="sup">х</hi>. <lb/>
-                        </w>
-                        <w>на</w>
-                        <w>бѣлѣѡзерѣ</w>
-                     </rdg>
-                     <rdg wit="#xle"/>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Кривичи.</w>
-                        <w>Таже</w>
-                        <w>сѣверъ</w>
-                        <w>отъ</w>
-                        <w>нихъ</w>
-                        <w>на</w>
-                        <w>Бѣлѣозерѣ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Кривичи;</w>
-                        <w>таже</w>
-                        <w>Сѣверъ</w>
-                        <w>отъ</w>
-                        <w>нихъ.</w>
-                        <w>А</w>
-                        <w>на</w>
-                        <w>Бѣлѣозерѣ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>кривичи.</w>
-                        <w>Таже</w>
-                        <w>сѣверъ</w>
-                        <w>от</w>
-                        <w>нихъ.</w>
-                        <w>На</w>
-                        <w>Бѣлѣозерѣ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>10, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="22"><p>
+<app>
+<lem wit="#lem">
+<w>Кривичи.</w>
+<w>Таже</w>
+<w>Сѣверо</w>
+<w>отъ</w>
+<w>нихъ.</w>
+<w>На</w>
+<w>Бѣлѣозерѣ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>кривичи</w>
+<w>таже</w>
+<w>с<milestone unit="sic" n="start"/>ѣвер<milestone unit="sic" n="end"/>ъ</w>
+<w>ѿ</w>
+<w>нихъ</w>
+<w><milestone unit="sic" n="start"/>н<hi rend="sup">а</hi><milestone unit="sic" n="end"/><lb/></w>
+<w>бѣлѣѡзерѣ</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>кривичи</w>
+<w>таже</w>
+<w>сѣверъ</w>
+<w>от</w>
+<w>нихъ</w>
+<w>сѣдять</w>
+<w>на</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>криви<hi rend="sup">ч</hi>.</w>
+<w>та<hi rend="sup">ж</hi></w>
+<w>сѣра</w>
+<w>ѿ</w>
+<w>ни<hi rend="sup">х</hi>.</w>
+<w>на</w>
+<w>белѣѡзере</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>кривичи. <lb/></w>
+
+<w>таже</w>
+<w>сѣвера</w>
+<w>ѿ</w>
+<w>нихъ</w>
+<w>на</w>
+<w>белѣѡзере</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>кри<lb/>вичи.</w>
+<w>таже</w>
+<w>сѣверо</w>
+<w>ѿ</w>
+<w>ни<hi rend="sup">х</hi>. <lb/></w>
+
+<w>на</w>
+<w>бѣлѣѡзерѣ</w>
+</rdg>
+
+<rdg wit="#xle">
+</rdg>
+
+<rdg wit="#bych">
+<w>Кривичи.</w>
+<w>Таже</w>
+<w>сѣверъ</w>
+<w>отъ</w>
+<w>нихъ</w>
+<w>на</w>
+<w>Бѣлѣозерѣ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Кривичи;</w>
+<w>таже</w>
+<w>Сѣверъ</w>
+<w>отъ</w>
+<w>нихъ.</w>
+<w>А</w>
+<w>на</w>
+<w>Бѣлѣозерѣ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>кривичи.</w>
+<w>Таже</w>
+<w>сѣверъ</w>
+<w>от</w>
+<w>нихъ.</w>
+<w>На</w>
+<w>Бѣлѣозерѣ</w>
+</rdg>
+</app></p></div></body></text></TEI>

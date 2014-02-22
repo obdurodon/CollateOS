@@ -1,114 +1,93 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>168, 27</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="27">
-            <p>
-               <app>
-                  <lem>
-                     <w>сиротѣ</w>
-                     <w>и</w>
-                     <w>въдовици,</w>
-                     <w>и</w>
-                     <w>на</w>
-                     <w>укланяющая</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>сиротѣ.</w>
-                        <w>и</w>
-                        <w>вд<hi rend="sup">о</hi> 
-                           <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>на</w>
-                        <w>оукланѧющая</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>сиротѣ</w>
-                        <w>и</w>
-                        <w>вдовици.</w>
-                        <w>и</w>
-                        <w>на</w>
-                        <w>оуклонѧюща<hi rend="sup">с</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>сиротѣ</w>
-                        <w>и</w>
-                        <w>оудовици.</w>
-                        <w>и</w>
-                        <w>на</w>
-                        <w>оукла<lb/>нѧющасѧ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>сиро<lb/>тѣ.</w>
-                        <w>и</w>
-                        <w>вдовици.</w>
-                        <w>и</w>
-                        <w>на</w>
-                        <w>оукланѧ<sic>ю</sic>ща<lb/>я</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>сиротѣ</w>
-                        <w>и</w>
-                        <w>вдовици.</w>
-                        <w>и</w>
-                        <w>на</w>
-                        <w>оукланѧющаѧ <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>сироты</w>
-                        <w>и</w>
-                        <w>вдовиць</w>
-                        <w>и</w>
-                        <w>на</w>
-                        <w>кланяющая</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>сиротѣ</w>
-                        <w>и</w>
-                        <w>вдовици,</w>
-                        <w>и</w>
-                        <w>на</w>
-                        <w>укланяющая</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>сиротѣ</w>
-                        <w>и</w>
-                        <w>въдовици</w>
-                        <w>и</w>
-                        <w>на</w>
-                        <w>укланяющая</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>сиротѣ</w>
-                        <w>и</w>
-                        <w>вдовици,</w>
-                        <w>и</w>
-                        <w>на</w>
-                        <w>уклоняющая</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>168, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="27"><p>
+<app>
+<lem wit="#lem">
+<w>сиротѣ</w>
+<w>и</w>
+<w>въдовици,</w>
+<w>и</w>
+<w>на</w>
+<w>укланяющая</w>
+</lem>
+
+<rdg wit="#lav">
+<w>сиротѣ.</w>
+<w>и</w>
+<w>вд<hi rend="sup">о</hi><lb/>вици.</w>
+<w>и</w>
+<w>на</w>
+<w>оукланѧющая</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>сиротѣ</w>
+<w>и</w>
+<w>вдовици.</w>
+<w>и</w>
+<w>на</w>
+<w>оуклонѧюща<hi rend="sup">с</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>сиротѣ</w>
+<w>и</w>
+<w>оудовици.</w>
+<w>и</w>
+<w>на</w>
+<w>оукла<lb/>нѧющасѧ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>сиро<lb/>тѣ.</w>
+<w>и</w>
+<w>вдовици.</w>
+<w>и</w>
+<w>на</w>
+<w>оукланѧ<milestone unit="sic" n="start"/>ю<milestone unit="sic" n="end"/>ща<lb/>я</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>сиротѣ</w>
+<w>и</w>
+<w>вдовици.</w>
+<w>и</w>
+<w>на</w>
+<w>оукланѧющаѧ <lb/></w>
+
+</rdg>
+
+<rdg wit="#kom">
+<w>сироты</w>
+<w>и</w>
+<w>вдовиць</w>
+<w>и</w>
+<w>на</w>
+<w>кланяющая</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>сиротѣ</w>
+<w>и</w>
+<w>вдовици,</w>
+<w>и</w>
+<w>на</w>
+<w>укланяющая</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>сиротѣ</w>
+<w>и</w>
+<w>въдовици</w>
+<w>и</w>
+<w>на</w>
+<w>укланяющая</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>сиротѣ</w>
+<w>и</w>
+<w>вдовици,</w>
+<w>и</w>
+<w>на</w>
+<w>уклоняющая</w>
+</rdg>
+</app></p></div></body></text></TEI>

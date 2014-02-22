@@ -1,95 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>191, 6</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="6">
-            <p>
-               <app>
-                  <lem>
-                     <w>по</w>
-                     <w>Тольбековича”.</w>
-                     <w>Старьць</w>
-                     <w>же</w>
-                     <w>знамена</w>
-                     <w>ся</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>по</w>
-                        <w>толь<lb/>бековича.</w>
-                        <w>старець</w>
-                        <w>же</w>
-                        <w>знаме<lb/>насѧ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>по</w>
-                        <w>толъбоко<lb/>вича</w>
-                        <w>старець</w>
-                        <w>же</w>
-                        <w>знаменасѧ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>по</w>
-                        <w>толбьковича.</w>
-                        <w>старець</w>
-                        <w>же <lb/>
-                        </w>
-                        <w>знаменасѧ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>по</w>
-                        <w>толбоковича.</w>
-                        <w>старѣ<sic>ц</sic>ь <lb/>
-                        </w>
-                        <w>знаменасѧ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>по</w>
-                        <w>то<hi rend="sup">л</hi>боковича.</w>
-                        <w>старець <lb/>
-                        </w>
-                        <w>знаменасѧ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>по</w>
-                        <w>Тольбековича”.</w>
-                        <w>Старець</w>
-                        <w>же</w>
-                        <w>знаменася</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>по</w>
-                        <w>Тольбековича”.</w>
-                        <w>Старьць</w>
-                        <w>же</w>
-                        <w>знаменася</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>по</w>
-                        <w>Тольбековича”.</w>
-                        <w>Старець</w>
-                        <w>же</w>
-                        <w>знаменася</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>191, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="6"><p>
+<app>
+<lem wit="#lem">
+<w>по</w>
+<w>Тольбековича”.</w>
+<w>Старьць</w>
+<w>же</w>
+<w>знамена</w>
+<w>ся</w>
+</lem>
+
+<rdg wit="#lav">
+<w>по</w>
+<w>толь<lb/>бековича.</w>
+<w>старець</w>
+<w>же</w>
+<w>знаме<lb/>насѧ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>по</w>
+<w>толъбоко<lb/>вича</w>
+<w>старець</w>
+<w>же</w>
+<w>знаменасѧ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>по</w>
+<w>толбьковича.</w>
+<w>старець</w>
+<w>же <lb/></w>
+
+<w>знаменасѧ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>по</w>
+<w>толбоковича.</w>
+<w>старѣ<milestone unit="sic" n="start"/>ц<milestone unit="sic" n="end"/>ь <lb/></w>
+
+<w>знаменасѧ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>по</w>
+<w>то<hi rend="sup">л</hi>боковича.</w>
+<w>старець <lb/></w>
+
+<w>знаменасѧ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>по</w>
+<w>Тольбековича”.</w>
+<w>Старець</w>
+<w>же</w>
+<w>знаменася</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>по</w>
+<w>Тольбековича”.</w>
+<w>Старьць</w>
+<w>же</w>
+<w>знаменася</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>по</w>
+<w>Тольбековича”.</w>
+<w>Старець</w>
+<w>же</w>
+<w>знаменася</w>
+</rdg>
+</app></p></div></body></text></TEI>

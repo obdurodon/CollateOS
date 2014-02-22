@@ -1,118 +1,93 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>239, 7</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="7">
-            <p>
-               <app>
-                  <lem>
-                     <w>установи</w>
-                     <w>ся</w>
-                     <w>на</w>
-                     <w>Клязьмѣ,</w>
-                     <w>мьня,</w>
-                     <w>яко,</w>
-                     <w>боя</w>
-                     <w>ся</w>
-                     <w>его</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ѹстановивсѧ</w>
-                        <w>на</w>
-                        <w>клѧ<lb/>змѣ·</w>
-                        <w>мнѧ</w>
-                        <w>яко</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>оустанови<hi rend="sup">с</hi>
-                        </w>
-                        <w>на</w>
-                        <w>клѧзмѣ·</w>
-                        <w>мнѧ</w>
-                        <w>яко</w>
-                        <w>боя<hi rend="sup">с</hi>
-                        </w>
-                        <w>его.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>оустановисѧ</w>
-                        <w>на</w>
-                        <w>клѧзмѣ· <lb/>
-                        </w>
-                        <w>мнѧ</w>
-                        <w>яко</w>
-                        <w>боясѧ</w>
-                        <w>его·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>оустановисѧ <lb/>
-                        </w>
-                        <w>на</w>
-                        <w>клѧзьмѣ·</w>
-                        <w>мнѧ</w>
-                        <w>яко</w>
-                        <w>
-                           <sic>у</sic>боя<lb/>сѧ</w>
-                        <w>его</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>оустановисѧ</w>
-                        <w>на</w>
-                        <w>клѧ<hi rend="sup">з</hi>мѣ.</w>
-                        <w>мнѧ</w>
-                        <w>яко</w>
-                        <w>оубоасѧ</w>
-                        <w>его <lb/>
-                        </w>
-                        <w>
-                           <pb n="108v"/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>установися</w>
-                        <w>на</w>
-                        <w>Клязмѣ,</w>
-                        <w>мня,</w>
-                        <w>яко,</w>
-                        <w>бояся</w>
-                        <w>его,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>установися</w>
-                        <w>на</w>
-                        <w>Клязьмѣ,</w>
-                        <w>мьня,</w>
-                        <w>яко</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>установися</w>
-                        <w>на</w>
-                        <w>Клязмѣ,</w>
-                        <w>мня,</w>
-                        <w>яко,</w>
-                        <w>бояся</w>
-                        <w>его</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>239, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="7"><p>
+<app>
+<lem wit="#lem">
+<w>установи</w>
+<w>ся</w>
+<w>на</w>
+<w>Клязьмѣ,</w>
+<w>мьня,</w>
+<w>яко,</w>
+<w>боя</w>
+<w>ся</w>
+<w>его</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ѹстановивсѧ</w>
+<w>на</w>
+<w>клѧ<lb/>змѣ·</w>
+<w>мнѧ</w>
+<w>яко</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>оустанови<hi rend="sup">с</hi></w>
+<w>на</w>
+<w>клѧзмѣ·</w>
+<w>мнѧ</w>
+<w>яко</w>
+<w>боя<hi rend="sup">с</hi></w>
+<w>его.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>оустановисѧ</w>
+<w>на</w>
+<w>клѧзмѣ· <lb/></w>
+
+<w>мнѧ</w>
+<w>яко</w>
+<w>боясѧ</w>
+<w>его·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>оустановисѧ <lb/></w>
+
+<w>на</w>
+<w>клѧзьмѣ·</w>
+<w>мнѧ</w>
+<w>яко</w>
+<w><milestone unit="sic" n="start"/>у<milestone unit="sic" n="end"/>боя<lb/>сѧ</w>
+<w>его</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>оустановисѧ</w>
+<w>на</w>
+<w>клѧ<hi rend="sup">з</hi>мѣ.</w>
+<w>мнѧ</w>
+<w>яко</w>
+<w>оубоасѧ</w>
+<w>его <lb/><pb n="108v"/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>установися</w>
+<w>на</w>
+<w>Клязмѣ,</w>
+<w>мня,</w>
+<w>яко,</w>
+<w>бояся</w>
+<w>его,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>установися</w>
+<w>на</w>
+<w>Клязьмѣ,</w>
+<w>мьня,</w>
+<w>яко</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>установися</w>
+<w>на</w>
+<w>Клязмѣ,</w>
+<w>мня,</w>
+<w>яко,</w>
+<w>бояся</w>
+<w>его</w>
+</rdg>
+</app></p></div></body></text></TEI>

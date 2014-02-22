@@ -1,99 +1,81 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>41, 22</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="22">
-            <p>
-               <app>
-                  <lem>
-                     <w>являя,</w>
-                     <w>яко</w>
-                     <w>мънози,</w>
-                     <w>прекостьнъ</w>
-                     <w>имуще</w>
-                     <w>умъ,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>авлѧа.</w>
-                        <w>яко</w>
-                        <w>мнози</w>
-                        <w>прекостни</w>
-                        <w>имѹще</w>
-                        <w>оумъ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>явлѧя.</w>
-                        <w>яко <lb/>
-                        </w>
-                        <w>мнози</w>
-                        <w>прекос<hi rend="sup">т</hi>нї</w>
-                        <w>имѹще.</w>
-                        <w>оумь</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>явлѧя.</w>
-                        <w>яко <lb/>
-                        </w>
-                        <w>мнози</w>
-                        <w>прекостьни</w>
-                        <w>имуще <lb/>
-                        </w>
-                        <w>оумъ.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>явлѧа.</w>
-                        <w>яко</w>
-                        <w>мнѡѕи</w>
-                        <w>прекостнїи <lb/>
-                        </w>
-                        <w>имоуще</w>
-                        <w>оу<hi rend="sup">м</hi>.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>являа,</w>
-                        <w>яко</w>
-                        <w>мнози,</w>
-                        <w>прекостни</w>
-                        <w>имуще</w>
-                        <w>умъ,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>являя,</w>
-                        <w>яко</w>
-                        <w>мънози,</w>
-                        <w>прекостьнъ</w>
-                        <w>имуще</w>
-                        <w>умъ,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>являа,</w>
-                        <w>яко</w>
-                        <w>мнози,</w>
-                        <w>прекостни</w>
-                        <w>имуще</w>
-                        <w>умъ,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>41, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="22"><p>
+<app>
+<lem wit="#lem">
+<w>являя,</w>
+<w>яко</w>
+<w>мънози,</w>
+<w>прекостьнъ</w>
+<w>имуще</w>
+<w>умъ,</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>авлѧа.</w>
+<w>яко</w>
+<w>мнози</w>
+<w>прекостни</w>
+<w>имѹще</w>
+<w>оумъ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>явлѧя.</w>
+<w>яко <lb/></w>
+
+<w>мнози</w>
+<w>прекос<hi rend="sup">т</hi>нї</w>
+<w>имѹще.</w>
+<w>оумь</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>явлѧя.</w>
+<w>яко <lb/></w>
+
+<w>мнози</w>
+<w>прекостьни</w>
+<w>имуще <lb/></w>
+
+<w>оумъ.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>явлѧа.</w>
+<w>яко</w>
+<w>мнѡѕи</w>
+<w>прекостнїи <lb/></w>
+
+<w>имоуще</w>
+<w>оу<hi rend="sup">м</hi>.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>являа,</w>
+<w>яко</w>
+<w>мнози,</w>
+<w>прекостни</w>
+<w>имуще</w>
+<w>умъ,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>являя,</w>
+<w>яко</w>
+<w>мънози,</w>
+<w>прекостьнъ</w>
+<w>имуще</w>
+<w>умъ,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>являа,</w>
+<w>яко</w>
+<w>мнози,</w>
+<w>прекостни</w>
+<w>имуще</w>
+<w>умъ,</w>
+</rdg>
+</app></p></div></body></text></TEI>

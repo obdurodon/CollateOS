@@ -1,118 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>145, 17</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="17">
-            <p>
-               <app>
-                  <lem>
-                     <w>рана,</w>
-                     <w>въ</w>
-                     <w>съмьрть</w>
-                     <w>немилостивьно</w>
-                     <w>въгна,</w>
-                     <w>и</w>
-                     <w>по</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>рана.</w>
-                        <w>въ</w>
-                        <w>смр҃ть</w>
-                        <w>немї<lb/>лостивно</w>
-                        <w>въгна.</w>
-                        <w>и</w>
-                        <w>по</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>рана.</w>
-                        <w>въ</w>
-                        <w>смр҃ть</w>
-                        <w>немлт<hi rend="sup">с</hi>вно <lb/>
-                        </w>
-                        <w>въгна.</w>
-                        <w>и</w>
-                        <w>по</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>рана.</w>
-                        <w>въ</w>
-                        <w>смр҃ть</w>
-                        <w>немл<hi rend="sup">с</hi>тивно</w>
-                        <w>вогна.</w>
-                        <w>и</w>
-                        <w>по</w>
-                        <w>
-                           <pb n="76v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>рана.</w>
-                        <w>вь</w>
-                        <w>смр҃ть</w>
-                        <w>не<lb/>млт҃вно</w>
-                        <w>вьгна.</w>
-                        <w>и</w>
-                        <w>по</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>рана.</w>
-                        <w>и</w>
-                        <w>въ</w>
-                        <w>смръ<hi rend="sup">т</hi>
-                        </w>
-                        <w>немилостивно</w>
-                        <w>въгна.</w>
-                        <w>и</w>
-                        <w>по <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>рана,</w>
-                        <w>въ</w>
-                        <w>смерть</w>
-                        <w>немилостивно</w>
-                        <w>въгна,</w>
-                        <w>и</w>
-                        <w>по</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>рана</w>
-                        <w>въ</w>
-                        <w>съмьрть</w>
-                        <w>немилостивьно</w>
-                        <w>въгъна”,</w>
-                        <w>и</w>
-                        <w>по</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>рана,</w>
-                        <w>въ</w>
-                        <w>смерть</w>
-                        <w>немилостивно</w>
-                        <w>въгна,</w>
-                        <w>и</w>
-                        <w>по</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>145, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="17"><p>
+<app>
+<lem wit="#lem">
+<w>рана,</w>
+<w>въ</w>
+<w>съмьрть</w>
+<w>немилостивьно</w>
+<w>въгна,</w>
+<w>и</w>
+<w>по</w>
+</lem>
+
+<rdg wit="#lav">
+<w>рана.</w>
+<w>въ</w>
+<w>смр҃ть</w>
+<w>немї<lb/>лостивно</w>
+<w>въгна.</w>
+<w>и</w>
+<w>по</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>рана.</w>
+<w>въ</w>
+<w>смр҃ть</w>
+<w>немлт<hi rend="sup">с</hi>вно <lb/></w>
+
+<w>въгна.</w>
+<w>и</w>
+<w>по</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>рана.</w>
+<w>въ</w>
+<w>смр҃ть</w>
+<w>немл<hi rend="sup">с</hi>тивно</w>
+<w>вогна.</w>
+<w>и</w>
+<w>по <pb n="76v"/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>рана.</w>
+<w>вь</w>
+<w>смр҃ть</w>
+<w>не<lb/>млт҃вно</w>
+<w>вьгна.</w>
+<w>и</w>
+<w>по</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>рана.</w>
+<w>и</w>
+<w>въ</w>
+<w>смръ<hi rend="sup">т</hi></w>
+<w>немилостивно</w>
+<w>въгна.</w>
+<w>и</w>
+<w>по <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>рана,</w>
+<w>въ</w>
+<w>смерть</w>
+<w>немилостивно</w>
+<w>въгна,</w>
+<w>и</w>
+<w>по</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>рана</w>
+<w>въ</w>
+<w>съмьрть</w>
+<w>немилостивьно</w>
+<w>въгъна”,</w>
+<w>и</w>
+<w>по</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>рана,</w>
+<w>въ</w>
+<w>смерть</w>
+<w>немилостивно</w>
+<w>въгна,</w>
+<w>и</w>
+<w>по</w>
+</rdg>
+</app></p></div></body></text></TEI>

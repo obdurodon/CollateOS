@@ -1,106 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>34, 28</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="28">
-            <p>
-               <app>
-                  <lem>
-                     <w>ему,</w>
-                     <w>да</w>
-                     <w>пребываеть</w>
-                     <w>тя</w>
-                     <w>жа</w>
-                     <w>отътолѣ</w>
-                     <w>не</w>
-                     <w>възискаема.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>емѹ.</w>
-                        <w>да</w>
-                        <w>пребывае<hi rend="sup">т</hi>
-                        </w>
-                        <w>тѧжа</w>
-                        <w>ѡтоле</w>
-                        <w>не</w>
-                        <w>взыскаема. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>емѹ.</w>
-                        <w>да</w>
-                        <w>пребываеть</w>
-                        <w>тѧжа</w>
-                        <w>ѿ<lb/>толе</w>
-                        <w>не</w>
-                        <w>взыскаема</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>е<lb/>му.</w>
-                        <w>да</w>
-                        <w>пребываеть</w>
-                        <w>тѧ<lb/>жа</w>
-                        <w>ѿтолѣ</w>
-                        <w>не</w>
-                        <w>взискае<lb/>ма</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>емоу.</w>
-                        <w>да</w>
-                        <w>прибываеть</w>
-                        <w>тѧжа</w>
-                        <w>ѿтолѣ,</w>
-                        <w>не</w>
-                        <w>възыскае<lb/>ма</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>ему,</w>
-                        <w>да</w>
-                        <w>пребываетъ</w>
-                        <w>тяжа</w>
-                        <w>отоле</w>
-                        <w>не</w>
-                        <w>взыскаема</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>ему,</w>
-                        <w>да</w>
-                        <w>пребываеть</w>
-                        <w>тяжа</w>
-                        <w>отътолѣ</w>
-                        <w>не</w>
-                        <w>възискаема.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>ему,</w>
-                        <w>да</w>
-                        <w>пребывает</w>
-                        <w>тяжа</w>
-                        <w>отоле</w>
-                        <w>не</w>
-                        <w>взыскаема.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>34, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="28"><p>
+<app>
+<lem wit="#lem">
+<w>ему,</w>
+<w>да</w>
+<w>пребываеть</w>
+<w>тя</w>
+<w>жа</w>
+<w>отътолѣ</w>
+<w>не</w>
+<w>възискаема.</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>емѹ.</w>
+<w>да</w>
+<w>пребывае<hi rend="sup">т</hi></w>
+<w>тѧжа</w>
+<w>ѡтоле</w>
+<w>не</w>
+<w>взыскаема. <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>емѹ.</w>
+<w>да</w>
+<w>пребываеть</w>
+<w>тѧжа</w>
+<w>ѿ<lb/>толе</w>
+<w>не</w>
+<w>взыскаема</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>е<lb/>му.</w>
+<w>да</w>
+<w>пребываеть</w>
+<w>тѧ<lb/>жа</w>
+<w>ѿтолѣ</w>
+<w>не</w>
+<w>взискае<lb/>ма</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>емоу.</w>
+<w>да</w>
+<w>прибываеть</w>
+<w>тѧжа</w>
+<w>ѿтолѣ,</w>
+<w>не</w>
+<w>възыскае<lb/>ма</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>ему,</w>
+<w>да</w>
+<w>пребываетъ</w>
+<w>тяжа</w>
+<w>отоле</w>
+<w>не</w>
+<w>взыскаема</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>ему,</w>
+<w>да</w>
+<w>пребываеть</w>
+<w>тяжа</w>
+<w>отътолѣ</w>
+<w>не</w>
+<w>възискаема.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>ему,</w>
+<w>да</w>
+<w>пребывает</w>
+<w>тяжа</w>
+<w>отоле</w>
+<w>не</w>
+<w>взыскаема.</w>
+</rdg>
+</app></p></div></body></text></TEI>

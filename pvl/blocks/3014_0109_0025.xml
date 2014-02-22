@@ -1,132 +1,115 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>109, 25</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="25">
-            <p>
-               <app>
-                  <lem>
-                     <w>къ</w>
-                     <w>цьсарема,</w>
-                     <w>Василью</w>
-                     <w>и</w>
-                     <w>Костянтину,</w>
-                     <w>глаголя</w>
-                     <w>сице:</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ко</w>
-                        <w>цр҃в<sic>і</sic> 
-                           <lb/>
-                        </w>
-                        <w>василью</w>
-                        <w>и</w>
-                        <w>костѧнтину</w>
-                        <w>гл҃ѧ</w>
-                        <w>сице.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>къ</w>
-                        <w>цр҃ма.</w>
-                        <w>василью</w>
-                        <w>и</w>
-                        <w>костѧнтину <lb/>
-                        </w>
-                        <w>гл҃ѧ</w>
-                        <w>сице.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ко</w>
-                        <w>ц҃рема.</w>
-                        <w>васїлїю. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>костѧнтинѹ</w>
-                        <w>гл҃ѧ</w>
-                        <w>сице.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>къ</w>
-                        <w>ц<hi rend="sup">с</hi>рви <lb/>
-                        </w>
-                        <w>василию</w>
-                        <w>и</w>
-                        <w>костѧнтину.</w>
-                        <w>гл҃ѧ <lb/>
-                        </w>
-                        <w>сице.</w>
-                     </rdg>
-                     <rdg wit="#xle"/>
-                     <rdg wit="#kom">
-                        <w>рекъ</w>
-                        <w>цесарема</w>
-                        <w>василию</w>
-                        <w>и</w>
-                        <w>костянтину</w>
-                        <w>глаголя</w>
-                        <w>сице</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>ю</w>
-                        <w>и</w>
-                        <w>костянтину</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>рекъ</w>
-                        <w>цесарема</w>
-                        <w>василию</w>
-                        <w>и</w>
-                        <w>костянтину</w>
-                        <w>глаголя</w>
-                        <w>сице</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>ко</w>
-                        <w>царема,</w>
-                        <w>Василью</w>
-                        <w>и</w>
-                        <w>Костянтину,</w>
-                        <w>глаголя</w>
-                        <w>сице:</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>къ</w>
-                        <w>цѣсарема</w>
-                        <w>Василию</w>
-                        <w>и</w>
-                        <w>Костянтину,</w>
-                        <w>глаголя</w>
-                        <w>сице:</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>ко</w>
-                        <w>царема,</w>
-                        <w>Василью</w>
-                        <w>и</w>
-                        <w>Костянтину,</w>
-                        <w>глаголя</w>
-                        <w>сице:</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>109, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="25"><p>
+<app>
+<lem wit="#lem">
+<w>къ</w>
+<w>цьсарема,</w>
+<w>Василью</w>
+<w>и</w>
+<w>Костянтину,</w>
+<w>глаголя</w>
+<w>сице:</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ко</w>
+<w>цр҃в<milestone unit="sic" n="start"/>і<milestone unit="sic" n="end"/><lb/></w>
+<w>василью</w>
+<w>и</w>
+<w>костѧнтину</w>
+<w>гл҃ѧ</w>
+<w>сице.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>къ</w>
+<w>цр҃ма.</w>
+<w>василью</w>
+<w>и</w>
+<w>костѧнтину <lb/></w>
+
+<w>гл҃ѧ</w>
+<w>сице.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ко</w>
+<w>ц҃рема.</w>
+<w>васїлїю. <lb/></w>
+
+<w>и</w>
+<w>костѧнтинѹ</w>
+<w>гл҃ѧ</w>
+<w>сице.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>къ</w>
+<w>ц<hi rend="sup">с</hi>рви <lb/></w>
+
+<w>василию</w>
+<w>и</w>
+<w>костѧнтину.</w>
+<w>гл҃ѧ <lb/></w>
+
+<w>сице.</w>
+</rdg>
+
+<rdg wit="#xle">
+</rdg>
+
+<rdg wit="#kom">
+<w>рекъ</w>
+<w>цесарема</w>
+<w>василию</w>
+<w>и</w>
+<w>костянтину</w>
+<w>глаголя</w>
+<w>сице</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>ю</w>
+<w>и</w>
+<w>костянтину</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>рекъ</w>
+<w>цесарема</w>
+<w>василию</w>
+<w>и</w>
+<w>костянтину</w>
+<w>глаголя</w>
+<w>сице</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>ко</w>
+<w>царема,</w>
+<w>Василью</w>
+<w>и</w>
+<w>Костянтину,</w>
+<w>глаголя</w>
+<w>сице:</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>къ</w>
+<w>цѣсарема</w>
+<w>Василию</w>
+<w>и</w>
+<w>Костянтину,</w>
+<w>глаголя</w>
+<w>сице:</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>ко</w>
+<w>царема,</w>
+<w>Василью</w>
+<w>и</w>
+<w>Костянтину,</w>
+<w>глаголя</w>
+<w>сице:</w>
+</rdg>
+</app></p></div></body></text></TEI>

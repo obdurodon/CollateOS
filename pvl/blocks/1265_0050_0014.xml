@@ -1,107 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>50, 14</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="14">
-            <p>
-               <app>
-                  <lem>
-                     <w>тъ</w>
-                     <w>покажненъ</w>
-                     <w>будеть</w>
-                     <w>по</w>
-                     <w>закону</w>
-                     <w>Грьчьскому</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>то</w>
-                        <w>п<hi rend="sup">к</hi>о<hi rend="sup">а</hi>зненъ</w>
-                        <w>будеть</w>
-                        <w>по</w>
-                        <w>закону <lb/>
-                        </w>
-                        <w>гречьскому.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>то</w>
-                        <w>покаженъ</w>
-                        <w>бѹде<hi rend="sup">т</hi>
-                        </w>
-                        <w>по</w>
-                        <w>законѹ</w>
-                        <w>грецкомоу <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>тъ</w>
-                        <w>покаже<lb/>нъ</w>
-                        <w>бѹдеть</w>
-                        <w>по</w>
-                        <w>законѹ</w>
-                        <w>грецкомѹ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>тъ</w>
-                        <w>покажненъ</w>
-                        <w>бу<lb/>деть.</w>
-                        <w>по</w>
-                        <w>закону</w>
-                        <w>грѣцко<lb/>му.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>тъ</w>
-                        <w>покажне<hi rend="sup">н</hi>
-                        </w>
-                        <w>бѫде<hi rend="sup">т</hi>.</w>
-                        <w>по <lb/>
-                        </w>
-                        <w>законоу</w>
-                        <w>грецкомоу.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>тъ</w>
-                        <w>показненъ</w>
-                        <w>будеть</w>
-                        <w>по</w>
-                        <w>закону</w>
-                        <w>Гречьскому,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>тъ</w>
-                        <w>покажненъ</w>
-                        <w>будеть</w>
-                        <w>по</w>
-                        <w>закону</w>
-                        <w>Грьчьскому</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>тъ</w>
-                        <w>показненъ</w>
-                        <w>будеть</w>
-                        <w>по</w>
-                        <w>закону</w>
-                        <w>гречьскому,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>50, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="14"><p>
+<app>
+<lem wit="#lem">
+<w>тъ</w>
+<w>покажненъ</w>
+<w>будеть</w>
+<w>по</w>
+<w>закону</w>
+<w>Грьчьскому</w>
+</lem>
+
+<rdg wit="#lav">
+<w>то</w>
+<w>п<hi rend="sup">к</hi>о<hi rend="sup">а</hi>зненъ</w>
+<w>будеть</w>
+<w>по</w>
+<w>закону <lb/></w>
+
+<w>гречьскому.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>то</w>
+<w>покаженъ</w>
+<w>бѹде<hi rend="sup">т</hi></w>
+<w>по</w>
+<w>законѹ</w>
+<w>грецкомоу <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>тъ</w>
+<w>покаже<lb/>нъ</w>
+<w>бѹдеть</w>
+<w>по</w>
+<w>законѹ</w>
+<w>грецкомѹ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>тъ</w>
+<w>покажненъ</w>
+<w>бу<lb/>деть.</w>
+<w>по</w>
+<w>закону</w>
+<w>грѣцко<lb/>му.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>тъ</w>
+<w>покажне<hi rend="sup">н</hi></w>
+<w>бѫде<hi rend="sup">т</hi>.</w>
+<w>по <lb/></w>
+
+<w>законоу</w>
+<w>грецкомоу.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>тъ</w>
+<w>показненъ</w>
+<w>будеть</w>
+<w>по</w>
+<w>закону</w>
+<w>Гречьскому,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>тъ</w>
+<w>покажненъ</w>
+<w>будеть</w>
+<w>по</w>
+<w>закону</w>
+<w>Грьчьскому</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>тъ</w>
+<w>показненъ</w>
+<w>будеть</w>
+<w>по</w>
+<w>закону</w>
+<w>гречьскому,</w>
+</rdg>
+</app></p></div></body></text></TEI>

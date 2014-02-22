@@ -1,127 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>201, 2</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="2">
-            <p>
-               <app>
-                  <lem>
-                     <w>Вьсеволода,</w>
-                     <w>и</w>
-                     <w>повелѣ</w>
-                     <w>събирати</w>
-                     <w>вои</w>
-                     <w>отъ</w>
-                     <w>мала</w>
-                     <w>до</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>всеволода.</w>
-                        <w>и</w>
-                        <w>повелѣ</w>
-                        <w>сбир<hi rend="sup">а</hi> 
-                           <lb/>
-                        </w>
-                        <w>вои</w>
-                        <w>ѿ</w>
-                        <w>мала</w>
-                        <w>до</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>всеволода.</w>
-                        <w>и</w>
-                        <w>по<lb/>велѣ</w>
-                        <w>собирати</w>
-                        <w>вои</w>
-                        <w>ѿ</w>
-                        <w>
-                           <add place="margin">ма</add>ла</w>
-                        <w>до</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>всеволода.</w>
-                        <w>и</w>
-                        <w>повелѣ</w>
-                        <w>собирати</w>
-                        <w>воѧ <lb/>
-                        </w>
-                        <w>ѿ</w>
-                        <w>мала</w>
-                        <w>и</w>
-                        <w>до</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>всеволода.</w>
-                        <w>и</w>
-                        <w>пове<hi rend="sup">л</hi> 
-                           <lb/>
-                        </w>
-                        <w>збирати</w>
-                        <w>воя.</w>
-                        <w>ѿ</w>
-                        <w>мала</w>
-                        <w>до</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>в<hi rend="sup">в</hi>о<hi rend="sup">с</hi>л<hi rend="sup">е</hi>ода.</w>
-                        <w>и</w>
-                        <w>повелѣ</w>
-                        <w>събирати</w>
-                        <w>воѧ</w>
-                        <w>ѿ</w>
-                        <w>ма<lb/>ла</w>
-                        <w>до</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Всеволода,</w>
-                        <w>и</w>
-                        <w>повелѣ</w>
-                        <w>сбирати</w>
-                        <w>вои</w>
-                        <w>отъ</w>
-                        <w>мала</w>
-                        <w>до</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Вьсеволода,</w>
-                        <w>и</w>
-                        <w>повелѣ</w>
-                        <w>събирати</w>
-                        <w>вои</w>
-                        <w>отъ</w>
-                        <w>мала</w>
-                        <w>до</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Всеволода,</w>
-                        <w>и</w>
-                        <w>повелѣ</w>
-                        <w>сбирати</w>
-                        <w>вои</w>
-                        <w>от</w>
-                        <w>мала</w>
-                        <w>до</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>201, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="2"><p>
+<app>
+<lem wit="#lem">
+<w>Вьсеволода,</w>
+<w>и</w>
+<w>повелѣ</w>
+<w>събирати</w>
+<w>вои</w>
+<w>отъ</w>
+<w>мала</w>
+<w>до</w>
+</lem>
+
+<rdg wit="#lav">
+<w>всеволода.</w>
+<w>и</w>
+<w>повелѣ</w>
+<w>сбир<hi rend="sup">а</hi><lb/>ти</w>
+<w>вои</w>
+<w>ѿ</w>
+<w>мала</w>
+<w>до</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>всеволода.</w>
+<w>и</w>
+<w>по<lb/>велѣ</w>
+<w>собирати</w>
+<w>вои</w>
+<w>ѿ</w>
+<w><milestone unit="add" n="start" place="margin"/>ма<milestone unit="add" n="end"/>ла</w>
+<w>до</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>всеволода.</w>
+<w>и</w>
+<w>повелѣ</w>
+<w>собирати</w>
+<w>воѧ <lb/></w>
+
+<w>ѿ</w>
+<w>мала</w>
+<w>и</w>
+<w>до</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>всеволода.</w>
+<w>и</w>
+<w>пове<hi rend="sup">л</hi><lb/></w>
+<w>збирати</w>
+<w>воя.</w>
+<w>ѿ</w>
+<w>мала</w>
+<w>до</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>в<hi rend="sup">в</hi>о<hi rend="sup">с</hi>л<hi rend="sup">е</hi>ода.</w>
+<w>и</w>
+<w>повелѣ</w>
+<w>събирати</w>
+<w>воѧ</w>
+<w>ѿ</w>
+<w>ма<lb/>ла</w>
+<w>до</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Всеволода,</w>
+<w>и</w>
+<w>повелѣ</w>
+<w>сбирати</w>
+<w>вои</w>
+<w>отъ</w>
+<w>мала</w>
+<w>до</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Вьсеволода,</w>
+<w>и</w>
+<w>повелѣ</w>
+<w>събирати</w>
+<w>вои</w>
+<w>отъ</w>
+<w>мала</w>
+<w>до</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Всеволода,</w>
+<w>и</w>
+<w>повелѣ</w>
+<w>сбирати</w>
+<w>вои</w>
+<w>от</w>
+<w>мала</w>
+<w>до</w>
+</rdg>
+</app></p></div></body></text></TEI>

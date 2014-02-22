@@ -1,122 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>238, 16</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="16">
-            <p>
-               <app>
-                  <lem>
-                     <w>приде</w>
-                     <w>на</w>
-                     <w>Вългу</w>
-                     <w>и</w>
-                     <w>повѣдаша</w>
-                     <w>ему,</w>
-                     <w>яко</w>
-                     <w>Ольгъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>приде</w>
-                        <w>на</w>
-                        <w>волгу·</w>
-                        <w>и</w>
-                        <w>повѣда<lb/>ша</w>
-                        <w>ѥму</w>
-                        <w>яко</w>
-                        <w>ѡлегъ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>прииде</w>
-                        <w>на</w>
-                        <w>волгѹ. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>поведаша</w>
-                        <w>емѹ.</w>
-                        <w>яко</w>
-                        <w>ѡлегъ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>прииде</w>
-                        <w>на</w>
-                        <w>волгѹ·</w>
-                        <w>и</w>
-                        <w>по<lb/>ведаше</w>
-                        <w>емѹ</w>
-                        <w>яко</w>
-                        <w>ѡлегъ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>поиде <lb/>
-                        </w>
-                        <w>на</w>
-                        <w>волгу·</w>
-                        <w>повѣдаша</w>
-                        <w>ему</w>
-                        <w>яко <lb/>
-                        </w>
-                        <w>ѡлегъ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>поиде</w>
-                        <w>на</w>
-                        <w>волгоу.</w>
-                        <w>повѣдаша</w>
-                        <w>емоу, <lb/>
-                        </w>
-                        <w>яко</w>
-                        <w>олегь</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>приде</w>
-                        <w>на</w>
-                        <w>Волгу,</w>
-                        <w>и</w>
-                        <w>повѣдаша</w>
-                        <w>ему,</w>
-                        <w>яко</w>
-                        <w>Олегъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>приде</w>
-                        <w>на</w>
-                        <w>Вългу,</w>
-                        <w>и</w>
-                        <w>повѣдаша</w>
-                        <w>ему,</w>
-                        <w>яко</w>
-                        <w>Ольгъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>приде</w>
-                        <w>на</w>
-                        <w>Волгу</w>
-                        <w>и</w>
-                        <w>повѣдаша</w>
-                        <w>ему,</w>
-                        <w>яко</w>
-                        <w>Олегъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>238, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="16"><p>
+<app>
+<lem wit="#lem">
+<w>приде</w>
+<w>на</w>
+<w>Вългу</w>
+<w>и</w>
+<w>повѣдаша</w>
+<w>ему,</w>
+<w>яко</w>
+<w>Ольгъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>приде</w>
+<w>на</w>
+<w>волгу·</w>
+<w>и</w>
+<w>повѣда<lb/>ша</w>
+<w>ѥму</w>
+<w>яко</w>
+<w>ѡлегъ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>прииде</w>
+<w>на</w>
+<w>волгѹ. <lb/></w>
+
+<w>и</w>
+<w>поведаша</w>
+<w>емѹ.</w>
+<w>яко</w>
+<w>ѡлегъ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>прииде</w>
+<w>на</w>
+<w>волгѹ·</w>
+<w>и</w>
+<w>по<lb/>ведаше</w>
+<w>емѹ</w>
+<w>яко</w>
+<w>ѡлегъ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>поиде <lb/></w>
+
+<w>на</w>
+<w>волгу·</w>
+<w>повѣдаша</w>
+<w>ему</w>
+<w>яко <lb/></w>
+
+<w>ѡлегъ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>поиде</w>
+<w>на</w>
+<w>волгоу.</w>
+<w>повѣдаша</w>
+<w>емоу, <lb/></w>
+
+<w>яко</w>
+<w>олегь</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>приде</w>
+<w>на</w>
+<w>Волгу,</w>
+<w>и</w>
+<w>повѣдаша</w>
+<w>ему,</w>
+<w>яко</w>
+<w>Олегъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>приде</w>
+<w>на</w>
+<w>Вългу,</w>
+<w>и</w>
+<w>повѣдаша</w>
+<w>ему,</w>
+<w>яко</w>
+<w>Ольгъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>приде</w>
+<w>на</w>
+<w>Волгу</w>
+<w>и</w>
+<w>повѣдаша</w>
+<w>ему,</w>
+<w>яко</w>
+<w>Олегъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

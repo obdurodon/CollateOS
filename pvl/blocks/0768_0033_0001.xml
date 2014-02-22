@@ -1,101 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>33, 1</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="1">
-            <p>
-               <app>
-                  <lem>
-                     <w>Русьскаго,</w>
-                     <w>Карлы,</w>
-                     <w>Иньгелдъ,</w>
-                     <w>Фарлофъ,</w>
-                     <w>Верьмудъ,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>рѹ<hi rend="sup">с</hi> 
-                           <lb/>
-                        </w>
-                        <w>карлы.</w>
-                        <w>инегелдъ.</w>
-                        <w>фарло<hi rend="sup">ѳ</hi>.</w>
-                        <w>веремоу<hi rend="sup">д</hi>.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>рѹс<hi rend="sup">с</hi>каго.</w>
-                        <w>карлы. <lb/>
-                        </w>
-                        <w>инегелдъ.</w>
-                        <w>фарлоѳъ.</w>
-                        <w>веремѹдъ.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>рускаго.</w>
-                        <w>карлы</w>
-                        <w>инеге<lb/>лдъ.</w>
-                        <w>фарлофъ.</w>
-                        <w>веремудъ.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>роу<hi rend="sup">с</hi>каго.</w>
-                        <w>карлы <lb/>
-                        </w>
-                        <w>инегелдь.</w>
-                        <w>фарлоѳь.</w>
-                        <w>и</w>
-                        <w>веремоу<hi rend="sup">д</hi>.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Рускаго,</w>
-                        <w>Карлы,</w>
-                        <w>Инегелдъ,</w>
-                        <w>Фарлоѳъ,</w>
-                        <w>Веремудъ,</w>
-                        <w>
-                           <pb n="32,7"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Русьскаго:</w>
-                        <w>Карлы,</w>
-                        <w>Иньгелдъ,</w>
-                        <w>Фарлофъ,</w>
-                        <w>Верьмудъ,</w>
-                        <w>
-                           <pb n="33,12"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>рускаго,</w>
-                        <w>Карлы,</w>
-                        <w>Инегелдъ,</w>
-                        <w>Фарлоф,</w>
-                        <w>Веремуд,</w>
-                        <w>
-                           <pb n="25,32"/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>33, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="1"><p>
+<app>
+<lem wit="#lem">
+<w>Русьскаго,</w>
+<w>Карлы,</w>
+<w>Иньгелдъ,</w>
+<w>Фарлофъ,</w>
+<w>Верьмудъ,</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>рѹ<hi rend="sup">с</hi><lb/>ка<hi rend="sup">г</hi>.</w>
+<w>карлы.</w>
+<w>инегелдъ.</w>
+<w>фарло<hi rend="sup">ѳ</hi>.</w>
+<w>веремоу<hi rend="sup">д</hi>.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>рѹс<hi rend="sup">с</hi>каго.</w>
+<w>карлы. <lb/></w>
+
+<w>инегелдъ.</w>
+<w>фарлоѳъ.</w>
+<w>веремѹдъ.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>рускаго.</w>
+<w>карлы</w>
+<w>инеге<lb/>лдъ.</w>
+<w>фарлофъ.</w>
+<w>веремудъ.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>роу<hi rend="sup">с</hi>каго.</w>
+<w>карлы <lb/></w>
+
+<w>инегелдь.</w>
+<w>фарлоѳь.</w>
+<w>и</w>
+<w>веремоу<hi rend="sup">д</hi>.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Рускаго,</w>
+<w>Карлы,</w>
+<w>Инегелдъ,</w>
+<w>Фарлоѳъ,</w>
+<w>Веремудъ, <pb n="32,7"/></w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>Русьскаго:</w>
+<w>Карлы,</w>
+<w>Иньгелдъ,</w>
+<w>Фарлофъ,</w>
+<w>Верьмудъ, <pb n="33,12"/></w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>рускаго,</w>
+<w>Карлы,</w>
+<w>Инегелдъ,</w>
+<w>Фарлоф,</w>
+<w>Веремуд, <pb n="25,32"/></w>
+
+</rdg>
+</app></p></div></body></text></TEI>

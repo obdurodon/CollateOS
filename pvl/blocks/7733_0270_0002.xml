@@ -1,100 +1,82 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>270, 2</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="2">
-            <p>
-               <app>
-                  <lem>
-                     <w>възьмъше</w>
-                     <w>крьстъ,</w>
-                     <w>егоже</w>
-                     <w>бѣ</w>
-                     <w>цѣловалъ</w>
-                     <w>къ</w>
-                     <w>нима</w>
-                     <w>на</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>взе<hi rend="sup">м</hi>ше</w>
-                        <w>кр<hi rend="sup">с</hi>ь· <lb/>
-                        </w>
-                        <w>ѥгоже</w>
-                        <w>бѣ</w>
-                        <w>цѣловалъ</w>
-                        <w>к</w>
-                        <w>нима· <lb/>
-                        </w>
-                        <w>на</w>
-                     </rdg>
-                     <rdg wit="#rad"/>
-                     <rdg wit="#aka"/>
-                     <rdg wit="#ipa">
-                        <w>вземше</w>
-                        <w>хрестъ <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>възе<hi rend="sup">м</hi>ше</w>
-                        <w>кр<hi rend="sup">с</hi>ть.</w>
-                        <w>его<hi rend="sup">ж</hi>
-                        </w>
-                        <w>цѣловалъ</w>
-                        <w>к</w>
-                        <w>ни<lb/>ма</w>
-                        <w>на</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>вземша</w>
-                        <w>крестъ,</w>
-                        <w>егоже</w>
-                        <w>бѣ</w>
-                        <w>цѣловалъ</w>
-                        <w>к</w>
-                        <w>нима</w>
-                        <w>на</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>възьмъша</w>
-                        <w>крьстъ,</w>
-                        <w>егоже</w>
-                        <w>бѣ</w>
-                        <w>цѣловалъ</w>
-                        <w>къ</w>
-                        <w>нима</w>
-                        <w>на</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>вземша</w>
-                        <w>крестъ,</w>
-                        <w>его</w>
-                        <w>же</w>
-                        <w>бѣ</w>
-                        <w>цѣловалъ</w>
-                        <w>к</w>
-                        <w>нима</w>
-                        <w>на</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="2"><p>
+<app>
+<lem wit="#lem">
+<w>възьмъше</w>
+<w>крьстъ,</w>
+<w>егоже</w>
+<w>бѣ</w>
+<w>цѣловалъ</w>
+<w>къ</w>
+<w>нима</w>
+<w>на</w>
+</lem>
+
+<rdg wit="#lav">
+<w>взе<hi rend="sup">м</hi>ше</w>
+<w>кр<hi rend="sup">с</hi>ь· <lb/></w>
+
+<w>ѥгоже</w>
+<w>бѣ</w>
+<w>цѣловалъ</w>
+<w>к</w>
+<w>нима· <lb/></w>
+
+<w>на</w>
+</rdg>
+
+<rdg wit="#rad">
+</rdg>
+
+<rdg wit="#aka">
+</rdg>
+
+<rdg wit="#ipa">
+<w>вземше</w>
+<w>хрестъ <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>възе<hi rend="sup">м</hi>ше</w>
+<w>кр<hi rend="sup">с</hi>ть.</w>
+<w>его<hi rend="sup">ж</hi></w>
+<w>цѣловалъ</w>
+<w>к</w>
+<w>ни<lb/>ма</w>
+<w>на</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>вземша</w>
+<w>крестъ,</w>
+<w>егоже</w>
+<w>бѣ</w>
+<w>цѣловалъ</w>
+<w>к</w>
+<w>нима</w>
+<w>на</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>възьмъша</w>
+<w>крьстъ,</w>
+<w>егоже</w>
+<w>бѣ</w>
+<w>цѣловалъ</w>
+<w>къ</w>
+<w>нима</w>
+<w>на</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>вземша</w>
+<w>крестъ,</w>
+<w>его</w>
+<w>же</w>
+<w>бѣ</w>
+<w>цѣловалъ</w>
+<w>к</w>
+<w>нима</w>
+<w>на</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,108 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>155, 2</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="2">
-            <p>
-               <app>
-                  <lem>
-                     <w>людий 8</w>
-                     <w>сътъ,</w>
-                     <w>еже</w>
-                     <w>бѣ</w>
-                     <w>полонилъ</w>
-                     <w>Болеславъ,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>людии:·</w>
-                        <w>.н҃.</w>
-                        <w>сотъ·:·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>лю<hi rend="sup">д</hi>е.</w>
-                        <w>ѡсмь <lb/>
-                        </w>
-                        <w>сотъ</w>
-                        <w>еже</w>
-                        <w>бо</w>
-                        <w>полонилъ</w>
-                        <w>болеславъ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>лю<hi rend="sup">д</hi>и</w>
-                        <w>.и҃.</w>
-                        <w>сотъ. <lb/>
-                        </w>
-                        <w>еже</w>
-                        <w>бо</w>
-                        <w>полонилъ</w>
-                        <w>болеславъ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>людии</w>
-                        <w>.и҃.</w>
-                        <w>со<hi rend="sup">т</hi>. <lb/>
-                        </w>
-                        <w>еже</w>
-                        <w>бѣ</w>
-                        <w>поло<sic>н</sic>илъ.</w>
-                        <w>болесла<lb/>въ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>людїи</w>
-                        <w>ѡсмь</w>
-                        <w>со<hi rend="sup">т</hi>.</w>
-                        <w>еже</w>
-                        <w>бѣ</w>
-                        <w>поло<sic>жи</sic>
-                        </w>
-                        <w>болеславъ. <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>людий 8</w>
-                        <w>сотъ,</w>
-                        <w>яже</w>
-                        <w>бѣ</w>
-                        <w>полонилъ</w>
-                        <w>Болеславъ,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>людий 8</w>
-                        <w>сътъ,</w>
-                        <w>яже</w>
-                        <w>бѣ</w>
-                        <w>полонилъ</w>
-                        <w>Болеславъ,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>людий 8</w>
-                        <w>сотъ,</w>
-                        <w>яже</w>
-                        <w>бѣ</w>
-                        <w>полонилъ</w>
-                        <w>Болеславъ,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>155, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="2"><p>
+<app>
+<lem wit="#lem">
+<w>людий 8</w>
+
+<w>сътъ,</w>
+<w>еже</w>
+<w>бѣ</w>
+<w>полонилъ</w>
+<w>Болеславъ,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>людии:·</w>
+<w>.н҃.</w>
+<w>сотъ·:·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>лю<hi rend="sup">д</hi>е.</w>
+<w>ѡсмь <lb/></w>
+
+<w>сотъ</w>
+<w>еже</w>
+<w>бо</w>
+<w>полонилъ</w>
+<w>болеславъ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>лю<hi rend="sup">д</hi>и</w>
+<w>.и҃.</w>
+<w>сотъ. <lb/></w>
+
+<w>еже</w>
+<w>бо</w>
+<w>полонилъ</w>
+<w>болеславъ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>людии</w>
+<w>.и҃.</w>
+<w>со<hi rend="sup">т</hi>. <lb/></w>
+
+<w>еже</w>
+<w>бѣ</w>
+<w>поло<milestone unit="sic" n="start"/>н<milestone unit="sic" n="end"/>илъ.</w>
+<w>болесла<lb/>въ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>людїи</w>
+<w>ѡсмь</w>
+<w>со<hi rend="sup">т</hi>.</w>
+<w>еже</w>
+<w>бѣ</w>
+<w>поло<milestone unit="sic" n="start"/>жи<milestone unit="sic" n="end"/></w>
+<w>болеславъ. <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>людий 8</w>
+
+<w>сотъ,</w>
+<w>яже</w>
+<w>бѣ</w>
+<w>полонилъ</w>
+<w>Болеславъ,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>людий 8</w>
+
+<w>сътъ,</w>
+<w>яже</w>
+<w>бѣ</w>
+<w>полонилъ</w>
+<w>Болеславъ,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>людий 8</w>
+
+<w>сотъ,</w>
+<w>яже</w>
+<w>бѣ</w>
+<w>полонилъ</w>
+<w>Болеславъ,</w>
+</rdg>
+</app></p></div></body></text></TEI>

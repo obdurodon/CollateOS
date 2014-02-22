@@ -1,130 +1,111 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>128, 18</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="18">
-            <p>
-               <app>
-                  <lem>
-                     <w>вас</w>
-                     <w>до 10</w>
-                     <w>мужь</w>
-                     <w>идете</w>
-                     <w>въ</w>
-                     <w>градъ,</w>
-                     <w>да</w>
-                     <w>видите,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>вы</w>
-                        <w>пои<lb/>дѣте</w>
-                        <w>до</w>
-                        <w>.і҃.</w>
-                        <w>мужь.</w>
-                        <w>в</w>
-                        <w>градъ</w>
-                        <w>да</w>
-                        <w>ви<lb/>дите</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>вы</w>
-                        <w>поидете</w>
-                        <w>до</w>
-                        <w>.і҃.</w>
-                        <w>ва<hi rend="sup">с</hi>
-                        </w>
-                        <w>в</w>
-                        <w>гра<hi rend="sup">д</hi>.</w>
-                        <w>да</w>
-                        <w>видите</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>вы</w>
-                        <w>поидите</w>
-                        <w>.і҃.</w>
-                        <w>васъ</w>
-                        <w>во</w>
-                        <w>гра<hi rend="sup">д</hi>.</w>
-                        <w>да</w>
-                        <w>ви<lb/>дите</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>васъ</w>
-                        <w>до <lb/>
-                        </w>
-                        <w>.і҃.</w>
-                        <w>мужь.</w>
-                        <w>идете</w>
-                        <w>вь</w>
-                        <w>гра<hi rend="sup">д</hi>дъ</w>
-                        <w>и</w>
-                        <w>ви<lb/>дите</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ва<hi rend="sup">с</hi>
-                        </w>
-                        <w>до</w>
-                        <w>дес<hi rend="sup">т</hi>ѧ<hi rend="sup">и</hi>
-                        </w>
-                        <w>мѫ<hi rend="sup">ж</hi>
-                        </w>
-                        <w>идѣте</w>
-                        <w>въ</w>
-                        <w>гра<hi rend="sup">д</hi>. <lb/>
-                        </w>
-                        <w>да</w>
-                        <w>в<hi rend="sup">д</hi>и<hi rend="sup">и</hi>те</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>вы</w>
-                        <w>поидѣте</w>
-                        <w>до 10</w>
-                        <w>мужь</w>
-                        <w>в</w>
-                        <w>градъ,</w>
-                        <w>да</w>
-                        <w>видите,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>вы</w>
-                        <w>поидѣте</w>
-                        <w>до 10</w>
-                        <w>мужь</w>
-                        <w>въ</w>
-                        <w>градъ,</w>
-                        <w>да</w>
-                        <w>видите,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>вы</w>
-                        <w>поидѣте</w>
-                        <w>до 10</w>
-                        <w>мужь</w>
-                        <w>в</w>
-                        <w>градъ,</w>
-                        <w>да</w>
-                        <w>видите,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>128, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="18"><p>
+<app>
+<lem wit="#lem">
+<w>вас</w>
+<w>до 10</w>
+
+<w>мужь</w>
+<w>идете</w>
+<w>въ</w>
+<w>градъ,</w>
+<w>да</w>
+<w>видите,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>вы</w>
+<w>пои<lb/>дѣте</w>
+<w>до</w>
+<w>.і҃.</w>
+<w>мужь.</w>
+<w>в</w>
+<w>градъ</w>
+<w>да</w>
+<w>ви<lb/>дите</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>вы</w>
+<w>поидете</w>
+<w>до</w>
+<w>.і҃.</w>
+<w>ва<hi rend="sup">с</hi></w>
+<w>в</w>
+<w>гра<hi rend="sup">д</hi>.</w>
+<w>да</w>
+<w>видите</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>вы</w>
+<w>поидите</w>
+<w>.і҃.</w>
+<w>васъ</w>
+<w>во</w>
+<w>гра<hi rend="sup">д</hi>.</w>
+<w>да</w>
+<w>ви<lb/>дите</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>васъ</w>
+<w>до <lb/></w>
+
+<w>.і҃.</w>
+<w>мужь.</w>
+<w>идете</w>
+<w>вь</w>
+<w>гра<hi rend="sup">д</hi>дъ</w>
+<w>и</w>
+<w>ви<lb/>дите</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ва<hi rend="sup">с</hi></w>
+<w>до</w>
+<w>дес<hi rend="sup">т</hi>ѧ<hi rend="sup">и</hi></w>
+<w>мѫ<hi rend="sup">ж</hi></w>
+<w>идѣте</w>
+<w>въ</w>
+<w>гра<hi rend="sup">д</hi>. <lb/></w>
+
+<w>да</w>
+<w>в<hi rend="sup">д</hi>и<hi rend="sup">и</hi>те</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>вы</w>
+<w>поидѣте</w>
+<w>до 10</w>
+
+<w>мужь</w>
+<w>в</w>
+<w>градъ,</w>
+<w>да</w>
+<w>видите,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>вы</w>
+<w>поидѣте</w>
+<w>до 10</w>
+
+<w>мужь</w>
+<w>въ</w>
+<w>градъ,</w>
+<w>да</w>
+<w>видите,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>вы</w>
+<w>поидѣте</w>
+<w>до 10</w>
+
+<w>мужь</w>
+<w>в</w>
+<w>градъ,</w>
+<w>да</w>
+<w>видите,</w>
+</rdg>
+</app></p></div></body></text></TEI>

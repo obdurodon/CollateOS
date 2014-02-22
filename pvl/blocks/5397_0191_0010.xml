@@ -1,124 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>191, 10</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="10">
-            <p>
-               <app>
-                  <lem>
-                     <w>ему,</w>
-                     <w>яко</w>
-                     <w>“Выскочилъ</w>
-                     <w>есть</w>
-                     <w>чресъ</w>
-                     <w>стълпие</w>
-                     <w>по</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ѥму</w>
-                        <w>яко</w>
-                        <w>давѣ</w>
-                        <w>скочилъ.</w>
-                        <w>ре<hi rend="sup">ч</hi>
-                        </w>
-                        <w>со <lb/>
-                        </w>
-                        <w>столп<sic>ь</sic>я</w>
-                        <w>по</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>емоу</w>
-                        <w>яко</w>
-                        <w>давѣ</w>
-                        <w>ско<lb/>чилъ</w>
-                        <w>чре</w>
-                        <w>столпие.</w>
-                        <w>по</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>емѹ</w>
-                        <w>яко</w>
-                        <w>давѣ</w>
-                        <w>скочилъ <lb/>
-                        </w>
-                        <w>чр<hi rend="sup">с</hi>е</w>
-                        <w>столпие</w>
-                        <w>по</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ему</w>
-                        <w>яко</w>
-                        <w>выскочилъ <lb/>
-                        </w>
-                        <w>есть</w>
-                        <w>чресъ</w>
-                        <w>столпъе</w>
-                        <w>по</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>емѫ,</w>
-                        <w>я<hi rend="sup">к</hi> 
-                           <lb/>
-                        </w>
-                        <w>выскочи<hi rend="sup">л</hi>
-                        </w>
-                        <w>е<hi rend="sup">с</hi>
-                        </w>
-                        <w>чре<hi rend="sup">з</hi>
-                        </w>
-                        <w>стлъпье</w>
-                        <w>по</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>ему:</w>
-                        <w>“яко</w>
-                        <w>давѣ</w>
-                        <w>скочилъ</w>
-                        <w>есть</w>
-                        <w>со</w>
-                        <w>столпья</w>
-                        <w>по</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>ему,</w>
-                        <w>яко</w>
-                        <w>“давѣ</w>
-                        <w>скочилъ</w>
-                        <w>есть</w>
-                        <w>чресъ</w>
-                        <w>стълпие,</w>
-                        <w>по</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>ему,</w>
-                        <w>яко</w>
-                        <w>“Давѣ</w>
-                        <w>скочилъ</w>
-                        <w>есть</w>
-                        <w>со</w>
-                        <w>столпья</w>
-                        <w>по</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>191, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="10"><p>
+<app>
+<lem wit="#lem">
+<w>ему,</w>
+<w>яко</w>
+<w>“Выскочилъ</w>
+<w>есть</w>
+<w>чресъ</w>
+<w>стълпие</w>
+<w>по</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ѥму</w>
+<w>яко</w>
+<w>давѣ</w>
+<w>скочилъ.</w>
+<w>ре<hi rend="sup">ч</hi></w>
+<w>со <lb/></w>
+
+<w>столп<milestone unit="sic" n="start"/>ь<milestone unit="sic" n="end"/>я</w>
+<w>по</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>емоу</w>
+<w>яко</w>
+<w>давѣ</w>
+<w>ско<lb/>чилъ</w>
+<w>чре</w>
+<w>столпие.</w>
+<w>по</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>емѹ</w>
+<w>яко</w>
+<w>давѣ</w>
+<w>скочилъ <lb/></w>
+
+<w>чр<hi rend="sup">с</hi>е</w>
+<w>столпие</w>
+<w>по</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ему</w>
+<w>яко</w>
+<w>выскочилъ <lb/></w>
+
+<w>есть</w>
+<w>чресъ</w>
+<w>столпъе</w>
+<w>по</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>емѫ,</w>
+<w>я<hi rend="sup">к</hi><lb/></w>
+<w>выскочи<hi rend="sup">л</hi></w>
+<w>е<hi rend="sup">с</hi></w>
+<w>чре<hi rend="sup">з</hi></w>
+<w>стлъпье</w>
+<w>по</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>ему:</w>
+<w>“яко</w>
+<w>давѣ</w>
+<w>скочилъ</w>
+<w>есть</w>
+<w>со</w>
+<w>столпья</w>
+<w>по</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>ему,</w>
+<w>яко</w>
+<w>“давѣ</w>
+<w>скочилъ</w>
+<w>есть</w>
+<w>чресъ</w>
+<w>стълпие,</w>
+<w>по</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>ему,</w>
+<w>яко</w>
+<w>“Давѣ</w>
+<w>скочилъ</w>
+<w>есть</w>
+<w>со</w>
+<w>столпья</w>
+<w>по</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,119 +1,95 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>99, 13</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="13">
-            <p>
-               <app>
-                  <lem>
-                     <w>судъ</w>
-                     <w>мои</w>
-                     <w>свѣтъ</w>
-                     <w>странамъ.</w>
-                     <w>Приближаеть</w>
-                     <w>ся</w>
-                     <w>скоро</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>судъ</w>
-                        <w>мои <lb/>
-                        </w>
-                        <w>свѣтъ</w>
-                        <w>странамъ.</w>
-                        <w>приближаетсѧ</w>
-                        <w>скоро</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>соу<hi rend="sup">д</hi>
-                        </w>
-                        <w>мои</w>
-                        <w>свѣ<lb/>тъ</w>
-                        <w>страна<hi rend="sup">м</hi>.</w>
-                        <w>приближаеть<hi rend="sup">с</hi>
-                        </w>
-                        <w>скоро</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>сѹдъ</w>
-                        <w>мои</w>
-                        <w>свѣтъ</w>
-                        <w>стра<lb/>намъ.</w>
-                        <w>прїближаетсѧ</w>
-                        <w>скоро</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>судъ</w>
-                        <w>мои</w>
-                        <w>свѣтъ</w>
-                        <w>странамъ.</w>
-                        <w>прибли<lb/>жаетсѧ</w>
-                        <w>скоро</w>
-                        <w>
-                           <pb n="39a"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>сѫ<hi rend="sup">д</hi>
-                        </w>
-                        <w>мои</w>
-                        <w>свѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>страна<hi rend="sup">м</hi>.</w>
-                        <w>приближаетсѧ</w>
-                        <w>скоро</w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>суд</w>
-                        <w>мои</w>
-                        <w>свѣт</w>
-                        <w>странамъ</w>
-                        <w>приближается</w>
-                        <w>скоро</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>судъ</w>
-                        <w>мой</w>
-                        <w>свѣтъ</w>
-                        <w>странамъ;</w>
-                        <w>приближается</w>
-                        <w>скоро</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>судъ</w>
-                        <w>мои</w>
-                        <w>свѣтъ</w>
-                        <w>странамъ.</w>
-                        <w>Приближаеться</w>
-                        <w>скоро</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>судъ</w>
-                        <w>мой</w>
-                        <w>свѣтъ</w>
-                        <w>странамъ.</w>
-                        <w>Приближается</w>
-                        <w>скоро</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>99, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="13"><p>
+<app>
+<lem wit="#lem">
+<w>судъ</w>
+<w>мои</w>
+<w>свѣтъ</w>
+<w>странамъ.</w>
+<w>Приближаеть</w>
+<w>ся</w>
+<w>скоро</w>
+</lem>
+
+<rdg wit="#lav">
+<w>судъ</w>
+<w>мои <lb/></w>
+
+<w>свѣтъ</w>
+<w>странамъ.</w>
+<w>приближаетсѧ</w>
+<w>скоро</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>соу<hi rend="sup">д</hi></w>
+<w>мои</w>
+<w>свѣ<lb/>тъ</w>
+<w>страна<hi rend="sup">м</hi>.</w>
+<w>приближаеть<hi rend="sup">с</hi></w>
+<w>скоро</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>сѹдъ</w>
+<w>мои</w>
+<w>свѣтъ</w>
+<w>стра<lb/>намъ.</w>
+<w>прїближаетсѧ</w>
+<w>скоро</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>судъ</w>
+<w>мои</w>
+<w>свѣтъ</w>
+<w>странамъ.</w>
+<w>прибли<lb/>жаетсѧ</w>
+<w>скоро <pb n="39a"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>сѫ<hi rend="sup">д</hi></w>
+<w>мои</w>
+<w>свѣ<hi rend="sup">т</hi></w>
+<w>страна<hi rend="sup">м</hi>.</w>
+<w>приближаетсѧ</w>
+<w>скоро</w>
+</rdg>
+
+<rdg wit="#kom">
+<w>суд</w>
+<w>мои</w>
+<w>свѣт</w>
+<w>странамъ</w>
+<w>приближается</w>
+<w>скоро</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>судъ</w>
+<w>мой</w>
+<w>свѣтъ</w>
+<w>странамъ;</w>
+<w>приближается</w>
+<w>скоро</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>судъ</w>
+<w>мои</w>
+<w>свѣтъ</w>
+<w>странамъ.</w>
+<w>Приближаеться</w>
+<w>скоро</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>судъ</w>
+<w>мой</w>
+<w>свѣтъ</w>
+<w>странамъ.</w>
+<w>Приближается</w>
+<w>скоро</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,66 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>245, 18</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="18">
-            <p>
-               <app>
-                  <lem/>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>оумѣете</w>
-                        <w>молвити·</w>
-                        <w>а</w>
-                        <w>ги<hi rend="sup">с</hi>
-                        </w>
-                        <w>помилуи</w>
-                        <w>зовѣ<lb/>те</w>
-                        <w>бес</w>
-                        <w>
-                           <pb n="80b"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad"/>
-                     <rdg wit="#aka"/>
-                     <rdg wit="#ipa"/>
-                     <rdg wit="#xle"/>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>умѣете</w>
-                        <w>молвити,</w>
-                        <w>а</w>
-                        <w>“Господи</w>
-                        <w>помилуй”</w>
-                        <w>зовѣте</w>
-                        <w>бес</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>умѣете</w>
-                        <w>молвити,</w>
-                        <w>а</w>
-                        <w>“Господи</w>
-                        <w>помилуй”</w>
-                        <w>зовѣте</w>
-                        <w>бес</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>245, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="18"><p>
+<app>
+<lem wit="#lem">
+</lem>
+
+<rdg wit="#lav">
+<w>оумѣете</w>
+<w>молвити·</w>
+<w>а</w>
+<w>ги<hi rend="sup">с</hi></w>
+<w>помилуи</w>
+<w>зовѣ<lb/>те</w>
+<w>бес <pb n="80b"/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+</rdg>
+
+<rdg wit="#aka">
+</rdg>
+
+<rdg wit="#ipa">
+</rdg>
+
+<rdg wit="#xle">
+</rdg>
+
+<rdg wit="#bych">
+<w>умѣете</w>
+<w>молвити,</w>
+<w>а</w>
+<w>“Господи</w>
+<w>помилуй”</w>
+<w>зовѣте</w>
+<w>бес</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>умѣете</w>
+<w>молвити,</w>
+<w>а</w>
+<w>“Господи</w>
+<w>помилуй”</w>
+<w>зовѣте</w>
+<w>бес</w>
+</rdg>
+</app></p></div></body></text></TEI>

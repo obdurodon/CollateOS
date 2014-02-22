@@ -1,108 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>16, 4</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="4">
-            <p>
-               <app>
-                  <lem>
-                     <w>единою</w>
-                     <w>лѣтъмь</w>
-                     <w>къ</w>
-                     <w>вешнимъ</w>
-                     <w>дьньмъ</w>
-                     <w>оземьствены</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>единою</w>
-                        <w>лѣтомъ <lb/>
-                        </w>
-                        <w>къ</w>
-                        <w>вѣчнымъ</w>
-                        <w>днемъ.</w>
-                        <w>ѡземьствени</w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad">
-                        <w>единою</w>
-                        <w>лѣто<hi rend="sup">м</hi>ъ <lb/>
-                        </w>
-                        <w>к</w>
-                        <w>вешни<hi rend="sup">м</hi>
-                        </w>
-                        <w>дне<hi rend="sup">м</hi>.</w>
-                        <w>ѡземьствени</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>единою</w>
-                        <w>лѣтомъ.</w>
-                        <w>ко</w>
-                        <w>вешнимъ</w>
-                        <w>днемъ</w>
-                        <w>ѡзимьстве<lb/>нї</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>единою</w>
-                        <w>лѣ<lb/>то<hi rend="sup">м</hi>
-                        </w>
-                        <w>к</w>
-                        <w>вешнимъ</w>
-                        <w>д҃немъ.</w>
-                        <w>ѡ<lb/>зѣмьствени</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>единою</w>
-                        <w>лѣто<hi rend="sup">м</hi>.</w>
-                        <w>к</w>
-                        <w>веснени<hi rend="sup">м</hi>
-                        </w>
-                        <w>дне<hi rend="sup">м</hi>.</w>
-                        <w>ѡзе<hi rend="sup">м</hi>ствени</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>единою</w>
-                        <w>лѣтомъ</w>
-                        <w>къ</w>
-                        <w>вешнимъ</w>
-                        <w>днемъ</w>
-                        <w>оземьствени</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>единою</w>
-                        <w>лѣтъмь</w>
-                        <w>къ</w>
-                        <w>весньнымъ</w>
-                        <w>дьньмъ</w>
-                        <w>оземьствены</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>единою</w>
-                        <w>лѣтомъ</w>
-                        <w>къ</w>
-                        <w>вешнымъ</w>
-                        <w>днемъ</w>
-                        <w>оземьствени</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>16, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="4"><p>
+<app>
+<lem wit="#lem">
+<w>единою</w>
+<w>лѣтъмь</w>
+<w>къ</w>
+<w>вешнимъ</w>
+<w>дьньмъ</w>
+<w>оземьствены</w>
+</lem>
+
+<rdg wit="#lav">
+<w>единою</w>
+<w>лѣтомъ <lb/></w>
+
+<w>къ</w>
+<w>вѣчнымъ</w>
+<w>днемъ.</w>
+<w>ѡземьствени</w>
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+<w>единою</w>
+<w>лѣто<hi rend="sup">м</hi>ъ <lb/></w>
+
+<w>к</w>
+<w>вешни<hi rend="sup">м</hi></w>
+<w>дне<hi rend="sup">м</hi>.</w>
+<w>ѡземьствени</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>единою</w>
+<w>лѣтомъ.</w>
+<w>ко</w>
+<w>вешнимъ</w>
+<w>днемъ</w>
+<w>ѡзимьстве<lb/>нї</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>единою</w>
+<w>лѣ<lb/>то<hi rend="sup">м</hi></w>
+<w>к</w>
+<w>вешнимъ</w>
+<w>д҃немъ.</w>
+<w>ѡ<lb/>зѣмьствени</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>единою</w>
+<w>лѣто<hi rend="sup">м</hi>.</w>
+<w>к</w>
+<w>веснени<hi rend="sup">м</hi></w>
+<w>дне<hi rend="sup">м</hi>.</w>
+<w>ѡзе<hi rend="sup">м</hi>ствени</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>единою</w>
+<w>лѣтомъ</w>
+<w>къ</w>
+<w>вешнимъ</w>
+<w>днемъ</w>
+<w>оземьствени</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>единою</w>
+<w>лѣтъмь</w>
+<w>къ</w>
+<w>весньнымъ</w>
+<w>дьньмъ</w>
+<w>оземьствены</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>единою</w>
+<w>лѣтомъ</w>
+<w>къ</w>
+<w>вешнымъ</w>
+<w>днемъ</w>
+<w>оземьствени</w>
+</rdg>
+</app></p></div></body></text></TEI>

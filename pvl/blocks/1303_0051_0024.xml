@@ -1,109 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>51, 24</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="24">
-            <p>
-               <app>
-                  <lem>
-                     <w>да</w>
-                     <w>дьржимъ</w>
-                     <w>будеть</w>
-                     <w>сътворивыи</w>
-                     <w>убииство</w>
-                     <w>отъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>да</w>
-                        <w>держ<hi rend="sup">и</hi> 
-                           <lb/>
-                        </w>
-                        <w>будеть</w>
-                        <w>створивыи</w>
-                        <w>оубииство.</w>
-                        <w>ѿ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>да</w>
-                        <w>держемъ</w>
-                        <w>бѹде<hi rend="sup">т</hi>
-                        </w>
-                        <w>створивы</w>
-                        <w>оубииство.</w>
-                        <w>ѿ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>да</w>
-                        <w>держимь</w>
-                        <w>бѹдеть</w>
-                        <w>сотворивыи</w>
-                        <w>оубїи<lb/>ство.</w>
-                        <w>ѿ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>да</w>
-                        <w>дѣржим<hi rend="sup">ъ</hi> 
-                           <lb/>
-                        </w>
-                        <w>будеть</w>
-                        <w>створивыи</w>
-                        <w>оубї<lb/>ство.</w>
-                        <w>ѿ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>да</w>
-                        <w>дръжи<hi rend="sup">м</hi>
-                        </w>
-                        <w>бѫде<hi rend="sup">т</hi>
-                        </w>
-                        <w>сътворивыи</w>
-                        <w>оубїиство</w>
-                        <w>ѿ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>да</w>
-                        <w>держимъ</w>
-                        <w>будеть</w>
-                        <w>створивый</w>
-                        <w>убийство</w>
-                        <w>отъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>да</w>
-                        <w>дьржимъ</w>
-                        <w>будеть</w>
-                        <w>сътворивыи</w>
-                        <w>убииство</w>
-                        <w>отъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>да</w>
-                        <w>держимъ</w>
-                        <w>будеть</w>
-                        <w>створивый</w>
-                        <w>убийство</w>
-                        <w>от</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>51, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="24"><p>
+<app>
+<lem wit="#lem">
+<w>да</w>
+<w>дьржимъ</w>
+<w>будеть</w>
+<w>сътворивыи</w>
+<w>убииство</w>
+<w>отъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>да</w>
+<w>держ<hi rend="sup">и</hi><lb/>мъ</w>
+<w>будеть</w>
+<w>створивыи</w>
+<w>оубииство.</w>
+<w>ѿ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>да</w>
+<w>держемъ</w>
+<w>бѹде<hi rend="sup">т</hi></w>
+<w>створивы</w>
+<w>оубииство.</w>
+<w>ѿ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>да</w>
+<w>держимь</w>
+<w>бѹдеть</w>
+<w>сотворивыи</w>
+<w>оубїи<lb/>ство.</w>
+<w>ѿ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>да</w>
+<w>дѣржим<hi rend="sup">ъ</hi><lb/></w>
+<w>будеть</w>
+<w>створивыи</w>
+<w>оубї<lb/>ство.</w>
+<w>ѿ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>да</w>
+<w>дръжи<hi rend="sup">м</hi></w>
+<w>бѫде<hi rend="sup">т</hi></w>
+<w>сътворивыи</w>
+<w>оубїиство</w>
+<w>ѿ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>да</w>
+<w>держимъ</w>
+<w>будеть</w>
+<w>створивый</w>
+<w>убийство</w>
+<w>отъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>да</w>
+<w>дьржимъ</w>
+<w>будеть</w>
+<w>сътворивыи</w>
+<w>убииство</w>
+<w>отъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>да</w>
+<w>держимъ</w>
+<w>будеть</w>
+<w>створивый</w>
+<w>убийство</w>
+<w>от</w>
+</rdg>
+</app></p></div></body></text></TEI>

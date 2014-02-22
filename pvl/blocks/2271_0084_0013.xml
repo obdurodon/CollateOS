@@ -1,142 +1,126 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>84, 13</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="13">
-            <p>
-               <app>
-                  <lem>
-                     <w>съ</w>
-                     <w>Българы,</w>
-                     <w>и</w>
-                     <w>ротѣ</w>
-                     <w>заходиша</w>
-                     <w>межю</w>
-                     <w>собою.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>съ</w>
-                        <w>болгары.</w>
-                        <w>и</w>
-                        <w>ротѣ</w>
-                        <w>захо<lb/>диша</w>
-                        <w>межю</w>
-                        <w>с<sic>о</sic>бѣ.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>со</w>
-                        <w>болгары.</w>
-                        <w>и</w>
-                        <w>ротѣ</w>
-                        <w>заходиша</w>
-                        <w>болгаре.</w>
-                        <w>межи</w>
-                        <w>со<lb/>бою.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>со</w>
-                        <w>болгары.</w>
-                        <w>и</w>
-                        <w>ротѣ <lb/>
-                        </w>
-                        <w>заходиша</w>
-                        <w>болгаре.</w>
-                        <w>межи</w>
-                        <w>собою.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>с</w>
-                        <w>болгары.</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>ротѣ</w>
-                        <w>заходиша</w>
-                        <w>межи</w>
-                        <w>со<lb/>бою.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>съ</w>
-                        <w>болгары.</w>
-                        <w>и</w>
-                        <w>ротѣ</w>
-                        <w>зах<hi rend="sup">д</hi>о<hi rend="sup">и</hi>ша</w>
-                        <w>межю</w>
-                        <w>собою.</w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>с</w>
-                        <w>болгары</w>
-                        <w>и</w>
-                        <w>ротѣ</w>
-                        <w>заходиша</w>
-                        <w>межи</w>
-                        <w>собою</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>с</w>
-                        <w>болгары</w>
-                        <w>и</w>
-                        <w>ротѣ</w>
-                        <w>заходиша</w>
-                        <w>межи</w>
-                        <w>собою</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>с</w>
-                        <w>болгары</w>
-                        <w>и</w>
-                        <w>ротѣ</w>
-                        <w>заходиша</w>
-                        <w>межи</w>
-                        <w>собою</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>съ</w>
-                        <w>Болгары,</w>
-                        <w>и</w>
-                        <w>ротѣ</w>
-                        <w>заходиша</w>
-                        <w>межю</w>
-                        <w>собѣ,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>съ</w>
-                        <w>Българы,</w>
-                        <w>и</w>
-                        <w>ротѣ</w>
-                        <w>заходиша</w>
-                        <w>межю</w>
-                        <w>собою;</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>съ</w>
-                        <w>болгары,</w>
-                        <w>и</w>
-                        <w>ротѣ</w>
-                        <w>заходиша</w>
-                        <w>межю</w>
-                        <w>собѣ,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>84, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="13"><p>
+<app>
+<lem wit="#lem">
+<w>съ</w>
+<w>Българы,</w>
+<w>и</w>
+<w>ротѣ</w>
+<w>заходиша</w>
+<w>межю</w>
+<w>собою.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>съ</w>
+<w>болгары.</w>
+<w>и</w>
+<w>ротѣ</w>
+<w>захо<lb/>диша</w>
+<w>межю</w>
+<w>с<milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/>бѣ.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>со</w>
+<w>болгары.</w>
+<w>и</w>
+<w>ротѣ</w>
+<w>заходиша</w>
+<w>болгаре.</w>
+<w>межи</w>
+<w>со<lb/>бою.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>со</w>
+<w>болгары.</w>
+<w>и</w>
+<w>ротѣ <lb/></w>
+
+<w>заходиша</w>
+<w>болгаре.</w>
+<w>межи</w>
+<w>собою.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>с</w>
+<w>болгары.</w>
+<w>и <lb/></w>
+
+<w>ротѣ</w>
+<w>заходиша</w>
+<w>межи</w>
+<w>со<lb/>бою.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>съ</w>
+<w>болгары.</w>
+<w>и</w>
+<w>ротѣ</w>
+<w>зах<hi rend="sup">д</hi>о<hi rend="sup">и</hi>ша</w>
+<w>межю</w>
+<w>собою.</w>
+</rdg>
+
+<rdg wit="#kom">
+<w>с</w>
+<w>болгары</w>
+<w>и</w>
+<w>ротѣ</w>
+<w>заходиша</w>
+<w>межи</w>
+<w>собою</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>с</w>
+<w>болгары</w>
+<w>и</w>
+<w>ротѣ</w>
+<w>заходиша</w>
+<w>межи</w>
+<w>собою</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>с</w>
+<w>болгары</w>
+<w>и</w>
+<w>ротѣ</w>
+<w>заходиша</w>
+<w>межи</w>
+<w>собою</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>съ</w>
+<w>Болгары,</w>
+<w>и</w>
+<w>ротѣ</w>
+<w>заходиша</w>
+<w>межю</w>
+<w>собѣ,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>съ</w>
+<w>Българы,</w>
+<w>и</w>
+<w>ротѣ</w>
+<w>заходиша</w>
+<w>межю</w>
+<w>собою;</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>съ</w>
+<w>болгары,</w>
+<w>и</w>
+<w>ротѣ</w>
+<w>заходиша</w>
+<w>межю</w>
+<w>собѣ,</w>
+</rdg>
+</app></p></div></body></text></TEI>

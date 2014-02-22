@@ -1,93 +1,73 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>32, 11</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="11">
-            <p>
-               <app>
-                  <lem>
-                     <w>отъ</w>
-                     <w>Цьсаряграда.</w>
-                     <w>И</w>
-                     <w>въспяша</w>
-                     <w>пърѣ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>ѿ</w>
-                        <w>ц҃рѧгра<hi rend="sup">д</hi>.</w>
-                        <w>и</w>
-                        <w>оуспѧша <lb/>
-                        </w>
-                        <w>пароусы</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ѿ</w>
-                        <w>ц҃рѧграда.</w>
-                        <w>и</w>
-                        <w>воспѧша</w>
-                        <w>парѹсы</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ѿ</w>
-                        <w>цр<hi rend="sup">с</hi>ѧгра<hi rend="sup">д</hi>.</w>
-                        <w>и</w>
-                        <w>въспѧ<lb/>ша</w>
-                        <w>
-                           <sic>пре</sic>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ѿ</w>
-                        <w>ц҃рѧграда.</w>
-                        <w>и</w>
-                        <w>въспѧша</w>
-                        <w>пре</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>отъ</w>
-                        <w>Царяграда.</w>
-                        <w>И</w>
-                        <w>воспяша</w>
-                        <w>Русь</w>
-                        <w>парусы</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>отъ</w>
-                        <w>Цѣсаряграда.</w>
-                        <w>И</w>
-                        <w>въспяша</w>
-                        <w>пърѣ</w>
-                        <w>Русь</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>от</w>
-                        <w>Царяграда.</w>
-                        <w>И</w>
-                        <w>воспяша</w>
-                        <w>русь</w>
-                        <w>парусы</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>32, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="11"><p>
+<app>
+<lem wit="#lem">
+<w>отъ</w>
+<w>Цьсаряграда.</w>
+<w>И</w>
+<w>въспяша</w>
+<w>пърѣ</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>ѿ</w>
+<w>ц҃рѧгра<hi rend="sup">д</hi>.</w>
+<w>и</w>
+<w>оуспѧша <lb/></w>
+
+<w>пароусы</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ѿ</w>
+<w>ц҃рѧграда.</w>
+<w>и</w>
+<w>воспѧша</w>
+<w>парѹсы</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ѿ</w>
+<w>цр<hi rend="sup">с</hi>ѧгра<hi rend="sup">д</hi>.</w>
+<w>и</w>
+<w>въспѧ<lb/>ша</w>
+<w><milestone unit="sic" n="start"/>пре<milestone unit="sic" n="end"/></w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ѿ</w>
+<w>ц҃рѧграда.</w>
+<w>и</w>
+<w>въспѧша</w>
+<w>пре</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>отъ</w>
+<w>Царяграда.</w>
+<w>И</w>
+<w>воспяша</w>
+<w>Русь</w>
+<w>парусы</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>отъ</w>
+<w>Цѣсаряграда.</w>
+<w>И</w>
+<w>въспяша</w>
+<w>пърѣ</w>
+<w>Русь</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>от</w>
+<w>Царяграда.</w>
+<w>И</w>
+<w>воспяша</w>
+<w>русь</w>
+<w>парусы</w>
+</rdg>
+</app></p></div></body></text></TEI>

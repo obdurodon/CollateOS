@@ -1,127 +1,100 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>10, 1</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="1">
-            <p>
-               <app>
-                  <lem>
-                     <w>тъгда</w>
-                     <w>съ</w>
-                     <w>оноя</w>
-                     <w>страны</w>
-                     <w>Дънѣпра,</w>
-                     <w>тѣмь</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>тогда</w>
-                        <w>с</w>
-                        <w>оноя</w>
-                        <w>стороны</w>
-                        <w>днѣ<sic>пр<hi rend="sup">а</hi>
-                           </sic>. <lb/>
-                        </w>
-                        <w>тѣмь</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>бяше</w>
-                        <w>се</w>
-                        <w>оноя</w>
-                        <w>страны</w>
-                        <w>днѣпра</w>
-                        <w>тѣмь</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>тогда</w>
-                        <w>со</w>
-                        <w>ѡное</w>
-                        <w>стороны <lb/>
-                        </w>
-                        <w>днепра.</w>
-                        <w>тѣ<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>тог<hi rend="sup">д</hi>а.</w>
-                        <w>со</w>
-                        <w>ѡное <lb/>
-                        </w>
-                        <w>стороны</w>
-                        <w>днепра.</w>
-                        <w>тѣмъ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>тогда</w>
-                        <w>съ</w>
-                        <w>ѡно<lb/>я</w>
-                        <w>страны</w>
-                        <w>днепра.</w>
-                        <w>тѣмь <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>бѧ<lb/>ше</w>
-                        <w>съ</w>
-                        <w>ѡноа</w>
-                        <w>страны</w>
-                        <w>днѣпра,</w>
-                        <w>тѣ<hi rend="sup">м</hi>
-                        </w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>тогда</w>
-                        <w>с</w>
-                        <w>оноя</w>
-                        <w>стороны</w>
-                        <w>Днѣпра,</w>
-                        <w>тѣмь</w>
-                        <w>
-                           <pb n="9,4"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>тъгда</w>
-                        <w>съ</w>
-                        <w>оноя</w>
-                        <w>страны</w>
-                        <w>Дънѣпра;</w>
-                        <w>тѣмь</w>
-                        <w>
-                           <pb n="9,11"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>тогда</w>
-                        <w>с</w>
-                        <w>оноя</w>
-                        <w>стороны</w>
-                        <w>Днѣпра,</w>
-                        <w>тѣмь</w>
-                        <w>
-                           <pb n="13,9"/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>10, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="1"><p>
+<app>
+<lem wit="#lem">
+<w>тъгда</w>
+<w>съ</w>
+<w>оноя</w>
+<w>страны</w>
+<w>Дънѣпра,</w>
+<w>тѣмь</w>
+</lem>
+
+<rdg wit="#lav">
+<w>тогда</w>
+<w>с</w>
+<w>оноя</w>
+<w>стороны</w>
+<w>днѣ<milestone unit="sic" n="start"/>пр<hi rend="sup">а</hi><milestone unit="sic" n="end"/>. <lb/></w>
+
+<w>тѣмь</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>бяше</w>
+<w>се</w>
+<w>оноя</w>
+<w>страны</w>
+<w>днѣпра</w>
+<w>тѣмь</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>тогда</w>
+<w>со</w>
+<w>ѡное</w>
+<w>стороны <lb/></w>
+
+<w>днепра.</w>
+<w>тѣ<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>тог<hi rend="sup">д</hi>а.</w>
+<w>со</w>
+<w>ѡное <lb/></w>
+
+<w>стороны</w>
+<w>днепра.</w>
+<w>тѣмъ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>тогда</w>
+<w>съ</w>
+<w>ѡно<lb/>я</w>
+<w>страны</w>
+<w>днепра.</w>
+<w>тѣмь <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>бѧ<lb/>ше</w>
+<w>съ</w>
+<w>ѡноа</w>
+<w>страны</w>
+<w>днѣпра,</w>
+<w>тѣ<hi rend="sup">м</hi></w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>тогда</w>
+<w>с</w>
+<w>оноя</w>
+<w>стороны</w>
+<w>Днѣпра,</w>
+<w>тѣмь <pb n="9,4"/></w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>тъгда</w>
+<w>съ</w>
+<w>оноя</w>
+<w>страны</w>
+<w>Дънѣпра;</w>
+<w>тѣмь <pb n="9,11"/></w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>тогда</w>
+<w>с</w>
+<w>оноя</w>
+<w>стороны</w>
+<w>Днѣпра,</w>
+<w>тѣмь <pb n="13,9"/></w>
+
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,128 +1,113 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>106, 5</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="5">
-            <p>
-               <app>
-                  <lem>
-                     <w>написано</w>
-                     <w>судище</w>
-                     <w>Господьне,</w>
-                     <w>показываше</w>
-                     <w>ему</w>
-                     <w>о</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>напи<hi rend="sup">с</hi>но</w>
-                        <w>судище</w>
-                        <w>г<hi rend="sup">с</hi>не.</w>
-                        <w>показы<lb/>ваше</w>
-                        <w>ему.</w>
-                        <w>ѡ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>написа<lb/>но</w>
-                        <w>соудище</w>
-                        <w>г҃не.</w>
-                        <w>и</w>
-                        <w>показываше</w>
-                        <w>емоу.</w>
-                        <w>ѡ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>написано</w>
-                        <w>сѹдище</w>
-                        <w>г<hi rend="sup">с</hi>не.</w>
-                        <w>и</w>
-                        <w>показаваше</w>
-                        <w>емѹ. <lb/>
-                        </w>
-                        <w>ѡ</w>
-                     </rdg>
-                     <rdg wit="#ipa"/>
-                     <rdg wit="#xle">
-                        <w>написано</w>
-                        <w>с<hi rend="sup">д</hi>ѫ<hi rend="sup">и</hi>ще</w>
-                        <w>г҃не <lb/>
-                        </w>
-                        <w>показываше</w>
-                        <w>же</w>
-                        <w>емоу</w>
-                        <w>ѡ</w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>написано</w>
-                        <w>судище</w>
-                        <w>господне</w>
-                        <w>и</w>
-                        <w>показаше</w>
-                        <w>ему</w>
-                        <w>о</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>написано</w>
-                        <w>судище</w>
-                        <w>господне</w>
-                        <w>и</w>
-                        <w>показаша</w>
-                        <w>ему</w>
-                        <w>о</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>написано</w>
-                        <w>судище</w>
-                        <w>господне</w>
-                        <w>и</w>
-                        <w>показаша</w>
-                        <w>ему</w>
-                        <w>о</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>написано</w>
-                        <w>судище</w>
-                        <w>Господне,</w>
-                        <w>показываше</w>
-                        <w>ему</w>
-                        <w>о</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>написано</w>
-                        <w>судище</w>
-                        <w>Господьне;</w>
-                        <w>и</w>
-                        <w>показываше</w>
-                        <w>ему</w>
-                        <w>о-</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>написано</w>
-                        <w>судище</w>
-                        <w>господне,</w>
-                        <w>показываше</w>
-                        <w>ему</w>
-                        <w>о</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>106, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="5"><p>
+<app>
+<lem wit="#lem">
+<w>написано</w>
+<w>судище</w>
+<w>Господьне,</w>
+<w>показываше</w>
+<w>ему</w>
+<w>о</w>
+</lem>
+
+<rdg wit="#lav">
+<w>напи<hi rend="sup">с</hi>но</w>
+<w>судище</w>
+<w>г<hi rend="sup">с</hi>не.</w>
+<w>показы<lb/>ваше</w>
+<w>ему.</w>
+<w>ѡ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>написа<lb/>но</w>
+<w>соудище</w>
+<w>г҃не.</w>
+<w>и</w>
+<w>показываше</w>
+<w>емоу.</w>
+<w>ѡ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>написано</w>
+<w>сѹдище</w>
+<w>г<hi rend="sup">с</hi>не.</w>
+<w>и</w>
+<w>показаваше</w>
+<w>емѹ. <lb/></w>
+
+<w>ѡ</w>
+</rdg>
+
+<rdg wit="#ipa">
+</rdg>
+
+<rdg wit="#xle">
+<w>написано</w>
+<w>с<hi rend="sup">д</hi>ѫ<hi rend="sup">и</hi>ще</w>
+<w>г҃не <lb/></w>
+
+<w>показываше</w>
+<w>же</w>
+<w>емоу</w>
+<w>ѡ</w>
+</rdg>
+
+<rdg wit="#kom">
+<w>написано</w>
+<w>судище</w>
+<w>господне</w>
+<w>и</w>
+<w>показаше</w>
+<w>ему</w>
+<w>о</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>написано</w>
+<w>судище</w>
+<w>господне</w>
+<w>и</w>
+<w>показаша</w>
+<w>ему</w>
+<w>о</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>написано</w>
+<w>судище</w>
+<w>господне</w>
+<w>и</w>
+<w>показаша</w>
+<w>ему</w>
+<w>о</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>написано</w>
+<w>судище</w>
+<w>Господне,</w>
+<w>показываше</w>
+<w>ему</w>
+<w>о</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>написано</w>
+<w>судище</w>
+<w>Господьне;</w>
+<w>и</w>
+<w>показываше</w>
+<w>ему</w>
+<w>о-</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>написано</w>
+<w>судище</w>
+<w>господне,</w>
+<w>показываше</w>
+<w>ему</w>
+<w>о</w>
+</rdg>
+</app></p></div></body></text></TEI>

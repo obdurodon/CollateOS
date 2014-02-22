@@ -1,121 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>262, 13</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="13">
-            <p>
-               <app>
-                  <lem>
-                     <w>земли</w>
-                     <w>и</w>
-                     <w>въ</w>
-                     <w>насъ,</w>
-                     <w>въ</w>
-                     <w>братии,</w>
-                     <w>оже</w>
-                     <w>увьрже</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>земь<lb/>ли·</w>
-                        <w>и</w>
-                        <w>в</w>
-                        <w>насъ</w>
-                        <w>в</w>
-                        <w>братьи·</w>
-                        <w>ѡже</w>
-                        <w>вве<lb/>рже</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>землі <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>в</w>
-                        <w>на<hi rend="sup">с</hi>
-                        </w>
-                        <w>братьи.</w>
-                        <w>ѡже</w>
-                        <w>в′верже</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>зем′ли·</w>
-                        <w>и</w>
-                        <w>в</w>
-                        <w>на<hi rend="sup">с</hi>
-                        </w>
-                        <w>бра<hi rend="sup">т</hi>и·</w>
-                        <w>ѡже <lb/>
-                        </w>
-                        <w>в′верже</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>земли·</w>
-                        <w>и</w>
-                        <w>в</w>
-                        <w>насъ</w>
-                        <w>братьи·</w>
-                        <w>ѡже <lb/>
-                        </w>
-                        <w>оуверже</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>земли.</w>
-                        <w>и</w>
-                        <w>в</w>
-                        <w>на<hi rend="sup">с</hi>
-                        </w>
-                        <w>братїи.</w>
-                        <w>иже</w>
-                        <w>оувер′же</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>земьли</w>
-                        <w>и</w>
-                        <w>в</w>
-                        <w>насъ,</w>
-                        <w>в</w>
-                        <w>братьи,</w>
-                        <w>оже</w>
-                        <w>вверженъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>земли</w>
-                        <w>и</w>
-                        <w>въ</w>
-                        <w>насъ</w>
-                        <w>братии,</w>
-                        <w>оже</w>
-                        <w>въвьрженъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>земьли</w>
-                        <w>и</w>
-                        <w>в</w>
-                        <w>насъ,</w>
-                        <w>в</w>
-                        <w>братьи,</w>
-                        <w>оже</w>
-                        <w>вверженъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>262, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="13"><p>
+<app>
+<lem wit="#lem">
+<w>земли</w>
+<w>и</w>
+<w>въ</w>
+<w>насъ,</w>
+<w>въ</w>
+<w>братии,</w>
+<w>оже</w>
+<w>увьрже</w>
+</lem>
+
+<rdg wit="#lav">
+<w>земь<lb/>ли·</w>
+<w>и</w>
+<w>в</w>
+<w>насъ</w>
+<w>в</w>
+<w>братьи·</w>
+<w>ѡже</w>
+<w>вве<lb/>рже</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>землі <lb/></w>
+
+<w>и</w>
+<w>в</w>
+<w>на<hi rend="sup">с</hi></w>
+<w>братьи.</w>
+<w>ѡже</w>
+<w>в′верже</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>зем′ли·</w>
+<w>и</w>
+<w>в</w>
+<w>на<hi rend="sup">с</hi></w>
+<w>бра<hi rend="sup">т</hi>и·</w>
+<w>ѡже <lb/></w>
+
+<w>в′верже</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>земли·</w>
+<w>и</w>
+<w>в</w>
+<w>насъ</w>
+<w>братьи·</w>
+<w>ѡже <lb/></w>
+
+<w>оуверже</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>земли.</w>
+<w>и</w>
+<w>в</w>
+<w>на<hi rend="sup">с</hi></w>
+<w>братїи.</w>
+<w>иже</w>
+<w>оувер′же</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>земьли</w>
+<w>и</w>
+<w>в</w>
+<w>насъ,</w>
+<w>в</w>
+<w>братьи,</w>
+<w>оже</w>
+<w>вверженъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>земли</w>
+<w>и</w>
+<w>въ</w>
+<w>насъ</w>
+<w>братии,</w>
+<w>оже</w>
+<w>въвьрженъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>земьли</w>
+<w>и</w>
+<w>в</w>
+<w>насъ,</w>
+<w>в</w>
+<w>братьи,</w>
+<w>оже</w>
+<w>вверженъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

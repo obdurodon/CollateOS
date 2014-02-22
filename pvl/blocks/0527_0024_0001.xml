@@ -1,137 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>24, 1</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="1">
-            <p>
-               <app>
-                  <lem>
-                     <w>устави</w>
-                     <w>дани</w>
-                     <w>Словѣномъ</w>
-                     <w>и</w>
-                     <w>Кривичемъ</w>
-                     <w>и</w>
-                     <w>Мерямъ;</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>оустави</w>
-                        <w>дани</w>
-                        <w>словѣномъ</w>
-                        <w>кривичемъ</w>
-                        <w>и</w>
-                        <w>ме<sic>ри</sic>
-                        </w>
-                        <w>
-                           <pb n="8v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>устави</w>
-                        <w>дани</w>
-                        <w>словѣномъ</w>
-                        <w>кривичемъ</w>
-                        <w>и</w>
-                        <w>мери</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>оустави</w>
-                        <w>дани</w>
-                        <w>словено<hi rend="sup">м</hi>
-                        </w>
-                        <w>и</w>
-                        <w>кривиче<hi rend="sup">м</hi>
-                        </w>
-                        <w>и</w>
-                        <w>мерѧмъ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>оустави</w>
-                        <w>дани</w>
-                        <w>словѣномь. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>кривичемь.</w>
-                        <w>и</w>
-                        <w>мерѧмъ.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>оустави</w>
-                        <w>дани</w>
-                        <w>словѣно<hi rend="sup">м</hi>
-                        </w>
-                        <w>и</w>
-                        <w>кривичемъ.</w>
-                        <w>и</w>
-                        <w>мерѧмъ. <lb/>
-                        </w>
-                        <w>
-                           <pb n="10a"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>оустави</w>
-                        <w>дани.</w>
-                        <w>слѡве<lb/>нѡ<hi rend="sup">м</hi>,</w>
-                        <w>и</w>
-                        <w>кривиче<hi rend="sup">м</hi>.</w>
-                        <w>и</w>
-                        <w>мерѧ<hi rend="sup">м</hi>.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>устави</w>
-                        <w>дани</w>
-                        <w>Словѣномъ,</w>
-                        <w>Кривичемъ</w>
-                        <w>и</w>
-                        <w>Мери,</w>
-                        <w>
-                           <pb n="23,7"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>устави</w>
-                        <w>дани</w>
-                        <w>Словѣномъ</w>
-                        <w>и</w>
-                        <w>Кривичемъ</w>
-                        <w>и</w>
-                        <w>Мери;</w>
-                        <w>
-                           <pb n="24,3"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>устави</w>
-                        <w>дани</w>
-                        <w>словѣномъ,</w>
-                        <w>кривичемъ</w>
-                        <w>и</w>
-                        <w>мери,</w>
-                        <w>
-                           <pb n="20,23"/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>24, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="1"><p>
+<app>
+<lem wit="#lem">
+<w>устави</w>
+<w>дани</w>
+<w>Словѣномъ</w>
+<w>и</w>
+<w>Кривичемъ</w>
+<w>и</w>
+<w>Мерямъ;</w>
+</lem>
+
+<rdg wit="#lav">
+<w>оустави</w>
+<w>дани</w>
+<w>словѣномъ</w>
+<w>кривичемъ</w>
+<w>и</w>
+<w>ме<milestone unit="sic" n="start"/>ри<milestone unit="sic" n="end"/><pb n="8v"/></w>
+</rdg>
+
+<rdg wit="#tro">
+<w>устави</w>
+<w>дани</w>
+<w>словѣномъ</w>
+<w>кривичемъ</w>
+<w>и</w>
+<w>мери</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>оустави</w>
+<w>дани</w>
+<w>словено<hi rend="sup">м</hi></w>
+<w>и</w>
+<w>кривиче<hi rend="sup">м</hi></w>
+<w>и</w>
+<w>мерѧмъ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>оустави</w>
+<w>дани</w>
+<w>словѣномь. <lb/></w>
+
+<w>и</w>
+<w>кривичемь.</w>
+<w>и</w>
+<w>мерѧмъ.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>оустави</w>
+<w>дани</w>
+<w>словѣно<hi rend="sup">м</hi></w>
+<w>и</w>
+<w>кривичемъ.</w>
+<w>и</w>
+<w>мерѧмъ. <lb/><pb n="10a"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>оустави</w>
+<w>дани.</w>
+<w>слѡве<lb/>нѡ<hi rend="sup">м</hi>,</w>
+<w>и</w>
+<w>кривиче<hi rend="sup">м</hi>.</w>
+<w>и</w>
+<w>мерѧ<hi rend="sup">м</hi>.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>устави</w>
+<w>дани</w>
+<w>Словѣномъ,</w>
+<w>Кривичемъ</w>
+<w>и</w>
+<w>Мери, <pb n="23,7"/></w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>устави</w>
+<w>дани</w>
+<w>Словѣномъ</w>
+<w>и</w>
+<w>Кривичемъ</w>
+<w>и</w>
+<w>Мери; <pb n="24,3"/></w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>устави</w>
+<w>дани</w>
+<w>словѣномъ,</w>
+<w>кривичемъ</w>
+<w>и</w>
+<w>мери, <pb n="20,23"/></w>
+
+</rdg>
+</app></p></div></body></text></TEI>

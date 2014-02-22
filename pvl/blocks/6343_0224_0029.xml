@@ -1,105 +1,77 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>224, 29</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="29">
-            <p>
-               <app>
-                  <lem>
-                     <w>
-                        <choice>
-                           <seg>упространи</seg>
-                           <seg>умъножи</seg>
-                        </choice>
-                     </w>
-                     <w>ся</w>
-                     <w>избиеныхъ</w>
-                     <w>ради,</w>
-                     <w>иже</w>
-                     <w>избиша</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>оупространисѧ·</w>
-                        <w>избье<lb/>ны<hi rend="sup">х</hi>
-                        </w>
-                        <w>ради·</w>
-                        <w>иже</w>
-                        <w>избиша</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>оупространи<hi rend="sup">с</hi>·</w>
-                        <w>и<lb/>збьены<hi rend="sup">х</hi>
-                        </w>
-                        <w>ра<hi rend="sup">д</hi>.</w>
-                        <w>иже</w>
-                        <w>избиша</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>оупростра<lb/>нисѧ·</w>
-                        <w>избьены<hi rend="sup">х</hi>
-                        </w>
-                        <w>р<hi rend="sup">д</hi>а<hi rend="sup">и</hi>·</w>
-                        <w>и</w>
-                        <w>иже</w>
-                        <w>избиша</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>оумножисѧ</w>
-                        <w>їзбьеныхъ <lb/>
-                        </w>
-                        <w>ради·</w>
-                        <w>иже</w>
-                        <w>избиша</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>оумно<lb/>жисѧ</w>
-                        <w>избїенны<hi rend="sup">х</hi>
-                        </w>
-                        <w>р<hi rend="sup">д</hi>а<hi rend="sup">и</hi>.</w>
-                        <w>иже</w>
-                        <w>избиша</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>упространися</w>
-                        <w>избьеныхъ</w>
-                        <w>ради,</w>
-                        <w>иже</w>
-                        <w>избиша</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>упространися</w>
-                        <w>избиеныхъ</w>
-                        <w>ради,</w>
-                        <w>яже</w>
-                        <w>избиша</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>упространися</w>
-                        <w>избьеных</w>
-                        <w>ради,</w>
-                        <w>иже</w>
-                        <w>избиша</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>224, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="29"><p>
+<app>
+<lem wit="#lem">
+<w><choice><seg>упространи</seg><seg>умъножи</seg></choice></w>
+<w>ся</w>
+<w>избиеныхъ</w>
+<w>ради,</w>
+<w>иже</w>
+<w>избиша</w>
+</lem>
+
+<rdg wit="#lav">
+<w>оупространисѧ·</w>
+<w>избье<lb/>ны<hi rend="sup">х</hi></w>
+<w>ради·</w>
+<w>иже</w>
+<w>избиша</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>оупространи<hi rend="sup">с</hi>·</w>
+<w>и<lb/>збьены<hi rend="sup">х</hi></w>
+<w>ра<hi rend="sup">д</hi>.</w>
+<w>иже</w>
+<w>избиша</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>оупростра<lb/>нисѧ·</w>
+<w>избьены<hi rend="sup">х</hi></w>
+<w>р<hi rend="sup">д</hi>а<hi rend="sup">и</hi>·</w>
+<w>и</w>
+<w>иже</w>
+<w>избиша</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>оумножисѧ</w>
+<w>їзбьеныхъ <lb/></w>
+
+<w>ради·</w>
+<w>иже</w>
+<w>избиша</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>оумно<lb/>жисѧ</w>
+<w>избїенны<hi rend="sup">х</hi></w>
+<w>р<hi rend="sup">д</hi>а<hi rend="sup">и</hi>.</w>
+<w>иже</w>
+<w>избиша</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>упространися</w>
+<w>избьеныхъ</w>
+<w>ради,</w>
+<w>иже</w>
+<w>избиша</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>упространися</w>
+<w>избиеныхъ</w>
+<w>ради,</w>
+<w>яже</w>
+<w>избиша</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>упространися</w>
+<w>избьеных</w>
+<w>ради,</w>
+<w>иже</w>
+<w>избиша</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,140 +1,117 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>123, 25</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="25">
-            <p>
-               <app>
-                  <lem>
-                     <w>до</w>
-                     <w>съмьрти,</w>
-                     <w>и</w>
-                     <w>удари</w>
-                     <w>имь</w>
-                     <w>о</w>
-                     <w>землю.</w>
-                     <w>И</w>
-                     <w>кликнуша,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>до</w>
-                        <w>с<sic>ме</sic> 
-                           <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>оудари</w>
-                        <w>имь</w>
-                        <w>ѡ</w>
-                        <w>землю. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>кликнуша.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>до</w>
-                        <w>см҃рти.</w>
-                        <w>и</w>
-                        <w>оури</w>
-                        <w>имъ</w>
-                        <w>ѡ</w>
-                        <w>землю.</w>
-                        <w>и</w>
-                        <w>кликноу<lb/>ша</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>до</w>
-                        <w>см҃рти.</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>оударї</w>
-                        <w>имъ</w>
-                        <w>ѡ</w>
-                        <w>землю.</w>
-                        <w>и</w>
-                        <w>клїкнѹша</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>до</w>
-                        <w>см҃рти.</w>
-                        <w>и</w>
-                        <w>оудари</w>
-                        <w>имь</w>
-                        <w>ѡ <lb/>
-                        </w>
-                        <w>землю.</w>
-                        <w>и</w>
-                        <w>вьскликоша</w>
-                        <w>русь <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>до</w>
-                        <w>см҃рти.</w>
-                        <w>и</w>
-                        <w>оудари</w>
-                        <w>и<hi rend="sup">м</hi>
-                        </w>
-                        <w>ѡ</w>
-                        <w>зе<hi rend="sup">м</hi>лю.</w>
-                        <w>и</w>
-                        <w>въскликоша <lb/>
-                        </w>
-                        <w>роу<hi rend="sup">с</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>до</w>
-                        <w>смерти,</w>
-                        <w>и</w>
-                        <w>удари</w>
-                        <w>имь</w>
-                        <w>о</w>
-                        <w>землю;</w>
-                        <w>и</w>
-                        <w>кликнуша,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>до</w>
-                        <w>съмьрти,</w>
-                        <w>и</w>
-                        <w>удари</w>
-                        <w>имь</w>
-                        <w>о</w>
-                        <w>землю.</w>
-                        <w>И</w>
-                        <w>кликнуша,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>до</w>
-                        <w>смерти.</w>
-                        <w>И</w>
-                        <w>удари</w>
-                        <w>имь</w>
-                        <w>о</w>
-                        <w>землю.</w>
-                        <w>И</w>
-                        <w>кликнуша,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>123, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="25"><p>
+<app>
+<lem wit="#lem">
+<w>до</w>
+<w>съмьрти,</w>
+<w>и</w>
+<w>удари</w>
+<w>имь</w>
+<w>о</w>
+<w>землю.</w>
+<w>И</w>
+<w>кликнуша,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>до</w>
+<w>с<milestone unit="sic" n="start"/>ме<milestone unit="sic" n="end"/><lb/>рти</w>
+<w>и</w>
+<w>оудари</w>
+<w>имь</w>
+<w>ѡ</w>
+<w>землю. <lb/></w>
+
+<w>и</w>
+<w>кликнуша.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>до</w>
+<w>см҃рти.</w>
+<w>и</w>
+<w>оури</w>
+<w>имъ</w>
+<w>ѡ</w>
+<w>землю.</w>
+<w>и</w>
+<w>кликноу<lb/>ша</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>до</w>
+<w>см҃рти.</w>
+<w>и <lb/></w>
+
+<w>оударї</w>
+<w>имъ</w>
+<w>ѡ</w>
+<w>землю.</w>
+<w>и</w>
+<w>клїкнѹша</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>до</w>
+<w>см҃рти.</w>
+<w>и</w>
+<w>оудари</w>
+<w>имь</w>
+<w>ѡ <lb/></w>
+
+<w>землю.</w>
+<w>и</w>
+<w>вьскликоша</w>
+<w>русь <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>до</w>
+<w>см҃рти.</w>
+<w>и</w>
+<w>оудари</w>
+<w>и<hi rend="sup">м</hi></w>
+<w>ѡ</w>
+<w>зе<hi rend="sup">м</hi>лю.</w>
+<w>и</w>
+<w>въскликоша <lb/></w>
+
+<w>роу<hi rend="sup">с</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>до</w>
+<w>смерти,</w>
+<w>и</w>
+<w>удари</w>
+<w>имь</w>
+<w>о</w>
+<w>землю;</w>
+<w>и</w>
+<w>кликнуша,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>до</w>
+<w>съмьрти,</w>
+<w>и</w>
+<w>удари</w>
+<w>имь</w>
+<w>о</w>
+<w>землю.</w>
+<w>И</w>
+<w>кликнуша,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>до</w>
+<w>смерти.</w>
+<w>И</w>
+<w>удари</w>
+<w>имь</w>
+<w>о</w>
+<w>землю.</w>
+<w>И</w>
+<w>кликнуша,</w>
+</rdg>
+</app></p></div></body></text></TEI>

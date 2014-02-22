@@ -1,113 +1,91 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>225, 3</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="3">
-            <p>
-               <app>
-                  <lem>
-                     <w>Половьци</w>
-                     <w>же,</w>
-                     <w>приимъше</w>
-                     <w>градъ,</w>
-                     <w>запалиша</w>
-                     <w>огньмь,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>половци</w>
-                        <w>же</w>
-                        <w>приимше</w>
-                        <w>гра<hi rend="sup">д</hi>
-                        </w>
-                        <w>за<lb/>палиша</w>
-                        <w>и</w>
-                        <w>ѡгне<hi rend="sup">м</hi>·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>половци<hi rend="sup">ж</hi>
-                        </w>
-                        <w>приимше <lb/>
-                        </w>
-                        <w>гра<hi rend="sup">д</hi>·</w>
-                        <w>и</w>
-                        <w>запалиша</w>
-                        <w>ѡгнемъ:· <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>половци</w>
-                        <w>же</w>
-                        <w>приимь<add place="margin">ше</add>
-                        </w>
-                        <w>гр<hi rend="sup">д</hi>а·</w>
-                        <w>и</w>
-                        <w>запа<lb/>лиша</w>
-                        <w>ѡгнемъ:·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>половцѣ <lb/>
-                        </w>
-                        <w>же</w>
-                        <w>приемьше</w>
-                        <w>градъ·</w>
-                        <w>запа<lb/>лиша</w>
-                        <w>ѡгнемь·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>половци</w>
-                        <w>же</w>
-                        <w>прїемше</w>
-                        <w>гра<hi rend="sup">д</hi>.</w>
-                        <w>запали<lb/>ша</w>
-                        <w>огне<hi rend="sup">м</hi>.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Половци</w>
-                        <w>же,</w>
-                        <w>приимше</w>
-                        <w>градъ,</w>
-                        <w>запалиша</w>
-                        <w>и</w>
-                        <w>огнемъ,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Половьци</w>
-                        <w>же,</w>
-                        <w>приимъше</w>
-                        <w>градъ,</w>
-                        <w>запалиша</w>
-                        <w>и</w>
-                        <w>огньмь,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Половци</w>
-                        <w>же,</w>
-                        <w>приимше</w>
-                        <w>град,</w>
-                        <w>запалиша</w>
-                        <w>и</w>
-                        <w>огнем,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>225, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="3"><p>
+<app>
+<lem wit="#lem">
+<w>Половьци</w>
+<w>же,</w>
+<w>приимъше</w>
+<w>градъ,</w>
+<w>запалиша</w>
+<w>огньмь,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>половци</w>
+<w>же</w>
+<w>приимше</w>
+<w>гра<hi rend="sup">д</hi></w>
+<w>за<lb/>палиша</w>
+<w>и</w>
+<w>ѡгне<hi rend="sup">м</hi>·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>половци<hi rend="sup">ж</hi></w>
+<w>приимше <lb/></w>
+
+<w>гра<hi rend="sup">д</hi>·</w>
+<w>и</w>
+<w>запалиша</w>
+<w>ѡгнемъ:· <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>половци</w>
+<w>же</w>
+<w>приимь<milestone unit="add" n="start" place="margin"/>ше<milestone unit="add" n="end"/></w>
+<w>гр<hi rend="sup">д</hi>а·</w>
+<w>и</w>
+<w>запа<lb/>лиша</w>
+<w>ѡгнемъ:·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>половцѣ <lb/></w>
+
+<w>же</w>
+<w>приемьше</w>
+<w>градъ·</w>
+<w>запа<lb/>лиша</w>
+<w>ѡгнемь·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>половци</w>
+<w>же</w>
+<w>прїемше</w>
+<w>гра<hi rend="sup">д</hi>.</w>
+<w>запали<lb/>ша</w>
+<w>огне<hi rend="sup">м</hi>.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Половци</w>
+<w>же,</w>
+<w>приимше</w>
+<w>градъ,</w>
+<w>запалиша</w>
+<w>и</w>
+<w>огнемъ,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Половьци</w>
+<w>же,</w>
+<w>приимъше</w>
+<w>градъ,</w>
+<w>запалиша</w>
+<w>и</w>
+<w>огньмь,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Половци</w>
+<w>же,</w>
+<w>приимше</w>
+<w>град,</w>
+<w>запалиша</w>
+<w>и</w>
+<w>огнем,</w>
+</rdg>
+</app></p></div></body></text></TEI>

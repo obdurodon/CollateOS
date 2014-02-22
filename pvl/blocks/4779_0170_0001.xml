@@ -1,136 +1,113 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>170, 1</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="1">
-            <p>
-               <app>
-                  <lem>
-                     <w>постъмь,</w>
-                     <w>и</w>
-                     <w>рыданиемь</w>
-                     <w>и</w>
-                     <w>сльзами</w>
-                     <w>омывающе</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>постомъ</w>
-                        <w>и</w>
-                        <w>рыда<lb/>нье<hi rend="sup">м</hi>.</w>
-                        <w>слезами</w>
-                        <w>ѡмывающе</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>постомъ</w>
-                        <w>и</w>
-                        <w>рыданиемъ</w>
-                        <w>и</w>
-                        <w>слезами.</w>
-                        <w>ѡмы<lb/>вающе</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>постомь</w>
-                        <w>и</w>
-                        <w>рыданиемь <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>слезами</w>
-                        <w>ѡбмывающе</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>постомъ</w>
-                        <w>и</w>
-                        <w>рыдание<lb/>мь</w>
-                        <w>слезами</w>
-                        <w>ѡмывающе</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>постѡ<hi rend="sup">м</hi>
-                        </w>
-                        <w>и</w>
-                        <w>рыданїемь, <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>слъзами</w>
-                        <w>ѡмывающе</w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>постомъ</w>
-                        <w>и</w>
-                        <w>рыданиемъ</w>
-                        <w>и</w>
-                        <w>слезами</w>
-                        <w>омывающи</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>постомъ</w>
-                        <w>и</w>
-                        <w>рыданиемъ</w>
-                        <w>и</w>
-                        <w>слезами</w>
-                        <w>омывающи</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>постомъ</w>
-                        <w>и</w>
-                        <w>рыданиемъ</w>
-                        <w>и</w>
-                        <w>слезами</w>
-                        <w>омывающи</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>постомъ,</w>
-                        <w>и</w>
-                        <w>рыданьемъ</w>
-                        <w>и</w>
-                        <w>слезами</w>
-                        <w>омывающе</w>
-                        <w>
-                           <pb n="165,17"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>постъмь,</w>
-                        <w>и</w>
-                        <w>рыданиемь,</w>
-                        <w>и</w>
-                        <w>сльзами</w>
-                        <w>омывающе</w>
-                        <w>
-                           <pb n="215,14"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>постомъ,</w>
-                        <w>и</w>
-                        <w>рыданьем</w>
-                        <w>и</w>
-                        <w>слезами</w>
-                        <w>омывающе</w>
-                        <w>
-                           <pb n="113,34"/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>170, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="1"><p>
+<app>
+<lem wit="#lem">
+<w>постъмь,</w>
+<w>и</w>
+<w>рыданиемь</w>
+<w>и</w>
+<w>сльзами</w>
+<w>омывающе</w>
+</lem>
+
+<rdg wit="#lav">
+<w>постомъ</w>
+<w>и</w>
+<w>рыда<lb/>нье<hi rend="sup">м</hi>.</w>
+<w>слезами</w>
+<w>ѡмывающе</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>постомъ</w>
+<w>и</w>
+<w>рыданиемъ</w>
+<w>и</w>
+<w>слезами.</w>
+<w>ѡмы<lb/>вающе</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>постомь</w>
+<w>и</w>
+<w>рыданиемь <lb/></w>
+
+<w>и</w>
+<w>слезами</w>
+<w>ѡбмывающе</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>постомъ</w>
+<w>и</w>
+<w>рыдание<lb/>мь</w>
+<w>слезами</w>
+<w>ѡмывающе</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>постѡ<hi rend="sup">м</hi></w>
+<w>и</w>
+<w>рыданїемь, <lb/></w>
+
+<w>и</w>
+<w>слъзами</w>
+<w>ѡмывающе</w>
+</rdg>
+
+<rdg wit="#kom">
+<w>постомъ</w>
+<w>и</w>
+<w>рыданиемъ</w>
+<w>и</w>
+<w>слезами</w>
+<w>омывающи</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>постомъ</w>
+<w>и</w>
+<w>рыданиемъ</w>
+<w>и</w>
+<w>слезами</w>
+<w>омывающи</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>постомъ</w>
+<w>и</w>
+<w>рыданиемъ</w>
+<w>и</w>
+<w>слезами</w>
+<w>омывающи</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>постомъ,</w>
+<w>и</w>
+<w>рыданьемъ</w>
+<w>и</w>
+<w>слезами</w>
+<w>омывающе <pb n="165,17"/></w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>постъмь,</w>
+<w>и</w>
+<w>рыданиемь,</w>
+<w>и</w>
+<w>сльзами</w>
+<w>омывающе <pb n="215,14"/></w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>постомъ,</w>
+<w>и</w>
+<w>рыданьем</w>
+<w>и</w>
+<w>слезами</w>
+<w>омывающе <pb n="113,34"/></w>
+
+</rdg>
+</app></p></div></body></text></TEI>

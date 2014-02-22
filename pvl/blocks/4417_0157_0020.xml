@@ -1,110 +1,95 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>157, 20</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="20">
-            <p>
-               <app>
-                  <lem>
-                     <w>къ</w>
-                     <w>нему</w>
-                     <w>числъмь 12,</w>
-                     <w>и</w>
-                     <w>ископаша</w>
-                     <w>печеру</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>к</w>
-                        <w>нему</w>
-                        <w>числомь</w>
-                        <w>.в҃і. <lb/>
-                        </w>
-                        <w>ископаша</w>
-                        <w>печеру</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>к</w>
-                        <w>немѹ</w>
-                        <w>числомъ</w>
-                        <w>.в҃і.</w>
-                        <w>и</w>
-                        <w>ископаша <lb/>
-                        </w>
-                        <w>печероу</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>к</w>
-                        <w>немѹ</w>
-                        <w>числомъ <lb/>
-                        </w>
-                        <w>.в҃і.</w>
-                        <w>ископаше</w>
-                        <w>печерѹ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>к</w>
-                        <w>нему.</w>
-                        <w>яко</w>
-                        <w>числомъ</w>
-                        <w>.в҃і.</w>
-                        <w>ись<lb/>копаша</w>
-                        <w>пе<hi rend="sup">ч</hi>ру</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>к</w>
-                        <w>немоу</w>
-                        <w>числѡ<hi rend="sup">м</hi>.</w>
-                        <w>яко</w>
-                        <w>в҃і.</w>
-                        <w>и</w>
-                        <w>ископаша</w>
-                        <w>пе<hi rend="sup">ч</hi>рѹ <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>к</w>
-                        <w>нему</w>
-                        <w>числомь 12,</w>
-                        <w>и</w>
-                        <w>ископаша</w>
-                        <w>печеру</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>къ</w>
-                        <w>нему</w>
-                        <w>числъмь 12,</w>
-                        <w>и</w>
-                        <w>ископаша</w>
-                        <w>печеру</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>к</w>
-                        <w>нему</w>
-                        <w>числомь 12,</w>
-                        <w>и</w>
-                        <w>ископаша</w>
-                        <w>печеру</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>157, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="20"><p>
+<app>
+<lem wit="#lem">
+<w>къ</w>
+<w>нему</w>
+<w>числъмь 12,</w>
+
+<w>и</w>
+<w>ископаша</w>
+<w>печеру</w>
+</lem>
+
+<rdg wit="#lav">
+<w>к</w>
+<w>нему</w>
+<w>числомь</w>
+<w>.в҃і. <lb/></w>
+
+<w>ископаша</w>
+<w>печеру</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>к</w>
+<w>немѹ</w>
+<w>числомъ</w>
+<w>.в҃і.</w>
+<w>и</w>
+<w>ископаша <lb/></w>
+
+<w>печероу</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>к</w>
+<w>немѹ</w>
+<w>числомъ <lb/></w>
+
+<w>.в҃і.</w>
+<w>ископаше</w>
+<w>печерѹ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>к</w>
+<w>нему.</w>
+<w>яко</w>
+<w>числомъ</w>
+<w>.в҃і.</w>
+<w>ись<lb/>копаша</w>
+<w>пе<hi rend="sup">ч</hi>ру</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>к</w>
+<w>немоу</w>
+<w>числѡ<hi rend="sup">м</hi>.</w>
+<w>яко</w>
+<w>в҃і.</w>
+<w>и</w>
+<w>ископаша</w>
+<w>пе<hi rend="sup">ч</hi>рѹ <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>к</w>
+<w>нему</w>
+<w>числомь 12,</w>
+
+<w>и</w>
+<w>ископаша</w>
+<w>печеру</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>къ</w>
+<w>нему</w>
+<w>числъмь 12,</w>
+
+<w>и</w>
+<w>ископаша</w>
+<w>печеру</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>к</w>
+<w>нему</w>
+<w>числомь 12,</w>
+
+<w>и</w>
+<w>ископаша</w>
+<w>печеру</w>
+</rdg>
+</app></p></div></body></text></TEI>

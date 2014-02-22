@@ -1,125 +1,105 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>7, 21</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="21">
-            <p>
-               <app>
-                  <lem>
-                     <w>Хамова.</w>
-                     <w>А</w>
-                     <w>Дънѣпръ</w>
-                     <w>вътечеть</w>
-                     <w>въ</w>
-                     <w>Поньтьское</w>
-                     <w>море</w>
-                     <w>трьми</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>хамова</w>
-                        <w>а <lb/>
-                        </w>
-                        <w>днѣпръ</w>
-                        <w>втечеть</w>
-                        <w>в</w>
-                        <w>понетьское</w>
-                        <w>море</w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad">
-                        <w>хамова <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>днѣпръ</w>
-                        <w>втече<hi rend="sup">т</hi>
-                        </w>
-                        <w>в</w>
-                        <w>поньтьское</w>
-                        <w>море</w>
-                        <w>треми</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>хамова.</w>
-                        <w>а</w>
-                        <w>днѣпръ</w>
-                        <w>втечетъ.</w>
-                        <w>в</w>
-                        <w>понтьское</w>
-                        <w>мо<lb/>ре.</w>
-                        <w>треми</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>хамова <lb/>
-                        </w>
-                        <w>а</w>
-                        <w>днепръ</w>
-                        <w>втече<hi rend="sup">т</hi>
-                        </w>
-                        <w>в</w>
-                        <w>понтеское</w>
-                        <w>море.</w>
-                        <w>треми</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>хамова.</w>
-                        <w>а</w>
-                        <w>днѣпрь</w>
-                        <w>втече<hi rend="sup">т</hi>
-                        </w>
-                        <w>в</w>
-                        <w>по<hi rend="sup">н</hi>теское</w>
-                        <w>море <lb/>
-                        </w>
-                        <w>треми</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Хамова.</w>
-                        <w>А</w>
-                        <w>Днѣпръ</w>
-                        <w>втечеть</w>
-                        <w>в</w>
-                        <w>Понетьское</w>
-                        <w>море</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Хамова.</w>
-                        <w>А</w>
-                        <w>Дънѣпръ</w>
-                        <w>вътечеть</w>
-                        <w>въ</w>
-                        <w>Понтьское</w>
-                        <w>море</w>
-                        <w>трьми</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Хамова.</w>
-                        <w>А</w>
-                        <w>Днѣпръ</w>
-                        <w>втечеть</w>
-                        <w>в</w>
-                        <w>Понетьское</w>
-                        <w>море</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>7, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="21"><p>
+<app>
+<lem wit="#lem">
+<w>Хамова.</w>
+<w>А</w>
+<w>Дънѣпръ</w>
+<w>вътечеть</w>
+<w>въ</w>
+<w>Поньтьское</w>
+<w>море</w>
+<w>трьми</w>
+</lem>
+
+<rdg wit="#lav">
+<w>хамова</w>
+<w>а <lb/></w>
+
+<w>днѣпръ</w>
+<w>втечеть</w>
+<w>в</w>
+<w>понетьское</w>
+<w>море</w>
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+<w>хамова <lb/></w>
+
+<w>и</w>
+<w>днѣпръ</w>
+<w>втече<hi rend="sup">т</hi></w>
+<w>в</w>
+<w>поньтьское</w>
+<w>море</w>
+<w>треми</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>хамова.</w>
+<w>а</w>
+<w>днѣпръ</w>
+<w>втечетъ.</w>
+<w>в</w>
+<w>понтьское</w>
+<w>мо<lb/>ре.</w>
+<w>треми</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>хамова <lb/></w>
+
+<w>а</w>
+<w>днепръ</w>
+<w>втече<hi rend="sup">т</hi></w>
+<w>в</w>
+<w>понтеское</w>
+<w>море.</w>
+<w>треми</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>хамова.</w>
+<w>а</w>
+<w>днѣпрь</w>
+<w>втече<hi rend="sup">т</hi></w>
+<w>в</w>
+<w>по<hi rend="sup">н</hi>теское</w>
+<w>море <lb/></w>
+
+<w>треми</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Хамова.</w>
+<w>А</w>
+<w>Днѣпръ</w>
+<w>втечеть</w>
+<w>в</w>
+<w>Понетьское</w>
+<w>море</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Хамова.</w>
+<w>А</w>
+<w>Дънѣпръ</w>
+<w>вътечеть</w>
+<w>въ</w>
+<w>Понтьское</w>
+<w>море</w>
+<w>трьми</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Хамова.</w>
+<w>А</w>
+<w>Днѣпръ</w>
+<w>втечеть</w>
+<w>в</w>
+<w>Понетьское</w>
+<w>море</w>
+</rdg>
+</app></p></div></body></text></TEI>

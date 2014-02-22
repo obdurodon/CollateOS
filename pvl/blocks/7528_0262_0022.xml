@@ -1,117 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>262, 22</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="22">
-            <p>
-               <app>
-                  <lem>
-                     <w>сущю</w>
-                     <w>съ</w>
-                     <w>вои</w>
-                     <w>стоящю</w>
-                     <w>у</w>
-                     <w>бору,</w>
-                     <w>Володимиръ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>же</w>
-                        <w>с</w>
-                        <w>вои</w>
-                        <w>стоящю <lb/>
-                        </w>
-                        <w>в</w>
-                        <w>бору·</w>
-                        <w>володимеръ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>сѹщоу·</w>
-                        <w>с</w>
-                        <w>вои</w>
-                        <w>стоящ<hi rend="sup">ѹ</hi>
-                        </w>
-                        <w>в</w>
-                        <w>борѹ <lb/>
-                        </w>
-                        <w>олодимиръ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>сѹщѹ</w>
-                        <w>с</w>
-                        <w>вои·</w>
-                        <w>стоящѹ</w>
-                        <w>оу</w>
-                        <w>борѹ:·</w>
-                        <w>Володими<lb/>ръ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>сущю· <lb/>
-                        </w>
-                        <w>с</w>
-                        <w>вои</w>
-                        <w>стоящю</w>
-                        <w>оу</w>
-                        <w>бору·</w>
-                        <w>во<lb/>лодиме<sic>ръ</sic>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>сѫщю</w>
-                        <w>съ</w>
-                        <w>вои</w>
-                        <w>стоащѫ</w>
-                        <w>оу</w>
-                        <w>бороу.</w>
-                        <w>въл<hi rend="sup">д</hi>ѡ<hi rend="sup">j</hi>имер′</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>же</w>
-                        <w>с</w>
-                        <w>вои</w>
-                        <w>стоящю</w>
-                        <w>в</w>
-                        <w>бору,</w>
-                        <w>Володимеръ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>сущю</w>
-                        <w>съ</w>
-                        <w>вои</w>
-                        <w>и</w>
-                        <w>стоящю</w>
-                        <w>въ</w>
-                        <w>бору,</w>
-                        <w>Володимеръ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>же</w>
-                        <w>с</w>
-                        <w>вои</w>
-                        <w>стоящю</w>
-                        <w>в</w>
-                        <w>бору,</w>
-                        <w>Володимеръ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>262, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="22"><p>
+<app>
+<lem wit="#lem">
+<w>сущю</w>
+<w>съ</w>
+<w>вои</w>
+<w>стоящю</w>
+<w>у</w>
+<w>бору,</w>
+<w>Володимиръ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>же</w>
+<w>с</w>
+<w>вои</w>
+<w>стоящю <lb/></w>
+
+<w>в</w>
+<w>бору·</w>
+<w>володимеръ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>сѹщоу·</w>
+<w>с</w>
+<w>вои</w>
+<w>стоящ<hi rend="sup">ѹ</hi></w>
+<w>в</w>
+<w>борѹ <lb/></w>
+
+<w>олодимиръ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>сѹщѹ</w>
+<w>с</w>
+<w>вои·</w>
+<w>стоящѹ</w>
+<w>оу</w>
+<w>борѹ:·</w>
+<w>Володими<lb/>ръ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>сущю· <lb/></w>
+
+<w>с</w>
+<w>вои</w>
+<w>стоящю</w>
+<w>оу</w>
+<w>бору·</w>
+<w>во<lb/>лодиме<milestone unit="sic" n="start"/>ръ<milestone unit="sic" n="end"/></w>
+</rdg>
+
+<rdg wit="#xle">
+<w>сѫщю</w>
+<w>съ</w>
+<w>вои</w>
+<w>стоащѫ</w>
+<w>оу</w>
+<w>бороу.</w>
+<w>въл<hi rend="sup">д</hi>ѡ<hi rend="sup">j</hi>имер′</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>же</w>
+<w>с</w>
+<w>вои</w>
+<w>стоящю</w>
+<w>в</w>
+<w>бору,</w>
+<w>Володимеръ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>сущю</w>
+<w>съ</w>
+<w>вои</w>
+<w>и</w>
+<w>стоящю</w>
+<w>въ</w>
+<w>бору,</w>
+<w>Володимеръ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>же</w>
+<w>с</w>
+<w>вои</w>
+<w>стоящю</w>
+<w>в</w>
+<w>бору,</w>
+<w>Володимеръ</w>
+</rdg>
+</app></p></div></body></text></TEI>

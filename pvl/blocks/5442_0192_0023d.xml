@@ -1,101 +1,77 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>192, 23d</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="23d">
-            <p>
-               <app>
-                  <lem>
-                     <w>паче</w>
-                     <w>вьсѣхъ;</w>
-                     <w>и</w>
-                     <w>глаголаста</w>
-                     <w>ему:</w>
-                     <w>“Исакие,</w>
-                     <w>то</w>
-                     <w>ти</w>
-                     <w>Христосъ;</w>
-                     <w>падъ,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>падъ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>па<hi rend="sup">д</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>па<hi rend="sup">д</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>паче</w>
-                        <w>всихъ.</w>
-                        <w>и</w>
-                        <w>гл҃аста <lb/>
-                        </w>
-                        <w>ему</w>
-                        <w>исакье</w>
-                        <w>то</w>
-                        <w>ти</w>
-                        <w>хъ<hi rend="sup">с</hi>.</w>
-                        <w>падъ. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>па<hi rend="sup">ч</hi>
-                        </w>
-                        <w>всѣ<hi rend="sup">х</hi>.</w>
-                        <w>и</w>
-                        <w>гл҃аста</w>
-                        <w>емоу.</w>
-                        <w>исакїе.</w>
-                        <w>то</w>
-                        <w>ти</w>
-                        <w>е<hi rend="sup">с</hi>
-                        </w>
-                        <w>х҃с.</w>
-                        <w>па<hi rend="sup">д</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>падъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>паче</w>
-                        <w>вьсѣхъ;</w>
-                        <w>и</w>
-                        <w>глаголаста</w>
-                        <w>ему:</w>
-                        <w>“Исакие,</w>
-                        <w>то</w>
-                        <w>ти</w>
-                        <w>Христосъ;</w>
-                        <w>падъ,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>падъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>192, 23d</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="23d"><p>
+<app>
+<lem wit="#lem">
+<w>паче</w>
+<w>вьсѣхъ;</w>
+<w>и</w>
+<w>глаголаста</w>
+<w>ему:</w>
+<w>“Исакие,</w>
+<w>то</w>
+<w>ти</w>
+<w>Христосъ;</w>
+<w>падъ,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>падъ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>па<hi rend="sup">д</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>па<hi rend="sup">д</hi></w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>паче</w>
+<w>всихъ.</w>
+<w>и</w>
+<w>гл҃аста <lb/></w>
+
+<w>ему</w>
+<w>исакье</w>
+<w>то</w>
+<w>ти</w>
+<w>хъ<hi rend="sup">с</hi>.</w>
+<w>падъ. <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>па<hi rend="sup">ч</hi></w>
+<w>всѣ<hi rend="sup">х</hi>.</w>
+<w>и</w>
+<w>гл҃аста</w>
+<w>емоу.</w>
+<w>исакїе.</w>
+<w>то</w>
+<w>ти</w>
+<w>е<hi rend="sup">с</hi></w>
+<w>х҃с.</w>
+<w>па<hi rend="sup">д</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>падъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>паче</w>
+<w>вьсѣхъ;</w>
+<w>и</w>
+<w>глаголаста</w>
+<w>ему:</w>
+<w>“Исакие,</w>
+<w>то</w>
+<w>ти</w>
+<w>Христосъ;</w>
+<w>падъ,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>падъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

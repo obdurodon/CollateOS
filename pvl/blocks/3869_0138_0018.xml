@@ -1,95 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>138, 18</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="18">
-            <p>
-               <app>
-                  <lem>
-                     <w>божьствьньными</w>
-                     <w>лучами</w>
-                     <w>раждизаеми</w>
-                     <w>въину,</w>
-                     <w>добляя</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>бжт<hi rend="sup">с</hi>венами</w>
-                        <w>лучами</w>
-                        <w>ражиза<lb/>ема</w>
-                        <w>воину.</w>
-                        <w>доблѧя</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>блж҃ными</w>
-                        <w>лоучами</w>
-                        <w>разжизаеми.</w>
-                        <w>воинѹ.</w>
-                        <w>доблѧя</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>блж҃енными</w>
-                        <w>лѹчами</w>
-                        <w>разжиза<lb/>еми</w>
-                        <w>воинѹ.</w>
-                        <w>доблѧя</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>блж҃ны<lb/>ми</w>
-                        <w>лучами</w>
-                        <w>ражь<sic>ждиз</sic>аеми <lb/>
-                        </w>
-                        <w>воину</w>
-                        <w>доблѧя</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>бл҃женными</w>
-                        <w>лѹ<lb/>чами</w>
-                        <w>разжизаеми</w>
-                        <w>выноу.</w>
-                        <w>доблѧа</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>божественами</w>
-                        <w>лучами</w>
-                        <w>ражизаема</w>
-                        <w>воину,</w>
-                        <w>добляя</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>божьствьнами</w>
-                        <w>лучами</w>
-                        <w>раждизаема</w>
-                        <w>въину,</w>
-                        <w>добляя</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>божественами</w>
-                        <w>лучами</w>
-                        <w>ражи</w>
-                        <w>заема</w>
-                        <w>воину,</w>
-                        <w>добляя</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>138, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="18"><p>
+<app>
+<lem wit="#lem">
+<w>божьствьньными</w>
+<w>лучами</w>
+<w>раждизаеми</w>
+<w>въину,</w>
+<w>добляя</w>
+</lem>
+
+<rdg wit="#lav">
+<w>бжт<hi rend="sup">с</hi>венами</w>
+<w>лучами</w>
+<w>ражиза<lb/>ема</w>
+<w>воину.</w>
+<w>доблѧя</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>блж҃ными</w>
+<w>лоучами</w>
+<w>разжизаеми.</w>
+<w>воинѹ.</w>
+<w>доблѧя</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>блж҃енными</w>
+<w>лѹчами</w>
+<w>разжиза<lb/>еми</w>
+<w>воинѹ.</w>
+<w>доблѧя</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>блж҃ны<lb/>ми</w>
+<w>лучами</w>
+<w>ражь<milestone unit="sic" n="start"/>ждиз<milestone unit="sic" n="end"/>аеми <lb/></w>
+
+<w>воину</w>
+<w>доблѧя</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>бл҃женными</w>
+<w>лѹ<lb/>чами</w>
+<w>разжизаеми</w>
+<w>выноу.</w>
+<w>доблѧа</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>божественами</w>
+<w>лучами</w>
+<w>ражизаема</w>
+<w>воину,</w>
+<w>добляя</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>божьствьнами</w>
+<w>лучами</w>
+<w>раждизаема</w>
+<w>въину,</w>
+<w>добляя</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>божественами</w>
+<w>лучами</w>
+<w>ражи</w>
+<w>заема</w>
+<w>воину,</w>
+<w>добляя</w>
+</rdg>
+</app></p></div></body></text></TEI>

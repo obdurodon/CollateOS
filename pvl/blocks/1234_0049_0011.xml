@@ -1,115 +1,97 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>49, 11</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="11">
-            <p>
-               <app>
-                  <lem>
-                     <w>имѣють</w>
-                     <w>власти</w>
-                     <w>купити</w>
-                     <w>паволокъ</w>
-                     <w>лише</w>
-                     <w>по 50</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>имѣють</w>
-                        <w>волости</w>
-                        <w>купити. <lb/>
-                        </w>
-                        <w>паволокъ</w>
-                        <w>лише</w>
-                        <w>по</w>
-                        <w>.н҃.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>имѣють</w>
-                        <w>власти</w>
-                        <w>кѹпи<hi rend="sup">т</hi>
-                        </w>
-                        <w>паволокъ.</w>
-                        <w>лише</w>
-                        <w>по <lb/>
-                        </w>
-                        <w>н҃.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>имѣютъ</w>
-                        <w>власти. <lb/>
-                        </w>
-                        <w>кѹпити</w>
-                        <w>паволокь.</w>
-                        <w>лише</w>
-                        <w>по</w>
-                        <w>.н҃.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>имѣють <lb/>
-                        </w>
-                        <w>власти</w>
-                        <w>купити</w>
-                        <w>паволокъ. <lb/>
-                        </w>
-                        <w>лише</w>
-                        <w>по</w>
-                        <w>пѧтидесѧтъ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>имѣю<hi rend="sup">т</hi>
-                        </w>
-                        <w>власти</w>
-                        <w>коупити</w>
-                        <w>паво<lb/>лѡ<hi rend="sup">к</hi>
-                        </w>
-                        <w>лише</w>
-                        <w>по</w>
-                        <w>.н҃.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>имѣють</w>
-                        <w>волости</w>
-                        <w>купити</w>
-                        <w>паволокъ</w>
-                        <w>лише</w>
-                        <w>по 50</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>имѣють</w>
-                        <w>власти</w>
-                        <w>купити</w>
-                        <w>паволокъ</w>
-                        <w>лише</w>
-                        <w>по 50</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>имѣють</w>
-                        <w>волости</w>
-                        <w>купити</w>
-                        <w>паволокъ</w>
-                        <w>лише</w>
-                        <w>по 50</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>49, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="11"><p>
+<app>
+<lem wit="#lem">
+<w>имѣють</w>
+<w>власти</w>
+<w>купити</w>
+<w>паволокъ</w>
+<w>лише</w>
+<w>по 50</w>
+
+</lem>
+
+<rdg wit="#lav">
+<w>имѣють</w>
+<w>волости</w>
+<w>купити. <lb/></w>
+
+<w>паволокъ</w>
+<w>лише</w>
+<w>по</w>
+<w>.н҃.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>имѣють</w>
+<w>власти</w>
+<w>кѹпи<hi rend="sup">т</hi></w>
+<w>паволокъ.</w>
+<w>лише</w>
+<w>по <lb/></w>
+
+<w>н҃.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>имѣютъ</w>
+<w>власти. <lb/></w>
+
+<w>кѹпити</w>
+<w>паволокь.</w>
+<w>лише</w>
+<w>по</w>
+<w>.н҃.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>имѣють <lb/></w>
+
+<w>власти</w>
+<w>купити</w>
+<w>паволокъ. <lb/></w>
+
+<w>лише</w>
+<w>по</w>
+<w>пѧтидесѧтъ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>имѣю<hi rend="sup">т</hi></w>
+<w>власти</w>
+<w>коупити</w>
+<w>паво<lb/>лѡ<hi rend="sup">к</hi></w>
+<w>лише</w>
+<w>по</w>
+<w>.н҃.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>имѣють</w>
+<w>волости</w>
+<w>купити</w>
+<w>паволокъ</w>
+<w>лише</w>
+<w>по 50</w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>имѣють</w>
+<w>власти</w>
+<w>купити</w>
+<w>паволокъ</w>
+<w>лише</w>
+<w>по 50</w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>имѣють</w>
+<w>волости</w>
+<w>купити</w>
+<w>паволокъ</w>
+<w>лише</w>
+<w>по 50</w>
+
+</rdg>
+</app></p></div></body></text></TEI>

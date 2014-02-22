@@ -1,110 +1,90 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>227, 16</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="16">
-            <p>
-               <app>
-                  <lem>
-                     <w>къ</w>
-                     <w>тобѣ</w>
-                     <w>ходяще</w>
-                     <w>ротѣ,</w>
-                     <w>губять</w>
-                     <w>землю</w>
-                     <w>Русьскую,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>к</w>
-                        <w>тобѣ</w>
-                        <w>ходѧче</w>
-                        <w>ротѣ</w>
-                        <w>губѧ<lb/>ть</w>
-                        <w>землю</w>
-                        <w>русьскую·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>то<lb/>бѣ</w>
-                        <w>ходѧще</w>
-                        <w>ротѣ·</w>
-                        <w>гѹбѧть</w>
-                        <w>землю</w>
-                        <w>роускоую·</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>тобѣ</w>
-                        <w>ходѧще</w>
-                        <w>ротѣ</w>
-                        <w>гѹбѧтъ <lb/>
-                        </w>
-                        <w>землю</w>
-                        <w>рѹс<hi rend="sup">с</hi>кѹю·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>все<lb/>гда</w>
-                        <w>ротѣ</w>
-                        <w>ходѧще</w>
-                        <w>губѧть</w>
-                        <w>зе<lb/>млю</w>
-                        <w>рускую·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>всег<hi rend="sup">д</hi>а</w>
-                        <w>ротѣ</w>
-                        <w>ходѧща</w>
-                        <w>гоубѧ<hi rend="sup">т</hi>
-                        </w>
-                        <w>землю <lb/>
-                        </w>
-                        <w>роу<hi rend="sup">с</hi>коую.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>к</w>
-                        <w>тобѣ</w>
-                        <w>ходяще</w>
-                        <w>ротѣ,</w>
-                        <w>губять</w>
-                        <w>землю</w>
-                        <w>Русьскую,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>къ</w>
-                        <w>тобѣ</w>
-                        <w>ходяще</w>
-                        <w>ротѣ,</w>
-                        <w>губять</w>
-                        <w>землю</w>
-                        <w>Русьскую,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>к</w>
-                        <w>тобѣ</w>
-                        <w>ходяче</w>
-                        <w>ротѣ,</w>
-                        <w>губять</w>
-                        <w>землю</w>
-                        <w>Русьскую,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>227, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="16"><p>
+<app>
+<lem wit="#lem">
+<w>къ</w>
+<w>тобѣ</w>
+<w>ходяще</w>
+<w>ротѣ,</w>
+<w>губять</w>
+<w>землю</w>
+<w>Русьскую,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>к</w>
+<w>тобѣ</w>
+<w>ходѧче</w>
+<w>ротѣ</w>
+<w>губѧ<lb/>ть</w>
+<w>землю</w>
+<w>русьскую·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>то<lb/>бѣ</w>
+<w>ходѧще</w>
+<w>ротѣ·</w>
+<w>гѹбѧть</w>
+<w>землю</w>
+<w>роускоую·</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>тобѣ</w>
+<w>ходѧще</w>
+<w>ротѣ</w>
+<w>гѹбѧтъ <lb/></w>
+
+<w>землю</w>
+<w>рѹс<hi rend="sup">с</hi>кѹю·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>все<lb/>гда</w>
+<w>ротѣ</w>
+<w>ходѧще</w>
+<w>губѧть</w>
+<w>зе<lb/>млю</w>
+<w>рускую·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>всег<hi rend="sup">д</hi>а</w>
+<w>ротѣ</w>
+<w>ходѧща</w>
+<w>гоубѧ<hi rend="sup">т</hi></w>
+<w>землю <lb/></w>
+
+<w>роу<hi rend="sup">с</hi>коую.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>к</w>
+<w>тобѣ</w>
+<w>ходяще</w>
+<w>ротѣ,</w>
+<w>губять</w>
+<w>землю</w>
+<w>Русьскую,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>къ</w>
+<w>тобѣ</w>
+<w>ходяще</w>
+<w>ротѣ,</w>
+<w>губять</w>
+<w>землю</w>
+<w>Русьскую,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>к</w>
+<w>тобѣ</w>
+<w>ходяче</w>
+<w>ротѣ,</w>
+<w>губять</w>
+<w>землю</w>
+<w>Русьскую,</w>
+</rdg>
+</app></p></div></body></text></TEI>

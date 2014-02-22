@@ -1,110 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>6, 3</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="3">
-            <p>
-               <app>
-                  <lem>
-                     <w>пришьдъше</w>
-                     <w>сѣдоша</w>
-                     <w>на</w>
-                     <w>рѣцѣ</w>
-                     <w>именьмь</w>
-                     <w>Морава,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>при<lb/>шедше</w>
-                        <w>сѣдоша.</w>
-                        <w>на</w>
-                        <w>рѣцѣ</w>
-                        <w>имѧнемъ</w>
-                        <w>марава.</w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad">
-                        <w>прише<hi rend="sup">д</hi>ше</w>
-                        <w>седоша</w>
-                        <w>на</w>
-                        <w>рецѣ</w>
-                        <w>имен<hi rend="sup">м</hi>е</w>
-                        <w>морава</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>прише<hi rend="sup">д</hi>ше</w>
-                        <w>седоша</w>
-                        <w>на</w>
-                        <w>рецѣ</w>
-                        <w>именемъ</w>
-                        <w>морава. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>пришедше</w>
-                        <w>сѣдоша. <lb/>
-                        </w>
-                        <w>на</w>
-                        <w>рѣцѣ</w>
-                        <w>именемъ</w>
-                        <w>мор<hi rend="sup">а</hi> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>прише<hi rend="sup">д</hi>ше</w>
-                        <w>сѣдоша</w>
-                        <w>на</w>
-                        <w>рѣцѣ</w>
-                        <w>имен<hi rend="sup">м</hi>е</w>
-                        <w>моурава.</w>
-                        <w>
-                           <pb n="4v"/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>пришедше</w>
-                        <w>сѣдоша</w>
-                        <w>на</w>
-                        <w>рѣцѣ</w>
-                        <w>имянемъ</w>
-                        <w>Марава,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>пришьдъше,</w>
-                        <w>сѣдоша</w>
-                        <w>на</w>
-                        <w>рѣцѣ</w>
-                        <w>именьмь</w>
-                        <w>Морава,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>пришедше</w>
-                        <w>сѣдоша</w>
-                        <w>на</w>
-                        <w>рѣцѣ</w>
-                        <w>имянемъ</w>
-                        <w>Марава,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>6, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="3"><p>
+<app>
+<lem wit="#lem">
+<w>пришьдъше</w>
+<w>сѣдоша</w>
+<w>на</w>
+<w>рѣцѣ</w>
+<w>именьмь</w>
+<w>Морава,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>при<lb/>шедше</w>
+<w>сѣдоша.</w>
+<w>на</w>
+<w>рѣцѣ</w>
+<w>имѧнемъ</w>
+<w>марава.</w>
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+<w>прише<hi rend="sup">д</hi>ше</w>
+<w>седоша</w>
+<w>на</w>
+<w>рецѣ</w>
+<w>имен<hi rend="sup">м</hi>е</w>
+<w>морава</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>прише<hi rend="sup">д</hi>ше</w>
+<w>седоша</w>
+<w>на</w>
+<w>рецѣ</w>
+<w>именемъ</w>
+<w>морава. <lb/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>пришедше</w>
+<w>сѣдоша. <lb/></w>
+
+<w>на</w>
+<w>рѣцѣ</w>
+<w>именемъ</w>
+<w>мор<hi rend="sup">а</hi><lb/>вѣ.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>прише<hi rend="sup">д</hi>ше</w>
+<w>сѣдоша</w>
+<w>на</w>
+<w>рѣцѣ</w>
+<w>имен<hi rend="sup">м</hi>е</w>
+<w>моурава. <pb n="4v"/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>пришедше</w>
+<w>сѣдоша</w>
+<w>на</w>
+<w>рѣцѣ</w>
+<w>имянемъ</w>
+<w>Марава,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>пришьдъше,</w>
+<w>сѣдоша</w>
+<w>на</w>
+<w>рѣцѣ</w>
+<w>именьмь</w>
+<w>Морава,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>пришедше</w>
+<w>сѣдоша</w>
+<w>на</w>
+<w>рѣцѣ</w>
+<w>имянемъ</w>
+<w>Марава,</w>
+</rdg>
+</app></p></div></body></text></TEI>

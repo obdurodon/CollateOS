@@ -1,120 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>42, 14</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="14">
-            <p>
-               <app>
-                  <lem>
-                     <w>Игорьмь,</w>
-                     <w>идоша</w>
-                     <w>къ</w>
-                     <w>Дунаю.</w>
-                     <w>Въ</w>
-                     <w>си</w>
-                     <w>же</w>
-                     <w>времена</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>игоре<hi rend="sup">м</hi>.</w>
-                        <w>и</w>
-                        <w>приидоша</w>
-                        <w>к</w>
-                        <w>дѹнаю.</w>
-                        <w>в</w>
-                        <w>си<hi rend="sup">ж</hi> 
-                           <lb/>
-                        </w>
-                        <w>времена</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>игоремь. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>приидоша</w>
-                        <w>к</w>
-                        <w>дѹнаю.</w>
-                        <w>в</w>
-                        <w>си</w>
-                        <w>же</w>
-                        <w>времена</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>игоремъ.</w>
-                        <w>и<lb/>доша</w>
-                        <w>къ</w>
-                        <w>дунаю.</w>
-                        <w>В</w>
-                        <w>си</w>
-                        <w>же</w>
-                        <w>вр<hi rend="sup">е</hi> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>игоре<hi rend="sup">м</hi>. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>идоша</w>
-                        <w>къ</w>
-                        <w>доунаю.</w>
-                        <w>въ</w>
-                        <w>си</w>
-                        <w>же</w>
-                        <w>времена</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Игоремъ,</w>
-                        <w>и</w>
-                        <w>приидоша</w>
-                        <w>к</w>
-                        <w>Дунаю.</w>
-                        <w>В</w>
-                        <w>си</w>
-                        <w>же</w>
-                        <w>времена</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Игорьмь,</w>
-                        <w>идоша</w>
-                        <w>къ</w>
-                        <w>Дунаю.</w>
-                        <w>Въ</w>
-                        <w>сиже</w>
-                        <w>времена</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Игорем,</w>
-                        <w>и</w>
-                        <w>приидоша</w>
-                        <w>к</w>
-                        <w>Дунаю.</w>
-                        <w>В</w>
-                        <w>си</w>
-                        <w>же</w>
-                        <w>времена</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>42, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="14"><p>
+<app>
+<lem wit="#lem">
+<w>Игорьмь,</w>
+<w>идоша</w>
+<w>къ</w>
+<w>Дунаю.</w>
+<w>Въ</w>
+<w>си</w>
+<w>же</w>
+<w>времена</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>игоре<hi rend="sup">м</hi>.</w>
+<w>и</w>
+<w>приидоша</w>
+<w>к</w>
+<w>дѹнаю.</w>
+<w>в</w>
+<w>си<hi rend="sup">ж</hi><lb/></w>
+<w>времена</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>игоремь. <lb/></w>
+
+<w>и</w>
+<w>приидоша</w>
+<w>к</w>
+<w>дѹнаю.</w>
+<w>в</w>
+<w>си</w>
+<w>же</w>
+<w>времена</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>игоремъ.</w>
+<w>и<lb/>доша</w>
+<w>къ</w>
+<w>дунаю.</w>
+<w>В</w>
+<w>си</w>
+<w>же</w>
+<w>вр<hi rend="sup">е</hi><lb/>мена.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>игоре<hi rend="sup">м</hi>. <lb/></w>
+
+<w>и</w>
+<w>идоша</w>
+<w>къ</w>
+<w>доунаю.</w>
+<w>въ</w>
+<w>си</w>
+<w>же</w>
+<w>времена</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Игоремъ,</w>
+<w>и</w>
+<w>приидоша</w>
+<w>к</w>
+<w>Дунаю.</w>
+<w>В</w>
+<w>си</w>
+<w>же</w>
+<w>времена</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Игорьмь,</w>
+<w>идоша</w>
+<w>къ</w>
+<w>Дунаю.</w>
+<w>Въ</w>
+<w>сиже</w>
+<w>времена</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Игорем,</w>
+<w>и</w>
+<w>приидоша</w>
+<w>к</w>
+<w>Дунаю.</w>
+<w>В</w>
+<w>си</w>
+<w>же</w>
+<w>времена</w>
+</rdg>
+</app></p></div></body></text></TEI>

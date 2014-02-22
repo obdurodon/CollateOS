@@ -1,127 +1,110 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>117, 15</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="15">
-            <p>
-               <app>
-                  <lem>
-                     <w>къто</w>
-                     <w>заутра</w>
-                     <w>на</w>
-                     <w>рѣцѣ,</w>
-                     <w>богатъ,</w>
-                     <w>ли</w>
-                     <w>убогъ,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>кто</w>
-                        <w>рѣцѣ.</w>
-                        <w>ба҃тъ</w>
-                        <w>ли</w>
-                        <w>ли</w>
-                        <w>оубогъ.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>кто</w>
-                        <w>заоутра</w>
-                        <w>на</w>
-                        <w>рѣцѣ.</w>
-                        <w>богатъ<hi rend="sup">л</hi> 
-                           <lb/>
-                        </w>
-                        <w>или</w>
-                        <w>оубогъ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>кто</w>
-                        <w>заоутра</w>
-                        <w>на</w>
-                        <w>рѣцѣ.</w>
-                        <w>бо<lb/>гатъ</w>
-                        <w>ли.</w>
-                        <w>или</w>
-                        <w>оубогъ.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>кто</w>
-                        <w>заоутра <lb/>
-                        </w>
-                        <w>на</w>
-                        <w>рѣцѣ.</w>
-                        <w>ба҃тъ</w>
-                        <w>ли</w>
-                        <w>оубогъ.</w>
-                     </rdg>
-                     <rdg wit="#xle"/>
-                     <rdg wit="#kom">
-                        <w>на</w>
-                        <w>рѣцѣ</w>
-                        <w>богат</w>
-                        <w>убогъ</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>на</w>
-                        <w>рѣцѣ</w>
-                        <w>богат</w>
-                        <w>и</w>
-                        <w>убогъ</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>на</w>
-                        <w>рѣцѣ</w>
-                        <w>богат</w>
-                        <w>и</w>
-                        <w>убогъ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>кто</w>
-                        <w>заутра</w>
-                        <w>на</w>
-                        <w>рѣцѣ,</w>
-                        <w>богатъ</w>
-                        <w>ли,</w>
-                        <w>ли</w>
-                        <w>убогъ,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>къто</w>
-                        <w>на</w>
-                        <w>рѣцѣ,</w>
-                        <w>богатъ,</w>
-                        <w>ли</w>
-                        <w>убогъ,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>кто</w>
-                        <w>заутра</w>
-                        <w>на</w>
-                        <w>рѣцѣ,</w>
-                        <w>богатъ</w>
-                        <w>ли,</w>
-                        <w>ли</w>
-                        <w>убогъ,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>117, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="15"><p>
+<app>
+<lem wit="#lem">
+<w>къто</w>
+<w>заутра</w>
+<w>на</w>
+<w>рѣцѣ,</w>
+<w>богатъ,</w>
+<w>ли</w>
+<w>убогъ,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>кто</w>
+<w>рѣцѣ.</w>
+<w>ба҃тъ</w>
+<w>ли</w>
+<w>ли</w>
+<w>оубогъ.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>кто</w>
+<w>заоутра</w>
+<w>на</w>
+<w>рѣцѣ.</w>
+<w>богатъ<hi rend="sup">л</hi><lb/></w>
+<w>или</w>
+<w>оубогъ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>кто</w>
+<w>заоутра</w>
+<w>на</w>
+<w>рѣцѣ.</w>
+<w>бо<lb/>гатъ</w>
+<w>ли.</w>
+<w>или</w>
+<w>оубогъ.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>кто</w>
+<w>заоутра <lb/></w>
+
+<w>на</w>
+<w>рѣцѣ.</w>
+<w>ба҃тъ</w>
+<w>ли</w>
+<w>оубогъ.</w>
+</rdg>
+
+<rdg wit="#xle">
+</rdg>
+
+<rdg wit="#kom">
+<w>на</w>
+<w>рѣцѣ</w>
+<w>богат</w>
+<w>убогъ</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>на</w>
+<w>рѣцѣ</w>
+<w>богат</w>
+<w>и</w>
+<w>убогъ</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>на</w>
+<w>рѣцѣ</w>
+<w>богат</w>
+<w>и</w>
+<w>убогъ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>кто</w>
+<w>заутра</w>
+<w>на</w>
+<w>рѣцѣ,</w>
+<w>богатъ</w>
+<w>ли,</w>
+<w>ли</w>
+<w>убогъ,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>къто</w>
+<w>на</w>
+<w>рѣцѣ,</w>
+<w>богатъ,</w>
+<w>ли</w>
+<w>убогъ,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>кто</w>
+<w>заутра</w>
+<w>на</w>
+<w>рѣцѣ,</w>
+<w>богатъ</w>
+<w>ли,</w>
+<w>ли</w>
+<w>убогъ,</w>
+</rdg>
+</app></p></div></body></text></TEI>

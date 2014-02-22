@@ -1,108 +1,85 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>275, 16</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="16">
-            <p>
-               <app>
-                  <lem>
-                     <w>Въ</w>
-                     <w>лѣто 6610.</w>
-                     <w>Выбѣже</w>
-                     <w>Ярославъ</w>
-                     <w>Яропълчичь</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>В</w>
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>·҂ѕ҃·х҃і·</w>
-                        <w>Выбѣже</w>
-                        <w>яросла<lb/>въ</w>
-                        <w>ярополчичь·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>҂ѕ҃</w>
-                        <w>х҃і.</w>
-                        <w>ыбе<hi rend="sup">ж</hi>
-                        </w>
-                        <w>ярославъ·</w>
-                        <w>ярополчичь·</w>
-                        <w>
-                           <pb n="148v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>В</w>
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>·҂ѕ҃·х҃і· <lb/>
-                        </w>
-                        <w>вы·̏беже</w>
-                        <w>ярославъ</w>
-                        <w>ярополчичь</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>В</w>
-                        <w>л<hi rend="sup">т</hi>ѣ</w>
-                        <w>҂ѕ҃·х҃·і҃·</w>
-                        <w>Выбѣже</w>
-                        <w>яро<lb/>славъ·</w>
-                        <w>ярополчичь</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>В</w>
-                        <w>лѣ<hi rend="sup">т</hi>.</w>
-                        <w>҂ѕ҃.х҃.і҃.</w>
-                        <w>Выбѣже</w>
-                        <w>ярославь</w>
-                        <w>яропо<hi rend="sup">л</hi> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>В</w>
-                        <w>лѣто 6610.</w>
-                        <w>Выбѣже</w>
-                        <w>Ярославъ</w>
-                        <w>Ярополчичь</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Въ</w>
-                        <w>лѣто 6610.</w>
-                        <w>Выбѣже</w>
-                        <w>Ярославъ</w>
-                        <w>Яропълчичь</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>В</w>
-                        <w>лѣто 6610.</w>
-                        <w>Выбѣже</w>
-                        <w>Ярославъ</w>
-                        <w>Ярополчичь</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>275, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="16"><p>
+<app>
+<lem wit="#lem">
+<w>Въ</w>
+<w>лѣто 6610.</w>
+
+<w>Выбѣже</w>
+<w>Ярославъ</w>
+<w>Яропълчичь</w>
+</lem>
+
+<rdg wit="#lav">
+<w>В</w>
+<w>лѣ<hi rend="sup">т</hi></w>
+<w>·҂ѕ҃·х҃і·</w>
+<w>Выбѣже</w>
+<w>яросла<lb/>въ</w>
+<w>ярополчичь·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>лѣ<hi rend="sup">т</hi></w>
+<w>҂ѕ҃</w>
+<w>х҃і.</w>
+<w>ыбе<hi rend="sup">ж</hi></w>
+<w>ярославъ·</w>
+<w>ярополчичь· <pb n="148v"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>В</w>
+<w>лѣ<hi rend="sup">т</hi></w>
+<w>·҂ѕ҃·х҃і· <lb/></w>
+
+<w>вы·̏беже</w>
+<w>ярославъ</w>
+<w>ярополчичь</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>В</w>
+<w>л<hi rend="sup">т</hi>ѣ</w>
+<w>҂ѕ҃·х҃·і҃·</w>
+<w>Выбѣже</w>
+<w>яро<lb/>славъ·</w>
+<w>ярополчичь</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>В</w>
+<w>лѣ<hi rend="sup">т</hi>.</w>
+<w>҂ѕ҃.х҃.і҃.</w>
+<w>Выбѣже</w>
+<w>ярославь</w>
+<w>яропо<hi rend="sup">л</hi><lb/>чичь</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>В</w>
+<w>лѣто 6610.</w>
+
+<w>Выбѣже</w>
+<w>Ярославъ</w>
+<w>Ярополчичь</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Въ</w>
+<w>лѣто 6610.</w>
+
+<w>Выбѣже</w>
+<w>Ярославъ</w>
+<w>Яропълчичь</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>В</w>
+<w>лѣто 6610.</w>
+
+<w>Выбѣже</w>
+<w>Ярославъ</w>
+<w>Ярополчичь</w>
+</rdg>
+</app></p></div></body></text></TEI>

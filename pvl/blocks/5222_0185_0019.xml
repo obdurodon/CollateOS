@@ -1,147 +1,126 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>185, 19</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="19">
-            <p>
-               <app>
-                  <lem>
-                     <w>възимая</w>
-                     <w>мало</w>
-                     <w>коврижькъ;</w>
-                     <w>и</w>
-                     <w>въшьдъ</w>
-                     <w>въ</w>
-                     <w>пещеру,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>взимая</w>
-                        <w>мало</w>
-                        <w>коврї<lb/>жекъ.</w>
-                        <w>вшедъ</w>
-                        <w>в</w>
-                        <w>печеру</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>възимая</w>
-                        <w>мало</w>
-                        <w>коврижець.</w>
-                        <w>и</w>
-                        <w>вше<hi rend="sup">д</hi>
-                        </w>
-                        <w>в</w>
-                        <w>пещероу</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>взимаѧ</w>
-                        <w>ма<lb/>ло</w>
-                        <w>коврижець.</w>
-                        <w>и</w>
-                        <w>вшедъ</w>
-                        <w>въ</w>
-                        <w>пещерѹ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>возмѧ</w>
-                        <w>малъ <lb/>
-                        </w>
-                        <w>коврижекъ.</w>
-                        <w>и</w>
-                        <w>вшедъ</w>
-                        <w>в</w>
-                        <w>пеще<lb/>ру</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>възма</w>
-                        <w>мало</w>
-                        <w>коврыжекь.</w>
-                        <w>и</w>
-                        <w>вше<hi rend="sup">д</hi> 
-                           <lb/>
-                        </w>
-                        <w>въ</w>
-                        <w>пещероу.</w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>взимая</w>
-                        <w>мало</w>
-                        <w>хлѣба</w>
-                        <w>единъ</w>
-                        <w>укрух</w>
-                        <w>
-                           <add place="margin">коврыгъ</add>
-                        </w>
-                        <w>и</w>
-                        <w>пакы</w>
-                        <w>вшедшии</w>
-                        <w>в</w>
-                        <w>пещеру</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>възимаа</w>
-                        <w>мало</w>
-                        <w>коврыгъ</w>
-                        <w>и</w>
-                        <w>вшед</w>
-                        <w>в</w>
-                        <w>пещеру</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>взимаа</w>
-                        <w>мало</w>
-                        <w>коврыгъ</w>
-                        <w>и</w>
-                        <w>вшед</w>
-                        <w>в</w>
-                        <w>пещеру</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>взимая</w>
-                        <w>мало</w>
-                        <w>коврижекъ;</w>
-                        <w>и</w>
-                        <w>вшедъ</w>
-                        <w>в</w>
-                        <w>печеру,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>възимая</w>
-                        <w>мало</w>
-                        <w>коврижькъ;</w>
-                        <w>и</w>
-                        <w>въшьдъ</w>
-                        <w>въ</w>
-                        <w>пещеру,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>взимая</w>
-                        <w>мало</w>
-                        <w>коврижекъ;</w>
-                        <w>и</w>
-                        <w>вшедъ</w>
-                        <w>в</w>
-                        <w>печеру,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>185, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="19"><p>
+<app>
+<lem wit="#lem">
+<w>възимая</w>
+<w>мало</w>
+<w>коврижькъ;</w>
+<w>и</w>
+<w>въшьдъ</w>
+<w>въ</w>
+<w>пещеру,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>взимая</w>
+<w>мало</w>
+<w>коврї<lb/>жекъ.</w>
+<w>вшедъ</w>
+<w>в</w>
+<w>печеру</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>възимая</w>
+<w>мало</w>
+<w>коврижець.</w>
+<w>и</w>
+<w>вше<hi rend="sup">д</hi></w>
+<w>в</w>
+<w>пещероу</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>взимаѧ</w>
+<w>ма<lb/>ло</w>
+<w>коврижець.</w>
+<w>и</w>
+<w>вшедъ</w>
+<w>въ</w>
+<w>пещерѹ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>возмѧ</w>
+<w>малъ <lb/></w>
+
+<w>коврижекъ.</w>
+<w>и</w>
+<w>вшедъ</w>
+<w>в</w>
+<w>пеще<lb/>ру</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>възма</w>
+<w>мало</w>
+<w>коврыжекь.</w>
+<w>и</w>
+<w>вше<hi rend="sup">д</hi><lb/></w>
+<w>въ</w>
+<w>пещероу.</w>
+</rdg>
+
+<rdg wit="#kom">
+<w>взимая</w>
+<w>мало</w>
+<w>хлѣба</w>
+<w>единъ</w>
+<w>укрух</w>
+<w><milestone unit="add" n="start" place="margin"/>коврыгъ<milestone unit="add" n="end"/></w>
+<w>и</w>
+<w>пакы</w>
+<w>вшедшии</w>
+<w>в</w>
+<w>пещеру</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>възимаа</w>
+<w>мало</w>
+<w>коврыгъ</w>
+<w>и</w>
+<w>вшед</w>
+<w>в</w>
+<w>пещеру</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>взимаа</w>
+<w>мало</w>
+<w>коврыгъ</w>
+<w>и</w>
+<w>вшед</w>
+<w>в</w>
+<w>пещеру</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>взимая</w>
+<w>мало</w>
+<w>коврижекъ;</w>
+<w>и</w>
+<w>вшедъ</w>
+<w>в</w>
+<w>печеру,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>възимая</w>
+<w>мало</w>
+<w>коврижькъ;</w>
+<w>и</w>
+<w>въшьдъ</w>
+<w>въ</w>
+<w>пещеру,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>взимая</w>
+<w>мало</w>
+<w>коврижекъ;</w>
+<w>и</w>
+<w>вшедъ</w>
+<w>в</w>
+<w>печеру,</w>
+</rdg>
+</app></p></div></body></text></TEI>

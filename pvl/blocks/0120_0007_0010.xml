@@ -1,133 +1,106 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>7, 10</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="10">
-            <p>
-               <app>
-                  <lem>
-                     <w>прити</w>
-                     <w>въ</w>
-                     <w>Понтъ</w>
-                     <w>море,</w>
-                     <w>въ</w>
-                     <w>неже</w>
-                     <w>вътечеть</w>
-                     <w>Дънѣпръ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>прити</w>
-                        <w>в</w>
-                        <w>понотъ</w>
-                        <w>морѧ.</w>
-                        <w>
-                           <sic>въ</sic>
-                        </w>
-                        <w>неже</w>
-                        <w>втече<hi rend="sup">т</hi> 
-                           <lb/>
-                        </w>
-                        <w>днѣпръ</w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad">
-                        <w>приити</w>
-                        <w>въ</w>
-                        <w>понтъ</w>
-                        <w>море</w>
-                        <w>в</w>
-                        <w>не<hi rend="sup">ж</hi>
-                        </w>
-                        <w>течеть</w>
-                        <w>днѣпръ</w>
-                        <w>
-                           <pb n="3v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>въ</w>
-                        <w>понтъ</w>
-                        <w>море.</w>
-                        <w>в</w>
-                        <w>неже</w>
-                        <w>течетъ</w>
-                        <w>днѣпръ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>прити</w>
-                        <w>в</w>
-                        <w>понтъ</w>
-                        <w>мо<lb/>ре.</w>
-                        <w>в</w>
-                        <w>неже</w>
-                        <w>втече<hi rend="sup">т</hi>
-                        </w>
-                        <w>днѣпръ <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>прїити</w>
-                        <w>в</w>
-                        <w>по<hi rend="sup">н</hi>ть</w>
-                        <w>море.</w>
-                        <w>в</w>
-                        <w>неже</w>
-                        <w>тече<hi rend="sup">т</hi> 
-                           <lb/>
-                        </w>
-                        <w>днѣпръ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>прити</w>
-                        <w>в</w>
-                        <w>Понтъ</w>
-                        <w>море,</w>
-                        <w>въ</w>
-                        <w>неже</w>
-                        <w>втечеть</w>
-                        <w>Днѣпръ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>прити</w>
-                        <w>въ</w>
-                        <w>Понтъ</w>
-                        <w>море,</w>
-                        <w>въ</w>
-                        <w>неже</w>
-                        <w>вътечеть</w>
-                        <w>Дънѣпръ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>прити</w>
-                        <w>в</w>
-                        <w>Понтъ</w>
-                        <w>море,</w>
-                        <w>в</w>
-                        <w>не</w>
-                        <w>же</w>
-                        <w>втечет</w>
-                        <w>Днѣпръ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>7, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="10"><p>
+<app>
+<lem wit="#lem">
+<w>прити</w>
+<w>въ</w>
+<w>Понтъ</w>
+<w>море,</w>
+<w>въ</w>
+<w>неже</w>
+<w>вътечеть</w>
+<w>Дънѣпръ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>прити</w>
+<w>в</w>
+<w>понотъ</w>
+<w>морѧ.</w>
+<w><milestone unit="sic" n="start"/>въ<milestone unit="sic" n="end"/></w>
+<w>неже</w>
+<w>втече<hi rend="sup">т</hi><lb/></w>
+<w>днѣпръ</w>
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+<w>приити</w>
+<w>въ</w>
+<w>понтъ</w>
+<w>море</w>
+<w>в</w>
+<w>не<hi rend="sup">ж</hi></w>
+<w>течеть</w>
+<w>днѣпръ <pb n="3v"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>въ</w>
+<w>понтъ</w>
+<w>море.</w>
+<w>в</w>
+<w>неже</w>
+<w>течетъ</w>
+<w>днѣпръ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>прити</w>
+<w>в</w>
+<w>понтъ</w>
+<w>мо<lb/>ре.</w>
+<w>в</w>
+<w>неже</w>
+<w>втече<hi rend="sup">т</hi></w>
+<w>днѣпръ <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>прїити</w>
+<w>в</w>
+<w>по<hi rend="sup">н</hi>ть</w>
+<w>море.</w>
+<w>в</w>
+<w>неже</w>
+<w>тече<hi rend="sup">т</hi><lb/></w>
+<w>днѣпръ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>прити</w>
+<w>в</w>
+<w>Понтъ</w>
+<w>море,</w>
+<w>въ</w>
+<w>неже</w>
+<w>втечеть</w>
+<w>Днѣпръ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>прити</w>
+<w>въ</w>
+<w>Понтъ</w>
+<w>море,</w>
+<w>въ</w>
+<w>неже</w>
+<w>вътечеть</w>
+<w>Дънѣпръ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>прити</w>
+<w>в</w>
+<w>Понтъ</w>
+<w>море,</w>
+<w>в</w>
+<w>не</w>
+<w>же</w>
+<w>втечет</w>
+<w>Днѣпръ</w>
+</rdg>
+</app></p></div></body></text></TEI>

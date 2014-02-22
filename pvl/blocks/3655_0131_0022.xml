@@ -1,119 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>131, 22</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="22">
-            <p>
-               <app>
-                  <lem>
-                     <w>Сего</w>
-                     <w>бо</w>
-                     <w>въ</w>
-                     <w>память</w>
-                     <w>дьржать</w>
-                     <w>Русьстии</w>
-                     <w>людие,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>сего</w>
-                        <w>бо</w>
-                        <w>в</w>
-                        <w>памѧть <lb/>
-                        </w>
-                        <w>держать</w>
-                        <w>русьстии</w>
-                        <w>людье.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>сего</w>
-                        <w>бо</w>
-                        <w>в</w>
-                        <w>памѧть</w>
-                        <w>держа. <lb/>
-                        </w>
-                        <w>роустии</w>
-                        <w>лю<hi rend="sup">д</hi>е.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>сего</w>
-                        <w>бо</w>
-                        <w>в</w>
-                        <w>паметь</w>
-                        <w>держать.</w>
-                        <w>рѹс<hi rend="sup">с</hi>тїи</w>
-                        <w>людїе.</w>
-                        <w>
-                           <pb n="69r"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>сь</w>
-                        <w>бо</w>
-                        <w>в</w>
-                        <w>памѧть <lb/>
-                        </w>
-                        <w>держать</w>
-                        <w>рустии</w>
-                        <w>людье. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>сего</w>
-                        <w>бо <lb/>
-                        </w>
-                        <w>памѧ<hi rend="sup">т</hi>
-                        </w>
-                        <w>дръжа<hi rend="sup">т</hi>
-                        </w>
-                        <w>роустїи</w>
-                        <w>л<hi rend="sup">д</hi>ю<hi rend="sup">ї</hi>е.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Сего</w>
-                        <w>бо</w>
-                        <w>память</w>
-                        <w>держать</w>
-                        <w>Русьстии</w>
-                        <w>людье,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Сего</w>
-                        <w>бо</w>
-                        <w>въ</w>
-                        <w>память</w>
-                        <w>дьржать</w>
-                        <w>Русьстии</w>
-                        <w>людие,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Сего</w>
-                        <w>бо</w>
-                        <w>в</w>
-                        <w>память</w>
-                        <w>держать</w>
-                        <w>русьстии</w>
-                        <w>людье,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>131, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="22"><p>
+<app>
+<lem wit="#lem">
+<w>Сего</w>
+<w>бо</w>
+<w>въ</w>
+<w>память</w>
+<w>дьржать</w>
+<w>Русьстии</w>
+<w>людие,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>сего</w>
+<w>бо</w>
+<w>в</w>
+<w>памѧть <lb/></w>
+
+<w>держать</w>
+<w>русьстии</w>
+<w>людье.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>сего</w>
+<w>бо</w>
+<w>в</w>
+<w>памѧть</w>
+<w>держа. <lb/></w>
+
+<w>роустии</w>
+<w>лю<hi rend="sup">д</hi>е.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>сего</w>
+<w>бо</w>
+<w>в</w>
+<w>паметь</w>
+<w>держать.</w>
+<w>рѹс<hi rend="sup">с</hi>тїи</w>
+<w>людїе. <pb n="69r"/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>сь</w>
+<w>бо</w>
+<w>в</w>
+<w>памѧть <lb/></w>
+
+<w>держать</w>
+<w>рустии</w>
+<w>людье. <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>сего</w>
+<w>бо <lb/></w>
+
+<w>памѧ<hi rend="sup">т</hi></w>
+<w>дръжа<hi rend="sup">т</hi></w>
+<w>роустїи</w>
+<w>л<hi rend="sup">д</hi>ю<hi rend="sup">ї</hi>е.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Сего</w>
+<w>бо</w>
+<w>память</w>
+<w>держать</w>
+<w>Русьстии</w>
+<w>людье,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Сего</w>
+<w>бо</w>
+<w>въ</w>
+<w>память</w>
+<w>дьржать</w>
+<w>Русьстии</w>
+<w>людие,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Сего</w>
+<w>бо</w>
+<w>в</w>
+<w>память</w>
+<w>держать</w>
+<w>русьстии</w>
+<w>людье,</w>
+</rdg>
+</app></p></div></body></text></TEI>

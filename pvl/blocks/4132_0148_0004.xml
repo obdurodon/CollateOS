@@ -1,104 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>148, 4</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="4">
-            <p>
-               <app>
-                  <lem>
-                     <w>или</w>
-                     <w>ведръмь,</w>
-                     <w>или</w>
-                     <w>иною</w>
-                     <w>казнию,</w>
-                     <w>а</w>
-                     <w>чловѣкъ</w>
-                     <w>не</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ли</w>
-                        <w>ведромь.</w>
-                        <w>ли</w>
-                        <w>ино<lb/>ю</w>
-                        <w>казнью.</w>
-                        <w>а</w>
-                        <w>члв҃къ</w>
-                        <w>не</w>
-                     </rdg>
-                     <rdg wit="#rad"/>
-                     <rdg wit="#aka"/>
-                     <rdg wit="#ipa">
-                        <w>или</w>
-                        <w>ведро<lb/>мъ.</w>
-                        <w>или</w>
-                        <w>иною</w>
-                        <w>казнью.</w>
-                        <w>а</w>
-                        <w>члв҃кь <lb/>
-                        </w>
-                        <w>нѣ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>или</w>
-                        <w>ведрѡ<hi rend="sup">м</hi>.</w>
-                        <w>или</w>
-                        <w>иною <lb/>
-                        </w>
-                        <w>казнїю.</w>
-                        <w>а</w>
-                        <w>члк҃ь</w>
-                        <w>не</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>ли</w>
-                        <w>ведромь,</w>
-                        <w>ли</w>
-                        <w>иною</w>
-                        <w>казнью,</w>
-                        <w>а</w>
-                        <w>человѣкъ</w>
-                        <w>не</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>ли</w>
-                        <w>ведръмь,</w>
-                        <w>ли</w>
-                        <w>иною</w>
-                        <w>казнию,</w>
-                        <w>а</w>
-                        <w>чловѣкъ</w>
-                        <w>не</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>ли</w>
-                        <w>ведромь,</w>
-                        <w>ли</w>
-                        <w>иною</w>
-                        <w>казнью,</w>
-                        <w>а</w>
-                        <w>человѣкъ</w>
-                        <w>не</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>148, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="4"><p>
+<app>
+<lem wit="#lem">
+<w>или</w>
+<w>ведръмь,</w>
+<w>или</w>
+<w>иною</w>
+<w>казнию,</w>
+<w>а</w>
+<w>чловѣкъ</w>
+<w>не</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ли</w>
+<w>ведромь.</w>
+<w>ли</w>
+<w>ино<lb/>ю</w>
+<w>казнью.</w>
+<w>а</w>
+<w>члв҃къ</w>
+<w>не</w>
+</rdg>
+
+<rdg wit="#rad">
+</rdg>
+
+<rdg wit="#aka">
+</rdg>
+
+<rdg wit="#ipa">
+<w>или</w>
+<w>ведро<lb/>мъ.</w>
+<w>или</w>
+<w>иною</w>
+<w>казнью.</w>
+<w>а</w>
+<w>члв҃кь <lb/></w>
+
+<w>нѣ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>или</w>
+<w>ведрѡ<hi rend="sup">м</hi>.</w>
+<w>или</w>
+<w>иною <lb/></w>
+
+<w>казнїю.</w>
+<w>а</w>
+<w>члк҃ь</w>
+<w>не</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>ли</w>
+<w>ведромь,</w>
+<w>ли</w>
+<w>иною</w>
+<w>казнью,</w>
+<w>а</w>
+<w>человѣкъ</w>
+<w>не</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>ли</w>
+<w>ведръмь,</w>
+<w>ли</w>
+<w>иною</w>
+<w>казнию,</w>
+<w>а</w>
+<w>чловѣкъ</w>
+<w>не</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>ли</w>
+<w>ведромь,</w>
+<w>ли</w>
+<w>иною</w>
+<w>казнью,</w>
+<w>а</w>
+<w>человѣкъ</w>
+<w>не</w>
+</rdg>
+</app></p></div></body></text></TEI>

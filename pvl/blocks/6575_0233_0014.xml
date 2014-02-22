@@ -1,105 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>233, 14</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="14">
-            <p>
-               <app>
-                  <lem>
-                     <w>а</w>
-                     <w>на</w>
-                     <w>ономь</w>
-                     <w>свѣтѣ</w>
-                     <w>приимуть</w>
-                     <w>муку,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>а</w>
-                        <w>на</w>
-                        <w>ѡномь</w>
-                        <w>свѣтѣ</w>
-                        <w>прииму<lb/>ть</w>
-                        <w>мк҃у</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>а</w>
-                        <w>на</w>
-                        <w>ѡном <lb/>
-                        </w>
-                        <w>свѣте</w>
-                        <w>приимоу<hi rend="sup">т</hi>·</w>
-                        <w>моукѹ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>а</w>
-                        <w>на</w>
-                        <w>ѡномь</w>
-                        <w>свѣте</w>
-                        <w>прїи<lb/>мѹть</w>
-                        <w>мѹкѹ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>а</w>
-                        <w>на</w>
-                        <w>ѡномъ</w>
-                        <w>свѣтѣ <lb/>
-                        </w>
-                        <w>приимуть</w>
-                        <w>муку·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>а</w>
-                        <w>онѡ<hi rend="sup">м</hi>
-                        </w>
-                        <w>свѣтѣ</w>
-                        <w>прїи<lb/>моу<hi rend="sup">т</hi>
-                        </w>
-                        <w>мѫкоу</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>а</w>
-                        <w>на</w>
-                        <w>ономь</w>
-                        <w>свѣтѣ</w>
-                        <w>приимуть</w>
-                        <w>муку</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>а</w>
-                        <w>на</w>
-                        <w>ономь</w>
-                        <w>свѣтѣ</w>
-                        <w>приимуть</w>
-                        <w>муку,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>а</w>
-                        <w>на</w>
-                        <w>ономь</w>
-                        <w>свѣтѣ</w>
-                        <w>приимуть</w>
-                        <w>муку,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>233, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="14"><p>
+<app>
+<lem wit="#lem">
+<w>а</w>
+<w>на</w>
+<w>ономь</w>
+<w>свѣтѣ</w>
+<w>приимуть</w>
+<w>муку,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>а</w>
+<w>на</w>
+<w>ѡномь</w>
+<w>свѣтѣ</w>
+<w>прииму<lb/>ть</w>
+<w>мк҃у</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>а</w>
+<w>на</w>
+<w>ѡном <lb/></w>
+
+<w>свѣте</w>
+<w>приимоу<hi rend="sup">т</hi>·</w>
+<w>моукѹ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>а</w>
+<w>на</w>
+<w>ѡномь</w>
+<w>свѣте</w>
+<w>прїи<lb/>мѹть</w>
+<w>мѹкѹ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>а</w>
+<w>на</w>
+<w>ѡномъ</w>
+<w>свѣтѣ <lb/></w>
+
+<w>приимуть</w>
+<w>муку·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>а</w>
+<w>онѡ<hi rend="sup">м</hi></w>
+<w>свѣтѣ</w>
+<w>прїи<lb/>моу<hi rend="sup">т</hi></w>
+<w>мѫкоу</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>а</w>
+<w>на</w>
+<w>ономь</w>
+<w>свѣтѣ</w>
+<w>приимуть</w>
+<w>муку</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>а</w>
+<w>на</w>
+<w>ономь</w>
+<w>свѣтѣ</w>
+<w>приимуть</w>
+<w>муку,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>а</w>
+<w>на</w>
+<w>ономь</w>
+<w>свѣтѣ</w>
+<w>приимуть</w>
+<w>муку,</w>
+</rdg>
+</app></p></div></body></text></TEI>

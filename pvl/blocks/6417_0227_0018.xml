@@ -1,120 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>227, 18</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="18">
-            <p>
-               <app>
-                  <lem>
-                     <w>послуша</w>
-                     <w>ихъ</w>
-                     <w>Володимиръ.</w>
-                     <w>Въ</w>
-                     <w>ту</w>
-                     <w>нощь</w>
-                     <w>посъла</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>послуша</w>
-                        <w>ихъ</w>
-                        <w>володи<lb/>меръ·</w>
-                        <w>и</w>
-                        <w>в</w>
-                        <w>ту</w>
-                        <w>нощь</w>
-                        <w>посла</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>послѹшавъ</w>
-                        <w>и<hi rend="sup">х</hi>·</w>
-                        <w>володимеръ·</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>в</w>
-                        <w>тоу</w>
-                        <w>нощь·</w>
-                        <w>сла</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>послѹшавь</w>
-                        <w>и<hi rend="sup">х</hi>
-                        </w>
-                        <w>володи<lb/>миръ·</w>
-                        <w>и</w>
-                        <w>в</w>
-                        <w>тѹ</w>
-                        <w>нощь</w>
-                        <w>посла</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>послуша</w>
-                        <w>ихъ</w>
-                        <w>воло<lb/>димерь·</w>
-                        <w>в</w>
-                        <w>ту</w>
-                        <w>нощь</w>
-                        <w>посла</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>послоуша</w>
-                        <w>и<hi rend="sup">х</hi>
-                        </w>
-                        <w>вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>меръ.</w>
-                        <w>в</w>
-                        <w>тоу</w>
-                        <w>нѡщь</w>
-                        <w>посла</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>послуша</w>
-                        <w>ихъ</w>
-                        <w>Володимеръ,</w>
-                        <w>и</w>
-                        <w>в</w>
-                        <w>ту</w>
-                        <w>нощь</w>
-                        <w>посла</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>послуша</w>
-                        <w>ихъ</w>
-                        <w>Володимеръ.</w>
-                        <w>И</w>
-                        <w>въ</w>
-                        <w>ту</w>
-                        <w>нощь</w>
-                        <w>посъла</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>послуша</w>
-                        <w>ихъ</w>
-                        <w>Володимеръ,</w>
-                        <w>и</w>
-                        <w>в</w>
-                        <w>ту</w>
-                        <w>нощь</w>
-                        <w>посла</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>227, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="18"><p>
+<app>
+<lem wit="#lem">
+<w>послуша</w>
+<w>ихъ</w>
+<w>Володимиръ.</w>
+<w>Въ</w>
+<w>ту</w>
+<w>нощь</w>
+<w>посъла</w>
+</lem>
+
+<rdg wit="#lav">
+<w>послуша</w>
+<w>ихъ</w>
+<w>володи<lb/>меръ·</w>
+<w>и</w>
+<w>в</w>
+<w>ту</w>
+<w>нощь</w>
+<w>посла</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>послѹшавъ</w>
+<w>и<hi rend="sup">х</hi>·</w>
+<w>володимеръ·</w>
+<w>и <lb/></w>
+
+<w>в</w>
+<w>тоу</w>
+<w>нощь·</w>
+<w>сла</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>послѹшавь</w>
+<w>и<hi rend="sup">х</hi></w>
+<w>володи<lb/>миръ·</w>
+<w>и</w>
+<w>в</w>
+<w>тѹ</w>
+<w>нощь</w>
+<w>посла</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>послуша</w>
+<w>ихъ</w>
+<w>воло<lb/>димерь·</w>
+<w>в</w>
+<w>ту</w>
+<w>нощь</w>
+<w>посла</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>послоуша</w>
+<w>и<hi rend="sup">х</hi></w>
+<w>вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>меръ.</w>
+<w>в</w>
+<w>тоу</w>
+<w>нѡщь</w>
+<w>посла</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>послуша</w>
+<w>ихъ</w>
+<w>Володимеръ,</w>
+<w>и</w>
+<w>в</w>
+<w>ту</w>
+<w>нощь</w>
+<w>посла</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>послуша</w>
+<w>ихъ</w>
+<w>Володимеръ.</w>
+<w>И</w>
+<w>въ</w>
+<w>ту</w>
+<w>нощь</w>
+<w>посъла</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>послуша</w>
+<w>ихъ</w>
+<w>Володимеръ,</w>
+<w>и</w>
+<w>в</w>
+<w>ту</w>
+<w>нощь</w>
+<w>посла</w>
+</rdg>
+</app></p></div></body></text></TEI>

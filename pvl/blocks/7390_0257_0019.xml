@@ -1,106 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>257, 19</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="19">
-            <p>
-               <app>
-                  <lem>
-                     <w>брата</w>
-                     <w>твоего</w>
-                     <w>Яропълка,</w>
-                     <w>а</w>
-                     <w>нынѣ</w>
-                     <w>мыслить</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>брат<add place="margin">а</add>
-                        </w>
-                        <w>твоѥго</w>
-                        <w>ярополка·</w>
-                        <w>а</w>
-                        <w>ны<lb/>нѣ</w>
-                        <w>мыслить</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>бра<hi rend="sup">т</hi>
-                        </w>
-                        <w>твоего</w>
-                        <w>я<lb/>рополка·</w>
-                        <w>а</w>
-                        <w>н҃нѣ</w>
-                        <w>мыслить·</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>брата</w>
-                        <w>твоего</w>
-                        <w>яропол′ка·</w>
-                        <w>а</w>
-                        <w>н′нѣ</w>
-                        <w>мы·̏<lb/>слитъ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>брата</w>
-                        <w>твоего</w>
-                        <w>яро<lb/>полка·</w>
-                        <w>а</w>
-                        <w>ныны</w>
-                        <w>мыслить</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>брата <lb/>
-                        </w>
-                        <w>твоего</w>
-                        <w>яропол′ка.</w>
-                        <w>а</w>
-                        <w>нн҃ѣ</w>
-                        <w>мысли<hi rend="sup">т</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>брата</w>
-                        <w>твоего</w>
-                        <w>Ярополка?</w>
-                        <w>а</w>
-                        <w>нынѣ</w>
-                        <w>мыслить</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>брата</w>
-                        <w>твоего</w>
-                        <w>Яропълка,</w>
-                        <w>а</w>
-                        <w>нынѣ</w>
-                        <w>мыслить</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>брата</w>
-                        <w>твоего</w>
-                        <w>Ярополка,</w>
-                        <w>а</w>
-                        <w>нынѣ</w>
-                        <w>мыслить</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>257, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="19"><p>
+<app>
+<lem wit="#lem">
+<w>брата</w>
+<w>твоего</w>
+<w>Яропълка,</w>
+<w>а</w>
+<w>нынѣ</w>
+<w>мыслить</w>
+</lem>
+
+<rdg wit="#lav">
+<w>брат<milestone unit="add" n="start" place="margin"/>а<milestone unit="add" n="end"/></w>
+<w>твоѥго</w>
+<w>ярополка·</w>
+<w>а</w>
+<w>ны<lb/>нѣ</w>
+<w>мыслить</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>бра<hi rend="sup">т</hi></w>
+<w>твоего</w>
+<w>я<lb/>рополка·</w>
+<w>а</w>
+<w>н҃нѣ</w>
+<w>мыслить·</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>брата</w>
+<w>твоего</w>
+<w>яропол′ка·</w>
+<w>а</w>
+<w>н′нѣ</w>
+<w>мы·̏<lb/>слитъ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>брата</w>
+<w>твоего</w>
+<w>яро<lb/>полка·</w>
+<w>а</w>
+<w>ныны</w>
+<w>мыслить</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>брата <lb/></w>
+
+<w>твоего</w>
+<w>яропол′ка.</w>
+<w>а</w>
+<w>нн҃ѣ</w>
+<w>мысли<hi rend="sup">т</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>брата</w>
+<w>твоего</w>
+<w>Ярополка?</w>
+<w>а</w>
+<w>нынѣ</w>
+<w>мыслить</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>брата</w>
+<w>твоего</w>
+<w>Яропълка,</w>
+<w>а</w>
+<w>нынѣ</w>
+<w>мыслить</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>брата</w>
+<w>твоего</w>
+<w>Ярополка,</w>
+<w>а</w>
+<w>нынѣ</w>
+<w>мыслить</w>
+</rdg>
+</app></p></div></body></text></TEI>

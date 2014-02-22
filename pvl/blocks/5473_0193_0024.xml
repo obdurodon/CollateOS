@@ -1,126 +1,106 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>193, 24</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="24">
-            <p>
-               <app>
-                  <lem>
-                     <w>печеру,</w>
-                     <w>ту</w>
-                     <w>ся</w>
-                     <w>въсели.</w>
-                     <w>И</w>
-                     <w>есть</w>
-                     <w>ту</w>
-                     <w>манастырь</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>печеру</w>
-                        <w>ту</w>
-                        <w>сѧ</w>
-                        <w>всели.</w>
-                        <w>есть <lb/>
-                        </w>
-                        <w>ту</w>
-                        <w>манастырь</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>печероу</w>
-                        <w>и</w>
-                        <w>всели</w>
-                        <w>сѧ</w>
-                        <w>тоу.</w>
-                        <w>и</w>
-                        <w>есть</w>
-                        <w>тѹ <lb/>
-                        </w>
-                        <w>монастырь.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>пещерѹ</w>
-                        <w>и</w>
-                        <w>всели</w>
-                        <w>сѧ</w>
-                        <w>тѹ. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>есть</w>
-                        <w>тѹ</w>
-                        <w>монастырь</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>пещеру <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>ту</w>
-                        <w>всели</w>
-                        <w>сѧ.</w>
-                        <w>и</w>
-                        <w>есть</w>
-                        <w>манасты<lb/>рь</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>печероу <lb/>
-                        </w>
-                        <w>тоу</w>
-                        <w>всели</w>
-                        <w>сѧ.</w>
-                        <w>и</w>
-                        <w>е<hi rend="sup">с</hi>
-                        </w>
-                        <w>манастырь</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>печеру,</w>
-                        <w>ту</w>
-                        <w>ся</w>
-                        <w>всели;</w>
-                        <w>и</w>
-                        <w>есть</w>
-                        <w>ту</w>
-                        <w>манастырь</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>печеру,</w>
-                        <w>ту</w>
-                        <w>ся</w>
-                        <w>въсели;</w>
-                        <w>и</w>
-                        <w>есть</w>
-                        <w>ту</w>
-                        <w>манастырь</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>печеру,</w>
-                        <w>ту</w>
-                        <w>ся</w>
-                        <w>всели.</w>
-                        <w>И</w>
-                        <w>есть</w>
-                        <w>ту</w>
-                        <w>манастырь</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>193, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="24"><p>
+<app>
+<lem wit="#lem">
+<w>печеру,</w>
+<w>ту</w>
+<w>ся</w>
+<w>въсели.</w>
+<w>И</w>
+<w>есть</w>
+<w>ту</w>
+<w>манастырь</w>
+</lem>
+
+<rdg wit="#lav">
+<w>печеру</w>
+<w>ту</w>
+<w>сѧ</w>
+<w>всели.</w>
+<w>есть <lb/></w>
+
+<w>ту</w>
+<w>манастырь</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>печероу</w>
+<w>и</w>
+<w>всели</w>
+<w>сѧ</w>
+<w>тоу.</w>
+<w>и</w>
+<w>есть</w>
+<w>тѹ <lb/></w>
+
+<w>монастырь.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>пещерѹ</w>
+<w>и</w>
+<w>всели</w>
+<w>сѧ</w>
+<w>тѹ. <lb/></w>
+
+<w>и</w>
+<w>есть</w>
+<w>тѹ</w>
+<w>монастырь</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>пещеру <lb/></w>
+
+<w>и</w>
+<w>ту</w>
+<w>всели</w>
+<w>сѧ.</w>
+<w>и</w>
+<w>есть</w>
+<w>манасты<lb/>рь</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>печероу <lb/></w>
+
+<w>тоу</w>
+<w>всели</w>
+<w>сѧ.</w>
+<w>и</w>
+<w>е<hi rend="sup">с</hi></w>
+<w>манастырь</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>печеру,</w>
+<w>ту</w>
+<w>ся</w>
+<w>всели;</w>
+<w>и</w>
+<w>есть</w>
+<w>ту</w>
+<w>манастырь</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>печеру,</w>
+<w>ту</w>
+<w>ся</w>
+<w>въсели;</w>
+<w>и</w>
+<w>есть</w>
+<w>ту</w>
+<w>манастырь</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>печеру,</w>
+<w>ту</w>
+<w>ся</w>
+<w>всели.</w>
+<w>И</w>
+<w>есть</w>
+<w>ту</w>
+<w>манастырь</w>
+</rdg>
+</app></p></div></body></text></TEI>

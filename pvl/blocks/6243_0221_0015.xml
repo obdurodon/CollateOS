@@ -1,105 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>221, 15</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="15">
-            <p>
-               <app>
-                  <lem>
-                     <w>водною</w>
-                     <w>и</w>
-                     <w>гладъмь.</w>
-                     <w>И</w>
-                     <w>присълаша</w>
-                     <w>Търци</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>жажею</w>
-                        <w>и</w>
-                        <w>го·<lb/>лодомъ·</w>
-                        <w>и</w>
-                        <w>прислаша</w>
-                        <w>торци</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>водною·</w>
-                        <w>и</w>
-                        <w>гладомъ·</w>
-                        <w>и</w>
-                        <w>при<lb/>слаша</w>
-                        <w>торци·</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>водною·</w>
-                        <w>и</w>
-                        <w>гла<lb/>домъ·</w>
-                        <w>и</w>
-                        <w>прислаша</w>
-                        <w>торци</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>водною <lb/>
-                        </w>
-                        <w>гладомъ·</w>
-                        <w>ї</w>
-                        <w>прислаша</w>
-                        <w>то<lb/>р<sic>ъ</sic>ци</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>водною</w>
-                        <w>и</w>
-                        <w>гладо<hi rend="sup">м</hi>,</w>
-                        <w>и</w>
-                        <w>прислаша</w>
-                        <w>торци</w>
-                        <w>
-                           <pb n="100v"/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>жажею</w>
-                        <w>и</w>
-                        <w>голодомъ.</w>
-                        <w>И</w>
-                        <w>прислаша</w>
-                        <w>Торци</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>жажею</w>
-                        <w>и</w>
-                        <w>гладъмь.</w>
-                        <w>И</w>
-                        <w>присълаша</w>
-                        <w>Търци</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>жажею</w>
-                        <w>и</w>
-                        <w>голодомъ.</w>
-                        <w>И</w>
-                        <w>прислаша</w>
-                        <w>торци</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>221, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="15"><p>
+<app>
+<lem wit="#lem">
+<w>водною</w>
+<w>и</w>
+<w>гладъмь.</w>
+<w>И</w>
+<w>присълаша</w>
+<w>Търци</w>
+</lem>
+
+<rdg wit="#lav">
+<w>жажею</w>
+<w>и</w>
+<w>го·<lb/>лодомъ·</w>
+<w>и</w>
+<w>прислаша</w>
+<w>торци</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>водною·</w>
+<w>и</w>
+<w>гладомъ·</w>
+<w>и</w>
+<w>при<lb/>слаша</w>
+<w>торци·</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>водною·</w>
+<w>и</w>
+<w>гла<lb/>домъ·</w>
+<w>и</w>
+<w>прислаша</w>
+<w>торци</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>водною <lb/></w>
+
+<w>гладомъ·</w>
+<w>ї</w>
+<w>прислаша</w>
+<w>то<lb/>р<milestone unit="sic" n="start"/>ъ<milestone unit="sic" n="end"/>ци</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>водною</w>
+<w>и</w>
+<w>гладо<hi rend="sup">м</hi>,</w>
+<w>и</w>
+<w>прислаша</w>
+<w>торци <pb n="100v"/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>жажею</w>
+<w>и</w>
+<w>голодомъ.</w>
+<w>И</w>
+<w>прислаша</w>
+<w>Торци</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>жажею</w>
+<w>и</w>
+<w>гладъмь.</w>
+<w>И</w>
+<w>присълаша</w>
+<w>Търци</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>жажею</w>
+<w>и</w>
+<w>голодомъ.</w>
+<w>И</w>
+<w>прислаша</w>
+<w>торци</w>
+</rdg>
+</app></p></div></body></text></TEI>

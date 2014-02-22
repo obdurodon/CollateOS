@@ -1,118 +1,97 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>277, 22</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="22">
-            <p>
-               <app>
-                  <lem>
-                     <w>вину</w>
-                     <w>река:</w>
-                     <w>“Не</w>
-                     <w>зъдравлю”.</w>
-                     <w>Володимиръ</w>
-                     <w>же</w>
-                     <w>цѣловавъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>вину</w>
-                        <w>река</w>
-                        <w>не</w>
-                        <w>д<hi rend="sup">с</hi>равь<lb/>лю·</w>
-                        <w>володимеръ</w>
-                        <w>же</w>
-                        <w>цѣловавъ</w>
-                        <w>
-                           <pb n="93d"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>винѹ</w>
-                        <w>река</w>
-                        <w>не</w>
-                        <w>зр<hi rend="sup">д</hi>авлю·</w>
-                        <w>володимер</w>
-                        <w>же <lb/>
-                        </w>
-                        <w>целовавъ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>винѹ</w>
-                        <w>река</w>
-                        <w>не <lb/>
-                        </w>
-                        <w>зр<hi rend="sup">д</hi>авлю·</w>
-                        <w>володимиръ</w>
-                        <w>же</w>
-                        <w>целовавъ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>вину</w>
-                        <w>река</w>
-                        <w>не</w>
-                        <w>здоровлю· <lb/>
-                        </w>
-                        <w>володимерь</w>
-                        <w>же</w>
-                        <w>цѣловавъ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>винѹ <lb/>
-                        </w>
-                        <w>река.</w>
-                        <w>не</w>
-                        <w>здоровлю.</w>
-                        <w>вол<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>мер</w>
-                        <w>же</w>
-                        <w>цѣловавъ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>вину</w>
-                        <w>река:</w>
-                        <w>“не</w>
-                        <w>сдравьлю”.</w>
-                        <w>Володимеръ</w>
-                        <w>же</w>
-                        <w>цѣловавъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>вину</w>
-                        <w>река:</w>
-                        <w>“не</w>
-                        <w>съдравлю”.</w>
-                        <w>Володимеръ</w>
-                        <w>же,</w>
-                        <w>цѣловавъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>вину</w>
-                        <w>река:</w>
-                        <w>“Не</w>
-                        <w>сдравьлю”.</w>
-                        <w>Володимеръ</w>
-                        <w>же</w>
-                        <w>цѣловавъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>277, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="22"><p>
+<app>
+<lem wit="#lem">
+<w>вину</w>
+<w>река:</w>
+<w>“Не</w>
+<w>зъдравлю”.</w>
+<w>Володимиръ</w>
+<w>же</w>
+<w>цѣловавъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>вину</w>
+<w>река</w>
+<w>не</w>
+<w>д<hi rend="sup">с</hi>равь<lb/>лю·</w>
+<w>володимеръ</w>
+<w>же</w>
+<w>цѣловавъ <pb n="93d"/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>винѹ</w>
+<w>река</w>
+<w>не</w>
+<w>зр<hi rend="sup">д</hi>авлю·</w>
+<w>володимер</w>
+<w>же <lb/></w>
+
+<w>целовавъ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>винѹ</w>
+<w>река</w>
+<w>не <lb/></w>
+
+<w>зр<hi rend="sup">д</hi>авлю·</w>
+<w>володимиръ</w>
+<w>же</w>
+<w>целовавъ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>вину</w>
+<w>река</w>
+<w>не</w>
+<w>здоровлю· <lb/></w>
+
+<w>володимерь</w>
+<w>же</w>
+<w>цѣловавъ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>винѹ <lb/></w>
+
+<w>река.</w>
+<w>не</w>
+<w>здоровлю.</w>
+<w>вол<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>мер</w>
+<w>же</w>
+<w>цѣловавъ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>вину</w>
+<w>река:</w>
+<w>“не</w>
+<w>сдравьлю”.</w>
+<w>Володимеръ</w>
+<w>же</w>
+<w>цѣловавъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>вину</w>
+<w>река:</w>
+<w>“не</w>
+<w>съдравлю”.</w>
+<w>Володимеръ</w>
+<w>же,</w>
+<w>цѣловавъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>вину</w>
+<w>река:</w>
+<w>“Не</w>
+<w>сдравьлю”.</w>
+<w>Володимеръ</w>
+<w>же</w>
+<w>цѣловавъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

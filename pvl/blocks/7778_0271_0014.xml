@@ -1,106 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>271, 14</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="14">
-            <p>
-               <app>
-                  <lem>
-                     <w>а</w>
-                     <w>Бонякъ</w>
-                     <w>гънаше</w>
-                     <w>сѣка</w>
-                     <w>
-                        <choice>
-                           <seg>въ тылъ</seg>
-                           <seg>у
-                    плещи</seg>
-                        </choice>;</w>
-                     <w>а</w>
-                     <w>Алтунопа</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>и</w>
-                        <w>бонѧкъ</w>
-                        <w>погна<lb/>ше</w>
-                        <w>сѣка</w>
-                        <w>в</w>
-                        <w>тылъ·</w>
-                        <w>а</w>
-                        <w>алтунопа</w>
-                     </rdg>
-                     <rdg wit="#rad"/>
-                     <rdg wit="#aka"/>
-                     <rdg wit="#ipa">
-                        <w>а</w>
-                        <w>бонѧ<lb/>къ</w>
-                        <w>гнаше</w>
-                        <w>сѣка</w>
-                        <w>оу</w>
-                        <w>плещи·</w>
-                        <w>алту<lb/>нопа</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>а</w>
-                        <w>бонѧкь</w>
-                        <w>гнаше</w>
-                        <w>сѣка <lb/>
-                        </w>
-                        <w>оу</w>
-                        <w>плещи.</w>
-                        <w>а</w>
-                        <w>алтоунопа</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>и</w>
-                        <w>Бонякъ</w>
-                        <w>погнаше</w>
-                        <w>сѣкы</w>
-                        <w>в</w>
-                        <w>тылъ,</w>
-                        <w>а</w>
-                        <w>Алтунопа</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>и</w>
-                        <w>Бонякъ</w>
-                        <w>погъна,</w>
-                        <w>сѣка</w>
-                        <w>въ</w>
-                        <w>тылъ;</w>
-                        <w>а</w>
-                        <w>Алтунопа</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>и</w>
-                        <w>Бонякъ</w>
-                        <w>погнаше</w>
-                        <w>сѣка</w>
-                        <w>в</w>
-                        <w>тылъ,</w>
-                        <w>а</w>
-                        <w>Алтунопа</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="14"><p>
+<app>
+<lem wit="#lem">
+<w>а</w>
+<w>Бонякъ</w>
+<w>гънаше</w>
+<w>сѣка</w>
+<w><choice><seg>въ тылъ</seg><seg>у
+                    плещи</seg></choice>;</w>
+<w>а</w>
+<w>Алтунопа</w>
+</lem>
+
+<rdg wit="#lav">
+<w>и</w>
+<w>бонѧкъ</w>
+<w>погна<lb/>ше</w>
+<w>сѣка</w>
+<w>в</w>
+<w>тылъ·</w>
+<w>а</w>
+<w>алтунопа</w>
+
+</rdg>
+
+<rdg wit="#rad">
+</rdg>
+
+<rdg wit="#aka">
+</rdg>
+
+<rdg wit="#ipa">
+<w>а</w>
+<w>бонѧ<lb/>къ</w>
+<w>гнаше</w>
+<w>сѣка</w>
+<w>оу</w>
+<w>плещи·</w>
+<w>алту<lb/>нопа</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>а</w>
+<w>бонѧкь</w>
+<w>гнаше</w>
+<w>сѣка <lb/></w>
+
+<w>оу</w>
+<w>плещи.</w>
+<w>а</w>
+<w>алтоунопа</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>и</w>
+<w>Бонякъ</w>
+<w>погнаше</w>
+<w>сѣкы</w>
+<w>в</w>
+<w>тылъ,</w>
+<w>а</w>
+<w>Алтунопа</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>и</w>
+<w>Бонякъ</w>
+<w>погъна,</w>
+<w>сѣка</w>
+<w>въ</w>
+<w>тылъ;</w>
+<w>а</w>
+<w>Алтунопа</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>и</w>
+<w>Бонякъ</w>
+<w>погнаше</w>
+<w>сѣка</w>
+<w>в</w>
+<w>тылъ,</w>
+<w>а</w>
+<w>Алтунопа</w>
+</rdg>
+</app></p></div></body></text></TEI>

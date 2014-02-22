@@ -1,91 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>15, 8</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="8">
-            <p>
-               <app>
-                  <lem>
-                     <w>человѣкы</w>
-                     <w>ядуще</w>
-                     <w>и</w>
-                     <w>страньствующихъ</w>
-                     <w>убиваху,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>чл҃в<sic>къ</sic>
-                        </w>
-                        <w>ядуще</w>
-                        <w>и</w>
-                        <w>страньствующихъ <lb/>
-                        </w>
-                        <w>оубиваху.</w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad">
-                        <w>чл҃кы</w>
-                        <w>ядоуще.</w>
-                        <w>странъствоующи<hi rend="sup">х</hi>
-                        </w>
-                        <w>оуби<lb/>вахоу.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>чл҃вкы</w>
-                        <w>ядѹще.</w>
-                        <w>странь<lb/>ствѹющи<hi rend="sup">х</hi>
-                        </w>
-                        <w>оубивахѹ.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>чл҃вкы</w>
-                        <w>ядуще. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>страньствующихъ</w>
-                        <w>оу<lb/>биваху.</w>
-                     </rdg>
-                     <rdg wit="#xle"/>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>человѣкъ</w>
-                        <w>ядуще</w>
-                        <w>и</w>
-                        <w>страньствующихъ</w>
-                        <w>убиваху,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>человѣкы</w>
-                        <w>ядуще,</w>
-                        <w>и</w>
-                        <w>страньствующихъ</w>
-                        <w>убиваху,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>человѣкъ</w>
-                        <w>ядуще</w>
-                        <w>и</w>
-                        <w>страньствующихъ</w>
-                        <w>убиваху,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>15, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="8"><p>
+<app>
+<lem wit="#lem">
+<w>человѣкы</w>
+<w>ядуще</w>
+<w>и</w>
+<w>страньствующихъ</w>
+<w>убиваху,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>чл҃в<milestone unit="sic" n="start"/>къ<milestone unit="sic" n="end"/></w>
+<w>ядуще</w>
+<w>и</w>
+<w>страньствующихъ <lb/></w>
+
+<w>оубиваху.</w>
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+<w>чл҃кы</w>
+<w>ядоуще.</w>
+<w>странъствоующи<hi rend="sup">х</hi></w>
+<w>оуби<lb/>вахоу.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>чл҃вкы</w>
+<w>ядѹще.</w>
+<w>странь<lb/>ствѹющи<hi rend="sup">х</hi></w>
+<w>оубивахѹ.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>чл҃вкы</w>
+<w>ядуще. <lb/></w>
+
+<w>и</w>
+<w>страньствующихъ</w>
+<w>оу<lb/>биваху.</w>
+</rdg>
+
+<rdg wit="#xle">
+</rdg>
+
+<rdg wit="#bych">
+<w>человѣкъ</w>
+<w>ядуще</w>
+<w>и</w>
+<w>страньствующихъ</w>
+<w>убиваху,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>человѣкы</w>
+<w>ядуще,</w>
+<w>и</w>
+<w>страньствующихъ</w>
+<w>убиваху,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>человѣкъ</w>
+<w>ядуще</w>
+<w>и</w>
+<w>страньствующихъ</w>
+<w>убиваху,</w>
+</rdg>
+</app></p></div></body></text></TEI>

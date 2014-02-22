@@ -1,126 +1,108 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>105, 11</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="11">
-            <p>
-               <app>
-                  <lem>
-                     <w>пьрвое</w>
-                     <w>водою,</w>
-                     <w>якоже</w>
-                     <w>Гедеонъ</w>
-                     <w>прообрази</w>
-                     <w>по</w>
-                     <w>семь.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>первое</w>
-                        <w>водою.</w>
-                        <w>якоже</w>
-                        <w>гедивонъ</w>
-                        <w>пре<lb/>ѡбрази</w>
-                        <w>по</w>
-                        <w>семь.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>первое</w>
-                        <w>водою.</w>
-                        <w>якоже <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>гедеѡнъ</w>
-                        <w>преѡбрази</w>
-                        <w>по</w>
-                        <w>семъ.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>пе<lb/>рвое</w>
-                        <w>водою.</w>
-                        <w>якоже</w>
-                        <w>и</w>
-                        <w>гедиѡнъ</w>
-                        <w>преѡбрази</w>
-                        <w>по <lb/>
-                        </w>
-                        <w>семъ.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#ipa"/>
-                     <rdg wit="#xle">
-                        <w>пръвое</w>
-                        <w>водою. <lb/>
-                        </w>
-                        <w>яко<hi rend="sup">ж</hi>
-                        </w>
-                        <w>гедеѡ<hi rend="sup">н</hi>
-                        </w>
-                        <w>проѡбраѕи.</w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>якоже</w>
-                        <w>и</w>
-                        <w>гедеонъ</w>
-                        <w>прообрази</w>
-                        <w>по</w>
-                        <w>семь</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>якоже</w>
-                        <w>гедеонъ</w>
-                        <w>прообрази</w>
-                        <w>по</w>
-                        <w>семъ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>первое</w>
-                        <w>водою,</w>
-                        <w>якоже</w>
-                        <w>Гедивонъ</w>
-                        <w>преобрази</w>
-                        <w>посемь.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>пьрвое</w>
-                        <w>водою,</w>
-                        <w>якоже</w>
-                        <w>же</w>
-                        <w>и</w>
-                        <w>Гедеонъ</w>
-                        <w>прообрази</w>
-                        <w>по</w>
-                        <w>семь.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>первое</w>
-                        <w>водою,</w>
-                        <w>яко</w>
-                        <w>же</w>
-                        <w>Гедивонъ</w>
-                        <w>преобрази</w>
-                        <w>посемь.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>105, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="11"><p>
+<app>
+<lem wit="#lem">
+<w>пьрвое</w>
+<w>водою,</w>
+<w>якоже</w>
+<w>Гедеонъ</w>
+<w>прообрази</w>
+<w>по</w>
+<w>семь.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>первое</w>
+<w>водою.</w>
+<w>якоже</w>
+<w>гедивонъ</w>
+<w>пре<lb/>ѡбрази</w>
+<w>по</w>
+<w>семь.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>первое</w>
+<w>водою.</w>
+<w>якоже <lb/></w>
+
+<w>и</w>
+<w>гедеѡнъ</w>
+<w>преѡбрази</w>
+<w>по</w>
+<w>семъ.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>пе<lb/>рвое</w>
+<w>водою.</w>
+<w>якоже</w>
+<w>и</w>
+<w>гедиѡнъ</w>
+<w>преѡбрази</w>
+<w>по <lb/></w>
+
+<w>семъ.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#ipa">
+</rdg>
+
+<rdg wit="#xle">
+<w>пръвое</w>
+<w>водою. <lb/></w>
+
+<w>яко<hi rend="sup">ж</hi></w>
+<w>гедеѡ<hi rend="sup">н</hi></w>
+<w>проѡбраѕи.</w>
+</rdg>
+
+<rdg wit="#kom">
+<w>якоже</w>
+<w>и</w>
+<w>гедеонъ</w>
+<w>прообрази</w>
+<w>по</w>
+<w>семь</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>якоже</w>
+<w>гедеонъ</w>
+<w>прообрази</w>
+<w>по</w>
+<w>семъ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>первое</w>
+<w>водою,</w>
+<w>якоже</w>
+<w>Гедивонъ</w>
+<w>преобрази</w>
+<w>посемь.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>пьрвое</w>
+<w>водою,</w>
+<w>якоже</w>
+<w>же</w>
+<w>и</w>
+<w>Гедеонъ</w>
+<w>прообрази</w>
+<w>по</w>
+<w>семь.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>первое</w>
+<w>водою,</w>
+<w>яко</w>
+<w>же</w>
+<w>Гедивонъ</w>
+<w>преобрази</w>
+<w>посемь.</w>
+</rdg>
+</app></p></div></body></text></TEI>

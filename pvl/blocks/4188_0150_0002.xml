@@ -1,125 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>150, 2</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="2">
-            <p>
-               <app>
-                  <lem>
-                     <w>боляры</w>
-                     <w>своя,</w>
-                     <w>и</w>
-                     <w>бысть</w>
-                     <w>мятежь</w>
-                     <w>въ</w>
-                     <w>нихъ.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>боя<lb/>ры</w>
-                        <w>своя.</w>
-                        <w>и</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>в</w>
-                        <w>нихъ</w>
-                        <w>мѧтежь·:· <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>бояре</w>
-                        <w>своа.</w>
-                        <w>и</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>в</w>
-                        <w>ни<hi rend="sup">х</hi>
-                        </w>
-                        <w>мѧтежь:- <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>бояры</w>
-                        <w>своѧ.</w>
-                        <w>и</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>в</w>
-                        <w>ни<hi rend="sup">х</hi>
-                        </w>
-                        <w>мѧтежь:· <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>бо<lb/>яры</w>
-                        <w>своя.</w>
-                        <w>и</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>мѧтежь.</w>
-                        <w>вь <lb/>
-                        </w>
-                        <w>нихъ·:· <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>боѧре</w>
-                        <w>своѧ.</w>
-                        <w>и</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>мѧте<hi rend="sup">ж</hi>
-                        </w>
-                        <w>въ</w>
-                        <w>ни<hi rend="sup">х</hi>. <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>бояры</w>
-                        <w>своя,</w>
-                        <w>и</w>
-                        <w>бысть</w>
-                        <w>в</w>
-                        <w>нихъ</w>
-                        <w>мятежь.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>боляры</w>
-                        <w>своя,</w>
-                        <w>и</w>
-                        <w>бысть</w>
-                        <w>въ</w>
-                        <w>нихъ</w>
-                        <w>мятежь.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>бояры</w>
-                        <w>своя,</w>
-                        <w>и</w>
-                        <w>бысть</w>
-                        <w>в</w>
-                        <w>нихъ</w>
-                        <w>мятежь.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>150, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="2"><p>
+<app>
+<lem wit="#lem">
+<w>боляры</w>
+<w>своя,</w>
+<w>и</w>
+<w>бысть</w>
+<w>мятежь</w>
+<w>въ</w>
+<w>нихъ.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>боя<lb/>ры</w>
+<w>своя.</w>
+<w>и</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>в</w>
+<w>нихъ</w>
+<w>мѧтежь·:· <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>бояре</w>
+<w>своа.</w>
+<w>и</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>в</w>
+<w>ни<hi rend="sup">х</hi></w>
+<w>мѧтежь:- <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>бояры</w>
+<w>своѧ.</w>
+<w>и</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>в</w>
+<w>ни<hi rend="sup">х</hi></w>
+<w>мѧтежь:· <lb/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>бо<lb/>яры</w>
+<w>своя.</w>
+<w>и</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>мѧтежь.</w>
+<w>вь <lb/></w>
+
+<w>нихъ·:· <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>боѧре</w>
+<w>своѧ.</w>
+<w>и</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>мѧте<hi rend="sup">ж</hi></w>
+<w>въ</w>
+<w>ни<hi rend="sup">х</hi>. <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>бояры</w>
+<w>своя,</w>
+<w>и</w>
+<w>бысть</w>
+<w>в</w>
+<w>нихъ</w>
+<w>мятежь.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>боляры</w>
+<w>своя,</w>
+<w>и</w>
+<w>бысть</w>
+<w>въ</w>
+<w>нихъ</w>
+<w>мятежь.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>бояры</w>
+<w>своя,</w>
+<w>и</w>
+<w>бысть</w>
+<w>в</w>
+<w>нихъ</w>
+<w>мятежь.</w>
+</rdg>
+</app></p></div></body></text></TEI>

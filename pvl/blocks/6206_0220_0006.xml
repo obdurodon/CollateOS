@@ -1,100 +1,80 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>220, 6</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="6">
-            <p>
-               <app>
-                  <lem>
-                     <w>ставъшимъ</w>
-                     <w>межи</w>
-                     <w>валъма,</w>
-                     <w>поставиша</w>
-                     <w>стяги</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ставшимъ</w>
-                        <w>ме<lb/>жи</w>
-                        <w>валомъ·</w>
-                        <w>поставиша</w>
-                        <w>стѧ<lb/>ги</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ставшимъ</w>
-                        <w>межи</w>
-                        <w>валома.</w>
-                        <w>и</w>
-                        <w>поставиша</w>
-                        <w>стѧги <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ставши<lb/>мъ</w>
-                        <w>межи</w>
-                        <w>валома·</w>
-                        <w>и</w>
-                        <w>поставиша</w>
-                        <w>стѧгы</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ставшимъ</w>
-                        <w>межи <lb/>
-                        </w>
-                        <w>валома·</w>
-                        <w>ї</w>
-                        <w>поставиша</w>
-                        <w>стѧ<lb/>ги</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ставши<hi rend="sup">м</hi>
-                        </w>
-                        <w>межи</w>
-                        <w>валома.</w>
-                        <w>и</w>
-                        <w>поста<lb/>виша</w>
-                        <w>стѧги</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>ставшимъ</w>
-                        <w>межи</w>
-                        <w>валома,</w>
-                        <w>поставиша</w>
-                        <w>стяги</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>ставъшемъ</w>
-                        <w>межи</w>
-                        <w>валъма,</w>
-                        <w>поставиша</w>
-                        <w>стяги</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>ставшимъ</w>
-                        <w>межи</w>
-                        <w>валома,</w>
-                        <w>поставиша</w>
-                        <w>стяги</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>220, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="6"><p>
+<app>
+<lem wit="#lem">
+<w>ставъшимъ</w>
+<w>межи</w>
+<w>валъма,</w>
+<w>поставиша</w>
+<w>стяги</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ставшимъ</w>
+<w>ме<lb/>жи</w>
+<w>валомъ·</w>
+<w>поставиша</w>
+<w>стѧ<lb/>ги</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ставшимъ</w>
+<w>межи</w>
+<w>валома.</w>
+<w>и</w>
+<w>поставиша</w>
+<w>стѧги <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>ставши<lb/>мъ</w>
+<w>межи</w>
+<w>валома·</w>
+<w>и</w>
+<w>поставиша</w>
+<w>стѧгы</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ставшимъ</w>
+<w>межи <lb/></w>
+
+<w>валома·</w>
+<w>ї</w>
+<w>поставиша</w>
+<w>стѧ<lb/>ги</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ставши<hi rend="sup">м</hi></w>
+<w>межи</w>
+<w>валома.</w>
+<w>и</w>
+<w>поста<lb/>виша</w>
+<w>стѧги</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>ставшимъ</w>
+<w>межи</w>
+<w>валома,</w>
+<w>поставиша</w>
+<w>стяги</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>ставъшемъ</w>
+<w>межи</w>
+<w>валъма,</w>
+<w>поставиша</w>
+<w>стяги</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>ставшимъ</w>
+<w>межи</w>
+<w>валома,</w>
+<w>поставиша</w>
+<w>стяги</w>
+</rdg>
+</app></p></div></body></text></TEI>

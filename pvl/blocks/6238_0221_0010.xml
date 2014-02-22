@@ -1,101 +1,78 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>221, 10</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="10">
-            <p>
-               <app>
-                  <lem>
-                     <w>Половьцемъ</w>
-                     <w>же</w>
-                     <w>осѣдящемъ</w>
-                     <w>Търчьскыи,</w>
-                     <w>противящемъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>половце<lb/>мъ</w>
-                        <w>же</w>
-                        <w>ѡсѣдѧщемъ</w>
-                        <w>торцьскы<lb/>и·</w>
-                        <w>противѧщимъ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>половцем</w>
-                        <w>же</w>
-                        <w>ѡблежащимъ <lb/>
-                        </w>
-                        <w>торческии·</w>
-                        <w>и</w>
-                        <w>противѧщимъ<hi rend="sup">с</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>половцемь</w>
-                        <w>же</w>
-                        <w>ѡблежа<lb/>щимъ</w>
-                        <w>торьческии·</w>
-                        <w>и</w>
-                        <w>противѧщим</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>половцемь</w>
-                        <w>же <lb/>
-                        </w>
-                        <w>осѣдѧще</w>
-                        <w>торочьскии·</w>
-                        <w>про<lb/>тивѧщем</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>половце<hi rend="sup">м</hi>
-                        </w>
-                        <w>же</w>
-                        <w>сѣдѧще<hi rend="sup">м</hi>
-                        </w>
-                        <w>торческоу.</w>
-                        <w>противѧще<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Половцемъ</w>
-                        <w>же</w>
-                        <w>осѣдящемъ</w>
-                        <w>Торцьскый,</w>
-                        <w>противящимъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Половьцемъ</w>
-                        <w>же</w>
-                        <w>осѣдящемъ</w>
-                        <w>Търчьскыи,</w>
-                        <w>противящемъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Половцемъ</w>
-                        <w>же</w>
-                        <w>осѣдящемъ</w>
-                        <w>Торцьскый,</w>
-                        <w>противящимъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>221, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="10"><p>
+<app>
+<lem wit="#lem">
+<w>Половьцемъ</w>
+<w>же</w>
+<w>осѣдящемъ</w>
+<w>Търчьскыи,</w>
+<w>противящемъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>половце<lb/>мъ</w>
+<w>же</w>
+<w>ѡсѣдѧщемъ</w>
+<w>торцьскы<lb/>и·</w>
+<w>противѧщимъ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>половцем</w>
+<w>же</w>
+<w>ѡблежащимъ <lb/></w>
+
+<w>торческии·</w>
+<w>и</w>
+<w>противѧщимъ<hi rend="sup">с</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>половцемь</w>
+<w>же</w>
+<w>ѡблежа<lb/>щимъ</w>
+<w>торьческии·</w>
+<w>и</w>
+<w>противѧщим</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>половцемь</w>
+<w>же <lb/></w>
+
+<w>осѣдѧще</w>
+<w>торочьскии·</w>
+<w>про<lb/>тивѧщем</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>половце<hi rend="sup">м</hi></w>
+<w>же</w>
+<w>сѣдѧще<hi rend="sup">м</hi></w>
+<w>торческоу.</w>
+<w>противѧще<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Половцемъ</w>
+<w>же</w>
+<w>осѣдящемъ</w>
+<w>Торцьскый,</w>
+<w>противящимъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Половьцемъ</w>
+<w>же</w>
+<w>осѣдящемъ</w>
+<w>Търчьскыи,</w>
+<w>противящемъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Половцемъ</w>
+<w>же</w>
+<w>осѣдящемъ</w>
+<w>Торцьскый,</w>
+<w>противящимъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

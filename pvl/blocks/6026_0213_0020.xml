@@ -1,108 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>213, 20</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="20">
-            <p>
-               <app>
-                  <lem>
-                     <w>надежею</w>
-                     <w>и</w>
-                     <w>вѣчьныхъ</w>
-                     <w>благъ</w>
-                     <w>приимъ,</w>
-                     <w>умертвивъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>надежею</w>
-                        <w>вѣчны<lb/>хъ</w>
-                        <w>бл҃гъ</w>
-                        <w>приимъ·</w>
-                        <w>оумертвивъ <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>надежею.</w>
-                        <w>и</w>
-                        <w>вечны<hi rend="sup">х</hi>
-                        </w>
-                        <w>бг҃ъ</w>
-                        <w>приимъ·</w>
-                        <w>оумертвивъ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>надежею·</w>
-                        <w>и</w>
-                        <w>вечны<hi rend="sup">х</hi>
-                        </w>
-                        <w>блг҃ъ</w>
-                        <w>прїемь·</w>
-                        <w>оумрт҃вивъ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>надежею·</w>
-                        <w>ї</w>
-                        <w>вѣчны<hi rend="sup">х</hi> 
-                           <lb/>
-                        </w>
-                        <w>блг҃ъ</w>
-                        <w>приемъ·</w>
-                        <w>оумрт҃вивъ <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>надеж<hi rend="sup">д</hi>ею <lb/>
-                        </w>
-                        <w>вѣчны<hi rend="sup">х</hi>
-                        </w>
-                        <w>бл҃гь</w>
-                        <w>и</w>
-                        <w>прїемь.</w>
-                        <w>и</w>
-                        <w>оумрътвивъ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>надежею,</w>
-                        <w>вѣчныхъ</w>
-                        <w>благъ</w>
-                        <w>приимъ,</w>
-                        <w>умертвивъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>надежею</w>
-                        <w>вѣчьныхъ</w>
-                        <w>благъ,</w>
-                        <w>умьртвивъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>надежею</w>
-                        <w>вѣчныхъ</w>
-                        <w>благъ,</w>
-                        <w>их</w>
-                        <w>же</w>
-                        <w>приимъ,</w>
-                        <w>умертвивъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>213, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="20"><p>
+<app>
+<lem wit="#lem">
+<w>надежею</w>
+<w>и</w>
+<w>вѣчьныхъ</w>
+<w>благъ</w>
+<w>приимъ,</w>
+<w>умертвивъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>надежею</w>
+<w>вѣчны<lb/>хъ</w>
+<w>бл҃гъ</w>
+<w>приимъ·</w>
+<w>оумертвивъ <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>надежею.</w>
+<w>и</w>
+<w>вечны<hi rend="sup">х</hi></w>
+<w>бг҃ъ</w>
+<w>приимъ·</w>
+<w>оумертвивъ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>надежею·</w>
+<w>и</w>
+<w>вечны<hi rend="sup">х</hi></w>
+<w>блг҃ъ</w>
+<w>прїемь·</w>
+<w>оумрт҃вивъ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>надежею·</w>
+<w>ї</w>
+<w>вѣчны<hi rend="sup">х</hi><lb/></w>
+<w>блг҃ъ</w>
+<w>приемъ·</w>
+<w>оумрт҃вивъ <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>надеж<hi rend="sup">д</hi>ею <lb/></w>
+
+<w>вѣчны<hi rend="sup">х</hi></w>
+<w>бл҃гь</w>
+<w>и</w>
+<w>прїемь.</w>
+<w>и</w>
+<w>оумрътвивъ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>надежею,</w>
+<w>вѣчныхъ</w>
+<w>благъ</w>
+<w>приимъ,</w>
+<w>умертвивъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>надежею</w>
+<w>вѣчьныхъ</w>
+<w>благъ,</w>
+<w>умьртвивъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>надежею</w>
+<w>вѣчныхъ</w>
+<w>благъ,</w>
+<w>их</w>
+<w>же</w>
+<w>приимъ,</w>
+<w>умертвивъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

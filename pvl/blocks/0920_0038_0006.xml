@@ -1,107 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>38, 6</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="6">
-            <p>
-               <app>
-                  <lem>
-                     <w>и</w>
-                     <w>хламиду</w>
-                     <w>багъряную</w>
-                     <w>и</w>
-                     <w>мощи</w>
-                     <w>святыхъ,</w>
-                     <w>учаще</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>и</w>
-                        <w>хламидѹ</w>
-                        <w>багрѧнѹю.</w>
-                        <w>и</w>
-                        <w>мощи</w>
-                        <w>с҃ты<hi rend="sup">х</hi> 
-                           <lb/>
-                        </w>
-                        <w>оучаще</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>и</w>
-                        <w>хамї<lb/>дѹ</w>
-                        <w>багренѹ.</w>
-                        <w>и</w>
-                        <w>мощи</w>
-                        <w>ст҃хъ.</w>
-                        <w>оучаща</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>и</w>
-                        <w>хламиду</w>
-                        <w>багрѧну<lb/>ю.</w>
-                        <w>и</w>
-                        <w>мощи</w>
-                        <w>ст҃хъ.</w>
-                        <w>оучаще <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>и</w>
-                        <w>хламидоу</w>
-                        <w>багрѧноую,</w>
-                        <w>и</w>
-                        <w>мощи</w>
-                        <w>сты<hi rend="sup">х</hi>, <lb/>
-                        </w>
-                        <w>оучаще</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>и</w>
-                        <w>хламиду</w>
-                        <w>багряную,</w>
-                        <w>и</w>
-                        <w>мощи</w>
-                        <w>святыхъ,</w>
-                        <w>учаще</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>и</w>
-                        <w>хламиду</w>
-                        <w>багъряную</w>
-                        <w>и</w>
-                        <w>мощи</w>
-                        <w>святыхъ,</w>
-                        <w>учаще</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>и</w>
-                        <w>хламиду</w>
-                        <w>багряную,</w>
-                        <w>и</w>
-                        <w>мощи</w>
-                        <w>святых,</w>
-                        <w>учаще</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>38, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="6"><p>
+<app>
+<lem wit="#lem">
+<w>и</w>
+<w>хламиду</w>
+<w>багъряную</w>
+<w>и</w>
+<w>мощи</w>
+<w>святыхъ,</w>
+<w>учаще</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>и</w>
+<w>хламидѹ</w>
+<w>багрѧнѹю.</w>
+<w>и</w>
+<w>мощи</w>
+<w>с҃ты<hi rend="sup">х</hi><lb/></w>
+<w>оучаще</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>и</w>
+<w>хамї<lb/>дѹ</w>
+<w>багренѹ.</w>
+<w>и</w>
+<w>мощи</w>
+<w>ст҃хъ.</w>
+<w>оучаща</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>и</w>
+<w>хламиду</w>
+<w>багрѧну<lb/>ю.</w>
+<w>и</w>
+<w>мощи</w>
+<w>ст҃хъ.</w>
+<w>оучаще <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>и</w>
+<w>хламидоу</w>
+<w>багрѧноую,</w>
+<w>и</w>
+<w>мощи</w>
+<w>сты<hi rend="sup">х</hi>, <lb/></w>
+
+<w>оучаще</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>и</w>
+<w>хламиду</w>
+<w>багряную,</w>
+<w>и</w>
+<w>мощи</w>
+<w>святыхъ,</w>
+<w>учаще</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>и</w>
+<w>хламиду</w>
+<w>багъряную</w>
+<w>и</w>
+<w>мощи</w>
+<w>святыхъ,</w>
+<w>учаще</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>и</w>
+<w>хламиду</w>
+<w>багряную,</w>
+<w>и</w>
+<w>мощи</w>
+<w>святых,</w>
+<w>учаще</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,102 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>18, 3</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="3">
-            <p>
-               <app>
-                  <lem>
-                     <w>отъ</w>
-                     <w>Аврама</w>
-                     <w>до</w>
-                     <w>исхожения</w>
-                     <w>Моисѣева</w>
-                     <w>лѣтъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>а</w>
-                        <w>ѿ</w>
-                        <w>аврама</w>
-                        <w>до</w>
-                        <w>исхоженья</w>
-                        <w>моисѣ<lb/>ева</w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad"/>
-                     <rdg wit="#aka">
-                        <w>ѿ</w>
-                        <w>авра<lb/>ама</w>
-                        <w>до</w>
-                        <w>исхоженїа</w>
-                        <w>мѡисѣѡва.</w>
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ѿ</w>
-                        <w>аврама</w>
-                        <w>до</w>
-                        <w>исхо<lb/>жения</w>
-                        <w>моисѣева.</w>
-                        <w>лѣтъ. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ѿ</w>
-                        <w>авраа<lb/>ма<hi rend="sup">ж</hi>
-                        </w>
-                        <w>до</w>
-                        <w>исхоженїа</w>
-                        <w>мѡѵсеѡва.</w>
-                        <w>лѣ<hi rend="sup">т</hi>.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>а</w>
-                        <w>отъ</w>
-                        <w>Аврама</w>
-                        <w>до</w>
-                        <w>исхоженья</w>
-                        <w>Моисѣева</w>
-                        <w>лѣтъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>а</w>
-                        <w>отъ</w>
-                        <w>Аврама</w>
-                        <w>до</w>
-                        <w>исхожения</w>
-                        <w>Моисѣева</w>
-                        <w>лѣтъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>а</w>
-                        <w>от</w>
-                        <w>Аврама</w>
-                        <w>до</w>
-                        <w>исхоженья</w>
-                        <w>Моисѣева</w>
-                        <w>лѣтъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="3"><p>
+<app>
+<lem wit="#lem">
+<w>отъ</w>
+<w>Аврама</w>
+<w>до</w>
+<w>исхожения</w>
+<w>Моисѣева</w>
+<w>лѣтъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>а</w>
+<w>ѿ</w>
+<w>аврама</w>
+<w>до</w>
+<w>исхоженья</w>
+<w>моисѣ<lb/>ева</w>
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+</rdg>
+
+<rdg wit="#aka">
+<w>ѿ</w>
+<w>авра<lb/>ама</w>
+<w>до</w>
+<w>исхоженїа</w>
+<w>мѡисѣѡва.</w>
+<w>лѣ<hi rend="sup">т</hi></w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ѿ</w>
+<w>аврама</w>
+<w>до</w>
+<w>исхо<lb/>жения</w>
+<w>моисѣева.</w>
+<w>лѣтъ. <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>ѿ</w>
+<w>авраа<lb/>ма<hi rend="sup">ж</hi></w>
+<w>до</w>
+<w>исхоженїа</w>
+<w>мѡѵсеѡва.</w>
+<w>лѣ<hi rend="sup">т</hi>.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>а</w>
+<w>отъ</w>
+<w>Аврама</w>
+<w>до</w>
+<w>исхоженья</w>
+<w>Моисѣева</w>
+<w>лѣтъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>а</w>
+<w>отъ</w>
+<w>Аврама</w>
+<w>до</w>
+<w>исхожения</w>
+<w>Моисѣева</w>
+<w>лѣтъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>а</w>
+<w>от</w>
+<w>Аврама</w>
+<w>до</w>
+<w>исхоженья</w>
+<w>Моисѣева</w>
+<w>лѣтъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

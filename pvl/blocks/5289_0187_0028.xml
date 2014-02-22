@@ -1,106 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>187, 28</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="28">
-            <p>
-               <app>
-                  <lem>
-                     <w>имъ</w>
-                     <w>глаголати</w>
-                     <w>сице:</w>
-                     <w>“Аще</w>
-                     <w>по</w>
-                     <w>моемь</w>
-                     <w>ошьствии</w>
-                     <w>свѣта</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>имъ</w>
-                        <w>гл҃ти</w>
-                        <w>сице.</w>
-                        <w>аще <lb/>
-                        </w>
-                        <w>по</w>
-                        <w>моемь</w>
-                        <w>ѡшествии</w>
-                        <w>свѣта</w>
-                     </rdg>
-                     <rdg wit="#rad"/>
-                     <rdg wit="#aka"/>
-                     <rdg wit="#ipa">
-                        <w>имъ</w>
-                        <w>гл҃ти</w>
-                        <w>си<sic>ц</sic>е.</w>
-                        <w>аще</w>
-                        <w>по</w>
-                        <w>мо<lb/>емь</w>
-                        <w>ѿшествии</w>
-                        <w>свѣта</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>и<hi rend="sup">м</hi> 
-                           <lb/>
-                        </w>
-                        <w>гл҃ати</w>
-                        <w>сице.</w>
-                        <w>аще</w>
-                        <w>по</w>
-                        <w>мое<hi rend="sup">м</hi>
-                        </w>
-                        <w>ѡшествїи</w>
-                        <w>свѣта</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>имъ</w>
-                        <w>глаголати</w>
-                        <w>сице:</w>
-                        <w>“аще</w>
-                        <w>по</w>
-                        <w>моемь</w>
-                        <w>ошествии</w>
-                        <w>свѣта</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>имъ</w>
-                        <w>глаголати</w>
-                        <w>сице:</w>
-                        <w>“аще</w>
-                        <w>по</w>
-                        <w>моемь</w>
-                        <w>ошьствии</w>
-                        <w>свѣта</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>имъ</w>
-                        <w>глаголати</w>
-                        <w>сице:</w>
-                        <w>“Аще</w>
-                        <w>по</w>
-                        <w>моемь</w>
-                        <w>ошествии</w>
-                        <w>свѣта</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>187, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="28"><p>
+<app>
+<lem wit="#lem">
+<w>имъ</w>
+<w>глаголати</w>
+<w>сице:</w>
+<w>“Аще</w>
+<w>по</w>
+<w>моемь</w>
+<w>ошьствии</w>
+<w>свѣта</w>
+</lem>
+
+<rdg wit="#lav">
+<w>имъ</w>
+<w>гл҃ти</w>
+<w>сице.</w>
+<w>аще <lb/></w>
+
+<w>по</w>
+<w>моемь</w>
+<w>ѡшествии</w>
+<w>свѣта</w>
+</rdg>
+
+<rdg wit="#rad">
+</rdg>
+
+<rdg wit="#aka">
+</rdg>
+
+<rdg wit="#ipa">
+<w>имъ</w>
+<w>гл҃ти</w>
+<w>си<milestone unit="sic" n="start"/>ц<milestone unit="sic" n="end"/>е.</w>
+<w>аще</w>
+<w>по</w>
+<w>мо<lb/>емь</w>
+<w>ѿшествии</w>
+<w>свѣта</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>и<hi rend="sup">м</hi><lb/></w>
+<w>гл҃ати</w>
+<w>сице.</w>
+<w>аще</w>
+<w>по</w>
+<w>мое<hi rend="sup">м</hi></w>
+<w>ѡшествїи</w>
+<w>свѣта</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>имъ</w>
+<w>глаголати</w>
+<w>сице:</w>
+<w>“аще</w>
+<w>по</w>
+<w>моемь</w>
+<w>ошествии</w>
+<w>свѣта</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>имъ</w>
+<w>глаголати</w>
+<w>сице:</w>
+<w>“аще</w>
+<w>по</w>
+<w>моемь</w>
+<w>ошьствии</w>
+<w>свѣта</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>имъ</w>
+<w>глаголати</w>
+<w>сице:</w>
+<w>“Аще</w>
+<w>по</w>
+<w>моемь</w>
+<w>ошествии</w>
+<w>свѣта</w>
+</rdg>
+</app></p></div></body></text></TEI>

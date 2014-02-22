@@ -1,125 +1,104 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>50, 20</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="20">
-            <p>
-               <app>
-                  <lem>
-                     <w>и.</w>
-                     <w>Аще</w>
-                     <w>ли</w>
-                     <w>будетъ</w>
-                     <w>старъ,</w>
-                     <w>или</w>
-                     <w>дѣтищь,</w>
-                     <w>да</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>і.</w>
-                        <w>аще</w>
-                        <w>ли</w>
-                        <w>будетъ</w>
-                        <w>старъ</w>
-                        <w>или</w>
-                        <w>дѣтещь.</w>
-                        <w>да</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>и.</w>
-                        <w>аще<hi rend="sup">л</hi>
-                        </w>
-                        <w>боудеть</w>
-                        <w>старъ.</w>
-                        <w>или</w>
-                        <w>дѣти<hi rend="sup">ч</hi>.</w>
-                        <w>и</w>
-                        <w>да</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>и.</w>
-                        <w>аще</w>
-                        <w>ли</w>
-                        <w>бѹдетъ</w>
-                        <w>старь.</w>
-                        <w>или</w>
-                        <w>дѣ<lb/>тичь.</w>
-                        <w>и</w>
-                        <w>да</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>и. <lb/>
-                        </w>
-                        <w>аще</w>
-                        <w>ли</w>
-                        <w>будеть</w>
-                        <w>старъ</w>
-                        <w>или <lb/>
-                        </w>
-                        <w>дѣтичь.</w>
-                        <w>да</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ю.</w>
-                        <w>аще</w>
-                        <w>ли</w>
-                        <w>бѫде<hi rend="sup">т</hi>
-                        </w>
-                        <w>старь.</w>
-                        <w>или</w>
-                        <w>дѣти<hi rend="sup">ч</hi>.</w>
-                        <w>да</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>и;</w>
-                        <w>аще</w>
-                        <w>ли</w>
-                        <w>будетъ</w>
-                        <w>старъ,</w>
-                        <w>или</w>
-                        <w>дѣтещь,</w>
-                        <w>да</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>и;</w>
-                        <w>аще</w>
-                        <w>ли</w>
-                        <w>будетъ</w>
-                        <w>старъ,</w>
-                        <w>или</w>
-                        <w>дѣтищь,</w>
-                        <w>да</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>и;</w>
-                        <w>аще</w>
-                        <w>ли</w>
-                        <w>будетъ</w>
-                        <w>старъ,</w>
-                        <w>или</w>
-                        <w>дѣтещь,</w>
-                        <w>да</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>50, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="20"><p>
+<app>
+<lem wit="#lem">
+<w>и.</w>
+<w>Аще</w>
+<w>ли</w>
+<w>будетъ</w>
+<w>старъ,</w>
+<w>или</w>
+<w>дѣтищь,</w>
+<w>да</w>
+</lem>
+
+<rdg wit="#lav">
+<w>і.</w>
+<w>аще</w>
+<w>ли</w>
+<w>будетъ</w>
+<w>старъ</w>
+<w>или</w>
+<w>дѣтещь.</w>
+<w>да</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>и.</w>
+<w>аще<hi rend="sup">л</hi></w>
+<w>боудеть</w>
+<w>старъ.</w>
+<w>или</w>
+<w>дѣти<hi rend="sup">ч</hi>.</w>
+<w>и</w>
+<w>да</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>и.</w>
+<w>аще</w>
+<w>ли</w>
+<w>бѹдетъ</w>
+<w>старь.</w>
+<w>или</w>
+<w>дѣ<lb/>тичь.</w>
+<w>и</w>
+<w>да</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>и. <lb/></w>
+
+<w>аще</w>
+<w>ли</w>
+<w>будеть</w>
+<w>старъ</w>
+<w>или <lb/></w>
+
+<w>дѣтичь.</w>
+<w>да</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ю.</w>
+<w>аще</w>
+<w>ли</w>
+<w>бѫде<hi rend="sup">т</hi></w>
+<w>старь.</w>
+<w>или</w>
+<w>дѣти<hi rend="sup">ч</hi>.</w>
+<w>да</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>и;</w>
+<w>аще</w>
+<w>ли</w>
+<w>будетъ</w>
+<w>старъ,</w>
+<w>или</w>
+<w>дѣтещь,</w>
+<w>да</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>и;</w>
+<w>аще</w>
+<w>ли</w>
+<w>будетъ</w>
+<w>старъ,</w>
+<w>или</w>
+<w>дѣтищь,</w>
+<w>да</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>и;</w>
+<w>аще</w>
+<w>ли</w>
+<w>будетъ</w>
+<w>старъ,</w>
+<w>или</w>
+<w>дѣтещь,</w>
+<w>да</w>
+</rdg>
+</app></p></div></body></text></TEI>

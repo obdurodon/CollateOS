@@ -1,69 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>29, 3</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="3">
-            <p>
-               <app>
-                  <lem>
-                     <w>Въ</w>
-                     <w>лѣто 6407.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#tro">
-                        <w>въ</w>
-                        <w>лѣто 6406</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>В</w>
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>҂ѕ҃.у҃.з҃.</w>
-                     </rdg>
-                     <rdg wit="#aka"/>
-                     <rdg wit="#ipa">
-                        <w>В</w>
-                        <w>лѣто.</w>
-                        <w>҂ѕ҃.у҃.з҃·:· <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>В</w>
-                        <w>лѣ<hi rend="sup">т</hi>.҂ѕ҃.у҃</w>
-                        <w>з҃.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>В</w>
-                        <w>лѣто 6407.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Въ</w>
-                        <w>лѣто 6407.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>В</w>
-                        <w>лѣто 6407.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>29, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="3"><p>
+<app>
+<lem wit="#lem">
+<w>Въ</w>
+<w>лѣто 6407.</w>
+
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#tro">
+<w>въ</w>
+<w>лѣто 6406</w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>В</w>
+<w>лѣ<hi rend="sup">т</hi></w>
+<w>҂ѕ҃.у҃.з҃.</w>
+</rdg>
+
+<rdg wit="#aka">
+</rdg>
+
+<rdg wit="#ipa">
+<w>В</w>
+<w>лѣто.</w>
+<w>҂ѕ҃.у҃.з҃·:· <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>В</w>
+<w>лѣ<hi rend="sup">т</hi>.҂ѕ҃.у҃</w>
+<w>з҃.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>В</w>
+<w>лѣто 6407.</w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>Въ</w>
+<w>лѣто 6407.</w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>В</w>
+<w>лѣто 6407.</w>
+
+</rdg>
+</app></p></div></body></text></TEI>

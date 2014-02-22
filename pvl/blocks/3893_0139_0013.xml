@@ -1,120 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>139, 13</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="13">
-            <p>
-               <app>
-                  <lem>
-                     <w>насъ,</w>
-                     <w>поющихъ</w>
-                     <w>и</w>
-                     <w>почитающихъ</w>
-                     <w>ваю</w>
-                     <w>чьстьное</w>
-                     <w>тържьство,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>на<hi rend="sup">с</hi>
-                        </w>
-                        <w>поющи<hi rend="sup">х</hi>.</w>
-                        <w>и</w>
-                        <w>почи<lb/>тающи<hi rend="sup">х</hi>
-                        </w>
-                        <w>ваю</w>
-                        <w>ч<hi rend="sup">с</hi>тное</w>
-                        <w>торжьство. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>на<hi rend="sup">с</hi>
-                        </w>
-                        <w>поющи<hi rend="sup">х</hi>
-                        </w>
-                        <w>ва<lb/>ю.</w>
-                        <w>ч<hi rend="sup">с</hi>тное</w>
-                        <w>торжество</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>насъ</w>
-                        <w>поющи<hi rend="sup">х</hi>
-                        </w>
-                        <w>ваю</w>
-                        <w>ч<hi rend="sup">с</hi>тное <lb/>
-                        </w>
-                        <w>торжество</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>насъ</w>
-                        <w>поющихъ. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>почитающихъ</w>
-                        <w>ваю</w>
-                        <w>чтн<hi rend="sup">с</hi>ое <lb/>
-                        </w>
-                        <w>торьжество.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>на<hi rend="sup">с</hi>
-                        </w>
-                        <w>поющи<hi rend="sup">х</hi> 
-                           <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>почитающи<hi rend="sup">х</hi>
-                        </w>
-                        <w>ваю,</w>
-                        <w>ч<hi rend="sup">с</hi>тное</w>
-                        <w>тръжество</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>насъ,</w>
-                        <w>поющихъ</w>
-                        <w>и</w>
-                        <w>почитающихъ</w>
-                        <w>ваю</w>
-                        <w>честное</w>
-                        <w>торжьство,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>насъ,</w>
-                        <w>поющихъ</w>
-                        <w>и</w>
-                        <w>почитающихъ</w>
-                        <w>ваю</w>
-                        <w>чьстьное</w>
-                        <w>тържьство,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>нас,</w>
-                        <w>поющих</w>
-                        <w>и</w>
-                        <w>почитающих</w>
-                        <w>ваю</w>
-                        <w>честное</w>
-                        <w>торжьство,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>139, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="13"><p>
+<app>
+<lem wit="#lem">
+<w>насъ,</w>
+<w>поющихъ</w>
+<w>и</w>
+<w>почитающихъ</w>
+<w>ваю</w>
+<w>чьстьное</w>
+<w>тържьство,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>на<hi rend="sup">с</hi></w>
+<w>поющи<hi rend="sup">х</hi>.</w>
+<w>и</w>
+<w>почи<lb/>тающи<hi rend="sup">х</hi></w>
+<w>ваю</w>
+<w>ч<hi rend="sup">с</hi>тное</w>
+<w>торжьство. <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>на<hi rend="sup">с</hi></w>
+<w>поющи<hi rend="sup">х</hi></w>
+<w>ва<lb/>ю.</w>
+<w>ч<hi rend="sup">с</hi>тное</w>
+<w>торжество</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>насъ</w>
+<w>поющи<hi rend="sup">х</hi></w>
+<w>ваю</w>
+<w>ч<hi rend="sup">с</hi>тное <lb/></w>
+
+<w>торжество</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>насъ</w>
+<w>поющихъ. <lb/></w>
+
+<w>и</w>
+<w>почитающихъ</w>
+<w>ваю</w>
+<w>чтн<hi rend="sup">с</hi>ое <lb/></w>
+
+<w>торьжество.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>на<hi rend="sup">с</hi></w>
+<w>поющи<hi rend="sup">х</hi><lb/></w>
+<w>и</w>
+<w>почитающи<hi rend="sup">х</hi></w>
+<w>ваю,</w>
+<w>ч<hi rend="sup">с</hi>тное</w>
+<w>тръжество</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>насъ,</w>
+<w>поющихъ</w>
+<w>и</w>
+<w>почитающихъ</w>
+<w>ваю</w>
+<w>честное</w>
+<w>торжьство,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>насъ,</w>
+<w>поющихъ</w>
+<w>и</w>
+<w>почитающихъ</w>
+<w>ваю</w>
+<w>чьстьное</w>
+<w>тържьство,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>нас,</w>
+<w>поющих</w>
+<w>и</w>
+<w>почитающих</w>
+<w>ваю</w>
+<w>честное</w>
+<w>торжьство,</w>
+</rdg>
+</app></p></div></body></text></TEI>

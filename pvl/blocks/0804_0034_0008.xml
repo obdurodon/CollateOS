@@ -1,122 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>34, 8</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="8">
-            <p>
-               <app>
-                  <lem>
-                     <w>о</w>
-                     <w>тацѣхъ</w>
-                     <w>явление,</w>
-                     <w>а</w>
-                     <w>емуже</w>
-                     <w>начьнуть</w>
-                     <w>не</w>
-                     <w>яти</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>ѡ</w>
-                        <w>тацѣ<hi rend="sup">х</hi>
-                        </w>
-                        <w>явленїи.</w>
-                        <w>а</w>
-                        <w>емоу<hi rend="sup">ж</hi>
-                        </w>
-                        <w>начнѹть</w>
-                        <w>не</w>
-                        <w>ати</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ѡ</w>
-                        <w>тацѣхъ</w>
-                        <w>явленїи.</w>
-                        <w>а</w>
-                        <w>емѹ</w>
-                        <w>же</w>
-                        <w>начнѹть</w>
-                        <w>не</w>
-                        <w>яти</w>
-                        <w>
-                           <pb n="14v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ѡ</w>
-                        <w>тацѣхъ</w>
-                        <w>я<lb/>влении.</w>
-                        <w>а</w>
-                        <w>ему</w>
-                        <w>же</w>
-                        <w>начну<lb/>ть</w>
-                        <w>не</w>
-                        <w>яти</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ѡ</w>
-                        <w>тацѣ<hi rend="sup">х</hi>
-                        </w>
-                        <w>явленїи.</w>
-                        <w>а</w>
-                        <w>емоу</w>
-                        <w>же</w>
-                        <w>начноу<hi rend="sup">т</hi>
-                        </w>
-                        <w>не</w>
-                        <w>ѧти</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>о</w>
-                        <w>тацѣхъ</w>
-                        <w>явлении;</w>
-                        <w>а</w>
-                        <w>емуже</w>
-                        <w>начнуть</w>
-                        <w>не</w>
-                        <w>яти</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>о</w>
-                        <w>тацѣхъ</w>
-                        <w>явление,</w>
-                        <w>а</w>
-                        <w>емуже</w>
-                        <w>начьнуть</w>
-                        <w>не</w>
-                        <w>яти</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>о</w>
-                        <w>тацѣх</w>
-                        <w>явлении;</w>
-                        <w>а</w>
-                        <w>ему</w>
-                        <w>же</w>
-                        <w>начнуть</w>
-                        <w>не</w>
-                        <w>яти</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>34, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="8"><p>
+<app>
+<lem wit="#lem">
+<w>о</w>
+<w>тацѣхъ</w>
+<w>явление,</w>
+<w>а</w>
+<w>емуже</w>
+<w>начьнуть</w>
+<w>не</w>
+<w>яти</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>ѡ</w>
+<w>тацѣ<hi rend="sup">х</hi></w>
+<w>явленїи.</w>
+<w>а</w>
+<w>емоу<hi rend="sup">ж</hi></w>
+<w>начнѹть</w>
+<w>не</w>
+<w>ати</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ѡ</w>
+<w>тацѣхъ</w>
+<w>явленїи.</w>
+<w>а</w>
+<w>емѹ</w>
+<w>же</w>
+<w>начнѹть</w>
+<w>не</w>
+<w>яти <pb n="14v"/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>ѡ</w>
+<w>тацѣхъ</w>
+<w>я<lb/>влении.</w>
+<w>а</w>
+<w>ему</w>
+<w>же</w>
+<w>начну<lb/>ть</w>
+<w>не</w>
+<w>яти</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ѡ</w>
+<w>тацѣ<hi rend="sup">х</hi></w>
+<w>явленїи.</w>
+<w>а</w>
+<w>емоу</w>
+<w>же</w>
+<w>начноу<hi rend="sup">т</hi></w>
+<w>не</w>
+<w>ѧти</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>о</w>
+<w>тацѣхъ</w>
+<w>явлении;</w>
+<w>а</w>
+<w>емуже</w>
+<w>начнуть</w>
+<w>не</w>
+<w>яти</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>о</w>
+<w>тацѣхъ</w>
+<w>явление,</w>
+<w>а</w>
+<w>емуже</w>
+<w>начьнуть</w>
+<w>не</w>
+<w>яти</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>о</w>
+<w>тацѣх</w>
+<w>явлении;</w>
+<w>а</w>
+<w>ему</w>
+<w>же</w>
+<w>начнуть</w>
+<w>не</w>
+<w>яти</w>
+</rdg>
+</app></p></div></body></text></TEI>

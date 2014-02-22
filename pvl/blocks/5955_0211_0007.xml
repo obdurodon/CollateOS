@@ -1,117 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>211, 7</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="7">
-            <p>
-               <app>
-                  <lem>
-                     <w>посълахъ</w>
-                     <w>къ</w>
-                     <w>игумену:</w>
-                     <w>“Приди</w>
-                     <w>да</w>
-                     <w>възмемъ</w>
-                     <w>и”.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>послахъ</w>
-                        <w>къ</w>
-                        <w>игумену·</w>
-                        <w>приди <lb/>
-                        </w>
-                        <w>да</w>
-                        <w>вынемемъ</w>
-                        <w>и·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>посла<hi rend="sup">х</hi>
-                        </w>
-                        <w>ко</w>
-                        <w>игѹ<lb/>меноу.</w>
-                        <w>прииди</w>
-                        <w>да</w>
-                        <w>вымемъ</w>
-                        <w>и.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>послахь</w>
-                        <w>ко</w>
-                        <w>игѹменѹ·</w>
-                        <w>прииди</w>
-                        <w>да</w>
-                        <w>вы·̏име<lb/>мь</w>
-                        <w>и·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>посла<hi rend="sup">х</hi> 
-                           <lb/>
-                        </w>
-                        <w>ко</w>
-                        <w>игумену</w>
-                        <w>прииди</w>
-                        <w>да</w>
-                        <w>и</w>
-                        <w>во<lb/>змемъ·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>посла<hi rend="sup">х</hi>
-                        </w>
-                        <w>къ <lb/>
-                        </w>
-                        <w>игоуменоу,</w>
-                        <w>прїиди</w>
-                        <w>да</w>
-                        <w>и</w>
-                        <w>възме<hi rend="sup">м</hi>.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>послахъ</w>
-                        <w>къ</w>
-                        <w>игумену:</w>
-                        <w>“приди,</w>
-                        <w>да</w>
-                        <w>вынемемъ</w>
-                        <w>и”,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>посълахъ</w>
-                        <w>къ</w>
-                        <w>игумену:</w>
-                        <w>“приди,</w>
-                        <w>да</w>
-                        <w>выимемъ</w>
-                        <w>и”;</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>послахъ</w>
-                        <w>къ</w>
-                        <w>игумену:</w>
-                        <w>“Приди</w>
-                        <w>да</w>
-                        <w>вынемемъ</w>
-                        <w>и”.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>211, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="7"><p>
+<app>
+<lem wit="#lem">
+<w>посълахъ</w>
+<w>къ</w>
+<w>игумену:</w>
+<w>“Приди</w>
+<w>да</w>
+<w>възмемъ</w>
+<w>и”.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>послахъ</w>
+<w>къ</w>
+<w>игумену·</w>
+<w>приди <lb/></w>
+
+<w>да</w>
+<w>вынемемъ</w>
+<w>и·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>посла<hi rend="sup">х</hi></w>
+<w>ко</w>
+<w>игѹ<lb/>меноу.</w>
+<w>прииди</w>
+<w>да</w>
+<w>вымемъ</w>
+<w>и.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>послахь</w>
+<w>ко</w>
+<w>игѹменѹ·</w>
+<w>прииди</w>
+<w>да</w>
+<w>вы·̏име<lb/>мь</w>
+<w>и·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>посла<hi rend="sup">х</hi><lb/></w>
+<w>ко</w>
+<w>игумену</w>
+<w>прииди</w>
+<w>да</w>
+<w>и</w>
+<w>во<lb/>змемъ·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>посла<hi rend="sup">х</hi></w>
+<w>къ <lb/></w>
+
+<w>игоуменоу,</w>
+<w>прїиди</w>
+<w>да</w>
+<w>и</w>
+<w>възме<hi rend="sup">м</hi>.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>послахъ</w>
+<w>къ</w>
+<w>игумену:</w>
+<w>“приди,</w>
+<w>да</w>
+<w>вынемемъ</w>
+<w>и”,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>посълахъ</w>
+<w>къ</w>
+<w>игумену:</w>
+<w>“приди,</w>
+<w>да</w>
+<w>выимемъ</w>
+<w>и”;</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>послахъ</w>
+<w>къ</w>
+<w>игумену:</w>
+<w>“Приди</w>
+<w>да</w>
+<w>вынемемъ</w>
+<w>и”.</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,108 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>90, 4</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="4">
-            <p>
-               <app>
-                  <lem>
-                     <w>погрети</w>
-                     <w>его.</w>
-                     <w>И</w>
-                     <w>повелѣниемь</w>
-                     <w>Божиемь</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>его</w>
-                        <w>погрести.</w>
-                        <w>и</w>
-                        <w>повелѣньемь</w>
-                        <w>б<sic>ь<hi rend="sup">ж</hi>
-                           </sic>мь <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>е<hi rend="sup">г</hi>
-                        </w>
-                        <w>погрести.</w>
-                        <w>и</w>
-                        <w>повелѣние<hi rend="sup">м</hi>
-                        </w>
-                        <w>б҃жьи<hi rend="sup">м</hi>.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>его <lb/>
-                        </w>
-                        <w>погрести.</w>
-                        <w>и</w>
-                        <w>повелѣнїемь</w>
-                        <w>б҃жиимь.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>погрести</w>
-                        <w>его.</w>
-                        <w>и</w>
-                        <w>повелѣнь<lb/>емъ</w>
-                        <w>б҃иимъ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>погрести</w>
-                        <w>его.</w>
-                        <w>и</w>
-                        <w>повеленїе<hi rend="sup">м</hi>
-                        </w>
-                        <w>б҃жїи<hi rend="sup">м</hi> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>его</w>
-                        <w>погрести</w>
-                        <w>и</w>
-                        <w>повелѣниемъ</w>
-                        <w>божиимъ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>его</w>
-                        <w>погрести,</w>
-                        <w>и</w>
-                        <w>повелѣньемь</w>
-                        <w>Божьимь</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>его</w>
-                        <w>погрести.</w>
-                        <w>И</w>
-                        <w>повелѣниемь</w>
-                        <w>Божиемь</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>его</w>
-                        <w>погрести.</w>
-                        <w>И</w>
-                        <w>повелѣньемь</w>
-                        <w>божьимь</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>90, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="4"><p>
+<app>
+<lem wit="#lem">
+<w>погрети</w>
+<w>его.</w>
+<w>И</w>
+<w>повелѣниемь</w>
+<w>Божиемь</w>
+</lem>
+
+<rdg wit="#lav">
+<w>его</w>
+<w>погрести.</w>
+<w>и</w>
+<w>повелѣньемь</w>
+<w>б<milestone unit="sic" n="start"/>ь<hi rend="sup">ж</hi><milestone unit="sic" n="end"/>мь <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>е<hi rend="sup">г</hi></w>
+<w>погрести.</w>
+<w>и</w>
+<w>повелѣние<hi rend="sup">м</hi></w>
+<w>б҃жьи<hi rend="sup">м</hi>.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>его <lb/></w>
+
+<w>погрести.</w>
+<w>и</w>
+<w>повелѣнїемь</w>
+<w>б҃жиимь.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>погрести</w>
+<w>его.</w>
+<w>и</w>
+<w>повелѣнь<lb/>емъ</w>
+<w>б҃иимъ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>погрести</w>
+<w>его.</w>
+<w>и</w>
+<w>повеленїе<hi rend="sup">м</hi></w>
+<w>б҃жїи<hi rend="sup">м</hi><lb/></w>
+</rdg>
+
+<rdg wit="#kom">
+<w>его</w>
+<w>погрести</w>
+<w>и</w>
+<w>повелѣниемъ</w>
+<w>божиимъ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>его</w>
+<w>погрести,</w>
+<w>и</w>
+<w>повелѣньемь</w>
+<w>Божьимь</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>его</w>
+<w>погрести.</w>
+<w>И</w>
+<w>повелѣниемь</w>
+<w>Божиемь</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>его</w>
+<w>погрести.</w>
+<w>И</w>
+<w>повелѣньемь</w>
+<w>божьимь</w>
+</rdg>
+</app></p></div></body></text></TEI>

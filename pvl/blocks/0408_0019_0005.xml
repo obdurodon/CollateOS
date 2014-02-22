@@ -1,124 +1,107 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>19, 5</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="5">
-            <p>
-               <app>
-                  <lem>
-                     <w>кънязя</w>
-                     <w>ихъ</w>
-                     <w>и</w>
-                     <w>боляры</w>
-                     <w>вься,</w>
-                     <w>и</w>
-                     <w>миръ</w>
-                     <w>сътвори</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>кнѧзѧ</w>
-                        <w>ихъ.</w>
-                        <w>и</w>
-                        <w>болѧры <lb/>
-                        </w>
-                        <w>всѧ.</w>
-                        <w>и</w>
-                        <w>миръ</w>
-                        <w>створи</w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad">
-                        <w>кн҃зѧ</w>
-                        <w>и<hi rend="sup">х</hi>
-                        </w>
-                        <w>
-                           <sic>и бояры всѧ. и ми</sic>ръ</w>
-                        <w>сотвори</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>кн҃зѧ</w>
-                        <w>и<hi rend="sup">х</hi>.</w>
-                        <w>и</w>
-                        <w>бояры <lb/>
-                        </w>
-                        <w>всѧ.</w>
-                        <w>и</w>
-                        <w>миръ</w>
-                        <w>сотвори</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>кнѧзѧ</w>
-                        <w>ихъ. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>бояры</w>
-                        <w>всѧ.</w>
-                        <w>и</w>
-                        <w>миръ</w>
-                        <w>съ<lb/>твори</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>кнѧѕѧ</w>
-                        <w>и<hi rend="sup">х</hi>
-                        </w>
-                        <w>и</w>
-                        <w>боѧры <lb/>
-                        </w>
-                        <w>всѧ.</w>
-                        <w>и</w>
-                        <w>мирь</w>
-                        <w>сътвори</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>князя</w>
-                        <w>ихъ</w>
-                        <w>и</w>
-                        <w>боляры</w>
-                        <w>вся,</w>
-                        <w>и</w>
-                        <w>миръ</w>
-                        <w>сотвори</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>кънязя</w>
-                        <w>ихъ</w>
-                        <w>и</w>
-                        <w>боляры</w>
-                        <w>вься,</w>
-                        <w>и</w>
-                        <w>миръ</w>
-                        <w>сътвори</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>князя</w>
-                        <w>ихъ</w>
-                        <w>и</w>
-                        <w>боляры</w>
-                        <w>вся,</w>
-                        <w>и</w>
-                        <w>миръ</w>
-                        <w>створи</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>19, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="5"><p>
+<app>
+<lem wit="#lem">
+<w>кънязя</w>
+<w>ихъ</w>
+<w>и</w>
+<w>боляры</w>
+<w>вься,</w>
+<w>и</w>
+<w>миръ</w>
+<w>сътвори</w>
+</lem>
+
+<rdg wit="#lav">
+<w>кнѧзѧ</w>
+<w>ихъ.</w>
+<w>и</w>
+<w>болѧры <lb/></w>
+
+<w>всѧ.</w>
+<w>и</w>
+<w>миръ</w>
+<w>створи</w>
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+<w>кн҃зѧ</w>
+<w>и<hi rend="sup">х</hi><milestone unit="sic" n="start"/>и</w>
+<w>бояры</w>
+<w>всѧ.</w>
+<w>и</w>
+<w>ми<milestone unit="sic" n="end"/>ръ</w>
+<w>сотвори</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>кн҃зѧ</w>
+<w>и<hi rend="sup">х</hi>.</w>
+<w>и</w>
+<w>бояры <lb/></w>
+
+<w>всѧ.</w>
+<w>и</w>
+<w>миръ</w>
+<w>сотвори</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>кнѧзѧ</w>
+<w>ихъ. <lb/></w>
+
+<w>и</w>
+<w>бояры</w>
+<w>всѧ.</w>
+<w>и</w>
+<w>миръ</w>
+<w>съ<lb/>твори</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>кнѧѕѧ</w>
+<w>и<hi rend="sup">х</hi></w>
+<w>и</w>
+<w>боѧры <lb/></w>
+
+<w>всѧ.</w>
+<w>и</w>
+<w>мирь</w>
+<w>сътвори</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>князя</w>
+<w>ихъ</w>
+<w>и</w>
+<w>боляры</w>
+<w>вся,</w>
+<w>и</w>
+<w>миръ</w>
+<w>сотвори</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>кънязя</w>
+<w>ихъ</w>
+<w>и</w>
+<w>боляры</w>
+<w>вься,</w>
+<w>и</w>
+<w>миръ</w>
+<w>сътвори</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>князя</w>
+<w>ихъ</w>
+<w>и</w>
+<w>боляры</w>
+<w>вся,</w>
+<w>и</w>
+<w>миръ</w>
+<w>створи</w>
+</rdg>
+</app></p></div></body></text></TEI>

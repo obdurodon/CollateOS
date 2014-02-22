@@ -1,91 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>46, 25</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="25">
-            <p>
-               <app>
-                  <lem>
-                     <w>Володиславль;</w>
-                     <w>Каницаръ</w>
-                     <w>Предъславинъ;</w>
-                     <w>Шигъбернъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>
-                           <sic>в</sic>олодиславль</w>
-                        <w>каницаръ</w>
-                        <w>пере<sic>дъ</sic> 
-                           <lb/>
-                        </w>
-                        <w>
-                           <sic>ших</sic>ъбернъ.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>володиславль.</w>
-                        <w>канеца<lb/>ръ</w>
-                        <w>пре<hi rend="sup">д</hi>славинъ.</w>
-                        <w>шигобернъ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>володиславль. <lb/>
-                        </w>
-                        <w>канецѧръ</w>
-                        <w>пре<hi rend="sup">д</hi>славинъ.</w>
-                        <w>шигобернъ.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>володиславль.</w>
-                        <w>ка<lb/>ницаръ</w>
-                        <w>перъславинъ. <lb/>
-                        </w>
-                        <w>шигобернъ.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>славль.</w>
-                        <w>каницарь</w>
-                        <w>пре<hi rend="sup">д</hi>славинь. <lb/>
-                        </w>
-                        <w>шигобернь.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Володиславль;</w>
-                        <w>Каницаръ</w>
-                        <w>Передъславинъ;</w>
-                        <w>Шихъбернъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Володиславль;</w>
-                        <w>Каницаръ</w>
-                        <w>Передъславинъ;</w>
-                        <w>Шихъбернъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Володиславль;</w>
-                        <w>Каницаръ</w>
-                        <w>Передъславинъ;</w>
-                        <w>Шихъбернъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>46, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="25"><p>
+<app>
+<lem wit="#lem">
+<w>Володиславль;</w>
+<w>Каницаръ</w>
+<w>Предъславинъ;</w>
+<w>Шигъбернъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w><milestone unit="sic" n="start"/>в<milestone unit="sic" n="end"/>олодиславль</w>
+<w>каницаръ</w>
+<w>пере<milestone unit="sic" n="start"/>дъ<milestone unit="sic" n="end"/><lb/>славинъ</w>
+<w><milestone unit="sic" n="start"/>ших<milestone unit="sic" n="end"/>ъбернъ.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>володиславль.</w>
+<w>канеца<lb/>ръ</w>
+<w>пре<hi rend="sup">д</hi>славинъ.</w>
+<w>шигобернъ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>володиславль. <lb/></w>
+
+<w>канецѧръ</w>
+<w>пре<hi rend="sup">д</hi>славинъ.</w>
+<w>шигобернъ.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>володиславль.</w>
+<w>ка<lb/>ницаръ</w>
+<w>перъславинъ. <lb/></w>
+
+<w>шигобернъ.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>славль.</w>
+<w>каницарь</w>
+<w>пре<hi rend="sup">д</hi>славинь. <lb/></w>
+
+<w>шигобернь.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Володиславль;</w>
+<w>Каницаръ</w>
+<w>Передъславинъ;</w>
+<w>Шихъбернъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Володиславль;</w>
+<w>Каницаръ</w>
+<w>Передъславинъ;</w>
+<w>Шихъбернъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Володиславль;</w>
+<w>Каницаръ</w>
+<w>Передъславинъ;</w>
+<w>Шихъбернъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

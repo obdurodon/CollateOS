@@ -1,129 +1,108 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>111, 2</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="2">
-            <p>
-               <app>
-                  <lem>
-                     <w>Кърсуню,</w>
-                     <w>и</w>
-                     <w>излѣзоша</w>
-                     <w>Кърсуняне</w>
-                     <w>съ</w>
-                     <w>поклонъмь,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>корсуню.</w>
-                        <w>и</w>
-                        <w>изидоша</w>
-                        <w>корсунѧне</w>
-                        <w>с</w>
-                        <w>покло<lb/>номъ.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>коръсѹню <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>изидоша</w>
-                        <w>корсоунѧне</w>
-                        <w>
-                           <hi rend="sup">с</hi>
-                        </w>
-                        <w>поклономъ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>корсѹню.</w>
-                        <w>и</w>
-                        <w>изыдоша</w>
-                        <w>корсѹнѧне</w>
-                        <w>с</w>
-                        <w>поклоны.</w>
-                        <w>
-                           <pb n="57v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>корсуню.</w>
-                        <w>и</w>
-                        <w>излѣ<lb/>зоша</w>
-                        <w>корсунѧни</w>
-                        <w>с</w>
-                        <w>поклономъ <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>корсоуню.</w>
-                        <w>изыдоша</w>
-                        <w>корсоунѧне</w>
-                        <w>с</w>
-                        <w>поклонѡ<hi rend="sup">м</hi>, <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>корсуню</w>
-                        <w>излѣзоша</w>
-                        <w>корсунянѣ</w>
-                        <w>из</w>
-                        <w>града</w>
-                        <w>и</w>
-                        <w>приидоша</w>
-                        <w>на</w>
-                        <w>брегъ</w>
-                        <w>и</w>
-                        <w>поклонишася</w>
-                        <w>цесарици</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>корсуню</w>
-                        <w>излѣзоша</w>
-                        <w>корсуняне</w>
-                        <w>с</w>
-                        <w>поклоном</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Корсуню,</w>
-                        <w>и</w>
-                        <w>изидоша</w>
-                        <w>Корсуняне</w>
-                        <w>с</w>
-                        <w>поклономъ,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Кърсуню,</w>
-                        <w>излѣзоша</w>
-                        <w>Кърсуняне</w>
-                        <w>съ</w>
-                        <w>поклонъмь,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Корсуню,</w>
-                        <w>и</w>
-                        <w>изидоша</w>
-                        <w>корсуняне</w>
-                        <w>с</w>
-                        <w>поклономъ,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>111, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="2"><p>
+<app>
+<lem wit="#lem">
+<w>Кърсуню,</w>
+<w>и</w>
+<w>излѣзоша</w>
+<w>Кърсуняне</w>
+<w>съ</w>
+<w>поклонъмь,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>корсуню.</w>
+<w>и</w>
+<w>изидоша</w>
+<w>корсунѧне</w>
+<w>с</w>
+<w>покло<lb/>номъ.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>коръсѹню <lb/></w>
+
+<w>и</w>
+<w>изидоша</w>
+<w>корсоунѧне</w>
+<w><hi rend="sup">с</hi></w>
+<w>поклономъ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>корсѹню.</w>
+<w>и</w>
+<w>изыдоша</w>
+<w>корсѹнѧне</w>
+<w>с</w>
+<w>поклоны. <pb n="57v"/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>корсуню.</w>
+<w>и</w>
+<w>излѣ<lb/>зоша</w>
+<w>корсунѧни</w>
+<w>с</w>
+<w>поклономъ <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>корсоуню.</w>
+<w>изыдоша</w>
+<w>корсоунѧне</w>
+<w>с</w>
+<w>поклонѡ<hi rend="sup">м</hi>, <lb/></w>
+
+</rdg>
+
+<rdg wit="#kom">
+<w>корсуню</w>
+<w>излѣзоша</w>
+<w>корсунянѣ</w>
+<w>из</w>
+<w>града</w>
+<w>и</w>
+<w>приидоша</w>
+<w>на</w>
+<w>брегъ</w>
+<w>и</w>
+<w>поклонишася</w>
+<w>цесарици</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>корсуню</w>
+<w>излѣзоша</w>
+<w>корсуняне</w>
+<w>с</w>
+<w>поклоном</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Корсуню,</w>
+<w>и</w>
+<w>изидоша</w>
+<w>Корсуняне</w>
+<w>с</w>
+<w>поклономъ,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Кърсуню,</w>
+<w>излѣзоша</w>
+<w>Кърсуняне</w>
+<w>съ</w>
+<w>поклонъмь,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Корсуню,</w>
+<w>и</w>
+<w>изидоша</w>
+<w>корсуняне</w>
+<w>с</w>
+<w>поклономъ,</w>
+</rdg>
+</app></p></div></body></text></TEI>

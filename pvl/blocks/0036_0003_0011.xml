@@ -1,113 +1,85 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>3, 11</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="11">
-            <p>
-               <app>
-                  <lem>
-                     <w>Сикелию,</w>
-                     <w>Евию,</w>
-                     <w>Родона,</w>
-                     <w>Хиона,</w>
-                     <w>Лѣзвона,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>сикилию</w>
-                        <w>явию.</w>
-                        <w>родока</w>
-                        <w>х<sic>иѡна</sic> 
-                           <lb/>
-                        </w>
-                        <w>лѣз<sic>ово</sic>на.</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>сикилию</w>
-                        <w>авию</w>
-                        <w>родона</w>
-                        <w>хиона</w>
-                        <w>лѣзовона</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>си<lb/>келию</w>
-                        <w>евию</w>
-                        <w>родона</w>
-                        <w>хиѡна</w>
-                        <w>лезвона</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>сикелїю. <lb/>
-                        </w>
-                        <w>евї</w>
-                        <w>родона.</w>
-                        <w>хиѡна.</w>
-                        <w>лезвона.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>сикелию.</w>
-                        <w>евию</w>
-                        <w>род<hi rend="sup">н</hi>
-                        </w>
-                        <w>
-                           <sic>о</sic>
-                        </w>
-                        <w>
-                           <hi rend="sup">а</hi>.</w>
-                        <w>хиѡна. <lb/>
-                        </w>
-                        <w>лѣзвона.</w>
-                        <w>
-                           <pb n="3c"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>сикелию.</w>
-                        <w>евию.</w>
-                        <w>родона.</w>
-                        <w>хиона.</w>
-                        <w>лѣзвона.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Сикилию,</w>
-                        <w>Явию,</w>
-                        <w>Родона,</w>
-                        <w>Хиона,</w>
-                        <w>Лѣзовона,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Сикелию,</w>
-                        <w>Евию,</w>
-                        <w>Родона,</w>
-                        <w>Хиона,</w>
-                        <w>Лѣзвона,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Сикилию,</w>
-                        <w>Явию,</w>
-                        <w>Родона,</w>
-                        <w>Хиона,</w>
-                        <w>Лѣзовона,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>3, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="11"><p>
+<app>
+<lem wit="#lem">
+<w>Сикелию,</w>
+<w>Евию,</w>
+<w>Родона,</w>
+<w>Хиона,</w>
+<w>Лѣзвона,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>сикилию</w>
+<w>явию.</w>
+<w>родока</w>
+<w>х<milestone unit="sic" n="start"/>иѡна<milestone unit="sic" n="end"/><lb/></w>
+<w>лѣз<milestone unit="sic" n="start"/>ово<milestone unit="sic" n="end"/>на.</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>сикилию</w>
+<w>авию</w>
+<w>родона</w>
+<w>хиона</w>
+<w>лѣзовона</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>си<lb/>келию</w>
+<w>евию</w>
+<w>родона</w>
+<w>хиѡна</w>
+<w>лезвона</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>сикелїю. <lb/></w>
+
+<w>евї</w>
+<w>родона.</w>
+<w>хиѡна.</w>
+<w>лезвона.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>сикелию.</w>
+<w>евию</w>
+<w>род<hi rend="sup">н</hi><milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/><hi rend="sup">а</hi>.</w>
+<w>хиѡна. <lb/></w>
+
+<w>лѣзвона. <pb n="3c"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>сикелию.</w>
+<w>евию.</w>
+<w>родона.</w>
+<w>хиона.</w>
+<w>лѣзвона.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Сикилию,</w>
+<w>Явию,</w>
+<w>Родона,</w>
+<w>Хиона,</w>
+<w>Лѣзовона,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Сикелию,</w>
+<w>Евию,</w>
+<w>Родона,</w>
+<w>Хиона,</w>
+<w>Лѣзвона,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Сикилию,</w>
+<w>Явию,</w>
+<w>Родона,</w>
+<w>Хиона,</w>
+<w>Лѣзовона,</w>
+</rdg>
+</app></p></div></body></text></TEI>

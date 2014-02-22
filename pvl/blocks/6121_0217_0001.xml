@@ -1,128 +1,106 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>217, 1</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="1">
-            <p>
-               <app>
-                  <lem>
-                     <w>и</w>
-                     <w>приспѣваше</w>
-                     <w>старость</w>
-                     <w>къ</w>
-                     <w>симъ.</w>
-                     <w>И</w>
-                     <w>нача</w>
-                     <w>любити</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>приспѣваше</w>
-                        <w>старость</w>
-                        <w>к</w>
-                        <w>симъ· <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>нача</w>
-                        <w>любити</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>и</w>
-                        <w>приспева<lb/>ше</w>
-                        <w>старость</w>
-                        <w>к</w>
-                        <w>симъ.</w>
-                        <w>и</w>
-                        <w>нача</w>
-                        <w>любити</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>и</w>
-                        <w>приспеваше</w>
-                        <w>старость</w>
-                        <w>к</w>
-                        <w>симь·</w>
-                        <w>и</w>
-                        <w>нача</w>
-                        <w>лю<lb/>бити</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ї</w>
-                        <w>приспѣваше</w>
-                        <w>к</w>
-                        <w>н<sic>е</sic>
-                        </w>
-                        <w>
-                           <add place="margin">му</add> 
-                           <lb/>
-                        </w>
-                        <w>старост·</w>
-                        <w>ї</w>
-                        <w>нача</w>
-                        <w>любиті <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>и</w>
-                        <w>приспѣваше</w>
-                        <w>к</w>
-                        <w>ни<hi rend="sup">м</hi>
-                        </w>
-                        <w>старѡ<hi rend="sup">с</hi>.</w>
-                        <w>и</w>
-                        <w>начѧ <lb/>
-                        </w>
-                        <w>любити</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>и</w>
-                        <w>приспѣваше</w>
-                        <w>старость</w>
-                        <w>к</w>
-                        <w>симъ;</w>
-                        <w>и</w>
-                        <w>нача</w>
-                        <w>любити 209,16</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>и</w>
-                        <w>приспѣваше</w>
-                        <w>старость</w>
-                        <w>къ</w>
-                        <w>симъ.</w>
-                        <w>И</w>
-                        <w>нача</w>
-                        <w>любити 274,3</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>и</w>
-                        <w>приспѣваше</w>
-                        <w>старость</w>
-                        <w>к</w>
-                        <w>симъ.</w>
-                        <w>И</w>
-                        <w>нача</w>
-                        <w>любити 142,21</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>217, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="1"><p>
+<app>
+<lem wit="#lem">
+<w>и</w>
+<w>приспѣваше</w>
+<w>старость</w>
+<w>къ</w>
+<w>симъ.</w>
+<w>И</w>
+<w>нача</w>
+<w>любити</w>
+</lem>
+
+<rdg wit="#lav">
+<w>приспѣваше</w>
+<w>старость</w>
+<w>к</w>
+<w>симъ· <lb/></w>
+
+<w>и</w>
+<w>нача</w>
+<w>любити</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>и</w>
+<w>приспева<lb/>ше</w>
+<w>старость</w>
+<w>к</w>
+<w>симъ.</w>
+<w>и</w>
+<w>нача</w>
+<w>любити</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>и</w>
+<w>приспеваше</w>
+<w>старость</w>
+<w>к</w>
+<w>симь·</w>
+<w>и</w>
+<w>нача</w>
+<w>лю<lb/>бити</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ї</w>
+<w>приспѣваше</w>
+<w>к</w>
+<w>н<milestone unit="sic" n="start"/>е<milestone unit="sic" n="end"/><milestone unit="add" n="start" place="margin"/>му<milestone unit="add" n="end"/><lb/>мъ</w>
+<w>старост·</w>
+<w>ї</w>
+<w>нача</w>
+<w>любиті <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>и</w>
+<w>приспѣваше</w>
+<w>к</w>
+<w>ни<hi rend="sup">м</hi></w>
+<w>старѡ<hi rend="sup">с</hi>.</w>
+<w>и</w>
+<w>начѧ <lb/></w>
+
+<w>любити</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>и</w>
+<w>приспѣваше</w>
+<w>старость</w>
+<w>к</w>
+<w>симъ;</w>
+<w>и</w>
+<w>нача</w>
+<w>любити</w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>и</w>
+<w>приспѣваше</w>
+<w>старость</w>
+<w>къ</w>
+<w>симъ.</w>
+<w>И</w>
+<w>нача</w>
+<w>любити</w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>и</w>
+<w>приспѣваше</w>
+<w>старость</w>
+<w>к</w>
+<w>симъ.</w>
+<w>И</w>
+<w>нача</w>
+<w>любити</w>
+
+</rdg>
+</app></p></div></body></text></TEI>

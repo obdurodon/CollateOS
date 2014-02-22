@@ -1,138 +1,113 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>23, 17</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="17">
-            <p>
-               <app>
-                  <lem>
-                     <w>есть</w>
-                     <w>сынъ</w>
-                     <w>Рюриковъ”.</w>
-                     <w>И</w>
-                     <w>убиша</w>
-                     <w>Асколда</w>
-                     <w>и</w>
-                     <w>Дира,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>есть</w>
-                        <w>с҃нъ</w>
-                        <w>рюриковъ.</w>
-                        <w>и</w>
-                        <w>оубиша</w>
-                        <w>асколд<hi rend="sup">а</hi> 
-                           <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>дира.</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>есть</w>
-                        <w>сынъ</w>
-                        <w>рюриковъ</w>
-                        <w>и</w>
-                        <w>убиша</w>
-                        <w>асколда</w>
-                        <w>и</w>
-                        <w>дира</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>е<hi rend="sup">с</hi>
-                        </w>
-                        <w>с҃нъ</w>
-                        <w>рюриковъ. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>оуби</w>
-                        <w>
-                           <sic>а</sic>сколда.</w>
-                        <w>и</w>
-                        <w>дира:·</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>есть</w>
-                        <w>с҃нъ</w>
-                        <w>рюриковь.</w>
-                        <w>и</w>
-                        <w>оубїша</w>
-                        <w>аско<lb/>лда.</w>
-                        <w>и</w>
-                        <w>дира:·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>с҃нъ</w>
-                        <w>рюриковъ.</w>
-                        <w>и</w>
-                        <w>оу<lb/>биша</w>
-                        <w>аскол<sic>ъ</sic>да.</w>
-                        <w>и</w>
-                        <w>дира. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>е<hi rend="sup">с</hi>
-                        </w>
-                        <w>с҃нь</w>
-                        <w>рюриковь.</w>
-                        <w>и</w>
-                        <w>оубиша</w>
-                        <w>аско<hi rend="sup">л</hi> 
-                           <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>дира.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>есть</w>
-                        <w>сынъ</w>
-                        <w>Рюриковъ”.</w>
-                        <w>И</w>
-                        <w>убиша</w>
-                        <w>Асколда</w>
-                        <w>и</w>
-                        <w>Дира,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>есть</w>
-                        <w>сынъ</w>
-                        <w>Рюриковъ”.</w>
-                        <w>И</w>
-                        <w>убиша</w>
-                        <w>Асколда</w>
-                        <w>и</w>
-                        <w>Дира,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>есть</w>
-                        <w>сынъ</w>
-                        <w>Рюриковъ”.</w>
-                        <w>И</w>
-                        <w>убиша</w>
-                        <w>Асколда</w>
-                        <w>и</w>
-                        <w>Дира,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>23, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="17"><p>
+<app>
+<lem wit="#lem">
+<w>есть</w>
+<w>сынъ</w>
+<w>Рюриковъ”.</w>
+<w>И</w>
+<w>убиша</w>
+<w>Асколда</w>
+<w>и</w>
+<w>Дира,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>есть</w>
+<w>с҃нъ</w>
+<w>рюриковъ.</w>
+<w>и</w>
+<w>оубиша</w>
+<w>асколд<hi rend="sup">а</hi><lb/></w>
+<w>и</w>
+<w>дира.</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>есть</w>
+<w>сынъ</w>
+<w>рюриковъ</w>
+<w>и</w>
+<w>убиша</w>
+<w>асколда</w>
+<w>и</w>
+<w>дира</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>е<hi rend="sup">с</hi></w>
+<w>с҃нъ</w>
+<w>рюриковъ. <lb/></w>
+
+<w>и</w>
+<w>оуби</w>
+<w><milestone unit="sic" n="start"/>а<milestone unit="sic" n="end"/>сколда.</w>
+<w>и</w>
+<w>дира:·</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>есть</w>
+<w>с҃нъ</w>
+<w>рюриковь.</w>
+<w>и</w>
+<w>оубїша</w>
+<w>аско<lb/>лда.</w>
+<w>и</w>
+<w>дира:·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>с҃нъ</w>
+<w>рюриковъ.</w>
+<w>и</w>
+<w>оу<lb/>биша</w>
+<w>аскол<milestone unit="sic" n="start"/>ъ<milestone unit="sic" n="end"/>да.</w>
+<w>и</w>
+<w>дира. <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>е<hi rend="sup">с</hi></w>
+<w>с҃нь</w>
+<w>рюриковь.</w>
+<w>и</w>
+<w>оубиша</w>
+<w>аско<hi rend="sup">л</hi><lb/>да</w>
+<w>и</w>
+<w>дира.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>есть</w>
+<w>сынъ</w>
+<w>Рюриковъ”.</w>
+<w>И</w>
+<w>убиша</w>
+<w>Асколда</w>
+<w>и</w>
+<w>Дира,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>есть</w>
+<w>сынъ</w>
+<w>Рюриковъ”.</w>
+<w>И</w>
+<w>убиша</w>
+<w>Асколда</w>
+<w>и</w>
+<w>Дира,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>есть</w>
+<w>сынъ</w>
+<w>Рюриковъ”.</w>
+<w>И</w>
+<w>убиша</w>
+<w>Асколда</w>
+<w>и</w>
+<w>Дира,</w>
+</rdg>
+</app></p></div></body></text></TEI>

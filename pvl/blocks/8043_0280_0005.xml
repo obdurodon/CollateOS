@@ -1,92 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>280, 5</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="5">
-            <p>
-               <app>
-                  <lem>
-                     <w>Ярославъ.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ярославъ· <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ярославъ:- <lb/>
-                        </w>
-                        <w>лѣта</w>
-                        <w>би<hi rend="sup">с</hi>
-                        </w>
-                        <w>ярославъ</w>
-                        <w>с</w>
-                        <w>морв<hi rend="sup">д</hi>ою·</w>
-                        <w>и</w>
-                        <w>побе<hi rend="sup">ж</hi>нъ</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>яросла<hi rend="sup">в</hi>
-                        </w>
-                        <w>ма<hi rend="sup">р</hi>
-                        </w>
-                        <w>д҃:- <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ярославъ:·</w>
-                        <w>Того</w>
-                        <w>же</w>
-                        <w>лѣта·</w>
-                        <w>би</w>
-                        <w>сѧ</w>
-                        <w>ярославъ <lb/>
-                        </w>
-                        <w>с</w>
-                        <w>мордвою·</w>
-                        <w>побѣженъ</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>ярославъ</w>
-                        <w>маѧ</w>
-                        <w>·д҃· <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ярославъ·:·- <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ярославъ.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Ярославъ.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Ярославъ.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Ярославъ.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>280, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="5"><p>
+<app>
+<lem wit="#lem">
+<w>Ярославъ.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ярославъ· <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>ярославъ:- <lb/>ого<hi rend="sup">ж</hi></w>
+
+<w>лѣта</w>
+<w>би<hi rend="sup">с</hi></w>
+<w>ярославъ</w>
+<w>с</w>
+<w>морв<hi rend="sup">д</hi>ою·</w>
+<w>и</w>
+<w>побе<hi rend="sup">ж</hi>нъ</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>яросла<hi rend="sup">в</hi></w>
+<w>ма<hi rend="sup">р</hi></w>
+<w>д҃:- <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>ярославъ:·</w>
+<w>Того</w>
+<w>же</w>
+<w>лѣта·</w>
+<w>би</w>
+<w>сѧ</w>
+<w>ярославъ <lb/></w>
+
+<w>с</w>
+<w>мордвою·</w>
+<w>побѣженъ</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>ярославъ</w>
+<w>маѧ</w>
+<w>·д҃· <lb/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>ярославъ·:·- <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>ярославъ.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Ярославъ.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Ярославъ.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Ярославъ.</w>
+</rdg>
+</app></p></div></body></text></TEI>

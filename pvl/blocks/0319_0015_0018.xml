@@ -1,110 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>15, 18</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="18">
-            <p>
-               <app>
-                  <lem>
-                     <w>зазьрять;</w>
-                     <w>въ</w>
-                     <w>нихъже</w>
-                     <w>суть</w>
-                     <w>храбры</w>
-                     <w>жены,</w>
-                     <w>ловити</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>зрѧтъ</w>
-                        <w>в</w>
-                        <w>нихъже</w>
-                        <w>суть.</w>
-                        <w>храбры<lb/>я</w>
-                        <w>жены</w>
-                        <w>ловити</w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad">
-                        <w>зазрѧть. <lb/>
-                        </w>
-                        <w>в</w>
-                        <w>ни<hi rend="sup">х</hi>же</w>
-                        <w>соу<hi rend="sup">т</hi>
-                        </w>
-                        <w>хоробрыа</w>
-                        <w>жены.</w>
-                        <w>ловити</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>зазрѧтъ.</w>
-                        <w>в</w>
-                        <w>ни<hi rend="sup">х</hi>
-                        </w>
-                        <w>сѹть</w>
-                        <w>хоробрыа</w>
-                        <w>жены.</w>
-                        <w>ловити</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>зазрѧть</w>
-                        <w>в</w>
-                        <w>ни<lb/>хъже</w>
-                        <w>суть</w>
-                        <w>и</w>
-                        <w>хоробры<sic>я</sic>.</w>
-                        <w>же<lb/>ны</w>
-                        <w>ло<sic>ви</sic>ти</w>
-                     </rdg>
-                     <rdg wit="#xle"/>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>зазрятъ,</w>
-                        <w>в</w>
-                        <w>нихъже</w>
-                        <w>суть</w>
-                        <w>храбрыя</w>
-                        <w>жены,</w>
-                        <w>ловити</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>зазьрять;</w>
-                        <w>въ</w>
-                        <w>нихъже</w>
-                        <w>суть</w>
-                        <w>и</w>
-                        <w>храбры</w>
-                        <w>жены,</w>
-                        <w>ловити</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>зазрятъ,</w>
-                        <w>в</w>
-                        <w>нихъ</w>
-                        <w>же</w>
-                        <w>суть</w>
-                        <w>храбрыя</w>
-                        <w>жены</w>
-                        <w>ловити</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>15, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="18"><p>
+<app>
+<lem wit="#lem">
+<w>зазьрять;</w>
+<w>въ</w>
+<w>нихъже</w>
+<w>суть</w>
+<w>храбры</w>
+<w>жены,</w>
+<w>ловити</w>
+</lem>
+
+<rdg wit="#lav">
+<w>зрѧтъ</w>
+<w>в</w>
+<w>нихъже</w>
+<w>суть.</w>
+<w>храбры<lb/>я</w>
+<w>жены</w>
+<w>ловити</w>
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+<w>зазрѧть. <lb/></w>
+
+<w>в</w>
+<w>ни<hi rend="sup">х</hi>же</w>
+<w>соу<hi rend="sup">т</hi></w>
+<w>хоробрыа</w>
+<w>жены.</w>
+<w>ловити</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>зазрѧтъ.</w>
+<w>в</w>
+<w>ни<hi rend="sup">х</hi></w>
+<w>сѹть</w>
+<w>хоробрыа</w>
+<w>жены.</w>
+<w>ловити</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>зазрѧть</w>
+<w>в</w>
+<w>ни<lb/>хъже</w>
+<w>суть</w>
+<w>и</w>
+<w>хоробры<milestone unit="sic" n="start"/>я<milestone unit="sic" n="end"/>.</w>
+<w>же<lb/>ны</w>
+<w>ло<milestone unit="sic" n="start"/>ви<milestone unit="sic" n="end"/>ти</w>
+</rdg>
+
+<rdg wit="#xle">
+</rdg>
+
+<rdg wit="#bych">
+<w>зазрятъ,</w>
+<w>в</w>
+<w>нихъже</w>
+<w>суть</w>
+<w>храбрыя</w>
+<w>жены,</w>
+<w>ловити</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>зазьрять;</w>
+<w>въ</w>
+<w>нихъже</w>
+<w>суть</w>
+<w>и</w>
+<w>храбры</w>
+<w>жены,</w>
+<w>ловити</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>зазрятъ,</w>
+<w>в</w>
+<w>нихъ</w>
+<w>же</w>
+<w>суть</w>
+<w>храбрыя</w>
+<w>жены</w>
+<w>ловити</w>
+</rdg>
+</app></p></div></body></text></TEI>

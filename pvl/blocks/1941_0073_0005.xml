@@ -1,128 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>73, 5</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="5">
-            <p>
-               <app>
-                  <lem>
-                     <w>ни</w>
-                     <w>на</w>
-                     <w>власть</w>
-                     <w>Кърсуньскую,</w>
-                     <w>и</w>
-                     <w>елико</w>
-                     <w>есть</w>
-                     <w>градовъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ни</w>
-                        <w>на</w>
-                        <w>власт<hi rend="sup">ь</hi> 
-                           <lb/>
-                        </w>
-                        <w>корсуньскую.</w>
-                        <w>и</w>
-                        <w>елико</w>
-                        <w>есть</w>
-                        <w>городовъ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ни</w>
-                        <w>на</w>
-                        <w>власть</w>
-                        <w>корсоуньскѹю.</w>
-                        <w>и</w>
-                        <w>елико</w>
-                        <w>е<hi rend="sup">с</hi>
-                        </w>
-                        <w>горо<hi rend="sup">д</hi>въ</w>
-                        <w>
-                           <pb n="40r"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ни</w>
-                        <w>власть</w>
-                        <w>корсуньскую. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>елико</w>
-                        <w>есть</w>
-                        <w>городовъ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ни <lb/>
-                        </w>
-                        <w>на</w>
-                        <w>власть</w>
-                        <w>коръсуньску<lb/>ю.</w>
-                        <w>и</w>
-                        <w>елико</w>
-                        <w>есть</w>
-                        <w>го<sic>д</sic>ъ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ни</w>
-                        <w>власть <lb/>
-                        </w>
-                        <w>корсоу<hi rend="sup">н</hi>скоую.</w>
-                        <w>и</w>
-                        <w>елико</w>
-                        <w>е<hi rend="sup">с</hi>
-                        </w>
-                        <w>градовь</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>ни</w>
-                        <w>на</w>
-                        <w>власть</w>
-                        <w>Корсуньскую</w>
-                        <w>и</w>
-                        <w>елико</w>
-                        <w>есть</w>
-                        <w>городовъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>ни</w>
-                        <w>на</w>
-                        <w>власть</w>
-                        <w>Кърсуньскую,</w>
-                        <w>и</w>
-                        <w>елико</w>
-                        <w>есть</w>
-                        <w>градъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>ни</w>
-                        <w>на</w>
-                        <w>власть</w>
-                        <w>корсуньскую</w>
-                        <w>и</w>
-                        <w>елико</w>
-                        <w>есть</w>
-                        <w>городовъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>73, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="5"><p>
+<app>
+<lem wit="#lem">
+<w>ни</w>
+<w>на</w>
+<w>власть</w>
+<w>Кърсуньскую,</w>
+<w>и</w>
+<w>елико</w>
+<w>есть</w>
+<w>градовъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ни</w>
+<w>на</w>
+<w>власт<hi rend="sup">ь</hi><lb/></w>
+<w>корсуньскую.</w>
+<w>и</w>
+<w>елико</w>
+<w>есть</w>
+<w>городовъ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ни</w>
+<w>на</w>
+<w>власть</w>
+<w>корсоуньскѹю.</w>
+<w>и</w>
+<w>елико</w>
+<w>е<hi rend="sup">с</hi></w>
+<w>горо<hi rend="sup">д</hi>въ <pb n="40r"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>ни</w>
+<w>власть</w>
+<w>корсуньскую. <lb/></w>
+
+<w>и</w>
+<w>елико</w>
+<w>есть</w>
+<w>городовъ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ни <lb/></w>
+
+<w>на</w>
+<w>власть</w>
+<w>коръсуньску<lb/>ю.</w>
+<w>и</w>
+<w>елико</w>
+<w>есть</w>
+<w>го<milestone unit="sic" n="start"/>д<milestone unit="sic" n="end"/>ъ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ни</w>
+<w>власть <lb/></w>
+
+<w>корсоу<hi rend="sup">н</hi>скоую.</w>
+<w>и</w>
+<w>елико</w>
+<w>е<hi rend="sup">с</hi></w>
+<w>градовь</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>ни</w>
+<w>на</w>
+<w>власть</w>
+<w>Корсуньскую</w>
+<w>и</w>
+<w>елико</w>
+<w>есть</w>
+<w>городовъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>ни</w>
+<w>на</w>
+<w>власть</w>
+<w>Кърсуньскую,</w>
+<w>и</w>
+<w>елико</w>
+<w>есть</w>
+<w>градъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>ни</w>
+<w>на</w>
+<w>власть</w>
+<w>корсуньскую</w>
+<w>и</w>
+<w>елико</w>
+<w>есть</w>
+<w>городовъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

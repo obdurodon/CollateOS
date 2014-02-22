@@ -1,110 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>44, 13</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="13">
-            <p>
-               <app>
-                  <lem>
-                     <w>въ</w>
-                     <w>ня</w>
-                     <w>и</w>
-                     <w>изимаху,</w>
-                     <w>опакы</w>
-                     <w>руцѣ</w>
-                     <w>съвязавъше,</w>
-                     <w>и</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>въ</w>
-                        <w>нѧ.</w>
-                        <w>изимахуть</w>
-                        <w>ѡпаки</w>
-                        <w>ру<lb/>цѣ</w>
-                        <w>съвѧзывахуть.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>в</w>
-                        <w>нѧ.</w>
-                        <w>и</w>
-                        <w>изымахѹ</w>
-                        <w>ѡпакы</w>
-                        <w>роуцѣ</w>
-                        <w>свѧ<lb/>зывахѹ.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>в</w>
-                        <w>нѧ.</w>
-                        <w>и</w>
-                        <w>изыма<lb/>хѹ</w>
-                        <w>ѡпакы</w>
-                        <w>рѹцѣ</w>
-                        <w>свезахѹ.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>и</w>
-                        <w>изъламлѧху</w>
-                        <w>ѡпа<lb/>кы</w>
-                        <w>руцѣ</w>
-                        <w>свѧзавше.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>и</w>
-                        <w>изламлѧхѫ</w>
-                        <w>ѡпа<hi rend="sup">к</hi> 
-                           <lb/>
-                        </w>
-                        <w>роуци.</w>
-                        <w>свѧзавше.</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>въ</w>
-                        <w>ня,</w>
-                        <w>изимахуть,</w>
-                        <w>опаки</w>
-                        <w>руцѣ</w>
-                        <w>съвязывахуть,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>воя</w>
-                        <w>же</w>
-                        <w>изимаху,</w>
-                        <w>опакы</w>
-                        <w>руцѣ</w>
-                        <w>съвязавъше,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>въ</w>
-                        <w>ня,</w>
-                        <w>изимахуть,</w>
-                        <w>опаки</w>
-                        <w>руцѣ</w>
-                        <w>съвязывахуть,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>44, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="13"><p>
+<app>
+<lem wit="#lem">
+<w>въ</w>
+<w>ня</w>
+<w>и</w>
+<w>изимаху,</w>
+<w>опакы</w>
+<w>руцѣ</w>
+<w>съвязавъше,</w>
+<w>и</w>
+</lem>
+
+<rdg wit="#lav">
+<w>въ</w>
+<w>нѧ.</w>
+<w>изимахуть</w>
+<w>ѡпаки</w>
+<w>ру<lb/>цѣ</w>
+<w>съвѧзывахуть.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>в</w>
+<w>нѧ.</w>
+<w>и</w>
+<w>изымахѹ</w>
+<w>ѡпакы</w>
+<w>роуцѣ</w>
+<w>свѧ<lb/>зывахѹ.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>в</w>
+<w>нѧ.</w>
+<w>и</w>
+<w>изыма<lb/>хѹ</w>
+<w>ѡпакы</w>
+<w>рѹцѣ</w>
+<w>свезахѹ.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>и</w>
+<w>изъламлѧху</w>
+<w>ѡпа<lb/>кы</w>
+<w>руцѣ</w>
+<w>свѧзавше.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>и</w>
+<w>изламлѧхѫ</w>
+<w>ѡпа<hi rend="sup">к</hi><lb/></w>
+<w>роуци.</w>
+<w>свѧзавше.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>въ</w>
+<w>ня,</w>
+<w>изимахуть,</w>
+<w>опаки</w>
+<w>руцѣ</w>
+<w>съвязывахуть,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>воя</w>
+<w>же</w>
+<w>изимаху,</w>
+<w>опакы</w>
+<w>руцѣ</w>
+<w>съвязавъше,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>въ</w>
+<w>ня,</w>
+<w>изимахуть,</w>
+<w>опаки</w>
+<w>руцѣ</w>
+<w>съвязывахуть,</w>
+</rdg>
+</app></p></div></body></text></TEI>

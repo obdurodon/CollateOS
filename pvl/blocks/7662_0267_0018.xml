@@ -1,127 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>267, 18</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="18">
-            <p>
-               <app>
-                  <lem>
-                     <w>сѣде</w>
-                     <w>Василько</w>
-                     <w>въ</w>
-                     <w>Теребовли,</w>
-                     <w>а</w>
-                     <w>Давыдъ</w>
-                     <w>приде</w>
-                     <w>Володимирю.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>сѣде</w>
-                        <w>василко</w>
-                        <w>теребовли <lb/>
-                        </w>
-                        <w>а</w>
-                        <w>двд҃ъ</w>
-                        <w>приде</w>
-                        <w>володимерю·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>сѣде</w>
-                        <w>васи<hi rend="sup">л</hi>ко</w>
-                        <w>в</w>
-                        <w>теребовли·</w>
-                        <w>и</w>
-                        <w>дв<hi rend="sup">д</hi>ъ</w>
-                        <w>прииде</w>
-                        <w>к</w>
-                        <w>володимирю· <lb/>
-                        </w>
-                        <w>
-                           <pb n="144v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>сѣде</w>
-                        <w>василко</w>
-                        <w>в</w>
-                        <w>теребовли·</w>
-                        <w>а <lb/>
-                        </w>
-                        <w>двд҃ъ</w>
-                        <w>прииде</w>
-                        <w>к</w>
-                        <w>володимирю·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>сѣде</w>
-                        <w>василко <lb/>
-                        </w>
-                        <w>в</w>
-                        <w>теребовли·</w>
-                        <w>двд҃ъ</w>
-                        <w>приде</w>
-                        <w>во<lb/>лодимерю·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>сѣде</w>
-                        <w>васи<hi rend="sup">л</hi>ко</w>
-                        <w>в</w>
-                        <w>теребовли,</w>
-                        <w>а</w>
-                        <w>давы<hi rend="sup">д</hi> 
-                           <lb/>
-                        </w>
-                        <w>прїиде</w>
-                        <w>к</w>
-                        <w>вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>мероу.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>сѣде</w>
-                        <w>Василко</w>
-                        <w>Теребовли,</w>
-                        <w>а</w>
-                        <w>Давыдъ</w>
-                        <w>приде</w>
-                        <w>Володимерю;</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>сѣде</w>
-                        <w>Василько</w>
-                        <w>Теребовли,</w>
-                        <w>а</w>
-                        <w>Давыдъ</w>
-                        <w>приде</w>
-                        <w>Володимерю.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>сѣде</w>
-                        <w>Василко</w>
-                        <w>Теребовли,</w>
-                        <w>а</w>
-                        <w>Давыдъ</w>
-                        <w>приде</w>
-                        <w>Володимерю.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>267, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="18"><p>
+<app>
+<lem wit="#lem">
+<w>сѣде</w>
+<w>Василько</w>
+<w>въ</w>
+<w>Теребовли,</w>
+<w>а</w>
+<w>Давыдъ</w>
+<w>приде</w>
+<w>Володимирю.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>сѣде</w>
+<w>василко</w>
+<w>теребовли <lb/></w>
+
+<w>а</w>
+<w>двд҃ъ</w>
+<w>приде</w>
+<w>володимерю·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>сѣде</w>
+<w>васи<hi rend="sup">л</hi>ко</w>
+<w>в</w>
+<w>теребовли·</w>
+<w>и</w>
+<w>дв<hi rend="sup">д</hi>ъ</w>
+<w>прииде</w>
+<w>к</w>
+<w>володимирю· <lb/><pb n="144v"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>сѣде</w>
+<w>василко</w>
+<w>в</w>
+<w>теребовли·</w>
+<w>а <lb/></w>
+
+<w>двд҃ъ</w>
+<w>прииде</w>
+<w>к</w>
+<w>володимирю·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>сѣде</w>
+<w>василко <lb/></w>
+
+<w>в</w>
+<w>теребовли·</w>
+<w>двд҃ъ</w>
+<w>приде</w>
+<w>во<lb/>лодимерю·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>сѣде</w>
+<w>васи<hi rend="sup">л</hi>ко</w>
+<w>в</w>
+<w>теребовли,</w>
+<w>а</w>
+<w>давы<hi rend="sup">д</hi><lb/></w>
+<w>прїиде</w>
+<w>к</w>
+<w>вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>мероу.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>сѣде</w>
+<w>Василко</w>
+<w>Теребовли,</w>
+<w>а</w>
+<w>Давыдъ</w>
+<w>приде</w>
+<w>Володимерю;</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>сѣде</w>
+<w>Василько</w>
+<w>Теребовли,</w>
+<w>а</w>
+<w>Давыдъ</w>
+<w>приде</w>
+<w>Володимерю.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>сѣде</w>
+<w>Василко</w>
+<w>Теребовли,</w>
+<w>а</w>
+<w>Давыдъ</w>
+<w>приде</w>
+<w>Володимерю.</w>
+</rdg>
+</app></p></div></body></text></TEI>

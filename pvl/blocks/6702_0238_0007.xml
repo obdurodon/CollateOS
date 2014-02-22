@@ -1,113 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>238, 7</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="7">
-            <p>
-               <app>
-                  <lem>
-                     <w>на</w>
-                     <w>поли</w>
-                     <w>у</w>
-                     <w>Ростова.</w>
-                     <w>Мьстиславъ</w>
-                     <w>же</w>
-                     <w>съдумавъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>на</w>
-                        <w>поли</w>
-                        <w>оу</w>
-                        <w>ростова· <lb/>
-                        </w>
-                        <w>мьстислав</w>
-                        <w>же</w>
-                        <w>сдумавъ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>на</w>
-                        <w>поли·</w>
-                        <w>оу</w>
-                        <w>ростова·</w>
-                        <w>мстислав</w>
-                        <w>же</w>
-                        <w>сдѹма</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>на</w>
-                        <w>поли</w>
-                        <w>оу</w>
-                        <w>росто<lb/>ва·</w>
-                        <w>мстиславъ</w>
-                        <w>же</w>
-                        <w>здѹма</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>на</w>
-                        <w>по<lb/>ли</w>
-                        <w>оу</w>
-                        <w>ростова·</w>
-                        <w>мьстислав</w>
-                        <w>же <lb/>
-                        </w>
-                        <w>здумавъ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>на</w>
-                        <w>поли</w>
-                        <w>оу</w>
-                        <w>росто<lb/>ва.</w>
-                        <w>мьстислав</w>
-                        <w>же</w>
-                        <w>съдоумавь</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>на</w>
-                        <w>поли</w>
-                        <w>у</w>
-                        <w>Ростова.</w>
-                        <w>Мьстиславъ</w>
-                        <w>же</w>
-                        <w>сдума</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>на</w>
-                        <w>поли</w>
-                        <w>у</w>
-                        <w>Ростова.</w>
-                        <w>Мьстиславъ</w>
-                        <w>же,</w>
-                        <w>съдумавъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>на</w>
-                        <w>поли</w>
-                        <w>у</w>
-                        <w>Ростова.</w>
-                        <w>Мьстислав</w>
-                        <w>же</w>
-                        <w>сдума</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>238, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="7"><p>
+<app>
+<lem wit="#lem">
+<w>на</w>
+<w>поли</w>
+<w>у</w>
+<w>Ростова.</w>
+<w>Мьстиславъ</w>
+<w>же</w>
+<w>съдумавъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>на</w>
+<w>поли</w>
+<w>оу</w>
+<w>ростова· <lb/></w>
+
+<w>мьстислав</w>
+<w>же</w>
+<w>сдумавъ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>на</w>
+<w>поли·</w>
+<w>оу</w>
+<w>ростова·</w>
+<w>мстислав</w>
+<w>же</w>
+<w>сдѹма</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>на</w>
+<w>поли</w>
+<w>оу</w>
+<w>росто<lb/>ва·</w>
+<w>мстиславъ</w>
+<w>же</w>
+<w>здѹма</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>на</w>
+<w>по<lb/>ли</w>
+<w>оу</w>
+<w>ростова·</w>
+<w>мьстислав</w>
+<w>же <lb/></w>
+
+<w>здумавъ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>на</w>
+<w>поли</w>
+<w>оу</w>
+<w>росто<lb/>ва.</w>
+<w>мьстислав</w>
+<w>же</w>
+<w>съдоумавь</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>на</w>
+<w>поли</w>
+<w>у</w>
+<w>Ростова.</w>
+<w>Мьстиславъ</w>
+<w>же</w>
+<w>сдума</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>на</w>
+<w>поли</w>
+<w>у</w>
+<w>Ростова.</w>
+<w>Мьстиславъ</w>
+<w>же,</w>
+<w>съдумавъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>на</w>
+<w>поли</w>
+<w>у</w>
+<w>Ростова.</w>
+<w>Мьстислав</w>
+<w>же</w>
+<w>сдума</w>
+</rdg>
+</app></p></div></body></text></TEI>

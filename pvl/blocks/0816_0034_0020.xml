@@ -1,115 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>34, 20</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="20">
-            <p>
-               <app>
-                  <lem>
-                     <w>тяжа,</w>
-                     <w>доньдеже</w>
-                     <w>обрящеть</w>
-                     <w>ся,</w>
-                     <w>да</w>
-                     <w>умьреть.</w>
-                     <w>Аще</w>
-                     <w>ли</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>тѧжи.</w>
-                        <w>донде<hi rend="sup">ж</hi>
-                        </w>
-                        <w>ѡбрѧщеть<hi rend="sup">с</hi>
-                        </w>
-                        <w>да</w>
-                        <w>оумреть. <lb/>
-                        </w>
-                        <w>аще</w>
-                        <w>ли</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>тѧжи.</w>
-                        <w>донде<sic>же ѡ</sic>брѧщетсѧ <lb/>
-                        </w>
-                        <w>да</w>
-                        <w>оумретъ.</w>
-                        <w>аще</w>
-                        <w>ли</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>тѧжи.</w>
-                        <w>донь<lb/>деже</w>
-                        <w>ѡбрѧщетсѧ</w>
-                        <w>яко</w>
-                        <w>да <lb/>
-                        </w>
-                        <w>оумреть.</w>
-                        <w>аще</w>
-                        <w>ли</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>тѧжи.</w>
-                        <w>до<lb/>ндеже</w>
-                        <w>ѡбрѧщетсѧ</w>
-                        <w>яко</w>
-                        <w>оумре<hi rend="sup">т</hi>.</w>
-                        <w>аще</w>
-                        <w>ли</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>тяжи,</w>
-                        <w>дондеже</w>
-                        <w>обрящеться,</w>
-                        <w>яко</w>
-                        <w>да</w>
-                        <w>умреть.</w>
-                        <w>Аще</w>
-                        <w>ли</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>тяжа,</w>
-                        <w>доньдеже</w>
-                        <w>обрящеться,</w>
-                        <w>аще</w>
-                        <w>ли</w>
-                        <w>обрящеться,</w>
-                        <w>и</w>
-                        <w>да</w>
-                        <w>умьреть.</w>
-                        <w>Аще</w>
-                        <w>ли</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>тяжи,</w>
-                        <w>дондеже</w>
-                        <w>обрящеться,</w>
-                        <w>и</w>
-                        <w>да</w>
-                        <w>умреть.</w>
-                        <w>Аще</w>
-                        <w>ли</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>34, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="20"><p>
+<app>
+<lem wit="#lem">
+<w>тяжа,</w>
+<w>доньдеже</w>
+<w>обрящеть</w>
+<w>ся,</w>
+<w>да</w>
+<w>умьреть.</w>
+<w>Аще</w>
+<w>ли</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>тѧжи.</w>
+<w>донде<hi rend="sup">ж</hi></w>
+<w>ѡбрѧщеть<hi rend="sup">с</hi></w>
+<w>да</w>
+<w>оумреть. <lb/></w>
+
+<w>аще</w>
+<w>ли</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>тѧжи.</w>
+<w>донде<milestone unit="sic" n="start"/>же</w>
+<w>ѡ<milestone unit="sic" n="end"/>брѧщетсѧ <lb/></w>
+
+<w>да</w>
+<w>оумретъ.</w>
+<w>аще</w>
+<w>ли</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>тѧжи.</w>
+<w>донь<lb/>деже</w>
+<w>ѡбрѧщетсѧ</w>
+<w>яко</w>
+<w>да <lb/></w>
+
+<w>оумреть.</w>
+<w>аще</w>
+<w>ли</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>тѧжи.</w>
+<w>до<lb/>ндеже</w>
+<w>ѡбрѧщетсѧ</w>
+<w>яко</w>
+<w>оумре<hi rend="sup">т</hi>.</w>
+<w>аще</w>
+<w>ли</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>тяжи,</w>
+<w>дондеже</w>
+<w>обрящеться,</w>
+<w>яко</w>
+<w>да</w>
+<w>умреть.</w>
+<w>Аще</w>
+<w>ли</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>тяжа,</w>
+<w>доньдеже</w>
+<w>обрящеться,</w>
+<w>аще</w>
+<w>ли</w>
+<w>обрящеться,</w>
+<w>и</w>
+<w>да</w>
+<w>умьреть.</w>
+<w>Аще</w>
+<w>ли</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>тяжи,</w>
+<w>дондеже</w>
+<w>обрящеться,</w>
+<w>и</w>
+<w>да</w>
+<w>умреть.</w>
+<w>Аще</w>
+<w>ли</w>
+</rdg>
+</app></p></div></body></text></TEI>

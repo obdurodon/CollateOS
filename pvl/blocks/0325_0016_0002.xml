@@ -1,106 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>16, 2</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="2">
-            <p>
-               <app>
-                  <lem>
-                     <w>независтьно</w>
-                     <w>и</w>
-                     <w>не</w>
-                     <w>въздьржаньно.</w>
-                     <w>Амазоняне</w>
-                     <w>же</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>независтьно</w>
-                        <w>ни</w>
-                        <w>въздержаньно.</w>
-                        <w>амазоне</w>
-                        <w>же</w>
-                        <w>
-                           <pb n="6r"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad">
-                        <w>неза<lb/>вистно</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>воздержанно·:·</w>
-                        <w>И</w>
-                        <w>мазовнѧне<hi rend="sup">ж</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>независтно</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>воздержаннѹ. <lb/>
-                        </w>
-                        <w>мазонѧне</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>независтьно</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>въздѣ<lb/>ржанно·:· <lb/>
-                        </w>
-                        <w>Амазонѧни</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>независтно</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>въздержанно.·̏ <lb/>
-                        </w>
-                        <w>Амазонѧ</w>
-                        <w>же</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>независтьно</w>
-                        <w>ни</w>
-                        <w>въздержаньно.</w>
-                        <w>Амазоняне</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>независтьно,</w>
-                        <w>ни</w>
-                        <w>въздьржаньно.</w>
-                        <w>Амазоняне</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>независтьно</w>
-                        <w>ни</w>
-                        <w>въздержаньно.</w>
-                        <w>Амазоне</w>
-                        <w>же</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>16, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="2"><p>
+<app>
+<lem wit="#lem">
+<w>независтьно</w>
+<w>и</w>
+<w>не</w>
+<w>въздьржаньно.</w>
+<w>Амазоняне</w>
+<w>же</w>
+</lem>
+
+<rdg wit="#lav">
+<w>независтьно</w>
+<w>ни</w>
+<w>въздержаньно.</w>
+<w>амазоне</w>
+<w>же <pb n="6r"/></w>
+
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+<w>неза<lb/>вистно</w>
+<w>и</w>
+<w>не</w>
+<w>воздержанно·:·</w>
+<w>И</w>
+<w>мазовнѧне<hi rend="sup">ж</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>независтно</w>
+<w>и</w>
+<w>не</w>
+<w>воздержаннѹ. <lb/></w>
+
+<w>мазонѧне</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>независтьно</w>
+<w>и</w>
+<w>не</w>
+<w>въздѣ<lb/>ржанно·:· <lb/></w>
+
+<w>Амазонѧни</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>независтно</w>
+<w>и</w>
+<w>не</w>
+<w>въздержанно.·̏ <lb/></w>
+
+<w>Амазонѧ</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>независтьно</w>
+<w>ни</w>
+<w>въздержаньно.</w>
+<w>Амазоняне</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>независтьно,</w>
+<w>ни</w>
+<w>въздьржаньно.</w>
+<w>Амазоняне</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>независтьно</w>
+<w>ни</w>
+<w>въздержаньно.</w>
+<w>Амазоне</w>
+<w>же</w>
+</rdg>
+</app></p></div></body></text></TEI>

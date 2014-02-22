@@ -1,106 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>227, 26</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="26">
-            <p>
-               <app>
-                  <lem>
-                     <w>же,</w>
-                     <w>въ</w>
-                     <w>недѣлю,</w>
-                     <w>заутрьни</w>
-                     <w>сущи</w>
-                     <w>годинѣ,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>яже <lb/>
-                        </w>
-                        <w>в</w>
-                        <w>не<hi rend="sup">д</hi>лю·</w>
-                        <w>заоутрени</w>
-                        <w>суще</w>
-                        <w>годи<lb/>нѣ·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>же</w>
-                        <w>в</w>
-                        <w>дн҃е.</w>
-                        <w>оутренеи</w>
-                        <w>соуща</w>
-                        <w>годинѣ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>же</w>
-                        <w>во</w>
-                        <w>д҃ни·</w>
-                        <w>оутренеи</w>
-                        <w>сѹщи</w>
-                        <w>годинѣ·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>же·</w>
-                        <w>в</w>
-                        <w>недѣлю</w>
-                        <w>в</w>
-                        <w>завьтре<lb/>нѣ</w>
-                        <w>сущи</w>
-                        <w>години·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>в</w>
-                        <w>не<hi rend="sup">д</hi>лю</w>
-                        <w>завтрени</w>
-                        <w>сѫщи</w>
-                        <w>г<hi rend="sup">д</hi>о<hi rend="sup">ї</hi>нѣ.</w>
-                        <w>
-                           <pb n="103v"/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>же,</w>
-                        <w>в</w>
-                        <w>недѣлю,</w>
-                        <w>заутрени</w>
-                        <w>сущи</w>
-                        <w>годинѣ,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>же,</w>
-                        <w>въ</w>
-                        <w>недѣлю,</w>
-                        <w>заутрьни</w>
-                        <w>сущи</w>
-                        <w>годинѣ,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>же,</w>
-                        <w>в</w>
-                        <w>недѣлю,</w>
-                        <w>заутрени</w>
-                        <w>сущи</w>
-                        <w>годинѣ,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>227, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="26"><p>
+<app>
+<lem wit="#lem">
+<w>же,</w>
+<w>въ</w>
+<w>недѣлю,</w>
+<w>заутрьни</w>
+<w>сущи</w>
+<w>годинѣ,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>яже <lb/></w>
+
+<w>в</w>
+<w>не<hi rend="sup">д</hi>лю·</w>
+<w>заоутрени</w>
+<w>суще</w>
+<w>годи<lb/>нѣ·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>же</w>
+<w>в</w>
+<w>дн҃е.</w>
+<w>оутренеи</w>
+<w>соуща</w>
+<w>годинѣ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>же</w>
+<w>во</w>
+<w>д҃ни·</w>
+<w>оутренеи</w>
+<w>сѹщи</w>
+<w>годинѣ·</w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>же·</w>
+<w>в</w>
+<w>недѣлю</w>
+<w>в</w>
+<w>завьтре<lb/>нѣ</w>
+<w>сущи</w>
+<w>години·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>в</w>
+<w>не<hi rend="sup">д</hi>лю</w>
+<w>завтрени</w>
+<w>сѫщи</w>
+<w>г<hi rend="sup">д</hi>о<hi rend="sup">ї</hi>нѣ. <pb n="103v"/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>же,</w>
+<w>в</w>
+<w>недѣлю,</w>
+<w>заутрени</w>
+<w>сущи</w>
+<w>годинѣ,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>же,</w>
+<w>въ</w>
+<w>недѣлю,</w>
+<w>заутрьни</w>
+<w>сущи</w>
+<w>годинѣ,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>же,</w>
+<w>в</w>
+<w>недѣлю,</w>
+<w>заутрени</w>
+<w>сущи</w>
+<w>годинѣ,</w>
+</rdg>
+</app></p></div></body></text></TEI>

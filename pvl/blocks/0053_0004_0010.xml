@@ -1,145 +1,122 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>4, 10</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="10">
-            <p>
-               <app>
-                  <lem>
-                     <w>же</w>
-                     <w>морю</w>
-                     <w>сѣдять</w>
-                     <w>къ</w>
-                     <w>западу</w>
-                     <w>до</w>
-                     <w>земля</w>
-                     <w>Агляньски</w>
-                     <w>и</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>же</w>
-                        <w>морю</w>
-                        <w>сѣдѧть</w>
-                        <w>къ</w>
-                        <w>западу</w>
-                        <w>
-                           <sic>до зе</sic>млѣ</w>
-                        <w>агнѧн<lb/>
-                        </w>
-                        <w>
-                           <sic>с</sic>ки</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>же</w>
-                        <w>морю</w>
-                        <w>сѣдять</w>
-                        <w>къ</w>
-                        <w>западу</w>
-                        <w>до</w>
-                        <w>землѣ</w>
-                        <w>агняньски</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>же</w>
-                        <w>морю</w>
-                        <w>седѧ<hi rend="sup">т</hi>
-                        </w>
-                        <w>к</w>
-                        <w>западоу <lb/>
-                        </w>
-                        <w>до</w>
-                        <w>земли</w>
-                        <w>агаянскы</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>же</w>
-                        <w>морю</w>
-                        <w>седѧтъ. <lb/>
-                        </w>
-                        <w>к</w>
-                        <w>пападѹ</w>
-                        <w>до</w>
-                        <w>змлї</w>
-                        <w>аанскы.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>же</w>
-                        <w>морю</w>
-                        <w>сѣдѧть</w>
-                        <w>къ</w>
-                        <w>запа<lb/>ду.</w>
-                        <w>до</w>
-                        <w>земли</w>
-                        <w>агарѧньски</w>
-                        <w>и <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>морю</w>
-                        <w>сѣдѧ<hi rend="sup">т</hi>
-                        </w>
-                        <w>к</w>
-                        <w>запо<hi rend="sup">д</hi>у</w>
-                        <w>до</w>
-                        <w>зе<hi rend="sup">м</hi>лѧ</w>
-                        <w>аглѧнскы.</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>же</w>
-                        <w>морю</w>
-                        <w>сѣдять</w>
-                        <w>къ</w>
-                        <w>западу</w>
-                        <w>до</w>
-                        <w>землѣ</w>
-                        <w>Агнянски</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>же</w>
-                        <w>морю</w>
-                        <w>сѣдять</w>
-                        <w>къ</w>
-                        <w>западу</w>
-                        <w>до</w>
-                        <w>землѣ</w>
-                        <w>Агляньскы</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>же</w>
-                        <w>морю</w>
-                        <w>сѣдять</w>
-                        <w>къ</w>
-                        <w>западу</w>
-                        <w>до</w>
-                        <w>землѣ</w>
-                        <w>Агнянски</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>4, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="10"><p>
+<app>
+<lem wit="#lem">
+<w>же</w>
+<w>морю</w>
+<w>сѣдять</w>
+<w>къ</w>
+<w>западу</w>
+<w>до</w>
+<w>земля</w>
+<w>Агляньски</w>
+<w>и</w>
+</lem>
+
+<rdg wit="#lav">
+<w>же</w>
+<w>морю</w>
+<w>сѣдѧть</w>
+<w>къ</w>
+<w>западу</w>
+<w><milestone unit="sic" n="start"/>до</w>
+<w>зе<milestone unit="sic" n="end"/>млѣ</w>
+<w>агнѧн<lb/><milestone unit="sic" n="start"/>с<milestone unit="sic" n="end"/>ки</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>же</w>
+<w>морю</w>
+<w>сѣдять</w>
+<w>къ</w>
+<w>западу</w>
+<w>до</w>
+<w>землѣ</w>
+<w>агняньски</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>же</w>
+<w>морю</w>
+<w>седѧ<hi rend="sup">т</hi></w>
+<w>к</w>
+<w>западоу <lb/></w>
+
+<w>до</w>
+<w>земли</w>
+<w>агаянскы</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>же</w>
+<w>морю</w>
+<w>седѧтъ. <lb/></w>
+
+<w>к</w>
+<w>пападѹ</w>
+<w>до</w>
+<w>змлї</w>
+<w>аанскы.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>же</w>
+<w>морю</w>
+<w>сѣдѧть</w>
+<w>къ</w>
+<w>запа<lb/>ду.</w>
+<w>до</w>
+<w>земли</w>
+<w>агарѧньски</w>
+<w>и <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>морю</w>
+<w>сѣдѧ<hi rend="sup">т</hi></w>
+<w>к</w>
+<w>запо<hi rend="sup">д</hi>у</w>
+<w>до</w>
+<w>зе<hi rend="sup">м</hi>лѧ</w>
+<w>аглѧнскы.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>же</w>
+<w>морю</w>
+<w>сѣдять</w>
+<w>къ</w>
+<w>западу</w>
+<w>до</w>
+<w>землѣ</w>
+<w>Агнянски</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>же</w>
+<w>морю</w>
+<w>сѣдять</w>
+<w>къ</w>
+<w>западу</w>
+<w>до</w>
+<w>землѣ</w>
+<w>Агляньскы</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>же</w>
+<w>морю</w>
+<w>сѣдять</w>
+<w>къ</w>
+<w>западу</w>
+<w>до</w>
+<w>землѣ</w>
+<w>Агнянски</w>
+<w>и</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,131 +1,104 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>168, 11</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="11">
-            <p>
-               <app>
-                  <lem>
-                     <w>твоя”;</w>
-                     <w>того</w>
-                     <w>ради</w>
-                     <w>“Удьржахъ</w>
-                     <w>отъ</w>
-                     <w>васъ</w>
-                     <w>дъждь,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>твоя.</w>
-                        <w>того</w>
-                        <w>ради</w>
-                        <w>оуде<lb/>ржахъ</w>
-                        <w>ѿ</w>
-                        <w>васъ</w>
-                        <w>дождь.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>твоа.</w>
-                        <w>того</w>
-                        <w>ра<hi rend="sup">д</hi>
-                        </w>
-                        <w>оу<lb/>держа<hi rend="sup">х</hi>
-                        </w>
-                        <w>ѿ</w>
-                        <w>ва<hi rend="sup">с</hi>
-                        </w>
-                        <w>дож<hi rend="sup">д</hi>ь.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>твоѧ.</w>
-                        <w>того</w>
-                        <w>ради</w>
-                        <w>оудръ<lb/>жа<hi rend="sup">х</hi>
-                        </w>
-                        <w>ѿ</w>
-                        <w>ва<hi rend="sup">с</hi>
-                        </w>
-                        <w>дож<hi rend="sup">д</hi>ь.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>твоя.</w>
-                        <w>того</w>
-                        <w>ра<lb/>ди</w>
-                        <w>оудержа<hi rend="sup">х</hi>
-                        </w>
-                        <w>ѿ</w>
-                        <w>васъ</w>
-                        <w>дождь. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>твоѧ.</w>
-                        <w>того</w>
-                        <w>р<hi rend="sup">д</hi>а<hi rend="sup">и</hi>
-                        </w>
-                        <w>оудръжа<hi rend="sup">х</hi>
-                        </w>
-                        <w>ѿ</w>
-                        <w>ва<hi rend="sup">с</hi>
-                        </w>
-                        <w>дъж<hi rend="sup">д</hi>ь. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>твоя</w>
-                        <w>того</w>
-                        <w>ради</w>
-                        <w>удержах</w>
-                        <w>от</w>
-                        <w>вас</w>
-                        <w>дождь</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>твоя,</w>
-                        <w>того</w>
-                        <w>ради</w>
-                        <w>удержахъ</w>
-                        <w>отъ</w>
-                        <w>васъ</w>
-                        <w>дождь,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>твоя”;</w>
-                        <w>того</w>
-                        <w>ради</w>
-                        <w>“Удьржахъ</w>
-                        <w>отъ</w>
-                        <w>васъ</w>
-                        <w>дъждь,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>твоя”,</w>
-                        <w>того</w>
-                        <w>ради</w>
-                        <w>“Удержахъ</w>
-                        <w>от</w>
-                        <w>васъ</w>
-                        <w>дождь,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>168, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="11"><p>
+<app>
+<lem wit="#lem">
+<w>твоя”;</w>
+<w>того</w>
+<w>ради</w>
+<w>“Удьржахъ</w>
+<w>отъ</w>
+<w>васъ</w>
+<w>дъждь,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>твоя.</w>
+<w>того</w>
+<w>ради</w>
+<w>оуде<lb/>ржахъ</w>
+<w>ѿ</w>
+<w>васъ</w>
+<w>дождь.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>твоа.</w>
+<w>того</w>
+<w>ра<hi rend="sup">д</hi></w>
+<w>оу<lb/>держа<hi rend="sup">х</hi></w>
+<w>ѿ</w>
+<w>ва<hi rend="sup">с</hi></w>
+<w>дож<hi rend="sup">д</hi>ь.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>твоѧ.</w>
+<w>того</w>
+<w>ради</w>
+<w>оудръ<lb/>жа<hi rend="sup">х</hi></w>
+<w>ѿ</w>
+<w>ва<hi rend="sup">с</hi></w>
+<w>дож<hi rend="sup">д</hi>ь.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>твоя.</w>
+<w>того</w>
+<w>ра<lb/>ди</w>
+<w>оудержа<hi rend="sup">х</hi></w>
+<w>ѿ</w>
+<w>васъ</w>
+<w>дождь. <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>твоѧ.</w>
+<w>того</w>
+<w>р<hi rend="sup">д</hi>а<hi rend="sup">и</hi></w>
+<w>оудръжа<hi rend="sup">х</hi></w>
+<w>ѿ</w>
+<w>ва<hi rend="sup">с</hi></w>
+<w>дъж<hi rend="sup">д</hi>ь. <lb/></w>
+
+</rdg>
+
+<rdg wit="#kom">
+<w>твоя</w>
+<w>того</w>
+<w>ради</w>
+<w>удержах</w>
+<w>от</w>
+<w>вас</w>
+<w>дождь</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>твоя,</w>
+<w>того</w>
+<w>ради</w>
+<w>удержахъ</w>
+<w>отъ</w>
+<w>васъ</w>
+<w>дождь,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>твоя”;</w>
+<w>того</w>
+<w>ради</w>
+<w>“Удьржахъ</w>
+<w>отъ</w>
+<w>васъ</w>
+<w>дъждь,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>твоя”,</w>
+<w>того</w>
+<w>ради</w>
+<w>“Удержахъ</w>
+<w>от</w>
+<w>васъ</w>
+<w>дождь,</w>
+</rdg>
+</app></p></div></body></text></TEI>

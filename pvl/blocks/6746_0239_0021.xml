@@ -1,107 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>239, 21</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="21">
-            <p>
-               <app>
-                  <lem>
-                     <w>Куману,</w>
-                     <w>и</w>
-                     <w>въдавъ</w>
-                     <w>ему</w>
-                     <w>пѣшьцѣ,</w>
-                     <w>постави</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>кунуи</w>
-                        <w>и</w>
-                        <w>вдавъ</w>
-                        <w>ѥму</w>
-                        <w>пѣшьцѣ <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>постави</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>кѹманѹ·</w>
-                        <w>вда</w>
-                        <w>е<lb/>мѹ</w>
-                        <w>пѣшци·</w>
-                        <w>и</w>
-                        <w>постави</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>кѹ<lb/>манѹ·</w>
-                        <w>и</w>
-                        <w>вда</w>
-                        <w>емѹ</w>
-                        <w>пѣшьци·</w>
-                        <w>и</w>
-                        <w>постави</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>куману·</w>
-                        <w>оудавъ</w>
-                        <w>ему</w>
-                        <w>пѣшьцѣ·</w>
-                        <w>по<lb/>ставивъ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>коуманоу.</w>
-                        <w>и</w>
-                        <w>вдавь</w>
-                        <w>емѹ <lb/>
-                        </w>
-                        <w>пѣшца.</w>
-                        <w>постави</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Кунуи,</w>
-                        <w>и</w>
-                        <w>вдавъ</w>
-                        <w>ему</w>
-                        <w>пѣшьцѣ,</w>
-                        <w>и</w>
-                        <w>постави</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Куную,</w>
-                        <w>и</w>
-                        <w>въдавъ</w>
-                        <w>ему</w>
-                        <w>пѣшьцѣ,</w>
-                        <w>постави</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Кунуи,</w>
-                        <w>и</w>
-                        <w>вдавъ</w>
-                        <w>ему</w>
-                        <w>пѣшьцѣ,</w>
-                        <w>и</w>
-                        <w>постави</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>239, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="21"><p>
+<app>
+<lem wit="#lem">
+<w>Куману,</w>
+<w>и</w>
+<w>въдавъ</w>
+<w>ему</w>
+<w>пѣшьцѣ,</w>
+<w>постави</w>
+</lem>
+
+<rdg wit="#lav">
+<w>кунуи</w>
+<w>и</w>
+<w>вдавъ</w>
+<w>ѥму</w>
+<w>пѣшьцѣ <lb/></w>
+
+<w>и</w>
+<w>постави</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>кѹманѹ·</w>
+<w>вда</w>
+<w>е<lb/>мѹ</w>
+<w>пѣшци·</w>
+<w>и</w>
+<w>постави</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>кѹ<lb/>манѹ·</w>
+<w>и</w>
+<w>вда</w>
+<w>емѹ</w>
+<w>пѣшьци·</w>
+<w>и</w>
+<w>постави</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>куману·</w>
+<w>оудавъ</w>
+<w>ему</w>
+<w>пѣшьцѣ·</w>
+<w>по<lb/>ставивъ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>коуманоу.</w>
+<w>и</w>
+<w>вдавь</w>
+<w>емѹ <lb/></w>
+
+<w>пѣшца.</w>
+<w>постави</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Кунуи,</w>
+<w>и</w>
+<w>вдавъ</w>
+<w>ему</w>
+<w>пѣшьцѣ,</w>
+<w>и</w>
+<w>постави</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Куную,</w>
+<w>и</w>
+<w>въдавъ</w>
+<w>ему</w>
+<w>пѣшьцѣ,</w>
+<w>постави</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Кунуи,</w>
+<w>и</w>
+<w>вдавъ</w>
+<w>ему</w>
+<w>пѣшьцѣ,</w>
+<w>и</w>
+<w>постави</w>
+</rdg>
+</app></p></div></body></text></TEI>

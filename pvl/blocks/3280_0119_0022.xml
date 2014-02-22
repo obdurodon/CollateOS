@@ -1,106 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>119, 22</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="22">
-            <p>
-               <app>
-                  <lem>
-                     <w>Давыдъмь:</w>
-                     <w>“Придѣте,</w>
-                     <w>въздрадуимъ</w>
-                     <w>ся</w>
-                     <w>Господеви,</w>
-                     <w>въскликнѣмъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>дв҃домь.</w>
-                        <w>придѣте</w>
-                        <w>възраду<lb/>емъсѧ</w>
-                        <w>г<hi rend="sup">с</hi>ви.</w>
-                        <w>въскликнѣмъ <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>давыдомъ.</w>
-                        <w>прии<lb/>дѣте</w>
-                        <w>възрадѹемъ<hi rend="sup">с</hi>
-                        </w>
-                        <w>г<hi rend="sup">с</hi>ви.</w>
-                        <w>въскликнѣмъ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>дв҃до<lb/>мъ.</w>
-                        <w>прїидѣте</w>
-                        <w>возра<hi rend="sup">д</hi>уемсѧ</w>
-                        <w>г<hi rend="sup">с</hi>ви.</w>
-                        <w>въскликнемъ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>дв҃домъ.</w>
-                        <w>придете <lb/>
-                        </w>
-                        <w>възрадуемьсѧ</w>
-                        <w>г<hi rend="sup">с</hi>ви</w>
-                        <w>и</w>
-                        <w>воскликнѣмь.</w>
-                     </rdg>
-                     <rdg wit="#xle"/>
-                     <rdg wit="#kom">
-                        <w>давыдомъ</w>
-                        <w>приидѣте</w>
-                        <w>возрадуемся</w>
-                        <w>господеви</w>
-                        <w>въскликнемъ</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>давыдомъ</w>
-                        <w>приидѣте</w>
-                        <w>возрадуемся</w>
-                        <w>господеви</w>
-                        <w>въскликнемъ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Давыдомь:</w>
-                        <w>придѣте,</w>
-                        <w>възрадуемъся</w>
-                        <w>Господеви,</w>
-                        <w>въскликнѣмъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Давыдъмь:</w>
-                        <w>Придѣте,</w>
-                        <w>възрадуимъся</w>
-                        <w>Господеви,</w>
-                        <w>въскликнѣмъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Давыдомь:</w>
-                        <w>“Придѣте,</w>
-                        <w>възрадуемъся</w>
-                        <w>господеви,</w>
-                        <w>въскликнѣмъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>119, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="22"><p>
+<app>
+<lem wit="#lem">
+<w>Давыдъмь:</w>
+<w>“Придѣте,</w>
+<w>въздрадуимъ</w>
+<w>ся</w>
+<w>Господеви,</w>
+<w>въскликнѣмъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>дв҃домь.</w>
+<w>придѣте</w>
+<w>възраду<lb/>емъсѧ</w>
+<w>г<hi rend="sup">с</hi>ви.</w>
+<w>въскликнѣмъ <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>давыдомъ.</w>
+<w>прии<lb/>дѣте</w>
+<w>възрадѹемъ<hi rend="sup">с</hi></w>
+<w>г<hi rend="sup">с</hi>ви.</w>
+<w>въскликнѣмъ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>дв҃до<lb/>мъ.</w>
+<w>прїидѣте</w>
+<w>возра<hi rend="sup">д</hi>уемсѧ</w>
+<w>г<hi rend="sup">с</hi>ви.</w>
+<w>въскликнемъ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>дв҃домъ.</w>
+<w>придете <lb/></w>
+
+<w>възрадуемьсѧ</w>
+<w>г<hi rend="sup">с</hi>ви</w>
+<w>и</w>
+<w>воскликнѣмь.</w>
+</rdg>
+
+<rdg wit="#xle">
+</rdg>
+
+<rdg wit="#kom">
+<w>давыдомъ</w>
+<w>приидѣте</w>
+<w>возрадуемся</w>
+<w>господеви</w>
+<w>въскликнемъ</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>давыдомъ</w>
+<w>приидѣте</w>
+<w>возрадуемся</w>
+<w>господеви</w>
+<w>въскликнемъ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Давыдомь:</w>
+<w>придѣте,</w>
+<w>възрадуемъся</w>
+<w>Господеви,</w>
+<w>въскликнѣмъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Давыдъмь:</w>
+<w>Придѣте,</w>
+<w>възрадуимъся</w>
+<w>Господеви,</w>
+<w>въскликнѣмъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Давыдомь:</w>
+<w>“Придѣте,</w>
+<w>възрадуемъся</w>
+<w>господеви,</w>
+<w>въскликнѣмъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

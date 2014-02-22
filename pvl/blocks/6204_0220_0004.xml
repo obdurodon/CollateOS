@@ -1,119 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>220, 4</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="4">
-            <p>
-               <app>
-                  <lem>
-                     <w>Трьполь,</w>
-                     <w>проидоша</w>
-                     <w>валъ.</w>
-                     <w>И</w>
-                     <w>се</w>
-                     <w>Половьци</w>
-                     <w>идяху</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>треполь</w>
-                        <w>проидоша <lb/>
-                        </w>
-                        <w>валъ·</w>
-                        <w>и</w>
-                        <w>се</w>
-                        <w>половци</w>
-                        <w>идѧху</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>треполь·</w>
-                        <w>и</w>
-                        <w>приидоша</w>
-                        <w>валъ</w>
-                        <w>и</w>
-                        <w>се</w>
-                        <w>половци.</w>
-                        <w>идѧхоу <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>
-                           <sic>т</sic>репо<hi rend="sup">л</hi>·</w>
-                        <w>и</w>
-                        <w>преидоша <lb/>
-                        </w>
-                        <w>валъ·</w>
-                        <w>и</w>
-                        <w>се</w>
-                        <w>половци</w>
-                        <w>идѧхѹ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>треполь·</w>
-                        <w>пр<sic>о</sic>идоша</w>
-                        <w>ва<lb/>лъ·</w>
-                        <w>и</w>
-                        <w>се</w>
-                        <w>половцѣ</w>
-                        <w>идѧху</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>треполь.</w>
-                        <w>и</w>
-                        <w>проидоша</w>
-                        <w>валъ.</w>
-                        <w>и</w>
-                        <w>се</w>
-                        <w>поло<hi rend="sup">в</hi>ци <lb/>
-                        </w>
-                        <w>идѧхѫ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Треполь,</w>
-                        <w>проидоша</w>
-                        <w>валъ.</w>
-                        <w>И</w>
-                        <w>се</w>
-                        <w>Половци</w>
-                        <w>идяху</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Трьполь,</w>
-                        <w>проидоша</w>
-                        <w>валъ.</w>
-                        <w>И</w>
-                        <w>се,</w>
-                        <w>Половьци</w>
-                        <w>идяху</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Треполь,</w>
-                        <w>проидоша</w>
-                        <w>валъ.</w>
-                        <w>И</w>
-                        <w>се</w>
-                        <w>половци</w>
-                        <w>идяху</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>220, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="4"><p>
+<app>
+<lem wit="#lem">
+<w>Трьполь,</w>
+<w>проидоша</w>
+<w>валъ.</w>
+<w>И</w>
+<w>се</w>
+<w>Половьци</w>
+<w>идяху</w>
+</lem>
+
+<rdg wit="#lav">
+<w>треполь</w>
+<w>проидоша <lb/></w>
+
+<w>валъ·</w>
+<w>и</w>
+<w>се</w>
+<w>половци</w>
+<w>идѧху</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>треполь·</w>
+<w>и</w>
+<w>приидоша</w>
+<w>валъ</w>
+<w>и</w>
+<w>се</w>
+<w>половци.</w>
+<w>идѧхоу <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w><milestone unit="sic" n="start"/>т<milestone unit="sic" n="end"/>репо<hi rend="sup">л</hi>·</w>
+<w>и</w>
+<w>преидоша <lb/></w>
+
+<w>валъ·</w>
+<w>и</w>
+<w>се</w>
+<w>половци</w>
+<w>идѧхѹ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>треполь·</w>
+<w>пр<milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/>идоша</w>
+<w>ва<lb/>лъ·</w>
+<w>и</w>
+<w>се</w>
+<w>половцѣ</w>
+<w>идѧху</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>треполь.</w>
+<w>и</w>
+<w>проидоша</w>
+<w>валъ.</w>
+<w>и</w>
+<w>се</w>
+<w>поло<hi rend="sup">в</hi>ци <lb/></w>
+
+<w>идѧхѫ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Треполь,</w>
+<w>проидоша</w>
+<w>валъ.</w>
+<w>И</w>
+<w>се</w>
+<w>Половци</w>
+<w>идяху</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Трьполь,</w>
+<w>проидоша</w>
+<w>валъ.</w>
+<w>И</w>
+<w>се,</w>
+<w>Половьци</w>
+<w>идяху</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Треполь,</w>
+<w>проидоша</w>
+<w>валъ.</w>
+<w>И</w>
+<w>се</w>
+<w>половци</w>
+<w>идяху</w>
+</rdg>
+</app></p></div></body></text></TEI>

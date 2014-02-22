@@ -1,123 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>32, 13</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="13">
-            <p>
-               <app>
-                  <lem>
-                     <w>я</w>
-                     <w>вѣтръ.</w>
-                     <w>И</w>
-                     <w>рѣша</w>
-                     <w>Словѣни:</w>
-                     <w>“Имѣмъ</w>
-                     <w>ся</w>
-                     <w>своимъ</w>
-                     <w>тълстинамъ,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>а <lb/>
-                        </w>
-                        <w>вѣтръ.</w>
-                        <w>и</w>
-                        <w>рѣша</w>
-                        <w>словени</w>
-                        <w>име<hi rend="sup">м</hi>сѧ</w>
-                        <w>свои<hi rend="sup">м</hi>
-                        </w>
-                        <w>то<hi rend="sup">л</hi>стина<hi rend="sup">м</hi>.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>я</w>
-                        <w>вѣтръ. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>рѣша</w>
-                        <w>словѣне</w>
-                        <w>имемьсѧ</w>
-                        <w>своимъ</w>
-                        <w>толъстинамъ. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>я</w>
-                        <w>вѣтръ.</w>
-                        <w>и</w>
-                        <w>рк<hi rend="sup">о</hi> 
-                           <lb/>
-                        </w>
-                        <w>словенѣ.</w>
-                        <w>имемъсѧ <lb/>
-                        </w>
-                        <w>свои<hi rend="sup">м</hi>
-                        </w>
-                        <w>
-                           <sic>т</sic>олъстинамъ.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ѧ</w>
-                        <w>вѣтрь.</w>
-                        <w>и</w>
-                        <w>рекоша <lb/>
-                        </w>
-                        <w>словени.</w>
-                        <w>име<hi rend="sup">м</hi>сѧ</w>
-                        <w>свои<hi rend="sup">м</hi>
-                        </w>
-                        <w>то<hi rend="sup">л</hi>стина<hi rend="sup">м</hi>.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>а</w>
-                        <w>вѣтръ;</w>
-                        <w>и</w>
-                        <w>рѣша</w>
-                        <w>Словени:</w>
-                        <w>“имемся</w>
-                        <w>своимъ</w>
-                        <w>толстинамъ,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>я</w>
-                        <w>вѣтръ.</w>
-                        <w>И</w>
-                        <w>рѣша</w>
-                        <w>Словѣни:</w>
-                        <w>“имѣмъся</w>
-                        <w>своимъ</w>
-                        <w>тълстинамъ,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>а</w>
-                        <w>вѣтръ:</w>
-                        <w>и</w>
-                        <w>рѣша</w>
-                        <w>словени:</w>
-                        <w>“Имемся</w>
-                        <w>своим</w>
-                        <w>толстинам,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>32, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="13"><p>
+<app>
+<lem wit="#lem">
+<w>я</w>
+<w>вѣтръ.</w>
+<w>И</w>
+<w>рѣша</w>
+<w>Словѣни:</w>
+<w>“Имѣмъ</w>
+<w>ся</w>
+<w>своимъ</w>
+<w>тълстинамъ,</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>а <lb/></w>
+
+<w>вѣтръ.</w>
+<w>и</w>
+<w>рѣша</w>
+<w>словени</w>
+<w>име<hi rend="sup">м</hi>сѧ</w>
+<w>свои<hi rend="sup">м</hi></w>
+<w>то<hi rend="sup">л</hi>стина<hi rend="sup">м</hi>.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>я</w>
+<w>вѣтръ. <lb/></w>
+
+<w>и</w>
+<w>рѣша</w>
+<w>словѣне</w>
+<w>имемьсѧ</w>
+<w>своимъ</w>
+<w>толъстинамъ. <lb/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>я</w>
+<w>вѣтръ.</w>
+<w>и</w>
+<w>рк<hi rend="sup">о</hi><lb/>ша</w>
+<w>словенѣ.</w>
+<w>имемъсѧ <lb/></w>
+
+<w>свои<hi rend="sup">м</hi><milestone unit="sic" n="start"/>т<milestone unit="sic" n="end"/>олъстинамъ.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ѧ</w>
+<w>вѣтрь.</w>
+<w>и</w>
+<w>рекоша <lb/></w>
+
+<w>словени.</w>
+<w>име<hi rend="sup">м</hi>сѧ</w>
+<w>свои<hi rend="sup">м</hi></w>
+<w>то<hi rend="sup">л</hi>стина<hi rend="sup">м</hi>.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>а</w>
+<w>вѣтръ;</w>
+<w>и</w>
+<w>рѣша</w>
+<w>Словени:</w>
+<w>“имемся</w>
+<w>своимъ</w>
+<w>толстинамъ,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>я</w>
+<w>вѣтръ.</w>
+<w>И</w>
+<w>рѣша</w>
+<w>Словѣни:</w>
+<w>“имѣмъся</w>
+<w>своимъ</w>
+<w>тълстинамъ,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>а</w>
+<w>вѣтръ:</w>
+<w>и</w>
+<w>рѣша</w>
+<w>словени:</w>
+<w>“Имемся</w>
+<w>своим</w>
+<w>толстинам,</w>
+</rdg>
+</app></p></div></body></text></TEI>

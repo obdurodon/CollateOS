@@ -1,122 +1,104 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>193, 18</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="18">
-            <p>
-               <app>
-                  <lem>
-                     <w>около</w>
-                     <w>его</w>
-                     <w>Антонии.</w>
-                     <w>Въ</w>
-                     <w>сиже</w>
-                     <w>времена</w>
-                     <w>приключи</w>
-                     <w>ся</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>
-                           <sic>ѡколо ѥго антон</sic>ии.</w>
-                        <w>в</w>
-                        <w>си <lb/>
-                        </w>
-                        <w>же</w>
-                        <w>времена</w>
-                        <w>приключисѧ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ѡколо</w>
-                        <w>его</w>
-                        <w>антонии.</w>
-                        <w>в</w>
-                        <w>си</w>
-                        <w>же</w>
-                        <w>времена</w>
-                        <w>приключисѧ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ѡколо</w>
-                        <w>его</w>
-                        <w>антонїи.</w>
-                        <w>в</w>
-                        <w>си</w>
-                        <w>же</w>
-                        <w>времена</w>
-                        <w>приключисѧ. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ѡколо</w>
-                        <w>его</w>
-                        <w>антонии <lb/>
-                        </w>
-                        <w>в</w>
-                        <w>то</w>
-                        <w>же</w>
-                        <w>времѧ.</w>
-                        <w>приключисѧ. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>около</w>
-                        <w>его</w>
-                        <w>антонїи.</w>
-                        <w>в</w>
-                        <w>си</w>
-                        <w>же</w>
-                        <w>вре<lb/>мена</w>
-                        <w>приключисѧ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>около</w>
-                        <w>его</w>
-                        <w>Антоний.</w>
-                        <w>В</w>
-                        <w>си</w>
-                        <w>же</w>
-                        <w>времена</w>
-                        <w>приключися</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>около</w>
-                        <w>его</w>
-                        <w>Антонии.</w>
-                        <w>Въ</w>
-                        <w>сиже</w>
-                        <w>времена</w>
-                        <w>приключися</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>около</w>
-                        <w>его</w>
-                        <w>Антоний.</w>
-                        <w>В</w>
-                        <w>си</w>
-                        <w>же</w>
-                        <w>времена</w>
-                        <w>приключися</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>193, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="18"><p>
+<app>
+<lem wit="#lem">
+<w>около</w>
+<w>его</w>
+<w>Антонии.</w>
+<w>Въ</w>
+<w>сиже</w>
+<w>времена</w>
+<w>приключи</w>
+<w>ся</w>
+</lem>
+
+<rdg wit="#lav">
+<w><milestone unit="sic" n="start"/>ѡколо</w>
+<w>ѥго</w>
+<w>антон<milestone unit="sic" n="end"/>ии.</w>
+<w>в</w>
+<w>си <lb/></w>
+
+<w>же</w>
+<w>времена</w>
+<w>приключисѧ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ѡколо</w>
+<w>его</w>
+<w>антонии.</w>
+<w>в</w>
+<w>си</w>
+<w>же</w>
+<w>времена</w>
+<w>приключисѧ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ѡколо</w>
+<w>его</w>
+<w>антонїи.</w>
+<w>в</w>
+<w>си</w>
+<w>же</w>
+<w>времена</w>
+<w>приключисѧ. <lb/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>ѡколо</w>
+<w>его</w>
+<w>антонии <lb/></w>
+
+<w>в</w>
+<w>то</w>
+<w>же</w>
+<w>времѧ.</w>
+<w>приключисѧ. <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>около</w>
+<w>его</w>
+<w>антонїи.</w>
+<w>в</w>
+<w>си</w>
+<w>же</w>
+<w>вре<lb/>мена</w>
+<w>приключисѧ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>около</w>
+<w>его</w>
+<w>Антоний.</w>
+<w>В</w>
+<w>си</w>
+<w>же</w>
+<w>времена</w>
+<w>приключися</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>около</w>
+<w>его</w>
+<w>Антонии.</w>
+<w>Въ</w>
+<w>сиже</w>
+<w>времена</w>
+<w>приключися</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>около</w>
+<w>его</w>
+<w>Антоний.</w>
+<w>В</w>
+<w>си</w>
+<w>же</w>
+<w>времена</w>
+<w>приключися</w>
+</rdg>
+</app></p></div></body></text></TEI>

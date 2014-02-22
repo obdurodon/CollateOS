@@ -1,112 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>11, 2</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="2">
-            <p>
-               <app>
-                  <lem>
-                     <w>рѣцѣ,</w>
-                     <w>где</w>
-                     <w>вътечеть</w>
-                     <w>въ</w>
-                     <w>Вългу,</w>
-                     <w>языкъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>рѣцѣ</w>
-                        <w>г<sic>д</sic>
-                        </w>
-                        <w>
-                           <hi rend="sup">е</hi> 
-                           <lb/>
-                        </w>
-                        <w>потече</w>
-                        <w>в</w>
-                        <w>волгу</w>
-                        <w>же.</w>
-                        <w>мурома</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>оцѣ</w>
-                        <w>кдѣ</w>
-                        <w>вошла</w>
-                        <w>в</w>
-                        <w>волгу</w>
-                        <w>сѣдить</w>
-                        <w>мурома</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>рецѣ</w>
-                        <w>гдѣ</w>
-                        <w>втечеть</w>
-                        <w>в</w>
-                        <w>волгоу.</w>
-                        <w>языкъ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>рецѣ</w>
-                        <w>г<hi rend="sup">д</hi>ѣ</w>
-                        <w>течетъ</w>
-                        <w>в</w>
-                        <w>волгѹ.</w>
-                        <w>язы<hi rend="sup">к</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>рѣцѣ</w>
-                        <w>кде</w>
-                        <w>втечеть. <lb/>
-                        </w>
-                        <w>въ</w>
-                        <w>волгу</w>
-                        <w>языкъ</w>
-                     </rdg>
-                     <rdg wit="#xle"/>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>рѣцѣ,</w>
-                        <w>гдѣ</w>
-                        <w>втечеть</w>
-                        <w>в</w>
-                        <w>Волгу,</w>
-                        <w>Мурома</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>рѣцѣ,</w>
-                        <w>къде,</w>
-                        <w>вътечеть</w>
-                        <w>въ</w>
-                        <w>Вългу,</w>
-                        <w>языкъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>рѣцѣ,</w>
-                        <w>где</w>
-                        <w>втечеть</w>
-                        <w>в</w>
-                        <w>Волгу,</w>
-                        <w>мурома</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>11, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="2"><p>
+<app>
+<lem wit="#lem">
+<w>рѣцѣ,</w>
+<w>где</w>
+<w>вътечеть</w>
+<w>въ</w>
+<w>Вългу,</w>
+<w>языкъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>рѣцѣ</w>
+<w>г<milestone unit="sic" n="start"/>д<milestone unit="sic" n="end"/><hi rend="sup">е</hi><lb/></w>
+<w>потече</w>
+<w>в</w>
+<w>волгу</w>
+<w>же.</w>
+<w>мурома</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>оцѣ</w>
+<w>кдѣ</w>
+<w>вошла</w>
+<w>в</w>
+<w>волгу</w>
+<w>сѣдить</w>
+<w>мурома</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>рецѣ</w>
+<w>гдѣ</w>
+<w>втечеть</w>
+<w>в</w>
+<w>волгоу.</w>
+<w>языкъ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>рецѣ</w>
+<w>г<hi rend="sup">д</hi>ѣ</w>
+<w>течетъ</w>
+<w>в</w>
+<w>волгѹ.</w>
+<w>язы<hi rend="sup">к</hi></w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>рѣцѣ</w>
+<w>кде</w>
+<w>втечеть. <lb/></w>
+
+<w>въ</w>
+<w>волгу</w>
+<w>языкъ</w>
+</rdg>
+
+<rdg wit="#xle">
+</rdg>
+
+<rdg wit="#bych">
+<w>рѣцѣ,</w>
+<w>гдѣ</w>
+<w>втечеть</w>
+<w>в</w>
+<w>Волгу,</w>
+<w>Мурома</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>рѣцѣ,</w>
+<w>къде,</w>
+<w>вътечеть</w>
+<w>въ</w>
+<w>Вългу,</w>
+<w>языкъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>рѣцѣ,</w>
+<w>где</w>
+<w>втечеть</w>
+<w>в</w>
+<w>Волгу,</w>
+<w>мурома</w>
+</rdg>
+</app></p></div></body></text></TEI>

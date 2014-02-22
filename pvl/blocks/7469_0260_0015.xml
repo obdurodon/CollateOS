@@ -1,128 +1,107 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>260, 15</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="15">
-            <p>
-               <app>
-                  <lem>
-                     <w>съ</w>
-                     <w>колъ,</w>
-                     <w>и</w>
-                     <w>ведоша</w>
-                     <w>и</w>
-                     <w>въ</w>
-                     <w>истъбъку</w>
-                     <w>малу.</w>
-                     <w>И</w>
-                     <w>сѣдящю</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>с</w>
-                        <w>колъ·</w>
-                        <w>и</w>
-                        <w>ведоша</w>
-                        <w>и</w>
-                        <w>в</w>
-                        <w>ы<lb/>стобку</w>
-                        <w>малу·</w>
-                        <w>и</w>
-                        <w>сѣдѧщю</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>в</w>
-                        <w>ысто<lb/>пкѹ</w>
-                        <w>малѹ·</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>в</w>
-                        <w>ы·̏стопкѹ</w>
-                        <w>малѹ·</w>
-                        <w>и</w>
-                        <w>
-                           <pb n="129v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>с</w>
-                        <w>колъ·</w>
-                        <w>и</w>
-                        <w>въведоша</w>
-                        <w>в</w>
-                        <w>ыстобъ<lb/>ку</w>
-                        <w>малу·</w>
-                        <w>и</w>
-                        <w>сѣдѧщю</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>с</w>
-                        <w>кол<sic>ъ</sic>, <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>въведоша</w>
-                        <w>и</w>
-                        <w>в</w>
-                        <w>ыстоб′коу</w>
-                        <w>малоу,</w>
-                        <w>и</w>
-                        <w>сѣдѧщю</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>с</w>
-                        <w>колъ,</w>
-                        <w>и</w>
-                        <w>ведоша</w>
-                        <w>и</w>
-                        <w>въ</w>
-                        <w>истобку</w>
-                        <w>малу.</w>
-                        <w>И</w>
-                        <w>сѣдящю</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>съ</w>
-                        <w>колъ,</w>
-                        <w>и</w>
-                        <w>ведоша</w>
-                        <w>и</w>
-                        <w>въ</w>
-                        <w>истъбъку</w>
-                        <w>малу.</w>
-                        <w>И</w>
-                        <w>сѣдящю</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>с</w>
-                        <w>колъ,</w>
-                        <w>и</w>
-                        <w>ведоша</w>
-                        <w>и</w>
-                        <w>в-ыстобку</w>
-                        <w>малу.</w>
-                        <w>И</w>
-                        <w>сѣдящю</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>260, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="15"><p>
+<app>
+<lem wit="#lem">
+<w>съ</w>
+<w>колъ,</w>
+<w>и</w>
+<w>ведоша</w>
+<w>и</w>
+<w>въ</w>
+<w>истъбъку</w>
+<w>малу.</w>
+<w>И</w>
+<w>сѣдящю</w>
+</lem>
+
+<rdg wit="#lav">
+<w>с</w>
+<w>колъ·</w>
+<w>и</w>
+<w>ведоша</w>
+<w>и</w>
+<w>в</w>
+<w>ы<lb/>стобку</w>
+<w>малу·</w>
+<w>и</w>
+<w>сѣдѧщю</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>в</w>
+<w>ысто<lb/>пкѹ</w>
+<w>малѹ·</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>в</w>
+<w>ы·̏стопкѹ</w>
+<w>малѹ·</w>
+<w>и <pb n="129v"/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>с</w>
+<w>колъ·</w>
+<w>и</w>
+<w>въведоша</w>
+<w>в</w>
+<w>ыстобъ<lb/>ку</w>
+<w>малу·</w>
+<w>и</w>
+<w>сѣдѧщю</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>с</w>
+<w>кол<milestone unit="sic" n="start"/>ъ<milestone unit="sic" n="end"/>, <lb/></w>
+
+<w>и</w>
+<w>въведоша</w>
+<w>и</w>
+<w>в</w>
+<w>ыстоб′коу</w>
+<w>малоу,</w>
+<w>и</w>
+<w>сѣдѧщю</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>с</w>
+<w>колъ,</w>
+<w>и</w>
+<w>ведоша</w>
+<w>и</w>
+<w>въ</w>
+<w>истобку</w>
+<w>малу.</w>
+<w>И</w>
+<w>сѣдящю</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>съ</w>
+<w>колъ,</w>
+<w>и</w>
+<w>ведоша</w>
+<w>и</w>
+<w>въ</w>
+<w>истъбъку</w>
+<w>малу.</w>
+<w>И</w>
+<w>сѣдящю</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>с</w>
+<w>колъ,</w>
+<w>и</w>
+<w>ведоша</w>
+<w>и</w>
+<w>в-ыстобку</w>
+<w>малу.</w>
+<w>И</w>
+<w>сѣдящю</w>
+</rdg>
+</app></p></div></body></text></TEI>

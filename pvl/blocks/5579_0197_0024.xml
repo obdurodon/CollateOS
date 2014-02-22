@@ -1,112 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>197, 24</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="24">
-            <p>
-               <app>
-                  <lem>
-                     <w>въ</w>
-                     <w>видѣнии.</w>
-                     <w>И</w>
-                     <w>абие</w>
-                     <w>погыбоша</w>
-                     <w>бѣси</w>
-                     <w>отъ</w>
-                     <w>него,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>въ</w>
-                        <w>видѣнии.</w>
-                        <w>и</w>
-                        <w>абие</w>
-                        <w>погибо<lb/>ша</w>
-                        <w>бѣси</w>
-                        <w>ѿ</w>
-                        <w>него.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>во</w>
-                        <w>виде<lb/>нии.</w>
-                        <w>и</w>
-                        <w>абие</w>
-                        <w>погибоша</w>
-                        <w>бѣси</w>
-                        <w>ѿ</w>
-                        <w>него.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>вь</w>
-                        <w>видѣньи.</w>
-                        <w>и</w>
-                        <w>абье</w>
-                        <w>погы<lb/>боша</w>
-                        <w>бѣси</w>
-                        <w>ѿ</w>
-                        <w>него.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>въ <lb/>
-                        </w>
-                        <w>виденїи.</w>
-                        <w>и</w>
-                        <w>абїе</w>
-                        <w>погыбоша</w>
-                        <w>бѣси</w>
-                        <w>ѿ</w>
-                        <w>него.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>в</w>
-                        <w>видѣнии”;</w>
-                        <w>и</w>
-                        <w>абие</w>
-                        <w>погибоша</w>
-                        <w>бѣси</w>
-                        <w>отъ</w>
-                        <w>него,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>въ</w>
-                        <w>видѣнии.</w>
-                        <w>И</w>
-                        <w>абие</w>
-                        <w>погыбоша</w>
-                        <w>бѣси</w>
-                        <w>отъ</w>
-                        <w>него,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>в</w>
-                        <w>видѣнии.</w>
-                        <w>И</w>
-                        <w>абие</w>
-                        <w>погибоша</w>
-                        <w>бѣси</w>
-                        <w>от</w>
-                        <w>него,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>197, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="24"><p>
+<app>
+<lem wit="#lem">
+<w>въ</w>
+<w>видѣнии.</w>
+<w>И</w>
+<w>абие</w>
+<w>погыбоша</w>
+<w>бѣси</w>
+<w>отъ</w>
+<w>него,</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>въ</w>
+<w>видѣнии.</w>
+<w>и</w>
+<w>абие</w>
+<w>погибо<lb/>ша</w>
+<w>бѣси</w>
+<w>ѿ</w>
+<w>него.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>во</w>
+<w>виде<lb/>нии.</w>
+<w>и</w>
+<w>абие</w>
+<w>погибоша</w>
+<w>бѣси</w>
+<w>ѿ</w>
+<w>него.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>вь</w>
+<w>видѣньи.</w>
+<w>и</w>
+<w>абье</w>
+<w>погы<lb/>боша</w>
+<w>бѣси</w>
+<w>ѿ</w>
+<w>него.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>въ <lb/></w>
+
+<w>виденїи.</w>
+<w>и</w>
+<w>абїе</w>
+<w>погыбоша</w>
+<w>бѣси</w>
+<w>ѿ</w>
+<w>него.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>в</w>
+<w>видѣнии”;</w>
+<w>и</w>
+<w>абие</w>
+<w>погибоша</w>
+<w>бѣси</w>
+<w>отъ</w>
+<w>него,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>въ</w>
+<w>видѣнии.</w>
+<w>И</w>
+<w>абие</w>
+<w>погыбоша</w>
+<w>бѣси</w>
+<w>отъ</w>
+<w>него,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>в</w>
+<w>видѣнии.</w>
+<w>И</w>
+<w>абие</w>
+<w>погибоша</w>
+<w>бѣси</w>
+<w>от</w>
+<w>него,</w>
+</rdg>
+</app></p></div></body></text></TEI>

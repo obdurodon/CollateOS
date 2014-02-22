@@ -1,110 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>210, 14</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="14">
-            <p>
-               <app>
-                  <lem>
-                     <w>“Прокопахъ</w>
-                     <w>уже”.</w>
-                     <w>Егда</w>
-                     <w>же</w>
-                     <w>прокопахъ,</w>
-                     <w>обьдьржашеть</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>проко<lb/>пахъ</w>
-                        <w>оуже.</w>
-                        <w>ѥгда</w>
-                        <w>же</w>
-                        <w>прокопахъ <lb/>
-                        </w>
-                        <w>ѡбдержашеть</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>прокопа<hi rend="sup">х</hi>
-                        </w>
-                        <w>оуже.</w>
-                        <w>егда</w>
-                        <w>же</w>
-                        <w>прокопа<hi rend="sup">х</hi>.</w>
-                        <w>ѡбде<lb/>ржашеть</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>прокопа<hi rend="sup">х</hi>
-                        </w>
-                        <w>оуже.</w>
-                        <w>ега<hi rend="sup">д</hi>
-                        </w>
-                        <w>прокопа<hi rend="sup">х</hi>
-                        </w>
-                        <w>ѡбдръжаше<lb/>т</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>прокопахъ</w>
-                        <w>оуже. <lb/>
-                        </w>
-                        <w>егда</w>
-                        <w>же</w>
-                        <w>прокопахъ</w>
-                        <w>ѡбъде<lb/>ржашет</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>проко<lb/>па<hi rend="sup">х</hi>
-                        </w>
-                        <w>оуже.</w>
-                        <w>ега<hi rend="sup">д</hi>
-                        </w>
-                        <w>же</w>
-                        <w>прокопа<hi rend="sup">х</hi>
-                        </w>
-                        <w>ѡдръжаше</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>“прокопахъ</w>
-                        <w>уже”.</w>
-                        <w>Егда</w>
-                        <w>же</w>
-                        <w>прокопахъ,</w>
-                        <w>обдержашеть</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>“прокопахъ</w>
-                        <w>уже”.</w>
-                        <w>Егда</w>
-                        <w>же</w>
-                        <w>прокопахъ,</w>
-                        <w>обьдьржашеть</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>“Прокопахъ</w>
-                        <w>уже”.</w>
-                        <w>Егда</w>
-                        <w>же</w>
-                        <w>прокопахъ,</w>
-                        <w>обдержашеть</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>210, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="14"><p>
+<app>
+<lem wit="#lem">
+<w>“Прокопахъ</w>
+<w>уже”.</w>
+<w>Егда</w>
+<w>же</w>
+<w>прокопахъ,</w>
+<w>обьдьржашеть</w>
+</lem>
+
+<rdg wit="#lav">
+<w>проко<lb/>пахъ</w>
+<w>оуже.</w>
+<w>ѥгда</w>
+<w>же</w>
+<w>прокопахъ <lb/></w>
+
+<w>ѡбдержашеть</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>прокопа<hi rend="sup">х</hi></w>
+<w>оуже.</w>
+<w>егда</w>
+<w>же</w>
+<w>прокопа<hi rend="sup">х</hi>.</w>
+<w>ѡбде<lb/>ржашеть</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>прокопа<hi rend="sup">х</hi></w>
+<w>оуже.</w>
+<w>ега<hi rend="sup">д</hi></w>
+<w>прокопа<hi rend="sup">х</hi></w>
+<w>ѡбдръжаше<lb/>т</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>прокопахъ</w>
+<w>оуже. <lb/></w>
+
+<w>егда</w>
+<w>же</w>
+<w>прокопахъ</w>
+<w>ѡбъде<lb/>ржашет</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>проко<lb/>па<hi rend="sup">х</hi></w>
+<w>оуже.</w>
+<w>ега<hi rend="sup">д</hi></w>
+<w>же</w>
+<w>прокопа<hi rend="sup">х</hi></w>
+<w>ѡдръжаше</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>“прокопахъ</w>
+<w>уже”.</w>
+<w>Егда</w>
+<w>же</w>
+<w>прокопахъ,</w>
+<w>обдержашеть</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>“прокопахъ</w>
+<w>уже”.</w>
+<w>Егда</w>
+<w>же</w>
+<w>прокопахъ,</w>
+<w>обьдьржашеть</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>“Прокопахъ</w>
+<w>уже”.</w>
+<w>Егда</w>
+<w>же</w>
+<w>прокопахъ,</w>
+<w>обдержашеть</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,97 +1,77 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>212, 23</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="23">
-            <p>
-               <app>
-                  <lem>
-                     <w>гробу</w>
-                     <w>Феодосиеву,</w>
-                     <w>на</w>
-                     <w>лѣвои</w>
-                     <w>странѣ.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>гробу</w>
-                        <w>ѳеѡ<lb/>досьеву·</w>
-                        <w>на</w>
-                        <w>шюеи</w>
-                        <w>странѣ·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>гроб<sic>ѹ</sic>
-                        </w>
-                        <w>феѡ<hi rend="sup">д</hi>сьевѹ.</w>
-                        <w>на</w>
-                        <w>лѣвои <lb/>
-                        </w>
-                        <w>странѣ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>гробѹ</w>
-                        <w>феѡдосьевѹ</w>
-                        <w>на</w>
-                        <w>лѣвои</w>
-                        <w>странѣ· <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>гробу</w>
-                        <w>федось<lb/>еву·</w>
-                        <w>на</w>
-                        <w>лѣвои</w>
-                        <w>сторонѣ·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>гробоу</w>
-                        <w>ѳе<hi rend="sup">д</hi>ѡ<hi rend="sup">о</hi>сїевоу, <lb/>
-                        </w>
-                        <w>на</w>
-                        <w>лѣвои</w>
-                        <w>сторонѣ.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>гробу</w>
-                        <w>Феодосьеву,</w>
-                        <w>на</w>
-                        <w>шюей</w>
-                        <w>странѣ.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>гробу</w>
-                        <w>Феодосиеву,</w>
-                        <w>на</w>
-                        <w>шюеи</w>
-                        <w>странѣ.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>гробу</w>
-                        <w>Феодосьеву,</w>
-                        <w>на</w>
-                        <w>шюей</w>
-                        <w>странѣ.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>212, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="23"><p>
+<app>
+<lem wit="#lem">
+<w>гробу</w>
+<w>Феодосиеву,</w>
+<w>на</w>
+<w>лѣвои</w>
+<w>странѣ.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>гробу</w>
+<w>ѳеѡ<lb/>досьеву·</w>
+<w>на</w>
+<w>шюеи</w>
+<w>странѣ·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>гроб<milestone unit="sic" n="start"/>ѹ<milestone unit="sic" n="end"/></w>
+<w>феѡ<hi rend="sup">д</hi>сьевѹ.</w>
+<w>на</w>
+<w>лѣвои <lb/></w>
+
+<w>странѣ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>гробѹ</w>
+<w>феѡдосьевѹ</w>
+<w>на</w>
+<w>лѣвои</w>
+<w>странѣ· <lb/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>гробу</w>
+<w>федось<lb/>еву·</w>
+<w>на</w>
+<w>лѣвои</w>
+<w>сторонѣ·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>гробоу</w>
+<w>ѳе<hi rend="sup">д</hi>ѡ<hi rend="sup">о</hi>сїевоу, <lb/></w>
+
+<w>на</w>
+<w>лѣвои</w>
+<w>сторонѣ.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>гробу</w>
+<w>Феодосьеву,</w>
+<w>на</w>
+<w>шюей</w>
+<w>странѣ.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>гробу</w>
+<w>Феодосиеву,</w>
+<w>на</w>
+<w>шюеи</w>
+<w>странѣ.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>гробу</w>
+<w>Феодосьеву,</w>
+<w>на</w>
+<w>шюей</w>
+<w>странѣ.</w>
+</rdg>
+</app></p></div></body></text></TEI>

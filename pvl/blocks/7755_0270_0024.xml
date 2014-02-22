@@ -1,109 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>270, 24</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="24">
-            <p>
-               <app>
-                  <lem>
-                     <w>Угъры,</w>
-                     <w>вабя</w>
-                     <w>Угъры</w>
-                     <w>на</w>
-                     <w>Володаря,</w>
-                     <w>а</w>
-                     <w>самъ</w>
-                     <w>иде</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>угры·</w>
-                        <w>вабѧ</w>
-                        <w>оугры</w>
-                        <w>на</w>
-                        <w>волода<lb/>рѧ·</w>
-                        <w>а</w>
-                        <w>са<hi rend="sup">м</hi>
-                        </w>
-                        <w>иде</w>
-                     </rdg>
-                     <rdg wit="#rad"/>
-                     <rdg wit="#aka"/>
-                     <rdg wit="#ipa">
-                        <w>оугры·</w>
-                        <w>вабѧ</w>
-                        <w>оугры</w>
-                        <w>на</w>
-                        <w>володарѧ·</w>
-                        <w>а</w>
-                        <w>самъ</w>
-                        <w>иде</w>
-                        <w>
-                           <pb n="93a"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>оугры.</w>
-                        <w>вабѧ</w>
-                        <w>оугры</w>
-                        <w>на</w>
-                        <w>володарѧ.</w>
-                        <w>а</w>
-                        <w>са<hi rend="sup">м</hi>
-                        </w>
-                        <w>иде</w>
-                        <w>къ <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Угры,</w>
-                        <w>вабя</w>
-                        <w>Угры</w>
-                        <w>на</w>
-                        <w>Володаря,</w>
-                        <w>а</w>
-                        <w>самъ</w>
-                        <w>иде</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Угъры,</w>
-                        <w>вабя</w>
-                        <w>Угъры</w>
-                        <w>на</w>
-                        <w>Володаря,</w>
-                        <w>а</w>
-                        <w>самъ</w>
-                        <w>иде</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Угры,</w>
-                        <w>вабя</w>
-                        <w>угры</w>
-                        <w>на</w>
-                        <w>Володаря,</w>
-                        <w>а</w>
-                        <w>сам</w>
-                        <w>иде</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="24"><p>
+<app>
+<lem wit="#lem">
+<w>Угъры,</w>
+<w>вабя</w>
+<w>Угъры</w>
+<w>на</w>
+<w>Володаря,</w>
+<w>а</w>
+<w>самъ</w>
+<w>иде</w>
+</lem>
+
+<rdg wit="#lav">
+<w>угры·</w>
+<w>вабѧ</w>
+<w>оугры</w>
+<w>на</w>
+<w>волода<lb/>рѧ·</w>
+<w>а</w>
+<w>са<hi rend="sup">м</hi></w>
+<w>иде</w>
+</rdg>
+
+<rdg wit="#rad">
+</rdg>
+
+<rdg wit="#aka">
+</rdg>
+
+<rdg wit="#ipa">
+<w>оугры·</w>
+<w>вабѧ</w>
+<w>оугры</w>
+<w>на</w>
+<w>володарѧ·</w>
+<w>а</w>
+<w>самъ</w>
+<w>иде <pb n="93a"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>оугры.</w>
+<w>вабѧ</w>
+<w>оугры</w>
+<w>на</w>
+<w>володарѧ.</w>
+<w>а</w>
+<w>са<hi rend="sup">м</hi></w>
+<w>иде</w>
+<w>къ <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>Угры,</w>
+<w>вабя</w>
+<w>Угры</w>
+<w>на</w>
+<w>Володаря,</w>
+<w>а</w>
+<w>самъ</w>
+<w>иде</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Угъры,</w>
+<w>вабя</w>
+<w>Угъры</w>
+<w>на</w>
+<w>Володаря,</w>
+<w>а</w>
+<w>самъ</w>
+<w>иде</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Угры,</w>
+<w>вабя</w>
+<w>угры</w>
+<w>на</w>
+<w>Володаря,</w>
+<w>а</w>
+<w>сам</w>
+<w>иде</w>
+</rdg>
+</app></p></div></body></text></TEI>

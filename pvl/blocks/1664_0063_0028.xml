@@ -1,140 +1,113 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>63, 28</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="28">
-            <p>
-               <app>
-                  <lem>
-                     <w>не</w>
-                     <w>слушаеть,</w>
-                     <w>въ</w>
-                     <w>бѣду</w>
-                     <w>въпадаеть,</w>
-                     <w>якоже</w>
-                     <w>рече:</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>не</w>
-                        <w>послушаеть.</w>
-                        <w>в</w>
-                        <w>бѣду</w>
-                        <w>впадаеть</w>
-                        <w>яко<sic>же</sic> 
-                           <lb/>
-                        </w>
-                        <w>ре<hi rend="sup">ч</hi>.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>не</w>
-                        <w>послоушаеть</w>
-                        <w>в</w>
-                        <w>бедѹ</w>
-                        <w>впа<hi rend="sup">д</hi>ть.</w>
-                        <w>яко<hi rend="sup">ж</hi>
-                        </w>
-                        <w>ре<hi rend="sup">ч</hi>
-                        </w>
-                        <w>емоу</w>
-                        <w>
-                           <pb n="33v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>не</w>
-                        <w>слѹшаеть.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>не</w>
-                        <w>слушаеть.</w>
-                        <w>в</w>
-                        <w>бѣду <lb/>
-                        </w>
-                        <w>в<sic>па</sic>дае.</w>
-                        <w>яко<hi rend="sup">ж</hi>
-                        </w>
-                        <w>ре<hi rend="sup">ч</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>не</w>
-                        <w>слоушае<hi rend="sup">т</hi>
-                        </w>
-                        <w>в</w>
-                        <w>бѣдоу</w>
-                        <w>впадае<hi rend="sup">т</hi>.</w>
-                        <w>яко<hi rend="sup">ж</hi>
-                        </w>
-                        <w>ре<hi rend="sup">ч</hi>.</w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>не</w>
-                        <w>послушаеть</w>
-                        <w>и</w>
-                        <w>пакы</w>
-                        <w>в</w>
-                        <w>бѣду</w>
-                        <w>впадаеть</w>
-                        <w>якоже</w>
-                        <w>рече</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>не</w>
-                        <w>послушаеть</w>
-                        <w>в</w>
-                        <w>бѣду</w>
-                        <w>впадаетъ</w>
-                        <w>якоже</w>
-                        <w>рече</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>не</w>
-                        <w>послушаеть,</w>
-                        <w>в</w>
-                        <w>бѣду</w>
-                        <w>впадаеть,</w>
-                        <w>якоже</w>
-                        <w>рече:</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>не</w>
-                        <w>послушаеть,</w>
-                        <w>въ</w>
-                        <w>бѣду</w>
-                        <w>въпадаеть,</w>
-                        <w>якоже</w>
-                        <w>рече:</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>не</w>
-                        <w>послушаеть,</w>
-                        <w>в</w>
-                        <w>бѣду</w>
-                        <w>впадаеть,</w>
-                        <w>яко</w>
-                        <w>же</w>
-                        <w>рече:</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>63, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="28"><p>
+<app>
+<lem wit="#lem">
+<w>не</w>
+<w>слушаеть,</w>
+<w>въ</w>
+<w>бѣду</w>
+<w>въпадаеть,</w>
+<w>якоже</w>
+<w>рече:</w>
+</lem>
+
+<rdg wit="#lav">
+<w>не</w>
+<w>послушаеть.</w>
+<w>в</w>
+<w>бѣду</w>
+<w>впадаеть</w>
+<w>яко<milestone unit="sic" n="start"/>же<milestone unit="sic" n="end"/><lb/></w>
+<w>ре<hi rend="sup">ч</hi>.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>не</w>
+<w>послоушаеть</w>
+<w>в</w>
+<w>бедѹ</w>
+<w>впа<hi rend="sup">д</hi>ть.</w>
+<w>яко<hi rend="sup">ж</hi></w>
+<w>ре<hi rend="sup">ч</hi></w>
+<w>емоу <pb n="33v"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>не</w>
+<w>слѹшаеть.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>не</w>
+<w>слушаеть.</w>
+<w>в</w>
+<w>бѣду <lb/></w>
+
+<w>в<milestone unit="sic" n="start"/>па<milestone unit="sic" n="end"/>дае.</w>
+<w>яко<hi rend="sup">ж</hi></w>
+<w>ре<hi rend="sup">ч</hi></w>
+</rdg>
+
+<rdg wit="#xle">
+<w>не</w>
+<w>слоушае<hi rend="sup">т</hi></w>
+<w>в</w>
+<w>бѣдоу</w>
+<w>впадае<hi rend="sup">т</hi>.</w>
+<w>яко<hi rend="sup">ж</hi></w>
+<w>ре<hi rend="sup">ч</hi>.</w>
+</rdg>
+
+<rdg wit="#kom">
+<w>не</w>
+<w>послушаеть</w>
+<w>и</w>
+<w>пакы</w>
+<w>в</w>
+<w>бѣду</w>
+<w>впадаеть</w>
+<w>якоже</w>
+<w>рече</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>не</w>
+<w>послушаеть</w>
+<w>в</w>
+<w>бѣду</w>
+<w>впадаетъ</w>
+<w>якоже</w>
+<w>рече</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>не</w>
+<w>послушаеть,</w>
+<w>в</w>
+<w>бѣду</w>
+<w>впадаеть,</w>
+<w>якоже</w>
+<w>рече:</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>не</w>
+<w>послушаеть,</w>
+<w>въ</w>
+<w>бѣду</w>
+<w>въпадаеть,</w>
+<w>якоже</w>
+<w>рече:</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>не</w>
+<w>послушаеть,</w>
+<w>в</w>
+<w>бѣду</w>
+<w>впадаеть,</w>
+<w>яко</w>
+<w>же</w>
+<w>рече:</w>
+</rdg>
+</app></p></div></body></text></TEI>

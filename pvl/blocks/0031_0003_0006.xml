@@ -1,92 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>3, 6</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="6">
-            <p>
-               <app>
-                  <lem>
-                     <w>Македония,</w>
-                     <w>Далматия,</w>
-                     <w>Молоси,</w>
-                     <w>Фесалия,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>макидонья.</w>
-                        <w>алма<lb/>тия</w>
-                        <w>луеи.</w>
-                        <w>фесалья.</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>македония</w>
-                        <w>далматиа</w>
-                        <w>малоси</w>
-                        <w>фесалья</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>макидониа</w>
-                        <w>далматия</w>
-                        <w>малоси</w>
-                        <w>феласия</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>макидонїа.</w>
-                        <w>далматїа.</w>
-                        <w>малоси.</w>
-                        <w>феласїа.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>македо<lb/>ния.</w>
-                        <w>далматия.</w>
-                        <w>молоси. <lb/>
-                        </w>
-                        <w>фесалия.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>македонїа.</w>
-                        <w>далматїа.</w>
-                        <w>молоси.</w>
-                        <w>фесалиѧ. <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Макидонья,</w>
-                        <w>Далматия,</w>
-                        <w>Малоси,</w>
-                        <w>Фесалья,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Македония,</w>
-                        <w>Далматия,</w>
-                        <w>Молоси,</w>
-                        <w>Фесалия,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Макидонья,</w>
-                        <w>Далматия,</w>
-                        <w>Малоси,</w>
-                        <w>Фесалья,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>3, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="6"><p>
+<app>
+<lem wit="#lem">
+<w>Македония,</w>
+<w>Далматия,</w>
+<w>Молоси,</w>
+<w>Фесалия,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>макидонья.</w>
+<w>алма<lb/>тия</w>
+<w>луеи.</w>
+<w>фесалья.</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>македония</w>
+<w>далматиа</w>
+<w>малоси</w>
+<w>фесалья</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>макидониа</w>
+<w>далматия</w>
+<w>малоси</w>
+<w>феласия</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>макидонїа.</w>
+<w>далматїа.</w>
+<w>малоси.</w>
+<w>феласїа.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>македо<lb/>ния.</w>
+<w>далматия.</w>
+<w>молоси. <lb/></w>
+
+<w>фесалия.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>македонїа.</w>
+<w>далматїа.</w>
+<w>молоси.</w>
+<w>фесалиѧ. <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>Макидонья,</w>
+<w>Далматия,</w>
+<w>Малоси,</w>
+<w>Фесалья,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Македония,</w>
+<w>Далматия,</w>
+<w>Молоси,</w>
+<w>Фесалия,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Макидонья,</w>
+<w>Далматия,</w>
+<w>Малоси,</w>
+<w>Фесалья,</w>
+</rdg>
+</app></p></div></body></text></TEI>

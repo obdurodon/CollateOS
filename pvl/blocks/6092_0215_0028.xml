@@ -1,98 +1,77 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>215, 28</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="28">
-            <p>
-               <app>
-                  <lem>
-                     <w>великыи</w>
-                     <w>кънязь</w>
-                     <w>Вьсеволодъ,</w>
-                     <w>сынъ</w>
-                     <w>Ярославль,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>великыи</w>
-                        <w>кнѧзь</w>
-                        <w>всеволодъ·</w>
-                        <w>снъ҃ <lb/>
-                        </w>
-                        <w>ярославль·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>великии</w>
-                        <w>кн҃зь</w>
-                        <w>всеволо<hi rend="sup">д</hi>·</w>
-                        <w>сн҃ъ</w>
-                        <w>ярославль.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>великыи</w>
-                        <w>кнз҃ь</w>
-                        <w>всеволодъ·</w>
-                        <w>сн҃ъ</w>
-                        <w>ярославле·</w>
-                        <w>
-                           <pb n="114r"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>кнѧзь·</w>
-                        <w>всеволодъ <lb/>
-                        </w>
-                        <w>сн҃ъ</w>
-                        <w>ярославль·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>великыи <lb/>
-                        </w>
-                        <w>кнѧзь</w>
-                        <w>всев<hi rend="sup">о</hi>лѡ<hi rend="sup">д</hi>.</w>
-                        <w>сн҃ъ</w>
-                        <w>ярославль.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>великый</w>
-                        <w>князь</w>
-                        <w>Всеволодъ,</w>
-                        <w>сынъ</w>
-                        <w>Ярославль,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>великыи</w>
-                        <w>кънязь</w>
-                        <w>Вьсеволодъ,</w>
-                        <w>сынъ</w>
-                        <w>Ярославль,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>великый</w>
-                        <w>князь</w>
-                        <w>Всеволодъ,</w>
-                        <w>сынъ</w>
-                        <w>Ярославль,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>215, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="28"><p>
+<app>
+<lem wit="#lem">
+<w>великыи</w>
+<w>кънязь</w>
+<w>Вьсеволодъ,</w>
+<w>сынъ</w>
+<w>Ярославль,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>великыи</w>
+<w>кнѧзь</w>
+<w>всеволодъ·</w>
+<w>снъ҃ <lb/></w>
+
+<w>ярославль·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>великии</w>
+<w>кн҃зь</w>
+<w>всеволо<hi rend="sup">д</hi>·</w>
+<w>сн҃ъ</w>
+<w>ярославль.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>великыи</w>
+<w>кнз҃ь</w>
+<w>всеволодъ·</w>
+<w>сн҃ъ</w>
+<w>ярославле· <pb n="114r"/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>кнѧзь·</w>
+<w>всеволодъ <lb/></w>
+
+<w>сн҃ъ</w>
+<w>ярославль·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>великыи <lb/></w>
+
+<w>кнѧзь</w>
+<w>всев<hi rend="sup">о</hi>лѡ<hi rend="sup">д</hi>.</w>
+<w>сн҃ъ</w>
+<w>ярославль.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>великый</w>
+<w>князь</w>
+<w>Всеволодъ,</w>
+<w>сынъ</w>
+<w>Ярославль,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>великыи</w>
+<w>кънязь</w>
+<w>Вьсеволодъ,</w>
+<w>сынъ</w>
+<w>Ярославль,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>великый</w>
+<w>князь</w>
+<w>Всеволодъ,</w>
+<w>сынъ</w>
+<w>Ярославль,</w>
+</rdg>
+</app></p></div></body></text></TEI>

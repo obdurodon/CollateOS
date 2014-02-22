@@ -1,118 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>258, 9</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="9">
-            <p>
-               <app>
-                  <lem>
-                     <w>бывъшю</w>
-                     <w>прииде</w>
-                     <w>въ</w>
-                     <w>товаръ</w>
-                     <w>свои.</w>
-                     <w>Наутрия</w>
-                     <w>же</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>бывшю <lb/>
-                        </w>
-                        <w>приде</w>
-                        <w>в</w>
-                        <w>товаръ</w>
-                        <w>свои·</w>
-                        <w>и</w>
-                        <w>наѹтри<lb/>я</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>бывшю.</w>
-                        <w>прииде</w>
-                        <w>в</w>
-                        <w>товары</w>
-                        <w>своя:- <lb/>
-                        </w>
-                        <w>аоутриа</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>бы·̏вшю</w>
-                        <w>прииде</w>
-                        <w>в</w>
-                        <w>товары·̏</w>
-                        <w>своѧ:·</w>
-                        <w>Наоутрї<lb/>я</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>бывшю</w>
-                        <w>прии<lb/>де</w>
-                        <w>в</w>
-                        <w>товаръ</w>
-                        <w>свои·</w>
-                        <w>наоутрия</w>
-                        <w>же <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>бывшю,</w>
-                        <w>прїиде</w>
-                        <w>в</w>
-                        <w>товаръ <lb/>
-                        </w>
-                        <w>свои.</w>
-                        <w>нау<hi rend="sup">т</hi>рїа</w>
-                        <w>же</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>бывшю</w>
-                        <w>приде</w>
-                        <w>в</w>
-                        <w>товаръ</w>
-                        <w>свой.</w>
-                        <w>И</w>
-                        <w>наутрия</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>бывъшю,</w>
-                        <w>приде</w>
-                        <w>въ</w>
-                        <w>товаръ</w>
-                        <w>свои.</w>
-                        <w>Наутрия</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>бывшю</w>
-                        <w>приде</w>
-                        <w>в</w>
-                        <w>товаръ</w>
-                        <w>свой.</w>
-                        <w>И</w>
-                        <w>наутрия</w>
-                        <w>же</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>258, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="9"><p>
+<app>
+<lem wit="#lem">
+<w>бывъшю</w>
+<w>прииде</w>
+<w>въ</w>
+<w>товаръ</w>
+<w>свои.</w>
+<w>Наутрия</w>
+<w>же</w>
+</lem>
+
+<rdg wit="#lav">
+<w>бывшю <lb/></w>
+
+<w>приде</w>
+<w>в</w>
+<w>товаръ</w>
+<w>свои·</w>
+<w>и</w>
+<w>наѹтри<lb/>я</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>бывшю.</w>
+<w>прииде</w>
+<w>в</w>
+<w>товары</w>
+<w>своя:- <lb/></w>
+
+<w>аоутриа</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>бы·̏вшю</w>
+<w>прииде</w>
+<w>в</w>
+<w>товары·̏</w>
+<w>своѧ:·</w>
+<w>Наоутрї<lb/>я</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>бывшю</w>
+<w>прии<lb/>де</w>
+<w>в</w>
+<w>товаръ</w>
+<w>свои·</w>
+<w>наоутрия</w>
+<w>же <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>бывшю,</w>
+<w>прїиде</w>
+<w>в</w>
+<w>товаръ <lb/></w>
+
+<w>свои.</w>
+<w>нау<hi rend="sup">т</hi>рїа</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>бывшю</w>
+<w>приде</w>
+<w>в</w>
+<w>товаръ</w>
+<w>свой.</w>
+<w>И</w>
+<w>наутрия</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>бывъшю,</w>
+<w>приде</w>
+<w>въ</w>
+<w>товаръ</w>
+<w>свои.</w>
+<w>Наутрия</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>бывшю</w>
+<w>приде</w>
+<w>в</w>
+<w>товаръ</w>
+<w>свой.</w>
+<w>И</w>
+<w>наутрия</w>
+<w>же</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,108 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>209, 24</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="24">
-            <p>
-               <app>
-                  <lem>
-                     <w>съ</w>
-                     <w>игуменъмь,</w>
-                     <w>не</w>
-                     <w>вѣдущю</w>
-                     <w>никомуже,</w>
-                     <w>разглядавша,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>со</w>
-                        <w>игуменомъ. <lb/>
-                        </w>
-                        <w>не</w>
-                        <w>свѣдущю</w>
-                        <w>никомуже.</w>
-                        <w>разгл<hi rend="sup">ѧ</hi> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>со</w>
-                        <w>игѹменомъ <lb/>
-                        </w>
-                        <w>не</w>
-                        <w>сведоущю</w>
-                        <w>никомѹже.</w>
-                        <w>разглѧдавша.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>со</w>
-                        <w>игѹменомъ.</w>
-                        <w>не</w>
-                        <w>сведѹ<lb/>ще</w>
-                        <w>никомѹже.</w>
-                        <w>разглѧдавша</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>съ</w>
-                        <w>игуме<lb/>номъ.</w>
-                        <w>не</w>
-                        <w>вѣдущю</w>
-                        <w>никому<lb/>же.</w>
-                        <w>разглѧдавша</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>съ</w>
-                        <w>и<lb/>гоуменѡ<hi rend="sup">м</hi>.</w>
-                        <w>не</w>
-                        <w>вѣдоущю</w>
-                        <w>никомоу<hi rend="sup">ж</hi>.</w>
-                        <w>разглѧдавше <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>со</w>
-                        <w>игуменомъ,</w>
-                        <w>не</w>
-                        <w>свѣдущю</w>
-                        <w>никомуже,</w>
-                        <w>разглядавша,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>съ</w>
-                        <w>игуменъмь,</w>
-                        <w>не</w>
-                        <w>съвѣдущю</w>
-                        <w>никомуже,</w>
-                        <w>разглядахъ,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>со</w>
-                        <w>игуменомъ,</w>
-                        <w>не</w>
-                        <w>свѣдущю</w>
-                        <w>никому</w>
-                        <w>же,</w>
-                        <w>разглядавша,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>209, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="24"><p>
+<app>
+<lem wit="#lem">
+<w>съ</w>
+<w>игуменъмь,</w>
+<w>не</w>
+<w>вѣдущю</w>
+<w>никомуже,</w>
+<w>разглядавша,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>со</w>
+<w>игуменомъ. <lb/></w>
+
+<w>не</w>
+<w>свѣдущю</w>
+<w>никомуже.</w>
+<w>разгл<hi rend="sup">ѧ</hi><lb/>давша</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>со</w>
+<w>игѹменомъ <lb/></w>
+
+<w>не</w>
+<w>сведоущю</w>
+<w>никомѹже.</w>
+<w>разглѧдавша.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>со</w>
+<w>игѹменомъ.</w>
+<w>не</w>
+<w>сведѹ<lb/>ще</w>
+<w>никомѹже.</w>
+<w>разглѧдавша</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>съ</w>
+<w>игуме<lb/>номъ.</w>
+<w>не</w>
+<w>вѣдущю</w>
+<w>никому<lb/>же.</w>
+<w>разглѧдавша</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>съ</w>
+<w>и<lb/>гоуменѡ<hi rend="sup">м</hi>.</w>
+<w>не</w>
+<w>вѣдоущю</w>
+<w>никомоу<hi rend="sup">ж</hi>.</w>
+<w>разглѧдавше <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>со</w>
+<w>игуменомъ,</w>
+<w>не</w>
+<w>свѣдущю</w>
+<w>никомуже,</w>
+<w>разглядавша,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>съ</w>
+<w>игуменъмь,</w>
+<w>не</w>
+<w>съвѣдущю</w>
+<w>никомуже,</w>
+<w>разглядахъ,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>со</w>
+<w>игуменомъ,</w>
+<w>не</w>
+<w>свѣдущю</w>
+<w>никому</w>
+<w>же,</w>
+<w>разглядавша,</w>
+</rdg>
+</app></p></div></body></text></TEI>

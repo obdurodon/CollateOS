@@ -1,119 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>196, 4</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="4">
-            <p>
-               <app>
-                  <lem>
-                     <w>такоже</w>
-                     <w>уродъмь</w>
-                     <w>ся</w>
-                     <w>творя.</w>
-                     <w>И</w>
-                     <w>въсели</w>
-                     <w>ся</w>
-                     <w>въ</w>
-                     <w>печеру,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>такоже</w>
-                        <w>оу<lb/>родом</w>
-                        <w>сѧ</w>
-                        <w>творѧ.</w>
-                        <w>вселисѧ</w>
-                        <w>в</w>
-                        <w>пече<lb/>ру</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>оуро<hi rend="sup">д</hi>ство</w>
-                        <w>творѧ.</w>
-                        <w>и</w>
-                        <w>вселисѧ</w>
-                        <w>в</w>
-                        <w>пе<hi rend="sup">ч</hi>рѹ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>Оуро<hi rend="sup">д</hi>ство</w>
-                        <w>творѧ.</w>
-                        <w>и</w>
-                        <w>вселисѧ <lb/>
-                        </w>
-                        <w>в</w>
-                        <w>печерѹ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>тако<lb/>же</w>
-                        <w>оуродомъ</w>
-                        <w>сѧ</w>
-                        <w>творѧ.</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>вселисѧ</w>
-                        <w>в</w>
-                        <w>пещер<sic>оу</sic>.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>такоже</w>
-                        <w>и</w>
-                        <w>оуродѡ<hi rend="sup">м</hi>
-                        </w>
-                        <w>сѧ</w>
-                        <w>тво<lb/>рѧ.</w>
-                        <w>и</w>
-                        <w>вселисѧ</w>
-                        <w>въ</w>
-                        <w>пе<hi rend="sup">ч</hi>роу</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>такоже</w>
-                        <w>уродомъ</w>
-                        <w>ся</w>
-                        <w>творя.</w>
-                        <w>Вселися</w>
-                        <w>в</w>
-                        <w>печеру,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>такоже</w>
-                        <w>уродъмь</w>
-                        <w>ся</w>
-                        <w>творя.</w>
-                        <w>И</w>
-                        <w>въселися</w>
-                        <w>въ</w>
-                        <w>печеру,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>тако</w>
-                        <w>же</w>
-                        <w>уродом</w>
-                        <w>ся</w>
-                        <w>творя.</w>
-                        <w>Вселися</w>
-                        <w>в</w>
-                        <w>печеру,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>196, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="4"><p>
+<app>
+<lem wit="#lem">
+<w>такоже</w>
+<w>уродъмь</w>
+<w>ся</w>
+<w>творя.</w>
+<w>И</w>
+<w>въсели</w>
+<w>ся</w>
+<w>въ</w>
+<w>печеру,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>такоже</w>
+<w>оу<lb/>родом</w>
+<w>сѧ</w>
+<w>творѧ.</w>
+<w>вселисѧ</w>
+<w>в</w>
+<w>пече<lb/>ру</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>оуро<hi rend="sup">д</hi>ство</w>
+<w>творѧ.</w>
+<w>и</w>
+<w>вселисѧ</w>
+<w>в</w>
+<w>пе<hi rend="sup">ч</hi>рѹ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>Оуро<hi rend="sup">д</hi>ство</w>
+<w>творѧ.</w>
+<w>и</w>
+<w>вселисѧ <lb/></w>
+
+<w>в</w>
+<w>печерѹ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>тако<lb/>же</w>
+<w>оуродомъ</w>
+<w>сѧ</w>
+<w>творѧ.</w>
+<w>и <lb/></w>
+
+<w>вселисѧ</w>
+<w>в</w>
+<w>пещер<milestone unit="sic" n="start"/>оу<milestone unit="sic" n="end"/>.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>такоже</w>
+<w>и</w>
+<w>оуродѡ<hi rend="sup">м</hi></w>
+<w>сѧ</w>
+<w>тво<lb/>рѧ.</w>
+<w>и</w>
+<w>вселисѧ</w>
+<w>въ</w>
+<w>пе<hi rend="sup">ч</hi>роу</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>такоже</w>
+<w>уродомъ</w>
+<w>ся</w>
+<w>творя.</w>
+<w>Вселися</w>
+<w>в</w>
+<w>печеру,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>такоже</w>
+<w>уродъмь</w>
+<w>ся</w>
+<w>творя.</w>
+<w>И</w>
+<w>въселися</w>
+<w>въ</w>
+<w>печеру,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>тако</w>
+<w>же</w>
+<w>уродом</w>
+<w>ся</w>
+<w>творя.</w>
+<w>Вселися</w>
+<w>в</w>
+<w>печеру,</w>
+</rdg>
+</app></p></div></body></text></TEI>

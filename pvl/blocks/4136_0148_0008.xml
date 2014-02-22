@@ -1,124 +1,104 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>148, 8</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="8">
-            <p>
-               <app>
-                  <lem>
-                     <w>сь</w>
-                     <w>лѣпъ,</w>
-                     <w>и</w>
-                     <w>луда</w>
-                     <w>бѣ</w>
-                     <w>у</w>
-                     <w>него</w>
-                     <w>златъмь</w>
-                     <w>истъкана.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>слѣпъ.</w>
-                        <w>луда</w>
-                        <w>бѣ</w>
-                        <w>оу</w>
-                        <w>него</w>
-                        <w>золо<lb/>томь</w>
-                        <w>истъкана.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>слѣпъ.</w>
-                        <w>и</w>
-                        <w>лѹда</w>
-                        <w>бѣ</w>
-                        <w>оу</w>
-                        <w>него</w>
-                        <w>зо<lb/>лото<hi rend="sup">м</hi>
-                        </w>
-                        <w>истъкана.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>слѣпъ.</w>
-                        <w>и</w>
-                        <w>лоуда</w>
-                        <w>бѣ</w>
-                        <w>оу</w>
-                        <w>него</w>
-                        <w>золото<lb/>мъ</w>
-                        <w>исткана.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>слѣпъ</w>
-                        <w>и</w>
-                        <w>луда</w>
-                        <w>оу</w>
-                        <w>него</w>
-                        <w>зла<lb/>томъ</w>
-                        <w>истькана.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>слѣпь.</w>
-                        <w>и</w>
-                        <w>лѹда</w>
-                        <w>бѣ</w>
-                        <w>оу</w>
-                        <w>него</w>
-                        <w>злато<hi rend="sup">м</hi>
-                        </w>
-                        <w>истькана.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>сь</w>
-                        <w>лѣпъ,</w>
-                        <w>и</w>
-                        <w>луда</w>
-                        <w>бѣ</w>
-                        <w>у</w>
-                        <w>него</w>
-                        <w>золотомь</w>
-                        <w>истъкана.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>сь</w>
-                        <w>лѣпъ,</w>
-                        <w>и</w>
-                        <w>луда</w>
-                        <w>бѣ</w>
-                        <w>у</w>
-                        <w>него</w>
-                        <w>златъмь</w>
-                        <w>истъкана.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>сь</w>
-                        <w>лѣпъ,</w>
-                        <w>и</w>
-                        <w>луда</w>
-                        <w>бѣ</w>
-                        <w>у</w>
-                        <w>него</w>
-                        <w>золотомь</w>
-                        <w>истъкана.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>148, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="8"><p>
+<app>
+<lem wit="#lem">
+<w>сь</w>
+<w>лѣпъ,</w>
+<w>и</w>
+<w>луда</w>
+<w>бѣ</w>
+<w>у</w>
+<w>него</w>
+<w>златъмь</w>
+<w>истъкана.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>слѣпъ.</w>
+<w>луда</w>
+<w>бѣ</w>
+<w>оу</w>
+<w>него</w>
+<w>золо<lb/>томь</w>
+<w>истъкана.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>слѣпъ.</w>
+<w>и</w>
+<w>лѹда</w>
+<w>бѣ</w>
+<w>оу</w>
+<w>него</w>
+<w>зо<lb/>лото<hi rend="sup">м</hi></w>
+<w>истъкана.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>слѣпъ.</w>
+<w>и</w>
+<w>лоуда</w>
+<w>бѣ</w>
+<w>оу</w>
+<w>него</w>
+<w>золото<lb/>мъ</w>
+<w>исткана.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>слѣпъ</w>
+<w>и</w>
+<w>луда</w>
+<w>оу</w>
+<w>него</w>
+<w>зла<lb/>томъ</w>
+<w>истькана.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>слѣпь.</w>
+<w>и</w>
+<w>лѹда</w>
+<w>бѣ</w>
+<w>оу</w>
+<w>него</w>
+<w>злато<hi rend="sup">м</hi></w>
+<w>истькана.</w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>сь</w>
+<w>лѣпъ,</w>
+<w>и</w>
+<w>луда</w>
+<w>бѣ</w>
+<w>у</w>
+<w>него</w>
+<w>золотомь</w>
+<w>истъкана.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>сь</w>
+<w>лѣпъ,</w>
+<w>и</w>
+<w>луда</w>
+<w>бѣ</w>
+<w>у</w>
+<w>него</w>
+<w>златъмь</w>
+<w>истъкана.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>сь</w>
+<w>лѣпъ,</w>
+<w>и</w>
+<w>луда</w>
+<w>бѣ</w>
+<w>у</w>
+<w>него</w>
+<w>золотомь</w>
+<w>истъкана.</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,115 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>54, 14</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="14">
-            <p>
-               <app>
-                  <lem>
-                     <w>странамъ.</w>
-                     <w>И</w>
-                     <w>приспѣ</w>
-                     <w>осень,</w>
-                     <w>и</w>
-                     <w>нача</w>
-                     <w>мыслити</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>странамъ.</w>
-                        <w>и</w>
-                        <w>прі<lb/>спѣ</w>
-                        <w>ѡсень.</w>
-                        <w>нача</w>
-                        <w>мыслити</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>страна<hi rend="sup">м</hi>.</w>
-                        <w>и</w>
-                        <w>приспѣ</w>
-                        <w>ѡсе<hi rend="sup">н</hi>
-                        </w>
-                        <w>и</w>
-                        <w>нача</w>
-                        <w>мыслити</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>странамъ. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>приспѣ</w>
-                        <w>ѡсень</w>
-                        <w>нача</w>
-                        <w>мыслити</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>странамъ.</w>
-                        <w>и</w>
-                        <w>присп<hi rend="sup">ѣ</hi> 
-                           <lb/>
-                        </w>
-                        <w>ѡсень</w>
-                        <w>и</w>
-                        <w>нача</w>
-                        <w>мысли<hi rend="sup">т</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>страна<hi rend="sup">м</hi>.</w>
-                        <w>и</w>
-                        <w>приспѣ <lb/>
-                        </w>
-                        <w>ѡсень.</w>
-                        <w>и</w>
-                        <w>нача</w>
-                        <w>мыслити</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>странамъ.</w>
-                        <w>И</w>
-                        <w>приспѣ</w>
-                        <w>осень,</w>
-                        <w>и</w>
-                        <w>нача</w>
-                        <w>мыслити</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>странамъ.</w>
-                        <w>И</w>
-                        <w>приспѣ</w>
-                        <w>осень,</w>
-                        <w>и</w>
-                        <w>нача</w>
-                        <w>мыслити</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>странамъ.</w>
-                        <w>И</w>
-                        <w>приспѣ</w>
-                        <w>осень,</w>
-                        <w>и</w>
-                        <w>нача</w>
-                        <w>мыслити</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>54, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="14"><p>
+<app>
+<lem wit="#lem">
+<w>странамъ.</w>
+<w>И</w>
+<w>приспѣ</w>
+<w>осень,</w>
+<w>и</w>
+<w>нача</w>
+<w>мыслити</w>
+</lem>
+
+<rdg wit="#lav">
+<w>странамъ.</w>
+<w>и</w>
+<w>прі<lb/>спѣ</w>
+<w>ѡсень.</w>
+<w>нача</w>
+<w>мыслити</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>страна<hi rend="sup">м</hi>.</w>
+<w>и</w>
+<w>приспѣ</w>
+<w>ѡсе<hi rend="sup">н</hi></w>
+<w>и</w>
+<w>нача</w>
+<w>мыслити</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>странамъ. <lb/></w>
+
+<w>и</w>
+<w>приспѣ</w>
+<w>ѡсень</w>
+<w>нача</w>
+<w>мыслити</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>странамъ.</w>
+<w>и</w>
+<w>присп<hi rend="sup">ѣ</hi><lb/></w>
+<w>ѡсень</w>
+<w>и</w>
+<w>нача</w>
+<w>мысли<hi rend="sup">т</hi></w>
+</rdg>
+
+<rdg wit="#xle">
+<w>страна<hi rend="sup">м</hi>.</w>
+<w>и</w>
+<w>приспѣ <lb/></w>
+
+<w>ѡсень.</w>
+<w>и</w>
+<w>нача</w>
+<w>мыслити</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>странамъ.</w>
+<w>И</w>
+<w>приспѣ</w>
+<w>осень,</w>
+<w>и</w>
+<w>нача</w>
+<w>мыслити</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>странамъ.</w>
+<w>И</w>
+<w>приспѣ</w>
+<w>осень,</w>
+<w>и</w>
+<w>нача</w>
+<w>мыслити</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>странамъ.</w>
+<w>И</w>
+<w>приспѣ</w>
+<w>осень,</w>
+<w>и</w>
+<w>нача</w>
+<w>мыслити</w>
+</rdg>
+</app></p></div></body></text></TEI>

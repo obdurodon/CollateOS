@@ -1,109 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>232, 25</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="25">
-            <p>
-               <app>
-                  <lem>
-                     <w>домъ</w>
-                     <w>святыя</w>
-                     <w>владычицѣ</w>
-                     <w>Богородицѣ,</w>
-                     <w>и</w>
-                     <w>придоша</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>до<lb/>мъ</w>
-                        <w>ст҃ыя</w>
-                        <w>влч<hi rend="sup">д</hi>цѣ</w>
-                        <w>нашея</w>
-                        <w>бц҃ѣ· <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>придоша</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>домъ</w>
-                        <w>ст҃ыя</w>
-                        <w>бц҃а <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>приидоша</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>домь</w>
-                        <w>ст҃ыѧ</w>
-                        <w>бц҃а·</w>
-                        <w>и</w>
-                        <w>приидо<lb/>ша</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>домъ</w>
-                        <w>ст҃ыя <lb/>
-                        </w>
-                        <w>влч<hi rend="sup">д</hi>цѣ</w>
-                        <w>бц<hi rend="sup">ѣ</hi>·</w>
-                        <w>и</w>
-                        <w>приидоша</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>дѡ<hi rend="sup">м</hi> 
-                           <lb/>
-                        </w>
-                        <w>ст҃ыа</w>
-                        <w>вл<hi rend="sup">д</hi>чци</w>
-                        <w>бц҃и,</w>
-                        <w>и</w>
-                        <w>прїидоша</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>домъ</w>
-                        <w>святыя</w>
-                        <w>Владычицѣ</w>
-                        <w>нашея</w>
-                        <w>Богородица,</w>
-                        <w>и</w>
-                        <w>придоша</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>домъ</w>
-                        <w>святыя</w>
-                        <w>владычицѣ</w>
-                        <w>нашея</w>
-                        <w>Богородицѣ,</w>
-                        <w>и</w>
-                        <w>придоша</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>домъ</w>
-                        <w>святыя</w>
-                        <w>владычицѣ</w>
-                        <w>нашея</w>
-                        <w>Богородице,</w>
-                        <w>и</w>
-                        <w>придоша</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>232, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="25"><p>
+<app>
+<lem wit="#lem">
+<w>домъ</w>
+<w>святыя</w>
+<w>владычицѣ</w>
+<w>Богородицѣ,</w>
+<w>и</w>
+<w>придоша</w>
+</lem>
+
+<rdg wit="#lav">
+<w>до<lb/>мъ</w>
+<w>ст҃ыя</w>
+<w>влч<hi rend="sup">д</hi>цѣ</w>
+<w>нашея</w>
+<w>бц҃ѣ· <lb/></w>
+
+<w>и</w>
+<w>придоша</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>домъ</w>
+<w>ст҃ыя</w>
+<w>бц҃а <lb/></w>
+
+<w>и</w>
+<w>приидоша</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>домь</w>
+<w>ст҃ыѧ</w>
+<w>бц҃а·</w>
+<w>и</w>
+<w>приидо<lb/>ша</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>домъ</w>
+<w>ст҃ыя <lb/></w>
+
+<w>влч<hi rend="sup">д</hi>цѣ</w>
+<w>бц<hi rend="sup">ѣ</hi>·</w>
+<w>и</w>
+<w>приидоша</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>дѡ<hi rend="sup">м</hi><lb/></w>
+<w>ст҃ыа</w>
+<w>вл<hi rend="sup">д</hi>чци</w>
+<w>бц҃и,</w>
+<w>и</w>
+<w>прїидоша</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>домъ</w>
+<w>святыя</w>
+<w>Владычицѣ</w>
+<w>нашея</w>
+<w>Богородица,</w>
+<w>и</w>
+<w>придоша</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>домъ</w>
+<w>святыя</w>
+<w>владычицѣ</w>
+<w>нашея</w>
+<w>Богородицѣ,</w>
+<w>и</w>
+<w>придоша</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>домъ</w>
+<w>святыя</w>
+<w>владычицѣ</w>
+<w>нашея</w>
+<w>Богородице,</w>
+<w>и</w>
+<w>придоша</w>
+</rdg>
+</app></p></div></body></text></TEI>

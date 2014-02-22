@@ -1,122 +1,95 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>49, 4</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="4">
-            <p>
-               <app>
-                  <lem>
-                     <w>въходять</w>
-                     <w>въ</w>
-                     <w>градъ</w>
-                     <w>единѣми</w>
-                     <w>враты</w>
-                     <w>съ</w>
-                     <w>цьсаревъмь</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>входѧть <lb/>
-                        </w>
-                        <w>в</w>
-                        <w>городъ</w>
-                        <w>ѡдинѣми</w>
-                        <w>вороты.</w>
-                        <w>со</w>
-                        <w>цр҃вмъ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>входѧ<hi rend="sup">т</hi>
-                        </w>
-                        <w>въ</w>
-                        <w>гра<hi rend="sup">д</hi>
-                        </w>
-                        <w>ѡдиними</w>
-                        <w>вороты.</w>
-                        <w>со</w>
-                        <w>цр҃вымъ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>входѧть</w>
-                        <w>в</w>
-                        <w>го<lb/>ро<hi rend="sup">д</hi>
-                        </w>
-                        <w>ѡднѣми</w>
-                        <w>вороты.</w>
-                        <w>со</w>
-                        <w>ц҃ревымъ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>входѧть</w>
-                        <w>в</w>
-                        <w>горо<hi rend="sup">д</hi> 
-                           <lb/>
-                        </w>
-                        <w>ѡдиными</w>
-                        <w>вороты.</w>
-                        <w>съ <lb/>
-                        </w>
-                        <w>ц<hi rend="sup">с</hi>рвомъ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>входѧ<hi rend="sup">т</hi>
-                        </w>
-                        <w>въ</w>
-                        <w>горѡ<hi rend="sup">д</hi>
-                        </w>
-                        <w>единѣми</w>
-                        <w>въроты. <lb/>
-                        </w>
-                        <w>съ</w>
-                        <w>ц҃ревы<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>входять</w>
-                        <w>в</w>
-                        <w>городъ</w>
-                        <w>одинѣми</w>
-                        <w>вороты</w>
-                        <w>со</w>
-                        <w>царевымъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>въходять</w>
-                        <w>въ</w>
-                        <w>градъ</w>
-                        <w>единѣми</w>
-                        <w>враты</w>
-                        <w>съ</w>
-                        <w>цѣсаревъмь</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>входять</w>
-                        <w>в</w>
-                        <w>городъ</w>
-                        <w>одинѣми</w>
-                        <w>вороты</w>
-                        <w>со</w>
-                        <w>царевымъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>49, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="4"><p>
+<app>
+<lem wit="#lem">
+<w>въходять</w>
+<w>въ</w>
+<w>градъ</w>
+<w>единѣми</w>
+<w>враты</w>
+<w>съ</w>
+<w>цьсаревъмь</w>
+</lem>
+
+<rdg wit="#lav">
+<w>входѧть <lb/></w>
+
+<w>в</w>
+<w>городъ</w>
+<w>ѡдинѣми</w>
+<w>вороты.</w>
+<w>со</w>
+<w>цр҃вмъ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>входѧ<hi rend="sup">т</hi></w>
+<w>въ</w>
+<w>гра<hi rend="sup">д</hi></w>
+<w>ѡдиними</w>
+<w>вороты.</w>
+<w>со</w>
+<w>цр҃вымъ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>входѧть</w>
+<w>в</w>
+<w>го<lb/>ро<hi rend="sup">д</hi></w>
+<w>ѡднѣми</w>
+<w>вороты.</w>
+<w>со</w>
+<w>ц҃ревымъ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>входѧть</w>
+<w>в</w>
+<w>горо<hi rend="sup">д</hi><lb/></w>
+<w>ѡдиными</w>
+<w>вороты.</w>
+<w>съ <lb/></w>
+
+<w>ц<hi rend="sup">с</hi>рвомъ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>входѧ<hi rend="sup">т</hi></w>
+<w>въ</w>
+<w>горѡ<hi rend="sup">д</hi></w>
+<w>единѣми</w>
+<w>въроты. <lb/></w>
+
+<w>съ</w>
+<w>ц҃ревы<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>входять</w>
+<w>в</w>
+<w>городъ</w>
+<w>одинѣми</w>
+<w>вороты</w>
+<w>со</w>
+<w>царевымъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>въходять</w>
+<w>въ</w>
+<w>градъ</w>
+<w>единѣми</w>
+<w>враты</w>
+<w>съ</w>
+<w>цѣсаревъмь</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>входять</w>
+<w>в</w>
+<w>городъ</w>
+<w>одинѣми</w>
+<w>вороты</w>
+<w>со</w>
+<w>царевымъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

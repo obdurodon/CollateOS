@@ -1,118 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>210, 5</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="5">
-            <p>
-               <app>
-                  <lem>
-                     <w>псалъмы,</w>
-                     <w>почахъ</w>
-                     <w>копати.</w>
-                     <w>И</w>
-                     <w>трудивъ</w>
-                     <w>ся</w>
-                     <w>въдахъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>плм<hi rend="sup">с</hi>ы</w>
-                        <w>поча<hi rend="sup">х</hi> 
-                           <lb/>
-                        </w>
-                        <w>копати.</w>
-                        <w>трудивъсѧ</w>
-                        <w>вдахъ <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ѱл<hi rend="sup">с</hi>мы.</w>
-                        <w>и</w>
-                        <w>поча<hi rend="sup">х</hi>
-                        </w>
-                        <w>копати.</w>
-                        <w>и</w>
-                        <w>троудивъ<hi rend="sup">с</hi> 
-                           <lb/>
-                        </w>
-                        <w>да<hi rend="sup">х</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ѱлм<hi rend="sup">с</hi>ы. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>поча<hi rend="sup">х</hi>
-                        </w>
-                        <w>копати</w>
-                        <w>и</w>
-                        <w>оутрѹдивсѧ</w>
-                        <w>да<hi rend="sup">х</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>плм<hi rend="sup">с</hi>ы <lb/>
-                        </w>
-                        <w>почахъ</w>
-                        <w>копати.</w>
-                        <w>и</w>
-                        <w>вътруді<lb/>всѧ</w>
-                        <w>вда<hi rend="sup">х</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ѱал҃мы</w>
-                        <w>поча<hi rend="sup">х</hi>
-                        </w>
-                        <w>копати.</w>
-                        <w>и</w>
-                        <w>оутроу<hi rend="sup">д</hi>в<hi rend="sup">и</hi>сѧ</w>
-                        <w>вда<hi rend="sup">х</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>псалмы,</w>
-                        <w>почахъ</w>
-                        <w>копати;</w>
-                        <w>и</w>
-                        <w>утрудився</w>
-                        <w>вдахъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>псалъмы,</w>
-                        <w>почахъ</w>
-                        <w>копати.</w>
-                        <w>И</w>
-                        <w>утрудивъся,</w>
-                        <w>въдахъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>псалмы,</w>
-                        <w>почах</w>
-                        <w>копати.</w>
-                        <w>И</w>
-                        <w>утрудився</w>
-                        <w>вдахъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>210, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="5"><p>
+<app>
+<lem wit="#lem">
+<w>псалъмы,</w>
+<w>почахъ</w>
+<w>копати.</w>
+<w>И</w>
+<w>трудивъ</w>
+<w>ся</w>
+<w>въдахъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>плм<hi rend="sup">с</hi>ы</w>
+<w>поча<hi rend="sup">х</hi><lb/></w>
+<w>копати.</w>
+<w>трудивъсѧ</w>
+<w>вдахъ <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>ѱл<hi rend="sup">с</hi>мы.</w>
+<w>и</w>
+<w>поча<hi rend="sup">х</hi></w>
+<w>копати.</w>
+<w>и</w>
+<w>троудивъ<hi rend="sup">с</hi><lb/></w>
+<w>да<hi rend="sup">х</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ѱлм<hi rend="sup">с</hi>ы. <lb/></w>
+
+<w>и</w>
+<w>поча<hi rend="sup">х</hi></w>
+<w>копати</w>
+<w>и</w>
+<w>оутрѹдивсѧ</w>
+<w>да<hi rend="sup">х</hi></w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>плм<hi rend="sup">с</hi>ы <lb/></w>
+
+<w>почахъ</w>
+<w>копати.</w>
+<w>и</w>
+<w>вътруді<lb/>всѧ</w>
+<w>вда<hi rend="sup">х</hi></w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ѱал҃мы</w>
+<w>поча<hi rend="sup">х</hi></w>
+<w>копати.</w>
+<w>и</w>
+<w>оутроу<hi rend="sup">д</hi>в<hi rend="sup">и</hi>сѧ</w>
+<w>вда<hi rend="sup">х</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>псалмы,</w>
+<w>почахъ</w>
+<w>копати;</w>
+<w>и</w>
+<w>утрудився</w>
+<w>вдахъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>псалъмы,</w>
+<w>почахъ</w>
+<w>копати.</w>
+<w>И</w>
+<w>утрудивъся,</w>
+<w>въдахъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>псалмы,</w>
+<w>почах</w>
+<w>копати.</w>
+<w>И</w>
+<w>утрудився</w>
+<w>вдахъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

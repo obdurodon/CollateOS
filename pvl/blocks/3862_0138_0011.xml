@@ -1,111 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>138, 11</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="11">
-            <p>
-               <app>
-                  <lem>
-                     <w>блаженая.</w>
-                     <w>Радуита</w>
-                     <w>ся,</w>
-                     <w>брата,</w>
-                     <w>въкупѣ</w>
-                     <w>въ</w>
-                     <w>мѣстѣхъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>блжн҃ая.</w>
-                        <w>радуитасѧ <lb/>
-                        </w>
-                        <w>брата</w>
-                        <w>вкупѣ.</w>
-                        <w>в</w>
-                        <w>мѣстѣхъ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>блж҃ная.</w>
-                        <w>ра<hi rend="sup">д</hi>уита<hi rend="sup">с</hi>
-                        </w>
-                        <w>бра<hi rend="sup">т</hi> 
-                           <lb/>
-                        </w>
-                        <w>вкоупѣ.</w>
-                        <w>въ</w>
-                        <w>мѣсте<hi rend="sup">х</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>блж҃еннаа.</w>
-                        <w>радѹитасѧ</w>
-                        <w>брата</w>
-                        <w>вкѹ<lb/>пѣ</w>
-                        <w>в</w>
-                        <w>мѣсте<hi rend="sup">х</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>блжн҃ая</w>
-                        <w>радуитасѧ</w>
-                        <w>брата <lb/>
-                        </w>
-                        <w>вкупѣ</w>
-                        <w>в</w>
-                        <w>мѣстѣхъ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>бл҃женнаа.</w>
-                        <w>ра<hi rend="sup">д</hi>уи<lb/>тасѧ</w>
-                        <w>брата</w>
-                        <w>въкоупѣ,</w>
-                        <w>въ</w>
-                        <w>мѣсте<hi rend="sup">х</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>блаженая.</w>
-                        <w>Радуйтася,</w>
-                        <w>брата,</w>
-                        <w>вкупѣ</w>
-                        <w>в</w>
-                        <w>мѣстѣхъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>блаженая.</w>
-                        <w>Радуитася,</w>
-                        <w>брата,</w>
-                        <w>въкупѣ</w>
-                        <w>въ</w>
-                        <w>мѣстѣхъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>блаженая.</w>
-                        <w>Радуйтася,</w>
-                        <w>брата,</w>
-                        <w>вкупѣ</w>
-                        <w>в</w>
-                        <w>мѣстѣхъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>138, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="11"><p>
+<app>
+<lem wit="#lem">
+<w>блаженая.</w>
+<w>Радуита</w>
+<w>ся,</w>
+<w>брата,</w>
+<w>въкупѣ</w>
+<w>въ</w>
+<w>мѣстѣхъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>блжн҃ая.</w>
+<w>радуитасѧ <lb/></w>
+
+<w>брата</w>
+<w>вкупѣ.</w>
+<w>в</w>
+<w>мѣстѣхъ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>блж҃ная.</w>
+<w>ра<hi rend="sup">д</hi>уита<hi rend="sup">с</hi></w>
+<w>бра<hi rend="sup">т</hi><lb/></w>
+<w>вкоупѣ.</w>
+<w>въ</w>
+<w>мѣсте<hi rend="sup">х</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>блж҃еннаа.</w>
+<w>радѹитасѧ</w>
+<w>брата</w>
+<w>вкѹ<lb/>пѣ</w>
+<w>в</w>
+<w>мѣсте<hi rend="sup">х</hi></w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>блжн҃ая</w>
+<w>радуитасѧ</w>
+<w>брата <lb/></w>
+
+<w>вкупѣ</w>
+<w>в</w>
+<w>мѣстѣхъ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>бл҃женнаа.</w>
+<w>ра<hi rend="sup">д</hi>уи<lb/>тасѧ</w>
+<w>брата</w>
+<w>въкоупѣ,</w>
+<w>въ</w>
+<w>мѣсте<hi rend="sup">х</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>блаженая.</w>
+<w>Радуйтася,</w>
+<w>брата,</w>
+<w>вкупѣ</w>
+<w>в</w>
+<w>мѣстѣхъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>блаженая.</w>
+<w>Радуитася,</w>
+<w>брата,</w>
+<w>въкупѣ</w>
+<w>въ</w>
+<w>мѣстѣхъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>блаженая.</w>
+<w>Радуйтася,</w>
+<w>брата,</w>
+<w>вкупѣ</w>
+<w>в</w>
+<w>мѣстѣхъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

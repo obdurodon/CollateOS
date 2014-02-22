@@ -1,117 +1,95 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>140, 15</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="15">
-            <p>
-               <app>
-                  <lem>
-                     <w>съзъвавъ</w>
-                     <w>люди,</w>
-                     <w>нача</w>
-                     <w>даяти</w>
-                     <w>овѣмъ</w>
-                     <w>кързна,</w>
-                     <w>а</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>созв<hi rend="sup">а</hi> 
-                           <lb/>
-                        </w>
-                        <w>люди</w>
-                        <w>нача</w>
-                        <w>даяти</w>
-                        <w>ѡвѣмъ <lb/>
-                        </w>
-                        <w>корзна.</w>
-                        <w>а</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>созва</w>
-                        <w>лю<hi rend="sup">д</hi>и</w>
-                        <w>и</w>
-                        <w>на<hi rend="sup">ч</hi>
-                        </w>
-                        <w>даяти.</w>
-                        <w>ѡвѣмъ</w>
-                        <w>коръ<lb/>зна.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>созва</w>
-                        <w>люди</w>
-                        <w>и</w>
-                        <w>нача</w>
-                        <w>даяти.</w>
-                        <w>ѡвѣ<lb/>мъ</w>
-                        <w>корьзна.</w>
-                        <w>а</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>созва<lb/>въ</w>
-                        <w>люди</w>
-                        <w>и</w>
-                        <w>нача</w>
-                        <w>даяти.</w>
-                        <w>ѡвѣ<lb/>мь</w>
-                        <w>корьзна.</w>
-                        <w>а</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>съзва</w>
-                        <w>л<hi rend="sup">д</hi>ю<hi rend="sup">ї</hi>.</w>
-                        <w>нача</w>
-                        <w>даати</w>
-                        <w>ѡв<hi rend="sup">м</hi>ѣ</w>
-                        <w>кръзна.</w>
-                        <w>а</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Созвавъ</w>
-                        <w>люди,</w>
-                        <w>нача</w>
-                        <w>даяти</w>
-                        <w>овѣмъ</w>
-                        <w>корзна,</w>
-                        <w>а</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>съзъвавъ</w>
-                        <w>люди,</w>
-                        <w>нача</w>
-                        <w>даяти</w>
-                        <w>овѣмъ</w>
-                        <w>кързна,</w>
-                        <w>а</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Созвавъ</w>
-                        <w>люди,</w>
-                        <w>нача</w>
-                        <w>даяти</w>
-                        <w>овѣмъ</w>
-                        <w>корзна,</w>
-                        <w>а</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>140, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="15"><p>
+<app>
+<lem wit="#lem">
+<w>съзъвавъ</w>
+<w>люди,</w>
+<w>нача</w>
+<w>даяти</w>
+<w>овѣмъ</w>
+<w>кързна,</w>
+<w>а</w>
+</lem>
+
+<rdg wit="#lav">
+<w>созв<hi rend="sup">а</hi><lb/>въ</w>
+<w>люди</w>
+<w>нача</w>
+<w>даяти</w>
+<w>ѡвѣмъ <lb/></w>
+
+<w>корзна.</w>
+<w>а</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>созва</w>
+<w>лю<hi rend="sup">д</hi>и</w>
+<w>и</w>
+<w>на<hi rend="sup">ч</hi></w>
+<w>даяти.</w>
+<w>ѡвѣмъ</w>
+<w>коръ<lb/>зна.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>созва</w>
+<w>люди</w>
+<w>и</w>
+<w>нача</w>
+<w>даяти.</w>
+<w>ѡвѣ<lb/>мъ</w>
+<w>корьзна.</w>
+<w>а</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>созва<lb/>въ</w>
+<w>люди</w>
+<w>и</w>
+<w>нача</w>
+<w>даяти.</w>
+<w>ѡвѣ<lb/>мь</w>
+<w>корьзна.</w>
+<w>а</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>съзва</w>
+<w>л<hi rend="sup">д</hi>ю<hi rend="sup">ї</hi>.</w>
+<w>нача</w>
+<w>даати</w>
+<w>ѡв<hi rend="sup">м</hi>ѣ</w>
+<w>кръзна.</w>
+<w>а</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Созвавъ</w>
+<w>люди,</w>
+<w>нача</w>
+<w>даяти</w>
+<w>овѣмъ</w>
+<w>корзна,</w>
+<w>а</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>съзъвавъ</w>
+<w>люди,</w>
+<w>нача</w>
+<w>даяти</w>
+<w>овѣмъ</w>
+<w>кързна,</w>
+<w>а</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Созвавъ</w>
+<w>люди,</w>
+<w>нача</w>
+<w>даяти</w>
+<w>овѣмъ</w>
+<w>корзна,</w>
+<w>а</w>
+</rdg>
+</app></p></div></body></text></TEI>

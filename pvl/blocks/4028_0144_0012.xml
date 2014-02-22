@@ -1,119 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>144, 12</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="12">
-            <p>
-               <app>
-                  <lem>
-                     <w>Альто.</w>
-                     <w>Ярославъ</w>
-                     <w>ста</w>
-                     <w>на</w>
-                     <w>мѣстѣ,</w>
-                     <w>идеже</w>
-                     <w>убиша</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>льто.</w>
-                        <w>ярославъ</w>
-                        <w>ста</w>
-                        <w>на <lb/>
-                        </w>
-                        <w>мѣстѣ</w>
-                        <w>идеже</w>
-                        <w>оубиша</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ѡлото.</w>
-                        <w>ярославъ</w>
-                        <w>ста</w>
-                        <w>на</w>
-                        <w>мѣсте.</w>
-                        <w>идѣ<lb/>же</w>
-                        <w>оубиша</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ѡлъто. <lb/>
-                        </w>
-                        <w>ярославъ</w>
-                        <w>ста</w>
-                        <w>на</w>
-                        <w>мѣсте.</w>
-                        <w>идѣже</w>
-                        <w>оубиша</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>алъто.</w>
-                        <w>ярославъ <lb/>
-                        </w>
-                        <w>же</w>
-                        <w>ста</w>
-                        <w>на</w>
-                        <w>мѣстѣ.</w>
-                        <w>идеже</w>
-                        <w>оу<lb/>б<hi rend="sup">ш</hi>и<hi rend="sup">а</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>алтоу. <lb/>
-                        </w>
-                        <w>ярослав</w>
-                        <w>же</w>
-                        <w>ста</w>
-                        <w>на</w>
-                        <w>мѣстѣ</w>
-                        <w>идеже</w>
-                        <w>оубиша</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Льто.</w>
-                        <w>Ярославъ</w>
-                        <w>ста</w>
-                        <w>на</w>
-                        <w>мѣстѣ,</w>
-                        <w>идеже</w>
-                        <w>убиша</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Льто.</w>
-                        <w>Ярославъ</w>
-                        <w>же</w>
-                        <w>ста</w>
-                        <w>на</w>
-                        <w>мѣстѣ,</w>
-                        <w>идеже</w>
-                        <w>убиша</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Льто.</w>
-                        <w>Ярославъ</w>
-                        <w>ста</w>
-                        <w>на</w>
-                        <w>мѣстѣ,</w>
-                        <w>идеже</w>
-                        <w>убиша</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>144, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="12"><p>
+<app>
+<lem wit="#lem">
+<w>Альто.</w>
+<w>Ярославъ</w>
+<w>ста</w>
+<w>на</w>
+<w>мѣстѣ,</w>
+<w>идеже</w>
+<w>убиша</w>
+</lem>
+
+<rdg wit="#lav">
+<w>льто.</w>
+<w>ярославъ</w>
+<w>ста</w>
+<w>на <lb/></w>
+
+<w>мѣстѣ</w>
+<w>идеже</w>
+<w>оубиша</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ѡлото.</w>
+<w>ярославъ</w>
+<w>ста</w>
+<w>на</w>
+<w>мѣсте.</w>
+<w>идѣ<lb/>же</w>
+<w>оубиша</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ѡлъто. <lb/></w>
+
+<w>ярославъ</w>
+<w>ста</w>
+<w>на</w>
+<w>мѣсте.</w>
+<w>идѣже</w>
+<w>оубиша</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>алъто.</w>
+<w>ярославъ <lb/></w>
+
+<w>же</w>
+<w>ста</w>
+<w>на</w>
+<w>мѣстѣ.</w>
+<w>идеже</w>
+<w>оу<lb/>б<hi rend="sup">ш</hi>и<hi rend="sup">а</hi></w>
+</rdg>
+
+<rdg wit="#xle">
+<w>алтоу. <lb/></w>
+
+<w>ярослав</w>
+<w>же</w>
+<w>ста</w>
+<w>на</w>
+<w>мѣстѣ</w>
+<w>идеже</w>
+<w>оубиша</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Льто.</w>
+<w>Ярославъ</w>
+<w>ста</w>
+<w>на</w>
+<w>мѣстѣ,</w>
+<w>идеже</w>
+<w>убиша</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Льто.</w>
+<w>Ярославъ</w>
+<w>же</w>
+<w>ста</w>
+<w>на</w>
+<w>мѣстѣ,</w>
+<w>идеже</w>
+<w>убиша</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Льто.</w>
+<w>Ярославъ</w>
+<w>ста</w>
+<w>на</w>
+<w>мѣстѣ,</w>
+<w>идеже</w>
+<w>убиша</w>
+</rdg>
+</app></p></div></body></text></TEI>

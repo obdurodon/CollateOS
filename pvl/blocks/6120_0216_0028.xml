@@ -1,135 +1,112 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>216, 28</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="28">
-            <p>
-               <app>
-                  <lem>
-                     <w>имъ.</w>
-                     <w>Въ</w>
-                     <w>сихъ</w>
-                     <w>печали</w>
-                     <w>въсташа</w>
-                     <w>и</w>
-                     <w>недузи</w>
-                     <w>ему,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>имъ·</w>
-                        <w>в</w>
-                        <w>сихъ <lb/>
-                        </w>
-                        <w>печаль</w>
-                        <w>всташа</w>
-                        <w>и</w>
-                        <w>недузи</w>
-                        <w>ѥму· <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>и<hi rend="sup">м</hi>· <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>в</w>
-                        <w>си<hi rend="sup">х</hi>
-                        </w>
-                        <w>печали</w>
-                        <w>и</w>
-                        <w>емоу</w>
-                        <w>всташа.</w>
-                        <w>и</w>
-                        <w>недоузи</w>
-                        <w>емоу·</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>имь·</w>
-                        <w>и</w>
-                        <w>в</w>
-                        <w>си<hi rend="sup">х</hi>
-                        </w>
-                        <w>печали</w>
-                        <w>емѹ</w>
-                        <w>оусташа</w>
-                        <w>и</w>
-                        <w>недѹзѣ <lb/>
-                        </w>
-                        <w>емѹ·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>имъ·</w>
-                        <w>оу</w>
-                        <w>сихъже <lb/>
-                        </w>
-                        <w>печали</w>
-                        <w>въсташа</w>
-                        <w>и</w>
-                        <w>неду<lb/>зи</w>
-                        <w>ему·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>и<hi rend="sup">м</hi>.</w>
-                        <w>но</w>
-                        <w>
-                           <sic>за</sic>
-                        </w>
-                        <w>си<hi rend="sup">х</hi>же</w>
-                        <w>печали</w>
-                        <w>въсташа</w>
-                        <w>и</w>
-                        <w>не<lb/>доузи</w>
-                        <w>емоу.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>имъ.</w>
-                        <w>В</w>
-                        <w>сихъ</w>
-                        <w>печали</w>
-                        <w>всташа</w>
-                        <w>и</w>
-                        <w>недузи</w>
-                        <w>ему,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>имъ.</w>
-                        <w>Въ</w>
-                        <w>сихъже</w>
-                        <w>печали</w>
-                        <w>въсташа</w>
-                        <w>и</w>
-                        <w>недузи</w>
-                        <w>ему,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>имъ.</w>
-                        <w>В</w>
-                        <w>сихъ</w>
-                        <w>печали</w>
-                        <w>всташа</w>
-                        <w>и</w>
-                        <w>недузи</w>
-                        <w>ему,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>216, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="28"><p>
+<app>
+<lem wit="#lem">
+<w>имъ.</w>
+<w>Въ</w>
+<w>сихъ</w>
+<w>печали</w>
+<w>въсташа</w>
+<w>и</w>
+<w>недузи</w>
+<w>ему,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>имъ·</w>
+<w>в</w>
+<w>сихъ <lb/></w>
+
+<w>печаль</w>
+<w>всташа</w>
+<w>и</w>
+<w>недузи</w>
+<w>ѥму· <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>и<hi rend="sup">м</hi>· <lb/></w>
+
+<w>и</w>
+<w>в</w>
+<w>си<hi rend="sup">х</hi></w>
+<w>печали</w>
+<w>и</w>
+<w>емоу</w>
+<w>всташа.</w>
+<w>и</w>
+<w>недоузи</w>
+<w>емоу·</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>имь·</w>
+<w>и</w>
+<w>в</w>
+<w>си<hi rend="sup">х</hi></w>
+<w>печали</w>
+<w>емѹ</w>
+<w>оусташа</w>
+<w>и</w>
+<w>недѹзѣ <lb/></w>
+
+<w>емѹ·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>имъ·</w>
+<w>оу</w>
+<w>сихъже <lb/></w>
+
+<w>печали</w>
+<w>въсташа</w>
+<w>и</w>
+<w>неду<lb/>зи</w>
+<w>ему·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>и<hi rend="sup">м</hi>.</w>
+<w>но</w>
+<w><milestone unit="sic" n="start"/>за<milestone unit="sic" n="end"/></w>
+<w>си<hi rend="sup">х</hi>же</w>
+<w>печали</w>
+<w>въсташа</w>
+<w>и</w>
+<w>не<lb/>доузи</w>
+<w>емоу.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>имъ.</w>
+<w>В</w>
+<w>сихъ</w>
+<w>печали</w>
+<w>всташа</w>
+<w>и</w>
+<w>недузи</w>
+<w>ему,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>имъ.</w>
+<w>Въ</w>
+<w>сихъже</w>
+<w>печали</w>
+<w>въсташа</w>
+<w>и</w>
+<w>недузи</w>
+<w>ему,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>имъ.</w>
+<w>В</w>
+<w>сихъ</w>
+<w>печали</w>
+<w>всташа</w>
+<w>и</w>
+<w>недузи</w>
+<w>ему,</w>
+</rdg>
+</app></p></div></body></text></TEI>

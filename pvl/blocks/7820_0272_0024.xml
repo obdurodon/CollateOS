@@ -1,101 +1,82 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>272, 24</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="24">
-            <p>
-               <app>
-                  <lem>
-                     <w>прияста</w>
-                     <w>градъ,</w>
-                     <w>и</w>
-                     <w>посадьника</w>
-                     <w>Святопълча</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>прияста</w>
-                        <w>гра<hi rend="sup">д</hi>·</w>
-                        <w>и</w>
-                        <w>посадиста <lb/>
-                        </w>
-                        <w>посадника</w>
-                        <w>ст҃ополча·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>прияста</w>
-                        <w>гра<hi rend="sup">д</hi>·</w>
-                        <w>и</w>
-                        <w>посадиша</w>
-                        <w>посадни<lb/>ка</w>
-                        <w>ст҃опо<hi rend="sup">л</hi>ча</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>прияста</w>
-                        <w>гра<hi rend="sup">д</hi>·</w>
-                        <w>и</w>
-                        <w>посадиша</w>
-                        <w>посадника</w>
-                        <w>свѧ<lb/>тополча</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>перея<lb/>ста</w>
-                        <w>р<hi rend="sup">г</hi>о<hi rend="sup">о</hi>дъ</w>
-                        <w>и</w>
-                        <w>посадника</w>
-                        <w>ст҃опо<lb/>лча</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>переѧста</w>
-                        <w>горѡ<hi rend="sup">д</hi>,</w>
-                        <w>и</w>
-                        <w>посадника <lb/>
-                        </w>
-                        <w>ст҃опол′ча</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>прияста</w>
-                        <w>градъ,</w>
-                        <w>и</w>
-                        <w>посадиста</w>
-                        <w>посадника</w>
-                        <w>Святополча</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>преяста</w>
-                        <w>градъ,</w>
-                        <w>и</w>
-                        <w>посадиста</w>
-                        <w>посадьника</w>
-                        <w>Святопълча</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>прияста</w>
-                        <w>град,</w>
-                        <w>и</w>
-                        <w>посадиста</w>
-                        <w>посадника</w>
-                        <w>Святополча</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>272, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="24"><p>
+<app>
+<lem wit="#lem">
+<w>прияста</w>
+<w>градъ,</w>
+<w>и</w>
+<w>посадьника</w>
+<w>Святопълча</w>
+</lem>
+
+<rdg wit="#lav">
+<w>прияста</w>
+<w>гра<hi rend="sup">д</hi>·</w>
+<w>и</w>
+<w>посадиста <lb/></w>
+
+<w>посадника</w>
+<w>ст҃ополча·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>прияста</w>
+<w>гра<hi rend="sup">д</hi>·</w>
+<w>и</w>
+<w>посадиша</w>
+<w>посадни<lb/>ка</w>
+<w>ст҃опо<hi rend="sup">л</hi>ча</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>прияста</w>
+<w>гра<hi rend="sup">д</hi>·</w>
+<w>и</w>
+<w>посадиша</w>
+<w>посадника</w>
+<w>свѧ<lb/>тополча</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>перея<lb/>ста</w>
+<w>р<hi rend="sup">г</hi>о<hi rend="sup">о</hi>дъ</w>
+<w>и</w>
+<w>посадника</w>
+<w>ст҃опо<lb/>лча</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>переѧста</w>
+<w>горѡ<hi rend="sup">д</hi>,</w>
+<w>и</w>
+<w>посадника <lb/></w>
+
+<w>ст҃опол′ча</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>прияста</w>
+<w>градъ,</w>
+<w>и</w>
+<w>посадиста</w>
+<w>посадника</w>
+<w>Святополча</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>преяста</w>
+<w>градъ,</w>
+<w>и</w>
+<w>посадиста</w>
+<w>посадьника</w>
+<w>Святопълча</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>прияста</w>
+<w>град,</w>
+<w>и</w>
+<w>посадиста</w>
+<w>посадника</w>
+<w>Святополча</w>
+</rdg>
+</app></p></div></body></text></TEI>

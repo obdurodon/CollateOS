@@ -1,133 +1,110 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>6, 9</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="9">
-            <p>
-               <app>
-                  <lem>
-                     <w>сѣдоша</w>
-                     <w>на</w>
-                     <w>Вислѣ,</w>
-                     <w>и</w>
-                     <w>прозъваша</w>
-                     <w>ся</w>
-                     <w>Ляхове,</w>
-                     <w>а</w>
-                     <w>отъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>сѣдоша</w>
-                        <w>на</w>
-                        <w>вислѣ.</w>
-                        <w>и</w>
-                        <w>прозвашасѧ</w>
-                        <w>лѧхове.</w>
-                        <w>а</w>
-                        <w>ѿ</w>
-                        <w>
-                           <pb n="3r"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad">
-                        <w>седоше</w>
-                        <w>на</w>
-                        <w>висле</w>
-                        <w>и</w>
-                        <w>прозваша<hi rend="sup">с</hi>
-                        </w>
-                        <w>лѧхове</w>
-                        <w>а</w>
-                        <w>ѿ</w>
-                        <w>
-                           <pb n="3r"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>седоша</w>
-                        <w>на</w>
-                        <w>вїсле.</w>
-                        <w>и</w>
-                        <w>прозвашесѧ</w>
-                        <w>лѧхове.</w>
-                        <w>а</w>
-                        <w>ѿ <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>сѣдоша.</w>
-                        <w>на <lb/>
-                        </w>
-                        <w>вислѣ.</w>
-                        <w>и</w>
-                        <w>прозвашасѧ</w>
-                        <w>лѧ<lb/>ховѣ.</w>
-                        <w>а</w>
-                        <w>ѿ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>сѣдоша</w>
-                        <w>ѡвїи</w>
-                        <w>на</w>
-                        <w>вислѣ,</w>
-                        <w>и</w>
-                        <w>прозваша<hi rend="sup">с</hi>
-                        </w>
-                        <w>лѧхове.</w>
-                        <w>и <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>сѣдоша</w>
-                        <w>на</w>
-                        <w>Вислѣ,</w>
-                        <w>и</w>
-                        <w>прозвашася</w>
-                        <w>Ляхове,</w>
-                        <w>а</w>
-                        <w>отъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>сѣдоша</w>
-                        <w>на</w>
-                        <w>Вислѣ,</w>
-                        <w>и</w>
-                        <w>прозъвашася</w>
-                        <w>Ляхове,</w>
-                        <w>а</w>
-                        <w>отъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>сѣдоша</w>
-                        <w>на</w>
-                        <w>Вислѣ,</w>
-                        <w>и</w>
-                        <w>прозвашася</w>
-                        <w>ляхове,</w>
-                        <w>а</w>
-                        <w>от</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>6, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="9"><p>
+<app>
+<lem wit="#lem">
+<w>сѣдоша</w>
+<w>на</w>
+<w>Вислѣ,</w>
+<w>и</w>
+<w>прозъваша</w>
+<w>ся</w>
+<w>Ляхове,</w>
+<w>а</w>
+<w>отъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>сѣдоша</w>
+<w>на</w>
+<w>вислѣ.</w>
+<w>и</w>
+<w>прозвашасѧ</w>
+<w>лѧхове.</w>
+<w>а</w>
+<w>ѿ <pb n="3r"/></w>
+
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+<w>седоше</w>
+<w>на</w>
+<w>висле</w>
+<w>и</w>
+<w>прозваша<hi rend="sup">с</hi></w>
+<w>лѧхове</w>
+<w>а</w>
+<w>ѿ <pb n="3r"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>седоша</w>
+<w>на</w>
+<w>вїсле.</w>
+<w>и</w>
+<w>прозвашесѧ</w>
+<w>лѧхове.</w>
+<w>а</w>
+<w>ѿ <lb/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>сѣдоша.</w>
+<w>на <lb/></w>
+
+<w>вислѣ.</w>
+<w>и</w>
+<w>прозвашасѧ</w>
+<w>лѧ<lb/>ховѣ.</w>
+<w>а</w>
+<w>ѿ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>сѣдоша</w>
+<w>ѡвїи</w>
+<w>на</w>
+<w>вислѣ,</w>
+<w>и</w>
+<w>прозваша<hi rend="sup">с</hi></w>
+<w>лѧхове.</w>
+<w>и <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>сѣдоша</w>
+<w>на</w>
+<w>Вислѣ,</w>
+<w>и</w>
+<w>прозвашася</w>
+<w>Ляхове,</w>
+<w>а</w>
+<w>отъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>сѣдоша</w>
+<w>на</w>
+<w>Вислѣ,</w>
+<w>и</w>
+<w>прозъвашася</w>
+<w>Ляхове,</w>
+<w>а</w>
+<w>отъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>сѣдоша</w>
+<w>на</w>
+<w>Вислѣ,</w>
+<w>и</w>
+<w>прозвашася</w>
+<w>ляхове,</w>
+<w>а</w>
+<w>от</w>
+</rdg>
+</app></p></div></body></text></TEI>

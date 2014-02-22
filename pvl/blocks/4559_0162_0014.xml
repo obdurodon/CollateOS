@@ -1,136 +1,111 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>162, 14</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="14">
-            <p>
-               <app>
-                  <lem>
-                     <w>лѣто</w>
-                     <w>иде</w>
-                     <w>Вьсеволодъ</w>
-                     <w>на</w>
-                     <w>Търкы</w>
-                     <w>зимѣ</w>
-                     <w>к</w>
-                     <w>Воиню,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>лѣто</w>
-                        <w>иде</w>
-                        <w>
-                           <hi rend="sup">в</hi>
-                        </w>
-                        <w>
-                           <hi rend="sup">с</hi>
-                        </w>
-                        <w>
-                           <hi rend="sup">е</hi>володъ</w>
-                        <w>на</w>
-                        <w>торкы.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>лѣто</w>
-                        <w>иде</w>
-                        <w>всеволо<hi rend="sup">д</hi>.</w>
-                        <w>на</w>
-                        <w>торкы</w>
-                        <w>зимѣ</w>
-                        <w>к</w>
-                        <w>воиню. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>лѣто</w>
-                        <w>иде</w>
-                        <w>володимиръ. <lb/>
-                        </w>
-                        <w>на</w>
-                        <w>т<sic>о</sic>ркы</w>
-                        <w>зимѣ</w>
-                        <w>к</w>
-                        <w>воиню.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>лѣ<hi rend="sup">т</hi>.</w>
-                        <w>иде</w>
-                        <w>всеводъ</w>
-                        <w>на</w>
-                        <w>то<lb/>ркы.</w>
-                        <w>зимѣ</w>
-                        <w>
-                           <sic>къ воїню</sic>.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>лѣто</w>
-                        <w>иде</w>
-                        <w>всево<lb/>лѡ<hi rend="sup">д</hi>
-                        </w>
-                        <w>на</w>
-                        <w>торки.</w>
-                        <w>зимѣ</w>
-                        <w>къ</w>
-                        <w>воин<sic>ю</sic>
-                        </w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>лѣто</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>лѣто</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>лѣто</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>лѣто</w>
-                        <w>иде</w>
-                        <w>Всеволодъ</w>
-                        <w>на</w>
-                        <w>Торкы</w>
-                        <w>зимѣ</w>
-                        <w>к</w>
-                        <w>Воиню,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>лѣто</w>
-                        <w>иде</w>
-                        <w>Вьсеволодъ</w>
-                        <w>на</w>
-                        <w>Търкы</w>
-                        <w>зимѣ</w>
-                        <w>Воиню,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>лѣто</w>
-                        <w>иде</w>
-                        <w>Всеволодъ</w>
-                        <w>на</w>
-                        <w>торкы</w>
-                        <w>зимѣ</w>
-                        <w>к</w>
-                        <w>Воиню,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>162, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="14"><p>
+<app>
+<lem wit="#lem">
+<w>лѣто</w>
+<w>иде</w>
+<w>Вьсеволодъ</w>
+<w>на</w>
+<w>Търкы</w>
+<w>зимѣ</w>
+<w>к</w>
+<w>Воиню,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>лѣто</w>
+<w>иде</w>
+<w><hi rend="sup">в</hi><hi rend="sup">с</hi><hi rend="sup">е</hi>володъ</w>
+<w>на</w>
+<w>торкы.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>лѣто</w>
+<w>иде</w>
+<w>всеволо<hi rend="sup">д</hi>.</w>
+<w>на</w>
+<w>торкы</w>
+<w>зимѣ</w>
+<w>к</w>
+<w>воиню. <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>лѣто</w>
+<w>иде</w>
+<w>володимиръ. <lb/></w>
+
+<w>на</w>
+<w>т<milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/>ркы</w>
+<w>зимѣ</w>
+<w>к</w>
+<w>воиню.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>лѣ<hi rend="sup">т</hi>.</w>
+<w>иде</w>
+<w>всеводъ</w>
+<w>на</w>
+<w>то<lb/>ркы.</w>
+<w>зимѣ</w>
+<w><milestone unit="sic" n="start"/>къ</w>
+<w>воїню<milestone unit="sic" n="end"/>.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>лѣто</w>
+<w>иде</w>
+<w>всево<lb/>лѡ<hi rend="sup">д</hi></w>
+<w>на</w>
+<w>торки.</w>
+<w>зимѣ</w>
+<w>къ</w>
+<w>воин<milestone unit="sic" n="start"/>ю<milestone unit="sic" n="end"/></w>
+</rdg>
+
+<rdg wit="#kom">
+<w>лѣто</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>лѣто</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>лѣто</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>лѣто</w>
+<w>иде</w>
+<w>Всеволодъ</w>
+<w>на</w>
+<w>Торкы</w>
+<w>зимѣ</w>
+<w>к</w>
+<w>Воиню,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>лѣто</w>
+<w>иде</w>
+<w>Вьсеволодъ</w>
+<w>на</w>
+<w>Търкы</w>
+<w>зимѣ</w>
+<w>Воиню,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>лѣто</w>
+<w>иде</w>
+<w>Всеволодъ</w>
+<w>на</w>
+<w>торкы</w>
+<w>зимѣ</w>
+<w>к</w>
+<w>Воиню,</w>
+</rdg>
+</app></p></div></body></text></TEI>

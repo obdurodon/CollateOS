@@ -1,111 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>149, 14</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="14">
-            <p>
-               <app>
-                  <lem>
-                     <w>своимь</w>
-                     <w>Мьстиславъмь</w>
-                     <w>у</w>
-                     <w>Городьца.</w>
-                     <w>И</w>
-                     <w>раздѣлиста</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>свои<hi rend="sup">м</hi>. <lb/>
-                        </w>
-                        <w>мьстиславомь</w>
-                        <w>оу</w>
-                        <w>городьцѧ.</w>
-                        <w>и</w>
-                        <w>ра<lb/>здѣлиста</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>своим<sic>ъ</sic>.</w>
-                        <w>мстиславо<hi rend="sup">м</hi>.</w>
-                        <w>оу</w>
-                        <w>горо<hi rend="sup">д</hi>ца.</w>
-                        <w>и</w>
-                        <w>разде<hi rend="sup">л</hi> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>своимъ</w>
-                        <w>мьсти<lb/>славомъ.</w>
-                        <w>оу</w>
-                        <w>горо<hi rend="sup">д</hi>ца.</w>
-                        <w>и</w>
-                        <w>разделиста</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>своимъ.</w>
-                        <w>мь<lb/>стиславомъ.</w>
-                        <w>оу</w>
-                        <w>го<hi rend="sup">р</hi>д<hi rend="sup">о</hi>ьца.</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>раздѣлиста</w>
-                        <w>
-                           <sic>и</sic>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>свои<hi rend="sup">м</hi>
-                        </w>
-                        <w>мьстиславѡ<hi rend="sup">м</hi>
-                        </w>
-                        <w>оу</w>
-                        <w>горѡ<hi rend="sup">д</hi>ца.</w>
-                        <w>и</w>
-                        <w>раздѣли<lb/>ста</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>своимъ</w>
-                        <w>Мьстиславомь</w>
-                        <w>у</w>
-                        <w>Городьця.</w>
-                        <w>И</w>
-                        <w>раздѣлиста</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>своимь</w>
-                        <w>Мьстиславъмь</w>
-                        <w>у</w>
-                        <w>Городьца.</w>
-                        <w>И</w>
-                        <w>раздѣлиста</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>своим</w>
-                        <w>Мьстиславомь</w>
-                        <w>у</w>
-                        <w>Городьця.</w>
-                        <w>И</w>
-                        <w>раздѣлиста</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>149, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="14"><p>
+<app>
+<lem wit="#lem">
+<w>своимь</w>
+<w>Мьстиславъмь</w>
+<w>у</w>
+<w>Городьца.</w>
+<w>И</w>
+<w>раздѣлиста</w>
+</lem>
+
+<rdg wit="#lav">
+<w>свои<hi rend="sup">м</hi>. <lb/></w>
+
+<w>мьстиславомь</w>
+<w>оу</w>
+<w>городьцѧ.</w>
+<w>и</w>
+<w>ра<lb/>здѣлиста</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>своим<milestone unit="sic" n="start"/>ъ<milestone unit="sic" n="end"/>.</w>
+<w>мстиславо<hi rend="sup">м</hi>.</w>
+<w>оу</w>
+<w>горо<hi rend="sup">д</hi>ца.</w>
+<w>и</w>
+<w>разде<hi rend="sup">л</hi><lb/>ста</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>своимъ</w>
+<w>мьсти<lb/>славомъ.</w>
+<w>оу</w>
+<w>горо<hi rend="sup">д</hi>ца.</w>
+<w>и</w>
+<w>разделиста</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>своимъ.</w>
+<w>мь<lb/>стиславомъ.</w>
+<w>оу</w>
+<w>го<hi rend="sup">р</hi>д<hi rend="sup">о</hi>ьца.</w>
+<w>и <lb/></w>
+
+<w>раздѣлиста</w>
+<w><milestone unit="sic" n="start"/>и<milestone unit="sic" n="end"/></w>
+</rdg>
+
+<rdg wit="#xle">
+<w>свои<hi rend="sup">м</hi></w>
+<w>мьстиславѡ<hi rend="sup">м</hi></w>
+<w>оу</w>
+<w>горѡ<hi rend="sup">д</hi>ца.</w>
+<w>и</w>
+<w>раздѣли<lb/>ста</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>своимъ</w>
+<w>Мьстиславомь</w>
+<w>у</w>
+<w>Городьця.</w>
+<w>И</w>
+<w>раздѣлиста</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>своимь</w>
+<w>Мьстиславъмь</w>
+<w>у</w>
+<w>Городьца.</w>
+<w>И</w>
+<w>раздѣлиста</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>своим</w>
+<w>Мьстиславомь</w>
+<w>у</w>
+<w>Городьця.</w>
+<w>И</w>
+<w>раздѣлиста</w>
+</rdg>
+</app></p></div></body></text></TEI>

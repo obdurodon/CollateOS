@@ -1,104 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>41, 3</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="3">
-            <p>
-               <app>
-                  <lem>
-                     <w>ихъже</w>
-                     <w>хотяше,</w>
-                     <w>а</w>
-                     <w>не</w>
-                     <w>съвьршениемь</w>
-                     <w>творити</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>их</w>
-                        <w>же</w>
-                        <w>хотѧше.</w>
-                        <w>а</w>
-                        <w>не</w>
-                        <w>свершение<hi rend="sup">м</hi>
-                        </w>
-                        <w>творити. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>их</w>
-                        <w>же</w>
-                        <w>хотѧше.</w>
-                        <w>а</w>
-                        <w>не</w>
-                        <w>свершенїе<lb/>мь</w>
-                        <w>творити.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ихъ</w>
-                        <w>же</w>
-                        <w>хотѧше.</w>
-                        <w>а</w>
-                        <w>не</w>
-                        <w>свѣ<lb/>ршениемъ</w>
-                        <w>творити.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>и<hi rend="sup">х</hi>
-                        </w>
-                        <w>же</w>
-                        <w>хотѧше.</w>
-                        <w>а</w>
-                        <w>не</w>
-                        <w>съвершенїе<hi rend="sup">м</hi>
-                        </w>
-                        <w>творити</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>ихже</w>
-                        <w>хотяше,</w>
-                        <w>а</w>
-                        <w>не</w>
-                        <w>свершениемъ</w>
-                        <w>творити</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>ихъже</w>
-                        <w>хотяше,</w>
-                        <w>а</w>
-                        <w>не</w>
-                        <w>съвьршениемь</w>
-                        <w>творити</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>их</w>
-                        <w>же</w>
-                        <w>хотяше,</w>
-                        <w>а</w>
-                        <w>не</w>
-                        <w>свершением</w>
-                        <w>творити</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>41, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="3"><p>
+<app>
+<lem wit="#lem">
+<w>ихъже</w>
+<w>хотяше,</w>
+<w>а</w>
+<w>не</w>
+<w>съвьршениемь</w>
+<w>творити</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>их</w>
+<w>же</w>
+<w>хотѧше.</w>
+<w>а</w>
+<w>не</w>
+<w>свершение<hi rend="sup">м</hi></w>
+<w>творити. <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>их</w>
+<w>же</w>
+<w>хотѧше.</w>
+<w>а</w>
+<w>не</w>
+<w>свершенїе<lb/>мь</w>
+<w>творити.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ихъ</w>
+<w>же</w>
+<w>хотѧше.</w>
+<w>а</w>
+<w>не</w>
+<w>свѣ<lb/>ршениемъ</w>
+<w>творити.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>и<hi rend="sup">х</hi></w>
+<w>же</w>
+<w>хотѧше.</w>
+<w>а</w>
+<w>не</w>
+<w>съвершенїе<hi rend="sup">м</hi></w>
+<w>творити</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>ихже</w>
+<w>хотяше,</w>
+<w>а</w>
+<w>не</w>
+<w>свершениемъ</w>
+<w>творити</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>ихъже</w>
+<w>хотяше,</w>
+<w>а</w>
+<w>не</w>
+<w>съвьршениемь</w>
+<w>творити</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>их</w>
+<w>же</w>
+<w>хотяше,</w>
+<w>а</w>
+<w>не</w>
+<w>свершением</w>
+<w>творити</w>
+</rdg>
+</app></p></div></body></text></TEI>

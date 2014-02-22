@@ -1,93 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>33, 8</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="8">
-            <p>
-               <app>
-                  <lem>
-                     <w>самодьржьцемъ,</w>
-                     <w>цьсаремъ</w>
-                     <w>Грьчьскымъ,</w>
-                     <w>на</w>
-                     <w>удьржание</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>самодержьце<hi rend="sup">м</hi>.</w>
-                        <w>цр҃мъ</w>
-                        <w>греческы<hi rend="sup">м</hi>. <lb/>
-                        </w>
-                        <w>на</w>
-                        <w>оудержание.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>самодержьцемъ. <lb/>
-                        </w>
-                        <w>цр҃мь</w>
-                        <w>греческымъ.</w>
-                        <w>на</w>
-                        <w>оудержанье</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>самодѣржьце<hi rend="sup">м</hi>. <lb/>
-                        </w>
-                        <w>цр<hi rend="sup">с</hi>емь</w>
-                        <w>грѣцкымъ.</w>
-                        <w>на <lb/>
-                        </w>
-                        <w>оудѣржание</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>самодръжцемь <lb/>
-                        </w>
-                        <w>ц҃ре<hi rend="sup">м</hi>
-                        </w>
-                        <w>грецкы<hi rend="sup">м</hi>,</w>
-                        <w>на</w>
-                        <w>оудръжанїе.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>самодержьцемъ,</w>
-                        <w>царемъ</w>
-                        <w>Греческымъ,</w>
-                        <w>на</w>
-                        <w>удержание</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>самодьржьцемъ,</w>
-                        <w>цѣсаремъ</w>
-                        <w>Грьчьскымъ,</w>
-                        <w>на</w>
-                        <w>удьржание</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>самодержьцем,</w>
-                        <w>царемъ</w>
-                        <w>греческым,</w>
-                        <w>на</w>
-                        <w>удержание</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>33, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="8"><p>
+<app>
+<lem wit="#lem">
+<w>самодьржьцемъ,</w>
+<w>цьсаремъ</w>
+<w>Грьчьскымъ,</w>
+<w>на</w>
+<w>удьржание</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>самодержьце<hi rend="sup">м</hi>.</w>
+<w>цр҃мъ</w>
+<w>греческы<hi rend="sup">м</hi>. <lb/></w>
+
+<w>на</w>
+<w>оудержание.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>самодержьцемъ. <lb/></w>
+
+<w>цр҃мь</w>
+<w>греческымъ.</w>
+<w>на</w>
+<w>оудержанье</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>самодѣржьце<hi rend="sup">м</hi>. <lb/></w>
+
+<w>цр<hi rend="sup">с</hi>емь</w>
+<w>грѣцкымъ.</w>
+<w>на <lb/></w>
+
+<w>оудѣржание</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>самодръжцемь <lb/></w>
+
+<w>ц҃ре<hi rend="sup">м</hi></w>
+<w>грецкы<hi rend="sup">м</hi>,</w>
+<w>на</w>
+<w>оудръжанїе.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>самодержьцемъ,</w>
+<w>царемъ</w>
+<w>Греческымъ,</w>
+<w>на</w>
+<w>удержание</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>самодьржьцемъ,</w>
+<w>цѣсаремъ</w>
+<w>Грьчьскымъ,</w>
+<w>на</w>
+<w>удьржание</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>самодержьцем,</w>
+<w>царемъ</w>
+<w>греческым,</w>
+<w>на</w>
+<w>удержание</w>
+</rdg>
+</app></p></div></body></text></TEI>

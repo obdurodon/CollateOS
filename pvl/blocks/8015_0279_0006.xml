@@ -1,96 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>279, 6</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="6">
-            <p>
-               <app>
-                  <lem>
-                     <w>Къчия,</w>
-                     <w>Аръсланопу,</w>
-                     <w>Китанопу,</w>
-                     <w>Кунама,</w>
-                     <w>Асупа,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>кчия·</w>
-                        <w>аръсла<lb/>напу</w>
-                        <w>ки·танопу·</w>
-                        <w>кумана· <lb/>
-                        </w>
-                        <w>асупа·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>кочия.</w>
-                        <w>яросланопоу·</w>
-                        <w>кѹнама·</w>
-                        <w>
-                           <pb n="151r"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>кочиѧ·</w>
-                        <w>аросла<lb/>нопѹ·</w>
-                        <w>кѹнама·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>кочия·</w>
-                        <w>яросланопу <lb/>
-                        </w>
-                        <w>китанопу·</w>
-                        <w>кунама·</w>
-                        <w>асупа <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>кочїѧ.</w>
-                        <w>яросланопоу.</w>
-                        <w>китанопоу, <lb/>
-                        </w>
-                        <w>коунама.</w>
-                        <w>асѫпа.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Кчия,</w>
-                        <w>Аръсланапу,</w>
-                        <w>Китанопу,</w>
-                        <w>Кумана,</w>
-                        <w>Асупа,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Къчия,</w>
-                        <w>Аръсланопу,</w>
-                        <w>Китанопу,</w>
-                        <w>Кумана,</w>
-                        <w>Асупа,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Кчия,</w>
-                        <w>Аръсланапу,</w>
-                        <w>Китанопу,</w>
-                        <w>Кумана,</w>
-                        <w>Асупа,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>279, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="6"><p>
+<app>
+<lem wit="#lem">
+<w>Къчия,</w>
+<w>Аръсланопу,</w>
+<w>Китанопу,</w>
+<w>Кунама,</w>
+<w>Асупа,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>кчия·</w>
+<w>аръсла<lb/>напу</w>
+<w>ки·танопу·</w>
+<w>кумана· <lb/></w>
+
+<w>асупа·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>кочия.</w>
+<w>яросланопоу·</w>
+<w>кѹнама· <pb n="151r"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>кочиѧ·</w>
+<w>аросла<lb/>нопѹ·</w>
+<w>кѹнама·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>кочия·</w>
+<w>яросланопу <lb/></w>
+
+<w>китанопу·</w>
+<w>кунама·</w>
+<w>асупа <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>кочїѧ.</w>
+<w>яросланопоу.</w>
+<w>китанопоу, <lb/></w>
+
+<w>коунама.</w>
+<w>асѫпа.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Кчия,</w>
+<w>Аръсланапу,</w>
+<w>Китанопу,</w>
+<w>Кумана,</w>
+<w>Асупа,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Къчия,</w>
+<w>Аръсланопу,</w>
+<w>Китанопу,</w>
+<w>Кумана,</w>
+<w>Асупа,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Кчия,</w>
+<w>Аръсланапу,</w>
+<w>Китанопу,</w>
+<w>Кумана,</w>
+<w>Асупа,</w>
+</rdg>
+</app></p></div></body></text></TEI>

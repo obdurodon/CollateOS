@@ -1,116 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>197, 2</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="2">
-            <p>
-               <app>
-                  <lem>
-                     <w>антихрьстъ,</w>
-                     <w>а</w>
-                     <w>вы</w>
-                     <w>бѣси</w>
-                     <w>есте”.</w>
-                     <w>И</w>
-                     <w>прекрьсти</w>
-                     <w>ся</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ѥсть.</w>
-                        <w>а</w>
-                        <w>вы</w>
-                        <w>бѣс<sic>ы</sic> 
-                           <lb/>
-                        </w>
-                        <w>есте.</w>
-                        <w>знаменаше</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>е<hi rend="sup">с</hi>
-                        </w>
-                        <w>а</w>
-                        <w>вы</w>
-                        <w>бесове</w>
-                        <w>есте <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>знаменаше</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>а</w>
-                        <w>вы</w>
-                        <w>бесове</w>
-                        <w>есте.</w>
-                        <w>знаме<lb/>наше</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>антихрьсть.</w>
-                        <w>а</w>
-                        <w>вы <lb/>
-                        </w>
-                        <w>бѣси</w>
-                        <w>есте.</w>
-                        <w>и</w>
-                        <w>перекрѣстисѧ. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>антихристь.</w>
-                        <w>а</w>
-                        <w>вы</w>
-                        <w>бѣси</w>
-                        <w>его</w>
-                        <w>есте.</w>
-                        <w>и</w>
-                        <w>перекр<hi rend="sup">с</hi>ти<lb/>сѧ.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>есть,</w>
-                        <w>а</w>
-                        <w>вы</w>
-                        <w>бѣсы</w>
-                        <w>есте”,</w>
-                        <w>и</w>
-                        <w>знаменаше</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>есть,</w>
-                        <w>а</w>
-                        <w>вы</w>
-                        <w>бѣси</w>
-                        <w>есте”;</w>
-                        <w>и</w>
-                        <w>знаменаше</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>есть,</w>
-                        <w>а</w>
-                        <w>вы</w>
-                        <w>бѣсы</w>
-                        <w>есте”.</w>
-                        <w>И</w>
-                        <w>знаменаше</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>197, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="2"><p>
+<app>
+<lem wit="#lem">
+<w>антихрьстъ,</w>
+<w>а</w>
+<w>вы</w>
+<w>бѣси</w>
+<w>есте”.</w>
+<w>И</w>
+<w>прекрьсти</w>
+<w>ся</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ѥсть.</w>
+<w>а</w>
+<w>вы</w>
+<w>бѣс<milestone unit="sic" n="start"/>ы<milestone unit="sic" n="end"/><lb/></w>
+<w>есте.</w>
+<w>знаменаше</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>е<hi rend="sup">с</hi></w>
+<w>а</w>
+<w>вы</w>
+<w>бесове</w>
+<w>есте <lb/></w>
+
+<w>и</w>
+<w>знаменаше</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>а</w>
+<w>вы</w>
+<w>бесове</w>
+<w>есте.</w>
+<w>знаме<lb/>наше</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>антихрьсть.</w>
+<w>а</w>
+<w>вы <lb/></w>
+
+<w>бѣси</w>
+<w>есте.</w>
+<w>и</w>
+<w>перекрѣстисѧ. <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>антихристь.</w>
+<w>а</w>
+<w>вы</w>
+<w>бѣси</w>
+<w>его</w>
+<w>есте.</w>
+<w>и</w>
+<w>перекр<hi rend="sup">с</hi>ти<lb/>сѧ.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>есть,</w>
+<w>а</w>
+<w>вы</w>
+<w>бѣсы</w>
+<w>есте”,</w>
+<w>и</w>
+<w>знаменаше</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>есть,</w>
+<w>а</w>
+<w>вы</w>
+<w>бѣси</w>
+<w>есте”;</w>
+<w>и</w>
+<w>знаменаше</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>есть,</w>
+<w>а</w>
+<w>вы</w>
+<w>бѣсы</w>
+<w>есте”.</w>
+<w>И</w>
+<w>знаменаше</w>
+</rdg>
+</app></p></div></body></text></TEI>

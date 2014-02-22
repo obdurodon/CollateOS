@@ -1,121 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>39, 26</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="26">
-            <p>
-               <app>
-                  <lem>
-                     <w>Такоже</w>
-                     <w>и</w>
-                     <w>въ</w>
-                     <w>Антиохию</w>
-                     <w>пришьдъ,</w>
-                     <w>и</w>
-                     <w>умоленъ</w>
-                     <w>бывъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>тако<hi rend="sup">ж</hi>
-                        </w>
-                        <w>и</w>
-                        <w>во</w>
-                        <w>анти<sic>
-                              <hi rend="sup">ѡ</hi>
-                           </sic>хию</w>
-                        <w>прише<hi rend="sup">д</hi>.</w>
-                        <w>и</w>
-                        <w>оумоле<hi rend="sup">н</hi> 
-                           <lb/>
-                        </w>
-                        <w>бывъ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>тако</w>
-                        <w>же</w>
-                        <w>и</w>
-                        <w>въ</w>
-                        <w>антѡ<lb/>хѣю</w>
-                        <w>прише<hi rend="sup">д</hi>.</w>
-                        <w>и</w>
-                        <w>оумолень</w>
-                        <w>бывь</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>тако</w>
-                        <w>же</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>въ</w>
-                        <w>антиѡхию</w>
-                        <w>пришед<hi rend="sup">ъ</hi>. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>оумо<hi rend="sup">л</hi>н<hi rend="sup">е</hi>ъ</w>
-                        <w>бывъ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>тако</w>
-                        <w>же</w>
-                        <w>и</w>
-                        <w>въ</w>
-                        <w>а<hi rend="sup">н</hi>ти<lb/>ѡхїю</w>
-                        <w>прише<hi rend="sup">д</hi>,</w>
-                        <w>оумолень</w>
-                        <w>бывь</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Такоже</w>
-                        <w>и</w>
-                        <w>во</w>
-                        <w>Антиохию</w>
-                        <w>пришедъ,</w>
-                        <w>и</w>
-                        <w>умоленъ</w>
-                        <w>бывъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Такоже</w>
-                        <w>и</w>
-                        <w>въ</w>
-                        <w>Антиохию</w>
-                        <w>пришьдъ,</w>
-                        <w>и</w>
-                        <w>умоленъ</w>
-                        <w>бывъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Тако</w>
-                        <w>же</w>
-                        <w>и</w>
-                        <w>во</w>
-                        <w>Антиохию</w>
-                        <w>пришед,</w>
-                        <w>и</w>
-                        <w>умолен</w>
-                        <w>бывъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>39, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="26"><p>
+<app>
+<lem wit="#lem">
+<w>Такоже</w>
+<w>и</w>
+<w>въ</w>
+<w>Антиохию</w>
+<w>пришьдъ,</w>
+<w>и</w>
+<w>умоленъ</w>
+<w>бывъ</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>тако<hi rend="sup">ж</hi></w>
+<w>и</w>
+<w>во</w>
+<w>анти<milestone unit="sic" n="start"/><hi rend="sup">ѡ</hi><milestone unit="sic" n="end"/>хию</w>
+<w>прише<hi rend="sup">д</hi>.</w>
+<w>и</w>
+<w>оумоле<hi rend="sup">н</hi><lb/></w>
+<w>бывъ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>тако</w>
+<w>же</w>
+<w>и</w>
+<w>въ</w>
+<w>антѡ<lb/>хѣю</w>
+<w>прише<hi rend="sup">д</hi>.</w>
+<w>и</w>
+<w>оумолень</w>
+<w>бывь</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>тако</w>
+<w>же</w>
+<w>и <lb/></w>
+
+<w>въ</w>
+<w>антиѡхию</w>
+<w>пришед<hi rend="sup">ъ</hi>. <lb/></w>
+
+<w>и</w>
+<w>оумо<hi rend="sup">л</hi>н<hi rend="sup">е</hi>ъ</w>
+<w>бывъ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>тако</w>
+<w>же</w>
+<w>и</w>
+<w>въ</w>
+<w>а<hi rend="sup">н</hi>ти<lb/>ѡхїю</w>
+<w>прише<hi rend="sup">д</hi>,</w>
+<w>оумолень</w>
+<w>бывь</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Такоже</w>
+<w>и</w>
+<w>во</w>
+<w>Антиохию</w>
+<w>пришедъ,</w>
+<w>и</w>
+<w>умоленъ</w>
+<w>бывъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Такоже</w>
+<w>и</w>
+<w>въ</w>
+<w>Антиохию</w>
+<w>пришьдъ,</w>
+<w>и</w>
+<w>умоленъ</w>
+<w>бывъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Тако</w>
+<w>же</w>
+<w>и</w>
+<w>во</w>
+<w>Антиохию</w>
+<w>пришед,</w>
+<w>и</w>
+<w>умолен</w>
+<w>бывъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

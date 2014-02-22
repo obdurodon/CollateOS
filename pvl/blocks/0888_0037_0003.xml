@@ -1,111 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>37, 3</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="3">
-            <p>
-               <app>
-                  <lem>
-                     <w>възвратять</w>
-                     <w>имѣние</w>
-                     <w>къ</w>
-                     <w>малымъ</w>
-                     <w>ближикамъ</w>
-                     <w>въ</w>
-                     <w>Русь.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>възрати<hi rend="sup">т</hi>
-                        </w>
-                        <w>имѣнїе</w>
-                        <w>к</w>
-                        <w>мал<hi rend="sup">м</hi>ы</w>
-                        <w>ближика<hi rend="sup">м</hi> 
-                           <lb/>
-                        </w>
-                        <w>в</w>
-                        <w>роу<hi rend="sup">с</hi>.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>взрати<hi rend="sup">т</hi>
-                        </w>
-                        <w>имѣнїе <lb/>
-                        </w>
-                        <w>к</w>
-                        <w>малымъ</w>
-                        <w>блїжикамъ</w>
-                        <w>в</w>
-                        <w>рѹ<hi rend="sup">с</hi>.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>възва<lb/>тить</w>
-                        <w>имѣнье</w>
-                        <w>к</w>
-                        <w>малы<lb/>мъ</w>
-                        <w>ближикамъ</w>
-                        <w>в</w>
-                        <w>русь. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>възврати<hi rend="sup">т</hi>
-                        </w>
-                        <w>имѣнїе</w>
-                        <w>къ</w>
-                        <w>мал<hi rend="sup">м</hi>ы</w>
-                        <w>бли<lb/>жако<hi rend="sup">м</hi>
-                        </w>
-                        <w>в</w>
-                        <w>рѹ<hi rend="sup">с</hi>.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>възратиться</w>
-                        <w>имѣние</w>
-                        <w>к</w>
-                        <w>малымъ</w>
-                        <w>ближикамъ</w>
-                        <w>в</w>
-                        <w>Русь;</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>възвратять</w>
-                        <w>имѣние</w>
-                        <w>къ</w>
-                        <w>малымъ</w>
-                        <w>ближикамъ</w>
-                        <w>въ</w>
-                        <w>Русь.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>възратить</w>
-                        <w>имѣние</w>
-                        <w>к</w>
-                        <w>малым</w>
-                        <w>ближикам</w>
-                        <w>в</w>
-                        <w>Русь.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>37, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="3"><p>
+<app>
+<lem wit="#lem">
+<w>възвратять</w>
+<w>имѣние</w>
+<w>къ</w>
+<w>малымъ</w>
+<w>ближикамъ</w>
+<w>въ</w>
+<w>Русь.</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>възрати<hi rend="sup">т</hi></w>
+<w>имѣнїе</w>
+<w>к</w>
+<w>мал<hi rend="sup">м</hi>ы</w>
+<w>ближика<hi rend="sup">м</hi><lb/></w>
+<w>в</w>
+<w>роу<hi rend="sup">с</hi>.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>взрати<hi rend="sup">т</hi></w>
+<w>имѣнїе <lb/></w>
+
+<w>к</w>
+<w>малымъ</w>
+<w>блїжикамъ</w>
+<w>в</w>
+<w>рѹ<hi rend="sup">с</hi>.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>възва<lb/>тить</w>
+<w>имѣнье</w>
+<w>к</w>
+<w>малы<lb/>мъ</w>
+<w>ближикамъ</w>
+<w>в</w>
+<w>русь. <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>възврати<hi rend="sup">т</hi></w>
+<w>имѣнїе</w>
+<w>къ</w>
+<w>мал<hi rend="sup">м</hi>ы</w>
+<w>бли<lb/>жако<hi rend="sup">м</hi></w>
+<w>в</w>
+<w>рѹ<hi rend="sup">с</hi>.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>възратиться</w>
+<w>имѣние</w>
+<w>к</w>
+<w>малымъ</w>
+<w>ближикамъ</w>
+<w>в</w>
+<w>Русь;</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>възвратять</w>
+<w>имѣние</w>
+<w>къ</w>
+<w>малымъ</w>
+<w>ближикамъ</w>
+<w>въ</w>
+<w>Русь.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>възратить</w>
+<w>имѣние</w>
+<w>к</w>
+<w>малым</w>
+<w>ближикам</w>
+<w>в</w>
+<w>Русь.</w>
+</rdg>
+</app></p></div></body></text></TEI>

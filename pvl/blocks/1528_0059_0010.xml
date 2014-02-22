@@ -1,126 +1,106 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>59, 10</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="10">
-            <p>
-               <app>
-                  <lem>
-                     <w>а</w>
-                     <w>идѣте</w>
-                     <w>въ</w>
-                     <w>градъ,</w>
-                     <w>а</w>
-                     <w>заутра</w>
-                     <w>отъступлю</w>
-                     <w>отъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>а</w>
-                        <w>идѣ<lb/>те</w>
-                        <w>въ</w>
-                        <w>градъ.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>а</w>
-                        <w>идете</w>
-                        <w>в</w>
-                        <w>гра<hi rend="sup">д</hi>
-                        </w>
-                        <w>а</w>
-                        <w>я</w>
-                        <w>заоутра</w>
-                        <w>ѿстѹп<sic>а</sic>ю</w>
-                        <w>ѿ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>идѣте</w>
-                        <w>въ</w>
-                        <w>гра<hi rend="sup">д</hi>.</w>
-                        <w>а</w>
-                        <w>я</w>
-                        <w>заоутра</w>
-                        <w>ѿстѹплю</w>
-                        <w>ѿ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>а</w>
-                        <w>идете <lb/>
-                        </w>
-                        <w>в</w>
-                        <w>городъ.</w>
-                        <w>а</w>
-                        <w>язъ</w>
-                        <w>заоутра <lb/>
-                        </w>
-                        <w>ѿступлю</w>
-                        <w>ѿ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>а</w>
-                        <w>идѣте</w>
-                        <w>въ</w>
-                        <w>гра<hi rend="sup">д</hi>.</w>
-                        <w>а</w>
-                        <w>я</w>
-                        <w>зау<hi rend="sup">т</hi>ра <lb/>
-                        </w>
-                        <w>ѿстоуплю</w>
-                        <w>ѿ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>а</w>
-                        <w>идѣте</w>
-                        <w>въ</w>
-                        <w>градъ,</w>
-                        <w>а</w>
-                        <w>я</w>
-                        <w>заутра</w>
-                        <w>отступлю</w>
-                        <w>отъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>а</w>
-                        <w>идѣте</w>
-                        <w>въ</w>
-                        <w>градъ,</w>
-                        <w>а</w>
-                        <w>язъ</w>
-                        <w>заутра</w>
-                        <w>отъступлю</w>
-                        <w>отъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>а</w>
-                        <w>идѣте</w>
-                        <w>въ</w>
-                        <w>градъ,</w>
-                        <w>а</w>
-                        <w>я</w>
-                        <w>заутра</w>
-                        <w>отступлю</w>
-                        <w>от</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>59, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="10"><p>
+<app>
+<lem wit="#lem">
+<w>а</w>
+<w>идѣте</w>
+<w>въ</w>
+<w>градъ,</w>
+<w>а</w>
+<w>заутра</w>
+<w>отъступлю</w>
+<w>отъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>а</w>
+<w>идѣ<lb/>те</w>
+<w>въ</w>
+<w>градъ.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>а</w>
+<w>идете</w>
+<w>в</w>
+<w>гра<hi rend="sup">д</hi></w>
+<w>а</w>
+<w>я</w>
+<w>заоутра</w>
+<w>ѿстѹп<milestone unit="sic" n="start"/>а<milestone unit="sic" n="end"/>ю</w>
+<w>ѿ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>идѣте</w>
+<w>въ</w>
+<w>гра<hi rend="sup">д</hi>.</w>
+<w>а</w>
+<w>я</w>
+<w>заоутра</w>
+<w>ѿстѹплю</w>
+<w>ѿ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>а</w>
+<w>идете <lb/></w>
+
+<w>в</w>
+<w>городъ.</w>
+<w>а</w>
+<w>язъ</w>
+<w>заоутра <lb/></w>
+
+<w>ѿступлю</w>
+<w>ѿ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>а</w>
+<w>идѣте</w>
+<w>въ</w>
+<w>гра<hi rend="sup">д</hi>.</w>
+<w>а</w>
+<w>я</w>
+<w>зау<hi rend="sup">т</hi>ра <lb/></w>
+
+<w>ѿстоуплю</w>
+<w>ѿ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>а</w>
+<w>идѣте</w>
+<w>въ</w>
+<w>градъ,</w>
+<w>а</w>
+<w>я</w>
+<w>заутра</w>
+<w>отступлю</w>
+<w>отъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>а</w>
+<w>идѣте</w>
+<w>въ</w>
+<w>градъ,</w>
+<w>а</w>
+<w>язъ</w>
+<w>заутра</w>
+<w>отъступлю</w>
+<w>отъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>а</w>
+<w>идѣте</w>
+<w>въ</w>
+<w>градъ,</w>
+<w>а</w>
+<w>я</w>
+<w>заутра</w>
+<w>отступлю</w>
+<w>от</w>
+</rdg>
+</app></p></div></body></text></TEI>

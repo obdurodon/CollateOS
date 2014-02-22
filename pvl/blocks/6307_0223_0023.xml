@@ -1,117 +1,97 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>223, 23</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="23">
-            <p>
-               <app>
-                  <lem>
-                     <w>Рьцѣмъ</w>
-                     <w>велегласьно:</w>
-                     <w>“Правьдьнъ</w>
-                     <w>еси,</w>
-                     <w>Господи,</w>
-                     <w>и</w>
-                     <w>прави</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>рцѣмъ</w>
-                        <w>велегл<hi rend="sup">с</hi>но</w>
-                        <w>праведенъ <lb/>
-                        </w>
-                        <w>ѥси</w>
-                        <w>г<hi rend="sup">с</hi>и</w>
-                        <w>и</w>
-                        <w>прави</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>рцемъ</w>
-                        <w>велеглн<hi rend="sup">с</hi>о· <lb/>
-                        </w>
-                        <w>праведенъ</w>
-                        <w>еси</w>
-                        <w>г҃и·</w>
-                        <w>прави</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>и</w>
-                        <w>рцѣмь</w>
-                        <w>ве<lb/>легласно·</w>
-                        <w>праведенъ</w>
-                        <w>еси</w>
-                        <w>г҃и</w>
-                        <w>и</w>
-                        <w>прави</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>рцѣ<lb/>мь</w>
-                        <w>велеглн<hi rend="sup">с</hi>о·</w>
-                        <w>праведенъ</w>
-                        <w>еси</w>
-                        <w>г҃и <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>праведнѣ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>рцѣ<hi rend="sup">м</hi>
-                        </w>
-                        <w>велегл<hi rend="sup">с</hi>но.</w>
-                        <w>праведень <lb/>
-                        </w>
-                        <w>еси</w>
-                        <w>г҃и.</w>
-                        <w>и</w>
-                        <w>праведни</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Рцѣмъ</w>
-                        <w>велегласно:</w>
-                        <w>праведенъ</w>
-                        <w>еси,</w>
-                        <w>Господи,</w>
-                        <w>и</w>
-                        <w>прави</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Рьцѣмъ</w>
-                        <w>велегласьно:</w>
-                        <w>“Правьдьнъ</w>
-                        <w>еси,</w>
-                        <w>Господи,</w>
-                        <w>и</w>
-                        <w>прави</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Рцѣмъ</w>
-                        <w>велегласно:</w>
-                        <w>“Праведенъ</w>
-                        <w>еси,</w>
-                        <w>господи,</w>
-                        <w>и</w>
-                        <w>прави</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>223, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="23"><p>
+<app>
+<lem wit="#lem">
+<w>Рьцѣмъ</w>
+<w>велегласьно:</w>
+<w>“Правьдьнъ</w>
+<w>еси,</w>
+<w>Господи,</w>
+<w>и</w>
+<w>прави</w>
+</lem>
+
+<rdg wit="#lav">
+<w>рцѣмъ</w>
+<w>велегл<hi rend="sup">с</hi>но</w>
+<w>праведенъ <lb/></w>
+
+<w>ѥси</w>
+<w>г<hi rend="sup">с</hi>и</w>
+<w>и</w>
+<w>прави</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>рцемъ</w>
+<w>велеглн<hi rend="sup">с</hi>о· <lb/></w>
+
+<w>праведенъ</w>
+<w>еси</w>
+<w>г҃и·</w>
+<w>прави</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>и</w>
+<w>рцѣмь</w>
+<w>ве<lb/>легласно·</w>
+<w>праведенъ</w>
+<w>еси</w>
+<w>г҃и</w>
+<w>и</w>
+<w>прави</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>рцѣ<lb/>мь</w>
+<w>велеглн<hi rend="sup">с</hi>о·</w>
+<w>праведенъ</w>
+<w>еси</w>
+<w>г҃и <lb/></w>
+
+<w>и</w>
+<w>праведнѣ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>рцѣ<hi rend="sup">м</hi></w>
+<w>велегл<hi rend="sup">с</hi>но.</w>
+<w>праведень <lb/></w>
+
+<w>еси</w>
+<w>г҃и.</w>
+<w>и</w>
+<w>праведни</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Рцѣмъ</w>
+<w>велегласно:</w>
+<w>праведенъ</w>
+<w>еси,</w>
+<w>Господи,</w>
+<w>и</w>
+<w>прави</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Рьцѣмъ</w>
+<w>велегласьно:</w>
+<w>“Правьдьнъ</w>
+<w>еси,</w>
+<w>Господи,</w>
+<w>и</w>
+<w>прави</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Рцѣмъ</w>
+<w>велегласно:</w>
+<w>“Праведенъ</w>
+<w>еси,</w>
+<w>господи,</w>
+<w>и</w>
+<w>прави</w>
+</rdg>
+</app></p></div></body></text></TEI>

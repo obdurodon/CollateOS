@@ -1,105 +1,85 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>205, 19</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="19">
-            <p>
-               <app>
-                  <lem>
-                     <w>Се</w>
-                     <w>увѣдавъ</w>
-                     <w>Вьсеволодъ,</w>
-                     <w>посъла</w>
-                     <w>противу</w>
-                     <w>ему</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>се</w>
-                        <w>оувѣда</w>
-                        <w>всеволодъ. <lb/>
-                        </w>
-                        <w>посла</w>
-                        <w>противу</w>
-                        <w>ѥму.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>се</w>
-                        <w>оувѣда</w>
-                        <w>въ</w>
-                        <w>всеволодъ. <lb/>
-                        </w>
-                        <w>посла</w>
-                        <w>противѹ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>се</w>
-                        <w>оувѣ<lb/>да</w>
-                        <w>всеволо<hi rend="sup">д</hi>].</w>
-                        <w>посла</w>
-                        <w>про<lb/>тивѹ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>се</w>
-                        <w>оувѣдавъ</w>
-                        <w>всеволодъ.</w>
-                        <w>посла</w>
-                        <w>противу</w>
-                        <w>ему <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>се</w>
-                        <w>оувѣдавь</w>
-                        <w>всеволѡ<hi rend="sup">д</hi>
-                        </w>
-                        <w>посла</w>
-                        <w>противоу</w>
-                        <w>емоу</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>се</w>
-                        <w>увѣдавъ</w>
-                        <w>Всеволодъ,</w>
-                        <w>посла</w>
-                        <w>противу</w>
-                        <w>ему</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Се</w>
-                        <w>увѣдавъ</w>
-                        <w>Вьсеволодъ,</w>
-                        <w>посъла</w>
-                        <w>противу</w>
-                        <w>ему</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Се</w>
-                        <w>увѣдавъ,</w>
-                        <w>Всеволодъ</w>
-                        <w>посла</w>
-                        <w>противу</w>
-                        <w>ему</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>205, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="19"><p>
+<app>
+<lem wit="#lem">
+<w>Се</w>
+<w>увѣдавъ</w>
+<w>Вьсеволодъ,</w>
+<w>посъла</w>
+<w>противу</w>
+<w>ему</w>
+</lem>
+
+<rdg wit="#lav">
+<w>се</w>
+<w>оувѣда</w>
+<w>всеволодъ. <lb/></w>
+
+<w>посла</w>
+<w>противу</w>
+<w>ѥму.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>се</w>
+<w>оувѣда</w>
+<w>въ</w>
+<w>всеволодъ. <lb/></w>
+
+<w>посла</w>
+<w>противѹ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>се</w>
+<w>оувѣ<lb/>да</w>
+<w>всеволо<hi rend="sup">д</hi>].</w>
+<w>посла</w>
+<w>про<lb/>тивѹ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>се</w>
+<w>оувѣдавъ</w>
+<w>всеволодъ.</w>
+<w>посла</w>
+<w>противу</w>
+<w>ему <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>се</w>
+<w>оувѣдавь</w>
+<w>всеволѡ<hi rend="sup">д</hi></w>
+<w>посла</w>
+<w>противоу</w>
+<w>емоу</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>се</w>
+<w>увѣдавъ</w>
+<w>Всеволодъ,</w>
+<w>посла</w>
+<w>противу</w>
+<w>ему</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Се</w>
+<w>увѣдавъ</w>
+<w>Вьсеволодъ,</w>
+<w>посъла</w>
+<w>противу</w>
+<w>ему</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Се</w>
+<w>увѣдавъ,</w>
+<w>Всеволодъ</w>
+<w>посла</w>
+<w>противу</w>
+<w>ему</w>
+</rdg>
+</app></p></div></body></text></TEI>

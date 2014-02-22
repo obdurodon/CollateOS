@@ -1,119 +1,101 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>5, 4</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="4">
-            <p>
-               <app>
-                  <lem>
-                     <w>съзьдати</w>
-                     <w>стълпъ</w>
-                     <w>до</w>
-                     <w>небеси,</w>
-                     <w>въ</w>
-                     <w>дьни</w>
-                     <w>Нектана</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>создати</w>
-                        <w>столпъ</w>
-                        <w>до</w>
-                        <w>н҃бсе.</w>
-                        <w>въ <lb/>
-                        </w>
-                        <w>дн҃и</w>
-                        <w>нектана.</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>создати</w>
-                        <w>столпъ</w>
-                        <w>до</w>
-                        <w>небесе</w>
-                        <w>въ</w>
-                        <w>дни</w>
-                        <w>нектана</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>соз<hi rend="sup">д</hi>ати</w>
-                        <w>столпъ</w>
-                        <w>до</w>
-                        <w>нб<hi rend="sup">с</hi>и <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>соз<hi rend="sup">д</hi>ати</w>
-                        <w>столпъ</w>
-                        <w>до</w>
-                        <w>нб҃си.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>создати</w>
-                        <w>столпъ</w>
-                        <w>до <lb/>
-                        </w>
-                        <w>нб҃си.</w>
-                        <w>въ</w>
-                        <w>дн҃и</w>
-                        <w>нектана. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>създати</w>
-                        <w>столпь</w>
-                        <w>до <lb/>
-                        </w>
-                        <w>нб҃си.</w>
-                        <w>въ</w>
-                        <w>дн҃и</w>
-                        <w>нектана</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>создати</w>
-                        <w>столпъ</w>
-                        <w>до</w>
-                        <w>небесе,</w>
-                        <w>въ</w>
-                        <w>дни</w>
-                        <w>Нектана</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>съзьдати</w>
-                        <w>стълпъ</w>
-                        <w>до</w>
-                        <w>небесе,</w>
-                        <w>въ</w>
-                        <w>дьни</w>
-                        <w>Нектана</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>создати</w>
-                        <w>столпъ</w>
-                        <w>до</w>
-                        <w>небесе,</w>
-                        <w>въ</w>
-                        <w>дни</w>
-                        <w>Нектана</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>5, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="4"><p>
+<app>
+<lem wit="#lem">
+<w>съзьдати</w>
+<w>стълпъ</w>
+<w>до</w>
+<w>небеси,</w>
+<w>въ</w>
+<w>дьни</w>
+<w>Нектана</w>
+</lem>
+
+<rdg wit="#lav">
+<w>создати</w>
+<w>столпъ</w>
+<w>до</w>
+<w>н҃бсе.</w>
+<w>въ <lb/></w>
+
+<w>дн҃и</w>
+<w>нектана.</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>создати</w>
+<w>столпъ</w>
+<w>до</w>
+<w>небесе</w>
+<w>въ</w>
+<w>дни</w>
+<w>нектана</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>соз<hi rend="sup">д</hi>ати</w>
+<w>столпъ</w>
+<w>до</w>
+<w>нб<hi rend="sup">с</hi>и <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>соз<hi rend="sup">д</hi>ати</w>
+<w>столпъ</w>
+<w>до</w>
+<w>нб҃си.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>создати</w>
+<w>столпъ</w>
+<w>до <lb/></w>
+
+<w>нб҃си.</w>
+<w>въ</w>
+<w>дн҃и</w>
+<w>нектана. <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>създати</w>
+<w>столпь</w>
+<w>до <lb/></w>
+
+<w>нб҃си.</w>
+<w>въ</w>
+<w>дн҃и</w>
+<w>нектана</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>создати</w>
+<w>столпъ</w>
+<w>до</w>
+<w>небесе,</w>
+<w>въ</w>
+<w>дни</w>
+<w>Нектана</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>съзьдати</w>
+<w>стълпъ</w>
+<w>до</w>
+<w>небесе,</w>
+<w>въ</w>
+<w>дьни</w>
+<w>Нектана</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>создати</w>
+<w>столпъ</w>
+<w>до</w>
+<w>небесе,</w>
+<w>въ</w>
+<w>дни</w>
+<w>Нектана</w>
+</rdg>
+</app></p></div></body></text></TEI>

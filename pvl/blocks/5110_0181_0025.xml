@@ -1,127 +1,108 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>181, 25</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="25">
-            <p>
-               <app>
-                  <lem>
-                     <w>Никола</w>
-                     <w>игуменъ</w>
-                     <w>Переяславьскыи,</w>
-                     <w>и</w>
-                     <w>игумени</w>
-                     <w>вьси,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>никола <lb/>
-                        </w>
-                        <w>игуменъ</w>
-                        <w>переяславьскыи. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>вси</w>
-                        <w>игумени.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>никола</w>
-                        <w>игоуменъ</w>
-                        <w>переяславьскыи. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>вси</w>
-                        <w>игѹ<lb/>мени.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>никола <lb/>
-                        </w>
-                        <w>игѹменъ</w>
-                        <w>переяславьскыи.</w>
-                        <w>и</w>
-                        <w>вси</w>
-                        <w>игѹмени.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ни<lb/>кола</w>
-                        <w>игумень</w>
-                        <w>переяславьскии.</w>
-                        <w>и</w>
-                        <w>прочии.</w>
-                        <w>игумени</w>
-                        <w>вси</w>
-                        <w>
-                           <pb n="67b"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>николаи <lb/>
-                        </w>
-                        <w>игоуме<hi rend="sup">н</hi>
-                        </w>
-                        <w>переяславскыи.</w>
-                        <w>и</w>
-                        <w>прочїи</w>
-                        <w>игоумени</w>
-                        <w>вси. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>вси</w>
-                        <w>игумени</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>игумени</w>
-                        <w>вси</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>игумени</w>
-                        <w>вси</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Никола</w>
-                        <w>игуменъ</w>
-                        <w>Переяславьскый,</w>
-                        <w>и</w>
-                        <w>вси</w>
-                        <w>игумени,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Никола</w>
-                        <w>игуменъ</w>
-                        <w>Переяславьскыи,</w>
-                        <w>и</w>
-                        <w>прочии</w>
-                        <w>вьси</w>
-                        <w>игумени,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Никола</w>
-                        <w>игуменъ</w>
-                        <w>Переяславьскый,</w>
-                        <w>и</w>
-                        <w>вси</w>
-                        <w>игумени,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>181, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="25"><p>
+<app>
+<lem wit="#lem">
+<w>Никола</w>
+<w>игуменъ</w>
+<w>Переяславьскыи,</w>
+<w>и</w>
+<w>игумени</w>
+<w>вьси,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>никола <lb/></w>
+
+<w>игуменъ</w>
+<w>переяславьскыи. <lb/></w>
+
+<w>и</w>
+<w>вси</w>
+<w>игумени.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>никола</w>
+<w>игоуменъ</w>
+<w>переяславьскыи. <lb/></w>
+
+<w>и</w>
+<w>вси</w>
+<w>игѹ<lb/>мени.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>никола <lb/></w>
+
+<w>игѹменъ</w>
+<w>переяславьскыи.</w>
+<w>и</w>
+<w>вси</w>
+<w>игѹмени.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ни<lb/>кола</w>
+<w>игумень</w>
+<w>переяславьскии.</w>
+<w>и</w>
+<w>прочии.</w>
+<w>игумени</w>
+<w>вси <pb n="67b"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>николаи <lb/></w>
+
+<w>игоуме<hi rend="sup">н</hi></w>
+<w>переяславскыи.</w>
+<w>и</w>
+<w>прочїи</w>
+<w>игоумени</w>
+<w>вси. <lb/></w>
+
+</rdg>
+
+<rdg wit="#kom">
+<w>вси</w>
+<w>игумени</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>игумени</w>
+<w>вси</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>игумени</w>
+<w>вси</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Никола</w>
+<w>игуменъ</w>
+<w>Переяславьскый,</w>
+<w>и</w>
+<w>вси</w>
+<w>игумени,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Никола</w>
+<w>игуменъ</w>
+<w>Переяславьскыи,</w>
+<w>и</w>
+<w>прочии</w>
+<w>вьси</w>
+<w>игумени,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Никола</w>
+<w>игуменъ</w>
+<w>Переяславьскый,</w>
+<w>и</w>
+<w>вси</w>
+<w>игумени,</w>
+</rdg>
+</app></p></div></body></text></TEI>

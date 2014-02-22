@@ -1,118 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>50, 24</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="24">
-            <p>
-               <app>
-                  <lem>
-                     <w>Аще</w>
-                     <w>ли</w>
-                     <w>купилъ</w>
-                     <w>и</w>
-                     <w>будетъ</w>
-                     <w>Грьчинъ,</w>
-                     <w>подъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>аще</w>
-                        <w>ли</w>
-                        <w>купилъ</w>
-                        <w>буде</w>
-                        <w>грь<lb/>чинъ</w>
-                        <w>подъ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>аще</w>
-                        <w>кѹпи<hi rend="sup">л</hi>
-                        </w>
-                        <w>боу<hi rend="sup">д</hi>ть</w>
-                        <w>гречинъ</w>
-                        <w>по<hi rend="sup">д</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>аще</w>
-                        <w>ли</w>
-                        <w>кѹ<lb/>пиль</w>
-                        <w>бѹдеть</w>
-                        <w>гречинь</w>
-                        <w>по<hi rend="sup">д</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>аще</w>
-                        <w>ли</w>
-                        <w>купилъ</w>
-                        <w>и</w>
-                        <w>буде<sic>де<hi rend="sup">т</hi>
-                           </sic>. <lb/>
-                        </w>
-                        <w>грѣчинъ</w>
-                        <w>по<hi rend="sup">д</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>аще</w>
-                        <w>ли</w>
-                        <w>коупи<hi rend="sup">л</hi>
-                        </w>
-                        <w>и</w>
-                        <w>бѫде<hi rend="sup">т</hi>
-                        </w>
-                        <w>гречи<hi rend="sup">н</hi> 
-                           <lb/>
-                        </w>
-                        <w>пѡ<hi rend="sup">д</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>аще</w>
-                        <w>ли</w>
-                        <w>купилъ</w>
-                        <w>и</w>
-                        <w>будетъ</w>
-                        <w>Грьчинъ,</w>
-                        <w>подъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>аще</w>
-                        <w>ли</w>
-                        <w>купилъ</w>
-                        <w>и</w>
-                        <w>будетъ</w>
-                        <w>Грьчинъ,</w>
-                        <w>подъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>аще</w>
-                        <w>ли</w>
-                        <w>купилъ</w>
-                        <w>и</w>
-                        <w>будетъ</w>
-                        <w>грьчинъ,</w>
-                        <w>подъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>50, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="24"><p>
+<app>
+<lem wit="#lem">
+<w>Аще</w>
+<w>ли</w>
+<w>купилъ</w>
+<w>и</w>
+<w>будетъ</w>
+<w>Грьчинъ,</w>
+<w>подъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>аще</w>
+<w>ли</w>
+<w>купилъ</w>
+<w>буде</w>
+<w>грь<lb/>чинъ</w>
+<w>подъ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>аще</w>
+<w>кѹпи<hi rend="sup">л</hi></w>
+<w>боу<hi rend="sup">д</hi>ть</w>
+<w>гречинъ</w>
+<w>по<hi rend="sup">д</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>аще</w>
+<w>ли</w>
+<w>кѹ<lb/>пиль</w>
+<w>бѹдеть</w>
+<w>гречинь</w>
+<w>по<hi rend="sup">д</hi></w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>аще</w>
+<w>ли</w>
+<w>купилъ</w>
+<w>и</w>
+<w>буде<milestone unit="sic" n="start"/>де<hi rend="sup">т</hi><milestone unit="sic" n="end"/>. <lb/></w>
+
+<w>грѣчинъ</w>
+<w>по<hi rend="sup">д</hi></w>
+</rdg>
+
+<rdg wit="#xle">
+<w>аще</w>
+<w>ли</w>
+<w>коупи<hi rend="sup">л</hi></w>
+<w>и</w>
+<w>бѫде<hi rend="sup">т</hi></w>
+<w>гречи<hi rend="sup">н</hi><lb/></w>
+<w>пѡ<hi rend="sup">д</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>аще</w>
+<w>ли</w>
+<w>купилъ</w>
+<w>и</w>
+<w>будетъ</w>
+<w>Грьчинъ,</w>
+<w>подъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>аще</w>
+<w>ли</w>
+<w>купилъ</w>
+<w>и</w>
+<w>будетъ</w>
+<w>Грьчинъ,</w>
+<w>подъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>аще</w>
+<w>ли</w>
+<w>купилъ</w>
+<w>и</w>
+<w>будетъ</w>
+<w>грьчинъ,</w>
+<w>подъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,134 +1,106 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>225, 18</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="18">
-            <p>
-               <app>
-                  <lem>
-                     <w>есть?</w>
-                     <w>Кого</w>
-                     <w>тако</w>
-                     <w>почьтилъ</w>
-                     <w>есть,</w>
-                     <w>якоже</w>
-                     <w>ны</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ѥсть·</w>
-                        <w>кого</w>
-                        <w>тако</w>
-                        <w>почелъ</w>
-                        <w>ѥсть·</w>
-                        <w>яко</w>
-                        <w>же</w>
-                        <w>ны <lb/>
-                        </w>
-                        <w>
-                           <pb n="75b"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>е<hi rend="sup">с</hi>·</w>
-                        <w>кого</w>
-                        <w>тако</w>
-                        <w>почтилъ</w>
-                        <w>е<hi rend="sup">с</hi>·</w>
-                        <w>ко<hi rend="sup">г</hi> 
-                           <lb/>
-                        </w>
-                        <w>тако</w>
-                        <w>яко</w>
-                        <w>же</w>
-                        <w>ны</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>есть·</w>
-                        <w>кого</w>
-                        <w>та<lb/>ко</w>
-                        <w>почти·̏лъ</w>
-                        <w>есть·</w>
-                        <w>кого</w>
-                        <w>тако</w>
-                        <w>яко</w>
-                        <w>же</w>
-                        <w>ны·̏</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>есть</w>
-                        <w>кого</w>
-                        <w>бо</w>
-                        <w>та<lb/>ко</w>
-                        <w>почтилъ</w>
-                        <w>есть·</w>
-                        <w>яко</w>
-                        <w>же</w>
-                        <w>на<lb/>съ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>е<hi rend="sup">с</hi>.</w>
-                        <w>и</w>
-                        <w>кого</w>
-                        <w>бо</w>
-                        <w>тако</w>
-                        <w>поч<hi rend="sup">с</hi>тиль</w>
-                        <w>е<hi rend="sup">с</hi>.</w>
-                        <w>яко</w>
-                        <w>же</w>
-                        <w>на<hi rend="sup">с</hi>
-                        </w>
-                        <w>
-                           <pb n="102v"/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>есть?</w>
-                        <w>кого</w>
-                        <w>тако</w>
-                        <w>почелъ</w>
-                        <w>есть,</w>
-                        <w>якоже</w>
-                        <w>ны</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>есть?</w>
-                        <w>Кого</w>
-                        <w>тако</w>
-                        <w>почьлъ</w>
-                        <w>есть,</w>
-                        <w>якоже</w>
-                        <w>ны</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>есть?</w>
-                        <w>Кого</w>
-                        <w>тако</w>
-                        <w>почелъ</w>
-                        <w>есть,</w>
-                        <w>яко</w>
-                        <w>же</w>
-                        <w>ны</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>225, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="18"><p>
+<app>
+<lem wit="#lem">
+<w>есть?</w>
+<w>Кого</w>
+<w>тако</w>
+<w>почьтилъ</w>
+<w>есть,</w>
+<w>якоже</w>
+<w>ны</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ѥсть·</w>
+<w>кого</w>
+<w>тако</w>
+<w>почелъ</w>
+<w>ѥсть·</w>
+<w>яко</w>
+<w>же</w>
+<w>ны <lb/><pb n="75b"/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>е<hi rend="sup">с</hi>·</w>
+<w>кого</w>
+<w>тако</w>
+<w>почтилъ</w>
+<w>е<hi rend="sup">с</hi>·</w>
+<w>ко<hi rend="sup">г</hi><lb/></w>
+<w>тако</w>
+<w>яко</w>
+<w>же</w>
+<w>ны</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>есть·</w>
+<w>кого</w>
+<w>та<lb/>ко</w>
+<w>почти·̏лъ</w>
+<w>есть·</w>
+<w>кого</w>
+<w>тако</w>
+<w>яко</w>
+<w>же</w>
+<w>ны·̏</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>есть</w>
+<w>кого</w>
+<w>бо</w>
+<w>та<lb/>ко</w>
+<w>почтилъ</w>
+<w>есть·</w>
+<w>яко</w>
+<w>же</w>
+<w>на<lb/>съ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>е<hi rend="sup">с</hi>.</w>
+<w>и</w>
+<w>кого</w>
+<w>бо</w>
+<w>тако</w>
+<w>поч<hi rend="sup">с</hi>тиль</w>
+<w>е<hi rend="sup">с</hi>.</w>
+<w>яко</w>
+<w>же</w>
+<w>на<hi rend="sup">с</hi><pb n="102v"/></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>есть?</w>
+<w>кого</w>
+<w>тако</w>
+<w>почелъ</w>
+<w>есть,</w>
+<w>якоже</w>
+<w>ны</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>есть?</w>
+<w>Кого</w>
+<w>тако</w>
+<w>почьлъ</w>
+<w>есть,</w>
+<w>якоже</w>
+<w>ны</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>есть?</w>
+<w>Кого</w>
+<w>тако</w>
+<w>почелъ</w>
+<w>есть,</w>
+<w>яко</w>
+<w>же</w>
+<w>ны</w>
+</rdg>
+</app></p></div></body></text></TEI>

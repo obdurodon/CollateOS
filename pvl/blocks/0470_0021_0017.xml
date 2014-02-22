@@ -1,113 +1,90 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>21, 17</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="17">
-            <p>
-               <app>
-                  <lem>
-                     <w>дъвою</w>
-                     <w>съту</w>
-                     <w>корабль</w>
-                     <w>Цьсарьградъ</w>
-                     <w>оступиша.</w>
-                     <w>Цьсарь</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>двою</w>
-                        <w>сотъ</w>
-                        <w>корабл<hi rend="sup">ь</hi> 
-                           <lb/>
-                        </w>
-                        <w>цр҃ьградъ</w>
-                        <w>ѡступиша.</w>
-                        <w>цр҃ь</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>двѣма</w>
-                        <w>стома</w>
-                        <w>корабля</w>
-                        <w>обьступиша</w>
-                        <w>царьградъ</w>
-                        <w>царь</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>двоустоу</w>
-                        <w>кораблю.</w>
-                        <w>цр҃ьгра<hi rend="sup">д</hi>
-                        </w>
-                        <w>ѡстоу<lb/>пиша.</w>
-                        <w>цр҃ь</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>двѹстѹ</w>
-                        <w>кораблю.</w>
-                        <w>цр҃ьгра<hi rend="sup">д</hi>
-                        </w>
-                        <w>ѡстѹпиша.</w>
-                        <w>цр҃ь</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>двою</w>
-                        <w>сту</w>
-                        <w>кораблии.</w>
-                        <w>цр<hi rend="sup">с</hi>ь<lb/>градъ</w>
-                        <w>ѡступиша.</w>
-                        <w>цр<hi rend="sup">с</hi>ь</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>двою</w>
-                        <w>стоу</w>
-                        <w>кораблевь,</w>
-                        <w>цр҃ьгра<hi rend="sup">д</hi>
-                        </w>
-                        <w>ѡстоупи<lb/>ша.</w>
-                        <w>цр҃ь</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>двою</w>
-                        <w>сту</w>
-                        <w>корабль</w>
-                        <w>Царьградъ</w>
-                        <w>оступиша.</w>
-                        <w>Цесарь</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>дъвою</w>
-                        <w>съту</w>
-                        <w>корабль</w>
-                        <w>Цѣсарьградъ</w>
-                        <w>оступиша.</w>
-                        <w>Цѣсарь</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>двою</w>
-                        <w>сотъ</w>
-                        <w>корабль</w>
-                        <w>Царьградъ</w>
-                        <w>оступиша.</w>
-                        <w>Цесарь</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>21, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="17"><p>
+<app>
+<lem wit="#lem">
+<w>дъвою</w>
+<w>съту</w>
+<w>корабль</w>
+<w>Цьсарьградъ</w>
+<w>оступиша.</w>
+<w>Цьсарь</w>
+</lem>
+
+<rdg wit="#lav">
+<w>двою</w>
+<w>сотъ</w>
+<w>корабл<hi rend="sup">ь</hi><lb/></w>
+<w>цр҃ьградъ</w>
+<w>ѡступиша.</w>
+<w>цр҃ь</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>двѣма</w>
+<w>стома</w>
+<w>корабля</w>
+<w>обьступиша</w>
+<w>царьградъ</w>
+<w>царь</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>двоустоу</w>
+<w>кораблю.</w>
+<w>цр҃ьгра<hi rend="sup">д</hi></w>
+<w>ѡстоу<lb/>пиша.</w>
+<w>цр҃ь</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>двѹстѹ</w>
+<w>кораблю.</w>
+<w>цр҃ьгра<hi rend="sup">д</hi></w>
+<w>ѡстѹпиша.</w>
+<w>цр҃ь</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>двою</w>
+<w>сту</w>
+<w>кораблии.</w>
+<w>цр<hi rend="sup">с</hi>ь<lb/>градъ</w>
+<w>ѡступиша.</w>
+<w>цр<hi rend="sup">с</hi>ь</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>двою</w>
+<w>стоу</w>
+<w>кораблевь,</w>
+<w>цр҃ьгра<hi rend="sup">д</hi></w>
+<w>ѡстоупи<lb/>ша.</w>
+<w>цр҃ь</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>двою</w>
+<w>сту</w>
+<w>корабль</w>
+<w>Царьградъ</w>
+<w>оступиша.</w>
+<w>Цесарь</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>дъвою</w>
+<w>съту</w>
+<w>корабль</w>
+<w>Цѣсарьградъ</w>
+<w>оступиша.</w>
+<w>Цѣсарь</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>двою</w>
+<w>сотъ</w>
+<w>корабль</w>
+<w>Царьградъ</w>
+<w>оступиша.</w>
+<w>Цесарь</w>
+</rdg>
+</app></p></div></body></text></TEI>

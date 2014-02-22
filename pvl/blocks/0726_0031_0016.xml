@@ -1,125 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>31, 16</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="16">
-            <p>
-               <app>
-                  <lem>
-                     <w>путь</w>
-                     <w>брашьно</w>
-                     <w>и</w>
-                     <w>якоря</w>
-                     <w>и</w>
-                     <w>ужа</w>
-                     <w>и</w>
-                     <w>пърѣ,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#tro">
-                        <w>путь</w>
-                        <w>брашна</w>
-                        <w>и</w>
-                        <w>якори</w>
-                        <w>и</w>
-                        <w>ужища</w>
-                        <w>и</w>
-                        <w>прѣ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>брашно</w>
-                        <w>и</w>
-                        <w>я<hi rend="sup">к</hi>ри</w>
-                        <w>и</w>
-                        <w>ѹ<lb/>жа.</w>
-                        <w>и</w>
-                        <w>пароусы.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>брашно.</w>
-                        <w>и</w>
-                        <w>якори.</w>
-                        <w>и</w>
-                        <w>оужа.</w>
-                        <w>и</w>
-                        <w>парѹсы. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>путь</w>
-                        <w>брашно.</w>
-                        <w>и</w>
-                        <w>яко<lb/>рѧ</w>
-                        <w>и</w>
-                        <w>оуж<sic>а</sic>.</w>
-                        <w>и</w>
-                        <w>
-                           <sic>прѣ</sic>.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>п<sic>у</sic>
-                        </w>
-                        <w>
-                           <hi rend="sup">т</hi>
-                        </w>
-                        <w>брашно.</w>
-                        <w>и</w>
-                        <w>якорѧ.</w>
-                        <w>и</w>
-                        <w>оу<lb/>жа.</w>
-                        <w>и</w>
-                        <w>прѧ.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>путь</w>
-                        <w>брашно,</w>
-                        <w>и</w>
-                        <w>якори,</w>
-                        <w>и</w>
-                        <w>ужа,</w>
-                        <w>и</w>
-                        <w>парусы,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>путь</w>
-                        <w>брашьно</w>
-                        <w>и</w>
-                        <w>якоря</w>
-                        <w>и</w>
-                        <w>ужа</w>
-                        <w>и</w>
-                        <w>пърѣ,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>путь</w>
-                        <w>брашно,</w>
-                        <w>и</w>
-                        <w>якори,</w>
-                        <w>и</w>
-                        <w>ужища,</w>
-                        <w>и</w>
-                        <w>парусы,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>31, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="16"><p>
+<app>
+<lem wit="#lem">
+<w>путь</w>
+<w>брашьно</w>
+<w>и</w>
+<w>якоря</w>
+<w>и</w>
+<w>ужа</w>
+<w>и</w>
+<w>пърѣ,</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#tro">
+<w>путь</w>
+<w>брашна</w>
+<w>и</w>
+<w>якори</w>
+<w>и</w>
+<w>ужища</w>
+<w>и</w>
+<w>прѣ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>брашно</w>
+<w>и</w>
+<w>я<hi rend="sup">к</hi>ри</w>
+<w>и</w>
+<w>ѹ<lb/>жа.</w>
+<w>и</w>
+<w>пароусы.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>брашно.</w>
+<w>и</w>
+<w>якори.</w>
+<w>и</w>
+<w>оужа.</w>
+<w>и</w>
+<w>парѹсы. <lb/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>путь</w>
+<w>брашно.</w>
+<w>и</w>
+<w>яко<lb/>рѧ</w>
+<w>и</w>
+<w>оуж<milestone unit="sic" n="start"/>а<milestone unit="sic" n="end"/>.</w>
+<w>и</w>
+<w><milestone unit="sic" n="start"/>прѣ<milestone unit="sic" n="end"/>.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>п<milestone unit="sic" n="start"/>у<milestone unit="sic" n="end"/><hi rend="sup">т</hi></w>
+<w>брашно.</w>
+<w>и</w>
+<w>якорѧ.</w>
+<w>и</w>
+<w>оу<lb/>жа.</w>
+<w>и</w>
+<w>прѧ.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>путь</w>
+<w>брашно,</w>
+<w>и</w>
+<w>якори,</w>
+<w>и</w>
+<w>ужа,</w>
+<w>и</w>
+<w>парусы,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>путь</w>
+<w>брашьно</w>
+<w>и</w>
+<w>якоря</w>
+<w>и</w>
+<w>ужа</w>
+<w>и</w>
+<w>пърѣ,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>путь</w>
+<w>брашно,</w>
+<w>и</w>
+<w>якори,</w>
+<w>и</w>
+<w>ужища,</w>
+<w>и</w>
+<w>парусы,</w>
+</rdg>
+</app></p></div></body></text></TEI>

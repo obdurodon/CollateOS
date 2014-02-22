@@ -1,66 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>155, 3</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="3">
-            <p>
-               <app>
-                  <lem>
-                     <w>победивъ</w>
-                     <w>Ярослава.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>победи<hi rend="sup">в</hi>
-                        </w>
-                        <w>ярослава:- <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>победївъ</w>
-                        <w>яросла<lb/>ва:·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>победивъ</w>
-                        <w>ярослава·:· <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>поб<hi rend="sup">д</hi>ѣ<hi rend="sup">и</hi>вь</w>
-                        <w>ярослава.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>победивъ</w>
-                        <w>Ярослава.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>победивъ</w>
-                        <w>Ярослава.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>победив</w>
-                        <w>Ярослава.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>155, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="3"><p>
+<app>
+<lem wit="#lem">
+<w>победивъ</w>
+<w>Ярослава.</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>победи<hi rend="sup">в</hi></w>
+<w>ярослава:- <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>победївъ</w>
+<w>яросла<lb/>ва:·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>победивъ</w>
+<w>ярослава·:· <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>поб<hi rend="sup">д</hi>ѣ<hi rend="sup">и</hi>вь</w>
+<w>ярослава.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>победивъ</w>
+<w>Ярослава.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>победивъ</w>
+<w>Ярослава.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>победив</w>
+<w>Ярослава.</w>
+</rdg>
+</app></p></div></body></text></TEI>

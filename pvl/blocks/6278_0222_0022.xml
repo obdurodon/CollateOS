@@ -1,110 +1,85 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>222, 22</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="22">
-            <p>
-               <app>
-                  <lem>
-                     <w>наши,</w>
-                     <w>быхомъ</w>
-                     <w>бѣгающе</w>
-                     <w>предъ</w>
-                     <w>врагы</w>
-                     <w>нашими.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>наши·</w>
-                        <w>быхо<hi rend="sup">м</hi>
-                        </w>
-                        <w>бѣгаючи</w>
-                        <w>пре<hi rend="sup">д</hi>
-                        </w>
-                        <w>вра<lb/>гы</w>
-                        <w>нашими·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>быхомъ</w>
-                        <w>бѣгающе</w>
-                        <w>пр<hi rend="sup">д</hi>е</w>
-                        <w>враги</w>
-                        <w>нашими·</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>быхомь</w>
-                        <w>бегающе</w>
-                        <w>пре<hi rend="sup">д</hi>
-                        </w>
-                        <w>врагы·̏</w>
-                        <w>нашими·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>наши·</w>
-                        <w>ї</w>
-                        <w>быхомъ</w>
-                        <w>бѣ<lb/>гающеи</w>
-                        <w>предъ</w>
-                        <w>враги</w>
-                        <w>нашими <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>наша.</w>
-                        <w>и</w>
-                        <w>быхо<hi rend="sup">м</hi> 
-                           <lb/>
-                        </w>
-                        <w>бѣгающе</w>
-                        <w>пре<hi rend="sup">д</hi>
-                        </w>
-                        <w>врагы</w>
-                        <w>нашими.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>наши,</w>
-                        <w>быхомъ</w>
-                        <w>бѣгающи</w>
-                        <w>пред</w>
-                        <w>врагы</w>
-                        <w>нашими.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>наши;</w>
-                        <w>и</w>
-                        <w>быхомъ</w>
-                        <w>бѣгающе</w>
-                        <w>предъ</w>
-                        <w>врагы</w>
-                        <w>нашими.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>наши,</w>
-                        <w>быхом</w>
-                        <w>бѣгаючи</w>
-                        <w>пред</w>
-                        <w>врагы</w>
-                        <w>нашими.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>222, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="22"><p>
+<app>
+<lem wit="#lem">
+<w>наши,</w>
+<w>быхомъ</w>
+<w>бѣгающе</w>
+<w>предъ</w>
+<w>врагы</w>
+<w>нашими.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>наши·</w>
+<w>быхо<hi rend="sup">м</hi></w>
+<w>бѣгаючи</w>
+<w>пре<hi rend="sup">д</hi></w>
+<w>вра<lb/>гы</w>
+<w>нашими·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>быхомъ</w>
+<w>бѣгающе</w>
+<w>пр<hi rend="sup">д</hi>е</w>
+<w>враги</w>
+<w>нашими·</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>быхомь</w>
+<w>бегающе</w>
+<w>пре<hi rend="sup">д</hi></w>
+<w>врагы·̏</w>
+<w>нашими·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>наши·</w>
+<w>ї</w>
+<w>быхомъ</w>
+<w>бѣ<lb/>гающеи</w>
+<w>предъ</w>
+<w>враги</w>
+<w>нашими <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>наша.</w>
+<w>и</w>
+<w>быхо<hi rend="sup">м</hi><lb/></w>
+<w>бѣгающе</w>
+<w>пре<hi rend="sup">д</hi></w>
+<w>врагы</w>
+<w>нашими.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>наши,</w>
+<w>быхомъ</w>
+<w>бѣгающи</w>
+<w>пред</w>
+<w>врагы</w>
+<w>нашими.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>наши;</w>
+<w>и</w>
+<w>быхомъ</w>
+<w>бѣгающе</w>
+<w>предъ</w>
+<w>врагы</w>
+<w>нашими.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>наши,</w>
+<w>быхом</w>
+<w>бѣгаючи</w>
+<w>пред</w>
+<w>врагы</w>
+<w>нашими.</w>
+</rdg>
+</app></p></div></body></text></TEI>

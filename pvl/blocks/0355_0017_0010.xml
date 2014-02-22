@@ -1,117 +1,100 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>17, 10</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="10">
-            <p>
-               <app>
-                  <lem>
-                     <w>старьци</w>
-                     <w>Козарьстии:</w>
-                     <w>“Не</w>
-                     <w>добра</w>
-                     <w>дань,</w>
-                     <w>къняже.</w>
-                     <w>Мы</w>
-                     <w>доискахомъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>старци</w>
-                        <w>козарьстии.</w>
-                        <w>не</w>
-                        <w>добра</w>
-                        <w>дань</w>
-                        <w>кнѧже. <lb/>
-                        </w>
-                        <w>мы</w>
-                        <w>сѧ</w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad"/>
-                     <rdg wit="#aka">
-                        <w>старци</w>
-                        <w>козарьстїи <lb/>
-                        </w>
-                        <w>не</w>
-                        <w>добра</w>
-                        <w>дань</w>
-                        <w>кн҃же.</w>
-                        <w>мы</w>
-                        <w>доискахом</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>старцѣ</w>
-                        <w>козарьсти<lb/>и.</w>
-                        <w>не</w>
-                        <w>добра</w>
-                        <w>дань</w>
-                        <w>кнѧже <lb/>
-                        </w>
-                        <w>мы</w>
-                        <w>доискахом</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>старци</w>
-                        <w>козарьстїи.</w>
-                        <w>не</w>
-                        <w>добра</w>
-                        <w>да<hi rend="sup">н</hi>
-                        </w>
-                        <w>кнѧже. <lb/>
-                        </w>
-                        <w>мы</w>
-                        <w>доискахом</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>старци</w>
-                        <w>Козарьстии:</w>
-                        <w>“не</w>
-                        <w>добра</w>
-                        <w>дань,</w>
-                        <w>княже!</w>
-                        <w>мы</w>
-                        <w>ся</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>старьци</w>
-                        <w>Козарьстии:</w>
-                        <w>“не</w>
-                        <w>добра</w>
-                        <w>дань,</w>
-                        <w>къняже,</w>
-                        <w>мы</w>
-                        <w>ся</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>старци</w>
-                        <w>козарьстии:</w>
-                        <w>“Не</w>
-                        <w>добра</w>
-                        <w>дань,</w>
-                        <w>княже!</w>
-                        <w>Мы</w>
-                        <w>ся</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>17, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="10"><p>
+<app>
+<lem wit="#lem">
+<w>старьци</w>
+<w>Козарьстии:</w>
+<w>“Не</w>
+<w>добра</w>
+<w>дань,</w>
+<w>къняже.</w>
+<w>Мы</w>
+<w>доискахомъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>старци</w>
+<w>козарьстии.</w>
+<w>не</w>
+<w>добра</w>
+<w>дань</w>
+<w>кнѧже. <lb/></w>
+
+<w>мы</w>
+<w>сѧ</w>
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+</rdg>
+
+<rdg wit="#aka">
+<w>старци</w>
+<w>козарьстїи <lb/></w>
+
+<w>не</w>
+<w>добра</w>
+<w>дань</w>
+<w>кн҃же.</w>
+<w>мы</w>
+<w>доискахом</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>старцѣ</w>
+<w>козарьсти<lb/>и.</w>
+<w>не</w>
+<w>добра</w>
+<w>дань</w>
+<w>кнѧже <lb/></w>
+
+<w>мы</w>
+<w>доискахом</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>старци</w>
+<w>козарьстїи.</w>
+<w>не</w>
+<w>добра</w>
+<w>да<hi rend="sup">н</hi></w>
+<w>кнѧже. <lb/></w>
+
+<w>мы</w>
+<w>доискахом</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>старци</w>
+<w>Козарьстии:</w>
+<w>“не</w>
+<w>добра</w>
+<w>дань,</w>
+<w>княже!</w>
+<w>мы</w>
+<w>ся</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>старьци</w>
+<w>Козарьстии:</w>
+<w>“не</w>
+<w>добра</w>
+<w>дань,</w>
+<w>къняже,</w>
+<w>мы</w>
+<w>ся</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>старци</w>
+<w>козарьстии:</w>
+<w>“Не</w>
+<w>добра</w>
+<w>дань,</w>
+<w>княже!</w>
+<w>Мы</w>
+<w>ся</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,100 +1,81 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>216, 24</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="24">
-            <p>
-               <app>
-                  <lem>
-                     <w>Переяславли.</w>
-                     <w>Сѣдящю</w>
-                     <w>бо</w>
-                     <w>ему</w>
-                     <w>Кыевѣ,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>переясла<lb/>вли·</w>
-                        <w>сѣдѧщю</w>
-                        <w>бо</w>
-                        <w>ѥму</w>
-                        <w>кыѥвѣ· <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>переяславли.</w>
-                        <w>седѧщоу <lb/>
-                        </w>
-                        <w>бо</w>
-                        <w>емоу</w>
-                        <w>в</w>
-                        <w>киевѣ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>переяславли·</w>
-                        <w>и</w>
-                        <w>седѧщѹ</w>
-                        <w>бо</w>
-                        <w>емѹ</w>
-                        <w>оу</w>
-                        <w>кы<lb/>евѣ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>перея<lb/>славлѣ·</w>
-                        <w>сѣдшю</w>
-                        <w>бо</w>
-                        <w>ему</w>
-                        <w>ки<lb/>евѣ·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>переяславли.</w>
-                        <w>сѣ<hi rend="sup">д</hi>шю</w>
-                        <w>бѡ <lb/>
-                        </w>
-                        <w>емоу</w>
-                        <w>в</w>
-                        <w>кыевѣ.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Переяславли;</w>
-                        <w>сѣдящю</w>
-                        <w>бо</w>
-                        <w>ему</w>
-                        <w>Кыевѣ,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Переяславли.</w>
-                        <w>Сѣдящю</w>
-                        <w>бо</w>
-                        <w>ему</w>
-                        <w>Кыевѣ,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Переяславли.</w>
-                        <w>Сѣдящю</w>
-                        <w>бо</w>
-                        <w>ему</w>
-                        <w>Кыевѣ,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>216, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="24"><p>
+<app>
+<lem wit="#lem">
+<w>Переяславли.</w>
+<w>Сѣдящю</w>
+<w>бо</w>
+<w>ему</w>
+<w>Кыевѣ,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>переясла<lb/>вли·</w>
+<w>сѣдѧщю</w>
+<w>бо</w>
+<w>ѥму</w>
+<w>кыѥвѣ· <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>переяславли.</w>
+<w>седѧщоу <lb/></w>
+
+<w>бо</w>
+<w>емоу</w>
+<w>в</w>
+<w>киевѣ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>переяславли·</w>
+<w>и</w>
+<w>седѧщѹ</w>
+<w>бо</w>
+<w>емѹ</w>
+<w>оу</w>
+<w>кы<lb/>евѣ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>перея<lb/>славлѣ·</w>
+<w>сѣдшю</w>
+<w>бо</w>
+<w>ему</w>
+<w>ки<lb/>евѣ·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>переяславли.</w>
+<w>сѣ<hi rend="sup">д</hi>шю</w>
+<w>бѡ <lb/></w>
+
+<w>емоу</w>
+<w>в</w>
+<w>кыевѣ.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Переяславли;</w>
+<w>сѣдящю</w>
+<w>бо</w>
+<w>ему</w>
+<w>Кыевѣ,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Переяславли.</w>
+<w>Сѣдящю</w>
+<w>бо</w>
+<w>ему</w>
+<w>Кыевѣ,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Переяславли.</w>
+<w>Сѣдящю</w>
+<w>бо</w>
+<w>ему</w>
+<w>Кыевѣ,</w>
+</rdg>
+</app></p></div></body></text></TEI>

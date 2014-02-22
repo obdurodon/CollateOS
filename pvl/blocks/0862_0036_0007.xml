@@ -1,105 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>36, 7</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="7">
-            <p>
-               <app>
-                  <lem>
-                     <w>Русинъ,</w>
-                     <w>ли</w>
-                     <w>Грьчинъ,</w>
-                     <w>да</w>
-                     <w>възвратять</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>рѹсинъ.</w>
-                        <w>ли</w>
-                        <w>греченинъ</w>
-                        <w>да</w>
-                        <w>възратѧ<hi rend="sup">т</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>рѹсїнъ.</w>
-                        <w>лї</w>
-                        <w>гречинъ.</w>
-                        <w>да</w>
-                        <w>возратѧ<hi rend="sup">т</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>русинъ</w>
-                        <w>или</w>
-                        <w>грѣчинъ. <lb/>
-                        </w>
-                        <w>да</w>
-                        <w>не</w>
-                        <w>купѧть</w>
-                        <w>и</w>
-                        <w>възвратѧ<lb/>ть</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>роусинь <lb/>
-                        </w>
-                        <w>или</w>
-                        <w>гречинь.</w>
-                        <w>да</w>
-                        <w>не</w>
-                        <w>коупѧ<hi rend="sup">т</hi>
-                        </w>
-                        <w>и</w>
-                        <w>възвратѧ<hi rend="sup">т</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Русинъ</w>
-                        <w>ли</w>
-                        <w>Гречинъ,</w>
-                        <w>да</w>
-                        <w>искупятъ</w>
-                        <w>и</w>
-                        <w>възратять</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Русинъ,</w>
-                        <w>ли</w>
-                        <w>Грьчинъ,</w>
-                        <w>да</w>
-                        <w>искупять</w>
-                        <w>и</w>
-                        <w>възвратять</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>русинъ</w>
-                        <w>ли</w>
-                        <w>греченинъ</w>
-                        <w>да</w>
-                        <w>искупять</w>
-                        <w>и</w>
-                        <w>възратять</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>36, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="7"><p>
+<app>
+<lem wit="#lem">
+<w>Русинъ,</w>
+<w>ли</w>
+<w>Грьчинъ,</w>
+<w>да</w>
+<w>възвратять</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>рѹсинъ.</w>
+<w>ли</w>
+<w>греченинъ</w>
+<w>да</w>
+<w>възратѧ<hi rend="sup">т</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>рѹсїнъ.</w>
+<w>лї</w>
+<w>гречинъ.</w>
+<w>да</w>
+<w>возратѧ<hi rend="sup">т</hi></w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>русинъ</w>
+<w>или</w>
+<w>грѣчинъ. <lb/></w>
+
+<w>да</w>
+<w>не</w>
+<w>купѧть</w>
+<w>и</w>
+<w>възвратѧ<lb/>ть</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>роусинь <lb/></w>
+
+<w>или</w>
+<w>гречинь.</w>
+<w>да</w>
+<w>не</w>
+<w>коупѧ<hi rend="sup">т</hi></w>
+<w>и</w>
+<w>възвратѧ<hi rend="sup">т</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Русинъ</w>
+<w>ли</w>
+<w>Гречинъ,</w>
+<w>да</w>
+<w>искупятъ</w>
+<w>и</w>
+<w>възратять</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Русинъ,</w>
+<w>ли</w>
+<w>Грьчинъ,</w>
+<w>да</w>
+<w>искупять</w>
+<w>и</w>
+<w>възвратять</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>русинъ</w>
+<w>ли</w>
+<w>греченинъ</w>
+<w>да</w>
+<w>искупять</w>
+<w>и</w>
+<w>възратять</w>
+</rdg>
+</app></p></div></body></text></TEI>

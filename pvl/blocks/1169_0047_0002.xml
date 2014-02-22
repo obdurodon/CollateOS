@@ -1,98 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>47, 2</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="2">
-            <p>
-               <app>
-                  <lem>
-                     <w>Шибридъ</w>
-                     <w>Алдань;</w>
-                     <w>Колъ</w>
-                     <w>Клековъ;</w>
-                     <w>Стегги</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>
-                           <sic>ши<lb/>бридъ. алданъ колъ клековъ. стегги</sic>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>шибринъ <lb/>
-                        </w>
-                        <w>алданъ.</w>
-                        <w>колъ</w>
-                        <w>клековъ.</w>
-                        <w>стегги</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ши<lb/>бринь.</w>
-                        <w>алданъ.</w>
-                        <w>колъ</w>
-                        <w>влековъ.</w>
-                        <w>стегги</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ши<lb/>бьридъ</w>
-                        <w>алдань.</w>
-                        <w>колъ</w>
-                        <w>кл<hi rend="sup">е</hi> 
-                           <lb/>
-                        </w>
-                        <w>
-                           <sic>к</sic>овъ.</w>
-                        <w>стегги</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>шибри<hi rend="sup">д</hi>
-                        </w>
-                        <w>алда<hi rend="sup">н</hi>, <lb/>
-                        </w>
-                        <w>колъ</w>
-                        <w>клековь.</w>
-                        <w>стегги</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Шибридъ</w>
-                        <w>Алданъ;</w>
-                        <w>Колъ</w>
-                        <w>Клековъ;</w>
-                        <w>Стегги</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Шибридъ</w>
-                        <w>Алдань;</w>
-                        <w>Колъ</w>
-                        <w>Клековъ;</w>
-                        <w>Стегги</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Шибридъ</w>
-                        <w>Алданъ;</w>
-                        <w>Колъ</w>
-                        <w>Клековъ;</w>
-                        <w>Стегги</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>47, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="2"><p>
+<app>
+<lem wit="#lem">
+<w>Шибридъ</w>
+<w>Алдань;</w>
+<w>Колъ</w>
+<w>Клековъ;</w>
+<w>Стегги</w>
+</lem>
+
+<rdg wit="#lav">
+<w><milestone unit="sic" n="start"/>ши<lb/>бридъ.</w>
+<w>алданъ</w>
+<w>колъ</w>
+<w>клековъ.</w>
+<w>стегги<milestone unit="sic" n="end"/></w>
+</rdg>
+
+<rdg wit="#rad">
+<w>шибринъ <lb/></w>
+
+<w>алданъ.</w>
+<w>колъ</w>
+<w>клековъ.</w>
+<w>стегги</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ши<lb/>бринь.</w>
+<w>алданъ.</w>
+<w>колъ</w>
+<w>влековъ.</w>
+<w>стегги</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ши<lb/>бьридъ</w>
+<w>алдань.</w>
+<w>колъ</w>
+<w>кл<hi rend="sup">е</hi><lb/><milestone unit="sic" n="start"/>к<milestone unit="sic" n="end"/>овъ.</w>
+<w>стегги</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>шибри<hi rend="sup">д</hi></w>
+<w>алда<hi rend="sup">н</hi>, <lb/></w>
+
+<w>колъ</w>
+<w>клековь.</w>
+<w>стегги</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Шибридъ</w>
+<w>Алданъ;</w>
+<w>Колъ</w>
+<w>Клековъ;</w>
+<w>Стегги</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Шибридъ</w>
+<w>Алдань;</w>
+<w>Колъ</w>
+<w>Клековъ;</w>
+<w>Стегги</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Шибридъ</w>
+<w>Алданъ;</w>
+<w>Колъ</w>
+<w>Клековъ;</w>
+<w>Стегги</w>
+</rdg>
+</app></p></div></body></text></TEI>

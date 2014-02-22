@@ -1,124 +1,100 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>199, 10</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="10">
-            <p>
-               <app>
-                  <lem>
-                     <w>отъ</w>
-                     <w>рѣзания</w>
-                     <w>жьлъве,</w>
-                     <w>и</w>
-                     <w>положенъ</w>
-                     <w>бысть</w>
-                     <w>у</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ѿ</w>
-                        <w>рѣзанья</w>
-                        <w>желве.</w>
-                        <w>и</w>
-                        <w>положенъ <lb/>
-                        </w>
-                        <w>черниговѣ</w>
-                        <w>оу</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ѿ</w>
-                        <w>
-                           <add place="margin">рѣ</add>зания</w>
-                        <w>желве. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>положенъ</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>в</w>
-                        <w>чернигове</w>
-                        <w>оу</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ѿ</w>
-                        <w>рѣзаниѧ</w>
-                        <w>желве.</w>
-                        <w>и</w>
-                        <w>положенъ</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>оу</w>
-                        <w>черниговѣ</w>
-                        <w>оу</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ѿ</w>
-                        <w>рѣзанья</w>
-                        <w>желве.</w>
-                        <w>и</w>
-                        <w>по<lb/>ложенъ</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>оу</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ѿ</w>
-                        <w>рѣзанїа</w>
-                        <w>же<hi rend="sup">л</hi>ве <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>положенъ</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>оу</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>отъ</w>
-                        <w>рѣзанья</w>
-                        <w>желве,</w>
-                        <w>и</w>
-                        <w>положенъ</w>
-                        <w>Черниговѣ</w>
-                        <w>у</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>отъ</w>
-                        <w>рѣзания</w>
-                        <w>жьлъве,</w>
-                        <w>и</w>
-                        <w>положенъ</w>
-                        <w>бысть</w>
-                        <w>Чьрниговѣ</w>
-                        <w>у</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>от</w>
-                        <w>рѣзанья</w>
-                        <w>желве,</w>
-                        <w>и</w>
-                        <w>положенъ</w>
-                        <w>Черниговѣ</w>
-                        <w>у</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>199, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="10"><p>
+<app>
+<lem wit="#lem">
+<w>отъ</w>
+<w>рѣзания</w>
+<w>жьлъве,</w>
+<w>и</w>
+<w>положенъ</w>
+<w>бысть</w>
+<w>у</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ѿ</w>
+<w>рѣзанья</w>
+<w>желве.</w>
+<w>и</w>
+<w>положенъ <lb/></w>
+
+<w>черниговѣ</w>
+<w>оу</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ѿ</w>
+<w><milestone unit="add" n="start" place="margin"/>рѣ<milestone unit="add" n="end"/>зания</w>
+<w>желве. <lb/></w>
+
+<w>и</w>
+<w>положенъ</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>в</w>
+<w>чернигове</w>
+<w>оу</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ѿ</w>
+<w>рѣзаниѧ</w>
+<w>желве.</w>
+<w>и</w>
+<w>положенъ</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>оу</w>
+<w>черниговѣ</w>
+<w>оу</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ѿ</w>
+<w>рѣзанья</w>
+<w>желве.</w>
+<w>и</w>
+<w>по<lb/>ложенъ</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>оу</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ѿ</w>
+<w>рѣзанїа</w>
+<w>же<hi rend="sup">л</hi>ве <lb/></w>
+
+<w>и</w>
+<w>положенъ</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>оу</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>отъ</w>
+<w>рѣзанья</w>
+<w>желве,</w>
+<w>и</w>
+<w>положенъ</w>
+<w>Черниговѣ</w>
+<w>у</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>отъ</w>
+<w>рѣзания</w>
+<w>жьлъве,</w>
+<w>и</w>
+<w>положенъ</w>
+<w>бысть</w>
+<w>Чьрниговѣ</w>
+<w>у</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>от</w>
+<w>рѣзанья</w>
+<w>желве,</w>
+<w>и</w>
+<w>положенъ</w>
+<w>Черниговѣ</w>
+<w>у</w>
+</rdg>
+</app></p></div></body></text></TEI>

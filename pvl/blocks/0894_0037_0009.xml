@@ -1,113 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>37, 9</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="9">
-            <p>
-               <app>
-                  <lem>
-                     <w>жалують</w>
-                     <w>Русь</w>
-                     <w>хрьстияньскому</w>
-                     <w>цьсарьству,</w>
-                     <w>и</w>
-                     <w>ятъ</w>
-                     <w>будеть</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>жалѹють <lb/>
-                        </w>
-                        <w>роу<hi rend="sup">с</hi>.</w>
-                        <w>хрт<hi rend="sup">с</hi>ьаньскоу</w>
-                        <w>цр҃твѹ.</w>
-                        <w>и</w>
-                        <w>ятъ</w>
-                        <w>бѹде<hi rend="sup">т</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>жалаютъ</w>
-                        <w>рѹ<hi rend="sup">с</hi>
-                        </w>
-                        <w>хр<hi rend="sup">с</hi>тьянь<lb/>скомѹ</w>
-                        <w>ц<hi rend="sup">с</hi>ртвѹ.</w>
-                        <w>и</w>
-                        <w>ятъ</w>
-                        <w>бѹдетъ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>жалують</w>
-                        <w>русь <lb/>
-                        </w>
-                        <w>хрт<hi rend="sup">с</hi>ьянскому</w>
-                        <w>ц<hi rend="sup">с</hi>ртву. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>ятъ</w>
-                        <w>будеть</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>жалоують</w>
-                        <w>роу<hi rend="sup">с</hi>
-                        </w>
-                        <w>хрт<hi rend="sup">с</hi>їанскомоу</w>
-                        <w>ц<hi rend="sup">с</hi>ртвоу.</w>
-                        <w>и</w>
-                        <w>ять</w>
-                        <w>бѫде<hi rend="sup">т</hi>
-                        </w>
-                        <w>
-                           <pb n="13v"/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>жалують</w>
-                        <w>Русь</w>
-                        <w>хрестьяньскому</w>
-                        <w>царству,</w>
-                        <w>и</w>
-                        <w>ятъ</w>
-                        <w>будеть</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>жалують</w>
-                        <w>Русь</w>
-                        <w>хрьстияньскому</w>
-                        <w>цѣсарьству,</w>
-                        <w>и</w>
-                        <w>ятъ</w>
-                        <w>будеть</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>жалують</w>
-                        <w>Русь</w>
-                        <w>хрестьаньску</w>
-                        <w>царству,</w>
-                        <w>и</w>
-                        <w>ятъ</w>
-                        <w>будеть</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>37, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="9"><p>
+<app>
+<lem wit="#lem">
+<w>жалують</w>
+<w>Русь</w>
+<w>хрьстияньскому</w>
+<w>цьсарьству,</w>
+<w>и</w>
+<w>ятъ</w>
+<w>будеть</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>жалѹють <lb/></w>
+
+<w>роу<hi rend="sup">с</hi>.</w>
+<w>хрт<hi rend="sup">с</hi>ьаньскоу</w>
+<w>цр҃твѹ.</w>
+<w>и</w>
+<w>ятъ</w>
+<w>бѹде<hi rend="sup">т</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>жалаютъ</w>
+<w>рѹ<hi rend="sup">с</hi></w>
+<w>хр<hi rend="sup">с</hi>тьянь<lb/>скомѹ</w>
+<w>ц<hi rend="sup">с</hi>ртвѹ.</w>
+<w>и</w>
+<w>ятъ</w>
+<w>бѹдетъ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>жалують</w>
+<w>русь <lb/></w>
+
+<w>хрт<hi rend="sup">с</hi>ьянскому</w>
+<w>ц<hi rend="sup">с</hi>ртву. <lb/></w>
+
+<w>и</w>
+<w>ятъ</w>
+<w>будеть</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>жалоують</w>
+<w>роу<hi rend="sup">с</hi></w>
+<w>хрт<hi rend="sup">с</hi>їанскомоу</w>
+<w>ц<hi rend="sup">с</hi>ртвоу.</w>
+<w>и</w>
+<w>ять</w>
+<w>бѫде<hi rend="sup">т</hi><pb n="13v"/></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>жалують</w>
+<w>Русь</w>
+<w>хрестьяньскому</w>
+<w>царству,</w>
+<w>и</w>
+<w>ятъ</w>
+<w>будеть</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>жалують</w>
+<w>Русь</w>
+<w>хрьстияньскому</w>
+<w>цѣсарьству,</w>
+<w>и</w>
+<w>ятъ</w>
+<w>будеть</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>жалують</w>
+<w>Русь</w>
+<w>хрестьаньску</w>
+<w>царству,</w>
+<w>и</w>
+<w>ятъ</w>
+<w>будеть</w>
+</rdg>
+</app></p></div></body></text></TEI>

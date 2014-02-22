@@ -1,123 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>49, 25</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="25">
-            <p>
-               <app>
-                  <lem>
-                     <w>отъ</w>
-                     <w>насъ</w>
-                     <w>цѣну</w>
-                     <w>свою,</w>
-                     <w>якоже</w>
-                     <w>уставлено</w>
-                     <w>есть</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ѿ</w>
-                        <w>насъ</w>
-                        <w>цѣну</w>
-                        <w>свою.</w>
-                        <w>я<lb/>коже</w>
-                        <w>оуставлено</w>
-                        <w>есть</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ѿ</w>
-                        <w>на<hi rend="sup">с</hi>
-                        </w>
-                        <w>цѣнѹ</w>
-                        <w>свою.</w>
-                        <w>яко<hi rend="sup">ж</hi>
-                        </w>
-                        <w>оуставлено</w>
-                        <w>е<hi rend="sup">с</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ѿ</w>
-                        <w>на<hi rend="sup">с</hi>
-                        </w>
-                        <w>цѣнѹ</w>
-                        <w>свою. <lb/>
-                        </w>
-                        <w>яко</w>
-                        <w>оуставлено</w>
-                        <w>есть</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ѿ</w>
-                        <w>на<hi rend="sup">с</hi>
-                        </w>
-                        <w>цѣну</w>
-                        <w>свою. <lb/>
-                        </w>
-                        <w>якоже</w>
-                        <w>оуставлено</w>
-                        <w>есть <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ѿ</w>
-                        <w>на<hi rend="sup">с</hi>
-                        </w>
-                        <w>цѣноу</w>
-                        <w>свою.</w>
-                        <w>яко<hi rend="sup">ж</hi>
-                        </w>
-                        <w>оуставлено</w>
-                        <w>е<hi rend="sup">с</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>отъ</w>
-                        <w>насъ</w>
-                        <w>цѣну</w>
-                        <w>свою,</w>
-                        <w>якоже</w>
-                        <w>уставлено</w>
-                        <w>есть</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>отъ</w>
-                        <w>насъ</w>
-                        <w>цѣну</w>
-                        <w>свою,</w>
-                        <w>якоже</w>
-                        <w>уставлено</w>
-                        <w>есть</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>от</w>
-                        <w>насъ</w>
-                        <w>цѣну</w>
-                        <w>свою,</w>
-                        <w>яко</w>
-                        <w>же</w>
-                        <w>уставлено</w>
-                        <w>есть</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>49, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="25"><p>
+<app>
+<lem wit="#lem">
+<w>отъ</w>
+<w>насъ</w>
+<w>цѣну</w>
+<w>свою,</w>
+<w>якоже</w>
+<w>уставлено</w>
+<w>есть</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ѿ</w>
+<w>насъ</w>
+<w>цѣну</w>
+<w>свою.</w>
+<w>я<lb/>коже</w>
+<w>оуставлено</w>
+<w>есть</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ѿ</w>
+<w>на<hi rend="sup">с</hi></w>
+<w>цѣнѹ</w>
+<w>свою.</w>
+<w>яко<hi rend="sup">ж</hi></w>
+<w>оуставлено</w>
+<w>е<hi rend="sup">с</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ѿ</w>
+<w>на<hi rend="sup">с</hi></w>
+<w>цѣнѹ</w>
+<w>свою. <lb/></w>
+
+<w>яко</w>
+<w>оуставлено</w>
+<w>есть</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ѿ</w>
+<w>на<hi rend="sup">с</hi></w>
+<w>цѣну</w>
+<w>свою. <lb/></w>
+
+<w>якоже</w>
+<w>оуставлено</w>
+<w>есть <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>ѿ</w>
+<w>на<hi rend="sup">с</hi></w>
+<w>цѣноу</w>
+<w>свою.</w>
+<w>яко<hi rend="sup">ж</hi></w>
+<w>оуставлено</w>
+<w>е<hi rend="sup">с</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>отъ</w>
+<w>насъ</w>
+<w>цѣну</w>
+<w>свою,</w>
+<w>якоже</w>
+<w>уставлено</w>
+<w>есть</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>отъ</w>
+<w>насъ</w>
+<w>цѣну</w>
+<w>свою,</w>
+<w>якоже</w>
+<w>уставлено</w>
+<w>есть</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>от</w>
+<w>насъ</w>
+<w>цѣну</w>
+<w>свою,</w>
+<w>яко</w>
+<w>же</w>
+<w>уставлено</w>
+<w>есть</w>
+</rdg>
+</app></p></div></body></text></TEI>

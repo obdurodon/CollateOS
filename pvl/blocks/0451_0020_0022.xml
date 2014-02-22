@@ -1,118 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>20, 22</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="22">
-            <p>
-               <app>
-                  <lem>
-                     <w>по</w>
-                     <w>Дънѣпру,</w>
-                     <w>идучи</w>
-                     <w>мимо</w>
-                     <w>и</w>
-                     <w>узьрѣста</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>по <lb/>
-                        </w>
-                        <w>днѣпру.</w>
-                        <w>и</w>
-                        <w>идуче</w>
-                        <w>мимо</w>
-                        <w>и</w>
-                        <w>оузрѣста</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>по</w>
-                        <w>днѣпру</w>
-                        <w>и</w>
-                        <w>идуче</w>
-                        <w>мимо</w>
-                        <w>и</w>
-                        <w>узрѣста</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>по</w>
-                        <w>
-                           <hi rend="sup">д</hi>непрѹ</w>
-                        <w>и<hi rend="sup">д</hi>чи</w>
-                        <w>мимо</w>
-                        <w>ѹзрѣ<hi rend="sup">ш</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>по</w>
-                        <w>днепрѹ. <lb/>
-                        </w>
-                        <w>идѹчи</w>
-                        <w>мимо</w>
-                        <w>и</w>
-                        <w>оузрѣвше</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>по <lb/>
-                        </w>
-                        <w>дънепру.</w>
-                        <w>идучи</w>
-                        <w>мим<hi rend="sup">о</hi>. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>оузрѣста</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>по</w>
-                        <w>днѣпроу.</w>
-                        <w>идоучи</w>
-                        <w>мимо</w>
-                        <w>оузрѣста</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>по</w>
-                        <w>Днѣпру,</w>
-                        <w>и</w>
-                        <w>идуче</w>
-                        <w>мимо</w>
-                        <w>и</w>
-                        <w>узрѣста</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>по</w>
-                        <w>Дънѣпру,</w>
-                        <w>и,</w>
-                        <w>идуща</w>
-                        <w>мимо,</w>
-                        <w>узьрѣста</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>по</w>
-                        <w>Днѣпру,</w>
-                        <w>и</w>
-                        <w>идуче</w>
-                        <w>мимо</w>
-                        <w>и</w>
-                        <w>узрѣста</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>20, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="22"><p>
+<app>
+<lem wit="#lem">
+<w>по</w>
+<w>Дънѣпру,</w>
+<w>идучи</w>
+<w>мимо</w>
+<w>и</w>
+<w>узьрѣста</w>
+</lem>
+
+<rdg wit="#lav">
+<w>по <lb/></w>
+
+<w>днѣпру.</w>
+<w>и</w>
+<w>идуче</w>
+<w>мимо</w>
+<w>и</w>
+<w>оузрѣста</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>по</w>
+<w>днѣпру</w>
+<w>и</w>
+<w>идуче</w>
+<w>мимо</w>
+<w>и</w>
+<w>узрѣста</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>по</w>
+<w><hi rend="sup">д</hi>непрѹ</w>
+<w>и<hi rend="sup">д</hi>чи</w>
+<w>мимо</w>
+<w>ѹзрѣ<hi rend="sup">ш</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>по</w>
+<w>днепрѹ. <lb/></w>
+
+<w>идѹчи</w>
+<w>мимо</w>
+<w>и</w>
+<w>оузрѣвше</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>по <lb/></w>
+
+<w>дънепру.</w>
+<w>идучи</w>
+<w>мим<hi rend="sup">о</hi>. <lb/></w>
+
+<w>и</w>
+<w>оузрѣста</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>по</w>
+<w>днѣпроу.</w>
+<w>идоучи</w>
+<w>мимо</w>
+<w>оузрѣста</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>по</w>
+<w>Днѣпру,</w>
+<w>и</w>
+<w>идуче</w>
+<w>мимо</w>
+<w>и</w>
+<w>узрѣста</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>по</w>
+<w>Дънѣпру,</w>
+<w>и,</w>
+<w>идуща</w>
+<w>мимо,</w>
+<w>узьрѣста</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>по</w>
+<w>Днѣпру,</w>
+<w>и</w>
+<w>идуче</w>
+<w>мимо</w>
+<w>и</w>
+<w>узрѣста</w>
+</rdg>
+</app></p></div></body></text></TEI>

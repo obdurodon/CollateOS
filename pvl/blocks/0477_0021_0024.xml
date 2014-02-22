@@ -1,126 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>21, 24</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="24">
-            <p>
-               <app>
-                  <lem>
-                     <w>и</w>
-                     <w>вълнамъ</w>
-                     <w>великимъ</w>
-                     <w>въставъшимь</w>
-                     <w>засобь,</w>
-                     <w>и</w>
-                     <w>безбожьныхъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>и</w>
-                        <w>волнамъ</w>
-                        <w>вельямъ <lb/>
-                        </w>
-                        <w>въставше<sic>мь</sic>
-                        </w>
-                        <w>засобь</w>
-                        <w>безбожныхъ</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>и</w>
-                        <w>волнамъ</w>
-                        <w>вельямъ</w>
-                        <w>въставшимъ</w>
-                        <w>засобь</w>
-                        <w>безбожныя</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>и</w>
-                        <w>волнамъ</w>
-                        <w>вели<lb/>кимъ</w>
-                        <w>въставш<sic>и</sic>мъ</w>
-                        <w>засобь.</w>
-                        <w>и</w>
-                        <w>безбожны<hi rend="sup">х</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>и</w>
-                        <w>во<lb/>лнамъ</w>
-                        <w>великимъ</w>
-                        <w>въставшимъ</w>
-                        <w>засобь.</w>
-                        <w>и</w>
-                        <w>безбожны<hi rend="sup">х</hi> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>и</w>
-                        <w>волнамъ</w>
-                        <w>ве<lb/>ликымъ</w>
-                        <w>въставши<hi rend="sup">м</hi>
-                        </w>
-                        <w>засо<lb/>бь.</w>
-                        <w>и</w>
-                        <w>безъбожныхъ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>и</w>
-                        <w>влъна<hi rend="sup">м</hi>
-                        </w>
-                        <w>великы<hi rend="sup">м</hi>
-                        </w>
-                        <w>въставши<hi rend="sup">м</hi> 
-                           <lb/>
-                        </w>
-                        <w>засобь.</w>
-                        <w>и</w>
-                        <w>безбожны<hi rend="sup">х</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>и</w>
-                        <w>волнамъ</w>
-                        <w>вельямъ</w>
-                        <w>въставшимь</w>
-                        <w>засобь,</w>
-                        <w>безбожныхъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>и</w>
-                        <w>вълнамъ</w>
-                        <w>велиямъ</w>
-                        <w>въставъшамь</w>
-                        <w>засобь,</w>
-                        <w>безбожьныхъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>и</w>
-                        <w>волнамъ</w>
-                        <w>вельямъ</w>
-                        <w>въставшемь</w>
-                        <w>засобь,</w>
-                        <w>безбожныхъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>21, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="24"><p>
+<app>
+<lem wit="#lem">
+<w>и</w>
+<w>вълнамъ</w>
+<w>великимъ</w>
+<w>въставъшимь</w>
+<w>засобь,</w>
+<w>и</w>
+<w>безбожьныхъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>и</w>
+<w>волнамъ</w>
+<w>вельямъ <lb/></w>
+
+<w>въставше<milestone unit="sic" n="start"/>мь<milestone unit="sic" n="end"/></w>
+<w>засобь</w>
+<w>безбожныхъ</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>и</w>
+<w>волнамъ</w>
+<w>вельямъ</w>
+<w>въставшимъ</w>
+<w>засобь</w>
+<w>безбожныя</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>и</w>
+<w>волнамъ</w>
+<w>вели<lb/>кимъ</w>
+<w>въставш<milestone unit="sic" n="start"/>и<milestone unit="sic" n="end"/>мъ</w>
+<w>засобь.</w>
+<w>и</w>
+<w>безбожны<hi rend="sup">х</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>и</w>
+<w>во<lb/>лнамъ</w>
+<w>великимъ</w>
+<w>въставшимъ</w>
+<w>засобь.</w>
+<w>и</w>
+<w>безбожны<hi rend="sup">х</hi><lb/></w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>и</w>
+<w>волнамъ</w>
+<w>ве<lb/>ликымъ</w>
+<w>въставши<hi rend="sup">м</hi></w>
+<w>засо<lb/>бь.</w>
+<w>и</w>
+<w>безъбожныхъ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>и</w>
+<w>влъна<hi rend="sup">м</hi></w>
+<w>великы<hi rend="sup">м</hi></w>
+<w>въставши<hi rend="sup">м</hi><lb/></w>
+<w>засобь.</w>
+<w>и</w>
+<w>безбожны<hi rend="sup">х</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>и</w>
+<w>волнамъ</w>
+<w>вельямъ</w>
+<w>въставшимь</w>
+<w>засобь,</w>
+<w>безбожныхъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>и</w>
+<w>вълнамъ</w>
+<w>велиямъ</w>
+<w>въставъшамь</w>
+<w>засобь,</w>
+<w>безбожьныхъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>и</w>
+<w>волнамъ</w>
+<w>вельямъ</w>
+<w>въставшемь</w>
+<w>засобь,</w>
+<w>безбожныхъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,118 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>183, 21</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="21">
-            <p>
-               <app>
-                  <lem>
-                     <w>Печерьскыи,</w>
-                     <w>престави</w>
-                     <w>ся.</w>
-                     <w>Съкажемъ</w>
-                     <w>о</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>печерь<lb/>скыи</w>
-                        <w>престависѧ.</w>
-                        <w>скажемъ <lb/>
-                        </w>
-                        <w>же</w>
-                        <w>ѡ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>печерьскии</w>
-                        <w>престави<hi rend="sup">с</hi>.</w>
-                        <w>ска<hi rend="sup">ж</hi> 
-                           <lb/>
-                        </w>
-                        <w>ѡ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>печерьскїи <lb/>
-                        </w>
-                        <w>престависѧ.</w>
-                        <w>скажемь</w>
-                        <w>ѡ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>печерьскыи.</w>
-                        <w>пре<lb/>стависѧ.</w>
-                        <w>скажемь</w>
-                        <w>бо</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>печерскыи</w>
-                        <w>престависѧ. <lb/>
-                        </w>
-                        <w>скаже<hi rend="sup">м</hi>
-                        </w>
-                        <w>же</w>
-                        <w>ѡ</w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>игуменъ</w>
-                        <w>печерьскаго</w>
-                        <w>монастыря</w>
-                        <w>скажем</w>
-                        <w>же</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>печерскыи</w>
-                        <w>преставися</w>
-                        <w>скажем</w>
-                        <w>же</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>печерскыи</w>
-                        <w>преставися</w>
-                        <w>скажем</w>
-                        <w>же</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Печерьскый,</w>
-                        <w>преставися.</w>
-                        <w>Скажемъ</w>
-                        <w>же</w>
-                        <w>о</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Печерьскыи</w>
-                        <w>преставися.</w>
-                        <w>Съкажемъ</w>
-                        <w>же</w>
-                        <w>о</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>печерьскый,</w>
-                        <w>преставися.</w>
-                        <w>Скажемъ</w>
-                        <w>же</w>
-                        <w>о</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>183, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="21"><p>
+<app>
+<lem wit="#lem">
+<w>Печерьскыи,</w>
+<w>престави</w>
+<w>ся.</w>
+<w>Съкажемъ</w>
+<w>о</w>
+</lem>
+
+<rdg wit="#lav">
+<w>печерь<lb/>скыи</w>
+<w>престависѧ.</w>
+<w>скажемъ <lb/></w>
+
+<w>же</w>
+<w>ѡ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>печерьскии</w>
+<w>престави<hi rend="sup">с</hi>.</w>
+<w>ска<hi rend="sup">ж</hi><lb/>мъ</w>
+<w>ѡ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>печерьскїи <lb/></w>
+
+<w>престависѧ.</w>
+<w>скажемь</w>
+<w>ѡ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>печерьскыи.</w>
+<w>пре<lb/>стависѧ.</w>
+<w>скажемь</w>
+<w>бо</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>печерскыи</w>
+<w>престависѧ. <lb/></w>
+
+<w>скаже<hi rend="sup">м</hi></w>
+<w>же</w>
+<w>ѡ</w>
+</rdg>
+
+<rdg wit="#kom">
+<w>игуменъ</w>
+<w>печерьскаго</w>
+<w>монастыря</w>
+<w>скажем</w>
+<w>же</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>печерскыи</w>
+<w>преставися</w>
+<w>скажем</w>
+<w>же</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>печерскыи</w>
+<w>преставися</w>
+<w>скажем</w>
+<w>же</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Печерьскый,</w>
+<w>преставися.</w>
+<w>Скажемъ</w>
+<w>же</w>
+<w>о</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Печерьскыи</w>
+<w>преставися.</w>
+<w>Съкажемъ</w>
+<w>же</w>
+<w>о</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>печерьскый,</w>
+<w>преставися.</w>
+<w>Скажемъ</w>
+<w>же</w>
+<w>о</w>
+</rdg>
+</app></p></div></body></text></TEI>

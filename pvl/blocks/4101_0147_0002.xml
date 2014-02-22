@@ -1,118 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>147, 2</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="2">
-            <p>
-               <app>
-                  <lem>
-                     <w>възьмеши</w>
-                     <w>имѣние</w>
-                     <w>мое</w>
-                     <w>и</w>
-                     <w>жену</w>
-                     <w>мою</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>возмеши</w>
-                        <w>имѣнье</w>
-                        <w>мо<lb/>е</w>
-                        <w>и</w>
-                        <w>жену</w>
-                        <w>мою.</w>
-                        <w>и</w>
-                        <w>дѣти</w>
-                        <w>моѣ.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>возмешь</w>
-                        <w>имѣние</w>
-                        <w>мое.</w>
-                        <w>и</w>
-                        <w>женѹ</w>
-                        <w>и</w>
-                        <w>дѣти.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>возмеши</w>
-                        <w>имѣнье <lb/>
-                        </w>
-                        <w>мое.</w>
-                        <w>и</w>
-                        <w>женѹ</w>
-                        <w>и</w>
-                        <w>дѣти.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>возмеши <lb/>
-                        </w>
-                        <w>имѣние</w>
-                        <w>мое.</w>
-                        <w>и</w>
-                        <w>жену</w>
-                        <w>мою</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>възмеши</w>
-                        <w>имѣнїе</w>
-                        <w>мое.</w>
-                        <w>и</w>
-                        <w>женоу</w>
-                        <w>мою</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>возмеши</w>
-                        <w>имѣнье</w>
-                        <w>мое,</w>
-                        <w>и</w>
-                        <w>жену</w>
-                        <w>мою,</w>
-                        <w>и</w>
-                        <w>дѣти</w>
-                        <w>моѣ,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>възьмеши</w>
-                        <w>имѣние</w>
-                        <w>мое</w>
-                        <w>и</w>
-                        <w>жену</w>
-                        <w>мою</w>
-                        <w>и</w>
-                        <w>дѣти</w>
-                        <w>моѣ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>возмеши</w>
-                        <w>имѣнье</w>
-                        <w>мое,</w>
-                        <w>и</w>
-                        <w>жену</w>
-                        <w>мою,</w>
-                        <w>и</w>
-                        <w>дѣти</w>
-                        <w>моѣ,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>147, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="2"><p>
+<app>
+<lem wit="#lem">
+<w>възьмеши</w>
+<w>имѣние</w>
+<w>мое</w>
+<w>и</w>
+<w>жену</w>
+<w>мою</w>
+</lem>
+
+<rdg wit="#lav">
+<w>возмеши</w>
+<w>имѣнье</w>
+<w>мо<lb/>е</w>
+<w>и</w>
+<w>жену</w>
+<w>мою.</w>
+<w>и</w>
+<w>дѣти</w>
+<w>моѣ.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>возмешь</w>
+<w>имѣние</w>
+<w>мое.</w>
+<w>и</w>
+<w>женѹ</w>
+<w>и</w>
+<w>дѣти.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>возмеши</w>
+<w>имѣнье <lb/></w>
+
+<w>мое.</w>
+<w>и</w>
+<w>женѹ</w>
+<w>и</w>
+<w>дѣти.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>возмеши <lb/></w>
+
+<w>имѣние</w>
+<w>мое.</w>
+<w>и</w>
+<w>жену</w>
+<w>мою</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>възмеши</w>
+<w>имѣнїе</w>
+<w>мое.</w>
+<w>и</w>
+<w>женоу</w>
+<w>мою</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>возмеши</w>
+<w>имѣнье</w>
+<w>мое,</w>
+<w>и</w>
+<w>жену</w>
+<w>мою,</w>
+<w>и</w>
+<w>дѣти</w>
+<w>моѣ,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>възьмеши</w>
+<w>имѣние</w>
+<w>мое</w>
+<w>и</w>
+<w>жену</w>
+<w>мою</w>
+<w>и</w>
+<w>дѣти</w>
+<w>моѣ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>возмеши</w>
+<w>имѣнье</w>
+<w>мое,</w>
+<w>и</w>
+<w>жену</w>
+<w>мою,</w>
+<w>и</w>
+<w>дѣти</w>
+<w>моѣ,</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,98 +1,79 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>142, 10</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="10">
-            <p>
-               <app>
-                  <lem>
-                     <w>же</w>
-                     <w>заутра,</w>
-                     <w>испълчивъ</w>
-                     <w>дружину,</w>
-                     <w>противу</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>же</w>
-                        <w>заоутра</w>
-                        <w>и<lb/>сполчивъ</w>
-                        <w>дружину</w>
-                        <w>свою.</w>
-                        <w>про<lb/>тиву</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>же</w>
-                        <w>заоутра</w>
-                        <w>исполчивъ</w>
-                        <w>дроу<hi rend="sup">ж</hi>нѹ</w>
-                        <w>противѹ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>же</w>
-                        <w>заоутра</w>
-                        <w>исполчивъ</w>
-                        <w>дрѹжи<lb/>нѹ.</w>
-                        <w>противѹ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>же</w>
-                        <w>заоутра.</w>
-                        <w>исполчивъ. <lb/>
-                        </w>
-                        <w>дружину</w>
-                        <w>противу</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>же</w>
-                        <w>зау<hi rend="sup">т</hi>ра</w>
-                        <w>исполчивь</w>
-                        <w>дрѹ<lb/>жинѹ</w>
-                        <w>перевезесѧ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>же</w>
-                        <w>заутра</w>
-                        <w>исполчивъ</w>
-                        <w>дружину</w>
-                        <w>свою,</w>
-                        <w>противу</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>же</w>
-                        <w>заутра,</w>
-                        <w>испълчивъ</w>
-                        <w>дружину</w>
-                        <w>свою,</w>
-                        <w>противу</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>же</w>
-                        <w>заутра,</w>
-                        <w>исполчивъ</w>
-                        <w>дружину</w>
-                        <w>свою,</w>
-                        <w>противу</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>142, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="10"><p>
+<app>
+<lem wit="#lem">
+<w>же</w>
+<w>заутра,</w>
+<w>испълчивъ</w>
+<w>дружину,</w>
+<w>противу</w>
+</lem>
+
+<rdg wit="#lav">
+<w>же</w>
+<w>заоутра</w>
+<w>и<lb/>сполчивъ</w>
+<w>дружину</w>
+<w>свою.</w>
+<w>про<lb/>тиву</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>же</w>
+<w>заоутра</w>
+<w>исполчивъ</w>
+<w>дроу<hi rend="sup">ж</hi>нѹ</w>
+<w>противѹ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>же</w>
+<w>заоутра</w>
+<w>исполчивъ</w>
+<w>дрѹжи<lb/>нѹ.</w>
+<w>противѹ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>же</w>
+<w>заоутра.</w>
+<w>исполчивъ. <lb/></w>
+
+<w>дружину</w>
+<w>противу</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>же</w>
+<w>зау<hi rend="sup">т</hi>ра</w>
+<w>исполчивь</w>
+<w>дрѹ<lb/>жинѹ</w>
+<w>перевезесѧ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>же</w>
+<w>заутра</w>
+<w>исполчивъ</w>
+<w>дружину</w>
+<w>свою,</w>
+<w>противу</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>же</w>
+<w>заутра,</w>
+<w>испълчивъ</w>
+<w>дружину</w>
+<w>свою,</w>
+<w>противу</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>же</w>
+<w>заутра,</w>
+<w>исполчивъ</w>
+<w>дружину</w>
+<w>свою,</w>
+<w>противу</w>
+</rdg>
+</app></p></div></body></text></TEI>

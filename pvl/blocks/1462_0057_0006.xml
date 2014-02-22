@@ -1,125 +1,107 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>57, 6</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="6">
-            <p>
-               <app>
-                  <lem>
-                     <w>рекущи</w>
-                     <w>сице:</w>
-                     <w>“Измывъше</w>
-                     <w>ся,</w>
-                     <w>придѣте</w>
-                     <w>къ</w>
-                     <w>мънѣ”.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>рькуще</w>
-                        <w>сі<lb/>це.</w>
-                        <w>измывшесѧ</w>
-                        <w>придите</w>
-                        <w>ко</w>
-                        <w>мнѣ.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>рекѹще <lb/>
-                        </w>
-                        <w>сице</w>
-                        <w>измывше<hi rend="sup">с</hi>
-                        </w>
-                        <w>прииди<hi rend="sup">т</hi>
-                        </w>
-                        <w>ко</w>
-                        <w>мнѣ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>рекѹщи</w>
-                        <w>сїце.</w>
-                        <w>измывше<lb/>сѧ</w>
-                        <w>прїидите</w>
-                        <w>ко</w>
-                        <w>мнѣ.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ркущи</w>
-                        <w>си<lb/>це.</w>
-                        <w>измывшесѧ</w>
-                        <w>приде<lb/>та</w>
-                        <w>къ</w>
-                        <w>мнѣ.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>рекоуще</w>
-                        <w>сице.</w>
-                        <w>измывшесѧ</w>
-                        <w>прїидѣте</w>
-                        <w>къ</w>
-                        <w>мнѣ. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>измывшеся</w>
-                        <w>приидѣте</w>
-                        <w>ко</w>
-                        <w>мнѣ</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>измывшеся</w>
-                        <w>приидѣте</w>
-                        <w>ко</w>
-                        <w>мнѣ</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>измывшеся</w>
-                        <w>приидѣте</w>
-                        <w>ко</w>
-                        <w>мнѣ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>рькуще</w>
-                        <w>сице:</w>
-                        <w>“измывшеся</w>
-                        <w>придите</w>
-                        <w>ко</w>
-                        <w>мнѣ.”</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>рекущи</w>
-                        <w>сице:</w>
-                        <w>“измывъшеся,</w>
-                        <w>придѣте</w>
-                        <w>къ</w>
-                        <w>мънѣ”.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>рькуще</w>
-                        <w>сице:</w>
-                        <w>“Измывшеся</w>
-                        <w>придите</w>
-                        <w>ко</w>
-                        <w>мнѣ”.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>57, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="6"><p>
+<app>
+<lem wit="#lem">
+<w>рекущи</w>
+<w>сице:</w>
+<w>“Измывъше</w>
+<w>ся,</w>
+<w>придѣте</w>
+<w>къ</w>
+<w>мънѣ”.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>рькуще</w>
+<w>сі<lb/>це.</w>
+<w>измывшесѧ</w>
+<w>придите</w>
+<w>ко</w>
+<w>мнѣ.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>рекѹще <lb/></w>
+
+<w>сице</w>
+<w>измывше<hi rend="sup">с</hi></w>
+<w>прииди<hi rend="sup">т</hi></w>
+<w>ко</w>
+<w>мнѣ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>рекѹщи</w>
+<w>сїце.</w>
+<w>измывше<lb/>сѧ</w>
+<w>прїидите</w>
+<w>ко</w>
+<w>мнѣ.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ркущи</w>
+<w>си<lb/>це.</w>
+<w>измывшесѧ</w>
+<w>приде<lb/>та</w>
+<w>къ</w>
+<w>мнѣ.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>рекоуще</w>
+<w>сице.</w>
+<w>измывшесѧ</w>
+<w>прїидѣте</w>
+<w>къ</w>
+<w>мнѣ. <lb/></w>
+
+</rdg>
+
+<rdg wit="#kom">
+<w>измывшеся</w>
+<w>приидѣте</w>
+<w>ко</w>
+<w>мнѣ</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>измывшеся</w>
+<w>приидѣте</w>
+<w>ко</w>
+<w>мнѣ</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>измывшеся</w>
+<w>приидѣте</w>
+<w>ко</w>
+<w>мнѣ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>рькуще</w>
+<w>сице:</w>
+<w>“измывшеся</w>
+<w>придите</w>
+<w>ко</w>
+<w>мнѣ.”</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>рекущи</w>
+<w>сице:</w>
+<w>“измывъшеся,</w>
+<w>придѣте</w>
+<w>къ</w>
+<w>мънѣ”.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>рькуще</w>
+<w>сице:</w>
+<w>“Измывшеся</w>
+<w>придите</w>
+<w>ко</w>
+<w>мнѣ”.</w>
+</rdg>
+</app></p></div></body></text></TEI>

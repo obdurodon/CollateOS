@@ -1,113 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>150, 28</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="28">
-            <p>
-               <app>
-                  <lem>
-                     <w>Ярославу</w>
-                     <w>сынъ,</w>
-                     <w>и</w>
-                     <w>нарекоша</w>
-                     <w>имя</w>
-                     <w>ему</w>
-                     <w>Вячеславъ.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ярославу <lb/>
-                        </w>
-                        <w>сн҃ъ.</w>
-                        <w>нарекоша</w>
-                        <w>имѧ</w>
-                        <w>ему</w>
-                        <w>вѧ<lb/>чеславъ.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ярославоу</w>
-                        <w>сн҃ъ.</w>
-                        <w>и</w>
-                        <w>нарекоша</w>
-                        <w>емѹ</w>
-                        <w>имѧ.</w>
-                        <w>вачеславъ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ярославѹ</w>
-                        <w>сн҃ъ</w>
-                        <w>и</w>
-                        <w>нареко<lb/>ша</w>
-                        <w>емѹ</w>
-                        <w>имѧ</w>
-                        <w>вѧчеславъ.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>яросла<lb/>ву</w>
-                        <w>сн҃ъ.</w>
-                        <w>и</w>
-                        <w>нарекоша</w>
-                        <w>имѧ</w>
-                        <w>ему <lb/>
-                        </w>
-                        <w>вѧчеславъ.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ярославѹ <lb/>
-                        </w>
-                        <w>сы<hi rend="sup">н</hi>.</w>
-                        <w>и</w>
-                        <w>нарекоша</w>
-                        <w>имѧ</w>
-                        <w>емоу</w>
-                        <w>вѧчесла.</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Ярославу</w>
-                        <w>сынъ,</w>
-                        <w>нарекоша</w>
-                        <w>имя</w>
-                        <w>ему</w>
-                        <w>Вячеславъ.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Ярославу</w>
-                        <w>сынъ,</w>
-                        <w>и</w>
-                        <w>нарекоша</w>
-                        <w>имя</w>
-                        <w>ему</w>
-                        <w>Вячеславъ.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Ярославу</w>
-                        <w>сынъ,</w>
-                        <w>нарекоша</w>
-                        <w>имя</w>
-                        <w>ему</w>
-                        <w>Вячеславъ.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>150, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="28"><p>
+<app>
+<lem wit="#lem">
+<w>Ярославу</w>
+<w>сынъ,</w>
+<w>и</w>
+<w>нарекоша</w>
+<w>имя</w>
+<w>ему</w>
+<w>Вячеславъ.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ярославу <lb/></w>
+
+<w>сн҃ъ.</w>
+<w>нарекоша</w>
+<w>имѧ</w>
+<w>ему</w>
+<w>вѧ<lb/>чеславъ.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ярославоу</w>
+<w>сн҃ъ.</w>
+<w>и</w>
+<w>нарекоша</w>
+<w>емѹ</w>
+<w>имѧ.</w>
+<w>вачеславъ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ярославѹ</w>
+<w>сн҃ъ</w>
+<w>и</w>
+<w>нареко<lb/>ша</w>
+<w>емѹ</w>
+<w>имѧ</w>
+<w>вѧчеславъ.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>яросла<lb/>ву</w>
+<w>сн҃ъ.</w>
+<w>и</w>
+<w>нарекоша</w>
+<w>имѧ</w>
+<w>ему <lb/></w>
+
+<w>вѧчеславъ.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ярославѹ <lb/></w>
+
+<w>сы<hi rend="sup">н</hi>.</w>
+<w>и</w>
+<w>нарекоша</w>
+<w>имѧ</w>
+<w>емоу</w>
+<w>вѧчесла.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Ярославу</w>
+<w>сынъ,</w>
+<w>нарекоша</w>
+<w>имя</w>
+<w>ему</w>
+<w>Вячеславъ.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Ярославу</w>
+<w>сынъ,</w>
+<w>и</w>
+<w>нарекоша</w>
+<w>имя</w>
+<w>ему</w>
+<w>Вячеславъ.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Ярославу</w>
+<w>сынъ,</w>
+<w>нарекоша</w>
+<w>имя</w>
+<w>ему</w>
+<w>Вячеславъ.</w>
+</rdg>
+</app></p></div></body></text></TEI>

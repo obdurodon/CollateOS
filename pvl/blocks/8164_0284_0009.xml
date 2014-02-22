@@ -1,132 +1,113 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>284, 9</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="9">
-            <p>
-               <app>
-                  <lem>
-                     <w>землю,</w>
-                     <w>и</w>
-                     <w>на</w>
-                     <w>небеси</w>
-                     <w>погрьмѣ</w>
-                     <w>въ</w>
-                     <w>часъ 1</w>
-                     <w>нощи;</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>землю <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>в</w>
-                        <w>небеси</w>
-                        <w>погремѣ</w>
-                        <w>в</w>
-                        <w>ча<hi rend="sup">с</hi>
-                        </w>
-                        <w>·а҃·</w>
-                        <w>но<lb/>щи·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>землю.</w>
-                        <w>и</w>
-                        <w>въ</w>
-                        <w>нб<hi rend="sup">с</hi>и</w>
-                        <w>погремѣ</w>
-                        <w>въ</w>
-                        <w>а҃і.</w>
-                        <w>в</w>
-                        <w>а҃ <lb/>
-                        </w>
-                        <w>ча<hi rend="sup">с</hi>
-                        </w>
-                        <w>нощи.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>землю·</w>
-                        <w>въ</w>
-                        <w>нб҃си</w>
-                        <w>погримѣ</w>
-                        <w>·а҃і·</w>
-                        <w>ча<hi rend="sup">с</hi>
-                        </w>
-                        <w>но<lb/>щи·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>землю·</w>
-                        <w>и</w>
-                        <w>на</w>
-                        <w>нбс҃и</w>
-                        <w>погре<lb/>мѣ</w>
-                        <w>в</w>
-                        <w>часъ</w>
-                        <w>·а҃·</w>
-                        <w>нощи·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>зе<hi rend="sup">м</hi>лю.</w>
-                        <w>и</w>
-                        <w>на</w>
-                        <w>нб҃сѣ</w>
-                        <w>погримѣ. <lb/>
-                        </w>
-                        <w>в</w>
-                        <w>ча<hi rend="sup">с</hi>
-                        </w>
-                        <w>.а҃.</w>
-                        <w>нощи.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>землю,</w>
-                        <w>и</w>
-                        <w>в</w>
-                        <w>небеси</w>
-                        <w>погремѣ</w>
-                        <w>в</w>
-                        <w>часъ 1</w>
-                        <w>нощи;</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>землю,</w>
-                        <w>и</w>
-                        <w>въ</w>
-                        <w>небеси</w>
-                        <w>погрьмѣ</w>
-                        <w>въ</w>
-                        <w>часъ 1</w>
-                        <w>нощи;</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>землю,</w>
-                        <w>и</w>
-                        <w>в</w>
-                        <w>небеси</w>
-                        <w>погремѣ</w>
-                        <w>в</w>
-                        <w>час 1</w>
-                        <w>нощи;</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>284, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="9"><p>
+<app>
+<lem wit="#lem">
+<w>землю,</w>
+<w>и</w>
+<w>на</w>
+<w>небеси</w>
+<w>погрьмѣ</w>
+<w>въ</w>
+<w>часъ 1</w>
+
+<w>нощи;</w>
+</lem>
+
+<rdg wit="#lav">
+<w>землю <lb/></w>
+
+<w>и</w>
+<w>в</w>
+<w>небеси</w>
+<w>погремѣ</w>
+<w>в</w>
+<w>ча<hi rend="sup">с</hi></w>
+<w>·а҃·</w>
+<w>но<lb/>щи·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>землю.</w>
+<w>и</w>
+<w>въ</w>
+<w>нб<hi rend="sup">с</hi>и</w>
+<w>погремѣ</w>
+<w>въ</w>
+<w>а҃і.</w>
+<w>в</w>
+<w>а҃ <lb/></w>
+
+<w>ча<hi rend="sup">с</hi></w>
+<w>нощи.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>землю·</w>
+<w>въ</w>
+<w>нб҃си</w>
+<w>погримѣ</w>
+<w>·а҃і·</w>
+<w>ча<hi rend="sup">с</hi></w>
+<w>но<lb/>щи·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>землю·</w>
+<w>и</w>
+<w>на</w>
+<w>нбс҃и</w>
+<w>погре<lb/>мѣ</w>
+<w>в</w>
+<w>часъ</w>
+<w>·а҃·</w>
+<w>нощи·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>зе<hi rend="sup">м</hi>лю.</w>
+<w>и</w>
+<w>на</w>
+<w>нб҃сѣ</w>
+<w>погримѣ. <lb/></w>
+
+<w>в</w>
+<w>ча<hi rend="sup">с</hi></w>
+<w>.а҃.</w>
+<w>нощи.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>землю,</w>
+<w>и</w>
+<w>в</w>
+<w>небеси</w>
+<w>погремѣ</w>
+<w>в</w>
+<w>часъ 1</w>
+
+<w>нощи;</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>землю,</w>
+<w>и</w>
+<w>въ</w>
+<w>небеси</w>
+<w>погрьмѣ</w>
+<w>въ</w>
+<w>часъ 1</w>
+
+<w>нощи;</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>землю,</w>
+<w>и</w>
+<w>в</w>
+<w>небеси</w>
+<w>погремѣ</w>
+<w>в</w>
+<w>час 1</w>
+
+<w>нощи;</w>
+</rdg>
+</app></p></div></body></text></TEI>

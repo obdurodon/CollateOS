@@ -1,132 +1,109 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>147, 12</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="12">
-            <p>
-               <app>
-                  <lem>
-                     <w>Редедю.</w>
-                     <w>И</w>
-                     <w>въшьдъ</w>
-                     <w>въ</w>
-                     <w>землю</w>
-                     <w>его,</w>
-                     <w>възя</w>
-                     <w>вьсе</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>редедю. <lb/>
-                        </w>
-                        <w>шедъ</w>
-                        <w>в</w>
-                        <w>землю</w>
-                        <w>ѥго.</w>
-                        <w>взѧ</w>
-                        <w>все</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>редедю</w>
-                        <w>И</w>
-                        <w>вш<hi rend="sup">д</hi>е</w>
-                        <w>в</w>
-                        <w>землю</w>
-                        <w>е<hi rend="sup">г</hi>.</w>
-                        <w>взѧ</w>
-                        <w>и</w>
-                        <w>все</w>
-                        <w>
-                           <pb n="84r"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>редедю:·</w>
-                        <w>И</w>
-                        <w>вше<hi rend="sup">д</hi>
-                        </w>
-                        <w>в</w>
-                        <w>землю</w>
-                        <w>его <lb/>
-                        </w>
-                        <w>взѧ</w>
-                        <w>все</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>редедѧ.</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>вьшедъ</w>
-                        <w>в</w>
-                        <w>землю</w>
-                        <w>его.</w>
-                        <w>и</w>
-                        <w>взѧ <lb/>
-                        </w>
-                        <w>все</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>редедѧ.</w>
-                        <w>и</w>
-                        <w>въше<hi rend="sup">д</hi>
-                        </w>
-                        <w>въ</w>
-                        <w>землю</w>
-                        <w>его.</w>
-                        <w>и</w>
-                        <w>взѧ</w>
-                        <w>все <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Редедю,</w>
-                        <w>и</w>
-                        <w>шедъ</w>
-                        <w>в</w>
-                        <w>землю</w>
-                        <w>его,</w>
-                        <w>взя</w>
-                        <w>все</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Редедю.</w>
-                        <w>И</w>
-                        <w>въшьдъ</w>
-                        <w>въ</w>
-                        <w>землю</w>
-                        <w>его,</w>
-                        <w>възя</w>
-                        <w>вьсе</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Редедю.</w>
-                        <w>И</w>
-                        <w>шедъ</w>
-                        <w>в</w>
-                        <w>землю</w>
-                        <w>его,</w>
-                        <w>взя</w>
-                        <w>все</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>147, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="12"><p>
+<app>
+<lem wit="#lem">
+<w>Редедю.</w>
+<w>И</w>
+<w>въшьдъ</w>
+<w>въ</w>
+<w>землю</w>
+<w>его,</w>
+<w>възя</w>
+<w>вьсе</w>
+</lem>
+
+<rdg wit="#lav">
+<w>редедю. <lb/></w>
+
+<w>шедъ</w>
+<w>в</w>
+<w>землю</w>
+<w>ѥго.</w>
+<w>взѧ</w>
+<w>все</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>редедю</w>
+<w>И</w>
+<w>вш<hi rend="sup">д</hi>е</w>
+<w>в</w>
+<w>землю</w>
+<w>е<hi rend="sup">г</hi>.</w>
+<w>взѧ</w>
+<w>и</w>
+<w>все <pb n="84r"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>редедю:·</w>
+<w>И</w>
+<w>вше<hi rend="sup">д</hi></w>
+<w>в</w>
+<w>землю</w>
+<w>его <lb/></w>
+
+<w>взѧ</w>
+<w>все</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>редедѧ.</w>
+<w>и <lb/></w>
+
+<w>вьшедъ</w>
+<w>в</w>
+<w>землю</w>
+<w>его.</w>
+<w>и</w>
+<w>взѧ <lb/></w>
+
+<w>все</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>редедѧ.</w>
+<w>и</w>
+<w>въше<hi rend="sup">д</hi></w>
+<w>въ</w>
+<w>землю</w>
+<w>его.</w>
+<w>и</w>
+<w>взѧ</w>
+<w>все <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>Редедю,</w>
+<w>и</w>
+<w>шедъ</w>
+<w>в</w>
+<w>землю</w>
+<w>его,</w>
+<w>взя</w>
+<w>все</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Редедю.</w>
+<w>И</w>
+<w>въшьдъ</w>
+<w>въ</w>
+<w>землю</w>
+<w>его,</w>
+<w>възя</w>
+<w>вьсе</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Редедю.</w>
+<w>И</w>
+<w>шедъ</w>
+<w>в</w>
+<w>землю</w>
+<w>его,</w>
+<w>взя</w>
+<w>все</w>
+</rdg>
+</app></p></div></body></text></TEI>

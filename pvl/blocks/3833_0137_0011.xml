@@ -1,112 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>137, 11</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="11">
-            <p>
-               <app>
-                  <lem>
-                     <w>Бориса,</w>
-                     <w>у</w>
-                     <w>цьркъви</w>
-                     <w>святаго</w>
-                     <w>Василия.</w>
-                     <w>Съвъкуплена</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>бориса.</w>
-                        <w>оу</w>
-                        <w>црк҃ве <lb/>
-                        </w>
-                        <w>ста<hi rend="sup">г</hi>
-                        </w>
-                        <w>василья.</w>
-                        <w>и</w>
-                        <w>съвкуплена <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>бориса.</w>
-                        <w>оу</w>
-                        <w>цр҃кве</w>
-                        <w>стго</w>
-                        <w>васильа:- <lb/>
-                        </w>
-                        <w>С<sic>ъ</sic>вокоупленая</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>борїса. <lb/>
-                        </w>
-                        <w>оу</w>
-                        <w>црк҃ви</w>
-                        <w>стг҃о</w>
-                        <w>васїлїѧ:·</w>
-                        <w>Съвокѹпленнаѧ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>бориса.</w>
-                        <w>оу</w>
-                        <w>це<lb/>рькви</w>
-                        <w>ст҃го</w>
-                        <w>василья.</w>
-                        <w>со<lb/>вокуплена</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>бориса,</w>
-                        <w>въ</w>
-                        <w>ц҃ркви</w>
-                        <w>с҃тго</w>
-                        <w>василїѧ. <lb/>
-                        </w>
-                        <w>съвокоуплена</w>
-                        <w>же</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Бориса</w>
-                        <w>у</w>
-                        <w>церкве</w>
-                        <w>святаго</w>
-                        <w>Василья.</w>
-                        <w>И</w>
-                        <w>съвкуплена</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Бориса,</w>
-                        <w>у</w>
-                        <w>цьркъве</w>
-                        <w>святаго</w>
-                        <w>Василия.</w>
-                        <w>Съвъкуплена</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Бориса</w>
-                        <w>у</w>
-                        <w>церкве</w>
-                        <w>святаго</w>
-                        <w>Василья.</w>
-                        <w>“И</w>
-                        <w>съвкуплена</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>137, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="11"><p>
+<app>
+<lem wit="#lem">
+<w>Бориса,</w>
+<w>у</w>
+<w>цьркъви</w>
+<w>святаго</w>
+<w>Василия.</w>
+<w>Съвъкуплена</w>
+</lem>
+
+<rdg wit="#lav">
+<w>бориса.</w>
+<w>оу</w>
+<w>црк҃ве <lb/></w>
+
+<w>ста<hi rend="sup">г</hi></w>
+<w>василья.</w>
+<w>и</w>
+<w>съвкуплена <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>бориса.</w>
+<w>оу</w>
+<w>цр҃кве</w>
+<w>стго</w>
+<w>васильа:- <lb/></w>
+
+<w>С<milestone unit="sic" n="start"/>ъ<milestone unit="sic" n="end"/>вокоупленая</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>борїса. <lb/></w>
+
+<w>оу</w>
+<w>црк҃ви</w>
+<w>стг҃о</w>
+<w>васїлїѧ:·</w>
+<w>Съвокѹпленнаѧ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>бориса.</w>
+<w>оу</w>
+<w>це<lb/>рькви</w>
+<w>ст҃го</w>
+<w>василья.</w>
+<w>со<lb/>вокуплена</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>бориса,</w>
+<w>въ</w>
+<w>ц҃ркви</w>
+<w>с҃тго</w>
+<w>василїѧ. <lb/></w>
+
+<w>съвокоуплена</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Бориса</w>
+<w>у</w>
+<w>церкве</w>
+<w>святаго</w>
+<w>Василья.</w>
+<w>И</w>
+<w>съвкуплена</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Бориса,</w>
+<w>у</w>
+<w>цьркъве</w>
+<w>святаго</w>
+<w>Василия.</w>
+<w>Съвъкуплена</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Бориса</w>
+<w>у</w>
+<w>церкве</w>
+<w>святаго</w>
+<w>Василья.</w>
+<w>“И</w>
+<w>съвкуплена</w>
+</rdg>
+</app></p></div></body></text></TEI>

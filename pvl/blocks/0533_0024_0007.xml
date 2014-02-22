@@ -1,84 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>24, 7</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="7">
-            <p>
-               <app>
-                  <lem>
-                     <w>по</w>
-                     <w>чьрнѣ</w>
-                     <w>кунѣ.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>по</w>
-                        <w>чернѣ</w>
-                        <w>кун<hi rend="sup">ѣ</hi>.</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>по</w>
-                        <w>чернѣ</w>
-                        <w>кунѣ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>по</w>
-                        <w>че<lb/>рнѣ</w>
-                        <w>к<sic>ѹ</sic>нѣ:- <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>по</w>
-                        <w>че<lb/>рнѣ</w>
-                        <w>кѹнѣ:·</w>
-                        <w>
-                           <sic>и победи сѣверѧны</sic>.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>по</w>
-                        <w>черь<lb/>нѣ</w>
-                        <w>кунѣ·:· <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>по</w>
-                        <w>чернѣ.</w>
-                        <w>коунѣ.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>по</w>
-                        <w>чернѣ</w>
-                        <w>кунѣ.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>по</w>
-                        <w>чьрнѣ</w>
-                        <w>кунѣ.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>по</w>
-                        <w>чернѣ</w>
-                        <w>кунѣ.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>24, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="7"><p>
+<app>
+<lem wit="#lem">
+<w>по</w>
+<w>чьрнѣ</w>
+<w>кунѣ.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>по</w>
+<w>чернѣ</w>
+<w>кун<hi rend="sup">ѣ</hi>.</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>по</w>
+<w>чернѣ</w>
+<w>кунѣ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>по</w>
+<w>че<lb/>рнѣ</w>
+<w>к<milestone unit="sic" n="start"/>ѹ<milestone unit="sic" n="end"/>нѣ:- <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>по</w>
+<w>че<lb/>рнѣ</w>
+<w>кѹнѣ:·</w>
+<w><milestone unit="sic" n="start"/>и</w>
+<w>победи</w>
+<w>сѣверѧны<milestone unit="sic" n="end"/>.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>по</w>
+<w>черь<lb/>нѣ</w>
+<w>кунѣ·:· <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>по</w>
+<w>чернѣ.</w>
+<w>коунѣ.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>по</w>
+<w>чернѣ</w>
+<w>кунѣ.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>по</w>
+<w>чьрнѣ</w>
+<w>кунѣ.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>по</w>
+<w>чернѣ</w>
+<w>кунѣ.</w>
+</rdg>
+</app></p></div></body></text></TEI>

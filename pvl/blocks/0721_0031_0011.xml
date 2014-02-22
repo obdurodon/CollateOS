@@ -1,121 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>31, 11</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="11">
-            <p>
-               <app>
-                  <lem>
-                     <w>елико</w>
-                     <w>хотящи;</w>
-                     <w>а</w>
-                     <w>иже</w>
-                     <w>придутъ</w>
-                     <w>гостие,</w>
-                     <w>да</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#tro">
-                        <w>елико</w>
-                        <w>хотяче</w>
-                        <w>а</w>
-                        <w>иже</w>
-                        <w>придуть</w>
-                        <w>гостеве</w>
-                        <w>да</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>елико</w>
-                        <w>хотѧчи <lb/>
-                        </w>
-                        <w>а</w>
-                        <w>и<hi rend="sup">ж</hi>
-                        </w>
-                        <w>при<hi rend="sup">х</hi>дѧ<hi rend="sup">ч</hi>
-                        </w>
-                        <w>гости</w>
-                        <w>егда</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ели<lb/>ко</w>
-                        <w>хотѧче.</w>
-                        <w>а</w>
-                        <w>иже</w>
-                        <w>приходѧче</w>
-                        <w>гости</w>
-                        <w>да</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>елико</w>
-                        <w>хотѧ<hi rend="sup">т</hi>.</w>
-                        <w>а</w>
-                        <w>иже</w>
-                        <w>придуть <lb/>
-                        </w>
-                        <w>гостье</w>
-                        <w>да</w>
-                        <w>
-                           <pb n="12c"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>елико</w>
-                        <w>хотѧше.</w>
-                        <w>а</w>
-                        <w>иже</w>
-                        <w>прїидоу<hi rend="sup">т</hi> 
-                           <lb/>
-                        </w>
-                        <w>гостїе.</w>
-                        <w>да</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>елико</w>
-                        <w>хотячи,</w>
-                        <w>а</w>
-                        <w>иже</w>
-                        <w>придутъ</w>
-                        <w>гости,</w>
-                        <w>да</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>елико</w>
-                        <w>хотящи;</w>
-                        <w>а</w>
-                        <w>иже</w>
-                        <w>приходяще</w>
-                        <w>гостие,</w>
-                        <w>да</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>елико</w>
-                        <w>хотячи,</w>
-                        <w>а</w>
-                        <w>иже</w>
-                        <w>придутъ</w>
-                        <w>гости</w>
-                        <w>да</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>31, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="11"><p>
+<app>
+<lem wit="#lem">
+<w>елико</w>
+<w>хотящи;</w>
+<w>а</w>
+<w>иже</w>
+<w>придутъ</w>
+<w>гостие,</w>
+<w>да</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#tro">
+<w>елико</w>
+<w>хотяче</w>
+<w>а</w>
+<w>иже</w>
+<w>придуть</w>
+<w>гостеве</w>
+<w>да</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>елико</w>
+<w>хотѧчи <lb/></w>
+
+<w>а</w>
+<w>и<hi rend="sup">ж</hi></w>
+<w>при<hi rend="sup">х</hi>дѧ<hi rend="sup">ч</hi></w>
+<w>гости</w>
+<w>егда</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ели<lb/>ко</w>
+<w>хотѧче.</w>
+<w>а</w>
+<w>иже</w>
+<w>приходѧче</w>
+<w>гости</w>
+<w>да</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>елико</w>
+<w>хотѧ<hi rend="sup">т</hi>.</w>
+<w>а</w>
+<w>иже</w>
+<w>придуть <lb/></w>
+
+<w>гостье</w>
+<w>да <pb n="12c"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>елико</w>
+<w>хотѧше.</w>
+<w>а</w>
+<w>иже</w>
+<w>прїидоу<hi rend="sup">т</hi><lb/></w>
+<w>гостїе.</w>
+<w>да</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>елико</w>
+<w>хотячи,</w>
+<w>а</w>
+<w>иже</w>
+<w>придутъ</w>
+<w>гости,</w>
+<w>да</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>елико</w>
+<w>хотящи;</w>
+<w>а</w>
+<w>иже</w>
+<w>приходяще</w>
+<w>гостие,</w>
+<w>да</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>елико</w>
+<w>хотячи,</w>
+<w>а</w>
+<w>иже</w>
+<w>придутъ</w>
+<w>гости</w>
+<w>да</w>
+</rdg>
+</app></p></div></body></text></TEI>

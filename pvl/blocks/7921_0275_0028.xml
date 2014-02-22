@@ -1,102 +1,79 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>275, 28</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="28">
-            <p>
-               <app>
-                  <lem>
-                     <w>Володимири:</w>
-                     <w>“Се</w>
-                     <w>присъла</w>
-                     <w>Володимиръ</w>
-                     <w>сына</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>володимери·</w>
-                        <w>се <lb/>
-                        </w>
-                        <w>прислалъ</w>
-                        <w>володимеръ</w>
-                        <w>сн҃а <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>водимири·</w>
-                        <w>се</w>
-                        <w>прислалъ</w>
-                        <w>воло<hi rend="sup">д</hi>меръ <lb/>
-                        </w>
-                        <w>сн҃а</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>володимири·</w>
-                        <w>се·̏ <lb/>
-                        </w>
-                        <w>прислалъ</w>
-                        <w>володимиръ</w>
-                        <w>сн҃а</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>володиме<lb/>ри·</w>
-                        <w>се</w>
-                        <w>присла</w>
-                        <w>володимеръ·</w>
-                        <w>сна҃</w>
-                        <w>
-                           <pb n="95a"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>в<sic>о</sic>л<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>мери.</w>
-                        <w>се</w>
-                        <w>присла</w>
-                        <w>въл<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi> 
-                           <lb/>
-                        </w>
-                        <w>сн҃а</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Володимери:</w>
-                        <w>“се</w>
-                        <w>прислалъ</w>
-                        <w>Володимеръ</w>
-                        <w>сына</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Володимери:</w>
-                        <w>“се,</w>
-                        <w>присълалъ</w>
-                        <w>Володимеръ</w>
-                        <w>сына</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Володимери:</w>
-                        <w>“Се</w>
-                        <w>прислалъ</w>
-                        <w>Володимеръ</w>
-                        <w>сына</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>275, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="28"><p>
+<app>
+<lem wit="#lem">
+<w>Володимири:</w>
+<w>“Се</w>
+<w>присъла</w>
+<w>Володимиръ</w>
+<w>сына</w>
+</lem>
+
+<rdg wit="#lav">
+<w>володимери·</w>
+<w>се <lb/></w>
+
+<w>прислалъ</w>
+<w>володимеръ</w>
+<w>сн҃а <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>водимири·</w>
+<w>се</w>
+<w>прислалъ</w>
+<w>воло<hi rend="sup">д</hi>меръ <lb/></w>
+
+<w>сн҃а</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>володимири·</w>
+<w>се·̏ <lb/></w>
+
+<w>прислалъ</w>
+<w>володимиръ</w>
+<w>сн҃а</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>володиме<lb/>ри·</w>
+<w>се</w>
+<w>присла</w>
+<w>володимеръ·</w>
+<w>сна҃ <pb n="95a"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>в<milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/>л<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>мери.</w>
+<w>се</w>
+<w>присла</w>
+<w>въл<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi><lb/>меръ</w>
+<w>сн҃а</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Володимери:</w>
+<w>“се</w>
+<w>прислалъ</w>
+<w>Володимеръ</w>
+<w>сына</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Володимери:</w>
+<w>“се,</w>
+<w>присълалъ</w>
+<w>Володимеръ</w>
+<w>сына</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Володимери:</w>
+<w>“Се</w>
+<w>прислалъ</w>
+<w>Володимеръ</w>
+<w>сына</w>
+</rdg>
+</app></p></div></body></text></TEI>

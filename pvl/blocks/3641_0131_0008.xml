@@ -1,105 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>131, 8</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="8">
-            <p>
-               <app>
-                  <lem>
-                     <w>противу</w>
-                     <w>оного</w>
-                     <w>възданию.</w>
-                     <w>Аще</w>
-                     <w>бы</w>
-                     <w>онъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>противу</w>
-                        <w>ѡного</w>
-                        <w>възд<hi rend="sup">а</hi> 
-                           <lb/>
-                        </w>
-                        <w>аще</w>
-                        <w>бо</w>
-                        <w>ѡнъ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>противоу</w>
-                        <w>ѡного</w>
-                        <w>възданию.</w>
-                        <w>аще</w>
-                        <w>бы</w>
-                        <w>ѡнъ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>противѹ</w>
-                        <w>ѡного</w>
-                        <w>возданїю.</w>
-                        <w>аще</w>
-                        <w>бы</w>
-                        <w>ѡнъ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>про<lb/>тиву</w>
-                        <w>ѡного</w>
-                        <w>възданью.</w>
-                        <w>аще <lb/>
-                        </w>
-                        <w>бы</w>
-                        <w>ѡнъ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>про<lb/>тивоу</w>
-                        <w>ѡного</w>
-                        <w>възданїа.</w>
-                        <w>аще</w>
-                        <w>бы</w>
-                        <w>онь</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>противу</w>
-                        <w>оного</w>
-                        <w>възданью.</w>
-                        <w>Аще</w>
-                        <w>бо</w>
-                        <w>онъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>противу</w>
-                        <w>оного</w>
-                        <w>възданию.</w>
-                        <w>Аще</w>
-                        <w>бо</w>
-                        <w>онъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>противу</w>
-                        <w>оного</w>
-                        <w>възданью.</w>
-                        <w>Аще</w>
-                        <w>бо</w>
-                        <w>онъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>131, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="8"><p>
+<app>
+<lem wit="#lem">
+<w>противу</w>
+<w>оного</w>
+<w>възданию.</w>
+<w>Аще</w>
+<w>бы</w>
+<w>онъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>противу</w>
+<w>ѡного</w>
+<w>възд<hi rend="sup">а</hi><lb/>нью.</w>
+<w>аще</w>
+<w>бо</w>
+<w>ѡнъ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>противоу</w>
+<w>ѡного</w>
+<w>възданию.</w>
+<w>аще</w>
+<w>бы</w>
+<w>ѡнъ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>противѹ</w>
+<w>ѡного</w>
+<w>возданїю.</w>
+<w>аще</w>
+<w>бы</w>
+<w>ѡнъ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>про<lb/>тиву</w>
+<w>ѡного</w>
+<w>възданью.</w>
+<w>аще <lb/></w>
+
+<w>бы</w>
+<w>ѡнъ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>про<lb/>тивоу</w>
+<w>ѡного</w>
+<w>възданїа.</w>
+<w>аще</w>
+<w>бы</w>
+<w>онь</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>противу</w>
+<w>оного</w>
+<w>възданью.</w>
+<w>Аще</w>
+<w>бо</w>
+<w>онъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>противу</w>
+<w>оного</w>
+<w>възданию.</w>
+<w>Аще</w>
+<w>бо</w>
+<w>онъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>противу</w>
+<w>оного</w>
+<w>възданью.</w>
+<w>Аще</w>
+<w>бо</w>
+<w>онъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

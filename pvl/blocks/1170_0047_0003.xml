@@ -1,103 +1,80 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>47, 3</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="3">
-            <p>
-               <app>
-                  <lem>
-                     <w>Етоновъ;</w>
-                     <w>Сфирка;</w>
-                     <w>Алвадъ</w>
-                     <w>Гудовъ;</w>
-                     <w>Фудри</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>
-                           <sic>етоновъ.</sic>
-                        </w>
-                        <w>сфирка.</w>
-                        <w>алвадъ</w>
-                        <w>гудовъ.</w>
-                        <w>фудри</w>
-                        <w>
-                           <pb n="11v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>етоновъ.</w>
-                        <w>сфирка.</w>
-                        <w>алва<hi rend="sup">д</hi>. <lb/>
-                        </w>
-                        <w>гоудовъ.</w>
-                        <w>фроуди</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>етоновь. <lb/>
-                        </w>
-                        <w>сфирка.</w>
-                        <w>алва<hi rend="sup">д</hi>.</w>
-                        <w>гѹдовъ.</w>
-                        <w>фрѹди</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>етоновъ. <lb/>
-                        </w>
-                        <w>сфирка.</w>
-                        <w>алвадъ</w>
-                        <w>гудовъ. <lb/>
-                        </w>
-                        <w>фудри</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>етоновь.</w>
-                        <w>сфирка</w>
-                        <w>алвадь <lb/>
-                        </w>
-                        <w>гоудовь.</w>
-                        <w>фоудри</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Етоновъ;</w>
-                        <w>Сфирка...;</w>
-                        <w>Алвадъ</w>
-                        <w>Гудовъ;</w>
-                        <w>Фудри</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Етоновъ;</w>
-                        <w>Сфирка...;</w>
-                        <w>Алвадъ</w>
-                        <w>Гудовъ;</w>
-                        <w>Фруди</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Етоновъ;</w>
-                        <w>Сфирка...;</w>
-                        <w>Алвадъ</w>
-                        <w>Гудовъ;</w>
-                        <w>Фудри</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>47, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="3"><p>
+<app>
+<lem wit="#lem">
+<w>Етоновъ;</w>
+<w>Сфирка;</w>
+<w>Алвадъ</w>
+<w>Гудовъ;</w>
+<w>Фудри</w>
+</lem>
+
+<rdg wit="#lav">
+<w><milestone unit="sic" n="start"/>етоновъ.<milestone unit="sic" n="end"/></w>
+<w>сфирка.</w>
+<w>алвадъ</w>
+<w>гудовъ.</w>
+<w>фудри <pb n="11v"/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>етоновъ.</w>
+<w>сфирка.</w>
+<w>алва<hi rend="sup">д</hi>. <lb/></w>
+
+<w>гоудовъ.</w>
+<w>фроуди</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>етоновь. <lb/></w>
+
+<w>сфирка.</w>
+<w>алва<hi rend="sup">д</hi>.</w>
+<w>гѹдовъ.</w>
+<w>фрѹди</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>етоновъ. <lb/></w>
+
+<w>сфирка.</w>
+<w>алвадъ</w>
+<w>гудовъ. <lb/></w>
+
+<w>фудри</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>етоновь.</w>
+<w>сфирка</w>
+<w>алвадь <lb/></w>
+
+<w>гоудовь.</w>
+<w>фоудри</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Етоновъ;</w>
+<w>Сфирка...;</w>
+<w>Алвадъ</w>
+<w>Гудовъ;</w>
+<w>Фудри</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Етоновъ;</w>
+<w>Сфирка...;</w>
+<w>Алвадъ</w>
+<w>Гудовъ;</w>
+<w>Фруди</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Етоновъ;</w>
+<w>Сфирка...;</w>
+<w>Алвадъ</w>
+<w>Гудовъ;</w>
+<w>Фудри</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,121 +1,101 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>26, 10</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="10">
-            <p>
-               <app>
-                  <lem>
-                     <w>святыя</w>
-                     <w>кънигы;</w>
-                     <w>не</w>
-                     <w>разумѣемъ</w>
-                     <w>бо</w>
-                     <w>ни</w>
-                     <w>Грьчьску</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>с҃тыя</w>
-                        <w>книги.</w>
-                        <w>не</w>
-                        <w>разумѣемъ</w>
-                        <w>ни</w>
-                        <w>гречьску</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>святыя</w>
-                        <w>книги</w>
-                        <w>не</w>
-                        <w>разумѣемъ</w>
-                        <w>бо</w>
-                        <w>ни</w>
-                        <w>гречьску</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>с҃тыя <lb/>
-                        </w>
-                        <w>книгы.</w>
-                        <w>не</w>
-                        <w>разоумѣемъ</w>
-                        <w>ни</w>
-                        <w>греческѹ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>с҃тыи</w>
-                        <w>кнїги.</w>
-                        <w>не</w>
-                        <w>разоумѣ<lb/>емь</w>
-                        <w>ни</w>
-                        <w>греческомѹ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>с҃тыя</w>
-                        <w>книгы.</w>
-                        <w>не</w>
-                        <w>разу<lb/>мѣемъ</w>
-                        <w>бо</w>
-                        <w>ни</w>
-                        <w>грѣчьком<hi rend="sup">у</hi> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>с҃тыа</w>
-                        <w>книгы.</w>
-                        <w>не</w>
-                        <w>разоумѣ<hi rend="sup">м</hi>е</w>
-                        <w>бо</w>
-                        <w>ни</w>
-                        <w>грецкомѹ <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>святыя</w>
-                        <w>книги;</w>
-                        <w>не</w>
-                        <w>разумѣемъ</w>
-                        <w>бо</w>
-                        <w>ни</w>
-                        <w>Гречьску</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>святыя</w>
-                        <w>кънигы;</w>
-                        <w>не</w>
-                        <w>разумѣемъ</w>
-                        <w>бо</w>
-                        <w>ни</w>
-                        <w>Грьчьску</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>святыя</w>
-                        <w>книги.</w>
-                        <w>Не</w>
-                        <w>разумѣемъ</w>
-                        <w>бо</w>
-                        <w>ни</w>
-                        <w>гречьску</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>26, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="10"><p>
+<app>
+<lem wit="#lem">
+<w>святыя</w>
+<w>кънигы;</w>
+<w>не</w>
+<w>разумѣемъ</w>
+<w>бо</w>
+<w>ни</w>
+<w>Грьчьску</w>
+</lem>
+
+<rdg wit="#lav">
+<w>с҃тыя</w>
+<w>книги.</w>
+<w>не</w>
+<w>разумѣемъ</w>
+<w>ни</w>
+<w>гречьску</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>святыя</w>
+<w>книги</w>
+<w>не</w>
+<w>разумѣемъ</w>
+<w>бо</w>
+<w>ни</w>
+<w>гречьску</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>с҃тыя <lb/></w>
+
+<w>книгы.</w>
+<w>не</w>
+<w>разоумѣемъ</w>
+<w>ни</w>
+<w>греческѹ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>с҃тыи</w>
+<w>кнїги.</w>
+<w>не</w>
+<w>разоумѣ<lb/>емь</w>
+<w>ни</w>
+<w>греческомѹ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>с҃тыя</w>
+<w>книгы.</w>
+<w>не</w>
+<w>разу<lb/>мѣемъ</w>
+<w>бо</w>
+<w>ни</w>
+<w>грѣчьком<hi rend="sup">у</hi><lb/></w>
+</rdg>
+
+<rdg wit="#xle">
+<w>с҃тыа</w>
+<w>книгы.</w>
+<w>не</w>
+<w>разоумѣ<hi rend="sup">м</hi>е</w>
+<w>бо</w>
+<w>ни</w>
+<w>грецкомѹ <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>святыя</w>
+<w>книги;</w>
+<w>не</w>
+<w>разумѣемъ</w>
+<w>бо</w>
+<w>ни</w>
+<w>Гречьску</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>святыя</w>
+<w>кънигы;</w>
+<w>не</w>
+<w>разумѣемъ</w>
+<w>бо</w>
+<w>ни</w>
+<w>Грьчьску</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>святыя</w>
+<w>книги.</w>
+<w>Не</w>
+<w>разумѣемъ</w>
+<w>бо</w>
+<w>ни</w>
+<w>гречьску</w>
+</rdg>
+</app></p></div></body></text></TEI>

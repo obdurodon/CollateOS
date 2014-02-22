@@ -1,123 +1,105 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>50, 19</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="19">
-            <p>
-               <app>
-                  <lem>
-                     <w>ли</w>
-                     <w>есть</w>
-                     <w>средовѣчь,</w>
-                     <w>да</w>
-                     <w>въдасть</w>
-                     <w>златьникъ 8,</w>
-                     <w>и</w>
-                     <w>поиметь</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>.<sic>и҃</sic>.</w>
-                        <w>и</w>
-                        <w>поимуть</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ли</w>
-                        <w>е<hi rend="sup">с</hi>
-                        </w>
-                        <w>средови<hi rend="sup">ч</hi>.</w>
-                        <w>да</w>
-                        <w>вдасть</w>
-                        <w>золотникъ</w>
-                        <w>.и҃. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>поиметь</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ли</w>
-                        <w>есть</w>
-                        <w>средовѣчь.</w>
-                        <w>да</w>
-                        <w>вдасть</w>
-                        <w>золо<lb/>тникь</w>
-                        <w>.и҃.</w>
-                        <w>и</w>
-                        <w>поиметь</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ли</w>
-                        <w>есть</w>
-                        <w>сре<lb/>довѣ<sic>ч</sic>ь.</w>
-                        <w>да</w>
-                        <w>вдасть</w>
-                        <w>золо<lb/>тникъ</w>
-                        <w>.и҃.</w>
-                        <w>и</w>
-                        <w>поиметь</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ли</w>
-                        <w>е<hi rend="sup">с</hi>
-                        </w>
-                        <w>средов<sic>и</sic>чь.</w>
-                        <w>да</w>
-                        <w>вдасть</w>
-                        <w>золотникь</w>
-                        <w>.и҃.</w>
-                        <w>и</w>
-                        <w>пои<lb/>ме<hi rend="sup">т</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>ли</w>
-                        <w>есть</w>
-                        <w>средовѣчь,</w>
-                        <w>да</w>
-                        <w>вдасть</w>
-                        <w>золотникъ 8</w>
-                        <w>и</w>
-                        <w>поимуть</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>ли</w>
-                        <w>есть</w>
-                        <w>средовѣчь,</w>
-                        <w>да</w>
-                        <w>въдасть</w>
-                        <w>златьникъ 8,</w>
-                        <w>и</w>
-                        <w>поиметь</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>ли</w>
-                        <w>есть</w>
-                        <w>средовѣчь,</w>
-                        <w>да</w>
-                        <w>вдасть</w>
-                        <w>золотникъ 8</w>
-                        <w>и</w>
-                        <w>поимуть</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>50, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="19"><p>
+<app>
+<lem wit="#lem">
+<w>ли</w>
+<w>есть</w>
+<w>средовѣчь,</w>
+<w>да</w>
+<w>въдасть</w>
+<w>златьникъ 8,</w>
+
+<w>и</w>
+<w>поиметь</w>
+</lem>
+
+<rdg wit="#lav">
+<w>.<milestone unit="sic" n="start"/>и҃<milestone unit="sic" n="end"/>.</w>
+<w>и</w>
+<w>поимуть</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ли</w>
+<w>е<hi rend="sup">с</hi></w>
+<w>средови<hi rend="sup">ч</hi>.</w>
+<w>да</w>
+<w>вдасть</w>
+<w>золотникъ</w>
+<w>.и҃. <lb/></w>
+
+<w>и</w>
+<w>поиметь</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ли</w>
+<w>есть</w>
+<w>средовѣчь.</w>
+<w>да</w>
+<w>вдасть</w>
+<w>золо<lb/>тникь</w>
+<w>.и҃.</w>
+<w>и</w>
+<w>поиметь</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ли</w>
+<w>есть</w>
+<w>сре<lb/>довѣ<milestone unit="sic" n="start"/>ч<milestone unit="sic" n="end"/>ь.</w>
+<w>да</w>
+<w>вдасть</w>
+<w>золо<lb/>тникъ</w>
+<w>.и҃.</w>
+<w>и</w>
+<w>поиметь</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ли</w>
+<w>е<hi rend="sup">с</hi></w>
+<w>средов<milestone unit="sic" n="start"/>и<milestone unit="sic" n="end"/>чь.</w>
+<w>да</w>
+<w>вдасть</w>
+<w>золотникь</w>
+<w>.и҃.</w>
+<w>и</w>
+<w>пои<lb/>ме<hi rend="sup">т</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>ли</w>
+<w>есть</w>
+<w>средовѣчь,</w>
+<w>да</w>
+<w>вдасть</w>
+<w>золотникъ 8</w>
+
+<w>и</w>
+<w>поимуть</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>ли</w>
+<w>есть</w>
+<w>средовѣчь,</w>
+<w>да</w>
+<w>въдасть</w>
+<w>златьникъ 8,</w>
+
+<w>и</w>
+<w>поиметь</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>ли</w>
+<w>есть</w>
+<w>средовѣчь,</w>
+<w>да</w>
+<w>вдасть</w>
+<w>золотникъ 8</w>
+
+<w>и</w>
+<w>поимуть</w>
+</rdg>
+</app></p></div></body></text></TEI>

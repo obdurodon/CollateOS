@@ -1,114 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>228, 12</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="12">
-            <p>
-               <app>
-                  <lem>
-                     <w>животъ</w>
-                     <w>свои</w>
-                     <w>Итларь,</w>
-                     <w>въ</w>
-                     <w>недѣлю</w>
-                     <w>сыропустьную,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>животъ</w>
-                        <w>свои</w>
-                        <w>итларь·:· <lb/>
-                        </w>
-                        <w>В</w>
-                        <w>не<hi rend="sup">д</hi>лю·</w>
-                        <w>сыропу<hi rend="sup">с</hi>ную·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>животъ</w>
-                        <w>свои·</w>
-                        <w>итларь·</w>
-                        <w>в</w>
-                        <w>не<hi rend="sup">д</hi>·</w>
-                        <w>сыропоу<hi rend="sup">с</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>животъ</w>
-                        <w>свои</w>
-                        <w>итларь· <lb/>
-                        </w>
-                        <w>в</w>
-                        <w>не<hi rend="sup">д</hi>
-                        </w>
-                        <w>сы·̏ропѹстнѹю·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>жи<lb/>вотъ</w>
-                        <w>свои·</w>
-                        <w>итларь</w>
-                        <w>со</w>
-                        <w>дружи<lb/>ною</w>
-                        <w>своею·</w>
-                        <w>в</w>
-                        <w>недѣлю</w>
-                        <w>сыро<lb/>пустную·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>живо<hi rend="sup">т</hi>
-                        </w>
-                        <w>свои,</w>
-                        <w>итларь</w>
-                        <w>съ</w>
-                        <w>дроужиною</w>
-                        <w>своею.</w>
-                        <w>в</w>
-                        <w>неделю <lb/>
-                        </w>
-                        <w>сыропоу<hi rend="sup">с</hi>ноую.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>животъ</w>
-                        <w>свой</w>
-                        <w>Итларь,</w>
-                        <w>в</w>
-                        <w>недѣлю</w>
-                        <w>сыропустную,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>животъ</w>
-                        <w>свои</w>
-                        <w>Итларь,</w>
-                        <w>въ</w>
-                        <w>недѣлю</w>
-                        <w>сыропустьную,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>животъ</w>
-                        <w>свой</w>
-                        <w>Итларь,</w>
-                        <w>в</w>
-                        <w>недѣлю</w>
-                        <w>сыропустную,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>228, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="12"><p>
+<app>
+<lem wit="#lem">
+<w>животъ</w>
+<w>свои</w>
+<w>Итларь,</w>
+<w>въ</w>
+<w>недѣлю</w>
+<w>сыропустьную,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>животъ</w>
+<w>свои</w>
+<w>итларь·:· <lb/></w>
+
+<w>В</w>
+<w>не<hi rend="sup">д</hi>лю·</w>
+<w>сыропу<hi rend="sup">с</hi>ную·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>животъ</w>
+<w>свои·</w>
+<w>итларь·</w>
+<w>в</w>
+<w>не<hi rend="sup">д</hi>·</w>
+<w>сыропоу<hi rend="sup">с</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>животъ</w>
+<w>свои</w>
+<w>итларь· <lb/></w>
+
+<w>в</w>
+<w>не<hi rend="sup">д</hi></w>
+<w>сы·̏ропѹстнѹю·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>жи<lb/>вотъ</w>
+<w>свои·</w>
+<w>итларь</w>
+<w>со</w>
+<w>дружи<lb/>ною</w>
+<w>своею·</w>
+<w>в</w>
+<w>недѣлю</w>
+<w>сыро<lb/>пустную·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>живо<hi rend="sup">т</hi></w>
+<w>свои,</w>
+<w>итларь</w>
+<w>съ</w>
+<w>дроужиною</w>
+<w>своею.</w>
+<w>в</w>
+<w>неделю <lb/></w>
+
+<w>сыропоу<hi rend="sup">с</hi>ноую.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>животъ</w>
+<w>свой</w>
+<w>Итларь,</w>
+<w>в</w>
+<w>недѣлю</w>
+<w>сыропустную,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>животъ</w>
+<w>свои</w>
+<w>Итларь,</w>
+<w>въ</w>
+<w>недѣлю</w>
+<w>сыропустьную,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>животъ</w>
+<w>свой</w>
+<w>Итларь,</w>
+<w>в</w>
+<w>недѣлю</w>
+<w>сыропустную,</w>
+</rdg>
+</app></p></div></body></text></TEI>

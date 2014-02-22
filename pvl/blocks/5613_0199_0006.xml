@@ -1,119 +1,95 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>199, 6</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="6">
-            <p>
-               <app>
-                  <lem>
-                     <w>Въ</w>
-                     <w>лѣто 6584.</w>
-                     <w>Ходи</w>
-                     <w>Володимиръ,</w>
-                     <w>сынъ</w>
-                     <w>Вьсеволожь,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>В</w>
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>.҂ѕ҃.ф҃.п҃д.</w>
-                        <w>Ходи</w>
-                        <w>володи<lb/>меръ</w>
-                        <w>сн҃ъ</w>
-                        <w>всеволожь.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>҂ѕ҃.ф҃.п҃д</w>
-                        <w>оиди</w>
-                        <w>володимеръ.</w>
-                        <w>сн҃ъ</w>
-                        <w>всеволо<hi rend="sup">ж</hi>.</w>
-                        <w>
-                           <pb n="115r"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>В</w>
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>.҂ѕ҃.ф҃</w>
-                        <w>п҃д.</w>
-                        <w>г<hi rend="sup">д</hi>о<hi rend="sup">и</hi>
-                        </w>
-                        <w>володимиръ</w>
-                        <w>сн҃ъ. <lb/>
-                        </w>
-                        <w>всеволожь.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>В</w>
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>.҂ѕ҃.ф҃.п҃д.</w>
-                        <w>Ходи</w>
-                        <w>володи<lb/>меръ</w>
-                        <w>сн҃ъ</w>
-                        <w>всеволожь.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>В</w>
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>.҂ѕ҃.ф҃.п҃д.</w>
-                        <w>х<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>
-                        </w>
-                        <w>вълодимер, <lb/>
-                        </w>
-                        <w>сн҃ъ</w>
-                        <w>всеволо<hi rend="sup">ж</hi>.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>В</w>
-                        <w>лѣто 6584.</w>
-                        <w>Ходи</w>
-                        <w>Володимеръ,</w>
-                        <w>сынъ</w>
-                        <w>Всеволожь,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Въ</w>
-                        <w>лѣто 6584.</w>
-                        <w>Ходи</w>
-                        <w>Володимеръ,</w>
-                        <w>сынъ</w>
-                        <w>Вьсеволожь,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>В</w>
-                        <w>лѣто 6584.</w>
-                        <w>Ходи</w>
-                        <w>Володимеръ,</w>
-                        <w>сынъ</w>
-                        <w>Всеволожь,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>199, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="6"><p>
+<app>
+<lem wit="#lem">
+<w>Въ</w>
+<w>лѣто 6584.</w>
+
+<w>Ходи</w>
+<w>Володимиръ,</w>
+<w>сынъ</w>
+<w>Вьсеволожь,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>В</w>
+<w>лѣ<hi rend="sup">т</hi></w>
+<w>.҂ѕ҃.ф҃.п҃д.</w>
+<w>Ходи</w>
+<w>володи<lb/>меръ</w>
+<w>сн҃ъ</w>
+<w>всеволожь.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>лѣ<hi rend="sup">т</hi></w>
+<w>҂ѕ҃.ф҃.п҃д</w>
+<w>оиди</w>
+<w>володимеръ.</w>
+<w>сн҃ъ</w>
+<w>всеволо<hi rend="sup">ж</hi>. <pb n="115r"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>В</w>
+<w>лѣ<hi rend="sup">т</hi></w>
+<w>.҂ѕ҃.ф҃</w>
+<w>п҃д.</w>
+<w>г<hi rend="sup">д</hi>о<hi rend="sup">и</hi></w>
+<w>володимиръ</w>
+<w>сн҃ъ. <lb/></w>
+
+<w>всеволожь.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>В</w>
+<w>лѣ<hi rend="sup">т</hi></w>
+<w>.҂ѕ҃.ф҃.п҃д.</w>
+<w>Ходи</w>
+<w>володи<lb/>меръ</w>
+<w>сн҃ъ</w>
+<w>всеволожь.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>В</w>
+<w>лѣ<hi rend="sup">т</hi></w>
+<w>.҂ѕ҃.ф҃.п҃д.</w>
+<w>х<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi></w>
+<w>вълодимер, <lb/></w>
+
+<w>сн҃ъ</w>
+<w>всеволо<hi rend="sup">ж</hi>.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>В</w>
+<w>лѣто 6584.</w>
+
+<w>Ходи</w>
+<w>Володимеръ,</w>
+<w>сынъ</w>
+<w>Всеволожь,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Въ</w>
+<w>лѣто 6584.</w>
+
+<w>Ходи</w>
+<w>Володимеръ,</w>
+<w>сынъ</w>
+<w>Вьсеволожь,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>В</w>
+<w>лѣто 6584.</w>
+
+<w>Ходи</w>
+<w>Володимеръ,</w>
+<w>сынъ</w>
+<w>Всеволожь,</w>
+</rdg>
+</app></p></div></body></text></TEI>

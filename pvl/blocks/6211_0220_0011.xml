@@ -1,108 +1,85 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>220, 11</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="11">
-            <p>
-               <app>
-                  <lem>
-                     <w>побѣгоша</w>
-                     <w>людие,</w>
-                     <w>не</w>
-                     <w>тьрпяще</w>
-                     <w>ратьныхъ</w>
-                     <w>противления</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>побѣгоша</w>
-                        <w>людьѥ</w>
-                        <w>не <lb/>
-                        </w>
-                        <w>стерпѧче</w>
-                        <w>ратны<hi rend="sup">х</hi>
-                        </w>
-                        <w>противлень<lb/>я·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>побегоша <lb/>
-                        </w>
-                        <w>лю<hi rend="sup">д</hi>е.</w>
-                        <w>не</w>
-                        <w>терпѧще</w>
-                        <w>ратны<hi rend="sup">х</hi>
-                        </w>
-                        <w>противления·</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>по<lb/>бегоша</w>
-                        <w>людие</w>
-                        <w>не</w>
-                        <w>терпѧще</w>
-                        <w>ратны<hi rend="sup">х</hi>
-                        </w>
-                        <w>противле<lb/>нїѧ·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>побѣ<lb/>гоша</w>
-                        <w>людье·</w>
-                        <w>не</w>
-                        <w>терпѧще</w>
-                        <w>ра<lb/>тныхъ</w>
-                        <w>противленья·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>побѣгоша</w>
-                        <w>л<hi rend="sup">д</hi>ю<hi rend="sup">и</hi>е.</w>
-                        <w>не</w>
-                        <w>тръпѧще</w>
-                        <w>ратны<hi rend="sup">х</hi>
-                        </w>
-                        <w>проти<lb/>вленїа.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>побѣгоша</w>
-                        <w>людье,</w>
-                        <w>не</w>
-                        <w>стерпяче</w>
-                        <w>ратныхъ</w>
-                        <w>противленья</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>побѣгоша</w>
-                        <w>людие,</w>
-                        <w>не</w>
-                        <w>тьрпяще</w>
-                        <w>ратьныхъ</w>
-                        <w>противления,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>побѣгоша</w>
-                        <w>людье,</w>
-                        <w>не</w>
-                        <w>стерпяче</w>
-                        <w>ратных</w>
-                        <w>противленья</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>220, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="11"><p>
+<app>
+<lem wit="#lem">
+<w>побѣгоша</w>
+<w>людие,</w>
+<w>не</w>
+<w>тьрпяще</w>
+<w>ратьныхъ</w>
+<w>противления</w>
+</lem>
+
+<rdg wit="#lav">
+<w>побѣгоша</w>
+<w>людьѥ</w>
+<w>не <lb/></w>
+
+<w>стерпѧче</w>
+<w>ратны<hi rend="sup">х</hi></w>
+<w>противлень<lb/>я·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>побегоша <lb/></w>
+
+<w>лю<hi rend="sup">д</hi>е.</w>
+<w>не</w>
+<w>терпѧще</w>
+<w>ратны<hi rend="sup">х</hi></w>
+<w>противления·</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>по<lb/>бегоша</w>
+<w>людие</w>
+<w>не</w>
+<w>терпѧще</w>
+<w>ратны<hi rend="sup">х</hi></w>
+<w>противле<lb/>нїѧ·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>побѣ<lb/>гоша</w>
+<w>людье·</w>
+<w>не</w>
+<w>терпѧще</w>
+<w>ра<lb/>тныхъ</w>
+<w>противленья·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>побѣгоша</w>
+<w>л<hi rend="sup">д</hi>ю<hi rend="sup">и</hi>е.</w>
+<w>не</w>
+<w>тръпѧще</w>
+<w>ратны<hi rend="sup">х</hi></w>
+<w>проти<lb/>вленїа.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>побѣгоша</w>
+<w>людье,</w>
+<w>не</w>
+<w>стерпяче</w>
+<w>ратныхъ</w>
+<w>противленья</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>побѣгоша</w>
+<w>людие,</w>
+<w>не</w>
+<w>тьрпяще</w>
+<w>ратьныхъ</w>
+<w>противления,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>побѣгоша</w>
+<w>людье,</w>
+<w>не</w>
+<w>стерпяче</w>
+<w>ратных</w>
+<w>противленья</w>
+</rdg>
+</app></p></div></body></text></TEI>

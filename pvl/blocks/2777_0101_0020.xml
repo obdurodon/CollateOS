@@ -1,145 +1,124 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>101, 20</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="20">
-            <p>
-               <app>
-                  <lem>
-                     <w>съмьртьную,</w>
-                     <w>свѣтъ</w>
-                     <w>въсияеть</w>
-                     <w>на</w>
-                     <w>вы”.</w>
-                     <w>Захария</w>
-                     <w>же:</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>см҃ртную</w>
-                        <w>свѣтъ</w>
-                        <w>в<sic>о</sic> 
-                           <lb/>
-                        </w>
-                        <w>на</w>
-                        <w>вы.</w>
-                        <w>захарья</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>см҃ртнѹю.</w>
-                        <w>свѣтъ</w>
-                        <w>въсиаеть</w>
-                        <w>на</w>
-                        <w>вы. <lb/>
-                        </w>
-                        <w>захарьа</w>
-                        <w>же.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>см҃ртнѹю.</w>
-                        <w>свѣтъ</w>
-                        <w>восїяеть</w>
-                        <w>на</w>
-                        <w>вы.</w>
-                        <w>захарїя</w>
-                        <w>же. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>см<hi rend="sup">ѣ</hi> 
-                           <lb/>
-                        </w>
-                        <w>свѣтъ</w>
-                        <w>восияеть <lb/>
-                        </w>
-                        <w>на</w>
-                        <w>вы.</w>
-                        <w>захарья</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>см҃ртноую <lb/>
-                        </w>
-                        <w>свѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>въсїаеть</w>
-                        <w>на</w>
-                        <w>ва<hi rend="sup">с</hi>.</w>
-                        <w>захарїа</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>смертную</w>
-                        <w>свѣтъ</w>
-                        <w>восия</w>
-                        <w>на</w>
-                        <w>вы</w>
-                        <w>захарии</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>смертнѣи</w>
-                        <w>свѣтъ</w>
-                        <w>въсиа</w>
-                        <w>на</w>
-                        <w>вы</w>
-                        <w>захарии</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>смертнѣи</w>
-                        <w>и</w>
-                        <w>свѣтъ</w>
-                        <w>всиа</w>
-                        <w>на</w>
-                        <w>вы</w>
-                        <w>захарии</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>смертную,</w>
-                        <w>свѣтъ</w>
-                        <w>восияеть</w>
-                        <w>на</w>
-                        <w>вы.</w>
-                        <w>Захарья</w>
-                        <w>же:</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>съмьртьную,</w>
-                        <w>свѣтъ</w>
-                        <w>въсияеть</w>
-                        <w>на</w>
-                        <w>вы.</w>
-                        <w>Захария</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>смертную,</w>
-                        <w>свѣтъ</w>
-                        <w>восияеть</w>
-                        <w>на</w>
-                        <w>вы”.</w>
-                        <w>Захарья</w>
-                        <w>же:</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>101, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="20"><p>
+<app>
+<lem wit="#lem">
+<w>съмьртьную,</w>
+<w>свѣтъ</w>
+<w>въсияеть</w>
+<w>на</w>
+<w>вы”.</w>
+<w>Захария</w>
+<w>же:</w>
+</lem>
+
+<rdg wit="#lav">
+<w>см҃ртную</w>
+<w>свѣтъ</w>
+<w>в<milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/><lb/>сияеть</w>
+<w>на</w>
+<w>вы.</w>
+<w>захарья</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>см҃ртнѹю.</w>
+<w>свѣтъ</w>
+<w>въсиаеть</w>
+<w>на</w>
+<w>вы. <lb/></w>
+
+<w>захарьа</w>
+<w>же.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>см҃ртнѹю.</w>
+<w>свѣтъ</w>
+<w>восїяеть</w>
+<w>на</w>
+<w>вы.</w>
+<w>захарїя</w>
+<w>же. <lb/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>см<hi rend="sup">ѣ</hi><lb/>ртьную.</w>
+<w>свѣтъ</w>
+<w>восияеть <lb/></w>
+
+<w>на</w>
+<w>вы.</w>
+<w>захарья</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>см҃ртноую <lb/></w>
+
+<w>свѣ<hi rend="sup">т</hi></w>
+<w>въсїаеть</w>
+<w>на</w>
+<w>ва<hi rend="sup">с</hi>.</w>
+<w>захарїа</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#kom">
+<w>смертную</w>
+<w>свѣтъ</w>
+<w>восия</w>
+<w>на</w>
+<w>вы</w>
+<w>захарии</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>смертнѣи</w>
+<w>свѣтъ</w>
+<w>въсиа</w>
+<w>на</w>
+<w>вы</w>
+<w>захарии</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>смертнѣи</w>
+<w>и</w>
+<w>свѣтъ</w>
+<w>всиа</w>
+<w>на</w>
+<w>вы</w>
+<w>захарии</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>смертную,</w>
+<w>свѣтъ</w>
+<w>восияеть</w>
+<w>на</w>
+<w>вы.</w>
+<w>Захарья</w>
+<w>же:</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>съмьртьную,</w>
+<w>свѣтъ</w>
+<w>въсияеть</w>
+<w>на</w>
+<w>вы.</w>
+<w>Захария</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>смертную,</w>
+<w>свѣтъ</w>
+<w>восияеть</w>
+<w>на</w>
+<w>вы”.</w>
+<w>Захарья</w>
+<w>же:</w>
+</rdg>
+</app></p></div></body></text></TEI>

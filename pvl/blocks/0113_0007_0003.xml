@@ -1,124 +1,104 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>7, 3</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="3">
-            <p>
-               <app>
-                  <lem>
-                     <w>Грькъ</w>
-                     <w>по</w>
-                     <w>Дънѣпру,</w>
-                     <w>и</w>
-                     <w>вьрхъ</w>
-                     <w>Дънѣпра</w>
-                     <w>волокъ</w>
-                     <w>до</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>гре<lb/>къ</w>
-                        <w>по</w>
-                        <w>днѣпру.</w>
-                        <w>и</w>
-                        <w>верхъ</w>
-                        <w>днѣпра</w>
-                        <w>волокъ</w>
-                        <w>до</w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad">
-                        <w>гре<lb/>къ</w>
-                        <w>по</w>
-                        <w>
-                           <hi rend="sup">д</hi>непроу</w>
-                        <w>и</w>
-                        <w>верхъ</w>
-                        <w>днепра</w>
-                        <w>волокъ</w>
-                        <w>до</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>грекъ</w>
-                        <w>по</w>
-                        <w>днепрѹ.</w>
-                        <w>и</w>
-                        <w>верхъ</w>
-                        <w>днепра</w>
-                        <w>волокь.</w>
-                        <w>до</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>грѣкъ</w>
-                        <w>по</w>
-                        <w>днепру.</w>
-                        <w>и</w>
-                        <w>вѣ<lb/>рхъ</w>
-                        <w>днѣпра</w>
-                        <w>волокъ</w>
-                        <w>до</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>гре<hi rend="sup">к</hi> 
-                           <lb/>
-                        </w>
-                        <w>по</w>
-                        <w>днѣпроу.</w>
-                        <w>и</w>
-                        <w>верхь</w>
-                        <w>днѣпра</w>
-                        <w>волокь</w>
-                        <w>до</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Грекъ</w>
-                        <w>по</w>
-                        <w>Днѣпру,</w>
-                        <w>и</w>
-                        <w>верхъ</w>
-                        <w>Днѣпра</w>
-                        <w>волокъ</w>
-                        <w>до</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Грькъ</w>
-                        <w>по</w>
-                        <w>Дънѣпру,</w>
-                        <w>и</w>
-                        <w>вьрхъ</w>
-                        <w>Дънѣпра</w>
-                        <w>волокъ</w>
-                        <w>до</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Грекъ</w>
-                        <w>по</w>
-                        <w>Днѣпру,</w>
-                        <w>и</w>
-                        <w>верхъ</w>
-                        <w>Днѣпра</w>
-                        <w>волокъ</w>
-                        <w>до</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>7, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="3"><p>
+<app>
+<lem wit="#lem">
+<w>Грькъ</w>
+<w>по</w>
+<w>Дънѣпру,</w>
+<w>и</w>
+<w>вьрхъ</w>
+<w>Дънѣпра</w>
+<w>волокъ</w>
+<w>до</w>
+</lem>
+
+<rdg wit="#lav">
+<w>гре<lb/>къ</w>
+<w>по</w>
+<w>днѣпру.</w>
+<w>и</w>
+<w>верхъ</w>
+<w>днѣпра</w>
+<w>волокъ</w>
+<w>до</w>
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+<w>гре<lb/>къ</w>
+<w>по</w>
+<w><hi rend="sup">д</hi>непроу</w>
+<w>и</w>
+<w>верхъ</w>
+<w>днепра</w>
+<w>волокъ</w>
+<w>до</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>грекъ</w>
+<w>по</w>
+<w>днепрѹ.</w>
+<w>и</w>
+<w>верхъ</w>
+<w>днепра</w>
+<w>волокь.</w>
+<w>до</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>грѣкъ</w>
+<w>по</w>
+<w>днепру.</w>
+<w>и</w>
+<w>вѣ<lb/>рхъ</w>
+<w>днѣпра</w>
+<w>волокъ</w>
+<w>до</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>гре<hi rend="sup">к</hi><lb/></w>
+<w>по</w>
+<w>днѣпроу.</w>
+<w>и</w>
+<w>верхь</w>
+<w>днѣпра</w>
+<w>волокь</w>
+<w>до</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Грекъ</w>
+<w>по</w>
+<w>Днѣпру,</w>
+<w>и</w>
+<w>верхъ</w>
+<w>Днѣпра</w>
+<w>волокъ</w>
+<w>до</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Грькъ</w>
+<w>по</w>
+<w>Дънѣпру,</w>
+<w>и</w>
+<w>вьрхъ</w>
+<w>Дънѣпра</w>
+<w>волокъ</w>
+<w>до</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Грекъ</w>
+<w>по</w>
+<w>Днѣпру,</w>
+<w>и</w>
+<w>верхъ</w>
+<w>Днѣпра</w>
+<w>волокъ</w>
+<w>до</w>
+</rdg>
+</app></p></div></body></text></TEI>

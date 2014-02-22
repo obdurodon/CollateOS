@@ -1,116 +1,97 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>206, 5</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="5">
-            <p>
-               <app>
-                  <lem>
-                     <w>иде</w>
-                     <w>Звьнигороду.</w>
-                     <w>И</w>
-                     <w>не</w>
-                     <w>дошьдъшю</w>
-                     <w>ему</w>
-                     <w>града,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>и<lb/>де</w>
-                        <w>звенигороду.</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>дошедшю <lb/>
-                        </w>
-                        <w>ѥму</w>
-                        <w>града.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>иде</w>
-                        <w>ко</w>
-                        <w>звенигородѹ.</w>
-                        <w>не</w>
-                        <w>доше<hi rend="sup">д</hi>шю</w>
-                        <w>емѹ</w>
-                        <w>горо<hi rend="sup">д</hi>.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>иде</w>
-                        <w>к</w>
-                        <w>звинї<lb/>городѹ.</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>доше<hi rend="sup">д</hi>шю</w>
-                        <w>емѹ</w>
-                        <w>города.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>їде</w>
-                        <w>звенигороду.</w>
-                        <w>и</w>
-                        <w>не <lb/>
-                        </w>
-                        <w>дошедшу</w>
-                        <w>ему</w>
-                        <w>города.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>иде</w>
-                        <w>къ</w>
-                        <w>звинигородоу.</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>доше<hi rend="sup">д</hi>шѹ <lb/>
-                        </w>
-                        <w>емоу</w>
-                        <w>горѡда.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>иде</w>
-                        <w>Звенигороду;</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>дошедшю</w>
-                        <w>ему</w>
-                        <w>града,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>иде</w>
-                        <w>Звьнигороду;</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>дошьдъшю</w>
-                        <w>ему</w>
-                        <w>града,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>иде</w>
-                        <w>Звенигороду.</w>
-                        <w>И</w>
-                        <w>не</w>
-                        <w>дошедшю</w>
-                        <w>ему</w>
-                        <w>града,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>206, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="5"><p>
+<app>
+<lem wit="#lem">
+<w>иде</w>
+<w>Звьнигороду.</w>
+<w>И</w>
+<w>не</w>
+<w>дошьдъшю</w>
+<w>ему</w>
+<w>града,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>и<lb/>де</w>
+<w>звенигороду.</w>
+<w>и</w>
+<w>не</w>
+<w>дошедшю <lb/></w>
+
+<w>ѥму</w>
+<w>града.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>иде</w>
+<w>ко</w>
+<w>звенигородѹ.</w>
+<w>не</w>
+<w>доше<hi rend="sup">д</hi>шю</w>
+<w>емѹ</w>
+<w>горо<hi rend="sup">д</hi>.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>иде</w>
+<w>к</w>
+<w>звинї<lb/>городѹ.</w>
+<w>и</w>
+<w>не</w>
+<w>доше<hi rend="sup">д</hi>шю</w>
+<w>емѹ</w>
+<w>города.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>їде</w>
+<w>звенигороду.</w>
+<w>и</w>
+<w>не <lb/></w>
+
+<w>дошедшу</w>
+<w>ему</w>
+<w>города.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>иде</w>
+<w>къ</w>
+<w>звинигородоу.</w>
+<w>и</w>
+<w>не</w>
+<w>доше<hi rend="sup">д</hi>шѹ <lb/></w>
+
+<w>емоу</w>
+<w>горѡда.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>иде</w>
+<w>Звенигороду;</w>
+<w>и</w>
+<w>не</w>
+<w>дошедшю</w>
+<w>ему</w>
+<w>града,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>иде</w>
+<w>Звьнигороду;</w>
+<w>и</w>
+<w>не</w>
+<w>дошьдъшю</w>
+<w>ему</w>
+<w>града,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>иде</w>
+<w>Звенигороду.</w>
+<w>И</w>
+<w>не</w>
+<w>дошедшю</w>
+<w>ему</w>
+<w>града,</w>
+</rdg>
+</app></p></div></body></text></TEI>

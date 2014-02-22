@@ -1,107 +1,82 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>239, 16</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="16">
-            <p>
-               <app>
-                  <lem>
-                     <w>Вячеславъ</w>
-                     <w>въ</w>
-                     <w>четвьргъ</w>
-                     <w>по</w>
-                     <w>Феодоровои</w>
-                     <w>недѣли</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>вѧчеславъ</w>
-                        <w>в</w>
-                        <w>четвергъ</w>
-                        <w>ѳеѡдо<lb/>ровы</w>
-                        <w>не<hi rend="sup">д</hi>ли</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>вѧчиславъ·</w>
-                        <w>в</w>
-                        <w>че<hi rend="sup">т</hi>
-                        </w>
-                        <w>фе<hi rend="sup">д</hi>ровы.</w>
-                        <w>не<hi rend="sup">д</hi>.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>вѧчеславъ·</w>
-                        <w>в</w>
-                        <w>че<hi rend="sup">т</hi>
-                        </w>
-                        <w>федоровы·̏</w>
-                        <w>недѣ<lb/>ли·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>вѧчьславъ</w>
-                        <w>оу</w>
-                        <w>четвертокъ.</w>
-                        <w>по</w>
-                        <w>ф<sic>е</sic>доро<lb/>вои</w>
-                        <w>недѣлѣ</w>
-                        <w>
-                           <pb n="87d"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>вѧчеславь</w>
-                        <w>в</w>
-                        <w>четвертѡ<hi rend="sup">к</hi>
-                        </w>
-                        <w>по</w>
-                        <w>ѳе<hi rend="sup">д</hi>ѡ<hi rend="sup">о</hi>ровои <lb/>
-                        </w>
-                        <w>не<hi rend="sup">д</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Вячеславъ</w>
-                        <w>в</w>
-                        <w>четвергъ</w>
-                        <w>по</w>
-                        <w>Феодоровы</w>
-                        <w>недѣли,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Вячеславъ</w>
-                        <w>въ</w>
-                        <w>четвьргъ</w>
-                        <w>по</w>
-                        <w>Феодоровѣ</w>
-                        <w>недѣли</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Вячеславъ</w>
-                        <w>в</w>
-                        <w>четвергъ</w>
-                        <w>по</w>
-                        <w>Феодоровы</w>
-                        <w>недѣли,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>239, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="16"><p>
+<app>
+<lem wit="#lem">
+<w>Вячеславъ</w>
+<w>въ</w>
+<w>четвьргъ</w>
+<w>по</w>
+<w>Феодоровои</w>
+<w>недѣли</w>
+</lem>
+
+<rdg wit="#lav">
+<w>вѧчеславъ</w>
+<w>в</w>
+<w>четвергъ</w>
+<w>ѳеѡдо<lb/>ровы</w>
+<w>не<hi rend="sup">д</hi>ли</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>вѧчиславъ·</w>
+<w>в</w>
+<w>че<hi rend="sup">т</hi></w>
+<w>фе<hi rend="sup">д</hi>ровы.</w>
+<w>не<hi rend="sup">д</hi>.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>вѧчеславъ·</w>
+<w>в</w>
+<w>че<hi rend="sup">т</hi></w>
+<w>федоровы·̏</w>
+<w>недѣ<lb/>ли·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>вѧчьславъ</w>
+<w>оу</w>
+<w>четвертокъ.</w>
+<w>по</w>
+<w>ф<milestone unit="sic" n="start"/>е<milestone unit="sic" n="end"/>доро<lb/>вои</w>
+<w>недѣлѣ <pb n="87d"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>вѧчеславь</w>
+<w>в</w>
+<w>четвертѡ<hi rend="sup">к</hi></w>
+<w>по</w>
+<w>ѳе<hi rend="sup">д</hi>ѡ<hi rend="sup">о</hi>ровои <lb/></w>
+
+<w>не<hi rend="sup">д</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Вячеславъ</w>
+<w>в</w>
+<w>четвергъ</w>
+<w>по</w>
+<w>Феодоровы</w>
+<w>недѣли,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Вячеславъ</w>
+<w>въ</w>
+<w>четвьргъ</w>
+<w>по</w>
+<w>Феодоровѣ</w>
+<w>недѣли</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Вячеславъ</w>
+<w>в</w>
+<w>четвергъ</w>
+<w>по</w>
+<w>Феодоровы</w>
+<w>недѣли,</w>
+</rdg>
+</app></p></div></body></text></TEI>

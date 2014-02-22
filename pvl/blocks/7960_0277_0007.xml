@@ -1,120 +1,97 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>277, 7</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="7">
-            <p>
-               <app>
-                  <lem>
-                     <w>погубити</w>
-                     <w>смьрды</w>
-                     <w>и</w>
-                     <w>ролию</w>
-                     <w>имъ”.</w>
-                     <w>И</w>
-                     <w>рече</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>смерды</w>
-                        <w>и</w>
-                        <w>погу<lb/>бити</w>
-                        <w>ѣ</w>
-                        <w>и</w>
-                        <w>ролью</w>
-                        <w>ихъ·</w>
-                        <w>и</w>
-                        <w>ре<hi rend="sup">ч</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>погоубити</w>
-                        <w>смерды·</w>
-                        <w>и</w>
-                        <w>ролью</w>
-                        <w>имъ·</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>ре<hi rend="sup">ч</hi>
-                        </w>
-                        <w>имъ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>погѹбити</w>
-                        <w>смерды·̏·</w>
-                        <w>и</w>
-                        <w>ролью <lb/>
-                        </w>
-                        <w>имъ·</w>
-                        <w>рече</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>погубити</w>
-                        <w>смерды</w>
-                        <w>и</w>
-                        <w>роль<lb/>ю</w>
-                        <w>имъ·</w>
-                        <w>и</w>
-                        <w>ре<hi rend="sup">ч</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>погоубити</w>
-                        <w>смерды <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>ролїю</w>
-                        <w>имь.</w>
-                        <w>и</w>
-                        <w>ре<hi rend="sup">ч</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>погубити</w>
-                        <w>смерды</w>
-                        <w>и</w>
-                        <w>ролью</w>
-                        <w>ихъ”.</w>
-                        <w>И</w>
-                        <w>рече</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>смьрды</w>
-                        <w>погубити</w>
-                        <w>и</w>
-                        <w>ролию</w>
-                        <w>имъ”.</w>
-                        <w>И</w>
-                        <w>рече</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>погубити</w>
-                        <w>смерды</w>
-                        <w>и</w>
-                        <w>ролью</w>
-                        <w>ихъ”.</w>
-                        <w>И</w>
-                        <w>рече</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>277, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="7"><p>
+<app>
+<lem wit="#lem">
+<w>погубити</w>
+<w>смьрды</w>
+<w>и</w>
+<w>ролию</w>
+<w>имъ”.</w>
+<w>И</w>
+<w>рече</w>
+</lem>
+
+<rdg wit="#lav">
+<w>смерды</w>
+<w>и</w>
+<w>погу<lb/>бити</w>
+<w>ѣ</w>
+<w>и</w>
+<w>ролью</w>
+<w>ихъ·</w>
+<w>и</w>
+<w>ре<hi rend="sup">ч</hi></w>
+</rdg>
+
+<rdg wit="#rad">
+<w>погоубити</w>
+<w>смерды·</w>
+<w>и</w>
+<w>ролью</w>
+<w>имъ·</w>
+<w>и <lb/></w>
+
+<w>ре<hi rend="sup">ч</hi></w>
+<w>имъ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>погѹбити</w>
+<w>смерды·̏·</w>
+<w>и</w>
+<w>ролью <lb/></w>
+
+<w>имъ·</w>
+<w>рече</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>погубити</w>
+<w>смерды</w>
+<w>и</w>
+<w>роль<lb/>ю</w>
+<w>имъ·</w>
+<w>и</w>
+<w>ре<hi rend="sup">ч</hi></w>
+</rdg>
+
+<rdg wit="#xle">
+<w>погоубити</w>
+<w>смерды <lb/></w>
+
+<w>и</w>
+<w>ролїю</w>
+<w>имь.</w>
+<w>и</w>
+<w>ре<hi rend="sup">ч</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>погубити</w>
+<w>смерды</w>
+<w>и</w>
+<w>ролью</w>
+<w>ихъ”.</w>
+<w>И</w>
+<w>рече</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>смьрды</w>
+<w>погубити</w>
+<w>и</w>
+<w>ролию</w>
+<w>имъ”.</w>
+<w>И</w>
+<w>рече</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>погубити</w>
+<w>смерды</w>
+<w>и</w>
+<w>ролью</w>
+<w>ихъ”.</w>
+<w>И</w>
+<w>рече</w>
+</rdg>
+</app></p></div></body></text></TEI>

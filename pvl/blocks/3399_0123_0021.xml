@@ -1,121 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>123, 21</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="21">
-            <p>
-               <app>
-                  <lem>
-                     <w>и</w>
-                     <w>Печенѣжинъ,</w>
-                     <w>и</w>
-                     <w>посмѣя</w>
-                     <w>ся,</w>
-                     <w>бѣ</w>
-                     <w>бо</w>
-                     <w>средьнии</w>
-                     <w>тѣлъмь.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>и</w>
-                        <w>печенѣзинъ</w>
-                        <w>и</w>
-                        <w>посмѣясѧ.</w>
-                        <w>б<sic>ѣ</sic> 
-                           <lb/>
-                        </w>
-                        <w>бо</w>
-                        <w>середнии</w>
-                        <w>тѣломь.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>печенѣ<lb/>жинъ</w>
-                        <w>и</w>
-                        <w>посмеясѧ</w>
-                        <w>бѣ</w>
-                        <w>бо</w>
-                        <w>среднии</w>
-                        <w>тѣломъ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>печенѣжинъ <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>посмеясѧ.</w>
-                        <w>бѣ</w>
-                        <w>бо</w>
-                        <w>среднїи</w>
-                        <w>тѣломъ.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>печенѣжинъ.</w>
-                        <w>и</w>
-                        <w>по<lb/>смѣясѧ.</w>
-                        <w>бѣ</w>
-                        <w>бо</w>
-                        <w>среднии</w>
-                        <w>тѣломъ.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>его</w>
-                        <w>печенѣжи<hi rend="sup">н</hi>
-                        </w>
-                        <w>и</w>
-                        <w>посмѣасѧ.</w>
-                        <w>бѣ</w>
-                        <w>бѡ</w>
-                        <w>сре<lb/>днїи</w>
-                        <w>тѣлѡ<hi rend="sup">м</hi>.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>и</w>
-                        <w>Печенѣзинъ</w>
-                        <w>и</w>
-                        <w>посмѣяся,</w>
-                        <w>бѣ</w>
-                        <w>бо</w>
-                        <w>середний</w>
-                        <w>тѣломь.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>и</w>
-                        <w>Печенѣзинъ,</w>
-                        <w>и</w>
-                        <w>посмѣяся,</w>
-                        <w>бѣ</w>
-                        <w>бо</w>
-                        <w>средьнии</w>
-                        <w>тѣлъмь.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>и</w>
-                        <w>печенѣзинъ</w>
-                        <w>и</w>
-                        <w>посмѣяся,—бѣ</w>
-                        <w>бо</w>
-                        <w>середний</w>
-                        <w>тѣломь.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>123, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="21"><p>
+<app>
+<lem wit="#lem">
+<w>и</w>
+<w>Печенѣжинъ,</w>
+<w>и</w>
+<w>посмѣя</w>
+<w>ся,</w>
+<w>бѣ</w>
+<w>бо</w>
+<w>средьнии</w>
+<w>тѣлъмь.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>и</w>
+<w>печенѣзинъ</w>
+<w>и</w>
+<w>посмѣясѧ.</w>
+<w>б<milestone unit="sic" n="start"/>ѣ<milestone unit="sic" n="end"/><lb/></w>
+<w>бо</w>
+<w>середнии</w>
+<w>тѣломь.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>печенѣ<lb/>жинъ</w>
+<w>и</w>
+<w>посмеясѧ</w>
+<w>бѣ</w>
+<w>бо</w>
+<w>среднии</w>
+<w>тѣломъ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>печенѣжинъ <lb/></w>
+
+<w>и</w>
+<w>посмеясѧ.</w>
+<w>бѣ</w>
+<w>бо</w>
+<w>среднїи</w>
+<w>тѣломъ.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>печенѣжинъ.</w>
+<w>и</w>
+<w>по<lb/>смѣясѧ.</w>
+<w>бѣ</w>
+<w>бо</w>
+<w>среднии</w>
+<w>тѣломъ.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>его</w>
+<w>печенѣжи<hi rend="sup">н</hi></w>
+<w>и</w>
+<w>посмѣасѧ.</w>
+<w>бѣ</w>
+<w>бѡ</w>
+<w>сре<lb/>днїи</w>
+<w>тѣлѡ<hi rend="sup">м</hi>.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>и</w>
+<w>Печенѣзинъ</w>
+<w>и</w>
+<w>посмѣяся,</w>
+<w>бѣ</w>
+<w>бо</w>
+<w>середний</w>
+<w>тѣломь.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>и</w>
+<w>Печенѣзинъ,</w>
+<w>и</w>
+<w>посмѣяся,</w>
+<w>бѣ</w>
+<w>бо</w>
+<w>средьнии</w>
+<w>тѣлъмь.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>и</w>
+<w>печенѣзинъ</w>
+<w>и</w>
+<w>посмѣяся,—бѣ</w>
+<w>бо</w>
+<w>середний</w>
+<w>тѣломь.</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,128 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>191, 8</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="8">
-            <p>
-               <app>
-                  <lem>
-                     <w>бысть</w>
-                     <w>свѣтъ</w>
-                     <w>и</w>
-                     <w>разумѣ</w>
-                     <w>старьць,</w>
-                     <w>рече</w>
-                     <w>кѣлиинику:</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>бы<hi rend="sup">с</hi> 
-                           <lb/>
-                        </w>
-                        <w>свѣтъ</w>
-                        <w>и</w>
-                        <w>разумѣ</w>
-                        <w>старець.</w>
-                        <w>ре<hi rend="sup">ч</hi> 
-                           <lb/>
-                        </w>
-                        <w>кѣлеинику.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>свѣтъ.</w>
-                        <w>и</w>
-                        <w>разоумѣ</w>
-                        <w>старець.</w>
-                        <w>и</w>
-                        <w>ре<hi rend="sup">ч</hi>
-                        </w>
-                        <w>келеиникѹ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>свѣ<hi rend="sup">т</hi>.</w>
-                        <w>и</w>
-                        <w>разѹмѣ</w>
-                        <w>старе<lb/>ць.</w>
-                        <w>и</w>
-                        <w>рече</w>
-                        <w>келеиникѹ.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>свѣ<hi rend="sup">т</hi>.</w>
-                        <w>и</w>
-                        <w>разумѣ</w>
-                        <w>старѣць. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>ре<hi rend="sup">ч</hi>
-                        </w>
-                        <w>к<sic>ѣ</sic>лѣинику</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>свѣ<hi rend="sup">т</hi>.</w>
-                        <w>и</w>
-                        <w>разоумѣ</w>
-                        <w>старець.</w>
-                        <w>и</w>
-                        <w>ре<hi rend="sup">ч</hi>
-                        </w>
-                        <w>келеиникѹ. <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>бысть</w>
-                        <w>свѣтъ,</w>
-                        <w>и</w>
-                        <w>разумѣ</w>
-                        <w>старець,</w>
-                        <w>рече</w>
-                        <w>кѣлейнику:</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>бысть</w>
-                        <w>свѣтъ</w>
-                        <w>и</w>
-                        <w>разумѣ</w>
-                        <w>старьць,</w>
-                        <w>рече</w>
-                        <w>кѣлиинику:</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>бысть</w>
-                        <w>свѣтъ,</w>
-                        <w>и</w>
-                        <w>разумѣ</w>
-                        <w>старець,</w>
-                        <w>рече</w>
-                        <w>кѣлейнику:</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>191, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="8"><p>
+<app>
+<lem wit="#lem">
+<w>бысть</w>
+<w>свѣтъ</w>
+<w>и</w>
+<w>разумѣ</w>
+<w>старьць,</w>
+<w>рече</w>
+<w>кѣлиинику:</w>
+</lem>
+
+<rdg wit="#lav">
+<w>бы<hi rend="sup">с</hi><lb/></w>
+<w>свѣтъ</w>
+<w>и</w>
+<w>разумѣ</w>
+<w>старець.</w>
+<w>ре<hi rend="sup">ч</hi><lb/></w>
+<w>кѣлеинику.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>бы<hi rend="sup">с</hi></w>
+<w>свѣтъ.</w>
+<w>и</w>
+<w>разоумѣ</w>
+<w>старець.</w>
+<w>и</w>
+<w>ре<hi rend="sup">ч</hi></w>
+<w>келеиникѹ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>бы<hi rend="sup">с</hi></w>
+<w>свѣ<hi rend="sup">т</hi>.</w>
+<w>и</w>
+<w>разѹмѣ</w>
+<w>старе<lb/>ць.</w>
+<w>и</w>
+<w>рече</w>
+<w>келеиникѹ.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>бы<hi rend="sup">с</hi></w>
+<w>свѣ<hi rend="sup">т</hi>.</w>
+<w>и</w>
+<w>разумѣ</w>
+<w>старѣць. <lb/></w>
+
+<w>и</w>
+<w>ре<hi rend="sup">ч</hi></w>
+<w>к<milestone unit="sic" n="start"/>ѣ<milestone unit="sic" n="end"/>лѣинику</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>бы<hi rend="sup">с</hi></w>
+<w>свѣ<hi rend="sup">т</hi>.</w>
+<w>и</w>
+<w>разоумѣ</w>
+<w>старець.</w>
+<w>и</w>
+<w>ре<hi rend="sup">ч</hi></w>
+<w>келеиникѹ. <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>бысть</w>
+<w>свѣтъ,</w>
+<w>и</w>
+<w>разумѣ</w>
+<w>старець,</w>
+<w>рече</w>
+<w>кѣлейнику:</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>бысть</w>
+<w>свѣтъ</w>
+<w>и</w>
+<w>разумѣ</w>
+<w>старьць,</w>
+<w>рече</w>
+<w>кѣлиинику:</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>бысть</w>
+<w>свѣтъ,</w>
+<w>и</w>
+<w>разумѣ</w>
+<w>старець,</w>
+<w>рече</w>
+<w>кѣлейнику:</w>
+</rdg>
+</app></p></div></body></text></TEI>

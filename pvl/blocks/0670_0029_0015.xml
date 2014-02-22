@@ -1,59 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>29, 15</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="15">
-            <p>
-               <app>
-                  <lem>
-                     <w>Ольгу.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#tro">
-                        <w>олгу</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ѡленѹ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ѡлгѹ:·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ѡльгу·:· <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ѡлгоу.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Олгу.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Ольгу.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Олгу.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>29, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="15"><p>
+<app>
+<lem wit="#lem">
+<w>Ольгу.</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#tro">
+<w>олгу</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ѡленѹ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ѡлгѹ:·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ѡльгу·:· <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>ѡлгоу.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Олгу.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Ольгу.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Олгу.</w>
+</rdg>
+</app></p></div></body></text></TEI>

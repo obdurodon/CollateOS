@@ -1,126 +1,104 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>261, 2</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="2">
-            <p>
-               <app>
-                  <lem>
-                     <w>съ</w>
-                     <w>печи,</w>
-                     <w>и</w>
-                     <w>сѣдоста,</w>
-                     <w>и</w>
-                     <w>удавиша</w>
-                     <w>и</w>
-                     <w>рамяно</w>
-                     <w>яко</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>с</w>
-                        <w>печи</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>сѣдоста.</w>
-                        <w>
-                           <hi rend="sup">и</hi>
-                        </w>
-                        <w>ѹдавиша</w>
-                        <w>и</w>
-                        <w>рамѧно· <lb/>
-                        </w>
-                        <w>яко</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>и</w>
-                        <w>оудавиша</w>
-                        <w>и·</w>
-                        <w>яко</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>и</w>
-                        <w>оудавиша</w>
-                        <w>и·</w>
-                        <w>яко</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>с</w>
-                        <w>печи <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>сѣдоста</w>
-                        <w>и</w>
-                        <w>
-                           <sic>у</sic>давиша</w>
-                        <w>и</w>
-                        <w>рамѧ<lb/>но·</w>
-                        <w>яко</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>с</w>
-                        <w>печи.</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>сѣдоста</w>
-                        <w>и</w>
-                        <w>вдавиша</w>
-                        <w>и</w>
-                        <w>рамѧно.</w>
-                        <w>яко</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>с</w>
-                        <w>печи,</w>
-                        <w>и</w>
-                        <w>сѣдоста,</w>
-                        <w>и</w>
-                        <w>удавиша</w>
-                        <w>и</w>
-                        <w>рамяно,</w>
-                        <w>яко</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>съ</w>
-                        <w>печи,</w>
-                        <w>и</w>
-                        <w>сѣдоста,</w>
-                        <w>и</w>
-                        <w>удавиша</w>
-                        <w>и</w>
-                        <w>рамяно,</w>
-                        <w>яко</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>с</w>
-                        <w>печи,</w>
-                        <w>и</w>
-                        <w>сѣдоста,</w>
-                        <w>и</w>
-                        <w>удавиша</w>
-                        <w>и</w>
-                        <w>рамяно</w>
-                        <w>яко</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>261, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="2"><p>
+<app>
+<lem wit="#lem">
+<w>съ</w>
+<w>печи,</w>
+<w>и</w>
+<w>сѣдоста,</w>
+<w>и</w>
+<w>удавиша</w>
+<w>и</w>
+<w>рамяно</w>
+<w>яко</w>
+</lem>
+
+<rdg wit="#lav">
+<w>с</w>
+<w>печи</w>
+<w>и <lb/></w>
+
+<w>сѣдоста.</w>
+<w><hi rend="sup">и</hi></w>
+<w>ѹдавиша</w>
+<w>и</w>
+<w>рамѧно· <lb/></w>
+
+<w>яко</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>и</w>
+<w>оудавиша</w>
+<w>и·</w>
+<w>яко</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>и</w>
+<w>оудавиша</w>
+<w>и·</w>
+<w>яко</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>с</w>
+<w>печи <lb/></w>
+
+<w>и</w>
+<w>сѣдоста</w>
+<w>и</w>
+<w><milestone unit="sic" n="start"/>у<milestone unit="sic" n="end"/>давиша</w>
+<w>и</w>
+<w>рамѧ<lb/>но·</w>
+<w>яко</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>с</w>
+<w>печи.</w>
+<w>и <lb/></w>
+
+<w>сѣдоста</w>
+<w>и</w>
+<w>вдавиша</w>
+<w>и</w>
+<w>рамѧно.</w>
+<w>яко</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>с</w>
+<w>печи,</w>
+<w>и</w>
+<w>сѣдоста,</w>
+<w>и</w>
+<w>удавиша</w>
+<w>и</w>
+<w>рамяно,</w>
+<w>яко</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>съ</w>
+<w>печи,</w>
+<w>и</w>
+<w>сѣдоста,</w>
+<w>и</w>
+<w>удавиша</w>
+<w>и</w>
+<w>рамяно,</w>
+<w>яко</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>с</w>
+<w>печи,</w>
+<w>и</w>
+<w>сѣдоста,</w>
+<w>и</w>
+<w>удавиша</w>
+<w>и</w>
+<w>рамяно</w>
+<w>яко</w>
+</rdg>
+</app></p></div></body></text></TEI>

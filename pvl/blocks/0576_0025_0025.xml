@@ -1,132 +1,112 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>25, 25</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="25">
-            <p>
-               <app>
-                  <lem>
-                     <w>Бѣ</w>
-                     <w>бо</w>
-                     <w>единъ</w>
-                     <w>языкъ</w>
-                     <w>Словѣньскъ:</w>
-                     <w>Словѣне,</w>
-                     <w>иже</w>
-                     <w>сѣдяху</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>бѣ</w>
-                        <w>единъ</w>
-                        <w>языкъ</w>
-                        <w>словѣн<hi rend="sup">е</hi> 
-                           <lb/>
-                        </w>
-                        <w>словѣни</w>
-                        <w>же</w>
-                        <w>сѣдѧху</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>бѣ</w>
-                        <w>бо</w>
-                        <w>единъ</w>
-                        <w>языкъ</w>
-                        <w>словѣнескъ</w>
-                        <w>словѣни</w>
-                        <w>же</w>
-                        <w>сѣдяху</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>бѣ <lb/>
-                        </w>
-                        <w>бо</w>
-                        <w>единъ</w>
-                        <w>языкъ</w>
-                        <w>словенескъ.</w>
-                        <w>словене</w>
-                        <w>иже</w>
-                        <w>седѧхоу</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>бѣ</w>
-                        <w>бо</w>
-                        <w>единь</w>
-                        <w>языкь</w>
-                        <w>словѣ<lb/>нескъ.</w>
-                        <w>словѣне</w>
-                        <w>же</w>
-                        <w>иже</w>
-                        <w>седѧхѹ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>бѣ</w>
-                        <w>бо</w>
-                        <w>единъ</w>
-                        <w>язы<lb/>къ</w>
-                        <w>словѣнѣскъ.</w>
-                        <w>словѣ<lb/>нѣ</w>
-                        <w>же</w>
-                        <w>сѣдѧху</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>бѣ</w>
-                        <w>бо</w>
-                        <w>единь</w>
-                        <w>языкь</w>
-                        <w>словенескъ. <lb/>
-                        </w>
-                        <w>слѡвене</w>
-                        <w>же</w>
-                        <w>сѣдѧхѫ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Бѣ</w>
-                        <w>единъ</w>
-                        <w>языкъ</w>
-                        <w>Словѣнескъ:</w>
-                        <w>Словѣни,</w>
-                        <w>иже</w>
-                        <w>сѣдяху</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Бѣ</w>
-                        <w>бо</w>
-                        <w>единъ</w>
-                        <w>языкъ</w>
-                        <w>Словѣньскъ:</w>
-                        <w>Словѣне,</w>
-                        <w>иже</w>
-                        <w>сѣдяху</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Бѣ</w>
-                        <w>единъ</w>
-                        <w>языкъ</w>
-                        <w>словѣнескъ:</w>
-                        <w>словѣни,</w>
-                        <w>иже</w>
-                        <w>сѣдяху</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>25, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="25"><p>
+<app>
+<lem wit="#lem">
+<w>Бѣ</w>
+<w>бо</w>
+<w>единъ</w>
+<w>языкъ</w>
+<w>Словѣньскъ:</w>
+<w>Словѣне,</w>
+<w>иже</w>
+<w>сѣдяху</w>
+</lem>
+
+<rdg wit="#lav">
+<w>бѣ</w>
+<w>единъ</w>
+<w>языкъ</w>
+<w>словѣн<hi rend="sup">е</hi><lb/>скъ.</w>
+<w>словѣни</w>
+<w>же</w>
+<w>сѣдѧху</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>бѣ</w>
+<w>бо</w>
+<w>единъ</w>
+<w>языкъ</w>
+<w>словѣнескъ</w>
+<w>словѣни</w>
+<w>же</w>
+<w>сѣдяху</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>бѣ <lb/></w>
+
+<w>бо</w>
+<w>единъ</w>
+<w>языкъ</w>
+<w>словенескъ.</w>
+<w>словене</w>
+<w>иже</w>
+<w>седѧхоу</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>бѣ</w>
+<w>бо</w>
+<w>единь</w>
+<w>языкь</w>
+<w>словѣ<lb/>нескъ.</w>
+<w>словѣне</w>
+<w>же</w>
+<w>иже</w>
+<w>седѧхѹ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>бѣ</w>
+<w>бо</w>
+<w>единъ</w>
+<w>язы<lb/>къ</w>
+<w>словѣнѣскъ.</w>
+<w>словѣ<lb/>нѣ</w>
+<w>же</w>
+<w>сѣдѧху</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>бѣ</w>
+<w>бо</w>
+<w>единь</w>
+<w>языкь</w>
+<w>словенескъ. <lb/></w>
+
+<w>слѡвене</w>
+<w>же</w>
+<w>сѣдѧхѫ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Бѣ</w>
+<w>единъ</w>
+<w>языкъ</w>
+<w>Словѣнескъ:</w>
+<w>Словѣни,</w>
+<w>иже</w>
+<w>сѣдяху</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Бѣ</w>
+<w>бо</w>
+<w>единъ</w>
+<w>языкъ</w>
+<w>Словѣньскъ:</w>
+<w>Словѣне,</w>
+<w>иже</w>
+<w>сѣдяху</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Бѣ</w>
+<w>единъ</w>
+<w>языкъ</w>
+<w>словѣнескъ:</w>
+<w>словѣни,</w>
+<w>иже</w>
+<w>сѣдяху</w>
+</rdg>
+</app></p></div></body></text></TEI>

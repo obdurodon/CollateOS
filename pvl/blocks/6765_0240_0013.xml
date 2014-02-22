@@ -1,135 +1,113 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>240, 13</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="13">
-            <p>
-               <app>
-                  <lem>
-                     <w>сътвори</w>
-                     <w>миръ</w>
-                     <w>съ</w>
-                     <w>Рязаньци,</w>
-                     <w>и</w>
-                     <w>поя</w>
-                     <w>люди</w>
-                     <w>своя,</w>
-                     <w>яже</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ство<lb/>ри</w>
-                        <w>миръ</w>
-                        <w>с</w>
-                        <w>рѧзанци</w>
-                        <w>и</w>
-                        <w>поя</w>
-                        <w>люди <lb/>
-                        </w>
-                        <w>своя·</w>
-                        <w>яже</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>сотвори</w>
-                        <w>миръ·</w>
-                        <w>с</w>
-                        <w>резанци.</w>
-                        <w>и</w>
-                        <w>поя</w>
-                        <w>лю<hi rend="sup">д</hi>
-                        </w>
-                        <w>своя·</w>
-                        <w>я<hi rend="sup">ж</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>сотвори</w>
-                        <w>миръ</w>
-                        <w>с</w>
-                        <w>резанци·</w>
-                        <w>и</w>
-                        <w>поѧ</w>
-                        <w>люди</w>
-                        <w>своя· <lb/>
-                        </w>
-                        <w>яже</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>створи</w>
-                        <w>миръ <lb/>
-                        </w>
-                        <w>с</w>
-                        <w>рѧзаньци·</w>
-                        <w>и</w>
-                        <w>поя</w>
-                        <w>люди</w>
-                        <w>сво<lb/>я</w>
-                        <w>яже</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>сътвори</w>
-                        <w>миръ</w>
-                        <w>из</w>
-                        <w>резанци.</w>
-                        <w>и</w>
-                        <w>поѧ</w>
-                        <w>люди</w>
-                        <w>своа</w>
-                        <w>я<hi rend="sup">ж</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>створи</w>
-                        <w>миръ</w>
-                        <w>с</w>
-                        <w>Рязанци,</w>
-                        <w>и</w>
-                        <w>поя</w>
-                        <w>люди</w>
-                        <w>своя,</w>
-                        <w>яже</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>сътвори</w>
-                        <w>миръ</w>
-                        <w>съ</w>
-                        <w>Рязаньци,</w>
-                        <w>и</w>
-                        <w>поя</w>
-                        <w>люди</w>
-                        <w>своя,</w>
-                        <w>яже</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>створи</w>
-                        <w>миръ</w>
-                        <w>с</w>
-                        <w>рязанци,</w>
-                        <w>и</w>
-                        <w>поя</w>
-                        <w>люди</w>
-                        <w>своя,</w>
-                        <w>яже</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>240, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="13"><p>
+<app>
+<lem wit="#lem">
+<w>сътвори</w>
+<w>миръ</w>
+<w>съ</w>
+<w>Рязаньци,</w>
+<w>и</w>
+<w>поя</w>
+<w>люди</w>
+<w>своя,</w>
+<w>яже</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ство<lb/>ри</w>
+<w>миръ</w>
+<w>с</w>
+<w>рѧзанци</w>
+<w>и</w>
+<w>поя</w>
+<w>люди <lb/></w>
+
+<w>своя·</w>
+<w>яже</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>сотвори</w>
+<w>миръ·</w>
+<w>с</w>
+<w>резанци.</w>
+<w>и</w>
+<w>поя</w>
+<w>лю<hi rend="sup">д</hi></w>
+<w>своя·</w>
+<w>я<hi rend="sup">ж</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>сотвори</w>
+<w>миръ</w>
+<w>с</w>
+<w>резанци·</w>
+<w>и</w>
+<w>поѧ</w>
+<w>люди</w>
+<w>своя· <lb/></w>
+
+<w>яже</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>створи</w>
+<w>миръ <lb/></w>
+
+<w>с</w>
+<w>рѧзаньци·</w>
+<w>и</w>
+<w>поя</w>
+<w>люди</w>
+<w>сво<lb/>я</w>
+<w>яже</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>сътвори</w>
+<w>миръ</w>
+<w>из</w>
+<w>резанци.</w>
+<w>и</w>
+<w>поѧ</w>
+<w>люди</w>
+<w>своа</w>
+<w>я<hi rend="sup">ж</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>створи</w>
+<w>миръ</w>
+<w>с</w>
+<w>Рязанци,</w>
+<w>и</w>
+<w>поя</w>
+<w>люди</w>
+<w>своя,</w>
+<w>яже</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>сътвори</w>
+<w>миръ</w>
+<w>съ</w>
+<w>Рязаньци,</w>
+<w>и</w>
+<w>поя</w>
+<w>люди</w>
+<w>своя,</w>
+<w>яже</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>створи</w>
+<w>миръ</w>
+<w>с</w>
+<w>рязанци,</w>
+<w>и</w>
+<w>поя</w>
+<w>люди</w>
+<w>своя,</w>
+<w>яже</w>
+</rdg>
+</app></p></div></body></text></TEI>

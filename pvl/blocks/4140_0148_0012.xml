@@ -1,115 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>148, 12</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="12">
-            <p>
-               <app>
-                  <lem>
-                     <w>Мьстиславъ</w>
-                     <w>же</w>
-                     <w>съ</w>
-                     <w>вечера</w>
-                     <w>испълчи</w>
-                     <w>дружину,</w>
-                     <w>и</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>мьсти<lb/>славъ</w>
-                        <w>же</w>
-                        <w>с</w>
-                        <w>вечера</w>
-                        <w>исполчивъ <lb/>
-                        </w>
-                        <w>дружину.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>мстислав</w>
-                        <w>же</w>
-                        <w>исполчивъ</w>
-                        <w>дроу<hi rend="sup">ж</hi>ноу</w>
-                        <w>с</w>
-                        <w>вечера.</w>
-                        <w>и</w>
-                        <w>
-                           <pb n="84v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>мьстислав</w>
-                        <w>же</w>
-                        <w>исполчивь</w>
-                        <w>дрѹжинѹ</w>
-                        <w>с</w>
-                        <w>вече<lb/>ра.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>мьстислав</w>
-                        <w>же</w>
-                        <w>с</w>
-                        <w>ве<lb/>чера</w>
-                        <w>исполчи</w>
-                        <w>дружину.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>мьстислав</w>
-                        <w>же</w>
-                        <w>с</w>
-                        <w>ве<lb/>чера</w>
-                        <w>исполчи</w>
-                        <w>дроужиноу.</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Мьстиславъ</w>
-                        <w>же</w>
-                        <w>с</w>
-                        <w>вечера</w>
-                        <w>исполчивъ</w>
-                        <w>дружину,</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Мьстиславъ</w>
-                        <w>же</w>
-                        <w>съ</w>
-                        <w>вечера</w>
-                        <w>испълчи</w>
-                        <w>дружину,</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Мьстиславъ</w>
-                        <w>же</w>
-                        <w>с</w>
-                        <w>вечера</w>
-                        <w>исполчивъ</w>
-                        <w>дружину,</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>148, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="12"><p>
+<app>
+<lem wit="#lem">
+<w>Мьстиславъ</w>
+<w>же</w>
+<w>съ</w>
+<w>вечера</w>
+<w>испълчи</w>
+<w>дружину,</w>
+<w>и</w>
+</lem>
+
+<rdg wit="#lav">
+<w>мьсти<lb/>славъ</w>
+<w>же</w>
+<w>с</w>
+<w>вечера</w>
+<w>исполчивъ <lb/></w>
+
+<w>дружину.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>мстислав</w>
+<w>же</w>
+<w>исполчивъ</w>
+<w>дроу<hi rend="sup">ж</hi>ноу</w>
+<w>с</w>
+<w>вечера.</w>
+<w>и <pb n="84v"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>мьстислав</w>
+<w>же</w>
+<w>исполчивь</w>
+<w>дрѹжинѹ</w>
+<w>с</w>
+<w>вече<lb/>ра.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>мьстислав</w>
+<w>же</w>
+<w>с</w>
+<w>ве<lb/>чера</w>
+<w>исполчи</w>
+<w>дружину.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>мьстислав</w>
+<w>же</w>
+<w>с</w>
+<w>ве<lb/>чера</w>
+<w>исполчи</w>
+<w>дроужиноу.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Мьстиславъ</w>
+<w>же</w>
+<w>с</w>
+<w>вечера</w>
+<w>исполчивъ</w>
+<w>дружину,</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Мьстиславъ</w>
+<w>же</w>
+<w>съ</w>
+<w>вечера</w>
+<w>испълчи</w>
+<w>дружину,</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Мьстиславъ</w>
+<w>же</w>
+<w>с</w>
+<w>вечера</w>
+<w>исполчивъ</w>
+<w>дружину,</w>
+<w>и</w>
+</rdg>
+</app></p></div></body></text></TEI>

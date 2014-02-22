@@ -1,94 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>189, 10</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="10">
-            <p>
-               <app>
-                  <lem>
-                     <w>принесяше</w>
-                     <w>дѣтищь</w>
-                     <w>больнъ,</w>
-                     <w>кацѣмь</w>
-                     <w>любо</w>
-                     <w>недугъмь</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>принесѧше</w>
-                        <w>дѣтищь <lb/>
-                        </w>
-                        <w>боленъ.</w>
-                        <w>кацѣмь</w>
-                        <w>любо</w>
-                        <w>недуго<hi rend="sup">м</hi> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad"/>
-                     <rdg wit="#aka"/>
-                     <rdg wit="#ipa">
-                        <w>прине<lb/>сѧше</w>
-                        <w>дѣтищь</w>
-                        <w>боленъ.</w>
-                        <w>каци<lb/>мъ</w>
-                        <w>любо</w>
-                        <w>недугомъ.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>приносѧше</w>
-                        <w>дѣтищь</w>
-                        <w>болень,</w>
-                        <w>кацѣ<hi rend="sup">м</hi> 
-                           <lb/>
-                        </w>
-                        <w>любо</w>
-                        <w>недоуго<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>принесяше</w>
-                        <w>дѣтищь</w>
-                        <w>боленъ,</w>
-                        <w>кацѣмь</w>
-                        <w>любо</w>
-                        <w>недугомъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>принесяше</w>
-                        <w>дѣтищь</w>
-                        <w>больнъ,</w>
-                        <w>кацѣмь</w>
-                        <w>любо</w>
-                        <w>недугъмь</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>принесяше</w>
-                        <w>дѣтищь</w>
-                        <w>боленъ,</w>
-                        <w>кацѣмь</w>
-                        <w>любо</w>
-                        <w>недугом</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>189, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="10"><p>
+<app>
+<lem wit="#lem">
+<w>принесяше</w>
+<w>дѣтищь</w>
+<w>больнъ,</w>
+<w>кацѣмь</w>
+<w>любо</w>
+<w>недугъмь</w>
+</lem>
+
+<rdg wit="#lav">
+<w>принесѧше</w>
+<w>дѣтищь <lb/></w>
+
+<w>боленъ.</w>
+<w>кацѣмь</w>
+<w>любо</w>
+<w>недуго<hi rend="sup">м</hi><lb/></w>
+</rdg>
+
+<rdg wit="#rad">
+</rdg>
+
+<rdg wit="#aka">
+</rdg>
+
+<rdg wit="#ipa">
+<w>прине<lb/>сѧше</w>
+<w>дѣтищь</w>
+<w>боленъ.</w>
+<w>каци<lb/>мъ</w>
+<w>любо</w>
+<w>недугомъ.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>приносѧше</w>
+<w>дѣтищь</w>
+<w>болень,</w>
+<w>кацѣ<hi rend="sup">м</hi><lb/></w>
+<w>любо</w>
+<w>недоуго<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>принесяше</w>
+<w>дѣтищь</w>
+<w>боленъ,</w>
+<w>кацѣмь</w>
+<w>любо</w>
+<w>недугомъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>принесяше</w>
+<w>дѣтищь</w>
+<w>больнъ,</w>
+<w>кацѣмь</w>
+<w>любо</w>
+<w>недугъмь</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>принесяше</w>
+<w>дѣтищь</w>
+<w>боленъ,</w>
+<w>кацѣмь</w>
+<w>любо</w>
+<w>недугом</w>
+</rdg>
+</app></p></div></body></text></TEI>

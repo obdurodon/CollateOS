@@ -1,100 +1,81 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>2, 3</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="3">
-            <p>
-               <app>
-                  <lem>
-                     <w>прилежащи</w>
-                     <w>доже</w>
-                     <w>до</w>
-                     <w>Куриния,</w>
-                     <w>Мармария,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>прилежащи. <lb/>
-                        </w>
-                        <w>до</w>
-                        <w>куриниа.</w>
-                        <w>маръмарья.</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>прилежащи</w>
-                        <w>до</w>
-                        <w>куриния</w>
-                        <w>маръмарья</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>прилежащи.</w>
-                        <w>даже</w>
-                        <w>ко</w>
-                        <w>коуринїи <lb/>
-                        </w>
-                        <w>мармариа.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>прї<lb/>лежащи.</w>
-                        <w>даже</w>
-                        <w>ко</w>
-                        <w>кѹринїи.</w>
-                        <w>мармїа.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>прилежащи.</w>
-                        <w>доже</w>
-                        <w>до</w>
-                        <w>ку<lb/>риния.</w>
-                        <w>мармариа.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>прилежащи<hi rend="sup">а</hi>
-                        </w>
-                        <w>даже</w>
-                        <w>до</w>
-                        <w>кѵри<lb/>нїа.</w>
-                        <w>мармарїа.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>прилежащи</w>
-                        <w>до</w>
-                        <w>Куриниа,</w>
-                        <w>Маръмарья,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>прилежащи</w>
-                        <w>доже</w>
-                        <w>и</w>
-                        <w>до</w>
-                        <w>Куриния,</w>
-                        <w>Мармария,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>прилежащи</w>
-                        <w>до</w>
-                        <w>Куриниа,</w>
-                        <w>Маръмарья,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>2, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="3"><p>
+<app>
+<lem wit="#lem">
+<w>прилежащи</w>
+<w>доже</w>
+<w>до</w>
+<w>Куриния,</w>
+<w>Мармария,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>прилежащи. <lb/></w>
+
+<w>до</w>
+<w>куриниа.</w>
+<w>маръмарья.</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>прилежащи</w>
+<w>до</w>
+<w>куриния</w>
+<w>маръмарья</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>прилежащи.</w>
+<w>даже</w>
+<w>ко</w>
+<w>коуринїи <lb/></w>
+
+<w>мармариа.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>прї<lb/>лежащи.</w>
+<w>даже</w>
+<w>ко</w>
+<w>кѹринїи.</w>
+<w>мармїа.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>прилежащи.</w>
+<w>доже</w>
+<w>до</w>
+<w>ку<lb/>риния.</w>
+<w>мармариа.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>прилежащи<hi rend="sup">а</hi></w>
+<w>даже</w>
+<w>до</w>
+<w>кѵри<lb/>нїа.</w>
+<w>мармарїа.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>прилежащи</w>
+<w>до</w>
+<w>Куриниа,</w>
+<w>Маръмарья,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>прилежащи</w>
+<w>доже</w>
+<w>и</w>
+<w>до</w>
+<w>Куриния,</w>
+<w>Мармария,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>прилежащи</w>
+<w>до</w>
+<w>Куриниа,</w>
+<w>Маръмарья,</w>
+</rdg>
+</app></p></div></body></text></TEI>

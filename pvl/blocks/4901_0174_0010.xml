@@ -1,151 +1,130 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>174, 10</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="10">
-            <p>
-               <app>
-                  <lem>
-                     <w>гору,</w>
-                     <w>и</w>
-                     <w>прогъна</w>
-                     <w>Вьсеслава</w>
-                     <w>ис</w>
-                     <w>Полотьска,</w>
-                     <w>посади</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>гору.</w>
-                        <w>и</w>
-                        <w>прогна</w>
-                        <w>всеслава <lb/>
-                        </w>
-                        <w>ис</w>
-                        <w>полотьска.</w>
-                        <w>посади</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>горѹ.</w>
-                        <w>и</w>
-                        <w>прогна</w>
-                        <w>всеслава</w>
-                        <w>ис</w>
-                        <w>полоцка.</w>
-                        <w>поса<hi rend="sup">д</hi>
-                        </w>
-                        <w>
-                           <pb n="102r"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>горѹ.</w>
-                        <w>и</w>
-                        <w>прогна <lb/>
-                        </w>
-                        <w>всеслава</w>
-                        <w>ис</w>
-                        <w>полоцка.</w>
-                        <w>посади</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>го<lb/>ру.</w>
-                        <w>и</w>
-                        <w>прогна</w>
-                        <w>всеслава</w>
-                        <w>ис</w>
-                        <w>полоть<lb/>ска.</w>
-                        <w>и</w>
-                        <w>посади</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>гороу.</w>
-                        <w>и</w>
-                        <w>прогна</w>
-                        <w>всесла<lb/>ва</w>
-                        <w>ис</w>
-                        <w>полѡ<hi rend="sup">т</hi>ска.</w>
-                        <w>и</w>
-                        <w>пос<hi rend="sup">д</hi>а<hi rend="sup">и</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>гору</w>
-                        <w>и</w>
-                        <w>прогна</w>
-                        <w>всеслава</w>
-                        <w>ис</w>
-                        <w>полотьска</w>
-                        <w>и</w>
-                        <w>посади</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>гору</w>
-                        <w>и</w>
-                        <w>прогна</w>
-                        <w>всеслава</w>
-                        <w>ис</w>
-                        <w>полотска</w>
-                        <w>и</w>
-                        <w>посади</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>гору</w>
-                        <w>и</w>
-                        <w>прогна</w>
-                        <w>всеслава</w>
-                        <w>ис</w>
-                        <w>полотьска</w>
-                        <w>и</w>
-                        <w>посади</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>гору,</w>
-                        <w>и</w>
-                        <w>прогна</w>
-                        <w>Всеслава</w>
-                        <w>ис</w>
-                        <w>Полотьска,</w>
-                        <w>посади</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>гору,</w>
-                        <w>и</w>
-                        <w>прогъна</w>
-                        <w>Вьсеслава</w>
-                        <w>ис</w>
-                        <w>Полотьска,</w>
-                        <w>и</w>
-                        <w>посади</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>гору,</w>
-                        <w>и</w>
-                        <w>прогна</w>
-                        <w>Всеслава</w>
-                        <w>ис</w>
-                        <w>Полотьска,</w>
-                        <w>посади</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>174, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="10"><p>
+<app>
+<lem wit="#lem">
+<w>гору,</w>
+<w>и</w>
+<w>прогъна</w>
+<w>Вьсеслава</w>
+<w>ис</w>
+<w>Полотьска,</w>
+<w>посади</w>
+</lem>
+
+<rdg wit="#lav">
+<w>гору.</w>
+<w>и</w>
+<w>прогна</w>
+<w>всеслава <lb/></w>
+
+<w>ис</w>
+<w>полотьска.</w>
+<w>посади</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>горѹ.</w>
+<w>и</w>
+<w>прогна</w>
+<w>всеслава</w>
+<w>ис</w>
+<w>полоцка.</w>
+<w>поса<hi rend="sup">д</hi><pb n="102r"/></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>горѹ.</w>
+<w>и</w>
+<w>прогна <lb/></w>
+
+<w>всеслава</w>
+<w>ис</w>
+<w>полоцка.</w>
+<w>посади</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>го<lb/>ру.</w>
+<w>и</w>
+<w>прогна</w>
+<w>всеслава</w>
+<w>ис</w>
+<w>полоть<lb/>ска.</w>
+<w>и</w>
+<w>посади</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>гороу.</w>
+<w>и</w>
+<w>прогна</w>
+<w>всесла<lb/>ва</w>
+<w>ис</w>
+<w>полѡ<hi rend="sup">т</hi>ска.</w>
+<w>и</w>
+<w>пос<hi rend="sup">д</hi>а<hi rend="sup">и</hi></w>
+</rdg>
+
+<rdg wit="#kom">
+<w>гору</w>
+<w>и</w>
+<w>прогна</w>
+<w>всеслава</w>
+<w>ис</w>
+<w>полотьска</w>
+<w>и</w>
+<w>посади</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>гору</w>
+<w>и</w>
+<w>прогна</w>
+<w>всеслава</w>
+<w>ис</w>
+<w>полотска</w>
+<w>и</w>
+<w>посади</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>гору</w>
+<w>и</w>
+<w>прогна</w>
+<w>всеслава</w>
+<w>ис</w>
+<w>полотьска</w>
+<w>и</w>
+<w>посади</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>гору,</w>
+<w>и</w>
+<w>прогна</w>
+<w>Всеслава</w>
+<w>ис</w>
+<w>Полотьска,</w>
+<w>посади</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>гору,</w>
+<w>и</w>
+<w>прогъна</w>
+<w>Вьсеслава</w>
+<w>ис</w>
+<w>Полотьска,</w>
+<w>и</w>
+<w>посади</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>гору,</w>
+<w>и</w>
+<w>прогна</w>
+<w>Всеслава</w>
+<w>ис</w>
+<w>Полотьска,</w>
+<w>посади</w>
+</rdg>
+</app></p></div></body></text></TEI>

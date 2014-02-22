@@ -1,111 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>240, 7</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="7">
-            <p>
-               <app>
-                  <lem>
-                     <w>Ольгъ</w>
-                     <w>же</w>
-                     <w>прибѣже</w>
-                     <w>къ</w>
-                     <w>Мурому,</w>
-                     <w>и</w>
-                     <w>затвори</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ѡлег</w>
-                        <w>же</w>
-                        <w>прибѣже</w>
-                        <w>к</w>
-                        <w>мурому· <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>затвори</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ѡлег</w>
-                        <w>же</w>
-                        <w>побеже</w>
-                        <w>к</w>
-                        <w>мѹромѹ·</w>
-                        <w>и</w>
-                        <w>затвори</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ѡлегъ</w>
-                        <w>же</w>
-                        <w>побѣже</w>
-                        <w>к</w>
-                        <w>мѹ<lb/>ромѹ·</w>
-                        <w>и</w>
-                        <w>затвори</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ѡле<lb/>гъ</w>
-                        <w>же</w>
-                        <w>приб<sic>ѣ</sic>же</w>
-                        <w>мурому</w>
-                        <w>и</w>
-                        <w>за<lb/>твори</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ѡлег</w>
-                        <w>же</w>
-                        <w>прибѣже <lb/>
-                        </w>
-                        <w>к</w>
-                        <w>моуромоу.</w>
-                        <w>и</w>
-                        <w>затвори</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Олегъ</w>
-                        <w>же</w>
-                        <w>прибѣже</w>
-                        <w>к</w>
-                        <w>Мурому,</w>
-                        <w>и</w>
-                        <w>затвори</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Ольгъ</w>
-                        <w>же</w>
-                        <w>прибѣже</w>
-                        <w>Мурому,</w>
-                        <w>и</w>
-                        <w>затвори</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Олег</w>
-                        <w>же</w>
-                        <w>прибѣже</w>
-                        <w>к</w>
-                        <w>Мурому,</w>
-                        <w>и</w>
-                        <w>затвори</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>240, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="7"><p>
+<app>
+<lem wit="#lem">
+<w>Ольгъ</w>
+<w>же</w>
+<w>прибѣже</w>
+<w>къ</w>
+<w>Мурому,</w>
+<w>и</w>
+<w>затвори</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ѡлег</w>
+<w>же</w>
+<w>прибѣже</w>
+<w>к</w>
+<w>мурому· <lb/></w>
+
+<w>и</w>
+<w>затвори</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ѡлег</w>
+<w>же</w>
+<w>побеже</w>
+<w>к</w>
+<w>мѹромѹ·</w>
+<w>и</w>
+<w>затвори</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ѡлегъ</w>
+<w>же</w>
+<w>побѣже</w>
+<w>к</w>
+<w>мѹ<lb/>ромѹ·</w>
+<w>и</w>
+<w>затвори</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ѡле<lb/>гъ</w>
+<w>же</w>
+<w>приб<milestone unit="sic" n="start"/>ѣ<milestone unit="sic" n="end"/>же</w>
+<w>мурому</w>
+<w>и</w>
+<w>за<lb/>твори</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ѡлег</w>
+<w>же</w>
+<w>прибѣже <lb/></w>
+
+<w>к</w>
+<w>моуромоу.</w>
+<w>и</w>
+<w>затвори</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Олегъ</w>
+<w>же</w>
+<w>прибѣже</w>
+<w>к</w>
+<w>Мурому,</w>
+<w>и</w>
+<w>затвори</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Ольгъ</w>
+<w>же</w>
+<w>прибѣже</w>
+<w>Мурому,</w>
+<w>и</w>
+<w>затвори</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Олег</w>
+<w>же</w>
+<w>прибѣже</w>
+<w>к</w>
+<w>Мурому,</w>
+<w>и</w>
+<w>затвори</w>
+</rdg>
+</app></p></div></body></text></TEI>

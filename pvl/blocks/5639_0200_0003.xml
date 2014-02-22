@@ -1,107 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>200, 3</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="3">
-            <p>
-               <app>
-                  <lem>
-                     <w>Святопълку</w>
-                     <w>въ</w>
-                     <w>Новѣгородѣ,</w>
-                     <w>сыну</w>
-                     <w>Изяславлю,</w>
-                     <w>Яропълку</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>мѣсто</w>
-                        <w>новѣгородѣ.</w>
-                        <w>сн҃у</w>
-                        <w>изѧсла<lb/>влю.</w>
-                        <w>ярополку</w>
-                        <w>
-                           <pb n="67b"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ст҃ополкѹ</w>
-                        <w>в</w>
-                        <w>новѣгоро<hi rend="sup">д</hi>.</w>
-                        <w>а</w>
-                        <w>сн҃оу</w>
-                        <w>изѧславлю <lb/>
-                        </w>
-                        <w>ярополкѹ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ст҃ополкѹ <lb/>
-                        </w>
-                        <w>в</w>
-                        <w>новѣгородѣ.</w>
-                        <w>а</w>
-                        <w>сн҃ѹ</w>
-                        <w>изѧславлю</w>
-                        <w>ярополкѹ <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ст҃ополку</w>
-                        <w>в</w>
-                        <w>новѣгородѣ.</w>
-                        <w>сн҃у <lb/>
-                        </w>
-                        <w>изѧславлю.</w>
-                        <w>ярополку.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>с҃то<lb/>по<hi rend="sup">л</hi>коу</w>
-                        <w>в</w>
-                        <w>новѣгородѣ.</w>
-                        <w>сноу҃</w>
-                        <w>изѧславлю.</w>
-                        <w>яропѡ<hi rend="sup">л</hi>коу</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>мѣсто</w>
-                        <w>Новѣгородѣ,</w>
-                        <w>сыну</w>
-                        <w>Изяславлю,</w>
-                        <w>Ярополку</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>мѣсто</w>
-                        <w>Новѣгородѣ,</w>
-                        <w>сыну</w>
-                        <w>Изяславлю,</w>
-                        <w>Яропълку</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>мѣсто</w>
-                        <w>Новѣгородѣ,</w>
-                        <w>сыну</w>
-                        <w>Изяславлю,</w>
-                        <w>Ярополку</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>200, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="3"><p>
+<app>
+<lem wit="#lem">
+<w>Святопълку</w>
+<w>въ</w>
+<w>Новѣгородѣ,</w>
+<w>сыну</w>
+<w>Изяславлю,</w>
+<w>Яропълку</w>
+</lem>
+
+<rdg wit="#lav">
+<w>мѣсто</w>
+<w>новѣгородѣ.</w>
+<w>сн҃у</w>
+<w>изѧсла<lb/>влю.</w>
+<w>ярополку <pb n="67b"/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>ст҃ополкѹ</w>
+<w>в</w>
+<w>новѣгоро<hi rend="sup">д</hi>.</w>
+<w>а</w>
+<w>сн҃оу</w>
+<w>изѧславлю <lb/></w>
+
+<w>ярополкѹ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ст҃ополкѹ <lb/></w>
+
+<w>в</w>
+<w>новѣгородѣ.</w>
+<w>а</w>
+<w>сн҃ѹ</w>
+<w>изѧславлю</w>
+<w>ярополкѹ <lb/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>ст҃ополку</w>
+<w>в</w>
+<w>новѣгородѣ.</w>
+<w>сн҃у <lb/></w>
+
+<w>изѧславлю.</w>
+<w>ярополку.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>с҃то<lb/>по<hi rend="sup">л</hi>коу</w>
+<w>в</w>
+<w>новѣгородѣ.</w>
+<w>сноу҃</w>
+<w>изѧславлю.</w>
+<w>яропѡ<hi rend="sup">л</hi>коу</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>мѣсто</w>
+<w>Новѣгородѣ,</w>
+<w>сыну</w>
+<w>Изяславлю,</w>
+<w>Ярополку</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>мѣсто</w>
+<w>Новѣгородѣ,</w>
+<w>сыну</w>
+<w>Изяславлю,</w>
+<w>Яропълку</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>мѣсто</w>
+<w>Новѣгородѣ,</w>
+<w>сыну</w>
+<w>Изяславлю,</w>
+<w>Ярополку</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,108 +1,90 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>211, 1</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="1">
-            <p>
-               <app>
-                  <lem>
-                     <w>Климента</w>
-                     <w>егоже</w>
-                     <w>постави</w>
-                     <w>игумена</w>
-                     <w>по</w>
-                     <w>собѣ.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>климета·</w>
-                        <w>ѥгоже</w>
-                        <w>игуме<lb/>на</w>
-                        <w>постави</w>
-                        <w>в</w>
-                        <w>своѥ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>климента·</w>
-                        <w>егоже</w>
-                        <w>постави</w>
-                        <w>игоумена</w>
-                        <w>в</w>
-                        <w>себе</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>климента·</w>
-                        <w>егоже</w>
-                        <w>постави</w>
-                        <w>игѹмена</w>
-                        <w>в</w>
-                        <w>себе</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>климѧнта·</w>
-                        <w>егоже</w>
-                        <w>постави</w>
-                        <w>игумена <lb/>
-                        </w>
-                        <w>по</w>
-                        <w>собѣ·</w>
-                        <w>
-                           <pb n="78b"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>климе<hi rend="sup">н</hi>та</w>
-                        <w>его<hi rend="sup">ж</hi>·</w>
-                        <w>постави <lb/>
-                        </w>
-                        <w>игоумена</w>
-                        <w>по</w>
-                        <w>себѣ.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Климента,</w>
-                        <w>егоже</w>
-                        <w>игумена</w>
-                        <w>постави</w>
-                        <w>в</w>
-                        <w>свое 204,8</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Климента,</w>
-                        <w>егоже</w>
-                        <w>постави</w>
-                        <w>игумена</w>
-                        <w>въ</w>
-                        <w>свое 267,9</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Климента</w>
-                        <w>его</w>
-                        <w>же</w>
-                        <w>игумена</w>
-                        <w>постави</w>
-                        <w>в</w>
-                        <w>свое 139,1</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>211, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="1"><p>
+<app>
+<lem wit="#lem">
+<w>Климента</w>
+<w>егоже</w>
+<w>постави</w>
+<w>игумена</w>
+<w>по</w>
+<w>собѣ.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>климета·</w>
+<w>ѥгоже</w>
+<w>игуме<lb/>на</w>
+<w>постави</w>
+<w>в</w>
+<w>своѥ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>климента·</w>
+<w>егоже</w>
+<w>постави</w>
+<w>игоумена</w>
+<w>в</w>
+<w>себе</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>климента·</w>
+<w>егоже</w>
+<w>постави</w>
+<w>игѹмена</w>
+<w>в</w>
+<w>себе</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>климѧнта·</w>
+<w>егоже</w>
+<w>постави</w>
+<w>игумена <lb/></w>
+
+<w>по</w>
+<w>собѣ· <pb n="78b"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>климе<hi rend="sup">н</hi>та</w>
+<w>его<hi rend="sup">ж</hi>·</w>
+<w>постави <lb/></w>
+
+<w>игоумена</w>
+<w>по</w>
+<w>себѣ.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Климента,</w>
+<w>егоже</w>
+<w>игумена</w>
+<w>постави</w>
+<w>в</w>
+<w>свое</w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>Климента,</w>
+<w>егоже</w>
+<w>постави</w>
+<w>игумена</w>
+<w>въ</w>
+<w>свое</w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>Климента</w>
+<w>его</w>
+<w>же</w>
+<w>игумена</w>
+<w>постави</w>
+<w>в</w>
+<w>свое</w>
+
+</rdg>
+</app></p></div></body></text></TEI>

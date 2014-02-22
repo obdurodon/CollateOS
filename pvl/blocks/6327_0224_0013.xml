@@ -1,93 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>224, 13</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="13">
-            <p>
-               <app>
-                  <lem>
-                     <w>падъшая</w>
-                     <w>въставить,</w>
-                     <w>Адамле</w>
-                     <w>преступление</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>созда</w>
-                        <w>падшая</w>
-                        <w>встави<lb/>ть·</w>
-                        <w>адамле</w>
-                        <w>преступленье·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>созда</w>
-                        <w>па<hi rend="sup">д</hi>шая·</w>
-                        <w>въставить.</w>
-                        <w>адамле</w>
-                        <w>престѹпление·</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>съз<hi rend="sup">д</hi>а</w>
-                        <w>па<hi rend="sup">д</hi>шаѧ</w>
-                        <w>въстави<lb/>ть·</w>
-                        <w>адамле</w>
-                        <w>престѹпленїе·</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>падшая</w>
-                        <w>оуставить·</w>
-                        <w>адамле <lb/>
-                        </w>
-                        <w>преступленье</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>па<hi rend="sup">д</hi>шаа</w>
-                        <w>въста<lb/>ви<hi rend="sup">т</hi>.</w>
-                        <w>адамле</w>
-                        <w>престоупленїе</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>созда,</w>
-                        <w>падшая</w>
-                        <w>въстави,</w>
-                        <w>Адамле</w>
-                        <w>преступленье</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>съзьдания</w>
-                        <w>падъшая</w>
-                        <w>въстави,</w>
-                        <w>Адамле</w>
-                        <w>преступление</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>созда,</w>
-                        <w>падшая</w>
-                        <w>въстави,</w>
-                        <w>Адамле</w>
-                        <w>преступленье</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>224, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="13"><p>
+<app>
+<lem wit="#lem">
+<w>падъшая</w>
+<w>въставить,</w>
+<w>Адамле</w>
+<w>преступление</w>
+</lem>
+
+<rdg wit="#lav">
+<w>созда</w>
+<w>падшая</w>
+<w>встави<lb/>ть·</w>
+<w>адамле</w>
+<w>преступленье·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>созда</w>
+<w>па<hi rend="sup">д</hi>шая·</w>
+<w>въставить.</w>
+<w>адамле</w>
+<w>престѹпление·</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>съз<hi rend="sup">д</hi>а</w>
+<w>па<hi rend="sup">д</hi>шаѧ</w>
+<w>въстави<lb/>ть·</w>
+<w>адамле</w>
+<w>престѹпленїе·</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>падшая</w>
+<w>оуставить·</w>
+<w>адамле <lb/></w>
+
+<w>преступленье</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>па<hi rend="sup">д</hi>шаа</w>
+<w>въста<lb/>ви<hi rend="sup">т</hi>.</w>
+<w>адамле</w>
+<w>престоупленїе</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>созда,</w>
+<w>падшая</w>
+<w>въстави,</w>
+<w>Адамле</w>
+<w>преступленье</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>съзьдания</w>
+<w>падъшая</w>
+<w>въстави,</w>
+<w>Адамле</w>
+<w>преступление</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>созда,</w>
+<w>падшая</w>
+<w>въстави,</w>
+<w>Адамле</w>
+<w>преступленье</w>
+</rdg>
+</app></p></div></body></text></TEI>

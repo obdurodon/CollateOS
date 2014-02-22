@@ -1,127 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>89, 30</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="30">
-            <p>
-               <app>
-                  <lem>
-                     <w>бяста,</w>
-                     <w>и</w>
-                     <w>дияволъ</w>
-                     <w>радоваше</w>
-                     <w>ся,</w>
-                     <w>рекъ:</w>
-                     <w>“Се,</w>
-                     <w>егоже</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>бѣста.</w>
-                        <w>и</w>
-                        <w>дьяволъ</w>
-                        <w>радова<lb/>ше<hi rend="sup">с</hi>
-                        </w>
-                        <w>рька.</w>
-                        <w>се</w>
-                        <w>егоже</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>бѣста.</w>
-                        <w>а</w>
-                        <w>дьяволъ</w>
-                        <w>ра<hi rend="sup">д</hi>ваше<hi rend="sup">с</hi>
-                        </w>
-                        <w>ре<hi rend="sup">к</hi>.</w>
-                        <w>се</w>
-                        <w>е<hi rend="sup">г</hi>же</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>бѣста</w>
-                        <w>дїяволъ</w>
-                        <w>радовашесѧ</w>
-                        <w>река.</w>
-                        <w>се</w>
-                        <w>его<lb/>же</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>бѧста.</w>
-                        <w>и</w>
-                        <w>дьяволъ</w>
-                        <w>радовашесѧ</w>
-                        <w>рекъ.</w>
-                        <w>сего<lb/>же</w>
-                        <w>
-                           <pb n="35c"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>бѧста.</w>
-                        <w>и</w>
-                        <w>дїаво<hi rend="sup">л</hi> 
-                           <lb/>
-                        </w>
-                        <w>радовашесѧ</w>
-                        <w>рекь.</w>
-                        <w>се</w>
-                        <w>егоже</w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>зѣло</w>
-                        <w>и</w>
-                        <w>дияволъ</w>
-                        <w>радовашеся</w>
-                        <w>рекъ</w>
-                        <w>се</w>
-                        <w>егоже</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>бѣста,</w>
-                        <w>и</w>
-                        <w>дьяволъ</w>
-                        <w>радовашеся,</w>
-                        <w>рька:</w>
-                        <w>“се,</w>
-                        <w>егоже</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>бѣста,</w>
-                        <w>и</w>
-                        <w>дияволъ</w>
-                        <w>радовашеся,</w>
-                        <w>рекъ:</w>
-                        <w>“се,</w>
-                        <w>егоже</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>бѣста,</w>
-                        <w>и</w>
-                        <w>дьяволъ</w>
-                        <w>радовашеся,</w>
-                        <w>рька:</w>
-                        <w>“Се,</w>
-                        <w>его</w>
-                        <w>же</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>89, 30</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="30"><p>
+<app>
+<lem wit="#lem">
+<w>бяста,</w>
+<w>и</w>
+<w>дияволъ</w>
+<w>радоваше</w>
+<w>ся,</w>
+<w>рекъ:</w>
+<w>“Се,</w>
+<w>егоже</w>
+</lem>
+
+<rdg wit="#lav">
+<w>бѣста.</w>
+<w>и</w>
+<w>дьяволъ</w>
+<w>радова<lb/>ше<hi rend="sup">с</hi></w>
+<w>рька.</w>
+<w>се</w>
+<w>егоже</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>бѣста.</w>
+<w>а</w>
+<w>дьяволъ</w>
+<w>ра<hi rend="sup">д</hi>ваше<hi rend="sup">с</hi></w>
+<w>ре<hi rend="sup">к</hi>.</w>
+<w>се</w>
+<w>е<hi rend="sup">г</hi>же</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>бѣста</w>
+<w>дїяволъ</w>
+<w>радовашесѧ</w>
+<w>река.</w>
+<w>се</w>
+<w>его<lb/>же</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>бѧста.</w>
+<w>и</w>
+<w>дьяволъ</w>
+<w>радовашесѧ</w>
+<w>рекъ.</w>
+<w>сего<lb/>же <pb n="35c"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>бѧста.</w>
+<w>и</w>
+<w>дїаво<hi rend="sup">л</hi><lb/></w>
+<w>радовашесѧ</w>
+<w>рекь.</w>
+<w>се</w>
+<w>егоже</w>
+</rdg>
+
+<rdg wit="#kom">
+<w>зѣло</w>
+<w>и</w>
+<w>дияволъ</w>
+<w>радовашеся</w>
+<w>рекъ</w>
+<w>се</w>
+<w>егоже</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>бѣста,</w>
+<w>и</w>
+<w>дьяволъ</w>
+<w>радовашеся,</w>
+<w>рька:</w>
+<w>“се,</w>
+<w>егоже</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>бѣста,</w>
+<w>и</w>
+<w>дияволъ</w>
+<w>радовашеся,</w>
+<w>рекъ:</w>
+<w>“се,</w>
+<w>егоже</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>бѣста,</w>
+<w>и</w>
+<w>дьяволъ</w>
+<w>радовашеся,</w>
+<w>рька:</w>
+<w>“Се,</w>
+<w>его</w>
+<w>же</w>
+</rdg>
+</app></p></div></body></text></TEI>

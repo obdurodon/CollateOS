@@ -1,126 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>193, 17</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="17">
-            <p>
-               <app>
-                  <lem>
-                     <w>дѣиства”.</w>
-                     <w>И</w>
-                     <w>положиша</w>
-                     <w>и</w>
-                     <w>на</w>
-                     <w>одрѣ</w>
-                     <w>и</w>
-                     <w>служаше</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>
-                           <sic>дѣи</sic>ства</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>
-                           <sic>положиша и на ѡдр</sic>ѣ.</w>
-                        <w>служа<lb/>
-                        </w>
-                        <w>
-                           <sic>ше</sic>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>дѣиства.</w>
-                        <w>и</w>
-                        <w>положиша</w>
-                        <w>и</w>
-                        <w>на</w>
-                        <w>ѡдрѣ.</w>
-                        <w>и</w>
-                        <w>слоужи<lb/>ша</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>дѣиства.</w>
-                        <w>и</w>
-                        <w>положиша</w>
-                        <w>и</w>
-                        <w>на</w>
-                        <w>ѡдрѣ.</w>
-                        <w>и</w>
-                        <w>слѹжааше <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>дѣи<lb/>ства.</w>
-                        <w>и</w>
-                        <w>положиша</w>
-                        <w>и</w>
-                        <w>на</w>
-                        <w>ѡдрѣ. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>служаше</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>дѣиства.</w>
-                        <w>и</w>
-                        <w>положи</w>
-                        <w>его</w>
-                        <w>на <lb/>
-                        </w>
-                        <w>одрѣ.</w>
-                        <w>и</w>
-                        <w>слоужаше</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>дѣйства”;</w>
-                        <w>и</w>
-                        <w>положиша</w>
-                        <w>и</w>
-                        <w>на</w>
-                        <w>одрѣ</w>
-                        <w>и</w>
-                        <w>служаше</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>дѣиства”.</w>
-                        <w>И</w>
-                        <w>положиша</w>
-                        <w>и</w>
-                        <w>на</w>
-                        <w>одрѣ,</w>
-                        <w>и</w>
-                        <w>служаше</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>дѣйства”.</w>
-                        <w>И</w>
-                        <w>положиша</w>
-                        <w>и</w>
-                        <w>на</w>
-                        <w>одрѣ</w>
-                        <w>и</w>
-                        <w>служаше</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>193, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="17"><p>
+<app>
+<lem wit="#lem">
+<w>дѣиства”.</w>
+<w>И</w>
+<w>положиша</w>
+<w>и</w>
+<w>на</w>
+<w>одрѣ</w>
+<w>и</w>
+<w>служаше</w>
+</lem>
+
+<rdg wit="#lav">
+<w><milestone unit="sic" n="start"/>дѣи<milestone unit="sic" n="end"/>ства</w>
+<w>и <lb/><milestone unit="sic" n="start"/>положиша</w>
+
+<w>и</w>
+<w>на</w>
+<w>ѡдр<milestone unit="sic" n="end"/>ѣ.</w>
+<w>служа<lb/><milestone unit="sic" n="start"/>ше<milestone unit="sic" n="end"/></w>
+</rdg>
+
+<rdg wit="#rad">
+<w>дѣиства.</w>
+<w>и</w>
+<w>положиша</w>
+<w>и</w>
+<w>на</w>
+<w>ѡдрѣ.</w>
+<w>и</w>
+<w>слоужи<lb/>ша</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>дѣиства.</w>
+<w>и</w>
+<w>положиша</w>
+<w>и</w>
+<w>на</w>
+<w>ѡдрѣ.</w>
+<w>и</w>
+<w>слѹжааше <lb/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>дѣи<lb/>ства.</w>
+<w>и</w>
+<w>положиша</w>
+<w>и</w>
+<w>на</w>
+<w>ѡдрѣ. <lb/></w>
+
+<w>и</w>
+<w>служаше</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>дѣиства.</w>
+<w>и</w>
+<w>положи</w>
+<w>его</w>
+<w>на <lb/></w>
+
+<w>одрѣ.</w>
+<w>и</w>
+<w>слоужаше</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>дѣйства”;</w>
+<w>и</w>
+<w>положиша</w>
+<w>и</w>
+<w>на</w>
+<w>одрѣ</w>
+<w>и</w>
+<w>служаше</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>дѣиства”.</w>
+<w>И</w>
+<w>положиша</w>
+<w>и</w>
+<w>на</w>
+<w>одрѣ,</w>
+<w>и</w>
+<w>служаше</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>дѣйства”.</w>
+<w>И</w>
+<w>положиша</w>
+<w>и</w>
+<w>на</w>
+<w>одрѣ</w>
+<w>и</w>
+<w>служаше</w>
+</rdg>
+</app></p></div></body></text></TEI>

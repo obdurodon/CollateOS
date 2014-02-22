@@ -1,116 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>18, 7</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="7">
-            <p>
-               <app>
-                  <lem>
-                     <w>плѣнения</w>
-                     <w>до</w>
-                     <w>Александра</w>
-                     <w>лѣтъ 318;</w>
-                     <w>а</w>
-                     <w>отъ</w>
-                     <w>Александра</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>пл<hi rend="sup">ѣ</hi> 
-                           <lb/>
-                        </w>
-                        <w>до</w>
-                        <w>ѡлексанъдра</w>
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>.т҃.и҃і.</w>
-                        <w>а</w>
-                        <w>ѿ</w>
-                        <w>ѡлексанъдра <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad"/>
-                     <rdg wit="#aka">
-                        <w>плененїа</w>
-                        <w>до</w>
-                        <w>александра. <lb/>
-                        </w>
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>.т҃.и҃.і҃.</w>
-                        <w>а</w>
-                        <w>ѿ</w>
-                        <w>александра</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>плѣнения</w>
-                        <w>до <lb/>
-                        </w>
-                        <w>александра.</w>
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>т҃.и҃і. <lb/>
-                        </w>
-                        <w>ѿ</w>
-                        <w>лександра</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>плененїа</w>
-                        <w>до</w>
-                        <w>алеѯа<hi rend="sup">н</hi>дра</w>
-                        <w>лѣ<hi rend="sup">т</hi>.</w>
-                        <w>т҃.и҃і.</w>
-                        <w>а</w>
-                        <w>ѿ</w>
-                        <w>алеѯа<hi rend="sup">н</hi>дра</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>плѣненья</w>
-                        <w>до</w>
-                        <w>Олексанъдра</w>
-                        <w>лѣтъ 318;</w>
-                        <w>а</w>
-                        <w>отъ</w>
-                        <w>Олексанъдра</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>плѣнения</w>
-                        <w>до</w>
-                        <w>Александра</w>
-                        <w>лѣтъ 318;</w>
-                        <w>а</w>
-                        <w>отъ</w>
-                        <w>Александра</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>плѣненья</w>
-                        <w>до</w>
-                        <w>Олексанъдра</w>
-                        <w>лѣт 318;</w>
-                        <w>а</w>
-                        <w>отъ</w>
-                        <w>Олексанъдра</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="7"><p>
+<app>
+<lem wit="#lem">
+<w>плѣнения</w>
+<w>до</w>
+<w>Александра</w>
+<w>лѣтъ 318;</w>
+
+<w>а</w>
+<w>отъ</w>
+<w>Александра</w>
+</lem>
+
+<rdg wit="#lav">
+<w>пл<hi rend="sup">ѣ</hi><lb/>ненья</w>
+<w>до</w>
+<w>ѡлексанъдра</w>
+<w>лѣ<hi rend="sup">т</hi></w>
+<w>.т҃.и҃і.</w>
+<w>а</w>
+<w>ѿ</w>
+<w>ѡлексанъдра <lb/></w>
+
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+</rdg>
+
+<rdg wit="#aka">
+<w>плененїа</w>
+<w>до</w>
+<w>александра. <lb/></w>
+
+<w>лѣ<hi rend="sup">т</hi></w>
+<w>.т҃.и҃.і҃.</w>
+<w>а</w>
+<w>ѿ</w>
+<w>александра</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>плѣнения</w>
+<w>до <lb/></w>
+
+<w>александра.</w>
+<w>лѣ<hi rend="sup">т</hi></w>
+<w>т҃.и҃і. <lb/></w>
+
+<w>ѿ</w>
+<w>лександра</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>плененїа</w>
+<w>до</w>
+<w>алеѯа<hi rend="sup">н</hi>дра</w>
+<w>лѣ<hi rend="sup">т</hi>.</w>
+<w>т҃.и҃і.</w>
+<w>а</w>
+<w>ѿ</w>
+<w>алеѯа<hi rend="sup">н</hi>дра</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>плѣненья</w>
+<w>до</w>
+<w>Олексанъдра</w>
+<w>лѣтъ 318;</w>
+
+<w>а</w>
+<w>отъ</w>
+<w>Олексанъдра</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>плѣнения</w>
+<w>до</w>
+<w>Александра</w>
+<w>лѣтъ 318;</w>
+
+<w>а</w>
+<w>отъ</w>
+<w>Александра</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>плѣненья</w>
+<w>до</w>
+<w>Олексанъдра</w>
+<w>лѣт 318;</w>
+
+<w>а</w>
+<w>отъ</w>
+<w>Олексанъдра</w>
+</rdg>
+</app></p></div></body></text></TEI>

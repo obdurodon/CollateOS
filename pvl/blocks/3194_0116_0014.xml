@@ -1,120 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>116, 14</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="14">
-            <p>
-               <app>
-                  <lem>
-                     <w>средѣ</w>
-                     <w>града,</w>
-                     <w>крадуще</w>
-                     <w>присъпу,</w>
-                     <w>яже</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>средѣ</w>
-                        <w>града.</w>
-                        <w>крид<sic>у</sic>ще <lb/>
-                        </w>
-                        <w>приспу.</w>
-                        <w>яже</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>среди</w>
-                        <w>града</w>
-                        <w>крадоуще <lb/>
-                        </w>
-                        <w>персть</w>
-                        <w>приспоу.</w>
-                        <w>яже</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>средѣ <lb/>
-                        </w>
-                        <w>града.</w>
-                        <w>крадѹще</w>
-                        <w>персть</w>
-                        <w>приспѹ.</w>
-                        <w>яже</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>средѣ</w>
-                        <w>града.</w>
-                        <w>крадущ<sic>е</sic> 
-                           <lb/>
-                        </w>
-                        <w>приспу</w>
-                        <w>и</w>
-                        <w>яже</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#xle"/>
-                     <rdg wit="#kom">
-                        <w>средѣ</w>
-                        <w>града</w>
-                        <w>крадуще</w>
-                        <w>приспу</w>
-                        <w>сиа</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>посредѣ</w>
-                        <w>града</w>
-                        <w>крадуще</w>
-                        <w>приспу</w>
-                        <w>сиа</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>посредѣ</w>
-                        <w>града</w>
-                        <w>крадуще</w>
-                        <w>приспу</w>
-                        <w>сиа</w>
-                        <w>же</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>средѣ</w>
-                        <w>града,</w>
-                        <w>крадуще,</w>
-                        <w>приспу,</w>
-                        <w>яже</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>средѣ</w>
-                        <w>града,</w>
-                        <w>крадуще</w>
-                        <w>присъпу,</w>
-                        <w>яже</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>средѣ</w>
-                        <w>града,</w>
-                        <w>крадуще,</w>
-                        <w>приспу,</w>
-                        <w>яже</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>116, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="14"><p>
+<app>
+<lem wit="#lem">
+<w>средѣ</w>
+<w>града,</w>
+<w>крадуще</w>
+<w>присъпу,</w>
+<w>яже</w>
+</lem>
+
+<rdg wit="#lav">
+<w>средѣ</w>
+<w>града.</w>
+<w>крид<milestone unit="sic" n="start"/>у<milestone unit="sic" n="end"/>ще <lb/></w>
+
+<w>приспу.</w>
+<w>яже</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>среди</w>
+<w>града</w>
+<w>крадоуще <lb/></w>
+
+<w>персть</w>
+<w>приспоу.</w>
+<w>яже</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>средѣ <lb/></w>
+
+<w>града.</w>
+<w>крадѹще</w>
+<w>персть</w>
+<w>приспѹ.</w>
+<w>яже</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>средѣ</w>
+<w>града.</w>
+<w>крадущ<milestone unit="sic" n="start"/>е<milestone unit="sic" n="end"/><lb/></w>
+<w>приспу</w>
+<w>и</w>
+<w>яже</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#xle">
+</rdg>
+
+<rdg wit="#kom">
+<w>средѣ</w>
+<w>града</w>
+<w>крадуще</w>
+<w>приспу</w>
+<w>сиа</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>посредѣ</w>
+<w>града</w>
+<w>крадуще</w>
+<w>приспу</w>
+<w>сиа</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>посредѣ</w>
+<w>града</w>
+<w>крадуще</w>
+<w>приспу</w>
+<w>сиа</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>средѣ</w>
+<w>града,</w>
+<w>крадуще,</w>
+<w>приспу,</w>
+<w>яже</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>средѣ</w>
+<w>града,</w>
+<w>крадуще</w>
+<w>присъпу,</w>
+<w>яже</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>средѣ</w>
+<w>града,</w>
+<w>крадуще,</w>
+<w>приспу,</w>
+<w>яже</w>
+</rdg>
+</app></p></div></body></text></TEI>

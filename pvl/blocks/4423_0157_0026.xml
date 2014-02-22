@@ -1,129 +1,102 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>157, 26</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="26">
-            <p>
-               <app>
-                  <lem>
-                     <w>Святыя</w>
-                     <w>Горы,</w>
-                     <w>а</w>
-                     <w>язъ</w>
-                     <w>васъ</w>
-                     <w>постригалъ;</w>
-                     <w>да</w>
-                     <w>буди</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ст҃ыя</w>
-                        <w>горы.</w>
-                        <w>а</w>
-                        <w>язъ</w>
-                        <w>в<hi rend="sup">а</hi> 
-                           <lb/>
-                        </w>
-                        <w>постригалъ.</w>
-                        <w>да</w>
-                        <w>буди</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>
-                           <add place="margin">ст҃ыа горы</add>
-                        </w>
-                        <w>а</w>
-                        <w>я</w>
-                        <w>ва<hi rend="sup">с</hi>
-                        </w>
-                        <w>постриглъ.</w>
-                        <w>да</w>
-                        <w>боу<hi rend="sup">д</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ст҃ыя</w>
-                        <w>горы.</w>
-                        <w>а</w>
-                        <w>я</w>
-                        <w>ва<hi rend="sup">с</hi>
-                        </w>
-                        <w>постриглъ</w>
-                        <w>да</w>
-                        <w>бѹди</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ст҃ыя</w>
-                        <w>горы. <lb/>
-                        </w>
-                        <w>а</w>
-                        <w>я</w>
-                        <w>васъ</w>
-                        <w>постригалъ.</w>
-                        <w>да</w>
-                        <w>бу<lb/>ди</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ст҃ыа</w>
-                        <w>горы.</w>
-                        <w>а</w>
-                        <w>азъ</w>
-                        <w>ва<hi rend="sup">с</hi>
-                        </w>
-                        <w>постри<lb/>гль.</w>
-                        <w>да</w>
-                        <w>б<hi rend="sup">д</hi>ѫ<hi rend="sup">и</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Святыя</w>
-                        <w>Горы,</w>
-                        <w>а</w>
-                        <w>язъ</w>
-                        <w>васъ</w>
-                        <w>постригалъ;</w>
-                        <w>да</w>
-                        <w>буди</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Святыя</w>
-                        <w>Горы,</w>
-                        <w>а</w>
-                        <w>язъ</w>
-                        <w>васъ</w>
-                        <w>постригалъ:</w>
-                        <w>да</w>
-                        <w>буди</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Святыя</w>
-                        <w>Горы,</w>
-                        <w>а</w>
-                        <w>язъ</w>
-                        <w>васъ</w>
-                        <w>постригалъ;</w>
-                        <w>да</w>
-                        <w>буди</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>157, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="26"><p>
+<app>
+<lem wit="#lem">
+<w>Святыя</w>
+<w>Горы,</w>
+<w>а</w>
+<w>язъ</w>
+<w>васъ</w>
+<w>постригалъ;</w>
+<w>да</w>
+<w>буди</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ст҃ыя</w>
+<w>горы.</w>
+<w>а</w>
+<w>язъ</w>
+<w>в<hi rend="sup">а</hi><lb/>съ</w>
+<w>постригалъ.</w>
+<w>да</w>
+<w>буди</w>
+</rdg>
+
+<rdg wit="#rad">
+<w><milestone unit="add" n="start" place="margin"/>ст҃ыа</w>
+<w>горы<milestone unit="add" n="end"/></w>
+<w>а</w>
+<w>я</w>
+<w>ва<hi rend="sup">с</hi></w>
+<w>постриглъ.</w>
+<w>да</w>
+<w>боу<hi rend="sup">д</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ст҃ыя</w>
+<w>горы.</w>
+<w>а</w>
+<w>я</w>
+<w>ва<hi rend="sup">с</hi></w>
+<w>постриглъ</w>
+<w>да</w>
+<w>бѹди</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ст҃ыя</w>
+<w>горы. <lb/></w>
+
+<w>а</w>
+<w>я</w>
+<w>васъ</w>
+<w>постригалъ.</w>
+<w>да</w>
+<w>бу<lb/>ди</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ст҃ыа</w>
+<w>горы.</w>
+<w>а</w>
+<w>азъ</w>
+<w>ва<hi rend="sup">с</hi></w>
+<w>постри<lb/>гль.</w>
+<w>да</w>
+<w>б<hi rend="sup">д</hi>ѫ<hi rend="sup">и</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Святыя</w>
+<w>Горы,</w>
+<w>а</w>
+<w>язъ</w>
+<w>васъ</w>
+<w>постригалъ;</w>
+<w>да</w>
+<w>буди</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Святыя</w>
+<w>Горы,</w>
+<w>а</w>
+<w>язъ</w>
+<w>васъ</w>
+<w>постригалъ:</w>
+<w>да</w>
+<w>буди</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Святыя</w>
+<w>Горы,</w>
+<w>а</w>
+<w>язъ</w>
+<w>васъ</w>
+<w>постригалъ;</w>
+<w>да</w>
+<w>буди</w>
+</rdg>
+</app></p></div></body></text></TEI>

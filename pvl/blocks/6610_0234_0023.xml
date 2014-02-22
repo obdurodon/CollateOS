@@ -1,121 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>234, 23</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="23">
-            <p>
-               <app>
-                  <lem>
-                     <w>Се</w>
-                     <w>же</w>
-                     <w>хощю</w>
-                     <w>съказати,</w>
-                     <w>яже</w>
-                     <w>слышахъ</w>
-                     <w>преже</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>Се</w>
-                        <w>же</w>
-                        <w>хощю</w>
-                        <w>сказати</w>
-                        <w>яже</w>
-                        <w>слы<lb/>ша<hi rend="sup">х</hi>
-                        </w>
-                        <w>пре<hi rend="sup">ж</hi>
-                        </w>
-                        <w>
-                           <pb n="85a18"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>Се</w>
-                        <w>же</w>
-                        <w>хощю</w>
-                        <w>сказати·</w>
-                        <w>яже <lb/>
-                        </w>
-                        <w>слыше<hi rend="sup">л</hi>.</w>
-                        <w>преже</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>се·̏</w>
-                        <w>же</w>
-                        <w>хощю</w>
-                        <w>сказати· <lb/>
-                        </w>
-                        <w>яже</w>
-                        <w>слы·̏ша<hi rend="sup">х</hi>
-                        </w>
-                        <w>преже</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>се <lb/>
-                        </w>
-                        <w>же</w>
-                        <w>хощю</w>
-                        <w>сказати·</w>
-                        <w>яже</w>
-                        <w>слы<lb/>шахъ</w>
-                        <w>преже</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>се</w>
-                        <w>же</w>
-                        <w>хощю</w>
-                        <w>сказати,</w>
-                        <w>яже</w>
-                        <w>слыша<hi rend="sup">х</hi>
-                        </w>
-                        <w>преж<hi rend="sup">д</hi>е</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Се</w>
-                        <w>же</w>
-                        <w>хощю</w>
-                        <w>сказати,</w>
-                        <w>яже</w>
-                        <w>слышахъ</w>
-                        <w>преже</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Се</w>
-                        <w>же</w>
-                        <w>хощю</w>
-                        <w>съказати,</w>
-                        <w>яже</w>
-                        <w>слышахъ</w>
-                        <w>преже</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Се</w>
-                        <w>же</w>
-                        <w>хощю</w>
-                        <w>сказати,</w>
-                        <w>яже</w>
-                        <w>слышах</w>
-                        <w>преже 167,9</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>234, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="23"><p>
+<app>
+<lem wit="#lem">
+<w>Се</w>
+<w>же</w>
+<w>хощю</w>
+<w>съказати,</w>
+<w>яже</w>
+<w>слышахъ</w>
+<w>преже</w>
+</lem>
+
+<rdg wit="#lav">
+<w>Се</w>
+<w>же</w>
+<w>хощю</w>
+<w>сказати</w>
+<w>яже</w>
+<w>слы<lb/>ша<hi rend="sup">х</hi></w>
+<w>пре<hi rend="sup">ж</hi><pb n="85a18"/></w>
+</rdg>
+
+<rdg wit="#rad">
+<w>Се</w>
+<w>же</w>
+<w>хощю</w>
+<w>сказати·</w>
+<w>яже <lb/></w>
+
+<w>слыше<hi rend="sup">л</hi>.</w>
+<w>преже</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>се·̏</w>
+<w>же</w>
+<w>хощю</w>
+<w>сказати· <lb/></w>
+
+<w>яже</w>
+<w>слы·̏ша<hi rend="sup">х</hi></w>
+<w>преже</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>се <lb/></w>
+
+<w>же</w>
+<w>хощю</w>
+<w>сказати·</w>
+<w>яже</w>
+<w>слы<lb/>шахъ</w>
+<w>преже</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>се</w>
+<w>же</w>
+<w>хощю</w>
+<w>сказати,</w>
+<w>яже</w>
+<w>слыша<hi rend="sup">х</hi></w>
+<w>преж<hi rend="sup">д</hi>е</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Се</w>
+<w>же</w>
+<w>хощю</w>
+<w>сказати,</w>
+<w>яже</w>
+<w>слышахъ</w>
+<w>преже</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Се</w>
+<w>же</w>
+<w>хощю</w>
+<w>съказати,</w>
+<w>яже</w>
+<w>слышахъ</w>
+<w>преже</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Се</w>
+<w>же</w>
+<w>хощю</w>
+<w>сказати,</w>
+<w>яже</w>
+<w>слышах</w>
+<w>преже</w>
+
+</rdg>
+</app></p></div></body></text></TEI>

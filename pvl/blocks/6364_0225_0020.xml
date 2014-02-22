@@ -1,125 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>225, 20</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="20">
-            <p>
-               <app>
-                  <lem>
-                     <w>паче</w>
-                     <w>ярость</w>
-                     <w>свою</w>
-                     <w>въздвиже</w>
-                     <w>на</w>
-                     <w>ны,</w>
-                     <w>яко</w>
-                     <w>паче</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>паче</w>
-                        <w>ярость <lb/>
-                        </w>
-                        <w>свою</w>
-                        <w>въздвиже</w>
-                        <w>на</w>
-                        <w>ны·</w>
-                        <w>яко</w>
-                        <w>па<lb/>че</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ярость· <lb/>
-                        </w>
-                        <w>свою</w>
-                        <w>възв<hi rend="sup">д</hi>иже</w>
-                        <w>на</w>
-                        <w>ны.</w>
-                        <w>яко</w>
-                        <w>па<hi rend="sup">ч</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ярость</w>
-                        <w>свою·</w>
-                        <w>възв<hi rend="sup">д</hi>и<lb/>же</w>
-                        <w>на</w>
-                        <w>ны·̏·</w>
-                        <w>яко</w>
-                        <w>паче</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>паче</w>
-                        <w>ярость</w>
-                        <w>свою</w>
-                        <w>оуздвиже <lb/>
-                        </w>
-                        <w>на</w>
-                        <w>ны·</w>
-                        <w>якоже</w>
-                        <w>паче</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>паче</w>
-                        <w>ярѡ<hi rend="sup">с</hi>
-                        </w>
-                        <w>свою</w>
-                        <w>въз<hi rend="sup">д</hi>виже</w>
-                        <w>на</w>
-                        <w>ны. <lb/>
-                        </w>
-                        <w>якоже</w>
-                        <w>па<hi rend="sup">ч</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>паче</w>
-                        <w>ярость</w>
-                        <w>свою</w>
-                        <w>въздвиже</w>
-                        <w>на</w>
-                        <w>ны,</w>
-                        <w>яко</w>
-                        <w>паче</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>паче</w>
-                        <w>ярость</w>
-                        <w>свою</w>
-                        <w>въздвиже</w>
-                        <w>на</w>
-                        <w>ны,</w>
-                        <w>яко</w>
-                        <w>паче</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>паче</w>
-                        <w>ярость</w>
-                        <w>свою</w>
-                        <w>въздвиже</w>
-                        <w>на</w>
-                        <w>ны,</w>
-                        <w>яко</w>
-                        <w>паче</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>225, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="20"><p>
+<app>
+<lem wit="#lem">
+<w>паче</w>
+<w>ярость</w>
+<w>свою</w>
+<w>въздвиже</w>
+<w>на</w>
+<w>ны,</w>
+<w>яко</w>
+<w>паче</w>
+</lem>
+
+<rdg wit="#lav">
+<w>паче</w>
+<w>ярость <lb/></w>
+
+<w>свою</w>
+<w>въздвиже</w>
+<w>на</w>
+<w>ны·</w>
+<w>яко</w>
+<w>па<lb/>че</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ярость· <lb/></w>
+
+<w>свою</w>
+<w>възв<hi rend="sup">д</hi>иже</w>
+<w>на</w>
+<w>ны.</w>
+<w>яко</w>
+<w>па<hi rend="sup">ч</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ярость</w>
+<w>свою·</w>
+<w>възв<hi rend="sup">д</hi>и<lb/>же</w>
+<w>на</w>
+<w>ны·̏·</w>
+<w>яко</w>
+<w>паче</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>паче</w>
+<w>ярость</w>
+<w>свою</w>
+<w>оуздвиже <lb/></w>
+
+<w>на</w>
+<w>ны·</w>
+<w>якоже</w>
+<w>паче</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>паче</w>
+<w>ярѡ<hi rend="sup">с</hi></w>
+<w>свою</w>
+<w>въз<hi rend="sup">д</hi>виже</w>
+<w>на</w>
+<w>ны. <lb/></w>
+
+<w>якоже</w>
+<w>па<hi rend="sup">ч</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>паче</w>
+<w>ярость</w>
+<w>свою</w>
+<w>въздвиже</w>
+<w>на</w>
+<w>ны,</w>
+<w>яко</w>
+<w>паче</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>паче</w>
+<w>ярость</w>
+<w>свою</w>
+<w>въздвиже</w>
+<w>на</w>
+<w>ны,</w>
+<w>яко</w>
+<w>паче</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>паче</w>
+<w>ярость</w>
+<w>свою</w>
+<w>въздвиже</w>
+<w>на</w>
+<w>ны,</w>
+<w>яко</w>
+<w>паче</w>
+</rdg>
+</app></p></div></body></text></TEI>

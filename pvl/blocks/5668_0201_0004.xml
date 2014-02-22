@@ -1,121 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>201, 4</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="4">
-            <p>
-               <app>
-                  <lem>
-                     <w>сынъмь</w>
-                     <w>своимъ,</w>
-                     <w>и</w>
-                     <w>Вьсеволодъ</w>
-                     <w>съ</w>
-                     <w>Володимиръмь,</w>
-                     <w>сынъмь</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>снм҃ъ</w>
-                        <w>свои<hi rend="sup">м</hi>.</w>
-                        <w>и</w>
-                        <w>всеволо<lb/>дъ</w>
-                        <w>с</w>
-                        <w>володимеромъ</w>
-                        <w>сн҃омъ <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>сн҃мъ</w>
-                        <w>своимъ.</w>
-                        <w>и</w>
-                        <w>всеволо<hi rend="sup">д</hi>
-                        </w>
-                        <w>свои<hi rend="sup">м</hi>. <lb/>
-                        </w>
-                        <w>сн҃мъ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>снм҃ь</w>
-                        <w>своимь.</w>
-                        <w>и</w>
-                        <w>всеволо<hi rend="sup">д</hi>
-                        </w>
-                        <w>со</w>
-                        <w>своимь</w>
-                        <w>сн҃о<lb/>мъ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>сн҃омь</w>
-                        <w>своимь. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>всеволодъ</w>
-                        <w>с</w>
-                        <w>володимеро<hi rend="sup">м</hi> 
-                           <lb/>
-                        </w>
-                        <w>снм҃ь</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>сн҃ѡ<hi rend="sup">м</hi>
-                        </w>
-                        <w>свои<hi rend="sup">м</hi>.</w>
-                        <w>и</w>
-                        <w>всеволѡ<hi rend="sup">д</hi>
-                        </w>
-                        <w>с</w>
-                        <w>воло<hi rend="sup">д</hi>м<hi rend="sup">и</hi>ерѡ<hi rend="sup">м</hi>
-                        </w>
-                        <w>сн҃ѡ<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>сыномъ</w>
-                        <w>своимъ,</w>
-                        <w>и</w>
-                        <w>Всеволодъ</w>
-                        <w>с</w>
-                        <w>Володимеромъ,</w>
-                        <w>сыномъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>сынъмь</w>
-                        <w>своимъ,</w>
-                        <w>и</w>
-                        <w>Вьсеволодъ</w>
-                        <w>съ</w>
-                        <w>Володимеръмь,</w>
-                        <w>сынъмь</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>сыномъ</w>
-                        <w>своим,</w>
-                        <w>и</w>
-                        <w>Всеволодъ</w>
-                        <w>с</w>
-                        <w>Володимеромъ,</w>
-                        <w>сыномъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>201, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="4"><p>
+<app>
+<lem wit="#lem">
+<w>сынъмь</w>
+<w>своимъ,</w>
+<w>и</w>
+<w>Вьсеволодъ</w>
+<w>съ</w>
+<w>Володимиръмь,</w>
+<w>сынъмь</w>
+</lem>
+
+<rdg wit="#lav">
+<w>снм҃ъ</w>
+<w>свои<hi rend="sup">м</hi>.</w>
+<w>и</w>
+<w>всеволо<lb/>дъ</w>
+<w>с</w>
+<w>володимеромъ</w>
+<w>сн҃омъ <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>сн҃мъ</w>
+<w>своимъ.</w>
+<w>и</w>
+<w>всеволо<hi rend="sup">д</hi></w>
+<w>свои<hi rend="sup">м</hi>. <lb/></w>
+
+<w>сн҃мъ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>снм҃ь</w>
+<w>своимь.</w>
+<w>и</w>
+<w>всеволо<hi rend="sup">д</hi></w>
+<w>со</w>
+<w>своимь</w>
+<w>сн҃о<lb/>мъ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>сн҃омь</w>
+<w>своимь. <lb/></w>
+
+<w>и</w>
+<w>всеволодъ</w>
+<w>с</w>
+<w>володимеро<hi rend="sup">м</hi><lb/></w>
+<w>снм҃ь</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>сн҃ѡ<hi rend="sup">м</hi></w>
+<w>свои<hi rend="sup">м</hi>.</w>
+<w>и</w>
+<w>всеволѡ<hi rend="sup">д</hi></w>
+<w>с</w>
+<w>воло<hi rend="sup">д</hi>м<hi rend="sup">и</hi>ерѡ<hi rend="sup">м</hi></w>
+<w>сн҃ѡ<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>сыномъ</w>
+<w>своимъ,</w>
+<w>и</w>
+<w>Всеволодъ</w>
+<w>с</w>
+<w>Володимеромъ,</w>
+<w>сыномъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>сынъмь</w>
+<w>своимъ,</w>
+<w>и</w>
+<w>Вьсеволодъ</w>
+<w>съ</w>
+<w>Володимеръмь,</w>
+<w>сынъмь</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>сыномъ</w>
+<w>своим,</w>
+<w>и</w>
+<w>Всеволодъ</w>
+<w>с</w>
+<w>Володимеромъ,</w>
+<w>сыномъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

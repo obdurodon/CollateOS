@@ -1,94 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>207, 19</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="19">
-            <p>
-               <app>
-                  <lem>
-                     <w>Иоанъмь</w>
-                     <w>и</w>
-                     <w>епископы</w>
-                     <w>Лукою,</w>
-                     <w>Исаиемь,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>иваномь.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>иѡано<hi rend="sup">м</hi>. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>епп<hi rend="sup">с</hi>ы.</w>
-                        <w>лоукою.</w>
-                        <w>исаиемъ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>иѡаномь. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>епп<hi rend="sup">с</hi>ы</w>
-                        <w>лѹкою.</w>
-                        <w>исаемъ.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>иѡ<hi rend="sup">а</hi>м<hi rend="sup">н</hi>ь<hi rend="sup">о</hi>
-                        </w>
-                        <w>и</w>
-                        <w>еп<hi rend="sup">с</hi>п<hi rend="sup">м</hi>ы</w>
-                        <w>луко<lb/>ю.</w>
-                        <w>исаемь.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>иванѡ<hi rend="sup">м</hi>.</w>
-                        <w>і</w>
-                        <w>епк<hi rend="sup">с</hi>пы</w>
-                        <w>лоукою</w>
-                        <w>і</w>
-                        <w>исаіемь.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Иваномь</w>
-                        <w>и</w>
-                        <w>епископы</w>
-                        <w>Лукою,</w>
-                        <w>Исаиемъ,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Иоанъмь</w>
-                        <w>и</w>
-                        <w>епископы</w>
-                        <w>Лукою,</w>
-                        <w>Исаиемь</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Иваномь</w>
-                        <w>и</w>
-                        <w>епископы</w>
-                        <w>Лукою,</w>
-                        <w>Исаиемъ,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>207, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="19"><p>
+<app>
+<lem wit="#lem">
+<w>Иоанъмь</w>
+<w>и</w>
+<w>епископы</w>
+<w>Лукою,</w>
+<w>Исаиемь,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>иваномь.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>иѡано<hi rend="sup">м</hi>. <lb/></w>
+
+<w>и</w>
+<w>епп<hi rend="sup">с</hi>ы.</w>
+<w>лоукою.</w>
+<w>исаиемъ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>иѡаномь. <lb/></w>
+
+<w>и</w>
+<w>епп<hi rend="sup">с</hi>ы</w>
+<w>лѹкою.</w>
+<w>исаемъ.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>иѡ<hi rend="sup">а</hi>м<hi rend="sup">н</hi>ь<hi rend="sup">о</hi></w>
+<w>и</w>
+<w>еп<hi rend="sup">с</hi>п<hi rend="sup">м</hi>ы</w>
+<w>луко<lb/>ю.</w>
+<w>исаемь.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>иванѡ<hi rend="sup">м</hi>.</w>
+<w>і</w>
+<w>епк<hi rend="sup">с</hi>пы</w>
+<w>лоукою</w>
+<w>і</w>
+<w>исаіемь.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Иваномь</w>
+<w>и</w>
+<w>епископы</w>
+<w>Лукою,</w>
+<w>Исаиемъ,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Иоанъмь</w>
+<w>и</w>
+<w>епископы</w>
+<w>Лукою,</w>
+<w>Исаиемь</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Иваномь</w>
+<w>и</w>
+<w>епископы</w>
+<w>Лукою,</w>
+<w>Исаиемъ,</w>
+</rdg>
+</app></p></div></body></text></TEI>

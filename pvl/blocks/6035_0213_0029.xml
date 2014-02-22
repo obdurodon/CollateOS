@@ -1,90 +1,71 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>213, 29</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="29">
-            <p>
-               <app>
-                  <lem>
-                     <w>и</w>
-                     <w>въздьржанию</w>
-                     <w>рьвьнуя,</w>
-                     <w>и</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>житью</w>
-                        <w>ѥго·</w>
-                        <w>и</w>
-                        <w>въздеръ<lb/>жанью</w>
-                        <w>ревнуя·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>и</w>
-                        <w>въздеръжание<hi rend="sup">м</hi>·</w>
-                        <w>ревнѹя</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>и</w>
-                        <w>воздержанїемъ</w>
-                        <w>ревнѹѧ·</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>и</w>
-                        <w>възд<sic>е</sic>ржаньемь</w>
-                        <w>ре<lb/>внуя·</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>и</w>
-                        <w>въздержанїю <lb/>
-                        </w>
-                        <w>ревноуѧ.</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>житью</w>
-                        <w>его</w>
-                        <w>и</w>
-                        <w>въздеръжанью</w>
-                        <w>ревнуя,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>житию</w>
-                        <w>его,</w>
-                        <w>и</w>
-                        <w>въздьржанию</w>
-                        <w>рьвьнуя,</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>житью</w>
-                        <w>его</w>
-                        <w>и</w>
-                        <w>въздеръжанью</w>
-                        <w>ревнуя,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>213, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="29"><p>
+<app>
+<lem wit="#lem">
+<w>и</w>
+<w>въздьржанию</w>
+<w>рьвьнуя,</w>
+<w>и</w>
+</lem>
+
+<rdg wit="#lav">
+<w>житью</w>
+<w>ѥго·</w>
+<w>и</w>
+<w>въздеръ<lb/>жанью</w>
+<w>ревнуя·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>и</w>
+<w>въздеръжание<hi rend="sup">м</hi>·</w>
+<w>ревнѹя</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>и</w>
+<w>воздержанїемъ</w>
+<w>ревнѹѧ·</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>и</w>
+<w>възд<milestone unit="sic" n="start"/>е<milestone unit="sic" n="end"/>ржаньемь</w>
+<w>ре<lb/>внуя·</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>и</w>
+<w>въздержанїю <lb/></w>
+
+<w>ревноуѧ.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>житью</w>
+<w>его</w>
+<w>и</w>
+<w>въздеръжанью</w>
+<w>ревнуя,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>житию</w>
+<w>его,</w>
+<w>и</w>
+<w>въздьржанию</w>
+<w>рьвьнуя,</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>житью</w>
+<w>его</w>
+<w>и</w>
+<w>въздеръжанью</w>
+<w>ревнуя,</w>
+</rdg>
+</app></p></div></body></text></TEI>

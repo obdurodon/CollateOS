@@ -1,82 +1,58 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>47, 1</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="1">
-            <p>
-               <app>
-                  <lem>
-                     <w>Ятвягъ</w>
-                     <w>Гунаревъ;</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>
-                           <sic>прастѣнъ. берновъ. явтѧгъ. гунаровъ</sic>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ятвѧгъ.</w>
-                        <w>гоунаревъ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ятвѧгъ.</w>
-                        <w>гѹнаревь.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ятьвѧгъ</w>
-                        <w>гунаревъ.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ятвѧгь.</w>
-                        <w>ноунаревь.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Прастѣнъ</w>
-                        <w>Берновъ;</w>
-                        <w>Явтягъ</w>
-                        <w>Гунаревъ;</w>
-                        <w>
-                           <pb n="46,5"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Прастѣнъ</w>
-                        <w>Берновъ;</w>
-                        <w>Ятвягъ</w>
-                        <w>Гунаревъ;</w>
-                        <w>
-                           <pb n="52,2"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Прастѣнъ</w>
-                        <w>Берновъ;</w>
-                        <w>Явтягъ</w>
-                        <w>Гунаревъ;</w>
-                        <w>
-                           <pb n="34,32"/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>47, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="1"><p>
+<app>
+<lem wit="#lem">
+<w>Ятвягъ</w>
+<w>Гунаревъ;</w>
+</lem>
+
+<rdg wit="#lav">
+<w><milestone unit="sic" n="start"/>прастѣнъ.</w>
+<w>берновъ.</w>
+<w>явтѧгъ.</w>
+<w>гунаровъ<milestone unit="sic" n="end"/></w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ятвѧгъ.</w>
+<w>гоунаревъ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ятвѧгъ.</w>
+<w>гѹнаревь.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ятьвѧгъ</w>
+<w>гунаревъ.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ятвѧгь.</w>
+<w>ноунаревь.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Прастѣнъ</w>
+<w>Берновъ;</w>
+<w>Явтягъ</w>
+<w>Гунаревъ; <pb n="46,5"/></w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>Прастѣнъ</w>
+<w>Берновъ;</w>
+<w>Ятвягъ</w>
+<w>Гунаревъ; <pb n="52,2"/></w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>Прастѣнъ</w>
+<w>Берновъ;</w>
+<w>Явтягъ</w>
+<w>Гунаревъ; <pb n="34,32"/></w>
+
+</rdg>
+</app></p></div></body></text></TEI>

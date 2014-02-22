@@ -1,102 +1,81 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>159, 26</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="26">
-            <p>
-               <app>
-                  <lem>
-                     <w>кротъкыи,</w>
-                     <w>съмѣреныи,</w>
-                     <w>да</w>
-                     <w>сь</w>
-                     <w>будеть</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>кроткыи</w>
-                        <w>смѣреныи. <lb/>
-                        </w>
-                        <w>да</w>
-                        <w>сь</w>
-                        <w>будеть</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>кроткыи.</w>
-                        <w>и</w>
-                        <w>смиреныи.</w>
-                        <w>да</w>
-                        <w>сеи</w>
-                        <w>боу<hi rend="sup">д</hi>ть</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>кроткыи</w>
-                        <w>смиреныи.</w>
-                        <w>да</w>
-                        <w>сеи</w>
-                        <w>бѹ<lb/>деть</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>кротокъ. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>смиреныи.</w>
-                        <w>да</w>
-                        <w>сьи</w>
-                        <w>будеть <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>кроткыи <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>смиренныи;</w>
-                        <w>да</w>
-                        <w>съ<hi rend="sup">и</hi>
-                        </w>
-                        <w>бѫде<hi rend="sup">т</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>кроткый,</w>
-                        <w>смѣреный;</w>
-                        <w>да</w>
-                        <w>сь</w>
-                        <w>будеть</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>кротъкыи,</w>
-                        <w>съмѣреныи;</w>
-                        <w>да</w>
-                        <w>сь</w>
-                        <w>будеть</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>кроткый,</w>
-                        <w>смѣреный,</w>
-                        <w>да</w>
-                        <w>сь</w>
-                        <w>будеть</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>159, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="26"><p>
+<app>
+<lem wit="#lem">
+<w>кротъкыи,</w>
+<w>съмѣреныи,</w>
+<w>да</w>
+<w>сь</w>
+<w>будеть</w>
+</lem>
+
+<rdg wit="#lav">
+<w>кроткыи</w>
+<w>смѣреныи. <lb/></w>
+
+<w>да</w>
+<w>сь</w>
+<w>будеть</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>кроткыи.</w>
+<w>и</w>
+<w>смиреныи.</w>
+<w>да</w>
+<w>сеи</w>
+<w>боу<hi rend="sup">д</hi>ть</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>кроткыи</w>
+<w>смиреныи.</w>
+<w>да</w>
+<w>сеи</w>
+<w>бѹ<lb/>деть</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>кротокъ. <lb/></w>
+
+<w>и</w>
+<w>смиреныи.</w>
+<w>да</w>
+<w>сьи</w>
+<w>будеть <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>кроткыи <lb/></w>
+
+<w>и</w>
+<w>смиренныи;</w>
+<w>да</w>
+<w>съ<hi rend="sup">и</hi></w>
+<w>бѫде<hi rend="sup">т</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>кроткый,</w>
+<w>смѣреный;</w>
+<w>да</w>
+<w>сь</w>
+<w>будеть</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>кротъкыи,</w>
+<w>съмѣреныи;</w>
+<w>да</w>
+<w>сь</w>
+<w>будеть</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>кроткый,</w>
+<w>смѣреный,</w>
+<w>да</w>
+<w>сь</w>
+<w>будеть</w>
+</rdg>
+</app></p></div></body></text></TEI>

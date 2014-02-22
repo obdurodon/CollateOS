@@ -1,142 +1,116 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>101, 4</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="4">
-            <p>
-               <app>
-                  <lem>
-                     <w>ни</w>
-                     <w>глаголю</w>
-                     <w>противу.</w>
-                     <w>
-                        <choice>
-                           <seg>Хрьбьтъ</seg>
-                           <seg>Плещи</seg>
-                        </choice>
-                     </w>
-                     <w>мои</w>
-                     <w>дахъ</w>
-                     <w>на</w>
-                     <w>раны,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>и</w>
-                        <w>гл҃ю</w>
-                        <w>противу.</w>
-                        <w>хребе<lb/>тъ</w>
-                        <w>мои</w>
-                        <w>дахъ</w>
-                        <w>на</w>
-                        <w>раны.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ни</w>
-                        <w>въпрекы</w>
-                        <w>гл҃ю.</w>
-                        <w>хребетъ</w>
-                        <w>мои</w>
-                        <w>да<hi rend="sup">х</hi>
-                        </w>
-                        <w>на</w>
-                        <w>ра<lb/>ны.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ни</w>
-                        <w>вопреки <lb/>
-                        </w>
-                        <w>гл҃ю.</w>
-                        <w>хребетъ</w>
-                        <w>мои</w>
-                        <w>да<hi rend="sup">х</hi>
-                        </w>
-                        <w>на</w>
-                        <w>раны.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ни</w>
-                        <w>гл҃ю</w>
-                        <w>противу.</w>
-                        <w>плещи <lb/>
-                        </w>
-                        <w>мои</w>
-                        <w>да<hi rend="sup">х</hi>
-                        </w>
-                        <w>на</w>
-                        <w>раны.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ни</w>
-                        <w>гл҃ю</w>
-                        <w>противоу.</w>
-                        <w>плещи</w>
-                        <w>мои</w>
-                        <w>да<hi rend="sup">х</hi>
-                        </w>
-                        <w>на</w>
-                        <w>раны. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>ни</w>
-                        <w>глаголю</w>
-                        <w>противу</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>ни</w>
-                        <w>глаголю</w>
-                        <w>противу</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>ни</w>
-                        <w>глаголю</w>
-                        <w>противу;</w>
-                        <w>хребетъ</w>
-                        <w>мой</w>
-                        <w>дахъ</w>
-                        <w>на</w>
-                        <w>раны,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>ни</w>
-                        <w>глаголю</w>
-                        <w>противу.</w>
-                        <w>Хрьбьтъ</w>
-                        <w>мои</w>
-                        <w>дахъ</w>
-                        <w>на</w>
-                        <w>раны,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>ни</w>
-                        <w>глаголю</w>
-                        <w>противу.</w>
-                        <w>Хребетъ</w>
-                        <w>мой</w>
-                        <w>дахъ</w>
-                        <w>на</w>
-                        <w>раны,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>101, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="4"><p>
+<app>
+<lem wit="#lem">
+<w>ни</w>
+<w>глаголю</w>
+<w>противу.</w>
+<w><choice><seg>Хрьбьтъ</seg><seg>Плещи</seg></choice></w>
+<w>мои</w>
+<w>дахъ</w>
+<w>на</w>
+<w>раны,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>и</w>
+<w>гл҃ю</w>
+<w>противу.</w>
+<w>хребе<lb/>тъ</w>
+<w>мои</w>
+<w>дахъ</w>
+<w>на</w>
+<w>раны.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ни</w>
+<w>въпрекы</w>
+<w>гл҃ю.</w>
+<w>хребетъ</w>
+<w>мои</w>
+<w>да<hi rend="sup">х</hi></w>
+<w>на</w>
+<w>ра<lb/>ны.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ни</w>
+<w>вопреки <lb/></w>
+
+<w>гл҃ю.</w>
+<w>хребетъ</w>
+<w>мои</w>
+<w>да<hi rend="sup">х</hi></w>
+<w>на</w>
+<w>раны.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ни</w>
+<w>гл҃ю</w>
+<w>противу.</w>
+<w>плещи <lb/></w>
+
+<w>мои</w>
+<w>да<hi rend="sup">х</hi></w>
+<w>на</w>
+<w>раны.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ни</w>
+<w>гл҃ю</w>
+<w>противоу.</w>
+<w>плещи</w>
+<w>мои</w>
+<w>да<hi rend="sup">х</hi></w>
+<w>на</w>
+<w>раны. <lb/></w>
+
+</rdg>
+
+<rdg wit="#kom">
+<w>ни</w>
+<w>глаголю</w>
+<w>противу</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>ни</w>
+<w>глаголю</w>
+<w>противу</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>ни</w>
+<w>глаголю</w>
+<w>противу;</w>
+<w>хребетъ</w>
+<w>мой</w>
+<w>дахъ</w>
+<w>на</w>
+<w>раны,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>ни</w>
+<w>глаголю</w>
+<w>противу.</w>
+<w>Хрьбьтъ</w>
+<w>мои</w>
+<w>дахъ</w>
+<w>на</w>
+<w>раны,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>ни</w>
+<w>глаголю</w>
+<w>противу.</w>
+<w>Хребетъ</w>
+<w>мой</w>
+<w>дахъ</w>
+<w>на</w>
+<w>раны,</w>
+</rdg>
+</app></p></div></body></text></TEI>

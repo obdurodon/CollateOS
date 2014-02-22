@@ -1,102 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>4, 6</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="6">
-            <p>
-               <app>
-                  <lem>
-                     <w>Литъва,</w>
-                     <w>Зимѣгола,</w>
-                     <w>Кърсь,</w>
-                     <w>Сѣтьгола,</w>
-                     <w>Либь.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>литва.</w>
-                        <w>зимѣг<sic>ола корсь. сѣтьгола <lb/> любь</sic>
-                        </w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>литва</w>
-                        <w>замѣгола</w>
-                        <w>лѣтьгола</w>
-                        <w>корсь</w>
-                        <w>тепьра</w>
-                        <w>пермь</w>
-                        <w>любь</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>литва</w>
-                        <w>зимѣгола</w>
-                        <w>корсь</w>
-                        <w>с<hi rend="sup">т</hi>ѣгола</w>
-                        <w>либь</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>литва.</w>
-                        <w>зимѣгола.</w>
-                        <w>корсь.</w>
-                        <w>с<hi rend="sup">т</hi>ѣгола.</w>
-                        <w>либь. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>литва.</w>
-                        <w>зимигола. <lb/>
-                        </w>
-                        <w>корсь.</w>
-                        <w>сѣтьгола.</w>
-                        <w>либь.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>литва,</w>
-                        <w>зимѣгола.</w>
-                        <w>корсь.</w>
-                        <w>сѣ<hi rend="sup">т</hi>гола.</w>
-                        <w>либь.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Литва,</w>
-                        <w>Зимѣгола,</w>
-                        <w>Корсь,</w>
-                        <w>Лѣтьгола,</w>
-                        <w>Любь.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Литъва,</w>
-                        <w>Зимѣгола,</w>
-                        <w>Кърсь,</w>
-                        <w>Лѣтьгола,</w>
-                        <w>Либь.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>литва,</w>
-                        <w>зимѣгола,</w>
-                        <w>корсь,</w>
-                        <w>лѣтьгола,</w>
-                        <w>любь.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>4, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="6"><p>
+<app>
+<lem wit="#lem">
+<w>Литъва,</w>
+<w>Зимѣгола,</w>
+<w>Кърсь,</w>
+<w>Сѣтьгола,</w>
+<w>Либь.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>литва.</w>
+<w>зимѣг<milestone unit="sic" n="start"/>ола</w>
+<w>корсь.</w>
+<w>сѣтьгола <lb/></w>
+
+<w>любь<milestone unit="sic" n="end"/></w>
+</rdg>
+
+<rdg wit="#tro">
+<w>литва</w>
+<w>замѣгола</w>
+<w>лѣтьгола</w>
+<w>корсь</w>
+<w>тепьра</w>
+<w>пермь</w>
+<w>любь</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>литва</w>
+<w>зимѣгола</w>
+<w>корсь</w>
+<w>с<hi rend="sup">т</hi>ѣгола</w>
+<w>либь</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>литва.</w>
+<w>зимѣгола.</w>
+<w>корсь.</w>
+<w>с<hi rend="sup">т</hi>ѣгола.</w>
+<w>либь. <lb/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>литва.</w>
+<w>зимигола. <lb/></w>
+
+<w>корсь.</w>
+<w>сѣтьгола.</w>
+<w>либь.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>литва,</w>
+<w>зимѣгола.</w>
+<w>корсь.</w>
+<w>сѣ<hi rend="sup">т</hi>гола.</w>
+<w>либь.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Литва,</w>
+<w>Зимѣгола,</w>
+<w>Корсь,</w>
+<w>Лѣтьгола,</w>
+<w>Любь.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Литъва,</w>
+<w>Зимѣгола,</w>
+<w>Кърсь,</w>
+<w>Лѣтьгола,</w>
+<w>Либь.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>литва,</w>
+<w>зимѣгола,</w>
+<w>корсь,</w>
+<w>лѣтьгола,</w>
+<w>любь.</w>
+</rdg>
+</app></p></div></body></text></TEI>

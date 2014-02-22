@@ -1,123 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>157, 23</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="23">
-            <p>
-               <app>
-                  <lem>
-                     <w>Съвъкупленѣ</w>
-                     <w>же</w>
-                     <w>братии,</w>
-                     <w>рече</w>
-                     <w>имъ</w>
-                     <w>Антонии:</w>
-                     <w>“Се</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>совъку<lb/>пленѣ</w>
-                        <w>же</w>
-                        <w>братьи.</w>
-                        <w>ре<hi rend="sup">ч</hi>
-                        </w>
-                        <w>имъ</w>
-                        <w>антонии</w>
-                        <w>се</w>
-                        <w>
-                           <pb n="53c"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>совокѹплене<hi rend="sup">ж</hi>
-                        </w>
-                        <w>бра<hi rend="sup">т</hi>и. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>ре<hi rend="sup">ч</hi>
-                        </w>
-                        <w>имъ</w>
-                        <w>антонеи</w>
-                        <w>се</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>съвокѹплене</w>
-                        <w>же</w>
-                        <w>братьи.</w>
-                        <w>и</w>
-                        <w>рече</w>
-                        <w>имь</w>
-                        <w>а<lb/>нтонїи.</w>
-                        <w>се</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>совоку<lb/>плени</w>
-                        <w>же</w>
-                        <w>братьи</w>
-                        <w>рече</w>
-                        <w>имъ <lb/>
-                        </w>
-                        <w>антонии.</w>
-                        <w>се</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>съвокоупленѣ<hi rend="sup">ж</hi> 
-                           <lb/>
-                        </w>
-                        <w>братїи.</w>
-                        <w>и</w>
-                        <w>ре<hi rend="sup">ч</hi>
-                        </w>
-                        <w>имь</w>
-                        <w>антонїи.</w>
-                        <w>се</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Совъкупленѣ</w>
-                        <w>же</w>
-                        <w>братьи,</w>
-                        <w>рече</w>
-                        <w>имъ</w>
-                        <w>Антоний:</w>
-                        <w>“се</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Съвъкупленѣ</w>
-                        <w>же</w>
-                        <w>братии,</w>
-                        <w>рече</w>
-                        <w>имъ</w>
-                        <w>Антонии:</w>
-                        <w>“се,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Совъкупленѣ</w>
-                        <w>же</w>
-                        <w>братьи,</w>
-                        <w>рече</w>
-                        <w>имъ</w>
-                        <w>Антоний:</w>
-                        <w>“Се</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>157, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="23"><p>
+<app>
+<lem wit="#lem">
+<w>Съвъкупленѣ</w>
+<w>же</w>
+<w>братии,</w>
+<w>рече</w>
+<w>имъ</w>
+<w>Антонии:</w>
+<w>“Се</w>
+</lem>
+
+<rdg wit="#lav">
+<w>совъку<lb/>пленѣ</w>
+<w>же</w>
+<w>братьи.</w>
+<w>ре<hi rend="sup">ч</hi></w>
+<w>имъ</w>
+<w>антонии</w>
+<w>се <pb n="53c"/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>совокѹплене<hi rend="sup">ж</hi></w>
+<w>бра<hi rend="sup">т</hi>и. <lb/></w>
+
+<w>и</w>
+<w>ре<hi rend="sup">ч</hi></w>
+<w>имъ</w>
+<w>антонеи</w>
+<w>се</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>съвокѹплене</w>
+<w>же</w>
+<w>братьи.</w>
+<w>и</w>
+<w>рече</w>
+<w>имь</w>
+<w>а<lb/>нтонїи.</w>
+<w>се</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>совоку<lb/>плени</w>
+<w>же</w>
+<w>братьи</w>
+<w>рече</w>
+<w>имъ <lb/></w>
+
+<w>антонии.</w>
+<w>се</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>съвокоупленѣ<hi rend="sup">ж</hi><lb/></w>
+<w>братїи.</w>
+<w>и</w>
+<w>ре<hi rend="sup">ч</hi></w>
+<w>имь</w>
+<w>антонїи.</w>
+<w>се</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Совъкупленѣ</w>
+<w>же</w>
+<w>братьи,</w>
+<w>рече</w>
+<w>имъ</w>
+<w>Антоний:</w>
+<w>“се</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Съвъкупленѣ</w>
+<w>же</w>
+<w>братии,</w>
+<w>рече</w>
+<w>имъ</w>
+<w>Антонии:</w>
+<w>“се,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Совъкупленѣ</w>
+<w>же</w>
+<w>братьи,</w>
+<w>рече</w>
+<w>имъ</w>
+<w>Антоний:</w>
+<w>“Се</w>
+</rdg>
+</app></p></div></body></text></TEI>

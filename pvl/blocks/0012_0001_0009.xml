@@ -1,129 +1,111 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>1, 9</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="9">
-            <p>
-               <app>
-                  <lem>
-                     <w>Елумаисъ,</w>
-                     <w>Индия,</w>
-                     <w>Аравия</w>
-                     <w>Сильная,</w>
-                     <w>Кулии,</w>
-                     <w>Колгини,</w>
-                     <w>Финикия</w>
-                     <w>вься.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>елма<lb/>исъ.</w>
-                        <w>инди.</w>
-                        <w>равия.</w>
-                        <w>на</w>
-                        <w>всѧ.</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>елмаисъ</w>
-                        <w>инди</w>
-                        <w>аравия</w>
-                        <w>силная</w>
-                        <w>колия</w>
-                        <w>комагини</w>
-                        <w>финикия</w>
-                        <w>вся</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>елоумаисъ.</w>
-                        <w>ин<hi rend="sup">д</hi>и.</w>
-                        <w>рави<lb/>я</w>
-                        <w>силнаа.</w>
-                        <w>коулїи.</w>
-                        <w>колгини.</w>
-                        <w>фикиа</w>
-                        <w>всѧ:-</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>елѹмаисъ.</w>
-                        <w>ин<hi rend="sup">д</hi>и.</w>
-                        <w>равїа</w>
-                        <w>силнаа.</w>
-                        <w>кѹлии.</w>
-                        <w>ко<lb/>лгини.</w>
-                        <w>фикїа</w>
-                        <w>всѧ·:·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>елумаисъ.</w>
-                        <w>инди<hi rend="sup">ѧ</hi>.</w>
-                        <w>р<hi rend="sup">а</hi>авиа</w>
-                        <w>си<lb/>лная.</w>
-                        <w>кулии.</w>
-                        <w>колгини.</w>
-                        <w>фи<lb/>никия</w>
-                        <w>всѧ·:·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>елоумаись.</w>
-                        <w>индиѧ <lb/>
-                        </w>
-                        <w>аравїа</w>
-                        <w>силнаа.</w>
-                        <w>коулии.</w>
-                        <w>комагины.</w>
-                        <w>финикїа</w>
-                        <w>всѧ. <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Елмаисъ,</w>
-                        <w>Инди,</w>
-                        <w>Аравия</w>
-                        <w>Силная,</w>
-                        <w>Колия,</w>
-                        <w>Комагини,</w>
-                        <w>Финикия</w>
-                        <w>вся.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Елумаисъ,</w>
-                        <w>Инди,</w>
-                        <w>Аравия</w>
-                        <w>Сильная,</w>
-                        <w>Кулии,</w>
-                        <w>Комагини,</w>
-                        <w>Финикия</w>
-                        <w>вься.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Елмаисъ,</w>
-                        <w>Инди,</w>
-                        <w>Аравия</w>
-                        <w>Силная,</w>
-                        <w>Колия</w>
-                        <w>Комагини,</w>
-                        <w>Финикия</w>
-                        <w>вся.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>1, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="9"><p>
+<app>
+<lem wit="#lem">
+<w>Елумаисъ,</w>
+<w>Индия,</w>
+<w>Аравия</w>
+<w>Сильная,</w>
+<w>Кулии,</w>
+<w>Колгини,</w>
+<w>Финикия</w>
+<w>вься.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>елма<lb/>исъ.</w>
+<w>инди.</w>
+<w>равия.</w>
+<w>на</w>
+<w>всѧ.</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>елмаисъ</w>
+<w>инди</w>
+<w>аравия</w>
+<w>силная</w>
+<w>колия</w>
+<w>комагини</w>
+<w>финикия</w>
+<w>вся</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>елоумаисъ.</w>
+<w>ин<hi rend="sup">д</hi>и.</w>
+<w>рави<lb/>я</w>
+<w>силнаа.</w>
+<w>коулїи.</w>
+<w>колгини.</w>
+<w>фикиа</w>
+<w>всѧ:-</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>елѹмаисъ.</w>
+<w>ин<hi rend="sup">д</hi>и.</w>
+<w>равїа</w>
+<w>силнаа.</w>
+<w>кѹлии.</w>
+<w>ко<lb/>лгини.</w>
+<w>фикїа</w>
+<w>всѧ·:·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>елумаисъ.</w>
+<w>инди<hi rend="sup">ѧ</hi>.</w>
+<w>р<hi rend="sup">а</hi>авиа</w>
+<w>си<lb/>лная.</w>
+<w>кулии.</w>
+<w>колгини.</w>
+<w>фи<lb/>никия</w>
+<w>всѧ·:·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>елоумаись.</w>
+<w>индиѧ <lb/></w>
+
+<w>аравїа</w>
+<w>силнаа.</w>
+<w>коулии.</w>
+<w>комагины.</w>
+<w>финикїа</w>
+<w>всѧ. <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>Елмаисъ,</w>
+<w>Инди,</w>
+<w>Аравия</w>
+<w>Силная,</w>
+<w>Колия,</w>
+<w>Комагини,</w>
+<w>Финикия</w>
+<w>вся.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Елумаисъ,</w>
+<w>Инди,</w>
+<w>Аравия</w>
+<w>Сильная,</w>
+<w>Кулии,</w>
+<w>Комагини,</w>
+<w>Финикия</w>
+<w>вься.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Елмаисъ,</w>
+<w>Инди,</w>
+<w>Аравия</w>
+<w>Силная,</w>
+<w>Колия</w>
+<w>Комагини,</w>
+<w>Финикия</w>
+<w>вся.</w>
+</rdg>
+</app></p></div></body></text></TEI>

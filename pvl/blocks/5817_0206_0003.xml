@@ -1,91 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>206, 3</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="3">
-            <p>
-               <app>
-                  <lem>
-                     <w>опять</w>
-                     <w>Чьрнигову.</w>
-                     <w>Яропълкъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>вспѧть</w>
-                        <w>чернигову. <lb/>
-                        </w>
-                        <w>ярополкъ</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ѡпѧть.</w>
-                        <w>к</w>
-                        <w>черниго<lb/>воу.</w>
-                        <w>ярополкъ<hi rend="sup">ж</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ѡпѧ<hi rend="sup">т</hi>
-                        </w>
-                        <w>к</w>
-                        <w>черниговѹ.</w>
-                        <w>ярополкь</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ѡпѧть</w>
-                        <w>чернѣгову. <lb/>
-                        </w>
-                        <w>а</w>
-                        <w>ярополкъ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ѡпѧ<hi rend="sup">т</hi>
-                        </w>
-                        <w>къ</w>
-                        <w>чернѣговоу. <lb/>
-                        </w>
-                        <w>а</w>
-                        <w>ярополкь</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>вспять</w>
-                        <w>Чернигову.</w>
-                        <w>Ярополкъ</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>въспять</w>
-                        <w>Чьрнигову;</w>
-                        <w>Яропълкъ</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>вспять</w>
-                        <w>Чернигову.</w>
-                        <w>Ярополкъ</w>
-                        <w>же</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>206, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="3"><p>
+<app>
+<lem wit="#lem">
+<w>опять</w>
+<w>Чьрнигову.</w>
+<w>Яропълкъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>вспѧть</w>
+<w>чернигову. <lb/></w>
+
+<w>ярополкъ</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ѡпѧть.</w>
+<w>к</w>
+<w>черниго<lb/>воу.</w>
+<w>ярополкъ<hi rend="sup">ж</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ѡпѧ<hi rend="sup">т</hi></w>
+<w>к</w>
+<w>черниговѹ.</w>
+<w>ярополкь</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ѡпѧть</w>
+<w>чернѣгову. <lb/></w>
+
+<w>а</w>
+<w>ярополкъ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ѡпѧ<hi rend="sup">т</hi></w>
+<w>къ</w>
+<w>чернѣговоу. <lb/></w>
+
+<w>а</w>
+<w>ярополкь</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>вспять</w>
+<w>Чернигову.</w>
+<w>Ярополкъ</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>въспять</w>
+<w>Чьрнигову;</w>
+<w>Яропълкъ</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>вспять</w>
+<w>Чернигову.</w>
+<w>Ярополкъ</w>
+<w>же</w>
+</rdg>
+</app></p></div></body></text></TEI>

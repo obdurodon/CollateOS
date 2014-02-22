@@ -1,122 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>273, 15</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="15">
-            <p>
-               <app>
-                  <lem>
-                     <w>Въ</w>
-                     <w>лѣто 6608.</w>
-                     <w>Выиде</w>
-                     <w>Мьстиславъ</w>
-                     <w>отъ</w>
-                     <w>Давыда</w>
-                     <w>на</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>В</w>
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>·҂ѕ҃·х҃и· <lb/>
-                        </w>
-                        <w>Выииде</w>
-                        <w>мстиславъ</w>
-                        <w>ѿ</w>
-                        <w>дв҃да <lb/>
-                        </w>
-                        <w>на</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>·҂ѕ҃·х҃и.</w>
-                        <w>выиде</w>
-                        <w>мстиславъ·</w>
-                        <w>ѿ</w>
-                        <w>двд҃а</w>
-                        <w>на</w>
-                        <w>
-                           <pb n="147r"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>В</w>
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>·҂ѕ҃· <lb/>
-                        </w>
-                        <w>·х҃и ·</w>
-                        <w>вы·̏иде</w>
-                        <w>мстиславъ</w>
-                        <w>ѿ</w>
-                        <w>двд҃а</w>
-                        <w>на</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>вниде <lb/>
-                        </w>
-                        <w>мьстиславъ·</w>
-                        <w>ѿ</w>
-                        <w>давыда</w>
-                        <w>на <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>сниде <lb/>
-                        </w>
-                        <w>мьстиславъ</w>
-                        <w>ѿ</w>
-                        <w>дв҃да</w>
-                        <w>на</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>В</w>
-                        <w>лѣто 6608.</w>
-                        <w>Выиде</w>
-                        <w>Мстиславъ</w>
-                        <w>отъ</w>
-                        <w>Давыда</w>
-                        <w>на</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Въ</w>
-                        <w>лѣто 6608.</w>
-                        <w>Выиде</w>
-                        <w>Мьстиславъ</w>
-                        <w>отъ</w>
-                        <w>Давыда</w>
-                        <w>на</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>В</w>
-                        <w>лѣто 6608.</w>
-                        <w>Выиде</w>
-                        <w>Мстиславъ</w>
-                        <w>от</w>
-                        <w>Давыда</w>
-                        <w>на</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>273, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="15"><p>
+<app>
+<lem wit="#lem">
+<w>Въ</w>
+<w>лѣто 6608.</w>
+
+<w>Выиде</w>
+<w>Мьстиславъ</w>
+<w>отъ</w>
+<w>Давыда</w>
+<w>на</w>
+</lem>
+
+<rdg wit="#lav">
+<w>В</w>
+<w>лѣ<hi rend="sup">т</hi></w>
+<w>·҂ѕ҃·х҃и· <lb/></w>
+
+<w>Выииде</w>
+<w>мстиславъ</w>
+<w>ѿ</w>
+<w>дв҃да <lb/></w>
+
+<w>на</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>лѣ<hi rend="sup">т</hi></w>
+<w>·҂ѕ҃·х҃и.</w>
+<w>выиде</w>
+<w>мстиславъ·</w>
+<w>ѿ</w>
+<w>двд҃а</w>
+<w>на <pb n="147r"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>В</w>
+<w>лѣ<hi rend="sup">т</hi></w>
+<w>·҂ѕ҃· <lb/></w>
+
+<w>·х҃и ·</w>
+
+<w>вы·̏иде</w>
+<w>мстиславъ</w>
+<w>ѿ</w>
+<w>двд҃а</w>
+<w>на</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>вниде <lb/></w>
+
+<w>мьстиславъ·</w>
+<w>ѿ</w>
+<w>давыда</w>
+<w>на <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>сниде <lb/></w>
+
+<w>мьстиславъ</w>
+<w>ѿ</w>
+<w>дв҃да</w>
+<w>на</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>В</w>
+<w>лѣто 6608.</w>
+
+<w>Выиде</w>
+<w>Мстиславъ</w>
+<w>отъ</w>
+<w>Давыда</w>
+<w>на</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Въ</w>
+<w>лѣто 6608.</w>
+
+<w>Выиде</w>
+<w>Мьстиславъ</w>
+<w>отъ</w>
+<w>Давыда</w>
+<w>на</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>В</w>
+<w>лѣто 6608.</w>
+
+<w>Выиде</w>
+<w>Мстиславъ</w>
+<w>от</w>
+<w>Давыда</w>
+<w>на</w>
+</rdg>
+</app></p></div></body></text></TEI>

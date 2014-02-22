@@ -1,96 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>148, 22</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="22">
-            <p>
-               <app>
-                  <lem>
-                     <w>сильна.</w>
-                     <w>Яко</w>
-                     <w>посвѣтяше</w>
-                     <w>мълния,</w>
-                     <w>блисташа</w>
-                     <w>ся</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>силна.</w>
-                        <w>я<lb/>ко</w>
-                        <w>посвѣтѧше</w>
-                        <w>молонья.</w>
-                        <w>блещ<hi rend="sup">а</hi> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>силна.</w>
-                        <w>и</w>
-                        <w>яко</w>
-                        <w>блисташа</w>
-                        <w>молыньа.</w>
-                        <w>и</w>
-                        <w>блиста<lb/>ше<hi rend="sup">с</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka"/>
-                     <rdg wit="#ipa">
-                        <w>силна.</w>
-                        <w>яко</w>
-                        <w>посвѣтѧ<lb/>ше</w>
-                        <w>мъльнъя</w>
-                        <w>и</w>
-                        <w>блисташасѧ <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ѕла.</w>
-                        <w>яко</w>
-                        <w>посвѣтѧ<lb/>ше</w>
-                        <w>млънїа</w>
-                        <w>блисташа<hi rend="sup">с</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>силна,</w>
-                        <w>яко</w>
-                        <w>посвѣтяше</w>
-                        <w>молонья,</w>
-                        <w>блещашеться</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>сильна;</w>
-                        <w>яко</w>
-                        <w>посвѣтяше</w>
-                        <w>мълния,</w>
-                        <w>бльщашеться</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>силна,</w>
-                        <w>яко</w>
-                        <w>посвѣтяше</w>
-                        <w>молонья,</w>
-                        <w>блещашеться</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>148, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="22"><p>
+<app>
+<lem wit="#lem">
+<w>сильна.</w>
+<w>Яко</w>
+<w>посвѣтяше</w>
+<w>мълния,</w>
+<w>блисташа</w>
+<w>ся</w>
+</lem>
+
+<rdg wit="#lav">
+<w>силна.</w>
+<w>я<lb/>ко</w>
+<w>посвѣтѧше</w>
+<w>молонья.</w>
+<w>блещ<hi rend="sup">а</hi><lb/>шетьсѧ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>силна.</w>
+<w>и</w>
+<w>яко</w>
+<w>блисташа</w>
+<w>молыньа.</w>
+<w>и</w>
+<w>блиста<lb/>ше<hi rend="sup">с</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+</rdg>
+
+<rdg wit="#ipa">
+<w>силна.</w>
+<w>яко</w>
+<w>посвѣтѧ<lb/>ше</w>
+<w>мъльнъя</w>
+<w>и</w>
+<w>блисташасѧ <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>ѕла.</w>
+<w>яко</w>
+<w>посвѣтѧ<lb/>ше</w>
+<w>млънїа</w>
+<w>блисташа<hi rend="sup">с</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>силна,</w>
+<w>яко</w>
+<w>посвѣтяше</w>
+<w>молонья,</w>
+<w>блещашеться</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>сильна;</w>
+<w>яко</w>
+<w>посвѣтяше</w>
+<w>мълния,</w>
+<w>бльщашеться</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>силна,</w>
+<w>яко</w>
+<w>посвѣтяше</w>
+<w>молонья,</w>
+<w>блещашеться</w>
+</rdg>
+</app></p></div></body></text></TEI>

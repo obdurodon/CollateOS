@@ -1,119 +1,100 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>222, 1</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="1">
-            <p>
-               <app>
-                  <lem>
-                     <w>приде</w>
-                     <w>Киеву</w>
-                     <w>самъ</w>
-                     <w>третии,</w>
-                     <w>а</w>
-                     <w>Половьци</w>
-                     <w>възвратиша</w>
-                     <w>ся</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>приде</w>
-                        <w>ки<lb/>еву</w>
-                        <w>самъ</w>
-                        <w>третии·</w>
-                        <w>а</w>
-                        <w>половци</w>
-                        <w>во<lb/>звратишасѧ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>прииде</w>
-                        <w>к</w>
-                        <w>киевѹ·</w>
-                        <w>самъ</w>
-                        <w>третеи <lb/>
-                        </w>
-                        <w>а</w>
-                        <w>половци</w>
-                        <w>възратиша<hi rend="sup">с</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>прїиде</w>
-                        <w>к</w>
-                        <w>киевѹ</w>
-                        <w>самь</w>
-                        <w>третїи·</w>
-                        <w>а</w>
-                        <w>по<lb/>ловци</w>
-                        <w>возратишасѧ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>приде</w>
-                        <w>кыеву·</w>
-                        <w>самъ</w>
-                        <w>тре<lb/>тѣи·</w>
-                        <w>а</w>
-                        <w>половцѣ</w>
-                        <w>оузъвра<lb/>тишасѧ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>прїиде</w>
-                        <w>къ</w>
-                        <w>киевоу</w>
-                        <w>са<hi rend="sup">м</hi>
-                        </w>
-                        <w>третеи.</w>
-                        <w>а</w>
-                        <w>поло<lb/>вци</w>
-                        <w>оувратиша<hi rend="sup">с</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>приде</w>
-                        <w>Киеву</w>
-                        <w>самъ</w>
-                        <w>третий,</w>
-                        <w>а</w>
-                        <w>Половци</w>
-                        <w>возвратишася 214,13</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>приде</w>
-                        <w>Киеву</w>
-                        <w>самъ</w>
-                        <w>третии,</w>
-                        <w>а</w>
-                        <w>Половьци</w>
-                        <w>възвратишася 279,21</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>приде</w>
-                        <w>Киеву</w>
-                        <w>самъ</w>
-                        <w>третий,</w>
-                        <w>а</w>
-                        <w>половци</w>
-                        <w>возвратишася 145,16</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>222, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="1"><p>
+<app>
+<lem wit="#lem">
+<w>приде</w>
+<w>Киеву</w>
+<w>самъ</w>
+<w>третии,</w>
+<w>а</w>
+<w>Половьци</w>
+<w>възвратиша</w>
+<w>ся</w>
+</lem>
+
+<rdg wit="#lav">
+<w>приде</w>
+<w>ки<lb/>еву</w>
+<w>самъ</w>
+<w>третии·</w>
+<w>а</w>
+<w>половци</w>
+<w>во<lb/>звратишасѧ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>прииде</w>
+<w>к</w>
+<w>киевѹ·</w>
+<w>самъ</w>
+<w>третеи <lb/></w>
+
+<w>а</w>
+<w>половци</w>
+<w>възратиша<hi rend="sup">с</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>прїиде</w>
+<w>к</w>
+<w>киевѹ</w>
+<w>самь</w>
+<w>третїи·</w>
+<w>а</w>
+<w>по<lb/>ловци</w>
+<w>возратишасѧ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>приде</w>
+<w>кыеву·</w>
+<w>самъ</w>
+<w>тре<lb/>тѣи·</w>
+<w>а</w>
+<w>половцѣ</w>
+<w>оузъвра<lb/>тишасѧ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>прїиде</w>
+<w>къ</w>
+<w>киевоу</w>
+<w>са<hi rend="sup">м</hi></w>
+<w>третеи.</w>
+<w>а</w>
+<w>поло<lb/>вци</w>
+<w>оувратиша<hi rend="sup">с</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>приде</w>
+<w>Киеву</w>
+<w>самъ</w>
+<w>третий,</w>
+<w>а</w>
+<w>Половци</w>
+<w>возвратишася</w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>приде</w>
+<w>Киеву</w>
+<w>самъ</w>
+<w>третии,</w>
+<w>а</w>
+<w>Половьци</w>
+<w>възвратишася</w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>приде</w>
+<w>Киеву</w>
+<w>самъ</w>
+<w>третий,</w>
+<w>а</w>
+<w>половци</w>
+<w>возвратишася</w>
+
+</rdg>
+</app></p></div></body></text></TEI>

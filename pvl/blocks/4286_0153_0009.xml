@@ -1,124 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>153, 9</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="9">
-            <p>
-               <app>
-                  <lem>
-                     <w>Богу</w>
-                     <w>въздають</w>
-                     <w>въ</w>
-                     <w>годы</w>
-                     <w>обычьныя.</w>
-                     <w>И</w>
-                     <w>ины</w>
-                     <w>цьркъви</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>б҃у</w>
-                        <w>въздають.</w>
-                        <w>в</w>
-                        <w>годы</w>
-                        <w>ѡ<lb/>бычныя.</w>
-                        <w>и</w>
-                        <w>ины</w>
-                        <w>црк҃ви</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>бг҃оу</w>
-                        <w>въздаю<hi rend="sup">т</hi>.</w>
-                        <w>въ</w>
-                        <w>годы</w>
-                        <w>ѡбы<hi rend="sup">ч</hi> 
-                           <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>иные</w>
-                        <w>црв<hi rend="sup">к</hi>и</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>бг҃ѹ</w>
-                        <w>воза<hi rend="sup">д</hi>ють.</w>
-                        <w>в</w>
-                        <w>годы</w>
-                        <w>ѡбычныѧ. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>ины</w>
-                        <w>цркв҃и</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>б҃у</w>
-                        <w>вьздають.</w>
-                        <w>в</w>
-                        <w>го<lb/>ды</w>
-                        <w>ѡбычныя.</w>
-                        <w>и</w>
-                        <w>ины</w>
-                        <w>црк҃ви</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>б҃оу</w>
-                        <w>въздаю<hi rend="sup">т</hi>.</w>
-                        <w>в</w>
-                        <w>годы</w>
-                        <w>ѡбычныа.</w>
-                        <w>и</w>
-                        <w>ины</w>
-                        <w>цр҃кви <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Богу</w>
-                        <w>въздають</w>
-                        <w>в</w>
-                        <w>годы</w>
-                        <w>обычныя.</w>
-                        <w>И</w>
-                        <w>ины</w>
-                        <w>церкви</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Богу</w>
-                        <w>въздають</w>
-                        <w>въ</w>
-                        <w>годы</w>
-                        <w>обычьныя.</w>
-                        <w>И</w>
-                        <w>ины</w>
-                        <w>цьркъви</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>богу</w>
-                        <w>въздають</w>
-                        <w>в</w>
-                        <w>годы</w>
-                        <w>обычныя.</w>
-                        <w>И</w>
-                        <w>ины</w>
-                        <w>церкви</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>153, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="9"><p>
+<app>
+<lem wit="#lem">
+<w>Богу</w>
+<w>въздають</w>
+<w>въ</w>
+<w>годы</w>
+<w>обычьныя.</w>
+<w>И</w>
+<w>ины</w>
+<w>цьркъви</w>
+</lem>
+
+<rdg wit="#lav">
+<w>б҃у</w>
+<w>въздають.</w>
+<w>в</w>
+<w>годы</w>
+<w>ѡ<lb/>бычныя.</w>
+<w>и</w>
+<w>ины</w>
+<w>црк҃ви</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>бг҃оу</w>
+<w>въздаю<hi rend="sup">т</hi>.</w>
+<w>въ</w>
+<w>годы</w>
+<w>ѡбы<hi rend="sup">ч</hi><lb/>ныа.</w>
+<w>и</w>
+<w>иные</w>
+<w>црв<hi rend="sup">к</hi>и</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>бг҃ѹ</w>
+<w>воза<hi rend="sup">д</hi>ють.</w>
+<w>в</w>
+<w>годы</w>
+<w>ѡбычныѧ. <lb/></w>
+
+<w>и</w>
+<w>ины</w>
+<w>цркв҃и</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>б҃у</w>
+<w>вьздають.</w>
+<w>в</w>
+<w>го<lb/>ды</w>
+<w>ѡбычныя.</w>
+<w>и</w>
+<w>ины</w>
+<w>црк҃ви</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>б҃оу</w>
+<w>въздаю<hi rend="sup">т</hi>.</w>
+<w>в</w>
+<w>годы</w>
+<w>ѡбычныа.</w>
+<w>и</w>
+<w>ины</w>
+<w>цр҃кви <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>Богу</w>
+<w>въздають</w>
+<w>в</w>
+<w>годы</w>
+<w>обычныя.</w>
+<w>И</w>
+<w>ины</w>
+<w>церкви</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Богу</w>
+<w>въздають</w>
+<w>въ</w>
+<w>годы</w>
+<w>обычьныя.</w>
+<w>И</w>
+<w>ины</w>
+<w>цьркъви</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>богу</w>
+<w>въздають</w>
+<w>в</w>
+<w>годы</w>
+<w>обычныя.</w>
+<w>И</w>
+<w>ины</w>
+<w>церкви</w>
+</rdg>
+</app></p></div></body></text></TEI>

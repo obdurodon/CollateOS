@@ -1,134 +1,111 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>151, 11</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="11">
-            <p>
-               <app>
-                  <lem>
-                     <w>поле</w>
-                     <w>внѣ</w>
-                     <w>града.</w>
-                     <w>И</w>
-                     <w>бѣ</w>
-                     <w>сѣча,</w>
-                     <w>зла,</w>
-                     <w>и</w>
-                     <w>одъва</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>поле</w>
-                        <w>внѣ</w>
-                        <w>града. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>сѣча</w>
-                        <w>зла.</w>
-                        <w>и</w>
-                        <w>ѡдва</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>поле <lb/>
-                        </w>
-                        <w>внѣ</w>
-                        <w>гра<hi rend="sup">д</hi>.</w>
-                        <w>и</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>сѣча</w>
-                        <w>зла.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>поле</w>
-                        <w>внѣ</w>
-                        <w>гра<hi rend="sup">д</hi>.</w>
-                        <w>и</w>
-                        <w>бы<hi rend="sup">с</hi> 
-                           <lb/>
-                        </w>
-                        <w>сѣча</w>
-                        <w>зла.</w>
-                        <w>ѡдва</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>поле</w>
-                        <w>внѣ</w>
-                        <w>града.</w>
-                        <w>и</w>
-                        <w>бѣ</w>
-                        <w>сѣ<lb/>ча</w>
-                        <w>зла.</w>
-                        <w>и</w>
-                        <w>ѡдва</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>поле</w>
-                        <w>внѣ <lb/>
-                        </w>
-                        <w>града.</w>
-                        <w>и</w>
-                        <w>бѣ</w>
-                        <w>сѣча</w>
-                        <w>ѕла.</w>
-                        <w>и</w>
-                        <w>одва</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>поле</w>
-                        <w>внѣ</w>
-                        <w>града.</w>
-                        <w>И</w>
-                        <w>бысть</w>
-                        <w>сѣча</w>
-                        <w>зла,</w>
-                        <w>и</w>
-                        <w>одва</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>поле</w>
-                        <w>вънѣ</w>
-                        <w>града.</w>
-                        <w>И</w>
-                        <w>бысть</w>
-                        <w>сѣча,</w>
-                        <w>зъла,</w>
-                        <w>и</w>
-                        <w>одъва</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>поле</w>
-                        <w>внѣ</w>
-                        <w>града.</w>
-                        <w>И</w>
-                        <w>бысть</w>
-                        <w>сѣча,</w>
-                        <w>зла,</w>
-                        <w>и</w>
-                        <w>одва</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>151, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="11"><p>
+<app>
+<lem wit="#lem">
+<w>поле</w>
+<w>внѣ</w>
+<w>града.</w>
+<w>И</w>
+<w>бѣ</w>
+<w>сѣча,</w>
+<w>зла,</w>
+<w>и</w>
+<w>одъва</w>
+</lem>
+
+<rdg wit="#lav">
+<w>поле</w>
+<w>внѣ</w>
+<w>града. <lb/></w>
+
+<w>и</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>сѣча</w>
+<w>зла.</w>
+<w>и</w>
+<w>ѡдва</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>поле <lb/></w>
+
+<w>внѣ</w>
+<w>гра<hi rend="sup">д</hi>.</w>
+<w>и</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>сѣча</w>
+<w>зла.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>поле</w>
+<w>внѣ</w>
+<w>гра<hi rend="sup">д</hi>.</w>
+<w>и</w>
+<w>бы<hi rend="sup">с</hi><lb/></w>
+<w>сѣча</w>
+<w>зла.</w>
+<w>ѡдва</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>поле</w>
+<w>внѣ</w>
+<w>града.</w>
+<w>и</w>
+<w>бѣ</w>
+<w>сѣ<lb/>ча</w>
+<w>зла.</w>
+<w>и</w>
+<w>ѡдва</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>поле</w>
+<w>внѣ <lb/></w>
+
+<w>града.</w>
+<w>и</w>
+<w>бѣ</w>
+<w>сѣча</w>
+<w>ѕла.</w>
+<w>и</w>
+<w>одва</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>поле</w>
+<w>внѣ</w>
+<w>града.</w>
+<w>И</w>
+<w>бысть</w>
+<w>сѣча</w>
+<w>зла,</w>
+<w>и</w>
+<w>одва</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>поле</w>
+<w>вънѣ</w>
+<w>града.</w>
+<w>И</w>
+<w>бысть</w>
+<w>сѣча,</w>
+<w>зъла,</w>
+<w>и</w>
+<w>одъва</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>поле</w>
+<w>внѣ</w>
+<w>града.</w>
+<w>И</w>
+<w>бысть</w>
+<w>сѣча,</w>
+<w>зла,</w>
+<w>и</w>
+<w>одва</w>
+</rdg>
+</app></p></div></body></text></TEI>

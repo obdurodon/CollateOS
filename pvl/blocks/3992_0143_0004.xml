@@ -1,116 +1,97 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>143, 4</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="4">
-            <p>
-               <app>
-                  <lem>
-                     <w>И</w>
-                     <w>бѣ</w>
-                     <w>у</w>
-                     <w>Ярослава</w>
-                     <w>кърмильць</w>
-                     <w>и</w>
-                     <w>воевода,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>и</w>
-                        <w>бѣ</w>
-                        <w>оу</w>
-                        <w>ярослава</w>
-                        <w>ко<lb/>рмилець.</w>
-                        <w>и</w>
-                        <w>воевода.</w>
-                        <w>имене<lb/>мь</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>и</w>
-                        <w>бѣ</w>
-                        <w>оу</w>
-                        <w>ярослава</w>
-                        <w>кормилець.</w>
-                        <w>и</w>
-                        <w>воевода.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>и</w>
-                        <w>бѣ</w>
-                        <w>оу</w>
-                        <w>ярослава</w>
-                        <w>кормилець. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>воевода</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>и</w>
-                        <w>бѣ</w>
-                        <w>оу</w>
-                        <w>ярослава</w>
-                        <w>корь<lb/>миле<sic>ц</sic>ь</w>
-                        <w>и</w>
-                        <w>воевода</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>и</w>
-                        <w>бѣ</w>
-                        <w>оу</w>
-                        <w>ярослава</w>
-                        <w>кормилець</w>
-                        <w>и</w>
-                        <w>воевода</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>И</w>
-                        <w>бѣ</w>
-                        <w>у</w>
-                        <w>Ярослава</w>
-                        <w>кормилець</w>
-                        <w>и</w>
-                        <w>воевода,</w>
-                        <w>именемь</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>И</w>
-                        <w>бѣ</w>
-                        <w>у</w>
-                        <w>Ярослава</w>
-                        <w>кърмильць</w>
-                        <w>и</w>
-                        <w>воевода,</w>
-                        <w>именьмь</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>И</w>
-                        <w>бѣ</w>
-                        <w>у</w>
-                        <w>Ярослава</w>
-                        <w>кормилець</w>
-                        <w>и</w>
-                        <w>воевода,</w>
-                        <w>именемь</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>143, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="4"><p>
+<app>
+<lem wit="#lem">
+<w>И</w>
+<w>бѣ</w>
+<w>у</w>
+<w>Ярослава</w>
+<w>кърмильць</w>
+<w>и</w>
+<w>воевода,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>и</w>
+<w>бѣ</w>
+<w>оу</w>
+<w>ярослава</w>
+<w>ко<lb/>рмилець.</w>
+<w>и</w>
+<w>воевода.</w>
+<w>имене<lb/>мь</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>и</w>
+<w>бѣ</w>
+<w>оу</w>
+<w>ярослава</w>
+<w>кормилець.</w>
+<w>и</w>
+<w>воевода.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>и</w>
+<w>бѣ</w>
+<w>оу</w>
+<w>ярослава</w>
+<w>кормилець. <lb/></w>
+
+<w>и</w>
+<w>воевода</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>и</w>
+<w>бѣ</w>
+<w>оу</w>
+<w>ярослава</w>
+<w>корь<lb/>миле<milestone unit="sic" n="start"/>ц<milestone unit="sic" n="end"/>ь</w>
+<w>и</w>
+<w>воевода</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>и</w>
+<w>бѣ</w>
+<w>оу</w>
+<w>ярослава</w>
+<w>кормилець</w>
+<w>и</w>
+<w>воевода</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>И</w>
+<w>бѣ</w>
+<w>у</w>
+<w>Ярослава</w>
+<w>кормилець</w>
+<w>и</w>
+<w>воевода,</w>
+<w>именемь</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>И</w>
+<w>бѣ</w>
+<w>у</w>
+<w>Ярослава</w>
+<w>кърмильць</w>
+<w>и</w>
+<w>воевода,</w>
+<w>именьмь</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>И</w>
+<w>бѣ</w>
+<w>у</w>
+<w>Ярослава</w>
+<w>кормилець</w>
+<w>и</w>
+<w>воевода,</w>
+<w>именемь</w>
+</rdg>
+</app></p></div></body></text></TEI>

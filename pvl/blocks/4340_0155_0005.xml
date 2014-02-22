@@ -1,115 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>155, 5</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="5">
-            <p>
-               <app>
-                  <lem>
-                     <w>Яропълка</w>
-                     <w>и</w>
-                     <w>Ольга,</w>
-                     <w>сына</w>
-                     <w>Святославля,</w>
-                     <w>и</w>
-                     <w>крьстиша</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ярополка</w>
-                        <w>и</w>
-                        <w>ѡльга.</w>
-                        <w>сн<hi rend="sup">а</hi> 
-                           <lb/>
-                        </w>
-                        <w>с҃тославлѧ.</w>
-                        <w>и</w>
-                        <w>крт<hi rend="sup">с</hi>иша</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ярополка.</w>
-                        <w>и</w>
-                        <w>ѡлга. <lb/>
-                        </w>
-                        <w>с҃на</w>
-                        <w>с҃тославлѧ.</w>
-                        <w>и</w>
-                        <w>крт<hi rend="sup">с</hi>иша</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>яро<lb/>полка.</w>
-                        <w>и</w>
-                        <w>ѡльга.</w>
-                        <w>сн҃а</w>
-                        <w>ст҃ославлѧ.</w>
-                        <w>и</w>
-                        <w>крт<hi rend="sup">с</hi>иша</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>яро<lb/>полкъ.</w>
-                        <w>и</w>
-                        <w>ѡлегъ.</w>
-                        <w>с҃на</w>
-                        <w>ст҃осла<lb/>влѧ.</w>
-                        <w>и</w>
-                        <w>крт<hi rend="sup">с</hi>иша</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ярополкь.</w>
-                        <w>и</w>
-                        <w>ѡлегь.</w>
-                        <w>сн҃а <lb/>
-                        </w>
-                        <w>с҃тославлѧ.</w>
-                        <w>и</w>
-                        <w>кр<hi rend="sup">с</hi>тиша</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Ярополка</w>
-                        <w>и</w>
-                        <w>Ольга,</w>
-                        <w>сына</w>
-                        <w>Святославля,</w>
-                        <w>и</w>
-                        <w>крестиша</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Яропълка</w>
-                        <w>и</w>
-                        <w>Ольга,</w>
-                        <w>сына</w>
-                        <w>Святославля,</w>
-                        <w>и</w>
-                        <w>крьстиша</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Ярополка</w>
-                        <w>и</w>
-                        <w>Ольга,</w>
-                        <w>сына</w>
-                        <w>Святославля,</w>
-                        <w>и</w>
-                        <w>крестиша</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>155, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="5"><p>
+<app>
+<lem wit="#lem">
+<w>Яропълка</w>
+<w>и</w>
+<w>Ольга,</w>
+<w>сына</w>
+<w>Святославля,</w>
+<w>и</w>
+<w>крьстиша</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ярополка</w>
+<w>и</w>
+<w>ѡльга.</w>
+<w>сн<hi rend="sup">а</hi><lb/></w>
+<w>с҃тославлѧ.</w>
+<w>и</w>
+<w>крт<hi rend="sup">с</hi>иша</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ярополка.</w>
+<w>и</w>
+<w>ѡлга. <lb/></w>
+
+<w>с҃на</w>
+<w>с҃тославлѧ.</w>
+<w>и</w>
+<w>крт<hi rend="sup">с</hi>иша</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>яро<lb/>полка.</w>
+<w>и</w>
+<w>ѡльга.</w>
+<w>сн҃а</w>
+<w>ст҃ославлѧ.</w>
+<w>и</w>
+<w>крт<hi rend="sup">с</hi>иша</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>яро<lb/>полкъ.</w>
+<w>и</w>
+<w>ѡлегъ.</w>
+<w>с҃на</w>
+<w>ст҃осла<lb/>влѧ.</w>
+<w>и</w>
+<w>крт<hi rend="sup">с</hi>иша</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ярополкь.</w>
+<w>и</w>
+<w>ѡлегь.</w>
+<w>сн҃а <lb/></w>
+
+<w>с҃тославлѧ.</w>
+<w>и</w>
+<w>кр<hi rend="sup">с</hi>тиша</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Ярополка</w>
+<w>и</w>
+<w>Ольга,</w>
+<w>сына</w>
+<w>Святославля,</w>
+<w>и</w>
+<w>крестиша</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Яропълка</w>
+<w>и</w>
+<w>Ольга,</w>
+<w>сына</w>
+<w>Святославля,</w>
+<w>и</w>
+<w>крьстиша</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Ярополка</w>
+<w>и</w>
+<w>Ольга,</w>
+<w>сына</w>
+<w>Святославля,</w>
+<w>и</w>
+<w>крестиша</w>
+</rdg>
+</app></p></div></body></text></TEI>

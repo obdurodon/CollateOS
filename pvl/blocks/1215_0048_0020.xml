@@ -1,122 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>48, 20</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="20">
-            <p>
-               <app>
-                  <lem>
-                     <w>Аще</w>
-                     <w>ли,</w>
-                     <w>убѣжавъше,</w>
-                     <w>придуть</w>
-                     <w>въ</w>
-                     <w>Русь,</w>
-                     <w>и</w>
-                     <w>мы</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>аще</w>
-                        <w>ли</w>
-                        <w>оубѣжавше</w>
-                        <w>в</w>
-                        <w>русь <lb/>
-                        </w>
-                        <w>придут<hi rend="sup">м</hi>ь<hi rend="sup">ы</hi>.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>аще<hi rend="sup">л</hi>
-                        </w>
-                        <w>оубежавше</w>
-                        <w>приидоу<hi rend="sup">т</hi>
-                        </w>
-                        <w>в</w>
-                        <w>рѹ<hi rend="sup">с</hi>.</w>
-                        <w>и</w>
-                        <w>мы</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>аще</w>
-                        <w>ли</w>
-                        <w>оубежавше</w>
-                        <w>прїидѹть</w>
-                        <w>в</w>
-                        <w>рѹ<hi rend="sup">с</hi>.</w>
-                        <w>и</w>
-                        <w>мы</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>аще <lb/>
-                        </w>
-                        <w>ли</w>
-                        <w>оубѣжавше</w>
-                        <w>приидуть <lb/>
-                        </w>
-                        <w>в</w>
-                        <w>русь.</w>
-                        <w>и</w>
-                        <w>мы</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>
-                           <sic>оу</sic>ще</w>
-                        <w>ли</w>
-                        <w>оубѣжавше</w>
-                        <w>прїидоу<hi rend="sup">т</hi>
-                        </w>
-                        <w>в</w>
-                        <w>роу<hi rend="sup">с</hi>.</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>мы</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>аще</w>
-                        <w>ли</w>
-                        <w>убѣжавше</w>
-                        <w>в</w>
-                        <w>Русь</w>
-                        <w>придуть,</w>
-                        <w>мы</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>аще</w>
-                        <w>ли,</w>
-                        <w>убѣжавъше,</w>
-                        <w>въ</w>
-                        <w>Русь</w>
-                        <w>придуть,</w>
-                        <w>мы</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Аще</w>
-                        <w>ли</w>
-                        <w>убѣжавше</w>
-                        <w>в</w>
-                        <w>Русь</w>
-                        <w>придуть,</w>
-                        <w>мы</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>48, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="20"><p>
+<app>
+<lem wit="#lem">
+<w>Аще</w>
+<w>ли,</w>
+<w>убѣжавъше,</w>
+<w>придуть</w>
+<w>въ</w>
+<w>Русь,</w>
+<w>и</w>
+<w>мы</w>
+</lem>
+
+<rdg wit="#lav">
+<w>аще</w>
+<w>ли</w>
+<w>оубѣжавше</w>
+<w>в</w>
+<w>русь <lb/></w>
+
+<w>придут<hi rend="sup">м</hi>ь<hi rend="sup">ы</hi>.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>аще<hi rend="sup">л</hi></w>
+<w>оубежавше</w>
+<w>приидоу<hi rend="sup">т</hi></w>
+<w>в</w>
+<w>рѹ<hi rend="sup">с</hi>.</w>
+<w>и</w>
+<w>мы</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>аще</w>
+<w>ли</w>
+<w>оубежавше</w>
+<w>прїидѹть</w>
+<w>в</w>
+<w>рѹ<hi rend="sup">с</hi>.</w>
+<w>и</w>
+<w>мы</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>аще <lb/></w>
+
+<w>ли</w>
+<w>оубѣжавше</w>
+<w>приидуть <lb/></w>
+
+<w>в</w>
+<w>русь.</w>
+<w>и</w>
+<w>мы</w>
+</rdg>
+
+<rdg wit="#xle">
+<w><milestone unit="sic" n="start"/>оу<milestone unit="sic" n="end"/>ще</w>
+<w>ли</w>
+<w>оубѣжавше</w>
+<w>прїидоу<hi rend="sup">т</hi></w>
+<w>в</w>
+<w>роу<hi rend="sup">с</hi>.</w>
+<w>и <lb/></w>
+
+<w>мы</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>аще</w>
+<w>ли</w>
+<w>убѣжавше</w>
+<w>в</w>
+<w>Русь</w>
+<w>придуть,</w>
+<w>мы</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>аще</w>
+<w>ли,</w>
+<w>убѣжавъше,</w>
+<w>въ</w>
+<w>Русь</w>
+<w>придуть,</w>
+<w>мы</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Аще</w>
+<w>ли</w>
+<w>убѣжавше</w>
+<w>в</w>
+<w>Русь</w>
+<w>придуть,</w>
+<w>мы</w>
+</rdg>
+</app></p></div></body></text></TEI>

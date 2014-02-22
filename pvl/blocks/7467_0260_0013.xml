@@ -1,113 +1,97 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>260, 13</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="13">
-            <p>
-               <app>
-                  <lem>
-                     <w>градъ</w>
-                     <w>малъ</w>
-                     <w>у</w>
-                     <w>Киева</w>
-                     <w>яко 10</w>
-                     <w>вьрстъ</w>
-                     <w>въдале,</w>
-                     <w>и</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>гра<hi rend="sup">д</hi>
-                        </w>
-                        <w>малъ</w>
-                        <w>оу</w>
-                        <w>ки<lb/>ева·</w>
-                        <w>яко</w>
-                        <w>·і҃·</w>
-                        <w>верстъ</w>
-                        <w>вдале·</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#rad"/>
-                     <rdg wit="#aka">
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>городъ</w>
-                        <w>малъ</w>
-                        <w>оу</w>
-                        <w>кие<lb/>ва·</w>
-                        <w>яко</w>
-                        <w>десѧти</w>
-                        <w>веръстъ</w>
-                        <w>и</w>
-                        <w>въ<lb/>дале·</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>горѡ<hi rend="sup">д</hi>
-                        </w>
-                        <w>малъ <lb/>
-                        </w>
-                        <w>оу</w>
-                        <w>кїева.</w>
-                        <w>яко</w>
-                        <w>десѧти</w>
-                        <w>връстовь</w>
-                        <w>дале.</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>градъ</w>
-                        <w>малъ</w>
-                        <w>у</w>
-                        <w>Киева</w>
-                        <w>яко 10</w>
-                        <w>верстъ</w>
-                        <w>в</w>
-                        <w>дале,</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>градъ</w>
-                        <w>малъ</w>
-                        <w>у</w>
-                        <w>Киева</w>
-                        <w>яко 10</w>
-                        <w>вьрстъ</w>
-                        <w>въдале,</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>град</w>
-                        <w>малъ</w>
-                        <w>у</w>
-                        <w>Киева</w>
-                        <w>яко 10</w>
-                        <w>верстъ</w>
-                        <w>в</w>
-                        <w>дале,</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>260, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="13"><p>
+<app>
+<lem wit="#lem">
+<w>градъ</w>
+<w>малъ</w>
+<w>у</w>
+<w>Киева</w>
+<w>яко 10</w>
+
+<w>вьрстъ</w>
+<w>въдале,</w>
+<w>и</w>
+</lem>
+
+<rdg wit="#lav">
+<w>гра<hi rend="sup">д</hi></w>
+<w>малъ</w>
+<w>оу</w>
+<w>ки<lb/>ева·</w>
+<w>яко</w>
+<w>·і҃·</w>
+<w>верстъ</w>
+<w>вдале·</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#rad">
+</rdg>
+
+<rdg wit="#aka">
+<w>и</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>городъ</w>
+<w>малъ</w>
+<w>оу</w>
+<w>кие<lb/>ва·</w>
+<w>яко</w>
+<w>десѧти</w>
+<w>веръстъ</w>
+<w>и</w>
+<w>въ<lb/>дале·</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>горѡ<hi rend="sup">д</hi></w>
+<w>малъ <lb/></w>
+
+<w>оу</w>
+<w>кїева.</w>
+<w>яко</w>
+<w>десѧти</w>
+<w>връстовь</w>
+<w>дале.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>градъ</w>
+<w>малъ</w>
+<w>у</w>
+<w>Киева</w>
+<w>яко 10</w>
+
+<w>верстъ</w>
+<w>в</w>
+<w>дале,</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>градъ</w>
+<w>малъ</w>
+<w>у</w>
+<w>Киева</w>
+<w>яко 10</w>
+
+<w>вьрстъ</w>
+<w>въдале,</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>град</w>
+<w>малъ</w>
+<w>у</w>
+<w>Киева</w>
+<w>яко 10</w>
+
+<w>верстъ</w>
+<w>в</w>
+<w>дале,</w>
+<w>и</w>
+</rdg>
+</app></p></div></body></text></TEI>

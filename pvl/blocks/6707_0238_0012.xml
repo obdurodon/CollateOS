@@ -1,110 +1,91 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>238, 12</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="12">
-            <p>
-               <app>
-                  <lem>
-                     <w>Ярославъ</w>
-                     <w>на</w>
-                     <w>Медвѣдици</w>
-                     <w>въ</w>
-                     <w>сторожи,</w>
-                     <w>бѣжа</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>стояше</w>
-                        <w>на <lb/>
-                        </w>
-                        <w>медвѣдици</w>
-                        <w>в</w>
-                        <w>сторожи<hi rend="sup">х</hi>·</w>
-                        <w>и</w>
-                        <w>побѣ<lb/>же</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ярославъ</w>
-                        <w>на</w>
-                        <w>медвѣди<lb/>ци.</w>
-                        <w>въ</w>
-                        <w>сторожи·</w>
-                        <w>и</w>
-                        <w>бежа</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>яро<lb/>славъ</w>
-                        <w>на</w>
-                        <w>медьведици</w>
-                        <w>въ</w>
-                        <w>сторожи·</w>
-                        <w>и</w>
-                        <w>бѣжа</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>яросла<lb/>въ</w>
-                        <w>на</w>
-                        <w>медвѣдици·</w>
-                        <w>
-                           <sic>о</sic>у</w>
-                        <w>сторожи· <lb/>
-                        </w>
-                        <w>бѣжа</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ярославь</w>
-                        <w>на</w>
-                        <w>медведици.</w>
-                        <w>в</w>
-                        <w>стороже<hi rend="sup">х</hi>,</w>
-                        <w>бѣжа <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>стояше</w>
-                        <w>на</w>
-                        <w>Медвѣдици</w>
-                        <w>в</w>
-                        <w>сторожихъ,</w>
-                        <w>и</w>
-                        <w>побѣже</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Ярославъ</w>
-                        <w>на</w>
-                        <w>Медвѣдици</w>
-                        <w>въ</w>
-                        <w>сторожи,—бѣжа</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>стояше</w>
-                        <w>на</w>
-                        <w>Медвѣдици</w>
-                        <w>в</w>
-                        <w>сторожих,</w>
-                        <w>и</w>
-                        <w>побѣже</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>238, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="12"><p>
+<app>
+<lem wit="#lem">
+<w>Ярославъ</w>
+<w>на</w>
+<w>Медвѣдици</w>
+<w>въ</w>
+<w>сторожи,</w>
+<w>бѣжа</w>
+</lem>
+
+<rdg wit="#lav">
+<w>стояше</w>
+<w>на <lb/></w>
+
+<w>медвѣдици</w>
+<w>в</w>
+<w>сторожи<hi rend="sup">х</hi>·</w>
+<w>и</w>
+<w>побѣ<lb/>же</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ярославъ</w>
+<w>на</w>
+<w>медвѣди<lb/>ци.</w>
+<w>въ</w>
+<w>сторожи·</w>
+<w>и</w>
+<w>бежа</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>яро<lb/>славъ</w>
+<w>на</w>
+<w>медьведици</w>
+<w>въ</w>
+<w>сторожи·</w>
+<w>и</w>
+<w>бѣжа</w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>яросла<lb/>въ</w>
+<w>на</w>
+<w>медвѣдици·</w>
+<w><milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/>у</w>
+<w>сторожи· <lb/></w>
+
+<w>бѣжа</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ярославь</w>
+<w>на</w>
+<w>медведици.</w>
+<w>в</w>
+<w>стороже<hi rend="sup">х</hi>,</w>
+<w>бѣжа <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>стояше</w>
+<w>на</w>
+<w>Медвѣдици</w>
+<w>в</w>
+<w>сторожихъ,</w>
+<w>и</w>
+<w>побѣже</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Ярославъ</w>
+<w>на</w>
+<w>Медвѣдици</w>
+<w>въ</w>
+<w>сторожи,—бѣжа</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>стояше</w>
+<w>на</w>
+<w>Медвѣдици</w>
+<w>в</w>
+<w>сторожих,</w>
+<w>и</w>
+<w>побѣже</w>
+</rdg>
+</app></p></div></body></text></TEI>

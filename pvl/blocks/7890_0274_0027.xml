@@ -1,111 +1,93 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>274, 27</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="27">
-            <p>
-               <app>
-                  <lem>
-                     <w>Въ</w>
-                     <w>лѣто 6609.</w>
-                     <w>Престави</w>
-                     <w>ся</w>
-                     <w>Вьсеславъ,</w>
-                     <w>Полотьскыи</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>В</w>
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>·҂ѕ҃·х҃ѳ·</w>
-                        <w>Престави</w>
-                        <w>сѧ <lb/>
-                        </w>
-                        <w>всеславъ</w>
-                        <w>половьцьскыи <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>.҂ѕ҃.х҃о.</w>
-                        <w>рестави</w>
-                        <w>сѧ</w>
-                        <w>всеславъ·</w>
-                        <w>полоцкии</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>В</w>
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>·҂ѕ҃·х҃ѳ· <lb/>
-                        </w>
-                        <w>пристави</w>
-                        <w>сѧ</w>
-                        <w>все·̏славъ</w>
-                        <w>полоцкии</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>В</w>
-                        <w>л<hi rend="sup">т</hi>ѣ</w>
-                        <w>·҂ѕ҃·х҃·ѳ҃·</w>
-                        <w>Престави</w>
-                        <w>сѧ <lb/>
-                        </w>
-                        <w>всеславъ</w>
-                        <w>полотьскыи</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>В</w>
-                        <w>л<hi rend="sup">т</hi>ѣ</w>
-                        <w>҂ѕ҃.х҃.ѳ҃. <lb/>
-                        </w>
-                        <w>престави</w>
-                        <w>сѧ</w>
-                        <w>всеславъ.</w>
-                        <w>поло<hi rend="sup">т</hi>скыи</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>В</w>
-                        <w>лѣто 6609.</w>
-                        <w>Преставися</w>
-                        <w>Всеславъ,</w>
-                        <w>Полоцкий</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Въ</w>
-                        <w>лѣто 6609.</w>
-                        <w>Преставися</w>
-                        <w>Вьсеславъ,</w>
-                        <w>Полотьскыи</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>В</w>
-                        <w>лѣто 6609.</w>
-                        <w>Преставися</w>
-                        <w>Всеславъ,</w>
-                        <w>полоцкии</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>274, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="27"><p>
+<app>
+<lem wit="#lem">
+<w>Въ</w>
+<w>лѣто 6609.</w>
+
+<w>Престави</w>
+<w>ся</w>
+<w>Вьсеславъ,</w>
+<w>Полотьскыи</w>
+</lem>
+
+<rdg wit="#lav">
+<w>В</w>
+<w>лѣ<hi rend="sup">т</hi></w>
+<w>·҂ѕ҃·х҃ѳ·</w>
+<w>Престави</w>
+<w>сѧ <lb/></w>
+
+<w>всеславъ</w>
+<w>половьцьскыи <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>лѣ<hi rend="sup">т</hi></w>
+<w>.҂ѕ҃.х҃о.</w>
+<w>рестави</w>
+<w>сѧ</w>
+<w>всеславъ·</w>
+<w>полоцкии</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>В</w>
+<w>лѣ<hi rend="sup">т</hi></w>
+<w>·҂ѕ҃·х҃ѳ· <lb/></w>
+
+<w>пристави</w>
+<w>сѧ</w>
+<w>все·̏славъ</w>
+<w>полоцкии</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>В</w>
+<w>л<hi rend="sup">т</hi>ѣ</w>
+<w>·҂ѕ҃·х҃·ѳ҃·</w>
+<w>Престави</w>
+<w>сѧ <lb/></w>
+
+<w>всеславъ</w>
+<w>полотьскыи</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>В</w>
+<w>л<hi rend="sup">т</hi>ѣ</w>
+<w>҂ѕ҃.х҃.ѳ҃. <lb/></w>
+
+<w>престави</w>
+<w>сѧ</w>
+<w>всеславъ.</w>
+<w>поло<hi rend="sup">т</hi>скыи</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>В</w>
+<w>лѣто 6609.</w>
+
+<w>Преставися</w>
+<w>Всеславъ,</w>
+<w>Полоцкий</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Въ</w>
+<w>лѣто 6609.</w>
+
+<w>Преставися</w>
+<w>Вьсеславъ,</w>
+<w>Полотьскыи</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>В</w>
+<w>лѣто 6609.</w>
+
+<w>Преставися</w>
+<w>Всеславъ,</w>
+<w>полоцкии</w>
+</rdg>
+</app></p></div></body></text></TEI>

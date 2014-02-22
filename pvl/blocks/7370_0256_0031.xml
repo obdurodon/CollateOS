@@ -1,130 +1,106 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>256, 31</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="31">
-            <p>
-               <app>
-                  <lem>
-                     <w>оже</w>
-                     <w>межю</w>
-                     <w>нами</w>
-                     <w>рати.</w>
-                     <w>Да</w>
-                     <w>нынѣ</w>
-                     <w>отъселѣ</w>
-                     <w>имемъ</w>
-                     <w>ся</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ѡже</w>
-                        <w>межю</w>
-                        <w>на<lb/>ми</w>
-                        <w>рати·</w>
-                        <w>да</w>
-                        <w>нонѣ</w>
-                        <w>ѿселѣ</w>
-                        <w>име<hi rend="sup">м</hi>сѧ <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ѡже</w>
-                        <w>межи <lb/>
-                        </w>
-                        <w>нами</w>
-                        <w>рати.</w>
-                        <w>да</w>
-                        <w>н′нѣ</w>
-                        <w>ѿселе</w>
-                        <w>име<hi rend="sup">м</hi>сѧ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ѡже</w>
-                        <w>межь</w>
-                        <w>нами</w>
-                        <w>рать·</w>
-                        <w>да</w>
-                        <w>н҃нѣ</w>
-                        <w>ѿсе·̏ле·</w>
-                        <w>имемсѧ <lb/>
-                        </w>
-                        <w>
-                           <pb n="127v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ѡже</w>
-                        <w>межи</w>
-                        <w>нами</w>
-                        <w>ра<lb/>ть</w>
-                        <w>до</w>
-                        <w>нн҃ѣ</w>
-                        <w>ѿселѣ</w>
-                        <w>имѣмьсѧ <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>иже</w>
-                        <w>межи</w>
-                        <w>нами</w>
-                        <w>ра<hi rend="sup">т</hi> 
-                           <lb/>
-                        </w>
-                        <w>до</w>
-                        <w>нн҃ѣ.</w>
-                        <w>ѿселѣ</w>
-                        <w>имемсѧ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>оже</w>
-                        <w>межю</w>
-                        <w>нами</w>
-                        <w>рати;</w>
-                        <w>да</w>
-                        <w>нынѣ</w>
-                        <w>отселѣ</w>
-                        <w>имемся</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>оже</w>
-                        <w>межю</w>
-                        <w>нами</w>
-                        <w>рати;</w>
-                        <w>да</w>
-                        <w>нынѣ,</w>
-                        <w>отъселѣ</w>
-                        <w>имемъся</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>оже</w>
-                        <w>межю</w>
-                        <w>нами</w>
-                        <w>рати.</w>
-                        <w>Да</w>
-                        <w>нонѣ</w>
-                        <w>отселѣ</w>
-                        <w>имемся</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>256, 31</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="31"><p>
+<app>
+<lem wit="#lem">
+<w>оже</w>
+<w>межю</w>
+<w>нами</w>
+<w>рати.</w>
+<w>Да</w>
+<w>нынѣ</w>
+<w>отъселѣ</w>
+<w>имемъ</w>
+<w>ся</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ѡже</w>
+<w>межю</w>
+<w>на<lb/>ми</w>
+<w>рати·</w>
+<w>да</w>
+<w>нонѣ</w>
+<w>ѿселѣ</w>
+<w>име<hi rend="sup">м</hi>сѧ <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>ѡже</w>
+<w>межи <lb/></w>
+
+<w>нами</w>
+<w>рати.</w>
+<w>да</w>
+<w>н′нѣ</w>
+<w>ѿселе</w>
+<w>име<hi rend="sup">м</hi>сѧ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ѡже</w>
+<w>межь</w>
+<w>нами</w>
+<w>рать·</w>
+<w>да</w>
+<w>н҃нѣ</w>
+<w>ѿсе·̏ле·</w>
+<w>имемсѧ <lb/><pb n="127v"/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>ѡже</w>
+<w>межи</w>
+<w>нами</w>
+<w>ра<lb/>ть</w>
+<w>до</w>
+<w>нн҃ѣ</w>
+<w>ѿселѣ</w>
+<w>имѣмьсѧ <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>иже</w>
+<w>межи</w>
+<w>нами</w>
+<w>ра<hi rend="sup">т</hi><lb/></w>
+<w>до</w>
+<w>нн҃ѣ.</w>
+<w>ѿселѣ</w>
+<w>имемсѧ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>оже</w>
+<w>межю</w>
+<w>нами</w>
+<w>рати;</w>
+<w>да</w>
+<w>нынѣ</w>
+<w>отселѣ</w>
+<w>имемся</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>оже</w>
+<w>межю</w>
+<w>нами</w>
+<w>рати;</w>
+<w>да</w>
+<w>нынѣ,</w>
+<w>отъселѣ</w>
+<w>имемъся</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>оже</w>
+<w>межю</w>
+<w>нами</w>
+<w>рати.</w>
+<w>Да</w>
+<w>нонѣ</w>
+<w>отселѣ</w>
+<w>имемся</w>
+</rdg>
+</app></p></div></body></text></TEI>

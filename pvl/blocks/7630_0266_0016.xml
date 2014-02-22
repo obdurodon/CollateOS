@@ -1,121 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>266, 16</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="16">
-            <p>
-               <app>
-                  <lem>
-                     <w>свою</w>
-                     <w>моложьшюю,</w>
-                     <w>а</w>
-                     <w>сама</w>
-                     <w>пиита</w>
-                     <w>и</w>
-                     <w>веселита</w>
-                     <w>ся.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>свою</w>
-                        <w>молотшюю·</w>
-                        <w>а</w>
-                        <w>са<lb/>ма</w>
-                        <w>пиита</w>
-                        <w>и</w>
-                        <w>веселита</w>
-                        <w>сѧ·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>свою·</w>
-                        <w>моло<hi rend="sup">ж</hi>шюю.</w>
-                        <w>а</w>
-                        <w>сами</w>
-                        <w>питаи<lb/>та<hi rend="sup">с</hi>·</w>
-                        <w>и</w>
-                        <w>веселита<hi rend="sup">с</hi>.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>свою</w>
-                        <w>моложьшѹю·</w>
-                        <w>а</w>
-                        <w>сами <lb/>
-                        </w>
-                        <w>питаита</w>
-                        <w>сѧ</w>
-                        <w>и</w>
-                        <w>веселѣта</w>
-                        <w>сѧ·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>свою</w>
-                        <w>моложьшюю·</w>
-                        <w>а</w>
-                        <w>са<lb/>ма</w>
-                        <w>
-                           <sic>п</sic>иита</w>
-                        <w>и</w>
-                        <w>веселита</w>
-                        <w>сѧ·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>свою</w>
-                        <w>молѡ<hi rend="sup">д</hi> 
-                           <lb/>
-                        </w>
-                        <w>а</w>
-                        <w>сами</w>
-                        <w>пїита,</w>
-                        <w>и</w>
-                        <w>веселита</w>
-                        <w>сѧ.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>свою</w>
-                        <w>молотшюю,</w>
-                        <w>а</w>
-                        <w>сама</w>
-                        <w>пийта</w>
-                        <w>и</w>
-                        <w>веселитася;</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>свою</w>
-                        <w>моложьшюю,</w>
-                        <w>а</w>
-                        <w>сама</w>
-                        <w>пиита</w>
-                        <w>и</w>
-                        <w>веселитася;</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>свою</w>
-                        <w>молотшюю,</w>
-                        <w>а</w>
-                        <w>сама</w>
-                        <w>пийта</w>
-                        <w>и</w>
-                        <w>веселитася.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>266, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="16"><p>
+<app>
+<lem wit="#lem">
+<w>свою</w>
+<w>моложьшюю,</w>
+<w>а</w>
+<w>сама</w>
+<w>пиита</w>
+<w>и</w>
+<w>веселита</w>
+<w>ся.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>свою</w>
+<w>молотшюю·</w>
+<w>а</w>
+<w>са<lb/>ма</w>
+<w>пиита</w>
+<w>и</w>
+<w>веселита</w>
+<w>сѧ·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>свою·</w>
+<w>моло<hi rend="sup">ж</hi>шюю.</w>
+<w>а</w>
+<w>сами</w>
+<w>питаи<lb/>та<hi rend="sup">с</hi>·</w>
+<w>и</w>
+<w>веселита<hi rend="sup">с</hi>.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>свою</w>
+<w>моложьшѹю·</w>
+<w>а</w>
+<w>сами <lb/></w>
+
+<w>питаита</w>
+<w>сѧ</w>
+<w>и</w>
+<w>веселѣта</w>
+<w>сѧ·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>свою</w>
+<w>моложьшюю·</w>
+<w>а</w>
+<w>са<lb/>ма</w>
+<w><milestone unit="sic" n="start"/>п<milestone unit="sic" n="end"/>иита</w>
+<w>и</w>
+<w>веселита</w>
+<w>сѧ·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>свою</w>
+<w>молѡ<hi rend="sup">д</hi><lb/>шоую.</w>
+<w>а</w>
+<w>сами</w>
+<w>пїита,</w>
+<w>и</w>
+<w>веселита</w>
+<w>сѧ.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>свою</w>
+<w>молотшюю,</w>
+<w>а</w>
+<w>сама</w>
+<w>пийта</w>
+<w>и</w>
+<w>веселитася;</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>свою</w>
+<w>моложьшюю,</w>
+<w>а</w>
+<w>сама</w>
+<w>пиита</w>
+<w>и</w>
+<w>веселитася;</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>свою</w>
+<w>молотшюю,</w>
+<w>а</w>
+<w>сама</w>
+<w>пийта</w>
+<w>и</w>
+<w>веселитася.</w>
+</rdg>
+</app></p></div></body></text></TEI>

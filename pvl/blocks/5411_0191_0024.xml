@@ -1,117 +1,95 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>191, 24</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="24">
-            <p>
-               <app>
-                  <lem>
-                     <w>бѣ</w>
-                     <w>бо</w>
-                     <w>купьць,</w>
-                     <w>родъмь</w>
-                     <w>Торопьчанинъ,</w>
-                     <w>и</w>
-                     <w>помысли</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>бѣ</w>
-                        <w>бо</w>
-                        <w>купець</w>
-                        <w>родо<hi rend="sup">м</hi> 
-                           <lb/>
-                        </w>
-                        <w>торопечанинь.</w>
-                        <w>и</w>
-                        <w>помысли</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>бѣ</w>
-                        <w>бо <lb/>
-                        </w>
-                        <w>коупець</w>
-                        <w>родомъ</w>
-                        <w>торопчанинъ.</w>
-                        <w>и</w>
-                        <w>помысли</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>бѣ</w>
-                        <w>бо</w>
-                        <w>кѹпець</w>
-                        <w>родомъ.</w>
-                        <w>торопчанинъ.</w>
-                        <w>и</w>
-                        <w>помысли<lb/>въ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>бѣ</w>
-                        <w>бо</w>
-                        <w>купе<lb/>ць</w>
-                        <w>родомъ</w>
-                        <w>тороп<sic>ч</sic>анинъ. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>помысли</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>бѣ</w>
-                        <w>бо</w>
-                        <w>коупець <lb/>
-                        </w>
-                        <w>рѡдо<hi rend="sup">м</hi>
-                        </w>
-                        <w>торопчанинь.</w>
-                        <w>и</w>
-                        <w>помысли</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>бѣ</w>
-                        <w>бо</w>
-                        <w>купець,</w>
-                        <w>родомъ</w>
-                        <w>Торопечанинь,</w>
-                        <w>и</w>
-                        <w>помысли</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>бѣ</w>
-                        <w>бо</w>
-                        <w>купьць,</w>
-                        <w>родъмь</w>
-                        <w>Торопьчанинъ,</w>
-                        <w>и</w>
-                        <w>помысли</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>бѣ</w>
-                        <w>бо</w>
-                        <w>купець,</w>
-                        <w>родом</w>
-                        <w>торопечанинь,</w>
-                        <w>и</w>
-                        <w>помысли</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>191, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="24"><p>
+<app>
+<lem wit="#lem">
+<w>бѣ</w>
+<w>бо</w>
+<w>купьць,</w>
+<w>родъмь</w>
+<w>Торопьчанинъ,</w>
+<w>и</w>
+<w>помысли</w>
+</lem>
+
+<rdg wit="#lav">
+<w>бѣ</w>
+<w>бо</w>
+<w>купець</w>
+<w>родо<hi rend="sup">м</hi><lb/></w>
+<w>торопечанинь.</w>
+<w>и</w>
+<w>помысли</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>бѣ</w>
+<w>бо <lb/></w>
+
+<w>коупець</w>
+<w>родомъ</w>
+<w>торопчанинъ.</w>
+<w>и</w>
+<w>помысли</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>бѣ</w>
+<w>бо</w>
+<w>кѹпець</w>
+<w>родомъ.</w>
+<w>торопчанинъ.</w>
+<w>и</w>
+<w>помысли<lb/>въ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>бѣ</w>
+<w>бо</w>
+<w>купе<lb/>ць</w>
+<w>родомъ</w>
+<w>тороп<milestone unit="sic" n="start"/>ч<milestone unit="sic" n="end"/>анинъ. <lb/></w>
+
+<w>и</w>
+<w>помысли</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>бѣ</w>
+<w>бо</w>
+<w>коупець <lb/></w>
+
+<w>рѡдо<hi rend="sup">м</hi></w>
+<w>торопчанинь.</w>
+<w>и</w>
+<w>помысли</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>бѣ</w>
+<w>бо</w>
+<w>купець,</w>
+<w>родомъ</w>
+<w>Торопечанинь,</w>
+<w>и</w>
+<w>помысли</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>бѣ</w>
+<w>бо</w>
+<w>купьць,</w>
+<w>родъмь</w>
+<w>Торопьчанинъ,</w>
+<w>и</w>
+<w>помысли</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>бѣ</w>
+<w>бо</w>
+<w>купець,</w>
+<w>родом</w>
+<w>торопечанинь,</w>
+<w>и</w>
+<w>помысли</w>
+</rdg>
+</app></p></div></body></text></TEI>

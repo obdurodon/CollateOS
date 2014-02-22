@@ -1,108 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>160, 13</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="13">
-            <p>
-               <app>
-                  <lem>
-                     <w>вьсе</w>
-                     <w>то</w>
-                     <w>изъобрѣтъ,</w>
-                     <w>предасть</w>
-                     <w>манастырю</w>
-                     <w>своему.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>все</w>
-                        <w>то <lb/>
-                        </w>
-                        <w>изъѡбрѣтъ.</w>
-                        <w>предасть</w>
-                        <w>мана<lb/>стырю</w>
-                        <w>своему.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>все</w>
-                        <w>то</w>
-                        <w>изъѡбрѣтъ.</w>
-                        <w>и</w>
-                        <w>предасть</w>
-                        <w>мо<lb/>настырю</w>
-                        <w>своемѹ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>все</w>
-                        <w>то</w>
-                        <w>изоѡбрѣтъ.</w>
-                        <w>и</w>
-                        <w>предасть</w>
-                        <w>монасты<lb/>рю</w>
-                        <w>своемѹ.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>все</w>
-                        <w>то</w>
-                        <w>приѡбрѣ<lb/>тъ.</w>
-                        <w>и</w>
-                        <w>предасть</w>
-                        <w>манастырю</w>
-                        <w>сво<lb/>ему.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>все</w>
-                        <w>то</w>
-                        <w>изьобрѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>предасть <lb/>
-                        </w>
-                        <w>манастырю</w>
-                        <w>своемоу.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>все</w>
-                        <w>то</w>
-                        <w>изъобрѣтъ,</w>
-                        <w>предасть</w>
-                        <w>манастырю</w>
-                        <w>своему;</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>вьсе</w>
-                        <w>то</w>
-                        <w>изъобрѣтъ,</w>
-                        <w>предасть</w>
-                        <w>манастырю</w>
-                        <w>своему,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>все</w>
-                        <w>то</w>
-                        <w>изъобрѣтъ,</w>
-                        <w>предасть</w>
-                        <w>манастырю</w>
-                        <w>своему.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>160, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="13"><p>
+<app>
+<lem wit="#lem">
+<w>вьсе</w>
+<w>то</w>
+<w>изъобрѣтъ,</w>
+<w>предасть</w>
+<w>манастырю</w>
+<w>своему.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>все</w>
+<w>то <lb/></w>
+
+<w>изъѡбрѣтъ.</w>
+<w>предасть</w>
+<w>мана<lb/>стырю</w>
+<w>своему.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>все</w>
+<w>то</w>
+<w>изъѡбрѣтъ.</w>
+<w>и</w>
+<w>предасть</w>
+<w>мо<lb/>настырю</w>
+<w>своемѹ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>все</w>
+<w>то</w>
+<w>изоѡбрѣтъ.</w>
+<w>и</w>
+<w>предасть</w>
+<w>монасты<lb/>рю</w>
+<w>своемѹ.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>все</w>
+<w>то</w>
+<w>приѡбрѣ<lb/>тъ.</w>
+<w>и</w>
+<w>предасть</w>
+<w>манастырю</w>
+<w>сво<lb/>ему.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>все</w>
+<w>то</w>
+<w>изьобрѣ<hi rend="sup">т</hi></w>
+<w>предасть <lb/></w>
+
+<w>манастырю</w>
+<w>своемоу.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>все</w>
+<w>то</w>
+<w>изъобрѣтъ,</w>
+<w>предасть</w>
+<w>манастырю</w>
+<w>своему;</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>вьсе</w>
+<w>то</w>
+<w>изъобрѣтъ,</w>
+<w>предасть</w>
+<w>манастырю</w>
+<w>своему,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>все</w>
+<w>то</w>
+<w>изъобрѣтъ,</w>
+<w>предасть</w>
+<w>манастырю</w>
+<w>своему.</w>
+</rdg>
+</app></p></div></body></text></TEI>

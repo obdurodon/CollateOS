@@ -1,122 +1,104 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>24, 22</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="22">
-            <p>
-               <app>
-                  <lem>
-                     <w>Въ</w>
-                     <w>лѣто 6395.</w>
-                     <w>Леонъ</w>
-                     <w>цьсарьствова,</w>
-                     <w>сынъ</w>
-                     <w>Василиевъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>въ</w>
-                        <w>лѣ<hi rend="sup">т</hi>.</w>
-                        <w>҂ѕ҃.т҃.ч҃е·:· <lb/>
-                        </w>
-                        <w>
-                           <sic>Ле</sic>вонъ</w>
-                        <w>црт<hi rend="sup">с</hi>вова</w>
-                        <w>с҃нъ</w>
-                        <w>васильевъ.</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>въ</w>
-                        <w>лѣто 6394</w>
-                        <w>леонъ</w>
-                        <w>царствова</w>
-                        <w>сынъ</w>
-                        <w>васильевъ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>҂ѕ҃</w>
-                        <w>т҃.ч҃е.</w>
-                        <w>Леѡнъ</w>
-                        <w>црт<hi rend="sup">с</hi>вова</w>
-                        <w>с҃нъ</w>
-                        <w>васильевъ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>В</w>
-                        <w>лѣ<hi rend="sup">т</hi>.</w>
-                        <w>҂ѕ҃.т҃.ч҃е.</w>
-                        <w>леѡнъ</w>
-                        <w>црт<hi rend="sup">с</hi>вова <lb/>
-                        </w>
-                        <w>с҃нъ</w>
-                        <w>васїльевъ.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>В</w>
-                        <w>лѣ<hi rend="sup">т</hi>.</w>
-                        <w>҂ѕ҃.т҃.ч҃е.</w>
-                        <w>Леѡнъ</w>
-                        <w>црт<hi rend="sup">с</hi>вова</w>
-                        <w>с҃нъ</w>
-                        <w>васильевъ.</w>
-                        <w>
-                           <pb n="10b"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>В</w>
-                        <w>лѣ<hi rend="sup">т</hi>.</w>
-                        <w>҂ѕ҃.т҃.<lb/>ч҃е.</w>
-                        <w>Леѡнь</w>
-                        <w>црт<hi rend="sup">с</hi>вова</w>
-                        <w>с҃нь</w>
-                        <w>васильевь.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Въ</w>
-                        <w>лѣто 6395.</w>
-                        <w>Левонъ</w>
-                        <w>царствова,</w>
-                        <w>сынъ</w>
-                        <w>Васильевъ,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Въ</w>
-                        <w>лѣто 6395.</w>
-                        <w>Леонъ</w>
-                        <w>цѣсарьствова,</w>
-                        <w>сынъ</w>
-                        <w>Василиевъ,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Въ</w>
-                        <w>лѣто 6395.</w>
-                        <w>Левонъ</w>
-                        <w>царствова,</w>
-                        <w>сынъ</w>
-                        <w>Васильевъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>24, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="22"><p>
+<app>
+<lem wit="#lem">
+<w>Въ</w>
+<w>лѣто 6395.</w>
+
+<w>Леонъ</w>
+<w>цьсарьствова,</w>
+<w>сынъ</w>
+<w>Василиевъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>въ</w>
+<w>лѣ<hi rend="sup">т</hi>.</w>
+<w>҂ѕ҃.т҃.ч҃е·:· <lb/><milestone unit="sic" n="start"/>Ле<milestone unit="sic" n="end"/>вонъ</w>
+
+<w>црт<hi rend="sup">с</hi>вова</w>
+<w>с҃нъ</w>
+<w>васильевъ.</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>въ</w>
+<w>лѣто 6394</w>
+
+<w>леонъ</w>
+<w>царствова</w>
+<w>сынъ</w>
+<w>васильевъ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>лѣ<hi rend="sup">т</hi></w>
+<w>҂ѕ҃</w>
+<w>т҃.ч҃е.</w>
+<w>Леѡнъ</w>
+<w>црт<hi rend="sup">с</hi>вова</w>
+<w>с҃нъ</w>
+<w>васильевъ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>В</w>
+<w>лѣ<hi rend="sup">т</hi>.</w>
+<w>҂ѕ҃.т҃.ч҃е.</w>
+<w>леѡнъ</w>
+<w>црт<hi rend="sup">с</hi>вова <lb/></w>
+
+<w>с҃нъ</w>
+<w>васїльевъ.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>В</w>
+<w>лѣ<hi rend="sup">т</hi>.</w>
+<w>҂ѕ҃.т҃.ч҃е.</w>
+<w>Леѡнъ</w>
+<w>црт<hi rend="sup">с</hi>вова</w>
+<w>с҃нъ</w>
+<w>васильевъ. <pb n="10b"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>В</w>
+<w>лѣ<hi rend="sup">т</hi>.</w>
+<w>҂ѕ҃.т҃.<lb/>ч҃е.</w>
+<w>Леѡнь</w>
+<w>црт<hi rend="sup">с</hi>вова</w>
+<w>с҃нь</w>
+<w>васильевь.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Въ</w>
+<w>лѣто 6395.</w>
+
+<w>Левонъ</w>
+<w>царствова,</w>
+<w>сынъ</w>
+<w>Васильевъ,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Въ</w>
+<w>лѣто 6395.</w>
+
+<w>Леонъ</w>
+<w>цѣсарьствова,</w>
+<w>сынъ</w>
+<w>Василиевъ,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Въ</w>
+<w>лѣто 6395.</w>
+
+<w>Левонъ</w>
+<w>царствова,</w>
+<w>сынъ</w>
+<w>Васильевъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,127 +1,105 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>153, 5</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="5">
-            <p>
-               <app>
-                  <lem>
-                     <w>сь,</w>
-                     <w>якоже</w>
-                     <w>рекохомъ,</w>
-                     <w>любимъ</w>
-                     <w>бѣ</w>
-                     <w>кънигамъ,</w>
-                     <w>и</w>
-                     <w>мъногы</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>се</w>
-                        <w>як<hi rend="sup">ж</hi>о</w>
-                        <w>реко<hi rend="sup">м</hi>. <lb/>
-                        </w>
-                        <w>любимъ</w>
-                        <w>бѣ</w>
-                        <w>книгамъ.</w>
-                        <w>многы <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>сеи</w>
-                        <w>яко<hi rend="sup">ж</hi>
-                        </w>
-                        <w>рекохо<hi rend="sup">м</hi>.</w>
-                        <w>любимъ</w>
-                        <w>бѣ</w>
-                        <w>книга<hi rend="sup">м</hi>.</w>
-                        <w>и</w>
-                        <w>многы <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>сеи</w>
-                        <w>якоже</w>
-                        <w>рекохомъ.</w>
-                        <w>любимъ</w>
-                        <w>бѣ <lb/>
-                        </w>
-                        <w>кнїгамъ.</w>
-                        <w>и</w>
-                        <w>многы</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>сь</w>
-                        <w>якоже</w>
-                        <w>рекохомъ. <lb/>
-                        </w>
-                        <w>любимъ</w>
-                        <w>бѣ</w>
-                        <w>книгамъ.</w>
-                        <w>и</w>
-                        <w>мно<lb/>гы</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>сеи,</w>
-                        <w>яко<hi rend="sup">ж</hi>
-                        </w>
-                        <w>рекохо<hi rend="sup">м</hi>
-                        </w>
-                        <w>любивь</w>
-                        <w>бѣ</w>
-                        <w>книги.</w>
-                        <w>и</w>
-                        <w>мнѡги</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>сей,</w>
-                        <w>якоже</w>
-                        <w>рекохомъ,</w>
-                        <w>любимъ</w>
-                        <w>бѣ</w>
-                        <w>книгамъ,</w>
-                        <w>и</w>
-                        <w>многы</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>сь,</w>
-                        <w>якоже</w>
-                        <w>рекохомъ,</w>
-                        <w>любимъ</w>
-                        <w>бѣ</w>
-                        <w>кънигамъ,</w>
-                        <w>и</w>
-                        <w>мъногы</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>сей,</w>
-                        <w>якоже</w>
-                        <w>рекохом,</w>
-                        <w>любимъ</w>
-                        <w>бѣ</w>
-                        <w>книгамъ,</w>
-                        <w>и</w>
-                        <w>многы</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>153, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="5"><p>
+<app>
+<lem wit="#lem">
+<w>сь,</w>
+<w>якоже</w>
+<w>рекохомъ,</w>
+<w>любимъ</w>
+<w>бѣ</w>
+<w>кънигамъ,</w>
+<w>и</w>
+<w>мъногы</w>
+</lem>
+
+<rdg wit="#lav">
+<w>се</w>
+<w>як<hi rend="sup">ж</hi>о</w>
+<w>реко<hi rend="sup">м</hi>. <lb/></w>
+
+<w>любимъ</w>
+<w>бѣ</w>
+<w>книгамъ.</w>
+<w>многы <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>сеи</w>
+<w>яко<hi rend="sup">ж</hi></w>
+<w>рекохо<hi rend="sup">м</hi>.</w>
+<w>любимъ</w>
+<w>бѣ</w>
+<w>книга<hi rend="sup">м</hi>.</w>
+<w>и</w>
+<w>многы <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>сеи</w>
+<w>якоже</w>
+<w>рекохомъ.</w>
+<w>любимъ</w>
+<w>бѣ <lb/></w>
+
+<w>кнїгамъ.</w>
+<w>и</w>
+<w>многы</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>сь</w>
+<w>якоже</w>
+<w>рекохомъ. <lb/></w>
+
+<w>любимъ</w>
+<w>бѣ</w>
+<w>книгамъ.</w>
+<w>и</w>
+<w>мно<lb/>гы</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>сеи,</w>
+<w>яко<hi rend="sup">ж</hi></w>
+<w>рекохо<hi rend="sup">м</hi></w>
+<w>любивь</w>
+<w>бѣ</w>
+<w>книги.</w>
+<w>и</w>
+<w>мнѡги</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>сей,</w>
+<w>якоже</w>
+<w>рекохомъ,</w>
+<w>любимъ</w>
+<w>бѣ</w>
+<w>книгамъ,</w>
+<w>и</w>
+<w>многы</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>сь,</w>
+<w>якоже</w>
+<w>рекохомъ,</w>
+<w>любимъ</w>
+<w>бѣ</w>
+<w>кънигамъ,</w>
+<w>и</w>
+<w>мъногы</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>сей,</w>
+<w>якоже</w>
+<w>рекохом,</w>
+<w>любимъ</w>
+<w>бѣ</w>
+<w>книгамъ,</w>
+<w>и</w>
+<w>многы</w>
+</rdg>
+</app></p></div></body></text></TEI>

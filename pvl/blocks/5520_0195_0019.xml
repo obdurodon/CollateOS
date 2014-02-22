@@ -1,105 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>195, 19</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="19">
-            <p>
-               <app>
-                  <lem>
-                     <w>огнь,</w>
-                     <w>воду,</w>
-                     <w>дръва,</w>
-                     <w>и</w>
-                     <w>приходяху</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ѡгнь.</w>
-                        <w>во<lb/>ду.</w>
-                        <w>дрова.</w>
-                        <w>и</w>
-                        <w>придѧху</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ѡгнь.</w>
-                        <w>и</w>
-                        <w>водоу.</w>
-                        <w>и</w>
-                        <w>дрова. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>приходѧхоу.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ѡгнь</w>
-                        <w>и</w>
-                        <w>водѹ. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>дрова.</w>
-                        <w>и</w>
-                        <w>приходѧхѹ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ѡгнь</w>
-                        <w>и</w>
-                        <w>воду.</w>
-                        <w>и</w>
-                        <w>дрова. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>приходѧху</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>огнь</w>
-                        <w>и</w>
-                        <w>водоу</w>
-                        <w>и</w>
-                        <w>дрова.</w>
-                        <w>и</w>
-                        <w>приходѧхѫ <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>огнь,</w>
-                        <w>воду,</w>
-                        <w>дрова,</w>
-                        <w>и</w>
-                        <w>придяху</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>огнь,</w>
-                        <w>воду,</w>
-                        <w>дръва,</w>
-                        <w>и</w>
-                        <w>придяху</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>огнь,</w>
-                        <w>воду,</w>
-                        <w>дрова,</w>
-                        <w>и</w>
-                        <w>придяху</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>195, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="19"><p>
+<app>
+<lem wit="#lem">
+<w>огнь,</w>
+<w>воду,</w>
+<w>дръва,</w>
+<w>и</w>
+<w>приходяху</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ѡгнь.</w>
+<w>во<lb/>ду.</w>
+<w>дрова.</w>
+<w>и</w>
+<w>придѧху</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ѡгнь.</w>
+<w>и</w>
+<w>водоу.</w>
+<w>и</w>
+<w>дрова. <lb/></w>
+
+<w>и</w>
+<w>приходѧхоу.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ѡгнь</w>
+<w>и</w>
+<w>водѹ. <lb/></w>
+
+<w>и</w>
+<w>дрова.</w>
+<w>и</w>
+<w>приходѧхѹ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ѡгнь</w>
+<w>и</w>
+<w>воду.</w>
+<w>и</w>
+<w>дрова. <lb/></w>
+
+<w>и</w>
+<w>приходѧху</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>огнь</w>
+<w>и</w>
+<w>водоу</w>
+<w>и</w>
+<w>дрова.</w>
+<w>и</w>
+<w>приходѧхѫ <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>огнь,</w>
+<w>воду,</w>
+<w>дрова,</w>
+<w>и</w>
+<w>придяху</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>огнь,</w>
+<w>воду,</w>
+<w>дръва,</w>
+<w>и</w>
+<w>придяху</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>огнь,</w>
+<w>воду,</w>
+<w>дрова,</w>
+<w>и</w>
+<w>придяху</w>
+</rdg>
+</app></p></div></body></text></TEI>

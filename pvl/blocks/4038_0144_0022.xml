@@ -1,106 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>144, 22</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="22">
-            <p>
-               <app>
-                  <lem>
-                     <w>поле</w>
-                     <w>Льтьское</w>
-                     <w>обои</w>
-                     <w>отъ</w>
-                     <w>мъножьства</w>
-                     <w>вои.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>по</w>
-                        <w>летьско<lb/>е</w>
-                        <w>ѡбои.</w>
-                        <w>ѿ</w>
-                        <w>множьства</w>
-                        <w>вои.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>поле</w>
-                        <w>льлтеское</w>
-                        <w>ѡбои.</w>
-                        <w>ѿ</w>
-                        <w>множества</w>
-                        <w>вои.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>поле</w>
-                        <w>
-                           <sic>л</sic>ьтьское</w>
-                        <w>ѡбои. <lb/>
-                        </w>
-                        <w>ѿ</w>
-                        <w>множества</w>
-                        <w>вои.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>поле</w>
-                        <w>лѧдьское.</w>
-                        <w>ѡбои</w>
-                        <w>ѿ <lb/>
-                        </w>
-                        <w>множьства</w>
-                        <w>вои.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>поле <lb/>
-                        </w>
-                        <w>лѧ<hi rend="sup">т</hi>ское</w>
-                        <w>ѡбои</w>
-                        <w>ѿ</w>
-                        <w>множества</w>
-                        <w>вои.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>поле</w>
-                        <w>Летьское</w>
-                        <w>обои</w>
-                        <w>отъ</w>
-                        <w>множьства</w>
-                        <w>вой.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>поле</w>
-                        <w>Льтьское</w>
-                        <w>обои</w>
-                        <w>отъ</w>
-                        <w>мъножьства</w>
-                        <w>вои.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>поле</w>
-                        <w>Летьское</w>
-                        <w>обои</w>
-                        <w>от</w>
-                        <w>множьства</w>
-                        <w>вой.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>144, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="22"><p>
+<app>
+<lem wit="#lem">
+<w>поле</w>
+<w>Льтьское</w>
+<w>обои</w>
+<w>отъ</w>
+<w>мъножьства</w>
+<w>вои.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>по</w>
+<w>летьско<lb/>е</w>
+<w>ѡбои.</w>
+<w>ѿ</w>
+<w>множьства</w>
+<w>вои.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>поле</w>
+<w>льлтеское</w>
+<w>ѡбои.</w>
+<w>ѿ</w>
+<w>множества</w>
+<w>вои.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>поле</w>
+<w><milestone unit="sic" n="start"/>л<milestone unit="sic" n="end"/>ьтьское</w>
+<w>ѡбои. <lb/></w>
+
+<w>ѿ</w>
+<w>множества</w>
+<w>вои.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>поле</w>
+<w>лѧдьское.</w>
+<w>ѡбои</w>
+<w>ѿ <lb/></w>
+
+<w>множьства</w>
+<w>вои.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>поле <lb/></w>
+
+<w>лѧ<hi rend="sup">т</hi>ское</w>
+<w>ѡбои</w>
+<w>ѿ</w>
+<w>множества</w>
+<w>вои.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>поле</w>
+<w>Летьское</w>
+<w>обои</w>
+<w>отъ</w>
+<w>множьства</w>
+<w>вой.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>поле</w>
+<w>Льтьское</w>
+<w>обои</w>
+<w>отъ</w>
+<w>мъножьства</w>
+<w>вои.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>поле</w>
+<w>Летьское</w>
+<w>обои</w>
+<w>от</w>
+<w>множьства</w>
+<w>вой.</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,147 +1,129 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>63, 16</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="16">
-            <p>
-               <app>
-                  <lem>
-                     <w>моя</w>
-                     <w>съвѣты,</w>
-                     <w>моихъ</w>
-                     <w>же</w>
-                     <w>обличении</w>
-                     <w>не</w>
-                     <w>вънимасте.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>моя</w>
-                        <w>свѣты.</w>
-                        <w>моихъ</w>
-                        <w>же</w>
-                        <w>ѡблич<sic>е</sic>нии</w>
-                        <w>не <lb/>
-                        </w>
-                        <w>внимасте.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>моя</w>
-                        <w>совѣты.</w>
-                        <w>мои<hi rend="sup">х</hi>
-                        </w>
-                        <w>же</w>
-                        <w>ѡбличении</w>
-                        <w>не</w>
-                        <w>внимасте. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>моя</w>
-                        <w>совѣты.</w>
-                        <w>моих</w>
-                        <w>же</w>
-                        <w>ѡбличенїи</w>
-                        <w>не</w>
-                        <w>внї<lb/>масте.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>моя</w>
-                        <w>свѣты. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>моихъ</w>
-                        <w>же</w>
-                        <w>ѡбличении</w>
-                        <w>не <lb/>
-                        </w>
-                        <w>внимасте.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>моѧ</w>
-                        <w>съвѣты.</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>мои<hi rend="sup">х</hi>
-                        </w>
-                        <w>же</w>
-                        <w>обличенїи</w>
-                        <w>не</w>
-                        <w>внимасте.</w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>моея</w>
-                        <w>совѣты</w>
-                        <w>моих</w>
-                        <w>же</w>
-                        <w>обличении</w>
-                        <w>не</w>
-                        <w>внимасте</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>моя</w>
-                        <w>съвѣты</w>
-                        <w>моих</w>
-                        <w>же</w>
-                        <w>обличении</w>
-                        <w>не</w>
-                        <w>внимасте</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>моя</w>
-                        <w>свѣты</w>
-                        <w>моих</w>
-                        <w>же</w>
-                        <w>обличении</w>
-                        <w>не</w>
-                        <w>внимасте</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>моя</w>
-                        <w>свѣты,</w>
-                        <w>моихъ</w>
-                        <w>же</w>
-                        <w>обличений</w>
-                        <w>не</w>
-                        <w>внимасте;</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>моя</w>
-                        <w>съвѣты,</w>
-                        <w>моихъ</w>
-                        <w>же</w>
-                        <w>обличении</w>
-                        <w>не</w>
-                        <w>вънимасте;</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>моя</w>
-                        <w>свѣты,</w>
-                        <w>моихъ</w>
-                        <w>же</w>
-                        <w>обличений</w>
-                        <w>не</w>
-                        <w>внимасте”;</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>63, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="16"><p>
+<app>
+<lem wit="#lem">
+<w>моя</w>
+<w>съвѣты,</w>
+<w>моихъ</w>
+<w>же</w>
+<w>обличении</w>
+<w>не</w>
+<w>вънимасте.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>моя</w>
+<w>свѣты.</w>
+<w>моихъ</w>
+<w>же</w>
+<w>ѡблич<milestone unit="sic" n="start"/>е<milestone unit="sic" n="end"/>нии</w>
+<w>не <lb/></w>
+
+<w>внимасте.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>моя</w>
+<w>совѣты.</w>
+<w>мои<hi rend="sup">х</hi></w>
+<w>же</w>
+<w>ѡбличении</w>
+<w>не</w>
+<w>внимасте. <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>моя</w>
+<w>совѣты.</w>
+<w>моих</w>
+<w>же</w>
+<w>ѡбличенїи</w>
+<w>не</w>
+<w>внї<lb/>масте.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>моя</w>
+<w>свѣты. <lb/></w>
+
+<w>и</w>
+<w>моихъ</w>
+<w>же</w>
+<w>ѡбличении</w>
+<w>не <lb/></w>
+
+<w>внимасте.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>моѧ</w>
+<w>съвѣты.</w>
+<w>и <lb/></w>
+
+<w>мои<hi rend="sup">х</hi></w>
+<w>же</w>
+<w>обличенїи</w>
+<w>не</w>
+<w>внимасте.</w>
+</rdg>
+
+<rdg wit="#kom">
+<w>моея</w>
+<w>совѣты</w>
+<w>моих</w>
+<w>же</w>
+<w>обличении</w>
+<w>не</w>
+<w>внимасте</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>моя</w>
+<w>съвѣты</w>
+<w>моих</w>
+<w>же</w>
+<w>обличении</w>
+<w>не</w>
+<w>внимасте</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>моя</w>
+<w>свѣты</w>
+<w>моих</w>
+<w>же</w>
+<w>обличении</w>
+<w>не</w>
+<w>внимасте</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>моя</w>
+<w>свѣты,</w>
+<w>моихъ</w>
+<w>же</w>
+<w>обличений</w>
+<w>не</w>
+<w>внимасте;</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>моя</w>
+<w>съвѣты,</w>
+<w>моихъ</w>
+<w>же</w>
+<w>обличении</w>
+<w>не</w>
+<w>вънимасте;</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>моя</w>
+<w>свѣты,</w>
+<w>моихъ</w>
+<w>же</w>
+<w>обличений</w>
+<w>не</w>
+<w>внимасте”;</w>
+</rdg>
+</app></p></div></body></text></TEI>

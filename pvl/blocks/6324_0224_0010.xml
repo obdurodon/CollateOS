@@ -1,121 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>224, 10</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="10">
-            <p>
-               <app>
-                  <lem>
-                     <w>нашему</w>
-                     <w>сътвори</w>
-                     <w>намъ</w>
-                     <w>и</w>
-                     <w>по</w>
-                     <w>грѣхомъ</w>
-                     <w>нашимъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>на<lb/>шему</w>
-                        <w>створи</w>
-                        <w>на<hi rend="sup">м</hi>·</w>
-                        <w>и</w>
-                        <w>по</w>
-                        <w>грѣхомъ <lb/>
-                        </w>
-                        <w>наши<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>нашемѹ</w>
-                        <w>сотвори</w>
-                        <w>намъ·</w>
-                        <w>и</w>
-                        <w>по</w>
-                        <w>грехо<hi rend="sup">м</hi> 
-                           <lb/>
-                        </w>
-                        <w>наши<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>нашемѹ</w>
-                        <w>сътвори</w>
-                        <w>намъ·</w>
-                        <w>но</w>
-                        <w>по</w>
-                        <w>грехомь</w>
-                        <w>на<lb/>шимъ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>нашему <lb/>
-                        </w>
-                        <w>створи</w>
-                        <w>намъ·</w>
-                        <w>ї</w>
-                        <w>по</w>
-                        <w>грѣхомъ <lb/>
-                        </w>
-                        <w>нашимъ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>нашемоу</w>
-                        <w>сътво<lb/>ри</w>
-                        <w>на<hi rend="sup">м</hi>.</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>по</w>
-                        <w>грѣхо<hi rend="sup">м</hi>
-                        </w>
-                        <w>наши<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>нашему</w>
-                        <w>створи</w>
-                        <w>намъ</w>
-                        <w>и</w>
-                        <w>по</w>
-                        <w>грѣхомъ</w>
-                        <w>нашимъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>нашему</w>
-                        <w>сътвори</w>
-                        <w>намъ</w>
-                        <w>и</w>
-                        <w>по</w>
-                        <w>грѣхомъ</w>
-                        <w>нашимъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>нашему</w>
-                        <w>створи</w>
-                        <w>нам</w>
-                        <w>и</w>
-                        <w>по</w>
-                        <w>грѣхомъ</w>
-                        <w>нашим</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>224, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="10"><p>
+<app>
+<lem wit="#lem">
+<w>нашему</w>
+<w>сътвори</w>
+<w>намъ</w>
+<w>и</w>
+<w>по</w>
+<w>грѣхомъ</w>
+<w>нашимъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>на<lb/>шему</w>
+<w>створи</w>
+<w>на<hi rend="sup">м</hi>·</w>
+<w>и</w>
+<w>по</w>
+<w>грѣхомъ <lb/></w>
+
+<w>наши<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#rad">
+<w>нашемѹ</w>
+<w>сотвори</w>
+<w>намъ·</w>
+<w>и</w>
+<w>по</w>
+<w>грехо<hi rend="sup">м</hi><lb/></w>
+<w>наши<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>нашемѹ</w>
+<w>сътвори</w>
+<w>намъ·</w>
+<w>но</w>
+<w>по</w>
+<w>грехомь</w>
+<w>на<lb/>шимъ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>нашему <lb/></w>
+
+<w>створи</w>
+<w>намъ·</w>
+<w>ї</w>
+<w>по</w>
+<w>грѣхомъ <lb/></w>
+
+<w>нашимъ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>нашемоу</w>
+<w>сътво<lb/>ри</w>
+<w>на<hi rend="sup">м</hi>.</w>
+<w>и</w>
+<w>не</w>
+<w>по</w>
+<w>грѣхо<hi rend="sup">м</hi></w>
+<w>наши<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>нашему</w>
+<w>створи</w>
+<w>намъ</w>
+<w>и</w>
+<w>по</w>
+<w>грѣхомъ</w>
+<w>нашимъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>нашему</w>
+<w>сътвори</w>
+<w>намъ</w>
+<w>и</w>
+<w>по</w>
+<w>грѣхомъ</w>
+<w>нашимъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>нашему</w>
+<w>створи</w>
+<w>нам</w>
+<w>и</w>
+<w>по</w>
+<w>грѣхомъ</w>
+<w>нашим</w>
+</rdg>
+</app></p></div></body></text></TEI>

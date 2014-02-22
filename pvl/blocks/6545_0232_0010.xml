@@ -1,102 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>232, 10</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="10">
-            <p>
-               <app>
-                  <lem>
-                     <w>приде</w>
-                     <w>въторое</w>
-                     <w>Бонякъ</w>
-                     <w>безбожьныи,</w>
-                     <w>шолудивыи,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>Приде</w>
-                        <w>второе</w>
-                        <w>бонѧ<lb/>къ</w>
-                        <w>безбожныи</w>
-                        <w>шелудивыи <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>рии<hi rend="sup">д</hi>
-                        </w>
-                        <w>бонѧ<hi rend="sup">к</hi>
-                        </w>
-                        <w>второе</w>
-                        <w>безбо<hi rend="sup">ж</hi> 
-                           <lb/>
-                        </w>
-                        <w>солѹдивыи.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>прїиде</w>
-                        <w>бонѧкь</w>
-                        <w>второе</w>
-                        <w>безбожны·̏и· <lb/>
-                        </w>
-                        <w>шолѹдивы·̏и·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>прииде</w>
-                        <w>второе</w>
-                        <w>
-                           <sic>б</sic>онѧкъ</w>
-                        <w>бе<lb/>збожныи</w>
-                        <w>шолудивыи·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>прїиде</w>
-                        <w>второе</w>
-                        <w>бонѧкь</w>
-                        <w>безбо<hi rend="sup">ж</hi>ны<hi rend="sup">и</hi> 
-                           <lb/>
-                        </w>
-                        <w>шолоудивыи.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>приде</w>
-                        <w>второе</w>
-                        <w>Бонякъ</w>
-                        <w>безбожный,</w>
-                        <w>шелудивый,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>приде</w>
-                        <w>въторое</w>
-                        <w>Бонякъ</w>
-                        <w>безбожьныи,</w>
-                        <w>шелудивыи,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>приде</w>
-                        <w>второе</w>
-                        <w>Бонякъ</w>
-                        <w>безбожный,</w>
-                        <w>шелудивый,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>232, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="10"><p>
+<app>
+<lem wit="#lem">
+<w>приде</w>
+<w>въторое</w>
+<w>Бонякъ</w>
+<w>безбожьныи,</w>
+<w>шолудивыи,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>Приде</w>
+<w>второе</w>
+<w>бонѧ<lb/>къ</w>
+<w>безбожныи</w>
+<w>шелудивыи <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>рии<hi rend="sup">д</hi></w>
+<w>бонѧ<hi rend="sup">к</hi></w>
+<w>второе</w>
+<w>безбо<hi rend="sup">ж</hi><lb/>ныи.</w>
+<w>солѹдивыи.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>прїиде</w>
+<w>бонѧкь</w>
+<w>второе</w>
+<w>безбожны·̏и· <lb/></w>
+
+<w>шолѹдивы·̏и·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>прииде</w>
+<w>второе</w>
+<w><milestone unit="sic" n="start"/>б<milestone unit="sic" n="end"/>онѧкъ</w>
+<w>бе<lb/>збожныи</w>
+<w>шолудивыи·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>прїиде</w>
+<w>второе</w>
+<w>бонѧкь</w>
+<w>безбо<hi rend="sup">ж</hi>ны<hi rend="sup">и</hi><lb/></w>
+<w>шолоудивыи.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>приде</w>
+<w>второе</w>
+<w>Бонякъ</w>
+<w>безбожный,</w>
+<w>шелудивый,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>приде</w>
+<w>въторое</w>
+<w>Бонякъ</w>
+<w>безбожьныи,</w>
+<w>шелудивыи,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>приде</w>
+<w>второе</w>
+<w>Бонякъ</w>
+<w>безбожный,</w>
+<w>шелудивый,</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,111 +1,85 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>157, 22</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="22">
-            <p>
-               <app>
-                  <lem>
-                     <w>дьне</w>
-                     <w>въ</w>
-                     <w>печерѣ</w>
-                     <w>подъ</w>
-                     <w>ветъхымь</w>
-                     <w>манастырьмь.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>д҃не</w>
-                        <w>в</w>
-                        <w>печерѣ</w>
-                        <w>подъ</w>
-                        <w>ветхы<lb/>мь</w>
-                        <w>манастыремь.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>дн҃и.</w>
-                        <w>в</w>
-                        <w>печере</w>
-                        <w>по<hi rend="sup">д</hi>
-                        </w>
-                        <w>ветхи<hi rend="sup">м</hi>
-                        </w>
-                        <w>монастыре<hi rend="sup">м</hi>.</w>
-                        <w>
-                           <pb n="91v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>дн҃и</w>
-                        <w>в</w>
-                        <w>печере</w>
-                        <w>по<hi rend="sup">д</hi>
-                        </w>
-                        <w>ветхимъ</w>
-                        <w>манастыремъ.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>дн҃и.</w>
-                        <w>в</w>
-                        <w>печерѣ</w>
-                        <w>подъ</w>
-                        <w>ветхы<lb/>мъ</w>
-                        <w>манастыремь.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>дн҃и <lb/>
-                        </w>
-                        <w>в</w>
-                        <w>печерѣ</w>
-                        <w>пѡ<hi rend="sup">д</hi>
-                        </w>
-                        <w>ветхы<hi rend="sup">м</hi>
-                        </w>
-                        <w>манастыре<hi rend="sup">м</hi>.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>дне</w>
-                        <w>в</w>
-                        <w>печерѣ</w>
-                        <w>подъ</w>
-                        <w>ветхымь</w>
-                        <w>манастыремь.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>дьне</w>
-                        <w>въ</w>
-                        <w>печерѣ</w>
-                        <w>подъ</w>
-                        <w>ветъхымь</w>
-                        <w>манастырьмь.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>дне</w>
-                        <w>в</w>
-                        <w>печерѣ</w>
-                        <w>подъ</w>
-                        <w>ветхымь</w>
-                        <w>манастыремь.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>157, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="22"><p>
+<app>
+<lem wit="#lem">
+<w>дьне</w>
+<w>въ</w>
+<w>печерѣ</w>
+<w>подъ</w>
+<w>ветъхымь</w>
+<w>манастырьмь.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>д҃не</w>
+<w>в</w>
+<w>печерѣ</w>
+<w>подъ</w>
+<w>ветхы<lb/>мь</w>
+<w>манастыремь.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>дн҃и.</w>
+<w>в</w>
+<w>печере</w>
+<w>по<hi rend="sup">д</hi></w>
+<w>ветхи<hi rend="sup">м</hi></w>
+<w>монастыре<hi rend="sup">м</hi>. <pb n="91v"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>дн҃и</w>
+<w>в</w>
+<w>печере</w>
+<w>по<hi rend="sup">д</hi></w>
+<w>ветхимъ</w>
+<w>манастыремъ.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>дн҃и.</w>
+<w>в</w>
+<w>печерѣ</w>
+<w>подъ</w>
+<w>ветхы<lb/>мъ</w>
+<w>манастыремь.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>дн҃и <lb/></w>
+
+<w>в</w>
+<w>печерѣ</w>
+<w>пѡ<hi rend="sup">д</hi></w>
+<w>ветхы<hi rend="sup">м</hi></w>
+<w>манастыре<hi rend="sup">м</hi>.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>дне</w>
+<w>в</w>
+<w>печерѣ</w>
+<w>подъ</w>
+<w>ветхымь</w>
+<w>манастыремь.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>дьне</w>
+<w>въ</w>
+<w>печерѣ</w>
+<w>подъ</w>
+<w>ветъхымь</w>
+<w>манастырьмь.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>дне</w>
+<w>в</w>
+<w>печерѣ</w>
+<w>подъ</w>
+<w>ветхымь</w>
+<w>манастыремь.</w>
+</rdg>
+</app></p></div></body></text></TEI>

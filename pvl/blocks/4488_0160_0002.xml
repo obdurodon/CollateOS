@@ -1,112 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>160, 2</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="2">
-            <p>
-               <app>
-                  <lem>
-                     <w>братии</w>
-                     <w>числъмь 100.</w>
-                     <w>И</w>
-                     <w>нача</w>
-                     <w>искати</w>
-                     <w>правила</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>братьѣ</w>
-                        <w>число<lb/>мь</w>
-                        <w>.р҃.</w>
-                        <w>и</w>
-                        <w>нача</w>
-                        <w>искати</w>
-                        <w>прави<lb/>ла</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>братьи</w>
-                        <w>число<hi rend="sup">м</hi>
-                        </w>
-                        <w>.р҃.</w>
-                        <w>и</w>
-                        <w>на<hi rend="sup">ч</hi>
-                        </w>
-                        <w>искати <lb/>
-                        </w>
-                        <w>правила.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>братьи</w>
-                        <w>числомъ</w>
-                        <w>.р҃.</w>
-                        <w>и</w>
-                        <w>нача</w>
-                        <w>искати</w>
-                        <w>правила. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>бра<lb/>тьии</w>
-                        <w>числомъ.</w>
-                        <w>.р҃.</w>
-                        <w>и</w>
-                        <w>нача</w>
-                        <w>ись<lb/>кати</w>
-                        <w>правила</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>братїи</w>
-                        <w>числѡ<hi rend="sup">м</hi>
-                        </w>
-                        <w>.р҃.</w>
-                        <w>и</w>
-                        <w>нача</w>
-                        <w>искати</w>
-                        <w>правила</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>братьѣ</w>
-                        <w>числомь 100.</w>
-                        <w>И</w>
-                        <w>нача</w>
-                        <w>искати</w>
-                        <w>правила</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>братиѣ</w>
-                        <w>числъмь 100.</w>
-                        <w>И</w>
-                        <w>нача</w>
-                        <w>искати</w>
-                        <w>правила</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>братьѣ</w>
-                        <w>числомь 100.</w>
-                        <w>И</w>
-                        <w>нача</w>
-                        <w>искати</w>
-                        <w>правила</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>160, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="2"><p>
+<app>
+<lem wit="#lem">
+<w>братии</w>
+<w>числъмь 100.</w>
+
+<w>И</w>
+<w>нача</w>
+<w>искати</w>
+<w>правила</w>
+</lem>
+
+<rdg wit="#lav">
+<w>братьѣ</w>
+<w>число<lb/>мь</w>
+<w>.р҃.</w>
+<w>и</w>
+<w>нача</w>
+<w>искати</w>
+<w>прави<lb/>ла</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>братьи</w>
+<w>число<hi rend="sup">м</hi></w>
+<w>.р҃.</w>
+<w>и</w>
+<w>на<hi rend="sup">ч</hi></w>
+<w>искати <lb/></w>
+
+<w>правила.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>братьи</w>
+<w>числомъ</w>
+<w>.р҃.</w>
+<w>и</w>
+<w>нача</w>
+<w>искати</w>
+<w>правила. <lb/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>бра<lb/>тьии</w>
+<w>числомъ.</w>
+<w>.р҃.</w>
+<w>и</w>
+<w>нача</w>
+<w>ись<lb/>кати</w>
+<w>правила</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>братїи</w>
+<w>числѡ<hi rend="sup">м</hi></w>
+<w>.р҃.</w>
+<w>и</w>
+<w>нача</w>
+<w>искати</w>
+<w>правила</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>братьѣ</w>
+<w>числомь 100.</w>
+
+<w>И</w>
+<w>нача</w>
+<w>искати</w>
+<w>правила</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>братиѣ</w>
+<w>числъмь 100.</w>
+
+<w>И</w>
+<w>нача</w>
+<w>искати</w>
+<w>правила</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>братьѣ</w>
+<w>числомь 100.</w>
+
+<w>И</w>
+<w>нача</w>
+<w>искати</w>
+<w>правила</w>
+</rdg>
+</app></p></div></body></text></TEI>

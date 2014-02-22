@@ -1,87 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>154, 10</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="10">
-            <p>
-               <app>
-                  <lem>
-                     <w>воевода</w>
-                     <w>Ярославля.</w>
-                     <w>Прочии</w>
-                     <w>же</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>воеводы</w>
-                        <w>ярославлѧ.</w>
-                        <w>про<lb/>чии</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>
-                           <sic>в</sic>оевода</w>
-                        <w>ярославль.</w>
-                        <w>и</w>
-                        <w>прочии</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>воевода</w>
-                        <w>ярославль.</w>
-                        <w>и</w>
-                        <w>пр<hi rend="sup">ч</hi>ои</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>воеводы.</w>
-                        <w>ярославлѧ.</w>
-                        <w>про<lb/>чии</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>воеводы <lb/>
-                        </w>
-                        <w>ярославлѧ.</w>
-                        <w>прочїи</w>
-                        <w>же</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>воевода</w>
-                        <w>Ярославль.</w>
-                        <w>Прочии</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>воевода</w>
-                        <w>Ярославля.</w>
-                        <w>Прочии</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>воевода</w>
-                        <w>Ярославль.</w>
-                        <w>Прочии</w>
-                        <w>же</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>154, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="10"><p>
+<app>
+<lem wit="#lem">
+<w>воевода</w>
+<w>Ярославля.</w>
+<w>Прочии</w>
+<w>же</w>
+</lem>
+
+<rdg wit="#lav">
+<w>воеводы</w>
+<w>ярославлѧ.</w>
+<w>про<lb/>чии</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#rad">
+<w><milestone unit="sic" n="start"/>в<milestone unit="sic" n="end"/>оевода</w>
+<w>ярославль.</w>
+<w>и</w>
+<w>прочии</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>воевода</w>
+<w>ярославль.</w>
+<w>и</w>
+<w>пр<hi rend="sup">ч</hi>ои</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>воеводы.</w>
+<w>ярославлѧ.</w>
+<w>про<lb/>чии</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>воеводы <lb/></w>
+
+<w>ярославлѧ.</w>
+<w>прочїи</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>воевода</w>
+<w>Ярославль.</w>
+<w>Прочии</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>воевода</w>
+<w>Ярославля.</w>
+<w>Прочии</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>воевода</w>
+<w>Ярославль.</w>
+<w>Прочии</w>
+<w>же</w>
+</rdg>
+</app></p></div></body></text></TEI>

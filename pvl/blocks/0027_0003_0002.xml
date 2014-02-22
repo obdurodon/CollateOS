@@ -1,96 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>3, 2</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="2">
-            <p>
-               <app>
-                  <lem>
-                     <w>западьная:</w>
-                     <w>Мидия,</w>
-                     <w>Олъвания,</w>
-                     <w>Армения</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>
-                           <sic>западн</sic>. <lb/>
-                        </w>
-                        <w>мидия</w>
-                        <w>алъванья.</w>
-                        <w>арвинья.</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>
-                           <sic>...</sic>дняя</w>
-                        <w>мидия</w>
-                        <w>алъванья</w>
-                        <w>армениа</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>запа<hi rend="sup">д</hi>ная</w>
-                        <w>ми<lb/>дия</w>
-                        <w>ѡлваниа</w>
-                        <w>арменьа</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>за<lb/>па<hi rend="sup">д</hi>наа.</w>
-                        <w>мидїа.</w>
-                        <w>ѡлванїа.</w>
-                        <w>арменїа</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>западная</w>
-                        <w>мидия. <lb/>
-                        </w>
-                        <w>ѡлъвания.</w>
-                        <w>армения</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>запа<hi rend="sup">д</hi>наа <lb/>
-                        </w>
-                        <w>мидїа.</w>
-                        <w>
-                           <sic>о</sic>лванїа.</w>
-                        <w>арменїа.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>западныя:</w>
-                        <w>Мидия,</w>
-                        <w>Алъванья,</w>
-                        <w>Арменьа</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>западьныя:</w>
-                        <w>Мидия,</w>
-                        <w>Алъвания,</w>
-                        <w>Армения</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>западныя:</w>
-                        <w>Мидия,</w>
-                        <w>Алъванья,</w>
-                        <w>Арменьа</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>3, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="2"><p>
+<app>
+<lem wit="#lem">
+<w>западьная:</w>
+<w>Мидия,</w>
+<w>Олъвания,</w>
+<w>Армения</w>
+</lem>
+
+<rdg wit="#lav">
+<w><milestone unit="sic" n="start"/>западн<milestone unit="sic" n="end"/>. <lb/></w>
+
+<w>мидия</w>
+<w>алъванья.</w>
+<w>арвинья.</w>
+</rdg>
+
+<rdg wit="#tro">
+<w><milestone unit="sic" n="start"/>...<milestone unit="sic" n="end"/>дняя</w>
+<w>мидия</w>
+<w>алъванья</w>
+<w>армениа</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>запа<hi rend="sup">д</hi>ная</w>
+<w>ми<lb/>дия</w>
+<w>ѡлваниа</w>
+<w>арменьа</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>за<lb/>па<hi rend="sup">д</hi>наа.</w>
+<w>мидїа.</w>
+<w>ѡлванїа.</w>
+<w>арменїа</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>западная</w>
+<w>мидия. <lb/></w>
+
+<w>ѡлъвания.</w>
+<w>армения</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>запа<hi rend="sup">д</hi>наа <lb/></w>
+
+<w>мидїа.</w>
+<w><milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/>лванїа.</w>
+<w>арменїа.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>западныя:</w>
+<w>Мидия,</w>
+<w>Алъванья,</w>
+<w>Арменьа</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>западьныя:</w>
+<w>Мидия,</w>
+<w>Алъвания,</w>
+<w>Армения</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>западныя:</w>
+<w>Мидия,</w>
+<w>Алъванья,</w>
+<w>Арменьа</w>
+</rdg>
+</app></p></div></body></text></TEI>

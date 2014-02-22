@@ -1,108 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>152, 19</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="19">
-            <p>
-               <app>
-                  <lem>
-                     <w>суть</w>
-                     <w>узда</w>
-                     <w>въздьржанию.</w>
-                     <w>Мудрость</w>
-                     <w>бо</w>
-                     <w>велика</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>суть</w>
-                        <w>оузда</w>
-                        <w>въздержанью. <lb/>
-                        </w>
-                        <w>мдрт<hi rend="sup">с</hi>ь</w>
-                        <w>бо</w>
-                        <w>велика</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>сѹ<hi rend="sup">т</hi> 
-                           <lb/>
-                        </w>
-                        <w>оуза<hi rend="sup">д</hi>
-                        </w>
-                        <w>въз<hi rend="sup">д</hi>ержанию.</w>
-                        <w>мѹдрость</w>
-                        <w>бо</w>
-                        <w>велика</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>сѹть</w>
-                        <w>оу<lb/>зда</w>
-                        <w>въздержанїю.</w>
-                        <w>мдрт<hi rend="sup">с</hi>ь</w>
-                        <w>бо</w>
-                        <w>велика</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>суть</w>
-                        <w>оузда</w>
-                        <w>вьзде<lb/>р<hi rend="sup">ъ</hi>н<hi rend="sup">ж</hi>и<hi rend="sup">а</hi>ю.</w>
-                        <w>мудрость</w>
-                        <w>бо</w>
-                        <w>велика</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>сѫ<hi rend="sup">т</hi>
-                        </w>
-                        <w>оузда</w>
-                        <w>въздръжанїю.</w>
-                        <w>мѫ<lb/>дрѡ<hi rend="sup">с</hi>
-                        </w>
-                        <w>бѡ</w>
-                        <w>велика</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>суть</w>
-                        <w>узда</w>
-                        <w>въздержанью.</w>
-                        <w>Мудрость</w>
-                        <w>бо</w>
-                        <w>велика</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>суть</w>
-                        <w>узда</w>
-                        <w>въздьржанию.</w>
-                        <w>Мудрость</w>
-                        <w>бо</w>
-                        <w>велика</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>суть</w>
-                        <w>узда</w>
-                        <w>въздержанью.</w>
-                        <w>Мудрость</w>
-                        <w>бо</w>
-                        <w>велика</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>152, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="19"><p>
+<app>
+<lem wit="#lem">
+<w>суть</w>
+<w>узда</w>
+<w>въздьржанию.</w>
+<w>Мудрость</w>
+<w>бо</w>
+<w>велика</w>
+</lem>
+
+<rdg wit="#lav">
+<w>суть</w>
+<w>оузда</w>
+<w>въздержанью. <lb/></w>
+
+<w>мдрт<hi rend="sup">с</hi>ь</w>
+<w>бо</w>
+<w>велика</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>сѹ<hi rend="sup">т</hi><lb/></w>
+<w>оуза<hi rend="sup">д</hi></w>
+<w>въз<hi rend="sup">д</hi>ержанию.</w>
+<w>мѹдрость</w>
+<w>бо</w>
+<w>велика</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>сѹть</w>
+<w>оу<lb/>зда</w>
+<w>въздержанїю.</w>
+<w>мдрт<hi rend="sup">с</hi>ь</w>
+<w>бо</w>
+<w>велика</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>суть</w>
+<w>оузда</w>
+<w>вьзде<lb/>р<hi rend="sup">ъ</hi>н<hi rend="sup">ж</hi>и<hi rend="sup">а</hi>ю.</w>
+<w>мудрость</w>
+<w>бо</w>
+<w>велика</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>сѫ<hi rend="sup">т</hi></w>
+<w>оузда</w>
+<w>въздръжанїю.</w>
+<w>мѫ<lb/>дрѡ<hi rend="sup">с</hi></w>
+<w>бѡ</w>
+<w>велика</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>суть</w>
+<w>узда</w>
+<w>въздержанью.</w>
+<w>Мудрость</w>
+<w>бо</w>
+<w>велика</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>суть</w>
+<w>узда</w>
+<w>въздьржанию.</w>
+<w>Мудрость</w>
+<w>бо</w>
+<w>велика</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>суть</w>
+<w>узда</w>
+<w>въздержанью.</w>
+<w>Мудрость</w>
+<w>бо</w>
+<w>велика</w>
+</rdg>
+</app></p></div></body></text></TEI>

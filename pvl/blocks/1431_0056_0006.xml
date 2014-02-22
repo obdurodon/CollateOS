@@ -1,135 +1,112 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>56, 6</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="6">
-            <p>
-               <app>
-                  <lem>
-                     <w>имя</w>
-                     <w>Малъ,</w>
-                     <w>кънязю</w>
-                     <w>Деревьску.</w>
-                     <w>Рече</w>
-                     <w>же</w>
-                     <w>имъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ему</w>
-                        <w>малъ.</w>
-                        <w>кнѧзю</w>
-                        <w>дерьвьску.</w>
-                        <w>ре<hi rend="sup">ч</hi>
-                        </w>
-                        <w>же <lb/>
-                        </w>
-                        <w>имъ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>имѧ</w>
-                        <w>ма<hi rend="sup">л</hi>
-                        </w>
-                        <w>кн҃зь.</w>
-                        <w>и</w>
-                        <w>ре<hi rend="sup">ч</hi>
-                        </w>
-                        <w>и<lb/>мъ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>имѧ</w>
-                        <w>малъ</w>
-                        <w>кн҃зь.</w>
-                        <w>и</w>
-                        <w>рече</w>
-                        <w>имь</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>имѧ</w>
-                        <w>малъ.</w>
-                        <w>кнѧзю</w>
-                        <w>де<lb/>ревьскому.</w>
-                        <w>ре<hi rend="sup">ч</hi>
-                        </w>
-                        <w>же</w>
-                        <w>имъ <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>маль</w>
-                        <w>кнѧѕю</w>
-                        <w>деревскомѹ. <lb/>
-                        </w>
-                        <w>ре<hi rend="sup">ч</hi>
-                        </w>
-                        <w>же</w>
-                        <w>и<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>князю</w>
-                        <w>нашему</w>
-                        <w>деревьскому</w>
-                        <w>малъ</w>
-                        <w>рече</w>
-                        <w>же</w>
-                        <w>имъ</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>ему</w>
-                        <w>малъ</w>
-                        <w>князю</w>
-                        <w>деревскому</w>
-                        <w>рече</w>
-                        <w>же</w>
-                        <w>имъ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>ему</w>
-                        <w>Малъ,</w>
-                        <w>князю</w>
-                        <w>Дерьвьску.</w>
-                        <w>Рече</w>
-                        <w>же</w>
-                        <w>имъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>ему</w>
-                        <w>Малъ,</w>
-                        <w>кънязю</w>
-                        <w>Деревьску.</w>
-                        <w>Рече</w>
-                        <w>же</w>
-                        <w>имъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>ему</w>
-                        <w>Малъ,</w>
-                        <w>князю</w>
-                        <w>дерьвьску.</w>
-                        <w>Рече</w>
-                        <w>же</w>
-                        <w>имъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>56, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="6"><p>
+<app>
+<lem wit="#lem">
+<w>имя</w>
+<w>Малъ,</w>
+<w>кънязю</w>
+<w>Деревьску.</w>
+<w>Рече</w>
+<w>же</w>
+<w>имъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ему</w>
+<w>малъ.</w>
+<w>кнѧзю</w>
+<w>дерьвьску.</w>
+<w>ре<hi rend="sup">ч</hi></w>
+<w>же <lb/></w>
+
+<w>имъ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>имѧ</w>
+<w>ма<hi rend="sup">л</hi></w>
+<w>кн҃зь.</w>
+<w>и</w>
+<w>ре<hi rend="sup">ч</hi></w>
+<w>и<lb/>мъ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>имѧ</w>
+<w>малъ</w>
+<w>кн҃зь.</w>
+<w>и</w>
+<w>рече</w>
+<w>имь</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>имѧ</w>
+<w>малъ.</w>
+<w>кнѧзю</w>
+<w>де<lb/>ревьскому.</w>
+<w>ре<hi rend="sup">ч</hi></w>
+<w>же</w>
+<w>имъ <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>маль</w>
+<w>кнѧѕю</w>
+<w>деревскомѹ. <lb/></w>
+
+<w>ре<hi rend="sup">ч</hi></w>
+<w>же</w>
+<w>и<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#kom">
+<w>князю</w>
+<w>нашему</w>
+<w>деревьскому</w>
+<w>малъ</w>
+<w>рече</w>
+<w>же</w>
+<w>имъ</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>ему</w>
+<w>малъ</w>
+<w>князю</w>
+<w>деревскому</w>
+<w>рече</w>
+<w>же</w>
+<w>имъ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>ему</w>
+<w>Малъ,</w>
+<w>князю</w>
+<w>Дерьвьску.</w>
+<w>Рече</w>
+<w>же</w>
+<w>имъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>ему</w>
+<w>Малъ,</w>
+<w>кънязю</w>
+<w>Деревьску.</w>
+<w>Рече</w>
+<w>же</w>
+<w>имъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>ему</w>
+<w>Малъ,</w>
+<w>князю</w>
+<w>дерьвьску.</w>
+<w>Рече</w>
+<w>же</w>
+<w>имъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

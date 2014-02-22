@@ -1,119 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>123, 16</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="16">
-            <p>
-               <app>
-                  <lem>
-                     <w>“Нѣсть</w>
-                     <w>ли</w>
-                     <w>мужа?</w>
-                     <w>Се,</w>
-                     <w>нашь</w>
-                     <w>доспѣлъ”.</w>
-                     <w>Володимиръ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>нѣ</w>
-                        <w>ли</w>
-                        <w>мужа.</w>
-                        <w>се</w>
-                        <w>нашь</w>
-                        <w>доспѣ<lb/>лъ.</w>
-                        <w>володимеръ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>нѣ <lb/>
-                        </w>
-                        <w>ли</w>
-                        <w>моу<hi rend="sup">ж</hi>.</w>
-                        <w>се</w>
-                        <w>нашь</w>
-                        <w>готовъ.</w>
-                        <w>володимир</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>нѣ<hi rend="sup">с</hi>
-                        </w>
-                        <w>ли</w>
-                        <w>мѹжа.</w>
-                        <w>се</w>
-                        <w>нашь</w>
-                        <w>готовь.</w>
-                        <w>володимиръ</w>
-                        <w>
-                           <pb n="64v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>вѣльможа.</w>
-                        <w>се <lb/>
-                        </w>
-                        <w>нашь</w>
-                        <w>доспѣлъ.</w>
-                        <w>володимѣръ <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>нѣ<hi rend="sup">с</hi>
-                        </w>
-                        <w>ли</w>
-                        <w>мѫжа.</w>
-                        <w>се</w>
-                        <w>нашь</w>
-                        <w>доспѣ<hi rend="sup">л</hi>.</w>
-                        <w>въл<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>“нѣ</w>
-                        <w>ли</w>
-                        <w>мужа?</w>
-                        <w>се</w>
-                        <w>нашь</w>
-                        <w>доспѣлъ”.</w>
-                        <w>Володимеръ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>“нѣсть</w>
-                        <w>ли</w>
-                        <w>мужа?</w>
-                        <w>Се,</w>
-                        <w>нашь</w>
-                        <w>доспѣлъ”.</w>
-                        <w>Володимеръ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>“Нѣ</w>
-                        <w>ли</w>
-                        <w>мужа?</w>
-                        <w>Се</w>
-                        <w>нашь</w>
-                        <w>доспѣлъ”.</w>
-                        <w>Володимеръ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>123, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="16"><p>
+<app>
+<lem wit="#lem">
+<w>“Нѣсть</w>
+<w>ли</w>
+<w>мужа?</w>
+<w>Се,</w>
+<w>нашь</w>
+<w>доспѣлъ”.</w>
+<w>Володимиръ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>нѣ</w>
+<w>ли</w>
+<w>мужа.</w>
+<w>се</w>
+<w>нашь</w>
+<w>доспѣ<lb/>лъ.</w>
+<w>володимеръ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>нѣ <lb/></w>
+
+<w>ли</w>
+<w>моу<hi rend="sup">ж</hi>.</w>
+<w>се</w>
+<w>нашь</w>
+<w>готовъ.</w>
+<w>володимир</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>нѣ<hi rend="sup">с</hi></w>
+<w>ли</w>
+<w>мѹжа.</w>
+<w>се</w>
+<w>нашь</w>
+<w>готовь.</w>
+<w>володимиръ <pb n="64v"/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>вѣльможа.</w>
+<w>се <lb/></w>
+
+<w>нашь</w>
+<w>доспѣлъ.</w>
+<w>володимѣръ <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>нѣ<hi rend="sup">с</hi></w>
+<w>ли</w>
+<w>мѫжа.</w>
+<w>се</w>
+<w>нашь</w>
+<w>доспѣ<hi rend="sup">л</hi>.</w>
+<w>въл<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi><lb/>мер</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>“нѣ</w>
+<w>ли</w>
+<w>мужа?</w>
+<w>се</w>
+<w>нашь</w>
+<w>доспѣлъ”.</w>
+<w>Володимеръ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>“нѣсть</w>
+<w>ли</w>
+<w>мужа?</w>
+<w>Се,</w>
+<w>нашь</w>
+<w>доспѣлъ”.</w>
+<w>Володимеръ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>“Нѣ</w>
+<w>ли</w>
+<w>мужа?</w>
+<w>Се</w>
+<w>нашь</w>
+<w>доспѣлъ”.</w>
+<w>Володимеръ</w>
+</rdg>
+</app></p></div></body></text></TEI>

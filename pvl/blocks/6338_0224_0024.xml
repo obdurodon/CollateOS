@@ -1,116 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>224, 24</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="24">
-            <p>
-               <app>
-                  <lem>
-                     <w>его.</w>
-                     <w>Се</w>
-                     <w>уже</w>
-                     <w>не</w>
-                     <w>хотяще</w>
-                     <w>тьрпимъ,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ѥго·</w>
-                        <w>се</w>
-                        <w>оуже</w>
-                        <w>не</w>
-                        <w>хотѧще</w>
-                        <w>терпи<hi rend="sup">м</hi>· <lb/>
-                        </w>
-                        <w>се</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>е<hi rend="sup">г</hi>.</w>
-                        <w>се</w>
-                        <w>оуже</w>
-                        <w>не</w>
-                        <w>хотѧще</w>
-                        <w>терпи<hi rend="sup">м</hi>ъ. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>се</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>его·</w>
-                        <w>се·̏</w>
-                        <w>оуже <lb/>
-                        </w>
-                        <w>не</w>
-                        <w>хотѧще</w>
-                        <w>терпимъ·</w>
-                        <w>и</w>
-                        <w>се·̏</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>его·</w>
-                        <w>се</w>
-                        <w>оуже</w>
-                        <w>не <lb/>
-                        </w>
-                        <w>хотѧще</w>
-                        <w>терпимъ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>его. <lb/>
-                        </w>
-                        <w>се</w>
-                        <w>оуже</w>
-                        <w>не</w>
-                        <w>хотѧще</w>
-                        <w>тръпи<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>его;</w>
-                        <w>се</w>
-                        <w>уже</w>
-                        <w>не</w>
-                        <w>хотяще</w>
-                        <w>терпимъ,</w>
-                        <w>се</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>его.</w>
-                        <w>Се,</w>
-                        <w>уже</w>
-                        <w>не</w>
-                        <w>хотяще</w>
-                        <w>тьрпимъ,</w>
-                        <w>се,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>его.</w>
-                        <w>Се</w>
-                        <w>уже</w>
-                        <w>не</w>
-                        <w>хотяще</w>
-                        <w>терпим,</w>
-                        <w>се</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>224, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="24"><p>
+<app>
+<lem wit="#lem">
+<w>его.</w>
+<w>Се</w>
+<w>уже</w>
+<w>не</w>
+<w>хотяще</w>
+<w>тьрпимъ,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ѥго·</w>
+<w>се</w>
+<w>оуже</w>
+<w>не</w>
+<w>хотѧще</w>
+<w>терпи<hi rend="sup">м</hi>· <lb/></w>
+
+<w>се</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>е<hi rend="sup">г</hi>.</w>
+<w>се</w>
+<w>оуже</w>
+<w>не</w>
+<w>хотѧще</w>
+<w>терпи<hi rend="sup">м</hi>ъ. <lb/></w>
+
+<w>и</w>
+<w>се</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>его·</w>
+<w>се·̏</w>
+<w>оуже <lb/></w>
+
+<w>не</w>
+<w>хотѧще</w>
+<w>терпимъ·</w>
+<w>и</w>
+<w>се·̏</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>его·</w>
+<w>се</w>
+<w>оуже</w>
+<w>не <lb/></w>
+
+<w>хотѧще</w>
+<w>терпимъ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>его. <lb/></w>
+
+<w>се</w>
+<w>оуже</w>
+<w>не</w>
+<w>хотѧще</w>
+<w>тръпи<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>его;</w>
+<w>се</w>
+<w>уже</w>
+<w>не</w>
+<w>хотяще</w>
+<w>терпимъ,</w>
+<w>се</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>его.</w>
+<w>Се,</w>
+<w>уже</w>
+<w>не</w>
+<w>хотяще</w>
+<w>тьрпимъ,</w>
+<w>се,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>его.</w>
+<w>Се</w>
+<w>уже</w>
+<w>не</w>
+<w>хотяще</w>
+<w>терпим,</w>
+<w>се</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,149 +1,116 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>284, 23</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="23">
-            <p>
-               <app>
-                  <lem>
-                     <w>своего,</w>
-                     <w>яко</w>
-                     <w>мощьно</w>
-                     <w>
-                        <choice>
-                           <seg>видѣти</seg>
-                           <seg>зьрѣти</seg>
-                        </choice>
-                     </w>
-                     <w>чловѣкомъ.</w>
-                     <w>Не</w>
-                     <w>мощьно</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>своѥго·</w>
-                        <w>яко</w>
-                        <w>мощно <lb/>
-                        </w>
-                        <w>видѣти</w>
-                        <w>члв҃кмъ·</w>
-                        <w>не</w>
-                        <w>мощно</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>свое<hi rend="sup">г</hi>·</w>
-                        <w>яко</w>
-                        <w>мощно</w>
-                        <w>видѣти</w>
-                        <w>члко<hi rend="sup">м</hi>· <lb/>
-                        </w>
-                        <w>не</w>
-                        <w>мощно</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>своего·</w>
-                        <w>я<lb/>ко</w>
-                        <w>мощно</w>
-                        <w>видети</w>
-                        <w>члв҃комъ·</w>
-                        <w>не</w>
-                        <w>мощно</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>своего·</w>
-                        <w>ѡво</w>
-                        <w>бо</w>
-                        <w>ѡгнемь·</w>
-                        <w>
-                           <sic>ѡво столм<hi rend="sup">п</hi>ъ<hi rend="sup">о</hi>·
-                    ѡво</sic> 
-                           <lb/>
-                        </w>
-                        <w>яко</w>
-                        <w>мощно <lb/>
-                        </w>
-                        <w>
-                           <sic>зрѣти имъ·</sic>
-                        </w>
-                        <w>не</w>
-                        <w>мощно</w>
-                        <w>
-                           <pb n="98b"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>своего.</w>
-                        <w>ѡво</w>
-                        <w>бо</w>
-                        <w>ѡгнено<hi rend="sup">м</hi>
-                        </w>
-                        <w>ѡбразѡ<hi rend="sup">м</hi>. <lb/>
-                        </w>
-                        <w>ѡв</w>
-                        <w>инакы<hi rend="sup">м</hi>
-                        </w>
-                        <w>виденїе<hi rend="sup">м</hi>.</w>
-                        <w>яко</w>
-                        <w>мощ′но</w>
-                        <w>зрѣ·̏ти.</w>
-                        <w>чл҃ко<hi rend="sup">м</hi> 
-                           <lb/>
-                        </w>
-                        <w>не</w>
-                        <w>мощ′но</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>своего,</w>
-                        <w>яко</w>
-                        <w>мощно</w>
-                        <w>видѣти</w>
-                        <w>человѣкомъ;</w>
-                        <w>не</w>
-                        <w>мощно</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>своего,</w>
-                        <w>ово</w>
-                        <w>бо</w>
-                        <w>огньмъмь</w>
-                        <w>образъмь,</w>
-                        <w>обо</w>
-                        <w>инакымь</w>
-                        <w>видѣниумь,</w>
-                        <w>яко</w>
-                        <w>мощьно</w>
-                        <w>видѣти</w>
-                        <w>чловѣкомъ.</w>
-                        <w>Немощьно</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>своего,</w>
-                        <w>яко</w>
-                        <w>мощно</w>
-                        <w>видѣти</w>
-                        <w>человѣкомъ;</w>
-                        <w>не</w>
-                        <w>мощно</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>284, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="23"><p>
+<app>
+<lem wit="#lem">
+<w>своего,</w>
+<w>яко</w>
+<w>мощьно</w>
+<w><choice><seg>видѣти</seg><seg>зьрѣти</seg></choice></w>
+<w>чловѣкомъ.</w>
+<w>Не</w>
+<w>мощьно</w>
+</lem>
+
+<rdg wit="#lav">
+<w>своѥго·</w>
+<w>яко</w>
+<w>мощно <lb/></w>
+
+<w>видѣти</w>
+<w>члв҃кмъ·</w>
+<w>не</w>
+<w>мощно</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>свое<hi rend="sup">г</hi>·</w>
+<w>яко</w>
+<w>мощно</w>
+<w>видѣти</w>
+<w>члко<hi rend="sup">м</hi>· <lb/></w>
+
+<w>не</w>
+<w>мощно</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>своего·</w>
+<w>я<lb/>ко</w>
+<w>мощно</w>
+<w>видети</w>
+<w>члв҃комъ·</w>
+<w>не</w>
+<w>мощно</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>своего·</w>
+<w>ѡво</w>
+<w>бо</w>
+<w>ѡгнемь·</w>
+<w><milestone unit="sic" n="start"/>ѡво</w>
+<w>столм<hi rend="sup">п</hi>ъ<hi rend="sup">о</hi>·</w>
+<w>ѡво<milestone unit="sic" n="end"/><lb/>инак<milestone unit="sic" n="start"/>ъімъ</w>
+<w>видѣнье<hi rend="sup">м</hi><milestone unit="sic" n="end"/></w>
+<w>яко</w>
+<w>мощно <lb/><milestone unit="sic" n="start"/>зрѣти</w>
+
+<w>имъ·<milestone unit="sic" n="end"/></w>
+<w>не</w>
+<w>мощно <pb n="98b"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>своего.</w>
+<w>ѡво</w>
+<w>бо</w>
+<w>ѡгнено<hi rend="sup">м</hi></w>
+<w>ѡбразѡ<hi rend="sup">м</hi>. <lb/></w>
+
+<w>ѡв</w>
+<w>инакы<hi rend="sup">м</hi></w>
+<w>виденїе<hi rend="sup">м</hi>.</w>
+<w>яко</w>
+<w>мощ′но</w>
+<w>зрѣ·̏ти.</w>
+<w>чл҃ко<hi rend="sup">м</hi><lb/></w>
+<w>не</w>
+<w>мощ′но</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>своего,</w>
+<w>яко</w>
+<w>мощно</w>
+<w>видѣти</w>
+<w>человѣкомъ;</w>
+<w>не</w>
+<w>мощно</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>своего,</w>
+<w>ово</w>
+<w>бо</w>
+<w>огньмъмь</w>
+<w>образъмь,</w>
+<w>обо</w>
+<w>инакымь</w>
+<w>видѣниумь,</w>
+<w>яко</w>
+<w>мощьно</w>
+<w>видѣти</w>
+<w>чловѣкомъ.</w>
+<w>Немощьно</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>своего,</w>
+<w>яко</w>
+<w>мощно</w>
+<w>видѣти</w>
+<w>человѣкомъ;</w>
+<w>не</w>
+<w>мощно</w>
+</rdg>
+</app></p></div></body></text></TEI>

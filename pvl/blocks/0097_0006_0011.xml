@@ -1,102 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>6, 11</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="11">
-            <p>
-               <app>
-                  <lem>
-                     <w>Лютичи,</w>
-                     <w>ини</w>
-                     <w>Мазовъшане,</w>
-                     <w>а</w>
-                     <w>ини</w>
-                     <w>Поморяне.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>лутичи.</w>
-                        <w>ини</w>
-                        <w>мазовш<sic>ане</sic> 
-                           <lb/>
-                        </w>
-                        <w>ини</w>
-                        <w>поморѧне.</w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad">
-                        <w>лоутичи</w>
-                        <w>инии</w>
-                        <w>мазовшане</w>
-                        <w>инїи</w>
-                        <w>помо<lb/>рѧне</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>лѹ<lb/>тичи.</w>
-                        <w>инїи</w>
-                        <w>мазавшене.</w>
-                        <w>инїи</w>
-                        <w>поморѧне.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>л<sic>ю</sic>ти<sic>ц</sic>ѣ.</w>
-                        <w>инии</w>
-                        <w>ма<lb/>зовшане.</w>
-                        <w>а</w>
-                        <w>нии</w>
-                        <w>поморѧне. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>лютичи.</w>
-                        <w>литва <lb/>
-                        </w>
-                        <w>инїи</w>
-                        <w>мазовшане.</w>
-                        <w>а</w>
-                        <w>инїи</w>
-                        <w>поморѧне.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Лутичи,</w>
-                        <w>ини</w>
-                        <w>Мазовшане,</w>
-                        <w>ини</w>
-                        <w>Поморяне.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Лутичи,</w>
-                        <w>ини</w>
-                        <w>Мазовъшане,</w>
-                        <w>ини</w>
-                        <w>Поморяне.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>лутичи,</w>
-                        <w>ини</w>
-                        <w>мазовшане,</w>
-                        <w>ини</w>
-                        <w>поморяне.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>6, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="11"><p>
+<app>
+<lem wit="#lem">
+<w>Лютичи,</w>
+<w>ини</w>
+<w>Мазовъшане,</w>
+<w>а</w>
+<w>ини</w>
+<w>Поморяне.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>лутичи.</w>
+<w>ини</w>
+<w>мазовш<milestone unit="sic" n="start"/>ане<milestone unit="sic" n="end"/><lb/></w>
+<w>ини</w>
+<w>поморѧне.</w>
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+<w>лоутичи</w>
+<w>инии</w>
+<w>мазовшане</w>
+<w>инїи</w>
+<w>помо<lb/>рѧне</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>лѹ<lb/>тичи.</w>
+<w>инїи</w>
+<w>мазавшене.</w>
+<w>инїи</w>
+<w>поморѧне.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>л<milestone unit="sic" n="start"/>ю<milestone unit="sic" n="end"/>ти<milestone unit="sic" n="start"/>ц<milestone unit="sic" n="end"/>ѣ.</w>
+<w>инии</w>
+<w>ма<lb/>зовшане.</w>
+<w>а</w>
+<w>нии</w>
+<w>поморѧне. <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>лютичи.</w>
+<w>литва <lb/></w>
+
+<w>инїи</w>
+<w>мазовшане.</w>
+<w>а</w>
+<w>инїи</w>
+<w>поморѧне.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Лутичи,</w>
+<w>ини</w>
+<w>Мазовшане,</w>
+<w>ини</w>
+<w>Поморяне.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Лутичи,</w>
+<w>ини</w>
+<w>Мазовъшане,</w>
+<w>ини</w>
+<w>Поморяне.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>лутичи,</w>
+<w>ини</w>
+<w>мазовшане,</w>
+<w>ини</w>
+<w>поморяне.</w>
+</rdg>
+</app></p></div></body></text></TEI>

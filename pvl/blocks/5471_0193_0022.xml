@@ -1,120 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>193, 22</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="22">
-            <p>
-               <app>
-                  <lem>
-                     <w>Антония</w>
-                     <w>Чьрнигову.</w>
-                     <w>Антонии</w>
-                     <w>же</w>
-                     <w>пришьдъ</w>
-                     <w>къ</w>
-                     <w>Чьрнигову</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>антонья</w>
-                        <w>чернигову. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>антониа <lb/>
-                        </w>
-                        <w>к</w>
-                        <w>черниговѹ.</w>
-                        <w>антонии</w>
-                        <w>же</w>
-                        <w>прише<hi rend="sup">д</hi>
-                        </w>
-                        <w>к</w>
-                        <w>черниговѹ.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>антониѧ</w>
-                        <w>к</w>
-                        <w>черниго<lb/>вѹ.</w>
-                        <w>антонїи</w>
-                        <w>же</w>
-                        <w>прише<hi rend="sup">д</hi>
-                        </w>
-                        <w>к</w>
-                        <w>черниговѹ.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>антония</w>
-                        <w>к</w>
-                        <w>чернигову <lb/>
-                        </w>
-                        <w>антонии</w>
-                        <w>же</w>
-                        <w>пришедъ</w>
-                        <w>кь</w>
-                        <w>че<lb/>рнигову.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>антонїа</w>
-                        <w>къ <lb/>
-                        </w>
-                        <w>чернѣговоу.</w>
-                        <w>антонїи</w>
-                        <w>же</w>
-                        <w>прише<hi rend="sup">д</hi>
-                        </w>
-                        <w>къ</w>
-                        <w>чернѣговоу,</w>
-                        <w>и <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Антонья</w>
-                        <w>Чернигову.</w>
-                        <w>Антоний</w>
-                        <w>же</w>
-                        <w>пришед</w>
-                        <w>къ</w>
-                        <w>Чернигову,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Антония</w>
-                        <w>Чьрнигову.</w>
-                        <w>Антонии</w>
-                        <w>же,</w>
-                        <w>пришьдъ</w>
-                        <w>Чьрнигову,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Антонья</w>
-                        <w>Чернигову.</w>
-                        <w>Антоний</w>
-                        <w>же</w>
-                        <w>пришед</w>
-                        <w>к</w>
-                        <w>Чернигову</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>193, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="22"><p>
+<app>
+<lem wit="#lem">
+<w>Антония</w>
+<w>Чьрнигову.</w>
+<w>Антонии</w>
+<w>же</w>
+<w>пришьдъ</w>
+<w>къ</w>
+<w>Чьрнигову</w>
+</lem>
+
+<rdg wit="#lav">
+<w>антонья</w>
+<w>чернигову. <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>антониа <lb/></w>
+
+<w>к</w>
+<w>черниговѹ.</w>
+<w>антонии</w>
+<w>же</w>
+<w>прише<hi rend="sup">д</hi></w>
+<w>к</w>
+<w>черниговѹ.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>антониѧ</w>
+<w>к</w>
+<w>черниго<lb/>вѹ.</w>
+<w>антонїи</w>
+<w>же</w>
+<w>прише<hi rend="sup">д</hi></w>
+<w>к</w>
+<w>черниговѹ.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>антония</w>
+<w>к</w>
+<w>чернигову <lb/></w>
+
+<w>антонии</w>
+<w>же</w>
+<w>пришедъ</w>
+<w>кь</w>
+<w>че<lb/>рнигову.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>антонїа</w>
+<w>къ <lb/></w>
+
+<w>чернѣговоу.</w>
+<w>антонїи</w>
+<w>же</w>
+<w>прише<hi rend="sup">д</hi></w>
+<w>къ</w>
+<w>чернѣговоу,</w>
+<w>и <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>Антонья</w>
+<w>Чернигову.</w>
+<w>Антоний</w>
+<w>же</w>
+<w>пришед</w>
+<w>къ</w>
+<w>Чернигову,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Антония</w>
+<w>Чьрнигову.</w>
+<w>Антонии</w>
+<w>же,</w>
+<w>пришьдъ</w>
+<w>Чьрнигову,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Антонья</w>
+<w>Чернигову.</w>
+<w>Антоний</w>
+<w>же</w>
+<w>пришед</w>
+<w>к</w>
+<w>Чернигову</w>
+</rdg>
+</app></p></div></body></text></TEI>

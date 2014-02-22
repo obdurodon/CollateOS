@@ -1,116 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>200, 16</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="16">
-            <p>
-               <app>
-                  <lem>
-                     <w>ею,</w>
-                     <w>отъвѣтъ</w>
-                     <w>дати</w>
-                     <w>за</w>
-                     <w>погубленыа</w>
-                     <w>душа</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ѥю.</w>
-                        <w>и</w>
-                        <w>ѿвѣтъ</w>
-                        <w>дати</w>
-                        <w>и<lb/>ма</w>
-                        <w>за</w>
-                        <w>погубленье</w>
-                        <w>дш҃а</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ею.</w>
-                        <w>ѿвѣтъ</w>
-                        <w>дати</w>
-                        <w>за</w>
-                        <w>погѹбленыа <lb/>
-                        </w>
-                        <w>дш҃а</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ею. <lb/>
-                        </w>
-                        <w>ѿвѣтъ</w>
-                        <w>дати</w>
-                        <w>за</w>
-                        <w>погѹбленыѧ</w>
-                        <w>дш҃а</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ея.</w>
-                        <w>ѿвѣтъ</w>
-                        <w>дати</w>
-                        <w>за <lb/>
-                        </w>
-                        <w>погиблыя</w>
-                        <w>дш҃а</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ею. <lb/>
-                        </w>
-                        <w>ѿвѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>дати</w>
-                        <w>за</w>
-                        <w>погыблыа</w>
-                        <w>дш҃а <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>ею,</w>
-                        <w>и</w>
-                        <w>отвѣтъ</w>
-                        <w>дати</w>
-                        <w>има</w>
-                        <w>за</w>
-                        <w>погубленыа</w>
-                        <w>душа</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>ею,</w>
-                        <w>и</w>
-                        <w>отъвѣтъ</w>
-                        <w>дати</w>
-                        <w>има</w>
-                        <w>за</w>
-                        <w>погубленыа</w>
-                        <w>душа</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>ею,</w>
-                        <w>и</w>
-                        <w>отвѣтъ</w>
-                        <w>дати</w>
-                        <w>има</w>
-                        <w>за</w>
-                        <w>погубленыа</w>
-                        <w>душа</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>200, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="16"><p>
+<app>
+<lem wit="#lem">
+<w>ею,</w>
+<w>отъвѣтъ</w>
+<w>дати</w>
+<w>за</w>
+<w>погубленыа</w>
+<w>душа</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ѥю.</w>
+<w>и</w>
+<w>ѿвѣтъ</w>
+<w>дати</w>
+<w>и<lb/>ма</w>
+<w>за</w>
+<w>погубленье</w>
+<w>дш҃а</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ею.</w>
+<w>ѿвѣтъ</w>
+<w>дати</w>
+<w>за</w>
+<w>погѹбленыа <lb/></w>
+
+<w>дш҃а</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ею. <lb/></w>
+
+<w>ѿвѣтъ</w>
+<w>дати</w>
+<w>за</w>
+<w>погѹбленыѧ</w>
+<w>дш҃а</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ея.</w>
+<w>ѿвѣтъ</w>
+<w>дати</w>
+<w>за <lb/></w>
+
+<w>погиблыя</w>
+<w>дш҃а</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ею. <lb/></w>
+
+<w>ѿвѣ<hi rend="sup">т</hi></w>
+<w>дати</w>
+<w>за</w>
+<w>погыблыа</w>
+<w>дш҃а <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>ею,</w>
+<w>и</w>
+<w>отвѣтъ</w>
+<w>дати</w>
+<w>има</w>
+<w>за</w>
+<w>погубленыа</w>
+<w>душа</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>ею,</w>
+<w>и</w>
+<w>отъвѣтъ</w>
+<w>дати</w>
+<w>има</w>
+<w>за</w>
+<w>погубленыа</w>
+<w>душа</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>ею,</w>
+<w>и</w>
+<w>отвѣтъ</w>
+<w>дати</w>
+<w>има</w>
+<w>за</w>
+<w>погубленыа</w>
+<w>душа</w>
+</rdg>
+</app></p></div></body></text></TEI>

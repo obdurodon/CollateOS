@@ -1,119 +1,97 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>278, 3</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="3">
-            <p>
-               <app>
-                  <lem>
-                     <w>и</w>
-                     <w>придоша</w>
-                     <w>на</w>
-                     <w>Сутѣнь.</w>
-                     <w>Половьци</w>
-                     <w>же,</w>
-                     <w>слышавъше,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>и <lb/>
-                        </w>
-                        <w>придоша</w>
-                        <w>на</w>
-                        <w>сутѣнь·</w>
-                        <w>половци <lb/>
-                        </w>
-                        <w>же</w>
-                        <w>слышавше</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>и</w>
-                        <w>проидоша</w>
-                        <w>на</w>
-                        <w>сѹ<lb/>тѣнь.</w>
-                        <w>половци</w>
-                        <w>же</w>
-                        <w>слышавше·</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>и</w>
-                        <w>приидо<lb/>ша</w>
-                        <w>на</w>
-                        <w>сѹтѣнь·</w>
-                        <w>и</w>
-                        <w>половци</w>
-                        <w>же</w>
-                        <w>слы·̏шавше·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>и</w>
-                        <w>придоша</w>
-                        <w>на</w>
-                        <w>сутинъ·</w>
-                        <w>половци</w>
-                        <w>же</w>
-                        <w>слышавше <lb/>
-                        </w>
-                        <w>
-                           <pb n="95d"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>и</w>
-                        <w>приїдоша <lb/>
-                        </w>
-                        <w>на</w>
-                        <w>сѫтинъ.</w>
-                        <w>полов′ци</w>
-                        <w>же</w>
-                        <w>слышав′ши,</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>и</w>
-                        <w>придоша</w>
-                        <w>на</w>
-                        <w>Сутѣнь.</w>
-                        <w>Половци</w>
-                        <w>же</w>
-                        <w>слышавше,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>и</w>
-                        <w>придоша</w>
-                        <w>на</w>
-                        <w>Сутѣнь.</w>
-                        <w>Половьци</w>
-                        <w>же,</w>
-                        <w>слышавъше,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>и</w>
-                        <w>придоша</w>
-                        <w>на</w>
-                        <w>Сутѣнь.</w>
-                        <w>Половци</w>
-                        <w>же,</w>
-                        <w>слышавше,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>278, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="3"><p>
+<app>
+<lem wit="#lem">
+<w>и</w>
+<w>придоша</w>
+<w>на</w>
+<w>Сутѣнь.</w>
+<w>Половьци</w>
+<w>же,</w>
+<w>слышавъше,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>и <lb/></w>
+
+<w>придоша</w>
+<w>на</w>
+<w>сутѣнь·</w>
+<w>половци <lb/></w>
+
+<w>же</w>
+<w>слышавше</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>и</w>
+<w>проидоша</w>
+<w>на</w>
+<w>сѹ<lb/>тѣнь.</w>
+<w>половци</w>
+<w>же</w>
+<w>слышавше·</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>и</w>
+<w>приидо<lb/>ша</w>
+<w>на</w>
+<w>сѹтѣнь·</w>
+<w>и</w>
+<w>половци</w>
+<w>же</w>
+<w>слы·̏шавше·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>и</w>
+<w>придоша</w>
+<w>на</w>
+<w>сутинъ·</w>
+<w>половци</w>
+<w>же</w>
+<w>слышавше <lb/><pb n="95d"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>и</w>
+<w>приїдоша <lb/></w>
+
+<w>на</w>
+<w>сѫтинъ.</w>
+<w>полов′ци</w>
+<w>же</w>
+<w>слышав′ши,</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>и</w>
+<w>придоша</w>
+<w>на</w>
+<w>Сутѣнь.</w>
+<w>Половци</w>
+<w>же</w>
+<w>слышавше,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>и</w>
+<w>придоша</w>
+<w>на</w>
+<w>Сутѣнь.</w>
+<w>Половьци</w>
+<w>же,</w>
+<w>слышавъше,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>и</w>
+<w>придоша</w>
+<w>на</w>
+<w>Сутѣнь.</w>
+<w>Половци</w>
+<w>же,</w>
+<w>слышавше,</w>
+</rdg>
+</app></p></div></body></text></TEI>

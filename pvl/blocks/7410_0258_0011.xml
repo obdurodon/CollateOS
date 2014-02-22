@@ -1,106 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>258, 11</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="11">
-            <p>
-               <app>
-                  <lem>
-                     <w>именинъ</w>
-                     <w>моихъ”.</w>
-                     <w>Василько</w>
-                     <w>же</w>
-                     <w>отъпрѣ</w>
-                     <w>ся,</w>
-                     <w>река:</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>именинъ</w>
-                        <w>мо<lb/>ихъ·</w>
-                        <w>василко</w>
-                        <w>же</w>
-                        <w>ѿпрѣсѧ</w>
-                        <w>река. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>име<lb/>нинъ</w>
-                        <w>мои<hi rend="sup">х</hi>.</w>
-                        <w>василко<hi rend="sup">ж</hi>
-                        </w>
-                        <w>ѿпр<hi rend="sup">с</hi>ѣ</w>
-                        <w>ре<hi rend="sup">к</hi>·</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>имѧнинъ</w>
-                        <w>моихъ·</w>
-                        <w>василько</w>
-                        <w>же</w>
-                        <w>ѿпрѣсѧ</w>
-                        <w>рекь· <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>именинъ</w>
-                        <w>моихъ· <lb/>
-                        </w>
-                        <w>василко</w>
-                        <w>же</w>
-                        <w>ѡтопрѣсѧ</w>
-                        <w>река</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>им<hi rend="sup">н</hi>е<hi rend="sup">и</hi>нь</w>
-                        <w>мои<hi rend="sup">х</hi>.</w>
-                        <w>Василко<hi rend="sup">ж</hi>
-                        </w>
-                        <w>ѿпрѣсѧ,</w>
-                        <w>река.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>именинъ</w>
-                        <w>моихъ”.</w>
-                        <w>Василко</w>
-                        <w>же</w>
-                        <w>отпрѣся,</w>
-                        <w>река:</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>именинъ</w>
-                        <w>моихъ”.</w>
-                        <w>Василько</w>
-                        <w>же</w>
-                        <w>отъпрься,</w>
-                        <w>река:</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>именинъ</w>
-                        <w>моихъ”.</w>
-                        <w>Василко</w>
-                        <w>же</w>
-                        <w>отпрѣся,</w>
-                        <w>река:</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>258, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="11"><p>
+<app>
+<lem wit="#lem">
+<w>именинъ</w>
+<w>моихъ”.</w>
+<w>Василько</w>
+<w>же</w>
+<w>отъпрѣ</w>
+<w>ся,</w>
+<w>река:</w>
+</lem>
+
+<rdg wit="#lav">
+<w>именинъ</w>
+<w>мо<lb/>ихъ·</w>
+<w>василко</w>
+<w>же</w>
+<w>ѿпрѣсѧ</w>
+<w>река. <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>име<lb/>нинъ</w>
+<w>мои<hi rend="sup">х</hi>.</w>
+<w>василко<hi rend="sup">ж</hi></w>
+<w>ѿпр<hi rend="sup">с</hi>ѣ</w>
+<w>ре<hi rend="sup">к</hi>·</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>имѧнинъ</w>
+<w>моихъ·</w>
+<w>василько</w>
+<w>же</w>
+<w>ѿпрѣсѧ</w>
+<w>рекь· <lb/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>именинъ</w>
+<w>моихъ· <lb/></w>
+
+<w>василко</w>
+<w>же</w>
+<w>ѡтопрѣсѧ</w>
+<w>река</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>им<hi rend="sup">н</hi>е<hi rend="sup">и</hi>нь</w>
+<w>мои<hi rend="sup">х</hi>.</w>
+<w>Василко<hi rend="sup">ж</hi></w>
+<w>ѿпрѣсѧ,</w>
+<w>река.</w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>именинъ</w>
+<w>моихъ”.</w>
+<w>Василко</w>
+<w>же</w>
+<w>отпрѣся,</w>
+<w>река:</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>именинъ</w>
+<w>моихъ”.</w>
+<w>Василько</w>
+<w>же</w>
+<w>отъпрься,</w>
+<w>река:</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>именинъ</w>
+<w>моихъ”.</w>
+<w>Василко</w>
+<w>же</w>
+<w>отпрѣся,</w>
+<w>река:</w>
+</rdg>
+</app></p></div></body></text></TEI>

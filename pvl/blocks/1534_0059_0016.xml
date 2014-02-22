@@ -1,106 +1,85 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>59, 16</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="16">
-            <p>
-               <app>
-                  <lem>
-                     <w>голуби</w>
-                     <w>и</w>
-                     <w>воробиеви</w>
-                     <w>привязывати</w>
-                     <w>цѣрь,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>голуби.</w>
-                        <w>и</w>
-                        <w>къ</w>
-                        <w>воробьеви</w>
-                        <w>привѧзывати <lb/>
-                        </w>
-                        <w>цѣрь.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>голѹби.</w>
-                        <w>и</w>
-                        <w>к</w>
-                        <w>воробьеви.</w>
-                        <w>привѧзыва<lb/>ти</w>
-                        <w>цѣрь</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>голѹби.</w>
-                        <w>и</w>
-                        <w>к</w>
-                        <w>воробьеви.</w>
-                        <w>прївѧзывати</w>
-                        <w>цѣрь.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>голу<lb/>беви.</w>
-                        <w>и</w>
-                        <w>воробьеви</w>
-                        <w>при<lb/>вѧзати</w>
-                        <w>чѣрь.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>голоубеви</w>
-                        <w>и</w>
-                        <w>въробьеви</w>
-                        <w>привѧзати</w>
-                        <w>чирь.</w>
-                        <w>и</w>
-                        <w>
-                           <pb n="23v"/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>голуби</w>
-                        <w>и</w>
-                        <w>къ</w>
-                        <w>воробьеви</w>
-                        <w>привязывати</w>
-                        <w>цѣрь,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>голуби</w>
-                        <w>и</w>
-                        <w>къ</w>
-                        <w>воробиеви</w>
-                        <w>привязывати</w>
-                        <w>цѣрь,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>голуби</w>
-                        <w>и</w>
-                        <w>къ</w>
-                        <w>воробьеви</w>
-                        <w>привязывати</w>
-                        <w>цѣрь,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>59, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="16"><p>
+<app>
+<lem wit="#lem">
+<w>голуби</w>
+<w>и</w>
+<w>воробиеви</w>
+<w>привязывати</w>
+<w>цѣрь,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>голуби.</w>
+<w>и</w>
+<w>къ</w>
+<w>воробьеви</w>
+<w>привѧзывати <lb/></w>
+
+<w>цѣрь.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>голѹби.</w>
+<w>и</w>
+<w>к</w>
+<w>воробьеви.</w>
+<w>привѧзыва<lb/>ти</w>
+<w>цѣрь</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>голѹби.</w>
+<w>и</w>
+<w>к</w>
+<w>воробьеви.</w>
+<w>прївѧзывати</w>
+<w>цѣрь.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>голу<lb/>беви.</w>
+<w>и</w>
+<w>воробьеви</w>
+<w>при<lb/>вѧзати</w>
+<w>чѣрь.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>голоубеви</w>
+<w>и</w>
+<w>въробьеви</w>
+<w>привѧзати</w>
+<w>чирь.</w>
+<w>и <pb n="23v"/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>голуби</w>
+<w>и</w>
+<w>къ</w>
+<w>воробьеви</w>
+<w>привязывати</w>
+<w>цѣрь,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>голуби</w>
+<w>и</w>
+<w>къ</w>
+<w>воробиеви</w>
+<w>привязывати</w>
+<w>цѣрь,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>голуби</w>
+<w>и</w>
+<w>къ</w>
+<w>воробьеви</w>
+<w>привязывати</w>
+<w>цѣрь,</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,118 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>235, 1</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="1">
-            <p>
-               <app>
-                  <lem>
-                     <w>Новугороду.</w>
-                     <w>И</w>
-                     <w>пришьдъшю</w>
-                     <w>отроку</w>
-                     <w>моему</w>
-                     <w>къ</w>
-                     <w>нимъ,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>новугороду·</w>
-                        <w>и</w>
-                        <w>пришедшю <lb/>
-                        </w>
-                        <w>отроку</w>
-                        <w>моему</w>
-                        <w>к</w>
-                        <w>ни<hi rend="sup">м</hi>·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>новоугородѹ.</w>
-                        <w>и</w>
-                        <w>прише<hi rend="sup">д</hi>шю.</w>
-                        <w>ѿтрокѹ</w>
-                        <w>
-                           <add place="margin">мо</add>емоу <lb/>
-                        </w>
-                        <w>к</w>
-                        <w>нимъ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>новѹгородѹ·</w>
-                        <w>и</w>
-                        <w>прише<hi rend="sup">д</hi>шю</w>
-                        <w>ѡтрокѹ</w>
-                        <w>моемѹ</w>
-                        <w>к</w>
-                        <w>ни<lb/>мъ·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>новугороду·</w>
-                        <w>ї</w>
-                        <w>при<lb/>шедшю</w>
-                        <w>ѡтроку</w>
-                        <w>моему</w>
-                        <w>к</w>
-                        <w>нимъ·</w>
-                        <w>
-                           <pb n="86b"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>новоуграу<hi rend="sup">д</hi>,</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>прише<hi rend="sup">д</hi>шю</w>
-                        <w>отрокоу</w>
-                        <w>моемоу</w>
-                        <w>к</w>
-                        <w>ни<hi rend="sup">м</hi>,</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Новугороду;</w>
-                        <w>и</w>
-                        <w>пришедшю</w>
-                        <w>отроку</w>
-                        <w>моему</w>
-                        <w>к</w>
-                        <w>нимъ, 227,1</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Новугороду;</w>
-                        <w>и</w>
-                        <w>пришьдъшю</w>
-                        <w>отроку</w>
-                        <w>моему</w>
-                        <w>къ</w>
-                        <w>нимъ, 293,11</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Новугороду.</w>
-                        <w>И</w>
-                        <w>пришедшю</w>
-                        <w>отроку</w>
-                        <w>моему</w>
-                        <w>к</w>
-                        <w>ним, 167,11</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>235, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="1"><p>
+<app>
+<lem wit="#lem">
+<w>Новугороду.</w>
+<w>И</w>
+<w>пришьдъшю</w>
+<w>отроку</w>
+<w>моему</w>
+<w>къ</w>
+<w>нимъ,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>новугороду·</w>
+<w>и</w>
+<w>пришедшю <lb/></w>
+
+<w>отроку</w>
+<w>моему</w>
+<w>к</w>
+<w>ни<hi rend="sup">м</hi>·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>новоугородѹ.</w>
+<w>и</w>
+<w>прише<hi rend="sup">д</hi>шю.</w>
+<w>ѿтрокѹ</w>
+<w><milestone unit="add" n="start" place="margin"/>мо<milestone unit="add" n="end"/>емоу <lb/></w>
+
+<w>к</w>
+<w>нимъ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>новѹгородѹ·</w>
+<w>и</w>
+<w>прише<hi rend="sup">д</hi>шю</w>
+<w>ѡтрокѹ</w>
+<w>моемѹ</w>
+<w>к</w>
+<w>ни<lb/>мъ·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>новугороду·</w>
+<w>ї</w>
+<w>при<lb/>шедшю</w>
+<w>ѡтроку</w>
+<w>моему</w>
+<w>к</w>
+<w>нимъ· <pb n="86b"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>новоуграу<hi rend="sup">д</hi>,</w>
+<w>и <lb/></w>
+
+<w>прише<hi rend="sup">д</hi>шю</w>
+<w>отрокоу</w>
+<w>моемоу</w>
+<w>к</w>
+<w>ни<hi rend="sup">м</hi>,</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Новугороду;</w>
+<w>и</w>
+<w>пришедшю</w>
+<w>отроку</w>
+<w>моему</w>
+<w>к</w>
+<w>нимъ,</w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>Новугороду;</w>
+<w>и</w>
+<w>пришьдъшю</w>
+<w>отроку</w>
+<w>моему</w>
+<w>къ</w>
+<w>нимъ,</w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>Новугороду.</w>
+<w>И</w>
+<w>пришедшю</w>
+<w>отроку</w>
+<w>моему</w>
+<w>к</w>
+<w>ним,</w>
+
+</rdg>
+</app></p></div></body></text></TEI>

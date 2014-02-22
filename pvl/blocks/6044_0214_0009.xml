@@ -1,97 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>214, 9</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="9">
-            <p>
-               <app>
-                  <lem>
-                     <w>оружиемь</w>
-                     <w>крьстьнымь</w>
-                     <w>и</w>
-                     <w>вѣрою</w>
-                     <w>непобѣдимою</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ѡружьемь</w>
-                        <w>крт<hi rend="sup">с</hi>нымь <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>вѣрою</w>
-                        <w>непобѣдимою·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ѡроу<hi rend="sup">ж</hi> 
-                           <lb/>
-                        </w>
-                        <w>крт<hi rend="sup">с</hi>нымъ.</w>
-                        <w>и</w>
-                        <w>вѣрою</w>
-                        <w>непобедимою.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ѡрѹжиемъ</w>
-                        <w>крт<hi rend="sup">с</hi>ы<lb/>мъ</w>
-                        <w>и</w>
-                        <w>вѣрою</w>
-                        <w>непобедимою·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ѡружьемь</w>
-                        <w>кр<hi rend="sup">с</hi>тьнымъ·</w>
-                        <w>ї</w>
-                        <w>вѣрою</w>
-                        <w>непобидимо<lb/>ю·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ѡроужїе<hi rend="sup">м</hi>
-                        </w>
-                        <w>кр<hi rend="sup">с</hi>тны<hi rend="sup">м</hi>.</w>
-                        <w>и</w>
-                        <w>вѣрою</w>
-                        <w>непобѣдимою</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>оружьемь</w>
-                        <w>крестнымь</w>
-                        <w>и</w>
-                        <w>вѣрою</w>
-                        <w>непобѣдимою,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>оружиемь</w>
-                        <w>крьстьнымь</w>
-                        <w>и</w>
-                        <w>вѣрою</w>
-                        <w>непобѣдимою</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>оружьемь</w>
-                        <w>крестнымь</w>
-                        <w>и</w>
-                        <w>вѣрою</w>
-                        <w>непобѣдимою,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>214, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="9"><p>
+<app>
+<lem wit="#lem">
+<w>оружиемь</w>
+<w>крьстьнымь</w>
+<w>и</w>
+<w>вѣрою</w>
+<w>непобѣдимою</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ѡружьемь</w>
+<w>крт<hi rend="sup">с</hi>нымь <lb/></w>
+
+<w>и</w>
+<w>вѣрою</w>
+<w>непобѣдимою·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ѡроу<hi rend="sup">ж</hi><lb/>емъ.</w>
+<w>крт<hi rend="sup">с</hi>нымъ.</w>
+<w>и</w>
+<w>вѣрою</w>
+<w>непобедимою.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ѡрѹжиемъ</w>
+<w>крт<hi rend="sup">с</hi>ы<lb/>мъ</w>
+<w>и</w>
+<w>вѣрою</w>
+<w>непобедимою·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ѡружьемь</w>
+<w>кр<hi rend="sup">с</hi>тьнымъ·</w>
+<w>ї</w>
+<w>вѣрою</w>
+<w>непобидимо<lb/>ю·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ѡроужїе<hi rend="sup">м</hi></w>
+<w>кр<hi rend="sup">с</hi>тны<hi rend="sup">м</hi>.</w>
+<w>и</w>
+<w>вѣрою</w>
+<w>непобѣдимою</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>оружьемь</w>
+<w>крестнымь</w>
+<w>и</w>
+<w>вѣрою</w>
+<w>непобѣдимою,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>оружиемь</w>
+<w>крьстьнымь</w>
+<w>и</w>
+<w>вѣрою</w>
+<w>непобѣдимою</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>оружьемь</w>
+<w>крестнымь</w>
+<w>и</w>
+<w>вѣрою</w>
+<w>непобѣдимою,</w>
+</rdg>
+</app></p></div></body></text></TEI>

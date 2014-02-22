@@ -1,108 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>264, 27</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="27">
-            <p>
-               <app>
-                  <lem>
-                     <w>и</w>
-                     <w>умириша</w>
-                     <w>ся</w>
-                     <w>на</w>
-                     <w>семь,</w>
-                     <w>яко</w>
-                     <w>рѣша</w>
-                     <w>Святопълку,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>и</w>
-                        <w>оумириша<hi rend="sup">с</hi>
-                        </w>
-                        <w>на</w>
-                        <w>семъ·</w>
-                        <w>яко</w>
-                        <w>рѣша</w>
-                        <w>ст҃ополкѹ·</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>оумиришасѧ</w>
-                        <w>на</w>
-                        <w>се<lb/>мь·</w>
-                        <w>яко</w>
-                        <w>рѣша</w>
-                        <w>ст҃ополкѹ·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>и</w>
-                        <w>
-                           <sic>у</sic>миришасѧ·</w>
-                        <w>на</w>
-                        <w>семь <lb/>
-                        </w>
-                        <w>яко</w>
-                        <w>рѣша</w>
-                        <w>ст҃ополку·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>и</w>
-                        <w>смириша<hi rend="sup">с</hi> 
-                           <lb/>
-                        </w>
-                        <w>на</w>
-                        <w>се<hi rend="sup">м</hi>.</w>
-                        <w>яко</w>
-                        <w>рѣша</w>
-                        <w>ст҃опол′коу.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>и</w>
-                        <w>умиришася</w>
-                        <w>на</w>
-                        <w>семъ,</w>
-                        <w>яко</w>
-                        <w>рѣша</w>
-                        <w>Святополку:</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>и</w>
-                        <w>умиришася</w>
-                        <w>на</w>
-                        <w>семь,</w>
-                        <w>яко</w>
-                        <w>рѣша</w>
-                        <w>Святопълку,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>и</w>
-                        <w>умиришася</w>
-                        <w>на</w>
-                        <w>семъ,</w>
-                        <w>яко</w>
-                        <w>рѣша</w>
-                        <w>Святополку,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>264, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="27"><p>
+<app>
+<lem wit="#lem">
+<w>и</w>
+<w>умириша</w>
+<w>ся</w>
+<w>на</w>
+<w>семь,</w>
+<w>яко</w>
+<w>рѣша</w>
+<w>Святопълку,</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>и</w>
+<w>оумириша<hi rend="sup">с</hi></w>
+<w>на</w>
+<w>семъ·</w>
+<w>яко</w>
+<w>рѣша</w>
+<w>ст҃ополкѹ·</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>оумиришасѧ</w>
+<w>на</w>
+<w>се<lb/>мь·</w>
+<w>яко</w>
+<w>рѣша</w>
+<w>ст҃ополкѹ·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>и</w>
+<w><milestone unit="sic" n="start"/>у<milestone unit="sic" n="end"/>миришасѧ·</w>
+<w>на</w>
+<w>семь <lb/></w>
+
+<w>яко</w>
+<w>рѣша</w>
+<w>ст҃ополку·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>и</w>
+<w>смириша<hi rend="sup">с</hi><lb/></w>
+<w>на</w>
+<w>се<hi rend="sup">м</hi>.</w>
+<w>яко</w>
+<w>рѣша</w>
+<w>ст҃опол′коу.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>и</w>
+<w>умиришася</w>
+<w>на</w>
+<w>семъ,</w>
+<w>яко</w>
+<w>рѣша</w>
+<w>Святополку:</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>и</w>
+<w>умиришася</w>
+<w>на</w>
+<w>семь,</w>
+<w>яко</w>
+<w>рѣша</w>
+<w>Святопълку,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>и</w>
+<w>умиришася</w>
+<w>на</w>
+<w>семъ,</w>
+<w>яко</w>
+<w>рѣша</w>
+<w>Святополку,</w>
+</rdg>
+</app></p></div></body></text></TEI>

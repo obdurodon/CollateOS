@@ -1,119 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>32, 1</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="1">
-            <p>
-               <app>
-                  <lem>
-                     <w>чемьже.</w>
-                     <w>Цьсарь</w>
-                     <w>же</w>
-                     <w>Леонъ</w>
-                     <w>съ</w>
-                     <w>Александръмь</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>че<hi rend="sup">м</hi>
-                        </w>
-                        <w>же.</w>
-                        <w>ц҃рь</w>
-                        <w>же</w>
-                        <w>леѡнъ</w>
-                        <w>со</w>
-                        <w>ѡлексан<hi rend="sup">д</hi>ромъ. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>чемъ</w>
-                        <w>же.</w>
-                        <w>ц҃рь</w>
-                        <w>же</w>
-                        <w>леѡнъ</w>
-                        <w>со</w>
-                        <w>ѡлександромъ.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>чемь</w>
-                        <w>же.</w>
-                        <w>цр<hi rend="sup">с</hi>ь</w>
-                        <w>же</w>
-                        <w>леѡнъ</w>
-                        <w>съ <lb/>
-                        </w>
-                        <w>ѡлександро<hi rend="sup">м</hi>.</w>
-                        <w>
-                           <pb n="12d"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>че<hi rend="sup">м</hi>
-                        </w>
-                        <w>же.</w>
-                        <w>ц҃рь</w>
-                        <w>же</w>
-                        <w>леѡ<hi rend="sup">н</hi> 
-                           <lb/>
-                        </w>
-                        <w>съ</w>
-                        <w>алеѯандрѡ<hi rend="sup">м</hi>.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>чемъ</w>
-                        <w>же.</w>
-                        <w>Царь</w>
-                        <w>же</w>
-                        <w>Леонъ</w>
-                        <w>со</w>
-                        <w>Олександромъ</w>
-                        <w>
-                           <pb n="31,10"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>чемьже.</w>
-                        <w>Цѣсарь</w>
-                        <w>же</w>
-                        <w>Леонъ</w>
-                        <w>съ</w>
-                        <w>Александръмь</w>
-                        <w>
-                           <pb n="32,7"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>чем</w>
-                        <w>же”.</w>
-                        <w>Царь</w>
-                        <w>же</w>
-                        <w>Леонъ</w>
-                        <w>со</w>
-                        <w>Олександромъ</w>
-                        <w>
-                           <pb n="25,10"/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>32, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="1"><p>
+<app>
+<lem wit="#lem">
+<w>чемьже.</w>
+<w>Цьсарь</w>
+<w>же</w>
+<w>Леонъ</w>
+<w>съ</w>
+<w>Александръмь</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>че<hi rend="sup">м</hi></w>
+<w>же.</w>
+<w>ц҃рь</w>
+<w>же</w>
+<w>леѡнъ</w>
+<w>со</w>
+<w>ѡлексан<hi rend="sup">д</hi>ромъ. <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>чемъ</w>
+<w>же.</w>
+<w>ц҃рь</w>
+<w>же</w>
+<w>леѡнъ</w>
+<w>со</w>
+<w>ѡлександромъ.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>чемь</w>
+<w>же.</w>
+<w>цр<hi rend="sup">с</hi>ь</w>
+<w>же</w>
+<w>леѡнъ</w>
+<w>съ <lb/></w>
+
+<w>ѡлександро<hi rend="sup">м</hi>. <pb n="12d"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>че<hi rend="sup">м</hi></w>
+<w>же.</w>
+<w>ц҃рь</w>
+<w>же</w>
+<w>леѡ<hi rend="sup">н</hi><lb/></w>
+<w>съ</w>
+<w>алеѯандрѡ<hi rend="sup">м</hi>.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>чемъ</w>
+<w>же.</w>
+<w>Царь</w>
+<w>же</w>
+<w>Леонъ</w>
+<w>со</w>
+<w>Олександромъ <pb n="31,10"/></w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>чемьже.</w>
+<w>Цѣсарь</w>
+<w>же</w>
+<w>Леонъ</w>
+<w>съ</w>
+<w>Александръмь <pb n="32,7"/></w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>чем</w>
+<w>же”.</w>
+<w>Царь</w>
+<w>же</w>
+<w>Леонъ</w>
+<w>со</w>
+<w>Олександромъ <pb n="25,10"/></w>
+
+</rdg>
+</app></p></div></body></text></TEI>

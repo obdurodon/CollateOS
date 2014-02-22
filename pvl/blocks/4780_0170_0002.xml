@@ -1,130 +1,107 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>170, 2</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="2">
-            <p>
-               <app>
-                  <lem>
-                     <w>вься</w>
-                     <w>прегрѣшения,</w>
-                     <w>не</w>
-                     <w>словъмь</w>
-                     <w>нарицяюще</w>
-                     <w>ся</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>всѧ</w>
-                        <w>прегрѣшенья.</w>
-                        <w>не</w>
-                        <w>словомь</w>
-                        <w>на<lb/>рицѧющесѧ</w>
-                        <w>
-                           <pb n="57c"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>всѧ</w>
-                        <w>прегрешения</w>
-                        <w>наша.</w>
-                        <w>не</w>
-                        <w>слово<hi rend="sup">м</hi>
-                        </w>
-                        <w>нарицающе<hi rend="sup">с</hi> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>всѧ</w>
-                        <w>пригрешенїѧ</w>
-                        <w>наша.</w>
-                        <w>не</w>
-                        <w>словомъ</w>
-                        <w>нарицающесѧ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>с<hi rend="sup">в</hi>ѧ. <lb/>
-                        </w>
-                        <w>прегрѣшения.</w>
-                        <w>н<sic>о</sic>
-                        </w>
-                        <w>словомъ</w>
-                        <w>на<lb/>рѣчающесѧ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>всѧ</w>
-                        <w>прегрѣшенїа</w>
-                        <w>наша.</w>
-                        <w>не <lb/>
-                        </w>
-                        <w>слѡво<hi rend="sup">м</hi>
-                        </w>
-                        <w>нарицающесѧ</w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>вся</w>
-                        <w>прегрѣшениа</w>
-                        <w>не</w>
-                        <w>словомъ</w>
-                        <w>нарѣчающеся</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>вся</w>
-                        <w>прегрѣшениа</w>
-                        <w>не</w>
-                        <w>словомъ</w>
-                        <w>нарицающеся</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>вся</w>
-                        <w>прегрѣшениа</w>
-                        <w>не</w>
-                        <w>словомъ</w>
-                        <w>нарицающеся</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>вся</w>
-                        <w>прегрѣшенья</w>
-                        <w>наша,</w>
-                        <w>не</w>
-                        <w>словомь</w>
-                        <w>нарицяющеся</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>вься</w>
-                        <w>прегрѣшения,</w>
-                        <w>не</w>
-                        <w>словъмь</w>
-                        <w>нарицяющеся</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>вся</w>
-                        <w>прегрѣшенья</w>
-                        <w>наша,</w>
-                        <w>не</w>
-                        <w>словомь</w>
-                        <w>нарицяющеся</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>170, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="2"><p>
+<app>
+<lem wit="#lem">
+<w>вься</w>
+<w>прегрѣшения,</w>
+<w>не</w>
+<w>словъмь</w>
+<w>нарицяюще</w>
+<w>ся</w>
+</lem>
+
+<rdg wit="#lav">
+<w>всѧ</w>
+<w>прегрѣшенья.</w>
+<w>не</w>
+<w>словомь</w>
+<w>на<lb/>рицѧющесѧ <pb n="57c"/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>всѧ</w>
+<w>прегрешения</w>
+<w>наша.</w>
+<w>не</w>
+<w>слово<hi rend="sup">м</hi></w>
+<w>нарицающе<hi rend="sup">с</hi><lb/></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>всѧ</w>
+<w>пригрешенїѧ</w>
+<w>наша.</w>
+<w>не</w>
+<w>словомъ</w>
+<w>нарицающесѧ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>с<hi rend="sup">в</hi>ѧ. <lb/></w>
+
+<w>прегрѣшения.</w>
+<w>н<milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/></w>
+<w>словомъ</w>
+<w>на<lb/>рѣчающесѧ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>всѧ</w>
+<w>прегрѣшенїа</w>
+<w>наша.</w>
+<w>не <lb/></w>
+
+<w>слѡво<hi rend="sup">м</hi></w>
+<w>нарицающесѧ</w>
+</rdg>
+
+<rdg wit="#kom">
+<w>вся</w>
+<w>прегрѣшениа</w>
+<w>не</w>
+<w>словомъ</w>
+<w>нарѣчающеся</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>вся</w>
+<w>прегрѣшениа</w>
+<w>не</w>
+<w>словомъ</w>
+<w>нарицающеся</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>вся</w>
+<w>прегрѣшениа</w>
+<w>не</w>
+<w>словомъ</w>
+<w>нарицающеся</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>вся</w>
+<w>прегрѣшенья</w>
+<w>наша,</w>
+<w>не</w>
+<w>словомь</w>
+<w>нарицяющеся</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>вься</w>
+<w>прегрѣшения,</w>
+<w>не</w>
+<w>словъмь</w>
+<w>нарицяющеся</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>вся</w>
+<w>прегрѣшенья</w>
+<w>наша,</w>
+<w>не</w>
+<w>словомь</w>
+<w>нарицяющеся</w>
+</rdg>
+</app></p></div></body></text></TEI>

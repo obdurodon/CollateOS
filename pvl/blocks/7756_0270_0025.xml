@@ -1,95 +1,78 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>270, 25</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="25">
-            <p>
-               <app>
-                  <lem>
-                     <w>Кыеву.</w>
-                     <w>Ярославъ</w>
-                     <w>же,</w>
-                     <w>сынъ</w>
-                     <w>Святопълчь,</w>
-                     <w>приде</w>
-                     <w>съ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>кыеву·</w>
-                        <w>яросла<lb/>в</w>
-                        <w>же</w>
-                        <w>сн҃ъ</w>
-                        <w>ст҃ополчь</w>
-                        <w>приде</w>
-                        <w>съ</w>
-                     </rdg>
-                     <rdg wit="#rad"/>
-                     <rdg wit="#aka"/>
-                     <rdg wit="#ipa">
-                        <w>кыеву·</w>
-                        <w>яросла<lb/>въ</w>
-                        <w>сн҃ъ</w>
-                        <w>ст҃ополчь·</w>
-                        <w>прииде</w>
-                        <w>съ <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>кїевоу.</w>
-                        <w>и</w>
-                        <w>ярославь</w>
-                        <w>с҃нъ</w>
-                        <w>ст҃опол′чь.</w>
-                        <w>прїиде</w>
-                        <w>съ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Кыеву.</w>
-                        <w>Ярославъ</w>
-                        <w>же,</w>
-                        <w>сынь</w>
-                        <w>Святополчь,</w>
-                        <w>приде</w>
-                        <w>съ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Кыеву.</w>
-                        <w>Ярославъ</w>
-                        <w>же,</w>
-                        <w>сынъ</w>
-                        <w>Святопълчь,</w>
-                        <w>приде</w>
-                        <w>съ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Кыеву.</w>
-                        <w>Ярослав</w>
-                        <w>же,</w>
-                        <w>сынь</w>
-                        <w>Святополчь,</w>
-                        <w>приде</w>
-                        <w>съ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="25"><p>
+<app>
+<lem wit="#lem">
+<w>Кыеву.</w>
+<w>Ярославъ</w>
+<w>же,</w>
+<w>сынъ</w>
+<w>Святопълчь,</w>
+<w>приде</w>
+<w>съ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>кыеву·</w>
+<w>яросла<lb/>в</w>
+<w>же</w>
+<w>сн҃ъ</w>
+<w>ст҃ополчь</w>
+<w>приде</w>
+<w>съ</w>
+</rdg>
+
+<rdg wit="#rad">
+</rdg>
+
+<rdg wit="#aka">
+</rdg>
+
+<rdg wit="#ipa">
+<w>кыеву·</w>
+<w>яросла<lb/>въ</w>
+<w>сн҃ъ</w>
+<w>ст҃ополчь·</w>
+<w>прииде</w>
+<w>съ <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>кїевоу.</w>
+<w>и</w>
+<w>ярославь</w>
+<w>с҃нъ</w>
+<w>ст҃опол′чь.</w>
+<w>прїиде</w>
+<w>съ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Кыеву.</w>
+<w>Ярославъ</w>
+<w>же,</w>
+<w>сынь</w>
+<w>Святополчь,</w>
+<w>приде</w>
+<w>съ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Кыеву.</w>
+<w>Ярославъ</w>
+<w>же,</w>
+<w>сынъ</w>
+<w>Святопълчь,</w>
+<w>приде</w>
+<w>съ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Кыеву.</w>
+<w>Ярослав</w>
+<w>же,</w>
+<w>сынь</w>
+<w>Святополчь,</w>
+<w>приде</w>
+<w>съ</w>
+</rdg>
+</app></p></div></body></text></TEI>

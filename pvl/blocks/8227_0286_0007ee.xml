@@ -1,65 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>286, 7ee</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="7ee">
-            <p>
-               <app>
-                  <lem/>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#ipa">
-                        <w>и</w>
-                        <w>показаша <lb/>
-                        </w>
-                        <w>ему</w>
-                        <w>
-                           <sic>книги</sic>
-                        </w>
-                        <w>книги</w>
-                        <w>данила</w>
-                        <w>прр҃ка <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>рекоша</w>
-                        <w>ему</w>
-                        <w>ты</w>
-                        <w>еси</w>
-                        <w>козелъ· <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>и</w>
-                        <w>показаша</w>
-                        <w>емоу</w>
-                        <w>книги</w>
-                        <w>данїила</w>
-                        <w>прр<hi rend="sup">о</hi>ка <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>рекоша</w>
-                        <w>емоу</w>
-                        <w>ты·̏</w>
-                        <w>еси</w>
-                        <w>козелъ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions"/>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>286, 7ee</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="7ee"><p>
+<app>
+<lem wit="#lem">
+</lem>
+
+<rdg wit="#ipa">
+<w>и</w>
+<w>показаша <lb/></w>
+
+<w>ему</w>
+<w><milestone unit="sic" n="start"/>книги<milestone unit="sic" n="end"/></w>
+<w>книги</w>
+<w>данила</w>
+<w>прр҃ка <lb/></w>
+
+<w>и</w>
+<w>рекоша</w>
+<w>ему</w>
+<w>ты</w>
+<w>еси</w>
+<w>козелъ· <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>и</w>
+<w>показаша</w>
+<w>емоу</w>
+<w>книги</w>
+<w>данїила</w>
+<w>прр<hi rend="sup">о</hi>ка <lb/></w>
+
+<w>и</w>
+<w>рекоша</w>
+<w>емоу</w>
+<w>ты·̏</w>
+<w>еси</w>
+<w>козелъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,127 +1,106 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>263, 4</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="4">
-            <p>
-               <app>
-                  <lem>
-                     <w>нынѣ</w>
-                     <w>яви</w>
-                     <w>вину</w>
-                     <w>его,</w>
-                     <w>оже</w>
-                     <w>ему</w>
-                     <w>се</w>
-                     <w>сътворилъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>нонѣ</w>
-                        <w>яви <lb/>
-                        </w>
-                        <w>вину</w>
-                        <w>ѥго·</w>
-                        <w>ѡже</w>
-                        <w>ему</w>
-                        <w>се</w>
-                        <w>створилъ <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>нн҃ѣ</w>
-                        <w>я<lb/>ви</w>
-                        <w>вин<sic>ѹ</sic>
-                        </w>
-                        <w>его·</w>
-                        <w>ѡже</w>
-                        <w>еси</w>
-                        <w>емѹ</w>
-                        <w>се</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>нн҃ѣ</w>
-                        <w>яви</w>
-                        <w>винѹ</w>
-                        <w>его·</w>
-                        <w>ѡже</w>
-                        <w>еси</w>
-                        <w>емѹ</w>
-                        <w>се·̏</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ныне</w>
-                        <w>кая</w>
-                        <w>вина</w>
-                        <w>до</w>
-                        <w>него· <lb/>
-                        </w>
-                        <w>ѡже</w>
-                        <w>ему</w>
-                        <w>се</w>
-                        <w>створилъ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>на<hi rend="sup">м</hi>
-                        </w>
-                        <w>нѣкаа</w>
-                        <w>вина</w>
-                        <w>до</w>
-                        <w>него.</w>
-                        <w>иже</w>
-                        <w>емоу</w>
-                        <w>се</w>
-                        <w>сътво<lb/>риль</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>нынѣ</w>
-                        <w>яви</w>
-                        <w>вину</w>
-                        <w>его,</w>
-                        <w>оже</w>
-                        <w>ему</w>
-                        <w>се</w>
-                        <w>створилъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>нынѣ</w>
-                        <w>яви</w>
-                        <w>вину</w>
-                        <w>его,</w>
-                        <w>оже</w>
-                        <w>ему</w>
-                        <w>се</w>
-                        <w>сътворилъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>нонѣ</w>
-                        <w>яви</w>
-                        <w>вину</w>
-                        <w>его,</w>
-                        <w>оже</w>
-                        <w>ему</w>
-                        <w>се</w>
-                        <w>створилъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>263, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="4"><p>
+<app>
+<lem wit="#lem">
+<w>нынѣ</w>
+<w>яви</w>
+<w>вину</w>
+<w>его,</w>
+<w>оже</w>
+<w>ему</w>
+<w>се</w>
+<w>сътворилъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>нонѣ</w>
+<w>яви <lb/></w>
+
+<w>вину</w>
+<w>ѥго·</w>
+<w>ѡже</w>
+<w>ему</w>
+<w>се</w>
+<w>створилъ <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>нн҃ѣ</w>
+<w>я<lb/>ви</w>
+<w>вин<milestone unit="sic" n="start"/>ѹ<milestone unit="sic" n="end"/></w>
+<w>его·</w>
+<w>ѡже</w>
+<w>еси</w>
+<w>емѹ</w>
+<w>се</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>нн҃ѣ</w>
+<w>яви</w>
+<w>винѹ</w>
+<w>его·</w>
+<w>ѡже</w>
+<w>еси</w>
+<w>емѹ</w>
+<w>се·̏</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ныне</w>
+<w>кая</w>
+<w>вина</w>
+<w>до</w>
+<w>него· <lb/></w>
+
+<w>ѡже</w>
+<w>ему</w>
+<w>се</w>
+<w>створилъ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>на<hi rend="sup">м</hi></w>
+<w>нѣкаа</w>
+<w>вина</w>
+<w>до</w>
+<w>него.</w>
+<w>иже</w>
+<w>емоу</w>
+<w>се</w>
+<w>сътво<lb/>риль</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>нынѣ</w>
+<w>яви</w>
+<w>вину</w>
+<w>его,</w>
+<w>оже</w>
+<w>ему</w>
+<w>се</w>
+<w>створилъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>нынѣ</w>
+<w>яви</w>
+<w>вину</w>
+<w>его,</w>
+<w>оже</w>
+<w>ему</w>
+<w>се</w>
+<w>сътворилъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>нонѣ</w>
+<w>яви</w>
+<w>вину</w>
+<w>его,</w>
+<w>оже</w>
+<w>ему</w>
+<w>се</w>
+<w>створилъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

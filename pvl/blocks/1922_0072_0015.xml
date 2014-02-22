@@ -1,119 +1,97 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>72, 15</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="15">
-            <p>
-               <app>
-                  <lem>
-                     <w>письцю</w>
-                     <w>писати</w>
-                     <w>на</w>
-                     <w>харатью</w>
-                     <w>вься</w>
-                     <w>рѣчи</w>
-                     <w>Святославля.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>писцю</w>
-                        <w>писати</w>
-                        <w>всѧ</w>
-                        <w>рѣчи</w>
-                        <w>с҃тославлѣ</w>
-                        <w>на</w>
-                        <w>харатью.</w>
-                        <w>
-                           <pb n="22v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>писцю</w>
-                        <w>писа<lb/>ти</w>
-                        <w>всѧ</w>
-                        <w>рѣ<hi rend="sup">ч</hi>
-                        </w>
-                        <w>с҃тославлѧ</w>
-                        <w>на</w>
-                        <w>хоратьи.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>писцю</w>
-                        <w>писати</w>
-                        <w>всѧ</w>
-                        <w>рѣчи <lb/>
-                        </w>
-                        <w>с҃тославлѧ.</w>
-                        <w>на</w>
-                        <w>хоратїю.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>пись<lb/>цю</w>
-                        <w>писати</w>
-                        <w>на</w>
-                        <w>харотью.</w>
-                        <w>вь<lb/>сѧ</w>
-                        <w>рѣ<sic>ц</sic>и</w>
-                        <w>с҃тославли.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>писцю</w>
-                        <w>писати</w>
-                        <w>на</w>
-                        <w>хартїю,</w>
-                        <w>всѧ</w>
-                        <w>рѣчи</w>
-                        <w>с҃то<lb/>славли.</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>писцю</w>
-                        <w>писати</w>
-                        <w>вся</w>
-                        <w>рѣчи</w>
-                        <w>Святославля</w>
-                        <w>на</w>
-                        <w>харатью;</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>письцю</w>
-                        <w>писати</w>
-                        <w>вься</w>
-                        <w>рѣчи</w>
-                        <w>Святославлѣ</w>
-                        <w>на</w>
-                        <w>харатию.</w>
-                        <w>И</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>писцю</w>
-                        <w>писати</w>
-                        <w>вся</w>
-                        <w>рѣчи</w>
-                        <w>Святославля</w>
-                        <w>на</w>
-                        <w>харатью.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>72, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="15"><p>
+<app>
+<lem wit="#lem">
+<w>письцю</w>
+<w>писати</w>
+<w>на</w>
+<w>харатью</w>
+<w>вься</w>
+<w>рѣчи</w>
+<w>Святославля.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>писцю</w>
+<w>писати</w>
+<w>всѧ</w>
+<w>рѣчи</w>
+<w>с҃тославлѣ</w>
+<w>на</w>
+<w>харатью. <pb n="22v"/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>писцю</w>
+<w>писа<lb/>ти</w>
+<w>всѧ</w>
+<w>рѣ<hi rend="sup">ч</hi></w>
+<w>с҃тославлѧ</w>
+<w>на</w>
+<w>хоратьи.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>писцю</w>
+<w>писати</w>
+<w>всѧ</w>
+<w>рѣчи <lb/></w>
+
+<w>с҃тославлѧ.</w>
+<w>на</w>
+<w>хоратїю.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>пись<lb/>цю</w>
+<w>писати</w>
+<w>на</w>
+<w>харотью.</w>
+<w>вь<lb/>сѧ</w>
+<w>рѣ<milestone unit="sic" n="start"/>ц<milestone unit="sic" n="end"/>и</w>
+<w>с҃тославли.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>писцю</w>
+<w>писати</w>
+<w>на</w>
+<w>хартїю,</w>
+<w>всѧ</w>
+<w>рѣчи</w>
+<w>с҃то<lb/>славли.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>писцю</w>
+<w>писати</w>
+<w>вся</w>
+<w>рѣчи</w>
+<w>Святославля</w>
+<w>на</w>
+<w>харатью;</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>письцю</w>
+<w>писати</w>
+<w>вься</w>
+<w>рѣчи</w>
+<w>Святославлѣ</w>
+<w>на</w>
+<w>харатию.</w>
+<w>И</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>писцю</w>
+<w>писати</w>
+<w>вся</w>
+<w>рѣчи</w>
+<w>Святославля</w>
+<w>на</w>
+<w>харатью.</w>
+</rdg>
+</app></p></div></body></text></TEI>

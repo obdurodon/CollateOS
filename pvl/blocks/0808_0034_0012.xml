@@ -1,103 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>34, 12</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="12">
-            <p>
-               <app>
-                  <lem>
-                     <w>Аще</w>
-                     <w>къто</w>
-                     <w>убьеть</w>
-                     <w>хрьстияна</w>
-                     <w>Русинъ</w>
-                     <w>или</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>аще</w>
-                        <w>кто</w>
-                        <w>оубье<hi rend="sup">т</hi>
-                        </w>
-                        <w>или</w>
-                        <w>хрестьанина</w>
-                        <w>рѹси<hi rend="sup">н</hi>.</w>
-                        <w>или</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>аще</w>
-                        <w>кто</w>
-                        <w>оубьеть</w>
-                        <w>или</w>
-                        <w>хрт<hi rend="sup">с</hi>иянїна <lb/>
-                        </w>
-                        <w>рѹсинъ.</w>
-                        <w>или</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>аще</w>
-                        <w>кто</w>
-                        <w>оубие<lb/>ть</w>
-                        <w>кр<hi rend="sup">с</hi>тьяна</w>
-                        <w>русинъ.</w>
-                        <w>и<lb/>ли</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>аще</w>
-                        <w>кто</w>
-                        <w>оубїеть</w>
-                        <w>хр<hi rend="sup">с</hi>тїа<lb/>на</w>
-                        <w>роусинь.</w>
-                        <w>или</w>
-                        <w>кто</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Аще</w>
-                        <w>кто</w>
-                        <w>убьеть</w>
-                        <w>или</w>
-                        <w>хрестьанина</w>
-                        <w>Русинъ,</w>
-                        <w>или</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>аще</w>
-                        <w>къто</w>
-                        <w>убиеть</w>
-                        <w>или</w>
-                        <w>хрьстияна</w>
-                        <w>Русинъ</w>
-                        <w>или</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>аще</w>
-                        <w>кто</w>
-                        <w>убьеть</w>
-                        <w>или</w>
-                        <w>хрестьанина</w>
-                        <w>русин,</w>
-                        <w>или</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>34, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="12"><p>
+<app>
+<lem wit="#lem">
+<w>Аще</w>
+<w>къто</w>
+<w>убьеть</w>
+<w>хрьстияна</w>
+<w>Русинъ</w>
+<w>или</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>аще</w>
+<w>кто</w>
+<w>оубье<hi rend="sup">т</hi></w>
+<w>или</w>
+<w>хрестьанина</w>
+<w>рѹси<hi rend="sup">н</hi>.</w>
+<w>или</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>аще</w>
+<w>кто</w>
+<w>оубьеть</w>
+<w>или</w>
+<w>хрт<hi rend="sup">с</hi>иянїна <lb/></w>
+
+<w>рѹсинъ.</w>
+<w>или</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>аще</w>
+<w>кто</w>
+<w>оубие<lb/>ть</w>
+<w>кр<hi rend="sup">с</hi>тьяна</w>
+<w>русинъ.</w>
+<w>и<lb/>ли</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>аще</w>
+<w>кто</w>
+<w>оубїеть</w>
+<w>хр<hi rend="sup">с</hi>тїа<lb/>на</w>
+<w>роусинь.</w>
+<w>или</w>
+<w>кто</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Аще</w>
+<w>кто</w>
+<w>убьеть</w>
+<w>или</w>
+<w>хрестьанина</w>
+<w>Русинъ,</w>
+<w>или</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>аще</w>
+<w>къто</w>
+<w>убиеть</w>
+<w>или</w>
+<w>хрьстияна</w>
+<w>Русинъ</w>
+<w>или</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>аще</w>
+<w>кто</w>
+<w>убьеть</w>
+<w>или</w>
+<w>хрестьанина</w>
+<w>русин,</w>
+<w>или</w>
+</rdg>
+</app></p></div></body></text></TEI>

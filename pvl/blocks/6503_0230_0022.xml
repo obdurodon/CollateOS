@@ -1,129 +1,104 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>230, 22</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="22">
-            <p>
-               <app>
-                  <lem>
-                     <w>въдаста</w>
-                     <w>ему</w>
-                     <w>миръ,</w>
-                     <w>рекуща</w>
-                     <w>сице:</w>
-                     <w>“Иди</w>
-                     <w>къ</w>
-                     <w>брату</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>вдаста</w>
-                        <w>ѥму</w>
-                        <w>миръ</w>
-                        <w>рекъ<lb/>ше</w>
-                        <w>сице·</w>
-                        <w>иди</w>
-                        <w>к</w>
-                        <w>брату</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>даш<sic>ѣ</sic>
-                        </w>
-                        <w>емѹ</w>
-                        <w>миръ</w>
-                        <w>рекѹщи</w>
-                        <w>сицѣ</w>
-                        <w>иди</w>
-                        <w>ко</w>
-                        <w>братѹ</w>
-                        <w>
-                           <pb n="133r"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>даша</w>
-                        <w>емѹ</w>
-                        <w>миръ·</w>
-                        <w>рекѹще</w>
-                        <w>сице·</w>
-                        <w>иди</w>
-                        <w>ко</w>
-                        <w>братѹ</w>
-                        <w>
-                           <pb n="122r"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>вда<lb/>ста</w>
-                        <w>ему</w>
-                        <w>миръ</w>
-                        <w>рекуще</w>
-                        <w>си<lb/>це·</w>
-                        <w>иди</w>
-                        <w>къ</w>
-                        <w>брату</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>вдаста</w>
-                        <w>емоу</w>
-                        <w>миръ</w>
-                        <w>рекоуще</w>
-                        <w>сице, <lb/>
-                        </w>
-                        <w>иди</w>
-                        <w>къ</w>
-                        <w>брау<hi rend="sup">т</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>вдаста</w>
-                        <w>ему</w>
-                        <w>миръ,</w>
-                        <w>рекуща</w>
-                        <w>сице:</w>
-                        <w>“иди</w>
-                        <w>к</w>
-                        <w>брату</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>въдаста</w>
-                        <w>ему</w>
-                        <w>миръ,</w>
-                        <w>рекъша</w>
-                        <w>сице:</w>
-                        <w>“иди</w>
-                        <w>къ</w>
-                        <w>брату</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>вдаста</w>
-                        <w>ему</w>
-                        <w>миръ,</w>
-                        <w>рекуща</w>
-                        <w>сице:</w>
-                        <w>“Иди</w>
-                        <w>к</w>
-                        <w>брату</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>230, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="22"><p>
+<app>
+<lem wit="#lem">
+<w>въдаста</w>
+<w>ему</w>
+<w>миръ,</w>
+<w>рекуща</w>
+<w>сице:</w>
+<w>“Иди</w>
+<w>къ</w>
+<w>брату</w>
+</lem>
+
+<rdg wit="#lav">
+<w>вдаста</w>
+<w>ѥму</w>
+<w>миръ</w>
+<w>рекъ<lb/>ше</w>
+<w>сице·</w>
+<w>иди</w>
+<w>к</w>
+<w>брату</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>даш<milestone unit="sic" n="start"/>ѣ<milestone unit="sic" n="end"/></w>
+<w>емѹ</w>
+<w>миръ</w>
+<w>рекѹщи</w>
+<w>сицѣ</w>
+<w>иди</w>
+<w>ко</w>
+<w>братѹ <pb n="133r"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>даша</w>
+<w>емѹ</w>
+<w>миръ·</w>
+<w>рекѹще</w>
+<w>сице·</w>
+<w>иди</w>
+<w>ко</w>
+<w>братѹ <pb n="122r"/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>вда<lb/>ста</w>
+<w>ему</w>
+<w>миръ</w>
+<w>рекуще</w>
+<w>си<lb/>це·</w>
+<w>иди</w>
+<w>къ</w>
+<w>брату</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>вдаста</w>
+<w>емоу</w>
+<w>миръ</w>
+<w>рекоуще</w>
+<w>сице, <lb/></w>
+
+<w>иди</w>
+<w>къ</w>
+<w>брау<hi rend="sup">т</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>вдаста</w>
+<w>ему</w>
+<w>миръ,</w>
+<w>рекуща</w>
+<w>сице:</w>
+<w>“иди</w>
+<w>к</w>
+<w>брату</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>въдаста</w>
+<w>ему</w>
+<w>миръ,</w>
+<w>рекъша</w>
+<w>сице:</w>
+<w>“иди</w>
+<w>къ</w>
+<w>брату</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>вдаста</w>
+<w>ему</w>
+<w>миръ,</w>
+<w>рекуща</w>
+<w>сице:</w>
+<w>“Иди</w>
+<w>к</w>
+<w>брату</w>
+</rdg>
+</app></p></div></body></text></TEI>

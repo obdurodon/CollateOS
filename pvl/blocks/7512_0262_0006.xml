@@ -1,118 +1,95 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>262, 6</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="6">
-            <p>
-               <app>
-                  <lem>
-                     <w>Володимиръ</w>
-                     <w>же</w>
-                     <w>слышавъ,</w>
-                     <w>яко</w>
-                     <w>ятъ</w>
-                     <w>есть</w>
-                     <w>Василько</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>Володимеръ</w>
-                        <w>же</w>
-                        <w>слышавъ</w>
-                        <w>яко <lb/>
-                        </w>
-                        <w>ятъ</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>василко</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>олодим<sic>и</sic>ръ<hi rend="sup">ж</hi>
-                        </w>
-                        <w>слышавъ·</w>
-                        <w>яко</w>
-                        <w>ѡслепленъ</w>
-                        <w>бы<hi rend="sup">с</hi>·</w>
-                        <w>василь<hi rend="sup">к</hi>.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>Володимиръ</w>
-                        <w>же</w>
-                        <w>слы·̏<lb/>шавъ</w>
-                        <w>яко</w>
-                        <w>ѡслепленъ</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>василко·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>вълодимеръ</w>
-                        <w>же <lb/>
-                        </w>
-                        <w>слышавъ</w>
-                        <w>яко</w>
-                        <w>ятъ</w>
-                        <w>есть <lb/>
-                        </w>
-                        <w>василко</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>Въл<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>мер′</w>
-                        <w>же</w>
-                        <w>слышавь</w>
-                        <w>яко</w>
-                        <w>ять</w>
-                        <w>е<hi rend="sup">с</hi>
-                        </w>
-                        <w>васил′ко <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Володимеръ</w>
-                        <w>же</w>
-                        <w>слышавъ,</w>
-                        <w>яко</w>
-                        <w>ятъ</w>
-                        <w>бысть</w>
-                        <w>Василко</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Володимеръ</w>
-                        <w>же,</w>
-                        <w>слышавъ,</w>
-                        <w>яко</w>
-                        <w>ятъ</w>
-                        <w>бысть</w>
-                        <w>Василько</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Володимеръ</w>
-                        <w>же</w>
-                        <w>слышавъ,</w>
-                        <w>яко</w>
-                        <w>ятъ</w>
-                        <w>бысть</w>
-                        <w>Василко</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>262, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="6"><p>
+<app>
+<lem wit="#lem">
+<w>Володимиръ</w>
+<w>же</w>
+<w>слышавъ,</w>
+<w>яко</w>
+<w>ятъ</w>
+<w>есть</w>
+<w>Василько</w>
+</lem>
+
+<rdg wit="#lav">
+<w>Володимеръ</w>
+<w>же</w>
+<w>слышавъ</w>
+<w>яко <lb/></w>
+
+<w>ятъ</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>василко</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>олодим<milestone unit="sic" n="start"/>и<milestone unit="sic" n="end"/>ръ<hi rend="sup">ж</hi></w>
+<w>слышавъ·</w>
+<w>яко</w>
+<w>ѡслепленъ</w>
+<w>бы<hi rend="sup">с</hi>·</w>
+<w>василь<hi rend="sup">к</hi>.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>Володимиръ</w>
+<w>же</w>
+<w>слы·̏<lb/>шавъ</w>
+<w>яко</w>
+<w>ѡслепленъ</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>василко·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>вълодимеръ</w>
+<w>же <lb/></w>
+
+<w>слышавъ</w>
+<w>яко</w>
+<w>ятъ</w>
+<w>есть <lb/></w>
+
+<w>василко</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>Въл<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>мер′</w>
+<w>же</w>
+<w>слышавь</w>
+<w>яко</w>
+<w>ять</w>
+<w>е<hi rend="sup">с</hi></w>
+<w>васил′ко <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>Володимеръ</w>
+<w>же</w>
+<w>слышавъ,</w>
+<w>яко</w>
+<w>ятъ</w>
+<w>бысть</w>
+<w>Василко</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Володимеръ</w>
+<w>же,</w>
+<w>слышавъ,</w>
+<w>яко</w>
+<w>ятъ</w>
+<w>бысть</w>
+<w>Василько</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Володимеръ</w>
+<w>же</w>
+<w>слышавъ,</w>
+<w>яко</w>
+<w>ятъ</w>
+<w>бысть</w>
+<w>Василко</w>
+</rdg>
+</app></p></div></body></text></TEI>

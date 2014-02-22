@@ -1,94 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>47, 9</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="9">
-            <p>
-               <app>
-                  <lem>
-                     <w>Алданъ,</w>
-                     <w>Тилии,</w>
-                     <w>Апубкарь,</w>
-                     <w>Свѣнь,</w>
-                     <w>Вузелѣвъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>алданъ.</w>
-                        <w>тилена.</w>
-                        <w>пубьксарь.</w>
-                        <w>вузлѣ<lb/>въ.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>алданъ.</w>
-                        <w>тилеи</w>
-                        <w>апоубкаръ.</w>
-                        <w>свѣнь.</w>
-                        <w>воузе<lb/>лѣвъ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>алданъ.</w>
-                        <w>тилеи.</w>
-                        <w>апѹбкаръ.</w>
-                        <w>свѣнь. <lb/>
-                        </w>
-                        <w>кѹзелѣвь.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>алдан<hi rend="sup">ъ</hi>. <lb/>
-                        </w>
-                        <w>тилии.</w>
-                        <w>апубкарь.</w>
-                        <w>свѣнь. <lb/>
-                        </w>
-                        <w>вузелѣвъ.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>алда<hi rend="sup">н</hi>.</w>
-                        <w>тиреи. <lb/>
-                        </w>
-                        <w>апоубкарь.</w>
-                        <w>свень.</w>
-                        <w>воузелевь.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Алданъ,</w>
-                        <w>Тиленъ,</w>
-                        <w>Апубьксарь,</w>
-                        <w>Вузлѣвъ,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Алданъ,</w>
-                        <w>Тилии,</w>
-                        <w>Апубькарь,</w>
-                        <w>Свѣнь,</w>
-                        <w>Вузьлѣвъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Алданъ,</w>
-                        <w>Тилен,</w>
-                        <w>Апубьксарь,</w>
-                        <w>Вузлѣвъ,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>47, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="9"><p>
+<app>
+<lem wit="#lem">
+<w>Алданъ,</w>
+<w>Тилии,</w>
+<w>Апубкарь,</w>
+<w>Свѣнь,</w>
+<w>Вузелѣвъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>алданъ.</w>
+<w>тилена.</w>
+<w>пубьксарь.</w>
+<w>вузлѣ<lb/>въ.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>алданъ.</w>
+<w>тилеи</w>
+<w>апоубкаръ.</w>
+<w>свѣнь.</w>
+<w>воузе<lb/>лѣвъ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>алданъ.</w>
+<w>тилеи.</w>
+<w>апѹбкаръ.</w>
+<w>свѣнь. <lb/></w>
+
+<w>кѹзелѣвь.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>алдан<hi rend="sup">ъ</hi>. <lb/></w>
+
+<w>тилии.</w>
+<w>апубкарь.</w>
+<w>свѣнь. <lb/></w>
+
+<w>вузелѣвъ.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>алда<hi rend="sup">н</hi>.</w>
+<w>тиреи. <lb/></w>
+
+<w>апоубкарь.</w>
+<w>свень.</w>
+<w>воузелевь.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Алданъ,</w>
+<w>Тиленъ,</w>
+<w>Апубьксарь,</w>
+<w>Вузлѣвъ,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Алданъ,</w>
+<w>Тилии,</w>
+<w>Апубькарь,</w>
+<w>Свѣнь,</w>
+<w>Вузьлѣвъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Алданъ,</w>
+<w>Тилен,</w>
+<w>Апубьксарь,</w>
+<w>Вузлѣвъ,</w>
+</rdg>
+</app></p></div></body></text></TEI>

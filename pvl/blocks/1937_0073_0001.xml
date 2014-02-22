@@ -1,138 +1,120 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>73, 1</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="1">
-            <p>
-               <app>
-                  <lem>
-                     <w>Русь,</w>
-                     <w>боляре</w>
-                     <w>и</w>
-                     <w>прочии,</w>
-                     <w>до</w>
-                     <w>коньца</w>
-                     <w>вѣка.</w>
-                     <w>Яко</w>
-                     <w>николиже</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>русь.</w>
-                        <w>болѧре</w>
-                        <w>и</w>
-                        <w>прочии</w>
-                        <w>до</w>
-                        <w>конца</w>
-                        <w>вѣка.</w>
-                        <w>яко</w>
-                        <w>нико<lb/>лиже</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>роу<hi rend="sup">с</hi>.</w>
-                        <w>бояре</w>
-                        <w>и</w>
-                        <w>прочии <lb/>
-                        </w>
-                        <w>до</w>
-                        <w>конца</w>
-                        <w>вѣка.</w>
-                        <w>яко</w>
-                        <w>николиже</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ру<hi rend="sup">с</hi>.</w>
-                        <w>бояре</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>прочїи</w>
-                        <w>до</w>
-                        <w>конца</w>
-                        <w>вѣка.</w>
-                        <w>яко</w>
-                        <w>нїколиже</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>русь. <lb/>
-                        </w>
-                        <w>бояре</w>
-                        <w>и</w>
-                        <w>прочии</w>
-                        <w>до</w>
-                        <w>конца <lb/>
-                        </w>
-                        <w>вѣка.</w>
-                        <w>яко</w>
-                        <w>николиже</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>роу<hi rend="sup">с</hi> 
-                           <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>боѧре.</w>
-                        <w>и</w>
-                        <w>прочїи</w>
-                        <w>до</w>
-                        <w>ко<hi rend="sup">н</hi>ца</w>
-                        <w>вѣка.</w>
-                        <w>яко</w>
-                        <w>николиже <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Русь,</w>
-                        <w>боляре</w>
-                        <w>и</w>
-                        <w>прочии,</w>
-                        <w>до</w>
-                        <w>конца</w>
-                        <w>вѣка.</w>
-                        <w>Яко</w>
-                        <w>николиже 71,15</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Русь,</w>
-                        <w>боляре</w>
-                        <w>и</w>
-                        <w>прочии,</w>
-                        <w>до</w>
-                        <w>коньца</w>
-                        <w>вѣка.</w>
-                        <w>Яко</w>
-                        <w>николиже 86,14</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Русь,</w>
-                        <w>боляре</w>
-                        <w>и</w>
-                        <w>прочии,</w>
-                        <w>до</w>
-                        <w>конца</w>
-                        <w>вѣка.</w>
-                        <w>Яко</w>
-                        <w>николи</w>
-                        <w>же 52,11</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>73, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="1"><p>
+<app>
+<lem wit="#lem">
+<w>Русь,</w>
+<w>боляре</w>
+<w>и</w>
+<w>прочии,</w>
+<w>до</w>
+<w>коньца</w>
+<w>вѣка.</w>
+<w>Яко</w>
+<w>николиже</w>
+</lem>
+
+<rdg wit="#lav">
+<w>русь.</w>
+<w>болѧре</w>
+<w>и</w>
+<w>прочии</w>
+<w>до</w>
+<w>конца</w>
+<w>вѣка.</w>
+<w>яко</w>
+<w>нико<lb/>лиже</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>роу<hi rend="sup">с</hi>.</w>
+<w>бояре</w>
+<w>и</w>
+<w>прочии <lb/></w>
+
+<w>до</w>
+<w>конца</w>
+<w>вѣка.</w>
+<w>яко</w>
+<w>николиже</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ру<hi rend="sup">с</hi>.</w>
+<w>бояре</w>
+<w>и <lb/></w>
+
+<w>прочїи</w>
+<w>до</w>
+<w>конца</w>
+<w>вѣка.</w>
+<w>яко</w>
+<w>нїколиже</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>русь. <lb/></w>
+
+<w>бояре</w>
+<w>и</w>
+<w>прочии</w>
+<w>до</w>
+<w>конца <lb/></w>
+
+<w>вѣка.</w>
+<w>яко</w>
+<w>николиже</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>роу<hi rend="sup">с</hi><lb/></w>
+<w>и</w>
+<w>боѧре.</w>
+<w>и</w>
+<w>прочїи</w>
+<w>до</w>
+<w>ко<hi rend="sup">н</hi>ца</w>
+<w>вѣка.</w>
+<w>яко</w>
+<w>николиже <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>Русь,</w>
+<w>боляре</w>
+<w>и</w>
+<w>прочии,</w>
+<w>до</w>
+<w>конца</w>
+<w>вѣка.</w>
+<w>Яко</w>
+<w>николиже</w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>Русь,</w>
+<w>боляре</w>
+<w>и</w>
+<w>прочии,</w>
+<w>до</w>
+<w>коньца</w>
+<w>вѣка.</w>
+<w>Яко</w>
+<w>николиже</w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>Русь,</w>
+<w>боляре</w>
+<w>и</w>
+<w>прочии,</w>
+<w>до</w>
+<w>конца</w>
+<w>вѣка.</w>
+<w>Яко</w>
+<w>николи</w>
+<w>же</w>
+
+</rdg>
+</app></p></div></body></text></TEI>

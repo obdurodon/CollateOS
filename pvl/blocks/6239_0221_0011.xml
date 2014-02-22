@@ -1,103 +1,82 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>221, 11</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="11">
-            <p>
-               <app>
-                  <lem>
-                     <w>же</w>
-                     <w>ся</w>
-                     <w>Търкомъ</w>
-                     <w>и</w>
-                     <w>крѣпъко</w>
-                     <w>борющимъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>же</w>
-                        <w>сѧ</w>
-                        <w>торко<lb/>мъ</w>
-                        <w>и</w>
-                        <w>крѣпко</w>
-                        <w>борющимъсѧ·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>торко<hi rend="sup">м</hi>.</w>
-                        <w>и</w>
-                        <w>крѣпко.</w>
-                        <w>борющи<hi rend="sup">м</hi> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>сѧ</w>
-                        <w>торъ<lb/>комъ·</w>
-                        <w>и</w>
-                        <w>крѣпко</w>
-                        <w>борющимсѧ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>же</w>
-                        <w>сѧ</w>
-                        <w>торокомъ· <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>крѣпко</w>
-                        <w>борющимъ·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>же <lb/>
-                        </w>
-                        <w>сѧ</w>
-                        <w>торкѡ<hi rend="sup">м</hi>.</w>
-                        <w>и</w>
-                        <w>крѣпко</w>
-                        <w>борющи<hi rend="sup">м</hi>.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>же</w>
-                        <w>ся</w>
-                        <w>Торкомъ</w>
-                        <w>и</w>
-                        <w>крѣпко</w>
-                        <w>борющимъся</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>же</w>
-                        <w>ся</w>
-                        <w>Търкомъ</w>
-                        <w>и</w>
-                        <w>крѣпъко</w>
-                        <w>борющемъся</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>же</w>
-                        <w>ся</w>
-                        <w>торкомъ</w>
-                        <w>и</w>
-                        <w>крѣпко</w>
-                        <w>борющимъся</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>221, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="11"><p>
+<app>
+<lem wit="#lem">
+<w>же</w>
+<w>ся</w>
+<w>Търкомъ</w>
+<w>и</w>
+<w>крѣпъко</w>
+<w>борющимъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>же</w>
+<w>сѧ</w>
+<w>торко<lb/>мъ</w>
+<w>и</w>
+<w>крѣпко</w>
+<w>борющимъсѧ·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>торко<hi rend="sup">м</hi>.</w>
+<w>и</w>
+<w>крѣпко.</w>
+<w>борющи<hi rend="sup">м</hi><lb/>сѧ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>сѧ</w>
+<w>торъ<lb/>комъ·</w>
+<w>и</w>
+<w>крѣпко</w>
+<w>борющимсѧ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>же</w>
+<w>сѧ</w>
+<w>торокомъ· <lb/></w>
+
+<w>и</w>
+<w>крѣпко</w>
+<w>борющимъ·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>же <lb/></w>
+
+<w>сѧ</w>
+<w>торкѡ<hi rend="sup">м</hi>.</w>
+<w>и</w>
+<w>крѣпко</w>
+<w>борющи<hi rend="sup">м</hi>.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>же</w>
+<w>ся</w>
+<w>Торкомъ</w>
+<w>и</w>
+<w>крѣпко</w>
+<w>борющимъся</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>же</w>
+<w>ся</w>
+<w>Търкомъ</w>
+<w>и</w>
+<w>крѣпъко</w>
+<w>борющемъся</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>же</w>
+<w>ся</w>
+<w>торкомъ</w>
+<w>и</w>
+<w>крѣпко</w>
+<w>борющимъся</w>
+</rdg>
+</app></p></div></body></text></TEI>

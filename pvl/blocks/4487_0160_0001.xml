@@ -1,114 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>160, 1</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="1">
-            <p>
-               <app>
-                  <lem>
-                     <w>съвъкупляти</w>
-                     <w>нача</w>
-                     <w>мъногы</w>
-                     <w>чьрноризьци,</w>
-                     <w>и</w>
-                     <w>съвъкупи</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>совокуплѧти</w>
-                        <w>нача</w>
-                        <w>многы</w>
-                        <w>черноризь<lb/>ци.</w>
-                        <w>и</w>
-                        <w>совокупи</w>
-                        <w>
-                           <pb n="54b"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>совокѹплѧти</w>
-                        <w>нача</w>
-                        <w>мно<lb/>гы</w>
-                        <w>чернорисци.</w>
-                        <w>и</w>
-                        <w>совокоупи</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>совокѹплѧти</w>
-                        <w>нача</w>
-                        <w>многы</w>
-                        <w>черньци.</w>
-                        <w>и</w>
-                        <w>совокѹ<lb/>пи</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>сово<lb/>куплѧти</w>
-                        <w>нача</w>
-                        <w>многы</w>
-                        <w>черь<lb/>знорисци.</w>
-                        <w>и</w>
-                        <w>совокупи</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>съвокоуплѧти</w>
-                        <w>нача</w>
-                        <w>мнѡгы</w>
-                        <w>чернори<hi rend="sup">з</hi>ц<sic>и</sic>.</w>
-                        <w>и</w>
-                        <w>съвокѹ<lb/>пи</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>совокупляти</w>
-                        <w>нача</w>
-                        <w>многы</w>
-                        <w>черноризьци,</w>
-                        <w>и</w>
-                        <w>совокупи</w>
-                        <w>
-                           <pb n="160,5"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>съвъкупляти</w>
-                        <w>нача</w>
-                        <w>мъногы</w>
-                        <w>чьрноризьцѣ,</w>
-                        <w>и</w>
-                        <w>съвъкупи</w>
-                        <w>
-                           <pb n="202,21"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>совокупляти</w>
-                        <w>нача</w>
-                        <w>многы</w>
-                        <w>черноризьци,</w>
-                        <w>и</w>
-                        <w>совокупи</w>
-                        <w>
-                           <pb n="107,22"/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>160, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="1"><p>
+<app>
+<lem wit="#lem">
+<w>съвъкупляти</w>
+<w>нача</w>
+<w>мъногы</w>
+<w>чьрноризьци,</w>
+<w>и</w>
+<w>съвъкупи</w>
+</lem>
+
+<rdg wit="#lav">
+<w>совокуплѧти</w>
+<w>нача</w>
+<w>многы</w>
+<w>черноризь<lb/>ци.</w>
+<w>и</w>
+<w>совокупи <pb n="54b"/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>совокѹплѧти</w>
+<w>нача</w>
+<w>мно<lb/>гы</w>
+<w>чернорисци.</w>
+<w>и</w>
+<w>совокоупи</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>совокѹплѧти</w>
+<w>нача</w>
+<w>многы</w>
+<w>черньци.</w>
+<w>и</w>
+<w>совокѹ<lb/>пи</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>сово<lb/>куплѧти</w>
+<w>нача</w>
+<w>многы</w>
+<w>черь<lb/>знорисци.</w>
+<w>и</w>
+<w>совокупи</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>съвокоуплѧти</w>
+<w>нача</w>
+<w>мнѡгы</w>
+<w>чернори<hi rend="sup">з</hi>ц<milestone unit="sic" n="start"/>и<milestone unit="sic" n="end"/>.</w>
+<w>и</w>
+<w>съвокѹ<lb/>пи</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>совокупляти</w>
+<w>нача</w>
+<w>многы</w>
+<w>черноризьци,</w>
+<w>и</w>
+<w>совокупи <pb n="160,5"/></w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>съвъкупляти</w>
+<w>нача</w>
+<w>мъногы</w>
+<w>чьрноризьцѣ,</w>
+<w>и</w>
+<w>съвъкупи <pb n="202,21"/></w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>совокупляти</w>
+<w>нача</w>
+<w>многы</w>
+<w>черноризьци,</w>
+<w>и</w>
+<w>совокупи <pb n="107,22"/></w>
+
+</rdg>
+</app></p></div></body></text></TEI>

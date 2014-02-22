@@ -1,128 +1,109 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>90, 7</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="7">
-            <p>
-               <app>
-                  <lem>
-                     <w>Видѣвъша</w>
-                     <w>же</w>
-                     <w>се</w>
-                     <w>Адамъ</w>
-                     <w>и</w>
-                     <w>Евга,</w>
-                     <w>ископаста</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>и.</w>
-                        <w>видѣвша</w>
-                        <w>же</w>
-                        <w>се</w>
-                        <w>адамъ</w>
-                        <w>и</w>
-                        <w>евга.</w>
-                        <w>ископаста</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>видѣвше</w>
-                        <w>же <lb/>
-                        </w>
-                        <w>се</w>
-                        <w>адамъ</w>
-                        <w>и</w>
-                        <w>евга.</w>
-                        <w>ископаста</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>и. <lb/>
-                        </w>
-                        <w>видѣвше</w>
-                        <w>же</w>
-                        <w>се</w>
-                        <w>адамъ</w>
-                        <w>и</w>
-                        <w>евга.</w>
-                        <w>ископаста</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>видѣвша</w>
-                        <w>же</w>
-                        <w>се</w>
-                        <w>ада<lb/>мъ</w>
-                        <w>и</w>
-                        <w>евга.</w>
-                        <w>ископаста</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>видѣ<lb/>вши</w>
-                        <w>же</w>
-                        <w>се</w>
-                        <w>ада<hi rend="sup">м</hi>
-                        </w>
-                        <w>и</w>
-                        <w>евва.</w>
-                        <w>ископаста</w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>и</w>
-                        <w>видѣвше</w>
-                        <w>же</w>
-                        <w>се</w>
-                        <w>адамъ</w>
-                        <w>и</w>
-                        <w>евга</w>
-                        <w>ископаста</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>и.</w>
-                        <w>Видѣвша</w>
-                        <w>же</w>
-                        <w>се</w>
-                        <w>Адамъ</w>
-                        <w>и</w>
-                        <w>Евга,</w>
-                        <w>ископаста</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Видѣвъша</w>
-                        <w>же</w>
-                        <w>се</w>
-                        <w>Адамъ</w>
-                        <w>и</w>
-                        <w>Евга,</w>
-                        <w>ископаста</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>и.</w>
-                        <w>Видѣвша</w>
-                        <w>же</w>
-                        <w>се</w>
-                        <w>Адамъ</w>
-                        <w>и</w>
-                        <w>Евга,</w>
-                        <w>ископаста</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>90, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="7"><p>
+<app>
+<lem wit="#lem">
+<w>Видѣвъша</w>
+<w>же</w>
+<w>се</w>
+<w>Адамъ</w>
+<w>и</w>
+<w>Евга,</w>
+<w>ископаста</w>
+</lem>
+
+<rdg wit="#lav">
+<w>и.</w>
+<w>видѣвша</w>
+<w>же</w>
+<w>се</w>
+<w>адамъ</w>
+<w>и</w>
+<w>евга.</w>
+<w>ископаста</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>видѣвше</w>
+<w>же <lb/></w>
+
+<w>се</w>
+<w>адамъ</w>
+<w>и</w>
+<w>евга.</w>
+<w>ископаста</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>и. <lb/></w>
+
+<w>видѣвше</w>
+<w>же</w>
+<w>се</w>
+<w>адамъ</w>
+<w>и</w>
+<w>евга.</w>
+<w>ископаста</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>видѣвша</w>
+<w>же</w>
+<w>се</w>
+<w>ада<lb/>мъ</w>
+<w>и</w>
+<w>евга.</w>
+<w>ископаста</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>видѣ<lb/>вши</w>
+<w>же</w>
+<w>се</w>
+<w>ада<hi rend="sup">м</hi></w>
+<w>и</w>
+<w>евва.</w>
+<w>ископаста</w>
+</rdg>
+
+<rdg wit="#kom">
+<w>и</w>
+<w>видѣвше</w>
+<w>же</w>
+<w>се</w>
+<w>адамъ</w>
+<w>и</w>
+<w>евга</w>
+<w>ископаста</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>и.</w>
+<w>Видѣвша</w>
+<w>же</w>
+<w>се</w>
+<w>Адамъ</w>
+<w>и</w>
+<w>Евга,</w>
+<w>ископаста</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Видѣвъша</w>
+<w>же</w>
+<w>се</w>
+<w>Адамъ</w>
+<w>и</w>
+<w>Евга,</w>
+<w>ископаста</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>и.</w>
+<w>Видѣвша</w>
+<w>же</w>
+<w>се</w>
+<w>Адамъ</w>
+<w>и</w>
+<w>Евга,</w>
+<w>ископаста</w>
+</rdg>
+</app></p></div></body></text></TEI>

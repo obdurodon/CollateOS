@@ -1,127 +1,107 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>202, 28</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="28">
-            <p>
-               <app>
-                  <lem>
-                     <w>“Колико</w>
-                     <w>подъяхъ</w>
-                     <w>отъ</w>
-                     <w>ваю</w>
-                     <w>зъла</w>
-                     <w>за</w>
-                     <w>зъло?”</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>колико</w>
-                        <w>ѿ</w>
-                        <w>ваю</w>
-                        <w>прия<lb/>хъ.</w>
-                        <w>не</w>
-                        <w>вдасть</w>
-                        <w>зла</w>
-                        <w>за</w>
-                        <w>зло.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>колко</w>
-                        <w>ѿ</w>
-                        <w>васъ</w>
-                        <w>прияхъ.</w>
-                        <w>не</w>
-                        <w>вдасть</w>
-                        <w>зла</w>
-                        <w>за</w>
-                        <w>зло. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>колико</w>
-                        <w>ѿ</w>
-                        <w>ваю</w>
-                        <w>прия<hi rend="sup">х</hi>.</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>вдасть</w>
-                        <w>зла</w>
-                        <w>за</w>
-                        <w>ѕло.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>колко</w>
-                        <w>подьяхъ</w>
-                        <w>ѿ <lb/>
-                        </w>
-                        <w>ваю</w>
-                        <w>зла</w>
-                        <w>за</w>
-                        <w>зло.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>колко <lb/>
-                        </w>
-                        <w>пѡ<hi rend="sup">д</hi>ѧ<hi rend="sup">х</hi>
-                        </w>
-                        <w>ѿ</w>
-                        <w>ваю</w>
-                        <w>ѕла.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>“колико</w>
-                        <w>отъ</w>
-                        <w>ваю</w>
-                        <w>прияхъ?”</w>
-                        <w>не</w>
-                        <w>вдасть</w>
-                        <w>зла</w>
-                        <w>за</w>
-                        <w>зло,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>“колико</w>
-                        <w>отъ</w>
-                        <w>ваю</w>
-                        <w>прияхъ</w>
-                        <w>зъла?”</w>
-                        <w>не</w>
-                        <w>въдасть</w>
-                        <w>зъла</w>
-                        <w>за</w>
-                        <w>зъло,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>“Колико</w>
-                        <w>от</w>
-                        <w>ваю</w>
-                        <w>прияхъ?”,</w>
-                        <w>не</w>
-                        <w>вдасть</w>
-                        <w>зла</w>
-                        <w>за</w>
-                        <w>зло,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>202, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="28"><p>
+<app>
+<lem wit="#lem">
+<w>“Колико</w>
+<w>подъяхъ</w>
+<w>отъ</w>
+<w>ваю</w>
+<w>зъла</w>
+<w>за</w>
+<w>зъло?”</w>
+</lem>
+
+<rdg wit="#lav">
+<w>колико</w>
+<w>ѿ</w>
+<w>ваю</w>
+<w>прия<lb/>хъ.</w>
+<w>не</w>
+<w>вдасть</w>
+<w>зла</w>
+<w>за</w>
+<w>зло.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>колко</w>
+<w>ѿ</w>
+<w>васъ</w>
+<w>прияхъ.</w>
+<w>не</w>
+<w>вдасть</w>
+<w>зла</w>
+<w>за</w>
+<w>зло. <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>колико</w>
+<w>ѿ</w>
+<w>ваю</w>
+<w>прия<hi rend="sup">х</hi>.</w>
+<w>и</w>
+<w>не</w>
+<w>вдасть</w>
+<w>зла</w>
+<w>за</w>
+<w>ѕло.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>колко</w>
+<w>подьяхъ</w>
+<w>ѿ <lb/></w>
+
+<w>ваю</w>
+<w>зла</w>
+<w>за</w>
+<w>зло.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>колко <lb/></w>
+
+<w>пѡ<hi rend="sup">д</hi>ѧ<hi rend="sup">х</hi></w>
+<w>ѿ</w>
+<w>ваю</w>
+<w>ѕла.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>“колико</w>
+<w>отъ</w>
+<w>ваю</w>
+<w>прияхъ?”</w>
+<w>не</w>
+<w>вдасть</w>
+<w>зла</w>
+<w>за</w>
+<w>зло,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>“колико</w>
+<w>отъ</w>
+<w>ваю</w>
+<w>прияхъ</w>
+<w>зъла?”</w>
+<w>не</w>
+<w>въдасть</w>
+<w>зъла</w>
+<w>за</w>
+<w>зъло,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>“Колико</w>
+<w>от</w>
+<w>ваю</w>
+<w>прияхъ?”,</w>
+<w>не</w>
+<w>вдасть</w>
+<w>зла</w>
+<w>за</w>
+<w>зло,</w>
+</rdg>
+</app></p></div></body></text></TEI>

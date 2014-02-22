@@ -1,118 +1,97 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>143, 12</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="12">
-            <p>
-               <app>
-                  <lem>
-                     <w>вои</w>
-                     <w>его.</w>
-                     <w>Ярославъ</w>
-                     <w>же</w>
-                     <w>не</w>
-                     <w>утягну</w>
-                     <w>испълчити</w>
-                     <w>ся,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>вои</w>
-                        <w>ѥго.</w>
-                        <w>ярослав</w>
-                        <w>же <lb/>
-                        </w>
-                        <w>не</w>
-                        <w>оутѧгну</w>
-                        <w>исполчитисѧ.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>вои</w>
-                        <w>его.</w>
-                        <w>ярослав</w>
-                        <w>же</w>
-                        <w>не</w>
-                        <w>оутѧгнѹ</w>
-                        <w>исполчити<hi rend="sup">с</hi>. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>вои</w>
-                        <w>его.</w>
-                        <w>ярослав</w>
-                        <w>же</w>
-                        <w>не</w>
-                        <w>оутѧ<lb/>гнѹ</w>
-                        <w>исполчитисѧ.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>вои</w>
-                        <w>его.</w>
-                        <w>ярослав</w>
-                        <w>же</w>
-                        <w>не</w>
-                        <w>оутѧгну</w>
-                        <w>исполчитисѧ <lb/>
-                        </w>
-                        <w>
-                           <pb n="54a"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>вои</w>
-                        <w>его.</w>
-                        <w>яро<lb/>слав</w>
-                        <w>же</w>
-                        <w>не</w>
-                        <w>оутѧгноу</w>
-                        <w>сполчитисѧ.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>вои</w>
-                        <w>его,</w>
-                        <w>Ярославъ</w>
-                        <w>же</w>
-                        <w>не</w>
-                        <w>утягну</w>
-                        <w>исполчитися,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>вои</w>
-                        <w>его;</w>
-                        <w>Ярославъ</w>
-                        <w>же</w>
-                        <w>не</w>
-                        <w>утягну</w>
-                        <w>испълчитися,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>вои</w>
-                        <w>его.</w>
-                        <w>Ярослав</w>
-                        <w>же</w>
-                        <w>не</w>
-                        <w>утягну</w>
-                        <w>исполчитися,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>143, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="12"><p>
+<app>
+<lem wit="#lem">
+<w>вои</w>
+<w>его.</w>
+<w>Ярославъ</w>
+<w>же</w>
+<w>не</w>
+<w>утягну</w>
+<w>испълчити</w>
+<w>ся,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>вои</w>
+<w>ѥго.</w>
+<w>ярослав</w>
+<w>же <lb/></w>
+
+<w>не</w>
+<w>оутѧгну</w>
+<w>исполчитисѧ.</w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>вои</w>
+<w>его.</w>
+<w>ярослав</w>
+<w>же</w>
+<w>не</w>
+<w>оутѧгнѹ</w>
+<w>исполчити<hi rend="sup">с</hi>. <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>вои</w>
+<w>его.</w>
+<w>ярослав</w>
+<w>же</w>
+<w>не</w>
+<w>оутѧ<lb/>гнѹ</w>
+<w>исполчитисѧ.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>вои</w>
+<w>его.</w>
+<w>ярослав</w>
+<w>же</w>
+<w>не</w>
+<w>оутѧгну</w>
+<w>исполчитисѧ <lb/><pb n="54a"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>вои</w>
+<w>его.</w>
+<w>яро<lb/>слав</w>
+<w>же</w>
+<w>не</w>
+<w>оутѧгноу</w>
+<w>сполчитисѧ.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>вои</w>
+<w>его,</w>
+<w>Ярославъ</w>
+<w>же</w>
+<w>не</w>
+<w>утягну</w>
+<w>исполчитися,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>вои</w>
+<w>его;</w>
+<w>Ярославъ</w>
+<w>же</w>
+<w>не</w>
+<w>утягну</w>
+<w>испълчитися,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>вои</w>
+<w>его.</w>
+<w>Ярослав</w>
+<w>же</w>
+<w>не</w>
+<w>утягну</w>
+<w>исполчитися,</w>
+</rdg>
+</app></p></div></body></text></TEI>

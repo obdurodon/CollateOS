@@ -1,107 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>48, 9</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="9">
-            <p>
-               <app>
-                  <lem>
-                     <w>гостие</w>
-                     <w>сьребряны;</w>
-                     <w>нынѣ</w>
-                     <w>же</w>
-                     <w>увѣдѣлъ</w>
-                     <w>есть</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>гостье</w>
-                        <w>сребрени.</w>
-                        <w>ныне</w>
-                        <w>же</w>
-                        <w>увѣдѣлъ</w>
-                        <w>есть</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>гости</w>
-                        <w>сребрѧные. <lb/>
-                        </w>
-                        <w>н҃нѣ</w>
-                        <w>же</w>
-                        <w>оувѣда<hi rend="sup">л</hi>
-                        </w>
-                        <w>есть</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>гостье</w>
-                        <w>серебрѧны.</w>
-                        <w>ны<lb/>нѣ</w>
-                        <w>же</w>
-                        <w>оувѣдалъ</w>
-                        <w>есть</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>гостие</w>
-                        <w>серебрѧны. <lb/>
-                        </w>
-                        <w>нынѣ</w>
-                        <w>же</w>
-                        <w>оувѣдалъ</w>
-                        <w>е<lb/>сть</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>гостїе</w>
-                        <w>серебреныѧ. <lb/>
-                        </w>
-                        <w>н҃нѣ</w>
-                        <w>же</w>
-                        <w>оувѣдаль</w>
-                        <w>е<hi rend="sup">с</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>гостье</w>
-                        <w>сребрени;</w>
-                        <w>ныне</w>
-                        <w>же</w>
-                        <w>увѣдѣлъ</w>
-                        <w>есть</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>гостие</w>
-                        <w>сьребрьны;</w>
-                        <w>нынѣ</w>
-                        <w>же</w>
-                        <w>увѣдѣлъ</w>
-                        <w>есть</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>гостье</w>
-                        <w>сребрени;</w>
-                        <w>ныне</w>
-                        <w>же</w>
-                        <w>увѣдѣлъ</w>
-                        <w>есть</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>48, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="9"><p>
+<app>
+<lem wit="#lem">
+<w>гостие</w>
+<w>сьребряны;</w>
+<w>нынѣ</w>
+<w>же</w>
+<w>увѣдѣлъ</w>
+<w>есть</w>
+</lem>
+
+<rdg wit="#lav">
+<w>гостье</w>
+<w>сребрени.</w>
+<w>ныне</w>
+<w>же</w>
+<w>увѣдѣлъ</w>
+<w>есть</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>гости</w>
+<w>сребрѧные. <lb/></w>
+
+<w>н҃нѣ</w>
+<w>же</w>
+<w>оувѣда<hi rend="sup">л</hi></w>
+<w>есть</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>гостье</w>
+<w>серебрѧны.</w>
+<w>ны<lb/>нѣ</w>
+<w>же</w>
+<w>оувѣдалъ</w>
+<w>есть</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>гостие</w>
+<w>серебрѧны. <lb/></w>
+
+<w>нынѣ</w>
+<w>же</w>
+<w>оувѣдалъ</w>
+<w>е<lb/>сть</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>гостїе</w>
+<w>серебреныѧ. <lb/></w>
+
+<w>н҃нѣ</w>
+<w>же</w>
+<w>оувѣдаль</w>
+<w>е<hi rend="sup">с</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>гостье</w>
+<w>сребрени;</w>
+<w>ныне</w>
+<w>же</w>
+<w>увѣдѣлъ</w>
+<w>есть</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>гостие</w>
+<w>сьребрьны;</w>
+<w>нынѣ</w>
+<w>же</w>
+<w>увѣдѣлъ</w>
+<w>есть</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>гостье</w>
+<w>сребрени;</w>
+<w>ныне</w>
+<w>же</w>
+<w>увѣдѣлъ</w>
+<w>есть</w>
+</rdg>
+</app></p></div></body></text></TEI>

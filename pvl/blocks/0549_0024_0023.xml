@@ -1,130 +1,107 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>24, 23</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="23">
-            <p>
-               <app>
-                  <lem>
-                     <w>иже</w>
-                     <w>Львъ</w>
-                     <w>прозъва</w>
-                     <w>ся,</w>
-                     <w>и</w>
-                     <w>братъ</w>
-                     <w>его</w>
-                     <w>Александръ,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>иже</w>
-                        <w>левъ</w>
-                        <w>
-                           <sic>прозва<hi rend="sup">с</hi>
-                              <lb/> и б</sic>ра<hi rend="sup">т</hi>
-                        </w>
-                        <w>его</w>
-                        <w>ѡлександръ.</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>иже</w>
-                        <w>прозвася</w>
-                        <w>левъ</w>
-                        <w>и</w>
-                        <w>братъ</w>
-                        <w>его</w>
-                        <w>александръ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>иже</w>
-                        <w>левъ</w>
-                        <w>прозва<hi rend="sup">с</hi>.</w>
-                        <w>и</w>
-                        <w>бра<hi rend="sup">т</hi>
-                        </w>
-                        <w>его</w>
-                        <w>александр<sic>ъ</sic>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>иже</w>
-                        <w>левь</w>
-                        <w>прозвасѧ.</w>
-                        <w>и</w>
-                        <w>братъ</w>
-                        <w>его <lb/>
-                        </w>
-                        <w>александръ.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>и<lb/>же</w>
-                        <w>и</w>
-                        <w>левъ</w>
-                        <w>прозвасѧ.</w>
-                        <w>и</w>
-                        <w>бра<hi rend="sup">т</hi>
-                        </w>
-                        <w>е<lb/>го</w>
-                        <w>александръ.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>еже</w>
-                        <w>и</w>
-                        <w>левь <lb/>
-                        </w>
-                        <w>прозвасѧ.</w>
-                        <w>и</w>
-                        <w>бра<hi rend="sup">т</hi>
-                        </w>
-                        <w>его</w>
-                        <w>алеѯандрь</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>иже</w>
-                        <w>Левъ</w>
-                        <w>прозвася,</w>
-                        <w>и</w>
-                        <w>братъ</w>
-                        <w>его</w>
-                        <w>Олександръ,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>иже</w>
-                        <w>Львъ</w>
-                        <w>прозъвася,</w>
-                        <w>и</w>
-                        <w>братъ</w>
-                        <w>его</w>
-                        <w>Александръ,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>иже</w>
-                        <w>Левъ</w>
-                        <w>прозвася,</w>
-                        <w>и</w>
-                        <w>брат</w>
-                        <w>его</w>
-                        <w>Олександръ,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>24, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="23"><p>
+<app>
+<lem wit="#lem">
+<w>иже</w>
+<w>Львъ</w>
+<w>прозъва</w>
+<w>ся,</w>
+<w>и</w>
+<w>братъ</w>
+<w>его</w>
+<w>Александръ,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>иже</w>
+<w>левъ</w>
+<w><milestone unit="sic" n="start"/>прозва<hi rend="sup">с</hi><lb/></w>
+<w>и</w>
+<w>б<milestone unit="sic" n="end"/>ра<hi rend="sup">т</hi></w>
+<w>его</w>
+<w>ѡлександръ.</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>иже</w>
+<w>прозвася</w>
+<w>левъ</w>
+<w>и</w>
+<w>братъ</w>
+<w>его</w>
+<w>александръ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>иже</w>
+<w>левъ</w>
+<w>прозва<hi rend="sup">с</hi>.</w>
+<w>и</w>
+<w>бра<hi rend="sup">т</hi></w>
+<w>его</w>
+<w>александр<milestone unit="sic" n="start"/>ъ<milestone unit="sic" n="end"/></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>иже</w>
+<w>левь</w>
+<w>прозвасѧ.</w>
+<w>и</w>
+<w>братъ</w>
+<w>его <lb/></w>
+
+<w>александръ.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>и<lb/>же</w>
+<w>и</w>
+<w>левъ</w>
+<w>прозвасѧ.</w>
+<w>и</w>
+<w>бра<hi rend="sup">т</hi></w>
+<w>е<lb/>го</w>
+<w>александръ.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>еже</w>
+<w>и</w>
+<w>левь <lb/></w>
+
+<w>прозвасѧ.</w>
+<w>и</w>
+<w>бра<hi rend="sup">т</hi></w>
+<w>его</w>
+<w>алеѯандрь</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>иже</w>
+<w>Левъ</w>
+<w>прозвася,</w>
+<w>и</w>
+<w>братъ</w>
+<w>его</w>
+<w>Олександръ,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>иже</w>
+<w>Львъ</w>
+<w>прозъвася,</w>
+<w>и</w>
+<w>братъ</w>
+<w>его</w>
+<w>Александръ,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>иже</w>
+<w>Левъ</w>
+<w>прозвася,</w>
+<w>и</w>
+<w>брат</w>
+<w>его</w>
+<w>Олександръ,</w>
+</rdg>
+</app></p></div></body></text></TEI>

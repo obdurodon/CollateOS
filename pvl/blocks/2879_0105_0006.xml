@@ -1,106 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>105, 6</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="6">
-            <p>
-               <app>
-                  <lem>
-                     <w>чловѣкомъ,</w>
-                     <w>обновлениемь</w>
-                     <w>водою”;</w>
-                     <w>ибо</w>
-                     <w>Жидовьскыи</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>члв҃кмъ.</w>
-                        <w>ѡ<lb/>бновленьемь</w>
-                        <w>водою.</w>
-                        <w>ибо</w>
-                        <w>жидовьскии</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>чл҃комъ.</w>
-                        <w>ѡбновениемъ</w>
-                        <w>водою.</w>
-                        <w>ибо</w>
-                        <w>жидовьски<lb/>и</w>
-                        <w>
-                           <pb n="57v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>чл҃вкомь. <lb/>
-                        </w>
-                        <w>ѡбновленїемь</w>
-                        <w>водою.</w>
-                        <w>ибо</w>
-                        <w>жидовьскїи</w>
-                     </rdg>
-                     <rdg wit="#ipa"/>
-                     <rdg wit="#xle">
-                        <w>чл҃ко<hi rend="sup">м</hi>
-                        </w>
-                        <w>ѡбновленїемь</w>
-                        <w>водою.</w>
-                        <w>ибо</w>
-                        <w>жидовь<lb/>скыи</w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>человѣкомъ</w>
-                        <w>обновлениемь</w>
-                        <w>водою</w>
-                        <w>ибо</w>
-                        <w>жидовескъ</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>человѣком</w>
-                        <w>обновлением</w>
-                        <w>водою</w>
-                        <w>ибо</w>
-                        <w>жидовескъ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>человѣкомъ,</w>
-                        <w>обновленьемь</w>
-                        <w>водою;</w>
-                        <w>ибо</w>
-                        <w>Жидовьский</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>чловѣкомъ,</w>
-                        <w>обновлениемь</w>
-                        <w>водою;</w>
-                        <w>ибо</w>
-                        <w>Жидовьскыи</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>человѣкомъ,</w>
-                        <w>обновленьемь</w>
-                        <w>водою;</w>
-                        <w>ибо</w>
-                        <w>жидовьский</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>105, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="6"><p>
+<app>
+<lem wit="#lem">
+<w>чловѣкомъ,</w>
+<w>обновлениемь</w>
+<w>водою”;</w>
+<w>ибо</w>
+<w>Жидовьскыи</w>
+</lem>
+
+<rdg wit="#lav">
+<w>члв҃кмъ.</w>
+<w>ѡ<lb/>бновленьемь</w>
+<w>водою.</w>
+<w>ибо</w>
+<w>жидовьскии</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>чл҃комъ.</w>
+<w>ѡбновениемъ</w>
+<w>водою.</w>
+<w>ибо</w>
+<w>жидовьски<lb/>и <pb n="57v"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>чл҃вкомь. <lb/></w>
+
+<w>ѡбновленїемь</w>
+<w>водою.</w>
+<w>ибо</w>
+<w>жидовьскїи</w>
+</rdg>
+
+<rdg wit="#ipa">
+</rdg>
+
+<rdg wit="#xle">
+<w>чл҃ко<hi rend="sup">м</hi></w>
+<w>ѡбновленїемь</w>
+<w>водою.</w>
+<w>ибо</w>
+<w>жидовь<lb/>скыи</w>
+</rdg>
+
+<rdg wit="#kom">
+<w>человѣкомъ</w>
+<w>обновлениемь</w>
+<w>водою</w>
+<w>ибо</w>
+<w>жидовескъ</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>человѣком</w>
+<w>обновлением</w>
+<w>водою</w>
+<w>ибо</w>
+<w>жидовескъ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>человѣкомъ,</w>
+<w>обновленьемь</w>
+<w>водою;</w>
+<w>ибо</w>
+<w>Жидовьский</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>чловѣкомъ,</w>
+<w>обновлениемь</w>
+<w>водою;</w>
+<w>ибо</w>
+<w>Жидовьскыи</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>человѣкомъ,</w>
+<w>обновленьемь</w>
+<w>водою;</w>
+<w>ибо</w>
+<w>жидовьский</w>
+</rdg>
+</app></p></div></body></text></TEI>

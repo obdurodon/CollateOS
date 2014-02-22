@@ -1,121 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>192, 29</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="29">
-            <p>
-               <app>
-                  <lem>
-                     <w>начаша</w>
-                     <w>садити</w>
-                     <w>ся</w>
-                     <w>около</w>
-                     <w>его,</w>
-                     <w>пълна</w>
-                     <w>кѣлия</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>начаша</w>
-                        <w>садитисѧ</w>
-                        <w>ѡко<lb/>ло</w>
-                        <w>ѥго.</w>
-                        <w>и</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>полна</w>
-                        <w>келья</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>начаша</w>
-                        <w>садитисѧ <lb/>
-                        </w>
-                        <w>ѡколо</w>
-                        <w>е<hi rend="sup">г</hi>.</w>
-                        <w>и</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>полна</w>
-                        <w>кѣлья</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>начаша</w>
-                        <w>садитисѧ</w>
-                        <w>ѡколо</w>
-                        <w>его. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>полна</w>
-                        <w>кѣлья</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>начаша</w>
-                        <w>сади<lb/>тисѧ</w>
-                        <w>ѡколо</w>
-                        <w>его.</w>
-                        <w>полна</w>
-                        <w>кель<lb/>я.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>начаша</w>
-                        <w>с<hi rend="sup">д</hi>а<hi rend="sup">и</hi>тисѧ. <lb/>
-                        </w>
-                        <w>около</w>
-                        <w>его</w>
-                        <w>полна</w>
-                        <w>келїа</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>начаша</w>
-                        <w>садитися</w>
-                        <w>около</w>
-                        <w>его,</w>
-                        <w>и</w>
-                        <w>бысть</w>
-                        <w>полна</w>
-                        <w>келья</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>начаша</w>
-                        <w>садитися</w>
-                        <w>около</w>
-                        <w>его,</w>
-                        <w>и</w>
-                        <w>бысть</w>
-                        <w>пълна</w>
-                        <w>кѣлия</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>начаша</w>
-                        <w>садитися</w>
-                        <w>около</w>
-                        <w>его,</w>
-                        <w>и</w>
-                        <w>бысть</w>
-                        <w>полна</w>
-                        <w>келья</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>192, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="29"><p>
+<app>
+<lem wit="#lem">
+<w>начаша</w>
+<w>садити</w>
+<w>ся</w>
+<w>около</w>
+<w>его,</w>
+<w>пълна</w>
+<w>кѣлия</w>
+</lem>
+
+<rdg wit="#lav">
+<w>начаша</w>
+<w>садитисѧ</w>
+<w>ѡко<lb/>ло</w>
+<w>ѥго.</w>
+<w>и</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>полна</w>
+<w>келья</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>начаша</w>
+<w>садитисѧ <lb/></w>
+
+<w>ѡколо</w>
+<w>е<hi rend="sup">г</hi>.</w>
+<w>и</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>полна</w>
+<w>кѣлья</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>начаша</w>
+<w>садитисѧ</w>
+<w>ѡколо</w>
+<w>его. <lb/></w>
+
+<w>и</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>полна</w>
+<w>кѣлья</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>начаша</w>
+<w>сади<lb/>тисѧ</w>
+<w>ѡколо</w>
+<w>его.</w>
+<w>полна</w>
+<w>кель<lb/>я.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>начаша</w>
+<w>с<hi rend="sup">д</hi>а<hi rend="sup">и</hi>тисѧ. <lb/></w>
+
+<w>около</w>
+<w>его</w>
+<w>полна</w>
+<w>келїа</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>начаша</w>
+<w>садитися</w>
+<w>около</w>
+<w>его,</w>
+<w>и</w>
+<w>бысть</w>
+<w>полна</w>
+<w>келья</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>начаша</w>
+<w>садитися</w>
+<w>около</w>
+<w>его,</w>
+<w>и</w>
+<w>бысть</w>
+<w>пълна</w>
+<w>кѣлия</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>начаша</w>
+<w>садитися</w>
+<w>около</w>
+<w>его,</w>
+<w>и</w>
+<w>бысть</w>
+<w>полна</w>
+<w>келья</w>
+</rdg>
+</app></p></div></body></text></TEI>

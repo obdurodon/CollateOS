@@ -1,115 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>46, 8</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="8">
-            <p>
-               <app>
-                  <lem>
-                     <w>Българьску</w>
-                     <w>землю.</w>
-                     <w>А</w>
-                     <w>самъ</w>
-                     <w>възьмъ</w>
-                     <w>у</w>
-                     <w>Грькъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>болъгарьску</w>
-                        <w>земл<hi rend="sup">ю</hi> -</w>
-                        <w>самъ</w>
-                        <w>вземъ</w>
-                        <w>оу</w>
-                        <w>грекъ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>землю</w>
-                        <w>воева<hi rend="sup">т</hi>.</w>
-                        <w>а</w>
-                        <w>са<hi rend="sup">м</hi>
-                        </w>
-                        <w>вземъ</w>
-                        <w>оу</w>
-                        <w>грекъ <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>землю</w>
-                        <w>воевати.</w>
-                        <w>а</w>
-                        <w>самь</w>
-                        <w>вземь</w>
-                        <w>оу</w>
-                        <w>грекь</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>болгарьскую</w>
-                        <w>землю.</w>
-                        <w>а</w>
-                        <w>са<lb/>мъ</w>
-                        <w>вземъ</w>
-                        <w>оу</w>
-                        <w>грѣкъ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>болгарскоую</w>
-                        <w>землю.</w>
-                        <w>а</w>
-                        <w>са<hi rend="sup">м</hi>
-                        </w>
-                        <w>възе<hi rend="sup">м</hi> 
-                           <lb/>
-                        </w>
-                        <w>оу</w>
-                        <w>грекь</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Болъгарьску</w>
-                        <w>землю;</w>
-                        <w>а</w>
-                        <w>самъ</w>
-                        <w>вземъ</w>
-                        <w>у</w>
-                        <w>Грекъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Българьску</w>
-                        <w>землю;</w>
-                        <w>а</w>
-                        <w>самъ,</w>
-                        <w>възьмъ</w>
-                        <w>у</w>
-                        <w>Грькъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Болъгарьску</w>
-                        <w>землю;</w>
-                        <w>а</w>
-                        <w>самъ</w>
-                        <w>вземъ</w>
-                        <w>у</w>
-                        <w>грекъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>46, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="8"><p>
+<app>
+<lem wit="#lem">
+<w>Българьску</w>
+<w>землю.</w>
+<w>А</w>
+<w>самъ</w>
+<w>възьмъ</w>
+<w>у</w>
+<w>Грькъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>болъгарьску</w>
+<w>земл<hi rend="sup">ю</hi><milestone unit="sic" n="start"/>-<milestone unit="sic" n="end"/></w>
+<w>самъ</w>
+<w>вземъ</w>
+<w>оу</w>
+<w>грекъ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>землю</w>
+<w>воева<hi rend="sup">т</hi>.</w>
+<w>а</w>
+<w>са<hi rend="sup">м</hi></w>
+<w>вземъ</w>
+<w>оу</w>
+<w>грекъ <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>землю</w>
+<w>воевати.</w>
+<w>а</w>
+<w>самь</w>
+<w>вземь</w>
+<w>оу</w>
+<w>грекь</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>болгарьскую</w>
+<w>землю.</w>
+<w>а</w>
+<w>са<lb/>мъ</w>
+<w>вземъ</w>
+<w>оу</w>
+<w>грѣкъ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>болгарскоую</w>
+<w>землю.</w>
+<w>а</w>
+<w>са<hi rend="sup">м</hi></w>
+<w>възе<hi rend="sup">м</hi><lb/></w>
+<w>оу</w>
+<w>грекь</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Болъгарьску</w>
+<w>землю;</w>
+<w>а</w>
+<w>самъ</w>
+<w>вземъ</w>
+<w>у</w>
+<w>Грекъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Българьску</w>
+<w>землю;</w>
+<w>а</w>
+<w>самъ,</w>
+<w>възьмъ</w>
+<w>у</w>
+<w>Грькъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Болъгарьску</w>
+<w>землю;</w>
+<w>а</w>
+<w>самъ</w>
+<w>вземъ</w>
+<w>у</w>
+<w>грекъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

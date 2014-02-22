@@ -1,100 +1,82 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>15, 17</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="17">
-            <p>
-               <app>
-                  <lem>
-                     <w>въздьржаеми</w>
-                     <w>отъ</w>
-                     <w>мужии</w>
-                     <w>своихъ</w>
-                     <w>отъниудь,</w>
-                     <w>ни</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>въздержаеми.</w>
-                        <w>ѿ</w>
-                        <w>мужии <lb/>
-                        </w>
-                        <w>своихъ</w>
-                        <w>весьма.</w>
-                        <w>ли</w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad">
-                        <w>воздержими</w>
-                        <w>ѿ</w>
-                        <w>моу<hi rend="sup">ж</hi>
-                        </w>
-                        <w>свои<hi rend="sup">х</hi>
-                        </w>
-                        <w>ѿн<hi rend="sup">д</hi>ю.</w>
-                        <w>ни</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>воздержими</w>
-                        <w>ѿ</w>
-                        <w>мѹжь</w>
-                        <w>своихъ</w>
-                        <w>ѿн<hi rend="sup">д</hi>ю. <lb/>
-                        </w>
-                        <w>ни</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>въздѣр<hi rend="sup">ж</hi>а<lb/>еми</w>
-                        <w>ѿ</w>
-                        <w>мужии</w>
-                        <w>своихъ</w>
-                        <w>ѡ<lb/>тинудь.</w>
-                        <w>ни</w>
-                     </rdg>
-                     <rdg wit="#xle"/>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>въздержаеми</w>
-                        <w>отъ</w>
-                        <w>мужий</w>
-                        <w>своихъ</w>
-                        <w>весьма,</w>
-                        <w>ни</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>въздьржаеми</w>
-                        <w>отъ</w>
-                        <w>мужь</w>
-                        <w>своихъ</w>
-                        <w>вьсьма,</w>
-                        <w>ли</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>въздержаеми</w>
-                        <w>от</w>
-                        <w>мужий</w>
-                        <w>своихъ</w>
-                        <w>весьма,</w>
-                        <w>ли</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>15, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="17"><p>
+<app>
+<lem wit="#lem">
+<w>въздьржаеми</w>
+<w>отъ</w>
+<w>мужии</w>
+<w>своихъ</w>
+<w>отъниудь,</w>
+<w>ни</w>
+</lem>
+
+<rdg wit="#lav">
+<w>въздержаеми.</w>
+<w>ѿ</w>
+<w>мужии <lb/></w>
+
+<w>своихъ</w>
+<w>весьма.</w>
+<w>ли</w>
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+<w>воздержими</w>
+<w>ѿ</w>
+<w>моу<hi rend="sup">ж</hi></w>
+<w>свои<hi rend="sup">х</hi></w>
+<w>ѿн<hi rend="sup">д</hi>ю.</w>
+<w>ни</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>воздержими</w>
+<w>ѿ</w>
+<w>мѹжь</w>
+<w>своихъ</w>
+<w>ѿн<hi rend="sup">д</hi>ю. <lb/></w>
+
+<w>ни</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>въздѣр<hi rend="sup">ж</hi>а<lb/>еми</w>
+<w>ѿ</w>
+<w>мужии</w>
+<w>своихъ</w>
+<w>ѡ<lb/>тинудь.</w>
+<w>ни</w>
+</rdg>
+
+<rdg wit="#xle">
+</rdg>
+
+<rdg wit="#bych">
+<w>въздержаеми</w>
+<w>отъ</w>
+<w>мужий</w>
+<w>своихъ</w>
+<w>весьма,</w>
+<w>ни</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>въздьржаеми</w>
+<w>отъ</w>
+<w>мужь</w>
+<w>своихъ</w>
+<w>вьсьма,</w>
+<w>ли</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>въздержаеми</w>
+<w>от</w>
+<w>мужий</w>
+<w>своихъ</w>
+<w>весьма,</w>
+<w>ли</w>
+</rdg>
+</app></p></div></body></text></TEI>

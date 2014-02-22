@@ -1,107 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>279, 9</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="9">
-            <p>
-               <app>
-                  <lem>
-                     <w>братия,</w>
-                     <w>побѣдивъше</w>
-                     <w>врагы</w>
-                     <w>своя,</w>
-                     <w>и</w>
-                     <w>приведоша</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>бра<hi rend="sup">т</hi>я·</w>
-                        <w>побѣдивше</w>
-                        <w>врагы</w>
-                        <w>своя·</w>
-                        <w>приведо<lb/>ша</w>
-                        <w>
-                           <pb n="94b"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>бра<hi rend="sup">т</hi>я</w>
-                        <w>победивше <lb/>
-                        </w>
-                        <w>враги</w>
-                        <w>своя·</w>
-                        <w>и</w>
-                        <w>приве<hi rend="sup">д</hi>ша</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>братьѧ</w>
-                        <w>победивше</w>
-                        <w>врагы·̏</w>
-                        <w>своѧ·</w>
-                        <w>и</w>
-                        <w>приве<lb/>доша</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>братья·</w>
-                        <w>побѣдивше <lb/>
-                        </w>
-                        <w>в<sic>е</sic>р<sic>а</sic>ги</w>
-                        <w>своя·</w>
-                        <w>и</w>
-                        <w>приведоша</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>братїа.</w>
-                        <w>поб<hi rend="sup">д</hi>ѣ<hi rend="sup">ї</hi>в′ше</w>
-                        <w>вороги</w>
-                        <w>своа.</w>
-                        <w>и</w>
-                        <w>прив<hi rend="sup">д</hi>е<hi rend="sup">о</hi>шѧ <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>братья,</w>
-                        <w>побѣдивше</w>
-                        <w>врагы</w>
-                        <w>своя,</w>
-                        <w>и</w>
-                        <w>приведоша</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>братия,</w>
-                        <w>побѣдивъше</w>
-                        <w>врагы</w>
-                        <w>своя,</w>
-                        <w>и</w>
-                        <w>приведоша</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>братья,</w>
-                        <w>побѣдивше</w>
-                        <w>врагы</w>
-                        <w>своя,</w>
-                        <w>и</w>
-                        <w>приведоша</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>279, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="9"><p>
+<app>
+<lem wit="#lem">
+<w>братия,</w>
+<w>побѣдивъше</w>
+<w>врагы</w>
+<w>своя,</w>
+<w>и</w>
+<w>приведоша</w>
+</lem>
+
+<rdg wit="#lav">
+<w>бра<hi rend="sup">т</hi>я·</w>
+<w>побѣдивше</w>
+<w>врагы</w>
+<w>своя·</w>
+<w>приведо<lb/>ша <pb n="94b"/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>бра<hi rend="sup">т</hi>я</w>
+<w>победивше <lb/></w>
+
+<w>враги</w>
+<w>своя·</w>
+<w>и</w>
+<w>приве<hi rend="sup">д</hi>ша</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>братьѧ</w>
+<w>победивше</w>
+<w>врагы·̏</w>
+<w>своѧ·</w>
+<w>и</w>
+<w>приве<lb/>доша</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>братья·</w>
+<w>побѣдивше <lb/></w>
+
+<w>в<milestone unit="sic" n="start"/>е<milestone unit="sic" n="end"/>р<milestone unit="sic" n="start"/>а<milestone unit="sic" n="end"/>ги</w>
+<w>своя·</w>
+<w>и</w>
+<w>приведоша</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>братїа.</w>
+<w>поб<hi rend="sup">д</hi>ѣ<hi rend="sup">ї</hi>в′ше</w>
+<w>вороги</w>
+<w>своа.</w>
+<w>и</w>
+<w>прив<hi rend="sup">д</hi>е<hi rend="sup">о</hi>шѧ <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>братья,</w>
+<w>побѣдивше</w>
+<w>врагы</w>
+<w>своя,</w>
+<w>и</w>
+<w>приведоша</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>братия,</w>
+<w>побѣдивъше</w>
+<w>врагы</w>
+<w>своя,</w>
+<w>и</w>
+<w>приведоша</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>братья,</w>
+<w>побѣдивше</w>
+<w>врагы</w>
+<w>своя,</w>
+<w>и</w>
+<w>приведоша</w>
+</rdg>
+</app></p></div></body></text></TEI>

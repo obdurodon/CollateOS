@@ -1,103 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>228, 2</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="2">
-            <p>
-               <app>
-                  <lem>
-                     <w>Володимиръ</w>
-                     <w>отрока</w>
-                     <w>своего</w>
-                     <w>Бяидюка</w>
-                     <w>по</w>
-                     <w>Итлареву</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>во<lb/>лодимеръ</w>
-                        <w>ѡтрока</w>
-                        <w>своѥго</w>
-                        <w>бѧ<lb/>ндюка</w>
-                        <w>по</w>
-                        <w>итлареву</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>володимеръ·</w>
-                        <w>ѿрока</w>
-                        <w>своего·</w>
-                        <w>бѧидюка·</w>
-                        <w>по</w>
-                        <w>итларю</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>володимиръ <lb/>
-                        </w>
-                        <w>ѡтрока</w>
-                        <w>своего·</w>
-                        <w>бѧидюка</w>
-                        <w>по</w>
-                        <w>итларевѹ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>володі<lb/>меръ</w>
-                        <w>ѡтрока</w>
-                        <w>своего</w>
-                        <w>бѧидю<lb/>ка</w>
-                        <w>по</w>
-                        <w>ита<hi rend="sup">л</hi>реву</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>мерь</w>
-                        <w>отрока</w>
-                        <w>своего</w>
-                        <w>баидоука</w>
-                        <w>по</w>
-                        <w>итла<lb/>ревоу</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Володимеръ</w>
-                        <w>отрока</w>
-                        <w>своего</w>
-                        <w>Бяндюка</w>
-                        <w>по</w>
-                        <w>Итлареву</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Володимеръ</w>
-                        <w>отрока</w>
-                        <w>своего</w>
-                        <w>Бяидюка</w>
-                        <w>по</w>
-                        <w>Итлареву</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Володимеръ</w>
-                        <w>отрока</w>
-                        <w>своего</w>
-                        <w>Бяндюка</w>
-                        <w>по</w>
-                        <w>Итлареву</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>228, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="2"><p>
+<app>
+<lem wit="#lem">
+<w>Володимиръ</w>
+<w>отрока</w>
+<w>своего</w>
+<w>Бяидюка</w>
+<w>по</w>
+<w>Итлареву</w>
+</lem>
+
+<rdg wit="#lav">
+<w>во<lb/>лодимеръ</w>
+<w>ѡтрока</w>
+<w>своѥго</w>
+<w>бѧ<lb/>ндюка</w>
+<w>по</w>
+<w>итлареву</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>володимеръ·</w>
+<w>ѿрока</w>
+<w>своего·</w>
+<w>бѧидюка·</w>
+<w>по</w>
+<w>итларю</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>володимиръ <lb/></w>
+
+<w>ѡтрока</w>
+<w>своего·</w>
+<w>бѧидюка</w>
+<w>по</w>
+<w>итларевѹ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>володі<lb/>меръ</w>
+<w>ѡтрока</w>
+<w>своего</w>
+<w>бѧидю<lb/>ка</w>
+<w>по</w>
+<w>ита<hi rend="sup">л</hi>реву</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>мерь</w>
+<w>отрока</w>
+<w>своего</w>
+<w>баидоука</w>
+<w>по</w>
+<w>итла<lb/>ревоу</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Володимеръ</w>
+<w>отрока</w>
+<w>своего</w>
+<w>Бяндюка</w>
+<w>по</w>
+<w>Итлареву</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Володимеръ</w>
+<w>отрока</w>
+<w>своего</w>
+<w>Бяидюка</w>
+<w>по</w>
+<w>Итлареву</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Володимеръ</w>
+<w>отрока</w>
+<w>своего</w>
+<w>Бяндюка</w>
+<w>по</w>
+<w>Итлареву</w>
+</rdg>
+</app></p></div></body></text></TEI>

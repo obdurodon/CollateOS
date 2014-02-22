@@ -1,113 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>234, 11</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="11">
-            <p>
-               <app>
-                  <lem>
-                     <w>Хвалиси,</w>
-                     <w>а</w>
-                     <w>сынове</w>
-                     <w>Амонови</w>
-                     <w>Българе,</w>
-                     <w>а</w>
-                     <w>Срацини</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>хвалиси·</w>
-                        <w>а</w>
-                        <w>снв҃е</w>
-                        <w>аммо<lb/>нови</w>
-                        <w>болгаре·</w>
-                        <w>а</w>
-                        <w>срацини</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>хвалисе·</w>
-                        <w>а</w>
-                        <w>сн҃ве</w>
-                        <w>амонови·</w>
-                        <w>болгаре·</w>
-                        <w>а</w>
-                        <w>сра<lb/>цины·</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>хвалисе·̏·</w>
-                        <w>а</w>
-                        <w>сн҃ве</w>
-                        <w>амоно<lb/>ви</w>
-                        <w>болгаре·</w>
-                        <w>а</w>
-                        <w>срацины·̏</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>хвалисе·</w>
-                        <w>а</w>
-                        <w>снв҃е</w>
-                        <w>амонові <lb/>
-                        </w>
-                        <w>болгаре·</w>
-                        <w>а</w>
-                        <w>срацини</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>хвалисе.</w>
-                        <w>а</w>
-                        <w>сн҃ѡве</w>
-                        <w>амонови</w>
-                        <w>болгаре <lb/>
-                        </w>
-                        <w>а</w>
-                        <w>срацини</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Хвалиси,</w>
-                        <w>а</w>
-                        <w>сынове</w>
-                        <w>Аммонови</w>
-                        <w>Болгаре,</w>
-                        <w>а</w>
-                        <w>Срацини</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Хвалиси,</w>
-                        <w>а</w>
-                        <w>сынове</w>
-                        <w>Аммонови</w>
-                        <w>Българе,</w>
-                        <w>а</w>
-                        <w>Срацини</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>хвалиси,</w>
-                        <w>а</w>
-                        <w>сынове</w>
-                        <w>Аммонови</w>
-                        <w>болгаре,</w>
-                        <w>а</w>
-                        <w>срацини</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>234, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="11"><p>
+<app>
+<lem wit="#lem">
+<w>Хвалиси,</w>
+<w>а</w>
+<w>сынове</w>
+<w>Амонови</w>
+<w>Българе,</w>
+<w>а</w>
+<w>Срацини</w>
+</lem>
+
+<rdg wit="#lav">
+<w>хвалиси·</w>
+<w>а</w>
+<w>снв҃е</w>
+<w>аммо<lb/>нови</w>
+<w>болгаре·</w>
+<w>а</w>
+<w>срацини</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>хвалисе·</w>
+<w>а</w>
+<w>сн҃ве</w>
+<w>амонови·</w>
+<w>болгаре·</w>
+<w>а</w>
+<w>сра<lb/>цины·</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>хвалисе·̏·</w>
+<w>а</w>
+<w>сн҃ве</w>
+<w>амоно<lb/>ви</w>
+<w>болгаре·</w>
+<w>а</w>
+<w>срацины·̏</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>хвалисе·</w>
+<w>а</w>
+<w>снв҃е</w>
+<w>амонові <lb/></w>
+
+<w>болгаре·</w>
+<w>а</w>
+<w>срацини</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>хвалисе.</w>
+<w>а</w>
+<w>сн҃ѡве</w>
+<w>амонови</w>
+<w>болгаре <lb/></w>
+
+<w>а</w>
+<w>срацини</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Хвалиси,</w>
+<w>а</w>
+<w>сынове</w>
+<w>Аммонови</w>
+<w>Болгаре,</w>
+<w>а</w>
+<w>Срацини</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Хвалиси,</w>
+<w>а</w>
+<w>сынове</w>
+<w>Аммонови</w>
+<w>Българе,</w>
+<w>а</w>
+<w>Срацини</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>хвалиси,</w>
+<w>а</w>
+<w>сынове</w>
+<w>Аммонови</w>
+<w>болгаре,</w>
+<w>а</w>
+<w>срацини</w>
+</rdg>
+</app></p></div></body></text></TEI>

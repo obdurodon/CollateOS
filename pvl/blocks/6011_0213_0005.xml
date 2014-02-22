@@ -1,106 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>213, 5</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="5">
-            <p>
-               <app>
-                  <lem>
-                     <w>на</w>
-                     <w>раку</w>
-                     <w>твою,</w>
-                     <w>поминають</w>
-                     <w>учение</w>
-                     <w>твое</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>на</w>
-                        <w>ра<lb/>ку</w>
-                        <w>твою·</w>
-                        <w>поминають</w>
-                        <w>оучень<lb/>е</w>
-                        <w>твоѥ·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>на</w>
-                        <w>ракоу</w>
-                        <w>твою·</w>
-                        <w>поми<lb/>нають</w>
-                        <w>оучение</w>
-                        <w>твое·</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>на</w>
-                        <w>ра<lb/>кѹ</w>
-                        <w>твою·</w>
-                        <w>поминаютъ</w>
-                        <w>оученїе</w>
-                        <w>твое</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>на</w>
-                        <w>руку <lb/>
-                        </w>
-                        <w>твою</w>
-                        <w>поминають</w>
-                        <w>оученье <lb/>
-                        </w>
-                        <w>твое·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>на</w>
-                        <w>ракоу</w>
-                        <w>твою.</w>
-                        <w>пѡминаю<hi rend="sup">т</hi>
-                        </w>
-                        <w>оученїе</w>
-                        <w>твое. <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>на</w>
-                        <w>раку</w>
-                        <w>твою,</w>
-                        <w>поминають</w>
-                        <w>ученье</w>
-                        <w>твое</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>на</w>
-                        <w>раку</w>
-                        <w>твою,</w>
-                        <w>поминають</w>
-                        <w>учение</w>
-                        <w>твое</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>на</w>
-                        <w>раку</w>
-                        <w>твою,</w>
-                        <w>поминають</w>
-                        <w>ученье</w>
-                        <w>твое</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>213, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="5"><p>
+<app>
+<lem wit="#lem">
+<w>на</w>
+<w>раку</w>
+<w>твою,</w>
+<w>поминають</w>
+<w>учение</w>
+<w>твое</w>
+</lem>
+
+<rdg wit="#lav">
+<w>на</w>
+<w>ра<lb/>ку</w>
+<w>твою·</w>
+<w>поминають</w>
+<w>оучень<lb/>е</w>
+<w>твоѥ·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>на</w>
+<w>ракоу</w>
+<w>твою·</w>
+<w>поми<lb/>нають</w>
+<w>оучение</w>
+<w>твое·</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>на</w>
+<w>ра<lb/>кѹ</w>
+<w>твою·</w>
+<w>поминаютъ</w>
+<w>оученїе</w>
+<w>твое</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>на</w>
+<w>руку <lb/></w>
+
+<w>твою</w>
+<w>поминають</w>
+<w>оученье <lb/></w>
+
+<w>твое·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>на</w>
+<w>ракоу</w>
+<w>твою.</w>
+<w>пѡминаю<hi rend="sup">т</hi></w>
+<w>оученїе</w>
+<w>твое. <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>на</w>
+<w>раку</w>
+<w>твою,</w>
+<w>поминають</w>
+<w>ученье</w>
+<w>твое</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>на</w>
+<w>раку</w>
+<w>твою,</w>
+<w>поминають</w>
+<w>учение</w>
+<w>твое</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>на</w>
+<w>раку</w>
+<w>твою,</w>
+<w>поминають</w>
+<w>ученье</w>
+<w>твое</w>
+</rdg>
+</app></p></div></body></text></TEI>

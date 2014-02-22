@@ -1,136 +1,112 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>55, 19</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="19">
-            <p>
-               <app>
-                  <lem>
-                     <w>текущи</w>
-                     <w>възлѣ</w>
-                     <w>горы</w>
-                     <w>Кыевьскыя,</w>
-                     <w>и</w>
-                     <w>на</w>
-                     <w>подольи</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>текущи.</w>
-                        <w>въздолѣ</w>
-                        <w>го<lb/>
-                        </w>
-                        <w>
-                           <sic>р</sic>ы</w>
-                        <w>киевьския.</w>
-                        <w>и</w>
-                        <w>на</w>
-                        <w>подольи</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>тог<hi rend="sup">д</hi>а</w>
-                        <w>възлѣ</w>
-                        <w>горы</w>
-                        <w>киевьские.</w>
-                        <w>на</w>
-                        <w>по<lb/>долии</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>то<lb/>г<hi rend="sup">д</hi>а</w>
-                        <w>воѕлѣ</w>
-                        <w>горы</w>
-                        <w>кїевьскїа.</w>
-                        <w>на</w>
-                        <w>подолїи</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>текущи</w>
-                        <w>возлѣ</w>
-                        <w>горы</w>
-                        <w>кье<lb/>вьскыя.</w>
-                        <w>и</w>
-                        <w>на</w>
-                        <w>подолѣ</w>
-                        <w>
-                           <pb n="22a"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>текоущи</w>
-                        <w>възле</w>
-                        <w>горы</w>
-                        <w>кыевскыа.</w>
-                        <w>и</w>
-                        <w>на</w>
-                        <w>подолѣ</w>
-                        <w>
-                           <pb n="21v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>текущи</w>
-                        <w>подлѣ</w>
-                        <w>горы</w>
-                        <w>кыевьскыя</w>
-                        <w>и</w>
-                        <w>на</w>
-                        <w>полѣ</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>текущи</w>
-                        <w>подлѣ</w>
-                        <w>горы</w>
-                        <w>киевския</w>
-                        <w>и</w>
-                        <w>на</w>
-                        <w>подолѣ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>текущи</w>
-                        <w>въздолѣ</w>
-                        <w>горы</w>
-                        <w>Киевьския,</w>
-                        <w>и</w>
-                        <w>на</w>
-                        <w>подольи</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>текущи</w>
-                        <w>въздълѣ</w>
-                        <w>горы</w>
-                        <w>Кыевьскыя,</w>
-                        <w>и</w>
-                        <w>на</w>
-                        <w>подолии</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>текущи</w>
-                        <w>въздолѣ</w>
-                        <w>горы</w>
-                        <w>Киевьския,</w>
-                        <w>и</w>
-                        <w>на</w>
-                        <w>подольи</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>55, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="19"><p>
+<app>
+<lem wit="#lem">
+<w>текущи</w>
+<w>възлѣ</w>
+<w>горы</w>
+<w>Кыевьскыя,</w>
+<w>и</w>
+<w>на</w>
+<w>подольи</w>
+</lem>
+
+<rdg wit="#lav">
+<w>текущи.</w>
+<w>въздолѣ</w>
+<w>го<lb/><milestone unit="sic" n="start"/>р<milestone unit="sic" n="end"/>ы</w>
+<w>киевьския.</w>
+<w>и</w>
+<w>на</w>
+<w>подольи</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>тог<hi rend="sup">д</hi>а</w>
+<w>възлѣ</w>
+<w>горы</w>
+<w>киевьские.</w>
+<w>на</w>
+<w>по<lb/>долии</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>то<lb/>г<hi rend="sup">д</hi>а</w>
+<w>воѕлѣ</w>
+<w>горы</w>
+<w>кїевьскїа.</w>
+<w>на</w>
+<w>подолїи</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>текущи</w>
+<w>возлѣ</w>
+<w>горы</w>
+<w>кье<lb/>вьскыя.</w>
+<w>и</w>
+<w>на</w>
+<w>подолѣ <pb n="22a"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>текоущи</w>
+<w>възле</w>
+<w>горы</w>
+<w>кыевскыа.</w>
+<w>и</w>
+<w>на</w>
+<w>подолѣ <pb n="21v"/></w>
+
+</rdg>
+
+<rdg wit="#kom">
+<w>текущи</w>
+<w>подлѣ</w>
+<w>горы</w>
+<w>кыевьскыя</w>
+<w>и</w>
+<w>на</w>
+<w>полѣ</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>текущи</w>
+<w>подлѣ</w>
+<w>горы</w>
+<w>киевския</w>
+<w>и</w>
+<w>на</w>
+<w>подолѣ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>текущи</w>
+<w>въздолѣ</w>
+<w>горы</w>
+<w>Киевьския,</w>
+<w>и</w>
+<w>на</w>
+<w>подольи</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>текущи</w>
+<w>въздълѣ</w>
+<w>горы</w>
+<w>Кыевьскыя,</w>
+<w>и</w>
+<w>на</w>
+<w>подолии</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>текущи</w>
+<w>въздолѣ</w>
+<w>горы</w>
+<w>Киевьския,</w>
+<w>и</w>
+<w>на</w>
+<w>подольи</w>
+</rdg>
+</app></p></div></body></text></TEI>

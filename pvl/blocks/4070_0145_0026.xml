@@ -1,110 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>145, 26</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="26">
-            <p>
-               <app>
-                  <lem>
-                     <w>
-                        <choice>
-                           <seg>бѣ</seg>
-                           <seg>бо</seg>
-                        </choice>
-                     </w>
-                     <w>Каинъ</w>
-                     <w>не</w>
-                     <w>вѣды</w>
-                     <w>мьщения</w>
-                     <w>прияти</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>бѣ</w>
-                        <w>каинъ <lb/>
-                        </w>
-                        <w>не</w>
-                        <w>вѣдыи</w>
-                        <w>мьщенья</w>
-                        <w>прияти <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>бѣ</w>
-                        <w>каинъ</w>
-                        <w>не</w>
-                        <w>вѣды</w>
-                        <w>мщениа</w>
-                        <w>приати</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>бѣ</w>
-                        <w>каинъ</w>
-                        <w>не</w>
-                        <w>ве<lb/>дыи</w>
-                        <w>мщенїа</w>
-                        <w>прїяти</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>бо</w>
-                        <w>каинъ</w>
-                        <w>не</w>
-                        <w>вѣды <lb/>
-                        </w>
-                        <w>мьщьния</w>
-                        <w>прияти</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>бо</w>
-                        <w>каинь</w>
-                        <w>не</w>
-                        <w>вѣдыи</w>
-                        <w>мьщенїа</w>
-                        <w>прїати</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>бѣ</w>
-                        <w>Каинъ</w>
-                        <w>не</w>
-                        <w>вѣдый</w>
-                        <w>мьщенья</w>
-                        <w>прияти</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>бѣ</w>
-                        <w>Каинъ</w>
-                        <w>не</w>
-                        <w>вѣды</w>
-                        <w>мьщения</w>
-                        <w>прияти</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>бѣ</w>
-                        <w>Каинъ</w>
-                        <w>не</w>
-                        <w>вѣдый</w>
-                        <w>мьщенья</w>
-                        <w>прияти</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>145, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="26"><p>
+<app>
+<lem wit="#lem">
+<w><choice><seg>бѣ</seg><seg>бо</seg></choice></w>
+<w>Каинъ</w>
+<w>не</w>
+<w>вѣды</w>
+<w>мьщения</w>
+<w>прияти</w>
+</lem>
+
+<rdg wit="#lav">
+<w>бѣ</w>
+<w>каинъ <lb/></w>
+
+<w>не</w>
+<w>вѣдыи</w>
+<w>мьщенья</w>
+<w>прияти <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>бѣ</w>
+<w>каинъ</w>
+<w>не</w>
+<w>вѣды</w>
+<w>мщениа</w>
+<w>приати</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>бѣ</w>
+<w>каинъ</w>
+<w>не</w>
+<w>ве<lb/>дыи</w>
+<w>мщенїа</w>
+<w>прїяти</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>бо</w>
+<w>каинъ</w>
+<w>не</w>
+<w>вѣды <lb/></w>
+
+<w>мьщьния</w>
+<w>прияти</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>бо</w>
+<w>каинь</w>
+<w>не</w>
+<w>вѣдыи</w>
+<w>мьщенїа</w>
+<w>прїати</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>бѣ</w>
+<w>Каинъ</w>
+<w>не</w>
+<w>вѣдый</w>
+<w>мьщенья</w>
+<w>прияти</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>бѣ</w>
+<w>Каинъ</w>
+<w>не</w>
+<w>вѣды</w>
+<w>мьщения</w>
+<w>прияти</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>бѣ</w>
+<w>Каинъ</w>
+<w>не</w>
+<w>вѣдый</w>
+<w>мьщенья</w>
+<w>прияти</w>
+</rdg>
+</app></p></div></body></text></TEI>

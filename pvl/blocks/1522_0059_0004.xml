@@ -1,135 +1,112 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>59, 4</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="4">
-            <p>
-               <app>
-                  <lem>
-                     <w>мои,</w>
-                     <w>нъ</w>
-                     <w>сего</w>
-                     <w>у</w>
-                     <w>васъ</w>
-                     <w>прошю</w>
-                     <w>мала;</w>
-                     <w>изнемогли</w>
-                     <w>бо</w>
-                     <w>ся</w>
-                     <w>есте</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>мои</w>
-                        <w>сего</w>
-                        <w>прошю</w>
-                        <w>оу</w>
-                        <w>васъ</w>
-                        <w>мало.</w>
-                        <w>вы</w>
-                        <w>бо</w>
-                        <w>есте</w>
-                        <w>изъ<lb/>немогли</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>мои.</w>
-                        <w>но</w>
-                        <w>се<hi rend="sup">г</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>мои. <lb/>
-                        </w>
-                        <w>но</w>
-                        <w>сего</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>мои.</w>
-                        <w>но</w>
-                        <w>сего</w>
-                        <w>оу</w>
-                        <w>ва<hi rend="sup">с</hi> 
-                           <lb/>
-                        </w>
-                        <w>прошю</w>
-                        <w>мала.</w>
-                        <w>изнемогли <lb/>
-                        </w>
-                        <w>бо</w>
-                        <w>сѧ</w>
-                        <w>есте</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>мои.</w>
-                        <w>но</w>
-                        <w>сего</w>
-                        <w>оу</w>
-                        <w>ва<hi rend="sup">с</hi>
-                        </w>
-                        <w>прошоу</w>
-                        <w>мала.</w>
-                        <w>изне<lb/>могли</w>
-                        <w>бо</w>
-                        <w>сѧ</w>
-                        <w>есте</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>мой,</w>
-                        <w>сего</w>
-                        <w>прошю</w>
-                        <w>у</w>
-                        <w>васъ</w>
-                        <w>мало,</w>
-                        <w>вы</w>
-                        <w>бо</w>
-                        <w>есте</w>
-                        <w>изънемогли</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>мои,</w>
-                        <w>нъ</w>
-                        <w>сего</w>
-                        <w>прошю</w>
-                        <w>у</w>
-                        <w>васъ</w>
-                        <w>мала;</w>
-                        <w>вы</w>
-                        <w>бо</w>
-                        <w>ся</w>
-                        <w>есте</w>
-                        <w>изнемогли</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>мой</w>
-                        <w>сего</w>
-                        <w>прошю</w>
-                        <w>у</w>
-                        <w>васъ</w>
-                        <w>мало.</w>
-                        <w>Вы</w>
-                        <w>бо</w>
-                        <w>есте</w>
-                        <w>изънемогли</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>59, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="4"><p>
+<app>
+<lem wit="#lem">
+<w>мои,</w>
+<w>нъ</w>
+<w>сего</w>
+<w>у</w>
+<w>васъ</w>
+<w>прошю</w>
+<w>мала;</w>
+<w>изнемогли</w>
+<w>бо</w>
+<w>ся</w>
+<w>есте</w>
+</lem>
+
+<rdg wit="#lav">
+<w>мои</w>
+<w>сего</w>
+<w>прошю</w>
+<w>оу</w>
+<w>васъ</w>
+<w>мало.</w>
+<w>вы</w>
+<w>бо</w>
+<w>есте</w>
+<w>изъ<lb/>немогли</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>мои.</w>
+<w>но</w>
+<w>се<hi rend="sup">г</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>мои. <lb/></w>
+
+<w>но</w>
+<w>сего</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>мои.</w>
+<w>но</w>
+<w>сего</w>
+<w>оу</w>
+<w>ва<hi rend="sup">с</hi><lb/></w>
+<w>прошю</w>
+<w>мала.</w>
+<w>изнемогли <lb/></w>
+
+<w>бо</w>
+<w>сѧ</w>
+<w>есте</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>мои.</w>
+<w>но</w>
+<w>сего</w>
+<w>оу</w>
+<w>ва<hi rend="sup">с</hi></w>
+<w>прошоу</w>
+<w>мала.</w>
+<w>изне<lb/>могли</w>
+<w>бо</w>
+<w>сѧ</w>
+<w>есте</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>мой,</w>
+<w>сего</w>
+<w>прошю</w>
+<w>у</w>
+<w>васъ</w>
+<w>мало,</w>
+<w>вы</w>
+<w>бо</w>
+<w>есте</w>
+<w>изънемогли</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>мои,</w>
+<w>нъ</w>
+<w>сего</w>
+<w>прошю</w>
+<w>у</w>
+<w>васъ</w>
+<w>мала;</w>
+<w>вы</w>
+<w>бо</w>
+<w>ся</w>
+<w>есте</w>
+<w>изнемогли</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>мой</w>
+<w>сего</w>
+<w>прошю</w>
+<w>у</w>
+<w>васъ</w>
+<w>мало.</w>
+<w>Вы</w>
+<w>бо</w>
+<w>есте</w>
+<w>изънемогли</w>
+</rdg>
+</app></p></div></body></text></TEI>

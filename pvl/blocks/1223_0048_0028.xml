@@ -1,111 +1,91 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>48, 28</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="28">
-            <p>
-               <app>
-                  <lem>
-                     <w>имена</w>
-                     <w>ихъ,</w>
-                     <w>и</w>
-                     <w>тъгда</w>
-                     <w>възьмуть</w>
-                     <w>мѣсячьное</w>
-                     <w>свое,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>имѧна <lb/>
-                        </w>
-                        <w>ваша.</w>
-                        <w>тогда</w>
-                        <w>возмуть</w>
-                        <w>мѣсѧчное</w>
-                        <w>свое</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>имена</w>
-                        <w>и<hi rend="sup">х</hi>.</w>
-                        <w>и</w>
-                        <w>тогда</w>
-                        <w>во<lb/>змѹть</w>
-                        <w>мѣсѧчинѹ</w>
-                        <w>свое.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>имена</w>
-                        <w>ихъ.</w>
-                        <w>и</w>
-                        <w>тог<hi rend="sup">д</hi>а</w>
-                        <w>возмѹть</w>
-                        <w>мѣсѧ<lb/>чное</w>
-                        <w>свое</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>имена</w>
-                        <w>ихъ.</w>
-                        <w>и</w>
-                        <w>тог<hi rend="sup">д</hi>а <lb/>
-                        </w>
-                        <w>възмуть</w>
-                        <w>мѣсѧ<sic>ч</sic>ьное</w>
-                        <w>сво<lb/>е.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>имена</w>
-                        <w>и<hi rend="sup">х</hi>.</w>
-                        <w>и</w>
-                        <w>тог<hi rend="sup">д</hi>а</w>
-                        <w>въ<lb/>змоу<hi rend="sup">т</hi>
-                        </w>
-                        <w>мѣсѧчное</w>
-                        <w>свое</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>имяна</w>
-                        <w>ваша,</w>
-                        <w>тогда</w>
-                        <w>возмуть</w>
-                        <w>мѣсячное</w>
-                        <w>свое,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>имена</w>
-                        <w>ваша,</w>
-                        <w>и</w>
-                        <w>тъгда</w>
-                        <w>възьмуть</w>
-                        <w>мѣсячьное</w>
-                        <w>свое,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>имяна</w>
-                        <w>ваша,</w>
-                        <w>тогда</w>
-                        <w>возмуть</w>
-                        <w>мѣсячное</w>
-                        <w>свое,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>48, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="28"><p>
+<app>
+<lem wit="#lem">
+<w>имена</w>
+<w>ихъ,</w>
+<w>и</w>
+<w>тъгда</w>
+<w>възьмуть</w>
+<w>мѣсячьное</w>
+<w>свое,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>имѧна <lb/></w>
+
+<w>ваша.</w>
+<w>тогда</w>
+<w>возмуть</w>
+<w>мѣсѧчное</w>
+<w>свое</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>имена</w>
+<w>и<hi rend="sup">х</hi>.</w>
+<w>и</w>
+<w>тогда</w>
+<w>во<lb/>змѹть</w>
+<w>мѣсѧчинѹ</w>
+<w>свое.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>имена</w>
+<w>ихъ.</w>
+<w>и</w>
+<w>тог<hi rend="sup">д</hi>а</w>
+<w>возмѹть</w>
+<w>мѣсѧ<lb/>чное</w>
+<w>свое</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>имена</w>
+<w>ихъ.</w>
+<w>и</w>
+<w>тог<hi rend="sup">д</hi>а <lb/></w>
+
+<w>възмуть</w>
+<w>мѣсѧ<milestone unit="sic" n="start"/>ч<milestone unit="sic" n="end"/>ьное</w>
+<w>сво<lb/>е.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>имена</w>
+<w>и<hi rend="sup">х</hi>.</w>
+<w>и</w>
+<w>тог<hi rend="sup">д</hi>а</w>
+<w>въ<lb/>змоу<hi rend="sup">т</hi></w>
+<w>мѣсѧчное</w>
+<w>свое</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>имяна</w>
+<w>ваша,</w>
+<w>тогда</w>
+<w>возмуть</w>
+<w>мѣсячное</w>
+<w>свое,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>имена</w>
+<w>ваша,</w>
+<w>и</w>
+<w>тъгда</w>
+<w>възьмуть</w>
+<w>мѣсячьное</w>
+<w>свое,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>имяна</w>
+<w>ваша,</w>
+<w>тогда</w>
+<w>возмуть</w>
+<w>мѣсячное</w>
+<w>свое,</w>
+</rdg>
+</app></p></div></body></text></TEI>

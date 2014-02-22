@@ -1,120 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>144, 18</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="18">
-            <p>
-               <app>
-                  <lem>
-                     <w>рекъ:</w>
-                     <w>“Брата</w>
-                     <w>моя,</w>
-                     <w>аще</w>
-                     <w>еста</w>
-                     <w>тѣлъмь</w>
-                     <w>отъшьла</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>и</w>
-                        <w>рекъ.</w>
-                        <w>брата</w>
-                        <w>моя</w>
-                        <w>аще</w>
-                        <w>е<lb/>ста</w>
-                        <w>и</w>
-                        <w>тѣломь</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>рекъ.</w>
-                        <w>бра<hi rend="sup">т</hi>а</w>
-                        <w>моа</w>
-                        <w>аще</w>
-                        <w>еста</w>
-                        <w>тѣло<hi rend="sup">м</hi>
-                        </w>
-                        <w>ѿшла</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>рекь.</w>
-                        <w>брать<lb/>я</w>
-                        <w>моѧ</w>
-                        <w>аще</w>
-                        <w>еста</w>
-                        <w>тѣломъ</w>
-                        <w>ѿош<hi rend="sup">л</hi>а</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>рекъ.</w>
-                        <w>бра<lb/>та</w>
-                        <w>моя.</w>
-                        <w>аще</w>
-                        <w>есте</w>
-                        <w>ѿсюду <lb/>
-                        </w>
-                        <w>тѣломъ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ре<hi rend="sup">к</hi>,</w>
-                        <w>бра<hi rend="sup">т</hi>а</w>
-                        <w>моа</w>
-                        <w>аще</w>
-                        <w>еста</w>
-                        <w>тѣлѡ<hi rend="sup">м</hi> 
-                           <lb/>
-                        </w>
-                        <w>далеча</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>рекъ:</w>
-                        <w>“брата</w>
-                        <w>моя!</w>
-                        <w>аще</w>
-                        <w>еста</w>
-                        <w>и</w>
-                        <w>тѣломь</w>
-                        <w>отошла</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>рекъ:</w>
-                        <w>“брата</w>
-                        <w>моя!</w>
-                        <w>аще</w>
-                        <w>еста</w>
-                        <w>и</w>
-                        <w>тѣлъмь</w>
-                        <w>отъшьла</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>и</w>
-                        <w>рекъ:</w>
-                        <w>“Брата</w>
-                        <w>моя!</w>
-                        <w>Аще</w>
-                        <w>еста</w>
-                        <w>и</w>
-                        <w>тѣломь</w>
-                        <w>отошла</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>144, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="18"><p>
+<app>
+<lem wit="#lem">
+<w>рекъ:</w>
+<w>“Брата</w>
+<w>моя,</w>
+<w>аще</w>
+<w>еста</w>
+<w>тѣлъмь</w>
+<w>отъшьла</w>
+</lem>
+
+<rdg wit="#lav">
+<w>и</w>
+<w>рекъ.</w>
+<w>брата</w>
+<w>моя</w>
+<w>аще</w>
+<w>е<lb/>ста</w>
+<w>и</w>
+<w>тѣломь</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>рекъ.</w>
+<w>бра<hi rend="sup">т</hi>а</w>
+<w>моа</w>
+<w>аще</w>
+<w>еста</w>
+<w>тѣло<hi rend="sup">м</hi></w>
+<w>ѿшла</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>рекь.</w>
+<w>брать<lb/>я</w>
+<w>моѧ</w>
+<w>аще</w>
+<w>еста</w>
+<w>тѣломъ</w>
+<w>ѿош<hi rend="sup">л</hi>а</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>рекъ.</w>
+<w>бра<lb/>та</w>
+<w>моя.</w>
+<w>аще</w>
+<w>есте</w>
+<w>ѿсюду <lb/></w>
+
+<w>тѣломъ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ре<hi rend="sup">к</hi>,</w>
+<w>бра<hi rend="sup">т</hi>а</w>
+<w>моа</w>
+<w>аще</w>
+<w>еста</w>
+<w>тѣлѡ<hi rend="sup">м</hi><lb/></w>
+<w>далеча</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>рекъ:</w>
+<w>“брата</w>
+<w>моя!</w>
+<w>аще</w>
+<w>еста</w>
+<w>и</w>
+<w>тѣломь</w>
+<w>отошла</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>рекъ:</w>
+<w>“брата</w>
+<w>моя!</w>
+<w>аще</w>
+<w>еста</w>
+<w>и</w>
+<w>тѣлъмь</w>
+<w>отъшьла</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>и</w>
+<w>рекъ:</w>
+<w>“Брата</w>
+<w>моя!</w>
+<w>Аще</w>
+<w>еста</w>
+<w>и</w>
+<w>тѣломь</w>
+<w>отошла</w>
+</rdg>
+</app></p></div></body></text></TEI>

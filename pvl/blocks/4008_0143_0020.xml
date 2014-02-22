@@ -1,100 +1,77 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>143, 20</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="20">
-            <p>
-               <app>
-                  <lem>
-                     <w>съ</w>
-                     <w>Новъгородьци</w>
-                     <w>расѣкоша</w>
-                     <w>лодия</w>
-                     <w>Ярославля,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>с</w>
-                        <w>новго<lb/>родьци.</w>
-                        <w>расѣкоша</w>
-                        <w>лодьѣ</w>
-                        <w>яро<lb/>славлѣ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>с</w>
-                        <w>новгоро<hi rend="sup">д</hi>ци</w>
-                        <w>рассекоша</w>
-                        <w>ло<hi rend="sup">д</hi>а.</w>
-                        <w>ярославлѧ.</w>
-                        <w>
-                           <pb n="81v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>с</w>
-                        <w>новогородци.</w>
-                        <w>рассѣкоша</w>
-                        <w>лодїѧ</w>
-                        <w>ярославлѧ.</w>
-                        <w>
-                           <pb n="75v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>с</w>
-                        <w>новь<lb/>городци</w>
-                        <w>расѣкоша</w>
-                        <w>лодья <lb/>
-                        </w>
-                        <w>ярославлѣ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>с</w>
-                        <w>новогорѡ<hi rend="sup">д</hi>ци</w>
-                        <w>ра<hi rend="sup">з</hi>сѣкоша</w>
-                        <w>л<hi rend="sup">д</hi>ю<hi rend="sup">ї</hi>а</w>
-                        <w>ярославлѧ,</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>с</w>
-                        <w>Новгородьци</w>
-                        <w>расѣкоша</w>
-                        <w>лодьѣ</w>
-                        <w>Ярославлѣ,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>съ</w>
-                        <w>Новъгородьци</w>
-                        <w>расѣкоша</w>
-                        <w>лодия</w>
-                        <w>Ярославля,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>с</w>
-                        <w>новгородьци</w>
-                        <w>расѣкоша</w>
-                        <w>лодьѣ</w>
-                        <w>Ярославлѣ,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>143, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="20"><p>
+<app>
+<lem wit="#lem">
+<w>съ</w>
+<w>Новъгородьци</w>
+<w>расѣкоша</w>
+<w>лодия</w>
+<w>Ярославля,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>с</w>
+<w>новго<lb/>родьци.</w>
+<w>расѣкоша</w>
+<w>лодьѣ</w>
+<w>яро<lb/>славлѣ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>с</w>
+<w>новгоро<hi rend="sup">д</hi>ци</w>
+<w>рассекоша</w>
+<w>ло<hi rend="sup">д</hi>а.</w>
+<w>ярославлѧ. <pb n="81v"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>с</w>
+<w>новогородци.</w>
+<w>рассѣкоша</w>
+<w>лодїѧ</w>
+<w>ярославлѧ. <pb n="75v"/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>с</w>
+<w>новь<lb/>городци</w>
+<w>расѣкоша</w>
+<w>лодья <lb/></w>
+
+<w>ярославлѣ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>с</w>
+<w>новогорѡ<hi rend="sup">д</hi>ци</w>
+<w>ра<hi rend="sup">з</hi>сѣкоша</w>
+<w>л<hi rend="sup">д</hi>ю<hi rend="sup">ї</hi>а</w>
+<w>ярославлѧ,</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>с</w>
+<w>Новгородьци</w>
+<w>расѣкоша</w>
+<w>лодьѣ</w>
+<w>Ярославлѣ,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>съ</w>
+<w>Новъгородьци</w>
+<w>расѣкоша</w>
+<w>лодия</w>
+<w>Ярославля,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>с</w>
+<w>новгородьци</w>
+<w>расѣкоша</w>
+<w>лодьѣ</w>
+<w>Ярославлѣ,</w>
+</rdg>
+</app></p></div></body></text></TEI>

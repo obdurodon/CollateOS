@@ -1,106 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>270, 29</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="29">
-            <p>
-               <app>
-                  <lem>
-                     <w>пришьдъ</w>
-                     <w>из</w>
-                     <w>Ляховъ,</w>
-                     <w>и</w>
-                     <w>посади</w>
-                     <w>жену</w>
-                     <w>свою</w>
-                     <w>у</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>пришедъ</w>
-                        <w>из</w>
-                        <w>лѧховъ· <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>посади</w>
-                        <w>жену</w>
-                        <w>свою</w>
-                        <w>оу</w>
-                     </rdg>
-                     <rdg wit="#rad"/>
-                     <rdg wit="#aka"/>
-                     <rdg wit="#ipa">
-                        <w>прише<lb/>дъ</w>
-                        <w>из</w>
-                        <w>лѧховъ·</w>
-                        <w>и</w>
-                        <w>посади</w>
-                        <w>жену <lb/>
-                        </w>
-                        <w>свою</w>
-                        <w>оу</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>прише<hi rend="sup">д</hi>
-                        </w>
-                        <w>из</w>
-                        <w>лѧховь</w>
-                        <w>и</w>
-                        <w>пос<hi rend="sup">д</hi>а<hi rend="sup">ї</hi> 
-                           <lb/>
-                        </w>
-                        <w>женоу</w>
-                        <w>свою</w>
-                        <w>оу</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>пришедъ</w>
-                        <w>из</w>
-                        <w>Ляховъ,</w>
-                        <w>и</w>
-                        <w>посади</w>
-                        <w>жену</w>
-                        <w>свою</w>
-                        <w>у</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>пришьдъ</w>
-                        <w>из</w>
-                        <w>Ляховъ,</w>
-                        <w>посади</w>
-                        <w>жену</w>
-                        <w>свою</w>
-                        <w>у</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>пришедъ</w>
-                        <w>из</w>
-                        <w>Ляховъ,</w>
-                        <w>и</w>
-                        <w>посади</w>
-                        <w>жену</w>
-                        <w>свою</w>
-                        <w>у</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="29"><p>
+<app>
+<lem wit="#lem">
+<w>пришьдъ</w>
+<w>из</w>
+<w>Ляховъ,</w>
+<w>и</w>
+<w>посади</w>
+<w>жену</w>
+<w>свою</w>
+<w>у</w>
+</lem>
+
+<rdg wit="#lav">
+<w>пришедъ</w>
+<w>из</w>
+<w>лѧховъ· <lb/></w>
+
+<w>и</w>
+<w>посади</w>
+<w>жену</w>
+<w>свою</w>
+<w>оу</w>
+</rdg>
+
+<rdg wit="#rad">
+</rdg>
+
+<rdg wit="#aka">
+</rdg>
+
+<rdg wit="#ipa">
+<w>прише<lb/>дъ</w>
+<w>из</w>
+<w>лѧховъ·</w>
+<w>и</w>
+<w>посади</w>
+<w>жену <lb/></w>
+
+<w>свою</w>
+<w>оу</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>прише<hi rend="sup">д</hi></w>
+<w>из</w>
+<w>лѧховь</w>
+<w>и</w>
+<w>пос<hi rend="sup">д</hi>а<hi rend="sup">ї</hi><lb/></w>
+<w>женоу</w>
+<w>свою</w>
+<w>оу</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>пришедъ</w>
+<w>из</w>
+<w>Ляховъ,</w>
+<w>и</w>
+<w>посади</w>
+<w>жену</w>
+<w>свою</w>
+<w>у</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>пришьдъ</w>
+<w>из</w>
+<w>Ляховъ,</w>
+<w>посади</w>
+<w>жену</w>
+<w>свою</w>
+<w>у</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>пришедъ</w>
+<w>из</w>
+<w>Ляховъ,</w>
+<w>и</w>
+<w>посади</w>
+<w>жену</w>
+<w>свою</w>
+<w>у</w>
+</rdg>
+</app></p></div></body></text></TEI>

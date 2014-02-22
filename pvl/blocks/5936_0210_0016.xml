@@ -1,142 +1,115 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>210, 16</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="16">
-            <p>
-               <app>
-                  <lem>
-                     <w>
-                        <choice>
-                           <seg>О сь чинъ же</seg>
-                           <seg>Въ тъ же часъ</seg>
-                        </choice>
-                     </w>
-                     <w>сѣдяста</w>
-                     <w>два</w>
-                     <w>брата</w>
-                     <w>въ</w>
-                     <w>манастыри,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ѡ <lb/>
-                        </w>
-                        <w>се</w>
-                        <w>чинь</w>
-                        <w>же</w>
-                        <w>сѣдѧста</w>
-                        <w>.в҃.</w>
-                        <w>брата <lb/>
-                        </w>
-                        <w>в</w>
-                        <w>манастыри.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ѡ</w>
-                        <w>си</w>
-                        <w>чи<lb/>ноу</w>
-                        <w>же</w>
-                        <w>седѧста</w>
-                        <w>.в҃</w>
-                        <w>бра<hi rend="sup">т</hi>.</w>
-                        <w>в</w>
-                        <w>монастыри.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ѡ <lb/>
-                        </w>
-                        <w>си</w>
-                        <w>чинѹ</w>
-                        <w>же</w>
-                        <w>седѧста</w>
-                        <w>два.</w>
-                        <w>брата</w>
-                        <w>оу</w>
-                        <w>монастыри.</w>
-                        <w>
-                           <pb n="111r"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>въ</w>
-                        <w>т</w>
-                        <w>же <lb/>
-                        </w>
-                        <w>ча<hi rend="sup">с</hi>
-                        </w>
-                        <w>сѣдѧста</w>
-                        <w>два</w>
-                        <w>бра<hi rend="sup">т</hi>
-                        </w>
-                        <w>в</w>
-                        <w>мана<lb/>стыри.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>въ</w>
-                        <w>тъ<hi rend="sup">и</hi>
-                        </w>
-                        <w>же</w>
-                        <w>ча<hi rend="sup">с</hi>
-                        </w>
-                        <w>сѣдѧста</w>
-                        <w>два <lb/>
-                        </w>
-                        <w>брата</w>
-                        <w>в</w>
-                        <w>манастыри</w>
-                        <w>блюдоуще.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>О</w>
-                        <w>се</w>
-                        <w>чинь</w>
-                        <w>же</w>
-                        <w>сѣдяста 2</w>
-                        <w>брата</w>
-                        <w>в</w>
-                        <w>манастыри,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>О</w>
-                        <w>сь</w>
-                        <w>чинъ</w>
-                        <w>же</w>
-                        <w>сѣдяста 2</w>
-                        <w>брата</w>
-                        <w>въ</w>
-                        <w>манастыри,</w>
-                        <w>блюдуща,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>О</w>
-                        <w>се</w>
-                        <w>чинь</w>
-                        <w>же</w>
-                        <w>сѣдяста 2</w>
-                        <w>брата</w>
-                        <w>в</w>
-                        <w>манастыри,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>210, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="16"><p>
+<app>
+<lem wit="#lem">
+<w><choice><seg>О сь чинъ же</seg><seg>Въ тъ же часъ</seg></choice></w>
+<w>сѣдяста</w>
+<w>два</w>
+<w>брата</w>
+<w>въ</w>
+<w>манастыри,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ѡ <lb/></w>
+
+<w>се</w>
+<w>чинь</w>
+<w>же</w>
+<w>сѣдѧста</w>
+<w>.в҃.</w>
+<w>брата <lb/></w>
+
+<w>в</w>
+<w>манастыри.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ѡ</w>
+<w>си</w>
+<w>чи<lb/>ноу</w>
+<w>же</w>
+<w>седѧста</w>
+<w>.в҃</w>
+<w>бра<hi rend="sup">т</hi>.</w>
+<w>в</w>
+<w>монастыри.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ѡ <lb/></w>
+
+<w>си</w>
+<w>чинѹ</w>
+<w>же</w>
+<w>седѧста</w>
+<w>два.</w>
+<w>брата</w>
+<w>оу</w>
+<w>монастыри. <pb n="111r"/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>въ</w>
+<w>т</w>
+<w>же <lb/></w>
+
+<w>ча<hi rend="sup">с</hi></w>
+<w>сѣдѧста</w>
+<w>два</w>
+<w>бра<hi rend="sup">т</hi></w>
+<w>в</w>
+<w>мана<lb/>стыри.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>въ</w>
+<w>тъ<hi rend="sup">и</hi></w>
+<w>же</w>
+<w>ча<hi rend="sup">с</hi></w>
+<w>сѣдѧста</w>
+<w>два <lb/></w>
+
+<w>брата</w>
+<w>в</w>
+<w>манастыри</w>
+<w>блюдоуще.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>О</w>
+<w>се</w>
+<w>чинь</w>
+<w>же</w>
+<w>сѣдяста 2</w>
+
+<w>брата</w>
+<w>в</w>
+<w>манастыри,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>О</w>
+<w>сь</w>
+<w>чинъ</w>
+<w>же</w>
+<w>сѣдяста 2</w>
+
+<w>брата</w>
+<w>въ</w>
+<w>манастыри,</w>
+<w>блюдуща,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>О</w>
+<w>се</w>
+<w>чинь</w>
+<w>же</w>
+<w>сѣдяста 2</w>
+
+<w>брата</w>
+<w>в</w>
+<w>манастыри,</w>
+</rdg>
+</app></p></div></body></text></TEI>

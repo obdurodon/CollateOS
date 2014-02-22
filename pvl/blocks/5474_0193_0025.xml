@@ -1,131 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>193, 25</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="25">
-            <p>
-               <app>
-                  <lem>
-                     <w>святыя</w>
-                     <w>Богородица,</w>
-                     <w>на</w>
-                     <w>Болъдинахъ</w>
-                     <w>горахъ</w>
-                     <w>и</w>
-                     <w>до</w>
-                     <w>сего</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ст҃ое</w>
-                        <w>бц҃и.</w>
-                        <w>на</w>
-                        <w>болдины<hi rend="sup">х</hi>
-                        </w>
-                        <w>горахъ.</w>
-                        <w>и</w>
-                        <w>до</w>
-                        <w>сего</w>
-                        <w>
-                           <pb n="65c"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ст҃ы</w>
-                        <w>бц҃и.</w>
-                        <w>на</w>
-                        <w>болдина<hi rend="sup">х</hi>
-                        </w>
-                        <w>гора<hi rend="sup">х</hi>.</w>
-                        <w>и</w>
-                        <w>до</w>
-                        <w>сего</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ст҃ыѧ</w>
-                        <w>бц<hi rend="sup">д</hi>а</w>
-                        <w>на</w>
-                        <w>болдина<hi rend="sup">х</hi> 
-                           <lb/>
-                        </w>
-                        <w>гора<hi rend="sup">х</hi>
-                        </w>
-                        <w>и</w>
-                        <w>до</w>
-                        <w>сего</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ст҃оѣ</w>
-                        <w>бц҃ѣ.</w>
-                        <w>на</w>
-                        <w>болдинахъ <lb/>
-                        </w>
-                        <w>горахъ.</w>
-                        <w>и</w>
-                        <w>до</w>
-                        <w>сихъ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ст҃ыа</w>
-                        <w>бц҃а</w>
-                        <w>на</w>
-                        <w>болди<lb/>на<hi rend="sup">х</hi>
-                        </w>
-                        <w>гора<hi rend="sup">х</hi>,</w>
-                        <w>и</w>
-                        <w>до</w>
-                        <w>си<hi rend="sup">х</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>святое</w>
-                        <w>Богородици,</w>
-                        <w>на</w>
-                        <w>Болдиныхъ</w>
-                        <w>горахъ,</w>
-                        <w>и</w>
-                        <w>до</w>
-                        <w>сего</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>святыя</w>
-                        <w>Богородица</w>
-                        <w>на</w>
-                        <w>Болъдинахъ</w>
-                        <w>горахъ</w>
-                        <w>и</w>
-                        <w>до</w>
-                        <w>сего</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>святое</w>
-                        <w>Богородици,</w>
-                        <w>на</w>
-                        <w>Болдиных</w>
-                        <w>горахъ,</w>
-                        <w>и</w>
-                        <w>до</w>
-                        <w>сего</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>193, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="25"><p>
+<app>
+<lem wit="#lem">
+<w>святыя</w>
+<w>Богородица,</w>
+<w>на</w>
+<w>Болъдинахъ</w>
+<w>горахъ</w>
+<w>и</w>
+<w>до</w>
+<w>сего</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ст҃ое</w>
+<w>бц҃и.</w>
+<w>на</w>
+<w>болдины<hi rend="sup">х</hi></w>
+<w>горахъ.</w>
+<w>и</w>
+<w>до</w>
+<w>сего <pb n="65c"/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>ст҃ы</w>
+<w>бц҃и.</w>
+<w>на</w>
+<w>болдина<hi rend="sup">х</hi></w>
+<w>гора<hi rend="sup">х</hi>.</w>
+<w>и</w>
+<w>до</w>
+<w>сего</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ст҃ыѧ</w>
+<w>бц<hi rend="sup">д</hi>а</w>
+<w>на</w>
+<w>болдина<hi rend="sup">х</hi><lb/></w>
+<w>гора<hi rend="sup">х</hi></w>
+<w>и</w>
+<w>до</w>
+<w>сего</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ст҃оѣ</w>
+<w>бц҃ѣ.</w>
+<w>на</w>
+<w>болдинахъ <lb/></w>
+
+<w>горахъ.</w>
+<w>и</w>
+<w>до</w>
+<w>сихъ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ст҃ыа</w>
+<w>бц҃а</w>
+<w>на</w>
+<w>болди<lb/>на<hi rend="sup">х</hi></w>
+<w>гора<hi rend="sup">х</hi>,</w>
+<w>и</w>
+<w>до</w>
+<w>си<hi rend="sup">х</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>святое</w>
+<w>Богородици,</w>
+<w>на</w>
+<w>Болдиныхъ</w>
+<w>горахъ,</w>
+<w>и</w>
+<w>до</w>
+<w>сего</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>святыя</w>
+<w>Богородица</w>
+<w>на</w>
+<w>Болъдинахъ</w>
+<w>горахъ</w>
+<w>и</w>
+<w>до</w>
+<w>сего</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>святое</w>
+<w>Богородици,</w>
+<w>на</w>
+<w>Болдиных</w>
+<w>горахъ,</w>
+<w>и</w>
+<w>до</w>
+<w>сего</w>
+</rdg>
+</app></p></div></body></text></TEI>

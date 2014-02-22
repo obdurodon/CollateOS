@@ -1,120 +1,101 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>32, 4</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="4">
-            <p>
-               <app>
-                  <lem>
-                     <w>крьстъ,</w>
-                     <w>а</w>
-                     <w>Ольга</w>
-                     <w>водивъше</w>
-                     <w>и</w>
-                     <w>мужа</w>
-                     <w>его</w>
-                     <w>на</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>крт<hi rend="sup">с</hi>ъ.</w>
-                        <w>а</w>
-                        <w>ѡлга</w>
-                        <w>води<lb/>вше</w>
-                        <w>на</w>
-                        <w>ротѹ</w>
-                        <w>и</w>
-                        <w>моу<hi rend="sup">ж</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>крт<hi rend="sup">с</hi>ъ <lb/>
-                        </w>
-                        <w>а</w>
-                        <w>ѡлга</w>
-                        <w>водивше</w>
-                        <w>на</w>
-                        <w>ротѹ</w>
-                        <w>и</w>
-                        <w>мѹжї</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>сами</w>
-                        <w>крт<hi rend="sup">с</hi>ъ.</w>
-                        <w>а</w>
-                        <w>ѡльга <lb/>
-                        </w>
-                        <w>водиша</w>
-                        <w>и</w>
-                        <w>мужии</w>
-                        <w>его</w>
-                        <w>на <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>сами</w>
-                        <w>крт<hi rend="sup">с</hi>ь.</w>
-                        <w>а</w>
-                        <w>ѡлга</w>
-                        <w>во<hi rend="sup">д</hi>ш<hi rend="sup">и</hi>а</w>
-                        <w>и</w>
-                        <w>мѫжа</w>
-                        <w>его</w>
-                        <w>на</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>сами</w>
-                        <w>крестъ,</w>
-                        <w>а</w>
-                        <w>Олга</w>
-                        <w>водивше</w>
-                        <w>на</w>
-                        <w>роту,</w>
-                        <w>и</w>
-                        <w>мужи</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>сами</w>
-                        <w>крьстъ,</w>
-                        <w>а</w>
-                        <w>Ольга</w>
-                        <w>водивъше</w>
-                        <w>на</w>
-                        <w>роту</w>
-                        <w>и</w>
-                        <w>мужа</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>сами</w>
-                        <w>крестъ,</w>
-                        <w>а</w>
-                        <w>Олга</w>
-                        <w>водивше</w>
-                        <w>на</w>
-                        <w>роту,</w>
-                        <w>и</w>
-                        <w>мужи</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>32, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="4"><p>
+<app>
+<lem wit="#lem">
+<w>крьстъ,</w>
+<w>а</w>
+<w>Ольга</w>
+<w>водивъше</w>
+<w>и</w>
+<w>мужа</w>
+<w>его</w>
+<w>на</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>крт<hi rend="sup">с</hi>ъ.</w>
+<w>а</w>
+<w>ѡлга</w>
+<w>води<lb/>вше</w>
+<w>на</w>
+<w>ротѹ</w>
+<w>и</w>
+<w>моу<hi rend="sup">ж</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>крт<hi rend="sup">с</hi>ъ <lb/></w>
+
+<w>а</w>
+<w>ѡлга</w>
+<w>водивше</w>
+<w>на</w>
+<w>ротѹ</w>
+<w>и</w>
+<w>мѹжї</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>сами</w>
+<w>крт<hi rend="sup">с</hi>ъ.</w>
+<w>а</w>
+<w>ѡльга <lb/></w>
+
+<w>водиша</w>
+<w>и</w>
+<w>мужии</w>
+<w>его</w>
+<w>на <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>сами</w>
+<w>крт<hi rend="sup">с</hi>ь.</w>
+<w>а</w>
+<w>ѡлга</w>
+<w>во<hi rend="sup">д</hi>ш<hi rend="sup">и</hi>а</w>
+<w>и</w>
+<w>мѫжа</w>
+<w>его</w>
+<w>на</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>сами</w>
+<w>крестъ,</w>
+<w>а</w>
+<w>Олга</w>
+<w>водивше</w>
+<w>на</w>
+<w>роту,</w>
+<w>и</w>
+<w>мужи</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>сами</w>
+<w>крьстъ,</w>
+<w>а</w>
+<w>Ольга</w>
+<w>водивъше</w>
+<w>на</w>
+<w>роту</w>
+<w>и</w>
+<w>мужа</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>сами</w>
+<w>крестъ,</w>
+<w>а</w>
+<w>Олга</w>
+<w>водивше</w>
+<w>на</w>
+<w>роту,</w>
+<w>и</w>
+<w>мужи</w>
+</rdg>
+</app></p></div></body></text></TEI>

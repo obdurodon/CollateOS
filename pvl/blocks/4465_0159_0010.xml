@@ -1,119 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>159, 10</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="10">
-            <p>
-               <app>
-                  <lem>
-                     <w>отъ</w>
-                     <w>благословения</w>
-                     <w>Святыя</w>
-                     <w>Горы</w>
-                     <w>пошьлъ.</w>
-                     <w>Манастыреви</w>
-                     <w>же</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ѿ</w>
-                        <w>блг<hi rend="sup">с</hi>нья</w>
-                        <w>ст҃ыя</w>
-                        <w>горы</w>
-                        <w>пошелъ.</w>
-                        <w>манастыреви</w>
-                        <w>же</w>
-                        <w>
-                           <pb n="54a"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ѿ</w>
-                        <w>блг҃ословлениа</w>
-                        <w>ст҃ыя <lb/>
-                        </w>
-                        <w>горы.</w>
-                        <w>поше<hi rend="sup">л</hi>.</w>
-                        <w>монастыреви</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ѿ</w>
-                        <w>блв<hi rend="sup">с</hi>ньѧ</w>
-                        <w>ст҃ыѧ</w>
-                        <w>горы</w>
-                        <w>пошелъ.</w>
-                        <w>монастыреви <lb/>
-                        </w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ѿ</w>
-                        <w>блгвн<hi rend="sup">с</hi>ия</w>
-                        <w>ст҃ыя</w>
-                        <w>горы. <lb/>
-                        </w>
-                        <w>пошелъ.</w>
-                        <w>манастыреви</w>
-                        <w>же <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ѿ</w>
-                        <w>бл<hi rend="sup">с</hi>венїа <lb/>
-                        </w>
-                        <w>ст҃ыа</w>
-                        <w>горы</w>
-                        <w>пошель.</w>
-                        <w>манастыреви</w>
-                        <w>же</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>отъ</w>
-                        <w>благословенья</w>
-                        <w>Святыя</w>
-                        <w>Горы</w>
-                        <w>пошелъ.</w>
-                        <w>Манастыреви</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>отъ</w>
-                        <w>благословения</w>
-                        <w>Святыя</w>
-                        <w>Горы</w>
-                        <w>пошьлъ.</w>
-                        <w>Манастыреви</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>от</w>
-                        <w>благословенья</w>
-                        <w>Святыя</w>
-                        <w>Горы</w>
-                        <w>пошелъ.</w>
-                        <w>Манастыреви</w>
-                        <w>же</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>159, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="10"><p>
+<app>
+<lem wit="#lem">
+<w>отъ</w>
+<w>благословения</w>
+<w>Святыя</w>
+<w>Горы</w>
+<w>пошьлъ.</w>
+<w>Манастыреви</w>
+<w>же</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ѿ</w>
+<w>блг<hi rend="sup">с</hi>нья</w>
+<w>ст҃ыя</w>
+<w>горы</w>
+<w>пошелъ.</w>
+<w>манастыреви</w>
+<w>же <pb n="54a"/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>ѿ</w>
+<w>блг҃ословлениа</w>
+<w>ст҃ыя <lb/></w>
+
+<w>горы.</w>
+<w>поше<hi rend="sup">л</hi>.</w>
+<w>монастыреви</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ѿ</w>
+<w>блв<hi rend="sup">с</hi>ньѧ</w>
+<w>ст҃ыѧ</w>
+<w>горы</w>
+<w>пошелъ.</w>
+<w>монастыреви <lb/></w>
+
+<w>же</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ѿ</w>
+<w>блгвн<hi rend="sup">с</hi>ия</w>
+<w>ст҃ыя</w>
+<w>горы. <lb/></w>
+
+<w>пошелъ.</w>
+<w>манастыреви</w>
+<w>же <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>ѿ</w>
+<w>бл<hi rend="sup">с</hi>венїа <lb/></w>
+
+<w>ст҃ыа</w>
+<w>горы</w>
+<w>пошель.</w>
+<w>манастыреви</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>отъ</w>
+<w>благословенья</w>
+<w>Святыя</w>
+<w>Горы</w>
+<w>пошелъ.</w>
+<w>Манастыреви</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>отъ</w>
+<w>благословения</w>
+<w>Святыя</w>
+<w>Горы</w>
+<w>пошьлъ.</w>
+<w>Манастыреви</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>от</w>
+<w>благословенья</w>
+<w>Святыя</w>
+<w>Горы</w>
+<w>пошелъ.</w>
+<w>Манастыреви</w>
+<w>же</w>
+</rdg>
+</app></p></div></body></text></TEI>

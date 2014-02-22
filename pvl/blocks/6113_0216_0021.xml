@@ -1,117 +1,97 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>216, 21</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="21">
-            <p>
-               <app>
-                  <lem>
-                     <w>вьсея</w>
-                     <w>братия</w>
-                     <w>столъ</w>
-                     <w>отьца</w>
-                     <w>своего,</w>
-                     <w>по</w>
-                     <w>съмьрти</w>
-                     <w>брата</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>всея</w>
-                        <w>бра<hi rend="sup">т</hi>я</w>
-                        <w>сто<lb/>лъ</w>
-                        <w>ѡц҃а</w>
-                        <w>своѥго</w>
-                        <w>по</w>
-                        <w>смр҃ти</w>
-                        <w>брата <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>столъ <lb/>
-                        </w>
-                        <w>ѡц҃а</w>
-                        <w>
-                           <add place="margin">сво</add>его</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>столъ</w>
-                        <w>ѿц҃а</w>
-                        <w>своего·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>всея</w>
-                        <w>бра<hi rend="sup">т</hi>я</w>
-                        <w>столъ</w>
-                        <w>ѡц҃а</w>
-                        <w>свое<hi rend="sup">г</hi>· <lb/>
-                        </w>
-                        <w>ї</w>
-                        <w>по</w>
-                        <w>смр҃ти</w>
-                        <w>брата</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>всеѧ</w>
-                        <w>братїи <lb/>
-                        </w>
-                        <w>столъ</w>
-                        <w>ѡц҃а</w>
-                        <w>своего.</w>
-                        <w>и</w>
-                        <w>по</w>
-                        <w>см҃рти</w>
-                        <w>брата</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>всея</w>
-                        <w>братья</w>
-                        <w>столъ</w>
-                        <w>отца</w>
-                        <w>своего,</w>
-                        <w>по</w>
-                        <w>смерти</w>
-                        <w>брата</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>вьсея</w>
-                        <w>братия</w>
-                        <w>столъ</w>
-                        <w>отьца</w>
-                        <w>своего,</w>
-                        <w>по</w>
-                        <w>съмьрти</w>
-                        <w>брата</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>всея</w>
-                        <w>братья</w>
-                        <w>столъ</w>
-                        <w>отца</w>
-                        <w>своего,</w>
-                        <w>по</w>
-                        <w>смерти</w>
-                        <w>брата</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>216, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="21"><p>
+<app>
+<lem wit="#lem">
+<w>вьсея</w>
+<w>братия</w>
+<w>столъ</w>
+<w>отьца</w>
+<w>своего,</w>
+<w>по</w>
+<w>съмьрти</w>
+<w>брата</w>
+</lem>
+
+<rdg wit="#lav">
+<w>всея</w>
+<w>бра<hi rend="sup">т</hi>я</w>
+<w>сто<lb/>лъ</w>
+<w>ѡц҃а</w>
+<w>своѥго</w>
+<w>по</w>
+<w>смр҃ти</w>
+<w>брата <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>столъ <lb/></w>
+
+<w>ѡц҃а</w>
+<w><milestone unit="add" n="start" place="margin"/>сво<milestone unit="add" n="end"/>его</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>столъ</w>
+<w>ѿц҃а</w>
+<w>своего·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>всея</w>
+<w>бра<hi rend="sup">т</hi>я</w>
+<w>столъ</w>
+<w>ѡц҃а</w>
+<w>свое<hi rend="sup">г</hi>· <lb/></w>
+
+<w>ї</w>
+<w>по</w>
+<w>смр҃ти</w>
+<w>брата</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>всеѧ</w>
+<w>братїи <lb/></w>
+
+<w>столъ</w>
+<w>ѡц҃а</w>
+<w>своего.</w>
+<w>и</w>
+<w>по</w>
+<w>см҃рти</w>
+<w>брата</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>всея</w>
+<w>братья</w>
+<w>столъ</w>
+<w>отца</w>
+<w>своего,</w>
+<w>по</w>
+<w>смерти</w>
+<w>брата</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>вьсея</w>
+<w>братия</w>
+<w>столъ</w>
+<w>отьца</w>
+<w>своего,</w>
+<w>по</w>
+<w>съмьрти</w>
+<w>брата</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>всея</w>
+<w>братья</w>
+<w>столъ</w>
+<w>отца</w>
+<w>своего,</w>
+<w>по</w>
+<w>смерти</w>
+<w>брата</w>
+</rdg>
+</app></p></div></body></text></TEI>

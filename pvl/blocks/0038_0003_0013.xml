@@ -1,107 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>3, 13</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="13">
-            <p>
-               <app>
-                  <lem>
-                     <w>Керькуру</w>
-                     <w>и</w>
-                     <w>часть</w>
-                     <w>вьсякоя</w>
-                     <w>страны</w>
-                     <w>и</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>керькуру</w>
-                        <w>часть</w>
-                        <w>всѧчьския</w>
-                        <w>ст<sic>раны</sic> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>керькуру</w>
-                        <w>ча ...</w>
-                        <w>нньская</w>
-                        <w>страны</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>керкоурѹ</w>
-                        <w>и</w>
-                        <w>часть <lb/>
-                        </w>
-                        <w>всѧкоа</w>
-                        <w>страны</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>керкѹрѹ.</w>
-                        <w>и</w>
-                        <w>часть</w>
-                        <w>всѧкоѧ</w>
-                        <w>стра<lb/>ны.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>керкуру.</w>
-                        <w>и</w>
-                        <w>часть</w>
-                        <w>всѧ<lb/>коя</w>
-                        <w>страны.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>керкѵроу.</w>
-                        <w>и</w>
-                        <w>часть</w>
-                        <w>всѧкоа <lb/>
-                        </w>
-                        <w>ст<sic>оро</sic>ны</w>
-                        <w>
-                           <sic>и</sic>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Керькуру,</w>
-                        <w>часть</w>
-                        <w>Асийскыя</w>
-                        <w>страны,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Керькуру</w>
-                        <w>и</w>
-                        <w>часть</w>
-                        <w>вьсячьскыя</w>
-                        <w>страны,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Керькуру,</w>
-                        <w>часть</w>
-                        <w>Асийскыя</w>
-                        <w>страны,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>3, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="13"><p>
+<app>
+<lem wit="#lem">
+<w>Керькуру</w>
+<w>и</w>
+<w>часть</w>
+<w>вьсякоя</w>
+<w>страны</w>
+<w>и</w>
+</lem>
+
+<rdg wit="#lav">
+<w>керькуру</w>
+<w>часть</w>
+<w>всѧчьския</w>
+<w>ст<milestone unit="sic" n="start"/>раны<milestone unit="sic" n="end"/><lb/></w>
+</rdg>
+
+<rdg wit="#tro">
+<w>керькуру</w>
+<w>ча ...</w>
+
+<w>нньская</w>
+<w>страны</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>керкоурѹ</w>
+<w>и</w>
+<w>часть <lb/></w>
+
+<w>всѧкоа</w>
+<w>страны</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>керкѹрѹ.</w>
+<w>и</w>
+<w>часть</w>
+<w>всѧкоѧ</w>
+<w>стра<lb/>ны.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>керкуру.</w>
+<w>и</w>
+<w>часть</w>
+<w>всѧ<lb/>коя</w>
+<w>страны.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>керкѵроу.</w>
+<w>и</w>
+<w>часть</w>
+<w>всѧкоа <lb/></w>
+
+<w>ст<milestone unit="sic" n="start"/>оро<milestone unit="sic" n="end"/>ны</w>
+<w><milestone unit="sic" n="start"/>и<milestone unit="sic" n="end"/></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Керькуру,</w>
+<w>часть</w>
+<w>Асийскыя</w>
+<w>страны,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Керькуру</w>
+<w>и</w>
+<w>часть</w>
+<w>вьсячьскыя</w>
+<w>страны,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Керькуру,</w>
+<w>часть</w>
+<w>Асийскыя</w>
+<w>страны,</w>
+</rdg>
+</app></p></div></body></text></TEI>

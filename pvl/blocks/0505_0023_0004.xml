@@ -1,118 +1,97 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>23, 4</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="4">
-            <p>
-               <app>
-                  <lem>
-                     <w>свои.</w>
-                     <w>И</w>
-                     <w>придоста</w>
-                     <w>къ</w>
-                     <w>горамъ</w>
-                     <w>Кыевьскимъ,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>свои.</w>
-                        <w>придоста</w>
-                        <w>къ</w>
-                        <w>горамъ</w>
-                        <w>хъ</w>
-                        <w>киевьскимъ.</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>и</w>
-                        <w>придоста</w>
-                        <w>къ</w>
-                        <w>горамъ</w>
-                        <w>киевьскимъ 60</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>свои. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>приидоста</w>
-                        <w>к</w>
-                        <w>гора<hi rend="sup">м</hi>
-                        </w>
-                        <w>киевьскимъ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>свои.</w>
-                        <w>и</w>
-                        <w>прїидоста</w>
-                        <w>к</w>
-                        <w>горамъ</w>
-                        <w>киевьскимъ. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>свои.</w>
-                        <w>и</w>
-                        <w>пр<hi rend="sup">и</hi> 
-                           <lb/>
-                        </w>
-                        <w>къ</w>
-                        <w>горамъ</w>
-                        <w>киевь<lb/>скымъ.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>свои.</w>
-                        <w>и</w>
-                        <w>приидоста</w>
-                        <w>къ</w>
-                        <w>гора<hi rend="sup">м</hi>
-                        </w>
-                        <w>кыевскы<hi rend="sup">м</hi>. <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>свои.</w>
-                        <w>И</w>
-                        <w>придоста</w>
-                        <w>къ</w>
-                        <w>горамъ</w>
-                        <w>хъ</w>
-                        <w>Киевьскимъ,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>свои.</w>
-                        <w>И</w>
-                        <w>придоста</w>
-                        <w>къ</w>
-                        <w>горамъ</w>
-                        <w>Кыевьскимъ,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>свои.</w>
-                        <w>И</w>
-                        <w>придоста</w>
-                        <w>къ</w>
-                        <w>горамъ</w>
-                        <w>хъ</w>
-                        <w>киевьскимъ,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>23, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="4"><p>
+<app>
+<lem wit="#lem">
+<w>свои.</w>
+<w>И</w>
+<w>придоста</w>
+<w>къ</w>
+<w>горамъ</w>
+<w>Кыевьскимъ,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>свои.</w>
+<w>придоста</w>
+<w>къ</w>
+<w>горамъ</w>
+<w>хъ</w>
+<w>киевьскимъ.</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>и</w>
+<w>придоста</w>
+<w>къ</w>
+<w>горамъ</w>
+<w>киевьскимъ</w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>свои. <lb/></w>
+
+<w>и</w>
+<w>приидоста</w>
+<w>к</w>
+<w>гора<hi rend="sup">м</hi></w>
+<w>киевьскимъ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>свои.</w>
+<w>и</w>
+<w>прїидоста</w>
+<w>к</w>
+<w>горамъ</w>
+<w>киевьскимъ. <lb/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>свои.</w>
+<w>и</w>
+<w>пр<hi rend="sup">и</hi><lb/>доста</w>
+<w>къ</w>
+<w>горамъ</w>
+<w>киевь<lb/>скымъ.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>свои.</w>
+<w>и</w>
+<w>приидоста</w>
+<w>къ</w>
+<w>гора<hi rend="sup">м</hi></w>
+<w>кыевскы<hi rend="sup">м</hi>. <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>свои.</w>
+<w>И</w>
+<w>придоста</w>
+<w>къ</w>
+<w>горамъ</w>
+<w>хъ</w>
+<w>Киевьскимъ,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>свои.</w>
+<w>И</w>
+<w>придоста</w>
+<w>къ</w>
+<w>горамъ</w>
+<w>Кыевьскимъ,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>свои.</w>
+<w>И</w>
+<w>придоста</w>
+<w>къ</w>
+<w>горамъ</w>
+<w>хъ</w>
+<w>киевьскимъ,</w>
+</rdg>
+</app></p></div></body></text></TEI>

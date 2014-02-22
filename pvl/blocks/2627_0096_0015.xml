@@ -1,123 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>96, 15</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="15">
-            <p>
-               <app>
-                  <lem>
-                     <w>сълиявъше</w>
-                     <w>тельчю</w>
-                     <w>главу,</w>
-                     <w>поклониша</w>
-                     <w>ся</w>
-                     <w>акы</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>сольявше</w>
-                        <w>телчю</w>
-                        <w>главу.</w>
-                        <w>
-                           <sic>по</sic> 
-                           <lb/>
-                        </w>
-                        <w>аки</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>сольявше</w>
-                        <w>тлчю</w>
-                        <w>главоу.</w>
-                        <w>покло<lb/>нѧхоусѧ</w>
-                        <w>аки</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>сольявше</w>
-                        <w>телчю</w>
-                        <w>главѹ.</w>
-                        <w>по<lb/>кланѧхѹсѧ</w>
-                        <w>яко</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>съльявше</w>
-                        <w>тѣль<sic>ч</sic>ью</w>
-                        <w>гла<lb/>ву.</w>
-                        <w>поклонишасѧ</w>
-                        <w>аки <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>сълїѧ<lb/>вшю</w>
-                        <w>те<hi rend="sup">л</hi>чю</w>
-                        <w>главоу</w>
-                        <w>и</w>
-                        <w>поклониша<hi rend="sup">с</hi>
-                        </w>
-                        <w>аки</w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>сълиявше</w>
-                        <w>телцю</w>
-                        <w>главу</w>
-                        <w>поклонишася</w>
-                        <w>акы</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>слиавше</w>
-                        <w>телцю</w>
-                        <w>главу</w>
-                        <w>и</w>
-                        <w>поклонишася</w>
-                        <w>аки</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>слиавше</w>
-                        <w>телцю</w>
-                        <w>главу</w>
-                        <w>и</w>
-                        <w>поклонишася</w>
-                        <w>аки</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>сольявше</w>
-                        <w>телчю</w>
-                        <w>главу</w>
-                        <w>поклонишася</w>
-                        <w>аки</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>сълиявъше</w>
-                        <w>тельчию</w>
-                        <w>главу,</w>
-                        <w>поклонишася</w>
-                        <w>акы</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>сольявше</w>
-                        <w>телчю</w>
-                        <w>главу,</w>
-                        <w>поклонишася</w>
-                        <w>аки</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>96, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="15"><p>
+<app>
+<lem wit="#lem">
+<w>сълиявъше</w>
+<w>тельчю</w>
+<w>главу,</w>
+<w>поклониша</w>
+<w>ся</w>
+<w>акы</w>
+</lem>
+
+<rdg wit="#lav">
+<w>сольявше</w>
+<w>телчю</w>
+<w>главу.</w>
+<w><milestone unit="sic" n="start"/>по<milestone unit="sic" n="end"/><lb/>клонишасѧ</w>
+<w>аки</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>сольявше</w>
+<w>тлчю</w>
+<w>главоу.</w>
+<w>покло<lb/>нѧхоусѧ</w>
+<w>аки</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>сольявше</w>
+<w>телчю</w>
+<w>главѹ.</w>
+<w>по<lb/>кланѧхѹсѧ</w>
+<w>яко</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>съльявше</w>
+<w>тѣль<milestone unit="sic" n="start"/>ч<milestone unit="sic" n="end"/>ью</w>
+<w>гла<lb/>ву.</w>
+<w>поклонишасѧ</w>
+<w>аки <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>сълїѧ<lb/>вшю</w>
+<w>те<hi rend="sup">л</hi>чю</w>
+<w>главоу</w>
+<w>и</w>
+<w>поклониша<hi rend="sup">с</hi></w>
+<w>аки</w>
+</rdg>
+
+<rdg wit="#kom">
+<w>сълиявше</w>
+<w>телцю</w>
+<w>главу</w>
+<w>поклонишася</w>
+<w>акы</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>слиавше</w>
+<w>телцю</w>
+<w>главу</w>
+<w>и</w>
+<w>поклонишася</w>
+<w>аки</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>слиавше</w>
+<w>телцю</w>
+<w>главу</w>
+<w>и</w>
+<w>поклонишася</w>
+<w>аки</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>сольявше</w>
+<w>телчю</w>
+<w>главу</w>
+<w>поклонишася</w>
+<w>аки</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>сълиявъше</w>
+<w>тельчию</w>
+<w>главу,</w>
+<w>поклонишася</w>
+<w>акы</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>сольявше</w>
+<w>телчю</w>
+<w>главу,</w>
+<w>поклонишася</w>
+<w>аки</w>
+</rdg>
+</app></p></div></body></text></TEI>

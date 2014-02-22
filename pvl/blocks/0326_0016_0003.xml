@@ -1,121 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>16, 3</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="3">
-            <p>
-               <app>
-                  <lem>
-                     <w>мужа</w>
-                     <w>не</w>
-                     <w>имуть,</w>
-                     <w>акы</w>
-                     <w>скотъ</w>
-                     <w>бесловесьныи</w>
-                     <w>но</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>мужа</w>
-                        <w>
-                           <sic>не иму</sic> 
-                           <lb/>
-                        </w>
-                        <w>но</w>
-                        <w>и</w>
-                        <w>аки</w>
-                        <w>скотъ</w>
-                        <w>бесловесныи.</w>
-                        <w>но</w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad">
-                        <w>моужа</w>
-                        <w>не <lb/>
-                        </w>
-                        <w>
-                           <sic>и</sic>моуть.</w>
-                        <w>акы</w>
-                        <w>скотъ</w>
-                        <w>бесловесныи.</w>
-                        <w>но</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>мѹжа</w>
-                        <w>не</w>
-                        <w>имѹтъ.</w>
-                        <w>аки</w>
-                        <w>скотъ</w>
-                        <w>бесловесныи. <lb/>
-                        </w>
-                        <w>но</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>мужа</w>
-                        <w>не</w>
-                        <w>и<lb/>муть.</w>
-                        <w>акы</w>
-                        <w>скотъ</w>
-                        <w>бесло<lb/>весныи.</w>
-                        <w>но</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>мѫжа</w>
-                        <w>не</w>
-                        <w>имоу<hi rend="sup">т</hi>.</w>
-                        <w>акы</w>
-                        <w>ско<hi rend="sup">т</hi>
-                        </w>
-                        <w>бесловесны<hi rend="sup">и</hi>.</w>
-                        <w>но</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>мужа</w>
-                        <w>не</w>
-                        <w>имуть,</w>
-                        <w>но</w>
-                        <w>аки</w>
-                        <w>скотъ</w>
-                        <w>бесловесный</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>мужа</w>
-                        <w>не</w>
-                        <w>имуть,</w>
-                        <w>нъ</w>
-                        <w>акы</w>
-                        <w>скотъ</w>
-                        <w>бесловесьныи</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>мужа</w>
-                        <w>не</w>
-                        <w>имуть,</w>
-                        <w>но</w>
-                        <w>и</w>
-                        <w>аки</w>
-                        <w>скотъ</w>
-                        <w>бесловесный</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>16, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="3"><p>
+<app>
+<lem wit="#lem">
+<w>мужа</w>
+<w>не</w>
+<w>имуть,</w>
+<w>акы</w>
+<w>скотъ</w>
+<w>бесловесьныи</w>
+<w>но</w>
+</lem>
+
+<rdg wit="#lav">
+<w>мужа</w>
+<w><milestone unit="sic" n="start"/>не</w>
+<w>иму<milestone unit="sic" n="end"/><lb/>ть</w>
+<w>но</w>
+<w>и</w>
+<w>аки</w>
+<w>скотъ</w>
+<w>бесловесныи.</w>
+<w>но</w>
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+<w>моужа</w>
+<w>не <lb/><milestone unit="sic" n="start"/>и<milestone unit="sic" n="end"/>моуть.</w>
+
+<w>акы</w>
+<w>скотъ</w>
+<w>бесловесныи.</w>
+<w>но</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>мѹжа</w>
+<w>не</w>
+<w>имѹтъ.</w>
+<w>аки</w>
+<w>скотъ</w>
+<w>бесловесныи. <lb/></w>
+
+<w>но</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>мужа</w>
+<w>не</w>
+<w>и<lb/>муть.</w>
+<w>акы</w>
+<w>скотъ</w>
+<w>бесло<lb/>весныи.</w>
+<w>но</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>мѫжа</w>
+<w>не</w>
+<w>имоу<hi rend="sup">т</hi>.</w>
+<w>акы</w>
+<w>ско<hi rend="sup">т</hi></w>
+<w>бесловесны<hi rend="sup">и</hi>.</w>
+<w>но</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>мужа</w>
+<w>не</w>
+<w>имуть,</w>
+<w>но</w>
+<w>аки</w>
+<w>скотъ</w>
+<w>бесловесный</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>мужа</w>
+<w>не</w>
+<w>имуть,</w>
+<w>нъ</w>
+<w>акы</w>
+<w>скотъ</w>
+<w>бесловесьныи</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>мужа</w>
+<w>не</w>
+<w>имуть,</w>
+<w>но</w>
+<w>и</w>
+<w>аки</w>
+<w>скотъ</w>
+<w>бесловесный</w>
+</rdg>
+</app></p></div></body></text></TEI>

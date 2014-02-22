@@ -1,118 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>150, 16</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="16">
-            <p>
-               <app>
-                  <lem>
-                     <w>разболѣ</w>
-                     <w>ся</w>
-                     <w>и</w>
-                     <w>умьре.</w>
-                     <w>И</w>
-                     <w>положиша</w>
-                     <w>и</w>
-                     <w>въ</w>
-                     <w>цьркъви</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>разболѣсѧ</w>
-                        <w>и</w>
-                        <w>оумре.</w>
-                        <w>и</w>
-                        <w>поло<lb/>жиша</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>разболѣсѧ</w>
-                        <w>и</w>
-                        <w>оумре.</w>
-                        <w>и</w>
-                        <w>положиша</w>
-                        <w>оу</w>
-                        <w>црк҃ви</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>разболѣвсѧ <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>оумре.</w>
-                        <w>и</w>
-                        <w>положиша</w>
-                        <w>и</w>
-                        <w>в</w>
-                        <w>црк҃ви</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>разбо<lb/>лѣсѧ.</w>
-                        <w>и</w>
-                        <w>оумре.</w>
-                        <w>и</w>
-                        <w>положиша</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>вь</w>
-                        <w>црк҃ви</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>разбо<lb/>лѣвсѧ</w>
-                        <w>оумре.</w>
-                        <w>и</w>
-                        <w>положиша</w>
-                        <w>его</w>
-                        <w>въ</w>
-                        <w>ц҃ркви</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>разболѣся</w>
-                        <w>и</w>
-                        <w>умре;</w>
-                        <w>и</w>
-                        <w>положиша</w>
-                        <w>и</w>
-                        <w>в</w>
-                        <w>церкви</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>разболѣвъся,</w>
-                        <w>умьре;</w>
-                        <w>и</w>
-                        <w>положиша</w>
-                        <w>и</w>
-                        <w>въ</w>
-                        <w>цьркъви</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>разболѣся</w>
-                        <w>и</w>
-                        <w>умре.</w>
-                        <w>И</w>
-                        <w>положиша</w>
-                        <w>и</w>
-                        <w>в</w>
-                        <w>церкви</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>150, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="16"><p>
+<app>
+<lem wit="#lem">
+<w>разболѣ</w>
+<w>ся</w>
+<w>и</w>
+<w>умьре.</w>
+<w>И</w>
+<w>положиша</w>
+<w>и</w>
+<w>въ</w>
+<w>цьркъви</w>
+</lem>
+
+<rdg wit="#lav">
+<w>разболѣсѧ</w>
+<w>и</w>
+<w>оумре.</w>
+<w>и</w>
+<w>поло<lb/>жиша</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>разболѣсѧ</w>
+<w>и</w>
+<w>оумре.</w>
+<w>и</w>
+<w>положиша</w>
+<w>оу</w>
+<w>црк҃ви</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>разболѣвсѧ <lb/></w>
+
+<w>и</w>
+<w>оумре.</w>
+<w>и</w>
+<w>положиша</w>
+<w>и</w>
+<w>в</w>
+<w>црк҃ви</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>разбо<lb/>лѣсѧ.</w>
+<w>и</w>
+<w>оумре.</w>
+<w>и</w>
+<w>положиша</w>
+<w>и <lb/></w>
+
+<w>вь</w>
+<w>црк҃ви</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>разбо<lb/>лѣвсѧ</w>
+<w>оумре.</w>
+<w>и</w>
+<w>положиша</w>
+<w>его</w>
+<w>въ</w>
+<w>ц҃ркви</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>разболѣся</w>
+<w>и</w>
+<w>умре;</w>
+<w>и</w>
+<w>положиша</w>
+<w>и</w>
+<w>в</w>
+<w>церкви</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>разболѣвъся,</w>
+<w>умьре;</w>
+<w>и</w>
+<w>положиша</w>
+<w>и</w>
+<w>въ</w>
+<w>цьркъви</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>разболѣся</w>
+<w>и</w>
+<w>умре.</w>
+<w>И</w>
+<w>положиша</w>
+<w>и</w>
+<w>в</w>
+<w>церкви</w>
+</rdg>
+</app></p></div></body></text></TEI>

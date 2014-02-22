@@ -1,108 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>148, 29</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="29">
-            <p>
-               <app>
-                  <lem>
-                     <w>видѣ</w>
-                     <w>лежачи</w>
-                     <w>исѣчены</w>
-                     <w>отъ</w>
-                     <w>своихъ</w>
-                     <w>Сѣверъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>видѣвъ</w>
-                        <w>лежачиѣ</w>
-                        <w>сѣче<lb/>ны.</w>
-                        <w>ѿ</w>
-                        <w>свои<hi rend="sup">х</hi>
-                        </w>
-                        <w>сѣверъ.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ви<hi rend="sup">д</hi>
-                        </w>
-                        <w>лежачи<hi rend="sup">х</hi>.</w>
-                        <w>сѣ<hi rend="sup">ч</hi>ны</w>
-                        <w>ѿ</w>
-                        <w>свои<hi rend="sup">х</hi> 
-                           <lb/>
-                        </w>
-                        <w>сѣверъ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>видѣ</w>
-                        <w>лежачи<hi rend="sup">х</hi>.</w>
-                        <w>сѣчены<hi rend="sup">х</hi>
-                        </w>
-                        <w>ѿ</w>
-                        <w>свои<hi rend="sup">х</hi>
-                        </w>
-                        <w>сѣ<lb/>веро.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>видѣ</w>
-                        <w>лежачи</w>
-                        <w>исѣчены.</w>
-                        <w>ѿ <lb/>
-                        </w>
-                        <w>сво<hi rend="sup">и</hi>хъ</w>
-                        <w>сѣвѣръ.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>видѣ</w>
-                        <w>лежаща</w>
-                        <w>свои <lb/>
-                        </w>
-                        <w>сѣверы</w>
-                        <w>изсѣчены.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>видѣвъ</w>
-                        <w>лежачиѣ</w>
-                        <w>сѣчены</w>
-                        <w>отъ</w>
-                        <w>своихъ</w>
-                        <w>Сѣверъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>видѣ</w>
-                        <w>лежаща</w>
-                        <w>исѣчены,</w>
-                        <w>свои</w>
-                        <w>Сѣверъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>видѣвъ</w>
-                        <w>лежачиѣ</w>
-                        <w>сѣчены</w>
-                        <w>от</w>
-                        <w>своих</w>
-                        <w>сѣверъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>148, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="29"><p>
+<app>
+<lem wit="#lem">
+<w>видѣ</w>
+<w>лежачи</w>
+<w>исѣчены</w>
+<w>отъ</w>
+<w>своихъ</w>
+<w>Сѣверъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>видѣвъ</w>
+<w>лежачиѣ</w>
+<w>сѣче<lb/>ны.</w>
+<w>ѿ</w>
+<w>свои<hi rend="sup">х</hi></w>
+<w>сѣверъ.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ви<hi rend="sup">д</hi></w>
+<w>лежачи<hi rend="sup">х</hi>.</w>
+<w>сѣ<hi rend="sup">ч</hi>ны</w>
+<w>ѿ</w>
+<w>свои<hi rend="sup">х</hi><lb/></w>
+<w>сѣверъ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>видѣ</w>
+<w>лежачи<hi rend="sup">х</hi>.</w>
+<w>сѣчены<hi rend="sup">х</hi></w>
+<w>ѿ</w>
+<w>свои<hi rend="sup">х</hi></w>
+<w>сѣ<lb/>веро.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>видѣ</w>
+<w>лежачи</w>
+<w>исѣчены.</w>
+<w>ѿ <lb/></w>
+
+<w>сво<hi rend="sup">и</hi>хъ</w>
+<w>сѣвѣръ.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>видѣ</w>
+<w>лежаща</w>
+<w>свои <lb/></w>
+
+<w>сѣверы</w>
+<w>изсѣчены.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>видѣвъ</w>
+<w>лежачиѣ</w>
+<w>сѣчены</w>
+<w>отъ</w>
+<w>своихъ</w>
+<w>Сѣверъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>видѣ</w>
+<w>лежаща</w>
+<w>исѣчены,</w>
+<w>свои</w>
+<w>Сѣверъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>видѣвъ</w>
+<w>лежачиѣ</w>
+<w>сѣчены</w>
+<w>от</w>
+<w>своих</w>
+<w>сѣверъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

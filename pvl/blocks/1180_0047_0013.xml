@@ -1,112 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>47, 13</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="13">
-            <p>
-               <app>
-                  <lem>
-                     <w>обновити</w>
-                     <w>ветъхыи</w>
-                     <w>миръ,</w>
-                     <w>и</w>
-                     <w>отъ</w>
-                     <w>ненавидящаго</w>
-                     <w>добра</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ѡ<lb/>бновити</w>
-                        <w>ветъхии</w>
-                        <w>миръ.</w>
-                        <w>ненавидѧщаго</w>
-                        <w>добра <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ѡбновити</w>
-                        <w>ветхии</w>
-                        <w>
-                           <sic>за</sic>миръ.</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>ненавидѧщаго</w>
-                        <w>добра.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ѡбновити</w>
-                        <w>ветхїи</w>
-                        <w>миръ.</w>
-                        <w>и</w>
-                        <w>ненавидѧщего</w>
-                        <w>добра.</w>
-                        <w>
-                           <pb n="21v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ѡбъновити</w>
-                        <w>ветхыи</w>
-                        <w>миръ. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>ѿ</w>
-                        <w>ненавидѧщаго</w>
-                        <w>добра</w>
-                        <w>
-                           <pb n="18d"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ѡбновити</w>
-                        <w>ветхїи</w>
-                        <w>мирь.</w>
-                        <w>и</w>
-                        <w>ѿ</w>
-                        <w>нена<lb/>видѧщаго</w>
-                        <w>добра.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>обновити</w>
-                        <w>ветъхий</w>
-                        <w>миръ,</w>
-                        <w>ненавидящаго</w>
-                        <w>добра</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>обновити</w>
-                        <w>ветъхыи</w>
-                        <w>миръ,</w>
-                        <w>отъ</w>
-                        <w>ненавидящаго</w>
-                        <w>добра</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>обновити</w>
-                        <w>ветъхий</w>
-                        <w>миръ,</w>
-                        <w>ненавидящаго</w>
-                        <w>добра</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>47, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="13"><p>
+<app>
+<lem wit="#lem">
+<w>обновити</w>
+<w>ветъхыи</w>
+<w>миръ,</w>
+<w>и</w>
+<w>отъ</w>
+<w>ненавидящаго</w>
+<w>добра</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ѡ<lb/>бновити</w>
+<w>ветъхии</w>
+<w>миръ.</w>
+<w>ненавидѧщаго</w>
+<w>добра <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>ѡбновити</w>
+<w>ветхии</w>
+<w><milestone unit="sic" n="start"/>за<milestone unit="sic" n="end"/>миръ.</w>
+<w>и <lb/></w>
+
+<w>ненавидѧщаго</w>
+<w>добра.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ѡбновити</w>
+<w>ветхїи</w>
+<w>миръ.</w>
+<w>и</w>
+<w>ненавидѧщего</w>
+<w>добра. <pb n="21v"/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>ѡбъновити</w>
+<w>ветхыи</w>
+<w>миръ. <lb/></w>
+
+<w>и</w>
+<w>ѿ</w>
+<w>ненавидѧщаго</w>
+<w>добра <pb n="18d"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>ѡбновити</w>
+<w>ветхїи</w>
+<w>мирь.</w>
+<w>и</w>
+<w>ѿ</w>
+<w>нена<lb/>видѧщаго</w>
+<w>добра.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>обновити</w>
+<w>ветъхий</w>
+<w>миръ,</w>
+<w>ненавидящаго</w>
+<w>добра</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>обновити</w>
+<w>ветъхыи</w>
+<w>миръ,</w>
+<w>отъ</w>
+<w>ненавидящаго</w>
+<w>добра</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>обновити</w>
+<w>ветъхий</w>
+<w>миръ,</w>
+<w>ненавидящаго</w>
+<w>добра</w>
+</rdg>
+</app></p></div></body></text></TEI>

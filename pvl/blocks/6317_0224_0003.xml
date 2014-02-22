@@ -1,110 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>224, 3</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="3">
-            <p>
-               <app>
-                  <lem>
-                     <w>Съгрѣшихомъ,</w>
-                     <w>и</w>
-                     <w>казними</w>
-                     <w>есмы;</w>
-                     <w>якоже</w>
-                     <w>сътворихомъ,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>согрѣшихо<hi rend="sup">м</hi>
-                        </w>
-                        <w>и</w>
-                        <w>казними</w>
-                        <w>ѥсмы</w>
-                        <w>яко<hi rend="sup">ж</hi>
-                        </w>
-                        <w>створихо<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>съ<lb/>грешихо<hi rend="sup">м</hi>·</w>
-                        <w>казними</w>
-                        <w>есми·</w>
-                        <w>яко<hi rend="sup">ж</hi>
-                        </w>
-                        <w>сотвори<hi rend="sup">х</hi>мъ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>согрешихомь</w>
-                        <w>казними</w>
-                        <w>есми·</w>
-                        <w>яко<lb/>же</w>
-                        <w>сътворихомъ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>согрѣшихомъ· <lb/>
-                        </w>
-                        <w>ї</w>
-                        <w>казнимы</w>
-                        <w>есмы·</w>
-                        <w>якоже</w>
-                        <w>со<lb/>гришихомъ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>съгрѣшихо<hi rend="sup">м</hi>
-                        </w>
-                        <w>и</w>
-                        <w>казни<hi rend="sup">м</hi> 
-                           <lb/>
-                        </w>
-                        <w>есмы.</w>
-                        <w>яко<hi rend="sup">ж</hi>
-                        </w>
-                        <w>съгрѣшихо<hi rend="sup">м</hi>,</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Согрѣшихомъ,</w>
-                        <w>и</w>
-                        <w>казними</w>
-                        <w>есмы;</w>
-                        <w>якоже</w>
-                        <w>створихомъ,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Съгрѣшихомъ,</w>
-                        <w>и</w>
-                        <w>казними</w>
-                        <w>есмы;</w>
-                        <w>якоже</w>
-                        <w>сътворихомъ,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Согрѣшихомъ,</w>
-                        <w>и</w>
-                        <w>казними</w>
-                        <w>есмы;</w>
-                        <w>яко</w>
-                        <w>же</w>
-                        <w>створихом,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>224, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="3"><p>
+<app>
+<lem wit="#lem">
+<w>Съгрѣшихомъ,</w>
+<w>и</w>
+<w>казними</w>
+<w>есмы;</w>
+<w>якоже</w>
+<w>сътворихомъ,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>согрѣшихо<hi rend="sup">м</hi></w>
+<w>и</w>
+<w>казними</w>
+<w>ѥсмы</w>
+<w>яко<hi rend="sup">ж</hi></w>
+<w>створихо<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#rad">
+<w>съ<lb/>грешихо<hi rend="sup">м</hi>·</w>
+<w>казними</w>
+<w>есми·</w>
+<w>яко<hi rend="sup">ж</hi></w>
+<w>сотвори<hi rend="sup">х</hi>мъ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>согрешихомь</w>
+<w>казними</w>
+<w>есми·</w>
+<w>яко<lb/>же</w>
+<w>сътворихомъ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>согрѣшихомъ· <lb/></w>
+
+<w>ї</w>
+<w>казнимы</w>
+<w>есмы·</w>
+<w>якоже</w>
+<w>со<lb/>гришихомъ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>съгрѣшихо<hi rend="sup">м</hi></w>
+<w>и</w>
+<w>казни<hi rend="sup">м</hi><lb/></w>
+<w>есмы.</w>
+<w>яко<hi rend="sup">ж</hi></w>
+<w>съгрѣшихо<hi rend="sup">м</hi>,</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Согрѣшихомъ,</w>
+<w>и</w>
+<w>казними</w>
+<w>есмы;</w>
+<w>якоже</w>
+<w>створихомъ,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Съгрѣшихомъ,</w>
+<w>и</w>
+<w>казними</w>
+<w>есмы;</w>
+<w>якоже</w>
+<w>сътворихомъ,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Согрѣшихомъ,</w>
+<w>и</w>
+<w>казними</w>
+<w>есмы;</w>
+<w>яко</w>
+<w>же</w>
+<w>створихом,</w>
+</rdg>
+</app></p></div></body></text></TEI>

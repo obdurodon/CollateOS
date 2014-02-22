@@ -1,106 +1,85 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>51, 16</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="16">
-            <p>
-               <app>
-                  <lem>
-                     <w>Българе,</w>
-                     <w>и</w>
-                     <w>воюють</w>
-                     <w>въ</w>
-                     <w>странѣ</w>
-                     <w>Кърсуньстѣи.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>болгаре.</w>
-                        <w>воюють</w>
-                        <w>въ</w>
-                        <w>странѣ <lb/>
-                        </w>
-                        <w>корсуньстѣи.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>болгари.</w>
-                        <w>и</w>
-                        <w>воюють</w>
-                        <w>въ</w>
-                        <w>странѣ</w>
-                        <w>корсѹнестѣи.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>болгари.</w>
-                        <w>и</w>
-                        <w>воюють</w>
-                        <w>въ</w>
-                        <w>странѣ <lb/>
-                        </w>
-                        <w>корсѹньстеи.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>болгаре.</w>
-                        <w>и</w>
-                        <w>вою<hi rend="sup">ю</hi>ть</w>
-                        <w>въ <lb/>
-                        </w>
-                        <w>странѣ</w>
-                        <w>корсуньстии.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>болгаре.</w>
-                        <w>и</w>
-                        <w>воюю<hi rend="sup">т</hi>
-                        </w>
-                        <w>въ</w>
-                        <w>стра<sic>нѣ</sic>
-                        </w>
-                        <w>коръ<lb/>соу<hi rend="sup">н</hi>стеи.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Болгаре</w>
-                        <w>и</w>
-                        <w>воюють</w>
-                        <w>въ</w>
-                        <w>странѣ</w>
-                        <w>Корсуньстѣй,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Българе,</w>
-                        <w>и</w>
-                        <w>воюють</w>
-                        <w>въ</w>
-                        <w>странѣ</w>
-                        <w>Кърсуньстѣи,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>болгаре</w>
-                        <w>и</w>
-                        <w>воюють</w>
-                        <w>въ</w>
-                        <w>странѣ</w>
-                        <w>Корсуньстѣй</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>51, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="16"><p>
+<app>
+<lem wit="#lem">
+<w>Българе,</w>
+<w>и</w>
+<w>воюють</w>
+<w>въ</w>
+<w>странѣ</w>
+<w>Кърсуньстѣи.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>болгаре.</w>
+<w>воюють</w>
+<w>въ</w>
+<w>странѣ <lb/></w>
+
+<w>корсуньстѣи.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>болгари.</w>
+<w>и</w>
+<w>воюють</w>
+<w>въ</w>
+<w>странѣ</w>
+<w>корсѹнестѣи.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>болгари.</w>
+<w>и</w>
+<w>воюють</w>
+<w>въ</w>
+<w>странѣ <lb/></w>
+
+<w>корсѹньстеи.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>болгаре.</w>
+<w>и</w>
+<w>вою<hi rend="sup">ю</hi>ть</w>
+<w>въ <lb/></w>
+
+<w>странѣ</w>
+<w>корсуньстии.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>болгаре.</w>
+<w>и</w>
+<w>воюю<hi rend="sup">т</hi></w>
+<w>въ</w>
+<w>стра<milestone unit="sic" n="start"/>нѣ<milestone unit="sic" n="end"/></w>
+<w>коръ<lb/>соу<hi rend="sup">н</hi>стеи.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Болгаре</w>
+<w>и</w>
+<w>воюють</w>
+<w>въ</w>
+<w>странѣ</w>
+<w>Корсуньстѣй,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Българе,</w>
+<w>и</w>
+<w>воюють</w>
+<w>въ</w>
+<w>странѣ</w>
+<w>Кърсуньстѣи,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>болгаре</w>
+<w>и</w>
+<w>воюють</w>
+<w>въ</w>
+<w>странѣ</w>
+<w>Корсуньстѣй</w>
+</rdg>
+</app></p></div></body></text></TEI>

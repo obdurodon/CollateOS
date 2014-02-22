@@ -1,122 +1,95 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>223, 15</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="15">
-            <p>
-               <app>
-                  <lem>
-                     <w>печали</w>
-                     <w>и</w>
-                     <w>страшныя</w>
-                     <w>мукы,</w>
-                     <w>овы</w>
-                     <w>
-                        <choice>
-                           <seg>вяжеми</seg>
-                           <seg>вязани</seg>
-                        </choice>
-                     </w>
-                     <w>и</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>
-                           <sic>-</sic>ечали</w>
-                        <w>и</w>
-                        <w>страшны</w>
-                        <w>мукы·</w>
-                        <w>ѡвы <lb/>
-                        </w>
-                        <w>вѧжемы</w>
-                        <w>и</w>
-                        <w>
-                           <pb n="74c"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>печали·</w>
-                        <w>и</w>
-                        <w>страшны</w>
-                        <w>моуки·</w>
-                        <w>ѡвы</w>
-                        <w>вѧжеми·</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>печали</w>
-                        <w>и</w>
-                        <w>страшны·̏ѧ</w>
-                        <w>мѹкы·̏·</w>
-                        <w>ѡвы·̏</w>
-                        <w>вѧжеми· <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>печали·</w>
-                        <w>и</w>
-                        <w>страшныя</w>
-                        <w>му<lb/>кы</w>
-                        <w>ѡви</w>
-                        <w>вѧзани·</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>печали.</w>
-                        <w>и</w>
-                        <w>страшныѧ <lb/>
-                        </w>
-                        <w>мѫкы.</w>
-                        <w>ѡви</w>
-                        <w>вѧзани</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>печали</w>
-                        <w>и</w>
-                        <w>страшны</w>
-                        <w>мукы,</w>
-                        <w>овы</w>
-                        <w>вяжемы</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>печали</w>
-                        <w>и</w>
-                        <w>страшныя</w>
-                        <w>мукы:</w>
-                        <w>овы</w>
-                        <w>вяжемы</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>печали</w>
-                        <w>и</w>
-                        <w>страшны</w>
-                        <w>мукы,</w>
-                        <w>овы</w>
-                        <w>вяжемы</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>223, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="15"><p>
+<app>
+<lem wit="#lem">
+<w>печали</w>
+<w>и</w>
+<w>страшныя</w>
+<w>мукы,</w>
+<w>овы</w>
+<w><choice><seg>вяжеми</seg><seg>вязани</seg></choice></w>
+<w>и</w>
+</lem>
+
+<rdg wit="#lav">
+<w><milestone unit="sic" n="start"/>-<milestone unit="sic" n="end"/>ечали</w>
+<w>и</w>
+<w>страшны</w>
+<w>мукы·</w>
+<w>ѡвы <lb/></w>
+
+<w>вѧжемы</w>
+<w>и <pb n="74c"/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>печали·</w>
+<w>и</w>
+<w>страшны</w>
+<w>моуки·</w>
+<w>ѡвы</w>
+<w>вѧжеми·</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>печали</w>
+<w>и</w>
+<w>страшны·̏ѧ</w>
+<w>мѹкы·̏·</w>
+<w>ѡвы·̏</w>
+<w>вѧжеми· <lb/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>печали·</w>
+<w>и</w>
+<w>страшныя</w>
+<w>му<lb/>кы</w>
+<w>ѡви</w>
+<w>вѧзани·</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>печали.</w>
+<w>и</w>
+<w>страшныѧ <lb/></w>
+
+<w>мѫкы.</w>
+<w>ѡви</w>
+<w>вѧзани</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>печали</w>
+<w>и</w>
+<w>страшны</w>
+<w>мукы,</w>
+<w>овы</w>
+<w>вяжемы</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>печали</w>
+<w>и</w>
+<w>страшныя</w>
+<w>мукы:</w>
+<w>овы</w>
+<w>вяжемы</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>печали</w>
+<w>и</w>
+<w>страшны</w>
+<w>мукы,</w>
+<w>овы</w>
+<w>вяжемы</w>
+<w>и</w>
+</rdg>
+</app></p></div></body></text></TEI>

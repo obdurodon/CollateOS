@@ -1,118 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>6, 8</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="8">
-            <p>
-               <app>
-                  <lem>
-                     <w>и</w>
-                     <w>насилящимъ</w>
-                     <w>имъ,</w>
-                     <w>Словѣне</w>
-                     <w>же</w>
-                     <w>ови,</w>
-                     <w>пришьдъше,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>и</w>
-                        <w>насилѧщемъ</w>
-                        <w>им<hi rend="sup">ъ</hi>. <lb/>
-                        </w>
-                        <w>словѣни</w>
-                        <w>же</w>
-                        <w>ѡви</w>
-                        <w>пришедше</w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad">
-                        <w>и</w>
-                        <w>наси<lb/>лѧщи</w>
-                        <w>и<hi rend="sup">м</hi>
-                        </w>
-                        <w>словѣне<hi rend="sup">ж</hi>
-                        </w>
-                        <w>ѡни</w>
-                        <w>прише<hi rend="sup">д</hi>ше</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>и</w>
-                        <w>насилѧще</w>
-                        <w>имь.</w>
-                        <w>словѣне</w>
-                        <w>же</w>
-                        <w>ѡнї <lb/>
-                        </w>
-                        <w>прише<hi rend="sup">д</hi>ше</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>и</w>
-                        <w>насилѧю<lb/>щимъ</w>
-                        <w>имъ.</w>
-                        <w>словѣне</w>
-                        <w>же</w>
-                        <w>ѡ<lb/>ви</w>
-                        <w>пришедше</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>и</w>
-                        <w>насилѧщїи<hi rend="sup">м</hi>
-                        </w>
-                        <w>имь.</w>
-                        <w>слѡвене</w>
-                        <w>же</w>
-                        <w>прише<hi rend="sup">д</hi>ше. <lb/>
-                        </w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>и</w>
-                        <w>насилящемъ</w>
-                        <w>имъ,</w>
-                        <w>Словѣни</w>
-                        <w>же</w>
-                        <w>ови</w>
-                        <w>пришедше</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>и</w>
-                        <w>насилящемъ</w>
-                        <w>имъ,</w>
-                        <w>Словѣне</w>
-                        <w>же</w>
-                        <w>ови,</w>
-                        <w>прешьдъше,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>и</w>
-                        <w>насилящемъ</w>
-                        <w>имъ,</w>
-                        <w>словѣни</w>
-                        <w>же</w>
-                        <w>ови</w>
-                        <w>пришедше</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>6, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="8"><p>
+<app>
+<lem wit="#lem">
+<w>и</w>
+<w>насилящимъ</w>
+<w>имъ,</w>
+<w>Словѣне</w>
+<w>же</w>
+<w>ови,</w>
+<w>пришьдъше,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>и</w>
+<w>насилѧщемъ</w>
+<w>им<hi rend="sup">ъ</hi>. <lb/></w>
+
+<w>словѣни</w>
+<w>же</w>
+<w>ѡви</w>
+<w>пришедше</w>
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+<w>и</w>
+<w>наси<lb/>лѧщи</w>
+<w>и<hi rend="sup">м</hi></w>
+<w>словѣне<hi rend="sup">ж</hi></w>
+<w>ѡни</w>
+<w>прише<hi rend="sup">д</hi>ше</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>и</w>
+<w>насилѧще</w>
+<w>имь.</w>
+<w>словѣне</w>
+<w>же</w>
+<w>ѡнї <lb/></w>
+
+<w>прише<hi rend="sup">д</hi>ше</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>и</w>
+<w>насилѧю<lb/>щимъ</w>
+<w>имъ.</w>
+<w>словѣне</w>
+<w>же</w>
+<w>ѡ<lb/>ви</w>
+<w>пришедше</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>и</w>
+<w>насилѧщїи<hi rend="sup">м</hi></w>
+<w>имь.</w>
+<w>слѡвене</w>
+<w>же</w>
+<w>прише<hi rend="sup">д</hi>ше. <lb/></w>
+
+<w>и</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>и</w>
+<w>насилящемъ</w>
+<w>имъ,</w>
+<w>Словѣни</w>
+<w>же</w>
+<w>ови</w>
+<w>пришедше</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>и</w>
+<w>насилящемъ</w>
+<w>имъ,</w>
+<w>Словѣне</w>
+<w>же</w>
+<w>ови,</w>
+<w>прешьдъше,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>и</w>
+<w>насилящемъ</w>
+<w>имъ,</w>
+<w>словѣни</w>
+<w>же</w>
+<w>ови</w>
+<w>пришедше</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,138 +1,114 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>26, 12</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="12">
-            <p>
-               <app>
-                  <lem>
-                     <w>учать,</w>
-                     <w>а</w>
-                     <w>
-                        <choice>
-                           <seg>они</seg>
-                           <seg>друзии</seg>
-                        </choice>
-                     </w>
-                     <w>инако;</w>
-                     <w>тѣмь</w>
-                     <w>же</w>
-                     <w>не</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>оучат<hi rend="sup">ь</hi>. <lb/>
-                        </w>
-                        <w>а</w>
-                        <w>ѡни</w>
-                        <w>бо</w>
-                        <w>ны</w>
-                        <w>и</w>
-                        <w>ѡнако.</w>
-                        <w>тѣм</w>
-                        <w>же</w>
-                        <w>не</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>учать</w>
-                        <w>а</w>
-                        <w>они</w>
-                        <w>онако</w>
-                        <w>тѣм</w>
-                        <w>же</w>
-                        <w>не</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>оучать.</w>
-                        <w>а</w>
-                        <w>ѡни</w>
-                        <w>инако.</w>
-                        <w>тѣм</w>
-                        <w>же <lb/>
-                        </w>
-                        <w>не</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>оучатъ.</w>
-                        <w>а</w>
-                        <w>ѡни</w>
-                        <w>иноко.</w>
-                        <w>тѣм</w>
-                        <w>же</w>
-                        <w>не</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>оучать.</w>
-                        <w>а</w>
-                        <w>друзии</w>
-                        <w>инако. <lb/>
-                        </w>
-                        <w>тѣмь</w>
-                        <w>же</w>
-                        <w>не</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>оучать. <lb/>
-                        </w>
-                        <w>а</w>
-                        <w>дроуѕїи</w>
-                        <w>инако.</w>
-                        <w>тѣ<hi rend="sup">м</hi>
-                        </w>
-                        <w>же</w>
-                        <w>не</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>учать,</w>
-                        <w>а</w>
-                        <w>они</w>
-                        <w>бо</w>
-                        <w>ны</w>
-                        <w>и</w>
-                        <w>инако;</w>
-                        <w>тѣмже</w>
-                        <w>не</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>учать,</w>
-                        <w>а</w>
-                        <w>они</w>
-                        <w>онако;</w>
-                        <w>тѣмь</w>
-                        <w>же</w>
-                        <w>не</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>учать,</w>
-                        <w>а</w>
-                        <w>они</w>
-                        <w>бо</w>
-                        <w>ны</w>
-                        <w>и</w>
-                        <w>онако.</w>
-                        <w>Тѣм</w>
-                        <w>же</w>
-                        <w>не</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>26, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="12"><p>
+<app>
+<lem wit="#lem">
+<w>учать,</w>
+<w>а</w>
+<w><choice><seg>они</seg><seg>друзии</seg></choice></w>
+<w>инако;</w>
+<w>тѣмь</w>
+<w>же</w>
+<w>не</w>
+</lem>
+
+<rdg wit="#lav">
+<w>оучат<hi rend="sup">ь</hi>. <lb/></w>
+
+<w>а</w>
+<w>ѡни</w>
+<w>бо</w>
+<w>ны</w>
+<w>и</w>
+<w>ѡнако.</w>
+<w>тѣм</w>
+<w>же</w>
+<w>не</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>учать</w>
+<w>а</w>
+<w>они</w>
+<w>онако</w>
+<w>тѣм</w>
+<w>же</w>
+<w>не</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>оучать.</w>
+<w>а</w>
+<w>ѡни</w>
+<w>инако.</w>
+<w>тѣм</w>
+<w>же <lb/></w>
+
+<w>не</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>оучатъ.</w>
+<w>а</w>
+<w>ѡни</w>
+<w>иноко.</w>
+<w>тѣм</w>
+<w>же</w>
+<w>не</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>оучать.</w>
+<w>а</w>
+<w>друзии</w>
+<w>инако. <lb/></w>
+
+<w>тѣмь</w>
+<w>же</w>
+<w>не</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>оучать. <lb/></w>
+
+<w>а</w>
+<w>дроуѕїи</w>
+<w>инако.</w>
+<w>тѣ<hi rend="sup">м</hi></w>
+<w>же</w>
+<w>не</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>учать,</w>
+<w>а</w>
+<w>они</w>
+<w>бо</w>
+<w>ны</w>
+<w>и</w>
+<w>инако;</w>
+<w>тѣмже</w>
+<w>не</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>учать,</w>
+<w>а</w>
+<w>они</w>
+<w>онако;</w>
+<w>тѣмь</w>
+<w>же</w>
+<w>не</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>учать,</w>
+<w>а</w>
+<w>они</w>
+<w>бо</w>
+<w>ны</w>
+<w>и</w>
+<w>онако.</w>
+<w>Тѣм</w>
+<w>же</w>
+<w>не</w>
+</rdg>
+</app></p></div></body></text></TEI>

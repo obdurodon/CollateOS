@@ -1,121 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>106, 20</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="20">
-            <p>
-               <app>
-                  <lem>
-                     <w>Сихъ</w>
-                     <w>же</w>
-                     <w>послѣ</w>
-                     <w>придоша</w>
-                     <w>Грьци,</w>
-                     <w>хуляще</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>се</w>
-                        <w>же</w>
-                        <w>послѣже</w>
-                        <w>придоша</w>
-                        <w>грьци</w>
-                        <w>хулѧ<lb/>ше</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>се</w>
-                        <w>же</w>
-                        <w>после</w>
-                        <w>при<hi rend="sup">д</hi>ша</w>
-                        <w>греци.</w>
-                        <w>хоулѧще</w>
-                        <w>
-                           <pb n="58v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>се</w>
-                        <w>же <lb/>
-                        </w>
-                        <w>после</w>
-                        <w>прїидоша</w>
-                        <w>греци</w>
-                        <w>хѹлѧще</w>
-                     </rdg>
-                     <rdg wit="#ipa"/>
-                     <rdg wit="#xle">
-                        <w>си<hi rend="sup">х</hi>
-                        </w>
-                        <w>же</w>
-                        <w>посл<hi rend="sup">д</hi>ѣ<hi rend="sup">и</hi>
-                        </w>
-                        <w>прих<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>ша</w>
-                        <w>и</w>
-                        <w>греци</w>
-                        <w>хоулѧще <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>сии</w>
-                        <w>же</w>
-                        <w>грѣцѣ</w>
-                        <w>послѣ</w>
-                        <w>приидоша</w>
-                        <w>и</w>
-                        <w>хуляще</w>
-                     </rdg>
-                     <rdg wit="#nak"/>
-                     <rdg wit="#tol">
-                        <w>сии</w>
-                        <w>же</w>
-                        <w>грѣци</w>
-                        <w>послѣ</w>
-                        <w>приидоша</w>
-                        <w>хуляще</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Се</w>
-                        <w>же</w>
-                        <w>послѣже</w>
-                        <w>придоша</w>
-                        <w>Грьци,</w>
-                        <w>хуляще</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Сихъ</w>
-                        <w>же</w>
-                        <w>послѣ</w>
-                        <w>придоша</w>
-                        <w>Грьци,</w>
-                        <w>хуляще</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Се</w>
-                        <w>же</w>
-                        <w>послѣже</w>
-                        <w>придоша</w>
-                        <w>грьци,</w>
-                        <w>хуляще</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>106, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="20"><p>
+<app>
+<lem wit="#lem">
+<w>Сихъ</w>
+<w>же</w>
+<w>послѣ</w>
+<w>придоша</w>
+<w>Грьци,</w>
+<w>хуляще</w>
+</lem>
+
+<rdg wit="#lav">
+<w>се</w>
+<w>же</w>
+<w>послѣже</w>
+<w>придоша</w>
+<w>грьци</w>
+<w>хулѧ<lb/>ше</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>се</w>
+<w>же</w>
+<w>после</w>
+<w>при<hi rend="sup">д</hi>ша</w>
+<w>греци.</w>
+<w>хоулѧще <pb n="58v"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>се</w>
+<w>же <lb/></w>
+
+<w>после</w>
+<w>прїидоша</w>
+<w>греци</w>
+<w>хѹлѧще</w>
+</rdg>
+
+<rdg wit="#ipa">
+</rdg>
+
+<rdg wit="#xle">
+<w>си<hi rend="sup">х</hi></w>
+<w>же</w>
+<w>посл<hi rend="sup">д</hi>ѣ<hi rend="sup">и</hi></w>
+<w>прих<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>ша</w>
+<w>и</w>
+<w>греци</w>
+<w>хоулѧще <lb/></w>
+
+</rdg>
+
+<rdg wit="#kom">
+<w>сии</w>
+<w>же</w>
+<w>грѣцѣ</w>
+<w>послѣ</w>
+<w>приидоша</w>
+<w>и</w>
+<w>хуляще</w>
+</rdg>
+
+<rdg wit="#nak">
+</rdg>
+
+<rdg wit="#tol">
+<w>сии</w>
+<w>же</w>
+<w>грѣци</w>
+<w>послѣ</w>
+<w>приидоша</w>
+<w>хуляще</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Се</w>
+<w>же</w>
+<w>послѣже</w>
+<w>придоша</w>
+<w>Грьци,</w>
+<w>хуляще</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Сихъ</w>
+<w>же</w>
+<w>послѣ</w>
+<w>придоша</w>
+<w>Грьци,</w>
+<w>хуляще</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Се</w>
+<w>же</w>
+<w>послѣже</w>
+<w>придоша</w>
+<w>грьци,</w>
+<w>хуляще</w>
+</rdg>
+</app></p></div></body></text></TEI>

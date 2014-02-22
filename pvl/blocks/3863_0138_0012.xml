@@ -1,111 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>138, 12</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="12">
-            <p>
-               <app>
-                  <lem>
-                     <w>златозарьныхъ,</w>
-                     <w>въ</w>
-                     <w>селѣхъ</w>
-                     <w>небесныхъ,</w>
-                     <w>въ</w>
-                     <w>славѣ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>зла<lb/>тозарныхъ.</w>
-                        <w>в</w>
-                        <w>селѣхъ</w>
-                        <w>нбн<hi rend="sup">с</hi>ыхъ. <lb/>
-                        </w>
-                        <w>в</w>
-                        <w>славѣ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>светозарны<hi rend="sup">х</hi>.</w>
-                        <w>в</w>
-                        <w>селе<hi rend="sup">х</hi>
-                        </w>
-                        <w>нб<hi rend="sup">с</hi>ны<hi rend="sup">х</hi>.</w>
-                        <w>въ</w>
-                        <w>славе <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>свѣтозарны<hi rend="sup">х</hi>.</w>
-                        <w>в</w>
-                        <w>селехъ</w>
-                        <w>нбн<hi rend="sup">с</hi>ы<hi rend="sup">х</hi>.</w>
-                        <w>въ <lb/>
-                        </w>
-                        <w>славе</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>златоза<lb/>рныхъ.</w>
-                        <w>в</w>
-                        <w>селѣхъ</w>
-                        <w>нбн<hi rend="sup">с</hi>ыхъ.</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>вь</w>
-                        <w>славѣ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>златозарны<hi rend="sup">х</hi>
-                        </w>
-                        <w>въ <lb/>
-                        </w>
-                        <w>селе<hi rend="sup">х</hi>
-                        </w>
-                        <w>нб<hi rend="sup">с</hi>ны<hi rend="sup">х</hi>.</w>
-                        <w>въ</w>
-                        <w>славѣ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>златозарныхъ,</w>
-                        <w>в</w>
-                        <w>селѣхъ</w>
-                        <w>небесныхъ,</w>
-                        <w>в</w>
-                        <w>славѣ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>златозарьныхъ,</w>
-                        <w>въ</w>
-                        <w>селѣхъ</w>
-                        <w>небесныхъ,</w>
-                        <w>въ</w>
-                        <w>славѣ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>златозарныхъ,</w>
-                        <w>в</w>
-                        <w>селѣхъ</w>
-                        <w>небесныхъ,</w>
-                        <w>в</w>
-                        <w>славѣ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>138, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="12"><p>
+<app>
+<lem wit="#lem">
+<w>златозарьныхъ,</w>
+<w>въ</w>
+<w>селѣхъ</w>
+<w>небесныхъ,</w>
+<w>въ</w>
+<w>славѣ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>зла<lb/>тозарныхъ.</w>
+<w>в</w>
+<w>селѣхъ</w>
+<w>нбн<hi rend="sup">с</hi>ыхъ. <lb/></w>
+
+<w>в</w>
+<w>славѣ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>светозарны<hi rend="sup">х</hi>.</w>
+<w>в</w>
+<w>селе<hi rend="sup">х</hi></w>
+<w>нб<hi rend="sup">с</hi>ны<hi rend="sup">х</hi>.</w>
+<w>въ</w>
+<w>славе <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>свѣтозарны<hi rend="sup">х</hi>.</w>
+<w>в</w>
+<w>селехъ</w>
+<w>нбн<hi rend="sup">с</hi>ы<hi rend="sup">х</hi>.</w>
+<w>въ <lb/></w>
+
+<w>славе</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>златоза<lb/>рныхъ.</w>
+<w>в</w>
+<w>селѣхъ</w>
+<w>нбн<hi rend="sup">с</hi>ыхъ.</w>
+<w>и <lb/></w>
+
+<w>вь</w>
+<w>славѣ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>златозарны<hi rend="sup">х</hi></w>
+<w>въ <lb/></w>
+
+<w>селе<hi rend="sup">х</hi></w>
+<w>нб<hi rend="sup">с</hi>ны<hi rend="sup">х</hi>.</w>
+<w>въ</w>
+<w>славѣ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>златозарныхъ,</w>
+<w>в</w>
+<w>селѣхъ</w>
+<w>небесныхъ,</w>
+<w>в</w>
+<w>славѣ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>златозарьныхъ,</w>
+<w>въ</w>
+<w>селѣхъ</w>
+<w>небесныхъ,</w>
+<w>въ</w>
+<w>славѣ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>златозарныхъ,</w>
+<w>в</w>
+<w>селѣхъ</w>
+<w>небесныхъ,</w>
+<w>в</w>
+<w>славѣ</w>
+</rdg>
+</app></p></div></body></text></TEI>

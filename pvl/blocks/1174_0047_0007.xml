@@ -1,87 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>47, 7</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="7">
-            <p>
-               <app>
-                  <lem>
-                     <w>Роалдъ,</w>
-                     <w>Гунастръ,</w>
-                     <w>Фрастѣнъ,</w>
-                     <w>Ингелдъ,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>роалдъ</w>
-                        <w>гунастръ. <lb/>
-                        </w>
-                        <w>фрастѣнъ.</w>
-                        <w>игелъдъ.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>алдъ.</w>
-                        <w>гоуна<lb/>стръ.</w>
-                        <w>фрастѣнъ.</w>
-                        <w>иигелдъ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>роалдъ.</w>
-                        <w>гѹнастръ. <lb/>
-                        </w>
-                        <w>фрастѣнъ.</w>
-                        <w>ингелдъ.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>роалъ<lb/>дъ.</w>
-                        <w>гунастръ.</w>
-                        <w>фрастѣ<lb/>нъ.</w>
-                        <w>инъгелдъ.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>родоалдь.</w>
-                        <w>гоунастрь.</w>
-                        <w>фрастѣ<hi rend="sup">н</hi>.</w>
-                        <w>инге<hi rend="sup">л</hi>дь <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Роалдъ,</w>
-                        <w>Гунастръ,</w>
-                        <w>Фрастѣнъ,</w>
-                        <w>Игелъдъ,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Роалдъ,</w>
-                        <w>Гунастръ,</w>
-                        <w>Фрастѣнъ,</w>
-                        <w>Иггелдъ,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Роалдъ,</w>
-                        <w>Гунастръ,</w>
-                        <w>Фрастѣнъ,</w>
-                        <w>Игелъдъ,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>47, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="7"><p>
+<app>
+<lem wit="#lem">
+<w>Роалдъ,</w>
+<w>Гунастръ,</w>
+<w>Фрастѣнъ,</w>
+<w>Ингелдъ,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>роалдъ</w>
+<w>гунастръ. <lb/></w>
+
+<w>фрастѣнъ.</w>
+<w>игелъдъ.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>алдъ.</w>
+<w>гоуна<lb/>стръ.</w>
+<w>фрастѣнъ.</w>
+<w>иигелдъ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>роалдъ.</w>
+<w>гѹнастръ. <lb/></w>
+
+<w>фрастѣнъ.</w>
+<w>ингелдъ.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>роалъ<lb/>дъ.</w>
+<w>гунастръ.</w>
+<w>фрастѣ<lb/>нъ.</w>
+<w>инъгелдъ.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>родоалдь.</w>
+<w>гоунастрь.</w>
+<w>фрастѣ<hi rend="sup">н</hi>.</w>
+<w>инге<hi rend="sup">л</hi>дь <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>Роалдъ,</w>
+<w>Гунастръ,</w>
+<w>Фрастѣнъ,</w>
+<w>Игелъдъ,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Роалдъ,</w>
+<w>Гунастръ,</w>
+<w>Фрастѣнъ,</w>
+<w>Иггелдъ,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Роалдъ,</w>
+<w>Гунастръ,</w>
+<w>Фрастѣнъ,</w>
+<w>Игелъдъ,</w>
+</rdg>
+</app></p></div></body></text></TEI>

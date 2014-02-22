@@ -1,101 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>124, 2</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="2">
-            <p>
-               <app>
-                  <lem>
-                     <w>Володимиръ</w>
-                     <w>же</w>
-                     <w>великъмь</w>
-                     <w>мужьмь</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>тъ.</w>
-                        <w>володимеръ</w>
-                        <w>же</w>
-                        <w>вели<sic>к</sic>имь</w>
-                        <w>мужемъ</w>
-                        <w>
-                           <pb n="43a"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>то<lb/>мѹ</w>
-                        <w>имѧ.</w>
-                        <w>володимир</w>
-                        <w>же</w>
-                        <w>великимъ</w>
-                        <w>моуже<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>томѹ</w>
-                        <w>имѧ.</w>
-                        <w>володї<lb/>миръ</w>
-                        <w>же</w>
-                        <w>великимъ</w>
-                        <w>мѹжемъ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>володими<lb/>ръ</w>
-                        <w>же</w>
-                        <w>великомь</w>
-                        <w>мужемь <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>вол<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>мер</w>
-                        <w>же</w>
-                        <w>великы<hi rend="sup">м</hi>
-                        </w>
-                        <w>сътвори</w>
-                        <w>
-                           <pb n="54r"/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>тъ.</w>
-                        <w>Володимеръ</w>
-                        <w>же</w>
-                        <w>великимь</w>
-                        <w>мужемъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>тъ.</w>
-                        <w>Володимеръ</w>
-                        <w>же</w>
-                        <w>великъмь</w>
-                        <w>мужьмь</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>тъ.</w>
-                        <w>Володимеръ</w>
-                        <w>же</w>
-                        <w>великимь</w>
-                        <w>мужемь</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>124, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="2"><p>
+<app>
+<lem wit="#lem">
+<w>Володимиръ</w>
+<w>же</w>
+<w>великъмь</w>
+<w>мужьмь</w>
+</lem>
+
+<rdg wit="#lav">
+<w>тъ.</w>
+<w>володимеръ</w>
+<w>же</w>
+<w>вели<milestone unit="sic" n="start"/>к<milestone unit="sic" n="end"/>имь</w>
+<w>мужемъ <pb n="43a"/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>то<lb/>мѹ</w>
+<w>имѧ.</w>
+<w>володимир</w>
+<w>же</w>
+<w>великимъ</w>
+<w>моуже<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>томѹ</w>
+<w>имѧ.</w>
+<w>володї<lb/>миръ</w>
+<w>же</w>
+<w>великимъ</w>
+<w>мѹжемъ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>володими<lb/>ръ</w>
+<w>же</w>
+<w>великомь</w>
+<w>мужемь <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>вол<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>мер</w>
+<w>же</w>
+<w>великы<hi rend="sup">м</hi></w>
+<w>сътвори <pb n="54r"/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>тъ.</w>
+<w>Володимеръ</w>
+<w>же</w>
+<w>великимь</w>
+<w>мужемъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>тъ.</w>
+<w>Володимеръ</w>
+<w>же</w>
+<w>великъмь</w>
+<w>мужьмь</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>тъ.</w>
+<w>Володимеръ</w>
+<w>же</w>
+<w>великимь</w>
+<w>мужемь</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,103 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>137, 13</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="13">
-            <p>
-               <app>
-                  <lem>
-                     <w>пребывающа</w>
-                     <w>въ</w>
-                     <w>радости</w>
-                     <w>бесконьчьнѣи</w>
-                     <w>и</w>
-                     <w>въ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>пребывающа <lb/>
-                        </w>
-                        <w>в</w>
-                        <w>радости</w>
-                        <w>бесконечнѣи.</w>
-                        <w>во</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>пребывающи</w>
-                        <w>в</w>
-                        <w>ра<hi rend="sup">д</hi>сти</w>
-                        <w>бесконечнои.</w>
-                        <w>и</w>
-                        <w>въ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>пре<lb/>бывающи</w>
-                        <w>в</w>
-                        <w>радости</w>
-                        <w>бесконечнеи.</w>
-                        <w>и</w>
-                        <w>въ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>пребывающа.</w>
-                        <w>в</w>
-                        <w>радости <lb/>
-                        </w>
-                        <w>бесконѣ<sic>ч</sic>нѣи.</w>
-                        <w>и</w>
-                        <w>вь</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>пребывающе</w>
-                        <w>в</w>
-                        <w>р<hi rend="sup">д</hi>а<hi rend="sup">о</hi>сти</w>
-                        <w>бесконечнѣи.</w>
-                        <w>въ</w>
-                        <w>
-                           <pb n="61r"/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>пребывающа</w>
-                        <w>в</w>
-                        <w>радости</w>
-                        <w>бесконечнѣй,</w>
-                        <w>во</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>пребывающа</w>
-                        <w>въ</w>
-                        <w>радости</w>
-                        <w>бесконьчьнѣи</w>
-                        <w>и</w>
-                        <w>въ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>пребывающа</w>
-                        <w>в</w>
-                        <w>радости</w>
-                        <w>бесконечнѣй,</w>
-                        <w>во</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>137, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="13"><p>
+<app>
+<lem wit="#lem">
+<w>пребывающа</w>
+<w>въ</w>
+<w>радости</w>
+<w>бесконьчьнѣи</w>
+<w>и</w>
+<w>въ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>пребывающа <lb/></w>
+
+<w>в</w>
+<w>радости</w>
+<w>бесконечнѣи.</w>
+<w>во</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>пребывающи</w>
+<w>в</w>
+<w>ра<hi rend="sup">д</hi>сти</w>
+<w>бесконечнои.</w>
+<w>и</w>
+<w>въ</w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>пре<lb/>бывающи</w>
+<w>в</w>
+<w>радости</w>
+<w>бесконечнеи.</w>
+<w>и</w>
+<w>въ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>пребывающа.</w>
+<w>в</w>
+<w>радости <lb/></w>
+
+<w>бесконѣ<milestone unit="sic" n="start"/>ч<milestone unit="sic" n="end"/>нѣи.</w>
+<w>и</w>
+<w>вь</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>пребывающе</w>
+<w>в</w>
+<w>р<hi rend="sup">д</hi>а<hi rend="sup">о</hi>сти</w>
+<w>бесконечнѣи.</w>
+<w>въ <pb n="61r"/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>пребывающа</w>
+<w>в</w>
+<w>радости</w>
+<w>бесконечнѣй,</w>
+<w>во</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>пребывающа</w>
+<w>въ</w>
+<w>радости</w>
+<w>бесконьчьнѣи</w>
+<w>и</w>
+<w>въ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>пребывающа</w>
+<w>в</w>
+<w>радости</w>
+<w>бесконечнѣй,</w>
+<w>во</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,148 +1,127 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>80, 5</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="5">
-            <p>
-               <app>
-                  <lem>
-                     <w>а</w>
-                     <w>отъ</w>
-                     <w>другыя,</w>
-                     <w>Святослава</w>
-                     <w>и</w>
-                     <w>Мьстислава;</w>
-                     <w>а</w>
-                     <w>отъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>а</w>
-                        <w>
-                           <hi rend="sup">ѿ</hi>
-                        </w>
-                        <w>другоѣ.</w>
-                        <w>с҃тослава.</w>
-                        <w>и</w>
-                        <w>мьстислава.</w>
-                        <w>а</w>
-                        <w>ѿ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>а</w>
-                        <w>ѿ</w>
-                        <w>дроу<lb/>гия</w>
-                        <w>с҃тослава.</w>
-                        <w>и</w>
-                        <w>мстислава.</w>
-                        <w>а</w>
-                        <w>ѿ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>а</w>
-                        <w>ѿ</w>
-                        <w>дрѹгїа</w>
-                        <w>с҃тослава. <lb/>
-                        </w>
-                        <w>а</w>
-                        <w>ѿ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>а</w>
-                        <w>ѿ <lb/>
-                        </w>
-                        <w>другия</w>
-                        <w>с҃тослава.</w>
-                        <w>
-                           <add place="margin">станисла<hi rend="sup">в</hi>
-                           </add>
-                        </w>
-                        <w>ѿ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>а</w>
-                        <w>ѿ</w>
-                        <w>дроугое</w>
-                        <w>с҃тослава.</w>
-                        <w>и</w>
-                        <w>мьстислава.</w>
-                        <w>ѿ</w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>а</w>
-                        <w>от</w>
-                        <w>другыя</w>
-                        <w>святослава</w>
-                        <w>мьстислава</w>
-                        <w>а</w>
-                        <w>от</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>а</w>
-                        <w>от</w>
-                        <w>другиа</w>
-                        <w>святослава</w>
-                        <w>мьстислава</w>
-                        <w>а</w>
-                        <w>от</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>а</w>
-                        <w>от</w>
-                        <w>другиа</w>
-                        <w>святослава</w>
-                        <w>мьстислава</w>
-                        <w>а</w>
-                        <w>от</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>а</w>
-                        <w>отъ</w>
-                        <w>другоѣ</w>
-                        <w>Святослава</w>
-                        <w>и</w>
-                        <w>Мьстислава;</w>
-                        <w>а</w>
-                        <w>отъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>а</w>
-                        <w>отъ</w>
-                        <w>другыя:</w>
-                        <w>Святослава</w>
-                        <w>и</w>
-                        <w>Мьстислава;</w>
-                        <w>а</w>
-                        <w>отъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>а</w>
-                        <w>от</w>
-                        <w>другоѣ—Святослава</w>
-                        <w>и</w>
-                        <w>Мьстислава;</w>
-                        <w>а</w>
-                        <w>от</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>80, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="5"><p>
+<app>
+<lem wit="#lem">
+<w>а</w>
+<w>отъ</w>
+<w>другыя,</w>
+<w>Святослава</w>
+<w>и</w>
+<w>Мьстислава;</w>
+<w>а</w>
+<w>отъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>а</w>
+<w><hi rend="sup">ѿ</hi></w>
+<w>другоѣ.</w>
+<w>с҃тослава.</w>
+<w>и</w>
+<w>мьстислава.</w>
+<w>а</w>
+<w>ѿ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>а</w>
+<w>ѿ</w>
+<w>дроу<lb/>гия</w>
+<w>с҃тослава.</w>
+<w>и</w>
+<w>мстислава.</w>
+<w>а</w>
+<w>ѿ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>а</w>
+<w>ѿ</w>
+<w>дрѹгїа</w>
+<w>с҃тослава. <lb/></w>
+
+<w>а</w>
+<w>ѿ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>а</w>
+<w>ѿ <lb/></w>
+
+<w>другия</w>
+<w>с҃тослава.</w>
+<w><milestone unit="add" n="start" place="margin"/>станисла<hi rend="sup">в</hi><milestone unit="add" n="end"/></w>
+<w>ѿ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>а</w>
+<w>ѿ</w>
+<w>дроугое</w>
+<w>с҃тослава.</w>
+<w>и</w>
+<w>мьстислава.</w>
+<w>ѿ</w>
+</rdg>
+
+<rdg wit="#kom">
+<w>а</w>
+<w>от</w>
+<w>другыя</w>
+<w>святослава</w>
+<w>мьстислава</w>
+<w>а</w>
+<w>от</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>а</w>
+<w>от</w>
+<w>другиа</w>
+<w>святослава</w>
+<w>мьстислава</w>
+<w>а</w>
+<w>от</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>а</w>
+<w>от</w>
+<w>другиа</w>
+<w>святослава</w>
+<w>мьстислава</w>
+<w>а</w>
+<w>от</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>а</w>
+<w>отъ</w>
+<w>другоѣ</w>
+<w>Святослава</w>
+<w>и</w>
+<w>Мьстислава;</w>
+<w>а</w>
+<w>отъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>а</w>
+<w>отъ</w>
+<w>другыя:</w>
+<w>Святослава</w>
+<w>и</w>
+<w>Мьстислава;</w>
+<w>а</w>
+<w>отъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>а</w>
+<w>от</w>
+<w>другоѣ—Святослава</w>
+<w>и</w>
+<w>Мьстислава;</w>
+<w>а</w>
+<w>от</w>
+</rdg>
+</app></p></div></body></text></TEI>

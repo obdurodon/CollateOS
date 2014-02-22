@@ -1,145 +1,125 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>60, 4</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="4">
-            <p>
-               <app>
-                  <lem>
-                     <w>градъ.</w>
-                     <w>И</w>
-                     <w>иде</w>
-                     <w>Ольга</w>
-                     <w>по</w>
-                     <w>Деревьскои</w>
-                     <w>земли</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>во<sic>льзинъ</sic>.</w>
-                        <w>и</w>
-                        <w>иде</w>
-                        <w>вольга <lb/>
-                        </w>
-                        <w>по</w>
-                        <w>дерьвьстѣи</w>
-                        <w>земли</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ѡлженъ.</w>
-                        <w>и</w>
-                        <w>иде</w>
-                        <w>ѡлга</w>
-                        <w>по</w>
-                        <w>деревеньскои</w>
-                        <w>земли.</w>
-                        <w>
-                           <pb n="31r"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ѡльжинь.</w>
-                        <w>и</w>
-                        <w>иде</w>
-                        <w>ѡлга</w>
-                        <w>по</w>
-                        <w>деревьскои</w>
-                        <w>земли</w>
-                        <w>
-                           <pb n="28v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>горо<hi rend="sup">д</hi>.</w>
-                        <w>и</w>
-                        <w>и<lb/>де</w>
-                        <w>ѡлга</w>
-                        <w>по</w>
-                        <w>деревьскои</w>
-                        <w>зе<lb/>мли.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>гра<hi rend="sup">д</hi>.</w>
-                        <w>и</w>
-                        <w>иде</w>
-                        <w>ѡлга</w>
-                        <w>по</w>
-                        <w>деревскои</w>
-                        <w>земли</w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>град</w>
-                        <w>и</w>
-                        <w>иде</w>
-                        <w>олга</w>
-                        <w>по</w>
-                        <w>деревьстѣи</w>
-                        <w>землѣ</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>град</w>
-                        <w>и</w>
-                        <w>иде</w>
-                        <w>олга</w>
-                        <w>по</w>
-                        <w>деревъстии</w>
-                        <w>землѣ</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>град</w>
-                        <w>и</w>
-                        <w>иде</w>
-                        <w>олга</w>
-                        <w>по</w>
-                        <w>деревстии</w>
-                        <w>землѣ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Вользинъ.</w>
-                        <w>И</w>
-                        <w>иде</w>
-                        <w>Вольга</w>
-                        <w>по</w>
-                        <w>Дерьвьстѣй</w>
-                        <w>земли</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>градъ.</w>
-                        <w>И</w>
-                        <w>иде</w>
-                        <w>Ольга</w>
-                        <w>по</w>
-                        <w>Деревьстѣи</w>
-                        <w>земли</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Вользинъ.</w>
-                        <w>И</w>
-                        <w>иде</w>
-                        <w>Вольга</w>
-                        <w>по</w>
-                        <w>Дерьвьстѣй</w>
-                        <w>земли</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>60, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="4"><p>
+<app>
+<lem wit="#lem">
+<w>градъ.</w>
+<w>И</w>
+<w>иде</w>
+<w>Ольга</w>
+<w>по</w>
+<w>Деревьскои</w>
+<w>земли</w>
+</lem>
+
+<rdg wit="#lav">
+<w>во<milestone unit="sic" n="start"/>льзинъ<milestone unit="sic" n="end"/>.</w>
+<w>и</w>
+<w>иде</w>
+<w>вольга <lb/></w>
+
+<w>по</w>
+<w>дерьвьстѣи</w>
+<w>земли</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ѡлженъ.</w>
+<w>и</w>
+<w>иде</w>
+<w>ѡлга</w>
+<w>по</w>
+<w>деревеньскои</w>
+<w>земли. <pb n="31r"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>ѡльжинь.</w>
+<w>и</w>
+<w>иде</w>
+<w>ѡлга</w>
+<w>по</w>
+<w>деревьскои</w>
+<w>земли <pb n="28v"/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>горо<hi rend="sup">д</hi>.</w>
+<w>и</w>
+<w>и<lb/>де</w>
+<w>ѡлга</w>
+<w>по</w>
+<w>деревьскои</w>
+<w>зе<lb/>мли.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>гра<hi rend="sup">д</hi>.</w>
+<w>и</w>
+<w>иде</w>
+<w>ѡлга</w>
+<w>по</w>
+<w>деревскои</w>
+<w>земли</w>
+</rdg>
+
+<rdg wit="#kom">
+<w>град</w>
+<w>и</w>
+<w>иде</w>
+<w>олга</w>
+<w>по</w>
+<w>деревьстѣи</w>
+<w>землѣ</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>град</w>
+<w>и</w>
+<w>иде</w>
+<w>олга</w>
+<w>по</w>
+<w>деревъстии</w>
+<w>землѣ</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>град</w>
+<w>и</w>
+<w>иде</w>
+<w>олга</w>
+<w>по</w>
+<w>деревстии</w>
+<w>землѣ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Вользинъ.</w>
+<w>И</w>
+<w>иде</w>
+<w>Вольга</w>
+<w>по</w>
+<w>Дерьвьстѣй</w>
+<w>земли</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>градъ.</w>
+<w>И</w>
+<w>иде</w>
+<w>Ольга</w>
+<w>по</w>
+<w>Деревьстѣи</w>
+<w>земли</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Вользинъ.</w>
+<w>И</w>
+<w>иде</w>
+<w>Вольга</w>
+<w>по</w>
+<w>Дерьвьстѣй</w>
+<w>земли</w>
+</rdg>
+</app></p></div></body></text></TEI>

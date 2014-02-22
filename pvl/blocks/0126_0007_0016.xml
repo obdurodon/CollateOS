@@ -1,107 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>7, 16</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="16">
-            <p>
-               <app>
-                  <lem>
-                     <w>жерелъ</w>
-                     <w>въ</w>
-                     <w>море</w>
-                     <w>Хвалисьское.</w>
-                     <w>Тѣмь</w>
-                     <w>же</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>жерелъ</w>
-                        <w>в</w>
-                        <w>мо<lb/>ре</w>
-                        <w>хвалисьское.</w>
-                        <w>тѣм</w>
-                        <w>же</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad">
-                        <w>жерелъ</w>
-                        <w>в</w>
-                        <w>море</w>
-                        <w>хвалимьское</w>
-                        <w>тѣ<hi rend="sup">м</hi>
-                        </w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>жерелъ</w>
-                        <w>в</w>
-                        <w>море</w>
-                        <w>хвалимьское.</w>
-                        <w>тѣмъ</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>жерелъ.</w>
-                        <w>в</w>
-                        <w>море</w>
-                        <w>хвалі<lb/>иское.</w>
-                        <w>тѣмь</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>жерелы</w>
-                        <w>в</w>
-                        <w>море</w>
-                        <w>хвали<hi rend="sup">с</hi>ское.</w>
-                        <w>тѣ<hi rend="sup">м</hi>
-                        </w>
-                        <w>же</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>жерелъ</w>
-                        <w>в</w>
-                        <w>море</w>
-                        <w>Хвалисьское.</w>
-                        <w>Тѣмже</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>жерелъ</w>
-                        <w>въ</w>
-                        <w>море</w>
-                        <w>Хвалисьское.</w>
-                        <w>Тѣмь</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>жерелъ</w>
-                        <w>в</w>
-                        <w>море</w>
-                        <w>Хвалисьское.</w>
-                        <w>Тѣм</w>
-                        <w>же</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>7, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="16"><p>
+<app>
+<lem wit="#lem">
+<w>жерелъ</w>
+<w>въ</w>
+<w>море</w>
+<w>Хвалисьское.</w>
+<w>Тѣмь</w>
+<w>же</w>
+</lem>
+
+<rdg wit="#lav">
+<w>жерелъ</w>
+<w>в</w>
+<w>мо<lb/>ре</w>
+<w>хвалисьское.</w>
+<w>тѣм</w>
+<w>же</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+<w>жерелъ</w>
+<w>в</w>
+<w>море</w>
+<w>хвалимьское</w>
+<w>тѣ<hi rend="sup">м</hi></w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>жерелъ</w>
+<w>в</w>
+<w>море</w>
+<w>хвалимьское.</w>
+<w>тѣмъ</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>жерелъ.</w>
+<w>в</w>
+<w>море</w>
+<w>хвалі<lb/>иское.</w>
+<w>тѣмь</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>жерелы</w>
+<w>в</w>
+<w>море</w>
+<w>хвали<hi rend="sup">с</hi>ское.</w>
+<w>тѣ<hi rend="sup">м</hi></w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>жерелъ</w>
+<w>в</w>
+<w>море</w>
+<w>Хвалисьское.</w>
+<w>Тѣмже</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>жерелъ</w>
+<w>въ</w>
+<w>море</w>
+<w>Хвалисьское.</w>
+<w>Тѣмь</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>жерелъ</w>
+<w>в</w>
+<w>море</w>
+<w>Хвалисьское.</w>
+<w>Тѣм</w>
+<w>же</w>
+<w>и</w>
+</rdg>
+</app></p></div></body></text></TEI>

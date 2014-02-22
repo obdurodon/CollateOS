@@ -1,85 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>225, 27</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="27">
-            <p>
-               <app>
-                  <lem>
-                     <w>сынъ</w>
-                     <w>Мьстиславль,</w>
-                     <w>вънукъ</w>
-                     <w>Изяславль,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>сн҃ъ</w>
-                        <w>мьстиславль· <lb/>
-                        </w>
-                        <w>внукъ</w>
-                        <w>изѧславль·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>сн҃ъ</w>
-                        <w>изѧславль.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>сн҃ъ</w>
-                        <w>изѧславль·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>сн҃ъ <lb/>
-                        </w>
-                        <w>мьстиславль·</w>
-                        <w>внукъ</w>
-                        <w>изѧслав<sic>ль</sic> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>сн҃ъ <lb/>
-                        </w>
-                        <w>мьстиславль</w>
-                        <w>вноукь</w>
-                        <w>изѧславль.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>сынъ</w>
-                        <w>Мьстиславль,</w>
-                        <w>внукъ</w>
-                        <w>Изяславль,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>сынъ</w>
-                        <w>Мьстиславль,</w>
-                        <w>вънукъ</w>
-                        <w>Изяславль,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>сынъ</w>
-                        <w>Мьстиславль,</w>
-                        <w>внукъ</w>
-                        <w>Изяславль,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>225, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="27"><p>
+<app>
+<lem wit="#lem">
+<w>сынъ</w>
+<w>Мьстиславль,</w>
+<w>вънукъ</w>
+<w>Изяславль,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>сн҃ъ</w>
+<w>мьстиславль· <lb/></w>
+
+<w>внукъ</w>
+<w>изѧславль·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>сн҃ъ</w>
+<w>изѧславль.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>сн҃ъ</w>
+<w>изѧславль·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>сн҃ъ <lb/></w>
+
+<w>мьстиславль·</w>
+<w>внукъ</w>
+<w>изѧслав<milestone unit="sic" n="start"/>ль<milestone unit="sic" n="end"/><lb/></w>
+</rdg>
+
+<rdg wit="#xle">
+<w>сн҃ъ <lb/></w>
+
+<w>мьстиславль</w>
+<w>вноукь</w>
+<w>изѧславль.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>сынъ</w>
+<w>Мьстиславль,</w>
+<w>внукъ</w>
+<w>Изяславль,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>сынъ</w>
+<w>Мьстиславль,</w>
+<w>вънукъ</w>
+<w>Изяславль,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>сынъ</w>
+<w>Мьстиславль,</w>
+<w>внукъ</w>
+<w>Изяславль,</w>
+</rdg>
+</app></p></div></body></text></TEI>

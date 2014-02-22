@@ -1,135 +1,109 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>238, 2</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="2">
-            <p>
-               <app>
-                  <lem>
-                     <w>и</w>
-                     <w>брата</w>
-                     <w>моего</w>
-                     <w>убилъ</w>
-                     <w>еси,</w>
-                     <w>то</w>
-                     <w>есть</w>
-                     <w>не</w>
-                     <w>дивьно,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>и</w>
-                        <w>бр<hi rend="sup">а</hi> 
-                           <lb/>
-                        </w>
-                        <w>моѥго</w>
-                        <w>ѹбилъ</w>
-                        <w>то</w>
-                        <w>есть</w>
-                        <w>не</w>
-                        <w>дивь<lb/>но</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>и</w>
-                        <w>бра<lb/>
-                        </w>
-                        <w>моего·</w>
-                        <w>оубилъ</w>
-                        <w>еси·</w>
-                        <w>то</w>
-                        <w>е<hi rend="sup">с</hi>
-                        </w>
-                        <w>не</w>
-                        <w>дивно·</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>и</w>
-                        <w>брата</w>
-                        <w>моего <lb/>
-                        </w>
-                        <w>оубилъ</w>
-                        <w>еси·</w>
-                        <w>то</w>
-                        <w>есть</w>
-                        <w>не</w>
-                        <w>дивно·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>и</w>
-                        <w>брата</w>
-                        <w>моего <lb/>
-                        </w>
-                        <w>
-                           <sic>у</sic>ъбилъ</w>
-                        <w>еси·</w>
-                        <w>то</w>
-                        <w>есть <lb/>
-                        </w>
-                        <w>не</w>
-                        <w>дивно</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>и</w>
-                        <w>брата</w>
-                        <w>моего</w>
-                        <w>оубиль</w>
-                        <w>еси.</w>
-                        <w>то</w>
-                        <w>е<hi rend="sup">с</hi>
-                        </w>
-                        <w>н<hi rend="sup">д</hi>е<hi rend="sup">и</hi>вно <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>и</w>
-                        <w>брата</w>
-                        <w>моего</w>
-                        <w>убилъ</w>
-                        <w>еси,</w>
-                        <w>то</w>
-                        <w>есть</w>
-                        <w>недивьно,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>и</w>
-                        <w>брата</w>
-                        <w>моего</w>
-                        <w>убилъ</w>
-                        <w>еси,</w>
-                        <w>то</w>
-                        <w>есть</w>
-                        <w>не</w>
-                        <w>дивьно,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>и</w>
-                        <w>брата</w>
-                        <w>моего</w>
-                        <w>убилъ</w>
-                        <w>еси,</w>
-                        <w>то</w>
-                        <w>есть</w>
-                        <w>недивьно,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>238, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="2"><p>
+<app>
+<lem wit="#lem">
+<w>и</w>
+<w>брата</w>
+<w>моего</w>
+<w>убилъ</w>
+<w>еси,</w>
+<w>то</w>
+<w>есть</w>
+<w>не</w>
+<w>дивьно,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>и</w>
+<w>бр<hi rend="sup">а</hi><lb/>та</w>
+<w>моѥго</w>
+<w>ѹбилъ</w>
+<w>то</w>
+<w>есть</w>
+<w>не</w>
+<w>дивь<lb/>но</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>и</w>
+<w>бра<lb/></w>
+<w>моего·</w>
+<w>оубилъ</w>
+<w>еси·</w>
+<w>то</w>
+<w>е<hi rend="sup">с</hi></w>
+<w>не</w>
+<w>дивно·</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>и</w>
+<w>брата</w>
+<w>моего <lb/></w>
+
+<w>оубилъ</w>
+<w>еси·</w>
+<w>то</w>
+<w>есть</w>
+<w>не</w>
+<w>дивно·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>и</w>
+<w>брата</w>
+<w>моего <lb/><milestone unit="sic" n="start"/>у<milestone unit="sic" n="end"/>ъбилъ</w>
+
+<w>еси·</w>
+<w>то</w>
+<w>есть <lb/></w>
+
+<w>не</w>
+<w>дивно</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>и</w>
+<w>брата</w>
+<w>моего</w>
+<w>оубиль</w>
+<w>еси.</w>
+<w>то</w>
+<w>е<hi rend="sup">с</hi></w>
+<w>н<hi rend="sup">д</hi>е<hi rend="sup">и</hi>вно <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>и</w>
+<w>брата</w>
+<w>моего</w>
+<w>убилъ</w>
+<w>еси,</w>
+<w>то</w>
+<w>есть</w>
+<w>недивьно,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>и</w>
+<w>брата</w>
+<w>моего</w>
+<w>убилъ</w>
+<w>еси,</w>
+<w>то</w>
+<w>есть</w>
+<w>не</w>
+<w>дивьно,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>и</w>
+<w>брата</w>
+<w>моего</w>
+<w>убилъ</w>
+<w>еси,</w>
+<w>то</w>
+<w>есть</w>
+<w>недивьно,</w>
+</rdg>
+</app></p></div></body></text></TEI>

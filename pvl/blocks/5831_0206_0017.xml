@@ -1,108 +1,85 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>206, 17</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="17">
-            <p>
-               <app>
-                  <lem>
-                     <w>благовѣрьныи</w>
-                     <w>кънязь</w>
-                     <w>Вьсеволодъ</w>
-                     <w>съ</w>
-                     <w>сынъма</w>
-                     <w>своима,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>бл҃говѣ<lb/>рныи</w>
-                        <w>кнѧзь</w>
-                        <w>всеволодъ.</w>
-                        <w>с</w>
-                        <w>сво<lb/>има</w>
-                        <w>сн҃ъма.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>б<sic>л</sic>҃говѣрныи</w>
-                        <w>кн҃зь.</w>
-                        <w>всеволо<hi rend="sup">д</hi>.</w>
-                        <w>со</w>
-                        <w>сно҃мъ</w>
-                        <w>сво<lb/>имъ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>блг҃овѣрны</w>
-                        <w>кн҃зь</w>
-                        <w>всеволо<hi rend="sup">д</hi>.</w>
-                        <w>со</w>
-                        <w>снм҃а</w>
-                        <w>своима</w>
-                        <w>
-                           <pb n="109r"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>блг҃овѣрны<lb/>и</w>
-                        <w>кнз҃ь</w>
-                        <w>всеволодь.</w>
-                        <w>со</w>
-                        <w>сыно<lb/>ма</w>
-                        <w>своима.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>блг҃овѣрныи <lb/>
-                        </w>
-                        <w>кнѧ<hi rend="sup">з</hi>
-                        </w>
-                        <w>всеволѡ<hi rend="sup">д</hi>
-                        </w>
-                        <w>съ</w>
-                        <w>с҃нѡма</w>
-                        <w>своима.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>благовѣрный</w>
-                        <w>князь</w>
-                        <w>Всеволодъ</w>
-                        <w>с</w>
-                        <w>своима</w>
-                        <w>сынъма,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>благовѣрьныи</w>
-                        <w>кънязь</w>
-                        <w>Вьсеволодъ</w>
-                        <w>съ</w>
-                        <w>своима</w>
-                        <w>сынъма,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>благовѣрный</w>
-                        <w>князь</w>
-                        <w>Всеволодъ</w>
-                        <w>с</w>
-                        <w>своима</w>
-                        <w>сынъма,—</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>206, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="17"><p>
+<app>
+<lem wit="#lem">
+<w>благовѣрьныи</w>
+<w>кънязь</w>
+<w>Вьсеволодъ</w>
+<w>съ</w>
+<w>сынъма</w>
+<w>своима,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>бл҃говѣ<lb/>рныи</w>
+<w>кнѧзь</w>
+<w>всеволодъ.</w>
+<w>с</w>
+<w>сво<lb/>има</w>
+<w>сн҃ъма.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>б<milestone unit="sic" n="start"/>л<milestone unit="sic" n="end"/>҃говѣрныи</w>
+<w>кн҃зь.</w>
+<w>всеволо<hi rend="sup">д</hi>.</w>
+<w>со</w>
+<w>сно҃мъ</w>
+<w>сво<lb/>имъ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>блг҃овѣрны</w>
+<w>кн҃зь</w>
+<w>всеволо<hi rend="sup">д</hi>.</w>
+<w>со</w>
+<w>снм҃а</w>
+<w>своима <pb n="109r"/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>блг҃овѣрны<lb/>и</w>
+<w>кнз҃ь</w>
+<w>всеволодь.</w>
+<w>со</w>
+<w>сыно<lb/>ма</w>
+<w>своима.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>блг҃овѣрныи <lb/></w>
+
+<w>кнѧ<hi rend="sup">з</hi></w>
+<w>всеволѡ<hi rend="sup">д</hi></w>
+<w>съ</w>
+<w>с҃нѡма</w>
+<w>своима.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>благовѣрный</w>
+<w>князь</w>
+<w>Всеволодъ</w>
+<w>с</w>
+<w>своима</w>
+<w>сынъма,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>благовѣрьныи</w>
+<w>кънязь</w>
+<w>Вьсеволодъ</w>
+<w>съ</w>
+<w>своима</w>
+<w>сынъма,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>благовѣрный</w>
+<w>князь</w>
+<w>Всеволодъ</w>
+<w>с</w>
+<w>своима</w>
+<w>сынъма,—</w>
+</rdg>
+</app></p></div></body></text></TEI>

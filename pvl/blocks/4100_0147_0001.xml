@@ -1,134 +1,105 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>147, 1</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="1">
-            <p>
-               <app>
-                  <lem>
-                     <w>ся</w>
-                     <w>сама</w>
-                     <w>боротъ.</w>
-                     <w>Да</w>
-                     <w>аще</w>
-                     <w>одолѣеши</w>
-                     <w>ты,</w>
-                     <w>и</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>сѧ</w>
-                        <w>са<lb/>ма</w>
-                        <w>боротъ.</w>
-                        <w>да</w>
-                        <w>аще</w>
-                        <w>ѡдолѣешї <lb/>
-                        </w>
-                        <w>ты</w>
-                        <w>то</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>сами</w>
-                        <w>бороти.</w>
-                        <w>да</w>
-                        <w>аще</w>
-                        <w>ѡдолѣе<lb/>ши</w>
-                        <w>ты</w>
-                        <w>то</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>
-                           <sic>сѧ</sic>
-                        </w>
-                        <w>сами</w>
-                        <w>боротъ. <lb/>
-                        </w>
-                        <w>да</w>
-                        <w>аще</w>
-                        <w>ѡдолѣеши</w>
-                        <w>ты.</w>
-                        <w>то</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>
-                           <sic>сѧ</sic>
-                        </w>
-                        <w>боротьсѧ.</w>
-                        <w>да</w>
-                        <w>а<lb/>ще</w>
-                        <w>ѡдолѣешь</w>
-                        <w>ты.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>сѧ</w>
-                        <w>сама</w>
-                        <w>боротисѧ.</w>
-                        <w>да</w>
-                        <w>аще</w>
-                        <w>ѡдолѣеши</w>
-                        <w>ты. <lb/>
-                        </w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>ся</w>
-                        <w>сама</w>
-                        <w>боротъ;</w>
-                        <w>да</w>
-                        <w>аще</w>
-                        <w>одолѣеши</w>
-                        <w>ты,</w>
-                        <w>то</w>
-                        <w>
-                           <pb n="143,8"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>ся</w>
-                        <w>сама</w>
-                        <w>боротъ;</w>
-                        <w>да</w>
-                        <w>аще</w>
-                        <w>одолѣеши</w>
-                        <w>ты,</w>
-                        <w>то</w>
-                        <w>
-                           <pb n="186,20"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>ся</w>
-                        <w>сама</w>
-                        <w>боротъ.</w>
-                        <w>Да</w>
-                        <w>аще</w>
-                        <w>одолѣеши</w>
-                        <w>ты,</w>
-                        <w>то</w>
-                        <w>
-                           <pb n="99,14"/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>147, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="1"><p>
+<app>
+<lem wit="#lem">
+<w>ся</w>
+<w>сама</w>
+<w>боротъ.</w>
+<w>Да</w>
+<w>аще</w>
+<w>одолѣеши</w>
+<w>ты,</w>
+<w>и</w>
+</lem>
+
+<rdg wit="#lav">
+<w>сѧ</w>
+<w>са<lb/>ма</w>
+<w>боротъ.</w>
+<w>да</w>
+<w>аще</w>
+<w>ѡдолѣешї <lb/></w>
+
+<w>ты</w>
+<w>то</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>сами</w>
+<w>бороти.</w>
+<w>да</w>
+<w>аще</w>
+<w>ѡдолѣе<lb/>ши</w>
+<w>ты</w>
+<w>то</w>
+</rdg>
+
+<rdg wit="#aka">
+<w><milestone unit="sic" n="start"/>сѧ<milestone unit="sic" n="end"/></w>
+<w>сами</w>
+<w>боротъ. <lb/></w>
+
+<w>да</w>
+<w>аще</w>
+<w>ѡдолѣеши</w>
+<w>ты.</w>
+<w>то</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w><milestone unit="sic" n="start"/>сѧ<milestone unit="sic" n="end"/></w>
+<w>боротьсѧ.</w>
+<w>да</w>
+<w>а<lb/>ще</w>
+<w>ѡдолѣешь</w>
+<w>ты.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>сѧ</w>
+<w>сама</w>
+<w>боротисѧ.</w>
+<w>да</w>
+<w>аще</w>
+<w>ѡдолѣеши</w>
+<w>ты. <lb/></w>
+
+<w>и</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>ся</w>
+<w>сама</w>
+<w>боротъ;</w>
+<w>да</w>
+<w>аще</w>
+<w>одолѣеши</w>
+<w>ты,</w>
+<w>то <pb n="143,8"/></w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>ся</w>
+<w>сама</w>
+<w>боротъ;</w>
+<w>да</w>
+<w>аще</w>
+<w>одолѣеши</w>
+<w>ты,</w>
+<w>то <pb n="186,20"/></w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>ся</w>
+<w>сама</w>
+<w>боротъ.</w>
+<w>Да</w>
+<w>аще</w>
+<w>одолѣеши</w>
+<w>ты,</w>
+<w>то <pb n="99,14"/></w>
+
+</rdg>
+</app></p></div></body></text></TEI>

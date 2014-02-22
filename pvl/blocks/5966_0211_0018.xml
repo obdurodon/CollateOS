@@ -1,102 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>211, 18</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="18">
-            <p>
-               <app>
-                  <lem>
-                     <w>людие</w>
-                     <w>благовѣрьнии,</w>
-                     <w>и</w>
-                     <w>възяша</w>
-                     <w>мощи</w>
-                     <w>Феодосиевы</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>людье</w>
-                        <w>бл҃говѣрнии·</w>
-                        <w>и</w>
-                        <w>взѧша</w>
-                        <w>мощѣ</w>
-                        <w>ѳеѡдосье<lb/>вы</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>лю<hi rend="sup">д</hi>е</w>
-                        <w>бл҃го<lb/>вѣрныа.</w>
-                        <w>и</w>
-                        <w>взѧша</w>
-                        <w>мощи.</w>
-                        <w>феѡ<hi rend="sup">д</hi>сиевы.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>людие</w>
-                        <w>бл҃говѣрнїи·</w>
-                        <w>и</w>
-                        <w>взѧше</w>
-                        <w>мо<lb/>щи·</w>
-                        <w>феѡдосьевы·̏·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>людье</w>
-                        <w>бл҃го<lb/>вѣрнии</w>
-                        <w>взѧша</w>
-                        <w>мощи</w>
-                        <w>федось<lb/>евы·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>л<hi rend="sup">д</hi>ю<hi rend="sup">и</hi>е</w>
-                        <w>бл҃говѣрнїи.</w>
-                        <w>и</w>
-                        <w>взѧша <lb/>
-                        </w>
-                        <w>мощи</w>
-                        <w>ѳе<hi rend="sup">д</hi>ѡ<hi rend="sup">о</hi>сїевы.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>людье</w>
-                        <w>благовѣрнии,</w>
-                        <w>и</w>
-                        <w>взяша</w>
-                        <w>мощѣ</w>
-                        <w>Феодосьевы</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>людие</w>
-                        <w>благовѣрьнии,</w>
-                        <w>и</w>
-                        <w>възяша</w>
-                        <w>мощи</w>
-                        <w>Феодосиевы</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>людье</w>
-                        <w>благовѣрнии,</w>
-                        <w>и</w>
-                        <w>взяша</w>
-                        <w>мощѣ</w>
-                        <w>Феодосьевы</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>211, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="18"><p>
+<app>
+<lem wit="#lem">
+<w>людие</w>
+<w>благовѣрьнии,</w>
+<w>и</w>
+<w>възяша</w>
+<w>мощи</w>
+<w>Феодосиевы</w>
+</lem>
+
+<rdg wit="#lav">
+<w>людье</w>
+<w>бл҃говѣрнии·</w>
+<w>и</w>
+<w>взѧша</w>
+<w>мощѣ</w>
+<w>ѳеѡдосье<lb/>вы</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>лю<hi rend="sup">д</hi>е</w>
+<w>бл҃го<lb/>вѣрныа.</w>
+<w>и</w>
+<w>взѧша</w>
+<w>мощи.</w>
+<w>феѡ<hi rend="sup">д</hi>сиевы.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>людие</w>
+<w>бл҃говѣрнїи·</w>
+<w>и</w>
+<w>взѧше</w>
+<w>мо<lb/>щи·</w>
+<w>феѡдосьевы·̏·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>людье</w>
+<w>бл҃го<lb/>вѣрнии</w>
+<w>взѧша</w>
+<w>мощи</w>
+<w>федось<lb/>евы·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>л<hi rend="sup">д</hi>ю<hi rend="sup">и</hi>е</w>
+<w>бл҃говѣрнїи.</w>
+<w>и</w>
+<w>взѧша <lb/></w>
+
+<w>мощи</w>
+<w>ѳе<hi rend="sup">д</hi>ѡ<hi rend="sup">о</hi>сїевы.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>людье</w>
+<w>благовѣрнии,</w>
+<w>и</w>
+<w>взяша</w>
+<w>мощѣ</w>
+<w>Феодосьевы</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>людие</w>
+<w>благовѣрьнии,</w>
+<w>и</w>
+<w>възяша</w>
+<w>мощи</w>
+<w>Феодосиевы</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>людье</w>
+<w>благовѣрнии,</w>
+<w>и</w>
+<w>взяша</w>
+<w>мощѣ</w>
+<w>Феодосьевы</w>
+</rdg>
+</app></p></div></body></text></TEI>

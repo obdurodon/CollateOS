@@ -1,75 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>174, 17</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="17">
-            <p>
-               <app>
-                  <lem>
-                     <w>Вьсеволожи.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>всеволожи.</w>
-                        <w>
-                           <pb n="59a"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>всеволожи. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>всеволожи:·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>вьсеволожи.</w>
-                        <w>на</w>
-                        <w>выдобычи·:· <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>на</w>
-                        <w>выдобичи. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>всеволожи</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>всеволожи</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>всеволожи</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Всеволожи.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Вьсеволожи.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Всеволожи.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>174, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="17"><p>
+<app>
+<lem wit="#lem">
+<w>Вьсеволожи.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>всеволожи. <pb n="59a"/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>всеволожи. <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>всеволожи:·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>вьсеволожи.</w>
+<w>на</w>
+<w>выдобычи·:· <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>на</w>
+<w>выдобичи. <lb/></w>
+
+</rdg>
+
+<rdg wit="#kom">
+<w>всеволожи</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>всеволожи</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>всеволожи</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Всеволожи.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Вьсеволожи.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Всеволожи.</w>
+</rdg>
+</app></p></div></body></text></TEI>

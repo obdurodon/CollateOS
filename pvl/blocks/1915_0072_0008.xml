@@ -1,134 +1,104 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>72, 8</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="8">
-            <p>
-               <app>
-                  <lem>
-                     <w>Цьсарюграду.”</w>
-                     <w>И</w>
-                     <w>люба</w>
-                     <w>бысть</w>
-                     <w>рѣчь</w>
-                     <w>си</w>
-                     <w>дружинѣ,</w>
-                     <w>и</w>
-                     <w>посълаша</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ц҃рюгороду.</w>
-                        <w>л<sic>ю</sic>ба</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>рѣчь</w>
-                        <w>си</w>
-                        <w>дружинѣ.</w>
-                        <w>и</w>
-                        <w>послаш<hi rend="sup">а</hi> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ц҃рюгра<hi rend="sup">д</hi>у</w>
-                        <w>лю<lb/>ба</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>р<hi rend="sup">ч</hi>ѣ<hi rend="sup">и</hi>
-                        </w>
-                        <w>дрѹ<hi rend="sup">ж</hi>нѣ</w>
-                        <w>Посла</w>
-                        <w>
-                           <pb n="39v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ц҃рюгра<hi rend="sup">д</hi>у</w>
-                        <w>и</w>
-                        <w>люба</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>рѣчь</w>
-                        <w>дрѹжине:·</w>
-                        <w>Посла</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>цр<hi rend="sup">с</hi>югра<hi rend="sup">д</hi>.</w>
-                        <w>и</w>
-                        <w>люба</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>рѣчь</w>
-                        <w>сї <lb/>
-                        </w>
-                        <w>дружинѣ.</w>
-                        <w>и</w>
-                        <w>послаша</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ц҃рюградоу.</w>
-                        <w>и</w>
-                        <w>люба</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>рѣ<hi rend="sup">ч</hi>
-                        </w>
-                        <w>сїа</w>
-                        <w>дроужинѣ.</w>
-                        <w>и</w>
-                        <w>посла<lb/>ша</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Царюгороду”.</w>
-                        <w>Люба</w>
-                        <w>бысть</w>
-                        <w>рѣчь</w>
-                        <w>си</w>
-                        <w>дружинѣ,</w>
-                        <w>и</w>
-                        <w>послаша</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Цѣсарюграду.”</w>
-                        <w>И</w>
-                        <w>люба</w>
-                        <w>бысть</w>
-                        <w>рѣчь</w>
-                        <w>си</w>
-                        <w>дружинѣ,</w>
-                        <w>и</w>
-                        <w>посълаша</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Царюгороду”.</w>
-                        <w>Люба</w>
-                        <w>бысть</w>
-                        <w>рѣчь</w>
-                        <w>си</w>
-                        <w>дружинѣ,</w>
-                        <w>и</w>
-                        <w>послаша</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>72, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="8"><p>
+<app>
+<lem wit="#lem">
+<w>Цьсарюграду.”</w>
+<w>И</w>
+<w>люба</w>
+<w>бысть</w>
+<w>рѣчь</w>
+<w>си</w>
+<w>дружинѣ,</w>
+<w>и</w>
+<w>посълаша</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ц҃рюгороду.</w>
+<w>л<milestone unit="sic" n="start"/>ю<milestone unit="sic" n="end"/>ба</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>рѣчь</w>
+<w>си</w>
+<w>дружинѣ.</w>
+<w>и</w>
+<w>послаш<hi rend="sup">а</hi><lb/></w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ц҃рюгра<hi rend="sup">д</hi>у</w>
+<w>лю<lb/>ба</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>р<hi rend="sup">ч</hi>ѣ<hi rend="sup">и</hi></w>
+<w>дрѹ<hi rend="sup">ж</hi>нѣ</w>
+<w>Посла <pb n="39v"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>ц҃рюгра<hi rend="sup">д</hi>у</w>
+<w>и</w>
+<w>люба</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>рѣчь</w>
+<w>дрѹжине:·</w>
+<w>Посла</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>цр<hi rend="sup">с</hi>югра<hi rend="sup">д</hi>.</w>
+<w>и</w>
+<w>люба</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>рѣчь</w>
+<w>сї <lb/></w>
+
+<w>дружинѣ.</w>
+<w>и</w>
+<w>послаша</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ц҃рюградоу.</w>
+<w>и</w>
+<w>люба</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>рѣ<hi rend="sup">ч</hi></w>
+<w>сїа</w>
+<w>дроужинѣ.</w>
+<w>и</w>
+<w>посла<lb/>ша</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Царюгороду”.</w>
+<w>Люба</w>
+<w>бысть</w>
+<w>рѣчь</w>
+<w>си</w>
+<w>дружинѣ,</w>
+<w>и</w>
+<w>послаша</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Цѣсарюграду.”</w>
+<w>И</w>
+<w>люба</w>
+<w>бысть</w>
+<w>рѣчь</w>
+<w>си</w>
+<w>дружинѣ,</w>
+<w>и</w>
+<w>посълаша</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Царюгороду”.</w>
+<w>Люба</w>
+<w>бысть</w>
+<w>рѣчь</w>
+<w>си</w>
+<w>дружинѣ,</w>
+<w>и</w>
+<w>послаша</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,115 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>51, 19</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="19">
-            <p>
-               <app>
-                  <lem>
-                     <w>нѣкака</w>
-                     <w>отъ</w>
-                     <w>Грькъ,</w>
-                     <w>сущихъ</w>
-                     <w>подъ</w>
-                     <w>властию</w>
-                     <w>цьсарьства</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>никака.</w>
-                        <w>ѿ</w>
-                        <w>грекъ</w>
-                        <w>сущи<lb/>хъ</w>
-                        <w>подъ</w>
-                        <w>властью</w>
-                        <w>цр҃тва</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>нѣкак<sic>а</sic>.</w>
-                        <w>ѿ</w>
-                        <w>грекъ</w>
-                        <w>соущи</w>
-                        <w>п<hi rend="sup">д</hi>о</w>
-                        <w>вла<lb/>стию</w>
-                        <w>ц<hi rend="sup">с</hi>ртва</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>нѣкака.</w>
-                        <w>ѿ</w>
-                        <w>грекь</w>
-                        <w>сѹща <lb/>
-                        </w>
-                        <w>п<hi rend="sup">д</hi>о</w>
-                        <w>властїю</w>
-                        <w>ц<hi rend="sup">с</hi>ртва</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>нѣка<lb/>ка.</w>
-                        <w>ѿ</w>
-                        <w>грѣкъ</w>
-                        <w>сущихъ</w>
-                        <w>подъ <lb/>
-                        </w>
-                        <w>властью</w>
-                        <w>ц<hi rend="sup">с</hi>ртва</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>нѣкака</w>
-                        <w>ѿ</w>
-                        <w>грекь</w>
-                        <w>сѫщи<hi rend="sup">х</hi>
-                        </w>
-                        <w>пѡ<hi rend="sup">д</hi>
-                        </w>
-                        <w>властїю</w>
-                        <w>ц<hi rend="sup">с</hi>ртва</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>нѣкака</w>
-                        <w>отъ</w>
-                        <w>Грекъ,</w>
-                        <w>сущихъ</w>
-                        <w>подъ</w>
-                        <w>властью</w>
-                        <w>царства</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>нѣкака</w>
-                        <w>отъ</w>
-                        <w>Грькъ,</w>
-                        <w>сущихъ</w>
-                        <w>подъ</w>
-                        <w>властию</w>
-                        <w>цѣсарьства</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>нѣкака</w>
-                        <w>от</w>
-                        <w>грекъ,</w>
-                        <w>сущихъ</w>
-                        <w>подъ</w>
-                        <w>властью</w>
-                        <w>царства</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>51, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="19"><p>
+<app>
+<lem wit="#lem">
+<w>нѣкака</w>
+<w>отъ</w>
+<w>Грькъ,</w>
+<w>сущихъ</w>
+<w>подъ</w>
+<w>властию</w>
+<w>цьсарьства</w>
+</lem>
+
+<rdg wit="#lav">
+<w>никака.</w>
+<w>ѿ</w>
+<w>грекъ</w>
+<w>сущи<lb/>хъ</w>
+<w>подъ</w>
+<w>властью</w>
+<w>цр҃тва</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>нѣкак<milestone unit="sic" n="start"/>а<milestone unit="sic" n="end"/>.</w>
+<w>ѿ</w>
+<w>грекъ</w>
+<w>соущи</w>
+<w>п<hi rend="sup">д</hi>о</w>
+<w>вла<lb/>стию</w>
+<w>ц<hi rend="sup">с</hi>ртва</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>нѣкака.</w>
+<w>ѿ</w>
+<w>грекь</w>
+<w>сѹща <lb/></w>
+
+<w>п<hi rend="sup">д</hi>о</w>
+<w>властїю</w>
+<w>ц<hi rend="sup">с</hi>ртва</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>нѣка<lb/>ка.</w>
+<w>ѿ</w>
+<w>грѣкъ</w>
+<w>сущихъ</w>
+<w>подъ <lb/></w>
+
+<w>властью</w>
+<w>ц<hi rend="sup">с</hi>ртва</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>нѣкака</w>
+<w>ѿ</w>
+<w>грекь</w>
+<w>сѫщи<hi rend="sup">х</hi></w>
+<w>пѡ<hi rend="sup">д</hi></w>
+<w>властїю</w>
+<w>ц<hi rend="sup">с</hi>ртва</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>нѣкака</w>
+<w>отъ</w>
+<w>Грекъ,</w>
+<w>сущихъ</w>
+<w>подъ</w>
+<w>властью</w>
+<w>царства</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>нѣкака</w>
+<w>отъ</w>
+<w>Грькъ,</w>
+<w>сущихъ</w>
+<w>подъ</w>
+<w>властию</w>
+<w>цѣсарьства</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>нѣкака</w>
+<w>от</w>
+<w>грекъ,</w>
+<w>сущихъ</w>
+<w>подъ</w>
+<w>властью</w>
+<w>царства</w>
+</rdg>
+</app></p></div></body></text></TEI>

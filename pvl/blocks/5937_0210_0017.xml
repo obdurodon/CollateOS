@@ -1,120 +1,95 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>210, 17</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="17">
-            <p>
-               <app>
-                  <lem>
-                     <w>егда</w>
-                     <w>игуменъ,</w>
-                     <w>утаивъ</w>
-                     <w>ся,</w>
-                     <w>нѣ</w>
-                     <w>съ</w>
-                     <w>кымь</w>
-                     <w>пренесеть</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ѥда</w>
-                        <w>игуме<lb/>нъ</w>
-                        <w>оутаивъсѧ</w>
-                        <w>нѣ</w>
-                        <w>с</w>
-                        <w>кыими <lb/>
-                        </w>
-                        <w>пренесеть</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ег<hi rend="sup">д</hi>а</w>
-                        <w>игоуменъ.</w>
-                        <w>оута<lb/>ивсѧ</w>
-                        <w>нѣ</w>
-                        <w>с</w>
-                        <w>кы<hi rend="sup">м</hi>.</w>
-                        <w>пренесе<hi rend="sup">т</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ега<hi rend="sup">д</hi>
-                        </w>
-                        <w>игѹменъ</w>
-                        <w>оутаивсѧ</w>
-                        <w>нѣ</w>
-                        <w>с</w>
-                        <w>кымъ.</w>
-                        <w>прине<lb/>сеть</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>егда</w>
-                        <w>игуменъ</w>
-                        <w>оута<lb/>ивсѧ.</w>
-                        <w>нѣ</w>
-                        <w>с</w>
-                        <w>ким<sic>ъ</sic>
-                        </w>
-                        <w>принесеть <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>еда</w>
-                        <w>игоуме<hi rend="sup">н</hi>
-                        </w>
-                        <w>оутаи<lb/>всѧ</w>
-                        <w>нѣ</w>
-                        <w>с</w>
-                        <w>кы<hi rend="sup">м</hi>
-                        </w>
-                        <w>пренесе<hi rend="sup">т</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>еда</w>
-                        <w>игуменъ,</w>
-                        <w>утаивъся,</w>
-                        <w>нѣ</w>
-                        <w>с</w>
-                        <w>кымъ</w>
-                        <w>пренесеть</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>еда</w>
-                        <w>игуменъ,</w>
-                        <w>утаивъся,</w>
-                        <w>нѣ</w>
-                        <w>съ</w>
-                        <w>кымь</w>
-                        <w>пренесеть</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>еда</w>
-                        <w>игуменъ,</w>
-                        <w>утаивъся,</w>
-                        <w>нѣ</w>
-                        <w>с</w>
-                        <w>кымъ</w>
-                        <w>пренесеть</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>210, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="17"><p>
+<app>
+<lem wit="#lem">
+<w>егда</w>
+<w>игуменъ,</w>
+<w>утаивъ</w>
+<w>ся,</w>
+<w>нѣ</w>
+<w>съ</w>
+<w>кымь</w>
+<w>пренесеть</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ѥда</w>
+<w>игуме<lb/>нъ</w>
+<w>оутаивъсѧ</w>
+<w>нѣ</w>
+<w>с</w>
+<w>кыими <lb/></w>
+
+<w>пренесеть</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ег<hi rend="sup">д</hi>а</w>
+<w>игоуменъ.</w>
+<w>оута<lb/>ивсѧ</w>
+<w>нѣ</w>
+<w>с</w>
+<w>кы<hi rend="sup">м</hi>.</w>
+<w>пренесе<hi rend="sup">т</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ега<hi rend="sup">д</hi></w>
+<w>игѹменъ</w>
+<w>оутаивсѧ</w>
+<w>нѣ</w>
+<w>с</w>
+<w>кымъ.</w>
+<w>прине<lb/>сеть</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>егда</w>
+<w>игуменъ</w>
+<w>оута<lb/>ивсѧ.</w>
+<w>нѣ</w>
+<w>с</w>
+<w>ким<milestone unit="sic" n="start"/>ъ<milestone unit="sic" n="end"/></w>
+<w>принесеть <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>еда</w>
+<w>игоуме<hi rend="sup">н</hi></w>
+<w>оутаи<lb/>всѧ</w>
+<w>нѣ</w>
+<w>с</w>
+<w>кы<hi rend="sup">м</hi></w>
+<w>пренесе<hi rend="sup">т</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>еда</w>
+<w>игуменъ,</w>
+<w>утаивъся,</w>
+<w>нѣ</w>
+<w>с</w>
+<w>кымъ</w>
+<w>пренесеть</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>еда</w>
+<w>игуменъ,</w>
+<w>утаивъся,</w>
+<w>нѣ</w>
+<w>съ</w>
+<w>кымь</w>
+<w>пренесеть</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>еда</w>
+<w>игуменъ,</w>
+<w>утаивъся,</w>
+<w>нѣ</w>
+<w>с</w>
+<w>кымъ</w>
+<w>пренесеть</w>
+</rdg>
+</app></p></div></body></text></TEI>

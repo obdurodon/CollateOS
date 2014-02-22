@@ -1,113 +1,93 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>201, 21</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="21">
-            <p>
-               <app>
-                  <lem>
-                     <w>благодать</w>
-                     <w>даеть,</w>
-                     <w>да</w>
-                     <w>не</w>
-                     <w>хвалить</w>
-                     <w>ся</w>
-                     <w>сильныи</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>даѥть</w>
-                        <w>блг<hi rend="sup">д</hi>ть.</w>
-                        <w>да</w>
-                        <w>не</w>
-                        <w>хватсѧ</w>
-                        <w>си<lb/>лныи</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>даеть <lb/>
-                        </w>
-                        <w>блг҃одать.</w>
-                        <w>и</w>
-                        <w>да</w>
-                        <w>не</w>
-                        <w>хвалить<hi rend="sup">с</hi>
-                        </w>
-                        <w>силныи</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>даеть</w>
-                        <w>блгт<hi rend="sup">д</hi>ь.</w>
-                        <w>да</w>
-                        <w>не</w>
-                        <w>хва<lb/>литсѧ</w>
-                        <w>силныи</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>блг<hi rend="sup">д</hi>ть</w>
-                        <w>даеть.</w>
-                        <w>ї</w>
-                        <w>да <lb/>
-                        </w>
-                        <w>не</w>
-                        <w>хвалитсѧ</w>
-                        <w>силны</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>же</w>
-                        <w>блг<hi rend="sup">д</hi>ть <lb/>
-                        </w>
-                        <w>дае<hi rend="sup">т</hi>.</w>
-                        <w>и</w>
-                        <w>да</w>
-                        <w>не</w>
-                        <w>похвалит</w>
-                        <w>сѧ</w>
-                        <w>силныи</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>даеть</w>
-                        <w>благодать,</w>
-                        <w>да</w>
-                        <w>не</w>
-                        <w>хвалиться</w>
-                        <w>силный</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>даеть</w>
-                        <w>благодать,</w>
-                        <w>и</w>
-                        <w>да</w>
-                        <w>не</w>
-                        <w>хвалиться</w>
-                        <w>сильныи</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>даеть</w>
-                        <w>благодать,</w>
-                        <w>да</w>
-                        <w>не</w>
-                        <w>хвалиться</w>
-                        <w>силный</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>201, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="21"><p>
+<app>
+<lem wit="#lem">
+<w>благодать</w>
+<w>даеть,</w>
+<w>да</w>
+<w>не</w>
+<w>хвалить</w>
+<w>ся</w>
+<w>сильныи</w>
+</lem>
+
+<rdg wit="#lav">
+<w>даѥть</w>
+<w>блг<hi rend="sup">д</hi>ть.</w>
+<w>да</w>
+<w>не</w>
+<w>хватсѧ</w>
+<w>си<lb/>лныи</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>даеть <lb/></w>
+
+<w>блг҃одать.</w>
+<w>и</w>
+<w>да</w>
+<w>не</w>
+<w>хвалить<hi rend="sup">с</hi></w>
+<w>силныи</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>даеть</w>
+<w>блгт<hi rend="sup">д</hi>ь.</w>
+<w>да</w>
+<w>не</w>
+<w>хва<lb/>литсѧ</w>
+<w>силныи</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>блг<hi rend="sup">д</hi>ть</w>
+<w>даеть.</w>
+<w>ї</w>
+<w>да <lb/></w>
+
+<w>не</w>
+<w>хвалитсѧ</w>
+<w>силны</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>же</w>
+<w>блг<hi rend="sup">д</hi>ть <lb/></w>
+
+<w>дае<hi rend="sup">т</hi>.</w>
+<w>и</w>
+<w>да</w>
+<w>не</w>
+<w>похвалит</w>
+<w>сѧ</w>
+<w>силныи</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>даеть</w>
+<w>благодать,</w>
+<w>да</w>
+<w>не</w>
+<w>хвалиться</w>
+<w>силный</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>даеть</w>
+<w>благодать,</w>
+<w>и</w>
+<w>да</w>
+<w>не</w>
+<w>хвалиться</w>
+<w>сильныи</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>даеть</w>
+<w>благодать,</w>
+<w>да</w>
+<w>не</w>
+<w>хвалиться</w>
+<w>силный</w>
+</rdg>
+</app></p></div></body></text></TEI>

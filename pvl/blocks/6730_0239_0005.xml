@@ -1,125 +1,101 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>239, 5</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="5">
-            <p>
-               <app>
-                  <lem>
-                     <w>не</w>
-                     <w>постави</w>
-                     <w>сторожовъ;</w>
-                     <w>нъ</w>
-                     <w>Богъ</w>
-                     <w>вѣсть</w>
-                     <w>избавити</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>не</w>
-                        <w>постави</w>
-                        <w>сто<lb/>рожовъ·</w>
-                        <w>но</w>
-                        <w>б҃ъ</w>
-                        <w>вѣсть</w>
-                        <w>избавлѧ<lb/>ти</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>не</w>
-                        <w>постави<hi rend="sup">л</hi>
-                        </w>
-                        <w>сторожевъ·</w>
-                        <w>но</w>
-                        <w>б҃ъ</w>
-                        <w>вѣ<lb/>сть</w>
-                        <w>како</w>
-                        <w>избавити</w>
-                        <w>члк҃ы</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>не</w>
-                        <w>поставилъ</w>
-                        <w>сторожеи·</w>
-                        <w>но</w>
-                        <w>бг҃ь</w>
-                        <w>вѣсть</w>
-                        <w>како</w>
-                        <w>избавити</w>
-                        <w>члв҃кы</w>
-                        <w>
-                           <pb n="126v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>не</w>
-                        <w>постави</w>
-                        <w>сторожо<lb/>въ·</w>
-                        <w>но</w>
-                        <w>б҃ъ</w>
-                        <w>вѣсть</w>
-                        <w>избавити <lb/>
-                        </w>
-                        <w>члв҃кы</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>не <lb/>
-                        </w>
-                        <w>постави</w>
-                        <w>сторожовъ.</w>
-                        <w>но</w>
-                        <w>б҃ъ</w>
-                        <w>вѣсть</w>
-                        <w>избав<hi rend="sup">т</hi>и<hi rend="sup">и</hi> 
-                           <lb/>
-                        </w>
-                        <w>чл҃кы</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>не</w>
-                        <w>постави</w>
-                        <w>сторожовъ;</w>
-                        <w>но</w>
-                        <w>Богъ</w>
-                        <w>вѣсть</w>
-                        <w>избавляти</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>не</w>
-                        <w>постави</w>
-                        <w>сторожевъ;</w>
-                        <w>нъ</w>
-                        <w>Богъ</w>
-                        <w>вѣсть</w>
-                        <w>избавляти</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>не</w>
-                        <w>постави</w>
-                        <w>сторожовъ;</w>
-                        <w>но</w>
-                        <w>богъ</w>
-                        <w>вѣсть</w>
-                        <w>избавляти</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>239, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="5"><p>
+<app>
+<lem wit="#lem">
+<w>не</w>
+<w>постави</w>
+<w>сторожовъ;</w>
+<w>нъ</w>
+<w>Богъ</w>
+<w>вѣсть</w>
+<w>избавити</w>
+</lem>
+
+<rdg wit="#lav">
+<w>не</w>
+<w>постави</w>
+<w>сто<lb/>рожовъ·</w>
+<w>но</w>
+<w>б҃ъ</w>
+<w>вѣсть</w>
+<w>избавлѧ<lb/>ти</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>не</w>
+<w>постави<hi rend="sup">л</hi></w>
+<w>сторожевъ·</w>
+<w>но</w>
+<w>б҃ъ</w>
+<w>вѣ<lb/>сть</w>
+<w>како</w>
+<w>избавити</w>
+<w>члк҃ы</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>не</w>
+<w>поставилъ</w>
+<w>сторожеи·</w>
+<w>но</w>
+<w>бг҃ь</w>
+<w>вѣсть</w>
+<w>како</w>
+<w>избавити</w>
+<w>члв҃кы <pb n="126v"/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>не</w>
+<w>постави</w>
+<w>сторожо<lb/>въ·</w>
+<w>но</w>
+<w>б҃ъ</w>
+<w>вѣсть</w>
+<w>избавити <lb/></w>
+
+<w>члв҃кы</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>не <lb/></w>
+
+<w>постави</w>
+<w>сторожовъ.</w>
+<w>но</w>
+<w>б҃ъ</w>
+<w>вѣсть</w>
+<w>избав<hi rend="sup">т</hi>и<hi rend="sup">и</hi><lb/></w>
+<w>чл҃кы</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>не</w>
+<w>постави</w>
+<w>сторожовъ;</w>
+<w>но</w>
+<w>Богъ</w>
+<w>вѣсть</w>
+<w>избавляти</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>не</w>
+<w>постави</w>
+<w>сторожевъ;</w>
+<w>нъ</w>
+<w>Богъ</w>
+<w>вѣсть</w>
+<w>избавляти</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>не</w>
+<w>постави</w>
+<w>сторожовъ;</w>
+<w>но</w>
+<w>богъ</w>
+<w>вѣсть</w>
+<w>избавляти</w>
+</rdg>
+</app></p></div></body></text></TEI>

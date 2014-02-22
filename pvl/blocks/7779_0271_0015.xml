@@ -1,98 +1,78 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>271, 15</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="15">
-            <p>
-               <app>
-                  <lem>
-                     <w>възвративъ</w>
-                     <w>ся</w>
-                     <w>въспять,</w>
-                     <w>и</w>
-                     <w>не</w>
-                     <w>допустяху</w>
-                     <w>Угъръ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>възвратѧшеть</w>
-                        <w>сѧ</w>
-                        <w>вспѧть·</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>допустѧху</w>
-                        <w>оугръ</w>
-                        <w>
-                           <pb n="91c"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad"/>
-                     <rdg wit="#aka"/>
-                     <rdg wit="#ipa">
-                        <w>
-                           <sic>в</sic>зватив</w>
-                        <w>сѧ</w>
-                        <w>оуспѧть·</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>не</w>
-                        <w>допустѧхоу</w>
-                        <w>угоръ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>въз′вратив</w>
-                        <w>сѧ</w>
-                        <w>въспѧть, <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>дѡпоустѧхѫ</w>
-                        <w>оугоръ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>възвратяшеться</w>
-                        <w>вспять,</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>допустяху</w>
-                        <w>Угръ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>възвратяшеться</w>
-                        <w>въспять,</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>допустяху</w>
-                        <w>Угъръ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>възвратяшеться</w>
-                        <w>вспять,</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>допустяху</w>
-                        <w>угръ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="15"><p>
+<app>
+<lem wit="#lem">
+<w>възвративъ</w>
+<w>ся</w>
+<w>въспять,</w>
+<w>и</w>
+<w>не</w>
+<w>допустяху</w>
+<w>Угъръ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>възвратѧшеть</w>
+<w>сѧ</w>
+<w>вспѧть·</w>
+<w>и</w>
+<w>не</w>
+<w>допустѧху</w>
+<w>оугръ <pb n="91c"/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+</rdg>
+
+<rdg wit="#aka">
+</rdg>
+
+<rdg wit="#ipa">
+<w><milestone unit="sic" n="start"/>в<milestone unit="sic" n="end"/>зватив</w>
+<w>сѧ</w>
+<w>оуспѧть·</w>
+<w>и <lb/></w>
+
+<w>не</w>
+<w>допустѧхоу</w>
+<w>угоръ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>въз′вратив</w>
+<w>сѧ</w>
+<w>въспѧть, <lb/></w>
+
+<w>и</w>
+<w>не</w>
+<w>дѡпоустѧхѫ</w>
+<w>оугоръ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>възвратяшеться</w>
+<w>вспять,</w>
+<w>и</w>
+<w>не</w>
+<w>допустяху</w>
+<w>Угръ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>възвратяшеться</w>
+<w>въспять,</w>
+<w>и</w>
+<w>не</w>
+<w>допустяху</w>
+<w>Угъръ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>възвратяшеться</w>
+<w>вспять,</w>
+<w>и</w>
+<w>не</w>
+<w>допустяху</w>
+<w>угръ</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,101 +1,77 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>47, 19</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="19">
-            <p>
-               <app>
-                  <lem>
-                     <w>великымъ</w>
-                     <w>цьсаремъ</w>
-                     <w>Грьчьскымъ,</w>
-                     <w>сътворити</w>
-                     <w>любъвь</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>великимъ</w>
-                        <w>цр҃мъ <lb/>
-                        </w>
-                        <w>гречьскимъ.</w>
-                        <w>створити</w>
-                        <w>любовь</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>велики<hi rend="sup">м</hi>
-                        </w>
-                        <w>кн҃змъ</w>
-                        <w>грецьки<hi rend="sup">м</hi>.</w>
-                        <w>сотворити <lb/>
-                        </w>
-                        <w>любовь</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>великимь</w>
-                        <w>ц҃ремь</w>
-                        <w>гре<lb/>цкимь.</w>
-                        <w>сотворити</w>
-                        <w>любовь</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>великы<lb/>мъ</w>
-                        <w>ц<hi rend="sup">с</hi>ремъ</w>
-                        <w>грѣцкымъ. <lb/>
-                        </w>
-                        <w>створити</w>
-                        <w>любовь</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>великы<hi rend="sup">м</hi>
-                        </w>
-                        <w>ц҃ре<hi rend="sup">м</hi>
-                        </w>
-                        <w>грецкы<hi rend="sup">м</hi> 
-                           <lb/>
-                        </w>
-                        <w>сътворити</w>
-                        <w>любовь</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>великимъ</w>
-                        <w>царемъ</w>
-                        <w>Гречьскимъ,</w>
-                        <w>створити</w>
-                        <w>любовь</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>великымъ</w>
-                        <w>цѣсаремъ</w>
-                        <w>Грьчьскымъ,</w>
-                        <w>сътворити</w>
-                        <w>любъвь</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>великимъ</w>
-                        <w>царемъ</w>
-                        <w>гречьскимъ,</w>
-                        <w>створити</w>
-                        <w>любовь</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>47, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="19"><p>
+<app>
+<lem wit="#lem">
+<w>великымъ</w>
+<w>цьсаремъ</w>
+<w>Грьчьскымъ,</w>
+<w>сътворити</w>
+<w>любъвь</w>
+</lem>
+
+<rdg wit="#lav">
+<w>великимъ</w>
+<w>цр҃мъ <lb/></w>
+
+<w>гречьскимъ.</w>
+<w>створити</w>
+<w>любовь</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>велики<hi rend="sup">м</hi></w>
+<w>кн҃змъ</w>
+<w>грецьки<hi rend="sup">м</hi>.</w>
+<w>сотворити <lb/></w>
+
+<w>любовь</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>великимь</w>
+<w>ц҃ремь</w>
+<w>гре<lb/>цкимь.</w>
+<w>сотворити</w>
+<w>любовь</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>великы<lb/>мъ</w>
+<w>ц<hi rend="sup">с</hi>ремъ</w>
+<w>грѣцкымъ. <lb/></w>
+
+<w>створити</w>
+<w>любовь</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>великы<hi rend="sup">м</hi></w>
+<w>ц҃ре<hi rend="sup">м</hi></w>
+<w>грецкы<hi rend="sup">м</hi><lb/></w>
+<w>сътворити</w>
+<w>любовь</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>великимъ</w>
+<w>царемъ</w>
+<w>Гречьскимъ,</w>
+<w>створити</w>
+<w>любовь</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>великымъ</w>
+<w>цѣсаремъ</w>
+<w>Грьчьскымъ,</w>
+<w>сътворити</w>
+<w>любъвь</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>великимъ</w>
+<w>царемъ</w>
+<w>гречьскимъ,</w>
+<w>створити</w>
+<w>любовь</w>
+</rdg>
+</app></p></div></body></text></TEI>

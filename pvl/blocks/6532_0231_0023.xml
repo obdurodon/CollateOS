@@ -1,121 +1,100 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>231, 23</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="23">
-            <p>
-               <app>
-                  <lem>
-                     <w>удариша</w>
-                     <w>въ</w>
-                     <w>конѣ</w>
-                     <w>къ</w>
-                     <w>противьнымъ.</w>
-                     <w>И</w>
-                     <w>се</w>
-                     <w>видѣвъше</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>оудариша</w>
-                        <w>в</w>
-                        <w>конѣ</w>
-                        <w>к</w>
-                        <w>противны<lb/>мъ·</w>
-                        <w>се</w>
-                        <w>видѣвше</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>оудариша</w>
-                        <w>в</w>
-                        <w>кони <lb/>
-                        </w>
-                        <w>ко</w>
-                        <w>противны<hi rend="sup">м</hi>.</w>
-                        <w>и</w>
-                        <w>се</w>
-                        <w>видѣвше</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>вдариша</w>
-                        <w>в</w>
-                        <w>кони <lb/>
-                        </w>
-                        <w>кь</w>
-                        <w>противнымъ·</w>
-                        <w>и</w>
-                        <w>се·̏</w>
-                        <w>видевше</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>
-                           <sic>у</sic>дари<lb/>ша</w>
-                        <w>в</w>
-                        <w>конѣ·</w>
-                        <w>къ</w>
-                        <w>противны<lb/>мъ·</w>
-                        <w>и</w>
-                        <w>с<sic>е</sic>
-                        </w>
-                        <w>видивше</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>вда<lb/>риша</w>
-                        <w>в</w>
-                        <w>кони</w>
-                        <w>къ</w>
-                        <w>противны<hi rend="sup">м</hi>.</w>
-                        <w>и</w>
-                        <w>се</w>
-                        <w>видѣвше</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>удариша</w>
-                        <w>в</w>
-                        <w>конѣ</w>
-                        <w>к</w>
-                        <w>противнымъ;</w>
-                        <w>се</w>
-                        <w>видѣвше</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>удариша</w>
-                        <w>въ</w>
-                        <w>конѣ</w>
-                        <w>къ</w>
-                        <w>противьнымъ;</w>
-                        <w>и</w>
-                        <w>се</w>
-                        <w>видѣвъше</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>удариша</w>
-                        <w>в</w>
-                        <w>конѣ</w>
-                        <w>к</w>
-                        <w>противнымъ.</w>
-                        <w>Се</w>
-                        <w>видѣвше</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>231, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="23"><p>
+<app>
+<lem wit="#lem">
+<w>удариша</w>
+<w>въ</w>
+<w>конѣ</w>
+<w>къ</w>
+<w>противьнымъ.</w>
+<w>И</w>
+<w>се</w>
+<w>видѣвъше</w>
+</lem>
+
+<rdg wit="#lav">
+<w>оудариша</w>
+<w>в</w>
+<w>конѣ</w>
+<w>к</w>
+<w>противны<lb/>мъ·</w>
+<w>се</w>
+<w>видѣвше</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>оудариша</w>
+<w>в</w>
+<w>кони <lb/></w>
+
+<w>ко</w>
+<w>противны<hi rend="sup">м</hi>.</w>
+<w>и</w>
+<w>се</w>
+<w>видѣвше</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>вдариша</w>
+<w>в</w>
+<w>кони <lb/></w>
+
+<w>кь</w>
+<w>противнымъ·</w>
+<w>и</w>
+<w>се·̏</w>
+<w>видевше</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w><milestone unit="sic" n="start"/>у<milestone unit="sic" n="end"/>дари<lb/>ша</w>
+<w>в</w>
+<w>конѣ·</w>
+<w>къ</w>
+<w>противны<lb/>мъ·</w>
+<w>и</w>
+<w>с<milestone unit="sic" n="start"/>е<milestone unit="sic" n="end"/></w>
+<w>видивше</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>вда<lb/>риша</w>
+<w>в</w>
+<w>кони</w>
+<w>къ</w>
+<w>противны<hi rend="sup">м</hi>.</w>
+<w>и</w>
+<w>се</w>
+<w>видѣвше</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>удариша</w>
+<w>в</w>
+<w>конѣ</w>
+<w>к</w>
+<w>противнымъ;</w>
+<w>се</w>
+<w>видѣвше</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>удариша</w>
+<w>въ</w>
+<w>конѣ</w>
+<w>къ</w>
+<w>противьнымъ;</w>
+<w>и</w>
+<w>се</w>
+<w>видѣвъше</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>удариша</w>
+<w>в</w>
+<w>конѣ</w>
+<w>к</w>
+<w>противнымъ.</w>
+<w>Се</w>
+<w>видѣвше</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,108 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>30, 3b</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="3b">
-            <p>
-               <app>
-                  <lem>
-                     <w>и</w>
-                     <w>повоева</w>
-                     <w>около</w>
-                     <w>града,</w>
-                     <w>и</w>
-                     <w>мъного</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#tro">
-                        <w>и</w>
-                        <w>повоева</w>
-                        <w>много</w>
-                        <w>и</w>
-                        <w>много</w>
-                        <w>убииство</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>и</w>
-                        <w>воевати</w>
-                        <w>нача</w>
-                        <w>
-                           <hi rend="sup">и</hi>
-                        </w>
-                        <w>много</w>
-                        <w>оу<lb/>бииства</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>и</w>
-                        <w>воевати</w>
-                        <w>нача. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>много</w>
-                        <w>оубїиство</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>и</w>
-                        <w>повоева</w>
-                        <w>ѡколол<hi rend="sup">о</hi> 
-                           <lb/>
-                        </w>
-                        <w>города.</w>
-                        <w>и</w>
-                        <w>много</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>и</w>
-                        <w>повоева</w>
-                        <w>ѡколо</w>
-                        <w>города.</w>
-                        <w>и</w>
-                        <w>мнѡго</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>и</w>
-                        <w>воевати</w>
-                        <w>нача,</w>
-                        <w>и</w>
-                        <w>много</w>
-                        <w>убийство</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>и</w>
-                        <w>повоева</w>
-                        <w>около</w>
-                        <w>града,</w>
-                        <w>и</w>
-                        <w>мъного</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>и</w>
-                        <w>воевати</w>
-                        <w>нача,</w>
-                        <w>и</w>
-                        <w>много</w>
-                        <w>убийства</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>30, 3b</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="3b"><p>
+<app>
+<lem wit="#lem">
+<w>и</w>
+<w>повоева</w>
+<w>около</w>
+<w>града,</w>
+<w>и</w>
+<w>мъного</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#tro">
+<w>и</w>
+<w>повоева</w>
+<w>много</w>
+<w>и</w>
+<w>много</w>
+<w>убииство</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>и</w>
+<w>воевати</w>
+<w>нача</w>
+<w><hi rend="sup">и</hi></w>
+<w>много</w>
+<w>оу<lb/>бииства</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>и</w>
+<w>воевати</w>
+<w>нача. <lb/></w>
+
+<w>и</w>
+<w>много</w>
+<w>оубїиство</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>и</w>
+<w>повоева</w>
+<w>ѡколол<hi rend="sup">о</hi><lb/></w>
+<w>города.</w>
+<w>и</w>
+<w>много</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>и</w>
+<w>повоева</w>
+<w>ѡколо</w>
+<w>города.</w>
+<w>и</w>
+<w>мнѡго</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>и</w>
+<w>воевати</w>
+<w>нача,</w>
+<w>и</w>
+<w>много</w>
+<w>убийство</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>и</w>
+<w>повоева</w>
+<w>около</w>
+<w>града,</w>
+<w>и</w>
+<w>мъного</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>и</w>
+<w>воевати</w>
+<w>нача,</w>
+<w>и</w>
+<w>много</w>
+<w>убийства</w>
+</rdg>
+</app></p></div></body></text></TEI>

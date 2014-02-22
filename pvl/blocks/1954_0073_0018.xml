@@ -1,116 +1,95 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>73, 18</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="18">
-            <p>
-               <app>
-                  <lem>
-                     <w>написахъ</w>
-                     <w>на</w>
-                     <w>харатьи</w>
-                     <w>сеи,</w>
-                     <w>и</w>
-                     <w>своими</w>
-                     <w>печатьми</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>написахомъ</w>
-                        <w>на</w>
-                        <w>харатьи</w>
-                        <w>сеи. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>своими</w>
-                        <w>печатьми</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>написахо<hi rend="sup">м</hi>
-                        </w>
-                        <w>на</w>
-                        <w>хоратьи</w>
-                        <w>сеи.</w>
-                        <w>и</w>
-                        <w>своими</w>
-                        <w>печать<lb/>ми</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>написахомъ</w>
-                        <w>на</w>
-                        <w>хоратьи <lb/>
-                        </w>
-                        <w>сеи.</w>
-                        <w>и</w>
-                        <w>своими</w>
-                        <w>печатьми</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>на<lb/>писахъ</w>
-                        <w>на</w>
-                        <w>харотьи</w>
-                        <w>сеи.</w>
-                        <w>и</w>
-                        <w>свої<lb/>ми</w>
-                        <w>печатьми</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>написа<hi rend="sup">х</hi>
-                        </w>
-                        <w>на</w>
-                        <w>хартїи</w>
-                        <w>сеи. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>своими</w>
-                        <w>печа<hi rend="sup">т</hi>ми</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>написахомъ</w>
-                        <w>на</w>
-                        <w>харатьи</w>
-                        <w>сей</w>
-                        <w>и</w>
-                        <w>своими</w>
-                        <w>печатьми</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>написахомъ</w>
-                        <w>на</w>
-                        <w>харатии</w>
-                        <w>сеи,</w>
-                        <w>и</w>
-                        <w>своими</w>
-                        <w>печатьми</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>написахомъ</w>
-                        <w>на</w>
-                        <w>харатьи</w>
-                        <w>сей</w>
-                        <w>и</w>
-                        <w>своими</w>
-                        <w>печатьми</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>73, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="18"><p>
+<app>
+<lem wit="#lem">
+<w>написахъ</w>
+<w>на</w>
+<w>харатьи</w>
+<w>сеи,</w>
+<w>и</w>
+<w>своими</w>
+<w>печатьми</w>
+</lem>
+
+<rdg wit="#lav">
+<w>написахомъ</w>
+<w>на</w>
+<w>харатьи</w>
+<w>сеи. <lb/></w>
+
+<w>и</w>
+<w>своими</w>
+<w>печатьми</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>написахо<hi rend="sup">м</hi></w>
+<w>на</w>
+<w>хоратьи</w>
+<w>сеи.</w>
+<w>и</w>
+<w>своими</w>
+<w>печать<lb/>ми</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>написахомъ</w>
+<w>на</w>
+<w>хоратьи <lb/></w>
+
+<w>сеи.</w>
+<w>и</w>
+<w>своими</w>
+<w>печатьми</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>на<lb/>писахъ</w>
+<w>на</w>
+<w>харотьи</w>
+<w>сеи.</w>
+<w>и</w>
+<w>свої<lb/>ми</w>
+<w>печатьми</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>написа<hi rend="sup">х</hi></w>
+<w>на</w>
+<w>хартїи</w>
+<w>сеи. <lb/></w>
+
+<w>и</w>
+<w>своими</w>
+<w>печа<hi rend="sup">т</hi>ми</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>написахомъ</w>
+<w>на</w>
+<w>харатьи</w>
+<w>сей</w>
+<w>и</w>
+<w>своими</w>
+<w>печатьми</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>написахомъ</w>
+<w>на</w>
+<w>харатии</w>
+<w>сеи,</w>
+<w>и</w>
+<w>своими</w>
+<w>печатьми</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>написахомъ</w>
+<w>на</w>
+<w>харатьи</w>
+<w>сей</w>
+<w>и</w>
+<w>своими</w>
+<w>печатьми</w>
+</rdg>
+</app></p></div></body></text></TEI>

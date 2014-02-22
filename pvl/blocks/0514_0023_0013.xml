@@ -1,105 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>23, 13</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="13">
-            <p>
-               <app>
-                  <lem>
-                     <w>Диръ</w>
-                     <w>придоста,</w>
-                     <w>и</w>
-                     <w>выскакаша</w>
-                     <w>вьси</w>
-                     <w>прочии</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>диръ</w>
-                        <w>придо<lb/>ста.</w>
-                        <w>выскакав</w>
-                        <w>же</w>
-                        <w>вси</w>
-                        <w>прочии</w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad">
-                        <w>диръ</w>
-                        <w>прїидоста.</w>
-                        <w>и</w>
-                        <w>выскакавше</w>
-                        <w>вси</w>
-                        <w>прочии. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>диръ</w>
-                        <w>прїидоста.</w>
-                        <w>и</w>
-                        <w>выскакавше</w>
-                        <w>вси</w>
-                        <w>прочїи.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>диръ</w>
-                        <w>прид<sic>-</sic> 
-                           <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>выскакаша</w>
-                        <w>вси</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>дирь</w>
-                        <w>прїидо<lb/>ста.</w>
-                        <w>и</w>
-                        <w>выскакаша</w>
-                        <w>вси</w>
-                        <w>прочїи</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Диръ</w>
-                        <w>придоста,</w>
-                        <w>и</w>
-                        <w>выскакаша</w>
-                        <w>вси</w>
-                        <w>прочии</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Диръ</w>
-                        <w>придоста,</w>
-                        <w>и</w>
-                        <w>выскакаша</w>
-                        <w>вьси</w>
-                        <w>прочии</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Диръ</w>
-                        <w>придоста,</w>
-                        <w>и</w>
-                        <w>выскакаша</w>
-                        <w>вси</w>
-                        <w>прочии</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>23, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="13"><p>
+<app>
+<lem wit="#lem">
+<w>Диръ</w>
+<w>придоста,</w>
+<w>и</w>
+<w>выскакаша</w>
+<w>вьси</w>
+<w>прочии</w>
+</lem>
+
+<rdg wit="#lav">
+<w>диръ</w>
+<w>придо<lb/>ста.</w>
+<w>выскакав</w>
+<w>же</w>
+<w>вси</w>
+<w>прочии</w>
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+<w>диръ</w>
+<w>прїидоста.</w>
+<w>и</w>
+<w>выскакавше</w>
+<w>вси</w>
+<w>прочии. <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>диръ</w>
+<w>прїидоста.</w>
+<w>и</w>
+<w>выскакавше</w>
+<w>вси</w>
+<w>прочїи.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>диръ</w>
+<w>прид<milestone unit="sic" n="start"/>-<milestone unit="sic" n="end"/><lb/>ста.</w>
+<w>и</w>
+<w>выскакаша</w>
+<w>вси</w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>дирь</w>
+<w>прїидо<lb/>ста.</w>
+<w>и</w>
+<w>выскакаша</w>
+<w>вси</w>
+<w>прочїи</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Диръ</w>
+<w>придоста,</w>
+<w>и</w>
+<w>выскакаша</w>
+<w>вси</w>
+<w>прочии</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Диръ</w>
+<w>придоста,</w>
+<w>и</w>
+<w>выскакаша</w>
+<w>вьси</w>
+<w>прочии</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Диръ</w>
+<w>придоста,</w>
+<w>и</w>
+<w>выскакаша</w>
+<w>вси</w>
+<w>прочии</w>
+</rdg>
+</app></p></div></body></text></TEI>

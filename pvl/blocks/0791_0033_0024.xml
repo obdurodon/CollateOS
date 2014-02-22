@@ -1,108 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>33, 24</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="24">
-            <p>
-               <app>
-                  <lem>
-                     <w>елико</w>
-                     <w>наше</w>
-                     <w>изволение,</w>
-                     <w>быти</w>
-                     <w>отъ</w>
-                     <w>сущихъ</w>
-                     <w>подъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>елико</w>
-                        <w>наше</w>
-                        <w>и<lb/>зволение</w>
-                        <w>быти</w>
-                        <w>ѿ</w>
-                        <w>соущи<hi rend="sup">х</hi>.</w>
-                        <w>по</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>елико</w>
-                        <w>наше</w>
-                        <w>изволенїе <lb/>
-                        </w>
-                        <w>быти</w>
-                        <w>ѿ</w>
-                        <w>сѹ<sic>щих</sic>
-                        </w>
-                        <w>подь</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>елико</w>
-                        <w>на<lb/>ше</w>
-                        <w>изволение.</w>
-                        <w>быти</w>
-                        <w>ѿ</w>
-                        <w>су<lb/>щи<hi rend="sup">х</hi>.</w>
-                        <w>под</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>елико</w>
-                        <w>наше</w>
-                        <w>изволенїе</w>
-                        <w>б<hi rend="sup">т</hi>ы<hi rend="sup">и</hi> 
-                           <lb/>
-                        </w>
-                        <w>ѿ</w>
-                        <w>сѫщи<hi rend="sup">х</hi>.</w>
-                        <w>пѡ<hi rend="sup">д</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>елико</w>
-                        <w>наше</w>
-                        <w>изволение,</w>
-                        <w>быти</w>
-                        <w>отъ</w>
-                        <w>сущихъ</w>
-                        <w>подь</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>елико</w>
-                        <w>наше</w>
-                        <w>изволение,</w>
-                        <w>быти</w>
-                        <w>отъ</w>
-                        <w>сущихъ</w>
-                        <w>подъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>елико</w>
-                        <w>наше</w>
-                        <w>изволение,</w>
-                        <w>быти</w>
-                        <w>от</w>
-                        <w>сущих</w>
-                        <w>подь</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>33, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="24"><p>
+<app>
+<lem wit="#lem">
+<w>елико</w>
+<w>наше</w>
+<w>изволение,</w>
+<w>быти</w>
+<w>отъ</w>
+<w>сущихъ</w>
+<w>подъ</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>елико</w>
+<w>наше</w>
+<w>и<lb/>зволение</w>
+<w>быти</w>
+<w>ѿ</w>
+<w>соущи<hi rend="sup">х</hi>.</w>
+<w>по</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>елико</w>
+<w>наше</w>
+<w>изволенїе <lb/></w>
+
+<w>быти</w>
+<w>ѿ</w>
+<w>сѹ<milestone unit="sic" n="start"/>щих<milestone unit="sic" n="end"/></w>
+<w>подь</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>елико</w>
+<w>на<lb/>ше</w>
+<w>изволение.</w>
+<w>быти</w>
+<w>ѿ</w>
+<w>су<lb/>щи<hi rend="sup">х</hi>.</w>
+<w>под</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>елико</w>
+<w>наше</w>
+<w>изволенїе</w>
+<w>б<hi rend="sup">т</hi>ы<hi rend="sup">и</hi><lb/></w>
+<w>ѿ</w>
+<w>сѫщи<hi rend="sup">х</hi>.</w>
+<w>пѡ<hi rend="sup">д</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>елико</w>
+<w>наше</w>
+<w>изволение,</w>
+<w>быти</w>
+<w>отъ</w>
+<w>сущихъ</w>
+<w>подь</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>елико</w>
+<w>наше</w>
+<w>изволение,</w>
+<w>быти</w>
+<w>отъ</w>
+<w>сущихъ</w>
+<w>подъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>елико</w>
+<w>наше</w>
+<w>изволение,</w>
+<w>быти</w>
+<w>от</w>
+<w>сущих</w>
+<w>подь</w>
+</rdg>
+</app></p></div></body></text></TEI>

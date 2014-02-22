@@ -1,93 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>137, 29</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="29">
-            <p>
-               <app>
-                  <lem>
-                     <w>святымъ</w>
-                     <w>единодушьна.</w>
-                     <w>Тѣмь</w>
-                     <w>стражющимъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>с҃ты<lb/>мъ</w>
-                        <w>единодш҃ьна.</w>
-                        <w>тѣмь</w>
-                        <w>стра<lb/>жющимъ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>с҃ты <lb/>
-                        </w>
-                        <w>единосоущна.</w>
-                        <w>тѣмъ</w>
-                        <w>стражю<hi rend="sup">д</hi>щи<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ст҃ымъ</w>
-                        <w>единосѹщна.</w>
-                        <w>тѣмъ</w>
-                        <w>стражющимъ</w>
-                        <w>
-                           <pb n="72v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>стм҃ь</w>
-                        <w>еди<lb/>нодш҃ьна.</w>
-                        <w>тѣмь</w>
-                        <w>стражющи<lb/>мь</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ст҃ы<hi rend="sup">м</hi>
-                        </w>
-                        <w>единодш҃ьна. <lb/>
-                        </w>
-                        <w>т<hi rend="sup">м</hi>ѣ</w>
-                        <w>и</w>
-                        <w>стра<lb/>жоущи<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>святымъ</w>
-                        <w>единодушьна;</w>
-                        <w>тѣмь</w>
-                        <w>стражющимъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>святымъ</w>
-                        <w>единодушьна;</w>
-                        <w>тѣмь</w>
-                        <w>стражющимъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>святымъ</w>
-                        <w>единодушьна;</w>
-                        <w>тѣмь</w>
-                        <w>стражющимъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>137, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="29"><p>
+<app>
+<lem wit="#lem">
+<w>святымъ</w>
+<w>единодушьна.</w>
+<w>Тѣмь</w>
+<w>стражющимъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>с҃ты<lb/>мъ</w>
+<w>единодш҃ьна.</w>
+<w>тѣмь</w>
+<w>стра<lb/>жющимъ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>с҃ты <lb/></w>
+
+<w>единосоущна.</w>
+<w>тѣмъ</w>
+<w>стражю<hi rend="sup">д</hi>щи<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ст҃ымъ</w>
+<w>единосѹщна.</w>
+<w>тѣмъ</w>
+<w>стражющимъ <pb n="72v"/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>стм҃ь</w>
+<w>еди<lb/>нодш҃ьна.</w>
+<w>тѣмь</w>
+<w>стражющи<lb/>мь</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ст҃ы<hi rend="sup">м</hi></w>
+<w>единодш҃ьна. <lb/></w>
+
+<w>т<hi rend="sup">м</hi>ѣ</w>
+<w>и</w>
+<w>стра<lb/>жоущи<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>святымъ</w>
+<w>единодушьна;</w>
+<w>тѣмь</w>
+<w>стражющимъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>святымъ</w>
+<w>единодушьна;</w>
+<w>тѣмь</w>
+<w>стражющимъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>святымъ</w>
+<w>единодушьна;</w>
+<w>тѣмь</w>
+<w>стражющимъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,121 +1,101 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>150, 18</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="18">
-            <p>
-               <app>
-                  <lem>
-                     <w>възьдано</w>
-                     <w>ея</w>
-                     <w>при</w>
-                     <w>немь</w>
-                     <w>възвыше,</w>
-                     <w>яко</w>
-                     <w>на</w>
-                     <w>кони</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>въздано</w>
-                        <w>ея</w>
-                        <w>при</w>
-                        <w>не<lb/>мь.</w>
-                        <w>възвыше</w>
-                        <w>яко</w>
-                        <w>на</w>
-                        <w>кони</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>възделаное</w>
-                        <w>при</w>
-                        <w>не<hi rend="sup">м</hi>.</w>
-                        <w>възвыше</w>
-                        <w>на</w>
-                        <w>кони</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>възделанное</w>
-                        <w>при</w>
-                        <w>не<lb/>мъ.</w>
-                        <w>възвыше</w>
-                        <w>на</w>
-                        <w>конї</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>вьздано <lb/>
-                        </w>
-                        <w>ея</w>
-                        <w>при</w>
-                        <w>немь.</w>
-                        <w>вьзвыше</w>
-                        <w>яко <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>на</w>
-                        <w>конѣ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>създано</w>
-                        <w>еѧ</w>
-                        <w>при</w>
-                        <w>не<hi rend="sup">м</hi>
-                        </w>
-                        <w>възвыше <lb/>
-                        </w>
-                        <w>яко</w>
-                        <w>на</w>
-                        <w>кони</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>въздано</w>
-                        <w>ея</w>
-                        <w>при</w>
-                        <w>немь</w>
-                        <w>възвыше,</w>
-                        <w>яко</w>
-                        <w>на</w>
-                        <w>кони</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>възьдано</w>
-                        <w>ея</w>
-                        <w>при</w>
-                        <w>немь</w>
-                        <w>възвыше,</w>
-                        <w>яко</w>
-                        <w>на</w>
-                        <w>кони</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>въздано</w>
-                        <w>ея</w>
-                        <w>при</w>
-                        <w>немь</w>
-                        <w>възвыше,</w>
-                        <w>яко</w>
-                        <w>на</w>
-                        <w>кони</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>150, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="18"><p>
+<app>
+<lem wit="#lem">
+<w>възьдано</w>
+<w>ея</w>
+<w>при</w>
+<w>немь</w>
+<w>възвыше,</w>
+<w>яко</w>
+<w>на</w>
+<w>кони</w>
+</lem>
+
+<rdg wit="#lav">
+<w>въздано</w>
+<w>ея</w>
+<w>при</w>
+<w>не<lb/>мь.</w>
+<w>възвыше</w>
+<w>яко</w>
+<w>на</w>
+<w>кони</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>възделаное</w>
+<w>при</w>
+<w>не<hi rend="sup">м</hi>.</w>
+<w>възвыше</w>
+<w>на</w>
+<w>кони</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>възделанное</w>
+<w>при</w>
+<w>не<lb/>мъ.</w>
+<w>възвыше</w>
+<w>на</w>
+<w>конї</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>вьздано <lb/></w>
+
+<w>ея</w>
+<w>при</w>
+<w>немь.</w>
+<w>вьзвыше</w>
+<w>яко <lb/></w>
+
+<w>и</w>
+<w>на</w>
+<w>конѣ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>създано</w>
+<w>еѧ</w>
+<w>при</w>
+<w>не<hi rend="sup">м</hi></w>
+<w>възвыше <lb/></w>
+
+<w>яко</w>
+<w>на</w>
+<w>кони</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>въздано</w>
+<w>ея</w>
+<w>при</w>
+<w>немь</w>
+<w>възвыше,</w>
+<w>яко</w>
+<w>на</w>
+<w>кони</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>възьдано</w>
+<w>ея</w>
+<w>при</w>
+<w>немь</w>
+<w>възвыше,</w>
+<w>яко</w>
+<w>на</w>
+<w>кони</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>въздано</w>
+<w>ея</w>
+<w>при</w>
+<w>немь</w>
+<w>възвыше,</w>
+<w>яко</w>
+<w>на</w>
+<w>кони</w>
+</rdg>
+</app></p></div></body></text></TEI>

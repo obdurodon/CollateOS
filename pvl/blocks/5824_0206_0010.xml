@@ -1,95 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>206, 10</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="10">
-            <p>
-               <app>
-                  <lem>
-                     <w>Яропълкъ,</w>
-                     <w>вытъргну</w>
-                     <w>изъ</w>
-                     <w>себе</w>
-                     <w>саблю,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>яро<lb/>полкъ.</w>
-                        <w>выторгну</w>
-                        <w>изъ</w>
-                        <w>себе</w>
-                        <w>са<lb/>блю.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ярополкъ.</w>
-                        <w>выторгнѹ</w>
-                        <w>ис</w>
-                        <w>се<lb/>бе</w>
-                        <w>саблю.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ярополкь.</w>
-                        <w>выторгнѹ</w>
-                        <w>ис</w>
-                        <w>себе</w>
-                        <w>саблю.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ярополкъ.</w>
-                        <w>выторгну <lb/>
-                        </w>
-                        <w>исъ</w>
-                        <w>себе</w>
-                        <w>сабл<sic>е</sic>ю.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ярополкъ.</w>
-                        <w>вытръгноу</w>
-                        <w>и<hi rend="sup">з</hi>
-                        </w>
-                        <w>се<lb/>бе</w>
-                        <w>саблю.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Ярополкъ,</w>
-                        <w>выторгну</w>
-                        <w>изъ</w>
-                        <w>себе</w>
-                        <w>саблю,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Яропълкъ,</w>
-                        <w>вытъргну</w>
-                        <w>изъ</w>
-                        <w>себе</w>
-                        <w>саблю,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Ярополкъ,</w>
-                        <w>выторгну</w>
-                        <w>изъ</w>
-                        <w>себе</w>
-                        <w>саблю,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>206, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="10"><p>
+<app>
+<lem wit="#lem">
+<w>Яропълкъ,</w>
+<w>вытъргну</w>
+<w>изъ</w>
+<w>себе</w>
+<w>саблю,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>яро<lb/>полкъ.</w>
+<w>выторгну</w>
+<w>изъ</w>
+<w>себе</w>
+<w>са<lb/>блю.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ярополкъ.</w>
+<w>выторгнѹ</w>
+<w>ис</w>
+<w>се<lb/>бе</w>
+<w>саблю.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ярополкь.</w>
+<w>выторгнѹ</w>
+<w>ис</w>
+<w>себе</w>
+<w>саблю.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ярополкъ.</w>
+<w>выторгну <lb/></w>
+
+<w>исъ</w>
+<w>себе</w>
+<w>сабл<milestone unit="sic" n="start"/>е<milestone unit="sic" n="end"/>ю.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ярополкъ.</w>
+<w>вытръгноу</w>
+<w>и<hi rend="sup">з</hi></w>
+<w>се<lb/>бе</w>
+<w>саблю.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Ярополкъ,</w>
+<w>выторгну</w>
+<w>изъ</w>
+<w>себе</w>
+<w>саблю,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Яропълкъ,</w>
+<w>вытъргну</w>
+<w>изъ</w>
+<w>себе</w>
+<w>саблю,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Ярополкъ,</w>
+<w>выторгну</w>
+<w>изъ</w>
+<w>себе</w>
+<w>саблю,</w>
+</rdg>
+</app></p></div></body></text></TEI>

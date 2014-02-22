@@ -1,127 +1,102 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>54, 11</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="11">
-            <p>
-               <app>
-                  <lem>
-                     <w>придоша</w>
-                     <w>къ</w>
-                     <w>цьсареви,</w>
-                     <w>и</w>
-                     <w>повѣдаша</w>
-                     <w>вься</w>
-                     <w>рѣчи</w>
-                     <w>Игоревы</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>придош<hi rend="sup">а</hi> 
-                           <lb/>
-                        </w>
-                        <w>к<sic>о</sic>
-                        </w>
-                        <w>цр҃ви.</w>
-                        <w>повѣдаша</w>
-                        <w>всѧ</w>
-                        <w>рѣчи</w>
-                        <w>игоревы.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>приидоша</w>
-                        <w>ко</w>
-                        <w>цр҃ви.</w>
-                        <w>и</w>
-                        <w>поведаша</w>
-                        <w>всѧ</w>
-                        <w>рѣ<hi rend="sup">ч</hi>
-                        </w>
-                        <w>игоревы.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>прїидоша</w>
-                        <w>ко</w>
-                        <w>цр҃ви.</w>
-                        <w>и</w>
-                        <w>поведаша</w>
-                        <w>всѧ</w>
-                        <w>рѣчи <lb/>
-                        </w>
-                        <w>игоревы.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>придо<lb/>ша</w>
-                        <w>къ</w>
-                        <w>ц<hi rend="sup">с</hi>рви.</w>
-                        <w>и</w>
-                        <w>повѣдаш<hi rend="sup">а</hi> 
-                           <lb/>
-                        </w>
-                        <w>всѧ</w>
-                        <w>рѣчи</w>
-                        <w>игоревы.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>прїидоша</w>
-                        <w>къ</w>
-                        <w>цр҃ви,</w>
-                        <w>и</w>
-                        <w>повѣдаша</w>
-                        <w>всѧ</w>
-                        <w>рѣчи</w>
-                        <w>игоревы. <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>придоша</w>
-                        <w>ко</w>
-                        <w>цареви,</w>
-                        <w>и</w>
-                        <w>повѣдаша</w>
-                        <w>вся</w>
-                        <w>рѣчи</w>
-                        <w>Игоревы</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>придоша</w>
-                        <w>къ</w>
-                        <w>цѣсареви,</w>
-                        <w>и</w>
-                        <w>повѣдаша</w>
-                        <w>вься</w>
-                        <w>рѣчи</w>
-                        <w>Игоревы</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>придоша</w>
-                        <w>ко</w>
-                        <w>цареви,</w>
-                        <w>и</w>
-                        <w>повѣдаша</w>
-                        <w>вся</w>
-                        <w>рѣчи</w>
-                        <w>Игоревы</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>54, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="11"><p>
+<app>
+<lem wit="#lem">
+<w>придоша</w>
+<w>къ</w>
+<w>цьсареви,</w>
+<w>и</w>
+<w>повѣдаша</w>
+<w>вься</w>
+<w>рѣчи</w>
+<w>Игоревы</w>
+</lem>
+
+<rdg wit="#lav">
+<w>придош<hi rend="sup">а</hi><lb/></w>
+<w>к<milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/></w>
+<w>цр҃ви.</w>
+<w>повѣдаша</w>
+<w>всѧ</w>
+<w>рѣчи</w>
+<w>игоревы.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>приидоша</w>
+<w>ко</w>
+<w>цр҃ви.</w>
+<w>и</w>
+<w>поведаша</w>
+<w>всѧ</w>
+<w>рѣ<hi rend="sup">ч</hi></w>
+<w>игоревы.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>прїидоша</w>
+<w>ко</w>
+<w>цр҃ви.</w>
+<w>и</w>
+<w>поведаша</w>
+<w>всѧ</w>
+<w>рѣчи <lb/></w>
+
+<w>игоревы.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>придо<lb/>ша</w>
+<w>къ</w>
+<w>ц<hi rend="sup">с</hi>рви.</w>
+<w>и</w>
+<w>повѣдаш<hi rend="sup">а</hi><lb/></w>
+<w>всѧ</w>
+<w>рѣчи</w>
+<w>игоревы.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>прїидоша</w>
+<w>къ</w>
+<w>цр҃ви,</w>
+<w>и</w>
+<w>повѣдаша</w>
+<w>всѧ</w>
+<w>рѣчи</w>
+<w>игоревы. <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>придоша</w>
+<w>ко</w>
+<w>цареви,</w>
+<w>и</w>
+<w>повѣдаша</w>
+<w>вся</w>
+<w>рѣчи</w>
+<w>Игоревы</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>придоша</w>
+<w>къ</w>
+<w>цѣсареви,</w>
+<w>и</w>
+<w>повѣдаша</w>
+<w>вься</w>
+<w>рѣчи</w>
+<w>Игоревы</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>придоша</w>
+<w>ко</w>
+<w>цареви,</w>
+<w>и</w>
+<w>повѣдаша</w>
+<w>вся</w>
+<w>рѣчи</w>
+<w>Игоревы</w>
+</rdg>
+</app></p></div></body></text></TEI>

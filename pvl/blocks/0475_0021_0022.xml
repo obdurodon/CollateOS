@@ -1,129 +1,106 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>21, 22</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="22">
-            <p>
-               <app>
-                  <lem>
-                     <w>въ</w>
-                     <w>рѣку</w>
-                     <w>омочивъше,</w>
-                     <w>тишинѣ</w>
-                     <w>сущи,</w>
-                     <w>и</w>
-                     <w>морю</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>в</w>
-                        <w>рѣку</w>
-                        <w>ѡ<lb/>
-                        </w>
-                        <w>
-                           <sic>мочив</sic>ше</w>
-                        <w>тишин<sic>ѣ</sic>
-                        </w>
-                        <w>сущи</w>
-                        <w>морю</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>и</w>
-                        <w>омочивше</w>
-                        <w>в</w>
-                        <w>рѣцѣ</w>
-                        <w>тишина</w>
-                        <w>бысть</w>
-                        <w>и</w>
-                        <w>морю</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>в</w>
-                        <w>рекоу</w>
-                        <w>ѡмочивше</w>
-                        <w>тишине</w>
-                        <w>соущи.</w>
-                        <w>и</w>
-                        <w>морю</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>в</w>
-                        <w>рекѹ</w>
-                        <w>ѡмочивше.</w>
-                        <w>тишине</w>
-                        <w>сѹщи.</w>
-                        <w>и</w>
-                        <w>морю. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>в</w>
-                        <w>рѣку</w>
-                        <w>ѡмочиша.</w>
-                        <w>ти<lb/>шинѣ</w>
-                        <w>сущи.</w>
-                        <w>и</w>
-                        <w>морю</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>въ</w>
-                        <w>море</w>
-                        <w>ѡмочиша. <lb/>
-                        </w>
-                        <w>тишин<sic>ѣ</sic>
-                        </w>
-                        <w>бывши</w>
-                        <w>и</w>
-                        <w>морю</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>в</w>
-                        <w>рѣку</w>
-                        <w>омочиша,</w>
-                        <w>тишинѣ</w>
-                        <w>сущи</w>
-                        <w>и</w>
-                        <w>морю</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>въ</w>
-                        <w>мори</w>
-                        <w>скутъ</w>
-                        <w>омочивъше,</w>
-                        <w>тишинѣ</w>
-                        <w>сущи,</w>
-                        <w>и</w>
-                        <w>морю</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>в</w>
-                        <w>мори</w>
-                        <w>скут</w>
-                        <w>омочивше.</w>
-                        <w>Тишинѣ</w>
-                        <w>сущи</w>
-                        <w>и</w>
-                        <w>морю</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>21, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="22"><p>
+<app>
+<lem wit="#lem">
+<w>въ</w>
+<w>рѣку</w>
+<w>омочивъше,</w>
+<w>тишинѣ</w>
+<w>сущи,</w>
+<w>и</w>
+<w>морю</w>
+</lem>
+
+<rdg wit="#lav">
+<w>в</w>
+<w>рѣку</w>
+<w>ѡ<lb/><milestone unit="sic" n="start"/>мочив<milestone unit="sic" n="end"/>ше</w>
+<w>тишин<milestone unit="sic" n="start"/>ѣ<milestone unit="sic" n="end"/></w>
+<w>сущи</w>
+<w>морю</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>и</w>
+<w>омочивше</w>
+<w>в</w>
+<w>рѣцѣ</w>
+<w>тишина</w>
+<w>бысть</w>
+<w>и</w>
+<w>морю</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>в</w>
+<w>рекоу</w>
+<w>ѡмочивше</w>
+<w>тишине</w>
+<w>соущи.</w>
+<w>и</w>
+<w>морю</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>в</w>
+<w>рекѹ</w>
+<w>ѡмочивше.</w>
+<w>тишине</w>
+<w>сѹщи.</w>
+<w>и</w>
+<w>морю. <lb/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>в</w>
+<w>рѣку</w>
+<w>ѡмочиша.</w>
+<w>ти<lb/>шинѣ</w>
+<w>сущи.</w>
+<w>и</w>
+<w>морю</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>въ</w>
+<w>море</w>
+<w>ѡмочиша. <lb/></w>
+
+<w>тишин<milestone unit="sic" n="start"/>ѣ<milestone unit="sic" n="end"/></w>
+<w>бывши</w>
+<w>и</w>
+<w>морю</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>в</w>
+<w>рѣку</w>
+<w>омочиша,</w>
+<w>тишинѣ</w>
+<w>сущи</w>
+<w>и</w>
+<w>морю</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>въ</w>
+<w>мори</w>
+<w>скутъ</w>
+<w>омочивъше,</w>
+<w>тишинѣ</w>
+<w>сущи,</w>
+<w>и</w>
+<w>морю</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>в</w>
+<w>мори</w>
+<w>скут</w>
+<w>омочивше.</w>
+<w>Тишинѣ</w>
+<w>сущи</w>
+<w>и</w>
+<w>морю</w>
+</rdg>
+</app></p></div></body></text></TEI>

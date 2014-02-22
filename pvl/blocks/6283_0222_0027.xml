@@ -1,110 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>222, 27</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="27">
-            <p>
-               <app>
-                  <lem>
-                     <w>убиеть</w>
-                     <w>вы</w>
-                     <w>приходяи</w>
-                     <w>мечь,</w>
-                     <w>и</w>
-                     <w>будеть</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>оубьеть</w>
-                        <w>вы</w>
-                        <w>прихо<lb/>дѧ</w>
-                        <w>в</w>
-                        <w>мѣста·</w>
-                        <w>будеть</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>оубьеть</w>
-                        <w>вы</w>
-                        <w>приходѧ</w>
-                        <w>мечь·</w>
-                        <w>и</w>
-                        <w>боудеть</w>
-                        <w>
-                           <pb n="127v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>оубиете <lb/>
-                        </w>
-                        <w>вы·̏</w>
-                        <w>приходѧи</w>
-                        <w>мѣ<hi rend="sup">ч</hi>·</w>
-                        <w>и</w>
-                        <w>бѹдеть</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>биеть</w>
-                        <w>вы <lb/>
-                        </w>
-                        <w>приходѧи</w>
-                        <w>мѣчь·</w>
-                        <w>и</w>
-                        <w>будеть <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>оубїеть</w>
-                        <w>вы <lb/>
-                        </w>
-                        <w>приходѧи</w>
-                        <w>мечь.</w>
-                        <w>и</w>
-                        <w>бѫде<hi rend="sup">т</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>убьеть</w>
-                        <w>вы</w>
-                        <w>приходяй</w>
-                        <w>мечь,</w>
-                        <w>и</w>
-                        <w>будеть</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>убиеть</w>
-                        <w>вы</w>
-                        <w>приходяи</w>
-                        <w>мечь,</w>
-                        <w>и</w>
-                        <w>будеть</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>убьеть</w>
-                        <w>вы</w>
-                        <w>приходяй</w>
-                        <w>мечь,</w>
-                        <w>и</w>
-                        <w>будеть</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>222, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="27"><p>
+<app>
+<lem wit="#lem">
+<w>убиеть</w>
+<w>вы</w>
+<w>приходяи</w>
+<w>мечь,</w>
+<w>и</w>
+<w>будеть</w>
+</lem>
+
+<rdg wit="#lav">
+<w>оубьеть</w>
+<w>вы</w>
+<w>прихо<lb/>дѧ</w>
+<w>в</w>
+<w>мѣста·</w>
+<w>будеть</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>оубьеть</w>
+<w>вы</w>
+<w>приходѧ</w>
+<w>мечь·</w>
+<w>и</w>
+<w>боудеть <pb n="127v"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>оубиете <lb/></w>
+
+<w>вы·̏</w>
+<w>приходѧи</w>
+<w>мѣ<hi rend="sup">ч</hi>·</w>
+<w>и</w>
+<w>бѹдеть</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>биеть</w>
+<w>вы <lb/></w>
+
+<w>приходѧи</w>
+<w>мѣчь·</w>
+<w>и</w>
+<w>будеть <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>оубїеть</w>
+<w>вы <lb/></w>
+
+<w>приходѧи</w>
+<w>мечь.</w>
+<w>и</w>
+<w>бѫде<hi rend="sup">т</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>убьеть</w>
+<w>вы</w>
+<w>приходяй</w>
+<w>мечь,</w>
+<w>и</w>
+<w>будеть</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>убиеть</w>
+<w>вы</w>
+<w>приходяи</w>
+<w>мечь,</w>
+<w>и</w>
+<w>будеть</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>убьеть</w>
+<w>вы</w>
+<w>приходяй</w>
+<w>мечь,</w>
+<w>и</w>
+<w>будеть</w>
+</rdg>
+</app></p></div></body></text></TEI>

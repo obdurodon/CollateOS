@@ -1,105 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>239, 19</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="19">
-            <p>
-               <app>
-                  <lem>
-                     <w>съ</w>
-                     <w>Новъгородьци.</w>
-                     <w>И</w>
-                     <w>въда</w>
-                     <w>Мьстиславъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>с</w>
-                        <w>новгородци·</w>
-                        <w>и</w>
-                        <w>с</w>
-                        <w>ростовци· <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>вдасть</w>
-                        <w>мстиславъ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>с</w>
-                        <w>новгоро<hi rend="sup">д</hi>ци.</w>
-                        <w>и</w>
-                        <w>и</w>
-                        <w>вда</w>
-                        <w>мстиславъ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>с</w>
-                        <w>новогородци·</w>
-                        <w>и</w>
-                        <w>и</w>
-                        <w>вда</w>
-                        <w>мьстиславъ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>с</w>
-                        <w>новгородци·</w>
-                        <w>и</w>
-                        <w>въда</w>
-                        <w>мьсти<lb/>славъ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>с</w>
-                        <w>новогорѡ<hi rend="sup">д</hi>ци.</w>
-                        <w>и</w>
-                        <w>вда</w>
-                        <w>мьстиславь</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>с</w>
-                        <w>Новгородци</w>
-                        <w>и</w>
-                        <w>с</w>
-                        <w>Ростовци.</w>
-                        <w>И</w>
-                        <w>вдасть</w>
-                        <w>Мстиславъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>съ</w>
-                        <w>Новъгородьци.</w>
-                        <w>И</w>
-                        <w>въдасть</w>
-                        <w>Мьстиславъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>с</w>
-                        <w>новгородци</w>
-                        <w>и</w>
-                        <w>с</w>
-                        <w>ростовци.</w>
-                        <w>И</w>
-                        <w>вдасть</w>
-                        <w>Мстиславъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>239, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="19"><p>
+<app>
+<lem wit="#lem">
+<w>съ</w>
+<w>Новъгородьци.</w>
+<w>И</w>
+<w>въда</w>
+<w>Мьстиславъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>с</w>
+<w>новгородци·</w>
+<w>и</w>
+<w>с</w>
+<w>ростовци· <lb/></w>
+
+<w>и</w>
+<w>вдасть</w>
+<w>мстиславъ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>с</w>
+<w>новгоро<hi rend="sup">д</hi>ци.</w>
+<w>и</w>
+<w>и</w>
+<w>вда</w>
+<w>мстиславъ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>с</w>
+<w>новогородци·</w>
+<w>и</w>
+<w>и</w>
+<w>вда</w>
+<w>мьстиславъ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>с</w>
+<w>новгородци·</w>
+<w>и</w>
+<w>въда</w>
+<w>мьсти<lb/>славъ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>с</w>
+<w>новогорѡ<hi rend="sup">д</hi>ци.</w>
+<w>и</w>
+<w>вда</w>
+<w>мьстиславь</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>с</w>
+<w>Новгородци</w>
+<w>и</w>
+<w>с</w>
+<w>Ростовци.</w>
+<w>И</w>
+<w>вдасть</w>
+<w>Мстиславъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>съ</w>
+<w>Новъгородьци.</w>
+<w>И</w>
+<w>въдасть</w>
+<w>Мьстиславъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>с</w>
+<w>новгородци</w>
+<w>и</w>
+<w>с</w>
+<w>ростовци.</w>
+<w>И</w>
+<w>вдасть</w>
+<w>Мстиславъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

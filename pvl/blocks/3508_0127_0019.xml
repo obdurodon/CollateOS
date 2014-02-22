@@ -1,125 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>127, 19</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="19">
-            <p>
-               <app>
-                  <lem>
-                     <w>И</w>
-                     <w>сътвориша</w>
-                     <w>вѣче</w>
-                     <w>въ</w>
-                     <w>градѣ,</w>
-                     <w>и</w>
-                     <w>рѣша:</w>
-                     <w>“Се</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>и</w>
-                        <w>створиша</w>
-                        <w>вѣче <lb/>
-                        </w>
-                        <w>в</w>
-                        <w>городѣ.</w>
-                        <w>и</w>
-                        <w>рѣша</w>
-                        <w>се</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>и</w>
-                        <w>сотво<lb/>риша</w>
-                        <w>вечье</w>
-                        <w>в</w>
-                        <w>
-                           <sic>нов</sic>ѣгоро<hi rend="sup">д</hi>.</w>
-                        <w>и</w>
-                        <w>рѣша</w>
-                        <w>се</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>и</w>
-                        <w>сотвориша</w>
-                        <w>вечо</w>
-                        <w>в</w>
-                        <w>городѣ.</w>
-                        <w>и</w>
-                        <w>рѣша <lb/>
-                        </w>
-                        <w>се</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>и</w>
-                        <w>створиша</w>
-                        <w>вѣче</w>
-                        <w>вь</w>
-                        <w>гра<hi rend="sup">д</hi> 
-                           <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>рѣша.</w>
-                        <w>се</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>и</w>
-                        <w>сътвориша</w>
-                        <w>вѣче</w>
-                        <w>въ</w>
-                        <w>градѣ.</w>
-                        <w>и</w>
-                        <w>рѣша</w>
-                        <w>се</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>и</w>
-                        <w>створиша</w>
-                        <w>вѣче</w>
-                        <w>в</w>
-                        <w>городѣ</w>
-                        <w>и</w>
-                        <w>рѣша:</w>
-                        <w>“се</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>И</w>
-                        <w>сътвориша</w>
-                        <w>вѣче</w>
-                        <w>въ</w>
-                        <w>градѣ,</w>
-                        <w>и</w>
-                        <w>рѣша:</w>
-                        <w>“се,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>И</w>
-                        <w>створиша</w>
-                        <w>вѣче</w>
-                        <w>в</w>
-                        <w>городѣ</w>
-                        <w>и</w>
-                        <w>рѣша:</w>
-                        <w>“Се</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>127, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="19"><p>
+<app>
+<lem wit="#lem">
+<w>И</w>
+<w>сътвориша</w>
+<w>вѣче</w>
+<w>въ</w>
+<w>градѣ,</w>
+<w>и</w>
+<w>рѣша:</w>
+<w>“Се</w>
+</lem>
+
+<rdg wit="#lav">
+<w>и</w>
+<w>створиша</w>
+<w>вѣче <lb/></w>
+
+<w>в</w>
+<w>городѣ.</w>
+<w>и</w>
+<w>рѣша</w>
+<w>се</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>и</w>
+<w>сотво<lb/>риша</w>
+<w>вечье</w>
+<w>в</w>
+<w><milestone unit="sic" n="start"/>нов<milestone unit="sic" n="end"/>ѣгоро<hi rend="sup">д</hi>.</w>
+<w>и</w>
+<w>рѣша</w>
+<w>се</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>и</w>
+<w>сотвориша</w>
+<w>вечо</w>
+<w>в</w>
+<w>городѣ.</w>
+<w>и</w>
+<w>рѣша <lb/></w>
+
+<w>се</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>и</w>
+<w>створиша</w>
+<w>вѣче</w>
+<w>вь</w>
+<w>гра<hi rend="sup">д</hi><lb/></w>
+<w>и</w>
+<w>рѣша.</w>
+<w>се</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>и</w>
+<w>сътвориша</w>
+<w>вѣче</w>
+<w>въ</w>
+<w>градѣ.</w>
+<w>и</w>
+<w>рѣша</w>
+<w>се</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>и</w>
+<w>створиша</w>
+<w>вѣче</w>
+<w>в</w>
+<w>городѣ</w>
+<w>и</w>
+<w>рѣша:</w>
+<w>“се</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>И</w>
+<w>сътвориша</w>
+<w>вѣче</w>
+<w>въ</w>
+<w>градѣ,</w>
+<w>и</w>
+<w>рѣша:</w>
+<w>“се,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>И</w>
+<w>створиша</w>
+<w>вѣче</w>
+<w>в</w>
+<w>городѣ</w>
+<w>и</w>
+<w>рѣша:</w>
+<w>“Се</w>
+</rdg>
+</app></p></div></body></text></TEI>

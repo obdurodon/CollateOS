@@ -1,116 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>123, 2</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="2">
-            <p>
-               <app>
-                  <lem>
-                     <w>ударилъ.</w>
-                     <w>Единою</w>
-                     <w>бо</w>
-                     <w>ми</w>
-                     <w>сварящю,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>оударилъ. <lb/>
-                        </w>
-                        <w>единою</w>
-                        <w>бо</w>
-                        <w>ми</w>
-                        <w>и</w>
-                        <w>сварѧщю.</w>
-                        <w>и <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>оударилъ.</w>
-                        <w>ѡдиною</w>
-                        <w>бо</w>
-                        <w>ми</w>
-                        <w>сва<lb/>рѧщю.</w>
-                        <w>а</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>оударїлъ.</w>
-                        <w>ѡди<lb/>ною</w>
-                        <w>бо</w>
-                        <w>ми</w>
-                        <w>сварѧщу<hi rend="sup">с</hi>а<hi rend="sup">н</hi>
-                        </w>
-                        <w>
-                           <hi rend="sup">а</hi>
-                        </w>
-                        <w>
-                           <hi rend="sup">н</hi>
-                        </w>
-                        <w>
-                           <hi rend="sup">ь</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>оударилъ.</w>
-                        <w>еди<lb/>ною</w>
-                        <w>бо</w>
-                        <w>ми</w>
-                        <w>сварѧщю.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>оудари<hi rend="sup">л</hi>.</w>
-                        <w>единою</w>
-                        <w>бо</w>
-                        <w>ми</w>
-                        <w>и</w>
-                        <w>сварѧщѹ <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>ударилъ:</w>
-                        <w>единою</w>
-                        <w>бо</w>
-                        <w>ми</w>
-                        <w>и</w>
-                        <w>сварящю,</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>ударилъ:</w>
-                        <w>единою</w>
-                        <w>бо</w>
-                        <w>ми</w>
-                        <w>и</w>
-                        <w>сварящю,</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>ударилъ.</w>
-                        <w>Единою</w>
-                        <w>бо</w>
-                        <w>ми</w>
-                        <w>и</w>
-                        <w>сварящю,</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>123, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="2"><p>
+<app>
+<lem wit="#lem">
+<w>ударилъ.</w>
+<w>Единою</w>
+<w>бо</w>
+<w>ми</w>
+<w>сварящю,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>оударилъ. <lb/></w>
+
+<w>единою</w>
+<w>бо</w>
+<w>ми</w>
+<w>и</w>
+<w>сварѧщю.</w>
+<w>и <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>оударилъ.</w>
+<w>ѡдиною</w>
+<w>бо</w>
+<w>ми</w>
+<w>сва<lb/>рѧщю.</w>
+<w>а</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>оударїлъ.</w>
+<w>ѡди<lb/>ною</w>
+<w>бо</w>
+<w>ми</w>
+<w>сварѧщу<hi rend="sup">с</hi>а<hi rend="sup">н</hi><hi rend="sup">а</hi><hi rend="sup">н</hi><hi rend="sup">ь</hi></w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>оударилъ.</w>
+<w>еди<lb/>ною</w>
+<w>бо</w>
+<w>ми</w>
+<w>сварѧщю.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>оудари<hi rend="sup">л</hi>.</w>
+<w>единою</w>
+<w>бо</w>
+<w>ми</w>
+<w>и</w>
+<w>сварѧщѹ <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>ударилъ:</w>
+<w>единою</w>
+<w>бо</w>
+<w>ми</w>
+<w>и</w>
+<w>сварящю,</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>ударилъ:</w>
+<w>единою</w>
+<w>бо</w>
+<w>ми</w>
+<w>и</w>
+<w>сварящю,</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>ударилъ.</w>
+<w>Единою</w>
+<w>бо</w>
+<w>ми</w>
+<w>и</w>
+<w>сварящю,</w>
+<w>и</w>
+</rdg>
+</app></p></div></body></text></TEI>

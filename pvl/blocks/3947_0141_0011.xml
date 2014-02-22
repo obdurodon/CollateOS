@@ -1,135 +1,115 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>141, 11</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="11">
-            <p>
-               <app>
-                  <lem>
-                     <w>а</w>
-                     <w>прочихъ</w>
-                     <w>вои 40</w>
-                     <w>тысящь,</w>
-                     <w>и</w>
-                     <w>поиде</w>
-                     <w>на</w>
-                     <w>Святопълка,</w>
-                     <w>нарекъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>а</w>
-                        <w>прочи<hi rend="sup">х</hi> 
-                           <lb/>
-                        </w>
-                        <w>вои</w>
-                        <w>.м҃.</w>
-                        <w>и</w>
-                        <w>поиде</w>
-                        <w>на</w>
-                        <w>с҃тополка <lb/>
-                        </w>
-                        <w>нарекъ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>а</w>
-                        <w>прочи<hi rend="sup">х</hi>.</w>
-                        <w>҂м҃.</w>
-                        <w>и</w>
-                        <w>поиде</w>
-                        <w>
-                           <add place="margin">на</add>
-                        </w>
-                        <w>с҃тополка.</w>
-                        <w>на<lb/>рекъ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>а</w>
-                        <w>прочи<hi rend="sup">х</hi>.</w>
-                        <w>.҂м҃.</w>
-                        <w>и</w>
-                        <w>поиде</w>
-                        <w>на</w>
-                        <w>ст҃ополка.</w>
-                        <w>нарекь <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>а</w>
-                        <w>прочи<lb/>хъ</w>
-                        <w>вои</w>
-                        <w>.м҃.</w>
-                        <w>тысѧщь.</w>
-                        <w>и</w>
-                        <w>поиде <lb/>
-                        </w>
-                        <w>на</w>
-                        <w>ст҃ополка.</w>
-                        <w>нарекъ.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>а</w>
-                        <w>прочи<hi rend="sup">х</hi>
-                        </w>
-                        <w>вои</w>
-                        <w>.м҃.</w>
-                        <w>тисѧ<hi rend="sup">щ</hi>. <lb/>
-                        </w>
-                        <w>поиде</w>
-                        <w>на</w>
-                        <w>ст҃ополка</w>
-                        <w>нарекь</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>а</w>
-                        <w>прочихъ</w>
-                        <w>вой 40000,</w>
-                        <w>и</w>
-                        <w>поиде</w>
-                        <w>на</w>
-                        <w>Святополка,</w>
-                        <w>нарекъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>а</w>
-                        <w>прочихъ</w>
-                        <w>вои 40</w>
-                        <w>тысящь,</w>
-                        <w>и</w>
-                        <w>поиде</w>
-                        <w>на</w>
-                        <w>Святопълка,</w>
-                        <w>нарекъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>а</w>
-                        <w>прочих</w>
-                        <w>вой 40,000,</w>
-                        <w>и</w>
-                        <w>поиде</w>
-                        <w>на</w>
-                        <w>Святополка,</w>
-                        <w>нарекъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>141, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="11"><p>
+<app>
+<lem wit="#lem">
+<w>а</w>
+<w>прочихъ</w>
+<w>вои 40</w>
+
+<w>тысящь,</w>
+<w>и</w>
+<w>поиде</w>
+<w>на</w>
+<w>Святопълка,</w>
+<w>нарекъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>а</w>
+<w>прочи<hi rend="sup">х</hi><lb/></w>
+<w>вои</w>
+<w>.м҃.</w>
+<w>и</w>
+<w>поиде</w>
+<w>на</w>
+<w>с҃тополка <lb/></w>
+
+<w>нарекъ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>а</w>
+<w>прочи<hi rend="sup">х</hi>.</w>
+<w>҂м҃.</w>
+<w>и</w>
+<w>поиде</w>
+<w><milestone unit="add" n="start" place="margin"/>на<milestone unit="add" n="end"/></w>
+<w>с҃тополка.</w>
+<w>на<lb/>рекъ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>а</w>
+<w>прочи<hi rend="sup">х</hi>.</w>
+<w>.҂м҃.</w>
+<w>и</w>
+<w>поиде</w>
+<w>на</w>
+<w>ст҃ополка.</w>
+<w>нарекь <lb/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>а</w>
+<w>прочи<lb/>хъ</w>
+<w>вои</w>
+<w>.м҃.</w>
+<w>тысѧщь.</w>
+<w>и</w>
+<w>поиде <lb/></w>
+
+<w>на</w>
+<w>ст҃ополка.</w>
+<w>нарекъ.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>а</w>
+<w>прочи<hi rend="sup">х</hi></w>
+<w>вои</w>
+<w>.м҃.</w>
+<w>тисѧ<hi rend="sup">щ</hi>. <lb/></w>
+
+<w>поиде</w>
+<w>на</w>
+<w>ст҃ополка</w>
+<w>нарекь</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>а</w>
+<w>прочихъ</w>
+<w>вой 40000,</w>
+
+<w>и</w>
+<w>поиде</w>
+<w>на</w>
+<w>Святополка,</w>
+<w>нарекъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>а</w>
+<w>прочихъ</w>
+<w>вои 40</w>
+
+<w>тысящь,</w>
+<w>и</w>
+<w>поиде</w>
+<w>на</w>
+<w>Святопълка,</w>
+<w>нарекъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>а</w>
+<w>прочих</w>
+<w>вой 40,000,</w>
+
+<w>и</w>
+<w>поиде</w>
+<w>на</w>
+<w>Святополка,</w>
+<w>нарекъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

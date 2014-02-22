@@ -1,109 +1,85 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>54, 6</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="6">
-            <p>
-               <app>
-                  <lem>
-                     <w>есть</w>
-                     <w>надъ</w>
-                     <w>ручаемь,</w>
-                     <w>коньць</w>
-                     <w>Пасынъчѣ</w>
-                     <w>бесѣды:</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>есть</w>
-                        <w>надъ</w>
-                        <w>ручаемъ.</w>
-                        <w>конець</w>
-                        <w>пасынъчѣ</w>
-                        <w>бе<lb/>сѣды.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>е<hi rend="sup">с</hi>
-                        </w>
-                        <w>на<hi rend="sup">д</hi>
-                        </w>
-                        <w>роучае<hi rend="sup">м</hi>.</w>
-                        <w>конець</w>
-                        <w>пасынчи</w>
-                        <w>бесѣды.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>есть</w>
-                        <w>на<hi rend="sup">д</hi>
-                        </w>
-                        <w>рѹчаемъ.</w>
-                        <w>конець</w>
-                        <w>пасы<lb/>нъчи</w>
-                        <w>бесѣды.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>есть</w>
-                        <w>надъ</w>
-                        <w>ру<sic>ч</sic>ьемъ. <lb/>
-                        </w>
-                        <w>конѣць</w>
-                        <w>пасынь<sic>ч</sic>ѣ</w>
-                        <w>бесѣ<lb/>ды.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>е<hi rend="sup">с</hi>
-                        </w>
-                        <w>на<hi rend="sup">д</hi>
-                        </w>
-                        <w>роучае<hi rend="sup">м</hi>. <lb/>
-                        </w>
-                        <w>конець</w>
-                        <w>пасы<hi rend="sup">н</hi>че</w>
-                        <w>бесѣды.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>есть</w>
-                        <w>надъ</w>
-                        <w>ручаемъ,</w>
-                        <w>конець</w>
-                        <w>Пасынъчѣ</w>
-                        <w>бесѣды</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>есть</w>
-                        <w>надъ</w>
-                        <w>Ручаемь,</w>
-                        <w>коньць</w>
-                        <w>Пасынъчѣ</w>
-                        <w>бесѣды:</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>есть</w>
-                        <w>надъ</w>
-                        <w>Ручаемъ,</w>
-                        <w>конець</w>
-                        <w>Пасынъчѣ</w>
-                        <w>бесѣды:</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>54, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="6"><p>
+<app>
+<lem wit="#lem">
+<w>есть</w>
+<w>надъ</w>
+<w>ручаемь,</w>
+<w>коньць</w>
+<w>Пасынъчѣ</w>
+<w>бесѣды:</w>
+</lem>
+
+<rdg wit="#lav">
+<w>есть</w>
+<w>надъ</w>
+<w>ручаемъ.</w>
+<w>конець</w>
+<w>пасынъчѣ</w>
+<w>бе<lb/>сѣды.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>е<hi rend="sup">с</hi></w>
+<w>на<hi rend="sup">д</hi></w>
+<w>роучае<hi rend="sup">м</hi>.</w>
+<w>конець</w>
+<w>пасынчи</w>
+<w>бесѣды.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>есть</w>
+<w>на<hi rend="sup">д</hi></w>
+<w>рѹчаемъ.</w>
+<w>конець</w>
+<w>пасы<lb/>нъчи</w>
+<w>бесѣды.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>есть</w>
+<w>надъ</w>
+<w>ру<milestone unit="sic" n="start"/>ч<milestone unit="sic" n="end"/>ьемъ. <lb/></w>
+
+<w>конѣць</w>
+<w>пасынь<milestone unit="sic" n="start"/>ч<milestone unit="sic" n="end"/>ѣ</w>
+<w>бесѣ<lb/>ды.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>е<hi rend="sup">с</hi></w>
+<w>на<hi rend="sup">д</hi></w>
+<w>роучае<hi rend="sup">м</hi>. <lb/></w>
+
+<w>конець</w>
+<w>пасы<hi rend="sup">н</hi>че</w>
+<w>бесѣды.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>есть</w>
+<w>надъ</w>
+<w>ручаемъ,</w>
+<w>конець</w>
+<w>Пасынъчѣ</w>
+<w>бесѣды</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>есть</w>
+<w>надъ</w>
+<w>Ручаемь,</w>
+<w>коньць</w>
+<w>Пасынъчѣ</w>
+<w>бесѣды:</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>есть</w>
+<w>надъ</w>
+<w>Ручаемъ,</w>
+<w>конець</w>
+<w>Пасынъчѣ</w>
+<w>бесѣды:</w>
+</rdg>
+</app></p></div></body></text></TEI>

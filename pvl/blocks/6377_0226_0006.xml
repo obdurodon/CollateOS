@@ -1,97 +1,78 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>226, 6</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="6">
-            <p>
-               <app>
-                  <lem>
-                     <w>ис</w>
-                     <w>Тъмутороконя,</w>
-                     <w>и</w>
-                     <w>прииде</w>
-                     <w>къ</w>
-                     <w>Чьрнигову,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ис</w>
-                        <w>тъмутороконѧ·</w>
-                        <w>приде</w>
-                        <w>че<lb/>рнигову·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>тмютороконю·</w>
-                        <w>и</w>
-                        <w>прїиде</w>
-                        <w>к</w>
-                        <w>черниговѹ·</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>тмѹтороконю·</w>
-                        <w>и</w>
-                        <w>прииде</w>
-                        <w>к</w>
-                        <w>черниго<lb/>вѹ·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>їс</w>
-                        <w>тмутороканѧ·</w>
-                        <w>и</w>
-                        <w>прииде <lb/>
-                        </w>
-                        <w>к</w>
-                        <w>чернигову·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ис</w>
-                        <w>тмоутороконю.</w>
-                        <w>и</w>
-                        <w>прїиде <lb/>
-                        </w>
-                        <w>къ</w>
-                        <w>чернѣговоу.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>ис</w>
-                        <w>Тъмутороконя,</w>
-                        <w>и</w>
-                        <w>приде</w>
-                        <w>Чернигову;</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>ис</w>
-                        <w>Тъмутороканя,</w>
-                        <w>и</w>
-                        <w>приде</w>
-                        <w>Чьрнигову;</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>ис</w>
-                        <w>Тъмутороконя,</w>
-                        <w>и</w>
-                        <w>приде</w>
-                        <w>Чернигову,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>226, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="6"><p>
+<app>
+<lem wit="#lem">
+<w>ис</w>
+<w>Тъмутороконя,</w>
+<w>и</w>
+<w>прииде</w>
+<w>къ</w>
+<w>Чьрнигову,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ис</w>
+<w>тъмутороконѧ·</w>
+<w>приде</w>
+<w>че<lb/>рнигову·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>тмютороконю·</w>
+<w>и</w>
+<w>прїиде</w>
+<w>к</w>
+<w>черниговѹ·</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>тмѹтороконю·</w>
+<w>и</w>
+<w>прииде</w>
+<w>к</w>
+<w>черниго<lb/>вѹ·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>їс</w>
+<w>тмутороканѧ·</w>
+<w>и</w>
+<w>прииде <lb/></w>
+
+<w>к</w>
+<w>чернигову·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ис</w>
+<w>тмоутороконю.</w>
+<w>и</w>
+<w>прїиде <lb/></w>
+
+<w>къ</w>
+<w>чернѣговоу.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>ис</w>
+<w>Тъмутороконя,</w>
+<w>и</w>
+<w>приде</w>
+<w>Чернигову;</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>ис</w>
+<w>Тъмутороканя,</w>
+<w>и</w>
+<w>приде</w>
+<w>Чьрнигову;</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>ис</w>
+<w>Тъмутороконя,</w>
+<w>и</w>
+<w>приде</w>
+<w>Чернигову,</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,122 +1,107 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>70, 20a</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="20a">
-            <p>
-               <app>
-                  <lem>
-                     <w>Русь,</w>
-                     <w>и</w>
-                     <w>Грьци</w>
-                     <w>противу;</w>
-                     <w>и</w>
-                     <w>съразиста</w>
-                     <w>ся</w>
-                     <w>пълка;</w>
-                     <w>и</w>
-                     <w>оступиша</w>
-                     <w>Грьци</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>русь.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>роу<hi rend="sup">с</hi>.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>рѹ<hi rend="sup">с</hi>.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>русь.</w>
-                        <w>и</w>
-                        <w>грѣци <lb/>
-                        </w>
-                        <w>противу.</w>
-                        <w>и</w>
-                        <w>сразистасѧ <lb/>
-                        </w>
-                        <w>полка.</w>
-                        <w>и</w>
-                        <w>ѡступиша</w>
-                        <w>грѣ<lb/>ци</w>
-                     </rdg>
-                     <rdg wit="#xle"/>
-                     <rdg wit="#kom">
-                        <w>русь</w>
-                        <w>тако</w>
-                        <w>же</w>
-                        <w>и</w>
-                        <w>грѣци</w>
-                        <w>противу</w>
-                        <w>исполчишася</w>
-                        <w>и</w>
-                        <w>сразистася</w>
-                        <w>обои</w>
-                        <w>полъци</w>
-                        <w>и</w>
-                        <w>оступиша</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>русь</w>
-                        <w>и</w>
-                        <w>греци</w>
-                        <w>противу</w>
-                        <w>и</w>
-                        <w>сразистася</w>
-                        <w>полкы</w>
-                        <w>и</w>
-                        <w>оступиша</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>русь</w>
-                        <w>и</w>
-                        <w>греци</w>
-                        <w>противу</w>
-                        <w>и</w>
-                        <w>сразистася</w>
-                        <w>полкы</w>
-                        <w>и</w>
-                        <w>оступиша</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Русь,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Русь,</w>
-                        <w>и</w>
-                        <w>Грьци</w>
-                        <w>противу;</w>
-                        <w>и</w>
-                        <w>съразистася</w>
-                        <w>пълка;</w>
-                        <w>и</w>
-                        <w>оступиша</w>
-                        <w>Грьци</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>русь,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>70, 20a</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="20a"><p>
+<app>
+<lem wit="#lem">
+<w>Русь,</w>
+<w>и</w>
+<w>Грьци</w>
+<w>противу;</w>
+<w>и</w>
+<w>съразиста</w>
+<w>ся</w>
+<w>пълка;</w>
+<w>и</w>
+<w>оступиша</w>
+<w>Грьци</w>
+</lem>
+
+<rdg wit="#lav">
+<w>русь.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>роу<hi rend="sup">с</hi>.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>рѹ<hi rend="sup">с</hi>.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>русь.</w>
+<w>и</w>
+<w>грѣци <lb/></w>
+
+<w>противу.</w>
+<w>и</w>
+<w>сразистасѧ <lb/></w>
+
+<w>полка.</w>
+<w>и</w>
+<w>ѡступиша</w>
+<w>грѣ<lb/>ци</w>
+</rdg>
+
+<rdg wit="#xle">
+</rdg>
+
+<rdg wit="#kom">
+<w>русь</w>
+<w>тако</w>
+<w>же</w>
+<w>и</w>
+<w>грѣци</w>
+<w>противу</w>
+<w>исполчишася</w>
+<w>и</w>
+<w>сразистася</w>
+<w>обои</w>
+<w>полъци</w>
+<w>и</w>
+<w>оступиша</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>русь</w>
+<w>и</w>
+<w>греци</w>
+<w>противу</w>
+<w>и</w>
+<w>сразистася</w>
+<w>полкы</w>
+<w>и</w>
+<w>оступиша</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>русь</w>
+<w>и</w>
+<w>греци</w>
+<w>противу</w>
+<w>и</w>
+<w>сразистася</w>
+<w>полкы</w>
+<w>и</w>
+<w>оступиша</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Русь,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Русь,</w>
+<w>и</w>
+<w>Грьци</w>
+<w>противу;</w>
+<w>и</w>
+<w>съразистася</w>
+<w>пълка;</w>
+<w>и</w>
+<w>оступиша</w>
+<w>Грьци</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>русь,</w>
+</rdg>
+</app></p></div></body></text></TEI>

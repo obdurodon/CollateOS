@@ -1,136 +1,115 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>223, 1</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="1">
-            <p>
-               <app>
-                  <lem>
-                     <w>Яко</w>
-                     <w>вы</w>
-                     <w>
-                        <choice>
-                           <seg>худи</seg>
-                           <seg>зъли</seg>
-                        </choice>
-                     </w>
-                     <w>есте</w>
-                     <w>и</w>
-                     <w>лукави,</w>
-                     <w>и</w>
-                     <w>азъ</w>
-                     <w>поиду</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>яко</w>
-                        <w>вы</w>
-                        <w>хѹди</w>
-                        <w>есте</w>
-                        <w>и</w>
-                        <w>лука<lb/>ви·</w>
-                        <w>и</w>
-                        <w>азъ</w>
-                        <w>поиду</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>яко</w>
-                        <w>хоуди</w>
-                        <w>есте</w>
-                        <w>и</w>
-                        <w>лоукави·</w>
-                        <w>и</w>
-                        <w>азъ</w>
-                        <w>при<lb/>идоу</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>яко</w>
-                        <w>хѹди</w>
-                        <w>есте· <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>лѹкави·</w>
-                        <w>и</w>
-                        <w>азь</w>
-                        <w>приидѹ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>яко</w>
-                        <w>вы</w>
-                        <w>злі <lb/>
-                        </w>
-                        <w>есте</w>
-                        <w>и</w>
-                        <w>лукавѣ·</w>
-                        <w>и</w>
-                        <w>азъ</w>
-                        <w>поиду <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>яко</w>
-                        <w>вы·̏</w>
-                        <w>ѕли·̏</w>
-                        <w>есте <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>лоукави.</w>
-                        <w>и</w>
-                        <w>азъ</w>
-                        <w>поидоу</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>яко</w>
-                        <w>вы</w>
-                        <w>худи</w>
-                        <w>есте</w>
-                        <w>и</w>
-                        <w>лукави,</w>
-                        <w>и</w>
-                        <w>азъ</w>
-                        <w>поиду 215,13</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Яко</w>
-                        <w>вы</w>
-                        <w>худи</w>
-                        <w>есте</w>
-                        <w>и</w>
-                        <w>лукави;</w>
-                        <w>и</w>
-                        <w>азъ</w>
-                        <w>поиду 281,1</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Яко</w>
-                        <w>вы</w>
-                        <w>худи</w>
-                        <w>есте</w>
-                        <w>и</w>
-                        <w>лукави,</w>
-                        <w>и</w>
-                        <w>азъ</w>
-                        <w>поиду 146,2</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>223, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="1"><p>
+<app>
+<lem wit="#lem">
+<w>Яко</w>
+<w>вы</w>
+<w><choice><seg>худи</seg><seg>зъли</seg></choice></w>
+<w>есте</w>
+<w>и</w>
+<w>лукави,</w>
+<w>и</w>
+<w>азъ</w>
+<w>поиду</w>
+</lem>
+
+<rdg wit="#lav">
+<w>яко</w>
+<w>вы</w>
+<w>хѹди</w>
+<w>есте</w>
+<w>и</w>
+<w>лука<lb/>ви·</w>
+<w>и</w>
+<w>азъ</w>
+<w>поиду</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>яко</w>
+<w>хоуди</w>
+<w>есте</w>
+<w>и</w>
+<w>лоукави·</w>
+<w>и</w>
+<w>азъ</w>
+<w>при<lb/>идоу</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>яко</w>
+<w>хѹди</w>
+<w>есте· <lb/></w>
+
+<w>и</w>
+<w>лѹкави·</w>
+<w>и</w>
+<w>азь</w>
+<w>приидѹ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>яко</w>
+<w>вы</w>
+<w>злі <lb/></w>
+
+<w>есте</w>
+<w>и</w>
+<w>лукавѣ·</w>
+<w>и</w>
+<w>азъ</w>
+<w>поиду <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>яко</w>
+<w>вы·̏</w>
+<w>ѕли·̏</w>
+<w>есте <lb/></w>
+
+<w>и</w>
+<w>лоукави.</w>
+<w>и</w>
+<w>азъ</w>
+<w>поидоу</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>яко</w>
+<w>вы</w>
+<w>худи</w>
+<w>есте</w>
+<w>и</w>
+<w>лукави,</w>
+<w>и</w>
+<w>азъ</w>
+<w>поиду</w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>Яко</w>
+<w>вы</w>
+<w>худи</w>
+<w>есте</w>
+<w>и</w>
+<w>лукави;</w>
+<w>и</w>
+<w>азъ</w>
+<w>поиду</w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>Яко</w>
+<w>вы</w>
+<w>худи</w>
+<w>есте</w>
+<w>и</w>
+<w>лукави,</w>
+<w>и</w>
+<w>азъ</w>
+<w>поиду</w>
+
+</rdg>
+</app></p></div></body></text></TEI>

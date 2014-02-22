@@ -1,99 +1,79 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>33, 3</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="3">
-            <p>
-               <app>
-                  <lem>
-                     <w>Рюаръ,</w>
-                     <w>Актеву,</w>
-                     <w>Труанъ,</w>
-                     <w>Лидуль,</w>
-                     <w>Фостъ,</w>
-                     <w>Стемидъ,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>рѹалъ.</w>
-                        <w>актевѹ.</w>
-                        <w>трѹанъ.</w>
-                        <w>ли<lb/>доу<hi rend="sup">л</hi>
-                        </w>
-                        <w>фостъ.</w>
-                        <w>стеми<hi rend="sup">д</hi>.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>рѹаръ.</w>
-                        <w>актевѹ.</w>
-                        <w>трѹ<lb/>анъ.</w>
-                        <w>лидѹ<hi rend="sup">л</hi>
-                        </w>
-                        <w>фостъ.</w>
-                        <w>стемидъ.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>рюаръ. <lb/>
-                        </w>
-                        <w>актевоу.</w>
-                        <w>трѹанъ.</w>
-                        <w>лидоуль <lb/>
-                        </w>
-                        <w>фостъ.</w>
-                        <w>стемиръ.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>рюарь.</w>
-                        <w>актеву</w>
-                        <w>тру<lb/>ань.</w>
-                        <w>лидул</w>
-                        <w>фость.</w>
-                        <w>стеми<hi rend="sup">д</hi>.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Руаръ,</w>
-                        <w>Актеву,</w>
-                        <w>Труанъ,</w>
-                        <w>Лидулъ,</w>
-                        <w>Фостъ,</w>
-                        <w>Стемидъ,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Рюаръ,</w>
-                        <w>Актеву,</w>
-                        <w>Труанъ,</w>
-                        <w>Лидуль,</w>
-                        <w>Фостъ,</w>
-                        <w>Стемидъ,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Руаръ,</w>
-                        <w>Актеву,</w>
-                        <w>Труанъ,</w>
-                        <w>Лидул,</w>
-                        <w>Фостъ,</w>
-                        <w>Стемид,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>33, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="3"><p>
+<app>
+<lem wit="#lem">
+<w>Рюаръ,</w>
+<w>Актеву,</w>
+<w>Труанъ,</w>
+<w>Лидуль,</w>
+<w>Фостъ,</w>
+<w>Стемидъ,</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>рѹалъ.</w>
+<w>актевѹ.</w>
+<w>трѹанъ.</w>
+<w>ли<lb/>доу<hi rend="sup">л</hi></w>
+<w>фостъ.</w>
+<w>стеми<hi rend="sup">д</hi>.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>рѹаръ.</w>
+<w>актевѹ.</w>
+<w>трѹ<lb/>анъ.</w>
+<w>лидѹ<hi rend="sup">л</hi></w>
+<w>фостъ.</w>
+<w>стемидъ.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>рюаръ. <lb/></w>
+
+<w>актевоу.</w>
+<w>трѹанъ.</w>
+<w>лидоуль <lb/></w>
+
+<w>фостъ.</w>
+<w>стемиръ.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>рюарь.</w>
+<w>актеву</w>
+<w>тру<lb/>ань.</w>
+<w>лидул</w>
+<w>фость.</w>
+<w>стеми<hi rend="sup">д</hi>.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Руаръ,</w>
+<w>Актеву,</w>
+<w>Труанъ,</w>
+<w>Лидулъ,</w>
+<w>Фостъ,</w>
+<w>Стемидъ,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Рюаръ,</w>
+<w>Актеву,</w>
+<w>Труанъ,</w>
+<w>Лидуль,</w>
+<w>Фостъ,</w>
+<w>Стемидъ,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Руаръ,</w>
+<w>Актеву,</w>
+<w>Труанъ,</w>
+<w>Лидул,</w>
+<w>Фостъ,</w>
+<w>Стемид,</w>
+</rdg>
+</app></p></div></body></text></TEI>

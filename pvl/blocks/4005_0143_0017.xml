@@ -1,118 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>143, 17</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="17">
-            <p>
-               <app>
-                  <lem>
-                     <w>на</w>
-                     <w>къръмъ”.</w>
-                     <w>И</w>
-                     <w>бысть</w>
-                     <w>тако.</w>
-                     <w>Ярославу</w>
-                     <w>же</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>на</w>
-                        <w>покоръ<lb/>мъ.</w>
-                        <w>и</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>тако.</w>
-                        <w>ярославу</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>на</w>
-                        <w>покормъ.</w>
-                        <w>и</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>тако.</w>
-                        <w>ярославоу</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>на</w>
-                        <w>покормъ.</w>
-                        <w>и</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>тако. <lb/>
-                        </w>
-                        <w>ярославѹ</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>на</w>
-                        <w>кормъ.</w>
-                        <w>и</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>тако.</w>
-                        <w>яросла<lb/>ву</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>на</w>
-                        <w>кормь.</w>
-                        <w>и</w>
-                        <w>бы<hi rend="sup">с</hi>
-                        </w>
-                        <w>тако.</w>
-                        <w>ярославѹ<hi rend="sup">ж</hi> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>на</w>
-                        <w>покоръмъ”,</w>
-                        <w>и</w>
-                        <w>бысть</w>
-                        <w>тако.</w>
-                        <w>Ярославу</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>на</w>
-                        <w>покъръмъ”.</w>
-                        <w>И</w>
-                        <w>бысть</w>
-                        <w>тако.</w>
-                        <w>Ярославу</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>на</w>
-                        <w>покоръмъ”,</w>
-                        <w>и</w>
-                        <w>бысть</w>
-                        <w>тако.</w>
-                        <w>Ярославу</w>
-                        <w>же</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>143, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="17"><p>
+<app>
+<lem wit="#lem">
+<w>на</w>
+<w>къръмъ”.</w>
+<w>И</w>
+<w>бысть</w>
+<w>тако.</w>
+<w>Ярославу</w>
+<w>же</w>
+</lem>
+
+<rdg wit="#lav">
+<w>на</w>
+<w>покоръ<lb/>мъ.</w>
+<w>и</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>тако.</w>
+<w>ярославу</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>на</w>
+<w>покормъ.</w>
+<w>и</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>тако.</w>
+<w>ярославоу</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>на</w>
+<w>покормъ.</w>
+<w>и</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>тако. <lb/></w>
+
+<w>ярославѹ</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>на</w>
+<w>кормъ.</w>
+<w>и</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>тако.</w>
+<w>яросла<lb/>ву</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>на</w>
+<w>кормь.</w>
+<w>и</w>
+<w>бы<hi rend="sup">с</hi></w>
+<w>тако.</w>
+<w>ярославѹ<hi rend="sup">ж</hi><lb/></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>на</w>
+<w>покоръмъ”,</w>
+<w>и</w>
+<w>бысть</w>
+<w>тако.</w>
+<w>Ярославу</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>на</w>
+<w>покъръмъ”.</w>
+<w>И</w>
+<w>бысть</w>
+<w>тако.</w>
+<w>Ярославу</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>на</w>
+<w>покоръмъ”,</w>
+<w>и</w>
+<w>бысть</w>
+<w>тако.</w>
+<w>Ярославу</w>
+<w>же</w>
+</rdg>
+</app></p></div></body></text></TEI>

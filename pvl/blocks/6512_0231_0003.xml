@@ -1,116 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>231, 3</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="3">
-            <p>
-               <app>
-                  <lem>
-                     <w>Кыева,</w>
-                     <w>и</w>
-                     <w>пожьже</w>
-                     <w>на</w>
-                     <w>Берестовѣмь</w>
-                     <w>дворъ</w>
-                     <w>къняжь.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>кыева·</w>
-                        <w>и</w>
-                        <w>пожже</w>
-                        <w>на</w>
-                        <w>бе<lb/>рестовѣмь</w>
-                        <w>дворъ</w>
-                        <w>кнѧжь·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>киева·</w>
-                        <w>и</w>
-                        <w>по<hi rend="sup">ж</hi>же</w>
-                        <w>на</w>
-                        <w>бестово<hi rend="sup">м</hi>· <lb/>
-                        </w>
-                        <w>дворъ</w>
-                        <w>кнѧ<hi rend="sup">ж</hi>·</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>кы·̏ева·</w>
-                        <w>и</w>
-                        <w>пожже</w>
-                        <w>на</w>
-                        <w>берестовомъ·</w>
-                        <w>дворъ</w>
-                        <w>кнѧ<lb/>жь·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>кыева</w>
-                        <w>и</w>
-                        <w>пожьже <lb/>
-                        </w>
-                        <w>на</w>
-                        <w>берестовомъ</w>
-                        <w>дворъ <lb/>
-                        </w>
-                        <w>кнѧжь</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>кїева.</w>
-                        <w>и</w>
-                        <w>по<hi rend="sup">ж</hi>же</w>
-                        <w>на</w>
-                        <w>берестовѡ<hi rend="sup">м</hi>
-                        </w>
-                        <w>дворъ</w>
-                        <w>кнѧ<hi rend="sup">ж</hi>. <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Кыева,</w>
-                        <w>и</w>
-                        <w>пожже</w>
-                        <w>на</w>
-                        <w>Берестовѣмь</w>
-                        <w>дворъ</w>
-                        <w>княжь.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Кыева,</w>
-                        <w>и</w>
-                        <w>пожьже</w>
-                        <w>на</w>
-                        <w>Берестовѣмь</w>
-                        <w>дворъ</w>
-                        <w>къняжь.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Кыева,</w>
-                        <w>и</w>
-                        <w>пожже</w>
-                        <w>на</w>
-                        <w>Берестовѣмь</w>
-                        <w>дворъ</w>
-                        <w>княжь.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>231, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="3"><p>
+<app>
+<lem wit="#lem">
+<w>Кыева,</w>
+<w>и</w>
+<w>пожьже</w>
+<w>на</w>
+<w>Берестовѣмь</w>
+<w>дворъ</w>
+<w>къняжь.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>кыева·</w>
+<w>и</w>
+<w>пожже</w>
+<w>на</w>
+<w>бе<lb/>рестовѣмь</w>
+<w>дворъ</w>
+<w>кнѧжь·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>киева·</w>
+<w>и</w>
+<w>по<hi rend="sup">ж</hi>же</w>
+<w>на</w>
+<w>бестово<hi rend="sup">м</hi>· <lb/></w>
+
+<w>дворъ</w>
+<w>кнѧ<hi rend="sup">ж</hi>·</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>кы·̏ева·</w>
+<w>и</w>
+<w>пожже</w>
+<w>на</w>
+<w>берестовомъ·</w>
+<w>дворъ</w>
+<w>кнѧ<lb/>жь·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>кыева</w>
+<w>и</w>
+<w>пожьже <lb/></w>
+
+<w>на</w>
+<w>берестовомъ</w>
+<w>дворъ <lb/></w>
+
+<w>кнѧжь</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>кїева.</w>
+<w>и</w>
+<w>по<hi rend="sup">ж</hi>же</w>
+<w>на</w>
+<w>берестовѡ<hi rend="sup">м</hi></w>
+<w>дворъ</w>
+<w>кнѧ<hi rend="sup">ж</hi>. <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>Кыева,</w>
+<w>и</w>
+<w>пожже</w>
+<w>на</w>
+<w>Берестовѣмь</w>
+<w>дворъ</w>
+<w>княжь.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Кыева,</w>
+<w>и</w>
+<w>пожьже</w>
+<w>на</w>
+<w>Берестовѣмь</w>
+<w>дворъ</w>
+<w>къняжь.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Кыева,</w>
+<w>и</w>
+<w>пожже</w>
+<w>на</w>
+<w>Берестовѣмь</w>
+<w>дворъ</w>
+<w>княжь.</w>
+</rdg>
+</app></p></div></body></text></TEI>

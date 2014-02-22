@@ -1,122 +1,101 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>224, 4</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="4">
-            <p>
-               <app>
-                  <lem>
-                     <w>тако</w>
-                     <w>и</w>
-                     <w>стражемъ:</w>
-                     <w>гради</w>
-                     <w>вьси</w>
-                     <w>опустѣша,</w>
-                     <w>села;</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>тако</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>страже<hi rend="sup">м</hi>·</w>
-                        <w>городи</w>
-                        <w>вси</w>
-                        <w>ѡпустѣ<lb/>ша·</w>
-                        <w>села</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>тако</w>
-                        <w>и</w>
-                        <w>стра<lb/>жемъ.</w>
-                        <w>городи</w>
-                        <w>вси</w>
-                        <w>ѡпѹстѣша.</w>
-                        <w>и</w>
-                        <w>села.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>тако</w>
-                        <w>и</w>
-                        <w>стражемь·</w>
-                        <w>городи <lb/>
-                        </w>
-                        <w>вси</w>
-                        <w>ѡпѹстѣша</w>
-                        <w>се·̏ла</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>тако</w>
-                        <w>и</w>
-                        <w>стражемъ· <lb/>
-                        </w>
-                        <w>ї</w>
-                        <w>градѣ</w>
-                        <w>вси</w>
-                        <w>ѡпустѣша·</w>
-                        <w>ї</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>тако</w>
-                        <w>и</w>
-                        <w>страже<hi rend="sup">м</hi>,</w>
-                        <w>ы</w>
-                        <w>гр<hi rend="sup">д</hi>а<hi rend="sup">и</hi> 
-                           <lb/>
-                        </w>
-                        <w>всѣ</w>
-                        <w>ѡпоустѣша.</w>
-                        <w>и</w>
-                        <w>села</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>тако</w>
-                        <w>и</w>
-                        <w>стражемъ:</w>
-                        <w>городи</w>
-                        <w>вси</w>
-                        <w>опустѣша,</w>
-                        <w>села</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>тако</w>
-                        <w>и</w>
-                        <w>стражемъ:</w>
-                        <w>гради</w>
-                        <w>вьси</w>
-                        <w>опустѣша</w>
-                        <w>и</w>
-                        <w>села;</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>тако</w>
-                        <w>и</w>
-                        <w>стражем:</w>
-                        <w>городи</w>
-                        <w>вси</w>
-                        <w>опустѣша,</w>
-                        <w>села</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>224, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="4"><p>
+<app>
+<lem wit="#lem">
+<w>тако</w>
+<w>и</w>
+<w>стражемъ:</w>
+<w>гради</w>
+<w>вьси</w>
+<w>опустѣша,</w>
+<w>села;</w>
+</lem>
+
+<rdg wit="#lav">
+<w>тако</w>
+<w>и <lb/></w>
+
+<w>страже<hi rend="sup">м</hi>·</w>
+<w>городи</w>
+<w>вси</w>
+<w>ѡпустѣ<lb/>ша·</w>
+<w>села</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>тако</w>
+<w>и</w>
+<w>стра<lb/>жемъ.</w>
+<w>городи</w>
+<w>вси</w>
+<w>ѡпѹстѣша.</w>
+<w>и</w>
+<w>села.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>тако</w>
+<w>и</w>
+<w>стражемь·</w>
+<w>городи <lb/></w>
+
+<w>вси</w>
+<w>ѡпѹстѣша</w>
+<w>се·̏ла</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>тако</w>
+<w>и</w>
+<w>стражемъ· <lb/></w>
+
+<w>ї</w>
+<w>градѣ</w>
+<w>вси</w>
+<w>ѡпустѣша·</w>
+<w>ї</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>тако</w>
+<w>и</w>
+<w>страже<hi rend="sup">м</hi>,</w>
+<w>ы</w>
+<w>гр<hi rend="sup">д</hi>а<hi rend="sup">и</hi><lb/></w>
+<w>всѣ</w>
+<w>ѡпоустѣша.</w>
+<w>и</w>
+<w>села</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>тако</w>
+<w>и</w>
+<w>стражемъ:</w>
+<w>городи</w>
+<w>вси</w>
+<w>опустѣша,</w>
+<w>села</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>тако</w>
+<w>и</w>
+<w>стражемъ:</w>
+<w>гради</w>
+<w>вьси</w>
+<w>опустѣша</w>
+<w>и</w>
+<w>села;</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>тако</w>
+<w>и</w>
+<w>стражем:</w>
+<w>городи</w>
+<w>вси</w>
+<w>опустѣша,</w>
+<w>села</w>
+</rdg>
+</app></p></div></body></text></TEI>

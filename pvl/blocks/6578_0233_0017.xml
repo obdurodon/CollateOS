@@ -1,121 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>233, 17</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="17">
-            <p>
-               <app>
-                  <lem>
-                     <w>благовѣрьныи</w>
-                     <w>кънязь</w>
-                     <w>Вьсеволодъ</w>
-                     <w>на</w>
-                     <w>хълму,</w>
-                     <w>иже</w>
-                     <w>есть</w>
-                     <w>надъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>бл҃говѣрныи <lb/>
-                        </w>
-                        <w>кнѧзь</w>
-                        <w>всеволодъ·</w>
-                        <w>на</w>
-                        <w>холму <lb/>
-                        </w>
-                        <w>нарѣцаѥмѣмъ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>блг҃овѣрныи</w>
-                        <w>кн҃зь.</w>
-                        <w>всеволо<hi rend="sup">д</hi>·</w>
-                        <w>на</w>
-                        <w>холмоу</w>
-                        <w>иже</w>
-                        <w>е<hi rend="sup">с</hi>
-                        </w>
-                        <w>над</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>блг҃овѣрны·̏и</w>
-                        <w>кн҃зь</w>
-                        <w>всеволодъ</w>
-                        <w>на</w>
-                        <w>холмѹ· <lb/>
-                        </w>
-                        <w>иже</w>
-                        <w>есть</w>
-                        <w>на<hi rend="sup">д</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>блг҃овѣрныи</w>
-                        <w>кнз҃ь</w>
-                        <w>все<lb/>володъ·</w>
-                        <w>на</w>
-                        <w>холму</w>
-                        <w>иже</w>
-                        <w>есть <lb/>
-                        </w>
-                        <w>надъ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>бл҃говѣрныи</w>
-                        <w>кнѧѕь</w>
-                        <w>всеволѡ<hi rend="sup">д</hi>.</w>
-                        <w>на</w>
-                        <w>хо<hi rend="sup">л</hi>моу</w>
-                        <w>иже <lb/>
-                        </w>
-                        <w>е<hi rend="sup">с</hi>
-                        </w>
-                        <w>на<hi rend="sup">д</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>благовѣрный</w>
-                        <w>князь</w>
-                        <w>Всеволодъ</w>
-                        <w>на</w>
-                        <w>холму,</w>
-                        <w>нарѣцаемѣмъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>благовѣрьныи</w>
-                        <w>кънязь</w>
-                        <w>Вьсеволодъ</w>
-                        <w>на</w>
-                        <w>хълму,</w>
-                        <w>нарицаемѣмъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>благовѣрный</w>
-                        <w>князь</w>
-                        <w>Всеволодъ</w>
-                        <w>на</w>
-                        <w>холму,</w>
-                        <w>нарѣцаемѣмъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>233, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="17"><p>
+<app>
+<lem wit="#lem">
+<w>благовѣрьныи</w>
+<w>кънязь</w>
+<w>Вьсеволодъ</w>
+<w>на</w>
+<w>хълму,</w>
+<w>иже</w>
+<w>есть</w>
+<w>надъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>бл҃говѣрныи <lb/></w>
+
+<w>кнѧзь</w>
+<w>всеволодъ·</w>
+<w>на</w>
+<w>холму <lb/></w>
+
+<w>нарѣцаѥмѣмъ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>блг҃овѣрныи</w>
+<w>кн҃зь.</w>
+<w>всеволо<hi rend="sup">д</hi>·</w>
+<w>на</w>
+<w>холмоу</w>
+<w>иже</w>
+<w>е<hi rend="sup">с</hi></w>
+<w>над</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>блг҃овѣрны·̏и</w>
+<w>кн҃зь</w>
+<w>всеволодъ</w>
+<w>на</w>
+<w>холмѹ· <lb/></w>
+
+<w>иже</w>
+<w>есть</w>
+<w>на<hi rend="sup">д</hi></w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>блг҃овѣрныи</w>
+<w>кнз҃ь</w>
+<w>все<lb/>володъ·</w>
+<w>на</w>
+<w>холму</w>
+<w>иже</w>
+<w>есть <lb/></w>
+
+<w>надъ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>бл҃говѣрныи</w>
+<w>кнѧѕь</w>
+<w>всеволѡ<hi rend="sup">д</hi>.</w>
+<w>на</w>
+<w>хо<hi rend="sup">л</hi>моу</w>
+<w>иже <lb/></w>
+
+<w>е<hi rend="sup">с</hi></w>
+<w>на<hi rend="sup">д</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>благовѣрный</w>
+<w>князь</w>
+<w>Всеволодъ</w>
+<w>на</w>
+<w>холму,</w>
+<w>нарѣцаемѣмъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>благовѣрьныи</w>
+<w>кънязь</w>
+<w>Вьсеволодъ</w>
+<w>на</w>
+<w>хълму,</w>
+<w>нарицаемѣмъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>благовѣрный</w>
+<w>князь</w>
+<w>Всеволодъ</w>
+<w>на</w>
+<w>холму,</w>
+<w>нарѣцаемѣмъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

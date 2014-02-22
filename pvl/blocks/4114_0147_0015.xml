@@ -1,115 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>147, 15</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="15">
-            <p>
-               <app>
-                  <lem>
-                     <w>заложи</w>
-                     <w>цьркъвь</w>
-                     <w>святыя</w>
-                     <w>Богородица,</w>
-                     <w>и</w>
-                     <w>съзьда</w>
-                     <w>ю,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>за<lb/>ложи</w>
-                        <w>црк҃вь</w>
-                        <w>с҃тыя</w>
-                        <w>бц҃а.</w>
-                        <w>и</w>
-                        <w>созда <lb/>
-                        </w>
-                        <w>ю.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>зало<lb/>жи</w>
-                        <w>црк҃вь</w>
-                        <w>ст҃ыа</w>
-                        <w>бц<hi rend="sup">д</hi>а.</w>
-                        <w>и</w>
-                        <w>соверши</w>
-                        <w>ю.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>заложи</w>
-                        <w>црк҃вь</w>
-                        <w>с҃тыѧ</w>
-                        <w>бц҃а.</w>
-                        <w>и</w>
-                        <w>совершї</w>
-                        <w>ю.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>заложи <lb/>
-                        </w>
-                        <w>црк҃вь.</w>
-                        <w>ст҃ыя</w>
-                        <w>бц҃а</w>
-                        <w>и</w>
-                        <w>созда</w>
-                        <w>ю. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>заложи <lb/>
-                        </w>
-                        <w>цр҃квъ</w>
-                        <w>ст҃ыа</w>
-                        <w>бц҃а</w>
-                        <w>и</w>
-                        <w>създа</w>
-                        <w>ю.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>заложи</w>
-                        <w>церковь</w>
-                        <w>святыя</w>
-                        <w>Богородица,</w>
-                        <w>и</w>
-                        <w>созда</w>
-                        <w>ю,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>заложи</w>
-                        <w>цьркъвь</w>
-                        <w>святыя</w>
-                        <w>Богородица,</w>
-                        <w>и</w>
-                        <w>съзьда</w>
-                        <w>ю,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>заложи</w>
-                        <w>церковь</w>
-                        <w>святыя</w>
-                        <w>Богородица,</w>
-                        <w>и</w>
-                        <w>созда</w>
-                        <w>ю,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>147, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="15"><p>
+<app>
+<lem wit="#lem">
+<w>заложи</w>
+<w>цьркъвь</w>
+<w>святыя</w>
+<w>Богородица,</w>
+<w>и</w>
+<w>съзьда</w>
+<w>ю,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>за<lb/>ложи</w>
+<w>црк҃вь</w>
+<w>с҃тыя</w>
+<w>бц҃а.</w>
+<w>и</w>
+<w>созда <lb/></w>
+
+<w>ю.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>зало<lb/>жи</w>
+<w>црк҃вь</w>
+<w>ст҃ыа</w>
+<w>бц<hi rend="sup">д</hi>а.</w>
+<w>и</w>
+<w>соверши</w>
+<w>ю.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>заложи</w>
+<w>црк҃вь</w>
+<w>с҃тыѧ</w>
+<w>бц҃а.</w>
+<w>и</w>
+<w>совершї</w>
+<w>ю.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>заложи <lb/></w>
+
+<w>црк҃вь.</w>
+<w>ст҃ыя</w>
+<w>бц҃а</w>
+<w>и</w>
+<w>созда</w>
+<w>ю. <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>заложи <lb/></w>
+
+<w>цр҃квъ</w>
+<w>ст҃ыа</w>
+<w>бц҃а</w>
+<w>и</w>
+<w>създа</w>
+<w>ю.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>заложи</w>
+<w>церковь</w>
+<w>святыя</w>
+<w>Богородица,</w>
+<w>и</w>
+<w>созда</w>
+<w>ю,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>заложи</w>
+<w>цьркъвь</w>
+<w>святыя</w>
+<w>Богородица,</w>
+<w>и</w>
+<w>съзьда</w>
+<w>ю,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>заложи</w>
+<w>церковь</w>
+<w>святыя</w>
+<w>Богородица,</w>
+<w>и</w>
+<w>созда</w>
+<w>ю,</w>
+</rdg>
+</app></p></div></body></text></TEI>

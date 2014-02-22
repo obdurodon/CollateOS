@@ -1,117 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>48, 27</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="27">
-            <p>
-               <app>
-                  <lem>
-                     <w>Мамы,</w>
-                     <w>да</w>
-                     <w>посълеть</w>
-                     <w>цьсарьство</w>
-                     <w>ваше,</w>
-                     <w>да</w>
-                     <w>испишеть</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ма<lb/>мы.</w>
-                        <w>да</w>
-                        <w>послеть</w>
-                        <w>цр҃тво</w>
-                        <w>ваше.</w>
-                        <w>да</w>
-                        <w>испишеть</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>мамы. <lb/>
-                        </w>
-                        <w>да</w>
-                        <w>после<hi rend="sup">т</hi>
-                        </w>
-                        <w>цр<hi rend="sup">с</hi>тво</w>
-                        <w>наше</w>
-                        <w>да</w>
-                        <w>испишю<hi rend="sup">т</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>мамы.</w>
-                        <w>да</w>
-                        <w>послетъ</w>
-                        <w>цр<hi rend="sup">с</hi>тво</w>
-                        <w>наше <lb/>
-                        </w>
-                        <w>да</w>
-                        <w>испишѹть</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>мамы.</w>
-                        <w>да</w>
-                        <w>по<lb/>слеть</w>
-                        <w>цр<hi rend="sup">с</hi>тво</w>
-                        <w>ваше.</w>
-                        <w>да</w>
-                        <w>испи<lb/>шеть</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>мамы.</w>
-                        <w>да</w>
-                        <w>по<lb/>сле<hi rend="sup">т</hi>
-                        </w>
-                        <w>цр<hi rend="sup">с</hi>тво</w>
-                        <w>ваше,</w>
-                        <w>да</w>
-                        <w>испише<hi rend="sup">т</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Мамы,</w>
-                        <w>да</w>
-                        <w>послеть</w>
-                        <w>царство</w>
-                        <w>наше,</w>
-                        <w>да</w>
-                        <w>испишеть</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Мамы,</w>
-                        <w>да</w>
-                        <w>посълеть</w>
-                        <w>цѣсарьство</w>
-                        <w>ваше,</w>
-                        <w>да</w>
-                        <w>испишеть</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Мамы,</w>
-                        <w>да</w>
-                        <w>послеть</w>
-                        <w>царство</w>
-                        <w>наше,</w>
-                        <w>да</w>
-                        <w>испишеть</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>48, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="27"><p>
+<app>
+<lem wit="#lem">
+<w>Мамы,</w>
+<w>да</w>
+<w>посълеть</w>
+<w>цьсарьство</w>
+<w>ваше,</w>
+<w>да</w>
+<w>испишеть</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ма<lb/>мы.</w>
+<w>да</w>
+<w>послеть</w>
+<w>цр҃тво</w>
+<w>ваше.</w>
+<w>да</w>
+<w>испишеть</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>мамы. <lb/></w>
+
+<w>да</w>
+<w>после<hi rend="sup">т</hi></w>
+<w>цр<hi rend="sup">с</hi>тво</w>
+<w>наше</w>
+<w>да</w>
+<w>испишю<hi rend="sup">т</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>мамы.</w>
+<w>да</w>
+<w>послетъ</w>
+<w>цр<hi rend="sup">с</hi>тво</w>
+<w>наше <lb/></w>
+
+<w>да</w>
+<w>испишѹть</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>мамы.</w>
+<w>да</w>
+<w>по<lb/>слеть</w>
+<w>цр<hi rend="sup">с</hi>тво</w>
+<w>ваше.</w>
+<w>да</w>
+<w>испи<lb/>шеть</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>мамы.</w>
+<w>да</w>
+<w>по<lb/>сле<hi rend="sup">т</hi></w>
+<w>цр<hi rend="sup">с</hi>тво</w>
+<w>ваше,</w>
+<w>да</w>
+<w>испише<hi rend="sup">т</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Мамы,</w>
+<w>да</w>
+<w>послеть</w>
+<w>царство</w>
+<w>наше,</w>
+<w>да</w>
+<w>испишеть</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Мамы,</w>
+<w>да</w>
+<w>посълеть</w>
+<w>цѣсарьство</w>
+<w>ваше,</w>
+<w>да</w>
+<w>испишеть</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Мамы,</w>
+<w>да</w>
+<w>послеть</w>
+<w>царство</w>
+<w>наше,</w>
+<w>да</w>
+<w>испишеть</w>
+</rdg>
+</app></p></div></body></text></TEI>

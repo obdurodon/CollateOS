@@ -1,116 +1,101 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>25, 19</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="19">
-            <p>
-               <app>
-                  <lem>
-                     <w>Волохы,</w>
-                     <w>и</w>
-                     <w>наслѣдиша</w>
-                     <w>землю</w>
-                     <w>ту,</w>
-                     <w>и</w>
-                     <w>сѣдоша</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>
-                           <sic>во<hi rend="sup">л</hi>х<hi rend="sup">ъ</hi>и. и наслѣдиша землю. и сѣдоша <lb/>
-                           </sic>
-                        </w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>волохи</w>
-                        <w>наслѣдиша</w>
-                        <w>землю</w>
-                        <w>ту</w>
-                        <w>сѣдоша</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>и</w>
-                        <w>наследиша</w>
-                        <w>землю</w>
-                        <w>тоу.</w>
-                        <w>и</w>
-                        <w>седоша <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>и</w>
-                        <w>наследиша <lb/>
-                        </w>
-                        <w>землю</w>
-                        <w>тѹ.</w>
-                        <w>и</w>
-                        <w>седоша</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>волохы.</w>
-                        <w>и</w>
-                        <w>наслѣдиша <lb/>
-                        </w>
-                        <w>землю</w>
-                        <w>ту.</w>
-                        <w>и</w>
-                        <w>сѣдоша</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>волѡхи.</w>
-                        <w>и</w>
-                        <w>насл<hi rend="sup">д</hi>ѣ<hi rend="sup">и</hi>ша</w>
-                        <w>землю</w>
-                        <w>тоу.</w>
-                        <w>и</w>
-                        <w>сѣдоша</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Волъхи,</w>
-                        <w>и</w>
-                        <w>наслѣдиша</w>
-                        <w>землю</w>
-                        <w>ту,</w>
-                        <w>и</w>
-                        <w>сѣдоша</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Волохы,</w>
-                        <w>и</w>
-                        <w>наслѣдиша</w>
-                        <w>землю</w>
-                        <w>ту,</w>
-                        <w>и</w>
-                        <w>сѣдоша</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>волъхи,</w>
-                        <w>и</w>
-                        <w>наслѣдиша</w>
-                        <w>землю</w>
-                        <w>ту,</w>
-                        <w>и</w>
-                        <w>сѣдоша</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>25, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="19"><p>
+<app>
+<lem wit="#lem">
+<w>Волохы,</w>
+<w>и</w>
+<w>наслѣдиша</w>
+<w>землю</w>
+<w>ту,</w>
+<w>и</w>
+<w>сѣдоша</w>
+</lem>
+
+<rdg wit="#lav">
+<w><milestone unit="sic" n="start"/>во<hi rend="sup">л</hi>х<hi rend="sup">ъ</hi>и.</w>
+<w>и</w>
+<w>наслѣдиша</w>
+<w>землю.</w>
+<w>и</w>
+<w>сѣдоша <lb/><milestone unit="sic" n="end"/></w>
+
+</rdg>
+
+<rdg wit="#tro">
+<w>волохи</w>
+<w>наслѣдиша</w>
+<w>землю</w>
+<w>ту</w>
+<w>сѣдоша</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>и</w>
+<w>наследиша</w>
+<w>землю</w>
+<w>тоу.</w>
+<w>и</w>
+<w>седоша <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>и</w>
+<w>наследиша <lb/></w>
+
+<w>землю</w>
+<w>тѹ.</w>
+<w>и</w>
+<w>седоша</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>волохы.</w>
+<w>и</w>
+<w>наслѣдиша <lb/></w>
+
+<w>землю</w>
+<w>ту.</w>
+<w>и</w>
+<w>сѣдоша</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>волѡхи.</w>
+<w>и</w>
+<w>насл<hi rend="sup">д</hi>ѣ<hi rend="sup">и</hi>ша</w>
+<w>землю</w>
+<w>тоу.</w>
+<w>и</w>
+<w>сѣдоша</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Волъхи,</w>
+<w>и</w>
+<w>наслѣдиша</w>
+<w>землю</w>
+<w>ту,</w>
+<w>и</w>
+<w>сѣдоша</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Волохы,</w>
+<w>и</w>
+<w>наслѣдиша</w>
+<w>землю</w>
+<w>ту,</w>
+<w>и</w>
+<w>сѣдоша</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>волъхи,</w>
+<w>и</w>
+<w>наслѣдиша</w>
+<w>землю</w>
+<w>ту,</w>
+<w>и</w>
+<w>сѣдоша</w>
+</rdg>
+</app></p></div></body></text></TEI>

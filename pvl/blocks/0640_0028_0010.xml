@@ -1,115 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>28, 10</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="10">
-            <p>
-               <app>
-                  <lem>
-                     <w>славу</w>
-                     <w>Богу</w>
-                     <w>въздасть,</w>
-                     <w>дающему</w>
-                     <w>таку</w>
-                     <w>благодать</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>славу</w>
-                        <w>
-                           <hi rend="sup">б</hi>
-                        </w>
-                        <w>
-                           <hi rend="sup">у</hi>
-                        </w>
-                        <w>въздасть.</w>
-                        <w>да<lb/>ющему</w>
-                        <w>таку</w>
-                        <w>блг҃дть</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>славу</w>
-                        <w>богу</w>
-                        <w>въздаша</w>
-                        <w>дающему</w>
-                        <w>таку</w>
-                        <w>благодать</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>бгоу</w>
-                        <w>въздасть.</w>
-                        <w>даю<lb/>щоу</w>
-                        <w>такѹю</w>
-                        <w>блг<hi rend="sup">д</hi>ть</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>б҃гѹ</w>
-                        <w>воздасть.</w>
-                        <w>дающѹ</w>
-                        <w>такѹ</w>
-                        <w>блг<hi rend="sup">д</hi>ть. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>славу</w>
-                        <w>б҃у <lb/>
-                        </w>
-                        <w>въздасть.</w>
-                        <w>дающему</w>
-                        <w>та<lb/>ку</w>
-                        <w>блгт<hi rend="sup">д</hi>ь.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>славоу</w>
-                        <w>въздасть</w>
-                        <w>г҃ви.</w>
-                        <w>дающе<lb/>моу</w>
-                        <w>такоу</w>
-                        <w>блгт<hi rend="sup">д</hi>ь</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>славу</w>
-                        <w>Богу</w>
-                        <w>въздасть,</w>
-                        <w>дающему</w>
-                        <w>таку</w>
-                        <w>благодать</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>славу</w>
-                        <w>Богу</w>
-                        <w>въздасть,</w>
-                        <w>дающему</w>
-                        <w>такову</w>
-                        <w>благодать</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>славу</w>
-                        <w>богу</w>
-                        <w>въздасть,</w>
-                        <w>дающему</w>
-                        <w>таку</w>
-                        <w>благодать</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>28, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="10"><p>
+<app>
+<lem wit="#lem">
+<w>славу</w>
+<w>Богу</w>
+<w>въздасть,</w>
+<w>дающему</w>
+<w>таку</w>
+<w>благодать</w>
+</lem>
+
+<rdg wit="#lav">
+<w>славу</w>
+<w><hi rend="sup">б</hi><hi rend="sup">у</hi></w>
+<w>въздасть.</w>
+<w>да<lb/>ющему</w>
+<w>таку</w>
+<w>блг҃дть</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>славу</w>
+<w>богу</w>
+<w>въздаша</w>
+<w>дающему</w>
+<w>таку</w>
+<w>благодать</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>бгоу</w>
+<w>въздасть.</w>
+<w>даю<lb/>щоу</w>
+<w>такѹю</w>
+<w>блг<hi rend="sup">д</hi>ть</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>б҃гѹ</w>
+<w>воздасть.</w>
+<w>дающѹ</w>
+<w>такѹ</w>
+<w>блг<hi rend="sup">д</hi>ть. <lb/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>славу</w>
+<w>б҃у <lb/></w>
+
+<w>въздасть.</w>
+<w>дающему</w>
+<w>та<lb/>ку</w>
+<w>блгт<hi rend="sup">д</hi>ь.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>славоу</w>
+<w>въздасть</w>
+<w>г҃ви.</w>
+<w>дающе<lb/>моу</w>
+<w>такоу</w>
+<w>блгт<hi rend="sup">д</hi>ь</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>славу</w>
+<w>Богу</w>
+<w>въздасть,</w>
+<w>дающему</w>
+<w>таку</w>
+<w>благодать</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>славу</w>
+<w>Богу</w>
+<w>въздасть,</w>
+<w>дающему</w>
+<w>такову</w>
+<w>благодать</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>славу</w>
+<w>богу</w>
+<w>въздасть,</w>
+<w>дающему</w>
+<w>таку</w>
+<w>благодать</w>
+</rdg>
+</app></p></div></body></text></TEI>

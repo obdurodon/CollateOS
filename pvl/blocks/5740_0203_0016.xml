@@ -1,106 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>203, 16</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="16">
-            <p>
-               <app>
-                  <lem>
-                     <w>Иоанъ</w>
-                     <w>глаголеть:</w>
-                     <w>“Богъ</w>
-                     <w>любы</w>
-                     <w>есть;</w>
-                     <w>пребываяи</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>иѡа<hi rend="sup">н</hi>
-                        </w>
-                        <w>гл҃еть</w>
-                        <w>б҃ъ <lb/>
-                        </w>
-                        <w>любы</w>
-                        <w>ѥсть.</w>
-                        <w>пребываяи</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>глт҃ь</w>
-                        <w>б҃ъ</w>
-                        <w>любы</w>
-                        <w>е<hi rend="sup">с</hi>.</w>
-                        <w>пребывая</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>гл҃ть</w>
-                        <w>бг҃ь</w>
-                        <w>любы</w>
-                        <w>есть.</w>
-                        <w>пребываеть</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>и</w>
-                        <w>ѿ</w>
-                        <w>глт҃ь.</w>
-                        <w>б҃ъ <lb/>
-                        </w>
-                        <w>любы</w>
-                        <w>есть.</w>
-                        <w>и</w>
-                        <w>пребывая</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>и</w>
-                        <w>глт҃ь,</w>
-                        <w>б҃ъ</w>
-                        <w>любы</w>
-                        <w>е<hi rend="sup">с</hi>,</w>
-                        <w>и</w>
-                        <w>пребы<lb/>ваѧи</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Иоанъ</w>
-                        <w>глаголеть:</w>
-                        <w>Богъ</w>
-                        <w>любы</w>
-                        <w>есть,</w>
-                        <w>пребываяй</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Иоанъ</w>
-                        <w>глаголеть:</w>
-                        <w>“Богъ</w>
-                        <w>любы</w>
-                        <w>есть;</w>
-                        <w>пребываяи</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Иоан</w>
-                        <w>глаголеть:</w>
-                        <w>“Богъ</w>
-                        <w>любы</w>
-                        <w>есть,</w>
-                        <w>пребываяй</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>203, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="16"><p>
+<app>
+<lem wit="#lem">
+<w>Иоанъ</w>
+<w>глаголеть:</w>
+<w>“Богъ</w>
+<w>любы</w>
+<w>есть;</w>
+<w>пребываяи</w>
+</lem>
+
+<rdg wit="#lav">
+<w>иѡа<hi rend="sup">н</hi></w>
+<w>гл҃еть</w>
+<w>б҃ъ <lb/></w>
+
+<w>любы</w>
+<w>ѥсть.</w>
+<w>пребываяи</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>глт҃ь</w>
+<w>б҃ъ</w>
+<w>любы</w>
+<w>е<hi rend="sup">с</hi>.</w>
+<w>пребывая</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>гл҃ть</w>
+<w>бг҃ь</w>
+<w>любы</w>
+<w>есть.</w>
+<w>пребываеть</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>и</w>
+<w>ѿ</w>
+<w>глт҃ь.</w>
+<w>б҃ъ <lb/></w>
+
+<w>любы</w>
+<w>есть.</w>
+<w>и</w>
+<w>пребывая</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>и</w>
+<w>глт҃ь,</w>
+<w>б҃ъ</w>
+<w>любы</w>
+<w>е<hi rend="sup">с</hi>,</w>
+<w>и</w>
+<w>пребы<lb/>ваѧи</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Иоанъ</w>
+<w>глаголеть:</w>
+<w>Богъ</w>
+<w>любы</w>
+<w>есть,</w>
+<w>пребываяй</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Иоанъ</w>
+<w>глаголеть:</w>
+<w>“Богъ</w>
+<w>любы</w>
+<w>есть;</w>
+<w>пребываяи</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Иоан</w>
+<w>глаголеть:</w>
+<w>“Богъ</w>
+<w>любы</w>
+<w>есть,</w>
+<w>пребываяй</w>
+</rdg>
+</app></p></div></body></text></TEI>

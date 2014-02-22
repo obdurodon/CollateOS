@@ -1,68 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>249, 16</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="16">
-            <p>
-               <app>
-                  <lem/>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>дружина</w>
-                        <w>моя</w>
-                        <w>с</w>
-                        <w>нимь· <lb/>
-                        </w>
-                        <w>и҃·</w>
-                        <w>дн҃ии·</w>
-                        <w>ѡ</w>
-                        <w>малу</w>
-                        <w>
-                           <sic>гр--</sic>лю</w>
-                     </rdg>
-                     <rdg wit="#rad"/>
-                     <rdg wit="#aka"/>
-                     <rdg wit="#ipa"/>
-                     <rdg wit="#xle"/>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>дружина</w>
-                        <w>моя</w>
-                        <w>с</w>
-                        <w>нимь 8</w>
-                        <w>дний</w>
-                        <w>о</w>
-                        <w>малу</w>
-                        <w>греблю,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>дружина</w>
-                        <w>моя</w>
-                        <w>с</w>
-                        <w>нимь 8</w>
-                        <w>дний</w>
-                        <w>о</w>
-                        <w>малу</w>
-                        <w>греблю,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>249, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="16"><p>
+<app>
+<lem wit="#lem">
+</lem>
+
+<rdg wit="#lav">
+<w>дружина</w>
+<w>моя</w>
+<w>с</w>
+<w>нимь· <lb/></w>
+
+<w>и҃·</w>
+<w>дн҃ии·</w>
+<w>ѡ</w>
+<w>малу</w>
+<w><milestone unit="sic" n="start"/>гр--<milestone unit="sic" n="end"/>лю</w>
+</rdg>
+
+<rdg wit="#rad">
+</rdg>
+
+<rdg wit="#aka">
+</rdg>
+
+<rdg wit="#ipa">
+</rdg>
+
+<rdg wit="#xle">
+</rdg>
+
+<rdg wit="#bych">
+<w>дружина</w>
+<w>моя</w>
+<w>с</w>
+<w>нимь 8</w>
+
+<w>дний</w>
+<w>о</w>
+<w>малу</w>
+<w>греблю,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>дружина</w>
+<w>моя</w>
+<w>с</w>
+<w>нимь 8</w>
+
+<w>дний</w>
+<w>о</w>
+<w>малу</w>
+<w>греблю,</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,92 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>225, 6</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="6">
-            <p>
-               <app>
-                  <lem>
-                     <w>Мучими,</w>
-                     <w>зимою</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>хь<hi rend="sup">с</hi>яньска·</w>
-                        <w>стражюще <lb/>
-                        </w>
-                        <w>печални</w>
-                        <w>мучими</w>
-                        <w>зимою</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>хр<hi rend="sup">с</hi>тьяньска·</w>
-                        <w>стражюща</w>
-                        <w>печа<lb/>лнии.</w>
-                        <w>моучими·</w>
-                        <w>зимою</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>хр<hi rend="sup">с</hi>тьяньска·</w>
-                        <w>стражюща</w>
-                        <w>печалнїи</w>
-                        <w>мѹчими·</w>
-                        <w>зимою</w>
-                        <w>
-                           <pb n="119r"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>мучими</w>
-                        <w>зимою</w>
-                        <w>
-                           <pb n="83a"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>мѫчими <lb/>
-                        </w>
-                        <w>ѕимою.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>хрестьянска</w>
-                        <w>стражюще:</w>
-                        <w>печални,</w>
-                        <w>мучими,</w>
-                        <w>зимою</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>хрьстияньска:</w>
-                        <w>стражюще,</w>
-                        <w>печальни,</w>
-                        <w>мучими,</w>
-                        <w>зимою</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>хрестьяньска:</w>
-                        <w>стражюще,</w>
-                        <w>печални,</w>
-                        <w>мучими,</w>
-                        <w>зимою</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>225, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="6"><p>
+<app>
+<lem wit="#lem">
+<w>Мучими,</w>
+<w>зимою</w>
+</lem>
+
+<rdg wit="#lav">
+<w>хь<hi rend="sup">с</hi>яньска·</w>
+<w>стражюще <lb/></w>
+
+<w>печални</w>
+<w>мучими</w>
+<w>зимою</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>хр<hi rend="sup">с</hi>тьяньска·</w>
+<w>стражюща</w>
+<w>печа<lb/>лнии.</w>
+<w>моучими·</w>
+<w>зимою</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>хр<hi rend="sup">с</hi>тьяньска·</w>
+<w>стражюща</w>
+<w>печалнїи</w>
+<w>мѹчими·</w>
+<w>зимою <pb n="119r"/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>мучими</w>
+<w>зимою <pb n="83a"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>мѫчими <lb/></w>
+
+<w>ѕимою.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>хрестьянска</w>
+<w>стражюще:</w>
+<w>печални,</w>
+<w>мучими,</w>
+<w>зимою</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>хрьстияньска:</w>
+<w>стражюще,</w>
+<w>печальни,</w>
+<w>мучими,</w>
+<w>зимою</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>хрестьяньска:</w>
+<w>стражюще,</w>
+<w>печални,</w>
+<w>мучими,</w>
+<w>зимою</w>
+</rdg>
+</app></p></div></body></text></TEI>

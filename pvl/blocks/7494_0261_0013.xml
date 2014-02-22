@@ -1,110 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>261, 13</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="13">
-            <p>
-               <app>
-                  <lem>
-                     <w>съвлѣкоша</w>
-                     <w>съ</w>
-                     <w>него</w>
-                     <w>сорочьку</w>
-                     <w>кръваву,</w>
-                     <w>и</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>сволокоша</w>
-                        <w>с</w>
-                        <w>него</w>
-                        <w>сорочку</w>
-                        <w>кро<lb/>ваву</w>
-                        <w>сущю·</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>снѧша</w>
-                        <w>с</w>
-                        <w>него·</w>
-                        <w>соро<hi rend="sup">ч</hi>кѹ·</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>снѧша</w>
-                        <w>с</w>
-                        <w>него</w>
-                        <w>сорочкѹ· <lb/>
-                        </w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>свол<hi rend="sup">к</hi>ъша</w>
-                        <w>с</w>
-                        <w>него</w>
-                        <w>
-                           <sic>с</sic>орочьку·</w>
-                        <w>крова<lb/>ву·</w>
-                        <w>и</w>
-                        <w>
-                           <pb n="89d"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>свлекоша</w>
-                        <w>с</w>
-                        <w>него</w>
-                        <w>сороч′коу <lb/>
-                        </w>
-                        <w>кръвавоу,</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>сволокоша</w>
-                        <w>с</w>
-                        <w>него</w>
-                        <w>сорочку,</w>
-                        <w>кроваву</w>
-                        <w>сущю,</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>съволокоша</w>
-                        <w>съ</w>
-                        <w>него</w>
-                        <w>сорочьку,</w>
-                        <w>кръваву</w>
-                        <w>сущю,</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>сволокоша</w>
-                        <w>с</w>
-                        <w>него</w>
-                        <w>сорочку,</w>
-                        <w>кроваву</w>
-                        <w>сущю,</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>261, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="13"><p>
+<app>
+<lem wit="#lem">
+<w>съвлѣкоша</w>
+<w>съ</w>
+<w>него</w>
+<w>сорочьку</w>
+<w>кръваву,</w>
+<w>и</w>
+</lem>
+
+<rdg wit="#lav">
+<w>сволокоша</w>
+<w>с</w>
+<w>него</w>
+<w>сорочку</w>
+<w>кро<lb/>ваву</w>
+<w>сущю·</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>снѧша</w>
+<w>с</w>
+<w>него·</w>
+<w>соро<hi rend="sup">ч</hi>кѹ·</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>снѧша</w>
+<w>с</w>
+<w>него</w>
+<w>сорочкѹ· <lb/></w>
+
+<w>и</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>свол<hi rend="sup">к</hi>ъша</w>
+<w>с</w>
+<w>него</w>
+<w><milestone unit="sic" n="start"/>с<milestone unit="sic" n="end"/>орочьку·</w>
+<w>крова<lb/>ву·</w>
+<w>и <pb n="89d"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>свлекоша</w>
+<w>с</w>
+<w>него</w>
+<w>сороч′коу <lb/></w>
+
+<w>кръвавоу,</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>сволокоша</w>
+<w>с</w>
+<w>него</w>
+<w>сорочку,</w>
+<w>кроваву</w>
+<w>сущю,</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>съволокоша</w>
+<w>съ</w>
+<w>него</w>
+<w>сорочьку,</w>
+<w>кръваву</w>
+<w>сущю,</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>сволокоша</w>
+<w>с</w>
+<w>него</w>
+<w>сорочку,</w>
+<w>кроваву</w>
+<w>сущю,</w>
+<w>и</w>
+</rdg>
+</app></p></div></body></text></TEI>

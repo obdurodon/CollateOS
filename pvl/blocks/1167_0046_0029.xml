@@ -1,125 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>46, 29</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="29">
-            <p>
-               <app>
-                  <lem>
-                     <w>Каршевъ</w>
-                     <w>Тудоровъ;</w>
-                     <w>Егри</w>
-                     <w>Ерлисковъ;</w>
-                     <w>Воистъ</w>
-                     <w>Иковъ;</w>
-                     <w>Истръ</w>
-                     <w>Яминъдовъ;</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>кар<sic>ш</sic>евъ.</w>
-                        <w>туръдовъ. <lb/>
-                        </w>
-                        <w>
-                           <sic>егри евли</sic>сковъ.</w>
-                        <w>в<sic>оико</sic>въ.</w>
-                        <w>истръ.</w>
-                        <w>амин<sic>о</sic>до<sic>въ</sic>. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>каршевъ.</w>
-                        <w>тоудоровъ.</w>
-                        <w>егри</w>
-                        <w>ермисковъ.</w>
-                        <w>въисковъ.</w>
-                        <w>ико<lb/>въ.</w>
-                        <w>истро</w>
-                        <w>аминдовъ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>карше<lb/>вь.</w>
-                        <w>тѹдоровь.</w>
-                        <w>егри</w>
-                        <w>ермисковъ.</w>
-                        <w>въисковъ.</w>
-                        <w>ико<lb/>въ.</w>
-                        <w>истръ</w>
-                        <w>яминдовь.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>каршевъ.</w>
-                        <w>тудоровъ.</w>
-                        <w>е<lb/>гри.</w>
-                        <w>ерлисковъ.</w>
-                        <w>воистовъ. <lb/>
-                        </w>
-                        <w>иковъ.</w>
-                        <w>истръ</w>
-                        <w>яминдов<hi rend="sup">ъ</hi>. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>карше<hi rend="sup">в</hi> 
-                           <lb/>
-                        </w>
-                        <w>тоудоровь.</w>
-                        <w>егри.</w>
-                        <w>ерлисковь.</w>
-                        <w>воистовь</w>
-                        <w>иковь.</w>
-                        <w>и<lb/>стре</w>
-                        <w>яминдовь.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Каршевъ</w>
-                        <w>Туръдовъ;</w>
-                        <w>Егри</w>
-                        <w>Евлисковъ;</w>
-                        <w>Воистъ</w>
-                        <w>Воиковъ;</w>
-                        <w>Истръ</w>
-                        <w>Аминодовъ;</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Каршевъ</w>
-                        <w>Тудоровъ;</w>
-                        <w>Егри</w>
-                        <w>Ерлисковъ;</w>
-                        <w>Воистъ</w>
-                        <w>Воиковъ;</w>
-                        <w>Истръ</w>
-                        <w>Аминъдовъ;</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Каршевъ</w>
-                        <w>Туръдовъ;</w>
-                        <w>Егри</w>
-                        <w>Евлисковъ;</w>
-                        <w>Воистъ</w>
-                        <w>Воиковъ;</w>
-                        <w>Истръ</w>
-                        <w>Аминодовъ;</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>46, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="29"><p>
+<app>
+<lem wit="#lem">
+<w>Каршевъ</w>
+<w>Тудоровъ;</w>
+<w>Егри</w>
+<w>Ерлисковъ;</w>
+<w>Воистъ</w>
+<w>Иковъ;</w>
+<w>Истръ</w>
+<w>Яминъдовъ;</w>
+</lem>
+
+<rdg wit="#lav">
+<w>кар<milestone unit="sic" n="start"/>ш<milestone unit="sic" n="end"/>евъ.</w>
+<w>туръдовъ. <lb/><milestone unit="sic" n="start"/>егри</w>
+
+<w>евли<milestone unit="sic" n="end"/>сковъ.</w>
+<w>в<milestone unit="sic" n="start"/>оико<milestone unit="sic" n="end"/>въ.</w>
+<w>истръ.</w>
+<w>амин<milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/>до<milestone unit="sic" n="start"/>въ<milestone unit="sic" n="end"/>. <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>каршевъ.</w>
+<w>тоудоровъ.</w>
+<w>егри</w>
+<w>ермисковъ.</w>
+<w>въисковъ.</w>
+<w>ико<lb/>въ.</w>
+<w>истро</w>
+<w>аминдовъ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>карше<lb/>вь.</w>
+<w>тѹдоровь.</w>
+<w>егри</w>
+<w>ермисковъ.</w>
+<w>въисковъ.</w>
+<w>ико<lb/>въ.</w>
+<w>истръ</w>
+<w>яминдовь.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>каршевъ.</w>
+<w>тудоровъ.</w>
+<w>е<lb/>гри.</w>
+<w>ерлисковъ.</w>
+<w>воистовъ. <lb/></w>
+
+<w>иковъ.</w>
+<w>истръ</w>
+<w>яминдов<hi rend="sup">ъ</hi>. <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>карше<hi rend="sup">в</hi><lb/></w>
+<w>тоудоровь.</w>
+<w>егри.</w>
+<w>ерлисковь.</w>
+<w>воистовь</w>
+<w>иковь.</w>
+<w>и<lb/>стре</w>
+<w>яминдовь.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Каршевъ</w>
+<w>Туръдовъ;</w>
+<w>Егри</w>
+<w>Евлисковъ;</w>
+<w>Воистъ</w>
+<w>Воиковъ;</w>
+<w>Истръ</w>
+<w>Аминодовъ;</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Каршевъ</w>
+<w>Тудоровъ;</w>
+<w>Егри</w>
+<w>Ерлисковъ;</w>
+<w>Воистъ</w>
+<w>Воиковъ;</w>
+<w>Истръ</w>
+<w>Аминъдовъ;</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Каршевъ</w>
+<w>Туръдовъ;</w>
+<w>Егри</w>
+<w>Евлисковъ;</w>
+<w>Воистъ</w>
+<w>Воиковъ;</w>
+<w>Истръ</w>
+<w>Аминодовъ;</w>
+</rdg>
+</app></p></div></body></text></TEI>

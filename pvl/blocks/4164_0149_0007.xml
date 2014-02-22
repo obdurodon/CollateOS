@@ -1,99 +1,79 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>149, 7</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="7">
-            <p>
-               <app>
-                  <lem>
-                     <w>съмириста</w>
-                     <w>ся.</w>
-                     <w>И</w>
-                     <w>сѣдяше</w>
-                     <w>Мьстиславъ</w>
-                     <w>Чьрниговѣ,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>смиристасѧ.</w>
-                        <w>и</w>
-                        <w>сѣдѧше <lb/>
-                        </w>
-                        <w>мьстиславъ</w>
-                        <w>черниговѣ.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>смириста<hi rend="sup">с</hi>.</w>
-                        <w>и</w>
-                        <w>седѧ<lb/>ше</w>
-                        <w>мстиславъ</w>
-                        <w>в</w>
-                        <w>черниговѣ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>сми<lb/>ристасѧ.</w>
-                        <w>и</w>
-                        <w>седѧше</w>
-                        <w>мьстиславъ</w>
-                        <w>в</w>
-                        <w>черниговѣ. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>смири<lb/>стасѧ.</w>
-                        <w>и</w>
-                        <w>сѣдѧше</w>
-                        <w>
-                           <sic>м<hi rend="sup">ѧ</hi>ь<hi rend="sup">р</hi>с<hi rend="sup">о</hi>ти</sic>сла<lb/>въ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>смиристасѧ.</w>
-                        <w>и</w>
-                        <w>сѣдѧше</w>
-                        <w>мьстиславь</w>
-                        <w>в</w>
-                        <w>че<lb/>рнѣговѣ.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>смиристася.</w>
-                        <w>И</w>
-                        <w>сѣдяше</w>
-                        <w>Мьстиславъ</w>
-                        <w>Черниговѣ,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>съмиристася.</w>
-                        <w>И</w>
-                        <w>сѣдяше</w>
-                        <w>Мьстиславъ</w>
-                        <w>Чьрниговѣ,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>смиристася.</w>
-                        <w>И</w>
-                        <w>сѣдяше</w>
-                        <w>Мьстиславъ</w>
-                        <w>Черниговѣ,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>149, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="7"><p>
+<app>
+<lem wit="#lem">
+<w>съмириста</w>
+<w>ся.</w>
+<w>И</w>
+<w>сѣдяше</w>
+<w>Мьстиславъ</w>
+<w>Чьрниговѣ,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>смиристасѧ.</w>
+<w>и</w>
+<w>сѣдѧше <lb/></w>
+
+<w>мьстиславъ</w>
+<w>черниговѣ.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>смириста<hi rend="sup">с</hi>.</w>
+<w>и</w>
+<w>седѧ<lb/>ше</w>
+<w>мстиславъ</w>
+<w>в</w>
+<w>черниговѣ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>сми<lb/>ристасѧ.</w>
+<w>и</w>
+<w>седѧше</w>
+<w>мьстиславъ</w>
+<w>в</w>
+<w>черниговѣ. <lb/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>смири<lb/>стасѧ.</w>
+<w>и</w>
+<w>сѣдѧше</w>
+<w><milestone unit="sic" n="start"/>м<hi rend="sup">ѧ</hi>ь<hi rend="sup">р</hi>с<hi rend="sup">о</hi>ти<milestone unit="sic" n="end"/>сла<lb/>въ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>смиристасѧ.</w>
+<w>и</w>
+<w>сѣдѧше</w>
+<w>мьстиславь</w>
+<w>в</w>
+<w>че<lb/>рнѣговѣ.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>смиристася.</w>
+<w>И</w>
+<w>сѣдяше</w>
+<w>Мьстиславъ</w>
+<w>Черниговѣ,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>съмиристася.</w>
+<w>И</w>
+<w>сѣдяше</w>
+<w>Мьстиславъ</w>
+<w>Чьрниговѣ,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>смиристася.</w>
+<w>И</w>
+<w>сѣдяше</w>
+<w>Мьстиславъ</w>
+<w>Черниговѣ,</w>
+</rdg>
+</app></p></div></body></text></TEI>

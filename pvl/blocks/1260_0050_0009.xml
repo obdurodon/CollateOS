@@ -1,124 +1,104 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>50, 9</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="9">
-            <p>
-               <app>
-                  <lem>
-                     <w>есть</w>
-                     <w>и</w>
-                     <w>онъ.</w>
-                     <w>Аще</w>
-                     <w>ли</w>
-                     <w>ключить</w>
-                     <w>ся</w>
-                     <w>украсти</w>
-                     <w>Русину</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>есть <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>ѡнъ.</w>
-                        <w>аще</w>
-                        <w>ли</w>
-                        <w>ключитсѧ</w>
-                        <w>оукрасти</w>
-                        <w>русину</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>есть</w>
-                        <w>и</w>
-                        <w>ѡнъ.</w>
-                        <w>аща</w>
-                        <w>ли</w>
-                        <w>прилѹчи<lb/>тсѧ</w>
-                        <w>оукрасти</w>
-                        <w>рѹсиноу</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>есть</w>
-                        <w>и</w>
-                        <w>ѡнъ.</w>
-                        <w>аще</w>
-                        <w>ли</w>
-                        <w>ключитсѧ <lb/>
-                        </w>
-                        <w>оукрасти</w>
-                        <w>рѹсинѹ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>есть</w>
-                        <w>ѡнъ.</w>
-                        <w>аще</w>
-                        <w>ли <lb/>
-                        </w>
-                        <w>ключитсѧ</w>
-                        <w>оукрасти</w>
-                        <w>ру<lb/>сину</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>е<hi rend="sup">с</hi>
-                        </w>
-                        <w>ѡнь.</w>
-                        <w>аще</w>
-                        <w>ли</w>
-                        <w>ключитсѧ <lb/>
-                        </w>
-                        <w>оукрасти</w>
-                        <w>роусиноу</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>есть</w>
-                        <w>и</w>
-                        <w>онъ.</w>
-                        <w>Аще</w>
-                        <w>ли</w>
-                        <w>ключится</w>
-                        <w>украсти</w>
-                        <w>Русину</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>есть</w>
-                        <w>и</w>
-                        <w>онъ.</w>
-                        <w>Аще</w>
-                        <w>ли</w>
-                        <w>ключиться</w>
-                        <w>украсти</w>
-                        <w>Русину</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>есть</w>
-                        <w>и</w>
-                        <w>онъ.</w>
-                        <w>Аще</w>
-                        <w>ли</w>
-                        <w>ключится</w>
-                        <w>украсти</w>
-                        <w>русину</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>50, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="9"><p>
+<app>
+<lem wit="#lem">
+<w>есть</w>
+<w>и</w>
+<w>онъ.</w>
+<w>Аще</w>
+<w>ли</w>
+<w>ключить</w>
+<w>ся</w>
+<w>украсти</w>
+<w>Русину</w>
+</lem>
+
+<rdg wit="#lav">
+<w>есть <lb/></w>
+
+<w>и</w>
+<w>ѡнъ.</w>
+<w>аще</w>
+<w>ли</w>
+<w>ключитсѧ</w>
+<w>оукрасти</w>
+<w>русину</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>есть</w>
+<w>и</w>
+<w>ѡнъ.</w>
+<w>аща</w>
+<w>ли</w>
+<w>прилѹчи<lb/>тсѧ</w>
+<w>оукрасти</w>
+<w>рѹсиноу</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>есть</w>
+<w>и</w>
+<w>ѡнъ.</w>
+<w>аще</w>
+<w>ли</w>
+<w>ключитсѧ <lb/></w>
+
+<w>оукрасти</w>
+<w>рѹсинѹ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>есть</w>
+<w>ѡнъ.</w>
+<w>аще</w>
+<w>ли <lb/></w>
+
+<w>ключитсѧ</w>
+<w>оукрасти</w>
+<w>ру<lb/>сину</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>е<hi rend="sup">с</hi></w>
+<w>ѡнь.</w>
+<w>аще</w>
+<w>ли</w>
+<w>ключитсѧ <lb/></w>
+
+<w>оукрасти</w>
+<w>роусиноу</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>есть</w>
+<w>и</w>
+<w>онъ.</w>
+<w>Аще</w>
+<w>ли</w>
+<w>ключится</w>
+<w>украсти</w>
+<w>Русину</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>есть</w>
+<w>и</w>
+<w>онъ.</w>
+<w>Аще</w>
+<w>ли</w>
+<w>ключиться</w>
+<w>украсти</w>
+<w>Русину</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>есть</w>
+<w>и</w>
+<w>онъ.</w>
+<w>Аще</w>
+<w>ли</w>
+<w>ключится</w>
+<w>украсти</w>
+<w>русину</w>
+</rdg>
+</app></p></div></body></text></TEI>

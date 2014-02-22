@@ -1,88 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>213, 17</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="17">
-            <p>
-               <app>
-                  <lem>
-                     <w>высокомысльнымъ</w>
-                     <w>отьцемь,</w>
-                     <w>рьвьнуя,</w>
-                     <w>мълчаниемъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>высокомысле<lb/>нымъ</w>
-                        <w>ѿц҃емь·</w>
-                        <w>ревнуя</w>
-                        <w>молча<lb/>ньѥ<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>высокомыслены<hi rend="sup">м</hi>·</w>
-                        <w>ѡц҃емъ</w>
-                        <w>ревнѹя.</w>
-                        <w>молчаниемъ·</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>вы·̏сокомы·̏слены·̏мъ·</w>
-                        <w>ѿцм҃ъ</w>
-                        <w>ревнѹѧ· <lb/>
-                        </w>
-                        <w>молчаньемь</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>высо<lb/>ком<sic>ы</sic>с<sic>л</sic>енымъ</w>
-                        <w>ѡц҃емь</w>
-                        <w>ре<lb/>внуя</w>
-                        <w>молчаньемъ·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>высокомысленны<hi rend="sup">м</hi>.</w>
-                        <w>ѿц҃мъ</w>
-                        <w>ре<lb/>вноуѧ.</w>
-                        <w>млъчанїемь</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>высокомысленымъ</w>
-                        <w>отцемь</w>
-                        <w>ревнуя,</w>
-                        <w>молчаньемъ,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>высокомысльнымъ</w>
-                        <w>отьцемь,</w>
-                        <w>рьвьнуя</w>
-                        <w>им,</w>
-                        <w>мълчаниемъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>высокомысленымъ</w>
-                        <w>отцемь,</w>
-                        <w>ревнуя</w>
-                        <w>им,</w>
-                        <w>молчаньем</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>213, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="17"><p>
+<app>
+<lem wit="#lem">
+<w>высокомысльнымъ</w>
+<w>отьцемь,</w>
+<w>рьвьнуя,</w>
+<w>мълчаниемъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>высокомысле<lb/>нымъ</w>
+<w>ѿц҃емь·</w>
+<w>ревнуя</w>
+<w>молча<lb/>ньѥ<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#rad">
+<w>высокомыслены<hi rend="sup">м</hi>·</w>
+<w>ѡц҃емъ</w>
+<w>ревнѹя.</w>
+<w>молчаниемъ·</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>вы·̏сокомы·̏слены·̏мъ·</w>
+<w>ѿцм҃ъ</w>
+<w>ревнѹѧ· <lb/></w>
+
+<w>молчаньемь</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>высо<lb/>ком<milestone unit="sic" n="start"/>ы<milestone unit="sic" n="end"/>с<milestone unit="sic" n="start"/>л<milestone unit="sic" n="end"/>енымъ</w>
+<w>ѡц҃емь</w>
+<w>ре<lb/>внуя</w>
+<w>молчаньемъ·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>высокомысленны<hi rend="sup">м</hi>.</w>
+<w>ѿц҃мъ</w>
+<w>ре<lb/>вноуѧ.</w>
+<w>млъчанїемь</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>высокомысленымъ</w>
+<w>отцемь</w>
+<w>ревнуя,</w>
+<w>молчаньемъ,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>высокомысльнымъ</w>
+<w>отьцемь,</w>
+<w>рьвьнуя</w>
+<w>им,</w>
+<w>мълчаниемъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>высокомысленымъ</w>
+<w>отцемь,</w>
+<w>ревнуя</w>
+<w>им,</w>
+<w>молчаньем</w>
+</rdg>
+</app></p></div></body></text></TEI>

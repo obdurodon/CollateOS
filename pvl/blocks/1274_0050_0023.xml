@@ -1,123 +1,101 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>50, 23</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="23">
-            <p>
-               <app>
-                  <lem>
-                     <w>плѣньници,</w>
-                     <w>да</w>
-                     <w>искупають</w>
-                     <w>я</w>
-                     <w>Русь</w>
-                     <w>по 10</w>
-                     <w>златьникъ.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>плѣньници.</w>
-                        <w>да</w>
-                        <w>ископа<lb/>ють</w>
-                        <w>е</w>
-                        <w>русь.</w>
-                        <w>по</w>
-                        <w>.і҃.</w>
-                        <w>златникъ.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>полоненици</w>
-                        <w>да</w>
-                        <w>искѹпаю<hi rend="sup">т</hi>
-                        </w>
-                        <w>рѹсь.</w>
-                        <w>по</w>
-                        <w>і҃.</w>
-                        <w>золотни<hi rend="sup">к</hi>. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>полоне<lb/>ци</w>
-                        <w>да</w>
-                        <w>искѹпають</w>
-                        <w>рѹ<hi rend="sup">с</hi>
-                        </w>
-                        <w>
-                           <sic>оу</sic>
-                        </w>
-                        <w>по</w>
-                        <w>.і҃.</w>
-                        <w>золотникь.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>по<lb/>лоници.</w>
-                        <w>да</w>
-                        <w>искупають</w>
-                        <w>а</w>
-                        <w>русь.</w>
-                        <w>по</w>
-                        <w>.і҃.</w>
-                        <w>золотникъ. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>полонѧници</w>
-                        <w>да</w>
-                        <w>искоупаю<hi rend="sup">т</hi> 
-                           <lb/>
-                        </w>
-                        <w>ѧ</w>
-                        <w>роу<hi rend="sup">с</hi>.</w>
-                        <w>по</w>
-                        <w>.і҃.</w>
-                        <w>золотникь.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>плѣньници,</w>
-                        <w>да</w>
-                        <w>искупають</w>
-                        <w>е</w>
-                        <w>русь</w>
-                        <w>по 10</w>
-                        <w>златникъ;</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>плѣньници,</w>
-                        <w>да</w>
-                        <w>искупають</w>
-                        <w>я</w>
-                        <w>Русь</w>
-                        <w>по 10</w>
-                        <w>златьникъ;</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>плѣньници,</w>
-                        <w>да</w>
-                        <w>искупають</w>
-                        <w>е</w>
-                        <w>русь</w>
-                        <w>по 10</w>
-                        <w>златникъ;</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>50, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="23"><p>
+<app>
+<lem wit="#lem">
+<w>плѣньници,</w>
+<w>да</w>
+<w>искупають</w>
+<w>я</w>
+<w>Русь</w>
+<w>по 10</w>
+
+<w>златьникъ.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>плѣньници.</w>
+<w>да</w>
+<w>ископа<lb/>ють</w>
+<w>е</w>
+<w>русь.</w>
+<w>по</w>
+<w>.і҃.</w>
+<w>златникъ.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>полоненици</w>
+<w>да</w>
+<w>искѹпаю<hi rend="sup">т</hi></w>
+<w>рѹсь.</w>
+<w>по</w>
+<w>і҃.</w>
+<w>золотни<hi rend="sup">к</hi>. <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>полоне<lb/>ци</w>
+<w>да</w>
+<w>искѹпають</w>
+<w>рѹ<hi rend="sup">с</hi><milestone unit="sic" n="start"/>оу<milestone unit="sic" n="end"/></w>
+<w>по</w>
+<w>.і҃.</w>
+<w>золотникь.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>по<lb/>лоници.</w>
+<w>да</w>
+<w>искупають</w>
+<w>а</w>
+<w>русь.</w>
+<w>по</w>
+<w>.і҃.</w>
+<w>золотникъ. <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>полонѧници</w>
+<w>да</w>
+<w>искоупаю<hi rend="sup">т</hi><lb/></w>
+<w>ѧ</w>
+<w>роу<hi rend="sup">с</hi>.</w>
+<w>по</w>
+<w>.і҃.</w>
+<w>золотникь.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>плѣньници,</w>
+<w>да</w>
+<w>искупають</w>
+<w>е</w>
+<w>русь</w>
+<w>по 10</w>
+
+<w>златникъ;</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>плѣньници,</w>
+<w>да</w>
+<w>искупають</w>
+<w>я</w>
+<w>Русь</w>
+<w>по 10</w>
+
+<w>златьникъ;</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>плѣньници,</w>
+<w>да</w>
+<w>искупають</w>
+<w>е</w>
+<w>русь</w>
+<w>по 10</w>
+
+<w>златникъ;</w>
+</rdg>
+</app></p></div></body></text></TEI>

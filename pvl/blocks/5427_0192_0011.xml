@@ -1,105 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>192, 11</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="11">
-            <p>
-               <app>
-                  <lem>
-                     <w>подаваше</w>
-                     <w>окъньцьмь</w>
-                     <w>ему,</w>
-                     <w>яко</w>
-                     <w>ся</w>
-                     <w>въмѣстяше</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>подаваше</w>
-                        <w>ѥму</w>
-                        <w>ѡ<lb/>концемъ.</w>
-                        <w>яко</w>
-                        <w>сѧ</w>
-                        <w>вмѣстѧше</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>подаваше</w>
-                        <w>емоу</w>
-                        <w>ѡко<lb/>нцемъ.</w>
-                        <w>яко</w>
-                        <w>сѧ</w>
-                        <w>вмѣстиша</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>подаваше</w>
-                        <w>ѡконцемь. <lb/>
-                        </w>
-                        <w>яко</w>
-                        <w>сѧ</w>
-                        <w>оуместѧше</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>пода<lb/>ваше</w>
-                        <w>ѡконьцемь</w>
-                        <w>ему.</w>
-                        <w>яко <lb/>
-                        </w>
-                        <w>сѧ</w>
-                        <w>вмѣстѧше<hi rend="sup">с</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>подавааше</w>
-                        <w>око<hi rend="sup">н</hi>це<hi rend="sup">м</hi>
-                        </w>
-                        <w>емоу.</w>
-                        <w>яко</w>
-                        <w>сѧ</w>
-                        <w>въ<lb/>мѣстѧше</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>подаваше</w>
-                        <w>ему</w>
-                        <w>оконцемъ,</w>
-                        <w>яко</w>
-                        <w>ся</w>
-                        <w>вмѣстяше</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>подаваше</w>
-                        <w>ему</w>
-                        <w>окъньцьмь,</w>
-                        <w>яко</w>
-                        <w>ся</w>
-                        <w>въмѣстяше</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>подаваше</w>
-                        <w>ему</w>
-                        <w>оконцемъ,</w>
-                        <w>яко</w>
-                        <w>ся</w>
-                        <w>вмѣстяше</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>192, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="11"><p>
+<app>
+<lem wit="#lem">
+<w>подаваше</w>
+<w>окъньцьмь</w>
+<w>ему,</w>
+<w>яко</w>
+<w>ся</w>
+<w>въмѣстяше</w>
+</lem>
+
+<rdg wit="#lav">
+<w>подаваше</w>
+<w>ѥму</w>
+<w>ѡ<lb/>концемъ.</w>
+<w>яко</w>
+<w>сѧ</w>
+<w>вмѣстѧше</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>подаваше</w>
+<w>емоу</w>
+<w>ѡко<lb/>нцемъ.</w>
+<w>яко</w>
+<w>сѧ</w>
+<w>вмѣстиша</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>подаваше</w>
+<w>ѡконцемь. <lb/></w>
+
+<w>яко</w>
+<w>сѧ</w>
+<w>оуместѧше</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>пода<lb/>ваше</w>
+<w>ѡконьцемь</w>
+<w>ему.</w>
+<w>яко <lb/></w>
+
+<w>сѧ</w>
+<w>вмѣстѧше<hi rend="sup">с</hi></w>
+</rdg>
+
+<rdg wit="#xle">
+<w>подавааше</w>
+<w>око<hi rend="sup">н</hi>це<hi rend="sup">м</hi></w>
+<w>емоу.</w>
+<w>яко</w>
+<w>сѧ</w>
+<w>въ<lb/>мѣстѧше</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>подаваше</w>
+<w>ему</w>
+<w>оконцемъ,</w>
+<w>яко</w>
+<w>ся</w>
+<w>вмѣстяше</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>подаваше</w>
+<w>ему</w>
+<w>окъньцьмь,</w>
+<w>яко</w>
+<w>ся</w>
+<w>въмѣстяше</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>подаваше</w>
+<w>ему</w>
+<w>оконцемъ,</w>
+<w>яко</w>
+<w>ся</w>
+<w>вмѣстяше</w>
+</rdg>
+</app></p></div></body></text></TEI>

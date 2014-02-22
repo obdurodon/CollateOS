@@ -1,67 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>32, 23</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="23">
-            <p>
-               <app>
-                  <lem>
-                     <w>копиинъмь</w>
-                     <w>образъмь.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>кѹпины<hi rend="sup">м</hi>
-                        </w>
-                        <w>ѡбразо<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>копеинымъ</w>
-                        <w>ѡ<lb/>бразомъ.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>копѣинымъ</w>
-                        <w>ѡ<lb/>бразомъ·:· <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>копеины<hi rend="sup">м</hi>
-                        </w>
-                        <w>ѡбразо<hi rend="sup">м</hi>.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>копейнымъ</w>
-                        <w>образомъ.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>копиинъмь</w>
-                        <w>образъмь.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>копейным</w>
-                        <w>образом.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>32, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="23"><p>
+<app>
+<lem wit="#lem">
+<w>копиинъмь</w>
+<w>образъмь.</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>кѹпины<hi rend="sup">м</hi></w>
+<w>ѡбразо<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>копеинымъ</w>
+<w>ѡ<lb/>бразомъ.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>копѣинымъ</w>
+<w>ѡ<lb/>бразомъ·:· <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>копеины<hi rend="sup">м</hi></w>
+<w>ѡбразо<hi rend="sup">м</hi>.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>копейнымъ</w>
+<w>образомъ.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>копиинъмь</w>
+<w>образъмь.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>копейным</w>
+<w>образом.</w>
+</rdg>
+</app></p></div></body></text></TEI>

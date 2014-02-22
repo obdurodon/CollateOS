@@ -1,115 +1,93 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>156, 10</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="10">
-            <p>
-               <app>
-                  <lem>
-                     <w>митрополитъмь</w>
-                     <w>святѣй</w>
-                     <w>Софии,</w>
-                     <w>а</w>
-                     <w>си</w>
-                     <w>печеръка</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>и</w>
-                        <w>митрополи<lb/>томь</w>
-                        <w>в</w>
-                        <w>с҃тѣи</w>
-                        <w>соѳьи.</w>
-                        <w>а</w>
-                        <w>си</w>
-                        <w>пече<lb/>рка</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>м<hi rend="sup">и</hi>итрополитомъ</w>
-                        <w>с҃тѣ <lb/>
-                        </w>
-                        <w>софии.</w>
-                        <w>а</w>
-                        <w>си</w>
-                        <w>печерка</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>и</w>
-                        <w>митро<lb/>политомъ.</w>
-                        <w>ст҃еи</w>
-                        <w>софии.</w>
-                        <w>а</w>
-                        <w>си</w>
-                        <w>печерка</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>м<hi rend="sup">е</hi>и<hi rend="sup">г</hi>т<hi rend="sup">о</hi>ро<add place="margin">поли</add> 
-                           <lb/>
-                        </w>
-                        <w>ст҃ѣи</w>
-                        <w>софьи.</w>
-                        <w>а</w>
-                        <w>си</w>
-                        <w>печерка <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>митрополитѡ<hi rend="sup">м</hi>
-                        </w>
-                        <w>ст҃ѣи</w>
-                        <w>со<lb/>ѳїи.</w>
-                        <w>а</w>
-                        <w>си</w>
-                        <w>печерка</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>и</w>
-                        <w>митрополитомь</w>
-                        <w>в</w>
-                        <w>святѣй</w>
-                        <w>Соѳьи,</w>
-                        <w>а</w>
-                        <w>си</w>
-                        <w>печерка</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>и</w>
-                        <w>митрополитъмь</w>
-                        <w>святѣй</w>
-                        <w>Софии,</w>
-                        <w>а</w>
-                        <w>си</w>
-                        <w>печеръка</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>и</w>
-                        <w>митрополитомь</w>
-                        <w>в</w>
-                        <w>святѣй</w>
-                        <w>Софьи,</w>
-                        <w>а</w>
-                        <w>си</w>
-                        <w>печерка</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>156, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="10"><p>
+<app>
+<lem wit="#lem">
+<w>митрополитъмь</w>
+<w>святѣй</w>
+<w>Софии,</w>
+<w>а</w>
+<w>си</w>
+<w>печеръка</w>
+</lem>
+
+<rdg wit="#lav">
+<w>и</w>
+<w>митрополи<lb/>томь</w>
+<w>в</w>
+<w>с҃тѣи</w>
+<w>соѳьи.</w>
+<w>а</w>
+<w>си</w>
+<w>пече<lb/>рка</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>м<hi rend="sup">и</hi>итрополитомъ</w>
+<w>с҃тѣ <lb/></w>
+
+<w>софии.</w>
+<w>а</w>
+<w>си</w>
+<w>печерка</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>и</w>
+<w>митро<lb/>политомъ.</w>
+<w>ст҃еи</w>
+<w>софии.</w>
+<w>а</w>
+<w>си</w>
+<w>печерка</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>м<hi rend="sup">е</hi>и<hi rend="sup">г</hi>т<hi rend="sup">о</hi>ро<milestone unit="add" n="start" place="margin"/>поли<milestone unit="add" n="end"/><lb/>томъ.</w>
+<w>ст҃ѣи</w>
+<w>софьи.</w>
+<w>а</w>
+<w>си</w>
+<w>печерка <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>митрополитѡ<hi rend="sup">м</hi></w>
+<w>ст҃ѣи</w>
+<w>со<lb/>ѳїи.</w>
+<w>а</w>
+<w>си</w>
+<w>печерка</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>и</w>
+<w>митрополитомь</w>
+<w>в</w>
+<w>святѣй</w>
+<w>Соѳьи,</w>
+<w>а</w>
+<w>си</w>
+<w>печерка</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>и</w>
+<w>митрополитъмь</w>
+<w>святѣй</w>
+<w>Софии,</w>
+<w>а</w>
+<w>си</w>
+<w>печеръка</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>и</w>
+<w>митрополитомь</w>
+<w>в</w>
+<w>святѣй</w>
+<w>Софьи,</w>
+<w>а</w>
+<w>си</w>
+<w>печерка</w>
+</rdg>
+</app></p></div></body></text></TEI>

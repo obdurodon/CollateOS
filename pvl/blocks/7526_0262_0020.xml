@@ -1,137 +1,116 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>262, 20</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="20">
-            <p>
-               <app>
-                  <lem>
-                     <w>яко</w>
-                     <w>“Сего</w>
-                     <w>не</w>
-                     <w>было</w>
-                     <w>въ</w>
-                     <w>родѣ</w>
-                     <w>нашемь”.</w>
-                     <w>И</w>
-                     <w>ту</w>
-                     <w>абие</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>яко</w>
-                        <w>сего</w>
-                        <w>не</w>
-                        <w>было</w>
-                        <w>в</w>
-                        <w>родѣ <lb/>
-                        </w>
-                        <w>нашемь·</w>
-                        <w>и</w>
-                        <w>ту</w>
-                        <w>абье</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>яко</w>
-                        <w>се<hi rend="sup">г</hi> 
-                           <lb/>
-                        </w>
-                        <w>не</w>
-                        <w>было</w>
-                        <w>в</w>
-                        <w>роде</w>
-                        <w>нашемъ.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>яко</w>
-                        <w>се·̏го</w>
-                        <w>не</w>
-                        <w>было</w>
-                        <w>в</w>
-                        <w>родѣ</w>
-                        <w>нашемъ·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>яко <lb/>
-                        </w>
-                        <w>сего</w>
-                        <w>не</w>
-                        <w>было</w>
-                        <w>в</w>
-                        <w>родѣ</w>
-                        <w>наше<lb/>мь·</w>
-                        <w>и</w>
-                        <w>ту</w>
-                        <w>абье</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>яко</w>
-                        <w>сего</w>
-                        <w>не</w>
-                        <w>было</w>
-                        <w>въ</w>
-                        <w>рѡдѣ</w>
-                        <w>наше<hi rend="sup">м</hi>.</w>
-                        <w>и</w>
-                        <w>тоу</w>
-                        <w>абїе</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>“яко</w>
-                        <w>сего</w>
-                        <w>не</w>
-                        <w>было</w>
-                        <w>в</w>
-                        <w>родѣ</w>
-                        <w>нашемь”.</w>
-                        <w>И</w>
-                        <w>ту</w>
-                        <w>абье</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>яко</w>
-                        <w>“сего</w>
-                        <w>не</w>
-                        <w>было</w>
-                        <w>въ</w>
-                        <w>родѣ</w>
-                        <w>нашемь”.</w>
-                        <w>И</w>
-                        <w>ту</w>
-                        <w>абие</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>яко</w>
-                        <w>“Сего</w>
-                        <w>не</w>
-                        <w>было</w>
-                        <w>в</w>
-                        <w>родѣ</w>
-                        <w>нашемь”.</w>
-                        <w>И</w>
-                        <w>ту</w>
-                        <w>абье</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>262, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="20"><p>
+<app>
+<lem wit="#lem">
+<w>яко</w>
+<w>“Сего</w>
+<w>не</w>
+<w>было</w>
+<w>въ</w>
+<w>родѣ</w>
+<w>нашемь”.</w>
+<w>И</w>
+<w>ту</w>
+<w>абие</w>
+</lem>
+
+<rdg wit="#lav">
+<w>яко</w>
+<w>сего</w>
+<w>не</w>
+<w>было</w>
+<w>в</w>
+<w>родѣ <lb/></w>
+
+<w>нашемь·</w>
+<w>и</w>
+<w>ту</w>
+<w>абье</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>яко</w>
+<w>се<hi rend="sup">г</hi><lb/></w>
+<w>не</w>
+<w>было</w>
+<w>в</w>
+<w>роде</w>
+<w>нашемъ.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>яко</w>
+<w>се·̏го</w>
+<w>не</w>
+<w>было</w>
+<w>в</w>
+<w>родѣ</w>
+<w>нашемъ·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>яко <lb/></w>
+
+<w>сего</w>
+<w>не</w>
+<w>было</w>
+<w>в</w>
+<w>родѣ</w>
+<w>наше<lb/>мь·</w>
+<w>и</w>
+<w>ту</w>
+<w>абье</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>яко</w>
+<w>сего</w>
+<w>не</w>
+<w>было</w>
+<w>въ</w>
+<w>рѡдѣ</w>
+<w>наше<hi rend="sup">м</hi>.</w>
+<w>и</w>
+<w>тоу</w>
+<w>абїе</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>“яко</w>
+<w>сего</w>
+<w>не</w>
+<w>было</w>
+<w>в</w>
+<w>родѣ</w>
+<w>нашемь”.</w>
+<w>И</w>
+<w>ту</w>
+<w>абье</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>яко</w>
+<w>“сего</w>
+<w>не</w>
+<w>было</w>
+<w>въ</w>
+<w>родѣ</w>
+<w>нашемь”.</w>
+<w>И</w>
+<w>ту</w>
+<w>абие</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>яко</w>
+<w>“Сего</w>
+<w>не</w>
+<w>было</w>
+<w>в</w>
+<w>родѣ</w>
+<w>нашемь”.</w>
+<w>И</w>
+<w>ту</w>
+<w>абье</w>
+</rdg>
+</app></p></div></body></text></TEI>

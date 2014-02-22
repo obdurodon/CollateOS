@@ -1,114 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>46, 20</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="20">
-            <p>
-               <app>
-                  <lem>
-                     <w>владыкахъ.</w>
-                     <w>Мы</w>
-                     <w>отъ</w>
-                     <w>рода</w>
-                     <w>Русьскаго</w>
-                     <w>посъли</w>
-                     <w>и</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>влд҃къ.</w>
-                        <w>мы <lb/>
-                        </w>
-                        <w>ѿ</w>
-                        <w>
-                           <sic>ро</sic>да</w>
-                        <w>рускаго.</w>
-                        <w>съли</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>вл<hi rend="sup">д</hi>къ.</w>
-                        <w>мы</w>
-                        <w>ѿ</w>
-                        <w>рода</w>
-                        <w>роу<hi rend="sup">с</hi>каго.</w>
-                        <w>посли</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>вл<hi rend="sup">д</hi>къ.</w>
-                        <w>мы</w>
-                        <w>ѿ</w>
-                        <w>рода</w>
-                        <w>рѹс<hi rend="sup">с</hi>каго.</w>
-                        <w>по<lb/>слы</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>вл<hi rend="sup">д</hi>къ.</w>
-                        <w>мы <lb/>
-                        </w>
-                        <w>ѿ</w>
-                        <w>рода</w>
-                        <w>рускаго</w>
-                        <w>слы.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>вл<hi rend="sup">д</hi>кь <lb/>
-                        </w>
-                        <w>мы</w>
-                        <w>ѿ</w>
-                        <w>рода</w>
-                        <w>роу<hi rend="sup">с</hi>каго.</w>
-                        <w>послы</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>владыкъ.</w>
-                        <w>Мы</w>
-                        <w>отъ</w>
-                        <w>рода</w>
-                        <w>Рускаго</w>
-                        <w>съли</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>владыкахъ.</w>
-                        <w>Мы</w>
-                        <w>отъ</w>
-                        <w>рода</w>
-                        <w>Русьскаго</w>
-                        <w>съли</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>владыкъ.</w>
-                        <w>Мы</w>
-                        <w>от</w>
-                        <w>рода</w>
-                        <w>рускаго</w>
-                        <w>съли</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>46, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="20"><p>
+<app>
+<lem wit="#lem">
+<w>владыкахъ.</w>
+<w>Мы</w>
+<w>отъ</w>
+<w>рода</w>
+<w>Русьскаго</w>
+<w>посъли</w>
+<w>и</w>
+</lem>
+
+<rdg wit="#lav">
+<w>влд҃къ.</w>
+<w>мы <lb/></w>
+
+<w>ѿ</w>
+<w><milestone unit="sic" n="start"/>ро<milestone unit="sic" n="end"/>да</w>
+<w>рускаго.</w>
+<w>съли</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>вл<hi rend="sup">д</hi>къ.</w>
+<w>мы</w>
+<w>ѿ</w>
+<w>рода</w>
+<w>роу<hi rend="sup">с</hi>каго.</w>
+<w>посли</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>вл<hi rend="sup">д</hi>къ.</w>
+<w>мы</w>
+<w>ѿ</w>
+<w>рода</w>
+<w>рѹс<hi rend="sup">с</hi>каго.</w>
+<w>по<lb/>слы</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>вл<hi rend="sup">д</hi>къ.</w>
+<w>мы <lb/></w>
+
+<w>ѿ</w>
+<w>рода</w>
+<w>рускаго</w>
+<w>слы.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>вл<hi rend="sup">д</hi>кь <lb/></w>
+
+<w>мы</w>
+<w>ѿ</w>
+<w>рода</w>
+<w>роу<hi rend="sup">с</hi>каго.</w>
+<w>послы</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>владыкъ.</w>
+<w>Мы</w>
+<w>отъ</w>
+<w>рода</w>
+<w>Рускаго</w>
+<w>съли</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>владыкахъ.</w>
+<w>Мы</w>
+<w>отъ</w>
+<w>рода</w>
+<w>Русьскаго</w>
+<w>съли</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>владыкъ.</w>
+<w>Мы</w>
+<w>от</w>
+<w>рода</w>
+<w>рускаго</w>
+<w>съли</w>
+<w>и</w>
+</rdg>
+</app></p></div></body></text></TEI>

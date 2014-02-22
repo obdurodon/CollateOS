@@ -1,117 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>12, 15</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="15">
-            <p>
-               <app>
-                  <lem>
-                     <w>рекохомъ,</w>
-                     <w>сущии</w>
-                     <w>отъ</w>
-                     <w>рода</w>
-                     <w>Словѣньска,</w>
-                     <w>и</w>
-                     <w>нарекоша</w>
-                     <w>ся</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>рекохомъ.</w>
-                        <w>суще</w>
-                        <w>ѿ</w>
-                        <w>рода</w>
-                        <w>словѣньска.</w>
-                        <w>и</w>
-                        <w>нарекош<hi rend="sup">а</hi> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>рекохомъ</w>
-                        <w>живуще</w>
-                        <w>отъ</w>
-                        <w>рода</w>
-                        <w>словѣньска</w>
-                        <w>нарекошася</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>рекохо<hi rend="sup">м</hi>
-                        </w>
-                        <w>ѿ</w>
-                        <w>рода <lb/>
-                        </w>
-                        <w>словеньска</w>
-                        <w>соущи<hi rend="sup">м</hi>.</w>
-                        <w>нарекоша<hi rend="sup">с</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>рекохомъ</w>
-                        <w>ѿ</w>
-                        <w>рода</w>
-                        <w>словѣньска</w>
-                        <w>сѹщимъ.</w>
-                        <w>на<lb/>рекошасѧ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ркохомъ <lb/>
-                        </w>
-                        <w>сущии</w>
-                        <w>ѿ</w>
-                        <w>рода</w>
-                        <w>словѣньска. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>наркошасѧ</w>
-                     </rdg>
-                     <rdg wit="#xle"/>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>рекохомъ,</w>
-                        <w>сущимъ</w>
-                        <w>отъ</w>
-                        <w>рода</w>
-                        <w>Словѣньска,</w>
-                        <w>и</w>
-                        <w>нарекошася</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>рекохомъ,</w>
-                        <w>сущемъ</w>
-                        <w>отъ</w>
-                        <w>рода</w>
-                        <w>Словѣньска,</w>
-                        <w>и</w>
-                        <w>нарекошася</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>рекохомъ,</w>
-                        <w>сущимъ</w>
-                        <w>от</w>
-                        <w>рода</w>
-                        <w>словѣньска,</w>
-                        <w>и</w>
-                        <w>нарекошася</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>12, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="15"><p>
+<app>
+<lem wit="#lem">
+<w>рекохомъ,</w>
+<w>сущии</w>
+<w>отъ</w>
+<w>рода</w>
+<w>Словѣньска,</w>
+<w>и</w>
+<w>нарекоша</w>
+<w>ся</w>
+</lem>
+
+<rdg wit="#lav">
+<w>рекохомъ.</w>
+<w>суще</w>
+<w>ѿ</w>
+<w>рода</w>
+<w>словѣньска.</w>
+<w>и</w>
+<w>нарекош<hi rend="sup">а</hi><lb/>сѧ</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>рекохомъ</w>
+<w>живуще</w>
+<w>отъ</w>
+<w>рода</w>
+<w>словѣньска</w>
+<w>нарекошася</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>рекохо<hi rend="sup">м</hi></w>
+<w>ѿ</w>
+<w>рода <lb/></w>
+
+<w>словеньска</w>
+<w>соущи<hi rend="sup">м</hi>.</w>
+<w>нарекоша<hi rend="sup">с</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>рекохомъ</w>
+<w>ѿ</w>
+<w>рода</w>
+<w>словѣньска</w>
+<w>сѹщимъ.</w>
+<w>на<lb/>рекошасѧ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ркохомъ <lb/></w>
+
+<w>сущии</w>
+<w>ѿ</w>
+<w>рода</w>
+<w>словѣньска. <lb/></w>
+
+<w>и</w>
+<w>наркошасѧ</w>
+</rdg>
+
+<rdg wit="#xle">
+</rdg>
+
+<rdg wit="#bych">
+<w>рекохомъ,</w>
+<w>сущимъ</w>
+<w>отъ</w>
+<w>рода</w>
+<w>Словѣньска,</w>
+<w>и</w>
+<w>нарекошася</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>рекохомъ,</w>
+<w>сущемъ</w>
+<w>отъ</w>
+<w>рода</w>
+<w>Словѣньска,</w>
+<w>и</w>
+<w>нарекошася</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>рекохомъ,</w>
+<w>сущимъ</w>
+<w>от</w>
+<w>рода</w>
+<w>словѣньска,</w>
+<w>и</w>
+<w>нарекошася</w>
+</rdg>
+</app></p></div></body></text></TEI>

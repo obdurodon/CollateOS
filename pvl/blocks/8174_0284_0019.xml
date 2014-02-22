@@ -1,117 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>284, 19</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="19">
-            <p>
-               <app>
-                  <lem>
-                     <w>своя</w>
-                     <w>огнь</w>
-                     <w>палящь”,</w>
-                     <w>и</w>
-                     <w>сълеми</w>
-                     <w>суть</w>
-                     <w>повелѣниемъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>своя</w>
-                        <w>ѡгнь</w>
-                        <w>полѧщь·</w>
-                        <w>и</w>
-                        <w>шле<lb/>ми</w>
-                        <w>су<hi rend="sup">т</hi>
-                        </w>
-                        <w>повелѣнье<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>своя· <lb/>
-                        </w>
-                        <w>ѡгнь</w>
-                        <w>палѧщь·</w>
-                        <w>слеми</w>
-                        <w>соу<hi rend="sup">т</hi>
-                        </w>
-                        <w>повелѣние<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>своѧ</w>
-                        <w>ѡгнь</w>
-                        <w>полѧщь·</w>
-                        <w>слеми <lb/>
-                        </w>
-                        <w>сѹть</w>
-                        <w>повелѣниемъ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>сво<lb/>я</w>
-                        <w>ѡгнь</w>
-                        <w>пламѧнъ·</w>
-                        <w>и</w>
-                        <w>слеми</w>
-                        <w>су<lb/>ть</w>
-                        <w>повеленьемь</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>своа</w>
-                        <w>ѡгнь</w>
-                        <w>палѧщь.</w>
-                        <w>и</w>
-                        <w>слеми</w>
-                        <w>сѫ<hi rend="sup">т</hi>
-                        </w>
-                        <w>по<lb/>веленїе<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>своя</w>
-                        <w>огнь</w>
-                        <w>палящь,</w>
-                        <w>и</w>
-                        <w>шлеми</w>
-                        <w>суть</w>
-                        <w>повелѣньемъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>своя</w>
-                        <w>огнь</w>
-                        <w>палящь”,</w>
-                        <w>и</w>
-                        <w>сълеми</w>
-                        <w>суть</w>
-                        <w>повелѣниемъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>своя</w>
-                        <w>огнь</w>
-                        <w>палящь,</w>
-                        <w>и</w>
-                        <w>шлеми</w>
-                        <w>суть</w>
-                        <w>повелѣньем</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>284, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="19"><p>
+<app>
+<lem wit="#lem">
+<w>своя</w>
+<w>огнь</w>
+<w>палящь”,</w>
+<w>и</w>
+<w>сълеми</w>
+<w>суть</w>
+<w>повелѣниемъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>своя</w>
+<w>ѡгнь</w>
+<w>полѧщь·</w>
+<w>и</w>
+<w>шле<lb/>ми</w>
+<w>су<hi rend="sup">т</hi></w>
+<w>повелѣнье<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#rad">
+<w>своя· <lb/></w>
+
+<w>ѡгнь</w>
+<w>палѧщь·</w>
+<w>слеми</w>
+<w>соу<hi rend="sup">т</hi></w>
+<w>повелѣние<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>своѧ</w>
+<w>ѡгнь</w>
+<w>полѧщь·</w>
+<w>слеми <lb/></w>
+
+<w>сѹть</w>
+<w>повелѣниемъ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>сво<lb/>я</w>
+<w>ѡгнь</w>
+<w>пламѧнъ·</w>
+<w>и</w>
+<w>слеми</w>
+<w>су<lb/>ть</w>
+<w>повеленьемь</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>своа</w>
+<w>ѡгнь</w>
+<w>палѧщь.</w>
+<w>и</w>
+<w>слеми</w>
+<w>сѫ<hi rend="sup">т</hi></w>
+<w>по<lb/>веленїе<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>своя</w>
+<w>огнь</w>
+<w>палящь,</w>
+<w>и</w>
+<w>шлеми</w>
+<w>суть</w>
+<w>повелѣньемъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>своя</w>
+<w>огнь</w>
+<w>палящь”,</w>
+<w>и</w>
+<w>сълеми</w>
+<w>суть</w>
+<w>повелѣниемъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>своя</w>
+<w>огнь</w>
+<w>палящь,</w>
+<w>и</w>
+<w>шлеми</w>
+<w>суть</w>
+<w>повелѣньем</w>
+</rdg>
+</app></p></div></body></text></TEI>

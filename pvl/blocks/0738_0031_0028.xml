@@ -1,117 +1,91 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>31, 28</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="28">
-            <p>
-               <app>
-                  <lem>
-                     <w>мужьмь,</w>
-                     <w>без</w>
-                     <w>оружия,</w>
-                     <w>мужь 50,</w>
-                     <w>и</w>
-                     <w>да</w>
-                     <w>творять</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>мѹ<hi rend="sup">ж</hi> 
-                           <lb/>
-                        </w>
-                        <w>бе<hi rend="sup">з</hi>
-                        </w>
-                        <w>ѡроу<hi rend="sup">ж</hi>а.</w>
-                        <w>моу<hi rend="sup">ж</hi>
-                        </w>
-                        <w>.н҃.</w>
-                        <w>да</w>
-                        <w>творѧ<hi rend="sup">т</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>мѹже<lb/>мъ</w>
-                        <w>безь</w>
-                        <w>ѡрѹжья.</w>
-                        <w>мѹжь</w>
-                        <w>.н҃.</w>
-                        <w>да</w>
-                        <w>творѧтъ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>мужемъ</w>
-                        <w>безъ</w>
-                        <w>ѡружь<lb/>я.</w>
-                        <w>мужь</w>
-                        <w>.н҃.</w>
-                        <w>и</w>
-                        <w>да</w>
-                        <w>творѧ<hi rend="sup">т</hi> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>мѫжемь.</w>
-                        <w>безь</w>
-                        <w>ѡроужїа</w>
-                        <w>мѫ<hi rend="sup">ж</hi>
-                        </w>
-                        <w>.н҃.</w>
-                        <w>и</w>
-                        <w>да</w>
-                        <w>творѧ<hi rend="sup">т</hi>
-                        </w>
-                        <w>
-                           <pb n="11r"/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>мужемъ,</w>
-                        <w>без</w>
-                        <w>оружья,</w>
-                        <w>мужь 50,</w>
-                        <w>и</w>
-                        <w>да</w>
-                        <w>творять</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>мужьмь,</w>
-                        <w>безъ</w>
-                        <w>оружия,</w>
-                        <w>мужь 50,</w>
-                        <w>и</w>
-                        <w>да</w>
-                        <w>творять</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>мужемъ,</w>
-                        <w>без</w>
-                        <w>оружьа,</w>
-                        <w>мужь 50,</w>
-                        <w>и</w>
-                        <w>да</w>
-                        <w>творят</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>31, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="28"><p>
+<app>
+<lem wit="#lem">
+<w>мужьмь,</w>
+<w>без</w>
+<w>оружия,</w>
+<w>мужь 50,</w>
+
+<w>и</w>
+<w>да</w>
+<w>творять</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>мѹ<hi rend="sup">ж</hi><lb/>мъ</w>
+<w>бе<hi rend="sup">з</hi></w>
+<w>ѡроу<hi rend="sup">ж</hi>а.</w>
+<w>моу<hi rend="sup">ж</hi></w>
+<w>.н҃.</w>
+<w>да</w>
+<w>творѧ<hi rend="sup">т</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>мѹже<lb/>мъ</w>
+<w>безь</w>
+<w>ѡрѹжья.</w>
+<w>мѹжь</w>
+<w>.н҃.</w>
+<w>да</w>
+<w>творѧтъ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>мужемъ</w>
+<w>безъ</w>
+<w>ѡружь<lb/>я.</w>
+<w>мужь</w>
+<w>.н҃.</w>
+<w>и</w>
+<w>да</w>
+<w>творѧ<hi rend="sup">т</hi><lb/></w>
+</rdg>
+
+<rdg wit="#xle">
+<w>мѫжемь.</w>
+<w>безь</w>
+<w>ѡроужїа</w>
+<w>мѫ<hi rend="sup">ж</hi></w>
+<w>.н҃.</w>
+<w>и</w>
+<w>да</w>
+<w>творѧ<hi rend="sup">т</hi><pb n="11r"/></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>мужемъ,</w>
+<w>без</w>
+<w>оружья,</w>
+<w>мужь 50,</w>
+
+<w>и</w>
+<w>да</w>
+<w>творять</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>мужьмь,</w>
+<w>безъ</w>
+<w>оружия,</w>
+<w>мужь 50,</w>
+
+<w>и</w>
+<w>да</w>
+<w>творять</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>мужемъ,</w>
+<w>без</w>
+<w>оружьа,</w>
+<w>мужь 50,</w>
+
+<w>и</w>
+<w>да</w>
+<w>творят</w>
+</rdg>
+</app></p></div></body></text></TEI>

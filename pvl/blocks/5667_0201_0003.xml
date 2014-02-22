@@ -1,105 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>201, 3</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="3">
-            <p>
-               <app>
-                  <lem>
-                     <w>велика.</w>
-                     <w>И</w>
-                     <w>поиде</w>
-                     <w>Изяславъ</w>
-                     <w>съ</w>
-                     <w>Яропълкъмь,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>велика.</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>поиде</w>
-                        <w>изѧславъ</w>
-                        <w>съ</w>
-                        <w>ярополъ<lb/>комъ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>велика:- <lb/>
-                        </w>
-                        <w>поиде</w>
-                        <w>изѧславъ.</w>
-                        <w>со</w>
-                        <w>ярополко<hi rend="sup">м</hi>.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>велика:·</w>
-                        <w>Поиде</w>
-                        <w>изѧславъ.</w>
-                        <w>со</w>
-                        <w>яро<lb/>полкомъ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ве<lb/>лика.</w>
-                        <w>и</w>
-                        <w>поиде</w>
-                        <w>изѧславъ</w>
-                        <w>сь <lb/>
-                        </w>
-                        <w>яропол<sic>к</sic>омь</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>велика.</w>
-                        <w>и</w>
-                        <w>поиде</w>
-                        <w>изѧславъ</w>
-                        <w>съ</w>
-                        <w>ярополкѡ<hi rend="sup">м</hi> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>велика;</w>
-                        <w>и</w>
-                        <w>поиде</w>
-                        <w>Изяславъ</w>
-                        <w>съ</w>
-                        <w>Ярополъкомъ,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>велика.</w>
-                        <w>И</w>
-                        <w>поиде</w>
-                        <w>Изяславъ</w>
-                        <w>съ</w>
-                        <w>Яропълкъмь,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>велика.</w>
-                        <w>И</w>
-                        <w>поиде</w>
-                        <w>Изяславъ</w>
-                        <w>съ</w>
-                        <w>Ярополъкомъ,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>201, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="3"><p>
+<app>
+<lem wit="#lem">
+<w>велика.</w>
+<w>И</w>
+<w>поиде</w>
+<w>Изяславъ</w>
+<w>съ</w>
+<w>Яропълкъмь,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>велика.</w>
+<w>и <lb/></w>
+
+<w>поиде</w>
+<w>изѧславъ</w>
+<w>съ</w>
+<w>ярополъ<lb/>комъ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>велика:- <lb/></w>
+
+<w>поиде</w>
+<w>изѧславъ.</w>
+<w>со</w>
+<w>ярополко<hi rend="sup">м</hi>.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>велика:·</w>
+<w>Поиде</w>
+<w>изѧславъ.</w>
+<w>со</w>
+<w>яро<lb/>полкомъ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ве<lb/>лика.</w>
+<w>и</w>
+<w>поиде</w>
+<w>изѧславъ</w>
+<w>сь <lb/></w>
+
+<w>яропол<milestone unit="sic" n="start"/>к<milestone unit="sic" n="end"/>омь</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>велика.</w>
+<w>и</w>
+<w>поиде</w>
+<w>изѧславъ</w>
+<w>съ</w>
+<w>ярополкѡ<hi rend="sup">м</hi><lb/></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>велика;</w>
+<w>и</w>
+<w>поиде</w>
+<w>Изяславъ</w>
+<w>съ</w>
+<w>Ярополъкомъ,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>велика.</w>
+<w>И</w>
+<w>поиде</w>
+<w>Изяславъ</w>
+<w>съ</w>
+<w>Яропълкъмь,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>велика.</w>
+<w>И</w>
+<w>поиде</w>
+<w>Изяславъ</w>
+<w>съ</w>
+<w>Ярополъкомъ,</w>
+</rdg>
+</app></p></div></body></text></TEI>

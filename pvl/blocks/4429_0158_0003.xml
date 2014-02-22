@@ -1,136 +1,113 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>158, 3</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="3">
-            <p>
-               <app>
-                  <lem>
-                     <w>игумена</w>
-                     <w>именьмь</w>
-                     <w>Варлама,</w>
-                     <w>а</w>
-                     <w>самъ</w>
-                     <w>иде</w>
-                     <w>въ</w>
-                     <w>гору,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>игуменомь</w>
-                        <w>в<hi rend="sup">а</hi> 
-                           <lb/>
-                        </w>
-                        <w>а</w>
-                        <w>самъ</w>
-                        <w>иде</w>
-                        <w>в</w>
-                        <w>гору</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>игоумена.</w>
-                        <w>и<lb/>менемъ</w>
-                        <w>варлама.</w>
-                        <w>и</w>
-                        <w>самъ</w>
-                        <w>иде</w>
-                        <w>в</w>
-                        <w>горѹ.</w>
-                        <w>наединѣ</w>
-                        <w>житии</w>
-                        <w>изво<hi rend="sup">л</hi>:- <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>игѹмена. <lb/>
-                        </w>
-                        <w>имѧнемъ</w>
-                        <w>варлама.</w>
-                        <w>и</w>
-                        <w>самъ</w>
-                        <w>иде</w>
-                        <w>в</w>
-                        <w>горѹ.</w>
-                        <w>наеди<lb/>не</w>
-                        <w>жити</w>
-                        <w>изволи:·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>игумена.</w>
-                        <w>именемь <lb/>
-                        </w>
-                        <w>варламъ.</w>
-                        <w>а</w>
-                        <w>самъ</w>
-                        <w>иде</w>
-                        <w>в</w>
-                        <w>гору. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>игоумена</w>
-                        <w>имене<hi rend="sup">м</hi>
-                        </w>
-                        <w>варлама.</w>
-                        <w>и</w>
-                        <w>са<hi rend="sup">м</hi>
-                        </w>
-                        <w>иде</w>
-                        <w>в</w>
-                        <w>гороу.</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>игуменомь</w>
-                        <w>Варлама,</w>
-                        <w>а</w>
-                        <w>самъ</w>
-                        <w>иде</w>
-                        <w>в</w>
-                        <w>гору,</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>игумена</w>
-                        <w>именьмь</w>
-                        <w>Варлама,</w>
-                        <w>а</w>
-                        <w>самъ</w>
-                        <w>иде</w>
-                        <w>въ</w>
-                        <w>гору,</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>игуменомь</w>
-                        <w>Варлама,</w>
-                        <w>а</w>
-                        <w>самъ</w>
-                        <w>иде</w>
-                        <w>в</w>
-                        <w>гору,</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>158, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="3"><p>
+<app>
+<lem wit="#lem">
+<w>игумена</w>
+<w>именьмь</w>
+<w>Варлама,</w>
+<w>а</w>
+<w>самъ</w>
+<w>иде</w>
+<w>въ</w>
+<w>гору,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>игуменомь</w>
+<w>в<hi rend="sup">а</hi><lb/>рлама.</w>
+<w>а</w>
+<w>самъ</w>
+<w>иде</w>
+<w>в</w>
+<w>гору</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>игоумена.</w>
+<w>и<lb/>менемъ</w>
+<w>варлама.</w>
+<w>и</w>
+<w>самъ</w>
+<w>иде</w>
+<w>в</w>
+<w>горѹ.</w>
+<w>наединѣ</w>
+<w>житии</w>
+<w>изво<hi rend="sup">л</hi>:- <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>игѹмена. <lb/></w>
+
+<w>имѧнемъ</w>
+<w>варлама.</w>
+<w>и</w>
+<w>самъ</w>
+<w>иде</w>
+<w>в</w>
+<w>горѹ.</w>
+<w>наеди<lb/>не</w>
+<w>жити</w>
+<w>изволи:·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>игумена.</w>
+<w>именемь <lb/></w>
+
+<w>варламъ.</w>
+<w>а</w>
+<w>самъ</w>
+<w>иде</w>
+<w>в</w>
+<w>гору. <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>игоумена</w>
+<w>имене<hi rend="sup">м</hi></w>
+<w>варлама.</w>
+<w>и</w>
+<w>са<hi rend="sup">м</hi></w>
+<w>иде</w>
+<w>в</w>
+<w>гороу.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>игуменомь</w>
+<w>Варлама,</w>
+<w>а</w>
+<w>самъ</w>
+<w>иде</w>
+<w>в</w>
+<w>гору,</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>игумена</w>
+<w>именьмь</w>
+<w>Варлама,</w>
+<w>а</w>
+<w>самъ</w>
+<w>иде</w>
+<w>въ</w>
+<w>гору,</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>игуменомь</w>
+<w>Варлама,</w>
+<w>а</w>
+<w>самъ</w>
+<w>иде</w>
+<w>в</w>
+<w>гору,</w>
+<w>и</w>
+</rdg>
+</app></p></div></body></text></TEI>

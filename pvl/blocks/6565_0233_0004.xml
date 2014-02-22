@@ -1,128 +1,106 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>233, 4</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="4">
-            <p>
-               <app>
-                  <lem>
-                     <w>и</w>
-                     <w>законъ</w>
-                     <w>нашь.</w>
-                     <w>Богъ</w>
-                     <w>же</w>
-                     <w>тьрпяше,</w>
-                     <w>еще</w>
-                     <w>бо</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>и</w>
-                        <w>законъ</w>
-                        <w>нашь·</w>
-                        <w>б҃ъ</w>
-                        <w>же</w>
-                        <w>терпѧше <lb/>
-                        </w>
-                        <w>еще</w>
-                        <w>бо</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>и</w>
-                        <w>законъ</w>
-                        <w>нашь.</w>
-                        <w>б҃ъ</w>
-                        <w>же</w>
-                        <w>терпѧше·</w>
-                        <w>еще</w>
-                        <w>бо</w>
-                        <w>
-                           <pb n="134r"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>и</w>
-                        <w>законь</w>
-                        <w>на<lb/>шь·</w>
-                        <w>бг҃ь</w>
-                        <w>же</w>
-                        <w>терпѧше·</w>
-                        <w>и</w>
-                        <w>еще</w>
-                        <w>бо</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>и</w>
-                        <w>законъ</w>
-                        <w>нашь·</w>
-                        <w>б҃ъ</w>
-                        <w>же</w>
-                        <w>те<lb/>рпѧше·</w>
-                        <w>и</w>
-                        <w>еще</w>
-                        <w>бо</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>и</w>
-                        <w>закѡ<hi rend="sup">н</hi>
-                        </w>
-                        <w>нашь.</w>
-                        <w>б҃ъ</w>
-                        <w>же</w>
-                        <w>тръпѧше, <lb/>
-                        </w>
-                        <w>еще</w>
-                        <w>бо</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>и</w>
-                        <w>законъ</w>
-                        <w>нашь.</w>
-                        <w>Богъ</w>
-                        <w>же</w>
-                        <w>терпяше,</w>
-                        <w>еще</w>
-                        <w>бо</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>и</w>
-                        <w>законъ</w>
-                        <w>нашь.</w>
-                        <w>Богъ</w>
-                        <w>же</w>
-                        <w>тьрпяше,</w>
-                        <w>еще</w>
-                        <w>бо</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>и</w>
-                        <w>законъ</w>
-                        <w>нашь.</w>
-                        <w>Богъ</w>
-                        <w>же</w>
-                        <w>терпяше,</w>
-                        <w>еще</w>
-                        <w>бо</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>233, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="4"><p>
+<app>
+<lem wit="#lem">
+<w>и</w>
+<w>законъ</w>
+<w>нашь.</w>
+<w>Богъ</w>
+<w>же</w>
+<w>тьрпяше,</w>
+<w>еще</w>
+<w>бо</w>
+</lem>
+
+<rdg wit="#lav">
+<w>и</w>
+<w>законъ</w>
+<w>нашь·</w>
+<w>б҃ъ</w>
+<w>же</w>
+<w>терпѧше <lb/></w>
+
+<w>еще</w>
+<w>бо</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>и</w>
+<w>законъ</w>
+<w>нашь.</w>
+<w>б҃ъ</w>
+<w>же</w>
+<w>терпѧше·</w>
+<w>еще</w>
+<w>бо <pb n="134r"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>и</w>
+<w>законь</w>
+<w>на<lb/>шь·</w>
+<w>бг҃ь</w>
+<w>же</w>
+<w>терпѧше·</w>
+<w>и</w>
+<w>еще</w>
+<w>бо</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>и</w>
+<w>законъ</w>
+<w>нашь·</w>
+<w>б҃ъ</w>
+<w>же</w>
+<w>те<lb/>рпѧше·</w>
+<w>и</w>
+<w>еще</w>
+<w>бо</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>и</w>
+<w>закѡ<hi rend="sup">н</hi></w>
+<w>нашь.</w>
+<w>б҃ъ</w>
+<w>же</w>
+<w>тръпѧше, <lb/></w>
+
+<w>еще</w>
+<w>бо</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>и</w>
+<w>законъ</w>
+<w>нашь.</w>
+<w>Богъ</w>
+<w>же</w>
+<w>терпяше,</w>
+<w>еще</w>
+<w>бо</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>и</w>
+<w>законъ</w>
+<w>нашь.</w>
+<w>Богъ</w>
+<w>же</w>
+<w>тьрпяше,</w>
+<w>еще</w>
+<w>бо</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>и</w>
+<w>законъ</w>
+<w>нашь.</w>
+<w>Богъ</w>
+<w>же</w>
+<w>терпяше,</w>
+<w>еще</w>
+<w>бо</w>
+</rdg>
+</app></p></div></body></text></TEI>

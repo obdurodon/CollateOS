@@ -1,127 +1,111 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>63, 29</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="29">
-            <p>
-               <app>
-                  <lem>
-                     <w>“Аще</w>
-                     <w>къто</w>
-                     <w>отьца</w>
-                     <w>или</w>
-                     <w>матере</w>
-                     <w>не</w>
-                     <w>послушаеть,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>аще</w>
-                        <w>кто</w>
-                        <w>ѿца</w>
-                        <w>ли</w>
-                        <w>мт҃ре</w>
-                        <w>не</w>
-                        <w>послушает<sic>ь</sic>. <lb/>
-                        </w>
-                        <w>но</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>аще</w>
-                        <w>кто</w>
-                        <w>ѡца</w>
-                        <w>и</w>
-                        <w>мт҃ьрь</w>
-                        <w>не</w>
-                        <w>послѹшаеть.</w>
-                     </rdg>
-                     <rdg wit="#aka"/>
-                     <rdg wit="#ipa">
-                        <w>аще</w>
-                        <w>кто</w>
-                        <w>оц҃а <lb/>
-                        </w>
-                        <w>или</w>
-                        <w>мт҃рь</w>
-                        <w>не</w>
-                        <w>слушаеть</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>аще</w>
-                        <w>кто</w>
-                        <w>ѿца <lb/>
-                        </w>
-                        <w>или</w>
-                        <w>мт҃ре</w>
-                        <w>не</w>
-                        <w>послоушае<hi rend="sup">т</hi>.</w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>аще</w>
-                        <w>кто</w>
-                        <w>отца</w>
-                        <w>не</w>
-                        <w>слушаеть</w>
-                        <w>или</w>
-                        <w>матери</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>аще</w>
-                        <w>кто</w>
-                        <w>отца</w>
-                        <w>не</w>
-                        <w>послушаетъ</w>
-                        <w>или</w>
-                        <w>матери</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>аще</w>
-                        <w>кто</w>
-                        <w>отца</w>
-                        <w>ли</w>
-                        <w>матере</w>
-                        <w>не</w>
-                        <w>послушаеть,</w>
-                        <w>то</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>“Аще</w>
-                        <w>къто</w>
-                        <w>отьца</w>
-                        <w>ли</w>
-                        <w>матере</w>
-                        <w>не</w>
-                        <w>послушаеть,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>“Аще</w>
-                        <w>кто</w>
-                        <w>отца</w>
-                        <w>ли</w>
-                        <w>матере</w>
-                        <w>не</w>
-                        <w>послушаеть,</w>
-                        <w>то</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>63, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="29"><p>
+<app>
+<lem wit="#lem">
+<w>“Аще</w>
+<w>къто</w>
+<w>отьца</w>
+<w>или</w>
+<w>матере</w>
+<w>не</w>
+<w>послушаеть,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>аще</w>
+<w>кто</w>
+<w>ѿца</w>
+<w>ли</w>
+<w>мт҃ре</w>
+<w>не</w>
+<w>послушает<milestone unit="sic" n="start"/>ь<milestone unit="sic" n="end"/>. <lb/></w>
+
+<w>но</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>аще</w>
+<w>кто</w>
+<w>ѡца</w>
+<w>и</w>
+<w>мт҃ьрь</w>
+<w>не</w>
+<w>послѹшаеть.</w>
+</rdg>
+
+<rdg wit="#aka">
+</rdg>
+
+<rdg wit="#ipa">
+<w>аще</w>
+<w>кто</w>
+<w>оц҃а <lb/></w>
+
+<w>или</w>
+<w>мт҃рь</w>
+<w>не</w>
+<w>слушаеть</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>аще</w>
+<w>кто</w>
+<w>ѿца <lb/></w>
+
+<w>или</w>
+<w>мт҃ре</w>
+<w>не</w>
+<w>послоушае<hi rend="sup">т</hi>.</w>
+</rdg>
+
+<rdg wit="#kom">
+<w>аще</w>
+<w>кто</w>
+<w>отца</w>
+<w>не</w>
+<w>слушаеть</w>
+<w>или</w>
+<w>матери</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>аще</w>
+<w>кто</w>
+<w>отца</w>
+<w>не</w>
+<w>послушаетъ</w>
+<w>или</w>
+<w>матери</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>аще</w>
+<w>кто</w>
+<w>отца</w>
+<w>ли</w>
+<w>матере</w>
+<w>не</w>
+<w>послушаеть,</w>
+<w>то</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>“Аще</w>
+<w>къто</w>
+<w>отьца</w>
+<w>ли</w>
+<w>матере</w>
+<w>не</w>
+<w>послушаеть,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>“Аще</w>
+<w>кто</w>
+<w>отца</w>
+<w>ли</w>
+<w>матере</w>
+<w>не</w>
+<w>послушаеть,</w>
+<w>то</w>
+</rdg>
+</app></p></div></body></text></TEI>

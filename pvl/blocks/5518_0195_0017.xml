@@ -1,105 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>195, 17</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="17">
-            <p>
-               <app>
-                  <lem>
-                     <w>ногама,</w>
-                     <w>доньдеже</w>
-                     <w>отъпояху</w>
-                     <w>заутрьню.</w>
-                     <w>И</w>
-                     <w>по</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ногама. <lb/>
-                        </w>
-                        <w>дондеже</w>
-                        <w>ѿпояху</w>
-                        <w>заоутреню. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>по</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ногама.</w>
-                        <w>дондеже</w>
-                        <w>ѿпояхѹ</w>
-                        <w>оутренюю.</w>
-                        <w>и</w>
-                        <w>по</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>но<lb/>гама.</w>
-                        <w>дондеже</w>
-                        <w>ѿпояхѹ</w>
-                        <w>оутренюю.</w>
-                        <w>и</w>
-                        <w>по</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ногами.</w>
-                        <w>дондеже</w>
-                        <w>ѿпояху</w>
-                        <w>за<lb/>оутренюю.</w>
-                        <w>и</w>
-                        <w>по</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ногами,</w>
-                        <w>до<hi rend="sup">н</hi>деже</w>
-                        <w>ѿпоѧхѫ <lb/>
-                        </w>
-                        <w>зау<hi rend="sup">т</hi>реню.</w>
-                        <w>и</w>
-                        <w>по</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>ногама,</w>
-                        <w>дондеже</w>
-                        <w>отпояху</w>
-                        <w>заутреню.</w>
-                        <w>И</w>
-                        <w>по</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>ногама,</w>
-                        <w>доньдеже</w>
-                        <w>отъпояху</w>
-                        <w>заутрьню.</w>
-                        <w>И</w>
-                        <w>по</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>ногама,</w>
-                        <w>дондеже</w>
-                        <w>отпояху</w>
-                        <w>заутреню.</w>
-                        <w>И</w>
-                        <w>по</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>195, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="17"><p>
+<app>
+<lem wit="#lem">
+<w>ногама,</w>
+<w>доньдеже</w>
+<w>отъпояху</w>
+<w>заутрьню.</w>
+<w>И</w>
+<w>по</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ногама. <lb/></w>
+
+<w>дондеже</w>
+<w>ѿпояху</w>
+<w>заоутреню. <lb/></w>
+
+<w>и</w>
+<w>по</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ногама.</w>
+<w>дондеже</w>
+<w>ѿпояхѹ</w>
+<w>оутренюю.</w>
+<w>и</w>
+<w>по</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>но<lb/>гама.</w>
+<w>дондеже</w>
+<w>ѿпояхѹ</w>
+<w>оутренюю.</w>
+<w>и</w>
+<w>по</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ногами.</w>
+<w>дондеже</w>
+<w>ѿпояху</w>
+<w>за<lb/>оутренюю.</w>
+<w>и</w>
+<w>по</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ногами,</w>
+<w>до<hi rend="sup">н</hi>деже</w>
+<w>ѿпоѧхѫ <lb/></w>
+
+<w>зау<hi rend="sup">т</hi>реню.</w>
+<w>и</w>
+<w>по</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>ногама,</w>
+<w>дондеже</w>
+<w>отпояху</w>
+<w>заутреню.</w>
+<w>И</w>
+<w>по</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>ногама,</w>
+<w>доньдеже</w>
+<w>отъпояху</w>
+<w>заутрьню.</w>
+<w>И</w>
+<w>по</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>ногама,</w>
+<w>дондеже</w>
+<w>отпояху</w>
+<w>заутреню.</w>
+<w>И</w>
+<w>по</w>
+</rdg>
+</app></p></div></body></text></TEI>

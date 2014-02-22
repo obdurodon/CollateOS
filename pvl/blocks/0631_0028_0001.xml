@@ -1,124 +1,107 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>28, 1</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="1">
-            <p>
-               <app>
-                  <lem>
-                     <w>языка,</w>
-                     <w>а</w>
-                     <w>Мефодии</w>
-                     <w>оста</w>
-                     <w>въ</w>
-                     <w>Моравѣ.</w>
-                     <w>Посемь</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>языка.</w>
-                        <w>а</w>
-                        <w>ме<lb/>фодии</w>
-                        <w>ѡста</w>
-                        <w>в</w>
-                        <w>моравѣ.</w>
-                        <w>посем</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>языка</w>
-                        <w>а</w>
-                        <w>мефодии</w>
-                        <w>оста</w>
-                        <w>в</w>
-                        <w>моравѣ</w>
-                        <w>посемь</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>языка.</w>
-                        <w>а</w>
-                        <w>мефодеи</w>
-                        <w>ѡста</w>
-                        <w>в</w>
-                        <w>моравѣ.</w>
-                        <w>посе<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>языка. <lb/>
-                        </w>
-                        <w>а</w>
-                        <w>мефодїи</w>
-                        <w>ѡста</w>
-                        <w>въ</w>
-                        <w>моравѣ.</w>
-                        <w>посемъ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>языка.</w>
-                        <w>а</w>
-                        <w>ме<lb/>федии</w>
-                        <w>ѡста</w>
-                        <w>въ</w>
-                        <w>моравѣ. <lb/>
-                        </w>
-                        <w>посемь</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>языка.</w>
-                        <w>а</w>
-                        <w>ме<lb/>федїи</w>
-                        <w>ѡста</w>
-                        <w>в</w>
-                        <w>моравѣ.</w>
-                        <w>посе<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>языка,</w>
-                        <w>а</w>
-                        <w>Мефодий</w>
-                        <w>оста</w>
-                        <w>в</w>
-                        <w>Моравѣ.</w>
-                        <w>Посемь 27,9</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>языка,</w>
-                        <w>а</w>
-                        <w>Мефодии</w>
-                        <w>оста</w>
-                        <w>въ</w>
-                        <w>Моравѣ.</w>
-                        <w>Посемь 27,20</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>языка,</w>
-                        <w>а</w>
-                        <w>Мефодий</w>
-                        <w>оста</w>
-                        <w>в</w>
-                        <w>Моравѣ.</w>
-                        <w>Посем 22,34</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>28, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="1"><p>
+<app>
+<lem wit="#lem">
+<w>языка,</w>
+<w>а</w>
+<w>Мефодии</w>
+<w>оста</w>
+<w>въ</w>
+<w>Моравѣ.</w>
+<w>Посемь</w>
+</lem>
+
+<rdg wit="#lav">
+<w>языка.</w>
+<w>а</w>
+<w>ме<lb/>фодии</w>
+<w>ѡста</w>
+<w>в</w>
+<w>моравѣ.</w>
+<w>посем</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>языка</w>
+<w>а</w>
+<w>мефодии</w>
+<w>оста</w>
+<w>в</w>
+<w>моравѣ</w>
+<w>посемь</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>языка.</w>
+<w>а</w>
+<w>мефодеи</w>
+<w>ѡста</w>
+<w>в</w>
+<w>моравѣ.</w>
+<w>посе<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>языка. <lb/></w>
+
+<w>а</w>
+<w>мефодїи</w>
+<w>ѡста</w>
+<w>въ</w>
+<w>моравѣ.</w>
+<w>посемъ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>языка.</w>
+<w>а</w>
+<w>ме<lb/>федии</w>
+<w>ѡста</w>
+<w>въ</w>
+<w>моравѣ. <lb/></w>
+
+<w>посемь</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>языка.</w>
+<w>а</w>
+<w>ме<lb/>федїи</w>
+<w>ѡста</w>
+<w>в</w>
+<w>моравѣ.</w>
+<w>посе<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>языка,</w>
+<w>а</w>
+<w>Мефодий</w>
+<w>оста</w>
+<w>в</w>
+<w>Моравѣ.</w>
+<w>Посемь</w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>языка,</w>
+<w>а</w>
+<w>Мефодии</w>
+<w>оста</w>
+<w>въ</w>
+<w>Моравѣ.</w>
+<w>Посемь</w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>языка,</w>
+<w>а</w>
+<w>Мефодий</w>
+<w>оста</w>
+<w>в</w>
+<w>Моравѣ.</w>
+<w>Посем</w>
+
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,140 +1,118 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>108, 12</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="12">
-            <p>
-               <app>
-                  <lem>
-                     <w>сѣмо</w>
-                     <w>и</w>
-                     <w>онамо,</w>
-                     <w>акы</w>
-                     <w>бѣшенъ,</w>
-                     <w>и</w>
-                     <w>нѣсть</w>
-                     <w>веселия</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>сѣмо</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>ѡнамо.</w>
-                        <w>яко</w>
-                        <w>бѣшенъ.</w>
-                        <w>и</w>
-                        <w>нѣ<hi rend="sup">с</hi>
-                        </w>
-                        <w>веселья</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>сѣ<lb/>мо</w>
-                        <w>и</w>
-                        <w>анамо.</w>
-                        <w>аки</w>
-                        <w>бѣшенъ.</w>
-                        <w>и</w>
-                        <w>нѣ<hi rend="sup">с</hi>
-                        </w>
-                        <w>вельа</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>сѣмо</w>
-                        <w>и</w>
-                        <w>анамо.</w>
-                        <w>аки</w>
-                        <w>бѣшенъ.</w>
-                        <w>и</w>
-                        <w>нѣ<hi rend="sup">с</hi>
-                        </w>
-                        <w>веселїя</w>
-                        <w>
-                           <pb n="56r"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>сѣмо</w>
-                        <w>и</w>
-                        <w>ѡвамо.</w>
-                        <w>акы <lb/>
-                        </w>
-                        <w>бѣшенъ.</w>
-                        <w>и</w>
-                        <w>нѣ<hi rend="sup">с</hi>
-                        </w>
-                        <w>веселия</w>
-                     </rdg>
-                     <rdg wit="#xle"/>
-                     <rdg wit="#kom">
-                        <w>сѣмо</w>
-                        <w>и</w>
-                        <w>овамо</w>
-                        <w>акы</w>
-                        <w>бѣшенъ</w>
-                        <w>и</w>
-                        <w>нѣс</w>
-                        <w>веселиа</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>сѣмо</w>
-                        <w>и</w>
-                        <w>овамо</w>
-                        <w>акы</w>
-                        <w>бѣшенъ</w>
-                        <w>и</w>
-                        <w>нѣст</w>
-                        <w>веселиа</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>сѣмо</w>
-                        <w>и</w>
-                        <w>онамо,</w>
-                        <w>яко</w>
-                        <w>бѣшенъ,</w>
-                        <w>и</w>
-                        <w>нѣсть</w>
-                        <w>веселья</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>сѣмо</w>
-                        <w>и</w>
-                        <w>онамо,</w>
-                        <w>акы</w>
-                        <w>бѣшенъ,</w>
-                        <w>и</w>
-                        <w>нѣсть</w>
-                        <w>веселия</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>сѣмо</w>
-                        <w>и</w>
-                        <w>онамо,</w>
-                        <w>яко</w>
-                        <w>бѣшенъ,</w>
-                        <w>и</w>
-                        <w>нѣсть</w>
-                        <w>веселья</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>108, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="12"><p>
+<app>
+<lem wit="#lem">
+<w>сѣмо</w>
+<w>и</w>
+<w>онамо,</w>
+<w>акы</w>
+<w>бѣшенъ,</w>
+<w>и</w>
+<w>нѣсть</w>
+<w>веселия</w>
+</lem>
+
+<rdg wit="#lav">
+<w>сѣмо</w>
+<w>и <lb/></w>
+
+<w>ѡнамо.</w>
+<w>яко</w>
+<w>бѣшенъ.</w>
+<w>и</w>
+<w>нѣ<hi rend="sup">с</hi></w>
+<w>веселья</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>сѣ<lb/>мо</w>
+<w>и</w>
+<w>анамо.</w>
+<w>аки</w>
+<w>бѣшенъ.</w>
+<w>и</w>
+<w>нѣ<hi rend="sup">с</hi></w>
+<w>вельа</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>сѣмо</w>
+<w>и</w>
+<w>анамо.</w>
+<w>аки</w>
+<w>бѣшенъ.</w>
+<w>и</w>
+<w>нѣ<hi rend="sup">с</hi></w>
+<w>веселїя <pb n="56r"/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>сѣмо</w>
+<w>и</w>
+<w>ѡвамо.</w>
+<w>акы <lb/></w>
+
+<w>бѣшенъ.</w>
+<w>и</w>
+<w>нѣ<hi rend="sup">с</hi></w>
+<w>веселия</w>
+</rdg>
+
+<rdg wit="#xle">
+</rdg>
+
+<rdg wit="#kom">
+<w>сѣмо</w>
+<w>и</w>
+<w>овамо</w>
+<w>акы</w>
+<w>бѣшенъ</w>
+<w>и</w>
+<w>нѣс</w>
+<w>веселиа</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>сѣмо</w>
+<w>и</w>
+<w>овамо</w>
+<w>акы</w>
+<w>бѣшенъ</w>
+<w>и</w>
+<w>нѣст</w>
+<w>веселиа</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>сѣмо</w>
+<w>и</w>
+<w>онамо,</w>
+<w>яко</w>
+<w>бѣшенъ,</w>
+<w>и</w>
+<w>нѣсть</w>
+<w>веселья</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>сѣмо</w>
+<w>и</w>
+<w>онамо,</w>
+<w>акы</w>
+<w>бѣшенъ,</w>
+<w>и</w>
+<w>нѣсть</w>
+<w>веселия</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>сѣмо</w>
+<w>и</w>
+<w>онамо,</w>
+<w>яко</w>
+<w>бѣшенъ,</w>
+<w>и</w>
+<w>нѣсть</w>
+<w>веселья</w>
+</rdg>
+</app></p></div></body></text></TEI>

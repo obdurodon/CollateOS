@@ -1,126 +1,105 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>35, 10</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="10">
-            <p>
-               <app>
-                  <lem>
-                     <w>триичи.</w>
-                     <w>О</w>
-                     <w>семь.</w>
-                     <w>Аще</w>
-                     <w>къто</w>
-                     <w>отъ</w>
-                     <w>хрьстиянъ</w>
-                     <w>или</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>триичи</w>
-                        <w>ѡ</w>
-                        <w>се<hi rend="sup">м</hi>.</w>
-                        <w>аще</w>
-                        <w>кто</w>
-                        <w>ѿ</w>
-                        <w>хрт<hi rend="sup">с</hi>ьянъ. <lb/>
-                        </w>
-                        <w>или</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>трїичи</w>
-                        <w>ѡ</w>
-                        <w>семъ.</w>
-                        <w>а</w>
-                        <w>кто <lb/>
-                        </w>
-                        <w>ѿ</w>
-                        <w>хрт<hi rend="sup">с</hi>їянъ.</w>
-                        <w>илї</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>трижды</w>
-                        <w>ѡ</w>
-                        <w>сем<hi rend="sup">ь</hi>. <lb/>
-                        </w>
-                        <w>аще</w>
-                        <w>ли</w>
-                        <w>кто</w>
-                        <w>или</w>
-                        <w>русинъ</w>
-                        <w>хрѣ<lb/>стьяну.</w>
-                        <w>или</w>
-                        <w>хр<hi rend="sup">с</hi>тьянъ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>треичи</w>
-                        <w>ѡ</w>
-                        <w>семь</w>
-                        <w>аще</w>
-                        <w>ли</w>
-                        <w>кто</w>
-                        <w>или</w>
-                        <w>роусинь</w>
-                        <w>хр<hi rend="sup">с</hi>тїаниноу.</w>
-                        <w>или</w>
-                        <w>хрт<hi rend="sup">с</hi>їа<hi rend="sup">н</hi>ни <lb/>
-                        </w>
-                        <w>
-                           <pb n="12v"/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>триичи</w>
-                        <w>о</w>
-                        <w>семъ.</w>
-                        <w>Аще</w>
-                        <w>кто</w>
-                        <w>отъ</w>
-                        <w>хрестьянъ</w>
-                        <w>или</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>триичи.</w>
-                        <w>О</w>
-                        <w>семь,</w>
-                        <w>аще</w>
-                        <w>къто</w>
-                        <w>или</w>
-                        <w>Русинъ</w>
-                        <w>хрьстияну</w>
-                        <w>или</w>
-                        <w>хрьстиянъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>триичи.</w>
-                        <w>О</w>
-                        <w>сем,</w>
-                        <w>аще</w>
-                        <w>кто</w>
-                        <w>от</w>
-                        <w>хрестьянъ</w>
-                        <w>или</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>35, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="10"><p>
+<app>
+<lem wit="#lem">
+<w>триичи.</w>
+<w>О</w>
+<w>семь.</w>
+<w>Аще</w>
+<w>къто</w>
+<w>отъ</w>
+<w>хрьстиянъ</w>
+<w>или</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>триичи</w>
+<w>ѡ</w>
+<w>се<hi rend="sup">м</hi>.</w>
+<w>аще</w>
+<w>кто</w>
+<w>ѿ</w>
+<w>хрт<hi rend="sup">с</hi>ьянъ. <lb/></w>
+
+<w>или</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>трїичи</w>
+<w>ѡ</w>
+<w>семъ.</w>
+<w>а</w>
+<w>кто <lb/></w>
+
+<w>ѿ</w>
+<w>хрт<hi rend="sup">с</hi>їянъ.</w>
+<w>илї</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>трижды</w>
+<w>ѡ</w>
+<w>сем<hi rend="sup">ь</hi>. <lb/></w>
+
+<w>аще</w>
+<w>ли</w>
+<w>кто</w>
+<w>или</w>
+<w>русинъ</w>
+<w>хрѣ<lb/>стьяну.</w>
+<w>или</w>
+<w>хр<hi rend="sup">с</hi>тьянъ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>треичи</w>
+<w>ѡ</w>
+<w>семь</w>
+<w>аще</w>
+<w>ли</w>
+<w>кто</w>
+<w>или</w>
+<w>роусинь</w>
+<w>хр<hi rend="sup">с</hi>тїаниноу.</w>
+<w>или</w>
+<w>хрт<hi rend="sup">с</hi>їа<hi rend="sup">н</hi>ни <lb/><pb n="12v"/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>триичи</w>
+<w>о</w>
+<w>семъ.</w>
+<w>Аще</w>
+<w>кто</w>
+<w>отъ</w>
+<w>хрестьянъ</w>
+<w>или</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>триичи.</w>
+<w>О</w>
+<w>семь,</w>
+<w>аще</w>
+<w>къто</w>
+<w>или</w>
+<w>Русинъ</w>
+<w>хрьстияну</w>
+<w>или</w>
+<w>хрьстиянъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>триичи.</w>
+<w>О</w>
+<w>сем,</w>
+<w>аще</w>
+<w>кто</w>
+<w>от</w>
+<w>хрестьянъ</w>
+<w>или</w>
+</rdg>
+</app></p></div></body></text></TEI>

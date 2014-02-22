@@ -1,113 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>4, 14</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="14">
-            <p>
-               <app>
-                  <lem>
-                     <w>Венедици,</w>
-                     <w>Фрягове</w>
-                     <w>и</w>
-                     <w>прочии,</w>
-                     <w>присѣдять</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>веньдици <lb/>
-                        </w>
-                        <w>фрѧгове</w>
-                        <w>и</w>
-                        <w>прочии</w>
-                        <w>доже</w>
-                        <w>присѣдѧть</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>венедици</w>
-                        <w>фрягове</w>
-                        <w>и</w>
-                        <w>прочии</w>
-                        <w>ти</w>
-                        <w>же</w>
-                        <w>присѣдять</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>венедици</w>
-                        <w>фрѧгове</w>
-                        <w>и</w>
-                        <w>прочии</w>
-                        <w>приседѧ<hi rend="sup">т</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>венедици.</w>
-                        <w>фрѧгове.</w>
-                        <w>и</w>
-                        <w>прочїи</w>
-                        <w>приседѧ<lb/>тъ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>венедици.</w>
-                        <w>фрѧ<lb/>говѣ.</w>
-                        <w>и</w>
-                        <w>прочии</w>
-                        <w>присѣдѧть <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>венедици.</w>
-                        <w>фрѧгове.</w>
-                        <w>и</w>
-                        <w>п<sic>роч</sic>ии</w>
-                        <w>присѣдѧ<hi rend="sup">т</hi> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Веньдици,</w>
-                        <w>Фрягове</w>
-                        <w>и</w>
-                        <w>прочии,</w>
-                        <w>ти</w>
-                        <w>же</w>
-                        <w>присѣдять</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Венедици,</w>
-                        <w>Фрягове</w>
-                        <w>и</w>
-                        <w>прочии;</w>
-                        <w>тиже</w>
-                        <w>присѣдять</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>веньдици,</w>
-                        <w>фрягове</w>
-                        <w>и</w>
-                        <w>прочии,</w>
-                        <w>ти</w>
-                        <w>же</w>
-                        <w>присѣдять</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>4, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="14"><p>
+<app>
+<lem wit="#lem">
+<w>Венедици,</w>
+<w>Фрягове</w>
+<w>и</w>
+<w>прочии,</w>
+<w>присѣдять</w>
+</lem>
+
+<rdg wit="#lav">
+<w>веньдици <lb/></w>
+
+<w>фрѧгове</w>
+<w>и</w>
+<w>прочии</w>
+<w>доже</w>
+<w>присѣдѧть</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>венедици</w>
+<w>фрягове</w>
+<w>и</w>
+<w>прочии</w>
+<w>ти</w>
+<w>же</w>
+<w>присѣдять</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>венедици</w>
+<w>фрѧгове</w>
+<w>и</w>
+<w>прочии</w>
+<w>приседѧ<hi rend="sup">т</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>венедици.</w>
+<w>фрѧгове.</w>
+<w>и</w>
+<w>прочїи</w>
+<w>приседѧ<lb/>тъ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>венедици.</w>
+<w>фрѧ<lb/>говѣ.</w>
+<w>и</w>
+<w>прочии</w>
+<w>присѣдѧть <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>венедици.</w>
+<w>фрѧгове.</w>
+<w>и</w>
+<w>п<milestone unit="sic" n="start"/>роч<milestone unit="sic" n="end"/>ии</w>
+<w>присѣдѧ<hi rend="sup">т</hi><lb/></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Веньдици,</w>
+<w>Фрягове</w>
+<w>и</w>
+<w>прочии,</w>
+<w>ти</w>
+<w>же</w>
+<w>присѣдять</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Венедици,</w>
+<w>Фрягове</w>
+<w>и</w>
+<w>прочии;</w>
+<w>тиже</w>
+<w>присѣдять</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>веньдици,</w>
+<w>фрягове</w>
+<w>и</w>
+<w>прочии,</w>
+<w>ти</w>
+<w>же</w>
+<w>присѣдять</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,115 +1,93 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>35, 15</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="15">
-            <p>
-               <app>
-                  <lem>
-                     <w>тамо</w>
-                     <w>иже</w>
-                     <w>отъ</w>
-                     <w>насъ,</w>
-                     <w>Руси,</w>
-                     <w>да</w>
-                     <w>аще</w>
-                     <w>къто</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>тамо</w>
-                        <w>и<hi rend="sup">ж</hi>
-                        </w>
-                        <w>ѿ</w>
-                        <w>на<hi rend="sup">с</hi>
-                        </w>
-                        <w>роу<hi rend="sup">с</hi>.</w>
-                        <w>аще</w>
-                        <w>кто</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>тамо</w>
-                        <w>иже</w>
-                        <w>ѿ</w>
-                        <w>на<hi rend="sup">с</hi>
-                        </w>
-                        <w>рѹсь.</w>
-                        <w>аще</w>
-                        <w>кто</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>тамо</w>
-                        <w>иже</w>
-                        <w>ѿ</w>
-                        <w>на<hi rend="sup">с</hi>
-                        </w>
-                        <w>руси. <lb/>
-                        </w>
-                        <w>да</w>
-                        <w>аще</w>
-                        <w>кто</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>тамо</w>
-                        <w>иже</w>
-                        <w>ѿ</w>
-                        <w>нас <lb/>
-                        </w>
-                        <w>роуси.</w>
-                        <w>да</w>
-                        <w>аще</w>
-                        <w>кто</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>тамо</w>
-                        <w>иже</w>
-                        <w>отъ</w>
-                        <w>насъ</w>
-                        <w>Руси,</w>
-                        <w>да</w>
-                        <w>аще</w>
-                        <w>кто</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>тамо</w>
-                        <w>иже</w>
-                        <w>отъ</w>
-                        <w>насъ,</w>
-                        <w>Руси,</w>
-                        <w>да</w>
-                        <w>аще</w>
-                        <w>стоить,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>тамо</w>
-                        <w>иже</w>
-                        <w>от</w>
-                        <w>нас</w>
-                        <w>Руси,</w>
-                        <w>да</w>
-                        <w>аще</w>
-                        <w>кто</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>35, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="15"><p>
+<app>
+<lem wit="#lem">
+<w>тамо</w>
+<w>иже</w>
+<w>отъ</w>
+<w>насъ,</w>
+<w>Руси,</w>
+<w>да</w>
+<w>аще</w>
+<w>къто</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>тамо</w>
+<w>и<hi rend="sup">ж</hi></w>
+<w>ѿ</w>
+<w>на<hi rend="sup">с</hi></w>
+<w>роу<hi rend="sup">с</hi>.</w>
+<w>аще</w>
+<w>кто</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>тамо</w>
+<w>иже</w>
+<w>ѿ</w>
+<w>на<hi rend="sup">с</hi></w>
+<w>рѹсь.</w>
+<w>аще</w>
+<w>кто</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>тамо</w>
+<w>иже</w>
+<w>ѿ</w>
+<w>на<hi rend="sup">с</hi></w>
+<w>руси. <lb/></w>
+
+<w>да</w>
+<w>аще</w>
+<w>кто</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>тамо</w>
+<w>иже</w>
+<w>ѿ</w>
+<w>нас <lb/></w>
+
+<w>роуси.</w>
+<w>да</w>
+<w>аще</w>
+<w>кто</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>тамо</w>
+<w>иже</w>
+<w>отъ</w>
+<w>насъ</w>
+<w>Руси,</w>
+<w>да</w>
+<w>аще</w>
+<w>кто</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>тамо</w>
+<w>иже</w>
+<w>отъ</w>
+<w>насъ,</w>
+<w>Руси,</w>
+<w>да</w>
+<w>аще</w>
+<w>стоить,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>тамо</w>
+<w>иже</w>
+<w>от</w>
+<w>нас</w>
+<w>Руси,</w>
+<w>да</w>
+<w>аще</w>
+<w>кто</w>
+</rdg>
+</app></p></div></body></text></TEI>

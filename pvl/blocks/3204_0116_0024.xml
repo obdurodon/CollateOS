@@ -1,135 +1,125 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>116, 24</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="24">
-            <p>
-               <app>
-                  <lem>
-                     <w>по</w>
-                     <w>Боричеву</w>
-                     <w>на</w>
-                     <w>Ручаи, 12</w>
-                     <w>мужа</w>
-                     <w>пристави</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>по</w>
-                        <w>боричеву</w>
-                        <w>на</w>
-                        <w>ручаи</w>
-                        <w>.в҃і.</w>
-                        <w>мужа //</w>
-                        <w>прі<lb/>стави</w>
-                        <w>
-                           <pb n="change of&#xA;                hand"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>по</w>
-                        <w>боричевоу.</w>
-                        <w>на</w>
-                        <w>роучаи. <lb/>
-                        </w>
-                        <w>в҃і.</w>
-                        <w>моужа</w>
-                        <w>приста</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>по</w>
-                        <w>боричевѹ.</w>
-                        <w>на</w>
-                        <w>рѹчаи.</w>
-                        <w>дванадесѧть <lb/>
-                        </w>
-                        <w>мѹжа</w>
-                        <w>пристави</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>по</w>
-                        <w>боричеву</w>
-                        <w>на</w>
-                        <w>ру<lb/>чаи.</w>
-                        <w>и</w>
-                        <w>.в҃і.</w>
-                        <w>мужа</w>
-                        <w>пристави <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle"/>
-                     <rdg wit="#kom">
-                        <w>по</w>
-                        <w>бирицеву</w>
-                        <w>на</w>
-                        <w>ручаи</w>
-                        <w>и 12</w>
-                        <w>мужа</w>
-                        <w>пристави</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>по</w>
-                        <w>борицеву</w>
-                        <w>на</w>
-                        <w>ручаи</w>
-                        <w>и 12</w>
-                        <w>мужа</w>
-                        <w>пристави</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>по</w>
-                        <w>борицеву</w>
-                        <w>на</w>
-                        <w>ручаи</w>
-                        <w>и</w>
-                        <w>дванадесять</w>
-                        <w>мужа</w>
-                        <w>пристави</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>по</w>
-                        <w>Боричеву</w>
-                        <w>на</w>
-                        <w>Ручай, 12</w>
-                        <w>мужа</w>
-                        <w>пристави</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>по</w>
-                        <w>Боричеву</w>
-                        <w>на</w>
-                        <w>Ручаи,</w>
-                        <w>и 12</w>
-                        <w>мужа</w>
-                        <w>пристави</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>по</w>
-                        <w>Боричеву</w>
-                        <w>на</w>
-                        <w>Ручай, 12</w>
-                        <w>мужа</w>
-                        <w>пристави</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>116, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="24"><p>
+<app>
+<lem wit="#lem">
+<w>по</w>
+<w>Боричеву</w>
+<w>на</w>
+<w>Ручаи, 12</w>
+
+<w>мужа</w>
+<w>пристави</w>
+</lem>
+
+<rdg wit="#lav">
+<w>по</w>
+<w>боричеву</w>
+<w>на</w>
+<w>ручаи</w>
+<w>.в҃і.</w>
+<w>мужа //</w>
+
+<w>прі<lb/>стави <pb n="change of&#xA;                hand"/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>по</w>
+<w>боричевоу.</w>
+<w>на</w>
+<w>роучаи. <lb/></w>
+
+<w>в҃і.</w>
+<w>моужа</w>
+<w>приста</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>по</w>
+<w>боричевѹ.</w>
+<w>на</w>
+<w>рѹчаи.</w>
+<w>дванадесѧть <lb/></w>
+
+<w>мѹжа</w>
+<w>пристави</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>по</w>
+<w>боричеву</w>
+<w>на</w>
+<w>ру<lb/>чаи.</w>
+<w>и</w>
+<w>.в҃і.</w>
+<w>мужа</w>
+<w>пристави <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+</rdg>
+
+<rdg wit="#kom">
+<w>по</w>
+<w>бирицеву</w>
+<w>на</w>
+<w>ручаи</w>
+<w>и 12</w>
+
+<w>мужа</w>
+<w>пристави</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>по</w>
+<w>борицеву</w>
+<w>на</w>
+<w>ручаи</w>
+<w>и 12</w>
+
+<w>мужа</w>
+<w>пристави</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>по</w>
+<w>борицеву</w>
+<w>на</w>
+<w>ручаи</w>
+<w>и</w>
+<w>дванадесять</w>
+<w>мужа</w>
+<w>пристави</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>по</w>
+<w>Боричеву</w>
+<w>на</w>
+<w>Ручай, 12</w>
+
+<w>мужа</w>
+<w>пристави</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>по</w>
+<w>Боричеву</w>
+<w>на</w>
+<w>Ручаи,</w>
+<w>и 12</w>
+
+<w>мужа</w>
+<w>пристави</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>по</w>
+<w>Боричеву</w>
+<w>на</w>
+<w>Ручай, 12</w>
+
+<w>мужа</w>
+<w>пристави</w>
+</rdg>
+</app></p></div></body></text></TEI>

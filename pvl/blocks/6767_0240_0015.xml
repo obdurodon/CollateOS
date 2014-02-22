@@ -1,120 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>240, 15</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="15">
-            <p>
-               <app>
-                  <lem>
-                     <w>бѣгаи</w>
-                     <w>никаможе,</w>
-                     <w>нъ</w>
-                     <w>пошли</w>
-                     <w>ся</w>
-                     <w>къ</w>
-                     <w>братии</w>
-                     <w>своеи</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>бѣга<lb/>и</w>
-                        <w>никаможе</w>
-                        <w>но</w>
-                        <w>пошлисѧ</w>
-                        <w>к</w>
-                        <w>бра<lb/>тьи</w>
-                        <w>своеи</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>бѣгаи</w>
-                        <w>ниг<hi rend="sup">д</hi>ѣ <lb/>
-                        </w>
-                        <w>же·</w>
-                        <w>но</w>
-                        <w>пошли<hi rend="sup">с</hi>
-                        </w>
-                        <w>ко</w>
-                        <w>братьи</w>
-                        <w>своеи</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>бѣгаи</w>
-                        <w>нигдеже·</w>
-                        <w>но</w>
-                        <w>пошлисѧ</w>
-                        <w>ко</w>
-                        <w>братьи <lb/>
-                        </w>
-                        <w>своеи</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>бѣга<lb/>и</w>
-                        <w>никаможе·</w>
-                        <w>но</w>
-                        <w>послисѧ</w>
-                        <w>ко <lb/>
-                        </w>
-                        <w>братьи</w>
-                        <w>своеи</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>бѣга<hi rend="sup">и</hi> 
-                           <lb/>
-                        </w>
-                        <w>никамо<hi rend="sup">ж</hi>.</w>
-                        <w>но</w>
-                        <w>пошлисѧ</w>
-                        <w>къ</w>
-                        <w>братїи</w>
-                        <w>своеи</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>бѣгай</w>
-                        <w>никаможе,</w>
-                        <w>но</w>
-                        <w>пошлися</w>
-                        <w>к</w>
-                        <w>братьи</w>
-                        <w>своей</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>бѣгаи</w>
-                        <w>никаможе,</w>
-                        <w>нъ</w>
-                        <w>посълися</w>
-                        <w>къ</w>
-                        <w>братии</w>
-                        <w>своеи</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>бѣгай</w>
-                        <w>никамо</w>
-                        <w>же,</w>
-                        <w>но</w>
-                        <w>пошлися</w>
-                        <w>к</w>
-                        <w>братьи</w>
-                        <w>своей</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>240, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="15"><p>
+<app>
+<lem wit="#lem">
+<w>бѣгаи</w>
+<w>никаможе,</w>
+<w>нъ</w>
+<w>пошли</w>
+<w>ся</w>
+<w>къ</w>
+<w>братии</w>
+<w>своеи</w>
+</lem>
+
+<rdg wit="#lav">
+<w>бѣга<lb/>и</w>
+<w>никаможе</w>
+<w>но</w>
+<w>пошлисѧ</w>
+<w>к</w>
+<w>бра<lb/>тьи</w>
+<w>своеи</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>бѣгаи</w>
+<w>ниг<hi rend="sup">д</hi>ѣ <lb/></w>
+
+<w>же·</w>
+<w>но</w>
+<w>пошли<hi rend="sup">с</hi></w>
+<w>ко</w>
+<w>братьи</w>
+<w>своеи</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>бѣгаи</w>
+<w>нигдеже·</w>
+<w>но</w>
+<w>пошлисѧ</w>
+<w>ко</w>
+<w>братьи <lb/></w>
+
+<w>своеи</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>бѣга<lb/>и</w>
+<w>никаможе·</w>
+<w>но</w>
+<w>послисѧ</w>
+<w>ко <lb/></w>
+
+<w>братьи</w>
+<w>своеи</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>бѣга<hi rend="sup">и</hi><lb/></w>
+<w>никамо<hi rend="sup">ж</hi>.</w>
+<w>но</w>
+<w>пошлисѧ</w>
+<w>къ</w>
+<w>братїи</w>
+<w>своеи</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>бѣгай</w>
+<w>никаможе,</w>
+<w>но</w>
+<w>пошлися</w>
+<w>к</w>
+<w>братьи</w>
+<w>своей</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>бѣгаи</w>
+<w>никаможе,</w>
+<w>нъ</w>
+<w>посълися</w>
+<w>къ</w>
+<w>братии</w>
+<w>своеи</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>бѣгай</w>
+<w>никамо</w>
+<w>же,</w>
+<w>но</w>
+<w>пошлися</w>
+<w>к</w>
+<w>братьи</w>
+<w>своей</w>
+</rdg>
+</app></p></div></body></text></TEI>

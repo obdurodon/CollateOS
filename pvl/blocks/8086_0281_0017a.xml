@@ -1,99 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>281, 17a</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="17a">
-            <p>
-               <app>
-                  <lem>
-                     <w>Еупракси,</w>
-                     <w>Вьсеволожа</w>
-                     <w>дъщи,</w>
-                     <w>месяца</w>
-                     <w>декабря</w>
-                     <w>въ 6.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>еоупракси</w>
-                        <w>всеволожа</w>
-                        <w>дщї· <lb/>
-                        </w>
-                        <w>мц<hi rend="sup">с</hi>а·</w>
-                        <w>дека<hi rend="sup">б</hi>·</w>
-                        <w>въ</w>
-                        <w>·ѕ҃·</w>
-                     </rdg>
-                     <rdg wit="#rad"/>
-                     <rdg wit="#aka"/>
-                     <rdg wit="#ipa">
-                        <w>еоупракси·</w>
-                        <w>всеволо<lb/>жа</w>
-                        <w>дщи·</w>
-                        <w>мц<hi rend="sup">с</hi>а·</w>
-                        <w>декабрѧ·</w>
-                        <w>въ</w>
-                        <w>·ѕ҃· <lb/>
-                        </w>
-                        <w>дн҃ь·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>еу·̏пракси,</w>
-                        <w>всеволожа</w>
-                        <w>дъщи,</w>
-                        <w>мц<hi rend="sup">с</hi>а</w>
-                        <w>де<hi rend="sup">к</hi>брѧ</w>
-                        <w>въ</w>
-                        <w>.ѕ҃.</w>
-                        <w>дн҃ь.</w>
-                        <w>
-                           <pb n="121v"/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Еупракси,</w>
-                        <w>Всеволожа</w>
-                        <w>дщі,</w>
-                        <w>месяца</w>
-                        <w>декабря</w>
-                        <w>въ 6.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Еупракси,</w>
-                        <w>Вьсеволожа</w>
-                        <w>дъщи,</w>
-                        <w>месяца</w>
-                        <w>декабря</w>
-                        <w>въ 6</w>
-                        <w>дьнь.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Еупракси,</w>
-                        <w>Всеволожа</w>
-                        <w>дщи,</w>
-                        <w>месяца</w>
-                        <w>декабря</w>
-                        <w>въ 6.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>281, 17a</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="17a"><p>
+<app>
+<lem wit="#lem">
+<w>Еупракси,</w>
+<w>Вьсеволожа</w>
+<w>дъщи,</w>
+<w>месяца</w>
+<w>декабря</w>
+<w>въ 6.</w>
+
+</lem>
+
+<rdg wit="#lav">
+<w>еоупракси</w>
+<w>всеволожа</w>
+<w>дщї· <lb/></w>
+
+<w>мц<hi rend="sup">с</hi>а·</w>
+<w>дека<hi rend="sup">б</hi>·</w>
+<w>въ</w>
+<w>·ѕ҃·</w>
+</rdg>
+
+<rdg wit="#rad">
+</rdg>
+
+<rdg wit="#aka">
+</rdg>
+
+<rdg wit="#ipa">
+<w>еоупракси·</w>
+<w>всеволо<lb/>жа</w>
+<w>дщи·</w>
+<w>мц<hi rend="sup">с</hi>а·</w>
+<w>декабрѧ·</w>
+<w>въ</w>
+<w>·ѕ҃· <lb/></w>
+
+<w>дн҃ь·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>еу·̏пракси,</w>
+<w>всеволожа</w>
+<w>дъщи,</w>
+<w>мц<hi rend="sup">с</hi>а</w>
+<w>де<hi rend="sup">к</hi>брѧ</w>
+<w>въ</w>
+<w>.ѕ҃.</w>
+<w>дн҃ь. <pb n="121v"/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>Еупракси,</w>
+<w>Всеволожа</w>
+<w>дщі,</w>
+<w>месяца</w>
+<w>декабря</w>
+<w>въ 6.</w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>Еупракси,</w>
+<w>Вьсеволожа</w>
+<w>дъщи,</w>
+<w>месяца</w>
+<w>декабря</w>
+<w>въ 6</w>
+
+<w>дьнь.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Еупракси,</w>
+<w>Всеволожа</w>
+<w>дщи,</w>
+<w>месяца</w>
+<w>декабря</w>
+<w>въ 6.</w>
+
+</rdg>
+</app></p></div></body></text></TEI>

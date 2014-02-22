@@ -1,122 +1,102 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>88, 23</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="23">
-            <p>
-               <app>
-                  <lem>
-                     <w>пътицамъ</w>
-                     <w>и</w>
-                     <w>звѣрьмъ</w>
-                     <w>и</w>
-                     <w>гадомъ,</w>
-                     <w>и</w>
-                     <w>самѣма</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>имѧна.</w>
-                        <w>звѣремъ <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>гадомъ.</w>
-                        <w>и</w>
-                        <w>самѣма</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>птица<hi rend="sup">м</hi>. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>звѣре<hi rend="sup">м</hi>.</w>
-                        <w>и</w>
-                        <w>гадо<hi rend="sup">м</hi>.</w>
-                        <w>и</w>
-                        <w>самѣма</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>птї<lb/>цамь.</w>
-                        <w>и</w>
-                        <w>звѣремъ.</w>
-                        <w>и</w>
-                        <w>гадомъ.</w>
-                        <w>и</w>
-                        <w>самѣма</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>птица<hi rend="sup">м</hi>. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>звѣре<hi rend="sup">м</hi>.</w>
-                        <w>и</w>
-                        <w>гадомъ.</w>
-                        <w>и</w>
-                        <w>самѣ<lb/>мѣма</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>птица<hi rend="sup">м</hi>
-                        </w>
-                        <w>и</w>
-                        <w>ѕвѣре<hi rend="sup">м</hi>
-                        </w>
-                        <w>и</w>
-                        <w>гадо<hi rend="sup">м</hi>.</w>
-                        <w>и</w>
-                        <w>самѣма</w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>звѣремъ</w>
-                        <w>и</w>
-                        <w>птицамъ</w>
-                        <w>и</w>
-                        <w>гадомъ</w>
-                        <w>а</w>
-                        <w>самѣма</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>имяна,</w>
-                        <w>звѣремъ</w>
-                        <w>и</w>
-                        <w>гадомъ,</w>
-                        <w>и</w>
-                        <w>самѣма</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>пътицамъ</w>
-                        <w>и</w>
-                        <w>звѣрьмъ</w>
-                        <w>и</w>
-                        <w>гадомъ,</w>
-                        <w>и</w>
-                        <w>самѣма</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>имяна,</w>
-                        <w>звѣремъ</w>
-                        <w>и</w>
-                        <w>гадомъ,</w>
-                        <w>и</w>
-                        <w>самѣма</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>88, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="23"><p>
+<app>
+<lem wit="#lem">
+<w>пътицамъ</w>
+<w>и</w>
+<w>звѣрьмъ</w>
+<w>и</w>
+<w>гадомъ,</w>
+<w>и</w>
+<w>самѣма</w>
+</lem>
+
+<rdg wit="#lav">
+<w>имѧна.</w>
+<w>звѣремъ <lb/></w>
+
+<w>и</w>
+<w>гадомъ.</w>
+<w>и</w>
+<w>самѣма</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>птица<hi rend="sup">м</hi>. <lb/></w>
+
+<w>и</w>
+<w>звѣре<hi rend="sup">м</hi>.</w>
+<w>и</w>
+<w>гадо<hi rend="sup">м</hi>.</w>
+<w>и</w>
+<w>самѣма</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>птї<lb/>цамь.</w>
+<w>и</w>
+<w>звѣремъ.</w>
+<w>и</w>
+<w>гадомъ.</w>
+<w>и</w>
+<w>самѣма</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>птица<hi rend="sup">м</hi>. <lb/></w>
+
+<w>и</w>
+<w>звѣре<hi rend="sup">м</hi>.</w>
+<w>и</w>
+<w>гадомъ.</w>
+<w>и</w>
+<w>самѣ<lb/>мѣма</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>птица<hi rend="sup">м</hi></w>
+<w>и</w>
+<w>ѕвѣре<hi rend="sup">м</hi></w>
+<w>и</w>
+<w>гадо<hi rend="sup">м</hi>.</w>
+<w>и</w>
+<w>самѣма</w>
+</rdg>
+
+<rdg wit="#kom">
+<w>звѣремъ</w>
+<w>и</w>
+<w>птицамъ</w>
+<w>и</w>
+<w>гадомъ</w>
+<w>а</w>
+<w>самѣма</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>имяна,</w>
+<w>звѣремъ</w>
+<w>и</w>
+<w>гадомъ,</w>
+<w>и</w>
+<w>самѣма</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>пътицамъ</w>
+<w>и</w>
+<w>звѣрьмъ</w>
+<w>и</w>
+<w>гадомъ,</w>
+<w>и</w>
+<w>самѣма</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>имяна,</w>
+<w>звѣремъ</w>
+<w>и</w>
+<w>гадомъ,</w>
+<w>и</w>
+<w>самѣма</w>
+</rdg>
+</app></p></div></body></text></TEI>

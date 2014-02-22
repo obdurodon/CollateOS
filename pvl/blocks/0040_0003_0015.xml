@@ -1,117 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>3, 15</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="15">
-            <p>
-               <app>
-                  <lem>
-                     <w>межи</w>
-                     <w>Миды</w>
-                     <w>и</w>
-                     <w>Вавилонъмь;</w>
-                     <w>до</w>
-                     <w>Поньтьского</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>
-                           <sic>ме</sic> 
-                           <lb/>
-                        </w>
-                        <w>миды</w>
-                        <w>
-                           <sic>и вавилономь до
-                    по</sic>нетьск<sic>ого</sic>
-                        </w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>межю</w>
-                        <w>индиею</w>
-                        <w>и</w>
-                        <w>вавилономъ</w>
-                        <w>и</w>
-                        <w>до</w>
-                        <w>понтиискаго</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>межы</w>
-                        <w>миды</w>
-                        <w>и</w>
-                        <w>вавилон<hi rend="sup">м</hi>о</w>
-                        <w>до</w>
-                        <w>понтьска<hi rend="sup">г</hi> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>межи</w>
-                        <w>меды</w>
-                        <w>и</w>
-                        <w>вавилономъ.</w>
-                        <w>до</w>
-                        <w>понтьскаго</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>межи</w>
-                        <w>миды</w>
-                        <w>и</w>
-                        <w>ваві<lb/>лономъ.</w>
-                        <w>до</w>
-                        <w>понетьского <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>межи</w>
-                        <w>миды,</w>
-                        <w>и</w>
-                        <w>вавѵлон<hi rend="sup">м</hi>ѡ.</w>
-                        <w>до</w>
-                        <w>по<hi rend="sup">н</hi>теи<lb/>скаго</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>межю</w>
-                        <w>Миды</w>
-                        <w>и</w>
-                        <w>Вавилономь;</w>
-                        <w>до</w>
-                        <w>Понетьского</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>межю</w>
-                        <w>Миды</w>
-                        <w>и</w>
-                        <w>Вавилонъмь;</w>
-                        <w>до</w>
-                        <w>Понтьскаго</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>межю</w>
-                        <w>Миды</w>
-                        <w>и</w>
-                        <w>Вавилономь;</w>
-                        <w>до</w>
-                        <w>Понетьского</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>3, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="15"><p>
+<app>
+<lem wit="#lem">
+<w>межи</w>
+<w>Миды</w>
+<w>и</w>
+<w>Вавилонъмь;</w>
+<w>до</w>
+<w>Поньтьского</w>
+</lem>
+
+<rdg wit="#lav">
+<w><milestone unit="sic" n="start"/>ме<milestone unit="sic" n="end"/><lb/>жю</w>
+<w>миды</w>
+<w><milestone unit="sic" n="start"/>и</w>
+<w>вавилономь</w>
+<w>до</w>
+<w>по<milestone unit="sic" n="end"/>нетьск<milestone unit="sic" n="start"/>ого<milestone unit="sic" n="end"/></w>
+</rdg>
+
+<rdg wit="#tro">
+<w>межю</w>
+<w>индиею</w>
+<w>и</w>
+<w>вавилономъ</w>
+<w>и</w>
+<w>до</w>
+<w>понтиискаго</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>межы</w>
+<w>миды</w>
+<w>и</w>
+<w>вавилон<hi rend="sup">м</hi>о</w>
+<w>до</w>
+<w>понтьска<hi rend="sup">г</hi><lb/></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>межи</w>
+<w>меды</w>
+<w>и</w>
+<w>вавилономъ.</w>
+<w>до</w>
+<w>понтьскаго</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>межи</w>
+<w>миды</w>
+<w>и</w>
+<w>ваві<lb/>лономъ.</w>
+<w>до</w>
+<w>понетьского <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>межи</w>
+<w>миды,</w>
+<w>и</w>
+<w>вавѵлон<hi rend="sup">м</hi>ѡ.</w>
+<w>до</w>
+<w>по<hi rend="sup">н</hi>теи<lb/>скаго</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>межю</w>
+<w>Миды</w>
+<w>и</w>
+<w>Вавилономь;</w>
+<w>до</w>
+<w>Понетьского</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>межю</w>
+<w>Миды</w>
+<w>и</w>
+<w>Вавилонъмь;</w>
+<w>до</w>
+<w>Понтьскаго</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>межю</w>
+<w>Миды</w>
+<w>и</w>
+<w>Вавилономь;</w>
+<w>до</w>
+<w>Понетьского</w>
+</rdg>
+</app></p></div></body></text></TEI>

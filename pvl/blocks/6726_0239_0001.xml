@@ -1,113 +1,95 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>239, 1</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="1">
-            <p>
-               <app>
-                  <lem>
-                     <w>недѣля</w>
-                     <w>поста,</w>
-                     <w>и</w>
-                     <w>приспѣ</w>
-                     <w>Феодорова</w>
-                     <w>субота,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>не<hi rend="sup">д</hi>лѧ</w>
-                        <w>поста· <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>приспѣ</w>
-                        <w>ѳеѡдорава</w>
-                        <w>су<hi rend="sup">б</hi>та· <lb/>
-                        </w>
-                        <w>а</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>не<hi rend="sup">д</hi>лѧ·</w>
-                        <w>ст҃го</w>
-                        <w>по<hi rend="sup">с</hi>.</w>
-                        <w>и</w>
-                        <w>приспѣ</w>
-                        <w>фе<hi rend="sup">д</hi>рова</w>
-                        <w>сѹбота <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>недѣлѧ·</w>
-                        <w>ст҃о</w>
-                        <w>поста·</w>
-                        <w>и</w>
-                        <w>приспѣ</w>
-                        <w>феѡдоро<lb/>ва</w>
-                        <w>сѹбота·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>недѣлѧ</w>
-                        <w>
-                           <add place="margin">·а҃·</add>
-                        </w>
-                        <w>поста·</w>
-                        <w>и</w>
-                        <w>приспѣ</w>
-                        <w>федо<lb/>рова</w>
-                        <w>субота·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>не<hi rend="sup">д</hi>лѧ</w>
-                        <w>поста.</w>
-                        <w>и</w>
-                        <w>приспѣ</w>
-                        <w>ѳе<hi rend="sup">д</hi>ѡ<hi rend="sup">о</hi>рова</w>
-                        <w>сѫбота.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>недѣля</w>
-                        <w>поста,</w>
-                        <w>и</w>
-                        <w>приспѣ</w>
-                        <w>Феодорава</w>
-                        <w>субота,</w>
-                        <w>а 230,21</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>недѣля</w>
-                        <w>поста,</w>
-                        <w>и</w>
-                        <w>приспѣ</w>
-                        <w>Феодорова</w>
-                        <w>субота; 298,1</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>недѣля</w>
-                        <w>поста,</w>
-                        <w>и</w>
-                        <w>приспѣ</w>
-                        <w>Феодорава</w>
-                        <w>субота,</w>
-                        <w>а 169,26</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>239, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="1"><p>
+<app>
+<lem wit="#lem">
+<w>недѣля</w>
+<w>поста,</w>
+<w>и</w>
+<w>приспѣ</w>
+<w>Феодорова</w>
+<w>субота,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>не<hi rend="sup">д</hi>лѧ</w>
+<w>поста· <lb/></w>
+
+<w>и</w>
+<w>приспѣ</w>
+<w>ѳеѡдорава</w>
+<w>су<hi rend="sup">б</hi>та· <lb/></w>
+
+<w>а</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>не<hi rend="sup">д</hi>лѧ·</w>
+<w>ст҃го</w>
+<w>по<hi rend="sup">с</hi>.</w>
+<w>и</w>
+<w>приспѣ</w>
+<w>фе<hi rend="sup">д</hi>рова</w>
+<w>сѹбота <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>недѣлѧ·</w>
+<w>ст҃о</w>
+<w>поста·</w>
+<w>и</w>
+<w>приспѣ</w>
+<w>феѡдоро<lb/>ва</w>
+<w>сѹбота·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>недѣлѧ</w>
+<w><milestone unit="add" n="start" place="margin"/>·а҃·<milestone unit="add" n="end"/></w>
+<w>поста·</w>
+<w>и</w>
+<w>приспѣ</w>
+<w>федо<lb/>рова</w>
+<w>субота·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>не<hi rend="sup">д</hi>лѧ</w>
+<w>поста.</w>
+<w>и</w>
+<w>приспѣ</w>
+<w>ѳе<hi rend="sup">д</hi>ѡ<hi rend="sup">о</hi>рова</w>
+<w>сѫбота.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>недѣля</w>
+<w>поста,</w>
+<w>и</w>
+<w>приспѣ</w>
+<w>Феодорава</w>
+<w>субота,</w>
+<w>а</w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>недѣля</w>
+<w>поста,</w>
+<w>и</w>
+<w>приспѣ</w>
+<w>Феодорова</w>
+<w>субота;</w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>недѣля</w>
+<w>поста,</w>
+<w>и</w>
+<w>приспѣ</w>
+<w>Феодорава</w>
+<w>субота,</w>
+<w>а</w>
+
+</rdg>
+</app></p></div></body></text></TEI>

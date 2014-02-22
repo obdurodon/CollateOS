@@ -1,136 +1,116 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>24, 14</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="14">
-            <p>
-               <app>
-                  <lem>
-                     <w>рька:</w>
-                     <w>“Кому</w>
-                     <w>дань</w>
-                     <w>даете?”</w>
-                     <w>Они</w>
-                     <w>же</w>
-                     <w>рѣша:</w>
-                     <w>“Козаромъ”.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>рька</w>
-                        <w>камо</w>
-                        <w>дань</w>
-                        <w>даете. <lb/>
-                        </w>
-                        <w>
-                           <sic>ѡ</sic>ни</w>
-                        <w>же</w>
-                        <w>рѣша</w>
-                        <w>козаромъ.</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>река</w>
-                        <w>кому</w>
-                        <w>дань</w>
-                        <w>даете</w>
-                        <w>они</w>
-                        <w>же</w>
-                        <w>рѣша</w>
-                        <w>козаромъ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>река</w>
-                        <w>комоу</w>
-                        <w>дань <lb/>
-                        </w>
-                        <w>даеть.</w>
-                        <w>ѡни</w>
-                        <w>же</w>
-                        <w>рѣша</w>
-                        <w>козаромъ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>река</w>
-                        <w>комѹ</w>
-                        <w>дань</w>
-                        <w>да<lb/>ете.</w>
-                        <w>ѡни</w>
-                        <w>же</w>
-                        <w>рѣша</w>
-                        <w>козаромъ.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ркѧ. <lb/>
-                        </w>
-                        <w>кому</w>
-                        <w>дань</w>
-                        <w>даете.</w>
-                        <w>ѡни <lb/>
-                        </w>
-                        <w>же</w>
-                        <w>рѣша</w>
-                        <w>козаро<hi rend="sup">м</hi>.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>река.</w>
-                        <w>комоу <lb/>
-                        </w>
-                        <w>дань</w>
-                        <w>даете.</w>
-                        <w>ѡни</w>
-                        <w>же</w>
-                        <w>рѣша</w>
-                        <w>козарѡ<hi rend="sup">м</hi>.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>рька:</w>
-                        <w>“кому</w>
-                        <w>дань</w>
-                        <w>даете?”</w>
-                        <w>Они</w>
-                        <w>же</w>
-                        <w>рѣша:</w>
-                        <w>“Козаромъ”.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>река:</w>
-                        <w>“кому</w>
-                        <w>дань</w>
-                        <w>даете?”</w>
-                        <w>Они</w>
-                        <w>же</w>
-                        <w>рѣша:</w>
-                        <w>“Козаромъ”.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>рька:</w>
-                        <w>“Кому</w>
-                        <w>дань</w>
-                        <w>даете?”.</w>
-                        <w>Они</w>
-                        <w>же</w>
-                        <w>рѣша:</w>
-                        <w>“Козаромъ”.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>24, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="14"><p>
+<app>
+<lem wit="#lem">
+<w>рька:</w>
+<w>“Кому</w>
+<w>дань</w>
+<w>даете?”</w>
+<w>Они</w>
+<w>же</w>
+<w>рѣша:</w>
+<w>“Козаромъ”.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>рька</w>
+<w>камо</w>
+<w>дань</w>
+<w>даете. <lb/><milestone unit="sic" n="start"/>ѡ<milestone unit="sic" n="end"/>ни</w>
+
+<w>же</w>
+<w>рѣша</w>
+<w>козаромъ.</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>река</w>
+<w>кому</w>
+<w>дань</w>
+<w>даете</w>
+<w>они</w>
+<w>же</w>
+<w>рѣша</w>
+<w>козаромъ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>река</w>
+<w>комоу</w>
+<w>дань <lb/></w>
+
+<w>даеть.</w>
+<w>ѡни</w>
+<w>же</w>
+<w>рѣша</w>
+<w>козаромъ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>река</w>
+<w>комѹ</w>
+<w>дань</w>
+<w>да<lb/>ете.</w>
+<w>ѡни</w>
+<w>же</w>
+<w>рѣша</w>
+<w>козаромъ.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ркѧ. <lb/></w>
+
+<w>кому</w>
+<w>дань</w>
+<w>даете.</w>
+<w>ѡни <lb/></w>
+
+<w>же</w>
+<w>рѣша</w>
+<w>козаро<hi rend="sup">м</hi>.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>река.</w>
+<w>комоу <lb/></w>
+
+<w>дань</w>
+<w>даете.</w>
+<w>ѡни</w>
+<w>же</w>
+<w>рѣша</w>
+<w>козарѡ<hi rend="sup">м</hi>.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>рька:</w>
+<w>“кому</w>
+<w>дань</w>
+<w>даете?”</w>
+<w>Они</w>
+<w>же</w>
+<w>рѣша:</w>
+<w>“Козаромъ”.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>река:</w>
+<w>“кому</w>
+<w>дань</w>
+<w>даете?”</w>
+<w>Они</w>
+<w>же</w>
+<w>рѣша:</w>
+<w>“Козаромъ”.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>рька:</w>
+<w>“Кому</w>
+<w>дань</w>
+<w>даете?”.</w>
+<w>Они</w>
+<w>же</w>
+<w>рѣша:</w>
+<w>“Козаромъ”.</w>
+</rdg>
+</app></p></div></body></text></TEI>

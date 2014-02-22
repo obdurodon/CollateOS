@@ -1,98 +1,79 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>271, 12</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="12">
-            <p>
-               <app>
-                  <lem>
-                     <w>и</w>
-                     <w>стрѣливъше</w>
-                     <w>побѣгнуша</w>
-                     <w>предъ</w>
-                     <w>Угъры,</w>
-                     <w>Угъри</w>
-                     <w>же</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>и</w>
-                        <w>стрѣливше</w>
-                        <w>побѣгну<lb/>ша</w>
-                        <w>предъ</w>
-                        <w>ѹгры·</w>
-                        <w>оугри</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#rad"/>
-                     <rdg wit="#aka"/>
-                     <rdg wit="#ipa">
-                        <w>ї</w>
-                        <w>стр<sic>ѣ</sic> 
-                           <lb/>
-                        </w>
-                        <w>побѣгну</w>
-                        <w>передъ</w>
-                        <w>оугры· <lb/>
-                        </w>
-                        <w>оугре</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>и</w>
-                        <w>стрѣли<lb/>в′ше</w>
-                        <w>побѣгноуша</w>
-                        <w>пр<hi rend="sup">д</hi>е</w>
-                        <w>оугры.</w>
-                        <w>оугры</w>
-                        <w>же</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>и</w>
-                        <w>стрѣливше</w>
-                        <w>побѣгнуша</w>
-                        <w>предъ</w>
-                        <w>Угры,</w>
-                        <w>Угри</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>и</w>
-                        <w>стрѣливъше,</w>
-                        <w>побѣгнуша</w>
-                        <w>предъ</w>
-                        <w>Угъры;</w>
-                        <w>Угъри</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>и</w>
-                        <w>стрѣливше</w>
-                        <w>побѣгнуша</w>
-                        <w>предъ</w>
-                        <w>угры,</w>
-                        <w>угри</w>
-                        <w>же</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="12"><p>
+<app>
+<lem wit="#lem">
+<w>и</w>
+<w>стрѣливъше</w>
+<w>побѣгнуша</w>
+<w>предъ</w>
+<w>Угъры,</w>
+<w>Угъри</w>
+<w>же</w>
+</lem>
+
+<rdg wit="#lav">
+<w>и</w>
+<w>стрѣливше</w>
+<w>побѣгну<lb/>ша</w>
+<w>предъ</w>
+<w>ѹгры·</w>
+<w>оугри</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#rad">
+</rdg>
+
+<rdg wit="#aka">
+</rdg>
+
+<rdg wit="#ipa">
+<w>ї</w>
+<w>стр<milestone unit="sic" n="start"/>ѣ<milestone unit="sic" n="end"/><lb/>ливше·</w>
+<w>побѣгну</w>
+<w>передъ</w>
+<w>оугры· <lb/></w>
+
+<w>оугре</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>и</w>
+<w>стрѣли<lb/>в′ше</w>
+<w>побѣгноуша</w>
+<w>пр<hi rend="sup">д</hi>е</w>
+<w>оугры.</w>
+<w>оугры</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>и</w>
+<w>стрѣливше</w>
+<w>побѣгнуша</w>
+<w>предъ</w>
+<w>Угры,</w>
+<w>Угри</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>и</w>
+<w>стрѣливъше,</w>
+<w>побѣгнуша</w>
+<w>предъ</w>
+<w>Угъры;</w>
+<w>Угъри</w>
+<w>же</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>и</w>
+<w>стрѣливше</w>
+<w>побѣгнуша</w>
+<w>предъ</w>
+<w>угры,</w>
+<w>угри</w>
+<w>же</w>
+</rdg>
+</app></p></div></body></text></TEI>

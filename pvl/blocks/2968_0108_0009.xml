@@ -1,128 +1,108 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>108, 9</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="9">
-            <p>
-               <app>
-                  <lem>
-                     <w>яко</w>
-                     <w>“Ходихомъ</w>
-                     <w>въ</w>
-                     <w>Българы,</w>
-                     <w>и</w>
-                     <w>съмотрихомъ,</w>
-                     <w>како</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>яко</w>
-                        <w>ходихом<sic/>
-                        </w>
-                        <w>болгары.</w>
-                        <w>смотрихомъ <lb/>
-                        </w>
-                        <w>како</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>яко</w>
-                        <w>ходихомъ</w>
-                        <w>в</w>
-                        <w>болгары.</w>
-                        <w>и</w>
-                        <w>смотрихо<hi rend="sup">м</hi> 
-                           <lb/>
-                        </w>
-                        <w>како<hi rend="sup">с</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>яко</w>
-                        <w>ходихомъ</w>
-                        <w>в</w>
-                        <w>болгары. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>смотрихомъ</w>
-                        <w>како</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>яко</w>
-                        <w>ходихомъ</w>
-                        <w>первое <lb/>
-                        </w>
-                        <w>в</w>
-                        <w>боргары</w>
-                        <w>и</w>
-                        <w>смотрихомъ.</w>
-                        <w>како <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle"/>
-                     <rdg wit="#kom">
-                        <w>яко</w>
-                        <w>приходихом</w>
-                        <w>пръвѣе</w>
-                        <w>к</w>
-                        <w>болгаромъ</w>
-                        <w>и</w>
-                        <w>смотрихомъ</w>
-                        <w>како</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>яко</w>
-                        <w>приходихомъ</w>
-                        <w>первое</w>
-                        <w>к</w>
-                        <w>болгаром</w>
-                        <w>смотрихом</w>
-                        <w>како</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>“яко</w>
-                        <w>ходихомъ</w>
-                        <w>въ</w>
-                        <w>Болгары,</w>
-                        <w>смотрихомъ,</w>
-                        <w>како</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>яко</w>
-                        <w>“ходихомъ</w>
-                        <w>пьрвое</w>
-                        <w>въ</w>
-                        <w>Българы,</w>
-                        <w>и</w>
-                        <w>съмотрихомъ,</w>
-                        <w>како</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>яко</w>
-                        <w>“Ходихом</w>
-                        <w>въ</w>
-                        <w>болгары,</w>
-                        <w>смотрихомъ,</w>
-                        <w>како</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>108, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="9"><p>
+<app>
+<lem wit="#lem">
+<w>яко</w>
+<w>“Ходихомъ</w>
+<w>въ</w>
+<w>Българы,</w>
+<w>и</w>
+<w>съмотрихомъ,</w>
+<w>како</w>
+</lem>
+
+<rdg wit="#lav">
+<w>яко</w>
+<w>ходихом<milestone unit="sic" n="start"/><milestone unit="sic" n="end"/></w>
+<w>болгары.</w>
+<w>смотрихомъ <lb/></w>
+
+<w>како</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>яко</w>
+<w>ходихомъ</w>
+<w>в</w>
+<w>болгары.</w>
+<w>и</w>
+<w>смотрихо<hi rend="sup">м</hi><lb/></w>
+<w>како<hi rend="sup">с</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>яко</w>
+<w>ходихомъ</w>
+<w>в</w>
+<w>болгары. <lb/></w>
+
+<w>и</w>
+<w>смотрихомъ</w>
+<w>како</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>яко</w>
+<w>ходихомъ</w>
+<w>первое <lb/></w>
+
+<w>в</w>
+<w>боргары</w>
+<w>и</w>
+<w>смотрихомъ.</w>
+<w>како <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+</rdg>
+
+<rdg wit="#kom">
+<w>яко</w>
+<w>приходихом</w>
+<w>пръвѣе</w>
+<w>к</w>
+<w>болгаромъ</w>
+<w>и</w>
+<w>смотрихомъ</w>
+<w>како</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>яко</w>
+<w>приходихомъ</w>
+<w>первое</w>
+<w>к</w>
+<w>болгаром</w>
+<w>смотрихом</w>
+<w>како</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>“яко</w>
+<w>ходихомъ</w>
+<w>въ</w>
+<w>Болгары,</w>
+<w>смотрихомъ,</w>
+<w>како</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>яко</w>
+<w>“ходихомъ</w>
+<w>пьрвое</w>
+<w>въ</w>
+<w>Българы,</w>
+<w>и</w>
+<w>съмотрихомъ,</w>
+<w>како</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>яко</w>
+<w>“Ходихом</w>
+<w>въ</w>
+<w>болгары,</w>
+<w>смотрихомъ,</w>
+<w>како</w>
+</rdg>
+</app></p></div></body></text></TEI>

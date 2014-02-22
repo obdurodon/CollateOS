@@ -1,109 +1,91 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>167, 27</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="27">
-            <p>
-               <app>
-                  <lem>
-                     <w>въздвизая</w>
-                     <w>съвары,</w>
-                     <w>зависти,</w>
-                     <w>братоненавидѣния,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>по<lb/>двизая</w>
-                        <w>свары.</w>
-                        <w>и</w>
-                        <w>зависти.</w>
-                        <w>бра<lb/>тоненавидѣнье.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>въздвизая</w>
-                        <w>свары</w>
-                        <w>зависти.</w>
-                        <w>братоненавидѣния.</w>
-                        <w>
-                           <pb n="98r"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>възв<hi rend="sup">д</hi>изаѧ</w>
-                        <w>свары</w>
-                        <w>и</w>
-                        <w>зави<lb/>сти.</w>
-                        <w>братоненавидѣнїѧ.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>вьздви<lb/>зая</w>
-                        <w>свары.</w>
-                        <w>зависти</w>
-                        <w>братоненавидѣния</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>въз<hi rend="sup">д</hi>визаа</w>
-                        <w>свары.</w>
-                        <w>зависти.</w>
-                        <w>братонена<lb/>виденїа.</w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>въздвизая</w>
-                        <w>свары</w>
-                        <w>зависти</w>
-                        <w>братоненавидѣния</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>въздвизаа</w>
-                        <w>свары</w>
-                        <w>зависти</w>
-                        <w>братоненавидѣниа</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>вздвизая</w>
-                        <w>брани</w>
-                        <w>зависти</w>
-                        <w>братоненавидѣниа</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>подвизая</w>
-                        <w>свары</w>
-                        <w>и</w>
-                        <w>зависти,</w>
-                        <w>братоненавидѣнье,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>въздвизая</w>
-                        <w>съвары,</w>
-                        <w>зависти,</w>
-                        <w>братоненавидѣния,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>подвизая</w>
-                        <w>свары</w>
-                        <w>и</w>
-                        <w>зависти,</w>
-                        <w>братоненавидѣнье,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>167, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="27"><p>
+<app>
+<lem wit="#lem">
+<w>въздвизая</w>
+<w>съвары,</w>
+<w>зависти,</w>
+<w>братоненавидѣния,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>по<lb/>двизая</w>
+<w>свары.</w>
+<w>и</w>
+<w>зависти.</w>
+<w>бра<lb/>тоненавидѣнье.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>въздвизая</w>
+<w>свары</w>
+<w>зависти.</w>
+<w>братоненавидѣния. <pb n="98r"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>възв<hi rend="sup">д</hi>изаѧ</w>
+<w>свары</w>
+<w>и</w>
+<w>зави<lb/>сти.</w>
+<w>братоненавидѣнїѧ.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>вьздви<lb/>зая</w>
+<w>свары.</w>
+<w>зависти</w>
+<w>братоненавидѣния</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>въз<hi rend="sup">д</hi>визаа</w>
+<w>свары.</w>
+<w>зависти.</w>
+<w>братонена<lb/>виденїа.</w>
+</rdg>
+
+<rdg wit="#kom">
+<w>въздвизая</w>
+<w>свары</w>
+<w>зависти</w>
+<w>братоненавидѣния</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>въздвизаа</w>
+<w>свары</w>
+<w>зависти</w>
+<w>братоненавидѣниа</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>вздвизая</w>
+<w>брани</w>
+<w>зависти</w>
+<w>братоненавидѣниа</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>подвизая</w>
+<w>свары</w>
+<w>и</w>
+<w>зависти,</w>
+<w>братоненавидѣнье,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>въздвизая</w>
+<w>съвары,</w>
+<w>зависти,</w>
+<w>братоненавидѣния,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>подвизая</w>
+<w>свары</w>
+<w>и</w>
+<w>зависти,</w>
+<w>братоненавидѣнье,</w>
+</rdg>
+</app></p></div></body></text></TEI>

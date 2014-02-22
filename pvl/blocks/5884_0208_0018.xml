@@ -1,119 +1,95 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>208, 18</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="18">
-            <p>
-               <app>
-                  <lem>
-                     <w>пришьлъ”.</w>
-                     <w>Отъ</w>
-                     <w>года</w>
-                     <w>бо</w>
-                     <w>до</w>
-                     <w>года</w>
-                     <w>пребывъ</w>
-                     <w>умре.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>прише<lb/>лъ.</w>
-                        <w>ѿ</w>
-                        <w>года</w>
-                        <w>бо</w>
-                        <w>до</w>
-                        <w>года</w>
-                        <w>пребывъ</w>
-                        <w>оу<lb/>мре.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>пришелъ.</w>
-                        <w>го<hi rend="sup">д</hi>
-                        </w>
-                        <w>пребывъ</w>
-                        <w>оу<lb/>мре.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>пришелъ.</w>
-                        <w>го<hi rend="sup">д</hi>
-                        </w>
-                        <w>пребывъ</w>
-                        <w>оумре.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>при<lb/>шелъ.</w>
-                        <w>ѿ</w>
-                        <w>года</w>
-                        <w>бо</w>
-                        <w>
-                           <sic>д</sic>о</w>
-                        <w>года</w>
-                        <w>пребывъ</w>
-                        <w>оумре.</w>
-                        <w>
-                           <pb n="77c"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>прише<hi rend="sup">л</hi>.</w>
-                        <w>ѿ</w>
-                        <w>года</w>
-                        <w>бо</w>
-                        <w>до</w>
-                        <w>года <lb/>
-                        </w>
-                        <w>пребывь</w>
-                        <w>оумре.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>пришелъ”;</w>
-                        <w>отъ</w>
-                        <w>года</w>
-                        <w>бо</w>
-                        <w>до</w>
-                        <w>года</w>
-                        <w>пребывъ</w>
-                        <w>умре;</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>пришьлъ”;</w>
-                        <w>отъ</w>
-                        <w>года</w>
-                        <w>бо</w>
-                        <w>до</w>
-                        <w>года</w>
-                        <w>пребывъ,</w>
-                        <w>умре.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>пришелъ”.</w>
-                        <w>От</w>
-                        <w>года</w>
-                        <w>бо</w>
-                        <w>до</w>
-                        <w>года</w>
-                        <w>пребывъ</w>
-                        <w>умре.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>208, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="18"><p>
+<app>
+<lem wit="#lem">
+<w>пришьлъ”.</w>
+<w>Отъ</w>
+<w>года</w>
+<w>бо</w>
+<w>до</w>
+<w>года</w>
+<w>пребывъ</w>
+<w>умре.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>прише<lb/>лъ.</w>
+<w>ѿ</w>
+<w>года</w>
+<w>бо</w>
+<w>до</w>
+<w>года</w>
+<w>пребывъ</w>
+<w>оу<lb/>мре.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>пришелъ.</w>
+<w>го<hi rend="sup">д</hi></w>
+<w>пребывъ</w>
+<w>оу<lb/>мре.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>пришелъ.</w>
+<w>го<hi rend="sup">д</hi></w>
+<w>пребывъ</w>
+<w>оумре.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>при<lb/>шелъ.</w>
+<w>ѿ</w>
+<w>года</w>
+<w>бо</w>
+<w><milestone unit="sic" n="start"/>д<milestone unit="sic" n="end"/>о</w>
+<w>года</w>
+<w>пребывъ</w>
+<w>оумре. <pb n="77c"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>прише<hi rend="sup">л</hi>.</w>
+<w>ѿ</w>
+<w>года</w>
+<w>бо</w>
+<w>до</w>
+<w>года <lb/></w>
+
+<w>пребывь</w>
+<w>оумре.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>пришелъ”;</w>
+<w>отъ</w>
+<w>года</w>
+<w>бо</w>
+<w>до</w>
+<w>года</w>
+<w>пребывъ</w>
+<w>умре;</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>пришьлъ”;</w>
+<w>отъ</w>
+<w>года</w>
+<w>бо</w>
+<w>до</w>
+<w>года</w>
+<w>пребывъ,</w>
+<w>умре.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>пришелъ”.</w>
+<w>От</w>
+<w>года</w>
+<w>бо</w>
+<w>до</w>
+<w>года</w>
+<w>пребывъ</w>
+<w>умре.</w>
+</rdg>
+</app></p></div></body></text></TEI>

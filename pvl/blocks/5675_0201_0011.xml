@@ -1,109 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>201, 11</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="11">
-            <p>
-               <app>
-                  <lem>
-                     <w>людьмъ</w>
-                     <w>въбѣгъшемъ</w>
-                     <w>въ</w>
-                     <w>дънѣшьнии</w>
-                     <w>градъ.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>и.</w>
-                        <w>людемъ</w>
-                        <w>же</w>
-                        <w>вбѣгши<hi rend="sup">м</hi> 
-                           <lb/>
-                        </w>
-                        <w>въ</w>
-                        <w>дънѣшнии</w>
-                        <w>градъ.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>лю<hi rend="sup">д</hi>мъ</w>
-                        <w>вбѣ<hi rend="sup">г</hi>ши<hi rend="sup">м</hi>
-                        </w>
-                        <w>въ</w>
-                        <w>днѣшныи</w>
-                        <w>гра<hi rend="sup">д</hi>:-</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>людемь</w>
-                        <w>бѣгшимъ</w>
-                        <w>въ</w>
-                        <w>дн҃ешнїи</w>
-                        <w>гра<hi rend="sup">д</hi>:· <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>людемъ</w>
-                        <w>выбѣгшимъ</w>
-                        <w>во <lb/>
-                        </w>
-                        <w>дн҃ешнии</w>
-                        <w>горо<hi rend="sup">д</hi>.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>люде<hi rend="sup">м</hi>
-                        </w>
-                        <w>не</w>
-                        <w>выбѣ<lb/>гши<hi rend="sup">м</hi>
-                        </w>
-                        <w>въ</w>
-                        <w>днѣшнїи</w>
-                        <w>гра<hi rend="sup">д</hi>.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>и,</w>
-                        <w>людемъ</w>
-                        <w>же</w>
-                        <w>вбѣгшимъ</w>
-                        <w>въ</w>
-                        <w>дънѣшний</w>
-                        <w>градъ.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>и,</w>
-                        <w>людьмъ</w>
-                        <w>же</w>
-                        <w>въбѣгъшемъ</w>
-                        <w>въ</w>
-                        <w>дънѣшьнии</w>
-                        <w>градъ.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>и,</w>
-                        <w>людемъ</w>
-                        <w>же</w>
-                        <w>вбѣгшим</w>
-                        <w>въ</w>
-                        <w>дънѣшний</w>
-                        <w>градъ.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>201, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="11"><p>
+<app>
+<lem wit="#lem">
+<w>людьмъ</w>
+<w>въбѣгъшемъ</w>
+<w>въ</w>
+<w>дънѣшьнии</w>
+<w>градъ.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>и.</w>
+<w>людемъ</w>
+<w>же</w>
+<w>вбѣгши<hi rend="sup">м</hi><lb/></w>
+<w>въ</w>
+<w>дънѣшнии</w>
+<w>градъ.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>лю<hi rend="sup">д</hi>мъ</w>
+<w>вбѣ<hi rend="sup">г</hi>ши<hi rend="sup">м</hi></w>
+<w>въ</w>
+<w>днѣшныи</w>
+<w>гра<hi rend="sup">д</hi>:-</w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>людемь</w>
+<w>бѣгшимъ</w>
+<w>въ</w>
+<w>дн҃ешнїи</w>
+<w>гра<hi rend="sup">д</hi>:· <lb/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>людемъ</w>
+<w>выбѣгшимъ</w>
+<w>во <lb/></w>
+
+<w>дн҃ешнии</w>
+<w>горо<hi rend="sup">д</hi>.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>люде<hi rend="sup">м</hi></w>
+<w>не</w>
+<w>выбѣ<lb/>гши<hi rend="sup">м</hi></w>
+<w>въ</w>
+<w>днѣшнїи</w>
+<w>гра<hi rend="sup">д</hi>.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>и,</w>
+<w>людемъ</w>
+<w>же</w>
+<w>вбѣгшимъ</w>
+<w>въ</w>
+<w>дънѣшний</w>
+<w>градъ.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>и,</w>
+<w>людьмъ</w>
+<w>же</w>
+<w>въбѣгъшемъ</w>
+<w>въ</w>
+<w>дънѣшьнии</w>
+<w>градъ.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>и,</w>
+<w>людемъ</w>
+<w>же</w>
+<w>вбѣгшим</w>
+<w>въ</w>
+<w>дънѣшний</w>
+<w>градъ.</w>
+</rdg>
+</app></p></div></body></text></TEI>

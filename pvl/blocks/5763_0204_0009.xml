@@ -1,124 +1,97 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>204, 9</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="9">
-            <p>
-               <app>
-                  <lem>
-                     <w>своего</w>
-                     <w>и</w>
-                     <w>брата</w>
-                     <w>своего,</w>
-                     <w>преимъ</w>
-                     <w>вьсю</w>
-                     <w>власть</w>
-                     <w>Русьскую.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>своѥго.</w>
-                        <w>и</w>
-                        <w>брата</w>
-                        <w>своѥ<lb/>го.</w>
-                        <w>переима</w>
-                        <w>власть</w>
-                        <w>русьску<lb/>ю</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>своего.</w>
-                        <w>и</w>
-                        <w>бра<hi rend="sup">т</hi>
-                        </w>
-                        <w>свое<hi rend="sup">г</hi>.</w>
-                        <w>приимъ</w>
-                        <w>всю</w>
-                        <w>вла<lb/>сть</w>
-                        <w>роускѹю.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>сво<lb/>его.</w>
-                        <w>и</w>
-                        <w>брата</w>
-                        <w>своего.</w>
-                        <w>приимь</w>
-                        <w>всю</w>
-                        <w>власть</w>
-                        <w>рѹ<hi rend="sup">с</hi> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>свое<hi rend="sup">г</hi>
-                        </w>
-                        <w>ї</w>
-                        <w>бра<hi rend="sup">т</hi>
-                        </w>
-                        <w>сво<lb/>е<hi rend="sup">г</hi>.</w>
-                        <w>переемь</w>
-                        <w>всю</w>
-                        <w>власть</w>
-                        <w>ру<lb/>скую.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>свое<hi rend="sup">г</hi> 
-                           <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>брата</w>
-                        <w>своего.</w>
-                        <w>прїе<hi rend="sup">м</hi>
-                        </w>
-                        <w>всю</w>
-                        <w>власть</w>
-                        <w>роускоую.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>своего</w>
-                        <w>и</w>
-                        <w>брата</w>
-                        <w>своего,</w>
-                        <w>приимъ</w>
-                        <w>власть</w>
-                        <w>Русьскую</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>своего</w>
-                        <w>и</w>
-                        <w>брата</w>
-                        <w>своего,</w>
-                        <w>преимъ</w>
-                        <w>власть</w>
-                        <w>Русьскую</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>своего</w>
-                        <w>и</w>
-                        <w>брата</w>
-                        <w>своего,</w>
-                        <w>приимъ</w>
-                        <w>власть</w>
-                        <w>русьскую</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>204, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="9"><p>
+<app>
+<lem wit="#lem">
+<w>своего</w>
+<w>и</w>
+<w>брата</w>
+<w>своего,</w>
+<w>преимъ</w>
+<w>вьсю</w>
+<w>власть</w>
+<w>Русьскую.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>своѥго.</w>
+<w>и</w>
+<w>брата</w>
+<w>своѥ<lb/>го.</w>
+<w>переима</w>
+<w>власть</w>
+<w>русьску<lb/>ю</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>своего.</w>
+<w>и</w>
+<w>бра<hi rend="sup">т</hi></w>
+<w>свое<hi rend="sup">г</hi>.</w>
+<w>приимъ</w>
+<w>всю</w>
+<w>вла<lb/>сть</w>
+<w>роускѹю.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>сво<lb/>его.</w>
+<w>и</w>
+<w>брата</w>
+<w>своего.</w>
+<w>приимь</w>
+<w>всю</w>
+<w>власть</w>
+<w>рѹ<hi rend="sup">с</hi><lb/>скѹю.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>свое<hi rend="sup">г</hi></w>
+<w>ї</w>
+<w>бра<hi rend="sup">т</hi></w>
+<w>сво<lb/>е<hi rend="sup">г</hi>.</w>
+<w>переемь</w>
+<w>всю</w>
+<w>власть</w>
+<w>ру<lb/>скую.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>свое<hi rend="sup">г</hi><lb/></w>
+<w>и</w>
+<w>брата</w>
+<w>своего.</w>
+<w>прїе<hi rend="sup">м</hi></w>
+<w>всю</w>
+<w>власть</w>
+<w>роускоую.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>своего</w>
+<w>и</w>
+<w>брата</w>
+<w>своего,</w>
+<w>приимъ</w>
+<w>власть</w>
+<w>Русьскую</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>своего</w>
+<w>и</w>
+<w>брата</w>
+<w>своего,</w>
+<w>преимъ</w>
+<w>власть</w>
+<w>Русьскую</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>своего</w>
+<w>и</w>
+<w>брата</w>
+<w>своего,</w>
+<w>приимъ</w>
+<w>власть</w>
+<w>русьскую</w>
+</rdg>
+</app></p></div></body></text></TEI>

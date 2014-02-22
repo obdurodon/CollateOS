@@ -1,125 +1,104 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>159, 25</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="25">
-            <p>
-               <app>
-                  <lem>
-                     <w>“Къто</w>
-                     <w>болии</w>
-                     <w>въ</w>
-                     <w>васъ,</w>
-                     <w>акъже</w>
-                     <w>Федосии,</w>
-                     <w>послушьливыи</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>кто</w>
-                        <w>болии</w>
-                        <w>въ <lb/>
-                        </w>
-                        <w>васъ</w>
-                        <w>акъже</w>
-                        <w>ѳѡдосии</w>
-                        <w>послушь<lb/>ливыи.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>кто</w>
-                        <w>болии</w>
-                        <w>в</w>
-                        <w>ва<hi rend="sup">с</hi>.</w>
-                        <w>якоже</w>
-                        <w>федосии.</w>
-                        <w>послѹшливыи. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>кто</w>
-                        <w>болии</w>
-                        <w>в</w>
-                        <w>васъ</w>
-                        <w>акьже</w>
-                        <w>федосїи. <lb/>
-                        </w>
-                        <w>послѹшлївыи</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>кто</w>
-                        <w>болии <lb/>
-                        </w>
-                        <w>есть</w>
-                        <w>в</w>
-                        <w>ва<hi rend="sup">с</hi>.</w>
-                        <w>акь</w>
-                        <w>есть</w>
-                        <w>федоси<lb/>и.</w>
-                        <w>послушливъ.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>кто</w>
-                        <w>болїи <lb/>
-                        </w>
-                        <w>е<hi rend="sup">с</hi>
-                        </w>
-                        <w>ва<hi rend="sup">с</hi>,</w>
-                        <w>якь</w>
-                        <w>е<hi rend="sup">с</hi>
-                        </w>
-                        <w>ѳеѡ<hi rend="sup">д</hi>с<hi rend="sup">о</hi>їи;</w>
-                        <w>послоушливыи</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>“кто</w>
-                        <w>болий</w>
-                        <w>въ</w>
-                        <w>васъ,</w>
-                        <w>акъ</w>
-                        <w>же</w>
-                        <w>Федосий,</w>
-                        <w>послушьливый,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>“къто</w>
-                        <w>болии</w>
-                        <w>въ</w>
-                        <w>васъ,</w>
-                        <w>акъже</w>
-                        <w>Федосии,</w>
-                        <w>послушьливыи</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>“Кто</w>
-                        <w>болий</w>
-                        <w>въ</w>
-                        <w>васъ,</w>
-                        <w>акъ</w>
-                        <w>же</w>
-                        <w>Федосий,</w>
-                        <w>послушьливый,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>159, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="25"><p>
+<app>
+<lem wit="#lem">
+<w>“Къто</w>
+<w>болии</w>
+<w>въ</w>
+<w>васъ,</w>
+<w>акъже</w>
+<w>Федосии,</w>
+<w>послушьливыи</w>
+</lem>
+
+<rdg wit="#lav">
+<w>кто</w>
+<w>болии</w>
+<w>въ <lb/></w>
+
+<w>васъ</w>
+<w>акъже</w>
+<w>ѳѡдосии</w>
+<w>послушь<lb/>ливыи.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>кто</w>
+<w>болии</w>
+<w>в</w>
+<w>ва<hi rend="sup">с</hi>.</w>
+<w>якоже</w>
+<w>федосии.</w>
+<w>послѹшливыи. <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>кто</w>
+<w>болии</w>
+<w>в</w>
+<w>васъ</w>
+<w>акьже</w>
+<w>федосїи. <lb/></w>
+
+<w>послѹшлївыи</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>кто</w>
+<w>болии <lb/></w>
+
+<w>есть</w>
+<w>в</w>
+<w>ва<hi rend="sup">с</hi>.</w>
+<w>акь</w>
+<w>есть</w>
+<w>федоси<lb/>и.</w>
+<w>послушливъ.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>кто</w>
+<w>болїи <lb/></w>
+
+<w>е<hi rend="sup">с</hi></w>
+<w>ва<hi rend="sup">с</hi>,</w>
+<w>якь</w>
+<w>е<hi rend="sup">с</hi></w>
+<w>ѳеѡ<hi rend="sup">д</hi>с<hi rend="sup">о</hi>їи;</w>
+<w>послоушливыи</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>“кто</w>
+<w>болий</w>
+<w>въ</w>
+<w>васъ,</w>
+<w>акъ</w>
+<w>же</w>
+<w>Федосий,</w>
+<w>послушьливый,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>“къто</w>
+<w>болии</w>
+<w>въ</w>
+<w>васъ,</w>
+<w>акъже</w>
+<w>Федосии,</w>
+<w>послушьливыи</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>“Кто</w>
+<w>болий</w>
+<w>въ</w>
+<w>васъ,</w>
+<w>акъ</w>
+<w>же</w>
+<w>Федосий,</w>
+<w>послушьливый,</w>
+</rdg>
+</app></p></div></body></text></TEI>

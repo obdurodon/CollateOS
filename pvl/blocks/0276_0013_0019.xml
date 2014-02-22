@@ -1,106 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>13, 19</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="19">
-            <p>
-               <app>
-                  <lem>
-                     <w>нъ</w>
-                     <w>умыкываху</w>
-                     <w>уводы</w>
-                     <w>дѣвиця.</w>
-                     <w>А</w>
-                     <w>Радимичи,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>но</w>
-                        <w>оумыкиваху</w>
-                        <w>оуводы</w>
-                        <w>дв҃цѧ.</w>
-                        <w>и</w>
-                        <w>радимичи</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>но</w>
-                        <w>умыкываху</w>
-                        <w>уводы</w>
-                        <w>дѣвица</w>
-                        <w>и</w>
-                        <w>радимичи</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>но</w>
-                        <w>оумыкахѹ</w>
-                        <w>уводы</w>
-                        <w>дв҃ца.</w>
-                        <w>а</w>
-                        <w>радимичи.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>но</w>
-                        <w>оумыкахѹ.</w>
-                        <w>вводы</w>
-                        <w>дв҃ца.</w>
-                        <w>а</w>
-                        <w>радимичи.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>но</w>
-                        <w>оумыкаху</w>
-                        <w>оуводы</w>
-                        <w>дв҃ца. <lb/>
-                        </w>
-                        <w>а</w>
-                        <w>радимичи</w>
-                     </rdg>
-                     <rdg wit="#xle"/>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>но</w>
-                        <w>умыкиваху</w>
-                        <w>у</w>
-                        <w>воды</w>
-                        <w>дѣвица.</w>
-                        <w>И</w>
-                        <w>Радимичи,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>нъ</w>
-                        <w>умыкаху</w>
-                        <w>уводы</w>
-                        <w>дѣвиця.</w>
-                        <w>А</w>
-                        <w>Радимичи</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>но</w>
-                        <w>умыкиваху</w>
-                        <w>у</w>
-                        <w>воды</w>
-                        <w>дѣвиця.</w>
-                        <w>И</w>
-                        <w>радимичи,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>13, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="19"><p>
+<app>
+<lem wit="#lem">
+<w>нъ</w>
+<w>умыкываху</w>
+<w>уводы</w>
+<w>дѣвиця.</w>
+<w>А</w>
+<w>Радимичи,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>но</w>
+<w>оумыкиваху</w>
+<w>оуводы</w>
+<w>дв҃цѧ.</w>
+<w>и</w>
+<w>радимичи</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>но</w>
+<w>умыкываху</w>
+<w>уводы</w>
+<w>дѣвица</w>
+<w>и</w>
+<w>радимичи</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>но</w>
+<w>оумыкахѹ</w>
+<w>уводы</w>
+<w>дв҃ца.</w>
+<w>а</w>
+<w>радимичи.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>но</w>
+<w>оумыкахѹ.</w>
+<w>вводы</w>
+<w>дв҃ца.</w>
+<w>а</w>
+<w>радимичи.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>но</w>
+<w>оумыкаху</w>
+<w>оуводы</w>
+<w>дв҃ца. <lb/></w>
+
+<w>а</w>
+<w>радимичи</w>
+</rdg>
+
+<rdg wit="#xle">
+</rdg>
+
+<rdg wit="#bych">
+<w>но</w>
+<w>умыкиваху</w>
+<w>у</w>
+<w>воды</w>
+<w>дѣвица.</w>
+<w>И</w>
+<w>Радимичи,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>нъ</w>
+<w>умыкаху</w>
+<w>уводы</w>
+<w>дѣвиця.</w>
+<w>А</w>
+<w>Радимичи</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>но</w>
+<w>умыкиваху</w>
+<w>у</w>
+<w>воды</w>
+<w>дѣвиця.</w>
+<w>И</w>
+<w>радимичи,</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,126 +1,101 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>201, 15</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="15">
-            <p>
-               <app>
-                  <lem>
-                     <w>Ольгови.</w>
-                     <w>И</w>
-                     <w>рече</w>
-                     <w>Олегъ</w>
-                     <w>къ</w>
-                     <w>Борисови:</w>
-                     <w>“Не</w>
-                     <w>ходивѣ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ѡлгови.</w>
-                        <w>ре<hi rend="sup">ч</hi>
-                        </w>
-                        <w>же <lb/>
-                        </w>
-                        <w>ѡлегъ</w>
-                        <w>к</w>
-                        <w>борисови.</w>
-                        <w>не</w>
-                        <w>ходивѣ <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ѡлгови.</w>
-                        <w>ре<hi rend="sup">ч</hi>
-                        </w>
-                        <w>ѡлегъ</w>
-                        <w>борисови.</w>
-                        <w>не</w>
-                        <w>ходивѣ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ѡлгови.</w>
-                        <w>и</w>
-                        <w>рече</w>
-                        <w>ѡлегь</w>
-                        <w>борисови.</w>
-                        <w>не</w>
-                        <w>хо<lb/>дѣвѣ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ѡлговѣ. <lb/>
-                        </w>
-                        <w>ї</w>
-                        <w>ре<hi rend="sup">ч</hi>
-                        </w>
-                        <w>ѡлегъ</w>
-                        <w>к</w>
-                        <w>борисовѣ.</w>
-                        <w>не <lb/>
-                        </w>
-                        <w>ходиви</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ѡлгови</w>
-                        <w>
-                           <sic>и р</sic>е<hi rend="sup">ч</hi>
-                        </w>
-                        <w>олегь</w>
-                        <w>борисови.</w>
-                        <w>не</w>
-                        <w>х<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Олгови.</w>
-                        <w>Рече</w>
-                        <w>же</w>
-                        <w>Олегъ</w>
-                        <w>к</w>
-                        <w>Борисови:</w>
-                        <w>“не</w>
-                        <w>ходивѣ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Ольгови.</w>
-                        <w>И</w>
-                        <w>рече</w>
-                        <w>Олегъ</w>
-                        <w>къ</w>
-                        <w>Борисови:</w>
-                        <w>“не</w>
-                        <w>ходивѣ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Олгови.</w>
-                        <w>Рече</w>
-                        <w>же</w>
-                        <w>Олегъ</w>
-                        <w>к</w>
-                        <w>Борисови:</w>
-                        <w>“Не</w>
-                        <w>ходивѣ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>201, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="15"><p>
+<app>
+<lem wit="#lem">
+<w>Ольгови.</w>
+<w>И</w>
+<w>рече</w>
+<w>Олегъ</w>
+<w>къ</w>
+<w>Борисови:</w>
+<w>“Не</w>
+<w>ходивѣ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ѡлгови.</w>
+<w>ре<hi rend="sup">ч</hi></w>
+<w>же <lb/></w>
+
+<w>ѡлегъ</w>
+<w>к</w>
+<w>борисови.</w>
+<w>не</w>
+<w>ходивѣ <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>ѡлгови.</w>
+<w>ре<hi rend="sup">ч</hi></w>
+<w>ѡлегъ</w>
+<w>борисови.</w>
+<w>не</w>
+<w>ходивѣ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ѡлгови.</w>
+<w>и</w>
+<w>рече</w>
+<w>ѡлегь</w>
+<w>борисови.</w>
+<w>не</w>
+<w>хо<lb/>дѣвѣ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ѡлговѣ. <lb/></w>
+
+<w>ї</w>
+<w>ре<hi rend="sup">ч</hi></w>
+<w>ѡлегъ</w>
+<w>к</w>
+<w>борисовѣ.</w>
+<w>не <lb/></w>
+
+<w>ходиви</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ѡлгови</w>
+<w><milestone unit="sic" n="start"/>и</w>
+<w>р<milestone unit="sic" n="end"/>е<hi rend="sup">ч</hi></w>
+<w>олегь</w>
+<w>борисови.</w>
+<w>не</w>
+<w>х<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi><lb/>вѣ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Олгови.</w>
+<w>Рече</w>
+<w>же</w>
+<w>Олегъ</w>
+<w>к</w>
+<w>Борисови:</w>
+<w>“не</w>
+<w>ходивѣ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Ольгови.</w>
+<w>И</w>
+<w>рече</w>
+<w>Олегъ</w>
+<w>къ</w>
+<w>Борисови:</w>
+<w>“не</w>
+<w>ходивѣ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Олгови.</w>
+<w>Рече</w>
+<w>же</w>
+<w>Олегъ</w>
+<w>к</w>
+<w>Борисови:</w>
+<w>“Не</w>
+<w>ходивѣ</w>
+</rdg>
+</app></p></div></body></text></TEI>

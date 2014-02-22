@@ -1,91 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>15, 12</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="12">
-            <p>
-               <app>
-                  <lem>
-                     <w>Вьсяко</w>
-                     <w>бестудьное</w>
-                     <w>дѣяние,</w>
-                     <w>яко</w>
-                     <w>дѣтелие,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>всѧкое</w>
-                        <w>б<sic>о</sic>
-                        </w>
-                        <w>студеное</w>
-                        <w>дѣянье.</w>
-                        <w>яко</w>
-                        <w>дѣтелье</w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad">
-                        <w>б҃гостоудное</w>
-                        <w>всѧ<lb/>ко</w>
-                        <w>дѣяние.</w>
-                        <w>яко</w>
-                        <w>дѣтелие</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>б҃го<lb/>стѹдное</w>
-                        <w>всѧкое</w>
-                        <w>деяние.</w>
-                        <w>яко</w>
-                        <w>дѣтелїе</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>всѧко</w>
-                        <w>бестудь<lb/>ное</w>
-                        <w>дѣянье.</w>
-                        <w>яко</w>
-                        <w>дѣте<lb/>лье</w>
-                     </rdg>
-                     <rdg wit="#xle"/>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>всякое</w>
-                        <w>богостудное</w>
-                        <w>дѣянье</w>
-                        <w>яко</w>
-                        <w>добродѣтелье</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>вьсяко</w>
-                        <w>бестудьное</w>
-                        <w>дѣяние,</w>
-                        <w>яко</w>
-                        <w>дѣтелие,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>всякое</w>
-                        <w>бо</w>
-                        <w>студное</w>
-                        <w>дѣянье</w>
-                        <w>яко</w>
-                        <w>добродѣтелье</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>15, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="12"><p>
+<app>
+<lem wit="#lem">
+<w>Вьсяко</w>
+<w>бестудьное</w>
+<w>дѣяние,</w>
+<w>яко</w>
+<w>дѣтелие,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>всѧкое</w>
+<w>б<milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/></w>
+<w>студеное</w>
+<w>дѣянье.</w>
+<w>яко</w>
+<w>дѣтелье</w>
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+<w>б҃гостоудное</w>
+<w>всѧ<lb/>ко</w>
+<w>дѣяние.</w>
+<w>яко</w>
+<w>дѣтелие</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>б҃го<lb/>стѹдное</w>
+<w>всѧкое</w>
+<w>деяние.</w>
+<w>яко</w>
+<w>дѣтелїе</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>всѧко</w>
+<w>бестудь<lb/>ное</w>
+<w>дѣянье.</w>
+<w>яко</w>
+<w>дѣте<lb/>лье</w>
+</rdg>
+
+<rdg wit="#xle">
+</rdg>
+
+<rdg wit="#bych">
+<w>всякое</w>
+<w>богостудное</w>
+<w>дѣянье</w>
+<w>яко</w>
+<w>добродѣтелье</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>вьсяко</w>
+<w>бестудьное</w>
+<w>дѣяние,</w>
+<w>яко</w>
+<w>дѣтелие,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>всякое</w>
+<w>бо</w>
+<w>студное</w>
+<w>дѣянье</w>
+<w>яко</w>
+<w>добродѣтелье</w>
+</rdg>
+</app></p></div></body></text></TEI>

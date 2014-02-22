@@ -1,97 +1,79 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>207, 22</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="22">
-            <p>
-               <app>
-                  <lem>
-                     <w>Святопълкъ</w>
-                     <w>из</w>
-                     <w>Новагорода</w>
-                     <w>къ</w>
-                     <w>Турову</w>
-                     <w>къняжение.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>ст҃ополкъ.</w>
-                        <w>из</w>
-                        <w>новагоро<lb/>да.</w>
-                        <w>к</w>
-                        <w>тоуровѹ</w>
-                        <w>жити.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ст҃ополкъ</w>
-                        <w>из</w>
-                        <w>новагорода <lb/>
-                        </w>
-                        <w>кь</w>
-                        <w>тѹровѹ</w>
-                        <w>жити.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ст҃ополкъ</w>
-                        <w>из</w>
-                        <w>но<lb/>вагорода</w>
-                        <w>турову</w>
-                        <w>на</w>
-                        <w>кнѧ<lb/>женье.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ст҃ополкь</w>
-                        <w>из</w>
-                        <w>новагорода, <lb/>
-                        </w>
-                        <w>к</w>
-                        <w>тоуровоу</w>
-                        <w>на</w>
-                        <w>кнѧженїе.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Святополкъ</w>
-                        <w>из</w>
-                        <w>Новагорода</w>
-                        <w>к</w>
-                        <w>Турову</w>
-                        <w>жити.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Святопълкъ</w>
-                        <w>из</w>
-                        <w>Новагорода</w>
-                        <w>Турову</w>
-                        <w>къняжитъ.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Святополкъ</w>
-                        <w>из</w>
-                        <w>Новагорода</w>
-                        <w>к</w>
-                        <w>Турову</w>
-                        <w>жити.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>207, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="22"><p>
+<app>
+<lem wit="#lem">
+<w>Святопълкъ</w>
+<w>из</w>
+<w>Новагорода</w>
+<w>къ</w>
+<w>Турову</w>
+<w>къняжение.</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>ст҃ополкъ.</w>
+<w>из</w>
+<w>новагоро<lb/>да.</w>
+<w>к</w>
+<w>тоуровѹ</w>
+<w>жити.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ст҃ополкъ</w>
+<w>из</w>
+<w>новагорода <lb/></w>
+
+<w>кь</w>
+<w>тѹровѹ</w>
+<w>жити.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ст҃ополкъ</w>
+<w>из</w>
+<w>но<lb/>вагорода</w>
+<w>турову</w>
+<w>на</w>
+<w>кнѧ<lb/>женье.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ст҃ополкь</w>
+<w>из</w>
+<w>новагорода, <lb/></w>
+
+<w>к</w>
+<w>тоуровоу</w>
+<w>на</w>
+<w>кнѧженїе.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Святополкъ</w>
+<w>из</w>
+<w>Новагорода</w>
+<w>к</w>
+<w>Турову</w>
+<w>жити.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Святопълкъ</w>
+<w>из</w>
+<w>Новагорода</w>
+<w>Турову</w>
+<w>къняжитъ.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Святополкъ</w>
+<w>из</w>
+<w>Новагорода</w>
+<w>к</w>
+<w>Турову</w>
+<w>жити.</w>
+</rdg>
+</app></p></div></body></text></TEI>

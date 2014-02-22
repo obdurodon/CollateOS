@@ -1,110 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>12, 20</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="20">
-            <p>
-               <app>
-                  <lem>
-                     <w>сѣдоста</w>
-                     <w>Радимъ</w>
-                     <w>на</w>
-                     <w>Съжю,</w>
-                     <w>и</w>
-                     <w>прозъваша</w>
-                     <w>ся</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>сѣдоста</w>
-                        <w>радимъ</w>
-                        <w>на</w>
-                        <w>съжю.</w>
-                        <w>прозв<hi rend="sup">а</hi> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>сѣдоста</w>
-                        <w>радимъ</w>
-                        <w>на</w>
-                        <w>съжю</w>
-                        <w>прозвашася</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>седоста.</w>
-                        <w>ради<hi rend="sup">м</hi>
-                        </w>
-                        <w>на</w>
-                        <w>сжю.</w>
-                        <w>и</w>
-                        <w>прозваша<hi rend="sup">с</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>сѣ<lb/>доста.</w>
-                        <w>радимъ.</w>
-                        <w>на</w>
-                        <w>сжю.</w>
-                        <w>и</w>
-                        <w>прозваша<hi rend="sup">с</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>сѣдоста. <lb/>
-                        </w>
-                        <w>радимъ</w>
-                        <w>на</w>
-                        <w>
-                           <sic>ръшю</sic>.</w>
-                        <w>и</w>
-                        <w>прозва<lb/>ша<hi rend="sup">с</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle"/>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>сѣдоста</w>
-                        <w>Радимъ</w>
-                        <w>на</w>
-                        <w>Съжю,</w>
-                        <w>и</w>
-                        <w>прозвашася</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>сѣдоста:</w>
-                        <w>Радимъ</w>
-                        <w>на</w>
-                        <w>Съжю,</w>
-                        <w>и</w>
-                        <w>прозъвашася</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>сѣдоста</w>
-                        <w>Радимъ</w>
-                        <w>на</w>
-                        <w>Съжю,</w>
-                        <w>и</w>
-                        <w>прозвашася</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>12, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="20"><p>
+<app>
+<lem wit="#lem">
+<w>сѣдоста</w>
+<w>Радимъ</w>
+<w>на</w>
+<w>Съжю,</w>
+<w>и</w>
+<w>прозъваша</w>
+<w>ся</w>
+</lem>
+
+<rdg wit="#lav">
+<w>сѣдоста</w>
+<w>радимъ</w>
+<w>на</w>
+<w>съжю.</w>
+<w>прозв<hi rend="sup">а</hi><lb/>шасѧ</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>сѣдоста</w>
+<w>радимъ</w>
+<w>на</w>
+<w>съжю</w>
+<w>прозвашася</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>седоста.</w>
+<w>ради<hi rend="sup">м</hi></w>
+<w>на</w>
+<w>сжю.</w>
+<w>и</w>
+<w>прозваша<hi rend="sup">с</hi></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>сѣ<lb/>доста.</w>
+<w>радимъ.</w>
+<w>на</w>
+<w>сжю.</w>
+<w>и</w>
+<w>прозваша<hi rend="sup">с</hi></w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>сѣдоста. <lb/></w>
+
+<w>радимъ</w>
+<w>на</w>
+<w><milestone unit="sic" n="start"/>ръшю<milestone unit="sic" n="end"/>.</w>
+<w>и</w>
+<w>прозва<lb/>ша<hi rend="sup">с</hi></w>
+</rdg>
+
+<rdg wit="#xle">
+</rdg>
+
+<rdg wit="#bych">
+<w>сѣдоста</w>
+<w>Радимъ</w>
+<w>на</w>
+<w>Съжю,</w>
+<w>и</w>
+<w>прозвашася</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>сѣдоста:</w>
+<w>Радимъ</w>
+<w>на</w>
+<w>Съжю,</w>
+<w>и</w>
+<w>прозъвашася</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>сѣдоста</w>
+<w>Радимъ</w>
+<w>на</w>
+<w>Съжю,</w>
+<w>и</w>
+<w>прозвашася</w>
+</rdg>
+</app></p></div></body></text></TEI>

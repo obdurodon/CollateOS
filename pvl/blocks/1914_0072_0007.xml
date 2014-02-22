@@ -1,116 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>72, 7</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="7">
-            <p>
-               <app>
-                  <lem>
-                     <w>из</w>
-                     <w>Руси,</w>
-                     <w>съвъкупивъше</w>
-                     <w>воя</w>
-                     <w>мъножаиша,</w>
-                     <w>поидемъ</w>
-                     <w>къ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>из</w>
-                        <w>руси</w>
-                        <w>совкупивше</w>
-                        <w>вои</w>
-                        <w>оумножавши.</w>
-                        <w>поиде<lb/>мъ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>из</w>
-                        <w>роу<hi rend="sup">с</hi>
-                        </w>
-                        <w>совокѹпївше</w>
-                        <w>вои</w>
-                        <w>мно<hi rend="sup">г</hi>
-                        </w>
-                        <w>пои<hi rend="sup">д</hi>мъ</w>
-                        <w>ко</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>из</w>
-                        <w>рѹси</w>
-                        <w>совокѹпивше</w>
-                        <w>вои</w>
-                        <w>множаиша. <lb/>
-                        </w>
-                        <w>поидемъ</w>
-                        <w>ко</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>и<lb/>зъ</w>
-                        <w>руси</w>
-                        <w>съвокупивше</w>
-                        <w>воя <lb/>
-                        </w>
-                        <w>множаиша.</w>
-                        <w>и</w>
-                        <w>придемъ</w>
-                        <w>къ <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>из</w>
-                        <w>роу<lb/>си</w>
-                        <w>съвокоупивше</w>
-                        <w>воѧ</w>
-                        <w>множаишаа.</w>
-                        <w>и</w>
-                        <w>прїиде<hi rend="sup">м</hi>
-                        </w>
-                        <w>къ <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>из</w>
-                        <w>Руси,</w>
-                        <w>совкупивше</w>
-                        <w>вои</w>
-                        <w>множайша,</w>
-                        <w>поидемъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>изъ</w>
-                        <w>Руси,</w>
-                        <w>съвъкупивъше</w>
-                        <w>воя</w>
-                        <w>мъножаиша,</w>
-                        <w>поидемъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>из</w>
-                        <w>Руси,</w>
-                        <w>совкупивше</w>
-                        <w>вои</w>
-                        <w>множайша,</w>
-                        <w>поидемъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>72, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="7"><p>
+<app>
+<lem wit="#lem">
+<w>из</w>
+<w>Руси,</w>
+<w>съвъкупивъше</w>
+<w>воя</w>
+<w>мъножаиша,</w>
+<w>поидемъ</w>
+<w>къ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>из</w>
+<w>руси</w>
+<w>совкупивше</w>
+<w>вои</w>
+<w>оумножавши.</w>
+<w>поиде<lb/>мъ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>из</w>
+<w>роу<hi rend="sup">с</hi></w>
+<w>совокѹпївше</w>
+<w>вои</w>
+<w>мно<hi rend="sup">г</hi></w>
+<w>пои<hi rend="sup">д</hi>мъ</w>
+<w>ко</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>из</w>
+<w>рѹси</w>
+<w>совокѹпивше</w>
+<w>вои</w>
+<w>множаиша. <lb/></w>
+
+<w>поидемъ</w>
+<w>ко</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>и<lb/>зъ</w>
+<w>руси</w>
+<w>съвокупивше</w>
+<w>воя <lb/></w>
+
+<w>множаиша.</w>
+<w>и</w>
+<w>придемъ</w>
+<w>къ <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>из</w>
+<w>роу<lb/>си</w>
+<w>съвокоупивше</w>
+<w>воѧ</w>
+<w>множаишаа.</w>
+<w>и</w>
+<w>прїиде<hi rend="sup">м</hi></w>
+<w>къ <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>из</w>
+<w>Руси,</w>
+<w>совкупивше</w>
+<w>вои</w>
+<w>множайша,</w>
+<w>поидемъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>изъ</w>
+<w>Руси,</w>
+<w>съвъкупивъше</w>
+<w>воя</w>
+<w>мъножаиша,</w>
+<w>поидемъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>из</w>
+<w>Руси,</w>
+<w>совкупивше</w>
+<w>вои</w>
+<w>множайша,</w>
+<w>поидемъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

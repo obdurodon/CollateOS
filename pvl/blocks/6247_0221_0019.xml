@@ -1,112 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>221, 19</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="19">
-            <p>
-               <app>
-                  <lem>
-                     <w>ратьныхъ.</w>
-                     <w>И</w>
-                     <w>стояша</w>
-                     <w>около</w>
-                     <w>града</w>
-                     <w>недѣлъ 9,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ратны<hi rend="sup">х</hi>·</w>
-                        <w>стоя<lb/>ше</w>
-                        <w>ѡколо</w>
-                        <w>града·</w>
-                        <w>недѣль·</w>
-                        <w>ѳ҃· <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ратны<hi rend="sup">х</hi>·</w>
-                        <w>и</w>
-                        <w>стояше <lb/>
-                        </w>
-                        <w>ѡколо</w>
-                        <w>гра<hi rend="sup">д</hi>·</w>
-                        <w>не<hi rend="sup">д</hi>ль</w>
-                        <w>ѳ҃·</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ратны<hi rend="sup">х</hi>
-                        </w>
-                        <w>стояше</w>
-                        <w>ѡколо</w>
-                        <w>града·</w>
-                        <w>не<hi rend="sup">д</hi>ль·</w>
-                        <w>ѳ҃·</w>
-                        <w>
-                           <pb n="117r"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ратных·</w>
-                        <w>и</w>
-                        <w>стоя<lb/>ше</w>
-                        <w>ѡколо</w>
-                        <w>города·</w>
-                        <w>не<hi rend="sup">д</hi>·</w>
-                        <w>ѳ҃·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ратны<hi rend="sup">х</hi>.</w>
-                        <w>и</w>
-                        <w>стоаше</w>
-                        <w>около</w>
-                        <w>города</w>
-                        <w>неде<hi rend="sup">л</hi>.</w>
-                        <w>ѳ҃. <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>ратныхъ.</w>
-                        <w>И</w>
-                        <w>стояша</w>
-                        <w>около</w>
-                        <w>града</w>
-                        <w>недѣлъ 9,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>ратьныхъ.</w>
-                        <w>И</w>
-                        <w>стояша</w>
-                        <w>около</w>
-                        <w>града</w>
-                        <w>недѣлъ 9,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>ратных.</w>
-                        <w>И</w>
-                        <w>стояша</w>
-                        <w>около</w>
-                        <w>града</w>
-                        <w>недѣлъ 9,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>221, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="19"><p>
+<app>
+<lem wit="#lem">
+<w>ратьныхъ.</w>
+<w>И</w>
+<w>стояша</w>
+<w>около</w>
+<w>града</w>
+<w>недѣлъ 9,</w>
+
+</lem>
+
+<rdg wit="#lav">
+<w>ратны<hi rend="sup">х</hi>·</w>
+<w>стоя<lb/>ше</w>
+<w>ѡколо</w>
+<w>града·</w>
+<w>недѣль·</w>
+<w>ѳ҃· <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>ратны<hi rend="sup">х</hi>·</w>
+<w>и</w>
+<w>стояше <lb/></w>
+
+<w>ѡколо</w>
+<w>гра<hi rend="sup">д</hi>·</w>
+<w>не<hi rend="sup">д</hi>ль</w>
+<w>ѳ҃·</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ратны<hi rend="sup">х</hi></w>
+<w>стояше</w>
+<w>ѡколо</w>
+<w>града·</w>
+<w>не<hi rend="sup">д</hi>ль·</w>
+<w>ѳ҃· <pb n="117r"/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>ратных·</w>
+<w>и</w>
+<w>стоя<lb/>ше</w>
+<w>ѡколо</w>
+<w>города·</w>
+<w>не<hi rend="sup">д</hi>·</w>
+<w>ѳ҃·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ратны<hi rend="sup">х</hi>.</w>
+<w>и</w>
+<w>стоаше</w>
+<w>около</w>
+<w>города</w>
+<w>неде<hi rend="sup">л</hi>.</w>
+<w>ѳ҃. <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>ратныхъ.</w>
+<w>И</w>
+<w>стояша</w>
+<w>около</w>
+<w>града</w>
+<w>недѣлъ 9,</w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>ратьныхъ.</w>
+<w>И</w>
+<w>стояша</w>
+<w>около</w>
+<w>града</w>
+<w>недѣлъ 9,</w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>ратных.</w>
+<w>И</w>
+<w>стояша</w>
+<w>около</w>
+<w>града</w>
+<w>недѣлъ 9,</w>
+
+</rdg>
+</app></p></div></body></text></TEI>

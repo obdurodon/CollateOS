@@ -1,110 +1,93 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>188, 31</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="31">
-            <p>
-               <app>
-                  <lem>
-                     <w>тако</w>
-                     <w>бо</w>
-                     <w>бяше</w>
-                     <w>любы</w>
-                     <w>въ</w>
-                     <w>братии</w>
-                     <w>тои</w>
-                     <w>и</w>
-                     <w>въздьржание</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>тако</w>
-                        <w>бо</w>
-                        <w>бѧше</w>
-                        <w>любы <lb/>
-                        </w>
-                        <w>в</w>
-                        <w>братьи</w>
-                        <w>тои.</w>
-                        <w>вздержанье</w>
-                     </rdg>
-                     <rdg wit="#rad"/>
-                     <rdg wit="#aka"/>
-                     <rdg wit="#ipa">
-                        <w>такова</w>
-                        <w>бо</w>
-                        <w>бѧ<lb/>ше</w>
-                        <w>любовь</w>
-                        <w>в</w>
-                        <w>братьи</w>
-                        <w>тои.</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>вьздержание</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>тако</w>
-                        <w>бѧше</w>
-                        <w>любовь</w>
-                        <w>оу</w>
-                        <w>братїи. <lb/>
-                        </w>
-                        <w>тои.</w>
-                        <w>и</w>
-                        <w>въздръжанїе</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>такова</w>
-                        <w>бо</w>
-                        <w>бяше</w>
-                        <w>любы</w>
-                        <w>в</w>
-                        <w>братьи</w>
-                        <w>той</w>
-                        <w>и</w>
-                        <w>вздержанье</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>тако</w>
-                        <w>бо</w>
-                        <w>бяше</w>
-                        <w>любы</w>
-                        <w>въ</w>
-                        <w>братии</w>
-                        <w>тои</w>
-                        <w>и</w>
-                        <w>въздьржание</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>тако</w>
-                        <w>бо</w>
-                        <w>бяше</w>
-                        <w>любы</w>
-                        <w>в</w>
-                        <w>братьи</w>
-                        <w>той</w>
-                        <w>и</w>
-                        <w>вздержанье</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>188, 31</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="31"><p>
+<app>
+<lem wit="#lem">
+<w>тако</w>
+<w>бо</w>
+<w>бяше</w>
+<w>любы</w>
+<w>въ</w>
+<w>братии</w>
+<w>тои</w>
+<w>и</w>
+<w>въздьржание</w>
+</lem>
+
+<rdg wit="#lav">
+<w>тако</w>
+<w>бо</w>
+<w>бѧше</w>
+<w>любы <lb/></w>
+
+<w>в</w>
+<w>братьи</w>
+<w>тои.</w>
+<w>вздержанье</w>
+</rdg>
+
+<rdg wit="#rad">
+</rdg>
+
+<rdg wit="#aka">
+</rdg>
+
+<rdg wit="#ipa">
+<w>такова</w>
+<w>бо</w>
+<w>бѧ<lb/>ше</w>
+<w>любовь</w>
+<w>в</w>
+<w>братьи</w>
+<w>тои.</w>
+<w>и <lb/></w>
+
+<w>вьздержание</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>тако</w>
+<w>бѧше</w>
+<w>любовь</w>
+<w>оу</w>
+<w>братїи. <lb/></w>
+
+<w>тои.</w>
+<w>и</w>
+<w>въздръжанїе</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>такова</w>
+<w>бо</w>
+<w>бяше</w>
+<w>любы</w>
+<w>в</w>
+<w>братьи</w>
+<w>той</w>
+<w>и</w>
+<w>вздержанье</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>тако</w>
+<w>бо</w>
+<w>бяше</w>
+<w>любы</w>
+<w>въ</w>
+<w>братии</w>
+<w>тои</w>
+<w>и</w>
+<w>въздьржание</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>тако</w>
+<w>бо</w>
+<w>бяше</w>
+<w>любы</w>
+<w>в</w>
+<w>братьи</w>
+<w>той</w>
+<w>и</w>
+<w>вздержанье</w>
+</rdg>
+</app></p></div></body></text></TEI>

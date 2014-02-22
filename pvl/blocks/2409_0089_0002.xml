@@ -1,129 +1,108 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>89, 2</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="2">
-            <p>
-               <app>
-                  <lem>
-                     <w>очи</w>
-                     <w>ваю,</w>
-                     <w>и</w>
-                     <w>будета</w>
-                     <w>яко</w>
-                     <w>Богъ,</w>
-                     <w>разумѣвающа</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ѡчи</w>
-                        <w>ваю.</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>будета</w>
-                        <w>яко</w>
-                        <w>и</w>
-                        <w>б҃ъ</w>
-                        <w>разумѣюще</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>
-                           <sic>о</sic>чию <lb/>
-                        </w>
-                        <w>ваю.</w>
-                        <w>и</w>
-                        <w>боудета</w>
-                        <w>яко</w>
-                        <w>бъ</w>
-                        <w>разоумѣюща.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ѡ<lb/>чи</w>
-                        <w>ваю</w>
-                        <w>и</w>
-                        <w>бѹдета</w>
-                        <w>яко</w>
-                        <w>б҃гъ</w>
-                        <w>разѹмѣюща.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ѡчи</w>
-                        <w>ваю.</w>
-                        <w>и</w>
-                        <w>будета</w>
-                        <w>яко <lb/>
-                        </w>
-                        <w>б҃ъ</w>
-                        <w>разумѣвающа</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>очи</w>
-                        <w>ваю.</w>
-                        <w>и</w>
-                        <w>бѫдета</w>
-                        <w>я<hi rend="sup">к</hi> 
-                           <lb/>
-                        </w>
-                        <w>б҃ъ</w>
-                        <w>разоумѣюще</w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>очи</w>
-                        <w>ваю</w>
-                        <w>и</w>
-                        <w>будета</w>
-                        <w>яко</w>
-                        <w>богъ</w>
-                        <w>разумѣвающе</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>очи</w>
-                        <w>ваю,</w>
-                        <w>и</w>
-                        <w>будета</w>
-                        <w>яко</w>
-                        <w>и</w>
-                        <w>Богъ,</w>
-                        <w>разумѣюща</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>очи</w>
-                        <w>ваю,</w>
-                        <w>и</w>
-                        <w>будета</w>
-                        <w>яко</w>
-                        <w>Богъ,</w>
-                        <w>разумѣвающа</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>очи</w>
-                        <w>ваю,</w>
-                        <w>и</w>
-                        <w>будета</w>
-                        <w>яко</w>
-                        <w>и</w>
-                        <w>богъ,</w>
-                        <w>разумѣюща</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>89, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="2"><p>
+<app>
+<lem wit="#lem">
+<w>очи</w>
+<w>ваю,</w>
+<w>и</w>
+<w>будета</w>
+<w>яко</w>
+<w>Богъ,</w>
+<w>разумѣвающа</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ѡчи</w>
+<w>ваю.</w>
+<w>и <lb/></w>
+
+<w>будета</w>
+<w>яко</w>
+<w>и</w>
+<w>б҃ъ</w>
+<w>разумѣюще</w>
+</rdg>
+
+<rdg wit="#rad">
+<w><milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/>чию <lb/></w>
+
+<w>ваю.</w>
+<w>и</w>
+<w>боудета</w>
+<w>яко</w>
+<w>бъ</w>
+<w>разоумѣюща.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ѡ<lb/>чи</w>
+<w>ваю</w>
+<w>и</w>
+<w>бѹдета</w>
+<w>яко</w>
+<w>б҃гъ</w>
+<w>разѹмѣюща.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ѡчи</w>
+<w>ваю.</w>
+<w>и</w>
+<w>будета</w>
+<w>яко <lb/></w>
+
+<w>б҃ъ</w>
+<w>разумѣвающа</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>очи</w>
+<w>ваю.</w>
+<w>и</w>
+<w>бѫдета</w>
+<w>я<hi rend="sup">к</hi><lb/></w>
+<w>б҃ъ</w>
+<w>разоумѣюще</w>
+</rdg>
+
+<rdg wit="#kom">
+<w>очи</w>
+<w>ваю</w>
+<w>и</w>
+<w>будета</w>
+<w>яко</w>
+<w>богъ</w>
+<w>разумѣвающе</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>очи</w>
+<w>ваю,</w>
+<w>и</w>
+<w>будета</w>
+<w>яко</w>
+<w>и</w>
+<w>Богъ,</w>
+<w>разумѣюща</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>очи</w>
+<w>ваю,</w>
+<w>и</w>
+<w>будета</w>
+<w>яко</w>
+<w>Богъ,</w>
+<w>разумѣвающа</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>очи</w>
+<w>ваю,</w>
+<w>и</w>
+<w>будета</w>
+<w>яко</w>
+<w>и</w>
+<w>богъ,</w>
+<w>разумѣюща</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,81 +1,66 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>22, 22</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="22">
-            <p>
-               <app>
-                  <lem>
-                     <w>Въ</w>
-                     <w>лѣто 6388.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>въ</w>
-                        <w>лѣ<hi rend="sup">т</hi>.</w>
-                        <w>҂ѕ҃.т҃.п҃.и҃.</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>въ</w>
-                        <w>лѣто 6388</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>В</w>
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>҂ѕ҃.т҃</w>
-                        <w>п҃и.</w>
-                        <w>
-                           <pb n="10v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>В</w>
-                        <w>лѣ<hi rend="sup">т</hi>.</w>
-                        <w>҂ѕ҃.т҃.п҃и.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>В</w>
-                        <w>лѣто.</w>
-                        <w>҂ѕ҃.т҃.п҃и·:· <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>В</w>
-                        <w>лѣ<hi rend="sup">т</hi>.</w>
-                        <w>҂ѕ҃.т҃.п҃и.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Въ</w>
-                        <w>лѣто 6388.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Въ</w>
-                        <w>лѣто 6388.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Въ</w>
-                        <w>лѣто 6388.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>22, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="22"><p>
+<app>
+<lem wit="#lem">
+<w>Въ</w>
+<w>лѣто 6388.</w>
+
+</lem>
+
+<rdg wit="#lav">
+<w>въ</w>
+<w>лѣ<hi rend="sup">т</hi>.</w>
+<w>҂ѕ҃.т҃.п҃.и҃.</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>въ</w>
+<w>лѣто 6388</w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>В</w>
+<w>лѣ<hi rend="sup">т</hi></w>
+<w>҂ѕ҃.т҃</w>
+<w>п҃и. <pb n="10v"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>В</w>
+<w>лѣ<hi rend="sup">т</hi>.</w>
+<w>҂ѕ҃.т҃.п҃и.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>В</w>
+<w>лѣто.</w>
+<w>҂ѕ҃.т҃.п҃и·:· <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>В</w>
+<w>лѣ<hi rend="sup">т</hi>.</w>
+<w>҂ѕ҃.т҃.п҃и.</w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>Въ</w>
+<w>лѣто 6388.</w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>Въ</w>
+<w>лѣто 6388.</w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>Въ</w>
+<w>лѣто 6388.</w>
+
+</rdg>
+</app></p></div></body></text></TEI>

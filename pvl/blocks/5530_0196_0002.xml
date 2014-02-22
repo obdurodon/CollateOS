@@ -1,108 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>196, 2</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="2">
-            <p>
-               <app>
-                  <lem>
-                     <w>ово</w>
-                     <w>братии,</w>
-                     <w>ово</w>
-                     <w>мирьскымъ</w>
-                     <w>человѣкомъ.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>ѡво</w>
-                        <w>бра<lb/>тьи.</w>
-                        <w>ѡво</w>
-                        <w>мирьскы<hi rend="sup">м</hi>
-                        </w>
-                        <w>члв҃комъ. <lb/>
-                        </w>
-                        <w>
-                           <add place="margin">да</add>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ѡво</w>
-                        <w>братьи.</w>
-                        <w>ѡво</w>
-                        <w>мирьскимъ</w>
-                        <w>че<lb/>ловѣкомъ.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ѡво</w>
-                        <w>бра<hi rend="sup">т</hi>и.</w>
-                        <w>ѡво</w>
-                        <w>мирьскымъ <lb/>
-                        </w>
-                        <w>члвк҃омъ.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ѡво</w>
-                        <w>братьи <lb/>
-                        </w>
-                        <w>ѡво</w>
-                        <w>мирьскымь</w>
-                        <w>члв҃комъ <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ѡво</w>
-                        <w>братїи. <lb/>
-                        </w>
-                        <w>ово</w>
-                        <w>мирскы<hi rend="sup">м</hi>
-                        </w>
-                        <w>чл҃ко<hi rend="sup">м</hi>.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>ово</w>
-                        <w>братьи,</w>
-                        <w>ово</w>
-                        <w>мирьскымъ</w>
-                        <w>человѣкомъ,</w>
-                        <w>да</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>ово</w>
-                        <w>братии,</w>
-                        <w>ово</w>
-                        <w>мирьскымъ</w>
-                        <w>человѣкомъ,</w>
-                        <w>да</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>ово</w>
-                        <w>братьи,</w>
-                        <w>ово</w>
-                        <w>мирьскым</w>
-                        <w>человѣкомъ,</w>
-                        <w>да</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>196, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="2"><p>
+<app>
+<lem wit="#lem">
+<w>ово</w>
+<w>братии,</w>
+<w>ово</w>
+<w>мирьскымъ</w>
+<w>человѣкомъ.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>ѡво</w>
+<w>бра<lb/>тьи.</w>
+<w>ѡво</w>
+<w>мирьскы<hi rend="sup">м</hi></w>
+<w>члв҃комъ. <lb/><milestone unit="add" n="start" place="margin"/>да<milestone unit="add" n="end"/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>ѡво</w>
+<w>братьи.</w>
+<w>ѡво</w>
+<w>мирьскимъ</w>
+<w>че<lb/>ловѣкомъ.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ѡво</w>
+<w>бра<hi rend="sup">т</hi>и.</w>
+<w>ѡво</w>
+<w>мирьскымъ <lb/></w>
+
+<w>члвк҃омъ.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ѡво</w>
+<w>братьи <lb/></w>
+
+<w>ѡво</w>
+<w>мирьскымь</w>
+<w>члв҃комъ <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>ѡво</w>
+<w>братїи. <lb/></w>
+
+<w>ово</w>
+<w>мирскы<hi rend="sup">м</hi></w>
+<w>чл҃ко<hi rend="sup">м</hi>.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>ово</w>
+<w>братьи,</w>
+<w>ово</w>
+<w>мирьскымъ</w>
+<w>человѣкомъ,</w>
+<w>да</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>ово</w>
+<w>братии,</w>
+<w>ово</w>
+<w>мирьскымъ</w>
+<w>человѣкомъ,</w>
+<w>да</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>ово</w>
+<w>братьи,</w>
+<w>ово</w>
+<w>мирьскым</w>
+<w>человѣкомъ,</w>
+<w>да</w>
+</rdg>
+</app></p></div></body></text></TEI>

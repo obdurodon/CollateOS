@@ -1,115 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>31, 9</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="9">
-            <p>
-               <app>
-                  <lem>
-                     <w>бо</w>
-                     <w>градомъ</w>
-                     <w>сѣдяху</w>
-                     <w>кънязи,</w>
-                     <w>подъ</w>
-                     <w>Ольгъмь</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#tro">
-                        <w>убо</w>
-                        <w>градомъ</w>
-                        <w>сѣдяху</w>
-                        <w>князеве</w>
-                        <w>подъ</w>
-                        <w>олгомъ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>бо</w>
-                        <w>горо<hi rend="sup">д</hi>мъ</w>
-                        <w>седѧхѹ</w>
-                        <w>велиции</w>
-                        <w>кни<hi rend="sup">з</hi>.</w>
-                        <w>по<hi rend="sup">д</hi>
-                        </w>
-                        <w>лго<hi rend="sup">м</hi> 
-                           <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>бо</w>
-                        <w>городомъ.</w>
-                        <w>седѧхѹ</w>
-                        <w>велїции</w>
-                        <w>кн҃зи.</w>
-                        <w>под</w>
-                        <w>ѡлгомъ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>бо</w>
-                        <w>городомъ.</w>
-                        <w>сѣ<lb/>дѧху</w>
-                        <w>кнѧ<sic>ж</sic>ья.</w>
-                        <w>подъ</w>
-                        <w>ѡль<lb/>го<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>бо</w>
-                        <w>городомь <lb/>
-                        </w>
-                        <w>сѣдѧхѫ</w>
-                        <w>кнѧжьа.</w>
-                        <w>пѡ<hi rend="sup">д</hi>
-                        </w>
-                        <w>ѡльго<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>бо</w>
-                        <w>городомъ</w>
-                        <w>седяху</w>
-                        <w>велиции</w>
-                        <w>князи,</w>
-                        <w>подъ</w>
-                        <w>Олгомъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>бо</w>
-                        <w>градомъ</w>
-                        <w>сѣдяху</w>
-                        <w>велиции</w>
-                        <w>кънязи,</w>
-                        <w>подъ</w>
-                        <w>Ольгъмь</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>бо</w>
-                        <w>городомъ</w>
-                        <w>седяху</w>
-                        <w>велиции</w>
-                        <w>князи,</w>
-                        <w>под</w>
-                        <w>Олгом</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>31, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="9"><p>
+<app>
+<lem wit="#lem">
+<w>бо</w>
+<w>градомъ</w>
+<w>сѣдяху</w>
+<w>кънязи,</w>
+<w>подъ</w>
+<w>Ольгъмь</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#tro">
+<w>убо</w>
+<w>градомъ</w>
+<w>сѣдяху</w>
+<w>князеве</w>
+<w>подъ</w>
+<w>олгомъ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>бо</w>
+<w>горо<hi rend="sup">д</hi>мъ</w>
+<w>седѧхѹ</w>
+<w>велиции</w>
+<w>кни<hi rend="sup">з</hi>.</w>
+<w>по<hi rend="sup">д</hi></w>
+<w>лго<hi rend="sup">м</hi><lb/></w>
+</rdg>
+
+<rdg wit="#aka">
+<w>бо</w>
+<w>городомъ.</w>
+<w>седѧхѹ</w>
+<w>велїции</w>
+<w>кн҃зи.</w>
+<w>под</w>
+<w>ѡлгомъ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>бо</w>
+<w>городомъ.</w>
+<w>сѣ<lb/>дѧху</w>
+<w>кнѧ<milestone unit="sic" n="start"/>ж<milestone unit="sic" n="end"/>ья.</w>
+<w>подъ</w>
+<w>ѡль<lb/>го<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#xle">
+<w>бо</w>
+<w>городомь <lb/></w>
+
+<w>сѣдѧхѫ</w>
+<w>кнѧжьа.</w>
+<w>пѡ<hi rend="sup">д</hi></w>
+<w>ѡльго<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>бо</w>
+<w>городомъ</w>
+<w>седяху</w>
+<w>велиции</w>
+<w>князи,</w>
+<w>подъ</w>
+<w>Олгомъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>бо</w>
+<w>градомъ</w>
+<w>сѣдяху</w>
+<w>велиции</w>
+<w>кънязи,</w>
+<w>подъ</w>
+<w>Ольгъмь</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>бо</w>
+<w>городомъ</w>
+<w>седяху</w>
+<w>велиции</w>
+<w>князи,</w>
+<w>под</w>
+<w>Олгом</w>
+</rdg>
+</app></p></div></body></text></TEI>

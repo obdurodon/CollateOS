@@ -1,118 +1,97 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>273, 3</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="3">
-            <p>
-               <app>
-                  <lem>
-                     <w>Давыда</w>
-                     <w>Игоревича,</w>
-                     <w>и</w>
-                     <w>не</w>
-                     <w>даша</w>
-                     <w>ему</w>
-                     <w>Володимиря,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>двд҃а</w>
-                        <w>игоревича·</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>даша</w>
-                        <w>ѥ<lb/>му</w>
-                        <w>володимерѧ·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>дв҃да</w>
-                        <w>игоревича·</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>даша</w>
-                        <w>емѹ</w>
-                        <w>володиме<lb/>рѧ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>дв҃да</w>
-                        <w>игоревича·</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>даша</w>
-                        <w>емѹ· <lb/>
-                        </w>
-                        <w>володимирѧ·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>двд҃а <lb/>
-                        </w>
-                        <w>игоревича·</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>даша·</w>
-                        <w>
-                           <sic/>
-                        </w>
-                        <w>ему <lb/>
-                        </w>
-                        <w>володимерѧ·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>дв҃да</w>
-                        <w>игоревича.</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>даша</w>
-                        <w>же</w>
-                        <w>емоу</w>
-                        <w>вол<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>ме<lb/>рѧ.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Давыда</w>
-                        <w>Игоревича,</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>даша</w>
-                        <w>ему</w>
-                        <w>Володимеря,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Давыда</w>
-                        <w>Игоревича,</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>даша</w>
-                        <w>ему</w>
-                        <w>Володимеря,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Давыда</w>
-                        <w>Игоревича,</w>
-                        <w>и</w>
-                        <w>не</w>
-                        <w>даша</w>
-                        <w>ему</w>
-                        <w>Володимеря,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>273, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="3"><p>
+<app>
+<lem wit="#lem">
+<w>Давыда</w>
+<w>Игоревича,</w>
+<w>и</w>
+<w>не</w>
+<w>даша</w>
+<w>ему</w>
+<w>Володимиря,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>двд҃а</w>
+<w>игоревича·</w>
+<w>и</w>
+<w>не</w>
+<w>даша</w>
+<w>ѥ<lb/>му</w>
+<w>володимерѧ·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>дв҃да</w>
+<w>игоревича·</w>
+<w>и</w>
+<w>не</w>
+<w>даша</w>
+<w>емѹ</w>
+<w>володиме<lb/>рѧ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>дв҃да</w>
+<w>игоревича·</w>
+<w>и</w>
+<w>не</w>
+<w>даша</w>
+<w>емѹ· <lb/></w>
+
+<w>володимирѧ·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>двд҃а <lb/></w>
+
+<w>игоревича·</w>
+<w>и</w>
+<w>не</w>
+<w>даша·</w>
+<w><milestone unit="sic" n="start"/><milestone unit="sic" n="end"/></w>
+<w>ему <lb/></w>
+
+<w>володимерѧ·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>дв҃да</w>
+<w>игоревича.</w>
+<w>и</w>
+<w>не</w>
+<w>даша</w>
+<w>же</w>
+<w>емоу</w>
+<w>вол<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>ме<lb/>рѧ.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Давыда</w>
+<w>Игоревича,</w>
+<w>и</w>
+<w>не</w>
+<w>даша</w>
+<w>ему</w>
+<w>Володимеря,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Давыда</w>
+<w>Игоревича,</w>
+<w>и</w>
+<w>не</w>
+<w>даша</w>
+<w>ему</w>
+<w>Володимеря,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Давыда</w>
+<w>Игоревича,</w>
+<w>и</w>
+<w>не</w>
+<w>даша</w>
+<w>ему</w>
+<w>Володимеря,</w>
+</rdg>
+</app></p></div></body></text></TEI>

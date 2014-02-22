@@ -1,120 +1,102 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>279, 5</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="5">
-            <p>
-               <app>
-                  <lem>
-                     <w>И</w>
-                     <w>убиша</w>
-                     <w>ту</w>
-                     <w>въ</w>
-                     <w>пълку</w>
-                     <w>кънязии 20:</w>
-                     <w>Урусобу,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>и</w>
-                        <w>оубиша</w>
-                        <w>ту</w>
-                        <w>в</w>
-                        <w>полку</w>
-                        <w>кнѧзии· <lb/>
-                        </w>
-                        <w>к҃·</w>
-                        <w>оурусобу·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>оубиша</w>
-                        <w>тѹ</w>
-                        <w>в</w>
-                        <w>полкѹ</w>
-                        <w>кн҃зеи</w>
-                        <w>·к҃·</w>
-                        <w>оурѹсобѹ.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>Оубиша</w>
-                        <w>тѹ <lb/>
-                        </w>
-                        <w>в</w>
-                        <w>полкѹ</w>
-                        <w>кн҃зеи</w>
-                        <w>·к҃·</w>
-                        <w>оурѹсобѹ·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>и</w>
-                        <w>
-                           <sic>у</sic>ъби<sic>хо</sic> 
-                           <lb/>
-                        </w>
-                        <w>ту</w>
-                        <w>в</w>
-                        <w>полку</w>
-                        <w>кнѧзии</w>
-                        <w>·к҃·</w>
-                        <w>оу<lb/>русобу·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>и</w>
-                        <w>оубиша</w>
-                        <w>тоу</w>
-                        <w>в</w>
-                        <w>пол′коу</w>
-                        <w>кнѧѕеи. <lb/>
-                        </w>
-                        <w>к҃,</w>
-                        <w>роусобоу.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>И</w>
-                        <w>убиша</w>
-                        <w>ту</w>
-                        <w>в</w>
-                        <w>полку</w>
-                        <w>князий 20:</w>
-                        <w>Урусобу,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>И</w>
-                        <w>убиша</w>
-                        <w>ту</w>
-                        <w>въ</w>
-                        <w>пълку</w>
-                        <w>кънязии 20:</w>
-                        <w>Урусобу,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>И</w>
-                        <w>убиша</w>
-                        <w>ту</w>
-                        <w>в</w>
-                        <w>полку</w>
-                        <w>князий 20:</w>
-                        <w>Урусобу,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>279, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="5"><p>
+<app>
+<lem wit="#lem">
+<w>И</w>
+<w>убиша</w>
+<w>ту</w>
+<w>въ</w>
+<w>пълку</w>
+<w>кънязии 20:</w>
+
+<w>Урусобу,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>и</w>
+<w>оубиша</w>
+<w>ту</w>
+<w>в</w>
+<w>полку</w>
+<w>кнѧзии· <lb/></w>
+
+<w>к҃·</w>
+<w>оурусобу·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>оубиша</w>
+<w>тѹ</w>
+<w>в</w>
+<w>полкѹ</w>
+<w>кн҃зеи</w>
+<w>·к҃·</w>
+<w>оурѹсобѹ.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>Оубиша</w>
+<w>тѹ <lb/></w>
+
+<w>в</w>
+<w>полкѹ</w>
+<w>кн҃зеи</w>
+<w>·к҃·</w>
+<w>оурѹсобѹ·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>и</w>
+<w><milestone unit="sic" n="start"/>у<milestone unit="sic" n="end"/>ъби<milestone unit="sic" n="start"/>хо<milestone unit="sic" n="end"/><lb/>ша</w>
+<w>ту</w>
+<w>в</w>
+<w>полку</w>
+<w>кнѧзии</w>
+<w>·к҃·</w>
+<w>оу<lb/>русобу·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>и</w>
+<w>оубиша</w>
+<w>тоу</w>
+<w>в</w>
+<w>пол′коу</w>
+<w>кнѧѕеи. <lb/></w>
+
+<w>к҃,</w>
+<w>роусобоу.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>И</w>
+<w>убиша</w>
+<w>ту</w>
+<w>в</w>
+<w>полку</w>
+<w>князий 20:</w>
+
+<w>Урусобу,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>И</w>
+<w>убиша</w>
+<w>ту</w>
+<w>въ</w>
+<w>пълку</w>
+<w>кънязии 20:</w>
+
+<w>Урусобу,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>И</w>
+<w>убиша</w>
+<w>ту</w>
+<w>в</w>
+<w>полку</w>
+<w>князий 20:</w>
+
+<w>Урусобу,</w>
+</rdg>
+</app></p></div></body></text></TEI>

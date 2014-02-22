@@ -1,129 +1,109 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>61, 16</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="16">
-            <p>
-               <app>
-                  <lem>
-                     <w>и</w>
-                     <w>древьняя</w>
-                     <w>цьсарица,</w>
-                     <w>мати</w>
-                     <w>великаго</w>
-                     <w>Костянтина.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>
-                           <sic>и</sic> 
-                           <lb/>
-                        </w>
-                        <w>древнѧя</w>
-                        <w>цр҃цѧ.</w>
-                        <w>м҃ти</w>
-                        <w>великаго</w>
-                        <w>костѧнтина.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>и</w>
-                        <w>древнѧя</w>
-                        <w>цр҃ци</w>
-                        <w>м҃ти</w>
-                        <w>велика<hi rend="sup">г</hi>
-                        </w>
-                        <w>костѧнтина <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>и</w>
-                        <w>древнѧя</w>
-                        <w>цр҃ци.</w>
-                        <w>м҃ти</w>
-                        <w>велико<lb/>го</w>
-                        <w>костѧнтина.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>и</w>
-                        <w>древнѧя</w>
-                        <w>ц<hi rend="sup">с</hi>рца.</w>
-                        <w>м҃ти</w>
-                        <w>велї<lb/>кого</w>
-                        <w>костѧнтина.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>и</w>
-                        <w>древнѧа <lb/>
-                        </w>
-                        <w>цр҃ца</w>
-                        <w>м҃ти</w>
-                        <w>великого</w>
-                        <w>костѧнтина.</w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>древняя</w>
-                        <w>цесариця</w>
-                        <w>мати</w>
-                        <w>великого</w>
-                        <w>костянтина</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>древняя</w>
-                        <w>царица</w>
-                        <w>мати</w>
-                        <w>великаго</w>
-                        <w>костинтина</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>древняа</w>
-                        <w>царица</w>
-                        <w>мати</w>
-                        <w>великаго</w>
-                        <w>костинтина</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>и</w>
-                        <w>древняя</w>
-                        <w>царица,</w>
-                        <w>мати</w>
-                        <w>Великаго</w>
-                        <w>Костянтина.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>и</w>
-                        <w>древьняя</w>
-                        <w>цѣсарица,</w>
-                        <w>мати</w>
-                        <w>великаго</w>
-                        <w>Костянтина.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>и</w>
-                        <w>древняя</w>
-                        <w>царица,</w>
-                        <w>мати</w>
-                        <w>Великаго</w>
-                        <w>Костянтина.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>61, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="16"><p>
+<app>
+<lem wit="#lem">
+<w>и</w>
+<w>древьняя</w>
+<w>цьсарица,</w>
+<w>мати</w>
+<w>великаго</w>
+<w>Костянтина.</w>
+</lem>
+
+<rdg wit="#lav">
+<w><milestone unit="sic" n="start"/>и<milestone unit="sic" n="end"/><lb/></w>
+<w>древнѧя</w>
+<w>цр҃цѧ.</w>
+<w>м҃ти</w>
+<w>великаго</w>
+<w>костѧнтина.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>и</w>
+<w>древнѧя</w>
+<w>цр҃ци</w>
+<w>м҃ти</w>
+<w>велика<hi rend="sup">г</hi></w>
+<w>костѧнтина <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>и</w>
+<w>древнѧя</w>
+<w>цр҃ци.</w>
+<w>м҃ти</w>
+<w>велико<lb/>го</w>
+<w>костѧнтина.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>и</w>
+<w>древнѧя</w>
+<w>ц<hi rend="sup">с</hi>рца.</w>
+<w>м҃ти</w>
+<w>велї<lb/>кого</w>
+<w>костѧнтина.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>и</w>
+<w>древнѧа <lb/></w>
+
+<w>цр҃ца</w>
+<w>м҃ти</w>
+<w>великого</w>
+<w>костѧнтина.</w>
+</rdg>
+
+<rdg wit="#kom">
+<w>древняя</w>
+<w>цесариця</w>
+<w>мати</w>
+<w>великого</w>
+<w>костянтина</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>древняя</w>
+<w>царица</w>
+<w>мати</w>
+<w>великаго</w>
+<w>костинтина</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>древняа</w>
+<w>царица</w>
+<w>мати</w>
+<w>великаго</w>
+<w>костинтина</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>и</w>
+<w>древняя</w>
+<w>царица,</w>
+<w>мати</w>
+<w>Великаго</w>
+<w>Костянтина.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>и</w>
+<w>древьняя</w>
+<w>цѣсарица,</w>
+<w>мати</w>
+<w>великаго</w>
+<w>Костянтина.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>и</w>
+<w>древняя</w>
+<w>царица,</w>
+<w>мати</w>
+<w>Великаго</w>
+<w>Костянтина.</w>
+</rdg>
+</app></p></div></body></text></TEI>

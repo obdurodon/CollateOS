@@ -1,132 +1,112 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>28, 17</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="17">
-            <p>
-               <app>
-                  <lem>
-                     <w>учитель</w>
-                     <w>есть</w>
-                     <w>Павьлъ,</w>
-                     <w>отъ</w>
-                     <w>негоже</w>
-                     <w>языка</w>
-                     <w>и</w>
-                     <w>мы</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#tro">
-                        <w>учитель</w>
-                        <w>есть</w>
-                        <w>паулъ</w>
-                        <w>отъ</w>
-                        <w>него</w>
-                        <w>же</w>
-                        <w>языка</w>
-                        <w>и</w>
-                        <w>мы</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>оучитель</w>
-                        <w>е<hi rend="sup">с</hi>
-                        </w>
-                        <w>павелъ.</w>
-                        <w>ѿ</w>
-                        <w>него</w>
-                        <w>же</w>
-                        <w>языка</w>
-                        <w>и</w>
-                        <w>мы</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>оучитель</w>
-                        <w>есть</w>
-                        <w>павелъ. <lb/>
-                        </w>
-                        <w>ѿ</w>
-                        <w>него</w>
-                        <w>же</w>
-                        <w>языка</w>
-                        <w>и</w>
-                        <w>мы</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>оу<lb/>читель</w>
-                        <w>есть</w>
-                        <w>павелъ.</w>
-                        <w>ѿ <lb/>
-                        </w>
-                        <w>него</w>
-                        <w>же</w>
-                        <w>языка</w>
-                        <w>и</w>
-                        <w>мы</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>оучитель</w>
-                        <w>е<hi rend="sup">с</hi>
-                        </w>
-                        <w>паве<hi rend="sup">л</hi>. <lb/>
-                        </w>
-                        <w>ѿ</w>
-                        <w>него<hi rend="sup">ж</hi>
-                        </w>
-                        <w>языка</w>
-                        <w>и</w>
-                        <w>мы</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>учитель</w>
-                        <w>есть</w>
-                        <w>Павелъ,</w>
-                        <w>отъ</w>
-                        <w>негоже</w>
-                        <w>языка</w>
-                        <w>и</w>
-                        <w>мы</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>учитель</w>
-                        <w>есть</w>
-                        <w>Павьлъ,</w>
-                        <w>отъ</w>
-                        <w>негоже</w>
-                        <w>языка</w>
-                        <w>и</w>
-                        <w>мы</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>учитель</w>
-                        <w>есть</w>
-                        <w>Павелъ,</w>
-                        <w>от</w>
-                        <w>него</w>
-                        <w>же</w>
-                        <w>языка</w>
-                        <w>и</w>
-                        <w>мы</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>28, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="17"><p>
+<app>
+<lem wit="#lem">
+<w>учитель</w>
+<w>есть</w>
+<w>Павьлъ,</w>
+<w>отъ</w>
+<w>негоже</w>
+<w>языка</w>
+<w>и</w>
+<w>мы</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#tro">
+<w>учитель</w>
+<w>есть</w>
+<w>паулъ</w>
+<w>отъ</w>
+<w>него</w>
+<w>же</w>
+<w>языка</w>
+<w>и</w>
+<w>мы</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>оучитель</w>
+<w>е<hi rend="sup">с</hi></w>
+<w>павелъ.</w>
+<w>ѿ</w>
+<w>него</w>
+<w>же</w>
+<w>языка</w>
+<w>и</w>
+<w>мы</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>оучитель</w>
+<w>есть</w>
+<w>павелъ. <lb/></w>
+
+<w>ѿ</w>
+<w>него</w>
+<w>же</w>
+<w>языка</w>
+<w>и</w>
+<w>мы</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>оу<lb/>читель</w>
+<w>есть</w>
+<w>павелъ.</w>
+<w>ѿ <lb/></w>
+
+<w>него</w>
+<w>же</w>
+<w>языка</w>
+<w>и</w>
+<w>мы</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>оучитель</w>
+<w>е<hi rend="sup">с</hi></w>
+<w>паве<hi rend="sup">л</hi>. <lb/></w>
+
+<w>ѿ</w>
+<w>него<hi rend="sup">ж</hi></w>
+<w>языка</w>
+<w>и</w>
+<w>мы</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>учитель</w>
+<w>есть</w>
+<w>Павелъ,</w>
+<w>отъ</w>
+<w>негоже</w>
+<w>языка</w>
+<w>и</w>
+<w>мы</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>учитель</w>
+<w>есть</w>
+<w>Павьлъ,</w>
+<w>отъ</w>
+<w>негоже</w>
+<w>языка</w>
+<w>и</w>
+<w>мы</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>учитель</w>
+<w>есть</w>
+<w>Павелъ,</w>
+<w>от</w>
+<w>него</w>
+<w>же</w>
+<w>языка</w>
+<w>и</w>
+<w>мы</w>
+</rdg>
+</app></p></div></body></text></TEI>

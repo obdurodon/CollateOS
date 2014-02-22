@@ -1,109 +1,90 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>147, 23</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="23">
-            <p>
-               <app>
-                  <lem>
-                     <w>сущю</w>
-                     <w>въ</w>
-                     <w>Новѣгородѣ</w>
-                     <w>тъгда.</w>
-                     <w>Въ</w>
-                     <w>се</w>
-                     <w>же</w>
-                     <w>лѣто</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>сущю <lb/>
-                        </w>
-                        <w>новѣгородѣ</w>
-                        <w>тогда.</w>
-                        <w>В</w>
-                        <w>се</w>
-                        <w>же</w>
-                        <w>лѣ<hi rend="sup">т</hi>. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>соущѹ <lb/>
-                        </w>
-                        <w>в</w>
-                        <w>новѣгоро<hi rend="sup">д</hi>.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>сѹщѹ</w>
-                        <w>в</w>
-                        <w>новѣгородѣ.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>сущу <lb/>
-                        </w>
-                        <w>в</w>
-                        <w>новѣгородѣ</w>
-                        <w>тогда.</w>
-                        <w>в</w>
-                        <w>се</w>
-                        <w>же</w>
-                        <w>лѣ<lb/>то</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>сѫщоу</w>
-                        <w>в</w>
-                        <w>новѣгородѣ</w>
-                        <w>тог<hi rend="sup">д</hi>а.</w>
-                        <w>В</w>
-                        <w>се</w>
-                        <w>же</w>
-                        <w>лѣ<lb/>то</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>сущю</w>
-                        <w>Новѣгородѣ</w>
-                        <w>тогда.</w>
-                        <w>В</w>
-                        <w>се</w>
-                        <w>же</w>
-                        <w>лѣто</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>сущю</w>
-                        <w>Новѣгородѣ</w>
-                        <w>тъгда.</w>
-                        <w>Въ</w>
-                        <w>сеже</w>
-                        <w>лѣто</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>сущю</w>
-                        <w>Новѣгородѣ</w>
-                        <w>тогда.</w>
-                        <w>В</w>
-                        <w>се</w>
-                        <w>же</w>
-                        <w>лѣто</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>147, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="23"><p>
+<app>
+<lem wit="#lem">
+<w>сущю</w>
+<w>въ</w>
+<w>Новѣгородѣ</w>
+<w>тъгда.</w>
+<w>Въ</w>
+<w>се</w>
+<w>же</w>
+<w>лѣто</w>
+</lem>
+
+<rdg wit="#lav">
+<w>сущю <lb/></w>
+
+<w>новѣгородѣ</w>
+<w>тогда.</w>
+<w>В</w>
+<w>се</w>
+<w>же</w>
+<w>лѣ<hi rend="sup">т</hi>. <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>соущѹ <lb/></w>
+
+<w>в</w>
+<w>новѣгоро<hi rend="sup">д</hi>.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>сѹщѹ</w>
+<w>в</w>
+<w>новѣгородѣ.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>сущу <lb/></w>
+
+<w>в</w>
+<w>новѣгородѣ</w>
+<w>тогда.</w>
+<w>в</w>
+<w>се</w>
+<w>же</w>
+<w>лѣ<lb/>то</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>сѫщоу</w>
+<w>в</w>
+<w>новѣгородѣ</w>
+<w>тог<hi rend="sup">д</hi>а.</w>
+<w>В</w>
+<w>се</w>
+<w>же</w>
+<w>лѣ<lb/>то</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>сущю</w>
+<w>Новѣгородѣ</w>
+<w>тогда.</w>
+<w>В</w>
+<w>се</w>
+<w>же</w>
+<w>лѣто</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>сущю</w>
+<w>Новѣгородѣ</w>
+<w>тъгда.</w>
+<w>Въ</w>
+<w>сеже</w>
+<w>лѣто</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>сущю</w>
+<w>Новѣгородѣ</w>
+<w>тогда.</w>
+<w>В</w>
+<w>се</w>
+<w>же</w>
+<w>лѣто</w>
+</rdg>
+</app></p></div></body></text></TEI>

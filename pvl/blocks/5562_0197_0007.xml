@@ -1,119 +1,97 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>197, 7</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="7">
-            <p>
-               <app>
-                  <lem>
-                     <w>печеру</w>
-                     <w>сию,</w>
-                     <w>и</w>
-                     <w>сего</w>
-                     <w>сьдѣ</w>
-                     <w>загребѣмъ”.</w>
-                     <w>Ини</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>печеру</w>
-                        <w>сию.</w>
-                        <w>и</w>
-                        <w>сего</w>
-                        <w>загребе<hi rend="sup">м</hi>
-                        </w>
-                        <w>здѣ. <lb/>
-                        </w>
-                        <w>ини</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>пещероу</w>
-                        <w>сию.</w>
-                        <w>и</w>
-                        <w>сего</w>
-                        <w>здѣ</w>
-                        <w>загребемъ.</w>
-                        <w>и</w>
-                        <w>инии</w>
-                        <w>
-                           <pb n="114r"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>пещерѹ</w>
-                        <w>сию.</w>
-                        <w>и</w>
-                        <w>сего</w>
-                        <w>здѣ <lb/>
-                        </w>
-                        <w>загребѣмъ.</w>
-                        <w>инии</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>пещеру</w>
-                        <w>си<lb/>ю</w>
-                        <w>и</w>
-                        <w>се</w>
-                        <w>здѣ</w>
-                        <w>загребемь.</w>
-                        <w>инии</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>печероу</w>
-                        <w>сїю.</w>
-                        <w>и</w>
-                        <w>сего <lb/>
-                        </w>
-                        <w>здѣ</w>
-                        <w>загребе<hi rend="sup">м</hi>.</w>
-                        <w>инїи</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>печеру</w>
-                        <w>сию,</w>
-                        <w>и</w>
-                        <w>сего</w>
-                        <w>загребемъ</w>
-                        <w>здѣ”;</w>
-                        <w>ини</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>печеру</w>
-                        <w>сию,</w>
-                        <w>и</w>
-                        <w>сего</w>
-                        <w>загребѣмъ</w>
-                        <w>сьде”;</w>
-                        <w>ини</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>печеру</w>
-                        <w>сию,</w>
-                        <w>и</w>
-                        <w>сего</w>
-                        <w>загребем</w>
-                        <w>здѣ”.</w>
-                        <w>Ини</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>197, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="7"><p>
+<app>
+<lem wit="#lem">
+<w>печеру</w>
+<w>сию,</w>
+<w>и</w>
+<w>сего</w>
+<w>сьдѣ</w>
+<w>загребѣмъ”.</w>
+<w>Ини</w>
+</lem>
+
+<rdg wit="#lav">
+<w>печеру</w>
+<w>сию.</w>
+<w>и</w>
+<w>сего</w>
+<w>загребе<hi rend="sup">м</hi></w>
+<w>здѣ. <lb/></w>
+
+<w>ини</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>пещероу</w>
+<w>сию.</w>
+<w>и</w>
+<w>сего</w>
+<w>здѣ</w>
+<w>загребемъ.</w>
+<w>и</w>
+<w>инии <pb n="114r"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>пещерѹ</w>
+<w>сию.</w>
+<w>и</w>
+<w>сего</w>
+<w>здѣ <lb/></w>
+
+<w>загребѣмъ.</w>
+<w>инии</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>пещеру</w>
+<w>си<lb/>ю</w>
+<w>и</w>
+<w>се</w>
+<w>здѣ</w>
+<w>загребемь.</w>
+<w>инии</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>печероу</w>
+<w>сїю.</w>
+<w>и</w>
+<w>сего <lb/></w>
+
+<w>здѣ</w>
+<w>загребе<hi rend="sup">м</hi>.</w>
+<w>инїи</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>печеру</w>
+<w>сию,</w>
+<w>и</w>
+<w>сего</w>
+<w>загребемъ</w>
+<w>здѣ”;</w>
+<w>ини</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>печеру</w>
+<w>сию,</w>
+<w>и</w>
+<w>сего</w>
+<w>загребѣмъ</w>
+<w>сьде”;</w>
+<w>ини</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>печеру</w>
+<w>сию,</w>
+<w>и</w>
+<w>сего</w>
+<w>загребем</w>
+<w>здѣ”.</w>
+<w>Ини</w>
+</rdg>
+</app></p></div></body></text></TEI>

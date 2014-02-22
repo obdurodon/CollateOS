@@ -1,113 +1,93 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>279, 10</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="10">
-            <p>
-               <app>
-                  <lem>
-                     <w>Белдюзя</w>
-                     <w>къ</w>
-                     <w>Святопълку,</w>
-                     <w>и</w>
-                     <w>нача</w>
-                     <w>Белдузь</w>
-                     <w>даяти</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>белдюзѧ·</w>
-                        <w>к</w>
-                        <w>ст҃ополку·</w>
-                        <w>и</w>
-                        <w>на<lb/>ча</w>
-                        <w>белдюзь</w>
-                        <w>даяти</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>веледѹзѧ</w>
-                        <w>ко</w>
-                        <w>ст҃ополкѹ·</w>
-                        <w>и</w>
-                        <w>на<hi rend="sup">ч</hi>
-                        </w>
-                        <w>аве<lb/>лдюзь</w>
-                        <w>даяти</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>велдѹзѧ</w>
-                        <w>ко</w>
-                        <w>ст҃ополкѹ·</w>
-                        <w>и</w>
-                        <w>нача</w>
-                        <w>авелдюзь</w>
-                        <w>да<lb/>яти</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>бе<lb/>лдузѧ</w>
-                        <w>къ</w>
-                        <w>сто҃полку·</w>
-                        <w>и</w>
-                        <w>нача</w>
-                        <w>бе<lb/>лдузь·</w>
-                        <w>даяти</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>белдоуѕѧ</w>
-                        <w>къ</w>
-                        <w>с҃топол′коу.</w>
-                        <w>и</w>
-                        <w>нача</w>
-                        <w>бел′доузь</w>
-                        <w>даѧти <lb/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Белдюзя</w>
-                        <w>к</w>
-                        <w>Святополку,</w>
-                        <w>и</w>
-                        <w>нача</w>
-                        <w>Белдюзь</w>
-                        <w>даяти</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Белдюзя</w>
-                        <w>къ</w>
-                        <w>Святопълку,</w>
-                        <w>и</w>
-                        <w>нача</w>
-                        <w>Белдюзь</w>
-                        <w>даяти</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Белдюзя</w>
-                        <w>к</w>
-                        <w>Святополку,</w>
-                        <w>и</w>
-                        <w>нача</w>
-                        <w>Белдюзь</w>
-                        <w>даяти</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>279, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="10"><p>
+<app>
+<lem wit="#lem">
+<w>Белдюзя</w>
+<w>къ</w>
+<w>Святопълку,</w>
+<w>и</w>
+<w>нача</w>
+<w>Белдузь</w>
+<w>даяти</w>
+</lem>
+
+<rdg wit="#lav">
+<w>белдюзѧ·</w>
+<w>к</w>
+<w>ст҃ополку·</w>
+<w>и</w>
+<w>на<lb/>ча</w>
+<w>белдюзь</w>
+<w>даяти</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>веледѹзѧ</w>
+<w>ко</w>
+<w>ст҃ополкѹ·</w>
+<w>и</w>
+<w>на<hi rend="sup">ч</hi></w>
+<w>аве<lb/>лдюзь</w>
+<w>даяти</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>велдѹзѧ</w>
+<w>ко</w>
+<w>ст҃ополкѹ·</w>
+<w>и</w>
+<w>нача</w>
+<w>авелдюзь</w>
+<w>да<lb/>яти</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>бе<lb/>лдузѧ</w>
+<w>къ</w>
+<w>сто҃полку·</w>
+<w>и</w>
+<w>нача</w>
+<w>бе<lb/>лдузь·</w>
+<w>даяти</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>белдоуѕѧ</w>
+<w>къ</w>
+<w>с҃топол′коу.</w>
+<w>и</w>
+<w>нача</w>
+<w>бел′доузь</w>
+<w>даѧти <lb/></w>
+
+</rdg>
+
+<rdg wit="#bych">
+<w>Белдюзя</w>
+<w>к</w>
+<w>Святополку,</w>
+<w>и</w>
+<w>нача</w>
+<w>Белдюзь</w>
+<w>даяти</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Белдюзя</w>
+<w>къ</w>
+<w>Святопълку,</w>
+<w>и</w>
+<w>нача</w>
+<w>Белдюзь</w>
+<w>даяти</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Белдюзя</w>
+<w>к</w>
+<w>Святополку,</w>
+<w>и</w>
+<w>нача</w>
+<w>Белдюзь</w>
+<w>даяти</w>
+</rdg>
+</app></p></div></body></text></TEI>

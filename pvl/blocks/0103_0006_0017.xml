@@ -1,95 +1,77 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>6, 17</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="17">
-            <p>
-               <app>
-                  <lem>
-                     <w>Полочане,</w>
-                     <w>рѣчькы</w>
-                     <w>ради,</w>
-                     <w>яже</w>
-                     <w>течеть</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>рѣчьки</w>
-                        <w>ради</w>
-                        <w>яже</w>
-                        <w>втечеть</w>
-                     </rdg>
-                     <rdg wit="#tro"/>
-                     <rdg wit="#rad">
-                        <w>полочане</w>
-                        <w>реки</w>
-                        <w>р<hi rend="sup">д</hi>а</w>
-                        <w>яже</w>
-                        <w>течеть</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>полочане.</w>
-                        <w>рекы</w>
-                        <w>ради</w>
-                        <w>яже</w>
-                        <w>течеть</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>полочане.</w>
-                        <w>рѣчькы</w>
-                        <w>р<hi rend="sup">д</hi>а.</w>
-                        <w>яже <lb/>
-                        </w>
-                        <w>втечеть</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>полочане</w>
-                        <w>рѣчкы</w>
-                        <w>ради.</w>
-                        <w>яже</w>
-                        <w>тече<hi rend="sup">т</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Полочане,</w>
-                        <w>рѣчьки</w>
-                        <w>ради,</w>
-                        <w>яже</w>
-                        <w>втечеть</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Полочане</w>
-                        <w>рѣчькы</w>
-                        <w>ради,</w>
-                        <w>яже</w>
-                        <w>вътечеть</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>полочане,</w>
-                        <w>рѣчьки</w>
-                        <w>ради,</w>
-                        <w>яже</w>
-                        <w>втечеть</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>6, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="17"><p>
+<app>
+<lem wit="#lem">
+<w>Полочане,</w>
+<w>рѣчькы</w>
+<w>ради,</w>
+<w>яже</w>
+<w>течеть</w>
+</lem>
+
+<rdg wit="#lav">
+<w>рѣчьки</w>
+<w>ради</w>
+<w>яже</w>
+<w>втечеть</w>
+</rdg>
+
+<rdg wit="#tro">
+</rdg>
+
+<rdg wit="#rad">
+<w>полочане</w>
+<w>реки</w>
+<w>р<hi rend="sup">д</hi>а</w>
+<w>яже</w>
+<w>течеть</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>полочане.</w>
+<w>рекы</w>
+<w>ради</w>
+<w>яже</w>
+<w>течеть</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>полочане.</w>
+<w>рѣчькы</w>
+<w>р<hi rend="sup">д</hi>а.</w>
+<w>яже <lb/></w>
+
+<w>втечеть</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>полочане</w>
+<w>рѣчкы</w>
+<w>ради.</w>
+<w>яже</w>
+<w>тече<hi rend="sup">т</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Полочане,</w>
+<w>рѣчьки</w>
+<w>ради,</w>
+<w>яже</w>
+<w>втечеть</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Полочане</w>
+<w>рѣчькы</w>
+<w>ради,</w>
+<w>яже</w>
+<w>вътечеть</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>полочане,</w>
+<w>рѣчьки</w>
+<w>ради,</w>
+<w>яже</w>
+<w>втечеть</w>
+</rdg>
+</app></p></div></body></text></TEI>

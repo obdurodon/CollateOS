@@ -1,118 +1,90 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>278, 28</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="28">
-            <p>
-               <app>
-                  <lem>
-                     <w>
-                        <choice>
-                           <seg>поидоша</seg>
-                           <seg>потекоша</seg>
-                        </choice>
-                     </w>
-                     <w>къ</w>
-                     <w>нимъ.</w>
-                     <w>Половьци</w>
-                     <w>же,</w>
-                     <w>видѣвъше</w>
-                     <w>устрьмление</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>поидоша</w>
-                        <w>к</w>
-                        <w>ни<hi rend="sup">м</hi>·</w>
-                        <w>половци</w>
-                        <w>же</w>
-                        <w>ви<lb/>дѣвше</w>
-                        <w>оустремленье</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>поидоша</w>
-                        <w>к</w>
-                        <w>ни<hi rend="sup">м</hi>.</w>
-                        <w>половци<hi rend="sup">ж</hi> 
-                           <lb/>
-                        </w>
-                        <w>видѣвше</w>
-                        <w>оустремление</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>поидоша</w>
-                        <w>к</w>
-                        <w>нимъ·</w>
-                        <w>половци</w>
-                        <w>же</w>
-                        <w>виде<lb/>вше·</w>
-                        <w>оустремленїе</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>потеко<lb/>ша</w>
-                        <w>к</w>
-                        <w>нимъ·</w>
-                        <w>половци</w>
-                        <w>же</w>
-                        <w>види<lb/>вше</w>
-                        <w>оустремленье</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>потекоша</w>
-                        <w>к</w>
-                        <w>ни<hi rend="sup">м</hi>.</w>
-                        <w>половци<hi rend="sup">ж</hi> 
-                           <lb/>
-                        </w>
-                        <w>видѣв′ше</w>
-                        <w>оустремленїе</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>поидоша</w>
-                        <w>к</w>
-                        <w>нимъ.</w>
-                        <w>Половци</w>
-                        <w>же</w>
-                        <w>видѣвше</w>
-                        <w>устремленье</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>поидоша</w>
-                        <w>къ</w>
-                        <w>нимъ.</w>
-                        <w>Половьци</w>
-                        <w>же,</w>
-                        <w>видѣвъше</w>
-                        <w>устрьмление</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>поидоша</w>
-                        <w>к</w>
-                        <w>ним.</w>
-                        <w>Половци</w>
-                        <w>же,</w>
-                        <w>видѣвше</w>
-                        <w>устремленье</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>278, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="28"><p>
+<app>
+<lem wit="#lem">
+<w><choice><seg>поидоша</seg><seg>потекоша</seg></choice></w>
+<w>къ</w>
+<w>нимъ.</w>
+<w>Половьци</w>
+<w>же,</w>
+<w>видѣвъше</w>
+<w>устрьмление</w>
+</lem>
+
+<rdg wit="#lav">
+<w>поидоша</w>
+<w>к</w>
+<w>ни<hi rend="sup">м</hi>·</w>
+<w>половци</w>
+<w>же</w>
+<w>ви<lb/>дѣвше</w>
+<w>оустремленье</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>поидоша</w>
+<w>к</w>
+<w>ни<hi rend="sup">м</hi>.</w>
+<w>половци<hi rend="sup">ж</hi><lb/></w>
+<w>видѣвше</w>
+<w>оустремление</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>поидоша</w>
+<w>к</w>
+<w>нимъ·</w>
+<w>половци</w>
+<w>же</w>
+<w>виде<lb/>вше·</w>
+<w>оустремленїе</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>потеко<lb/>ша</w>
+<w>к</w>
+<w>нимъ·</w>
+<w>половци</w>
+<w>же</w>
+<w>види<lb/>вше</w>
+<w>оустремленье</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>потекоша</w>
+<w>к</w>
+<w>ни<hi rend="sup">м</hi>.</w>
+<w>половци<hi rend="sup">ж</hi><lb/></w>
+<w>видѣв′ше</w>
+<w>оустремленїе</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>поидоша</w>
+<w>к</w>
+<w>нимъ.</w>
+<w>Половци</w>
+<w>же</w>
+<w>видѣвше</w>
+<w>устремленье</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>поидоша</w>
+<w>къ</w>
+<w>нимъ.</w>
+<w>Половьци</w>
+<w>же,</w>
+<w>видѣвъше</w>
+<w>устрьмление</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>поидоша</w>
+<w>к</w>
+<w>ним.</w>
+<w>Половци</w>
+<w>же,</w>
+<w>видѣвше</w>
+<w>устремленье</w>
+</rdg>
+</app></p></div></body></text></TEI>

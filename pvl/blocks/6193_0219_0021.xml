@@ -1,127 +1,105 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>219, 21</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="21">
-            <p>
-               <app>
-                  <lem>
-                     <w>“Сьдѣ</w>
-                     <w>стояще</w>
-                     <w>чресъ</w>
-                     <w>рѣку,</w>
-                     <w>у</w>
-                     <w>грозѣ</w>
-                     <w>сеи,</w>
-                     <w>сътворимъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>сдѣ <lb/>
-                        </w>
-                        <w>стояче</w>
-                        <w>чересъ</w>
-                        <w>рѣку</w>
-                        <w>в</w>
-                        <w>грозѣ</w>
-                        <w>се<lb/>и</w>
-                        <w>створимъ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>здѣ</w>
-                        <w>стоаще·</w>
-                        <w>чр<hi rend="sup">с</hi>е</w>
-                        <w>рекѹ·</w>
-                        <w>въ</w>
-                        <w>грозѣ·</w>
-                        <w>сеи</w>
-                        <w>сотво<lb/>римъ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>здѣ</w>
-                        <w>стояще</w>
-                        <w>чре<hi rend="sup">с</hi>
-                        </w>
-                        <w>рекѹ</w>
-                        <w>во <lb/>
-                        </w>
-                        <w>грозѣ</w>
-                        <w>се·̏</w>
-                        <w>сотворимь</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>сдѣ</w>
-                        <w>стояще· <lb/>
-                        </w>
-                        <w>чересъ</w>
-                        <w>рѣку</w>
-                        <w>оу</w>
-                        <w>грозѣ</w>
-                        <w>сеи· <lb/>
-                        </w>
-                        <w>створимъ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>зде·̏</w>
-                        <w>стоаще</w>
-                        <w>чре<hi rend="sup">з</hi>
-                        </w>
-                        <w>рѣкоу</w>
-                        <w>оу</w>
-                        <w>грозѣ</w>
-                        <w>сеи.</w>
-                        <w>съ<lb/>твори<hi rend="sup">м</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>сдѣ</w>
-                        <w>стояще</w>
-                        <w>чересъ</w>
-                        <w>рѣку,</w>
-                        <w>в</w>
-                        <w>грозѣ</w>
-                        <w>сей,</w>
-                        <w>створимъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>“сьдѣ</w>
-                        <w>стояще,</w>
-                        <w>чресъ</w>
-                        <w>рѣку,</w>
-                        <w>въ</w>
-                        <w>грозѣ</w>
-                        <w>сеи,</w>
-                        <w>сътворимъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>“Сдѣ</w>
-                        <w>стояче</w>
-                        <w>чересъ</w>
-                        <w>рѣку,</w>
-                        <w>в</w>
-                        <w>грозѣ</w>
-                        <w>сей,</w>
-                        <w>створимъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>219, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="21"><p>
+<app>
+<lem wit="#lem">
+<w>“Сьдѣ</w>
+<w>стояще</w>
+<w>чресъ</w>
+<w>рѣку,</w>
+<w>у</w>
+<w>грозѣ</w>
+<w>сеи,</w>
+<w>сътворимъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>сдѣ <lb/></w>
+
+<w>стояче</w>
+<w>чересъ</w>
+<w>рѣку</w>
+<w>в</w>
+<w>грозѣ</w>
+<w>се<lb/>и</w>
+<w>створимъ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>здѣ</w>
+<w>стоаще·</w>
+<w>чр<hi rend="sup">с</hi>е</w>
+<w>рекѹ·</w>
+<w>въ</w>
+<w>грозѣ·</w>
+<w>сеи</w>
+<w>сотво<lb/>римъ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>здѣ</w>
+<w>стояще</w>
+<w>чре<hi rend="sup">с</hi></w>
+<w>рекѹ</w>
+<w>во <lb/></w>
+
+<w>грозѣ</w>
+<w>се·̏</w>
+<w>сотворимь</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>сдѣ</w>
+<w>стояще· <lb/></w>
+
+<w>чересъ</w>
+<w>рѣку</w>
+<w>оу</w>
+<w>грозѣ</w>
+<w>сеи· <lb/></w>
+
+<w>створимъ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>зде·̏</w>
+<w>стоаще</w>
+<w>чре<hi rend="sup">з</hi></w>
+<w>рѣкоу</w>
+<w>оу</w>
+<w>грозѣ</w>
+<w>сеи.</w>
+<w>съ<lb/>твори<hi rend="sup">м</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>сдѣ</w>
+<w>стояще</w>
+<w>чересъ</w>
+<w>рѣку,</w>
+<w>в</w>
+<w>грозѣ</w>
+<w>сей,</w>
+<w>створимъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>“сьдѣ</w>
+<w>стояще,</w>
+<w>чресъ</w>
+<w>рѣку,</w>
+<w>въ</w>
+<w>грозѣ</w>
+<w>сеи,</w>
+<w>сътворимъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>“Сдѣ</w>
+<w>стояче</w>
+<w>чересъ</w>
+<w>рѣку,</w>
+<w>в</w>
+<w>грозѣ</w>
+<w>сей,</w>
+<w>створимъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

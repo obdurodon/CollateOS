@@ -1,117 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>30, 1</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="1">
-            <p>
-               <app>
-                  <lem>
-                     <w>И</w>
-                     <w>прииде</w>
-                     <w>къ</w>
-                     <w>Цьсарюграду,</w>
-                     <w>и</w>
-                     <w>Грьци</w>
-                     <w>замъкоша</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#tro">
-                        <w>и</w>
-                        <w>приде</w>
-                        <w>ко</w>
-                        <w>царюгороду</w>
-                        <w>и</w>
-                        <w>грьци</w>
-                        <w>замкоша</w>
-                        <w>
-                           <pb n="64"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>прїиде</w>
-                        <w>къ</w>
-                        <w>црюгра<hi rend="sup">д</hi>у.</w>
-                        <w>и</w>
-                        <w>греци <lb/>
-                        </w>
-                        <w>замкоша</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>прїиде</w>
-                        <w>ко</w>
-                        <w>ц҃рюгра<hi rend="sup">д</hi>у.</w>
-                        <w>и</w>
-                        <w>грецї</w>
-                        <w>замкоша</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>и</w>
-                        <w>приде</w>
-                        <w>къ</w>
-                        <w>ц<hi rend="sup">с</hi>рюгра<hi rend="sup">д</hi>.</w>
-                        <w>и</w>
-                        <w>грѣци</w>
-                        <w>замкоша</w>
-                        <w>
-                           <pb n="12a"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>и</w>
-                        <w>прїиде</w>
-                        <w>къ</w>
-                        <w>ц҃рюградоу.</w>
-                        <w>и</w>
-                        <w>греци</w>
-                        <w>замкоша</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>и</w>
-                        <w>прииде</w>
-                        <w>къ</w>
-                        <w>Царюграду;</w>
-                        <w>и</w>
-                        <w>Греци</w>
-                        <w>замкоша 29,8</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>И</w>
-                        <w>прииде</w>
-                        <w>къ</w>
-                        <w>Цѣсарюграду,</w>
-                        <w>и</w>
-                        <w>Грьци</w>
-                        <w>замъкоша 24,3</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>И</w>
-                        <w>прииде</w>
-                        <w>къ</w>
-                        <w>Царюграду;</w>
-                        <w>и</w>
-                        <w>греци</w>
-                        <w>замкоша 24,3</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>30, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="1"><p>
+<app>
+<lem wit="#lem">
+<w>И</w>
+<w>прииде</w>
+<w>къ</w>
+<w>Цьсарюграду,</w>
+<w>и</w>
+<w>Грьци</w>
+<w>замъкоша</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#tro">
+<w>и</w>
+<w>приде</w>
+<w>ко</w>
+<w>царюгороду</w>
+<w>и</w>
+<w>грьци</w>
+<w>замкоша <pb n="64"/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>прїиде</w>
+<w>къ</w>
+<w>црюгра<hi rend="sup">д</hi>у.</w>
+<w>и</w>
+<w>греци <lb/></w>
+
+<w>замкоша</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>прїиде</w>
+<w>ко</w>
+<w>ц҃рюгра<hi rend="sup">д</hi>у.</w>
+<w>и</w>
+<w>грецї</w>
+<w>замкоша</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>и</w>
+<w>приде</w>
+<w>къ</w>
+<w>ц<hi rend="sup">с</hi>рюгра<hi rend="sup">д</hi>.</w>
+<w>и</w>
+<w>грѣци</w>
+<w>замкоша <pb n="12a"/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>и</w>
+<w>прїиде</w>
+<w>къ</w>
+<w>ц҃рюградоу.</w>
+<w>и</w>
+<w>греци</w>
+<w>замкоша</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>и</w>
+<w>прииде</w>
+<w>къ</w>
+<w>Царюграду;</w>
+<w>и</w>
+<w>Греци</w>
+<w>замкоша</w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>И</w>
+<w>прииде</w>
+<w>къ</w>
+<w>Цѣсарюграду,</w>
+<w>и</w>
+<w>Грьци</w>
+<w>замъкоша</w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>И</w>
+<w>прииде</w>
+<w>къ</w>
+<w>Царюграду;</w>
+<w>и</w>
+<w>греци</w>
+<w>замкоша</w>
+
+</rdg>
+</app></p></div></body></text></TEI>

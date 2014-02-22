@@ -1,136 +1,111 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>123, 12</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="12">
-            <p>
-               <app>
-                  <lem>
-                     <w>нь,</w>
-                     <w>и</w>
-                     <w>похвати</w>
-                     <w>быка</w>
-                     <w>рукою</w>
-                     <w>за</w>
-                     <w>бокъ,</w>
-                     <w>и</w>
-                     <w>выня</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>и.</w>
-                        <w>и</w>
-                        <w>похвати</w>
-                        <w>б<sic>ы</sic> 
-                           <lb/>
-                        </w>
-                        <w>рукою</w>
-                        <w>за</w>
-                        <w>бокъ.</w>
-                        <w>и</w>
-                        <w>вынѧ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>его.</w>
-                        <w>и</w>
-                        <w>похвати</w>
-                        <w>быка</w>
-                        <w>роукою</w>
-                        <w>за <lb/>
-                        </w>
-                        <w>бокъ.</w>
-                        <w>и</w>
-                        <w>вынѧ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>его.</w>
-                        <w>и</w>
-                        <w>по<lb/>хвати</w>
-                        <w>быка</w>
-                        <w>рѹкою</w>
-                        <w>за</w>
-                        <w>бокъ.</w>
-                        <w>и</w>
-                        <w>вынѧ</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>нь.</w>
-                        <w>и</w>
-                        <w>похвати</w>
-                        <w>
-                           <sic>вола</sic>
-                        </w>
-                        <w>рукою <lb/>
-                        </w>
-                        <w>за</w>
-                        <w>бокъ.</w>
-                        <w>и</w>
-                        <w>вынѧ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>его.</w>
-                        <w>и</w>
-                        <w>похв<hi rend="sup">т</hi>а<hi rend="sup">и</hi> 
-                           <lb/>
-                        </w>
-                        <w>быка</w>
-                        <w>рѫкою</w>
-                        <w>за</w>
-                        <w>бокь,</w>
-                        <w>и</w>
-                        <w>вынѧ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>и,</w>
-                        <w>и</w>
-                        <w>похвати</w>
-                        <w>быка</w>
-                        <w>рукою</w>
-                        <w>за</w>
-                        <w>бокъ,</w>
-                        <w>и</w>
-                        <w>выня</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>нь,</w>
-                        <w>и</w>
-                        <w>похвати</w>
-                        <w>быка</w>
-                        <w>рукою</w>
-                        <w>за</w>
-                        <w>бокъ,</w>
-                        <w>и</w>
-                        <w>выня</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>и,</w>
-                        <w>похвати</w>
-                        <w>быка</w>
-                        <w>рукою</w>
-                        <w>за</w>
-                        <w>бокъ,</w>
-                        <w>и</w>
-                        <w>выня</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>123, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="12"><p>
+<app>
+<lem wit="#lem">
+<w>нь,</w>
+<w>и</w>
+<w>похвати</w>
+<w>быка</w>
+<w>рукою</w>
+<w>за</w>
+<w>бокъ,</w>
+<w>и</w>
+<w>выня</w>
+</lem>
+
+<rdg wit="#lav">
+<w>и.</w>
+<w>и</w>
+<w>похвати</w>
+<w>б<milestone unit="sic" n="start"/>ы<milestone unit="sic" n="end"/><lb/>ка</w>
+<w>рукою</w>
+<w>за</w>
+<w>бокъ.</w>
+<w>и</w>
+<w>вынѧ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>его.</w>
+<w>и</w>
+<w>похвати</w>
+<w>быка</w>
+<w>роукою</w>
+<w>за <lb/></w>
+
+<w>бокъ.</w>
+<w>и</w>
+<w>вынѧ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>его.</w>
+<w>и</w>
+<w>по<lb/>хвати</w>
+<w>быка</w>
+<w>рѹкою</w>
+<w>за</w>
+<w>бокъ.</w>
+<w>и</w>
+<w>вынѧ</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>нь.</w>
+<w>и</w>
+<w>похвати</w>
+<w><milestone unit="sic" n="start"/>вола<milestone unit="sic" n="end"/></w>
+<w>рукою <lb/></w>
+
+<w>за</w>
+<w>бокъ.</w>
+<w>и</w>
+<w>вынѧ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>его.</w>
+<w>и</w>
+<w>похв<hi rend="sup">т</hi>а<hi rend="sup">и</hi><lb/></w>
+<w>быка</w>
+<w>рѫкою</w>
+<w>за</w>
+<w>бокь,</w>
+<w>и</w>
+<w>вынѧ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>и,</w>
+<w>и</w>
+<w>похвати</w>
+<w>быка</w>
+<w>рукою</w>
+<w>за</w>
+<w>бокъ,</w>
+<w>и</w>
+<w>выня</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>нь,</w>
+<w>и</w>
+<w>похвати</w>
+<w>быка</w>
+<w>рукою</w>
+<w>за</w>
+<w>бокъ,</w>
+<w>и</w>
+<w>выня</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>и,</w>
+<w>похвати</w>
+<w>быка</w>
+<w>рукою</w>
+<w>за</w>
+<w>бокъ,</w>
+<w>и</w>
+<w>выня</w>
+</rdg>
+</app></p></div></body></text></TEI>

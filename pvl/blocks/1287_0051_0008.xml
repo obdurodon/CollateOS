@@ -1,110 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>51, 8</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="8">
-            <p>
-               <app>
-                  <lem>
-                     <w>или</w>
-                     <w>убиеть,</w>
-                     <w>да</w>
-                     <w>будеть</w>
-                     <w>виньнъ</w>
-                     <w>закону</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>или</w>
-                        <w>оубьеть.</w>
-                        <w>да <lb/>
-                        </w>
-                        <w>будеть</w>
-                        <w>повиненъ</w>
-                        <w>закону</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>или</w>
-                        <w>оубьеть. <lb/>
-                        </w>
-                        <w>да</w>
-                        <w>боу<hi rend="sup">д</hi>ть</w>
-                        <w>виненъ.</w>
-                        <w>законѹ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>или</w>
-                        <w>оубьеть.</w>
-                        <w>да</w>
-                        <w>бѹдеть</w>
-                        <w>виненъ.</w>
-                        <w>законѹ</w>
-                        <w>
-                           <pb n="23v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>или</w>
-                        <w>оу<lb/>бьеть.</w>
-                        <w>да</w>
-                        <w>будеть</w>
-                        <w>виненъ <lb/>
-                        </w>
-                        <w>закону</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>или</w>
-                        <w>оубїеть.</w>
-                        <w>да</w>
-                        <w>бѫде<hi rend="sup">т</hi>
-                        </w>
-                        <w>вине<hi rend="sup">н</hi>
-                        </w>
-                        <w>законоу</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>или</w>
-                        <w>убьеть,</w>
-                        <w>да</w>
-                        <w>будеть</w>
-                        <w>повиненъ</w>
-                        <w>закону</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>или</w>
-                        <w>убиеть,</w>
-                        <w>да</w>
-                        <w>будеть</w>
-                        <w>повиньнъ</w>
-                        <w>закону</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>или</w>
-                        <w>убьеть,</w>
-                        <w>да</w>
-                        <w>будеть</w>
-                        <w>повиненъ</w>
-                        <w>закону</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>51, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="8"><p>
+<app>
+<lem wit="#lem">
+<w>или</w>
+<w>убиеть,</w>
+<w>да</w>
+<w>будеть</w>
+<w>виньнъ</w>
+<w>закону</w>
+</lem>
+
+<rdg wit="#lav">
+<w>или</w>
+<w>оубьеть.</w>
+<w>да <lb/></w>
+
+<w>будеть</w>
+<w>повиненъ</w>
+<w>закону</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>или</w>
+<w>оубьеть. <lb/></w>
+
+<w>да</w>
+<w>боу<hi rend="sup">д</hi>ть</w>
+<w>виненъ.</w>
+<w>законѹ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>или</w>
+<w>оубьеть.</w>
+<w>да</w>
+<w>бѹдеть</w>
+<w>виненъ.</w>
+<w>законѹ <pb n="23v"/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>или</w>
+<w>оу<lb/>бьеть.</w>
+<w>да</w>
+<w>будеть</w>
+<w>виненъ <lb/></w>
+
+<w>закону</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>или</w>
+<w>оубїеть.</w>
+<w>да</w>
+<w>бѫде<hi rend="sup">т</hi></w>
+<w>вине<hi rend="sup">н</hi></w>
+<w>законоу</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>или</w>
+<w>убьеть,</w>
+<w>да</w>
+<w>будеть</w>
+<w>повиненъ</w>
+<w>закону</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>или</w>
+<w>убиеть,</w>
+<w>да</w>
+<w>будеть</w>
+<w>повиньнъ</w>
+<w>закону</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>или</w>
+<w>убьеть,</w>
+<w>да</w>
+<w>будеть</w>
+<w>повиненъ</w>
+<w>закону</w>
+</rdg>
+</app></p></div></body></text></TEI>

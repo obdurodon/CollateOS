@@ -1,121 +1,102 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>142, 9</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="9">
-            <p>
-               <app>
-                  <lem>
-                     <w>вьсю</w>
-                     <w>нощь</w>
-                     <w>упивь</w>
-                     <w>ся</w>
-                     <w>съ</w>
-                     <w>дружиною</w>
-                     <w>своею.</w>
-                     <w>Ярославъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>всю</w>
-                        <w>нощь</w>
-                        <w>пилъ</w>
-                        <w>бѣ</w>
-                        <w>с</w>
-                        <w>дружиною <lb/>
-                        </w>
-                        <w>своею.</w>
-                        <w>ярослав</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>всю</w>
-                        <w>нощъ</w>
-                        <w>пивъ</w>
-                        <w>со</w>
-                        <w>дрѹжиною</w>
-                        <w>своею:- <lb/>
-                        </w>
-                        <w>Ярослав</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>всю</w>
-                        <w>нощь</w>
-                        <w>пивъ</w>
-                        <w>со</w>
-                        <w>дрѹжиною</w>
-                        <w>сво<lb/>ею:·</w>
-                        <w>Ярослав</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>вьсю</w>
-                        <w>нощь.</w>
-                        <w>оупивьсѧ <lb/>
-                        </w>
-                        <w>с</w>
-                        <w>дружиною</w>
-                        <w>своею.</w>
-                        <w>яросла<lb/>въ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>всю</w>
-                        <w>нощь</w>
-                        <w>оупивсѧ</w>
-                        <w>съ</w>
-                        <w>дроужиною <lb/>
-                        </w>
-                        <w>своею</w>
-                        <w>лежаше.</w>
-                        <w>ярославь</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>всю</w>
-                        <w>нощь</w>
-                        <w>пилъ</w>
-                        <w>бѣ</w>
-                        <w>с</w>
-                        <w>дружиною</w>
-                        <w>своею;</w>
-                        <w>Ярославъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>вьсю</w>
-                        <w>нощь</w>
-                        <w>пилъ</w>
-                        <w>бѣ</w>
-                        <w>съ</w>
-                        <w>дружиною</w>
-                        <w>своею.</w>
-                        <w>Ярославъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>всю</w>
-                        <w>нощь</w>
-                        <w>пилъ</w>
-                        <w>бѣ</w>
-                        <w>с</w>
-                        <w>дружиною</w>
-                        <w>своею.</w>
-                        <w>Ярославъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>142, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="9"><p>
+<app>
+<lem wit="#lem">
+<w>вьсю</w>
+<w>нощь</w>
+<w>упивь</w>
+<w>ся</w>
+<w>съ</w>
+<w>дружиною</w>
+<w>своею.</w>
+<w>Ярославъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>всю</w>
+<w>нощь</w>
+<w>пилъ</w>
+<w>бѣ</w>
+<w>с</w>
+<w>дружиною <lb/></w>
+
+<w>своею.</w>
+<w>ярослав</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>всю</w>
+<w>нощъ</w>
+<w>пивъ</w>
+<w>со</w>
+<w>дрѹжиною</w>
+<w>своею:- <lb/></w>
+
+<w>Ярослав</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>всю</w>
+<w>нощь</w>
+<w>пивъ</w>
+<w>со</w>
+<w>дрѹжиною</w>
+<w>сво<lb/>ею:·</w>
+<w>Ярослав</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>вьсю</w>
+<w>нощь.</w>
+<w>оупивьсѧ <lb/></w>
+
+<w>с</w>
+<w>дружиною</w>
+<w>своею.</w>
+<w>яросла<lb/>въ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>всю</w>
+<w>нощь</w>
+<w>оупивсѧ</w>
+<w>съ</w>
+<w>дроужиною <lb/></w>
+
+<w>своею</w>
+<w>лежаше.</w>
+<w>ярославь</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>всю</w>
+<w>нощь</w>
+<w>пилъ</w>
+<w>бѣ</w>
+<w>с</w>
+<w>дружиною</w>
+<w>своею;</w>
+<w>Ярославъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>вьсю</w>
+<w>нощь</w>
+<w>пилъ</w>
+<w>бѣ</w>
+<w>съ</w>
+<w>дружиною</w>
+<w>своею.</w>
+<w>Ярославъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>всю</w>
+<w>нощь</w>
+<w>пилъ</w>
+<w>бѣ</w>
+<w>с</w>
+<w>дружиною</w>
+<w>своею.</w>
+<w>Ярославъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

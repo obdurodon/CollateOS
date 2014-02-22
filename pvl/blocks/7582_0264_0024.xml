@@ -1,112 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>264, 24</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="24">
-            <p>
-               <app>
-                  <lem>
-                     <w>Кънягини</w>
-                     <w>же</w>
-                     <w>бывъши</w>
-                     <w>у</w>
-                     <w>Володимира,</w>
-                     <w>прииде</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>кнѧ<lb/>гини</w>
-                        <w>же</w>
-                        <w>бывши</w>
-                        <w>оу</w>
-                        <w>володиме<lb/>ра·</w>
-                        <w>приде</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>кнг҃ни</w>
-                        <w>же</w>
-                        <w>бывше</w>
-                        <w>оу</w>
-                        <w>володиме<lb/>ра·</w>
-                        <w>и</w>
-                        <w>прии<hi rend="sup">д</hi>
-                        </w>
-                        <w>к</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>кнѧгини</w>
-                        <w>же</w>
-                        <w>бы·̏вши</w>
-                        <w>оу</w>
-                        <w>володимї<lb/>ра</w>
-                        <w>и</w>
-                        <w>прииде</w>
-                        <w>кь</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>кнѧгини</w>
-                        <w>же <lb/>
-                        </w>
-                        <w>бывши</w>
-                        <w>оу</w>
-                        <w>володимера·</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>прииде</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>Кнѧгини</w>
-                        <w>же <lb/>
-                        </w>
-                        <w>бывши</w>
-                        <w>оу</w>
-                        <w>вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>мера.</w>
-                        <w>прїиде</w>
-                        <w>къ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Княгини</w>
-                        <w>же</w>
-                        <w>бывши</w>
-                        <w>у</w>
-                        <w>Володимера,</w>
-                        <w>приде</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Кънягыни</w>
-                        <w>же,</w>
-                        <w>бывъши</w>
-                        <w>у</w>
-                        <w>Володимера,</w>
-                        <w>приде</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Княгини</w>
-                        <w>же</w>
-                        <w>бывши</w>
-                        <w>у</w>
-                        <w>Володимера,</w>
-                        <w>приде</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>264, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="24"><p>
+<app>
+<lem wit="#lem">
+<w>Кънягини</w>
+<w>же</w>
+<w>бывъши</w>
+<w>у</w>
+<w>Володимира,</w>
+<w>прииде</w>
+</lem>
+
+<rdg wit="#lav">
+<w>кнѧ<lb/>гини</w>
+<w>же</w>
+<w>бывши</w>
+<w>оу</w>
+<w>володиме<lb/>ра·</w>
+<w>приде</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>кнг҃ни</w>
+<w>же</w>
+<w>бывше</w>
+<w>оу</w>
+<w>володиме<lb/>ра·</w>
+<w>и</w>
+<w>прии<hi rend="sup">д</hi></w>
+<w>к</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>кнѧгини</w>
+<w>же</w>
+<w>бы·̏вши</w>
+<w>оу</w>
+<w>володимї<lb/>ра</w>
+<w>и</w>
+<w>прииде</w>
+<w>кь</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>кнѧгини</w>
+<w>же <lb/></w>
+
+<w>бывши</w>
+<w>оу</w>
+<w>володимера·</w>
+<w>и <lb/></w>
+
+<w>прииде</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>Кнѧгини</w>
+<w>же <lb/></w>
+
+<w>бывши</w>
+<w>оу</w>
+<w>вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>мера.</w>
+<w>прїиде</w>
+<w>къ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Княгини</w>
+<w>же</w>
+<w>бывши</w>
+<w>у</w>
+<w>Володимера,</w>
+<w>приде</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Кънягыни</w>
+<w>же,</w>
+<w>бывъши</w>
+<w>у</w>
+<w>Володимера,</w>
+<w>приде</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Княгини</w>
+<w>же</w>
+<w>бывши</w>
+<w>у</w>
+<w>Володимера,</w>
+<w>приде</w>
+</rdg>
+</app></p></div></body></text></TEI>

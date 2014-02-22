@@ -1,127 +1,107 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>224, 12</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="12">
-            <p>
-               <app>
-                  <lem>
-                     <w>не</w>
-                     <w>по</w>
-                     <w>мъножьству</w>
-                     <w>грѣховъ.</w>
-                     <w>Тако</w>
-                     <w>Господь</w>
-                     <w>сътвори</w>
-                     <w>намъ:</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>не <lb/>
-                        </w>
-                        <w>по</w>
-                        <w>множьству</w>
-                        <w>грѣховъ</w>
-                        <w>тако</w>
-                        <w>г<hi rend="sup">с</hi>ь <lb/>
-                        </w>
-                        <w>створи</w>
-                        <w>на<hi rend="sup">м</hi>·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>не</w>
-                        <w>по</w>
-                        <w>множествѹ·</w>
-                        <w>греховъ·</w>
-                        <w>так<sic>о</sic>
-                        </w>
-                        <w>г҃ь</w>
-                        <w>сотвори</w>
-                        <w>намъ. <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>не</w>
-                        <w>по</w>
-                        <w>множествѹ</w>
-                        <w>греховъ· <lb/>
-                        </w>
-                        <w>тако</w>
-                        <w>г҃ь</w>
-                        <w>створи</w>
-                        <w>намъ·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>не</w>
-                        <w>по</w>
-                        <w>множеству <lb/>
-                        </w>
-                        <w>грѣховъ·</w>
-                        <w>тако</w>
-                        <w>г҃ь</w>
-                        <w>створи</w>
-                        <w>намъ·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>не</w>
-                        <w>по</w>
-                        <w>мнѡ<hi rend="sup">ж</hi>ствѹ <lb/>
-                        </w>
-                        <w>грѣховъ.</w>
-                        <w>тако</w>
-                        <w>г҃ь</w>
-                        <w>сътвори</w>
-                        <w>на<hi rend="sup">м</hi>.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>не</w>
-                        <w>по</w>
-                        <w>множьству</w>
-                        <w>грѣховъ.</w>
-                        <w>Тако</w>
-                        <w>Господь</w>
-                        <w>створи</w>
-                        <w>намъ:</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>не</w>
-                        <w>по</w>
-                        <w>мъножьству</w>
-                        <w>грѣховъ.</w>
-                        <w>Тако</w>
-                        <w>Господь</w>
-                        <w>сътвори</w>
-                        <w>намъ:</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>не</w>
-                        <w>по</w>
-                        <w>множьству</w>
-                        <w>грѣховъ.</w>
-                        <w>Тако</w>
-                        <w>господь</w>
-                        <w>створи</w>
-                        <w>нам:</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>224, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="12"><p>
+<app>
+<lem wit="#lem">
+<w>не</w>
+<w>по</w>
+<w>мъножьству</w>
+<w>грѣховъ.</w>
+<w>Тако</w>
+<w>Господь</w>
+<w>сътвори</w>
+<w>намъ:</w>
+</lem>
+
+<rdg wit="#lav">
+<w>не <lb/></w>
+
+<w>по</w>
+<w>множьству</w>
+<w>грѣховъ</w>
+<w>тако</w>
+<w>г<hi rend="sup">с</hi>ь <lb/></w>
+
+<w>створи</w>
+<w>на<hi rend="sup">м</hi>·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>не</w>
+<w>по</w>
+<w>множествѹ·</w>
+<w>греховъ·</w>
+<w>так<milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/></w>
+<w>г҃ь</w>
+<w>сотвори</w>
+<w>намъ. <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>не</w>
+<w>по</w>
+<w>множествѹ</w>
+<w>греховъ· <lb/></w>
+
+<w>тако</w>
+<w>г҃ь</w>
+<w>створи</w>
+<w>намъ·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>не</w>
+<w>по</w>
+<w>множеству <lb/></w>
+
+<w>грѣховъ·</w>
+<w>тако</w>
+<w>г҃ь</w>
+<w>створи</w>
+<w>намъ·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>не</w>
+<w>по</w>
+<w>мнѡ<hi rend="sup">ж</hi>ствѹ <lb/></w>
+
+<w>грѣховъ.</w>
+<w>тако</w>
+<w>г҃ь</w>
+<w>сътвори</w>
+<w>на<hi rend="sup">м</hi>.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>не</w>
+<w>по</w>
+<w>множьству</w>
+<w>грѣховъ.</w>
+<w>Тако</w>
+<w>Господь</w>
+<w>створи</w>
+<w>намъ:</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>не</w>
+<w>по</w>
+<w>мъножьству</w>
+<w>грѣховъ.</w>
+<w>Тако</w>
+<w>Господь</w>
+<w>сътвори</w>
+<w>намъ:</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>не</w>
+<w>по</w>
+<w>множьству</w>
+<w>грѣховъ.</w>
+<w>Тако</w>
+<w>господь</w>
+<w>створи</w>
+<w>нам:</w>
+</rdg>
+</app></p></div></body></text></TEI>

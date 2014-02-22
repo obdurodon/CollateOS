@@ -1,124 +1,106 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>55, 11</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="11">
-            <p>
-               <app>
-                  <lem>
-                     <w>дѣтьскъмь</w>
-                     <w>Святославъмь,</w>
-                     <w>и</w>
-                     <w>кърмильць</w>
-                     <w>его</w>
-                     <w>Асмудъ,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>дѣтьскомъ</w>
-                        <w>с҃тославомъ. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>кормилець</w>
-                        <w>его</w>
-                        <w>асмудъ.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>дѣтьско<hi rend="sup">м</hi>
-                        </w>
-                        <w>с҃тославо<hi rend="sup">м</hi>.</w>
-                        <w>и</w>
-                        <w>ко<lb/>рмилець</w>
-                        <w>его.</w>
-                        <w>асмоу<hi rend="sup">д</hi>.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>дѣтьскомъ</w>
-                        <w>с҃тославомъ.</w>
-                        <w>и</w>
-                        <w>кормилець</w>
-                        <w>е<lb/>го</w>
-                        <w>асмѹ<hi rend="sup">д</hi>.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>дѣтьско<hi rend="sup">м</hi>. <lb/>
-                        </w>
-                        <w>с҃тославомъ.</w>
-                        <w>и</w>
-                        <w>кормиле<lb/>ць</w>
-                        <w>бѣ</w>
-                        <w>его</w>
-                        <w>асмудъ.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>дѣ<hi rend="sup">т</hi>скѡ<hi rend="sup">м</hi>,</w>
-                        <w>с҃тославо<hi rend="sup">м</hi>. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>кормилець</w>
-                        <w>его</w>
-                        <w>бѣ</w>
-                        <w>асмоуадь.</w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>дѣтьскомъ</w>
-                        <w>святославомъ</w>
-                        <w>и</w>
-                        <w>кормилець</w>
-                        <w>его</w>
-                        <w>асмудъ</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>дѣтьском</w>
-                        <w>святославомъ</w>
-                        <w>и</w>
-                        <w>кормилець</w>
-                        <w>его</w>
-                        <w>асмутъ</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>дѣтьскомъ</w>
-                        <w>Святославомъ,</w>
-                        <w>и</w>
-                        <w>кормилець</w>
-                        <w>его</w>
-                        <w>Асмудъ,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>дѣтьскъмь</w>
-                        <w>Святославъмь,</w>
-                        <w>и</w>
-                        <w>кърмильць</w>
-                        <w>его</w>
-                        <w>Асмудъ,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>дѣтьскомъ</w>
-                        <w>Святославомъ,</w>
-                        <w>и</w>
-                        <w>кормилець</w>
-                        <w>его</w>
-                        <w>Асмудъ,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>55, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="11"><p>
+<app>
+<lem wit="#lem">
+<w>дѣтьскъмь</w>
+<w>Святославъмь,</w>
+<w>и</w>
+<w>кърмильць</w>
+<w>его</w>
+<w>Асмудъ,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>дѣтьскомъ</w>
+<w>с҃тославомъ. <lb/></w>
+
+<w>и</w>
+<w>кормилець</w>
+<w>его</w>
+<w>асмудъ.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>дѣтьско<hi rend="sup">м</hi></w>
+<w>с҃тославо<hi rend="sup">м</hi>.</w>
+<w>и</w>
+<w>ко<lb/>рмилець</w>
+<w>его.</w>
+<w>асмоу<hi rend="sup">д</hi>.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>дѣтьскомъ</w>
+<w>с҃тославомъ.</w>
+<w>и</w>
+<w>кормилець</w>
+<w>е<lb/>го</w>
+<w>асмѹ<hi rend="sup">д</hi>.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>дѣтьско<hi rend="sup">м</hi>. <lb/></w>
+
+<w>с҃тославомъ.</w>
+<w>и</w>
+<w>кормиле<lb/>ць</w>
+<w>бѣ</w>
+<w>его</w>
+<w>асмудъ.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>дѣ<hi rend="sup">т</hi>скѡ<hi rend="sup">м</hi>,</w>
+<w>с҃тославо<hi rend="sup">м</hi>. <lb/></w>
+
+<w>и</w>
+<w>кормилець</w>
+<w>его</w>
+<w>бѣ</w>
+<w>асмоуадь.</w>
+</rdg>
+
+<rdg wit="#kom">
+<w>дѣтьскомъ</w>
+<w>святославомъ</w>
+<w>и</w>
+<w>кормилець</w>
+<w>его</w>
+<w>асмудъ</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>дѣтьском</w>
+<w>святославомъ</w>
+<w>и</w>
+<w>кормилець</w>
+<w>его</w>
+<w>асмутъ</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>дѣтьскомъ</w>
+<w>Святославомъ,</w>
+<w>и</w>
+<w>кормилець</w>
+<w>его</w>
+<w>Асмудъ,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>дѣтьскъмь</w>
+<w>Святославъмь,</w>
+<w>и</w>
+<w>кърмильць</w>
+<w>его</w>
+<w>Асмудъ,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>дѣтьскомъ</w>
+<w>Святославомъ,</w>
+<w>и</w>
+<w>кормилець</w>
+<w>его</w>
+<w>Асмудъ,</w>
+</rdg>
+</app></p></div></body></text></TEI>

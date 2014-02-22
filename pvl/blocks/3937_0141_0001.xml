@@ -1,134 +1,109 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>141, 1</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="1">
-            <p>
-               <app>
-                  <lem>
-                     <w>посъла;</w>
-                     <w>а</w>
-                     <w>блюди</w>
-                     <w>ся</w>
-                     <w>сего</w>
-                     <w>повелику”.</w>
-                     <w>И</w>
-                     <w>се</w>
-                     <w>слышавъ</w>
-                     <w>Ярославъ,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>посла.</w>
-                        <w>а</w>
-                        <w>блюдисѧ</w>
-                        <w>ѥго</w>
-                        <w>по<lb/>велику.</w>
-                        <w>се</w>
-                        <w>слышавъ</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>посла.</w>
-                        <w>блю<hi rend="sup">д</hi>с<hi rend="sup">и</hi>ѧ</w>
-                        <w>сего</w>
-                        <w>повеликѹ. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>се</w>
-                        <w>слышавъ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>послалъ.</w>
-                        <w>блюдисѧ</w>
-                        <w>сего</w>
-                        <w>повеликѹ.</w>
-                        <w>и</w>
-                        <w>се</w>
-                        <w>слыша<lb/>вь</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>глѣба. <lb/>
-                        </w>
-                        <w>а</w>
-                        <w>ты</w>
-                        <w>блюдисѧ</w>
-                        <w>сего</w>
-                        <w>повелику <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>се</w>
-                        <w>слышавъ</w>
-                        <w>ярославъ.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>посла.</w>
-                        <w>а</w>
-                        <w>ты</w>
-                        <w>бл<hi rend="sup">д</hi>ю<hi rend="sup">и</hi>сѧ</w>
-                        <w>сего</w>
-                        <w>повеликѹ. <lb/>
-                        </w>
-                        <w>Се</w>
-                        <w>слышавь</w>
-                        <w>ярославь.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>посла;</w>
-                        <w>а</w>
-                        <w>блюдися</w>
-                        <w>его</w>
-                        <w>повелику”.</w>
-                        <w>Се</w>
-                        <w>слышавъ,</w>
-                        <w>
-                           <pb n="137,17"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>посъла;</w>
-                        <w>а</w>
-                        <w>блюдися</w>
-                        <w>сего</w>
-                        <w>повелику”.</w>
-                        <w>И</w>
-                        <w>се</w>
-                        <w>слышавъ</w>
-                        <w>Ярославъ,</w>
-                        <w>
-                           <pb n="179,8"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>посла,</w>
-                        <w>а</w>
-                        <w>блюдися</w>
-                        <w>его</w>
-                        <w>повелику”.</w>
-                        <w>Се</w>
-                        <w>слышавъ,</w>
-                        <w>
-                           <pb n="95,30"/>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>141, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="1"><p>
+<app>
+<lem wit="#lem">
+<w>посъла;</w>
+<w>а</w>
+<w>блюди</w>
+<w>ся</w>
+<w>сего</w>
+<w>повелику”.</w>
+<w>И</w>
+<w>се</w>
+<w>слышавъ</w>
+<w>Ярославъ,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>посла.</w>
+<w>а</w>
+<w>блюдисѧ</w>
+<w>ѥго</w>
+<w>по<lb/>велику.</w>
+<w>се</w>
+<w>слышавъ</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>посла.</w>
+<w>блю<hi rend="sup">д</hi>с<hi rend="sup">и</hi>ѧ</w>
+<w>сего</w>
+<w>повеликѹ. <lb/></w>
+
+<w>и</w>
+<w>се</w>
+<w>слышавъ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>послалъ.</w>
+<w>блюдисѧ</w>
+<w>сего</w>
+<w>повеликѹ.</w>
+<w>и</w>
+<w>се</w>
+<w>слыша<lb/>вь</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>глѣба. <lb/></w>
+
+<w>а</w>
+<w>ты</w>
+<w>блюдисѧ</w>
+<w>сего</w>
+<w>повелику <lb/></w>
+
+<w>и</w>
+<w>се</w>
+<w>слышавъ</w>
+<w>ярославъ.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>посла.</w>
+<w>а</w>
+<w>ты</w>
+<w>бл<hi rend="sup">д</hi>ю<hi rend="sup">и</hi>сѧ</w>
+<w>сего</w>
+<w>повеликѹ. <lb/></w>
+
+<w>Се</w>
+<w>слышавь</w>
+<w>ярославь.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>посла;</w>
+<w>а</w>
+<w>блюдися</w>
+<w>его</w>
+<w>повелику”.</w>
+<w>Се</w>
+<w>слышавъ, <pb n="137,17"/></w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>посъла;</w>
+<w>а</w>
+<w>блюдися</w>
+<w>сего</w>
+<w>повелику”.</w>
+<w>И</w>
+<w>се</w>
+<w>слышавъ</w>
+<w>Ярославъ, <pb n="179,8"/></w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>посла,</w>
+<w>а</w>
+<w>блюдися</w>
+<w>его</w>
+<w>повелику”.</w>
+<w>Се</w>
+<w>слышавъ, <pb n="95,30"/></w>
+
+</rdg>
+</app></p></div></body></text></TEI>

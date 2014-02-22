@@ -1,107 +1,85 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>137, 19</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="19">
-            <p>
-               <app>
-                  <lem>
-                     <w>утѣху,</w>
-                     <w>напастьнымъ</w>
-                     <w>избавление.</w>
-                     <w>И</w>
-                     <w>еста</w>
-                     <w>заступьника</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>оутѣ<lb/>ха.</w>
-                        <w>напастны<hi rend="sup">м</hi>
-                        </w>
-                        <w>избавленье.</w>
-                        <w>и <lb/>
-                        </w>
-                        <w>еста</w>
-                        <w>заступника</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>оутѣхѹ.</w>
-                        <w>напастны<hi rend="sup">м</hi>
-                        </w>
-                        <w>избавление. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>еста</w>
-                        <w>застѹпника</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>оутѣхѹ.</w>
-                        <w>напастны<lb/>мъ</w>
-                        <w>избавленїе.</w>
-                        <w>и</w>
-                        <w>еста</w>
-                        <w>застѹпника</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>оутѣху.</w>
-                        <w>напастьнымъ</w>
-                        <w>и<lb/>збавление.</w>
-                        <w>и</w>
-                        <w>еста</w>
-                        <w>засту<lb/>пника</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>оутѣхѫ.</w>
-                        <w>напастны<hi rend="sup">м</hi>
-                        </w>
-                        <w>и<lb/>збавленїе.</w>
-                        <w>и</w>
-                        <w>еста</w>
-                        <w>застѫпника</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>утѣху,</w>
-                        <w>напастнымъ</w>
-                        <w>избавленье,</w>
-                        <w>и</w>
-                        <w>еста</w>
-                        <w>заступника</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>утѣху,</w>
-                        <w>напастьнымъ</w>
-                        <w>избавление.</w>
-                        <w>И</w>
-                        <w>еста</w>
-                        <w>заступьника</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>утѣху,</w>
-                        <w>напастным</w>
-                        <w>избавленье.</w>
-                        <w>И</w>
-                        <w>еста</w>
-                        <w>заступника</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>137, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="19"><p>
+<app>
+<lem wit="#lem">
+<w>утѣху,</w>
+<w>напастьнымъ</w>
+<w>избавление.</w>
+<w>И</w>
+<w>еста</w>
+<w>заступьника</w>
+</lem>
+
+<rdg wit="#lav">
+<w>оутѣ<lb/>ха.</w>
+<w>напастны<hi rend="sup">м</hi></w>
+<w>избавленье.</w>
+<w>и <lb/></w>
+
+<w>еста</w>
+<w>заступника</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>оутѣхѹ.</w>
+<w>напастны<hi rend="sup">м</hi></w>
+<w>избавление. <lb/></w>
+
+<w>и</w>
+<w>еста</w>
+<w>застѹпника</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>оутѣхѹ.</w>
+<w>напастны<lb/>мъ</w>
+<w>избавленїе.</w>
+<w>и</w>
+<w>еста</w>
+<w>застѹпника</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>оутѣху.</w>
+<w>напастьнымъ</w>
+<w>и<lb/>збавление.</w>
+<w>и</w>
+<w>еста</w>
+<w>засту<lb/>пника</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>оутѣхѫ.</w>
+<w>напастны<hi rend="sup">м</hi></w>
+<w>и<lb/>збавленїе.</w>
+<w>и</w>
+<w>еста</w>
+<w>застѫпника</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>утѣху,</w>
+<w>напастнымъ</w>
+<w>избавленье,</w>
+<w>и</w>
+<w>еста</w>
+<w>заступника</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>утѣху,</w>
+<w>напастьнымъ</w>
+<w>избавление.</w>
+<w>И</w>
+<w>еста</w>
+<w>заступьника</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>утѣху,</w>
+<w>напастным</w>
+<w>избавленье.</w>
+<w>И</w>
+<w>еста</w>
+<w>заступника</w>
+</rdg>
+</app></p></div></body></text></TEI>

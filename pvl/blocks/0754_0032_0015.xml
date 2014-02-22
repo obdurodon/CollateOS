@@ -1,111 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>32, 15</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="15">
-            <p>
-               <app>
-                  <lem>
-                     <w>Ольгъ</w>
-                     <w>къ</w>
-                     <w>Кыеву,</w>
-                     <w>неся</w>
-                     <w>злато</w>
-                     <w>и</w>
-                     <w>паволокы</w>
-                     <w>и</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>ѡлегъ</w>
-                        <w>к</w>
-                        <w>киевѹ.</w>
-                        <w>несѧ</w>
-                        <w>зла<lb/>то</w>
-                        <w>и</w>
-                        <w>паволоки.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ѡлегъ</w>
-                        <w>къ <lb/>
-                        </w>
-                        <w>киевѹ.</w>
-                        <w>нес<sic>а</sic>
-                        </w>
-                        <w>ѕлато.</w>
-                        <w>и</w>
-                        <w>паволокы.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ѡ<lb/>легъ</w>
-                        <w>къ</w>
-                        <w>киеву.</w>
-                        <w>несѧ</w>
-                        <w>зо<lb/>лото</w>
-                        <w>и</w>
-                        <w>паволокы.</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>ѡлегь</w>
-                        <w>кыевоу. <lb/>
-                        </w>
-                        <w>несѧ</w>
-                        <w>золото.</w>
-                        <w>и</w>
-                        <w>паволокы.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Олегъ</w>
-                        <w>к</w>
-                        <w>Киеву,</w>
-                        <w>неся</w>
-                        <w>злато,</w>
-                        <w>и</w>
-                        <w>паволоки,</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Ольгъ</w>
-                        <w>Кыеву,</w>
-                        <w>неся</w>
-                        <w>злато</w>
-                        <w>и</w>
-                        <w>паволокы</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Олегъ</w>
-                        <w>к</w>
-                        <w>Киеву,</w>
-                        <w>неся</w>
-                        <w>злато,</w>
-                        <w>и</w>
-                        <w>паволоки,</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>32, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="15"><p>
+<app>
+<lem wit="#lem">
+<w>Ольгъ</w>
+<w>къ</w>
+<w>Кыеву,</w>
+<w>неся</w>
+<w>злато</w>
+<w>и</w>
+<w>паволокы</w>
+<w>и</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>ѡлегъ</w>
+<w>к</w>
+<w>киевѹ.</w>
+<w>несѧ</w>
+<w>зла<lb/>то</w>
+<w>и</w>
+<w>паволоки.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ѡлегъ</w>
+<w>къ <lb/></w>
+
+<w>киевѹ.</w>
+<w>нес<milestone unit="sic" n="start"/>а<milestone unit="sic" n="end"/></w>
+<w>ѕлато.</w>
+<w>и</w>
+<w>паволокы.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>ѡ<lb/>легъ</w>
+<w>къ</w>
+<w>киеву.</w>
+<w>несѧ</w>
+<w>зо<lb/>лото</w>
+<w>и</w>
+<w>паволокы.</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>ѡлегь</w>
+<w>кыевоу. <lb/></w>
+
+<w>несѧ</w>
+<w>золото.</w>
+<w>и</w>
+<w>паволокы.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Олегъ</w>
+<w>к</w>
+<w>Киеву,</w>
+<w>неся</w>
+<w>злато,</w>
+<w>и</w>
+<w>паволоки,</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Ольгъ</w>
+<w>Кыеву,</w>
+<w>неся</w>
+<w>злато</w>
+<w>и</w>
+<w>паволокы</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Олегъ</w>
+<w>к</w>
+<w>Киеву,</w>
+<w>неся</w>
+<w>злато,</w>
+<w>и</w>
+<w>паволоки,</w>
+<w>и</w>
+</rdg>
+</app></p></div></body></text></TEI>

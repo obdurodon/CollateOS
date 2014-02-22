@@ -1,113 +1,90 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>33, 6</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="6">
-            <p>
-               <app>
-                  <lem>
-                     <w>боляръ,</w>
-                     <w>къ</w>
-                     <w>вамъ,</w>
-                     <w>Львови</w>
-                     <w>и</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav"/>
-                     <rdg wit="#rad">
-                        <w>кн҃зь. <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>е<hi rend="sup">г</hi>
-                        </w>
-                        <w>велики<hi rend="sup">х</hi>
-                        </w>
-                        <w>бояръ.</w>
-                        <w>к</w>
-                        <w>ва<hi rend="sup">м</hi>
-                        </w>
-                        <w>лвови</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>кн҃зь.</w>
-                        <w>и</w>
-                        <w>его</w>
-                        <w>ве<lb/>лики<hi rend="sup">х</hi>
-                        </w>
-                        <w>боярь</w>
-                        <w>к</w>
-                        <w>вамъ</w>
-                        <w>лвови</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>бояръ.</w>
-                        <w>к</w>
-                        <w>вамъ</w>
-                        <w>ль<lb/>вови</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>боѧрь.</w>
-                        <w>Къ</w>
-                        <w>ва<hi rend="sup">м</hi>
-                        </w>
-                        <w>лвови</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>князь,</w>
-                        <w>и</w>
-                        <w>его</w>
-                        <w>великихъ</w>
-                        <w>бояръ,</w>
-                        <w>к</w>
-                        <w>вамъ,</w>
-                        <w>Лвови</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>кънязь,</w>
-                        <w>и</w>
-                        <w>его</w>
-                        <w>великыхъ</w>
-                        <w>боляръ</w>
-                        <w>къ</w>
-                        <w>вамъ,</w>
-                        <w>Львови</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>князь,</w>
-                        <w>и</w>
-                        <w>его</w>
-                        <w>великих</w>
-                        <w>бояръ,</w>
-                        <w>к</w>
-                        <w>вам,</w>
-                        <w>Лвови</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>33, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="6"><p>
+<app>
+<lem wit="#lem">
+<w>боляръ,</w>
+<w>къ</w>
+<w>вамъ,</w>
+<w>Львови</w>
+<w>и</w>
+</lem>
+
+<rdg wit="#lav">
+</rdg>
+
+<rdg wit="#rad">
+<w>кн҃зь. <lb/></w>
+
+<w>и</w>
+<w>е<hi rend="sup">г</hi></w>
+<w>велики<hi rend="sup">х</hi></w>
+<w>бояръ.</w>
+<w>к</w>
+<w>ва<hi rend="sup">м</hi></w>
+<w>лвови</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>кн҃зь.</w>
+<w>и</w>
+<w>его</w>
+<w>ве<lb/>лики<hi rend="sup">х</hi></w>
+<w>боярь</w>
+<w>к</w>
+<w>вамъ</w>
+<w>лвови</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>бояръ.</w>
+<w>к</w>
+<w>вамъ</w>
+<w>ль<lb/>вови</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>боѧрь.</w>
+<w>Къ</w>
+<w>ва<hi rend="sup">м</hi></w>
+<w>лвови</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>князь,</w>
+<w>и</w>
+<w>его</w>
+<w>великихъ</w>
+<w>бояръ,</w>
+<w>к</w>
+<w>вамъ,</w>
+<w>Лвови</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>кънязь,</w>
+<w>и</w>
+<w>его</w>
+<w>великыхъ</w>
+<w>боляръ</w>
+<w>къ</w>
+<w>вамъ,</w>
+<w>Львови</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>князь,</w>
+<w>и</w>
+<w>его</w>
+<w>великих</w>
+<w>бояръ,</w>
+<w>к</w>
+<w>вам,</w>
+<w>Лвови</w>
+<w>и</w>
+</rdg>
+</app></p></div></body></text></TEI>

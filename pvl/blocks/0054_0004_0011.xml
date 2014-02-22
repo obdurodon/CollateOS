@@ -1,131 +1,111 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>4, 11</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="11">
-            <p>
-               <app>
-                  <lem>
-                     <w>до</w>
-                     <w>Волошьскы.</w>
-                     <w>Афетово</w>
-                     <w>бо</w>
-                     <w>колѣно</w>
-                     <w>и</w>
-                     <w>то:</w>
-                     <w>Варязи,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>до</w>
-                        <w>волошьски.</w>
-                        <w>афет<sic>ово бо и то</sic>
-                        </w>
-                        <w>колѣ<sic>но
-                    вар<hi rend="sup">ѧ</hi>
-                              <lb/>зи</sic>
-                        </w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>до</w>
-                        <w>волошьски</w>
-                        <w>афетово</w>
-                        <w>бо</w>
-                        <w>и</w>
-                        <w>то</w>
-                        <w>колѣно</w>
-                        <w>варязи</w>
-                        <w>
-                           <pb n="53"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>до</w>
-                        <w>воло<hi rend="sup">ж</hi>скы</w>
-                        <w>афетово</w>
-                        <w>бо</w>
-                        <w>ко<lb/>лѣно</w>
-                        <w>то</w>
-                        <w>варѧзи</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>до</w>
-                        <w>воложьскы.</w>
-                        <w>Афето<lb/>во</w>
-                        <w>бо</w>
-                        <w>колѣно</w>
-                        <w>то</w>
-                        <w>варѧзи.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>до</w>
-                        <w>воло<hi rend="sup">с</hi>шькые. <lb/>
-                        </w>
-                        <w>Афетово</w>
-                        <w>же</w>
-                        <w>колѣно</w>
-                        <w>и</w>
-                        <w>то</w>
-                        <w>варѧ<lb/>зи.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>волѡскы.</w>
-                        <w>Афетово</w>
-                        <w>бо</w>
-                        <w>ко<lb/>лѣно</w>
-                        <w>и</w>
-                        <w>то</w>
-                        <w>варѧѕи,</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>до</w>
-                        <w>Волошьски.</w>
-                        <w>Афетово</w>
-                        <w>бо</w>
-                        <w>и</w>
-                        <w>то</w>
-                        <w>колѣно:</w>
-                        <w>Варязи,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>до</w>
-                        <w>Волошьскы.</w>
-                        <w>Афетово</w>
-                        <w>бо</w>
-                        <w>колѣно</w>
-                        <w>и</w>
-                        <w>то:</w>
-                        <w>Варязи,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>до</w>
-                        <w>Волошьски.</w>
-                        <w>Афетово</w>
-                        <w>бо</w>
-                        <w>и</w>
-                        <w>то</w>
-                        <w>колѣно:</w>
-                        <w>варязи,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>4, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="11"><p>
+<app>
+<lem wit="#lem">
+<w>до</w>
+<w>Волошьскы.</w>
+<w>Афетово</w>
+<w>бо</w>
+<w>колѣно</w>
+<w>и</w>
+<w>то:</w>
+<w>Варязи,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>до</w>
+<w>волошьски.</w>
+<w>афет<milestone unit="sic" n="start"/>ово</w>
+<w>бо</w>
+<w>и</w>
+<w>то<milestone unit="sic" n="end"/></w>
+<w>колѣ<milestone unit="sic" n="start"/>но</w>
+<w>вар<hi rend="sup">ѧ</hi><lb/>зи<milestone unit="sic" n="end"/></w>
+</rdg>
+
+<rdg wit="#tro">
+<w>до</w>
+<w>волошьски</w>
+<w>афетово</w>
+<w>бо</w>
+<w>и</w>
+<w>то</w>
+<w>колѣно</w>
+<w>варязи <pb n="53"/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>до</w>
+<w>воло<hi rend="sup">ж</hi>скы</w>
+<w>афетово</w>
+<w>бо</w>
+<w>ко<lb/>лѣно</w>
+<w>то</w>
+<w>варѧзи</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>до</w>
+<w>воложьскы.</w>
+<w>Афето<lb/>во</w>
+<w>бо</w>
+<w>колѣно</w>
+<w>то</w>
+<w>варѧзи.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>до</w>
+<w>воло<hi rend="sup">с</hi>шькые. <lb/></w>
+
+<w>Афетово</w>
+<w>же</w>
+<w>колѣно</w>
+<w>и</w>
+<w>то</w>
+<w>варѧ<lb/>зи.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>волѡскы.</w>
+<w>Афетово</w>
+<w>бо</w>
+<w>ко<lb/>лѣно</w>
+<w>и</w>
+<w>то</w>
+<w>варѧѕи,</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>до</w>
+<w>Волошьски.</w>
+<w>Афетово</w>
+<w>бо</w>
+<w>и</w>
+<w>то</w>
+<w>колѣно:</w>
+<w>Варязи,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>до</w>
+<w>Волошьскы.</w>
+<w>Афетово</w>
+<w>бо</w>
+<w>колѣно</w>
+<w>и</w>
+<w>то:</w>
+<w>Варязи,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>до</w>
+<w>Волошьски.</w>
+<w>Афетово</w>
+<w>бо</w>
+<w>и</w>
+<w>то</w>
+<w>колѣно:</w>
+<w>варязи,</w>
+</rdg>
+</app></p></div></body></text></TEI>

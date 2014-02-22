@@ -1,132 +1,110 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>26, 22</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="22">
-            <p>
-               <app>
-                  <lem>
-                     <w>“Посъли</w>
-                     <w>къ</w>
-                     <w>намъ</w>
-                     <w>сына</w>
-                     <w>своя,</w>
-                     <w>Мефодия</w>
-                     <w>и</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>посли</w>
-                        <w>к</w>
-                        <w>намъ</w>
-                        <w>въскорѣ</w>
-                        <w>с҃на</w>
-                        <w>своя</w>
-                        <w>меф<sic>о</sic> 
-                           <lb/>
-                        </w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#tro">
-                        <w>пошли</w>
-                        <w>к</w>
-                        <w>намъ</w>
-                        <w>въскорѣ</w>
-                        <w>сына</w>
-                        <w>своя</w>
-                        <w>мефодья</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>посли</w>
-                        <w>к</w>
-                        <w>намъ:-</w>
-                        <w>Сн҃а</w>
-                        <w>своа</w>
-                        <w>мефодьа</w>
-                        <w>и</w>
-                        <w>
-                           <pb n="13r"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>посли</w>
-                        <w>к</w>
-                        <w>намъ.</w>
-                        <w>с҃на</w>
-                        <w>своа.</w>
-                        <w>мефедїа. <lb/>
-                        </w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>пошли</w>
-                        <w>к</w>
-                        <w>намъ</w>
-                        <w>с҃на <lb/>
-                        </w>
-                        <w>своя.</w>
-                        <w>мефедья</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>пошли</w>
-                        <w>н<hi rend="sup">м</hi>а</w>
-                        <w>въскорѣ</w>
-                        <w>с҃на</w>
-                        <w>своѧ.</w>
-                        <w>мефодїа,</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>“посли</w>
-                        <w>к</w>
-                        <w>намъ</w>
-                        <w>въскорѣ</w>
-                        <w>сына</w>
-                        <w>своя,</w>
-                        <w>Мефодия</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>“посъли</w>
-                        <w>къ</w>
-                        <w>намъ</w>
-                        <w>въскорѣ</w>
-                        <w>сына</w>
-                        <w>своя,</w>
-                        <w>Мефодия</w>
-                        <w>и</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>“Посли</w>
-                        <w>к</w>
-                        <w>намъ</w>
-                        <w>въскорѣ</w>
-                        <w>сына</w>
-                        <w>своя,</w>
-                        <w>Мефодия</w>
-                        <w>и</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>26, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="22"><p>
+<app>
+<lem wit="#lem">
+<w>“Посъли</w>
+<w>къ</w>
+<w>намъ</w>
+<w>сына</w>
+<w>своя,</w>
+<w>Мефодия</w>
+<w>и</w>
+</lem>
+
+<rdg wit="#lav">
+<w>посли</w>
+<w>к</w>
+<w>намъ</w>
+<w>въскорѣ</w>
+<w>с҃на</w>
+<w>своя</w>
+<w>меф<milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/><lb/>дия</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#tro">
+<w>пошли</w>
+<w>к</w>
+<w>намъ</w>
+<w>въскорѣ</w>
+<w>сына</w>
+<w>своя</w>
+<w>мефодья</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>посли</w>
+<w>к</w>
+<w>намъ:-</w>
+<w>Сн҃а</w>
+<w>своа</w>
+<w>мефодьа</w>
+<w>и <pb n="13r"/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>посли</w>
+<w>к</w>
+<w>намъ.</w>
+<w>с҃на</w>
+<w>своа.</w>
+<w>мефедїа. <lb/></w>
+
+<w>и</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>пошли</w>
+<w>к</w>
+<w>намъ</w>
+<w>с҃на <lb/></w>
+
+<w>своя.</w>
+<w>мефедья</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>пошли</w>
+<w>н<hi rend="sup">м</hi>а</w>
+<w>въскорѣ</w>
+<w>с҃на</w>
+<w>своѧ.</w>
+<w>мефодїа,</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>“посли</w>
+<w>к</w>
+<w>намъ</w>
+<w>въскорѣ</w>
+<w>сына</w>
+<w>своя,</w>
+<w>Мефодия</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>“посъли</w>
+<w>къ</w>
+<w>намъ</w>
+<w>въскорѣ</w>
+<w>сына</w>
+<w>своя,</w>
+<w>Мефодия</w>
+<w>и</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>“Посли</w>
+<w>к</w>
+<w>намъ</w>
+<w>въскорѣ</w>
+<w>сына</w>
+<w>своя,</w>
+<w>Мефодия</w>
+<w>и</w>
+</rdg>
+</app></p></div></body></text></TEI>

@@ -1,111 +1,90 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>259, 6</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="6">
-            <p>
-               <app>
-                  <lem>
-                     <w>противу</w>
-                     <w>ему</w>
-                     <w>Святопълкъ,</w>
-                     <w>и</w>
-                     <w>идоша</w>
-                     <w>въ</w>
-                     <w>истъбъку,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>противу</w>
-                        <w>ѥго</w>
-                        <w>ст҃опо<lb/>лкъ·</w>
-                        <w>и</w>
-                        <w>идоша</w>
-                        <w>в</w>
-                        <w>ыстобку·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>противѹ</w>
-                        <w>емѹ·</w>
-                        <w>и</w>
-                        <w>идоша</w>
-                        <w>в</w>
-                        <w>комороу.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>противѹ</w>
-                        <w>емѹ·</w>
-                        <w>и</w>
-                        <w>идоша</w>
-                        <w>в</w>
-                        <w>коморѹ·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>противу</w>
-                        <w>ѥму</w>
-                        <w>ст҃ополкъ· <lb/>
-                        </w>
-                        <w>и</w>
-                        <w>идоша</w>
-                        <w>въ</w>
-                        <w>г<sic>ридьниц<hi rend="sup">ю</hi>
-                           </sic>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>проти<lb/>воу</w>
-                        <w>емоу</w>
-                        <w>ст҃опол′кь.</w>
-                        <w>и</w>
-                        <w>идоша</w>
-                        <w>в</w>
-                        <w>ыстьбоу.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>противу</w>
-                        <w>его</w>
-                        <w>Святополкъ,</w>
-                        <w>и</w>
-                        <w>идоша</w>
-                        <w>въ</w>
-                        <w>истобку,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>противу</w>
-                        <w>ему</w>
-                        <w>Святопълкъ,</w>
-                        <w>и</w>
-                        <w>идоша</w>
-                        <w>въ</w>
-                        <w>истъбъку,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>противу</w>
-                        <w>его</w>
-                        <w>Святополкъ,</w>
-                        <w>и</w>
-                        <w>идоша</w>
-                        <w>в-ыстобку,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>259, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="6"><p>
+<app>
+<lem wit="#lem">
+<w>противу</w>
+<w>ему</w>
+<w>Святопълкъ,</w>
+<w>и</w>
+<w>идоша</w>
+<w>въ</w>
+<w>истъбъку,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>противу</w>
+<w>ѥго</w>
+<w>ст҃опо<lb/>лкъ·</w>
+<w>и</w>
+<w>идоша</w>
+<w>в</w>
+<w>ыстобку·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>противѹ</w>
+<w>емѹ·</w>
+<w>и</w>
+<w>идоша</w>
+<w>в</w>
+<w>комороу.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>противѹ</w>
+<w>емѹ·</w>
+<w>и</w>
+<w>идоша</w>
+<w>в</w>
+<w>коморѹ·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>противу</w>
+<w>ѥму</w>
+<w>ст҃ополкъ· <lb/></w>
+
+<w>и</w>
+<w>идоша</w>
+<w>въ</w>
+<w>г<milestone unit="sic" n="start"/>ридьниц<hi rend="sup">ю</hi><milestone unit="sic" n="end"/></w>
+</rdg>
+
+<rdg wit="#xle">
+<w>проти<lb/>воу</w>
+<w>емоу</w>
+<w>ст҃опол′кь.</w>
+<w>и</w>
+<w>идоша</w>
+<w>в</w>
+<w>ыстьбоу.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>противу</w>
+<w>его</w>
+<w>Святополкъ,</w>
+<w>и</w>
+<w>идоша</w>
+<w>въ</w>
+<w>истобку,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>противу</w>
+<w>ему</w>
+<w>Святопълкъ,</w>
+<w>и</w>
+<w>идоша</w>
+<w>въ</w>
+<w>истъбъку,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>противу</w>
+<w>его</w>
+<w>Святополкъ,</w>
+<w>и</w>
+<w>идоша</w>
+<w>в-ыстобку,</w>
+</rdg>
+</app></p></div></body></text></TEI>

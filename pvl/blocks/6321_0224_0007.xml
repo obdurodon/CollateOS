@@ -1,107 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>224, 7</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="7">
-            <p>
-               <app>
-                  <lem>
-                     <w>нынѣ</w>
-                     <w>видимъ,</w>
-                     <w>нивы</w>
-                     <w>поростъше</w>
-                     <w>звѣрьмъ</w>
-                     <w>жилище</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>нонѣ·</w>
-                        <w>видимъ</w>
-                        <w>нивы</w>
-                        <w>по<lb/>ростъше</w>
-                        <w>звѣремъ</w>
-                        <w>жилища</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>н҃нѣ·</w>
-                        <w>видимъ</w>
-                        <w>нивы·</w>
-                        <w>поросше·</w>
-                        <w>звѣре<hi rend="sup">м</hi>
-                        </w>
-                        <w>жилища</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>нн҃ѣ·</w>
-                        <w>видимь</w>
-                        <w>нивы·̏</w>
-                        <w>поросше·</w>
-                        <w>ѕвѣремь</w>
-                        <w>жи<lb/>лища</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>нынѣ</w>
-                        <w>види<hi rend="sup">м</hi>· <lb/>
-                        </w>
-                        <w>нивы</w>
-                        <w>порожьше</w>
-                        <w>стъять·</w>
-                        <w>звѣ<lb/>ремъ</w>
-                        <w>жилище</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>нинѣ</w>
-                        <w>види<hi rend="sup">м</hi>.</w>
-                        <w>нивы</w>
-                        <w>порость<lb/>ше</w>
-                        <w>стоѧть.</w>
-                        <w>ѕвѣре<hi rend="sup">м</hi>
-                        </w>
-                        <w>жилище</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>нынѣ</w>
-                        <w>видимъ,</w>
-                        <w>нивы</w>
-                        <w>поростъше</w>
-                        <w>звѣремъ</w>
-                        <w>жилища</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>нынѣ</w>
-                        <w>видимъ,</w>
-                        <w>нивы</w>
-                        <w>поростъша</w>
-                        <w>звѣрьмъ</w>
-                        <w>жилища</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>нонѣ</w>
-                        <w>видимъ,</w>
-                        <w>нивы</w>
-                        <w>поростъше</w>
-                        <w>звѣремъ</w>
-                        <w>жилища</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>224, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="7"><p>
+<app>
+<lem wit="#lem">
+<w>нынѣ</w>
+<w>видимъ,</w>
+<w>нивы</w>
+<w>поростъше</w>
+<w>звѣрьмъ</w>
+<w>жилище</w>
+</lem>
+
+<rdg wit="#lav">
+<w>нонѣ·</w>
+<w>видимъ</w>
+<w>нивы</w>
+<w>по<lb/>ростъше</w>
+<w>звѣремъ</w>
+<w>жилища</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>н҃нѣ·</w>
+<w>видимъ</w>
+<w>нивы·</w>
+<w>поросше·</w>
+<w>звѣре<hi rend="sup">м</hi></w>
+<w>жилища</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>нн҃ѣ·</w>
+<w>видимь</w>
+<w>нивы·̏</w>
+<w>поросше·</w>
+<w>ѕвѣремь</w>
+<w>жи<lb/>лища</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>нынѣ</w>
+<w>види<hi rend="sup">м</hi>· <lb/></w>
+
+<w>нивы</w>
+<w>порожьше</w>
+<w>стъять·</w>
+<w>звѣ<lb/>ремъ</w>
+<w>жилище</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>нинѣ</w>
+<w>види<hi rend="sup">м</hi>.</w>
+<w>нивы</w>
+<w>порость<lb/>ше</w>
+<w>стоѧть.</w>
+<w>ѕвѣре<hi rend="sup">м</hi></w>
+<w>жилище</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>нынѣ</w>
+<w>видимъ,</w>
+<w>нивы</w>
+<w>поростъше</w>
+<w>звѣремъ</w>
+<w>жилища</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>нынѣ</w>
+<w>видимъ,</w>
+<w>нивы</w>
+<w>поростъша</w>
+<w>звѣрьмъ</w>
+<w>жилища</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>нонѣ</w>
+<w>видимъ,</w>
+<w>нивы</w>
+<w>поростъше</w>
+<w>звѣремъ</w>
+<w>жилища</w>
+</rdg>
+</app></p></div></body></text></TEI>

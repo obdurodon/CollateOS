@@ -1,106 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>233, 20</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="20">
-            <p>
-               <app>
-                  <lem>
-                     <w>пророку,</w>
-                     <w>глаголемъ:</w>
-                     <w>“Боже</w>
-                     <w>мои!</w>
-                     <w>положи</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>прр҃ку</w>
-                        <w>дв҃ду <lb/>
-                        </w>
-                        <w>вопьемъ·</w>
-                        <w>г<hi rend="sup">с</hi>и</w>
-                        <w>б҃е</w>
-                        <w>мои·</w>
-                        <w>положи</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>прр<hi rend="sup">о</hi>коу</w>
-                        <w>гл҃мъ</w>
-                        <w>бж҃е</w>
-                        <w>мои</w>
-                        <w>положи <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>прр҃кѹ</w>
-                        <w>гл҃емь·</w>
-                        <w>бж҃е</w>
-                        <w>мои</w>
-                        <w>положи</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>прр<hi rend="sup">о</hi>ку <lb/>
-                        </w>
-                        <w>гле҃мъ·</w>
-                        <w>б҃е</w>
-                        <w>мои</w>
-                        <w>положи <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>пр<hi rend="sup">о</hi>ркоу</w>
-                        <w>гл҃емъ, <lb/>
-                        </w>
-                        <w>бж҃е</w>
-                        <w>мои</w>
-                        <w>положи</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>пророку</w>
-                        <w>Давыду,</w>
-                        <w>вопьемъ:</w>
-                        <w>Господи</w>
-                        <w>Боже</w>
-                        <w>мой!</w>
-                        <w>положи</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>пророку</w>
-                        <w>Давыду,</w>
-                        <w>въпиемъ:</w>
-                        <w>“Господи</w>
-                        <w>Боже</w>
-                        <w>мои,</w>
-                        <w>положи</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>пророку</w>
-                        <w>Давыду,</w>
-                        <w>вопьемъ:</w>
-                        <w>“Господи</w>
-                        <w>боже</w>
-                        <w>мой!</w>
-                        <w>положи</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>233, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="20"><p>
+<app>
+<lem wit="#lem">
+<w>пророку,</w>
+<w>глаголемъ:</w>
+<w>“Боже</w>
+<w>мои!</w>
+<w>положи</w>
+</lem>
+
+<rdg wit="#lav">
+<w>прр҃ку</w>
+<w>дв҃ду <lb/></w>
+
+<w>вопьемъ·</w>
+<w>г<hi rend="sup">с</hi>и</w>
+<w>б҃е</w>
+<w>мои·</w>
+<w>положи</w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>прр<hi rend="sup">о</hi>коу</w>
+<w>гл҃мъ</w>
+<w>бж҃е</w>
+<w>мои</w>
+<w>положи <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>прр҃кѹ</w>
+<w>гл҃емь·</w>
+<w>бж҃е</w>
+<w>мои</w>
+<w>положи</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>прр<hi rend="sup">о</hi>ку <lb/></w>
+
+<w>гле҃мъ·</w>
+<w>б҃е</w>
+<w>мои</w>
+<w>положи <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>пр<hi rend="sup">о</hi>ркоу</w>
+<w>гл҃емъ, <lb/></w>
+
+<w>бж҃е</w>
+<w>мои</w>
+<w>положи</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>пророку</w>
+<w>Давыду,</w>
+<w>вопьемъ:</w>
+<w>Господи</w>
+<w>Боже</w>
+<w>мой!</w>
+<w>положи</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>пророку</w>
+<w>Давыду,</w>
+<w>въпиемъ:</w>
+<w>“Господи</w>
+<w>Боже</w>
+<w>мои,</w>
+<w>положи</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>пророку</w>
+<w>Давыду,</w>
+<w>вопьемъ:</w>
+<w>“Господи</w>
+<w>боже</w>
+<w>мой!</w>
+<w>положи</w>
+</rdg>
+</app></p></div></body></text></TEI>

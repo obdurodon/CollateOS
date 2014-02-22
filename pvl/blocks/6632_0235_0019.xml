@@ -1,110 +1,81 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>235, 19</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="19">
-            <p>
-               <app>
-                  <lem>
-                     <w>Александръмь,</w>
-                     <w>Макидоньскымъ</w>
-                     <w>царьмь”,</w>
-                     <w>якоже</w>
-                     <w>съказа</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>александро<hi rend="sup">м</hi>
-                        </w>
-                        <w>македо<lb/>ньскы<hi rend="sup">м</hi>
-                        </w>
-                        <w>црм<hi rend="sup">с</hi>ь·</w>
-                        <w>яко<hi rend="sup">ж</hi>
-                        </w>
-                        <w>сказаѥть <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>александро<hi rend="sup">м</hi>·</w>
-                        <w>макидоньскы<hi rend="sup">м</hi> 
-                           <lb/>
-                        </w>
-                        <w>цр҃мъ.</w>
-                        <w>яко<hi rend="sup">ж</hi>
-                        </w>
-                        <w>сказа</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>ѡлександромъ·</w>
-                        <w>макы·̏доньскы·̏мь</w>
-                        <w>цр҃мь·</w>
-                        <w>яко</w>
-                        <w>же</w>
-                        <w>сказа</w>
-                        <w>
-                           <pb n="124v"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>ѡлексан<hi rend="sup">ъ</hi>дромъ</w>
-                        <w>макидо<lb/>ньскомъ</w>
-                        <w>цр҃мъ·</w>
-                        <w>яко</w>
-                        <w>же</w>
-                        <w>сказа <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>алеѯандрѡ<hi rend="sup">м</hi>
-                        </w>
-                        <w>маки<lb/>дѡ<hi rend="sup">н</hi>скы<hi rend="sup">м</hi>
-                        </w>
-                        <w>цр҃мъ.</w>
-                        <w>яко</w>
-                        <w>же</w>
-                        <w>сказа</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>Александромъ,</w>
-                        <w>Македоньскымъ</w>
-                        <w>царемь”,</w>
-                        <w>якоже</w>
-                        <w>сказаеть</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Александръмь,</w>
-                        <w>Македоньскымъ</w>
-                        <w>цѣсарьмь”,</w>
-                        <w>якоже</w>
-                        <w>съказаеть</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>Александром,</w>
-                        <w>Македоньскым</w>
-                        <w>царемь”,</w>
-                        <w>яко</w>
-                        <w>же</w>
-                        <w>сказаеть</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>235, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="19"><p>
+<app>
+<lem wit="#lem">
+<w>Александръмь,</w>
+<w>Макидоньскымъ</w>
+<w>царьмь”,</w>
+<w>якоже</w>
+<w>съказа</w>
+</lem>
+
+<rdg wit="#lav">
+<w>александро<hi rend="sup">м</hi></w>
+<w>македо<lb/>ньскы<hi rend="sup">м</hi></w>
+<w>црм<hi rend="sup">с</hi>ь·</w>
+<w>яко<hi rend="sup">ж</hi></w>
+<w>сказаѥть <lb/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>александро<hi rend="sup">м</hi>·</w>
+<w>макидоньскы<hi rend="sup">м</hi><lb/></w>
+<w>цр҃мъ.</w>
+<w>яко<hi rend="sup">ж</hi></w>
+<w>сказа</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>ѡлександромъ·</w>
+<w>макы·̏доньскы·̏мь</w>
+<w>цр҃мь·</w>
+<w>яко</w>
+<w>же</w>
+<w>сказа <pb n="124v"/></w>
+
+</rdg>
+
+<rdg wit="#ipa">
+<w>ѡлексан<hi rend="sup">ъ</hi>дромъ</w>
+<w>макидо<lb/>ньскомъ</w>
+<w>цр҃мъ·</w>
+<w>яко</w>
+<w>же</w>
+<w>сказа <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>алеѯандрѡ<hi rend="sup">м</hi></w>
+<w>маки<lb/>дѡ<hi rend="sup">н</hi>скы<hi rend="sup">м</hi></w>
+<w>цр҃мъ.</w>
+<w>яко</w>
+<w>же</w>
+<w>сказа</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>Александромъ,</w>
+<w>Македоньскымъ</w>
+<w>царемь”,</w>
+<w>якоже</w>
+<w>сказаеть</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Александръмь,</w>
+<w>Македоньскымъ</w>
+<w>цѣсарьмь”,</w>
+<w>якоже</w>
+<w>съказаеть</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>Александром,</w>
+<w>Македоньскым</w>
+<w>царемь”,</w>
+<w>яко</w>
+<w>же</w>
+<w>сказаеть</w>
+</rdg>
+</app></p></div></body></text></TEI>

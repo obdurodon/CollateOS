@@ -1,115 +1,93 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>271, 23</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="23">
-            <p>
-               <app>
-                  <lem>
-                     <w>епискупа</w>
-                     <w>ихъ</w>
-                     <w>Купана</w>
-                     <w>и</w>
-                     <w>отъ</w>
-                     <w>боляръ</w>
-                     <w>мъногы;</w>
-                     <w>яко</w>
-                     <w>же</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>пп<hi rend="sup">с</hi>а</w>
-                        <w>и<lb/>хъ·</w>
-                        <w>купана·</w>
-                        <w>и</w>
-                        <w>ѿ</w>
-                        <w>болѧръ</w>
-                        <w>мно<lb/>гы·</w>
-                        <w>глх҃у</w>
-                        <w>бо</w>
-                     </rdg>
-                     <rdg wit="#rad"/>
-                     <rdg wit="#aka"/>
-                     <rdg wit="#ipa">
-                        <w>
-                           <sic>еп<hi rend="sup">с</hi>па</sic>
-                        </w>
-                        <w>и<hi rend="sup">х</hi>
-                        </w>
-                        <w>купана·</w>
-                        <w>и</w>
-                        <w>ѿ</w>
-                        <w>болѧръ</w>
-                        <w>многи· <lb/>
-                        </w>
-                        <w>яко</w>
-                        <w>же</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>епк<hi rend="sup">с</hi>па</w>
-                        <w>и<hi rend="sup">х</hi> 
-                           <lb/>
-                        </w>
-                        <w>коупана,</w>
-                        <w>и</w>
-                        <w>ѿ</w>
-                        <w>боѧръ</w>
-                        <w>мнѡѕи,</w>
-                        <w>яко<hi rend="sup">ж</hi>
-                        </w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>пископа</w>
-                        <w>ихъ</w>
-                        <w>Купана</w>
-                        <w>и</w>
-                        <w>отъ</w>
-                        <w>боляръ</w>
-                        <w>многы;</w>
-                        <w>глаголаху</w>
-                        <w>бо,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>пискупа</w>
-                        <w>ихъ</w>
-                        <w>Купана</w>
-                        <w>и</w>
-                        <w>отъ</w>
-                        <w>боляръ</w>
-                        <w>мъногы;</w>
-                        <w>глаголаху</w>
-                        <w>бо,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>пископа</w>
-                        <w>ихъ</w>
-                        <w>Купана</w>
-                        <w>и</w>
-                        <w>от</w>
-                        <w>боляръ</w>
-                        <w>многы;</w>
-                        <w>глаголаху</w>
-                        <w>бо,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="23"><p>
+<app>
+<lem wit="#lem">
+<w>епискупа</w>
+<w>ихъ</w>
+<w>Купана</w>
+<w>и</w>
+<w>отъ</w>
+<w>боляръ</w>
+<w>мъногы;</w>
+<w>яко</w>
+<w>же</w>
+</lem>
+
+<rdg wit="#lav">
+<w>пп<hi rend="sup">с</hi>а</w>
+<w>и<lb/>хъ·</w>
+<w>купана·</w>
+<w>и</w>
+<w>ѿ</w>
+<w>болѧръ</w>
+<w>мно<lb/>гы·</w>
+<w>глх҃у</w>
+<w>бо</w>
+</rdg>
+
+<rdg wit="#rad">
+</rdg>
+
+<rdg wit="#aka">
+</rdg>
+
+<rdg wit="#ipa">
+<w><milestone unit="sic" n="start"/>еп<hi rend="sup">с</hi>па<milestone unit="sic" n="end"/></w>
+<w>и<hi rend="sup">х</hi></w>
+<w>купана·</w>
+<w>и</w>
+<w>ѿ</w>
+<w>болѧръ</w>
+<w>многи· <lb/></w>
+
+<w>яко</w>
+<w>же</w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>епк<hi rend="sup">с</hi>па</w>
+<w>и<hi rend="sup">х</hi><lb/></w>
+<w>коупана,</w>
+<w>и</w>
+<w>ѿ</w>
+<w>боѧръ</w>
+<w>мнѡѕи,</w>
+<w>яко<hi rend="sup">ж</hi></w>
+</rdg>
+
+<rdg wit="#bych">
+<w>пископа</w>
+<w>ихъ</w>
+<w>Купана</w>
+<w>и</w>
+<w>отъ</w>
+<w>боляръ</w>
+<w>многы;</w>
+<w>глаголаху</w>
+<w>бо,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>пискупа</w>
+<w>ихъ</w>
+<w>Купана</w>
+<w>и</w>
+<w>отъ</w>
+<w>боляръ</w>
+<w>мъногы;</w>
+<w>глаголаху</w>
+<w>бо,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>пископа</w>
+<w>ихъ</w>
+<w>Купана</w>
+<w>и</w>
+<w>от</w>
+<w>боляръ</w>
+<w>многы;</w>
+<w>глаголаху</w>
+<w>бо,</w>
+</rdg>
+</app></p></div></body></text></TEI>

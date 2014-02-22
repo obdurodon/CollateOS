@@ -1,111 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>204, 27</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="27">
-            <p>
-               <app>
-                  <lem>
-                     <w>Въ</w>
-                     <w>лѣто 6589.</w>
-                     <w>Бѣжа</w>
-                     <w>Игоревичь</w>
-                     <w>Давыдъ</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>В</w>
-                        <w>лѣ<hi rend="sup">т</hi>. <lb/>
-                        </w>
-                        <w>҂ѕ҃.ф҃.п҃ѳ.</w>
-                        <w>Бѣжа</w>
-                        <w>игоревичь <lb/>
-                        </w>
-                        <w>дв҃дъ.</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>҂ѕ҃.ф҃.п҃ѳ.</w>
-                        <w>ежа</w>
-                        <w>игореви<hi rend="sup">ч</hi>
-                        </w>
-                        <w>дв<hi rend="sup">д</hi>ъ</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>В</w>
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>.҂ѕ҃.ф҃.п҃ѳ. <lb/>
-                        </w>
-                        <w>Бежа</w>
-                        <w>игореви<hi rend="sup">ч</hi>
-                        </w>
-                        <w>дв҃дъ.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>В</w>
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>.҂ѕ҃.ф҃.п҃ѳ.</w>
-                        <w>
-                           <sic>Б</sic>ѣжа</w>
-                        <w>игореви<hi rend="sup">ч</hi> 
-                           <lb/>
-                        </w>
-                        <w>дв҃дъ</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>В</w>
-                        <w>лѣ<hi rend="sup">т</hi>
-                        </w>
-                        <w>.҂ѕ҃.ф҃.п҃ѳ. <lb/>
-                        </w>
-                        <w>бѣжа</w>
-                        <w>игореви<hi rend="sup">ч</hi>
-                        </w>
-                        <w>дв҃дь</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>В</w>
-                        <w>лѣто 6589.</w>
-                        <w>Бѣжа</w>
-                        <w>Игоревичь</w>
-                        <w>Давыдъ</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>Въ</w>
-                        <w>лѣто 6589.</w>
-                        <w>Бѣжа</w>
-                        <w>Игоревичь</w>
-                        <w>Давыдъ</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>В</w>
-                        <w>лѣто 6589.</w>
-                        <w>Бѣжа</w>
-                        <w>Игоревичь</w>
-                        <w>Давыдъ</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>204, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="27"><p>
+<app>
+<lem wit="#lem">
+<w>Въ</w>
+<w>лѣто 6589.</w>
+
+<w>Бѣжа</w>
+<w>Игоревичь</w>
+<w>Давыдъ</w>
+</lem>
+
+<rdg wit="#lav">
+<w>В</w>
+<w>лѣ<hi rend="sup">т</hi>. <lb/></w>
+
+<w>҂ѕ҃.ф҃.п҃ѳ.</w>
+<w>Бѣжа</w>
+<w>игоревичь <lb/></w>
+
+<w>дв҃дъ.</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>лѣ<hi rend="sup">т</hi></w>
+<w>҂ѕ҃.ф҃.п҃ѳ.</w>
+<w>ежа</w>
+<w>игореви<hi rend="sup">ч</hi></w>
+<w>дв<hi rend="sup">д</hi>ъ</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>В</w>
+<w>лѣ<hi rend="sup">т</hi></w>
+<w>.҂ѕ҃.ф҃.п҃ѳ. <lb/></w>
+
+<w>Бежа</w>
+<w>игореви<hi rend="sup">ч</hi></w>
+<w>дв҃дъ.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>В</w>
+<w>лѣ<hi rend="sup">т</hi></w>
+<w>.҂ѕ҃.ф҃.п҃ѳ.</w>
+<w><milestone unit="sic" n="start"/>Б<milestone unit="sic" n="end"/>ѣжа</w>
+<w>игореви<hi rend="sup">ч</hi><lb/></w>
+<w>дв҃дъ</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>В</w>
+<w>лѣ<hi rend="sup">т</hi></w>
+<w>.҂ѕ҃.ф҃.п҃ѳ. <lb/></w>
+
+<w>бѣжа</w>
+<w>игореви<hi rend="sup">ч</hi></w>
+<w>дв҃дь</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>В</w>
+<w>лѣто 6589.</w>
+
+<w>Бѣжа</w>
+<w>Игоревичь</w>
+<w>Давыдъ</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>Въ</w>
+<w>лѣто 6589.</w>
+
+<w>Бѣжа</w>
+<w>Игоревичь</w>
+<w>Давыдъ</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>В</w>
+<w>лѣто 6589.</w>
+
+<w>Бѣжа</w>
+<w>Игоревичь</w>
+<w>Давыдъ</w>
+</rdg>
+</app></p></div></body></text></TEI>

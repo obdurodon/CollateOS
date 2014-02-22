@@ -1,146 +1,124 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>181, 21</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="21">
-            <p>
-               <app>
-                  <lem>
-                     <w>же</w>
-                     <w>бѣ</w>
-                     <w>тъгда</w>
-                     <w>Георгии,</w>
-                     <w>епископъ</w>
-                     <w>Петръ</w>
-                     <w>Переяславьскыи,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>же</w>
-                        <w>тогда</w>
-                        <w>бѣ.</w>
-                        <w>геѡрги</w>
-                        <w>епп<hi rend="sup">с</hi>ъ.</w>
-                        <w>петръ</w>
-                        <w>перея<sic>сла</sic> 
-                           <lb/>
-                        </w>
-                        <w>
-                           <pb n="61b"/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>геѡгрии.</w>
-                        <w>епп<hi rend="sup">с</hi>ъ</w>
-                        <w>петръ.</w>
-                        <w>переяславь<lb/>ски.</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>геѡргеи</w>
-                        <w>и</w>
-                        <w>епп<hi rend="sup">с</hi>ъ</w>
-                        <w>петръ</w>
-                        <w>перея<lb/>славьскыи.</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>же</w>
-                        <w>бѣ <lb/>
-                        </w>
-                        <w>тогда</w>
-                        <w>геѡргии.</w>
-                        <w>епп<hi rend="sup">с</hi>ъ</w>
-                        <w>
-                           <sic>петръ</sic>
-                        </w>
-                        <w>переяславьскыи.</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>же</w>
-                        <w>бѣ</w>
-                        <w>тог<hi rend="sup">д</hi>а</w>
-                        <w>георгїи.</w>
-                        <w>епк<hi rend="sup">с</hi>пъ</w>
-                        <w>петръ,</w>
-                        <w>пе<lb/>реѧславскыи.</w>
-                     </rdg>
-                     <rdg wit="#kom">
-                        <w>же</w>
-                        <w>бѣ</w>
-                        <w>в</w>
-                        <w>то</w>
-                        <w>время</w>
-                        <w>георгии</w>
-                        <w>и</w>
-                        <w>епископи</w>
-                        <w>петръ</w>
-                        <w>переяславьскыи</w>
-                     </rdg>
-                     <rdg wit="#nak">
-                        <w>же</w>
-                        <w>тъгда</w>
-                        <w>бѣ</w>
-                        <w>георгии</w>
-                        <w>и</w>
-                        <w>епископи</w>
-                        <w>петръ</w>
-                        <w>переяславьскы</w>
-                     </rdg>
-                     <rdg wit="#tol">
-                        <w>же</w>
-                        <w>тъгда</w>
-                        <w>бѣ</w>
-                        <w>георгии</w>
-                        <w>и</w>
-                        <w>епископи</w>
-                        <w>петръ</w>
-                        <w>переяславскы</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>иже</w>
-                        <w>тогда</w>
-                        <w>бѣ,</w>
-                        <w>Георги,</w>
-                        <w>епископъ</w>
-                        <w>Петръ</w>
-                        <w>Переяславьскый,</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>же</w>
-                        <w>тъгда</w>
-                        <w>бѣ</w>
-                        <w>Георгии,</w>
-                        <w>епископъ</w>
-                        <w>Петръ</w>
-                        <w>Переяславьскыи,</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>же</w>
-                        <w>тогда</w>
-                        <w>бѣ</w>
-                        <w>Георги,</w>
-                        <w>епископъ</w>
-                        <w>Петръ</w>
-                        <w>Переяславьскый,</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>181, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="21"><p>
+<app>
+<lem wit="#lem">
+<w>же</w>
+<w>бѣ</w>
+<w>тъгда</w>
+<w>Георгии,</w>
+<w>епископъ</w>
+<w>Петръ</w>
+<w>Переяславьскыи,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>же</w>
+<w>тогда</w>
+<w>бѣ.</w>
+<w>геѡрги</w>
+<w>епп<hi rend="sup">с</hi>ъ.</w>
+<w>петръ</w>
+<w>перея<milestone unit="sic" n="start"/>сла<milestone unit="sic" n="end"/><lb/>вьскыи. <pb n="61b"/></w>
+
+</rdg>
+
+<rdg wit="#rad">
+<w>геѡгрии.</w>
+<w>епп<hi rend="sup">с</hi>ъ</w>
+<w>петръ.</w>
+<w>переяславь<lb/>ски.</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>геѡргеи</w>
+<w>и</w>
+<w>епп<hi rend="sup">с</hi>ъ</w>
+<w>петръ</w>
+<w>перея<lb/>славьскыи.</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>же</w>
+<w>бѣ <lb/></w>
+
+<w>тогда</w>
+<w>геѡргии.</w>
+<w>епп<hi rend="sup">с</hi>ъ</w>
+<w><milestone unit="sic" n="start"/>петръ<milestone unit="sic" n="end"/></w>
+<w>переяславьскыи.</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>же</w>
+<w>бѣ</w>
+<w>тог<hi rend="sup">д</hi>а</w>
+<w>георгїи.</w>
+<w>епк<hi rend="sup">с</hi>пъ</w>
+<w>петръ,</w>
+<w>пе<lb/>реѧславскыи.</w>
+</rdg>
+
+<rdg wit="#kom">
+<w>же</w>
+<w>бѣ</w>
+<w>в</w>
+<w>то</w>
+<w>время</w>
+<w>георгии</w>
+<w>и</w>
+<w>епископи</w>
+<w>петръ</w>
+<w>переяславьскыи</w>
+</rdg>
+
+<rdg wit="#nak">
+<w>же</w>
+<w>тъгда</w>
+<w>бѣ</w>
+<w>георгии</w>
+<w>и</w>
+<w>епископи</w>
+<w>петръ</w>
+<w>переяславьскы</w>
+</rdg>
+
+<rdg wit="#tol">
+<w>же</w>
+<w>тъгда</w>
+<w>бѣ</w>
+<w>георгии</w>
+<w>и</w>
+<w>епископи</w>
+<w>петръ</w>
+<w>переяславскы</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>иже</w>
+<w>тогда</w>
+<w>бѣ,</w>
+<w>Георги,</w>
+<w>епископъ</w>
+<w>Петръ</w>
+<w>Переяславьскый,</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>же</w>
+<w>тъгда</w>
+<w>бѣ</w>
+<w>Георгии,</w>
+<w>епископъ</w>
+<w>Петръ</w>
+<w>Переяславьскыи,</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>же</w>
+<w>тогда</w>
+<w>бѣ</w>
+<w>Георги,</w>
+<w>епископъ</w>
+<w>Петръ</w>
+<w>Переяславьскый,</w>
+</rdg>
+</app></p></div></body></text></TEI>

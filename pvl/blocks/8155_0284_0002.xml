@@ -1,106 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>284, 2</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="2">
-            <p>
-               <app>
-                  <lem>
-                     <w>вежѣ</w>
-                     <w>Половьцкыѣ</w>
-                     <w>у</w>
-                     <w>Дону.</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>вежѣ</w>
-                        <w>полове<lb/>чскыѣ</w>
-                        <w>оу</w>
-                        <w>дону·:·</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>ве<hi rend="sup">ж</hi>
-                        </w>
-                        <w>по<hi rend="sup">л</hi>вецкїе</w>
-                        <w>оу</w>
-                        <w>дона:- <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>вежи</w>
-                        <w>половецкии·</w>
-                        <w>оу</w>
-                        <w>дона·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>вежи</w>
-                        <w>половецькие</w>
-                        <w>
-                           <sic>ѹ</sic>
-                        </w>
-                        <w>до<lb/>на</w>
-                        <w>
-                           <sic>.҂а҃</sic>·</w>
-                        <w>вѣжь</w>
-                        <w>взѧ·</w>
-                        <w>послани</w>
-                        <w>во<lb/>лодимеромъ</w>
-                        <w>кнѧз<sic>о</sic>мъ·:· <lb/>
-                        </w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>вежи</w>
-                        <w>половец′скые</w>
-                        <w>оу</w>
-                        <w>дона.</w>
-                        <w>҂а҃. <lb/>
-                        </w>
-                        <w>вѣ<hi rend="sup">ж</hi>
-                        </w>
-                        <w>взѧ,</w>
-                        <w>послани</w>
-                        <w>вол<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>меро<hi rend="sup">м</hi>
-                        </w>
-                        <w>кнѧѕе<hi rend="sup">м</hi>.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>вежѣ</w>
-                        <w>Половечскыѣ</w>
-                        <w>у</w>
-                        <w>Дону.</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>вежѣ</w>
-                        <w>Половьчьскыѣ</w>
-                        <w>у</w>
-                        <w>Дону<add place="margin">; 1000 вежь възя, посъланъ Володимеръмь
-                кънязьмь</add>.</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>вежѣ</w>
-                        <w>половечскыѣ</w>
-                        <w>у</w>
-                        <w>Дону.</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>284, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="2"><p>
+<app>
+<lem wit="#lem">
+<w>вежѣ</w>
+<w>Половьцкыѣ</w>
+<w>у</w>
+<w>Дону.</w>
+</lem>
+
+<rdg wit="#lav">
+<w>вежѣ</w>
+<w>полове<lb/>чскыѣ</w>
+<w>оу</w>
+<w>дону·:·</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>ве<hi rend="sup">ж</hi></w>
+<w>по<hi rend="sup">л</hi>вецкїе</w>
+<w>оу</w>
+<w>дона:- <lb/></w>
+
+</rdg>
+
+<rdg wit="#aka">
+<w>вежи</w>
+<w>половецкии·</w>
+<w>оу</w>
+<w>дона·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>вежи</w>
+<w>половецькие</w>
+<w><milestone unit="sic" n="start"/>ѹ<milestone unit="sic" n="end"/></w>
+<w>до<lb/>на</w>
+<w><milestone unit="sic" n="start"/>.҂а҃<milestone unit="sic" n="end"/>·</w>
+<w>вѣжь</w>
+<w>взѧ·</w>
+<w>послани</w>
+<w>во<lb/>лодимеромъ</w>
+<w>кнѧз<milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/>мъ·:· <lb/></w>
+
+</rdg>
+
+<rdg wit="#xle">
+<w>вежи</w>
+<w>половец′скые</w>
+<w>оу</w>
+<w>дона.</w>
+<w>҂а҃. <lb/></w>
+
+<w>вѣ<hi rend="sup">ж</hi></w>
+<w>взѧ,</w>
+<w>послани</w>
+<w>вол<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>меро<hi rend="sup">м</hi></w>
+<w>кнѧѕе<hi rend="sup">м</hi>.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>вежѣ</w>
+<w>Половечскыѣ</w>
+<w>у</w>
+<w>Дону.</w>
+</rdg>
+
+<rdg wit="#shakh">
+<w>вежѣ</w>
+<w>Половьчьскыѣ</w>
+<w>у</w>
+<w>Дону<milestone unit="add" n="start" place="margin"/>; 1000</w>
+
+<w>вежь</w>
+<w>възя,</w>
+<w>посъланъ</w>
+<w>Володимеръмь</w>
+<w>кънязьмь<milestone unit="add" n="end"/>.</w>
+</rdg>
+
+<rdg wit="#likh">
+<w>вежѣ</w>
+<w>половечскыѣ</w>
+<w>у</w>
+<w>Дону.</w>
+</rdg>
+</app></p></div></body></text></TEI>

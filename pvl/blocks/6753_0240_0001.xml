@@ -1,99 +1,78 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>240, 1</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Unpublished interim file for collation</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Extracted from pvl-tei.xml</p>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="block" n="1">
-            <p>
-               <app>
-                  <lem>
-                     <w>же</w>
-                     <w>перешьдъ</w>
-                     <w>Пежарь</w>
-                     <w>съ</w>
-                     <w>Новъгородьци,</w>
-                  </lem>
-                  <rdgGrp type="manuscripts">
-                     <rdg wit="#lav">
-                        <w>же</w>
-                        <w>перешедъ</w>
-                        <w>пожаръ</w>
-                        <w>с</w>
-                        <w>но<lb/>вгородци</w>
-                     </rdg>
-                     <rdg wit="#rad">
-                        <w>же</w>
-                        <w>преше<hi rend="sup">д</hi>
-                        </w>
-                        <w>пожаръ</w>
-                        <w>с</w>
-                        <w>новгоро<hi rend="sup">д</hi>ци·</w>
-                     </rdg>
-                     <rdg wit="#aka">
-                        <w>же</w>
-                        <w>прише<hi rend="sup">д</hi>
-                        </w>
-                        <w>пожаръ <lb/>
-                        </w>
-                        <w>с</w>
-                        <w>новогоро<hi rend="sup">д</hi>ци·</w>
-                     </rdg>
-                     <rdg wit="#ipa">
-                        <w>же</w>
-                        <w>перешедъ</w>
-                        <w>пежарь·</w>
-                        <w>с</w>
-                        <w>новго<lb/>родцѣ·</w>
-                     </rdg>
-                     <rdg wit="#xle">
-                        <w>же</w>
-                        <w>переше<hi rend="sup">д</hi>
-                        </w>
-                        <w>пежа<hi rend="sup">р</hi> 
-                           <lb/>
-                        </w>
-                        <w>с</w>
-                        <w>новогорѡ<hi rend="sup">д</hi>ци.</w>
-                     </rdg>
-                  </rdgGrp>
-                  <rdgGrp type="editions">
-                     <rdg wit="#bych">
-                        <w>же</w>
-                        <w>перешедъ</w>
-                        <w>пожаръ</w>
-                        <w>с</w>
-                        <w>Новгородци, 231,17</w>
-                     </rdg>
-                     <rdg wit="#shakh">
-                        <w>же</w>
-                        <w>перешьдъ</w>
-                        <w>Пежарь</w>
-                        <w>съ</w>
-                        <w>Новъгородьци, 299,1</w>
-                     </rdg>
-                     <rdg wit="#likh">
-                        <w>же</w>
-                        <w>перешедъ</w>
-                        <w>пожаръ</w>
-                        <w>с</w>
-                        <w>новгородци, 170,10</w>
-                     </rdg>
-                  </rdgGrp>
-               </app>
-            </p>
-         </div>
-      </body>
-   </text>
-</TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>240, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><div type="block" n="1"><p>
+<app>
+<lem wit="#lem">
+<w>же</w>
+<w>перешьдъ</w>
+<w>Пежарь</w>
+<w>съ</w>
+<w>Новъгородьци,</w>
+</lem>
+
+<rdg wit="#lav">
+<w>же</w>
+<w>перешедъ</w>
+<w>пожаръ</w>
+<w>с</w>
+<w>но<lb/>вгородци</w>
+</rdg>
+
+<rdg wit="#rad">
+<w>же</w>
+<w>преше<hi rend="sup">д</hi></w>
+<w>пожаръ</w>
+<w>с</w>
+<w>новгоро<hi rend="sup">д</hi>ци·</w>
+</rdg>
+
+<rdg wit="#aka">
+<w>же</w>
+<w>прише<hi rend="sup">д</hi></w>
+<w>пожаръ <lb/></w>
+
+<w>с</w>
+<w>новогоро<hi rend="sup">д</hi>ци·</w>
+</rdg>
+
+<rdg wit="#ipa">
+<w>же</w>
+<w>перешедъ</w>
+<w>пежарь·</w>
+<w>с</w>
+<w>новго<lb/>родцѣ·</w>
+</rdg>
+
+<rdg wit="#xle">
+<w>же</w>
+<w>переше<hi rend="sup">д</hi></w>
+<w>пежа<hi rend="sup">р</hi><lb/></w>
+<w>с</w>
+<w>новогорѡ<hi rend="sup">д</hi>ци.</w>
+</rdg>
+
+<rdg wit="#bych">
+<w>же</w>
+<w>перешедъ</w>
+<w>пожаръ</w>
+<w>с</w>
+<w>Новгородци,</w>
+
+</rdg>
+
+<rdg wit="#shakh">
+<w>же</w>
+<w>перешьдъ</w>
+<w>Пежарь</w>
+<w>съ</w>
+<w>Новъгородьци,</w>
+
+</rdg>
+
+<rdg wit="#likh">
+<w>же</w>
+<w>перешедъ</w>
+<w>пожаръ</w>
+<w>с</w>
+<w>новгородци,</w>
+
+</rdg>
+</app></p></div></body></text></TEI>
