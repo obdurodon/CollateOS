@@ -7,9 +7,8 @@ startTime = datetime.datetime.now()
 ##args = sys.argv
 ##path = args[args.index('-i')+1]
 path = r'C:\Users\Minas\Documents\GitHub\CollateOS\pvl\blocks'
-##xmls = filter(lambda x: str(x.split('.')[len(x.split('.'))-1]) == 'xml' , os.listdir(path))
-doc = [f for f in os.listdir(path) if f == '0000_0000_0001.xml'] #fake, for testing 1 doc only, til whitespace issue is resolved
-for afile in doc: # change to afile in xmls
+xmls = filter(lambda x: str(x.split('.')[len(x.split('.'))-1]) == 'xml' , os.listdir(path))
+for afile in xmls:
     root = {}
     alldocs = []
     rdgs = minidom.parse(os.path.join(path, afile)).getElementsByTagName('rdg')

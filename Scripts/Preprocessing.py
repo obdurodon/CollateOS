@@ -97,14 +97,14 @@ def conflate(w): # main function that calls all of the above. Currently under re
         elName = kid.localName
         parent = kid.parentNode
         if elName in ['add', 'hi', 'unclear']:
-            for child in parent.getElementsByTagName(elName):
-                print parent.toprettyxml(), child.firstChild.toprettyxml(), child.toprettyxml()
-                parent.replaceChild(child.firstChild, child)
-                break
-        elif elName in ['del', 'gap', 'lacuna', 'lb']:
+            removeElementTags(elName, parent)
+            break
+        elif elName in ['del', 'gap', 'lacuna', 'lb', 'pb']:
             deleteElements(elName, parent)
+            break
         elif elName =='choice':
             choose(kid)
+            break
     removeElementTags('choice', w)
     rules = minidom.parse(r'soundex-rules.xml')
     vowels = minidom.parse(r'vowels.xml')
