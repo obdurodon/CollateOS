@@ -5,13 +5,14 @@ import datetime, json, os, Preprocessing, sys, xml.dom.minidom as minidom
 startTime = datetime.datetime.now()
 
 args = sys.argv
-path = '..\sample_ms_files' #default, overwritten if provided with -i flag
-if '-i' in args:
-    path = args[args.index('-i')+1]
-JsonSpecified = False
-if '-o' in args:
-    jsonFileName = os.path.join(os.getcwd(), args[args.index('-o')+1] + '.json')
-    JsonSpecified = True
+
+assert 5 <= len(args) <= 6, "Expected 4 or 5 arguments! \n\n-i followed by input directory path\n-o followed by output file path\noptional debug flag"
+assert '-i' in args and os.path.exists(args[args.index('-i')+1]), "Invalid input directory"
+assert '-o' in args and not args.index('-o') == len(args)-1, "No output file path provided"
+
+path = args[args.index('-i')+1]
+jsonFileName = os.path.join(os.getcwd(), args[args.index('-o')+1])
+
 debug = False
 if 'debug' in args:
     debug = True
@@ -21,7 +22,11 @@ if 'debug' in args:
 xmls = filter(lambda x: str(x.split('.')[len(x.split('.'))-1]) == 'xml' , os.listdir(path))
 root = {}
 alldocs = []
+l = len(xmls)
+count = 0
 for afile in xmls:
+    count += 1
+    print 'XMLsToJSON.py: Processing', afile, 'file', count, 'out of', l 
     docLevel = {}
     docLevel['id'] = afile
     tokenList = []
@@ -56,8 +61,6 @@ if debug:
     html.write('</body></html>')
     print 'debug file written to', os.path.join(os.getcwd(), html.name)
     html.close()
-if not JsonSpecified:
-    jsonFileName = os.path.join(os.getcwd(), 'witnesses.json')
 with open(os.path.join(path, jsonFileName), 'w') as Json:
     Json.write(json.dumps(root, ensure_ascii=False).encode('utf-8'))
-print 'Took', datetime.datetime.now()-startTime, 'to execute'
+print 'Took', datetime.datetime.now()-startTime, 'to execute XMLsToJSON.py'

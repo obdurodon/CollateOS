@@ -118,7 +118,7 @@ def conflate(w): # main function that calls all of the above. Currently under re
     for i in list(splitTagsFromText(w.toxml())):
         if not i.startswith('<'):
             wlist.append(i)
-    word = stripPunct(''.join(wlist))
+    word = stripPunct(''.join(wlist)).strip()
 
 # apply rules as specified in soundex-rules.xml
     
