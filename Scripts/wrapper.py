@@ -1,5 +1,5 @@
 import datetime, os, subprocess, sys
-startTime = datetime.datetime.now()
+startTimeWP = datetime.datetime.now()
 args = sys.argv
 script = args[1]
 In = args[args.index('-i')+1]
@@ -31,4 +31,4 @@ else:
     else:
         print 'Passing command: python runCollatex.py -i ' + os.path.abspath(os.path.dirname(Out))
         subprocess.Popen('python runCollatex.py -i ' + os.path.abspath(os.path.dirname(Out)))
-print 'Took', datetime.datetime.now()-startTime, 'to execute wrapper.py'
+print 'Took', datetime.datetime.now()-startTimeWP, 'to execute wrapper.py'

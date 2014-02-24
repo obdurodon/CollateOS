@@ -2,7 +2,7 @@
 #parsing a single xml file, like the pavlova project, split into blocks. Output written into the same folder. Presumably deleted afterwards downthe pipeline.
 
 import datetime, json, os, Preprocessing, sys, xml.dom.minidom as minidom
-startTime = datetime.datetime.now()
+startTimeX2J = datetime.datetime.now()
 
 args = sys.argv
 
@@ -46,4 +46,4 @@ for afile in xmls:
     root['witnesses'] = alldocs
     with open(os.path.join(path, afile[:-3] + 'json'), 'w') as Json:
         Json.write(json.dumps(root, ensure_ascii=False).encode('utf-8'))
-print 'Took', datetime.datetime.now()-startTime, 'to execute XMLToJSON.py'
+print 'Took', datetime.datetime.now()-startTimeX2J, 'to execute XMLToJSON.py'

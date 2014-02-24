@@ -1,5 +1,5 @@
 import datetime, os, sys
-startTime = datetime.datetime.now()
+startTimeRC = datetime.datetime.now()
 
 args = sys.argv
 assert 3 <= len(args) <= 4, "Expected 2 or 3 arguments! \n\n-i followed by input directory path\n-new if opting not to overwrite the existing JSONs"
@@ -16,7 +16,7 @@ c = 0
 if overwrite:
     for afile in jsons:
         c += 1
-        print 'Processing', afile, 'file', c, 'out of', l
+        print 'runCollatex.py: Processing', afile, 'file', c, 'out of', l
         os.popen('collatex -t ' + path + ' -o ' + os.path.join(path, afile))
 else:
     if os.path.exists(os.path.join(path, 'collatexOutput')):
@@ -24,7 +24,7 @@ else:
     os.mkdir(os.path.join(path, 'collatexOutput'))
     for afile in jsons:
         c += 1
-        print 'Processing', afile, 'file', c, 'out of', l
+        print 'runCollatex.py: Processing', afile, 'file', c, 'out of', l
         os.popen('collatex -t ' + os.path.join(path, afile) + ' -o ' + os.path.join(path, 'collatexoutput', afile))
         
-print 'Took', datetime.datetime.now()-startTime, 'to execute runCollatex.py'
+print 'Took', datetime.datetime.now()-startTimeRC, 'to execute runCollatex.py'

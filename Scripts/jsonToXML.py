@@ -1,6 +1,6 @@
 import datetime, codecs, json, os, sys, xml.dom.minidom as minidom
 
-startTime = datetime.datetime.now()
+startTimeJ2X = datetime.datetime.now()
 args = sys.argv
 assert len(sys.argv) == 3, "Expected exactly 2 arguments!\n\n-i followed by input directory path"
 assert '-i' in args and os.path.exists(args[args.index('-i')+1]), "Invalid input directory"
@@ -16,7 +16,7 @@ couldnt = []
 for afile in jsons:
     try:
         c += 1
-        print 'Processing', afile, 'file', c, 'out of', l
+        print 'JSONToXML.py: Processing', afile, 'file', c, 'out of', l
         data = json.loads(open(afile, 'r').read())
         nameToNumber = {number:name for number, name in enumerate(data['witnesses'])}
         with codecs.open(afile[:-4] + 'xml','w') as out:
@@ -50,5 +50,5 @@ for afile in jsons:
                 out.write(normalChars(ln).encode('utf-8') + '\n')
     except:
         couldnt.append(afile)
-print 'Took', datetime.datetime.now()-startTime, 'to execute JSONToXML.py'
+print 'Took', datetime.datetime.now()-startTimeJ2X, 'to execute JSONToXML.py'
 print 'failed on', len(couldnt), 'files:', couldnt

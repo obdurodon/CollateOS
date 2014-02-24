@@ -2,7 +2,7 @@
 
 import datetime, json, os, Preprocessing, sys, xml.dom.minidom as minidom
 
-startTime = datetime.datetime.now()
+startTimeX2J = datetime.datetime.now()
 
 args = sys.argv
 
@@ -63,4 +63,4 @@ if debug:
     html.close()
 with open(os.path.join(path, jsonFileName), 'w') as Json:
     Json.write(json.dumps(root, ensure_ascii=False).encode('utf-8'))
-print 'Took', datetime.datetime.now()-startTime, 'to execute XMLsToJSON.py'
+print 'Took', datetime.datetime.now()-startTimeX2J, 'to execute XMLsToJSON.py'
