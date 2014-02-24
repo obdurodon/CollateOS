@@ -58,8 +58,8 @@
         this section, then, is for situations where single characters are mapped to other single characters
     -->
         <set>
-            <in>аꙗ</in>
-            <out>а</out>
+            <in>ѧѩꙙꙝꙗя</in>
+            <out>ѧ</out>
         </set>
         <set>
             <in>еєѥ</in>
@@ -78,10 +78,6 @@
             <out>у</out>
         </set>
         <set>
-            <in>ѧѩꙙꙝ</in>
-            <out>ѧ</out>
-        </set>
-        <set>
             <in>ѫѭꙛ</in>
             <out>ѫ</out>
         </set>
@@ -90,12 +86,12 @@
             <out>ѣ</out>
         </set>
         <set>
-            <in>зꙁꙃѕꙅ</in>
-            <out>з</out>
-        </set>
-        <set>
             <in>ьъ</in>
             <out>ь</out>
+        </set>
+        <set>
+            <in>зꙁꙃѕꙅ</in>
+            <out>з</out>
         </set>
     </oneToOne>
 </conflations>
