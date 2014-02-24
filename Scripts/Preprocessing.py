@@ -73,7 +73,7 @@ def applyRule(word, ruleSet): #apply rules found in the rule file. match in to o
 
 def degeminate(word): #turn consecutively repeating characters in a word into singlets
     """Helper function to conflate. Degeminates words."""
-    output = ''
+    output = word[0]
     for index, char in enumerate(word):
         if index > 0:
             if word[index] == word[index-1]:
