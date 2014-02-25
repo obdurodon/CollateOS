@@ -26,10 +26,15 @@ table:first-child{
     border-right:1px solid black;
     font-style:italic;
 }
-th,td{
+th,
+td{
     border:none;
     padding:0 0.5em 0.2em 0.5em;
 }
 sup{
     line-height:0;
+}
+tbody.editions{
+    border-top:1px gray solid;
+    border-bottom:1px gray solid;
 }
