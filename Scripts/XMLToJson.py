@@ -18,7 +18,7 @@ for afile in xmls:
     print 'XMLToJSON.py: Processing', afile, 'file', count, 'out of', l 
     root = {}
     alldocs = []
-    rdgs = minidom.parse(os.path.join(path, afile)).getElementsByTagName('rdg')
+    rdgs = [el for el in minidom.parse(os.path.join(path, afile)).getElementsByTagName('*') if el.localName in ['lem', 'rdg']]
     for rdg in rdgs:
         docLevel = {}
         docLevel['id'] = rdg.getAttribute('wit')
@@ -26,6 +26,8 @@ for afile in xmls:
         ws = rdg.getElementsByTagName('w')
         words = []
         for w in range(len(ws)):
+            if not 3 in [child.nodeType for child in ws[w].childNodes]: #checking presence of text nodes inside the w
+                continue
             currentWord = ws[w]
             previousWord = ''
             try:
@@ -33,7 +35,7 @@ for afile in xmls:
             except IndexError:
                 pass
             token = {}
-            token['t'] = currentWord.toxml()[3:-4]
+            token['t'] = currentWord.toxml()[8 + len(ws[w].getAttribute('n')):-4]
             c = Preprocessing.conflate(currentWord)
 ##            if c == Preprocessing.conflate(previousWord):
 ##                c += '1' # tag '1' to the end of a wod that we suspect is repeated in the manuscript.

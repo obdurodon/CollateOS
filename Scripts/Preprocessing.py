@@ -13,12 +13,16 @@ def deleteElements(element, parent): #turn "text <el>text1</el> text2" into "tex
         parent.removeChild(child)
 def choose(choice):
     found = False
-    choices = {'sic': 'corr', 'orig': 'reg', 'abbr': 'expan'} # given the choose tag, take the second one of the options (value in this dictionary)
+    choices = {'sic': 'corr', 'orig': 'reg', 'abbr': 'expan', 'seg': 'seg'} # given the choose tag, take the second one of the options (value in this dictionary)
     for ch in choices:
         if ch in [child.localName for child in choice.childNodes]:
             found = True
-            choice.replaceChild(choice.getElementsByTagName(choices[ch])[0].firstChild, choice.getElementsByTagName(ch)[0])
-            deleteElements(choices[ch], choice)
+            if ch == 'seg':
+                choice.removeChild(choice.firstChild)
+                removeElementTags('seg', choice)
+            else:
+                choice.replaceChild(choice.getElementsByTagName(choices[ch])[0].firstChild, choice.getElementsByTagName(ch)[0])
+                deleteElements(choices[ch], choice)
             break
     if not found:
         raise Exception("I don't know what to do with this choice element: " + choice.toxml())
@@ -83,6 +87,7 @@ def degeminate(word): #turn consecutively repeating characters in a word into si
 
 def padWithZeros(word): # cut the soundex representation down to 4 chars long, or pad it up to being 4 using 0s if it's less than 4
     """Helper function to conflate. Pads words with zeroes or cuts them off to have all words be 4 charslong"""
+    word = word.replace(' ', '')
     if len(word) < 4:
         return word + '0'*(4-len(word))
     elif len(word) > 4:

@@ -35,6 +35,8 @@ for afile in xmls:
     ws = minidom.parse(os.path.join(path, afile)).getElementsByTagName('w')
     words = []
     for w in range(len(ws)):
+        if not 3 in [child.nodeType for child in ws[w].childNodes]: #checking presence of text nodes inside the w
+            continue
         currentWord = ws[w]
         previousWord = ''
         try:

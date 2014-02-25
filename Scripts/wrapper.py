@@ -20,15 +20,23 @@ else:
 if '-new' in args:
     if sameDir:
         print 'Passing command: python runCollatex.py -i ' + os.path.abspath(In) + ' -new'
-        subprocess.Popen('python runCollatex.py -i ' + os.path.abspath(In) + ' -new')
+        subprocess.Popen('python runCollatex.py -i ' + os.path.abspath(In) + ' -new').wait()
+        print 'Passing command: python jsontoxml.py -i ' + os.path.join(os.path.abspath(In), 'collatexoutput')
+        subprocess.Popen('python jsontoxml.py -i ' + os.path.join(os.path.abspath(In), 'collatexoutput'))
     else:
         print 'Passing command: python runCollatex.py -i ' + os.path.abspath(os.path.dirname(Out)) + ' -new'
-        subprocess.Popen('python runCollatex.py -i ' + os.path.abspath(os.path.dirname(Out)) + ' -new')
+        subprocess.Popen('python runCollatex.py -i ' + os.path.abspath(os.path.dirname(Out)) + ' -new').wait()
+        print 'Passing command: python jsontoxml.py -i ' + os.path.join(os.path.abspath(Out), 'collatexoutput')
+        subprocess.Popen('python jsontoxml.py -i ' + os.path.join(os.path.abspath(Out), 'collatexoutput'))
 else:
     if sameDir:
         print 'Passing command: python runCollatex.py -i ' + os.path.abspath(In)
-        subprocess.Popen('python runCollatex.py -i ' + os.path.abspath(In))
+        subprocess.Popen('python runCollatex.py -i ' + os.path.abspath(In)).wait()
+        print 'Passing command: python jsontoxml.py -i ' + os.path.abspath(In)
+        subprocess.Popen('python jsontoxml.py -i ' + os.path.abspath(In))
     else:
         print 'Passing command: python runCollatex.py -i ' + os.path.abspath(os.path.dirname(Out))
-        subprocess.Popen('python runCollatex.py -i ' + os.path.abspath(os.path.dirname(Out)))
+        subprocess.Popen('python runCollatex.py -i ' + os.path.abspath(os.path.dirname(Out))).wait()
+        print 'Passing command: python jsontoxml.py -i ' + os.path.abspath(Out)
+        subprocess.Popen('python jsontoxml.py -i ' + os.path.abspath(Out))
 print 'Took', datetime.datetime.now()-startTimeWP, 'to execute wrapper.py'
