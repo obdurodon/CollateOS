@@ -1,0 +1,69 @@
+2014-02-28 CollateOS
+
+Problem: repeated phrases
+Example: 178,11
+Fix: tokenization error in input file in Ipa
+
+Problem: word in wrong block
+Example: 179,24
+Fix: editing error
+
+Problem: word division disagreement in editions, needs to be split
+Example: 227,17
+Fix: add markup to change "firstsecond" to "first[-] second"
+Find examples by searching for word count mismatches within editions
+
+Problem: word division disagreement in editions, needs to be united
+Example: 2,1
+Fix: add markup to force two words into one <w>
+Find examples by searching for word count mismatches within editions
+
+Problem: sja is separate in paradosis but united in mss
+Example: 3,7
+Fix: add markup to force sja to combine with preceding word in a single <w> in paradosis only
+
+Problem: sja should be separate from verb in paradosis, but isn't
+Example: 3,1
+Fix: correct source document
+Find examples by searching for word-final -sja in paradosis
+
+Problem: we're requiring exact matching where optional should work
+Example: 3,5
+Fix: try specifying Levenshtein matching with distance of 1 (default) (Minas)
+
+Problem: wrong ja letter
+Example: 3,8 Tro, Xle
+Fix: global replace in source file
+
+Problem: unicode value in "n" property causes CollateX to fail silently
+Example: 96,19
+Fix: Add punctuation for curly quotes (U+201c, U+201d) to list of punctuation to be stripped before generating "n" value
+
+Problem: misalignment in 0,3
+Example: 0,3
+Fix: editing error (<sic>)
+
+Problem: Arabic digits are not tokenized as their own words
+Example: 17,25
+Fix: Correct XSLT tokenization (error isn't present in $second)
+
+Problem: Silent omission vs lacuna
+Example: 6,16 Tro (compare to print edition)
+Fix: Ask Don
+See following
+
+Problem: Explicit omission
+Example: 8,3a
+Fix: Ask Don
+See preceding
+
+UX
+==
+Each block in its own XML file
+Fetch with Ajax with click on complete paradosis
+Fetch next or previous with scroll past edges
+Problem: can't do full text search if only one block is visible at a time
+Perspective: reader, not a searcher; you know what you want to read when you ask for the witnesses
+Don't cache blocks; fetch them again
+Separate browsing interface with separate XML file per column
+Fix size of interlinear panel, sizing in ems
