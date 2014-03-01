@@ -28,6 +28,7 @@
         <html>
             <head>
                 <title>e-PVL</title>
+                <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8"/>
                 <link rel="stylesheet" type="text/css" href="http://www.obdurodon.org/css/style.css"/>
                 <link rel="stylesheet" type="text/css" href="css/pvl.css"/>
                 <link rel="stylesheet" type="text/css" href="css/collate.css"/>
