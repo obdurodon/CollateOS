@@ -3,49 +3,60 @@
 Problem: repeated phrases
 Example: 178,11
 Fix: tokenization error in input file in Ipa
+Status: Fixed by David, not checked, not pushed
 
 Problem: word in wrong block
 Example: 179,24
 Fix: editing error
+Status: Fixed by David, not checked, not pushed
 
 Problem: word division disagreement in editions, needs to be split
 Example: 227,17
 Fix: add markup to change "firstsecond" to "first[-] second"
 Find examples by searching for word count mismatches within editions
+Status: Awaiting fix from David. There are 2634 word count mismatches across editions, most of which are not errors in need of correction. Postponed further action; requires additional automation if it's too be tractable.
 
 Problem: word division disagreement in editions, needs to be united
 Example: 2,1
 Fix: add markup to force two words into one <w>
-Find examples by searching for word count mismatches within editions
+Assuming all of же in Lix, find all lower-case words that can precede же, edit manually, and then do an XPath-constrained find-and-replace
+Status: Awaiting fix from David. There are 222 such words, plus one blank, most of which are not candidates for reunion. Postponed manual review and editing.
 
 Problem: sja is separate in paradosis but united in mss
 Example: 3,7
 Fix: add markup to force sja to combine with preceding word in a single <w> in paradosis only
+Status: awaiting fix from David
 
 Problem: sja should be separate from verb in paradosis, but isn't
 Example: 3,1
 Fix: correct source document
 Find examples by searching for word-final -sja in paradosis
+Status: there are 29 instances, of which 4 are verbal adverbs; sent other 25 to Don for confirmation before fixing
 
 Problem: we're requiring exact matching where optional should work
 Example: 3,5
 Fix: try specifying Levenshtein matching with distance of 1 (default) (Minas)
+Status: awaiting fix from Minas
 
 Problem: wrong ja letter
 Example: 3,8 Tro, Xle
 Fix: global replace in source file
+Status: replaced upper- and lower-case modern ja in Xle and Ipa; other mss pending. Tro should not be replaced. Not pushed.
 
 Problem: unicode value in "n" property causes CollateX to fail silently
 Example: 96,19
-Fix: Add punctuation for curly quotes (U+201c, U+201d) to list of punctuation to be stripped before generating "n" value
+Fix: Add punctuation for curly quotes (U+201c, U+201d) to list of punctuation to be stripped before generating "n" value (Minas)
+Status: awaiting fix from Minas
 
 Problem: misalignment in 0,3
 Example: 0,3
 Fix: editing error (<sic>)
+Status: Awaiting fix from David
 
 Problem: Arabic digits are not tokenized as their own words
 Example: 17,25
 Fix: Correct XSLT tokenization (error isn't present in $second)
+Status: Awaiting fix from David
 
 Problem: Silent omission vs lacuna
 Example: 6,16 Tro (compare to print edition)
