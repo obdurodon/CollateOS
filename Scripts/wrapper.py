@@ -9,12 +9,12 @@ print args
 if script.lower() == 'xmltojson.py':
     sameDir = True
     print 'Passing command: python xmltojson.py -i ' + In
-    subprocess.Popen(['python', 'xmltojson.py', '-i', In]).wait()
+    subprocess.Popen(['python', script, '-i', In]).wait()
 elif script.lower() == 'xmlstojson.py':
     sameDir = False
     Out = args[args.index('-o')+1]
     print 'Passing command: python xmlstojson.py -i ' + In + ' -o ' + Out
-    subprocess.Popen(['python', 'xmltojson.py', '-i', In, '-o', Out]).wait()
+    subprocess.Popen(['python', script, '-i', In, '-o', Out]).wait()
 else:
     raise Exception("Input script incorrect")
 if '-new' in args:
