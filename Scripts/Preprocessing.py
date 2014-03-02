@@ -50,7 +50,7 @@ def splitTagsFromText(string): #split "text <el> text1 </el> text2 text3" into a
 
 def stripPunct(string): #rebuild the string stripping punctuation
     """Remove punctuation from a given string"""
-    punct = u'̈҃ⸯ·҇!#$%&=\'()*+,-.:;?@[\\]^_`{|}~'
+    punct = u'“̈҃ⸯ·҇!#$%&=\'()*+,-.:;?@[\\]^_`{|}~”'
     assemble = []
     inTag= False
     for char in string:
