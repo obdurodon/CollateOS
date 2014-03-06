@@ -46,6 +46,7 @@ for afile in xmls:
         docLevel['tokens'] = tokenList
         alldocs.append(docLevel)
     root['witnesses'] = alldocs
+    root['tokenComparator'] = {'type': 'levenshtein', 'distance': 2}
     with open(os.path.join(path, afile[:-3] + 'json'), 'w') as Json:
         Json.write(json.dumps(root, ensure_ascii=False).encode('utf-8'))
 print 'Took', datetime.datetime.now()-startTimeX2J, 'to execute XMLToJSON.py'
