@@ -1,0 +1,11 @@
+2014-03-06 meeting notes
+
+Edit distance setting doesn't seem to be working. Grr. David will write to Ronald to inquire
+0,3 mistokenizes
+
+To run wrapper: python wrapper.py { XMLtoJSON.py | XMLStoJSON.py } -i input-directory 
+In case of XMLStoJSON, also specify -o output-directory
+Optional in both cases: -new (creates collatexoutput directory, does not overwrite original JSON files)
+
+XMLStoJSON reads TEI XML, eventually yields XML objects (each file is its own witness, as with Scolia)
+XMLtoJSON reads TEI XML (each file contains multiple witnesses, as with PVL)
