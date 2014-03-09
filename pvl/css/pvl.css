@@ -41,15 +41,15 @@ url('/css/fonts/lazov05-webfont.svg#BukyvedeRegular') format('svg');
     font-style:normal;
 }
 .manuscripts{
-    font-family: BukyvedeWeb;
+    font-family: Bukyvede, BukyvedeWeb;
 }
 .editions{
-    font-family: KlimentStdWeb;
+    font-family: KlimentStd, KlimentStdWeb;
     font-size:smaller;
     color:cadetblue;
 }
 .lemma{
-    font-family: KlimentStdWeb;
+    font-family: KlimentStd, KlimentStdWeb;
     font-weight:bold;
     color:brown;
 }
