@@ -85,11 +85,11 @@ def degeminate(word): #turn consecutively repeating characters in a word into si
             output += char
     return output
 
-def padWithZeros(word): # cut the soundex representation down to 4 chars long, or pad it up to being 4 using 0s if it's less than 4
+def padWithXs(word): # cut the soundex representation down to 4 chars long, or pad it up to being 4 using 0s if it's less than 4
     """Helper function to conflate. Pads words with zeroes or cuts them off to have all words be 4 charslong"""
     word = word.replace(' ', '')
     if len(word) < 4:
-        return word + '0'*(4-len(word))
+        return word + 'X'*(4-len(word))
     elif len(word) > 4:
         return word[:4]
     else:
@@ -124,6 +124,8 @@ def conflate(w): # main function that calls all of the above. Currently under re
         if not i.startswith('<'):
             wlist.append(i)
     word = stripPunct(''.join(wlist)).strip()
+    if len(word) == 0:
+        return 'PUNC'
 
 # apply rules as specified in soundex-rules.xml
     
@@ -136,12 +138,12 @@ def conflate(w): # main function that calls all of the above. Currently under re
         word = word.replace(vowel.firstChild.nodeValue, '') 
     
 # degeminate words, get rid of noninitial vowels
-    if len(word) > 0:    
+    if len(word) > 0:
         newWord = word[0] # Keep the first character even if it's a vowel
         degeminated = degeminate(word)
         for char in degeminated[1:]: #Append only consonants starting at the char in position 1
             if not char in vowelList:
                 newWord += char
-        return padWithZeros(newWord)
+        return padWithXs(newWord)
     else:
         return ''

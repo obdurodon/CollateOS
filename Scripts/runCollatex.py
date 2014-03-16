@@ -1,6 +1,6 @@
 import datetime, os, sys
 startTimeRC = datetime.datetime.now()
-
+os.chdir(os.path.abspath(os.path.dirname(__file__)))
 args = sys.argv
 assert 3 <= len(args) <= 4, "Expected 2 or 3 arguments! \n\n-i followed by input directory path\n-new if opting not to overwrite the existing JSONs"
 assert '-i' in args and os.path.exists(args[args.index('-i')+1]), "Invalid input directory"

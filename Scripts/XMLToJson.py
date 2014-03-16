@@ -3,19 +3,38 @@
 
 import datetime, json, os, Preprocessing, sys, xml.dom.minidom as minidom
 startTimeX2J = datetime.datetime.now()
-
+os.chdir(os.path.abspath(os.path.dirname(__file__)))
 args = sys.argv
-
-assert len(args) == 3, "Expected 4 arguments exactly! \n\n-i followed by input directory path"
+assert len(args) == 3, "Expected 4 arguments exactly! -i followed by input directory path"
 assert '-i' in args and os.path.exists(args[args.index('-i')+1]), "Invalid input directory"
 
 path = args[args.index('-i')+1]
+print path
+
+def getNumber(subpart):
+    if not '-' in subpart:
+        for char in subpart:
+            if char == '0':
+                continue
+            startfrom = subpart.index(char)
+            break
+        try:
+            return subpart[startfrom:]
+        except UnboundLocalError:
+            return '0'
+    else:
+        return '/'.join([getNumber(i) for i in subpart.split('-')])
+def parseName(f):
+    f = f[:-4].split('_')
+    return ','.join([getNumber(i) for i in f[1:]])
+
 xmls = filter(lambda x: str(x.split('.')[len(x.split('.'))-1]) == 'xml' , os.listdir(path))
 l = len(xmls)
 count = 0
 for afile in xmls:
     count += 1
     print 'XMLToJSON.py: Processing', afile, 'file', count, 'out of', l 
+    unit = parseName(afile) 
     root = {}
     alldocs = []
     rdgs = [el for el in minidom.parse(os.path.join(path, afile)).getElementsByTagName('*') if el.localName in ['lem', 'rdg']]
@@ -40,13 +59,12 @@ for afile in xmls:
 ##            if c == Preprocessing.conflate(previousWord):
 ##                c += '1' # tag '1' to the end of a wod that we suspect is repeated in the manuscript.
             token['n'] = c
-            token['u'] = currentWord.getAttribute('n')
+            token['u'] = unit
             words.append(c)
             tokenList.append(token)
         docLevel['tokens'] = tokenList
         alldocs.append(docLevel)
     root['witnesses'] = alldocs
-    root['tokenComparator'] = {'type': 'levenshtein', 'distance': 2}
     with open(os.path.join(path, afile[:-3] + 'json'), 'w') as Json:
         Json.write(json.dumps(root, ensure_ascii=False).encode('utf-8'))
 print 'Took', datetime.datetime.now()-startTimeX2J, 'to execute XMLToJSON.py'

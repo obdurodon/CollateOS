@@ -3,7 +3,7 @@
 import datetime, json, os, Preprocessing, sys, xml.dom.minidom as minidom
 
 startTimeX2J = datetime.datetime.now()
-
+os.chdir(os.path.abspath(os.path.dirname(__file__)))
 args = sys.argv
 
 assert 5 <= len(args) <= 6, "Expected 4 or 5 arguments! \n\n-i followed by input directory path\n-o followed by output file path\noptional debug flag"
@@ -19,6 +19,24 @@ if 'debug' in args:
     html = open('debug.html', 'w')
     html.write('<html><head><title>Debugging at ' + str(datetime.datetime.now()) + '</title><meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" /></head><body>')
 
+def getNumber(subpart):
+    if not '-' in subpart:
+        for char in subpart:
+            if char == '0':
+                continue
+            startfrom = subpart.index(char)
+            break
+        try:
+            return subpart[startfrom:]
+        except UnboundLocalError:
+            return '0'
+    else:
+        return '/'.join([getNumber(i) for i in subpart.split('-')])
+
+def parseName(f):
+    f = f[:-4].split('_')
+    return ','.join([getNumber(i) for i in f[1:]])
+
 xmls = filter(lambda x: str(x.split('.')[len(x.split('.'))-1]) == 'xml' , os.listdir(path))
 root = {}
 alldocs = []
@@ -26,7 +44,8 @@ l = len(xmls)
 count = 0
 for afile in xmls:
     count += 1
-    print 'XMLsToJSON.py: Processing', afile, 'file', count, 'out of', l 
+    print 'XMLsToJSON.py: Processing', afile, 'file', count, 'out of', l
+    unit = parseName(afile) 
     docLevel = {}
     docLevel['id'] = afile
     tokenList = []
@@ -49,7 +68,7 @@ for afile in xmls:
         if c == Preprocessing.conflate(previousWord):
             c += '1' # tag '1' to the end of a wod that we suspect is repeated in the manuscript.
         token['n'] = c
-        token['u'] = currentWord.getAttribute('n')
+        token['u'] = unit
         if debug:
             html.write('<tr><td>' + currentWord.toxml().encode('utf-8') + '</td><td>' + c.encode('utf-8') + '</td></tr>')
         words.append(c)

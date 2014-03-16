@@ -1,6 +1,7 @@
 import datetime, codecs, json, os, sys, xml.dom.minidom as minidom
 
 startTimeJ2X = datetime.datetime.now()
+os.chdir(os.path.abspath(os.path.dirname(__file__)))
 args = sys.argv
 assert len(sys.argv) == 3, "Expected exactly 2 arguments!\n\n-i followed by input directory path"
 assert '-i' in args and os.path.exists(args[args.index('-i')+1]), "Invalid input directory"
