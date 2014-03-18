@@ -94,7 +94,29 @@ def padWithXs(word): # cut the soundex representation down to 4 chars long, or p
         return word[:4]
     else:
         return word
-    
+
+digits = {'1': u'а', '2': u'в', '3': u'г', '4': u'д', '5': u'е', '6': u'ѕ', '7': u'ӡ', '8': u'і', '9': u'ѳ'}
+tens = {'1': u'і', '2': u'к', '3': u'л', '4': u'м', '5': u'н', '6': u'ѯ', '7': u'о', '8': u'п', '9': u'ч'}
+hundreds = {'1': u'р', '2': u'с', '3': u'т', '4': u'у', '5': u'ф', '6': u'х', '7': u'ѱ', '8': u'ѡ', '9': u'ц'}
+
+def cyrrilizeNumber(num):
+    num = num[::-1]
+    c = 0
+    cyr = ''
+    for char in num:
+        c += 1
+        if not char == '0':
+            if c == 1:
+                cyr += digits[char]
+            elif c == 2:
+                cyr += tens[char]
+            elif c == 3:
+                cyr += hundreds[char]
+            elif c == 4:
+                cyr += digits[char]
+                cyr += u'҂'
+    return cyr[::-1]
+
 def conflate(w): # main function that calls all of the above. Currently under reconstruction.
     """Execute conflation rules in a given order"""
     kids = [el for el in w.getElementsByTagName('*')]
@@ -126,6 +148,8 @@ def conflate(w): # main function that calls all of the above. Currently under re
     word = stripPunct(''.join(wlist)).strip()
     if len(word) == 0:
         return 'PUNC'
+    if word.isdigit():
+        return cyrrilizeNumber(word)
 
 # apply rules as specified in soundex-rules.xml
     
