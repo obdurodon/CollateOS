@@ -3,7 +3,9 @@
 #This script is called by others, not ran by itself. Mainly calling collate function, which uses the rest.
 
 
-import xml.dom.minidom as minidom
+import re, xml.dom.minidom as minidom
+
+numberSplitter = re.compile('\d+|\D+')
 
 def removeElementTags(element, parent): #turn "text <el>text1</el> text2" into "text text1 text2"
     for child in parent.getElementsByTagName(element):
@@ -148,8 +150,14 @@ def conflate(w): # main function that calls all of the above. Currently under re
     word = stripPunct(''.join(wlist)).strip()
     if len(word) == 0:
         return 'PUNC'
-    if word.isdigit():
-        return cyrrilizeNumber(word)
+    splitNumbers = re.findall(numberSplitter, word)
+    if len(splitNumbers) > 1:
+        temp = []
+        for group in splitNumbers:
+            if group.isdigit():
+                group = cyrrilizeNumber(group)
+            temp.extend(group)
+        word = ''.join(temp)
 
 # apply rules as specified in soundex-rules.xml
     
