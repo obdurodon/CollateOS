@@ -150,6 +150,7 @@ def conflate(w): # main function that calls all of the above. Currently under re
     word = stripPunct(''.join(wlist)).strip()
     if len(word) == 0:
         return 'PUNC'
+    
     splitNumbers = re.findall(numberSplitter, word)
     if len(splitNumbers) > 1:
         temp = []
@@ -165,9 +166,12 @@ def conflate(w): # main function that calls all of the above. Currently under re
     word = applyRule(word, oneToMany)
     word = applyRule(word, oneToOne)
 # entirely eliminating vowels in the special category from all words
-
-    for vowel in specialVowels:
-        word = word.replace(vowel.firstChild.nodeValue, '') 
+    temp = word[0]
+    for char in word[1:]:
+        for vowel in specialVowels:
+            if not char == vowel:
+                temp += char
+    word = temp
     
 # degeminate words, get rid of noninitial vowels
     if len(word) > 0:
