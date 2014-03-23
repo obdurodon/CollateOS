@@ -17,7 +17,7 @@ if overwrite:
     for afile in jsons:
         c += 1
         print 'runCollatex.py: Processing', afile, 'file', c, 'out of', l
-        os.popen('./collatex -t -l -lt 1 ' + path + ' -o ' + os.path.join(path, afile))
+        os.popen(os.path.join('.', 'collatex') + ' -t -l -lt 1 ' + path + ' -o ' + os.path.join(path, afile))
 else:
     if os.path.exists(os.path.join(path, 'collatexOutput')):
         os.remove(os.path.join(path, 'collatexOutput')) # delete any old output
@@ -25,6 +25,6 @@ else:
     for afile in jsons:
         c += 1
         print 'runCollatex.py: Processing', afile, 'file', c, 'out of', l
-        os.popen('./collatex -t -l -lt 1 ' + os.path.join(path, afile) + ' -o ' + os.path.join(path, 'collatexoutput', afile))
+        os.popen(os.path.join('.', 'collatex') + ' -t -l -lt 1 ' + os.path.join(path, afile) + ' -o ' + os.path.join(path, 'collatexoutput', afile))
         
 print 'Took', datetime.datetime.now()-startTimeRC, 'to execute runCollatex.py'
