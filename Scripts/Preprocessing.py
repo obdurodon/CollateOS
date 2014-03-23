@@ -152,7 +152,7 @@ def conflate(w): # main function that calls all of the above. Currently under re
         return 'PUNC'
     
     splitNumbers = re.findall(numberSplitter, word)
-    if len(splitNumbers) > 1:
+    if len(splitNumbers) > 1 or splitNumbers[0].isdigit():
         temp = []
         for group in splitNumbers:
             if group.isdigit():
