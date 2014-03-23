@@ -1,0 +1,28 @@
+Minas has fixed:
+@u values
+numbers
+special vowels
+Run scripts from any directory
+New version of CollateX instead of old
+
+David has fixed:
+Generates columnar HTML for AJAX loading
+
+At the meeting:
+Fixed runCollatex.py to work on Mac and Windows
+Added flags for Levenshtein distance
+
+Minas will fix:
+Write documentation
+Consolidate -new and non-new options
+Don't require complete path as value of "-i" for wrapper.py
+
+David will:
+Add AJAX support
+Fix Scholia group 13:
+  Switch to HTML5 and use data- attribute for @n values
+  Diagnostic XSLT to find: 1) following gap, 2) no exact @n match in colum, 3) edit distance = 1
+  Ultimately change input XML to add missing letters inside element
+
+Later:
+David will add AJAX scroll loading
