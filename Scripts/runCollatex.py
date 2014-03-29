@@ -1,4 +1,4 @@
-import datetime, os, sys
+import datetime, os, shutil, sys
 startTimeRC = datetime.datetime.now()
 os.chdir(os.path.abspath(os.path.dirname(__file__)))
 args = sys.argv
@@ -12,19 +12,18 @@ jsons = filter(lambda x: str(x.split('.')[len(x.split('.'))-1]) == 'json' , os.l
 
 l = len(jsons)
 c = 0
+if os.path.exists(os.path.join(path, 'collatexOutput')):
+    shutil.rmtree(os.path.join(path, 'collatexOutput')) # delete any old output
 
 if overwrite:
-    for afile in jsons:
-        c += 1
-        print 'runCollatex.py: Processing', afile, 'file', c, 'out of', l
-        os.popen(os.path.join('.', 'collatex') + ' -t -l -lt 1 ' + path + ' -o ' + os.path.join(path, afile))
+    outpath = os.path.join(path, afile)
 else:
-    if os.path.exists(os.path.join(path, 'collatexOutput')):
-        os.remove(os.path.join(path, 'collatexOutput')) # delete any old output
     os.mkdir(os.path.join(path, 'collatexOutput'))
-    for afile in jsons:
-        c += 1
-        print 'runCollatex.py: Processing', afile, 'file', c, 'out of', l
-        os.popen(os.path.join('.', 'collatex') + ' -t -l -lt 1 ' + os.path.join(path, afile) + ' -o ' + os.path.join(path, 'collatexoutput', afile))
+    outpath = os.path.join(path, 'collatexoutput', afile)
+    
+for afile in jsons:
+    c += 1
+    print 'runCollatex.py: Processing', afile, 'file', c, 'out of', l
+    os.popen(os.path.join('.', 'collatex') + ' -t -l -lt 1 ' + path + ' -o ' + outpath)
         
 print 'Took', datetime.datetime.now()-startTimeRC, 'to execute runCollatex.py'
