@@ -174,12 +174,9 @@ def conflate(w): # main function that calls all of the above. Currently under re
     word = temp
     
 # degeminate words, get rid of noninitial vowels
-    if len(word) > 0:
-        newWord = word[0] # Keep the first character even if it's a vowel
-        degeminated = degeminate(word)
-        for char in degeminated[1:]: #Append only consonants starting at the char in position 1
-            if not char in vowelList:
-                newWord += char
-        return padWithXs(newWord)
-    else:
-        return ''
+    newWord = word[0] # Keep the first character even if it's a vowel
+    degeminated = degeminate(word)
+    for char in degeminated[1:]: #Append only consonants starting at the char in position 1
+        if not char in vowelList:
+            newWord += char
+    return padWithXs(newWord)

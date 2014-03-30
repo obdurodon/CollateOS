@@ -6,18 +6,12 @@ startTimeX2J = datetime.datetime.now()
 os.chdir(os.path.abspath(os.path.dirname(__file__)))
 args = sys.argv
 
-assert 5 <= len(args) <= 6, "Expected 4 or 5 arguments! \n\n-i followed by input directory path\n-o followed by output file path\noptional debug flag"
+assert len(args) == 5, "Expected 4 arguments! \n\n-i followed by input directory path\n-o followed by output file path"
 assert '-i' in args and os.path.exists(args[args.index('-i')+1]), "Invalid input directory"
 assert '-o' in args and not args.index('-o') == len(args)-1, "No output file path provided"
 
 path = args[args.index('-i')+1]
 jsonFileName = os.path.join(os.getcwd(), args[args.index('-o')+1])
-
-debug = False
-if 'debug' in args:
-    debug = True
-    html = open('debug.html', 'w')
-    html.write('<html><head><title>Debugging at ' + str(datetime.datetime.now()) + '</title><meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" /></head><body>')
 
 def getNumber(subpart):
     if not '-' in subpart:
@@ -69,19 +63,11 @@ for afile in xmls:
             c += '1' # tag '1' to the end of a wod that we suspect is repeated in the manuscript.
         token['n'] = c
         token['u'] = unit
-        if debug:
-            html.write('<tr><td>' + currentWord.toxml().encode('utf-8') + '</td><td>' + c.encode('utf-8') + '</td></tr>')
         words.append(c)
         tokenList.append(token)
-    if debug:
-        html.write('</table>')
     docLevel['tokens'] = tokenList
     alldocs.append(docLevel)
 root['witnesses'] = alldocs
-if debug:
-    html.write('</body></html>')
-    print 'debug file written to', os.path.join(os.getcwd(), html.name)
-    html.close()
 with open(os.path.join(path, jsonFileName), 'w') as Json:
     Json.write(json.dumps(root, ensure_ascii=False).encode('utf-8'))
 print 'Took', datetime.datetime.now()-startTimeX2J, 'to execute XMLsToJSON.py'
