@@ -15,13 +15,15 @@ c = 0
 if os.path.exists(os.path.join(path, 'collatexOutput')):
     shutil.rmtree(os.path.join(path, 'collatexOutput')) # delete any old output
 
-if overwrite:
-    outpath = os.path.join(path, afile)
-else:
+if not overwrite:
     os.mkdir(os.path.join(path, 'collatexOutput'))
-    outpath = os.path.join(path, 'collatexoutput', afile)
+
     
 for afile in jsons:
+    if overwrite:
+        outpath = os.path.join(path, afile)
+    else:
+        outpath = os.path.join(path, 'collatexoutput', afile)
     c += 1
     print 'runCollatex.py: Processing', afile, 'file', c, 'out of', l
     os.popen(os.path.join('.', 'collatex') + ' -t -l -lt 1 ' + path + ' -o ' + outpath)
