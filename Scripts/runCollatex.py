@@ -23,9 +23,9 @@ for afile in jsons:
     if overwrite:
         outpath = os.path.join(path, afile)
     else:
-        outpath = os.path.join(path, 'collatexoutput', afile)
+        outpath = os.path.join(path, 'collatexOutput', afile)
     c += 1
     print 'runCollatex.py: Processing', afile, 'file', c, 'out of', l
-    os.popen(os.path.join('.', 'collatex') + ' -t -l -lt 1 ' + path + ' -o ' + outpath)
+    os.popen(os.path.join('.', 'collatex') + ' -t -l -lt 1 -o ' + outpath + ' ' + os.path.join(path,afile))
         
 print 'Took', datetime.datetime.now()-startTimeRC, 'to execute runCollatex.py'
