@@ -1,7 +1,35 @@
+Minas fixed:
+Delete old collatexoutput directory
+Consolidated new and non-new options in runCollatex.py
+
 Minas will fix:
 Scripts should run from any directory:
   Before changing to Scripts directory, construct full path to input directory
   Directory specification should be relative to ms project directory, not to 
     Scripts or other CollateOS directory
 
+David's homework:
+Update documentation
+  Input should be TEI
+  Include sample XML input format; XSLT procedures on both ends
+  Add dependencies for Preprocessing.py on *.xml files
+  Get rid of <lacuna>, which is not a TEI element (check <unclear>, etc.)
+Convert Scholia to TEI
+Get rid of XMLSToJSON?
 
+PyLing outline:
+  D: Bring PVL books
+  D: Describe research problem (collation and alignment of PVL)
+  D: Describe CollateX, and why it needs help
+  D: Describe Soundex-based normalization
+  M Describe workflow:
+    XML - JSON (Python)
+    JSON - JSON (CollateX)
+    JSON - XML (Python)
+    XML - HTML (XSLT)
+  D: Have documentation and files on line
+  D: Working demo
+  D: Specific research question?
+  M: Things Minas learned to do in Python
+  M: Reflect on whether it could all have been done in Python (yes) or XSLT (no, because we 
+    couldn't spawn a collatex process)
