@@ -1,9 +1,10 @@
 import datetime, os, subprocess, sys
 startTimeWP = datetime.datetime.now()
+curDir = os.getcwd()
 os.chdir(os.path.dirname(__file__))
 args = sys.argv
 script = args[1]
-In = args[args.index('-i')+1]
+In = os.path.join(curDir, args[args.index('-i')+1])
 
 print args
 
