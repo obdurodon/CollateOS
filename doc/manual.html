@@ -1,51 +1,151 @@
-<html><body><h3>System requirements:</h3>
-
-<ul><li>Python 2.7</li>
-<li>CollateX</li></ul>
-
-<h3>Pipeline:</h3>
-
-<h4>1. Preprocessing XSLT: </h4>
-
-If the documents are in TEI format, with multiple witnesses being inside the same document, split them using ______.xsl, place the results into a folder. Proceed to run scripts. Otherwise proceed to Step 2.
-
-<h4>2. Scripts:</h4>
-
-<h5>2.1. Descriptions</h5>
-<ul><li>XMLToJSON.py - Iterates through files in the provided input folder and transforms them to JSON that can be read by CollateX.</li>
-<li>XMLSToJSON.py - Same as above, but input is split into 1 witness per xml file.</li>
-<li>runCollatex.py - Iterates through the JSON files in the directory uses them as input to CollateX. Output is another json file.</li>
-<li>JSONToXML.py - Iterates through JSON files produced by CollateX, creates an xml from each</li>
-<li>Preprocessing.py - Applies Soundex normalization rules to the contents of each &lt;w&gt; tag. Is a module that is called by other scripts, not intended to be ran by the user.</li>
-<li>Wrapper.py - Calls either XMLToJSON.py or XMLSToJSON.py followed by runCollatex.py followed by JSONToXML.py, aleviating the need to run three separate scripts.</ul>
-
-<h5>2.2. Expected Input and Output</h5>
-<table border=1>
-<th>Script</th><th>Input</th><th>Output</th>
-<tr><td>XMLToJSON.py</td><td><ul><li>-i</li><li>path to the folder with XML files</li></ul></td><td><ul><li>JSON files ready to be ran through collatex written to the input folder</li></ul></td></tr>
-<tr><td>XMLSToJSON.py</td><td><ul><li>-i</li><li>path to the folder with XML files</li><li>-o</li><li>path to the JSON file for the output to be written to</li></ul></td><td><ul><li>a single JSON file specified after -o flag</li></ul></td></tr>
-<tr><td>runCollatex.py</td><td><ul><li>-i</li><li>path to the JSON files used as input to CollateX</li><li>[-new] if intending not to overwrite existing JSONs. This will create a 'collatexOutput' folder in the directory of the input files and write output there. </li></ul></td><td><ul><li>Output of the CollateX application either overwriting the original files or writing to collatexOutput</li></ul></td></tr>
-<tr><td>JSONToXML.py</td><td><ul><li>-i</li><li>path to the folder with JSON files created by CollateX</li></ul></td><td><ul><li>XML files in the output directory to be used in _____.xsl to create the single HTML file</li></ul></td></tr>
-<tr><td>Preprocessing.py</td><td><ul><li>N/A, not intended to be ran by the user</li></ul></td><td><ul><li>N/A, not intended to be ran by the user</li></ul></td></tr>
-<tr><td>Wrapper.py</td><td><ul><li>name of the script being ran (xmltojson.py or xmlstojson.py)</li><li>-i</li><li>path to the folder with XML files</li><li>-o <em>if running xmlstojson.py only</em></li><li>path to the JSON file for the output to be written to <em>if running xmlstojson.py only</em></li><li>[-new] if intending not to overwrite existing JSONs. This will create a 'collatexOutput' folder in the directory of the input files and write output there. </li></ul></td><td><ul><li>JSON files for each input XML <em>if running xmltojson.py</em></li><li>A single JSON file with all witnesses combined <em>if running xmlstojson.py</em></li><li>Output of the CollateX application either overwriting the files above or writing to collatexOutput folder</li><li>XML files in the output directory to be used in _____.xsl to create the single HTML file</li></ul></td></tr></table>
-
-<div><br>* Inputs should be given as command line arguments. <br>
-* [] Signifies an optional argument. <br>
-* Order of input arguments matters in most cases, it is advised to use them inthe order they are presented here.</div>
-
-<h4>3. Postprocessing XSLT:</h4>
-Run ______.xsl to saw the multiple .xml files created by JSONToXML.py into a single .html.
-
-<h3>Normalization algorithm</h3>
-<ol><li>Remove all opening and closing tags of the following elements: "add", "hi", "unclear", keeping their inner text node intact.</li>
-<li>Remove the following elements entirely: "del", "gap", "lacuna", "lb", "pb"</li>
-<li>If a "choice" element is present, choose the latter of each of the following pairs: (sic, corr), (orig, reg), (abbr, expan), (seg, seg)</li>
-<li>Extract all text nodes inorder to deal with text-only content from now on.</li>
-<li>Remove all punctuation</li>
-<li>If at this point length of our text is 0, i means the node contained only punctuation. Normalized value of "PUNC" is returned. Otherwise, we continue.</li>
-<li>Check for presence of arabic numbers in the string. If any are found, transform them to their cyrillic counterparts.</li>
-<li>Apply orthograpic transformation rules outlined in soundex-rules.xml in the following order: manyToOne, oneToMany, oneToOne.</li>
-<li>Eliminate vowels from Special Vowels category from vowels.xml, unless they are word-initial</li>
-<li>Degeminate consonants (e.g. "нн" becomes "н") and remove all vowels from the rest of the word. Note that word-initial letter iskept regardless of what it is.</li>
-<li>Check the resulting normalized form's length. If it's longer than 4, truncate it to 4. If it's less than 4, pad it with 'X' characters.</li></ol>
-</body></html>
+<!DOCTYPE html SYSTEM "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>CollateOS</title>
+        <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
+        <link rel="stylesheet" type="text/css" href="http://www.obdurodon.org/css/style.css" />
+    </head>
+    <body>
+        <h2>CollateOS</h2>
+        <h3>Synopsis</h3>
+        <p>CollateOS, a preprocessing protocol for CollateX, is a knowledge-based system that
+            normalizes variation in early Cyrillic orthography so as to improve the accuracy of the
+            CollateX alignment of early Slavic materials. For more information about CollateX see <a
+                href="http://collatex.net">http://collatex.net</a>.</p>
+        <h3>System requirements</h3>
+        <ul>
+            <li>
+                <a href="http://collatex.net/">CollateX</a>
+            </li>
+            <li>
+                <a href="https://www.python.org/">Python 2.7</a>
+            </li>
+            <li><a href="http://saxon.sourceforge.net/">Saxon HE</a> (or other XSLT transformation
+                engine)</li>
+            <li>Auxiliary files: <a href="soundex-rules.xml">soundex-rules.xml</a>; <a
+                    href="vowels.xml">vowels.xml</a> (may be edited by user)</li>
+        </ul>
+        <h3>Pipeline</h3>
+        <p>
+            <img alt="[Pipeline]" src="pipeline1.png" />
+        </p>
+        <h4>1. Preprocessing XSLT</h4>
+        <p>If the documents are in TEI format, with multiple witnesses being inside the same
+            document, split them using ______.xsl, place the results into a folder. Proceed to run
+            scripts. Otherwise proceed to Step 2.</p>
+        <h4>2. Scripts</h4>
+        <h5>2.1. Descriptions</h5>
+        <ul>
+            <li>XMLToJSON.py - Iterates through files in the provided input folder and transforms
+                them to JSON that can be read by CollateX.</li>
+            <li>XMLSToJSON.py - Same as above, but input is split into 1 witness per xml file.</li>
+            <li>runCollatex.py - Iterates through the JSON files in the directory uses them as input
+                to CollateX. Output is another json file.</li>
+            <li>JSONToXML.py - Iterates through JSON files produced by CollateX, creates an xml from
+                each</li>
+            <li>Preprocessing.py - Applies Soundex normalization rules to the contents of each
+                &lt;w&gt; tag. Is a module that is called by other scripts, not intended to be ran
+                by the user.</li>
+            <li>Wrapper.py - Calls either XMLToJSON.py or XMLSToJSON.py followed by runCollatex.py
+                followed by JSONToXML.py, aleviating the need to run three separate scripts.</li>
+        </ul>
+        <h5>2.2. Expected input and output</h5>
+        <table>
+            <tr>
+                <th>Script</th>
+                <th>Input</th>
+                <th>Output</th>
+            </tr>
+            <tr>
+                <td>XMLToJSON.py</td>
+                <td>-i <em>path to the folder with XML files</em></td>
+                <td>JSON files ready to be run through collatex written to the input folder</td>
+            </tr>
+            <tr>
+                <td>XMLSToJSON.py</td>
+                <td>-i <em>path to the folder with XML files</em><br /> -o <em>path to the JSON file
+                        for the output to be written to</em></td>
+                <td>a single JSON file specified after -o flag</td>
+            </tr>
+            <tr>
+                <td>runCollatex.py</td>
+                <td>-i <em>path to the JSON files used as input to CollateX</em> [-new] if intending
+                    not to overwrite existing JSONs. This will create a <q>collatexOutput</q> folder
+                    in the directory of the input files and write output there.</td>
+                <td>Output of the CollateX application either overwriting the original files or
+                    writing to collatexOutput</td>
+            </tr>
+            <tr>
+                <td>JSONToXML.py</td>
+                <td>-i <em>path to the folder with JSON files created by CollateX</em></td>
+                <td>XML files in the output directory to be used in _____.xsl to create the single
+                    HTML file</td>
+            </tr>
+            <tr>
+                <td>Preprocessing.py</td>
+                <td>N/A, not intended to be ran by the user</td>
+                <td>N/A, not intended to be ran by the user</td>
+            </tr>
+            <tr>
+                <td>Wrapper.py</td>
+                <td>name of the script being ran (xmltojson.py or xmlstojson.py)<br /> -i <em>path
+                        to the folder with XML files</em><br /> -o <em>path to the JSON file for the
+                        output to be written to</em> (if running xmlstojson.py only)<br /> [-new] if
+                    intending not to overwrite existing JSONs. This will create a
+                        <q>collatexOutput</q> folder in the directory of the input files and write
+                    output there.</td>
+                <td> JSON files for each input XML (if running xmltojson.py)<br /> A single JSON
+                    file with all witnesses combined (if running xmlstojson.py)<br /> Output of the
+                    CollateX application either overwriting the files above or writing to
+                    collatexOutput folder<br /> XML files in the output directory to be used in
+                    _____.xsl to create the single HTML file</td>
+            </tr>
+        </table>
+        <ul>
+            <li>Inputs should be given as command line arguments</li>
+            <li>[] Signifies an optional argument</li>
+            <li>Order of input arguments matters in most cases, it is advised to use them in the
+                order they are presented here.</li>
+        </ul>
+        <h4>3. Postprocessing XSLT</h4>
+        <p>Run ______.xsl to saw the multiple .xml files created by JSONToXML.py into a single
+            .html.</p>
+        <h3>Normalization algorithm</h3>
+        <ol>
+            <li>Remove all opening and closing tags of the following elements:
+                    <code>&lt;add&gt;</code>, <code>&lt;hi&gt;</code>, <code>&lt;unclear&gt;</code>,
+                keeping their inner text node intact.</li>
+            <li>Remove the following elements entirely: <code>&lt;del&gt;</code>,
+                    <code>&lt;gap&gt;</code>, <code>&lt;lacuna&gt;</code>, <code>&lt;lb&gt;</code>,
+                    <code>&lt;pb&gt;</code></li>
+            <li>If a <code>&lt;choice&gt;</code> element is present, choose the latter of each of
+                the following pairs: (<code>&lt;sic&gt;</code>, <code>&lt;corr&gt;</code>),
+                    (<code>&lt;orig&gt;</code>, <code>&lt;reg&gt;</code>),
+                    (<code>&lt;abbr&gt;</code>, <code>&lt;expan&gt;</code>),
+                    (<code>&lt;seg&gt;</code>, <code>&lt;seg&gt;</code>)</li>
+            <li>Extract all text nodes inorder to deal with text-only content from now on.</li>
+            <li>Remove all punctuation</li>
+            <li>If at this point length of our text is 0, the node originally contained only
+                punctuation, so return a normalized value of <q>PUNC</q>. Otherwise, continue.</li>
+            <li>Check for presence of arabic numbers in the string. If any are found, transform them
+                to their cyrillic counterparts.</li>
+            <li>Apply orthograpic transformation rules outlined in <q>soundex-rules.xml</q> in the
+                following order: <code>$manyToOne</code>, <code>$oneToMany</code>,
+                    <code>$oneToOne</code>.</li>
+            <li>Eliminate vowels from <q>Special vowels</q> category from <q>vowels.xml</q>, unless
+                they are word-initial</li>
+            <li>Degeminate consonants (e.g., <q>нн</q> becomes <q>н</q>) and remove all vowels from
+                the rest of the word. Note that word-initial letter is retained even if it is a
+                vowel, but other vowels are eventually deleted.</li>
+            <li>If the length of the resulting normalized is longer than 4, truncate it to 4. If
+                it’s less than 4, pad it with <q>X</q> (upper-case Latin letter) characters.</li>
+        </ol>
+        <hr />
+        <p>Developed by David J. Birnbaum (<a href="mailto:djbpitt@gmail.com">djbpitt@gmail.com</a>)
+            and Minas Abovyan. CC BY-NC-SA. Project site <a href="http://collateos.obdurodon.org"
+                >http://collateos.obdurodon.org</a>. GitHub repository <a
+                href="https://github.com/obdurodon/CollateOS"
+                >https://github.com/obdurodon/CollateOS</a>. Thanks to Ronald Dekker and the rest of
+            the CollateX development team for their advice.</p>
+    </body>
+</html>
