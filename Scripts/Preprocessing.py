@@ -117,6 +117,9 @@ def cyrrilizeNumber(num):
             elif c == 4:
                 cyr += digits[char]
                 cyr += u'҂'
+            elif c == 5:
+                cyr += u'⃝'
+                cyr += digits[char]
     return cyr[::-1]
 
 def conflate(w): # main function that calls all of the above. Currently under reconstruction.
@@ -150,7 +153,6 @@ def conflate(w): # main function that calls all of the above. Currently under re
     word = stripPunct(''.join(wlist)).strip()
     if len(word) == 0:
         return 'PUNC'
-    
     splitNumbers = re.findall(numberSplitter, word)
     if len(splitNumbers) > 1 or splitNumbers[0].isdigit():
         temp = []
