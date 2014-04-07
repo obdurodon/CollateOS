@@ -13,24 +13,6 @@ assert '-o' in args and not args.index('-o') == len(args)-1, "No output file pat
 path = args[args.index('-i')+1]
 jsonFileName = os.path.join(os.getcwd(), args[args.index('-o')+1])
 
-def getNumber(subpart):
-    if not '-' in subpart:
-        for char in subpart:
-            if char == '0':
-                continue
-            startfrom = subpart.index(char)
-            break
-        try:
-            return subpart[startfrom:]
-        except UnboundLocalError:
-            return '0'
-    else:
-        return '/'.join([getNumber(i) for i in subpart.split('-')])
-
-def parseName(f):
-    f = f[:-4].split('_')
-    return ','.join([getNumber(i) for i in f[1:]])
-
 xmls = filter(lambda x: str(x.split('.')[len(x.split('.'))-1]) == 'xml' , os.listdir(path))
 root = {}
 alldocs = []
@@ -39,7 +21,7 @@ count = 0
 for afile in xmls:
     count += 1
     print 'XMLsToJSON.py: Processing', afile, 'file', count, 'out of', l
-    unit = parseName(afile) 
+    unit = Preprocessing.parseName(afile) 
     docLevel = {}
     docLevel['id'] = afile
     tokenList = []

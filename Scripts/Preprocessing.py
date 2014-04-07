@@ -122,6 +122,26 @@ def cyrrilizeNumber(num):
                 cyr += digits[char]
     return cyr[::-1]
 
+
+def getNumber(subpart): #generate u values from filename
+    if not '-' in subpart:
+        for char in subpart:
+            if char == '0':
+                continue
+            startfrom = subpart.index(char)
+            break
+        try:
+            return subpart[startfrom:]
+        except UnboundLocalError:
+            return '0'
+    else:
+        return '/'.join([getNumber(i) for i in subpart.split('-')])
+
+def parseName(f): #generate u values from filename
+    f = f[:-4].split('_')
+    return ','.join([getNumber(i) for i in f[1:]])
+
+
 def conflate(w): # main function that calls all of the above. Currently under reconstruction.
     """Execute conflation rules in a given order"""
     kids = [el for el in w.getElementsByTagName('*')]

@@ -1,4 +1,4 @@
-import datetime, codecs, json, os, sys, xml.dom.minidom as minidom
+import datetime, codecs, json, os, Preprocessing, sys, xml.dom.minidom as minidom
 
 startTimeJ2X = datetime.datetime.now()
 os.chdir(os.path.abspath(os.path.dirname(__file__)))
@@ -8,6 +8,7 @@ assert '-i' in args and os.path.exists(args[args.index('-i')+1]), "Invalid input
 
 def normalChars(l):
     return l.replace('&lt;', '<').replace('&gt;','>').replace('&quot;', '"')
+
 path = args[args.index('-i')+1]
 jsons = filter(lambda x: str(x.split('.')[len(x.split('.'))-1]) == 'json' , os.listdir(path))
 os.chdir(path)
@@ -31,14 +32,13 @@ for afile in jsons:
                 tokenElement.setAttributeNode(doc.createAttribute('n'))
                 tokenElement.setAttributeNode(doc.createAttribute('witness'))
                 tokenElement.setAttributeNode(doc.createAttribute('u'))
+                unitValue = Preprocessing.parseName(afile)
                 if token:
                     textNodeValue = token[0]['t']
                     normalizedAttrValue = token[0]['n']
-                    unitValue = token[0]['u']
                 else:
                     textNodeValue = ''
                     normalizedAttrValue = ''
-                    unitValue = ''
                 tokenElement.appendChild(doc.createTextNode(textNodeValue))
                 tokenElement.setAttribute('n', normalizedAttrValue)
                 tokenElement.setAttribute('u', unitValue)
