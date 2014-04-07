@@ -30,25 +30,1024 @@
             <img alt="[Pipeline]" src="pipeline1.png" style="width: 100%;" />
         </p>
         <h4>1. Preprocessing XSLT</h4>
-        <p>If the documents are in TEI format, with multiple witnesses being inside the same
-            document, split them using ______.xsl, place the results into a folder. Proceed to run
-            scripts. Otherwise proceed to Step 2.</p>
+        <p>If the documents are not in TEI format, with multiple witnesses being inside the same
+            document, convert the file to TEI using <a href="../xml-to-tei.xsl">xml-to-tei.xsl</a>.
+            With <a href="../pvl.xml">pvl.xml</a> as the input file, the output is <a
+                href="../pvl-tei.xml">pvl-tei.xml</a>. The input is one XML document containing the
+            full collation, as in:</p>
+        <pre>&lt;block column="1" line="4"&gt;
+    &lt;manuscripts&gt;
+        &lt;Lav&gt;персида. ватрь. тоже &lt;lb/&gt; и до индикиꙗ в долготу&lt;/Lav&gt;
+        &lt;Tro&gt;персида ватрь даже и до индикия в долготу&lt;/Tro&gt;
+        &lt;Rad&gt;персида. ватрь. доже и до ин&lt;sup&gt;д&lt;/sup&gt;икиа. в до&lt;lb/&gt;лготоу&lt;/Rad&gt;
+        &lt;Aka&gt;персїда. ватръ. до&lt;sup&gt;ж&lt;/sup&gt;и и до индикїа. в долготѹ &lt;lb/&gt;&lt;/Aka&gt;
+        &lt;Ipa&gt;перь&lt;lb/&gt;сида. ватрь. доже и до инь&lt;lb/&gt;дикиꙗ. в долготу&lt;/Ipa&gt;
+        &lt;Xle&gt;персида. ватръ. даже и до индикїа. въ &lt;lb/&gt; долготоу&lt;/Xle&gt;
+    &lt;/manuscripts&gt;
+    &lt;Bych&gt;Персида, Ватрь, доже и до Индикия в долготу,&lt;/Bych&gt;
+    &lt;Shakh&gt;Персида, Ватрь доже и до Индикия въ дълготу,&lt;/Shakh&gt;
+    &lt;Likh&gt;Персида, Ватрь, доже и до Индикия в долготу,&lt;/Likh&gt;
+    &lt;paradosis&gt;
+        &lt;Ost&gt;Персида, Ватрь доже и до Индикия въ дълготу,&lt;/Ost&gt;
+    &lt;/paradosis&gt;
+&lt;/block&gt;</pre>
+        <p>The output of the <a href="../xml-to-tei.xsl">xml-to-tei.xsl</a> process looks like:</p>
+        <pre>&lt;!-- snip --&gt;
+&lt;div type="block" n="4"&gt;
+    &lt;p&gt;
+        &lt;app&gt;
+            &lt;lem wit="#lem"&gt;Персида, Ватрь доже и до Индикия въ дълготу,&lt;/lem&gt;
+            &lt;rdgGrp type="manuscripts"&gt;
+                &lt;rdg wit="#lav"&gt;персида. ватрь. тоже &lt;lb/&gt; и до индикиꙗ в долготу&lt;/rdg&gt;
+                &lt;rdg wit="#tro"&gt;персида ватрь даже и до индикия в долготу&lt;/rdg&gt;
+                &lt;rdg wit="#rad"&gt;персида. ватрь. доже и до ин&lt;hi rend="sup"&gt;д&lt;/hi&gt;икиа. в до&lt;lb/&gt;лготоу&lt;/rdg&gt;
+                &lt;rdg wit="#aka"&gt;персїда. ватръ. до&lt;hi rend="sup"&gt;ж&lt;/hi&gt;и и до индикїа. в долготѹ &lt;lb/&gt;
+                &lt;/rdg&gt;
+                &lt;rdg wit="#ipa"&gt;перь&lt;lb/&gt;сида. ватрь. доже и до инь&lt;lb/&gt;дикиꙗ. в долготу&lt;/rdg&gt;
+                &lt;rdg wit="#xle"&gt;персида. ватръ. даже и до индикїа. въ &lt;lb/&gt; долготоу&lt;/rdg&gt;
+            &lt;/rdgGrp&gt;
+            &lt;rdgGrp type="editions"&gt;
+                &lt;rdg wit="#bych"&gt;Персида, Ватрь, доже и до Индикия в долготу,&lt;/rdg&gt;
+                &lt;rdg wit="#shakh"&gt;Персида, Ватрь доже и до Индикия въ дълготу,&lt;/rdg&gt;
+                &lt;rdg wit="#likh"&gt;Персида, Ватрь, доже и до Индикия в долготу,&lt;/rdg&gt;
+            &lt;/rdgGrp&gt;
+        &lt;/app&gt;
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- snip --&gt;</pre>
+        <p>Then split the different blocks into separate files, using <a
+                href="../split-tei-into-collation-blocks.xsl"
+                >split-tei-into-collation-blocks.xsl</a>, which creates a separate TEI file for each
+            block, writing them into a <q>blocks</q> subdirectory. Filenames take the form
+                <em>xxxx_xxxx_xxxx.xml</em>, where the first <q>xxxx</q> is a decimal number
+            representing the order of the block in the entire edition, the second is the column
+            number, and the third is the line number. For example, <q>7981_0277_0028.xml</q> is the
+            7981st file and represents column 277, line 28. (Line numbers may also contain hyphens
+            and letters, about which see pp. lxxv–lxxvi of the <a
+                href="http://hudce7.harvard.edu/~ostrowski/pvl/techpref.pdf">Principles of
+                transcription</a> of the 2003 Harvard University Press print edition.)</p>
+        <p>Wrap <code>&lt;w&gt;</code> tags around the individual words using <a
+                href="../add-word-markup.xsl">add-word-markup.xsl</a>, which we run from a shell
+            script, <a href="../add-word-markup">add-word-markup</a>, and which writes the results
+            into a <q>blocks/word-tagged</q> folder. The word-tagged version of the block above
+            is:</p>
+        <pre>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;TEI xmlns="http://www.tei-c.org/ns/1.0"&gt;
+    &lt;teiHeader&gt;
+        &lt;fileDesc&gt;
+            &lt;titleStmt&gt;
+                &lt;title&gt;1, 4&lt;/title&gt;
+            &lt;/titleStmt&gt;
+            &lt;publicationStmt&gt;
+                &lt;p&gt;Unpublished interim file for collation&lt;/p&gt;
+            &lt;/publicationStmt&gt;
+            &lt;sourceDesc&gt;
+                &lt;p&gt;Extracted from pvl-tei.xml&lt;/p&gt;
+            &lt;/sourceDesc&gt;
+        &lt;/fileDesc&gt;
+    &lt;/teiHeader&gt;
+    &lt;text&gt;
+        &lt;body&gt;
+            &lt;milestone unit="column" n="1"/&gt;
+            &lt;div type="block" n="4"&gt;
+                &lt;p&gt;
+                    &lt;app&gt;
+                        &lt;lem wit="#lem"&gt;
+                            &lt;w n="1,4"&gt;Персида,&lt;/w&gt;
+                            &lt;w n="1,4"&gt;Ватрь&lt;/w&gt;
+                            &lt;w n="1,4"&gt;доже&lt;/w&gt;
+                            &lt;w n="1,4"&gt;и&lt;/w&gt;
+                            &lt;w n="1,4"&gt;до&lt;/w&gt;
+                            &lt;w n="1,4"&gt;Индикия&lt;/w&gt;
+                            &lt;w n="1,4"&gt;въ&lt;/w&gt;
+                            &lt;w n="1,4"&gt;дълготу,&lt;/w&gt;
+                        &lt;/lem&gt;
+
+                        &lt;rdg wit="#lav"&gt;
+                            &lt;w n="1,4"&gt;персида.&lt;/w&gt;
+                            &lt;w n="1,4"&gt;ватрь.&lt;/w&gt;
+                            &lt;w n="1,4"&gt;тоже &lt;lb/&gt;&lt;/w&gt;
+                            &lt;w n="1,4"&gt;и&lt;/w&gt;
+                            &lt;w n="1,4"&gt;до&lt;/w&gt;
+                            &lt;w n="1,4"&gt;индикиꙗ&lt;/w&gt;
+                            &lt;w n="1,4"&gt;в&lt;/w&gt;
+                            &lt;w n="1,4"&gt;долготу&lt;/w&gt;
+                        &lt;/rdg&gt;
+
+                        &lt;rdg wit="#tro"&gt;
+                            &lt;w n="1,4"&gt;персида&lt;/w&gt;
+                            &lt;w n="1,4"&gt;ватрь&lt;/w&gt;
+                            &lt;w n="1,4"&gt;даже&lt;/w&gt;
+                            &lt;w n="1,4"&gt;и&lt;/w&gt;
+                            &lt;w n="1,4"&gt;до&lt;/w&gt;
+                            &lt;w n="1,4"&gt;индикия&lt;/w&gt;
+                            &lt;w n="1,4"&gt;в&lt;/w&gt;
+                            &lt;w n="1,4"&gt;долготу&lt;/w&gt;
+                        &lt;/rdg&gt;
+
+                        &lt;rdg wit="#rad"&gt;
+                            &lt;w n="1,4"&gt;персида.&lt;/w&gt;
+                            &lt;w n="1,4"&gt;ватрь.&lt;/w&gt;
+                            &lt;w n="1,4"&gt;доже&lt;/w&gt;
+                            &lt;w n="1,4"&gt;и&lt;/w&gt;
+                            &lt;w n="1,4"&gt;до&lt;/w&gt;
+                            &lt;w n="1,4"&gt;ин&lt;hi rend="sup"&gt;д&lt;/hi&gt;икиа.&lt;/w&gt;
+                            &lt;w n="1,4"&gt;в&lt;/w&gt;
+                            &lt;w n="1,4"&gt;до&lt;lb/&gt;лготоу&lt;/w&gt;
+                        &lt;/rdg&gt;
+
+                        &lt;rdg wit="#aka"&gt;
+                            &lt;w n="1,4"&gt;персїда.&lt;/w&gt;
+                            &lt;w n="1,4"&gt;ватръ.&lt;/w&gt;
+                            &lt;w n="1,4"&gt;до&lt;hi rend="sup"&gt;ж&lt;/hi&gt;и&lt;/w&gt;
+                            &lt;w n="1,4"&gt;и&lt;/w&gt;
+                            &lt;w n="1,4"&gt;до&lt;/w&gt;
+                            &lt;w n="1,4"&gt;индикїа.&lt;/w&gt;
+                            &lt;w n="1,4"&gt;в&lt;/w&gt;
+                            &lt;w n="1,4"&gt;долготѹ &lt;lb/&gt;&lt;/w&gt;
+                        &lt;/rdg&gt;
+
+                        &lt;rdg wit="#ipa"&gt;
+                            &lt;w n="1,4"&gt;перь&lt;lb/&gt;сида.&lt;/w&gt;
+                            &lt;w n="1,4"&gt;ватрь.&lt;/w&gt;
+                            &lt;w n="1,4"&gt;доже&lt;/w&gt;
+                            &lt;w n="1,4"&gt;и&lt;/w&gt;
+                            &lt;w n="1,4"&gt;до&lt;/w&gt;
+                            &lt;w n="1,4"&gt;инь&lt;lb/&gt;дикиꙗ.&lt;/w&gt;
+                            &lt;w n="1,4"&gt;в&lt;/w&gt;
+                            &lt;w n="1,4"&gt;долготу&lt;/w&gt;
+                        &lt;/rdg&gt;
+
+                        &lt;rdg wit="#xle"&gt;
+                            &lt;w n="1,4"&gt;персида.&lt;/w&gt;
+                            &lt;w n="1,4"&gt;ватръ.&lt;/w&gt;
+                            &lt;w n="1,4"&gt;даже&lt;/w&gt;
+                            &lt;w n="1,4"&gt;и&lt;/w&gt;
+                            &lt;w n="1,4"&gt;до&lt;/w&gt;
+                            &lt;w n="1,4"&gt;индикїа.&lt;/w&gt;
+                            &lt;w n="1,4"&gt;въ &lt;lb/&gt;&lt;/w&gt;
+                            &lt;w n="1,4"&gt;долготоу&lt;/w&gt;
+                        &lt;/rdg&gt;
+
+                        &lt;rdg wit="#bych"&gt;
+                            &lt;w n="1,4"&gt;Персида,&lt;/w&gt;
+                            &lt;w n="1,4"&gt;Ватрь,&lt;/w&gt;
+                            &lt;w n="1,4"&gt;доже&lt;/w&gt;
+                            &lt;w n="1,4"&gt;и&lt;/w&gt;
+                            &lt;w n="1,4"&gt;до&lt;/w&gt;
+                            &lt;w n="1,4"&gt;Индикия&lt;/w&gt;
+                            &lt;w n="1,4"&gt;в&lt;/w&gt;
+                            &lt;w n="1,4"&gt;долготу,&lt;/w&gt;
+                        &lt;/rdg&gt;
+
+                        &lt;rdg wit="#shakh"&gt;
+                            &lt;w n="1,4"&gt;Персида,&lt;/w&gt;
+                            &lt;w n="1,4"&gt;Ватрь&lt;/w&gt;
+                            &lt;w n="1,4"&gt;доже&lt;/w&gt;
+                            &lt;w n="1,4"&gt;и&lt;/w&gt;
+                            &lt;w n="1,4"&gt;до&lt;/w&gt;
+                            &lt;w n="1,4"&gt;Индикия&lt;/w&gt;
+                            &lt;w n="1,4"&gt;въ&lt;/w&gt;
+                            &lt;w n="1,4"&gt;дълготу,&lt;/w&gt;
+                        &lt;/rdg&gt;
+
+                        &lt;rdg wit="#likh"&gt;
+                            &lt;w n="1,4"&gt;Персида,&lt;/w&gt;
+                            &lt;w n="1,4"&gt;Ватрь,&lt;/w&gt;
+                            &lt;w n="1,4"&gt;доже&lt;/w&gt;
+                            &lt;w n="1,4"&gt;и&lt;/w&gt;
+                            &lt;w n="1,4"&gt;до&lt;/w&gt;
+                            &lt;w n="1,4"&gt;Индикия&lt;/w&gt;
+                            &lt;w n="1,4"&gt;в&lt;/w&gt;
+                            &lt;w n="1,4"&gt;долготу,&lt;/w&gt;
+                        &lt;/rdg&gt;
+                    &lt;/app&gt;
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/body&gt;
+    &lt;/text&gt;
+&lt;/TEI&gt;</pre>
+        <p>The procedure, run from a directory that contains the original <a href="../pvl.xml"
+                >pvl.xml</a> file, is:</p>
+        <pre>saxon -o:pvl-tei.xml -s:pvl.xml -xsl:xml-to-tei.xsl
+saxon pvl-tei.xml split-tei-into-collation-blocks.xsl
+./add-word-markup</pre>
         <h4>2. Scripts</h4>
         <h5>2.1. Descriptions</h5>
         <ul>
-            <li>XMLToJSON.py - Iterates through files in the provided input folder and transforms
-                them to JSON that can be read by CollateX.</li>
-            <li>XMLSToJSON.py - Same as above, but input is split into 1 witness per xml file.</li>
-            <li>runCollatex.py - Iterates through the JSON files in the directory uses them as input
-                to CollateX. Output is another json file.</li>
-            <li>JSONToXML.py - Iterates through JSON files produced by CollateX, creates an xml from
-                each</li>
-            <li>Preprocessing.py - Applies Soundex normalization rules to the contents of each
-                &lt;w&gt; tag. Is a module that is called by other scripts, not intended to be ran
-                by the user.</li>
-            <li>Wrapper.py - Calls either XMLToJSON.py or XMLSToJSON.py followed by runCollatex.py
-                followed by JSONToXML.py, aleviating the need to run three separate scripts.</li>
+            <li>XMLToJSON.py - Iterates through word-tagged files in the specified input folder and
+                transforms them to JSON that can be read by CollateX.</li>
+            <li>XMLSToJSON.py - Same as above, but for input that has been split into separate files
+                for each manuscript witness. Not used in this example.</li>
+            <li>runCollatex.py - Iterates through the JSON files in the specified input directory
+                uses them as input to CollateX. Output is another JSON file.</li>
+            <li>JSONToXML.py - Iterates through JSON files produced by CollateX, creating an XML
+                file from each.</li>
+            <li>Preprocessing.py - Applies Soundex normalization rules (see <a href="#soundex"
+                    >below</a>) to the contents of each &lt;w&gt; tag. This module is called by
+                other scripts, and is not intended to be run directly by the user.</li>
+            <li>Wrapper.py - Calls either XMLToJSON.py or XMLSToJSON.py, followed by runCollatex.py,
+                followed by JSONToXML.py, alleviating the need to run three separate scripts. The
+                specification of XMLToJSON.py or XMLSToJSON.py is not case-sensitive.</li>
         </ul>
+        <p>To process files in the <q>blocks</q> subdirectory of the current working directory,
+            run:</p>
+        <pre>python /path-to-scripts/wrapper.py xmltojson.py -new -i blocks</pre>
+        <p>The <em>-new</em> switch creates a <q>collatexOutput</q> folder in the original input
+            directory and writes the output there, so as not to overwrite input and interim files.
+            When the smoke clears, <q>blocks</q> will contain the original word-tagged XML input
+            files and the JSON output of XMLtoJSON.py; it will also contain a <q>collatexOutput</q>
+            subdirectory with the JSON output of CollateX and the XML output created by converting
+            the CollateX JSON output to custom (not TEI-conformant) XML. The filenames are
+            consistent with the input filenames, with appropriate extensions (<q>.xml</q> and
+                <q>.json</q>). The JSON output of XMLtoJSON.py looks like:</p>
+        <pre>{"witnesses": [
+    {
+        "tokens": [
+            {
+                "u": "1,4",
+                "t": "Персида,",
+                "n": "прсд"
+            },
+            {
+                "u": "1,4",
+                "t": "Ватрь",
+                "n": "втрX"
+            },
+            {
+                "u": "1,4",
+                "t": "доже",
+                "n": "джXX"
+            },
+            {
+                "u": "1,4",
+                "t": "и",
+                "n": "иXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "до",
+                "n": "дXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "Индикия",
+                "n": "индк"
+            },
+            {
+                "u": "1,4",
+                "t": "въ",
+                "n": "вXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "дълготу,",
+                "n": "длгт"
+            }
+        ],
+        "id": "#lem"
+    },
+    {
+        "tokens": [
+            {
+                "u": "1,4",
+                "t": "персида.",
+                "n": "прсд"
+            },
+            {
+                "u": "1,4",
+                "t": "ватрь.",
+                "n": "втрX"
+            },
+            {
+                "u": "1,4",
+                "t": "тоже &lt;lb/&gt;",
+                "n": "тжXX"
+            },
+            {
+                "u": "1,4",
+                "t": "и",
+                "n": "иXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "до",
+                "n": "дXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "индикиꙗ",
+                "n": "индк"
+            },
+            {
+                "u": "1,4",
+                "t": "в",
+                "n": "вXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "долготу",
+                "n": "длгт"
+            }
+        ],
+        "id": "#lav"
+    },
+    {
+        "tokens": [
+            {
+                "u": "1,4",
+                "t": "персида",
+                "n": "прсд"
+            },
+            {
+                "u": "1,4",
+                "t": "ватрь",
+                "n": "втрX"
+            },
+            {
+                "u": "1,4",
+                "t": "даже",
+                "n": "джXX"
+            },
+            {
+                "u": "1,4",
+                "t": "и",
+                "n": "иXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "до",
+                "n": "дXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "индикия",
+                "n": "индк"
+            },
+            {
+                "u": "1,4",
+                "t": "в",
+                "n": "вXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "долготу",
+                "n": "длгт"
+            }
+        ],
+        "id": "#tro"
+    },
+    {
+        "tokens": [
+            {
+                "u": "1,4",
+                "t": "персида.",
+                "n": "прсд"
+            },
+            {
+                "u": "1,4",
+                "t": "ватрь.",
+                "n": "втрX"
+            },
+            {
+                "u": "1,4",
+                "t": "доже",
+                "n": "джXX"
+            },
+            {
+                "u": "1,4",
+                "t": "и",
+                "n": "иXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "до",
+                "n": "дXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "ин&lt;hi rend=\"sup\"&gt;д&lt;\/hi&gt;икиа.",
+                "n": "индк"
+            },
+            {
+                "u": "1,4",
+                "t": "в",
+                "n": "вXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "до&lt;lb/&gt;лготоу",
+                "n": "длгт"
+            }
+        ],
+        "id": "#rad"
+    },
+    {
+        "tokens": [
+            {
+                "u": "1,4",
+                "t": "персїда.",
+                "n": "прсд"
+            },
+            {
+                "u": "1,4",
+                "t": "ватръ.",
+                "n": "втрX"
+            },
+            {
+                "u": "1,4",
+                "t": "до&lt;hi rend=\"sup\"&gt;ж&lt;\/hi&gt;и",
+                "n": "джXX"
+            },
+            {
+                "u": "1,4",
+                "t": "и",
+                "n": "иXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "до",
+                "n": "дXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "индикїа.",
+                "n": "индк"
+            },
+            {
+                "u": "1,4",
+                "t": "в",
+                "n": "вXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "долготѹ &lt;lb/&gt;",
+                "n": "длгт"
+            }
+        ],
+        "id": "#aka"
+    },
+    {
+        "tokens": [
+            {
+                "u": "1,4",
+                "t": "перь&lt;lb/&gt;сида.",
+                "n": "прсд"
+            },
+            {
+                "u": "1,4",
+                "t": "ватрь.",
+                "n": "втрX"
+            },
+            {
+                "u": "1,4",
+                "t": "доже",
+                "n": "джXX"
+            },
+            {
+                "u": "1,4",
+                "t": "и",
+                "n": "иXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "до",
+                "n": "дXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "инь&lt;lb/&gt;дикиꙗ.",
+                "n": "индк"
+            },
+            {
+                "u": "1,4",
+                "t": "в",
+                "n": "вXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "долготу",
+                "n": "длгт"
+            }
+        ],
+        "id": "#ipa"
+    },
+    {
+        "tokens": [
+            {
+                "u": "1,4",
+                "t": "персида.",
+                "n": "прсд"
+            },
+            {
+                "u": "1,4",
+                "t": "ватръ.",
+                "n": "втрX"
+            },
+            {
+                "u": "1,4",
+                "t": "даже",
+                "n": "джXX"
+            },
+            {
+                "u": "1,4",
+                "t": "и",
+                "n": "иXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "до",
+                "n": "дXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "индикїа.",
+                "n": "индк"
+            },
+            {
+                "u": "1,4",
+                "t": "въ &lt;lb/&gt;",
+                "n": "вXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "долготоу",
+                "n": "длгт"
+            }
+        ],
+        "id": "#xle"
+    },
+    {
+        "tokens": [
+            {
+                "u": "1,4",
+                "t": "Персида,",
+                "n": "прсд"
+            },
+            {
+                "u": "1,4",
+                "t": "Ватрь,",
+                "n": "втрX"
+            },
+            {
+                "u": "1,4",
+                "t": "доже",
+                "n": "джXX"
+            },
+            {
+                "u": "1,4",
+                "t": "и",
+                "n": "иXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "до",
+                "n": "дXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "Индикия",
+                "n": "индк"
+            },
+            {
+                "u": "1,4",
+                "t": "в",
+                "n": "вXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "долготу,",
+                "n": "длгт"
+            }
+        ],
+        "id": "#bych"
+    },
+    {
+        "tokens": [
+            {
+                "u": "1,4",
+                "t": "Персида,",
+                "n": "прсд"
+            },
+            {
+                "u": "1,4",
+                "t": "Ватрь",
+                "n": "втрX"
+            },
+            {
+                "u": "1,4",
+                "t": "доже",
+                "n": "джXX"
+            },
+            {
+                "u": "1,4",
+                "t": "и",
+                "n": "иXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "до",
+                "n": "дXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "Индикия",
+                "n": "индк"
+            },
+            {
+                "u": "1,4",
+                "t": "въ",
+                "n": "вXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "дълготу,",
+                "n": "длгт"
+            }
+        ],
+        "id": "#shakh"
+    },
+    {
+        "tokens": [
+            {
+                "u": "1,4",
+                "t": "Персида,",
+                "n": "прсд"
+            },
+            {
+                "u": "1,4",
+                "t": "Ватрь,",
+                "n": "втрX"
+            },
+            {
+                "u": "1,4",
+                "t": "доже",
+                "n": "джXX"
+            },
+            {
+                "u": "1,4",
+                "t": "и",
+                "n": "иXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "до",
+                "n": "дXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "Индикия",
+                "n": "индк"
+            },
+            {
+                "u": "1,4",
+                "t": "в",
+                "n": "вXXX"
+            },
+            {
+                "u": "1,4",
+                "t": "долготу,",
+                "n": "длгт"
+            }
+        ],
+        "id": "#likh"
+    }
+]}</pre>
+        <p>The JSON output of CollateX looks like the following (the <q>u</q> value is the column
+            and line number, the <q>t</q> value is the original XML input, and the <q>n</q> value is
+            the Soundex-normalized form) that CollateX uses for alignment. We set a Levenshtein
+            distance threshhold value of 1, so that approximate matches not covered by our Soundex
+            normalization will also be aligned.</p>
+        <pre>{
+    "witnesses": [
+        "#aka",
+        "#bych",
+        "#ipa",
+        "#lav",
+        "#lem",
+        "#likh",
+        "#rad",
+        "#shakh",
+        "#tro",
+        "#xle"
+    ],
+    "table": [
+        [
+            [{
+                "u": "1,1",
+                "t": "се",
+                "n": "сXXX"
+            }],
+            [{
+                "u": "1,1",
+                "t": "Се",
+                "n": "сXXX"
+            }],
+            [{
+                "u": "1,1",
+                "t": "се",
+                "n": "сXXX"
+            }],
+            [{
+                "u": "1,1",
+                "t": "се",
+                "n": "сXXX"
+            }],
+            [{
+                "u": "1,1",
+                "t": "Се",
+                "n": "сXXX"
+            }],
+            [{
+                "u": "1,1",
+                "t": "Се",
+                "n": "сXXX"
+            }],
+            [{
+                "u": "1,1",
+                "t": "се",
+                "n": "сXXX"
+            }],
+            [{
+                "u": "1,1",
+                "t": "Се",
+                "n": "сXXX"
+            }],
+            [{
+                "u": "1,1",
+                "t": "се",
+                "n": "сXXX"
+            }],
+            [{
+                "u": "1,1",
+                "t": "Се",
+                "n": "сXXX"
+            }]
+        ],
+        [
+            [{
+                "u": "1,1",
+                "t": "на&lt;lb/&gt;чнемъ",
+                "n": "нчнм"
+            }],
+            [{
+                "u": "1,1",
+                "t": "начнемъ",
+                "n": "нчнм"
+            }],
+            [{
+                "u": "1,1",
+                "t": "начнемь",
+                "n": "нчнм"
+            }],
+            [{
+                "u": "1,1",
+                "t": "начнемъ",
+                "n": "нчнм"
+            }],
+            [{
+                "u": "1,1",
+                "t": "начьнемъ",
+                "n": "нчнм"
+            }],
+            [{
+                "u": "1,1",
+                "t": "начнемъ",
+                "n": "нчнм"
+            }],
+            [{
+                "u": "1,1",
+                "t": "начн&lt;hi rend=\"sup\"&gt;м&lt;\/hi&gt;е",
+                "n": "нчнм"
+            }],
+            [{
+                "u": "1,1",
+                "t": "начьнѣмъ",
+                "n": "нчнм"
+            }],
+            [{
+                "u": "1,1",
+                "t": "начнемъ",
+                "n": "нчнм"
+            }],
+            [{
+                "u": "1,1",
+                "t": "начнемъ &lt;lb/&gt;",
+                "n": "нчнм"
+            }]
+        ],
+        [
+            [{
+                "u": "1,1",
+                "t": "повѣсть",
+                "n": "пвст"
+            }],
+            [{
+                "u": "1,1",
+                "t": "повѣсть",
+                "n": "пвст"
+            }],
+            [{
+                "u": "1,1",
+                "t": "по&lt;lb/&gt;вѣсть",
+                "n": "пвст"
+            }],
+            [{
+                "u": "1,1",
+                "t": "повѣсть",
+                "n": "пвст"
+            }],
+            [{
+                "u": "1,1",
+                "t": "повѣсть",
+                "n": "пвст"
+            }],
+            [{
+                "u": "1,1",
+                "t": "повѣсть",
+                "n": "пвст"
+            }],
+            [{
+                "u": "1,1",
+                "t": "повѣсть",
+                "n": "пвст"
+            }],
+            [{
+                "u": "1,1",
+                "t": "повѣсть",
+                "n": "пвст"
+            }],
+            [{
+                "u": "1,1",
+                "t": "повѣсть",
+                "n": "пвст"
+            }],
+            [{
+                "u": "1,1",
+                "t": "повѣсть",
+                "n": "пвст"
+            }]
+        ],
+        [
+            [{
+                "u": "1,1",
+                "t": "сию.",
+                "n": "сXXX"
+            }],
+            [{
+                "u": "1,1",
+                "t": "сию.",
+                "n": "сXXX"
+            }],
+            [{
+                "u": "1,1",
+                "t": "сию.",
+                "n": "сXXX"
+            }],
+            [{
+                "u": "1,1",
+                "t": "сию.",
+                "n": "сXXX"
+            }],
+            [{
+                "u": "1,1",
+                "t": "сию.",
+                "n": "сXXX"
+            }],
+            [{
+                "u": "1,1",
+                "t": "сию.",
+                "n": "сXXX"
+            }],
+            [{
+                "u": "1,1",
+                "t": "сию.",
+                "n": "сXXX"
+            }],
+            [{
+                "u": "1,1",
+                "t": "сию.",
+                "n": "сXXX"
+            }],
+            [{
+                "u": "1,1",
+                "t": "сию",
+                "n": "сXXX"
+            }],
+            [{
+                "u": "1,1",
+                "t": "сїю.",
+                "n": "сXXX"
+            }]
+        ]
+    ]
+}</pre>
+        <p>JSONtoXML.py converts the CollateX JSON output to XML like the following:</p>
+        <pre>&lt;?xml version="1.0" ?&gt;
+&lt;witnesses&gt;
+    &lt;block&gt;
+        &lt;token n="прсд" u="1,4" witness="#aka"&gt;персїда.&lt;/token&gt;
+        &lt;token n="прсд" u="1,4" witness="#bych"&gt;Персида,&lt;/token&gt;
+        &lt;token n="прсд" u="1,4" witness="#ipa"&gt;перь&lt;lb/&gt;сида.&lt;/token&gt;
+        &lt;token n="прсд" u="1,4" witness="#lav"&gt;персида.&lt;/token&gt;
+        &lt;token n="прсд" u="1,4" witness="#lem"&gt;Персида,&lt;/token&gt;
+        &lt;token n="прсд" u="1,4" witness="#likh"&gt;Персида,&lt;/token&gt;
+        &lt;token n="прсд" u="1,4" witness="#rad"&gt;персида.&lt;/token&gt;
+        &lt;token n="прсд" u="1,4" witness="#shakh"&gt;Персида,&lt;/token&gt;
+        &lt;token n="прсд" u="1,4" witness="#tro"&gt;персида&lt;/token&gt;
+        &lt;token n="прсд" u="1,4" witness="#xle"&gt;персида.&lt;/token&gt;
+    &lt;/block&gt;
+    &lt;block&gt;
+        &lt;token n="втрX" u="1,4" witness="#aka"&gt;ватръ.&lt;/token&gt;
+        &lt;token n="втрX" u="1,4" witness="#bych"&gt;Ватрь,&lt;/token&gt;
+        &lt;token n="втрX" u="1,4" witness="#ipa"&gt;ватрь.&lt;/token&gt;
+        &lt;token n="втрX" u="1,4" witness="#lav"&gt;ватрь.&lt;/token&gt;
+        &lt;token n="втрX" u="1,4" witness="#lem"&gt;Ватрь&lt;/token&gt;
+        &lt;token n="втрX" u="1,4" witness="#likh"&gt;Ватрь,&lt;/token&gt;
+        &lt;token n="втрX" u="1,4" witness="#rad"&gt;ватрь.&lt;/token&gt;
+        &lt;token n="втрX" u="1,4" witness="#shakh"&gt;Ватрь&lt;/token&gt;
+        &lt;token n="втрX" u="1,4" witness="#tro"&gt;ватрь&lt;/token&gt;
+        &lt;token n="втрX" u="1,4" witness="#xle"&gt;ватръ.&lt;/token&gt;
+    &lt;/block&gt;
+    &lt;block&gt;
+        &lt;token n="джXX" u="1,4" witness="#aka"&gt;до&lt;hi rend="sup"&gt;ж&lt;/hi&gt;и&lt;/token&gt;
+        &lt;token n="джXX" u="1,4" witness="#bych"&gt;доже&lt;/token&gt;
+        &lt;token n="джXX" u="1,4" witness="#ipa"&gt;доже&lt;/token&gt;
+        &lt;token n="тжXX" u="1,4" witness="#lav"&gt;тоже &lt;lb/&gt;&lt;/token&gt;
+        &lt;token n="джXX" u="1,4" witness="#lem"&gt;доже&lt;/token&gt;
+        &lt;token n="джXX" u="1,4" witness="#likh"&gt;доже&lt;/token&gt;
+        &lt;token n="джXX" u="1,4" witness="#rad"&gt;доже&lt;/token&gt;
+        &lt;token n="джXX" u="1,4" witness="#shakh"&gt;доже&lt;/token&gt;
+        &lt;token n="джXX" u="1,4" witness="#tro"&gt;даже&lt;/token&gt;
+        &lt;token n="джXX" u="1,4" witness="#xle"&gt;даже&lt;/token&gt;
+    &lt;/block&gt;
+    &lt;block&gt;
+        &lt;token n="иXXX" u="1,4" witness="#aka"&gt;и&lt;/token&gt;
+        &lt;token n="иXXX" u="1,4" witness="#bych"&gt;и&lt;/token&gt;
+        &lt;token n="иXXX" u="1,4" witness="#ipa"&gt;и&lt;/token&gt;
+        &lt;token n="иXXX" u="1,4" witness="#lav"&gt;и&lt;/token&gt;
+        &lt;token n="иXXX" u="1,4" witness="#lem"&gt;и&lt;/token&gt;
+        &lt;token n="иXXX" u="1,4" witness="#likh"&gt;и&lt;/token&gt;
+        &lt;token n="иXXX" u="1,4" witness="#rad"&gt;и&lt;/token&gt;
+        &lt;token n="иXXX" u="1,4" witness="#shakh"&gt;и&lt;/token&gt;
+        &lt;token n="иXXX" u="1,4" witness="#tro"&gt;и&lt;/token&gt;
+        &lt;token n="иXXX" u="1,4" witness="#xle"&gt;и&lt;/token&gt;
+    &lt;/block&gt;
+    &lt;block&gt;
+        &lt;token n="дXXX" u="1,4" witness="#aka"&gt;до&lt;/token&gt;
+        &lt;token n="дXXX" u="1,4" witness="#bych"&gt;до&lt;/token&gt;
+        &lt;token n="дXXX" u="1,4" witness="#ipa"&gt;до&lt;/token&gt;
+        &lt;token n="дXXX" u="1,4" witness="#lav"&gt;до&lt;/token&gt;
+        &lt;token n="дXXX" u="1,4" witness="#lem"&gt;до&lt;/token&gt;
+        &lt;token n="дXXX" u="1,4" witness="#likh"&gt;до&lt;/token&gt;
+        &lt;token n="дXXX" u="1,4" witness="#rad"&gt;до&lt;/token&gt;
+        &lt;token n="дXXX" u="1,4" witness="#shakh"&gt;до&lt;/token&gt;
+        &lt;token n="дXXX" u="1,4" witness="#tro"&gt;до&lt;/token&gt;
+        &lt;token n="дXXX" u="1,4" witness="#xle"&gt;до&lt;/token&gt;
+    &lt;/block&gt;
+    &lt;block&gt;
+        &lt;token n="индк" u="1,4" witness="#aka"&gt;индикїа.&lt;/token&gt;
+        &lt;token n="индк" u="1,4" witness="#bych"&gt;Индикия&lt;/token&gt;
+        &lt;token n="индк" u="1,4" witness="#ipa"&gt;инь&lt;lb/&gt;дикиꙗ.&lt;/token&gt;
+        &lt;token n="индк" u="1,4" witness="#lav"&gt;индикиꙗ&lt;/token&gt;
+        &lt;token n="индк" u="1,4" witness="#lem"&gt;Индикия&lt;/token&gt;
+        &lt;token n="индк" u="1,4" witness="#likh"&gt;Индикия&lt;/token&gt;
+        &lt;token n="индк" u="1,4" witness="#rad"&gt;ин&lt;hi rend="sup"&gt;д&lt;/hi&gt;икиа.&lt;/token&gt;
+        &lt;token n="индк" u="1,4" witness="#shakh"&gt;Индикия&lt;/token&gt;
+        &lt;token n="индк" u="1,4" witness="#tro"&gt;индикия&lt;/token&gt;
+        &lt;token n="индк" u="1,4" witness="#xle"&gt;индикїа.&lt;/token&gt;
+    &lt;/block&gt;
+    &lt;block&gt;
+        &lt;token n="вXXX" u="1,4" witness="#aka"&gt;в&lt;/token&gt;
+        &lt;token n="вXXX" u="1,4" witness="#bych"&gt;в&lt;/token&gt;
+        &lt;token n="вXXX" u="1,4" witness="#ipa"&gt;в&lt;/token&gt;
+        &lt;token n="вXXX" u="1,4" witness="#lav"&gt;в&lt;/token&gt;
+        &lt;token n="вXXX" u="1,4" witness="#lem"&gt;въ&lt;/token&gt;
+        &lt;token n="вXXX" u="1,4" witness="#likh"&gt;в&lt;/token&gt;
+        &lt;token n="вXXX" u="1,4" witness="#rad"&gt;в&lt;/token&gt;
+        &lt;token n="вXXX" u="1,4" witness="#shakh"&gt;въ&lt;/token&gt;
+        &lt;token n="вXXX" u="1,4" witness="#tro"&gt;в&lt;/token&gt;
+        &lt;token n="вXXX" u="1,4" witness="#xle"&gt;въ &lt;lb/&gt;&lt;/token&gt;
+    &lt;/block&gt;
+    &lt;block&gt;
+        &lt;token n="длгт" u="1,4" witness="#aka"&gt;долготѹ &lt;lb/&gt;&lt;/token&gt;
+        &lt;token n="длгт" u="1,4" witness="#bych"&gt;долготу,&lt;/token&gt;
+        &lt;token n="длгт" u="1,4" witness="#ipa"&gt;долготу&lt;/token&gt;
+        &lt;token n="длгт" u="1,4" witness="#lav"&gt;долготу&lt;/token&gt;
+        &lt;token n="длгт" u="1,4" witness="#lem"&gt;дълготу,&lt;/token&gt;
+        &lt;token n="длгт" u="1,4" witness="#likh"&gt;долготу,&lt;/token&gt;
+        &lt;token n="длгт" u="1,4" witness="#rad"&gt;до&lt;lb/&gt;лготоу&lt;/token&gt;
+        &lt;token n="длгт" u="1,4" witness="#shakh"&gt;дълготу,&lt;/token&gt;
+        &lt;token n="длгт" u="1,4" witness="#tro"&gt;долготу&lt;/token&gt;
+        &lt;token n="длгт" u="1,4" witness="#xle"&gt;долготоу&lt;/token&gt;
+    &lt;/block&gt;
+&lt;/witnesses&gt;</pre>
+        <p>For web publication we use <a href="../xmlobjects-to-column-html-tables.xsl"
+                >xmlobjects-to-column-html-tables.xsl</a> to combine the blocks for each column into
+            a single HTML fragment which can be incorporated into a browsing interface using server
+            side includes and AJAX. The resulting edition is available at <a
+                href="http://pvl.obdurodon.org/browser.xhtml"
+                >http://pvl.obdurodon.org/browser.xhtml</a>.</p>
         <h5>2.2. Expected input and output</h5>
         <table>
             <tr>
@@ -102,44 +1101,60 @@
             </tr>
         </table>
         <ul>
-            <li>Inputs should be given as command line arguments</li>
+            <li>Inputs should be given as command-line arguments</li>
             <li>[] Signifies an optional argument</li>
-            <li>Order of input arguments matters in most cases, it is advised to use them in the
+            <li>Order of input arguments matters in most cases; it is advised to use them in the
                 order they are presented here.</li>
         </ul>
-        <h4>3. Postprocessing XSLT</h4>
-        <p>Run ______.xsl to saw the multiple .xml files created by JSONToXML.py into a single
-            .html.</p>
         <h3>Normalization algorithm</h3>
+        <p>The original XML input is retained throughout and process and used in the eventual
+            edition, but a normalized shadow view is created as follows:</p>
         <ol>
-            <li>Remove all opening and closing tags of the following elements:
-                    <code>&lt;add&gt;</code>, <code>&lt;hi&gt;</code>, <code>&lt;unclear&gt;</code>,
-                keeping their inner text node intact.</li>
+            <li>Remove all opening and closing tags of the following elements (some TEI, some from
+                alternative markup schemes that are also supported): <code>&lt;add&gt;</code>,
+                    <code>&lt;hi&gt;</code>, <code>&lt;unclear&gt;</code>, keeping their inner text
+                node intact.</li>
             <li>Remove the following elements entirely: <code>&lt;del&gt;</code>,
                     <code>&lt;gap&gt;</code>, <code>&lt;lacuna&gt;</code>, <code>&lt;lb&gt;</code>,
                     <code>&lt;pb&gt;</code></li>
-            <li>If a <code>&lt;choice&gt;</code> element is present, choose the latter of each of
-                the following pairs: (<code>&lt;sic&gt;</code>, <code>&lt;corr&gt;</code>),
+            <li>If a <code>&lt;choice&gt;</code> element is present, choose the second member of
+                each of the following pairs: (<code>&lt;sic&gt;</code>, <code>&lt;corr&gt;</code>),
                     (<code>&lt;orig&gt;</code>, <code>&lt;reg&gt;</code>),
                     (<code>&lt;abbr&gt;</code>, <code>&lt;expan&gt;</code>),
                     (<code>&lt;seg&gt;</code>, <code>&lt;seg&gt;</code>)</li>
-            <li>Extract all text nodes inorder to deal with text-only content from now on.</li>
-            <li>Remove all punctuation</li>
+            <li>Ignore other markup, operating just on the data content of the words from now
+                on.</li>
+            <li>Remove all punctuation.</li>
             <li>If at this point length of our text is 0, the node originally contained only
                 punctuation, so return a normalized value of <q>PUNC</q>. Otherwise, continue.</li>
             <li>Check for presence of arabic numbers in the string. If any are found, transform them
                 to their cyrillic counterparts.</li>
-            <li>Apply orthograpic transformation rules outlined in <q>soundex-rules.xml</q> in the
-                following order: <code>$manyToOne</code>, <code>$oneToMany</code>,
-                    <code>$oneToOne</code>.</li>
-            <li>Eliminate vowels from <q>Special vowels</q> category from <q>vowels.xml</q>, unless
-                they are word-initial</li>
-            <li>Degeminate consonants (e.g., <q>нн</q> becomes <q>н</q>) and remove all vowels from
-                the rest of the word. Note that word-initial letter is retained even if it is a
-                vowel, but other vowels are eventually deleted.</li>
-            <li>If the length of the resulting normalized is longer than 4, truncate it to 4. If
-                it’s less than 4, pad it with <q>X</q> (upper-case Latin letter) characters.</li>
+            <li>Apply Soundex normalization, as modified for early Slavic Cyrillic writing (see the
+                    <a href="#soundex">description of the Cyrillic-specific algorithm, below</a>),
+                as follows:<ol>
+                    <li>Apply orthograpic transformation rules outlined in <a
+                            href="../soundex-rules.xml">soundex-rules.xml</a> in the following
+                        order: <code>$manyToOne</code>, <code>$oneToMany</code>,
+                            <code>$oneToOne</code>. This merges letterforms that frequently appear
+                        as orthographic variants that are not meaningful for collation purposes,
+                        much as the original Soundex algorithm ignored orthographic variation that
+                        interfered with retrieving English-language surnames (see the brief
+                        description and history of Soundex at <a
+                            href="http://en.wikipedia.org/wiki/Soundex"
+                            >http://en.wikipedia.org/wiki/Soundex</a>).</li>
+                    <li>Eliminate vowels from <q>Special vowels</q> category from <a
+                            href="../vowels.xml">vowels.xml</a>, unless they are word-initial</li>
+                    <li>Degeminate consonants (e.g., <q>нн</q> becomes <q>н</q>) and remove all
+                        vowels from the rest of the word. Note that word-initial letter is retained
+                        even if it is a vowel, but other vowels are eventually deleted.</li>
+                    <li>If the length of the resulting normalized is longer than 4, truncate it to
+                        4. If it’s less than 4, pad it with <q>X</q> (upper-case Latin letter)
+                        characters.</li>
+                </ol></li>
         </ol>
+        <hr />
+        <h3 id="soundex">Soundex normalization</h3>
+        <p>[Describe Soundex normalization here]</p>
         <hr />
         <p>Developed by David J. Birnbaum (<a href="mailto:djbpitt@gmail.com">djbpitt@gmail.com</a>)
             and Minas Abovyan. CC BY-NC-SA. Project site <a href="http://collateos.obdurodon.org"
