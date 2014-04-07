@@ -7,6 +7,27 @@
             <!--#echo encoding="none" var="title" -->
         </title>
         <!--#include virtual="../inc/pvl-header.html" -->
+        <style type="text/css">
+            table.collation-example{
+                border:none;
+            }
+            p.columnNumber{
+                padding-left:5px;
+            }
+            .collation-example tr{
+                padding:0;
+                margin:0;
+            }
+            .collation-example td,
+            .collation-example th{
+                padding:0 8px 0;
+                margin:0;
+                border:none;
+            }
+            .collation-example th{
+                font-style:italic;
+                border-right:1px gray solid;
+            }</style>
     </head>
     <body>
         <!--#include virtual="../inc/pvl-boilerplate.html" -->
@@ -25,10 +46,12 @@
             that they can be compared, with the goal of determining the original text, as well its
             subsequent history as it was copied repeatedly, with each copy introducing deliberate or
             inadvertent deviations from the source text. The digital edition available at <a
-                href="http://collatex.net">http://pvl.obdurodon.org</a> is based on <cite>The
-                Povest′ vremennykh let: An interlinear collation and paradosis</cite>, ed. Donald
-            Ostrowski, with David Birnbaum and Horace G. Lunt. (Harvard Ukrainian Research Institute
-            Publications: Texts, 10.) Cambridge, MA: Harvard UP, 2003. ISBN 9780916458911.</p>
+                href="http://collatex.net">http://pvl.obdurodon.org</a> is based on <a
+                href="http://www.hup.harvard.edu/catalog.php?isbn=9780916458911"><cite>The Povest′
+                    vremennykh let: An interlinear collation and paradosis</cite>, ed. Donald
+                Ostrowski, with David Birnbaum and Horace G. Lunt. (Harvard Ukrainian Research
+                Institute Publications: Texts, 10.) Cambridge, MA: Harvard UP, 2003. ISBN
+                9780916458911.</a></p>
         <h3>System requirements</h3>
         <ul>
             <li>
@@ -51,7 +74,8 @@
             document, convert the file to TEI using <a href="../dev/xml-to-tei.xsl"
                 >xml-to-tei.xsl</a>. With <a href="../dev/pvl.xml">pvl.xml</a> (warning: 9.2M) as
             the input file, the output is <a href="../dev/pvl-tei.xml">pvl-tei.xml</a> (warning:
-            12M). The input is one XML document containing the full collation, as in:</p>
+            12M). The input is one XML document containing the full collation, of which the
+            following is a sample:</p>
         <pre>&lt;block column="1" line="4"&gt;
     &lt;manuscripts&gt;
         &lt;Lav&gt;персида. ватрь. тоже &lt;lb/&gt; и до индикиꙗ в долготу&lt;/Lav&gt;
@@ -68,6 +92,75 @@
         &lt;Ost&gt;Персида, Ватрь доже и до Индикия въ дълготу,&lt;/Ost&gt;
     &lt;/paradosis&gt;
 &lt;/block&gt;</pre>
+        <p>The edition lists manuscripts first (the principal manuscripts are <em>Lav</em>,
+                <em>Tro</em>, <em>Rad</em>, <em>Aka</em>, <em>Ipa</em>, and <em>Xle</em>; others are
+            used selectively), then print editions (<em>Byč</em>, <em>Šax</em>, and <em>Lix</em>),
+            and then our own reconstruction (<em>Ost</em>, which we translate <em>α</em> to before
+            rendering). The XML input document can be converted to HTML in way that aligns the
+            manuscripts by line, but not by word within the lines. After conversion, the HTML for
+            the preceding block looks like:</p>
+        <div class="pre-colored">
+            <h3>1, 4</h3>
+            <table>
+                <tbody class="manuscripts">
+                    <tr>
+                        <th>Lav</th>
+                        <td>персида. ватрь. тоже | и до индикиꙗ в долготу</td>
+                    </tr>
+                    <tr>
+                        <th>Tro</th>
+                        <td>персида ватрь даже и до индикия в долготу</td>
+                    </tr>
+                    <tr>
+                        <th>Rad</th>
+                        <td>персида. ватрь. доже и до ин<sup>д</sup>икиа. в до|лготоу </td>
+                    </tr>
+                    <tr>
+                        <th>Aka</th>
+                        <td>персїда. ватръ. до<sup>ж</sup>и и до индикїа. в долготѹ | </td>
+                    </tr>
+                    <tr>
+                        <th>Ipa</th>
+                        <td>перь|сида. ватрь. доже и до инь|дикиꙗ. в долготу</td>
+                    </tr>
+                    <tr>
+                        <th>Xle</th>
+                        <td>персида. ватръ. даже и до индикїа. въ | долготоу</td>
+                    </tr>
+                </tbody>
+                <tbody class="editions">
+                    <tr>
+                        <th>Byč</th>
+                        <td>Персида, Ватрь, доже и до Индикия в долготу,</td>
+                    </tr>
+                    <tr>
+                        <th>Šax</th>
+                        <td>Персида, Ватрь доже и до Индикия въ дълготу,</td>
+                    </tr>
+                    <tr>
+                        <th>Lix</th>
+                        <td>Персида, Ватрь, доже и до Индикия в долготу,</td>
+                    </tr>
+                </tbody>
+                <tbody class="lemma">
+                    <tr>
+                        <th>α</th>
+                        <td>Персида, Ватрь доже и до Индикия въ дълготу,</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <p>The problem CollateOS was designed to address was to convert a line-by-line alignment,
+            like the one above, into a word-by-word one. Since the witnesses may disagree not only
+            in the spellings of the words, but also in insertions, deletions, and transpositions,
+            this is not a simple task, and it requires aligning the words in the witnesses not just
+            by position in the line, but also by their textual content. A simple Levenshtein
+            edit-distance adjustment is too crude for this task because not all variation is equally
+            important for alignment purposes, and normalization before collation must ignore
+            orthographic variation that is not textually significant while remaining attentive to
+            variation that philologists consider meaningful. The remainder of this paper describes
+            the process of applying intelligent normalization to the manuscript evidence in order to
+            obtain more accurate results from <a href="http://collatex.net">CollateX</a>.</p>
         <p>The output of the <a href="../dev/xml-to-tei.xsl">xml-to-tei.xsl</a> process looks
             like:</p>
         <pre>&lt;!-- snip --&gt;
@@ -1063,8 +1156,129 @@ saxon pvl-tei.xml split-tei-into-collation-blocks.xsl
         <p>For web publication we use <a href="../dev/xmlobjects-to-column-html-tables.xsl"
                 >xmlobjects-to-column-html-tables.xsl</a> to combine the blocks for each column into
             a single HTML fragment which can be incorporated into a browsing interface using server
-            side includes and AJAX. The resulting edition is available at <a
-                href="http://pvl.obdurodon.org/browser.xhtml"
+            side includes and AJAX. The resulting word-aligned block looks like:</p>
+        <div class="pre-colored">
+            <p id="b1_4" class="columnNumber">1,4</p>
+            <table class="collation-example">
+                <tbody class="manuscripts">
+                    <tr>
+                        <th>Lav</th>
+                        <td>персида.</td>
+                        <td>ватрь.</td>
+                        <td>тоже </td>
+                        <td>и</td>
+                        <td>до</td>
+                        <td>индикиꙗ</td>
+                        <td>в</td>
+                        <td>долготу</td>
+                    </tr>
+                    <tr>
+                        <th>Tro</th>
+                        <td>персида</td>
+                        <td>ватрь</td>
+                        <td>даже</td>
+                        <td>и</td>
+                        <td>до</td>
+                        <td>индикия</td>
+                        <td>в</td>
+                        <td>долготу</td>
+                    </tr>
+                    <tr>
+                        <th>Rad</th>
+                        <td>персида.</td>
+                        <td>ватрь.</td>
+                        <td>доже</td>
+                        <td>и</td>
+                        <td>до</td>
+                        <td>ин<sup>д</sup>икиа.</td>
+                        <td>в</td>
+                        <td>долготоу</td>
+                    </tr>
+                    <tr>
+                        <th>Aka</th>
+                        <td>персїда.</td>
+                        <td>ватръ.</td>
+                        <td>до<sup>ж</sup>и</td>
+                        <td>и</td>
+                        <td>до</td>
+                        <td>индикїа.</td>
+                        <td>в</td>
+                        <td>долготѹ </td>
+                    </tr>
+                    <tr>
+                        <th>Ipa</th>
+                        <td>перьсида.</td>
+                        <td>ватрь.</td>
+                        <td>доже</td>
+                        <td>и</td>
+                        <td>до</td>
+                        <td>иньдикиꙗ.</td>
+                        <td>в</td>
+                        <td>долготу</td>
+                    </tr>
+                    <tr>
+                        <th>Xle</th>
+                        <td>персида.</td>
+                        <td>ватръ.</td>
+                        <td>даже</td>
+                        <td>и</td>
+                        <td>до</td>
+                        <td>индикїа.</td>
+                        <td>въ </td>
+                        <td>долготоу</td>
+                    </tr>
+                </tbody>
+                <tbody class="editions">
+                    <tr>
+                        <th>Byč</th>
+                        <td>Персида,</td>
+                        <td>Ватрь,</td>
+                        <td>доже</td>
+                        <td>и</td>
+                        <td>до</td>
+                        <td>Индикия</td>
+                        <td>в</td>
+                        <td>долготу,</td>
+                    </tr>
+                    <tr>
+                        <th>Šax</th>
+                        <td>Персида,</td>
+                        <td>Ватрь</td>
+                        <td>доже</td>
+                        <td>и</td>
+                        <td>до</td>
+                        <td>Индикия</td>
+                        <td>въ</td>
+                        <td>дълготу,</td>
+                    </tr>
+                    <tr>
+                        <th>Lix</th>
+                        <td>Персида,</td>
+                        <td>Ватрь,</td>
+                        <td>доже</td>
+                        <td>и</td>
+                        <td>до</td>
+                        <td>Индикия</td>
+                        <td>в</td>
+                        <td>долготу,</td>
+                    </tr>
+                </tbody>
+                <tbody class="lemma">
+                    <tr>
+                        <th>α</th>
+                        <td>Персида,</td>
+                        <td>Ватрь</td>
+                        <td>доже</td>
+                        <td>и</td>
+                        <td>до</td>
+                        <td>Индикия</td>
+                        <td>въ</td>
+                        <td>дълготу,</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <p>The full edition is available at <a href="http://pvl.obdurodon.org/browser.xhtml"
                 >http://pvl.obdurodon.org/browser.xhtml</a>.</p>
         <h5>2.2. Expected input and output</h5>
         <table>
