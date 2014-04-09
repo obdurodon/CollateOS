@@ -138,7 +138,8 @@ def getNumber(subpart): #generate u values from filename
         return '/'.join([getNumber(i) for i in subpart.split('-')])
 
 def parseName(f): #generate u values from filename
-    f = f[:-4].split('_')
+    distance = len(f.split('.')[-1])
+    f = f[:-distance].split('_')
     return ','.join([getNumber(i) for i in f[1:]])
 
 
