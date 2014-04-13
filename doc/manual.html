@@ -414,49 +414,53 @@ saxon pvl-tei.xml split-tei-into-collation-blocks.xsl
             subdirectory with the JSON output of CollateX and the XML output created by converting
             the CollateX JSON output to custom (not TEI-conformant) XML. The filenames are
             consistent with the input filenames, with appropriate extensions (<q>.xml</q> and
-                <q>.json</q>). The JSON output of XMLtoJSON.py looks like:</p>
+                <q>.json</q>).</p>
+        <h4>Transformation 2, part 1: Word-tagged TEI XML to CollateX JSON input</h4>
+        <p>The JSON output of XMLtoJSON.py, in a format expected by CollateX, looks like the
+            following (the <q>u</q> value is the column and line number, the <q>t</q> value is the
+            original XML input, and the <q>n</q> value is the Soundex-normalized form):</p>
         <pre>{"witnesses": [
     {
         "tokens": [
             {
                 "u": "1,4",
-                "t": "Персида,",
-                "n": "прсд"
+                "t": "<span class="manuscripts">Персида,</span>",
+                "n": "<span class="manuscripts">прсд</span>"
             },
             {
                 "u": "1,4",
-                "t": "Ватрь",
-                "n": "втрX"
+                "t": "<span class="manuscripts">Ватрь</span>",
+                "n": "<span class="manuscripts">втрX</span>"
             },
             {
                 "u": "1,4",
-                "t": "доже",
-                "n": "джXX"
+                "t": "<span class="manuscripts">доже</span>",
+                "n": "<span class="manuscripts">джXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "и",
-                "n": "иXXX"
+                "t": "<span class="manuscripts">и</span>",
+                "n": "<span class="manuscripts">иXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "до",
-                "n": "дXXX"
+                "t": "<span class="manuscripts">до</span>",
+                "n": "<span class="manuscripts">дXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "Индикия",
-                "n": "индк"
+                "t": "<span class="manuscripts">Индикия</span>",
+                "n": "<span class="manuscripts">индк</span>"
             },
             {
                 "u": "1,4",
-                "t": "въ",
-                "n": "вXXX"
+                "t": "<span class="manuscripts">въ</span>",
+                "n": "<span class="manuscripts">вXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "дълготу,",
-                "n": "длгт"
+                "t": "<span class="manuscripts">дълготу,</span>",
+                "n": "<span class="manuscripts">длгт</span>"
             }
         ],
         "id": "#lem"
@@ -465,43 +469,43 @@ saxon pvl-tei.xml split-tei-into-collation-blocks.xsl
         "tokens": [
             {
                 "u": "1,4",
-                "t": "персида.",
-                "n": "прсд"
+                "t": "<span class="manuscripts">персида.</span>",
+                "n": "<span class="manuscripts">прсд</span>"
             },
             {
                 "u": "1,4",
-                "t": "ватрь.",
-                "n": "втрX"
+                "t": "<span class="manuscripts">ватрь.</span>",
+                "n": "<span class="manuscripts">втрX</span>"
             },
             {
                 "u": "1,4",
-                "t": "тоже &lt;lb/&gt;",
-                "n": "тжXX"
+                "t": "<span class="manuscripts">тоже </span>&lt;lb/&gt;",
+                "n": "<span class="manuscripts">тжXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "и",
-                "n": "иXXX"
+                "t": "<span class="manuscripts">и</span>",
+                "n": "<span class="manuscripts">иXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "до",
-                "n": "дXXX"
+                "t": "<span class="manuscripts">до</span>",
+                "n": "<span class="manuscripts">дXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "индикиꙗ",
-                "n": "индк"
+                "t": "<span class="manuscripts">индикиꙗ</span>",
+                "n": "<span class="manuscripts">индк</span>"
             },
             {
                 "u": "1,4",
-                "t": "в",
-                "n": "вXXX"
+                "t": "<span class="manuscripts">в</span>",
+                "n": "<span class="manuscripts">вXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "долготу",
-                "n": "длгт"
+                "t": "<span class="manuscripts">долготу</span>",
+                "n": "<span class="manuscripts">длгт</span>"
             }
         ],
         "id": "#lav"
@@ -510,43 +514,43 @@ saxon pvl-tei.xml split-tei-into-collation-blocks.xsl
         "tokens": [
             {
                 "u": "1,4",
-                "t": "персида",
-                "n": "прсд"
+                "t": "<span class="manuscripts">персида</span>",
+                "n": "<span class="manuscripts">прсд</span>"
             },
             {
                 "u": "1,4",
-                "t": "ватрь",
-                "n": "втрX"
+                "t": "<span class="manuscripts">ватрь</span>",
+                "n": "<span class="manuscripts">втрX</span>"
             },
             {
                 "u": "1,4",
-                "t": "даже",
-                "n": "джXX"
+                "t": "<span class="manuscripts">даже</span>",
+                "n": "<span class="manuscripts">джXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "и",
-                "n": "иXXX"
+                "t": "<span class="manuscripts">и</span>",
+                "n": "<span class="manuscripts">иXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "до",
-                "n": "дXXX"
+                "t": "<span class="manuscripts">до</span>",
+                "n": "<span class="manuscripts">дXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "индикия",
-                "n": "индк"
+                "t": "<span class="manuscripts">индикия</span>",
+                "n": "<span class="manuscripts">индк</span>"
             },
             {
                 "u": "1,4",
-                "t": "в",
-                "n": "вXXX"
+                "t": "<span class="manuscripts">в</span>",
+                "n": "<span class="manuscripts">вXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "долготу",
-                "n": "длгт"
+                "t": "<span class="manuscripts">долготу</span>",
+                "n": "<span class="manuscripts">длгт</span>"
             }
         ],
         "id": "#tro"
@@ -555,43 +559,43 @@ saxon pvl-tei.xml split-tei-into-collation-blocks.xsl
         "tokens": [
             {
                 "u": "1,4",
-                "t": "персида.",
-                "n": "прсд"
+                "t": "<span class="manuscripts">персида.</span>",
+                "n": "<span class="manuscripts">прсд</span>"
             },
             {
                 "u": "1,4",
-                "t": "ватрь.",
-                "n": "втрX"
+                "t": "<span class="manuscripts">ватрь.</span>",
+                "n": "<span class="manuscripts">втрX</span>"
             },
             {
                 "u": "1,4",
-                "t": "доже",
-                "n": "джXX"
+                "t": "<span class="manuscripts">доже</span>",
+                "n": "<span class="manuscripts">джXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "и",
-                "n": "иXXX"
+                "t": "<span class="manuscripts">и</span>",
+                "n": "<span class="manuscripts">иXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "до",
-                "n": "дXXX"
+                "t": "<span class="manuscripts">до</span>",
+                "n": "<span class="manuscripts">дXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "ин&lt;hi rend=\"sup\"&gt;д&lt;\/hi&gt;икиа.",
-                "n": "индк"
+                "t": "<span class="manuscripts">ин</span>&lt;hi rend=\"sup\"&gt;<span class="manuscripts">д</span>&lt;\/hi&gt;<span class="manuscripts">икиа.</span>",
+                "n": "<span class="manuscripts">индк</span>"
             },
             {
                 "u": "1,4",
-                "t": "в",
-                "n": "вXXX"
+                "t": "<span class="manuscripts">в</span>",
+                "n": "<span class="manuscripts">вXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "до&lt;lb/&gt;лготоу",
-                "n": "длгт"
+                "t": "<span class="manuscripts">до</span>&lt;lb/&gt;<span class="manuscripts">лготоу</span>",
+                "n": "<span class="manuscripts">длгт</span>"
             }
         ],
         "id": "#rad"
@@ -600,43 +604,43 @@ saxon pvl-tei.xml split-tei-into-collation-blocks.xsl
         "tokens": [
             {
                 "u": "1,4",
-                "t": "персїда.",
-                "n": "прсд"
+                "t": "<span class="manuscripts">персїда.</span>",
+                "n": "<span class="manuscripts">прсд</span>"
             },
             {
                 "u": "1,4",
-                "t": "ватръ.",
-                "n": "втрX"
+                "t": "<span class="manuscripts">ватръ.</span>",
+                "n": "<span class="manuscripts">втрX</span>"
             },
             {
                 "u": "1,4",
-                "t": "до&lt;hi rend=\"sup\"&gt;ж&lt;\/hi&gt;и",
-                "n": "джXX"
+                "t": "<span class="manuscripts">до</span>&lt;hi rend=\"sup\"&gt;<span class="manuscripts">ж</span>&lt;\/hi&gt;<span class="manuscripts">и</span>",
+                "n": "<span class="manuscripts">джXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "и",
-                "n": "иXXX"
+                "t": "<span class="manuscripts">и</span>",
+                "n": "<span class="manuscripts">иXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "до",
-                "n": "дXXX"
+                "t": "<span class="manuscripts">до</span>",
+                "n": "<span class="manuscripts">дXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "индикїа.",
-                "n": "индк"
+                "t": "<span class="manuscripts">индикїа.</span>",
+                "n": "<span class="manuscripts">индк</span>"
             },
             {
                 "u": "1,4",
-                "t": "в",
-                "n": "вXXX"
+                "t": "<span class="manuscripts">в</span>",
+                "n": "<span class="manuscripts">вXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "долготѹ &lt;lb/&gt;",
-                "n": "длгт"
+                "t": "<span class="manuscripts">долготѹ </span>&lt;lb/&gt;",
+                "n": "<span class="manuscripts">длгт</span>"
             }
         ],
         "id": "#aka"
@@ -645,43 +649,43 @@ saxon pvl-tei.xml split-tei-into-collation-blocks.xsl
         "tokens": [
             {
                 "u": "1,4",
-                "t": "перь&lt;lb/&gt;сида.",
-                "n": "прсд"
+                "t": "<span class="manuscripts">перь</span>&lt;lb/&gt;<span class="manuscripts">сида.</span>",
+                "n": "<span class="manuscripts">прсд</span>"
             },
             {
                 "u": "1,4",
-                "t": "ватрь.",
-                "n": "втрX"
+                "t": "<span class="manuscripts">ватрь.</span>",
+                "n": "<span class="manuscripts">втрX</span>"
             },
             {
                 "u": "1,4",
-                "t": "доже",
-                "n": "джXX"
+                "t": "<span class="manuscripts">доже</span>",
+                "n": "<span class="manuscripts">джXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "и",
-                "n": "иXXX"
+                "t": "<span class="manuscripts">и</span>",
+                "n": "<span class="manuscripts">иXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "до",
-                "n": "дXXX"
+                "t": "<span class="manuscripts">до</span>",
+                "n": "<span class="manuscripts">дXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "инь&lt;lb/&gt;дикиꙗ.",
-                "n": "индк"
+                "t": "<span class="manuscripts">инь</span>&lt;lb/&gt;<span class="manuscripts">дикиꙗ.</span>",
+                "n": "<span class="manuscripts">индк</span>"
             },
             {
                 "u": "1,4",
-                "t": "в",
-                "n": "вXXX"
+                "t": "<span class="manuscripts">в</span>",
+                "n": "<span class="manuscripts">вXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "долготу",
-                "n": "длгт"
+                "t": "<span class="manuscripts">долготу</span>",
+                "n": "<span class="manuscripts">длгт</span>"
             }
         ],
         "id": "#ipa"
@@ -690,43 +694,43 @@ saxon pvl-tei.xml split-tei-into-collation-blocks.xsl
         "tokens": [
             {
                 "u": "1,4",
-                "t": "персида.",
-                "n": "прсд"
+                "t": "<span class="manuscripts">персида.</span>",
+                "n": "<span class="manuscripts">прсд</span>"
             },
             {
                 "u": "1,4",
-                "t": "ватръ.",
-                "n": "втрX"
+                "t": "<span class="manuscripts">ватръ.</span>",
+                "n": "<span class="manuscripts">втрX</span>"
             },
             {
                 "u": "1,4",
-                "t": "даже",
-                "n": "джXX"
+                "t": "<span class="manuscripts">даже</span>",
+                "n": "<span class="manuscripts">джXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "и",
-                "n": "иXXX"
+                "t": "<span class="manuscripts">и</span>",
+                "n": "<span class="manuscripts">иXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "до",
-                "n": "дXXX"
+                "t": "<span class="manuscripts">до</span>",
+                "n": "<span class="manuscripts">дXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "индикїа.",
-                "n": "индк"
+                "t": "<span class="manuscripts">индикїа.</span>",
+                "n": "<span class="manuscripts">индк</span>"
             },
             {
                 "u": "1,4",
-                "t": "въ &lt;lb/&gt;",
-                "n": "вXXX"
+                "t": "<span class="manuscripts">въ </span>&lt;lb/&gt;",
+                "n": "<span class="manuscripts">вXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "долготоу",
-                "n": "длгт"
+                "t": "<span class="manuscripts">долготоу</span>",
+                "n": "<span class="manuscripts">длгт</span>"
             }
         ],
         "id": "#xle"
@@ -735,43 +739,43 @@ saxon pvl-tei.xml split-tei-into-collation-blocks.xsl
         "tokens": [
             {
                 "u": "1,4",
-                "t": "Персида,",
-                "n": "прсд"
+                "t": "<span class="manuscripts">Персида,</span>",
+                "n": "<span class="manuscripts">прсд</span>"
             },
             {
                 "u": "1,4",
-                "t": "Ватрь,",
-                "n": "втрX"
+                "t": "<span class="manuscripts">Ватрь,</span>",
+                "n": "<span class="manuscripts">втрX</span>"
             },
             {
                 "u": "1,4",
-                "t": "доже",
-                "n": "джXX"
+                "t": "<span class="manuscripts">доже</span>",
+                "n": "<span class="manuscripts">джXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "и",
-                "n": "иXXX"
+                "t": "<span class="manuscripts">и</span>",
+                "n": "<span class="manuscripts">иXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "до",
-                "n": "дXXX"
+                "t": "<span class="manuscripts">до</span>",
+                "n": "<span class="manuscripts">дXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "Индикия",
-                "n": "индк"
+                "t": "<span class="manuscripts">Индикия</span>",
+                "n": "<span class="manuscripts">индк</span>"
             },
             {
                 "u": "1,4",
-                "t": "в",
-                "n": "вXXX"
+                "t": "<span class="manuscripts">в</span>",
+                "n": "<span class="manuscripts">вXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "долготу,",
-                "n": "длгт"
+                "t": "<span class="manuscripts">долготу,</span>",
+                "n": "<span class="manuscripts">длгт</span>"
             }
         ],
         "id": "#bych"
@@ -780,43 +784,43 @@ saxon pvl-tei.xml split-tei-into-collation-blocks.xsl
         "tokens": [
             {
                 "u": "1,4",
-                "t": "Персида,",
-                "n": "прсд"
+                "t": "<span class="manuscripts">Персида,</span>",
+                "n": "<span class="manuscripts">прсд</span>"
             },
             {
                 "u": "1,4",
-                "t": "Ватрь",
-                "n": "втрX"
+                "t": "<span class="manuscripts">Ватрь</span>",
+                "n": "<span class="manuscripts">втрX</span>"
             },
             {
                 "u": "1,4",
-                "t": "доже",
-                "n": "джXX"
+                "t": "<span class="manuscripts">доже</span>",
+                "n": "<span class="manuscripts">джXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "и",
-                "n": "иXXX"
+                "t": "<span class="manuscripts">и</span>",
+                "n": "<span class="manuscripts">иXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "до",
-                "n": "дXXX"
+                "t": "<span class="manuscripts">до</span>",
+                "n": "<span class="manuscripts">дXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "Индикия",
-                "n": "индк"
+                "t": "<span class="manuscripts">Индикия</span>",
+                "n": "<span class="manuscripts">индк</span>"
             },
             {
                 "u": "1,4",
-                "t": "въ",
-                "n": "вXXX"
+                "t": "<span class="manuscripts">въ</span>",
+                "n": "<span class="manuscripts">вXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "дълготу,",
-                "n": "длгт"
+                "t": "<span class="manuscripts">дълготу,</span>",
+                "n": "<span class="manuscripts">длгт</span>"
             }
         ],
         "id": "#shakh"
@@ -825,53 +829,52 @@ saxon pvl-tei.xml split-tei-into-collation-blocks.xsl
         "tokens": [
             {
                 "u": "1,4",
-                "t": "Персида,",
-                "n": "прсд"
+                "t": "<span class="manuscripts">Персида,</span>",
+                "n": "<span class="manuscripts">прсд</span>"
             },
             {
                 "u": "1,4",
-                "t": "Ватрь,",
-                "n": "втрX"
+                "t": "<span class="manuscripts">Ватрь,</span>",
+                "n": "<span class="manuscripts">втрX</span>"
             },
             {
                 "u": "1,4",
-                "t": "доже",
-                "n": "джXX"
+                "t": "<span class="manuscripts">доже</span>",
+                "n": "<span class="manuscripts">джXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "и",
-                "n": "иXXX"
+                "t": "<span class="manuscripts">и</span>",
+                "n": "<span class="manuscripts">иXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "до",
-                "n": "дXXX"
+                "t": "<span class="manuscripts">до</span>",
+                "n": "<span class="manuscripts">дXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "Индикия",
-                "n": "индк"
+                "t": "<span class="manuscripts">Индикия</span>",
+                "n": "<span class="manuscripts">индк</span>"
             },
             {
                 "u": "1,4",
-                "t": "в",
-                "n": "вXXX"
+                "t": "<span class="manuscripts">в</span>",
+                "n": "<span class="manuscripts">вXXX</span>"
             },
             {
                 "u": "1,4",
-                "t": "долготу,",
-                "n": "длгт"
+                "t": "<span class="manuscripts">долготу,</span>",
+                "n": "<span class="manuscripts">длгт</span>"
             }
         ],
         "id": "#likh"
     }
 ]}</pre>
-        <p>The JSON output of CollateX looks like the following (the <q>u</q> value is the column
-            and line number, the <q>t</q> value is the original XML input, and the <q>n</q> value is
-            the Soundex-normalized form) that CollateX uses for alignment. We set a Levenshtein
-            distance threshhold value of 1, so that approximate matches not covered by our Soundex
-            normalization will also be aligned.</p>
+        <h4>Transformation 2, part 2: CollateX JSON input to CollateX JSON output</h4>
+        <p>CollateX reads JSON files like the one above and outputs JSON that looks like the sample
+            below. We set a Levenshtein distance threshhold value of 1, so that approximate matches
+            not covered by our Soundex normalization will also be aligned:</p>
         <pre>{
     "witnesses": [
         "#aka",
@@ -889,316 +892,319 @@ saxon pvl-tei.xml split-tei-into-collation-blocks.xsl
         [
             [{
                 "u": "1,1",
-                "t": "се",
-                "n": "сXXX"
+                "t": "<span class="manuscripts">се</span>",
+                "n": "<span class="manuscripts">сXXX</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "Се",
-                "n": "сXXX"
+                "t": "<span class="manuscripts">Се</span>",
+                "n": "<span class="manuscripts">сXXX</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "се",
-                "n": "сXXX"
+                "t": "<span class="manuscripts">се</span>",
+                "n": "<span class="manuscripts">сXXX</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "се",
-                "n": "сXXX"
+                "t": "<span class="manuscripts">се</span>",
+                "n": "<span class="manuscripts">сXXX</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "Се",
-                "n": "сXXX"
+                "t": "<span class="manuscripts">Се</span>",
+                "n": "<span class="manuscripts">сXXX</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "Се",
-                "n": "сXXX"
+                "t": "<span class="manuscripts">Се</span>",
+                "n": "<span class="manuscripts">сXXX</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "се",
-                "n": "сXXX"
+                "t": "<span class="manuscripts">се</span>",
+                "n": "<span class="manuscripts">сXXX</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "Се",
-                "n": "сXXX"
+                "t": "<span class="manuscripts">Се</span>",
+                "n": "<span class="manuscripts">сXXX</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "се",
-                "n": "сXXX"
+                "t": "<span class="manuscripts">се</span>",
+                "n": "<span class="manuscripts">сXXX</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "Се",
-                "n": "сXXX"
+                "t": "<span class="manuscripts">Се</span>",
+                "n": "<span class="manuscripts">сXXX</span>"
             }]
         ],
         [
             [{
                 "u": "1,1",
-                "t": "на&lt;lb/&gt;чнемъ",
-                "n": "нчнм"
+                "t": "<span class="manuscripts">на&lt;lb/&gt;чнемъ</span>",
+                "n": "<span class="manuscripts">нчнм</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "начнемъ",
-                "n": "нчнм"
+                "t": "<span class="manuscripts">начнемъ</span>",
+                "n": "<span class="manuscripts">нчнм</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "начнемь",
-                "n": "нчнм"
+                "t": "<span class="manuscripts">начнемь</span>",
+                "n": "<span class="manuscripts">нчнм</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "начнемъ",
-                "n": "нчнм"
+                "t": "<span class="manuscripts">начнемъ</span>",
+                "n": "<span class="manuscripts">нчнм</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "начьнемъ",
-                "n": "нчнм"
+                "t": "<span class="manuscripts">начьнемъ</span>",
+                "n": "<span class="manuscripts">нчнм</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "начнемъ",
-                "n": "нчнм"
+                "t": "<span class="manuscripts">начнемъ</span>",
+                "n": "<span class="manuscripts">нчнм</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "начн&lt;hi rend=\"sup\"&gt;м&lt;\/hi&gt;е",
-                "n": "нчнм"
+                "t": "<span class="manuscripts">начн&lt;hi rend=\"sup\"&gt;м&lt;\/hi&gt;е</span>",
+                "n": "<span class="manuscripts">нчнм</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "начьнѣмъ",
-                "n": "нчнм"
+                "t": "<span class="manuscripts">начьнѣмъ</span>",
+                "n": "<span class="manuscripts">нчнм</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "начнемъ",
-                "n": "нчнм"
+                "t": "<span class="manuscripts">начнемъ</span>",
+                "n": "<span class="manuscripts">нчнм</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "начнемъ &lt;lb/&gt;",
-                "n": "нчнм"
+                "t": "<span class="manuscripts">начнемъ &lt;lb/&gt;</span>",
+                "n": "<span class="manuscripts">нчнм</span>"
             }]
         ],
         [
             [{
                 "u": "1,1",
-                "t": "повѣсть",
-                "n": "пвст"
+                "t": "<span class="manuscripts">повѣсть</span>",
+                "n": "<span class="manuscripts">пвст</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "повѣсть",
-                "n": "пвст"
+                "t": "<span class="manuscripts">повѣсть</span>",
+                "n": "<span class="manuscripts">пвст</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "по&lt;lb/&gt;вѣсть",
-                "n": "пвст"
+                "t": "<span class="manuscripts">по&lt;lb/&gt;вѣсть</span>",
+                "n": "<span class="manuscripts">пвст</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "повѣсть",
-                "n": "пвст"
+                "t": "<span class="manuscripts">повѣсть</span>",
+                "n": "<span class="manuscripts">пвст</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "повѣсть",
-                "n": "пвст"
+                "t": "<span class="manuscripts">повѣсть</span>",
+                "n": "<span class="manuscripts">пвст</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "повѣсть",
-                "n": "пвст"
+                "t": "<span class="manuscripts">повѣсть</span>",
+                "n": "<span class="manuscripts">пвст</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "повѣсть",
-                "n": "пвст"
+                "t": "<span class="manuscripts">повѣсть</span>",
+                "n": "<span class="manuscripts">пвст</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "повѣсть",
-                "n": "пвст"
+                "t": "<span class="manuscripts">повѣсть</span>",
+                "n": "<span class="manuscripts">пвст</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "повѣсть",
-                "n": "пвст"
+                "t": "<span class="manuscripts">повѣсть</span>",
+                "n": "<span class="manuscripts">пвст</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "повѣсть",
-                "n": "пвст"
+                "t": "<span class="manuscripts">повѣсть</span>",
+                "n": "<span class="manuscripts">пвст</span>"
             }]
         ],
         [
             [{
                 "u": "1,1",
-                "t": "сию.",
-                "n": "сXXX"
+                "t": "<span class="manuscripts">сию.</span>",
+                "n": "<span class="manuscripts">сXXX</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "сию.",
-                "n": "сXXX"
+                "t": "<span class="manuscripts">сию.</span>",
+                "n": "<span class="manuscripts">сXXX</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "сию.",
-                "n": "сXXX"
+                "t": "<span class="manuscripts">сию.</span>",
+                "n": "<span class="manuscripts">сXXX</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "сию.",
-                "n": "сXXX"
+                "t": "<span class="manuscripts">сию.</span>",
+                "n": "<span class="manuscripts">сXXX</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "сию.",
-                "n": "сXXX"
+                "t": "<span class="manuscripts">сию.</span>",
+                "n": "<span class="manuscripts">сXXX</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "сию.",
-                "n": "сXXX"
+                "t": "<span class="manuscripts">сию.</span>",
+                "n": "<span class="manuscripts">сXXX</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "сию.",
-                "n": "сXXX"
+                "t": "<span class="manuscripts">сию.</span>",
+                "n": "<span class="manuscripts">сXXX</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "сию.",
-                "n": "сXXX"
+                "t": "<span class="manuscripts">сию.</span>",
+                "n": "<span class="manuscripts">сXXX</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "сию",
-                "n": "сXXX"
+                "t": "<span class="manuscripts">сию</span>",
+                "n": "<span class="manuscripts">сXXX</span>"
             }],
             [{
                 "u": "1,1",
-                "t": "сїю.",
-                "n": "сXXX"
+                "t": "<span class="manuscripts">сїю.</span>",
+                "n": "<span class="manuscripts">сXXX</span>"
             }]
         ]
     ]
 }</pre>
-        <p>JSONtoXML.py converts the CollateX JSON output to XML like the following:</p>
+        <h4>Transformation 2, part 3: CollateX JSON output to custom XML</h4>
+        <p><a href="../dev/JSONtoXML.py">JSONtoXML.py</a> converts the CollateX JSON output to XML
+            like the following:</p>
         <pre>&lt;?xml version="1.0" ?&gt;
 &lt;witnesses&gt;
     &lt;block&gt;
-        &lt;token n="прсд" u="1,4" witness="#aka"&gt;персїда.&lt;/token&gt;
-        &lt;token n="прсд" u="1,4" witness="#bych"&gt;Персида,&lt;/token&gt;
-        &lt;token n="прсд" u="1,4" witness="#ipa"&gt;перь&lt;lb/&gt;сида.&lt;/token&gt;
-        &lt;token n="прсд" u="1,4" witness="#lav"&gt;персида.&lt;/token&gt;
-        &lt;token n="прсд" u="1,4" witness="#lem"&gt;Персида,&lt;/token&gt;
-        &lt;token n="прсд" u="1,4" witness="#likh"&gt;Персида,&lt;/token&gt;
-        &lt;token n="прсд" u="1,4" witness="#rad"&gt;персида.&lt;/token&gt;
-        &lt;token n="прсд" u="1,4" witness="#shakh"&gt;Персида,&lt;/token&gt;
-        &lt;token n="прсд" u="1,4" witness="#tro"&gt;персида&lt;/token&gt;
-        &lt;token n="прсд" u="1,4" witness="#xle"&gt;персида.&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">прсд</span>" u="1,4" witness="#aka"&gt;<span class="manuscripts">персїда.</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">прсд</span>" u="1,4" witness="#bych"&gt;<span class="manuscripts">Персида,</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">прсд</span>" u="1,4" witness="#ipa"&gt;<span class="manuscripts">перь</span>&lt;lb/&gt;<span class="manuscripts">сида.</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">прсд</span>" u="1,4" witness="#lav"&gt;<span class="manuscripts">персида.</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">прсд</span>" u="1,4" witness="#lem"&gt;<span class="manuscripts">Персида,</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">прсд</span>" u="1,4" witness="#likh"&gt;<span class="manuscripts">Персида,</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">прсд</span>" u="1,4" witness="#rad"&gt;<span class="manuscripts">персида.</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">прсд</span>" u="1,4" witness="#shakh"&gt;<span class="manuscripts">Персида,</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">прсд</span>" u="1,4" witness="#tro"&gt;<span class="manuscripts">персида</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">прсд</span>" u="1,4" witness="#xle"&gt;<span class="manuscripts">персида.</span>&lt;/token&gt;
     &lt;/block&gt;
     &lt;block&gt;
-        &lt;token n="втрX" u="1,4" witness="#aka"&gt;ватръ.&lt;/token&gt;
-        &lt;token n="втрX" u="1,4" witness="#bych"&gt;Ватрь,&lt;/token&gt;
-        &lt;token n="втрX" u="1,4" witness="#ipa"&gt;ватрь.&lt;/token&gt;
-        &lt;token n="втрX" u="1,4" witness="#lav"&gt;ватрь.&lt;/token&gt;
-        &lt;token n="втрX" u="1,4" witness="#lem"&gt;Ватрь&lt;/token&gt;
-        &lt;token n="втрX" u="1,4" witness="#likh"&gt;Ватрь,&lt;/token&gt;
-        &lt;token n="втрX" u="1,4" witness="#rad"&gt;ватрь.&lt;/token&gt;
-        &lt;token n="втрX" u="1,4" witness="#shakh"&gt;Ватрь&lt;/token&gt;
-        &lt;token n="втрX" u="1,4" witness="#tro"&gt;ватрь&lt;/token&gt;
-        &lt;token n="втрX" u="1,4" witness="#xle"&gt;ватръ.&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">втрX</span>" u="1,4" witness="#aka"&gt;<span class="manuscripts">ватръ.</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">втрX</span>" u="1,4" witness="#bych"&gt;<span class="manuscripts">Ватрь,</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">втрX</span>" u="1,4" witness="#ipa"&gt;<span class="manuscripts">ватрь.</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">втрX</span>" u="1,4" witness="#lav"&gt;<span class="manuscripts">ватрь.</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">втрX</span>" u="1,4" witness="#lem"&gt;<span class="manuscripts">Ватрь</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">втрX</span>" u="1,4" witness="#likh"&gt;<span class="manuscripts">Ватрь,</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">втрX</span>" u="1,4" witness="#rad"&gt;<span class="manuscripts">ватрь.</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">втрX</span>" u="1,4" witness="#shakh"&gt;<span class="manuscripts">Ватрь</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">втрX</span>" u="1,4" witness="#tro"&gt;<span class="manuscripts">ватрь</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">втрX</span>" u="1,4" witness="#xle"&gt;<span class="manuscripts">ватръ.</span>&lt;/token&gt;
     &lt;/block&gt;
     &lt;block&gt;
-        &lt;token n="джXX" u="1,4" witness="#aka"&gt;до&lt;hi rend="sup"&gt;ж&lt;/hi&gt;и&lt;/token&gt;
-        &lt;token n="джXX" u="1,4" witness="#bych"&gt;доже&lt;/token&gt;
-        &lt;token n="джXX" u="1,4" witness="#ipa"&gt;доже&lt;/token&gt;
-        &lt;token n="тжXX" u="1,4" witness="#lav"&gt;тоже &lt;lb/&gt;&lt;/token&gt;
-        &lt;token n="джXX" u="1,4" witness="#lem"&gt;доже&lt;/token&gt;
-        &lt;token n="джXX" u="1,4" witness="#likh"&gt;доже&lt;/token&gt;
-        &lt;token n="джXX" u="1,4" witness="#rad"&gt;доже&lt;/token&gt;
-        &lt;token n="джXX" u="1,4" witness="#shakh"&gt;доже&lt;/token&gt;
-        &lt;token n="джXX" u="1,4" witness="#tro"&gt;даже&lt;/token&gt;
-        &lt;token n="джXX" u="1,4" witness="#xle"&gt;даже&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">джXX</span>" u="1,4" witness="#aka"&gt;<span class="manuscripts">до</span>&lt;hi rend="sup"&gt;<span class="manuscripts">ж</span>&lt;/hi&gt;<span class="manuscripts">и</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">джXX</span>" u="1,4" witness="#bych"&gt;<span class="manuscripts">доже</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">джXX</span>" u="1,4" witness="#ipa"&gt;<span class="manuscripts">доже</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">тжXX</span>" u="1,4" witness="#lav"&gt;<span class="manuscripts">тоже </span>&lt;lb/&gt;&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">джXX</span>" u="1,4" witness="#lem"&gt;<span class="manuscripts">доже</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">джXX</span>" u="1,4" witness="#likh"&gt;<span class="manuscripts">доже</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">джXX</span>" u="1,4" witness="#rad"&gt;<span class="manuscripts">доже</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">джXX</span>" u="1,4" witness="#shakh"&gt;<span class="manuscripts">доже</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">джXX</span>" u="1,4" witness="#tro"&gt;<span class="manuscripts">даже</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">джXX</span>" u="1,4" witness="#xle"&gt;<span class="manuscripts">даже</span>&lt;/token&gt;
     &lt;/block&gt;
     &lt;block&gt;
-        &lt;token n="иXXX" u="1,4" witness="#aka"&gt;и&lt;/token&gt;
-        &lt;token n="иXXX" u="1,4" witness="#bych"&gt;и&lt;/token&gt;
-        &lt;token n="иXXX" u="1,4" witness="#ipa"&gt;и&lt;/token&gt;
-        &lt;token n="иXXX" u="1,4" witness="#lav"&gt;и&lt;/token&gt;
-        &lt;token n="иXXX" u="1,4" witness="#lem"&gt;и&lt;/token&gt;
-        &lt;token n="иXXX" u="1,4" witness="#likh"&gt;и&lt;/token&gt;
-        &lt;token n="иXXX" u="1,4" witness="#rad"&gt;и&lt;/token&gt;
-        &lt;token n="иXXX" u="1,4" witness="#shakh"&gt;и&lt;/token&gt;
-        &lt;token n="иXXX" u="1,4" witness="#tro"&gt;и&lt;/token&gt;
-        &lt;token n="иXXX" u="1,4" witness="#xle"&gt;и&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">иXXX</span>" u="1,4" witness="#aka"&gt;<span class="manuscripts">и</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">иXXX</span>" u="1,4" witness="#bych"&gt;<span class="manuscripts">и</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">иXXX</span>" u="1,4" witness="#ipa"&gt;<span class="manuscripts">и</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">иXXX</span>" u="1,4" witness="#lav"&gt;<span class="manuscripts">и</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">иXXX</span>" u="1,4" witness="#lem"&gt;<span class="manuscripts">и</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">иXXX</span>" u="1,4" witness="#likh"&gt;<span class="manuscripts">и</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">иXXX</span>" u="1,4" witness="#rad"&gt;<span class="manuscripts">и</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">иXXX</span>" u="1,4" witness="#shakh"&gt;<span class="manuscripts">и</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">иXXX</span>" u="1,4" witness="#tro"&gt;<span class="manuscripts">и</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">иXXX</span>" u="1,4" witness="#xle"&gt;<span class="manuscripts">и</span>&lt;/token&gt;
     &lt;/block&gt;
     &lt;block&gt;
-        &lt;token n="дXXX" u="1,4" witness="#aka"&gt;до&lt;/token&gt;
-        &lt;token n="дXXX" u="1,4" witness="#bych"&gt;до&lt;/token&gt;
-        &lt;token n="дXXX" u="1,4" witness="#ipa"&gt;до&lt;/token&gt;
-        &lt;token n="дXXX" u="1,4" witness="#lav"&gt;до&lt;/token&gt;
-        &lt;token n="дXXX" u="1,4" witness="#lem"&gt;до&lt;/token&gt;
-        &lt;token n="дXXX" u="1,4" witness="#likh"&gt;до&lt;/token&gt;
-        &lt;token n="дXXX" u="1,4" witness="#rad"&gt;до&lt;/token&gt;
-        &lt;token n="дXXX" u="1,4" witness="#shakh"&gt;до&lt;/token&gt;
-        &lt;token n="дXXX" u="1,4" witness="#tro"&gt;до&lt;/token&gt;
-        &lt;token n="дXXX" u="1,4" witness="#xle"&gt;до&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">дXXX</span>" u="1,4" witness="#aka"&gt;<span class="manuscripts">до</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">дXXX</span>" u="1,4" witness="#bych"&gt;<span class="manuscripts">до</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">дXXX</span>" u="1,4" witness="#ipa"&gt;<span class="manuscripts">до</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">дXXX</span>" u="1,4" witness="#lav"&gt;<span class="manuscripts">до</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">дXXX</span>" u="1,4" witness="#lem"&gt;<span class="manuscripts">до</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">дXXX</span>" u="1,4" witness="#likh"&gt;<span class="manuscripts">до</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">дXXX</span>" u="1,4" witness="#rad"&gt;<span class="manuscripts">до</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">дXXX</span>" u="1,4" witness="#shakh"&gt;<span class="manuscripts">до</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">дXXX</span>" u="1,4" witness="#tro"&gt;<span class="manuscripts">до</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">дXXX</span>" u="1,4" witness="#xle"&gt;<span class="manuscripts">до</span>&lt;/token&gt;
     &lt;/block&gt;
     &lt;block&gt;
-        &lt;token n="индк" u="1,4" witness="#aka"&gt;индикїа.&lt;/token&gt;
-        &lt;token n="индк" u="1,4" witness="#bych"&gt;Индикия&lt;/token&gt;
-        &lt;token n="индк" u="1,4" witness="#ipa"&gt;инь&lt;lb/&gt;дикиꙗ.&lt;/token&gt;
-        &lt;token n="индк" u="1,4" witness="#lav"&gt;индикиꙗ&lt;/token&gt;
-        &lt;token n="индк" u="1,4" witness="#lem"&gt;Индикия&lt;/token&gt;
-        &lt;token n="индк" u="1,4" witness="#likh"&gt;Индикия&lt;/token&gt;
-        &lt;token n="индк" u="1,4" witness="#rad"&gt;ин&lt;hi rend="sup"&gt;д&lt;/hi&gt;икиа.&lt;/token&gt;
-        &lt;token n="индк" u="1,4" witness="#shakh"&gt;Индикия&lt;/token&gt;
-        &lt;token n="индк" u="1,4" witness="#tro"&gt;индикия&lt;/token&gt;
-        &lt;token n="индк" u="1,4" witness="#xle"&gt;индикїа.&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">индк</span>" u="1,4" witness="#aka"&gt;<span class="manuscripts">индикїа.</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">индк</span>" u="1,4" witness="#bych"&gt;<span class="manuscripts">Индикия</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">индк</span>" u="1,4" witness="#ipa"&gt;<span class="manuscripts">инь</span>&lt;lb/&gt;<span class="manuscripts">дикиꙗ.</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">индк</span>" u="1,4" witness="#lav"&gt;<span class="manuscripts">индикиꙗ</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">индк</span>" u="1,4" witness="#lem"&gt;<span class="manuscripts">Индикия</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">индк</span>" u="1,4" witness="#likh"&gt;<span class="manuscripts">Индикия</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">индк</span>" u="1,4" witness="#rad"&gt;<span class="manuscripts">ин</span>&lt;hi rend="sup"&gt;<span class="manuscripts">д</span>&lt;/hi&gt;<span class="manuscripts">икиа.</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">индк</span>" u="1,4" witness="#shakh"&gt;<span class="manuscripts">Индикия</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">индк</span>" u="1,4" witness="#tro"&gt;<span class="manuscripts">индикия</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">индк</span>" u="1,4" witness="#xle"&gt;<span class="manuscripts">индикїа.</span>&lt;/token&gt;
     &lt;/block&gt;
     &lt;block&gt;
-        &lt;token n="вXXX" u="1,4" witness="#aka"&gt;в&lt;/token&gt;
-        &lt;token n="вXXX" u="1,4" witness="#bych"&gt;в&lt;/token&gt;
-        &lt;token n="вXXX" u="1,4" witness="#ipa"&gt;в&lt;/token&gt;
-        &lt;token n="вXXX" u="1,4" witness="#lav"&gt;в&lt;/token&gt;
-        &lt;token n="вXXX" u="1,4" witness="#lem"&gt;въ&lt;/token&gt;
-        &lt;token n="вXXX" u="1,4" witness="#likh"&gt;в&lt;/token&gt;
-        &lt;token n="вXXX" u="1,4" witness="#rad"&gt;в&lt;/token&gt;
-        &lt;token n="вXXX" u="1,4" witness="#shakh"&gt;въ&lt;/token&gt;
-        &lt;token n="вXXX" u="1,4" witness="#tro"&gt;в&lt;/token&gt;
-        &lt;token n="вXXX" u="1,4" witness="#xle"&gt;въ &lt;lb/&gt;&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">вXXX</span>" u="1,4" witness="#aka"&gt;<span class="manuscripts">в</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">вXXX</span>" u="1,4" witness="#bych"&gt;<span class="manuscripts">в</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">вXXX</span>" u="1,4" witness="#ipa"&gt;<span class="manuscripts">в</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">вXXX</span>" u="1,4" witness="#lav"&gt;<span class="manuscripts">в</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">вXXX</span>" u="1,4" witness="#lem"&gt;<span class="manuscripts">въ</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">вXXX</span>" u="1,4" witness="#likh"&gt;<span class="manuscripts">в</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">вXXX</span>" u="1,4" witness="#rad"&gt;<span class="manuscripts">в</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">вXXX</span>" u="1,4" witness="#shakh"&gt;<span class="manuscripts">въ</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">вXXX</span>" u="1,4" witness="#tro"&gt;<span class="manuscripts">в</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">вXXX</span>" u="1,4" witness="#xle"&gt;<span class="manuscripts">въ </span>&lt;lb/&gt;&lt;/token&gt;
     &lt;/block&gt;
     &lt;block&gt;
-        &lt;token n="длгт" u="1,4" witness="#aka"&gt;долготѹ &lt;lb/&gt;&lt;/token&gt;
-        &lt;token n="длгт" u="1,4" witness="#bych"&gt;долготу,&lt;/token&gt;
-        &lt;token n="длгт" u="1,4" witness="#ipa"&gt;долготу&lt;/token&gt;
-        &lt;token n="длгт" u="1,4" witness="#lav"&gt;долготу&lt;/token&gt;
-        &lt;token n="длгт" u="1,4" witness="#lem"&gt;дълготу,&lt;/token&gt;
-        &lt;token n="длгт" u="1,4" witness="#likh"&gt;долготу,&lt;/token&gt;
-        &lt;token n="длгт" u="1,4" witness="#rad"&gt;до&lt;lb/&gt;лготоу&lt;/token&gt;
-        &lt;token n="длгт" u="1,4" witness="#shakh"&gt;дълготу,&lt;/token&gt;
-        &lt;token n="длгт" u="1,4" witness="#tro"&gt;долготу&lt;/token&gt;
-        &lt;token n="длгт" u="1,4" witness="#xle"&gt;долготоу&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">длгт</span>" u="1,4" witness="#aka"&gt;<span class="manuscripts">долготѹ </span>&lt;lb/&gt;&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">длгт</span>" u="1,4" witness="#bych"&gt;<span class="manuscripts">долготу,</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">длгт</span>" u="1,4" witness="#ipa"&gt;<span class="manuscripts">долготу</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">длгт</span>" u="1,4" witness="#lav"&gt;<span class="manuscripts">долготу</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">длгт</span>" u="1,4" witness="#lem"&gt;<span class="manuscripts">дълготу,</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">длгт</span>" u="1,4" witness="#likh"&gt;<span class="manuscripts">долготу,</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">длгт</span>" u="1,4" witness="#rad"&gt;<span class="manuscripts">до</span>&lt;lb/&gt;<span class="manuscripts">лготоу</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">длгт</span>" u="1,4" witness="#shakh"&gt;<span class="manuscripts">дълготу,</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">длгт</span>" u="1,4" witness="#tro"&gt;<span class="manuscripts">долготу</span>&lt;/token&gt;
+        &lt;token n="<span class="manuscripts">длгт</span>" u="1,4" witness="#xle"&gt;<span class="manuscripts">долготоу</span>&lt;/token&gt;
     &lt;/block&gt;
 &lt;/witnesses&gt;</pre>
+        <h3>Transformation 3: Custom XML to HTML</h3>
         <p>For web publication we use <a href="../dev/xmlobjects-to-column-html-tables.xsl"
                 >xmlobjects-to-column-html-tables.xsl</a> to combine the blocks for each column into
-            a single HTML fragment which can be incorporated into a browsing interface using server
+            a single HTML fragment, which can be incorporated into a browsing interface using server
             side includes and AJAX. The resulting word-aligned block looks like:</p>
         <div class="pre-colored">
             <p id="b1_4" class="columnNumber">1,4</p>
@@ -1323,65 +1329,8 @@ saxon pvl-tei.xml split-tei-into-collation-blocks.xsl
         </div>
         <p>The full edition is available at <a href="http://pvl.obdurodon.org/browser.xhtml"
                 >http://pvl.obdurodon.org/browser.xhtml</a>.</p>
-        <h5>2.2. Expected input and output</h5>
-        <table>
-            <tr>
-                <th>Script</th>
-                <th>Input</th>
-                <th>Output</th>
-            </tr>
-            <tr>
-                <td>XMLToJSON.py</td>
-                <td>-i <em>path to the folder with XML files</em></td>
-                <td>JSON files ready to be run through collatex written to the input folder</td>
-            </tr>
-            <tr>
-                <td>XMLSToJSON.py</td>
-                <td>-i <em>path to the folder with XML files</em><br /> -o <em>path to the JSON file
-                        for the output to be written to</em></td>
-                <td>a single JSON file specified after -o flag</td>
-            </tr>
-            <tr>
-                <td>runCollatex.py</td>
-                <td>-i <em>path to the JSON files used as input to CollateX</em> [-new] if intending
-                    not to overwrite existing JSONs. This will create a <q>collatexOutput</q> folder
-                    in the directory of the input files and write output there.</td>
-                <td>Output of the CollateX application either overwriting the original files or
-                    writing to collatexOutput</td>
-            </tr>
-            <tr>
-                <td>JSONToXML.py</td>
-                <td>-i <em>path to the folder with JSON files created by CollateX</em></td>
-                <td>XML files in the output directory to be used in _____.xsl to create the single
-                    HTML file</td>
-            </tr>
-            <tr>
-                <td>Preprocessing.py</td>
-                <td>N/A, not intended to be ran by the user</td>
-                <td>N/A, not intended to be ran by the user</td>
-            </tr>
-            <tr>
-                <td>Wrapper.py</td>
-                <td>name of the script being ran (xmltojson.py or xmlstojson.py)<br /> -i <em>path
-                        to the folder with XML files</em><br /> -o <em>path to the JSON file for the
-                        output to be written to</em> (if running xmlstojson.py only)<br /> [-new] if
-                    intending not to overwrite existing JSONs. This will create a
-                        <q>collatexOutput</q> folder in the directory of the input files and write
-                    output there.</td>
-                <td> JSON files for each input XML (if running xmltojson.py)<br /> A single JSON
-                    file with all witnesses combined (if running xmlstojson.py)<br /> Output of the
-                    CollateX application either overwriting the files above or writing to
-                    collatexOutput folder<br /> XML files in the output directory to be used in
-                    _____.xsl to create the single HTML file</td>
-            </tr>
-        </table>
-        <ul>
-            <li>Inputs should be given as command-line arguments</li>
-            <li>[] Signifies an optional argument</li>
-            <li>Order of input arguments matters in most cases; it is advised to use them in the
-                order they are presented here.</li>
-        </ul>
-        <h3>Normalization algorithm</h3>
+        <hr />
+        <h3>Appendix 1: Normalization algorithm</h3>
         <p>The original XML input is retained throughout and process and used in the eventual
             edition, but a normalized shadow view is created as follows:</p>
         <ol>
@@ -1391,23 +1340,23 @@ saxon pvl-tei.xml split-tei-into-collation-blocks.xsl
                 node intact.</li>
             <li>Remove the following elements entirely: <code>&lt;del&gt;</code>,
                     <code>&lt;gap&gt;</code>, <code>&lt;lacuna&gt;</code>, <code>&lt;lb&gt;</code>,
-                    <code>&lt;pb&gt;</code></li>
+                    <code>&lt;pb&gt;</code>.</li>
             <li>If a <code>&lt;choice&gt;</code> element is present, choose the second member of
                 each of the following pairs: (<code>&lt;sic&gt;</code>, <code>&lt;corr&gt;</code>),
                     (<code>&lt;orig&gt;</code>, <code>&lt;reg&gt;</code>),
                     (<code>&lt;abbr&gt;</code>, <code>&lt;expan&gt;</code>),
-                    (<code>&lt;seg&gt;</code>, <code>&lt;seg&gt;</code>)</li>
+                    (<code>&lt;seg&gt;</code>, <code>&lt;seg&gt;</code>).</li>
             <li>Ignore other markup, operating just on the data content of the words from now
                 on.</li>
             <li>Remove all punctuation.</li>
             <li>If at this point length of our text is 0, the node originally contained only
                 punctuation, so return a normalized value of <q>PUNC</q>. Otherwise, continue.</li>
-            <li>Check for presence of arabic numbers in the string. If any are found, transform them
-                to their cyrillic counterparts.</li>
+            <li>Check for presence of Arabic numbers in the string. If any are found, transform them
+                to their Cyrillic counterparts.</li>
             <li>Apply Soundex normalization, as modified for early Slavic Cyrillic writing (see the
                     <a href="#soundex">description of the Cyrillic-specific algorithm, below</a>),
                 as follows:<ol>
-                    <li>Apply orthograpic transformation rules outlined in <a
+                    <li>Apply orthographic transformation rules outlined in <a
                             href="../dev/soundex-rules.xml">soundex-rules.xml</a> in the following
                         order: <code>$manyToOne</code>, <code>$oneToMany</code>,
                             <code>$oneToOne</code>. This merges letterforms that frequently appear
@@ -1417,35 +1366,35 @@ saxon pvl-tei.xml split-tei-into-collation-blocks.xsl
                         description and history of Soundex at <a
                             href="http://en.wikipedia.org/wiki/Soundex"
                             >http://en.wikipedia.org/wiki/Soundex</a>).</li>
-                    <li>Eliminate vowels from <q>Special vowels</q> category from <a
+                    <li>Eliminate vowels from the <q>Special vowels</q> category in <a
                             href="../dev/vowels.xml">vowels.xml</a>, unless they are
-                        word-initial</li>
+                        word-initial.</li>
                     <li>Degeminate consonants (e.g., <q>нн</q> becomes <q>н</q>) and remove all
-                        vowels from the rest of the word. Note that word-initial letter is retained
-                        even if it is a vowel, but other vowels are eventually deleted.</li>
-                    <li>If the length of the resulting normalized is longer than 4, truncate it to
-                        4. If it’s less than 4, pad it with <q>X</q> (upper-case Latin letter)
+                        non-initial vowels from the rest of the word. Note that the word-initial
+                        letter is retained even if it is a vowel, but other vowels are eventually
+                        deleted.</li>
+                    <li>If the length of the resulting normalization is longer than 4, truncate it
+                        to 4. If it’s shorter than 4, pad it with <q>X</q> (upper-case Latin letter)
                         characters.</li>
                 </ol></li>
         </ol>
-        <hr />
-        <h3 id="soundex">Soundex normalization</h3>
+        <h3 id="soundex">Appendix 2: Soundex normalization</h3>
         <p>[Describe Soundex normalization here]</p>
-        <hr />
         <h3>Notes</h3>
         <ol>
-            <li id="note1"><sup>1</sup> Карский, Евфимий Федорович, ред. 1926. <cite>Лаврентьевская
-                    летопись.</cite> 2-е изд. Вып.1. <cite>Повесть временных лет.</cite> Ленинград:
+            <li id="note1">Карский, Евфимий Федорович, ред. 1926. <cite>Лаврентьевская
+                    летопись.</cite> 2-е изд. Вып. 1. <cite>Повесть временных лет.</cite> Ленинград:
                 АН СССР.</li>
-            <li id="note2"><sup>2</sup> Birnbaum, David J. 2000. In <q>A TEI-Compatible Edition of
-                    the Rusʹ Primary Chronicle.</q>
+            <li id="note2">Birnbaum, David J. 2000. In <q>A TEI-Compatible Edition of the Rusʹ
+                    Primary Chronicle.</q>
                 <cite>Medieval Slavic Manuscripts and SGML: Problems and Perspectives,</cite> ed.
                 Anisava Miltenova and David J. Birnbaum, 15–43. Sofia: Institute of Literature,
                 Bulgarian Academy of Sciences, Marin Drinov Publishing House.</li>
-            <li id="note3"><sup>3</sup> Birnbaum, David J. 2000. <q>The relationship between general
-                    and specific DTDs: criticizing TEI critical editions.</q>
+            <li id="note3">Birnbaum, David J. 2000. <q>The relationship between general and specific
+                    DTDs: criticizing TEI critical editions.</q>
                 <cite>Markup languages: theory and practice</cite> 3, no. 1:17–53. </li>
         </ol>
+        <hr />
         <p>PVL project site <a href="http://pvl.obdurodon.org">http://pvl.obdurodon.org</a>.
             CollateOS GitHub repository <a href="https://github.com/obdurodon/CollateOS"
                 >https://github.com/obdurodon/CollateOS</a>. Thanks to Ronald Dekker and the rest of
