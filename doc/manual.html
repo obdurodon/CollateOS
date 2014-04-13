@@ -1,6 +1,8 @@
 <!DOCTYPE html SYSTEM "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
+        <link rel="stylesheet" type="text/css" href="http://www.obdurodon.org/css/style.css" />
+        <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
         <!--#set var="title" value="Aligning the PVL with CollateOS" -->
         <!--#config timefmt="%Y-%m-%dT%X%z" -->
         <title>
@@ -27,6 +29,15 @@
             .collation-example th{
                 font-style:italic;
                 border-right:1px gray solid;
+            }
+            span.manuscripts,
+            span.editions,
+            span.lemma{
+                font-family:Bukyvede, BukyvedeWeb;
+                font-size:larger;
+                font-weight:normal;
+                color:black;
+                line-height:1.1em;
             }</style>
     </head>
     <body>
@@ -42,11 +53,12 @@
                 лет</cite> in modern Russian), a history of Rus′ that was compiled and edited
             several times before the early twelfth century, and that survives in manuscripts no
             earlier than 1377, which do not always agree with one another in their readings.
-            Collation is the process of aligning the variant readings in the manuscript witnesses so
-            that they can be compared, with the goal of determining the original text, as well its
-            subsequent history as it was copied repeatedly, with each copy introducing deliberate or
-            inadvertent deviations from the source text. The digital edition available at <a
-                href="http://collatex.net">http://pvl.obdurodon.org</a> is based on <a
+                <dfn>Collation</dfn> is the process of aligning the variant readings in the
+            manuscript witnesses so that they can be compared, with the goal of determining the
+            original text, as well its subsequent history as it was copied repeatedly, with each new
+            copy introducing deliberate or inadvertent deviations from its immediate source text.
+            The digital edition available at <a href="http://collatex.net"
+                >http://pvl.obdurodon.org</a> is based on <a
                 href="http://www.hup.harvard.edu/catalog.php?isbn=9780916458911"><cite>The Povest′
                     vremennykh let: An interlinear collation and paradosis</cite>, ed. Donald
                 Ostrowski, with David Birnbaum and Horace G. Lunt. (Harvard Ukrainian Research
@@ -62,42 +74,54 @@
             </li>
             <li><a href="http://saxon.sourceforge.net/">Saxon HE</a> (or other XSLT transformation
                 engine)</li>
-            <li>Auxiliary files: <a href="../dev/soundex-rules.xml">soundex-rules.xml</a>; <a
-                    href="../dev/vowels.xml">vowels.xml</a> (may be edited by user)</li>
         </ul>
         <h3>Pipeline</h3>
         <p>
             <img alt="[Pipeline]" src="pipeline1.png" style="width: 100%;" />
         </p>
-        <h4>1. Preprocessing XSLT</h4>
-        <p>If the documents are not in TEI format, with multiple witnesses being inside the same
-            document, convert the file to TEI using <a href="../dev/xml-to-tei.xsl"
-                >xml-to-tei.xsl</a>. With <a href="../dev/pvl.xml">pvl.xml</a> (warning: 9.2M) as
-            the input file, the output is <a href="../dev/pvl-tei.xml">pvl-tei.xml</a> (warning:
-            12M). The input is one XML document containing the full collation, of which the
-            following is a sample:</p>
-        <pre>&lt;block column="1" line="4"&gt;
+        <p>In the pipeline diagram above, the bottom tier lists the document formats: XML, JSON, and
+            HTML. The middle tier lists the programming languages used for each stage of the
+            transformation: XSLT and Python. The one item on the top tier indicates that CollateX, a
+            Java application, is launched by a Python program, and not directly by the user. There
+            is a wrapper script that enables the user to oipeline all of the Python processes with a
+            single command (see below).</p>
+        <h3>The original input</h3>
+        <p>The PVL source file, <a href="../dev/pvl.xml">pvl.xml</a> (9.2M), contains a line-level
+            (not word-level) collation of all manuscript witnesses, with the lineation based on E.
+            F. Karskijʹs 1926 edition of the Laurentian manuscript, which has come to be regarded as
+            the closest thing we have to a canonical reference system for the PVL.<sup><a
+                    href="#note1">1</a></sup> The information was originally marked up in <a
+                href="http://troff.org/">troff</a>, an old UNIX typesetting language, to support the
+            publication of the <a href="http://www.hup.harvard.edu/catalog.php?isbn=9780916458911"
+                >Harvard University Press print edition</a>. The troff files were subsequently
+            converted first to SGML<sup><a href="#note2">2</a></sup> and then to XML; the XML
+            version is now regarded as our archival source, and the locus where all corrections and
+            modification are made.</p>
+        <p>The following is a single collation block (one Karskij line) from the XML input file:</p>
+        <pre>&lt;!-- snip --&gt;
+&lt;block column="1" line="4"&gt;
     &lt;manuscripts&gt;
-        &lt;Lav&gt;персида. ватрь. тоже &lt;lb/&gt; и до индикиꙗ в долготу&lt;/Lav&gt;
-        &lt;Tro&gt;персида ватрь даже и до индикия в долготу&lt;/Tro&gt;
-        &lt;Rad&gt;персида. ватрь. доже и до ин&lt;sup&gt;д&lt;/sup&gt;икиа. в до&lt;lb/&gt;лготоу&lt;/Rad&gt;
-        &lt;Aka&gt;персїда. ватръ. до&lt;sup&gt;ж&lt;/sup&gt;и и до индикїа. в долготѹ &lt;lb/&gt;&lt;/Aka&gt;
-        &lt;Ipa&gt;перь&lt;lb/&gt;сида. ватрь. доже и до инь&lt;lb/&gt;дикиꙗ. в долготу&lt;/Ipa&gt;
-        &lt;Xle&gt;персида. ватръ. даже и до индикїа. въ &lt;lb/&gt; долготоу&lt;/Xle&gt;
+        &lt;Lav&gt;<span class="manuscripts">персида. ватрь. тоже </span>&lt;lb/&gt; <span class="manuscripts">и до индикиꙗ в долготу</span>&lt;/Lav&gt;
+        &lt;Tro&gt;<span class="manuscripts">персида ватрь даже и до индикия в долготу</span>&lt;/Tro&gt;
+        &lt;Rad&gt;<span class="manuscripts">персида. ватрь. доже и до ин</span>&lt;sup&gt;<span class="manuscripts">д</span>&lt;/sup&gt;<span class="manuscripts">икиа. в до</span>&lt;lb/&gt;<span class="manuscripts">лготоу</span>&lt;/Rad&gt;
+        &lt;Aka&gt;<span class="manuscripts">персїда. ватръ. до</span>&lt;sup&gt;<span class="manuscripts">ж</span>&lt;/sup&gt;<span class="manuscripts">и и до индикїа. в долготѹ </span>&lt;lb/&gt;&lt;/Aka&gt;
+        &lt;Ipa&gt;<span class="manuscripts">перь</span>&lt;lb/&gt;<span class="manuscripts">сида. ватрь. доже и до инь</span>&lt;lb/&gt;<span class="manuscripts">дикиꙗ. в долготу</span>&lt;/Ipa&gt;
+        &lt;Xle&gt;<span class="manuscripts">персида. ватръ. даже и до индикїа. въ </span>&lt;lb/&gt;<span class="manuscripts"> долготоу</span>&lt;/Xle&gt;
     &lt;/manuscripts&gt;
-    &lt;Bych&gt;Персида, Ватрь, доже и до Индикия в долготу,&lt;/Bych&gt;
-    &lt;Shakh&gt;Персида, Ватрь доже и до Индикия въ дълготу,&lt;/Shakh&gt;
-    &lt;Likh&gt;Персида, Ватрь, доже и до Индикия в долготу,&lt;/Likh&gt;
+    &lt;Bych&gt;<span class="editions">Персида, Ватрь, доже и до Индикия в долготу,</span>&lt;/Bych&gt;
+    &lt;Shakh&gt;<span class="editions">Персида, Ватрь доже и до Индикия въ дълготу,</span>&lt;/Shakh&gt;
+    &lt;Likh&gt;<span class="editions">Персида, Ватрь, доже и до Индикия в долготу,</span>&lt;/Likh&gt;
     &lt;paradosis&gt;
-        &lt;Ost&gt;Персида, Ватрь доже и до Индикия въ дълготу,&lt;/Ost&gt;
+        &lt;Ost&gt;<span class="lemma">Персида, Ватрь доже и до Индикия въ дълготу,</span>&lt;/Ost&gt;
     &lt;/paradosis&gt;
-&lt;/block&gt;</pre>
+&lt;/block&gt;
+&lt;!-- snip --&gt;</pre>
         <p>The edition lists manuscripts first (the principal manuscripts are <em>Lav</em>,
                 <em>Tro</em>, <em>Rad</em>, <em>Aka</em>, <em>Ipa</em>, and <em>Xle</em>; others are
             used selectively), then print editions (<em>Byč</em>, <em>Šax</em>, and <em>Lix</em>),
             and then our own reconstruction (<em>Ost</em>, which we translate <em>α</em> to before
             rendering). The XML input document can be converted to HTML in way that aligns the
-            manuscripts by line, but not by word within the lines. After conversion, the HTML for
+            manuscripts by line, but not by word within the lines; after conversion, the HTML for
             the preceding block looks like:</p>
         <div class="pre-colored">
             <h3>1, 4</h3>
@@ -150,58 +174,73 @@
                 </tbody>
             </table>
         </div>
-        <p>The problem CollateOS was designed to address was to convert a line-by-line alignment,
+        <h3>The problem</h3>
+        <p>The problem CollateOS was designed to address was to align manuscript witnesses on a
+            word-by-word level. Since for the PVL we had already performed manual alignment at the
+            line level, we treated each line block as a separate collation problem, thus leveraging
+            the initial coarse alignment and removing the possibility of misalignment that might
+            cross line blocks. Within our project, then, we converted the line-by-line alignment,
             like the one above, into a word-by-word one. Since the witnesses may disagree not only
-            in the spellings of the words, but also in insertions, deletions, and transpositions,
-            this is not a simple task, and it requires aligning the words in the witnesses not just
-            by position in the line, but also by their textual content. A simple Levenshtein
-            edit-distance adjustment is too crude for this task because not all variation is equally
-            important for alignment purposes, and normalization before collation must ignore
-            orthographic variation that is not textually significant while remaining attentive to
-            variation that philologists consider meaningful. The remainder of this paper describes
-            the process of applying intelligent normalization to the manuscript evidence in order to
-            obtain more accurate results from <a href="http://collatex.net">CollateX</a>.</p>
+            in the spellings of the words, but also in insertions, deletions, replacements, and
+            transpositions, this is not a simple task, and it requires aligning the words in the
+            witnesses not just by position in the line, but also by their textual content. A simple
+            Levenshtein edit-distance calculation is too crude for this task because not all
+            variation is equally important for alignment purposes, and intelligent normalization
+            before collation must ignore orthographic variation that is not textually significant
+            while remaining attentive to variation that philologists consider meaningful. The
+            remainder of this paper describes the process of applying intelligent normalization to
+            the manuscript evidence in order to obtain more accurate results from <a
+                href="http://collatex.net">CollateX</a>. The normalized version <em>shadows</em> the
+            original; it is used by CollateX to align the manuscripts, but the resulting edition
+            retains all original orthographic detail. </p>
+        <h3>Transformation 1: Custom XML to word-tagged TEI XML (XSLT)</h3>
+        <p>We first convert the initial custom XML markup to markup that is consistent with the
+            guidelines of the <a href="http://www.tei-c.org">Text encoding initiative (TEI)</a>
+            using <a href="../dev/xml-to-tei.xsl">xml-to-tei.xsl</a>. Our initial custom XML schema
+            and the TEI XML markup have different advantages; by authoring in the former and then
+            converting to the latter, we are able to use each at a stage in production where it is
+            most beneficial.<sup><a href="#note3">3</a></sup></p>
         <p>The output of the <a href="../dev/xml-to-tei.xsl">xml-to-tei.xsl</a> process looks
             like:</p>
         <pre>&lt;!-- snip --&gt;
 &lt;div type="block" n="4"&gt;
     &lt;p&gt;
         &lt;app&gt;
-            &lt;lem wit="#lem"&gt;Персида, Ватрь доже и до Индикия въ дълготу,&lt;/lem&gt;
+            &lt;lem wit="#lem"&gt;<span class="manuscripts">Персида, Ватрь доже и до Индикия въ дълготу,</span>&lt;/lem&gt;
             &lt;rdgGrp type="manuscripts"&gt;
-                &lt;rdg wit="#lav"&gt;персида. ватрь. тоже &lt;lb/&gt; и до индикиꙗ в долготу&lt;/rdg&gt;
-                &lt;rdg wit="#tro"&gt;персида ватрь даже и до индикия в долготу&lt;/rdg&gt;
-                &lt;rdg wit="#rad"&gt;персида. ватрь. доже и до ин&lt;hi rend="sup"&gt;д&lt;/hi&gt;икиа. в до&lt;lb/&gt;лготоу&lt;/rdg&gt;
-                &lt;rdg wit="#aka"&gt;персїда. ватръ. до&lt;hi rend="sup"&gt;ж&lt;/hi&gt;и и до индикїа. в долготѹ &lt;lb/&gt;
-                &lt;/rdg&gt;
-                &lt;rdg wit="#ipa"&gt;перь&lt;lb/&gt;сида. ватрь. доже и до инь&lt;lb/&gt;дикиꙗ. в долготу&lt;/rdg&gt;
-                &lt;rdg wit="#xle"&gt;персида. ватръ. даже и до индикїа. въ &lt;lb/&gt; долготоу&lt;/rdg&gt;
+                &lt;rdg wit="#lav"&gt;<span class="manuscripts">персида. ватрь. тоже </span>&lt;lb/&gt;<span class="manuscripts"> и до индикиꙗ в долготу</span>&lt;/rdg&gt;
+                &lt;rdg wit="#tro"&gt;<span class="manuscripts">персида ватрь даже и до индикия в долготу</span>&lt;/rdg&gt;
+                &lt;rdg wit="#rad"&gt;<span class="manuscripts">персида. ватрь. доже и до ин</span>&lt;hi rend="sup"&gt;<span class="manuscripts">д</span>&lt;/hi&gt;<span class="manuscripts">икиа. в до</span>&lt;lb/&gt;<span class="manuscripts">лготоу</span>&lt;/rdg&gt;
+                &lt;rdg wit="#aka"&gt;<span class="manuscripts">персїда. ватръ. до</span>&lt;hi rend="sup"&gt;<span class="manuscripts">ж</span>&lt;/hi&gt;<span class="manuscripts">и и до индикїа. в долготѹ </span>&lt;lb/&gt;&lt;/rdg&gt;
+                &lt;rdg wit="#ipa"&gt;<span class="manuscripts">перь</span>&lt;lb/&gt;<span class="manuscripts">сида. ватрь. доже и до инь</span>&lt;lb/&gt;<span class="manuscripts">дикиꙗ. в долготу</span>&lt;/rdg&gt;
+                &lt;rdg wit="#xle"&gt;<span class="manuscripts">персида. ватръ. даже и до индикїа. въ </span>&lt;lb/&gt;<span class="manuscripts"> долготоу</span>&lt;/rdg&gt;
             &lt;/rdgGrp&gt;
             &lt;rdgGrp type="editions"&gt;
-                &lt;rdg wit="#bych"&gt;Персида, Ватрь, доже и до Индикия в долготу,&lt;/rdg&gt;
-                &lt;rdg wit="#shakh"&gt;Персида, Ватрь доже и до Индикия въ дълготу,&lt;/rdg&gt;
-                &lt;rdg wit="#likh"&gt;Персида, Ватрь, доже и до Индикия в долготу,&lt;/rdg&gt;
+                &lt;rdg wit="#bych"&gt;<span class="editions">Персида, Ватрь, доже и до Индикия в долготу,</span>&lt;/rdg&gt;
+                &lt;rdg wit="#shakh"&gt;<span class="editions">Персида, Ватрь доже и до Индикия въ дълготу,</span>&lt;/rdg&gt;
+                &lt;rdg wit="#likh"&gt;<span class="editions">Персида, Ватрь, доже и до Индикия в долготу,</span>&lt;/rdg&gt;
             &lt;/rdgGrp&gt;
         &lt;/app&gt;
     &lt;/p&gt;
 &lt;/div&gt;
 &lt;!-- snip --&gt;</pre>
-        <p>Then split the different blocks into separate files, using <a
+        <p>We next split the different blocks into separate files, using <a
                 href="../dev/split-tei-into-collation-blocks.xsl"
                 >split-tei-into-collation-blocks.xsl</a>, which creates a separate TEI file for each
             block, writing them into a <q>blocks</q> subdirectory. Filenames take the form
                 <em>xxxx_xxxx_xxxx.xml</em>, where the first <q>xxxx</q> is a decimal number
-            representing the order of the block in the entire edition, the second is the column
-            number, and the third is the line number. For example, <q>7981_0277_0028.xml</q> is the
-            7981st file and represents column 277, line 28. (Line numbers may also contain hyphens
-            and letters, about which see pp. lxxv–lxxvi of the <a
-                href="http://hudce7.harvard.edu/~ostrowski/pvl/techpref.pdf">Principles of
+            representing the order of the block in the entire edition, the second is the Karskij
+            column number, and the third is the Karskij line number. For example,
+                <q>7981_0277_0028.xml</q> is the 7981st file and represents column 277, line 28.
+            (Line numbers may also contain hyphens and letters, about which see pp. lxxv–lxxvi of
+            the <a href="http://hudce7.harvard.edu/~ostrowski/pvl/techpref.pdf">Principles of
                 transcription</a> of the 2003 Harvard University Press print edition.)</p>
-        <p>Wrap <code>&lt;w&gt;</code> tags around the individual words using <a
-                href="../dev/add-word-markup.xsl">add-word-markup.xsl</a>, which we run from a shell
-            script, <a href="../dev/add-word-markup">add-word-markup</a>, and which writes the
-            results into a <q>blocks/word-tagged</q> folder. The word-tagged version of the block
-            above is:</p>
+        <p>Tokenization for our alignment purposes is not as simple as splitting the input files on
+            white space, we next use <a href="../dev/add-word-markup.xsl">add-word-markup.xsl</a> to
+            wrap <code>&lt;w&gt;</code> tags around the individual words using. We run this from a
+            shell script, <a href="../dev/add-word-markup">add-word-markup</a>, which iterates over
+            the 8239 blocks and writes the results into a <q>blocks/word-tagged</q> subfolder. The
+            word-tagged version of the block above is:</p>
         <pre>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
 &lt;TEI xmlns="http://www.tei-c.org/ns/1.0"&gt;
     &lt;teiHeader&gt;
@@ -224,113 +263,113 @@
                 &lt;p&gt;
                     &lt;app&gt;
                         &lt;lem wit="#lem"&gt;
-                            &lt;w n="1,4"&gt;Персида,&lt;/w&gt;
-                            &lt;w n="1,4"&gt;Ватрь&lt;/w&gt;
-                            &lt;w n="1,4"&gt;доже&lt;/w&gt;
-                            &lt;w n="1,4"&gt;и&lt;/w&gt;
-                            &lt;w n="1,4"&gt;до&lt;/w&gt;
-                            &lt;w n="1,4"&gt;Индикия&lt;/w&gt;
-                            &lt;w n="1,4"&gt;въ&lt;/w&gt;
-                            &lt;w n="1,4"&gt;дълготу,&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">Персида,</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">Ватрь</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">доже</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">и</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">до</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">Индикия</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">въ</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">дълготу,</span>&lt;/w&gt;
                         &lt;/lem&gt;
 
                         &lt;rdg wit="#lav"&gt;
-                            &lt;w n="1,4"&gt;персида.&lt;/w&gt;
-                            &lt;w n="1,4"&gt;ватрь.&lt;/w&gt;
-                            &lt;w n="1,4"&gt;тоже &lt;lb/&gt;&lt;/w&gt;
-                            &lt;w n="1,4"&gt;и&lt;/w&gt;
-                            &lt;w n="1,4"&gt;до&lt;/w&gt;
-                            &lt;w n="1,4"&gt;индикиꙗ&lt;/w&gt;
-                            &lt;w n="1,4"&gt;в&lt;/w&gt;
-                            &lt;w n="1,4"&gt;долготу&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">персида.</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">ватрь.</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">тоже &lt;lb/&gt;</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">и</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">до</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">индикиꙗ</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">в</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">долготу</span>&lt;/w&gt;
                         &lt;/rdg&gt;
 
                         &lt;rdg wit="#tro"&gt;
-                            &lt;w n="1,4"&gt;персида&lt;/w&gt;
-                            &lt;w n="1,4"&gt;ватрь&lt;/w&gt;
-                            &lt;w n="1,4"&gt;даже&lt;/w&gt;
-                            &lt;w n="1,4"&gt;и&lt;/w&gt;
-                            &lt;w n="1,4"&gt;до&lt;/w&gt;
-                            &lt;w n="1,4"&gt;индикия&lt;/w&gt;
-                            &lt;w n="1,4"&gt;в&lt;/w&gt;
-                            &lt;w n="1,4"&gt;долготу&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">персида</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">ватрь</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">даже</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">и</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">до</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">индикия</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">в</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">долготу</span>&lt;/w&gt;
                         &lt;/rdg&gt;
 
                         &lt;rdg wit="#rad"&gt;
-                            &lt;w n="1,4"&gt;персида.&lt;/w&gt;
-                            &lt;w n="1,4"&gt;ватрь.&lt;/w&gt;
-                            &lt;w n="1,4"&gt;доже&lt;/w&gt;
-                            &lt;w n="1,4"&gt;и&lt;/w&gt;
-                            &lt;w n="1,4"&gt;до&lt;/w&gt;
-                            &lt;w n="1,4"&gt;ин&lt;hi rend="sup"&gt;д&lt;/hi&gt;икиа.&lt;/w&gt;
-                            &lt;w n="1,4"&gt;в&lt;/w&gt;
-                            &lt;w n="1,4"&gt;до&lt;lb/&gt;лготоу&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">персида.</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">ватрь.</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">доже</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">и</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">до</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">ин</span>&lt;hi rend="sup"&gt;<span class="manuscripts">д</span>&lt;/hi&gt;<span class="manuscripts">икиа.</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">в</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">до&lt;lb/&gt;лготоу</span>&lt;/w&gt;
                         &lt;/rdg&gt;
 
                         &lt;rdg wit="#aka"&gt;
-                            &lt;w n="1,4"&gt;персїда.&lt;/w&gt;
-                            &lt;w n="1,4"&gt;ватръ.&lt;/w&gt;
-                            &lt;w n="1,4"&gt;до&lt;hi rend="sup"&gt;ж&lt;/hi&gt;и&lt;/w&gt;
-                            &lt;w n="1,4"&gt;и&lt;/w&gt;
-                            &lt;w n="1,4"&gt;до&lt;/w&gt;
-                            &lt;w n="1,4"&gt;индикїа.&lt;/w&gt;
-                            &lt;w n="1,4"&gt;в&lt;/w&gt;
-                            &lt;w n="1,4"&gt;долготѹ &lt;lb/&gt;&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">персїда.</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">ватръ.</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">до</span>&lt;hi rend="sup"&gt;<span class="manuscripts">ж</span>&lt;/hi&gt;<span class="manuscripts">и</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">и</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">до</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">индикїа.</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">в</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">долготѹ </span>&lt;lb/&gt;&lt;/w&gt;
                         &lt;/rdg&gt;
 
                         &lt;rdg wit="#ipa"&gt;
-                            &lt;w n="1,4"&gt;перь&lt;lb/&gt;сида.&lt;/w&gt;
-                            &lt;w n="1,4"&gt;ватрь.&lt;/w&gt;
-                            &lt;w n="1,4"&gt;доже&lt;/w&gt;
-                            &lt;w n="1,4"&gt;и&lt;/w&gt;
-                            &lt;w n="1,4"&gt;до&lt;/w&gt;
-                            &lt;w n="1,4"&gt;инь&lt;lb/&gt;дикиꙗ.&lt;/w&gt;
-                            &lt;w n="1,4"&gt;в&lt;/w&gt;
-                            &lt;w n="1,4"&gt;долготу&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">перь</span>&lt;lb/&gt;<span class="manuscripts">сида.</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">ватрь.</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">доже</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">и</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">до</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">инь</span>&lt;lb/&gt;<span class="manuscripts">дикиꙗ.</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">в</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">долготу</span>&lt;/w&gt;
                         &lt;/rdg&gt;
 
                         &lt;rdg wit="#xle"&gt;
-                            &lt;w n="1,4"&gt;персида.&lt;/w&gt;
-                            &lt;w n="1,4"&gt;ватръ.&lt;/w&gt;
-                            &lt;w n="1,4"&gt;даже&lt;/w&gt;
-                            &lt;w n="1,4"&gt;и&lt;/w&gt;
-                            &lt;w n="1,4"&gt;до&lt;/w&gt;
-                            &lt;w n="1,4"&gt;индикїа.&lt;/w&gt;
-                            &lt;w n="1,4"&gt;въ &lt;lb/&gt;&lt;/w&gt;
-                            &lt;w n="1,4"&gt;долготоу&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">персида.</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">ватръ.</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">даже</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">и</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">до</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">индикїа.</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">въ </span>&lt;lb/&gt;&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">долготоу</span>&lt;/w&gt;
                         &lt;/rdg&gt;
 
                         &lt;rdg wit="#bych"&gt;
-                            &lt;w n="1,4"&gt;Персида,&lt;/w&gt;
-                            &lt;w n="1,4"&gt;Ватрь,&lt;/w&gt;
-                            &lt;w n="1,4"&gt;доже&lt;/w&gt;
-                            &lt;w n="1,4"&gt;и&lt;/w&gt;
-                            &lt;w n="1,4"&gt;до&lt;/w&gt;
-                            &lt;w n="1,4"&gt;Индикия&lt;/w&gt;
-                            &lt;w n="1,4"&gt;в&lt;/w&gt;
-                            &lt;w n="1,4"&gt;долготу,&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">Персида,</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">Ватрь,</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">доже</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">и</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">до</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">Индикия</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">в</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">долготу,</span>&lt;/w&gt;
                         &lt;/rdg&gt;
 
                         &lt;rdg wit="#shakh"&gt;
-                            &lt;w n="1,4"&gt;Персида,&lt;/w&gt;
-                            &lt;w n="1,4"&gt;Ватрь&lt;/w&gt;
-                            &lt;w n="1,4"&gt;доже&lt;/w&gt;
-                            &lt;w n="1,4"&gt;и&lt;/w&gt;
-                            &lt;w n="1,4"&gt;до&lt;/w&gt;
-                            &lt;w n="1,4"&gt;Индикия&lt;/w&gt;
-                            &lt;w n="1,4"&gt;въ&lt;/w&gt;
-                            &lt;w n="1,4"&gt;дълготу,&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">Персида,</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">Ватрь</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">доже</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">и</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">до</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">Индикия</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">въ</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">дълготу,</span>&lt;/w&gt;
                         &lt;/rdg&gt;
 
                         &lt;rdg wit="#likh"&gt;
-                            &lt;w n="1,4"&gt;Персида,&lt;/w&gt;
-                            &lt;w n="1,4"&gt;Ватрь,&lt;/w&gt;
-                            &lt;w n="1,4"&gt;доже&lt;/w&gt;
-                            &lt;w n="1,4"&gt;и&lt;/w&gt;
-                            &lt;w n="1,4"&gt;до&lt;/w&gt;
-                            &lt;w n="1,4"&gt;Индикия&lt;/w&gt;
-                            &lt;w n="1,4"&gt;в&lt;/w&gt;
-                            &lt;w n="1,4"&gt;долготу,&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">Персида,</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">Ватрь,</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">доже</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">и</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">до</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">Индикия</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">в</span>&lt;/w&gt;
+                            &lt;w n="1,4"&gt;<span class="manuscripts">долготу,</span>&lt;/w&gt;
                         &lt;/rdg&gt;
                     &lt;/app&gt;
                 &lt;/p&gt;
@@ -338,32 +377,36 @@
         &lt;/body&gt;
     &lt;/text&gt;
 &lt;/TEI&gt;</pre>
-        <p>The procedure, run from a directory that contains the original <a href="../dev/pvl.xml"
-                >pvl.xml</a> file (warning: 9.2M), is:</p>
+        <p>The entire initial XML-to-XML conversion procedure, run from a directory that contains
+            the original custom XML file, is:</p>
         <pre>saxon -o:pvl-tei.xml -s:pvl.xml -xsl:xml-to-tei.xsl
 saxon pvl-tei.xml split-tei-into-collation-blocks.xsl
 ./add-word-markup</pre>
-        <h4>2. Scripts</h4>
-        <h5>2.1. Descriptions</h5>
+        <h3>Transformation 2: Word-tagged TEI XML to word-aligned XML</h3>
+        <p>We transform the word-tagged TEI XML to word-aligned XML by piping it through three
+            Python programs, which we invoke using a single wrapper program:</p>
         <ul>
-            <li>XMLToJSON.py - Iterates through word-tagged files in the specified input folder and
-                transforms them to JSON that can be read by CollateX.</li>
-            <li>XMLSToJSON.py - Same as above, but for input that has been split into separate files
-                for each manuscript witness. Not used in this example.</li>
-            <li>runCollatex.py - Iterates through the JSON files in the specified input directory
-                uses them as input to CollateX. Output is another JSON file.</li>
-            <li>JSONToXML.py - Iterates through JSON files produced by CollateX, creating an XML
-                file from each.</li>
-            <li>Preprocessing.py - Applies Soundex normalization rules (see <a href="#soundex"
-                    >below</a>) to the contents of each &lt;w&gt; tag. This module is called by
-                other scripts, and is not intended to be run directly by the user.</li>
-            <li>Wrapper.py - Calls either XMLToJSON.py or XMLSToJSON.py, followed by runCollatex.py,
-                followed by JSONToXML.py, alleviating the need to run three separate scripts. The
-                specification of XMLToJSON.py or XMLSToJSON.py is not case-sensitive.</li>
+            <li><a href="../dev/XMLtoJSON.py">XMLtoJSON.py</a> iterates through word-tagged TEI XML
+                files in the specified input folder and transforms them to JSON in a form that can
+                be read by CollateX.</li>
+            <li><a href="../dev/runCollatex.py">runCollatex.py</a> iterates through the JSON files
+                in the specified input directory (created as output to the preceding step) and
+                spawns a CollateX process for each of the JSON files. The output of the CollateX
+                process is another JSON file.</li>
+            <li><a href="JSONtoXML.py">JSONtoXML.py</a> iterates through JSON files produced by
+                CollateX and creates an XML file from each.</li>
         </ul>
-        <p>To process files in the <q>blocks</q> subdirectory of the current working directory,
-            run:</p>
-        <pre>python /path-to-scripts/wrapper.py xmltojson.py -new -i blocks</pre>
+        <p>The programs above call <a href="../dev/Preprocessing.py">Preprocessing.py</a>, which
+            applies Soundex normalization rules (see <a href="#soundex">below</a>) to each token,
+            creating a shadow version that will be used by CollateX to generate the aligned output.
+            This module is called only by other scripts, and is not intended to be run directly by
+            the user.</p>
+        <p>The three Python programs can be run by a wrapper program, <a href="../dev/wrapper.py"
+                >Wrapper.py</a>, which calls <a href="../dev/XMLtoJSON.py">XMLtoJSON.py</a>, pipes
+            the output to <a href="../dev/runCollatex.py">runCollatex.py</a>, and then pipes that
+            output to <a href="../dev/JSONtoXML.py">JSONtoXML.py</a>. To process all XML input files
+            in the <q>blocks</q> subdirectory of the current working directory, run:</p>
+        <pre>python /path-to-scripts/wrapper.py XMLtoJSON.py -new -i blocks</pre>
         <p>The <em>-new</em> switch creates a <q>collatexOutput</q> folder in the original input
             directory and writes the output there, so as not to overwrite input and interim files.
             When the smoke clears, <q>blocks</q> will contain the original word-tagged XML input
@@ -1389,6 +1432,20 @@ saxon pvl-tei.xml split-tei-into-collation-blocks.xsl
         <h3 id="soundex">Soundex normalization</h3>
         <p>[Describe Soundex normalization here]</p>
         <hr />
+        <h3>Notes</h3>
+        <ol>
+            <li id="note1"><sup>1</sup> Карский, Евфимий Федорович, ред. 1926. <cite>Лаврентьевская
+                    летопись.</cite> 2-е изд. Вып.1. <cite>Повесть временных лет.</cite> Ленинград:
+                АН СССР.</li>
+            <li id="note2"><sup>2</sup> Birnbaum, David J. 2000. In <q>A TEI-Compatible Edition of
+                    the Rusʹ Primary Chronicle.</q>
+                <cite>Medieval Slavic Manuscripts and SGML: Problems and Perspectives,</cite> ed.
+                Anisava Miltenova and David J. Birnbaum, 15–43. Sofia: Institute of Literature,
+                Bulgarian Academy of Sciences, Marin Drinov Publishing House.</li>
+            <li id="note3"><sup>3</sup> Birnbaum, David J. 2000. <q>The relationship between general
+                    and specific DTDs: criticizing TEI critical editions.</q>
+                <cite>Markup languages: theory and practice</cite> 3, no. 1:17–53. </li>
+        </ol>
         <p>PVL project site <a href="http://pvl.obdurodon.org">http://pvl.obdurodon.org</a>.
             CollateOS GitHub repository <a href="https://github.com/obdurodon/CollateOS"
                 >https://github.com/obdurodon/CollateOS</a>. Thanks to Ronald Dekker and the rest of
