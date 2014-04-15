@@ -1,0 +1,23 @@
+Questions:
+Do we pad short word with X? Answer: yes
+Do we remove vowels from short words?
+Do we leave edit distance on in CollateX?
+(If we remove vowels from short words and leave ED on, everything matches.)
+
+Try: 
+Keep vowels in 1- and 2-letter words, but pad with X
+Leave edit distance on
+Doesn't fix m-words in 9,2
+Postprocess to catch remaining mismatches:
+
+Algorithm:
+In blocks that have gaps, rows without gaps define possible values for columns (get rid of duplicate values)
+In rows that have gaps, compare ED of word preceding gap from all possible values in that column and the following on, place the word with the closest fit
+
+Test cases:
+3,5: edit distance (Thracians)
+9,2: short matches; m-words
+12,21: overlapping transpositions
+
+David will do:
+Fix type on 9,2 (po)
