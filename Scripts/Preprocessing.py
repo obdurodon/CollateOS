@@ -189,7 +189,8 @@ def conflate(w): # main function that calls all of the above. Currently under re
     word = applyRule(word, oneToMany)
     word = applyRule(word, oneToOne)
     if len(word) < 3:
-        return word
+        return padWithXs(word)
+    
 # entirely eliminating vowels in the special category from all words
     temp = word[0]
     for char in word[1:]:
