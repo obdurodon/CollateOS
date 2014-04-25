@@ -20,7 +20,7 @@ def levenshtein(s1, s2):
  
     return previous_row[-1]
 
-f = minidom.parse(r'C:\Users\Minas\Documents\GitHub\CollateOS\pvl\blocks\collatexOutput\0165_0009_0002.xml')
+f = minidom.parse(r'../pvl/blocks/collatexOutput/0165_0009_0002.xml')
 blocks = f.getElementsByTagName('block')
 
 for block in xrange(len(blocks)):
