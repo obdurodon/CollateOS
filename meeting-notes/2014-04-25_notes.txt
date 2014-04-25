@@ -1,0 +1,14 @@
+Problem areas where CollateX misaligns
+9,9 misaligns a perfect match
+9,12 needs to move two columns
+9,19 mismatches synonyms that share no characters (dictionary?)
+9,23 needs to move several words in Tro to the left; CollateX pseudo-edit-distance may be screwing it up (try turning it off)
+10,6 alignment of tsar/tsEsar
+
+David will do:
+djb needs to fix sja in paradosis!
+
+Minas will do:
+Turn off Levenshtein in CollateX: remove -l and -lt1 switches
+Stop padding Soundex with 'X'
+Postprocess
