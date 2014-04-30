@@ -87,15 +87,8 @@ def degeminate(word): #turn consecutively repeating characters in a word into si
             output += char
     return output
 
-def padWithXs(word): # cut the soundex representation down to 4 chars long, or pad it up to being 4 using 0s if it's less than 4
-    """Helper function to conflate. Pads words with zeroes or cuts them off to have all words be 4 charslong"""
-    word = word.replace(' ', '')
-    if len(word) < 4:
-        return word + 'X'*(4-len(word))
-    elif len(word) > 4:
-        return word[:4]
-    else:
-        return word
+def truncate(word): #cut down to at most 4 characters
+    return word.replace(' ', '')[:4]
 
 digits = {'1': u'а', '2': u'в', '3': u'г', '4': u'д', '5': u'е', '6': u'ѕ', '7': u'ӡ', '8': u'і', '9': u'ѳ'}
 tens = {'1': u'і', '2': u'к', '3': u'л', '4': u'м', '5': u'н', '6': u'ѯ', '7': u'о', '8': u'п', '9': u'ч'}
@@ -189,7 +182,7 @@ def conflate(w): # main function that calls all of the above. Currently under re
     word = applyRule(word, oneToMany)
     word = applyRule(word, oneToOne)
     if len(word) < 3:
-        return padWithXs(word)
+        return word
     
 # entirely eliminating vowels in the special category from all words
     temp = word[0]
@@ -205,4 +198,4 @@ def conflate(w): # main function that calls all of the above. Currently under re
     for char in degeminated[1:]: #Append only consonants starting at the char in position 1
         if not char in vowelList:
             newWord += char
-    return padWithXs(newWord)
+    return truncate(newWord)
