@@ -1,95 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>239, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="239"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="239,1">недѣля</w>
-<w n="239,1">поста,</w>
-<w n="239,1">и</w>
-<w n="239,1">приспѣ</w>
-<w n="239,1">Феодорова</w>
-<w n="239,1">субота,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="239,1">не<hi rend="sup">д</hi>лѧ</w>
-<w n="239,1">поста· <lb/></w>
-
-<w n="239,1">и</w>
-<w n="239,1">приспѣ</w>
-<w n="239,1">ѳеѡдорава</w>
-<w n="239,1">су<hi rend="sup">б</hi>та· <lb/></w>
-
-<w n="239,1">а</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="239,1">не<hi rend="sup">д</hi>лѧ·</w>
-<w n="239,1">ст҃го</w>
-<w n="239,1">по<hi rend="sup">с</hi>.</w>
-<w n="239,1">и</w>
-<w n="239,1">приспѣ</w>
-<w n="239,1">фе<hi rend="sup">д</hi>рова</w>
-<w n="239,1">сѹбота <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="239,1">недѣлѧ·</w>
-<w n="239,1">ст҃о</w>
-<w n="239,1">поста·</w>
-<w n="239,1">и</w>
-<w n="239,1">приспѣ</w>
-<w n="239,1">феѡдоро<lb/>ва</w>
-<w n="239,1">сѹбота·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="239,1">недѣлѧ</w>
-<w n="239,1"><milestone unit="add" n="start" place="margin"/>·а҃·<milestone unit="add" n="end"/></w>
-<w n="239,1">поста·</w>
-<w n="239,1">и</w>
-<w n="239,1">приспѣ</w>
-<w n="239,1">федо<lb/>рова</w>
-<w n="239,1">субота·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="239,1">не<hi rend="sup">д</hi>лѧ</w>
-<w n="239,1">поста.</w>
-<w n="239,1">и</w>
-<w n="239,1">приспѣ</w>
-<w n="239,1">ѳе<hi rend="sup">д</hi>ѡ<hi rend="sup">о</hi>рова</w>
-<w n="239,1">сѫбота.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="239,1">недѣля</w>
-<w n="239,1">поста,</w>
-<w n="239,1">и</w>
-<w n="239,1">приспѣ</w>
-<w n="239,1">Феодорава</w>
-<w n="239,1">субота,</w>
-<w n="239,1">а</w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="239,1">недѣля</w>
-<w n="239,1">поста,</w>
-<w n="239,1">и</w>
-<w n="239,1">приспѣ</w>
-<w n="239,1">Феодорова</w>
-<w n="239,1">субота;</w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="239,1">недѣля</w>
-<w n="239,1">поста,</w>
-<w n="239,1">и</w>
-<w n="239,1">приспѣ</w>
-<w n="239,1">Феодорава</w>
-<w n="239,1">субота,</w>
-<w n="239,1">а</w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>239, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="239"/><div type="block" n="1"><p><app><lem wit="#lem">
+            недѣля поста, и приспѣ Феодорова субота,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">не<hi rend="sup">д</hi>лѧ поста· <lb/> и приспѣ ѳеѡдорава су<hi rend="sup">б</hi>та· <lb/> а</rdg>
+            <rdg wit="#rad">не<hi rend="sup">д</hi>лѧ· ст҃го по<hi rend="sup">с</hi>. и приспѣ фе<hi rend="sup">д</hi>рова сѹбота
+                <lb/></rdg>
+            <rdg wit="#aka">недѣлѧ· ст҃о поста· и приспѣ феѡдоро<lb/>ва сѹбота·</rdg>
+            <rdg wit="#ipa">недѣлѧ <add place="margin">·а҃·</add> поста· и приспѣ федо<lb/>рова субота·</rdg>
+            <rdg wit="#xle">не<hi rend="sup">д</hi>лѧ поста. и приспѣ ѳе<hi rend="sup">д</hi>ѡ<hi rend="sup">о</hi>рова сѫбота.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">недѣля поста, и приспѣ Феодорава субота, а <add place="margin">230,21</add></rdg><rdg wit="#shakh">недѣля поста, и приспѣ Феодорова субота; <add place="margin">298,1</add></rdg><rdg wit="#likh">недѣля поста, и приспѣ Феодорава субота, а <add place="margin">169,26</add></rdg></rdgGrp></app></p></div></body></text></TEI>

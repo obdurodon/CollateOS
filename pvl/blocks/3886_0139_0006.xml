@@ -1,80 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>139, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="139"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-<w n="139,6">въ</w>
-<w n="139,6">славу</w>
-<w n="139,6">мученикомъ.</w>
-<w n="139,6">Радуита</w>
-<w n="139,6">ся,</w>
-<w n="139,6">свѣтлѣи</w>
-<w n="139,6">звѣздѣ,</w>
-</lem>
-
-<rdg wit="#lav">
-
-<w n="139,6">радуитасѧ <lb/></w>
-
-<w n="139,6">свѣтлѣи</w>
-<w n="139,6">звѣздѣ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="139,6">въ</w>
-<w n="139,6">славѹ</w>
-<w n="139,6">мѹ<lb/>ченикомъ.</w>
-<w n="139,6">ра<hi rend="sup">д</hi>уита<hi rend="sup">с</hi></w>
-<w n="139,6">свѣтлеи</w>
-<w n="139,6">звездѣ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="139,6">въ</w>
-<w n="139,6">славѹ</w>
-<w n="139,6">мч҃нко<lb/>мъ.</w>
-<w n="139,6">радѹитасѧ</w>
-<w n="139,6">свѣтлѣи</w>
-<w n="139,6">звѣздѣ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="139,6">ваю</w>
-<w n="139,6">му<lb/>ченикомъ.</w>
-<w n="139,6">радуитасѧ</w>
-<w n="139,6">свѣ<lb/>тлѣи</w>
-<w n="139,6">звѣздѣ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="139,6">въ</w>
-<w n="139,6">славоу</w>
-<w n="139,6">мч҃нкѡ<hi rend="sup">м</hi>.</w>
-<w n="139,6">ра<hi rend="sup">д</hi>уитасѧ</w>
-<w n="139,6">свѣтлѣи</w>
-<w n="139,6">ѕвѣздѣ <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="139,6">въ</w>
-<w n="139,6">славу</w>
-<w n="139,6">мученика.</w>
-<w n="139,6">Радуйтася,</w>
-<w n="139,6">свѣтлѣи</w>
-<w n="139,6">звѣздѣ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="139,6">въ</w>
-<w n="139,6">славу</w>
-<w n="139,6">мученикомъ.</w>
-<w n="139,6">Радуитася,</w>
-<w n="139,6">свѣтлѣи</w>
-<w n="139,6">звѣздѣ,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="139,6">Радуйтася,</w>
-<w n="139,6">свѣтлѣи</w>
-<w n="139,6">звѣздѣ,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>139, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="139"/><div type="block" n="6"><p><app><lem wit="#lem">
+            въ славу мученикомъ. Радуита ся, свѣтлѣи звѣздѣ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">. радуитасѧ <lb/> свѣтлѣи звѣздѣ</rdg>
+            <rdg wit="#rad">въ славѹ мѹ<lb/>ченикомъ. ра<hi rend="sup">д</hi>уита<hi rend="sup">с</hi> свѣтлеи звездѣ.</rdg>
+            <rdg wit="#aka">въ славѹ мч҃нко<lb/>мъ. радѹитасѧ свѣтлѣи звѣздѣ.</rdg>
+            <rdg wit="#ipa">ваю му<lb/>ченикомъ. радуитасѧ свѣ<lb/>тлѣи звѣздѣ.</rdg>
+            <rdg wit="#xle">въ славоу мч҃нкѡ<hi rend="sup">м</hi>. ра<hi rend="sup">д</hi>уитасѧ свѣтлѣи ѕвѣздѣ <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">въ славу мученика. Радуйтася, свѣтлѣи звѣздѣ,</rdg><rdg wit="#shakh">въ славу мученикомъ. Радуитася, свѣтлѣи звѣздѣ,</rdg><rdg wit="#likh">Радуйтася, свѣтлѣи звѣздѣ,</rdg></rdgGrp></app></p></div></body></text></TEI>

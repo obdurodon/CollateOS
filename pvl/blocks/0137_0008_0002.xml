@@ -1,97 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>8, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="8"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-<w n="8,2">устие</w>
-<w n="8,2">Дънѣпрьское,</w>
-<w n="8,2">и</w>
-<w n="8,2">въсхотѣ</w>
-<w n="8,2">поити</w>
-<w n="8,2">въ</w>
-<w n="8,2">Римъ,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="8,2">оустье</w>
-<w n="8,2">днѣпрьское.</w>
-<w n="8,2">въсхотѣ</w>
-<w n="8,2">по<lb/>ити</w>
-<w n="8,2">в</w>
-<w n="8,2">римъ</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="8,2">оустье</w>
-<w n="8,2">днѣпрьское</w>
-<w n="8,2">и</w>
-<w n="8,2">въсхотѣ</w>
-<w n="8,2">ити</w>
-<w n="8,2">в</w>
-<w n="8,2">ри<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="8,2">оустье</w>
-<w n="8,2">днѣпрьское</w>
-<w n="8,2">и</w>
-<w n="8,2">восхотѣ</w>
-<w n="8,2">ити</w>
-<w n="8,2">в</w>
-<w n="8,2">ри<hi rend="sup">м</hi>. <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="8,2">оустье</w>
-<w n="8,2">дь<lb/>нѣпръское.</w>
-<w n="8,2">и</w>
-<w n="8,2">въсхотѣ <lb/></w>
-
-<w n="8,2">поити</w>
-<w n="8,2">в</w>
-<w n="8,2">римъ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="8,2">оустье</w>
-<w n="8,2">днѣпрьское. <lb/></w>
-
-<w n="8,2">и</w>
-<w n="8,2">въсхотѣ</w>
-<w n="8,2">поити</w>
-<w n="8,2">в</w>
-<w n="8,2">ри<hi rend="sup">м</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="8,2">устье</w>
-<w n="8,2">Днѣпрьское,</w>
-<w n="8,2">и</w>
-<w n="8,2">въсхотѣ</w>
-<w n="8,2">поити</w>
-<w n="8,2">в</w>
-<w n="8,2">Римъ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="8,2">устие</w>
-<w n="8,2">Дънѣпрьское,</w>
-<w n="8,2">и</w>
-<w n="8,2">въсхотѣ</w>
-<w n="8,2">поити</w>
-<w n="8,2">въ</w>
-<w n="8,2">Римъ,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="8,2">устье</w>
-<w n="8,2">Днѣпрьское,</w>
-<w n="8,2">и</w>
-<w n="8,2">въсхотѣ</w>
-<w n="8,2">поити</w>
-<w n="8,2">в</w>
-<w n="8,2">Римъ,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>8, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="8"/><div type="block" n="2"><p><app><lem wit="#lem">
+            устие Дънѣпрьское, и въсхотѣ поити въ Римъ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">оустье днѣпрьское. въсхотѣ по<lb/>ити в римъ</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">оустье днѣпрьское и въсхотѣ ити в ри<hi rend="sup">м</hi></rdg>
+            <rdg wit="#aka">оустье днѣпрьское и восхотѣ ити в ри<hi rend="sup">м</hi>. <lb/></rdg>
+            <rdg wit="#ipa">оустье дь<lb/>нѣпръское. и въсхотѣ <lb/> поити в римъ.</rdg>
+            <rdg wit="#xle">оустье днѣпрьское. <lb/> и въсхотѣ поити в ри<hi rend="sup">м</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">устье Днѣпрьское, и въсхотѣ поити в Римъ,</rdg><rdg wit="#shakh">устие Дънѣпрьское, и въсхотѣ поити въ Римъ,</rdg><rdg wit="#likh">устье Днѣпрьское, и въсхотѣ поити в Римъ,</rdg></rdgGrp></app></p></div></body></text></TEI>

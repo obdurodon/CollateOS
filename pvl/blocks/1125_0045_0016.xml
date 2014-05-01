@@ -1,82 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>45, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="45"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="45,16">Въ</w>
-<w n="45,16">лѣто 6452.</w>
-
-<w n="45,16">Игорь</w>
-<w n="45,16">съвъкупи</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="45,16">В</w>
-<w n="45,16">лѣ<hi rend="sup">т</hi>.</w>
-<w n="45,16">҂ѕ҃.у҃.н҃в·:·- <lb/></w>
-
-<w n="45,16">Игорь</w>
-<w n="45,16">же</w>
-<w n="45,16">совкупивъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="45,16">лѣ<hi rend="sup">т</hi></w>
-<w n="45,16">҂ѕ҃</w>
-<w n="45,16">у҃</w>
-<w n="45,16">н҃в <lb/></w>
-
-<w n="45,16">горь</w>
-<w n="45,16">совокѹпи</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="45,16">В</w>
-<w n="45,16">лѣ<hi rend="sup">т</hi>.</w>
-<w n="45,16">҂ѕ҃.у҃.н҃в.</w>
-<w n="45,16">Игорь</w>
-<w n="45,16">совокѹпи</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="45,16">В</w>
-<w n="45,16">лѣто.</w>
-<w n="45,16">҂ѕ҃.у҃.н҃в·:· <lb/></w>
-
-<w n="45,16">Игорь</w>
-<w n="45,16">совокупи</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="45,16">В</w>
-<w n="45,16">лѣ<hi rend="sup">т</hi>.</w>
-<w n="45,16">҂ѕ҃.у҃.н҃в.</w>
-<w n="45,16">игорь</w>
-<w n="45,16">съвокоупи</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="45,16">В</w>
-<w n="45,16">лѣто 6452.</w>
-
-<w n="45,16">Игорь</w>
-<w n="45,16">же</w>
-<w n="45,16">совкупивъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="45,16">Въ</w>
-<w n="45,16">лѣто 6452.</w>
-
-<w n="45,16">Игорь</w>
-<w n="45,16">же</w>
-<w n="45,16">съвъкупи</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="45,16">В</w>
-<w n="45,16">лѣто 6452.</w>
-
-<w n="45,16">Игорь</w>
-<w n="45,16">же</w>
-<w n="45,16">совкупивъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>45, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="45"/><div type="block" n="16"><p><app><lem wit="#lem">
+            Въ лѣто 6452. Игорь съвъкупи
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">В лѣ<hi rend="sup">т</hi>. ҂ѕ҃.у҃.н҃в·:·- <lb/> Игорь же совкупивъ</rdg>
+            <rdg wit="#rad">лѣ<hi rend="sup">т</hi> ҂ѕ҃ у҃ н҃в <lb/> горь совокѹпи</rdg>
+            <rdg wit="#aka">В лѣ<hi rend="sup">т</hi>. ҂ѕ҃.у҃.н҃в. Игорь совокѹпи</rdg>
+            <rdg wit="#ipa">В лѣто. ҂ѕ҃.у҃.н҃в·:· <lb/> Игорь совокупи</rdg>
+            <rdg wit="#xle">В лѣ<hi rend="sup">т</hi>. ҂ѕ҃.у҃.н҃в. игорь съвокоупи</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">В лѣто 6452. Игорь же совкупивъ</rdg><rdg wit="#shakh">Въ лѣто 6452. Игорь же съвъкупи</rdg><rdg wit="#likh">В лѣто 6452. Игорь же совкупивъ</rdg></rdgGrp></app></p></div></body></text></TEI>

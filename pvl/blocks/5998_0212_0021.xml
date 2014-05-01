@@ -1,78 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>212, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="212"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="212,21">пѣвъше</w>
-<w n="212,21">обычьныя</w>
-<w n="212,21">пѣсни,</w>
-<w n="212,21">и</w>
-<w n="212,21">принесъше</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="212,21">пѣвше</w>
-<w n="212,21">ѡбычныꙗ</w>
-<w n="212,21">пѣсни·</w>
-<w n="212,21">и</w>
-<w n="212,21">прї<lb/>несше</w>
-<w n="212,21">ю</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="212,21">пѣ<lb/>вше</w>
-<w n="212,21">ѡбы<hi rend="sup">ч</hi>ныꙗ</w>
-<w n="212,21">пѣ<hi rend="sup">с</hi>ни·</w>
-<w n="212,21">и</w>
-<w n="212,21">принесше·</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="212,21">пѣвше</w>
-<w n="212,21">ѡбычны·̏ѧ</w>
-<w n="212,21">пѣсни· <lb/></w>
-
-<w n="212,21">и</w>
-<w n="212,21">прн<milestone unit="add" n="start" place="margin"/>не<milestone unit="add" n="end"/>сше</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="212,21">пѣвше</w>
-<w n="212,21">ѡбы<lb/>чныꙗ</w>
-<w n="212,21">пѣсни·</w>
-<w n="212,21">и</w>
-<w n="212,21">принесше</w>
-<w n="212,21">и <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="212,21">пѣвше</w>
-<w n="212,21">ѡбычныа</w>
-<w n="212,21">пѣ<hi rend="sup">с</hi>ни,</w>
-<w n="212,21">и</w>
-<w n="212,21">прине<hi rend="sup">с</hi>ше</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="212,21">пѣвше</w>
-<w n="212,21">обычныя</w>
-<w n="212,21">пѣсни,</w>
-<w n="212,21">и</w>
-<w n="212,21">принесше</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="212,21">пѣвъше</w>
-<w n="212,21">обычьныя</w>
-<w n="212,21">пѣсни,</w>
-<w n="212,21">и</w>
-<w n="212,21">принесъше,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="212,21">пѣвше</w>
-<w n="212,21">обычныя</w>
-<w n="212,21">пѣсни,</w>
-<w n="212,21">и</w>
-<w n="212,21">принесше</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>212, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="212"/><div type="block" n="21"><p><app><lem wit="#lem">
+            пѣвъше обычьныя пѣсни, и принесъше
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">пѣвше ѡбычныꙗ пѣсни· и прї<lb/>несше ю</rdg>
+            <rdg wit="#rad">пѣ<lb/>вше ѡбы<hi rend="sup">ч</hi>ныꙗ пѣ<hi rend="sup">с</hi>ни· и принесше·</rdg>
+            <rdg wit="#aka">пѣвше ѡбычны·̏ѧ пѣсни· <lb/> и прн<add place="margin">не</add>сше</rdg>
+            <rdg wit="#ipa">пѣвше ѡбы<lb/>чныꙗ пѣсни· и принесше и <lb/></rdg>
+            <rdg wit="#xle">пѣвше ѡбычныа пѣ<hi rend="sup">с</hi>ни, и прине<hi rend="sup">с</hi>ше</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">пѣвше обычныя пѣсни, и принесше</rdg><rdg wit="#shakh">пѣвъше обычьныя пѣсни, и принесъше,</rdg><rdg wit="#likh">пѣвше обычныя пѣсни, и принесше</rdg></rdgGrp></app></p></div></body></text></TEI>

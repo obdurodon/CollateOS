@@ -1,47 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>249, 32</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="249"/><div type="block" n="32"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="249,32">и</w>
-<w n="249,32">ве<lb/>жи</w>
-<w n="249,32">ихъ</w>
-<w n="249,32">взѧхо<hi rend="sup">м</hi></w>
-<w n="249,32">шедше·</w>
-<w n="249,32">за</w>
-<w n="249,32">голта<lb/>вомь·</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="249,32">и</w>
-<w n="249,32">вежи</w>
-<w n="249,32">ихъ</w>
-<w n="249,32">взяхомъ,</w>
-<w n="249,32">шедше</w>
-<w n="249,32">за</w>
-<w n="249,32">Голтавомь.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="249,32">и</w>
-<w n="249,32">вежи</w>
-<w n="249,32">ихъ</w>
-<w n="249,32">взяхом,</w>
-<w n="249,32">шедше</w>
-<w n="249,32">за</w>
-<w n="249,32">Голтавомь.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>249, 32</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="249"/><div type="block" n="32"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и ве<lb/>жи ихъ взѧхо<hi rend="sup">м</hi> шедше· за голта<lb/>вомь·</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и вежи ихъ взяхомъ, шедше за Голтавомь.</rdg><rdg wit="#likh">и вежи ихъ взяхом, шедше за Голтавомь.</rdg></rdgGrp></app></p></div></body></text></TEI>

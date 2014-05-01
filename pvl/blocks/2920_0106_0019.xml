@@ -1,109 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>106, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="106"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-<w n="106,19">законъ</w>
-<w n="106,19">свои.</w>
-<w n="106,19">По</w>
-<w n="106,19">сихъ</w>
-<w n="106,19">придоша</w>
-<w n="106,19">Жидове.</w>
-
-</lem>
-
-<rdg wit="#lav">
-<w n="106,19">законъ</w>
-<w n="106,19">свои.</w>
-<w n="106,19">по</w>
-<w n="106,19">сихъ <lb/></w>
-
-<w n="106,19">придоша</w>
-<w n="106,19">жидове.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="106,19">законъ</w>
-<w n="106,19">свои.</w>
-<w n="106,19">и</w>
-<w n="106,19">по <lb/></w>
-
-<w n="106,19">си<hi rend="sup">х</hi></w>
-<w n="106,19">приходиша</w>
-<w n="106,19">жыдова.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="106,19">законъ</w>
-<w n="106,19">свои.</w>
-<w n="106,19">и</w>
-<w n="106,19">по</w>
-<w n="106,19">си<hi rend="sup">х</hi></w>
-<w n="106,19">прїходѧще</w>
-<w n="106,19">жидове.</w>
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-<w n="106,19">закѡ<hi rend="sup">н</hi></w>
-<w n="106,19">свои.</w>
-<w n="106,19">по</w>
-<w n="106,19">си<hi rend="sup">х</hi></w>
-<w n="106,19">прих<hi rend="sup">д</hi>о<hi rend="sup">и</hi>ша <lb/></w>
-
-<w n="106,19">жидове.</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="106,19">законъ</w>
-<w n="106,19">свои</w>
-<w n="106,19">и</w>
-<w n="106,19">по</w>
-<w n="106,19">сих</w>
-<w n="106,19">приидоша</w>
-<w n="106,19">жидове</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="106,19">за</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="106,19">законъ</w>
-<w n="106,19">свои</w>
-<w n="106,19">по</w>
-<w n="106,19">сих</w>
-<w n="106,19">приидоша</w>
-<w n="106,19">жидове</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="106,19">законъ</w>
-<w n="106,19">свой;</w>
-<w n="106,19">по</w>
-<w n="106,19">сихъ</w>
-<w n="106,19">придоша</w>
-<w n="106,19">Жидове.</w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="106,19">законъ</w>
-<w n="106,19">свои;</w>
-<w n="106,19">по</w>
-<w n="106,19">сихъ</w>
-<w n="106,19">придоша</w>
-<w n="106,19">Жидове.</w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="106,19">законъ</w>
-<w n="106,19">свой.</w>
-<w n="106,19">По</w>
-<w n="106,19">сихъ</w>
-<w n="106,19">придоша</w>
-<w n="106,19">жидове.</w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>106, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="106"/><div type="block" n="19"><p><app><lem wit="#lem">
+            законъ свои. По сихъ придоша Жидове. 
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">законъ свои. по сихъ <lb/> придоша жидове.</rdg>
+            <rdg wit="#rad">законъ свои. и по <lb/> си<hi rend="sup">х</hi> приходиша жыдова.</rdg>
+            <rdg wit="#aka">законъ свои. и по си<hi rend="sup">х</hi> прїходѧще жидове.</rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">закѡ<hi rend="sup">н</hi> свои. по си<hi rend="sup">х</hi> прих<hi rend="sup">д</hi>о<hi rend="sup">и</hi>ша <lb/>
+                жидове.</rdg>
+            <rdg wit="#kom">законъ свои и по сих приидоша жидове</rdg>
+            <rdg wit="#nak">за</rdg>
+            <rdg wit="#tol">законъ свои по сих приидоша жидове</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">законъ свой; по сихъ придоша Жидове. </rdg><rdg wit="#shakh">законъ свои; по сихъ придоша Жидове. </rdg><rdg wit="#likh">законъ свой. По сихъ придоша жидове. </rdg></rdgGrp></app></p></div></body></text></TEI>

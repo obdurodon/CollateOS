@@ -1,90 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>52, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="52"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="52,1">доньдеже</w>
-<w n="52,1">обрящеть</w>
-<w n="52,1">ся,</w>
-<w n="52,1">аще</w>
-<w n="52,1">ли</w>
-<w n="52,1">обрящеть</w>
-<w n="52,1">ся,</w>
-<w n="52,1">да</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="52,1">дондеже</w>
-<w n="52,1">ѡбрѧщетсѧ</w>
-<w n="52,1">аще <lb/></w>
-
-<w n="52,1">ли</w>
-<w n="52,1">ѡбрѧщетсѧ</w>
-<w n="52,1">да</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="52,1">донде<hi rend="sup">ж</hi></w>
-<w n="52,1">ѡбрѧщоу<hi rend="sup">т</hi>.</w>
-<w n="52,1">аще</w>
-<w n="52,1">ли</w>
-<w n="52,1">ѡбрѧ<lb/>щють</w>
-<w n="52,1">е<hi rend="sup">г</hi></w>
-<w n="52,1">да</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="52,1">дондеже</w>
-<w n="52,1">ѡбрѧщѹть.</w>
-<w n="52,1">аще <lb/></w>
-
-<w n="52,1">ли</w>
-<w n="52,1">ѡбрѧщѹть</w>
-<w n="52,1">его</w>
-<w n="52,1">да</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="52,1">дондеже <lb/></w>
-
-<w n="52,1">ѡбрѧщетсѧ.</w>
-<w n="52,1">да</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="52,1">дондеже</w>
-<w n="52,1">обрѧщетсѧ.</w>
-<w n="52,1">аще</w>
-<w n="52,1">ли</w>
-<w n="52,1">обрѧ<lb/>щетсѧ</w>
-<w n="52,1">да</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="52,1">дондеже</w>
-<w n="52,1">обрящется,</w>
-<w n="52,1">аще</w>
-<w n="52,1">ли</w>
-<w n="52,1">обрящется,</w>
-<w n="52,1">да</w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="52,1">доньдеже</w>
-<w n="52,1">обрящеться;</w>
-<w n="52,1">аще</w>
-<w n="52,1">ли</w>
-<w n="52,1">обрящеться,</w>
-<w n="52,1">да</w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="52,1">дондеже</w>
-<w n="52,1">обрящется,</w>
-<w n="52,1">аще</w>
-<w n="52,1">ли</w>
-<w n="52,1">обрящется,</w>
-<w n="52,1">да</w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>52, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="52"/><div type="block" n="1"><p><app><lem wit="#lem">
+            доньдеже обрящеть ся, аще ли обрящеть ся, да
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">дондеже ѡбрѧщетсѧ аще <lb/> ли ѡбрѧщетсѧ да</rdg>
+            <rdg wit="#rad">донде<hi rend="sup">ж</hi> ѡбрѧщоу<hi rend="sup">т</hi>. аще ли ѡбрѧ<lb/>щють е<hi rend="sup">г</hi> да</rdg>
+            <rdg wit="#aka">дондеже ѡбрѧщѹть. аще <lb/> ли ѡбрѧщѹть его да</rdg>
+            <rdg wit="#ipa">дондеже <lb/> ѡбрѧщетсѧ. да</rdg>
+            <rdg wit="#xle">дондеже обрѧщетсѧ. аще ли обрѧ<lb/>щетсѧ да</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">дондеже обрящется, аще ли обрящется, да <add place="margin">50,22</add></rdg><rdg wit="#shakh">доньдеже обрящеться; аще ли обрящеться, да <add place="margin">58,11</add></rdg><rdg wit="#likh">дондеже обрящется, аще ли обрящется, да <add place="margin">38,4</add></rdg></rdgGrp></app></p></div></body></text></TEI>

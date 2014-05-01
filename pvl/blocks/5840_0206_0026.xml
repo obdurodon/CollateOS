@@ -1,87 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>206, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="206"/><div type="block" n="26"><p>
-<app>
-<lem wit="#lem">
-<w n="206,26">Мьногы</w>
-<w n="206,26">бѣды</w>
-<w n="206,26">приимъ</w>
-<w n="206,26">без</w>
-<w n="206,26">вины,</w>
-<w n="206,26">изгонимъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="206,26">мно<lb/>гы</w>
-<w n="206,26">бѣды</w>
-<w n="206,26">приимъ</w>
-<w n="206,26">без</w>
-<w n="206,26">вины. <lb/></w>
-
-<w n="206,26">изгонимъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="206,26">ноги</w>
-<w n="206,26">вины</w>
-<w n="206,26">приимъ</w>
-<w n="206,26">без</w>
-<w n="206,26">вины.</w>
-<w n="206,26">изгони<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="206,26">Многы</w>
-<w n="206,26">вины <lb/></w>
-
-<w n="206,26">приимъ</w>
-<w n="206,26">без</w>
-<w n="206,26">вины.</w>
-<w n="206,26">и</w>
-<w n="206,26">изгонимъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="206,26">многы</w>
-<w n="206,26">бѣды</w>
-<w n="206,26">приемь <lb/></w>
-
-<w n="206,26">без</w>
-<w n="206,26">вины</w>
-<w n="206,26">изгонимъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="206,26">мнѡгы</w>
-<w n="206,26">бѣды</w>
-<w n="206,26">прїемь.</w>
-<w n="206,26">бе<hi rend="sup">з</hi></w>
-<w n="206,26">вины</w>
-<w n="206,26">изгони<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="206,26">Многы</w>
-<w n="206,26">бѣды</w>
-<w n="206,26">приимъ,</w>
-<w n="206,26">без</w>
-<w n="206,26">вины</w>
-<w n="206,26">изгонимъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="206,26">Мьногы</w>
-<w n="206,26">бѣды</w>
-<w n="206,26">приимъ</w>
-<w n="206,26">без</w>
-<w n="206,26">вины,</w>
-<w n="206,26">изгонимъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="206,26">Многы</w>
-<w n="206,26">бѣды</w>
-<w n="206,26">приимъ,</w>
-<w n="206,26">без</w>
-<w n="206,26">вины</w>
-<w n="206,26">изгонимъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>206, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="206"/><div type="block" n="26"><p><app><lem wit="#lem">
+            Мьногы бѣды приимъ без вины, изгонимъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">мно<lb/>гы бѣды приимъ без вины. <lb/> изгонимъ</rdg>
+            <rdg wit="#rad">ноги вины приимъ без вины. изгони<hi rend="sup">м</hi></rdg>
+            <rdg wit="#aka">Многы вины <lb/> приимъ без вины. и изгонимъ</rdg>
+            <rdg wit="#ipa">многы бѣды приемь <lb/> без вины изгонимъ</rdg>
+            <rdg wit="#xle">мнѡгы бѣды прїемь. бе<hi rend="sup">з</hi> вины изгони<hi rend="sup">м</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Многы бѣды приимъ, без вины изгонимъ</rdg><rdg wit="#shakh">Мьногы бѣды приимъ без вины, изгонимъ</rdg><rdg wit="#likh">Многы бѣды приимъ, без вины изгонимъ</rdg></rdgGrp></app></p></div></body></text></TEI>

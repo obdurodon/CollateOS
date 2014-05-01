@@ -1,100 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>197, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="197"/><div type="block" n="12"><p>
-<app>
-<lem wit="#lem">
-<w n="197,12">ся</w>
-<w n="197,12">крьстъмъ</w>
-<w n="197,12">и</w>
-<w n="197,12">ищезнуша.</w>
-<w n="197,12">А</w>
-<w n="197,12">другоичи</w>
-<w n="197,12">страшахуть</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="197,12">ꙗ</w>
-<w n="197,12">кр<hi rend="sup">с</hi>тмъ. <lb/></w>
-
-<w n="197,12">ищезнуша.</w>
-<w n="197,12">другоици</w>
-<w n="197,12">бо</w>
-<w n="197,12"><milestone unit="sic" n="start"/>-тра<milestone unit="sic" n="end"/><lb/>шахуть</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="197,12">сѧ</w>
-<w n="197,12">крт<hi rend="sup">с</hi>мъ.</w>
-<w n="197,12">и</w>
-<w n="197,12">исчезноуша.</w>
-<w n="197,12">а</w>
-<w n="197,12">дроугоичи</w>
-<w n="197,12">страшахѹ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="197,12">сѧ <lb/></w>
-
-<w n="197,12">крт<hi rend="sup">с</hi>мь.</w>
-<w n="197,12">и</w>
-<w n="197,12">исчезнѹша.</w>
-<w n="197,12">а</w>
-<w n="197,12">дрѹгоичи</w>
-<w n="197,12">страшахѹ <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="197,12">сѧ</w>
-<w n="197,12">крт<hi rend="sup">с</hi>нымь</w>
-<w n="197,12">знамениемь</w>
-<w n="197,12">ѡни</w>
-<w n="197,12">же</w>
-<w n="197,12">ищезнѧху <lb/></w>
-
-<w n="197,12">а</w>
-<w n="197,12">другоичи</w>
-<w n="197,12">страшахуть</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="197,12">сѧ</w>
-<w n="197,12">кр<hi rend="sup">с</hi>тѡ<hi rend="sup">м</hi>.</w>
-<w n="197,12">ѡни</w>
-<w n="197,12">же</w>
-<w n="197,12">исчезноуша.</w>
-<w n="197,12">а</w>
-<w n="197,12">дроугои</w>
-<w n="197,12">ночи</w>
-<w n="197,12">страшахоу <pb n="89v"/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="197,12">я</w>
-<w n="197,12">крестомъ,</w>
-<w n="197,12">и</w>
-<w n="197,12">ищезнуша.</w>
-<w n="197,12">Другоици</w>
-<w n="197,12">бо</w>
-<w n="197,12">страшахуть</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="197,12">я</w>
-<w n="197,12">крьстъмъ,</w>
-<w n="197,12">и</w>
-<w n="197,12">ищезнуша.</w>
-<w n="197,12">А</w>
-<w n="197,12">другоици</w>
-<w n="197,12">страшахуть</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="197,12">я</w>
-<w n="197,12">крестомъ</w>
-<w n="197,12">и</w>
-<w n="197,12">ищезнуша.</w>
-<w n="197,12">Другоици</w>
-<w n="197,12">бо</w>
-<w n="197,12">страшахуть</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>197, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="197"/><div type="block" n="12"><p><app><lem wit="#lem">
+            ся крьстъмъ и ищезнуша. А другоичи страшахуть
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ꙗ кр<hi rend="sup">с</hi>тмъ. <lb/> ищезнуша. другоици бо
+                <sic>-тра</sic><lb/>шахуть</rdg>
+            <rdg wit="#rad">сѧ крт<hi rend="sup">с</hi>мъ. и исчезноуша. а дроугоичи страшахѹ</rdg>
+            <rdg wit="#aka">сѧ <lb/> крт<hi rend="sup">с</hi>мь. и исчезнѹша. а дрѹгоичи страшахѹ <lb/></rdg>
+            <rdg wit="#ipa">сѧ крт<hi rend="sup">с</hi>нымь знамениемь ѡни же ищезнѧху <lb/> а другоичи страшахуть</rdg>
+            <rdg wit="#xle">сѧ кр<hi rend="sup">с</hi>тѡ<hi rend="sup">м</hi>. ѡни же  исчезноуша. а дроугои ночи страшахоу
+                    <pb n="89v"/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">я крестомъ, и ищезнуша. Другоици бо страшахуть</rdg><rdg wit="#shakh">я крьстъмъ, и ищезнуша. А другоици страшахуть</rdg><rdg wit="#likh">я крестомъ и ищезнуша. Другоици бо страшахуть</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,86 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>276, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="276"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-<w n="276,2">Новъгородьци</w>
-<w n="276,2">Святопълку:</w>
-<w n="276,2">“Се</w>
-<w n="276,2">мы,</w>
-<w n="276,2">къняже,</w>
-<w n="276,2">присълани</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="276,2">новгородци <lb/></w>
-
-<w n="276,2">ст҃ополку·</w>
-<w n="276,2">се</w>
-<w n="276,2">мы</w>
-<w n="276,2">кнѧже</w>
-<w n="276,2">при<lb/>слани</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="276,2">новгоро<hi rend="sup">д</hi>ци</w>
-<w n="276,2">ст҃ополкѹ·</w>
-<w n="276,2">се</w>
-<w n="276,2">мы</w>
-<w n="276,2">кн҃же</w>
-<w n="276,2">прислани</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="276,2">новогородци</w>
-<w n="276,2">ст҃ополкѹ·</w>
-<w n="276,2">се·̏</w>
-<w n="276,2">мы·̏ <lb/></w>
-
-<w n="276,2">кнж҃е</w>
-<w n="276,2">прислани</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="276,2">новгородци</w>
-<w n="276,2">ст҃опо<lb/>лку·</w>
-<w n="276,2">се</w>
-<w n="276,2">мы</w>
-<w n="276,2">кнѧже</w>
-<w n="276,2">прислани <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="276,2">новогорѡ<hi rend="sup">д</hi>ци</w>
-<w n="276,2">с҃то<lb/>пол′коу.</w>
-<w n="276,2">се</w>
-<w n="276,2">мы</w>
-<w n="276,2">кнѧже</w>
-<w n="276,2">прислани</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="276,2">Новгородци</w>
-<w n="276,2">Святополку:</w>
-<w n="276,2">“се</w>
-<w n="276,2">мы,</w>
-<w n="276,2">княже,</w>
-<w n="276,2">прислани</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="276,2">Новъгородьци</w>
-<w n="276,2">Святопълку:</w>
-<w n="276,2">“се</w>
-<w n="276,2">мы,</w>
-<w n="276,2">къняже,</w>
-<w n="276,2">присълани</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="276,2">новгородци</w>
-<w n="276,2">Святополку:</w>
-<w n="276,2">“Се</w>
-<w n="276,2">мы,</w>
-<w n="276,2">княже,</w>
-<w n="276,2">прислани</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>276, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="276"/><div type="block" n="2"><p><app><lem wit="#lem">
+            Новъгородьци Святопълку: “Се мы, къняже, присълани
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">новгородци <lb/> ст҃ополку· се мы кнѧже при<lb/>слани</rdg>
+            <rdg wit="#rad">новгоро<hi rend="sup">д</hi>ци ст҃ополкѹ· се мы кн҃же прислани</rdg>
+            <rdg wit="#aka">новогородци ст҃ополкѹ· се·̏ мы·̏ <lb/> кнж҃е прислани</rdg>
+            <rdg wit="#ipa">новгородци ст҃опо<lb/>лку· се мы кнѧже прислани <lb/></rdg>
+            <rdg wit="#xle">новогорѡ<hi rend="sup">д</hi>ци с҃то<lb/>пол′коу. се мы кнѧже прислани</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Новгородци Святополку: “се мы, княже, прислани</rdg><rdg wit="#shakh">Новъгородьци Святопълку: “се мы, къняже, присълани</rdg><rdg wit="#likh">новгородци Святополку: “Се мы, княже, прислани</rdg></rdgGrp></app></p></div></body></text></TEI>

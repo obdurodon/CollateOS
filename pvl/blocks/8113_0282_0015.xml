@@ -1,80 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>282, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="282"/><div type="block" n="15"><p>
-<app>
-<lem wit="#lem">
-<w n="282,15">великою.</w>
-<w n="282,15">Святопълкъ</w>
-<w n="282,15">же</w>
-<w n="282,15">прииде</w>
-<w n="282,15">въ</w>
-<w n="282,15">Печерьскыи</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="282,15">великою·</w>
-<w n="282,15">ст҃ополкъ</w>
-<w n="282,15">же</w>
-<w n="282,15">приде <lb/></w>
-
-<w n="282,15">в</w>
-<w n="282,15">печерьскыи</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="282,15">великою· <lb/></w>
-
-<w n="282,15">ст҃ополкъ</w>
-<w n="282,15">же</w>
-<w n="282,15">прииде<hi rend="sup">т</hi></w>
-<w n="282,15">в</w>
-<w n="282,15">печерьскии</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="282,15">великою·</w>
-<w n="282,15">ст҃о<lb/>полкъ</w>
-<w n="282,15">же</w>
-<w n="282,15">прииде</w>
-<w n="282,15">в</w>
-<w n="282,15">печерьскїи</w>
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-<w n="282,15">велико<hi rend="sup">ю</hi>. <lb/></w>
-
-<w n="282,15">ст҃опол′кь</w>
-<w n="282,15">же</w>
-<w n="282,15">прїиде</w>
-<w n="282,15">в′</w>
-<w n="282,15">печер′скїи</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="282,15">великою.</w>
-<w n="282,15">Святополкъ</w>
-<w n="282,15">же</w>
-<w n="282,15">приде</w>
-<w n="282,15">в</w>
-<w n="282,15">Печерьскый</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="282,15">великою.</w>
-<w n="282,15">Святопълкъ</w>
-<w n="282,15">же</w>
-<w n="282,15">приде</w>
-<w n="282,15">въ</w>
-<w n="282,15">Печерьскыи</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="282,15">великою.</w>
-<w n="282,15">Святополкъ</w>
-<w n="282,15">же</w>
-<w n="282,15">приде</w>
-<w n="282,15">в</w>
-<w n="282,15">Печерьскый</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>282, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="282"/><div type="block" n="15"><p><app><lem wit="#lem">
+            великою. Святопълкъ же прииде въ Печерьскыи
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">великою· ст҃ополкъ же приде <lb/> в печерьскыи</rdg>
+            <rdg wit="#rad">великою· <lb/> ст҃ополкъ же прииде<hi rend="sup">т</hi> в печерьскии</rdg>
+            <rdg wit="#aka">великою· ст҃о<lb/>полкъ же прииде в печерьскїи</rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">велико<hi rend="sup">ю</hi>. <lb/> ст҃опол′кь же прїиде в′ печер′скїи</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">великою. Святополкъ же приде в Печерьскый</rdg><rdg wit="#shakh">великою. Святопълкъ же приде въ Печерьскыи</rdg><rdg wit="#likh">великою. Святополкъ же приде в Печерьскый</rdg></rdgGrp></app></p></div></body></text></TEI>

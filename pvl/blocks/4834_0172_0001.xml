@@ -1,104 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>172, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="172"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="172,1">воюющимъ</w>
-<w n="172,1">около</w>
-<w n="172,1">Чьрнигова,</w>
-<w n="172,1">Святославъ</w>
-<w n="172,1">же,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="172,1">воюющи<hi rend="sup">м</hi></w>
-<w n="172,1">ѡколо</w>
-<w n="172,1">чернигова.</w>
-<w n="172,1">ст҃о<lb/>слав</w>
-<w n="172,1">же</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="172,1">воююще</w>
-<w n="172,1">ѡколо <lb/></w>
-
-<w n="172,1">чернигова.</w>
-<w n="172,1">ст҃ослав</w>
-<w n="172,1">же</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="172,1">воюющимъ</w>
-<w n="172,1">ѡколѡ</w>
-<w n="172,1">чернигова.</w>
-<w n="172,1">ст҃ославъ <lb/></w>
-
-<w n="172,1">же</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="172,1">во<lb/>ющимъ</w>
-<w n="172,1">ѡколо</w>
-<w n="172,1">чернигова.</w>
-<w n="172,1">ст҃ославъ</w>
-<w n="172,1">же <pb n="64a"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="172,1">воюющи<hi rend="sup">м</hi><lb/></w>
-<w n="172,1">около</w>
-<w n="172,1">чернигова.</w>
-<w n="172,1">ст҃ослав</w>
-<w n="172,1">же</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="172,1">воюющим</w>
-<w n="172,1">около</w>
-<w n="172,1">чернигова</w>
-<w n="172,1">свꙗтославъ</w>
-<w n="172,1">же</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="172,1">воюющим</w>
-<w n="172,1">около</w>
-<w n="172,1">чернѣгова</w>
-<w n="172,1">свꙗтославъ</w>
-<w n="172,1">же</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="172,1">воюющим</w>
-<w n="172,1">около</w>
-<w n="172,1">чернѣгова</w>
-<w n="172,1">свꙗтославъ</w>
-<w n="172,1">же</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="172,1">воюющим</w>
-<w n="172,1">около</w>
-<w n="172,1">Чернигова,</w>
-<w n="172,1">Святославъ</w>
-<w n="172,1">же <pb n="167,14"/></w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="172,1">воюющемъ</w>
-<w n="172,1">около</w>
-<w n="172,1">Чьрнигова,</w>
-<w n="172,1">Святославъ</w>
-<w n="172,1">же, <pb n="217,24"/></w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="172,1">воюющим</w>
-<w n="172,1">около</w>
-<w n="172,1">Чернигова,</w>
-<w n="172,1">Святослав</w>
-<w n="172,1">же <pb n="115,6"/></w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>172, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="172"/><div type="block" n="1"><p><app><lem wit="#lem">
+            воюющимъ около Чьрнигова, Святославъ же,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">воюющи<hi rend="sup">м</hi> ѡколо чернигова. ст҃о<lb/>слав же</rdg>
+            <rdg wit="#rad">воююще ѡколо <lb/> чернигова. ст҃ослав же</rdg>
+            <rdg wit="#aka">воюющимъ ѡколѡ чернигова. ст҃ославъ <lb/> же</rdg>
+            <rdg wit="#ipa">во<lb/>ющимъ ѡколо чернигова.  ст҃ославъ же <pb n="64a"/></rdg>
+            <rdg wit="#xle">воюющи<hi rend="sup">м</hi>
+                <lb/> около чернигова. ст҃ослав же</rdg>
+            <rdg wit="#kom">воюющим около чернигова свꙗтославъ же</rdg>
+            <rdg wit="#nak">воюющим около чернѣгова свꙗтославъ же</rdg>
+            <rdg wit="#tol">воюющим около чернѣгова свꙗтославъ же</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">воюющим около Чернигова, Святославъ же <pb n="167,14"/></rdg><rdg wit="#shakh">воюющемъ около Чьрнигова, Святославъ же, <pb n="217,24"/></rdg><rdg wit="#likh">воюющим около Чернигова, Святослав же <pb n="115,6"/></rdg></rdgGrp></app></p></div></body></text></TEI>

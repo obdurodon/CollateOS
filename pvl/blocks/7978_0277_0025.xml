@@ -1,74 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>277, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="277"/><div type="block" n="25"><p>
-<app>
-<lem wit="#lem">
-<w n="277,25">Вьсеславичь</w>
-<w n="277,25">и</w>
-<w n="277,25">Мьстиславъ</w>
-<w n="277,25">Игоревъ</w>
-<w n="277,25">вънукъ,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="277,25">всеславичь·</w>
-<w n="277,25">и</w>
-<w n="277,25">мстиславъ</w>
-<w n="277,25">и<lb/>горевъ</w>
-<w n="277,25">внукъ·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="277,25">всеслави<hi rend="sup">ч</hi>.</w>
-<w n="277,25">мстиславъ</w>
-<w n="277,25">игоре<hi rend="sup">в</hi>.</w>
-<w n="277,25">вноукъ. <pb n="150r"/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="277,25">все·̏славичь·</w>
-<w n="277,25">и</w>
-<w n="277,25">мь<lb/>стиславъ</w>
-<w n="277,25">игоревъ</w>
-<w n="277,25">внѹкъ·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="277,25"><milestone unit="add" n="start" place="margin"/>всеслави<hi rend="sup">ч</hi><milestone unit="add" n="end"/></w>
-<w n="277,25">и</w>
-<w n="277,25">мьстиславъ·</w>
-<w n="277,25">и<lb/>горевъ</w>
-<w n="277,25">оунукъ·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="277,25">и</w>
-<w n="277,25">мьстиславь</w>
-<w n="277,25">игоревь</w>
-<w n="277,25">внук <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="277,25">Всеславичь,</w>
-<w n="277,25">и</w>
-<w n="277,25">Мстиславъ</w>
-<w n="277,25">Игоревъ</w>
-<w n="277,25">внукъ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="277,25">Вьсеславичь</w>
-<w n="277,25">и</w>
-<w n="277,25">Мьстиславъ,</w>
-<w n="277,25">Игоревъ</w>
-<w n="277,25">вънукъ,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="277,25">Всеславичь,</w>
-<w n="277,25">и</w>
-<w n="277,25">Мстиславъ</w>
-<w n="277,25">Игоревъ</w>
-<w n="277,25">внукъ,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>277, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="277"/><div type="block" n="25"><p><app><lem wit="#lem">
+            Вьсеславичь и Мьстиславъ Игоревъ вънукъ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">всеславичь· и мстиславъ и<lb/>горевъ внукъ·</rdg>
+            <rdg wit="#rad">всеслави<hi rend="sup">ч</hi>. мстиславъ игоре<hi rend="sup">в</hi>.  вноукъ.
+                    <pb n="150r"/></rdg>
+            <rdg wit="#aka">все·̏славичь· и мь<lb/>стиславъ игоревъ внѹкъ·</rdg>
+            <rdg wit="#ipa"><add place="margin">всеслави<hi rend="sup">ч</hi></add> и мьстиславъ· и<lb/>горевъ
+                оунукъ·</rdg>
+            <rdg wit="#xle">и мьстиславь игоревь внук <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Всеславичь, и Мстиславъ Игоревъ внукъ,</rdg><rdg wit="#shakh">Вьсеславичь и Мьстиславъ, Игоревъ вънукъ,</rdg><rdg wit="#likh">Всеславичь, и Мстиславъ Игоревъ внукъ,</rdg></rdgGrp></app></p></div></body></text></TEI>

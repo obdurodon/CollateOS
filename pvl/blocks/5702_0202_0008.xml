@@ -1,89 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>202, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="202"/><div type="block" n="8"><p>
-<app>
-<lem wit="#lem">
-<w n="202,8">слышати</w>
-<w n="202,8">пѣния</w>
-<w n="202,8">въ</w>
-<w n="202,8">плачи</w>
-<w n="202,8">велицѣ</w>
-<w n="202,8">и</w>
-<w n="202,8">въпли;</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="202,8">слышати</w>
-<w n="202,8">пѣньꙗ</w>
-<w n="202,8">во</w>
-<w n="202,8">плачи.</w>
-<w n="202,8">велицѣ</w>
-<w n="202,8">вопли. <pb n="68a"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="202,8">слышати</w>
-<w n="202,8">пѣниꙗ.</w>
-<w n="202,8">въ</w>
-<w n="202,8">пла<lb/>чи.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="202,8">слышати</w>
-<w n="202,8">пѣнїѧ.</w>
-<w n="202,8">въ</w>
-<w n="202,8">плачи.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="202,8">слышати</w>
-<w n="202,8">пѣньꙗ</w>
-<w n="202,8">въ</w>
-<w n="202,8">пла<milestone unit="sic" n="start"/>ч<milestone unit="sic" n="end"/>ѣ <lb/></w>
-
-<w n="202,8">велицѣ.</w>
-<w n="202,8">и</w>
-<w n="202,8">воплѣ <pb n="75b"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="202,8">слы<lb/>шати</w>
-<w n="202,8">пѣнїа</w>
-<w n="202,8">въ</w>
-<w n="202,8">плачи</w>
-<w n="202,8">велицѣ.</w>
-<w n="202,8">и</w>
-<w n="202,8">въпли</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="202,8">слышати</w>
-<w n="202,8">пѣнья</w>
-<w n="202,8">во</w>
-<w n="202,8">плачи</w>
-<w n="202,8">и</w>
-<w n="202,8">велицѣ</w>
-<w n="202,8">и</w>
-<w n="202,8">вопли,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="202,8">слышати</w>
-<w n="202,8">пѣния</w>
-<w n="202,8">въ</w>
-<w n="202,8">плачи</w>
-<w n="202,8">велицѣ</w>
-<w n="202,8">и</w>
-<w n="202,8">въпли;</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="202,8">слышати</w>
-<w n="202,8">пѣнья</w>
-<w n="202,8">во</w>
-<w n="202,8">плачи</w>
-<w n="202,8">велицѣ</w>
-<w n="202,8">и</w>
-<w n="202,8">вопли;</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>202, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="202"/><div type="block" n="8"><p><app><lem wit="#lem">
+            слышати пѣния въ плачи велицѣ и въпли;
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">слышати пѣньꙗ во плачи.  велицѣ вопли. <pb n="68a"/></rdg>
+            <rdg wit="#rad">слышати пѣниꙗ. въ пла<lb/>чи.</rdg>
+            <rdg wit="#aka">слышати пѣнїѧ. въ плачи.</rdg>
+            <rdg wit="#ipa">слышати пѣньꙗ въ пла<sic>ч</sic>ѣ <lb/> велицѣ. и воплѣ
+                    <pb n="75b"/></rdg>
+            <rdg wit="#xle">слы<lb/>шати пѣнїа въ плачи велицѣ. и въпли</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">слышати пѣнья во плачи и велицѣ и вопли,</rdg><rdg wit="#shakh">слышати пѣния въ плачи велицѣ и въпли;</rdg><rdg wit="#likh">слышати пѣнья во плачи велицѣ и вопли;</rdg></rdgGrp></app></p></div></body></text></TEI>

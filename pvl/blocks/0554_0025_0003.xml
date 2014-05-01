@@ -1,64 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>25, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="25"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="25,3">Въ</w>
-<w n="25,3">лѣто 6399.</w>
-
-</lem>
-
-<rdg wit="#lav">
-<w n="25,3">въ</w>
-<w n="25,3">лѣ<hi rend="sup">т</hi>.</w>
-<w n="25,3">҂ѕт.ч҃ѳ.</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="25,3">въ</w>
-<w n="25,3">лѣто 6398</w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="25,3">В</w>
-<w n="25,3">лѣ<hi rend="sup">т</hi><lb/></w>
-<w n="25,3">҂ѕ҃.т҃.ч҃ѳ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="25,3">В</w>
-<w n="25,3">лѣ<hi rend="sup">т</hi></w>
-<w n="25,3">҂ѕ҃.т҃.ч҃ѳ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="25,3">В</w>
-<w n="25,3">лѣто.</w>
-<w n="25,3">҂ѕ҃.т҃.ч҃ѳ·:· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="25,3">В</w>
-<w n="25,3">лѣ<hi rend="sup">т</hi></w>
-<w n="25,3">҂ѕ҃</w>
-<w n="25,3">т҃ч҃ѳ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="25,3">Въ</w>
-<w n="25,3">лѣто 6399.</w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="25,3">Въ</w>
-<w n="25,3">лѣто 6399.</w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="25,3">Въ</w>
-<w n="25,3">лѣто 6399.</w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>25, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="25"/><div type="block" n="3"><p><app><lem wit="#lem">
+            Въ лѣто 6399.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">въ лѣ<hi rend="sup">т</hi>. ҂ѕт.ч҃ѳ.</rdg>
+            <rdg wit="#tro">въ лѣто 6398</rdg>
+            <rdg wit="#rad">В лѣ<hi rend="sup">т</hi>
+                <lb/> ҂ѕ҃.т҃.ч҃ѳ.</rdg>
+            <rdg wit="#aka">В лѣ<hi rend="sup">т</hi> ҂ѕ҃.т҃.ч҃ѳ.</rdg>
+            <rdg wit="#ipa">В лѣто. ҂ѕ҃.т҃.ч҃ѳ·:· <lb/></rdg>
+            <rdg wit="#xle">В лѣ<hi rend="sup">т</hi> ҂ѕ҃ т҃ч҃ѳ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Въ лѣто 6399.</rdg><rdg wit="#shakh">Въ лѣто 6399.</rdg><rdg wit="#likh">Въ лѣто 6399.</rdg></rdgGrp></app></p></div></body></text></TEI>

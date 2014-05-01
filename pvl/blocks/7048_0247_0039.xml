@@ -1,50 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>247, 39</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="247"/><div type="block" n="39"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="247,39">краснѣмь</w>
-<w n="247,39">дворѣ·</w>
-<w n="247,39">и</w>
-<w n="247,39">вда<lb/>хъ</w>
-<w n="247,39">ѡ҃цю</w>
-<w n="247,39">·т҃·</w>
-<w n="247,39">гр<hi rend="sup">в</hi>и·</w>
-<w n="247,39">золота·</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="247,39">Краснѣмь</w>
-<w n="247,39">дворѣ,</w>
-<w n="247,39">и</w>
-<w n="247,39">вдахъ</w>
-<w n="247,39">отцю 300</w>
-
-<w n="247,39">гривенъ</w>
-<w n="247,39">золота.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="247,39">Краснѣмь</w>
-<w n="247,39">дворѣ,</w>
-<w n="247,39">и</w>
-<w n="247,39">вдахъ</w>
-<w n="247,39">отцю 300</w>
-
-<w n="247,39">гривен</w>
-<w n="247,39">золота.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>247, 39</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="247"/><div type="block" n="39"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">краснѣмь дворѣ· и вда<lb/>хъ ѡ҃цю ·т҃· гр<hi rend="sup">в</hi>и· золота·</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Краснѣмь дворѣ, и вдахъ отцю 300 гривенъ золота.</rdg><rdg wit="#likh">Краснѣмь дворѣ, и вдахъ отцю 300 гривен золота.</rdg></rdgGrp></app></p></div></body></text></TEI>

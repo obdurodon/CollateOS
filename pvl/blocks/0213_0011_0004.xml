@@ -1,98 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>11, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="11"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-<w n="11,4">Мърдва</w>
-<w n="11,4">свои</w>
-<w n="11,4">языкъ.</w>
-<w n="11,4">Се</w>
-<w n="11,4">бо</w>
-<w n="11,4">тъкъмо</w>
-<w n="11,4">Словѣньскъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="11,4">моръдва</w>
-<w n="11,4">свои</w>
-<w n="11,4">ꙗзыкъ.</w>
-<w n="11,4">се</w>
-<w n="11,4">бо</w>
-<w n="11,4">токмо</w>
-<w n="11,4"><milestone unit="sic" n="start"/>словѣне<milestone unit="sic" n="end"/>скъ <pb n="4v"/></w>
-
-</rdg>
-
-<rdg wit="#tro">
-<w n="11,4">мордва</w>
-<w n="11,4">се</w>
-<w n="11,4">бо</w>
-<w n="11,4">токмо</w>
-<w n="11,4">в</w>
-<w n="11,4">руси</w>
-<w n="11,4">словѣньскии</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="11,4">морда</w>
-<w n="11,4">свои</w>
-<w n="11,4">ꙗзыкъ. <lb/></w>
-
-<w n="11,4">се</w>
-<w n="11,4">бо</w>
-<w n="11,4">токмо</w>
-<w n="11,4">словѣнскыи</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="11,4">морд<milestone unit="sic" n="start"/>в<milestone unit="sic" n="end"/>а</w>
-<w n="11,4">свои</w>
-<w n="11,4">ꙗзыкъ. <lb/></w>
-
-<w n="11,4">се</w>
-<w n="11,4">бо</w>
-<w n="11,4">токмо</w>
-<w n="11,4">словѣньскїи</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="11,4">мордва</w>
-<w n="11,4">свои</w>
-<w n="11,4">ꙗ<lb/>зыкъ.</w>
-<w n="11,4">се</w>
-<w n="11,4">бо</w>
-<w n="11,4">токмо</w>
-<w n="11,4">сло<lb/>вѣнескъ</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="11,4">Моръдва</w>
-<w n="11,4">свой</w>
-<w n="11,4">языкъ.</w>
-<w n="11,4">Се</w>
-<w n="11,4">бо</w>
-<w n="11,4">токмо</w>
-<w n="11,4">Словѣнескъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="11,4">Мърдва</w>
-<w n="11,4">свои</w>
-<w n="11,4">языкъ.</w>
-<w n="11,4">Се</w>
-<w n="11,4">бо</w>
-<w n="11,4">тъкъмо</w>
-<w n="11,4">Словѣньскъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="11,4">моръдва</w>
-<w n="11,4">свой</w>
-<w n="11,4">языкъ.</w>
-<w n="11,4">Се</w>
-<w n="11,4">бо</w>
-<w n="11,4">токмо</w>
-<w n="11,4">словѣнескъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>11, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="11"/><div type="block" n="4"><p><app><lem wit="#lem">
+            Мърдва свои языкъ. Се бо тъкъмо Словѣньскъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">моръдва свои ꙗзыкъ. се бо токмо <sic>словѣне</sic>скъ
+                    <pb n="4v"/></rdg>
+            <rdg wit="#tro">мордва се бо токмо в руси словѣньскии</rdg>
+            <rdg wit="#rad">морда свои ꙗзыкъ. <lb/> се бо токмо словѣнскыи</rdg>
+            <rdg wit="#aka">морд<sic>в</sic>а свои ꙗзыкъ. <lb/> се бо токмо словѣньскїи</rdg>
+            <rdg wit="#ipa">мордва свои ꙗ<lb/>зыкъ. се бо токмо сло<lb/>вѣнескъ</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Моръдва свой языкъ. Се бо токмо Словѣнескъ</rdg><rdg wit="#shakh">Мърдва свои языкъ. Се бо тъкъмо Словѣньскъ</rdg><rdg wit="#likh">моръдва свой языкъ. Се бо токмо словѣнескъ</rdg></rdgGrp></app></p></div></body></text></TEI>

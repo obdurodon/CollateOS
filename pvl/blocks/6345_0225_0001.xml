@@ -1,76 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>225, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="225"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="225,1">възвратиша</w>
-<w n="225,1">ся</w>
-<w n="225,1">къ</w>
-<w n="225,1">Търчьскому,</w>
-<w n="225,1">и</w>
-<w n="225,1">изнемогоша</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="225,1">възвратишасѧ</w>
-<w n="225,1">к</w>
-<w n="225,1">торцьскому· <lb/></w>
-
-<w n="225,1">и</w>
-<w n="225,1">изнемогоша</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="225,1">вратиша<hi rend="sup">с</hi></w>
-<w n="225,1">ко</w>
-<w n="225,1">торческомѹ·</w>
-<w n="225,1">изнемогоша <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="225,1">вратиша<hi rend="sup">с</hi></w>
-<w n="225,1">к</w>
-<w n="225,1">торчь<lb/>скомѹ·</w>
-<w n="225,1">изнемогоша</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="225,1">възвратиша<hi rend="sup">с</hi></w>
-<w n="225,1">к</w>
-<w n="225,1">то<lb/>ръческому·</w>
-<w n="225,1">изнемогоша</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="225,1">възвратиша<hi rend="sup">с</hi></w>
-<w n="225,1">к</w>
-<w n="225,1">торче<lb/>скомоу.</w>
-<w n="225,1">изнемогоша</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="225,1">възвратишася</w>
-<w n="225,1">к</w>
-<w n="225,1">Торцьскому,</w>
-<w n="225,1">и</w>
-<w n="225,1">изнемогоша</w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="225,1">възвратишася</w>
-<w n="225,1">къ</w>
-<w n="225,1">Търчьскому,</w>
-<w n="225,1">и</w>
-<w n="225,1">изнемогоша</w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="225,1">възвратишася</w>
-<w n="225,1">к</w>
-<w n="225,1">Торцьскому,</w>
-<w n="225,1">и</w>
-<w n="225,1">изнемогоша</w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>225, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="225"/><div type="block" n="1"><p><app><lem wit="#lem">
+            възвратиша ся къ Търчьскому, и изнемогоша
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">възвратишасѧ к торцьскому· <lb/> и изнемогоша</rdg>
+            <rdg wit="#rad">вратиша<hi rend="sup">с</hi> ко торческомѹ· изнемогоша <lb/></rdg>
+            <rdg wit="#aka">вратиша<hi rend="sup">с</hi> к торчь<lb/>скомѹ· изнемогоша</rdg>
+            <rdg wit="#ipa">възвратиша<hi rend="sup">с</hi> к то<lb/>ръческому· изнемогоша</rdg>
+            <rdg wit="#xle">възвратиша<hi rend="sup">с</hi> к торче<lb/>скомоу. изнемогоша</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">възвратишася к Торцьскому, и изнемогоша <add place="margin">217,13</add></rdg><rdg wit="#shakh">възвратишася къ Търчьскому, и изнемогоша <add place="margin">283,13</add></rdg><rdg wit="#likh">възвратишася к Торцьскому, и изнемогоша <add place="margin">147,14</add></rdg></rdgGrp></app></p></div></body></text></TEI>

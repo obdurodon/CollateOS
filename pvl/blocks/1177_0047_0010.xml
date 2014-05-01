@@ -1,89 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>47, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="47"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-<w n="47,10">Исинко</w>
-<w n="47,10">Биричь,</w>
-<w n="47,10">посълании</w>
-<w n="47,10">отъ</w>
-<w n="47,10">Игоря,</w>
-<w n="47,10">великаго</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="47,10">синко.</w>
-<w n="47,10">боричь.</w>
-<w n="47,10">послании</w>
-<w n="47,10">ѿ</w>
-<w n="47,10">игорѧ.</w>
-<w n="47,10">великого <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="47,10">и</w>
-<w n="47,10">синоко</w>
-<w n="47,10">биричь.</w>
-<w n="47,10">послание</w>
-<w n="47,10">ѿ</w>
-<w n="47,10">великого</w>
-<w n="47,10">кн҃зѧ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="47,10">и</w>
-<w n="47,10">синъко</w>
-<w n="47,10">биричь:·</w>
-<w n="47,10">Посланїи</w>
-<w n="47,10">ѿ</w>
-<w n="47,10">вели<lb/>кого</w>
-<w n="47,10">кн҃зѧ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="47,10">и</w>
-<w n="47,10">синько</w>
-<w n="47,10">бири<lb/>чь.</w>
-<w n="47,10">послании</w>
-<w n="47,10">ѿ</w>
-<w n="47,10">игорѧ.</w>
-<w n="47,10">ве<lb/>ликого</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="47,10">и</w>
-<w n="47,10">си<hi rend="sup">н</hi>ко</w>
-<w n="47,10">бири<hi rend="sup">ч</hi>.</w>
-<w n="47,10">посла<lb/>ннїи</w>
-<w n="47,10">ѿ</w>
-<w n="47,10">игорѧ</w>
-<w n="47,10">великаго</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="47,10">Синко,</w>
-<w n="47,10">Боричь,</w>
-<w n="47,10">послании</w>
-<w n="47,10">отъ</w>
-<w n="47,10">Игоря,</w>
-<w n="47,10">великого</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="47,10">и</w>
-<w n="47,10">Синъко</w>
-<w n="47,10">Боричь,</w>
-<w n="47,10">посълании</w>
-<w n="47,10">отъ</w>
-<w n="47,10">Игоря,</w>
-<w n="47,10">великаго</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="47,10">Синко,</w>
-<w n="47,10">Боричь,</w>
-<w n="47,10">послании</w>
-<w n="47,10">от</w>
-<w n="47,10">Игоря,</w>
-<w n="47,10">великого</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>47, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="47"/><div type="block" n="10"><p><app><lem wit="#lem">
+            Исинко Биричь, посълании отъ Игоря, великаго
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">синко. боричь. послании ѿ игорѧ. великого <lb/></rdg>
+            <rdg wit="#rad">и синоко биричь. послание ѿ великого кн҃зѧ</rdg>
+            <rdg wit="#aka">и синъко биричь:· Посланїи ѿ вели<lb/>кого кн҃зѧ</rdg>
+            <rdg wit="#ipa">и синько бири<lb/>чь. послании ѿ игорѧ. ве<lb/>ликого</rdg>
+            <rdg wit="#xle">и си<hi rend="sup">н</hi>ко бири<hi rend="sup">ч</hi>. посла<lb/>ннїи ѿ игорѧ великаго</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Синко, Боричь, послании отъ Игоря, великого</rdg><rdg wit="#shakh">и Синъко Боричь, посълании отъ Игоря, великаго</rdg><rdg wit="#likh">Синко, Боричь, послании от Игоря, великого</rdg></rdgGrp></app></p></div></body></text></TEI>

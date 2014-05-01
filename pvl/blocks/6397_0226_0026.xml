@@ -1,40 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>226, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="226"/><div type="block" n="26"><p>
-<app>
-<lem wit="#lem">
-<w n="226,26">манастыря.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="226,26">манасты<lb/>рю·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="226,26">монарстырю:·</w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="226,26">монасты·̏рю:·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="226,26">манастырѧ:· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="226,26">манастырѧ.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="226,26">манастырю.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="226,26">манастырю.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="226,26">манастырю.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>226, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="226"/><div type="block" n="26"><p><app><lem wit="#lem">
+            манастыря.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">манасты<lb/>рю·</rdg>
+            <rdg wit="#rad">монарстырю:· </rdg>
+            <rdg wit="#aka">монасты·̏рю:·</rdg>
+            <rdg wit="#ipa">манастырѧ:· <lb/></rdg>
+            <rdg wit="#xle">манастырѧ.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">манастырю.</rdg><rdg wit="#shakh">манастырю.</rdg><rdg wit="#likh">манастырю.</rdg></rdgGrp></app></p></div></body></text></TEI>

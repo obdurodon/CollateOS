@@ -1,73 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>274, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="274"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-<w n="274,6">свои,</w>
-<w n="274,6">Святопълкъ</w>
-<w n="274,6">Путяту,</w>
-<w n="274,6">Володимиръ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="274,6">своѣ· <lb/></w>
-
-<w n="274,6">ст҃ополкъ·</w>
-<w n="274,6">путѧту·</w>
-<w n="274,6">володи<lb/>меръ·</w>
-<w n="274,6">ѡрогостѧ·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="274,6">свои·</w>
-<w n="274,6">ст҃ополкъ·</w>
-<w n="274,6">пѹтѧтѹ·</w>
-<w n="274,6">володимиръ·</w>
-<w n="274,6">ѡрьго<lb/>сте</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="274,6">свои·</w>
-<w n="274,6">ст҃о<lb/>полкъ·</w>
-<w n="274,6">пѹтѧтѹ·</w>
-<w n="274,6">володимиръ</w>
-<w n="274,6">ѡргосте·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="274,6">свои·</w>
-<w n="274,6">ст҃ополкъ</w>
-<w n="274,6">путѧ<lb/>ту</w>
-<w n="274,6">володимеръ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="274,6">свои. <lb/></w>
-
-<w n="274,6">ст҃опол′кь</w>
-<w n="274,6">поутѧтоу.</w>
-<w n="274,6">вол<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>меръ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="274,6">своѣ,</w>
-<w n="274,6">Святополкъ</w>
-<w n="274,6">Путяту,</w>
-<w n="274,6">Володимеръ</w>
-<w n="274,6">Орогостя</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="274,6">своѣ,</w>
-<w n="274,6">Святопълкъ</w>
-<w n="274,6">Путяту,</w>
-<w n="274,6">Володимеръ</w>
-<w n="274,6">Орьгостя</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="274,6">своѣ,</w>
-<w n="274,6">Святополкъ</w>
-<w n="274,6">Путяту,</w>
-<w n="274,6">Володимеръ</w>
-<w n="274,6">Орогостя</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>274, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="274"/><div type="block" n="6"><p><app><lem wit="#lem">
+            свои, Святопълкъ Путяту, Володимиръ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">своѣ· <lb/> ст҃ополкъ· путѧту· володи<lb/>меръ· ѡрогостѧ·</rdg>
+            <rdg wit="#rad">свои· ст҃ополкъ· пѹтѧтѹ· володимиръ· ѡрьго<lb/>сте</rdg>
+            <rdg wit="#aka">свои· ст҃о<lb/>полкъ· пѹтѧтѹ· володимиръ ѡргосте·</rdg>
+            <rdg wit="#ipa">свои· ст҃ополкъ путѧ<lb/>ту володимеръ</rdg>
+            <rdg wit="#xle">свои. <lb/> ст҃опол′кь поутѧтоу. вол<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>меръ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">своѣ, Святополкъ Путяту, Володимеръ Орогостя</rdg><rdg wit="#shakh">своѣ, Святопълкъ Путяту, Володимеръ Орьгостя</rdg><rdg wit="#likh">своѣ, Святополкъ Путяту, Володимеръ Орогостя</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,80 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>49, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="49"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="49,3">Переяславля,</w>
-<w n="49,3">и</w>
-<w n="49,3">прочии</w>
-<w n="49,3">городы.</w>
-<w n="49,3">И</w>
-<w n="49,3">да</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="49,3">переꙗславлѧ.</w>
-<w n="49,3">да</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="49,3">переаславлѧ.</w>
-<w n="49,3">и</w>
-<w n="49,3">ис</w>
-<w n="49,3">прочи<hi rend="sup">х</hi></w>
-<w n="49,3">городовъ.</w>
-<w n="49,3">и</w>
-<w n="49,3">да <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="49,3">переꙗсловлѧ.</w>
-<w n="49,3">и</w>
-<w n="49,3">ис</w>
-<w n="49,3">прочи<hi rend="sup">х</hi></w>
-<w n="49,3">городовь.</w>
-<w n="49,3">и</w>
-<w n="49,3">да</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="49,3">пе<lb/>реꙗславлѧ.</w>
-<w n="49,3">и</w>
-<w n="49,3">прочии</w>
-<w n="49,3">горо<lb/>ди.</w>
-<w n="49,3">и</w>
-<w n="49,3">да</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="49,3">переяславлѧ.</w>
-<w n="49,3">и</w>
-<w n="49,3">прочїи <lb/></w>
-
-<w n="49,3">горѡды.</w>
-<w n="49,3">и</w>
-<w n="49,3">да</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="49,3">Переяславля</w>
-<w n="49,3">и</w>
-<w n="49,3">ис</w>
-<w n="49,3">прочихъ</w>
-<w n="49,3">городовъ.</w>
-<w n="49,3">Да</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="49,3">Переяславля.</w>
-<w n="49,3">И</w>
-<w n="49,3">да</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="49,3">Переяславля</w>
-<w n="49,3">и</w>
-<w n="49,3">исъ</w>
-<w n="49,3">прочих</w>
-<w n="49,3">городовъ.</w>
-<w n="49,3">Да</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>49, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="49"/><div type="block" n="3"><p><app><lem wit="#lem">
+            Переяславля, и прочии городы. И да
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">переꙗславлѧ. да</rdg>
+            <rdg wit="#rad">переаславлѧ. и ис прочи<hi rend="sup">х</hi> городовъ. и да <lb/></rdg>
+            <rdg wit="#aka">переꙗсловлѧ. и ис прочи<hi rend="sup">х</hi> городовь. и да</rdg>
+            <rdg wit="#ipa">пе<lb/>реꙗславлѧ. и прочии горо<lb/>ди. и да</rdg>
+            <rdg wit="#xle">переꙗславлѧ. и прочїи <lb/> горѡды. и да</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Переяславля и ис прочихъ городовъ. Да</rdg><rdg wit="#shakh">Переяславля. И да</rdg><rdg wit="#likh">Переяславля и исъ прочих городовъ. Да</rdg></rdgGrp></app></p></div></body></text></TEI>

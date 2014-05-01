@@ -1,88 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="24"><p>
-<app>
-<lem wit="#lem">
-<w n="18,24">лѣто</w>
-<w n="18,24">Михаила,</w>
-<w n="18,24">и</w>
-<w n="18,24">по</w>
-<w n="18,24">ряду</w>
-<w n="18,24">положимъ</w>
-<w n="18,24">числа.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="18,24">лѣто</w>
-<w n="18,24">мих<hi rend="sup">а</hi><lb/>иломъ</w>
-<w n="18,24">а</w>
-<w n="18,24">по</w>
-<w n="18,24">рѧду</w>
-<w n="18,24">положимъ</w>
-<w n="18,24">числа·:·</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-<w n="18,24">михаила.</w>
-<w n="18,24">и</w>
-<w n="18,24">положимь</w>
-<w n="18,24">числа.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="18,24">лѣто</w>
-<w n="18,24">михаила.</w>
-<w n="18,24">и <lb/></w>
-
-<w n="18,24">по</w>
-<w n="18,24">рѧду</w>
-<w n="18,24">положимъ</w>
-<w n="18,24">числа. <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="18,24">лѣто</w>
-<w n="18,24">михаила. <lb/></w>
-
-<w n="18,24">и</w>
-<w n="18,24">по</w>
-<w n="18,24">рѧдоу</w>
-<w n="18,24">положи<hi rend="sup">м</hi></w>
-<w n="18,24">числа.·̏</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="18,24">лѣто</w>
-<w n="18,24">Михаиломъ,</w>
-<w n="18,24">а</w>
-<w n="18,24">по</w>
-<w n="18,24">ряду</w>
-<w n="18,24">положимъ</w>
-<w n="18,24">числа.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="18,24">лѣто</w>
-<w n="18,24">Михаилъмь,</w>
-<w n="18,24">а</w>
-<w n="18,24">по</w>
-<w n="18,24">ряду</w>
-<w n="18,24">положимъ</w>
-<w n="18,24">числа.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="18,24">лѣто</w>
-<w n="18,24">Михаиломъ,</w>
-<w n="18,24">а</w>
-<w n="18,24">по</w>
-<w n="18,24">ряду</w>
-<w n="18,24">положимъ</w>
-<w n="18,24">числа.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="24"><p><app><lem wit="#lem">
+            лѣто Михаила, и по ряду положимъ числа.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">лѣто мих<hi rend="sup">а</hi><lb/>иломъ а по рѧду положимъ числа·:·</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">михаила. и положимь числа.</rdg>
+            <rdg wit="#ipa">лѣто михаила. и <lb/> по рѧду положимъ числа. <lb/></rdg>
+            <rdg wit="#xle">лѣто михаила. <lb/> и по рѧдоу положи<hi rend="sup">м</hi> числа.·̏</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">лѣто Михаиломъ, а по ряду положимъ числа.</rdg><rdg wit="#shakh">лѣто Михаилъмь, а по ряду положимъ числа.</rdg><rdg wit="#likh">лѣто Михаиломъ, а по ряду положимъ числа.</rdg></rdgGrp></app></p></div></body></text></TEI>

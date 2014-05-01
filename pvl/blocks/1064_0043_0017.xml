@@ -1,97 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>43, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="43"/><div type="block" n="17"><p>
-<app>
-<lem wit="#lem">
-<w n="43,17">Въ</w>
-<w n="43,17">лѣто 6437.</w>
-
-<w n="43,17">Приде</w>
-<w n="43,17">Семеонъ</w>
-<w n="43,17">на</w>
-<w n="43,17">Цьсарьградъ,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="43,17">В</w>
-<w n="43,17">лѣ<hi rend="sup">т</hi>.</w>
-<w n="43,17">҂ѕ҃.у҃.л҃з·:- <lb/></w>
-
-<w n="43,17">Приде</w>
-<w n="43,17">семевонъ</w>
-<w n="43,17">на</w>
-<w n="43,17">ц҃рьградъ.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="43,17">В</w>
-<w n="43,17">лѣ<hi rend="sup">т</hi></w>
-<w n="43,17">҂ѕ҃</w>
-<w n="43,17">у҃</w>
-<w n="43,17">л҃з. <lb/></w>
-
-<w n="43,17">Прииде</w>
-<w n="43,17">семи<milestone unit="sic" n="start"/><hi rend="sup">ѡ</hi><milestone unit="sic" n="end"/>нъ</w>
-<w n="43,17">на</w>
-<w n="43,17">ц҃рьгра<hi rend="sup">д</hi>.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="43,17">В</w>
-<w n="43,17">лѣ<hi rend="sup">т</hi>.</w>
-<w n="43,17">҂ѕ҃.<lb/>.у҃.л҃з.</w>
-<w n="43,17">Прїиде</w>
-<w n="43,17">семиѡнъ</w>
-<w n="43,17">на</w>
-<w n="43,17">ц҃рьградъ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="43,17">В</w>
-<w n="43,17">лѣто.</w>
-<w n="43,17">҂ѕ҃.у҃.л҃з·:·</w>
-<w n="43,17">При<lb/>иде</w>
-<w n="43,17">семеѡнъ</w>
-<w n="43,17">на</w>
-<w n="43,17">цр<hi rend="sup">с</hi>ьгра<hi rend="sup">д</hi>. <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="43,17">в</w>
-<w n="43,17">лѣ<hi rend="sup">т</hi></w>
-<w n="43,17">҂ѕ҃.у҃.л҃з.</w>
-<w n="43,17">Прїиде</w>
-<w n="43,17">симїонь</w>
-<w n="43,17">на</w>
-<w n="43,17">ц҃рьгра<hi rend="sup">д</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="43,17">В</w>
-<w n="43,17">лѣто 6437.</w>
-
-<w n="43,17">Приде</w>
-<w n="43,17">Семевонъ</w>
-<w n="43,17">на</w>
-<w n="43,17">Царьградъ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="43,17">Въ</w>
-<w n="43,17">лѣто 6437.</w>
-
-<w n="43,17">Приде</w>
-<w n="43,17">Семеонъ</w>
-<w n="43,17">на</w>
-<w n="43,17">Цѣсарьградъ,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="43,17">В</w>
-<w n="43,17">лѣто 6437.</w>
-
-<w n="43,17">Приде</w>
-<w n="43,17">Семевонъ</w>
-<w n="43,17">на</w>
-<w n="43,17">Царьградъ,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>43, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="43"/><div type="block" n="17"><p><app><lem wit="#lem">
+            Въ лѣто 6437. Приде Семеонъ на Цьсарьградъ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">В лѣ<hi rend="sup">т</hi>. ҂ѕ҃.у҃.л҃з·:- <lb/> Приде семевонъ на ц҃рьградъ.</rdg>
+            <rdg wit="#rad">В лѣ<hi rend="sup">т</hi> ҂ѕ҃ у҃ л҃з. <lb/> Прииде семи<sic><hi rend="sup">ѡ</hi></sic>нъ на
+                    ц҃рьгра<hi rend="sup">д</hi>.</rdg>
+            <rdg wit="#aka">В лѣ<hi rend="sup">т</hi>. ҂ѕ҃.<lb/>.у҃.л҃з. Прїиде семиѡнъ на ц҃рьградъ.</rdg>
+            <rdg wit="#ipa">В лѣто. ҂ѕ҃.у҃.л҃з·:· При<lb/>иде семеѡнъ на цр<hi rend="sup">с</hi>ьгра<hi rend="sup">д</hi>.
+                <lb/></rdg>
+            <rdg wit="#xle">в лѣ<hi rend="sup">т</hi> ҂ѕ҃.у҃.л҃з. Прїиде симїонь на ц҃рьгра<hi rend="sup">д</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">В лѣто 6437. Приде Семевонъ на Царьградъ,</rdg><rdg wit="#shakh">Въ лѣто 6437. Приде Семеонъ на Цѣсарьградъ,</rdg><rdg wit="#likh">В лѣто 6437. Приде Семевонъ на Царьградъ,</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,99 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>210, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="210"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-<w n="210,6">другому</w>
-<w n="210,6">брату,</w>
-<w n="210,6">копахомъ</w>
-<w n="210,6">до</w>
-<w n="210,6">полуночия,</w>
-<w n="210,6">и</w>
-<w n="210,6">трудихомъ</w>
-<w n="210,6">ся,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="210,6">другому</w>
-<w n="210,6">брату.</w>
-<w n="210,6">копахомъ</w>
-<w n="210,6">до <lb/></w>
-
-<w n="210,6">полуночьꙗ.</w>
-<w n="210,6">трудихомсѧ.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="210,6">дроугомѹ</w>
-<w n="210,6">бра<hi rend="sup">т</hi>у.</w>
-<w n="210,6">копати.</w>
-<w n="210,6">и</w>
-<w n="210,6">копахо<hi rend="sup">м</hi>.</w>
-<w n="210,6">до</w>
-<w n="210,6">полѹнощи</w>
-<w n="210,6">и</w>
-<w n="210,6">трѹ<lb/>дихомъ<hi rend="sup">с</hi>.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="210,6">дрѹгомѹ</w>
-<w n="210,6">бра<lb/>тѹ</w>
-<w n="210,6">копати.</w>
-<w n="210,6">и</w>
-<w n="210,6">копахомъ</w>
-<w n="210,6">до</w>
-<w n="210,6">полѹнощи.</w>
-<w n="210,6">и</w>
-<w n="210,6">трѹ<lb/>дихомсѧ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="210,6">дроугому</w>
-<w n="210,6">бра<hi rend="sup">т</hi></w>
-<w n="210,6">и</w>
-<w n="210,6">ко<lb/>пахомъ</w>
-<w n="210,6">до</w>
-<w n="210,6">полуночьꙗ.</w>
-<w n="210,6">ї</w>
-<w n="210,6">тру<lb/>дихомсѧ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="210,6">дроу<lb/>гомоу</w>
-<w n="210,6">братоу.</w>
-<w n="210,6">и</w>
-<w n="210,6">копахѡ<hi rend="sup">м</hi></w>
-<w n="210,6">до</w>
-<w n="210,6">полоуночїа</w>
-<w n="210,6">и</w>
-<w n="210,6">троу<hi rend="sup">д</hi>х<hi rend="sup">и</hi>омсѧ.</w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="210,6">другому</w>
-<w n="210,6">брату,</w>
-<w n="210,6">копахомъ</w>
-<w n="210,6">до</w>
-<w n="210,6">полуночья,</w>
-<w n="210,6">трудихомся,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="210,6">другому</w>
-<w n="210,6">брату,</w>
-<w n="210,6">и</w>
-<w n="210,6">копахомъ</w>
-<w n="210,6">до</w>
-<w n="210,6">полунощия;</w>
-<w n="210,6">и</w>
-<w n="210,6">трудихомъся,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="210,6">другому</w>
-<w n="210,6">брату,</w>
-<w n="210,6">копахомъ</w>
-<w n="210,6">до</w>
-<w n="210,6">полуночья,</w>
-<w n="210,6">трудихомся,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>210, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="210"/><div type="block" n="6"><p><app><lem wit="#lem">
+            другому брату, копахомъ до полуночия, и трудихомъ ся,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">другому брату. копахомъ до <lb/> полуночьꙗ. трудихомсѧ.</rdg>
+            <rdg wit="#rad">дроугомѹ бра<hi rend="sup">т</hi>у. копати. и копахо<hi rend="sup">м</hi>. до полѹнощи и
+                    трѹ<lb/>дихомъ<hi rend="sup">с</hi>.</rdg>
+            <rdg wit="#aka">дрѹгомѹ бра<lb/>тѹ копати. и копахомъ до полѹнощи. и трѹ<lb/>дихомсѧ.</rdg>
+            <rdg wit="#ipa">дроугому бра<hi rend="sup">т</hi> и ко<lb/>пахомъ до полуночьꙗ. ї тру<lb/>дихомсѧ</rdg>
+            <rdg wit="#xle">дроу<lb/>гомоу братоу. и копахѡ<hi rend="sup">м</hi> до полоуночїа и
+                    троу<hi rend="sup">д</hi>х<hi rend="sup">и</hi>омсѧ. </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">другому брату, копахомъ до полуночья, трудихомся,</rdg><rdg wit="#shakh">другому брату, и копахомъ до полунощия; и трудихомъся,</rdg><rdg wit="#likh">другому брату, копахомъ до полуночья, трудихомся,</rdg></rdgGrp></app></p></div></body></text></TEI>

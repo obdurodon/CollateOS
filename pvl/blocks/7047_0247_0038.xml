@@ -1,57 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>247, 38</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="247"/><div type="block" n="38"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="247,38">и</w>
-<w n="247,38">к</w>
-<w n="247,38">собѣ· <lb/></w>
-
-<w n="247,38">на</w>
-<w n="247,38">ѡбѣдъ</w>
-<w n="247,38">со</w>
-<w n="247,38">ѡц҃мь·</w>
-<w n="247,38">в</w>
-<w n="247,38">черниго<lb/>вѣ</w>
-<w n="247,38">на</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="247,38">и</w>
-<w n="247,38">к</w>
-<w n="247,38">собѣ</w>
-<w n="247,38">на</w>
-<w n="247,38">обѣдъ</w>
-<w n="247,38">со</w>
-<w n="247,38">отцемь</w>
-<w n="247,38">в</w>
-<w n="247,38">Черниговѣ,</w>
-<w n="247,38">на</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="247,38">и</w>
-<w n="247,38">к</w>
-<w n="247,38">собѣ</w>
-<w n="247,38">на</w>
-<w n="247,38">обѣдъ</w>
-<w n="247,38">со</w>
-<w n="247,38">отцемь</w>
-<w n="247,38">в</w>
-<w n="247,38">Черниговѣ,</w>
-<w n="247,38">на</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>247, 38</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="247"/><div type="block" n="38"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и к собѣ· <lb/> на ѡбѣдъ со ѡц҃мь· в черниго<lb/>вѣ на</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и к собѣ на обѣдъ со отцемь в Черниговѣ, на</rdg><rdg wit="#likh">и к собѣ на обѣдъ со отцемь в Черниговѣ, на</rdg></rdgGrp></app></p></div></body></text></TEI>

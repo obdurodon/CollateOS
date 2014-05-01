@@ -1,86 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>12, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="12"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-<w n="12,6">и</w>
-<w n="12,6">тако</w>
-<w n="12,6">мучаху</w>
-<w n="12,6">Дулѣбы.</w>
-<w n="12,6">Бяху</w>
-<w n="12,6">бо</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="12,6">тако</w>
-<w n="12,6">му<hi rend="sup">ч</hi>аху</w>
-<w n="12,6">ду<lb/>лѣбы.</w>
-<w n="12,6">быша</w>
-<w n="12,6">бо</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="12,6">и</w>
-<w n="12,6">тако</w>
-<w n="12,6">мучаху</w>
-<w n="12,6">дулѣбы</w>
-<w n="12,6">бѣша</w>
-<w n="12,6">бо</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="12,6">и</w>
-<w n="12,6">тако</w>
-<w n="12,6">моучахоу</w>
-<w n="12,6">дулѣбы.</w>
-<w n="12,6">бѧхоу</w>
-<w n="12,6">бо <pb n="6r"/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="12,6">и</w>
-<w n="12,6">тако</w>
-<w n="12,6">мѹчахѹ</w>
-<w n="12,6">дѹлѣ<lb/>бы.</w>
-<w n="12,6">бѧхѹ</w>
-<w n="12,6">бо</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="12,6">и</w>
-<w n="12,6">тако</w>
-<w n="12,6">мучаху</w>
-<w n="12,6">дулѣбы.</w>
-<w n="12,6">бѧ<lb/>ху</w>
-<w n="12,6">бо</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="12,6">и</w>
-<w n="12,6">тако</w>
-<w n="12,6">мучаху</w>
-<w n="12,6">Дулѣбы.</w>
-<w n="12,6">Быша</w>
-<w n="12,6">бо</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="12,6">и</w>
-<w n="12,6">тако</w>
-<w n="12,6">мучаху</w>
-<w n="12,6">Дулѣбы.</w>
-<w n="12,6">Быша</w>
-<w n="12,6">бо</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="12,6">и</w>
-<w n="12,6">тако</w>
-<w n="12,6">мучаху</w>
-<w n="12,6">дулѣбы.</w>
-<w n="12,6">Быша</w>
-<w n="12,6">бо</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>12, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="12"/><div type="block" n="6"><p><app><lem wit="#lem">
+            и тако мучаху Дулѣбы. Бяху бо
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">тако му<hi rend="sup">ч</hi>аху ду<lb/>лѣбы. быша бо</rdg>
+            <rdg wit="#tro">и тако мучаху дулѣбы бѣша бо</rdg>
+            <rdg wit="#rad">и тако моучахоу дулѣбы. бѧхоу бо <pb n="6r"/></rdg>
+            <rdg wit="#aka">и тако мѹчахѹ дѹлѣ<lb/>бы. бѧхѹ бо</rdg>
+            <rdg wit="#ipa">и тако мучаху дулѣбы. бѧ<lb/>ху бо</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и тако мучаху Дулѣбы. Быша бо</rdg><rdg wit="#shakh">и тако мучаху Дулѣбы. Быша бо</rdg><rdg wit="#likh">и тако мучаху дулѣбы. Быша бо</rdg></rdgGrp></app></p></div></body></text></TEI>

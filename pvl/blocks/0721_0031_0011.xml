@@ -1,98 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>31, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="31"/><div type="block" n="11"><p>
-<app>
-<lem wit="#lem">
-<w n="31,11">елико</w>
-<w n="31,11">хотящи;</w>
-<w n="31,11">а</w>
-<w n="31,11">иже</w>
-<w n="31,11">придутъ</w>
-<w n="31,11">гостие,</w>
-<w n="31,11">да</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="31,11">елико</w>
-<w n="31,11">хотяче</w>
-<w n="31,11">а</w>
-<w n="31,11">иже</w>
-<w n="31,11">придуть</w>
-<w n="31,11">гостеве</w>
-<w n="31,11">да</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="31,11">елико</w>
-<w n="31,11">хотѧчи <lb/></w>
-
-<w n="31,11">а</w>
-<w n="31,11">и<hi rend="sup">ж</hi></w>
-<w n="31,11">при<hi rend="sup">х</hi>дѧ<hi rend="sup">ч</hi></w>
-<w n="31,11">гости</w>
-<w n="31,11">егда</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="31,11">ели<lb/>ко</w>
-<w n="31,11">хотѧче.</w>
-<w n="31,11">а</w>
-<w n="31,11">иже</w>
-<w n="31,11">приходѧче</w>
-<w n="31,11">гости</w>
-<w n="31,11">да</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="31,11">елико</w>
-<w n="31,11">хотѧ<hi rend="sup">т</hi>.</w>
-<w n="31,11">а</w>
-<w n="31,11">иже</w>
-<w n="31,11">придуть <lb/></w>
-
-<w n="31,11">гостье</w>
-<w n="31,11">да <pb n="12c"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="31,11">елико</w>
-<w n="31,11">хотѧше.</w>
-<w n="31,11">а</w>
-<w n="31,11">иже</w>
-<w n="31,11">прїидоу<hi rend="sup">т</hi><lb/></w>
-<w n="31,11">гостїе.</w>
-<w n="31,11">да</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="31,11">елико</w>
-<w n="31,11">хотячи,</w>
-<w n="31,11">а</w>
-<w n="31,11">иже</w>
-<w n="31,11">придутъ</w>
-<w n="31,11">гости,</w>
-<w n="31,11">да</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="31,11">елико</w>
-<w n="31,11">хотящи;</w>
-<w n="31,11">а</w>
-<w n="31,11">иже</w>
-<w n="31,11">приходяще</w>
-<w n="31,11">гостие,</w>
-<w n="31,11">да</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="31,11">елико</w>
-<w n="31,11">хотячи,</w>
-<w n="31,11">а</w>
-<w n="31,11">иже</w>
-<w n="31,11">придутъ</w>
-<w n="31,11">гости</w>
-<w n="31,11">да</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>31, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="31"/><div type="block" n="11"><p><app><lem wit="#lem">
+            елико хотящи; а иже придутъ гостие, да
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">елико хотяче а иже придуть гостеве да</rdg>
+            <rdg wit="#rad">елико хотѧчи <lb/> а и<hi rend="sup">ж</hi> при<hi rend="sup">х</hi>дѧ<hi rend="sup">ч</hi> гости егда</rdg>
+            <rdg wit="#aka">ели<lb/>ко хотѧче. а иже приходѧче гости да</rdg>
+            <rdg wit="#ipa">елико хотѧ<hi rend="sup">т</hi>. а иже придуть <lb/> гостье да
+                <pb n="12c"/></rdg>
+            <rdg wit="#xle">елико хотѧше. а иже прїидоу<hi rend="sup">т</hi>
+                <lb/> гостїе. да</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">елико хотячи, а иже придутъ гости, да</rdg><rdg wit="#shakh">елико хотящи; а иже приходяще гостие, да</rdg><rdg wit="#likh">елико хотячи, а иже придутъ гости да</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,78 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="270"/><div type="block" n="13"><p>
-<app>
-<lem wit="#lem">
-<w n="270,13">вельми.</w>
-<w n="270,13">Брани</w>
-<w n="270,13">же</w>
-<w n="270,13">велицѣ</w>
-<w n="270,13">бывъши</w>
-<w n="270,13">и</w>
-<w n="270,13">мъногымъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="270,13">велми·</w>
-<w n="270,13">брани</w>
-<w n="270,13">же</w>
-<w n="270,13">ве<lb/>лицѣ</w>
-<w n="270,13">бывши·</w>
-<w n="270,13">и</w>
-<w n="270,13">мнозѣмъ</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="270,13">вель<lb/>ми·</w>
-<w n="270,13">брани</w>
-<w n="270,13">же</w>
-<w n="270,13">велицѣ</w>
-<w n="270,13">бывши· <lb/></w>
-
-<w n="270,13">и</w>
-<w n="270,13">многымъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="270,13">ве<hi rend="sup">л</hi>ми.</w>
-<w n="270,13">брани<hi rend="sup">ж</hi></w>
-<w n="270,13">велицѣ</w>
-<w n="270,13">быв′ши.</w>
-<w n="270,13">и</w>
-<w n="270,13">мнѡгы<hi rend="sup">м</hi><lb/></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="270,13">велми.</w>
-<w n="270,13">Брани</w>
-<w n="270,13">же</w>
-<w n="270,13">велицѣ</w>
-<w n="270,13">бывши</w>
-<w n="270,13">и</w>
-<w n="270,13">мнозѣмъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="270,13">вельми.</w>
-<w n="270,13">Брани</w>
-<w n="270,13">же</w>
-<w n="270,13">велицѣ</w>
-<w n="270,13">бывъши</w>
-<w n="270,13">и</w>
-<w n="270,13">мънозѣмъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="270,13">велми.</w>
-<w n="270,13">Брани</w>
-<w n="270,13">же</w>
-<w n="270,13">велицѣ</w>
-<w n="270,13">бывши</w>
-<w n="270,13">и</w>
-<w n="270,13">мнозѣмъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="270"/><div type="block" n="13"><p><app><lem wit="#lem">
+            вельми. Брани же велицѣ бывъши и мъногымъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">велми· брани же ве<lb/>лицѣ бывши· и мнозѣмъ</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">вель<lb/>ми· брани же велицѣ бывши· <lb/> и многымъ</rdg>
+            <rdg wit="#xle">ве<hi rend="sup">л</hi>ми. брани<hi rend="sup">ж</hi> велицѣ быв′ши. и мнѡгы<hi rend="sup">м</hi>
+                <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">велми. Брани же велицѣ бывши и мнозѣмъ</rdg><rdg wit="#shakh">вельми. Брани же велицѣ бывъши и мънозѣмъ</rdg><rdg wit="#likh">велми. Брани же велицѣ бывши и мнозѣмъ</rdg></rdgGrp></app></p></div></body></text></TEI>

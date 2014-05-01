@@ -1,83 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>53, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="53"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="53,22">съ</w>
-<w n="53,22">сълы</w>
-<w n="53,22">Грьчьскыми,</w>
-<w n="53,22">и</w>
-<w n="53,22">повѣдаша</w>
-<w n="53,22">вься</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="53,22">со</w>
-<w n="53,22">слы <lb/></w>
-
-<w n="53,22">гречьскими.</w>
-<w n="53,22">повѣдаша</w>
-<w n="53,22">всѧ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="53,22">с</w>
-<w n="53,22">послы</w>
-<w n="53,22">грецкими.</w>
-<w n="53,22">и</w>
-<w n="53,22">поведа<hi rend="sup">ш</hi></w>
-<w n="53,22">всѧ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="53,22">с</w>
-<w n="53,22">по<lb/>слы</w>
-<w n="53,22">грецкыми.</w>
-<w n="53,22">и</w>
-<w n="53,22">поведаша</w>
-<w n="53,22">всѧ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="53,22">съ</w>
-<w n="53,22">слы</w>
-<w n="53,22">грѣцки<lb/>ми.</w>
-<w n="53,22">и</w>
-<w n="53,22">повѣдаша</w>
-<w n="53,22">всѧ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="53,22">с</w>
-<w n="53,22">послы</w>
-<w n="53,22">гре<hi rend="sup">ц</hi>к<hi rend="sup">м</hi>ы<hi rend="sup">и</hi><lb/></w>
-<w n="53,22">и</w>
-<w n="53,22">повѣдаша</w>
-<w n="53,22">всѧ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="53,22">со</w>
-<w n="53,22">слы</w>
-<w n="53,22">Гречьскими,</w>
-<w n="53,22">и</w>
-<w n="53,22">повѣдаша</w>
-<w n="53,22">вся</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="53,22">съ</w>
-<w n="53,22">сълы</w>
-<w n="53,22">Грьчьскыми,</w>
-<w n="53,22">и</w>
-<w n="53,22">повѣдаша</w>
-<w n="53,22">вься</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="53,22">со</w>
-<w n="53,22">слы</w>
-<w n="53,22">гречьскими,</w>
-<w n="53,22">и</w>
-<w n="53,22">повѣдаша</w>
-<w n="53,22">вся</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>53, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="53"/><div type="block" n="22"><p><app><lem wit="#lem">
+            съ сълы Грьчьскыми, и повѣдаша вься
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">со слы <lb/> гречьскими. повѣдаша всѧ</rdg>
+            <rdg wit="#rad">с послы грецкими. и поведа<hi rend="sup">ш</hi> всѧ</rdg>
+            <rdg wit="#aka">с по<lb/>слы грецкыми. и поведаша всѧ</rdg>
+            <rdg wit="#ipa">съ слы грѣцки<lb/>ми. и повѣдаша всѧ</rdg>
+            <rdg wit="#xle">с послы гре<hi rend="sup">ц</hi>к<hi rend="sup">м</hi>ы<hi rend="sup">и</hi>
+                <lb/> и повѣдаша всѧ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">со слы Гречьскими, и повѣдаша вся</rdg><rdg wit="#shakh">съ сълы Грьчьскыми, и повѣдаша вься</rdg><rdg wit="#likh">со слы гречьскими, и повѣдаша вся</rdg></rdgGrp></app></p></div></body></text></TEI>

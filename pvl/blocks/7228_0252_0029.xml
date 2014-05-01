@@ -1,52 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>252, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="252"/><div type="block" n="29"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="252,29">твои</w>
-<w n="252,29">ѥгоже <lb/></w>
-
-<w n="252,29">ѥси</w>
-<w n="252,29">хрстилъ</w>
-<w n="252,29">иже</w>
-<w n="252,29">то</w>
-<w n="252,29">сѣдить</w>
-<w n="252,29">бли<lb/>зь</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="252,29">мой,</w>
-<w n="252,29">егоже</w>
-<w n="252,29">еси</w>
-<w n="252,29">хрстилъ,</w>
-<w n="252,29">иже</w>
-<w n="252,29">то</w>
-<w n="252,29">сѣдить</w>
-<w n="252,29">близь</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="252,29">мой,</w>
-<w n="252,29">его</w>
-<w n="252,29">же</w>
-<w n="252,29">еси</w>
-<w n="252,29">хрстилъ,</w>
-<w n="252,29">иже</w>
-<w n="252,29">то</w>
-<w n="252,29">сѣдить</w>
-<w n="252,29">близь</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>252, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="252"/><div type="block" n="29"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">твои ѥгоже <lb/> ѥси хрстилъ иже то сѣдить бли<lb/>зь</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">мой, егоже еси хрстилъ, иже то сѣдить близь</rdg><rdg wit="#likh">мой, его же еси хрстилъ, иже то сѣдить близь</rdg></rdgGrp></app></p></div></body></text></TEI>

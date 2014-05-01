@@ -1,85 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>192, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="192"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="192,20">въ</w>
-<w n="192,20">пещерѣ,</w>
-<w n="192,20">яко</w>
-<w n="192,20">зракъ</w>
-<w n="192,20">вынимая</w>
-<w n="192,20">человѣку.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="192,20">восьꙗ</w>
-<w n="192,20">в</w>
-<w n="192,20">печерѣ.</w>
-<w n="192,20">ꙗко</w>
-<w n="192,20">зракъ</w>
-<w n="192,20">вы<lb/>нимаꙗ</w>
-<w n="192,20">члв҃ку.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="192,20">во</w>
-<w n="192,20">пече<lb/>ре.</w>
-<w n="192,20">ꙗко</w>
-<w n="192,20">зракъ</w>
-<w n="192,20">вынимаꙗ</w>
-<w n="192,20">члк҃оу.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="192,20">в</w>
-<w n="192,20">печерѣ.</w>
-<w n="192,20">ꙗко</w>
-<w n="192,20">зракь</w>
-<w n="192,20">вынимаѧ <lb/></w>
-
-<w n="192,20">члк҃ѹ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="192,20">вь</w>
-<w n="192,20">пещерѣ.</w>
-<w n="192,20">ꙗко</w>
-<w n="192,20">зрако<lb/>мъ</w>
-<w n="192,20">внимаꙗ</w>
-<w n="192,20">члв҃ку.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="192,20">въ</w>
-<w n="192,20">пещерѣ,</w>
-<w n="192,20">яко</w>
-<w n="192,20">зра<hi rend="sup">к</hi><lb/></w>
-<w n="192,20">вынимаа</w>
-<w n="192,20">члк҃оу.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="192,20">в</w>
-<w n="192,20">печерѣ,</w>
-<w n="192,20">яко</w>
-<w n="192,20">зракъ</w>
-<w n="192,20">вынимая</w>
-<w n="192,20">человеку;</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="192,20">въ</w>
-<w n="192,20">пещерѣ,</w>
-<w n="192,20">яко</w>
-<w n="192,20">зракъ</w>
-<w n="192,20">вынимая</w>
-<w n="192,20">человѣку;</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="192,20">в</w>
-<w n="192,20">печерѣ,</w>
-<w n="192,20">яко</w>
-<w n="192,20">зракъ</w>
-<w n="192,20">вынимая</w>
-<w n="192,20">человеку.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>192, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="192"/><div type="block" n="20"><p><app><lem wit="#lem">
+            въ пещерѣ, яко зракъ вынимая человѣку.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">восьꙗ в печерѣ. ꙗко зракъ вы<lb/>нимаꙗ члв҃ку.</rdg>
+            <rdg wit="#rad">во пече<lb/>ре. ꙗко зракъ вынимаꙗ члк҃оу.</rdg>
+            <rdg wit="#aka">в печерѣ. ꙗко зракь вынимаѧ <lb/> члк҃ѹ.</rdg>
+            <rdg wit="#ipa">вь пещерѣ. ꙗко зрако<lb/>мъ внимаꙗ члв҃ку.</rdg>
+            <rdg wit="#xle">въ пещерѣ, ꙗко зра<hi rend="sup">к</hi>
+                <lb/> вынимаа члк҃оу.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">в печерѣ, яко зракъ вынимая человеку;</rdg><rdg wit="#shakh">въ пещерѣ, яко зракъ вынимая человѣку;</rdg><rdg wit="#likh">в печерѣ, яко зракъ вынимая человеку.</rdg></rdgGrp></app></p></div></body></text></TEI>

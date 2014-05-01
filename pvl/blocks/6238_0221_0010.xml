@@ -1,78 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>221, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="221"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-<w n="221,10">Половьцемъ</w>
-<w n="221,10">же</w>
-<w n="221,10">осѣдящемъ</w>
-<w n="221,10">Търчьскыи,</w>
-<w n="221,10">противящемъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="221,10">половце<lb/>мъ</w>
-<w n="221,10">же</w>
-<w n="221,10">ѡсѣдѧщемъ</w>
-<w n="221,10">торцьскы<lb/>и·</w>
-<w n="221,10">противѧщимъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="221,10">половцем</w>
-<w n="221,10">же</w>
-<w n="221,10">ѡблежащимъ <lb/></w>
-
-<w n="221,10">торческии·</w>
-<w n="221,10">и</w>
-<w n="221,10">противѧщимъ<hi rend="sup">с</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="221,10">половцемь</w>
-<w n="221,10">же</w>
-<w n="221,10">ѡблежа<lb/>щимъ</w>
-<w n="221,10">торьческии·</w>
-<w n="221,10">и</w>
-<w n="221,10">противѧщим</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="221,10">половцемь</w>
-<w n="221,10">же <lb/></w>
-
-<w n="221,10">осѣдѧще</w>
-<w n="221,10">торочьскии·</w>
-<w n="221,10">про<lb/>тивѧщем</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="221,10">половце<hi rend="sup">м</hi></w>
-<w n="221,10">же</w>
-<w n="221,10">сѣдѧще<hi rend="sup">м</hi></w>
-<w n="221,10">торческоу.</w>
-<w n="221,10">противѧще<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="221,10">Половцемъ</w>
-<w n="221,10">же</w>
-<w n="221,10">осѣдящемъ</w>
-<w n="221,10">Торцьскый,</w>
-<w n="221,10">противящимъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="221,10">Половьцемъ</w>
-<w n="221,10">же</w>
-<w n="221,10">осѣдящемъ</w>
-<w n="221,10">Търчьскыи,</w>
-<w n="221,10">противящемъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="221,10">Половцемъ</w>
-<w n="221,10">же</w>
-<w n="221,10">осѣдящемъ</w>
-<w n="221,10">Торцьскый,</w>
-<w n="221,10">противящимъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>221, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="221"/><div type="block" n="10"><p><app><lem wit="#lem">
+            Половьцемъ же осѣдящемъ Търчьскыи, противящемъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">половце<lb/>мъ же ѡсѣдѧщемъ торцьскы<lb/>и· противѧщимъ</rdg>
+            <rdg wit="#rad">половцем же ѡблежащимъ <lb/> торческии· и противѧщимъ<hi rend="sup">с</hi></rdg>
+            <rdg wit="#aka">половцемь же ѡблежа<lb/>щимъ торьческии· и противѧщим</rdg>
+            <rdg wit="#ipa">половцемь же <lb/> осѣдѧще торочьскии· про<lb/>тивѧщем</rdg>
+            <rdg wit="#xle">половце<hi rend="sup">м</hi> же сѣдѧще<hi rend="sup">м</hi> торческоу. противѧще<hi rend="sup">м</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Половцемъ же осѣдящемъ Торцьскый, противящимъ</rdg><rdg wit="#shakh">Половьцемъ же осѣдящемъ Търчьскыи, противящемъ</rdg><rdg wit="#likh">Половцемъ же осѣдящемъ Торцьскый, противящимъ</rdg></rdgGrp></app></p></div></body></text></TEI>

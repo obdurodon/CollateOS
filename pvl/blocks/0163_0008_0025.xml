@@ -1,101 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>8, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="8"/><div type="block" n="25"><p>
-<app>
-<lem wit="#lem">
-<w n="8,25">и</w>
-<w n="8,25">тако</w>
-<w n="8,25">оживуть.</w>
-<w n="8,25">И</w>
-<w n="8,25">тако</w>
-<w n="8,25">творять</w>
-<w n="8,25">по</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="8,25">тако</w>
-<w n="8,25">ѡжиоуть.</w>
-<w n="8,25">и</w>
-<w n="8,25">то</w>
-<w n="8,25">творѧть</w>
-<w n="8,25">по <lb/></w>
-
-</rdg>
-
-<rdg wit="#tro">
-<w n="8,25">и</w>
-<w n="8,25">тако</w>
-<w n="8,25">оживуть</w>
-<w n="8,25">и</w>
-<w n="8,25">то</w>
-<w n="8,25">творять</w>
-<w n="8,25">по</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="8,25">и</w>
-<w n="8,25">тако</w>
-<w n="8,25">ѡжывоу<hi rend="sup">т</hi><lb/></w>
-<w n="8,25">и</w>
-<w n="8,25">тако</w>
-<w n="8,25">творѧть</w>
-<w n="8,25">по</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="8,25">и</w>
-<w n="8,25">тако</w>
-<w n="8,25">ѡживѹтъ.</w>
-<w n="8,25">и</w>
-<w n="8,25">тако</w>
-<w n="8,25">творѧ<hi rend="sup">т</hi><lb/></w>
-<w n="8,25">по</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="8,25">и <lb/></w>
-
-<w n="8,25">тако</w>
-<w n="8,25">ѡживу<hi rend="sup">т</hi>.</w>
-<w n="8,25">и</w>
-<w n="8,25">тако</w>
-<w n="8,25">тво<lb/>рѧть</w>
-<w n="8,25">по</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="8,25">и</w>
-<w n="8,25">ѡживоу<hi rend="sup">т</hi>.</w>
-<w n="8,25">и</w>
-<w n="8,25">тако</w>
-<w n="8,25">творѧ<hi rend="sup">т</hi></w>
-<w n="8,25">по</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="8,25">и</w>
-<w n="8,25">тако</w>
-<w n="8,25">оживуть;</w>
-<w n="8,25">и</w>
-<w n="8,25">то</w>
-<w n="8,25">творять</w>
-<w n="8,25">по</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="8,25">и</w>
-<w n="8,25">оживуть;</w>
-<w n="8,25">и</w>
-<w n="8,25">тако</w>
-<w n="8,25">творять</w>
-<w n="8,25">по</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="8,25">и</w>
-<w n="8,25">тако</w>
-<w n="8,25">ожиуть.</w>
-<w n="8,25">И</w>
-<w n="8,25">то</w>
-<w n="8,25">творять</w>
-<w n="8,25">по</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>8, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="8"/><div type="block" n="25"><p><app><lem wit="#lem">
+            и тако оживуть. И тако творять по
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">тако ѡжиоуть. и то творѧть по <lb/></rdg>
+            <rdg wit="#tro">и тако оживуть и то творять по</rdg>
+            <rdg wit="#rad">и тако ѡжывоу<hi rend="sup">т</hi>
+                <lb/> и тако творѧть по</rdg>
+            <rdg wit="#aka">и тако ѡживѹтъ. и тако творѧ<hi rend="sup">т</hi>
+                <lb/> по</rdg>
+            <rdg wit="#ipa">и <lb/> тако ѡживу<hi rend="sup">т</hi>. и тако тво<lb/>рѧть по</rdg>
+            <rdg wit="#xle">и ѡживоу<hi rend="sup">т</hi>. и тако творѧ<hi rend="sup">т</hi> по</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и тако оживуть; и то творять по</rdg><rdg wit="#shakh">и оживуть; и тако творять по</rdg><rdg wit="#likh">и тако ожиуть. И то творять по</rdg></rdgGrp></app></p></div></body></text></TEI>

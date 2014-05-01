@@ -1,82 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>197, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="197"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="197,3">и</w>
-<w n="197,3">тако</w>
-<w n="197,3">ищезняху.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="197,3">лице</w>
-<w n="197,3">своѥ <lb/></w>
-
-<w n="197,3">крт<hi rend="sup">с</hi>нымъ</w>
-<w n="197,3">ѡбразо<hi rend="sup">м</hi>.</w>
-<w n="197,3">и</w>
-<w n="197,3">тако</w>
-<w n="197,3">ище<lb/>знѧху.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="197,3">лице</w>
-<w n="197,3">свое.</w>
-<w n="197,3">крт<hi rend="sup">с</hi>ны<hi rend="sup">м</hi></w>
-<w n="197,3">ѡбразо<hi rend="sup">м</hi></w>
-<w n="197,3">и</w>
-<w n="197,3">тако</w>
-<w n="197,3">невидими:- <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="197,3">лице</w>
-<w n="197,3">свое</w>
-<w n="197,3">крт<hi rend="sup">с</hi>нымъ</w>
-<w n="197,3">ѡбразѡмъ.</w>
-<w n="197,3">и</w>
-<w n="197,3">та<lb/>ко</w>
-<w n="197,3">невидими:·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="197,3">и</w>
-<w n="197,3">тако</w>
-<w n="197,3">ищезнѧху.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="197,3">и</w>
-<w n="197,3">тако</w>
-<w n="197,3">исчезахѫ.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="197,3">лице</w>
-<w n="197,3">свое</w>
-<w n="197,3">крестнымъ</w>
-<w n="197,3">образомъ,</w>
-<w n="197,3">и</w>
-<w n="197,3">тако</w>
-<w n="197,3">ищезняху.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="197,3">лице</w>
-<w n="197,3">свое</w>
-<w n="197,3">крьстьнымь</w>
-<w n="197,3">образъмь,</w>
-<w n="197,3">и</w>
-<w n="197,3">тако</w>
-<w n="197,3">ищезняху.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="197,3">лице</w>
-<w n="197,3">свое</w>
-<w n="197,3">крестнымъ</w>
-<w n="197,3">образом,</w>
-<w n="197,3">и</w>
-<w n="197,3">тако</w>
-<w n="197,3">ищезняху.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>197, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="197"/><div type="block" n="3"><p><app><lem wit="#lem">
+            и тако ищезняху.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">лице своѥ <lb/> крт<hi rend="sup">с</hi>нымъ ѡбразо<hi rend="sup">м</hi>. и тако ище<lb/>знѧху.</rdg>
+            <rdg wit="#rad">лице свое. крт<hi rend="sup">с</hi>ны<hi rend="sup">м</hi> ѡбразо<hi rend="sup">м</hi> и тако невидими:-
+                <lb/></rdg>
+            <rdg wit="#aka">лице свое крт<hi rend="sup">с</hi>нымъ ѡбразѡмъ. и та<lb/>ко невидими:·</rdg>
+            <rdg wit="#ipa">и тако ищезнѧху.</rdg>
+            <rdg wit="#xle">и тако исчезахѫ.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">лице свое крестнымъ образомъ, и тако ищезняху.</rdg><rdg wit="#shakh">лице свое крьстьнымь образъмь, и тако ищезняху.</rdg><rdg wit="#likh">лице свое крестнымъ образом, и тако ищезняху.</rdg></rdgGrp></app></p></div></body></text></TEI>

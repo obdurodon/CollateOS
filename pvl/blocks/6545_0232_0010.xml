@@ -1,76 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>232, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="232"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-<w n="232,10">приде</w>
-<w n="232,10">въторое</w>
-<w n="232,10">Бонякъ</w>
-<w n="232,10">безбожьныи,</w>
-<w n="232,10">шолудивыи,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="232,10">Приде</w>
-<w n="232,10">второе</w>
-<w n="232,10">бонѧ<lb/>къ</w>
-<w n="232,10">безбожныи</w>
-<w n="232,10">шелудивыи <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="232,10">рии<hi rend="sup">д</hi></w>
-<w n="232,10">бонѧ<hi rend="sup">к</hi></w>
-<w n="232,10">второе</w>
-<w n="232,10">безбо<hi rend="sup">ж</hi><lb/>ныи.</w>
-<w n="232,10">солѹдивыи.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="232,10">прїиде</w>
-<w n="232,10">бонѧкь</w>
-<w n="232,10">второе</w>
-<w n="232,10">безбожны·̏и· <lb/></w>
-
-<w n="232,10">шолѹдивы·̏и·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="232,10">прииде</w>
-<w n="232,10">второе</w>
-<w n="232,10"><milestone unit="sic" n="start"/>б<milestone unit="sic" n="end"/>онѧкъ</w>
-<w n="232,10">бе<lb/>збожныи</w>
-<w n="232,10">шолудивыи·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="232,10">прїиде</w>
-<w n="232,10">второе</w>
-<w n="232,10">бонѧкь</w>
-<w n="232,10">безбо<hi rend="sup">ж</hi>ны<hi rend="sup">и</hi><lb/></w>
-<w n="232,10">шолоудивыи.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="232,10">приде</w>
-<w n="232,10">второе</w>
-<w n="232,10">Бонякъ</w>
-<w n="232,10">безбожный,</w>
-<w n="232,10">шелудивый,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="232,10">приде</w>
-<w n="232,10">въторое</w>
-<w n="232,10">Бонякъ</w>
-<w n="232,10">безбожьныи,</w>
-<w n="232,10">шелудивыи,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="232,10">приде</w>
-<w n="232,10">второе</w>
-<w n="232,10">Бонякъ</w>
-<w n="232,10">безбожный,</w>
-<w n="232,10">шелудивый,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>232, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="232"/><div type="block" n="10"><p><app><lem wit="#lem">
+            приде въторое Бонякъ безбожьныи, шолудивыи,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">Приде второе бонѧ<lb/>къ безбожныи шелудивыи <lb/></rdg>
+            <rdg wit="#rad">рии<hi rend="sup">д</hi> бонѧ<hi rend="sup">к</hi> второе безбо<hi rend="sup">ж</hi><lb/>ныи. солѹдивыи.</rdg>
+            <rdg wit="#aka">прїиде бонѧкь второе безбожны·̏и· <lb/> шолѹдивы·̏и·</rdg>
+            <rdg wit="#ipa">прииде второе <sic>б</sic>онѧкъ бе<lb/>збожныи шолудивыи·</rdg>
+            <rdg wit="#xle">прїиде второе бонѧкь безбо<hi rend="sup">ж</hi>ны<hi rend="sup">и</hi>
+                <lb/> шолоудивыи.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">приде второе Бонякъ безбожный, шелудивый,</rdg><rdg wit="#shakh">приде въторое Бонякъ безбожьныи, шелудивыи,</rdg><rdg wit="#likh">приде второе Бонякъ безбожный, шелудивый,</rdg></rdgGrp></app></p></div></body></text></TEI>

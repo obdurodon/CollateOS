@@ -1,74 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>276, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="276"/><div type="block" n="27"><p>
-<app>
-<lem wit="#lem">
-<w n="276,27">Яропълчичь,</w>
-<w n="276,27">мѣсяца</w>
-<w n="276,27">августа</w>
-<w n="276,27">въ 11</w>
-
-<w n="276,27">дьнь.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="276,27">ꙗрополчи<lb/>чь·</w>
-<w n="276,27">мц<hi rend="sup">с</hi>а·</w>
-<w n="276,27">авгу<hi rend="sup">с</hi>·</w>
-<w n="276,27">въ</w>
-<w n="276,27">·а҃і·</w>
-<w n="276,27">дн҃ь· <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="276,27">ꙗрополъ<lb/>чи<milestone unit="sic" n="start"/>ч<milestone unit="sic" n="end"/>ь</w>
-<w n="276,27">мц<hi rend="sup">с</hi>а</w>
-<w n="276,27">августа·</w>
-<w n="276,27">въ</w>
-<w n="276,27">·а҃і·</w>
-<w n="276,27">дн҃ь· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="276,27">яропол′чичь.</w>
-<w n="276,27">мц<hi rend="sup">с</hi>а</w>
-<w n="276,27">авгоу<hi rend="sup">с</hi>, <lb/></w>
-
-<w n="276,27">въ</w>
-<w n="276,27">а҃і.</w>
-<w n="276,27">дн҃ь.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="276,27">Ярополчичь,</w>
-<w n="276,27">мѣсяца</w>
-<w n="276,27">августа</w>
-<w n="276,27">въ 11</w>
-
-<w n="276,27">день.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="276,27">Яропълчичь,</w>
-<w n="276,27">мѣсяца</w>
-<w n="276,27">августа</w>
-<w n="276,27">въ 11</w>
-
-<w n="276,27">дьнь.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="276,27">Ярополчичь,</w>
-<w n="276,27">мѣсяца</w>
-<w n="276,27">августа</w>
-<w n="276,27">въ 11</w>
-
-<w n="276,27">день.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>276, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="276"/><div type="block" n="27"><p><app><lem wit="#lem">
+            Яропълчичь, мѣсяца августа въ 11 дьнь.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ꙗрополчи<lb/>чь· мц<hi rend="sup">с</hi>а· авгу<hi rend="sup">с</hi>· въ ·а҃і· дн҃ь· <lb/></rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">ꙗрополъ<lb/>чи<sic>ч</sic>ь мц<hi rend="sup">с</hi>а августа· въ ·а҃і· дн҃ь·
+                <lb/></rdg>
+            <rdg wit="#xle">ꙗропол′чичь. мц<hi rend="sup">с</hi>а авгоу<hi rend="sup">с</hi>, <lb/> въ а҃і. дн҃ь.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Ярополчичь, мѣсяца августа въ 11 день.</rdg><rdg wit="#shakh">Яропълчичь, мѣсяца августа въ 11 дьнь.</rdg><rdg wit="#likh">Ярополчичь, мѣсяца августа въ 11 день.</rdg></rdgGrp></app></p></div></body></text></TEI>

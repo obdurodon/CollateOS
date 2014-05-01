@@ -1,64 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>225, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="225"/><div type="block" n="27"><p>
-<app>
-<lem wit="#lem">
-<w n="225,27">сынъ</w>
-<w n="225,27">Мьстиславль,</w>
-<w n="225,27">вънукъ</w>
-<w n="225,27">Изяславль,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="225,27">сн҃ъ</w>
-<w n="225,27">мьстиславль· <lb/></w>
-
-<w n="225,27">внукъ</w>
-<w n="225,27">изѧславль·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="225,27">сн҃ъ</w>
-<w n="225,27">изѧславль.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="225,27">сн҃ъ</w>
-<w n="225,27">изѧславль·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="225,27">сн҃ъ <lb/></w>
-
-<w n="225,27">мьстиславль·</w>
-<w n="225,27">внукъ</w>
-<w n="225,27">изѧслав<milestone unit="sic" n="start"/>ль<milestone unit="sic" n="end"/><lb/></w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="225,27">сн҃ъ <lb/></w>
-
-<w n="225,27">мьстиславль</w>
-<w n="225,27">вноукь</w>
-<w n="225,27">изѧславль.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="225,27">сынъ</w>
-<w n="225,27">Мьстиславль,</w>
-<w n="225,27">внукъ</w>
-<w n="225,27">Изяславль,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="225,27">сынъ</w>
-<w n="225,27">Мьстиславль,</w>
-<w n="225,27">вънукъ</w>
-<w n="225,27">Изяславль,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="225,27">сынъ</w>
-<w n="225,27">Мьстиславль,</w>
-<w n="225,27">внукъ</w>
-<w n="225,27">Изяславль,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>225, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="225"/><div type="block" n="27"><p><app><lem wit="#lem">
+            сынъ Мьстиславль, вънукъ Изяславль,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">сн҃ъ мьстиславль· <lb/> внукъ изѧславль·</rdg>
+            <rdg wit="#rad">сн҃ъ изѧславль.</rdg>
+            <rdg wit="#aka">сн҃ъ изѧславль·</rdg>
+            <rdg wit="#ipa">сн҃ъ <lb/> мьстиславль· внукъ изѧслав<sic>ль</sic><lb/></rdg>
+            <rdg wit="#xle">сн҃ъ <lb/> мьстиславль вноукь изѧславль.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">сынъ Мьстиславль, внукъ Изяславль,</rdg><rdg wit="#shakh">сынъ Мьстиславль, вънукъ Изяславль,</rdg><rdg wit="#likh">сынъ Мьстиславль, внукъ Изяславль,</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,89 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>194, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="194"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-<w n="194,6">странѣ,</w>
-<w n="194,6">и</w>
-<w n="194,6">подъ</w>
-<w n="194,6">ся</w>
-<w n="194,6">поливаше</w>
-<w n="194,6">мъногашьды,</w>
-<w n="194,6">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="194,6">сторонѣ</w>
-<w n="194,6">подъ</w>
-<w n="194,6">сѧ</w>
-<w n="194,6">пле<lb/>ваше.</w>
-<w n="194,6">многажды</w>
-<w n="194,6">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="194,6">странѣ.</w>
-<w n="194,6">и</w>
-<w n="194,6">по<hi rend="sup">д</hi></w>
-<w n="194,6">сѧ</w>
-<w n="194,6">поливаше. <lb/></w>
-
-<w n="194,6">многаждо</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="194,6">странѣ.</w>
-<w n="194,6">и</w>
-<w n="194,6">по<hi rend="sup">д</hi></w>
-<w n="194,6">сѧ <lb/></w>
-
-<w n="194,6">поливааше.</w>
-<w n="194,6">многажды</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="194,6">стра<lb/>нѣ.</w>
-<w n="194,6">и</w>
-<w n="194,6">подъ</w>
-<w n="194,6">сѧ</w>
-<w n="194,6">поливаше</w>
-<w n="194,6">мно<lb/>гажды.</w>
-<w n="194,6">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="194,6">странѣ.</w>
-<w n="194,6">и</w>
-<w n="194,6">по<hi rend="sup">д</hi></w>
-<w n="194,6">сѧ</w>
-<w n="194,6">поливаше.</w>
-<w n="194,6">мнѡ<lb/>гаж<hi rend="sup">д</hi>ы</w>
-<w n="194,6">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="194,6">сторонѣ,</w>
-<w n="194,6">подъ</w>
-<w n="194,6">ся</w>
-<w n="194,6">поливаше,</w>
-<w n="194,6">многажды</w>
-<w n="194,6">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="194,6">странѣ,</w>
-<w n="194,6">и</w>
-<w n="194,6">подъ</w>
-<w n="194,6">ся</w>
-<w n="194,6">полѣваше</w>
-<w n="194,6">мъногашьды,</w>
-<w n="194,6">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="194,6">сторонѣ,</w>
-<w n="194,6">подъ</w>
-<w n="194,6">ся</w>
-<w n="194,6">поливаше,</w>
-<w n="194,6">многажды</w>
-<w n="194,6">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>194, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="194"/><div type="block" n="6"><p><app><lem wit="#lem">
+            странѣ, и подъ ся поливаше мъногашьды, и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">сторонѣ подъ сѧ пле<lb/>ваше. многажды и</rdg>
+            <rdg wit="#rad">странѣ. и по<hi rend="sup">д</hi> сѧ поливаше. <lb/> многаждо</rdg>
+            <rdg wit="#aka">странѣ. и по<hi rend="sup">д</hi> сѧ <lb/> поливааше. многажды</rdg>
+            <rdg wit="#ipa">стра<lb/>нѣ. и подъ сѧ поливаше мно<lb/>гажды. и</rdg>
+            <rdg wit="#xle">странѣ. и по<hi rend="sup">д</hi> сѧ поливаше. мнѡ<lb/>гаж<hi rend="sup">д</hi>ы и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">сторонѣ, подъ ся поливаше, многажды и</rdg><rdg wit="#shakh">странѣ, и подъ ся полѣваше мъногашьды, и</rdg><rdg wit="#likh">сторонѣ, подъ ся поливаше, многажды и</rdg></rdgGrp></app></p></div></body></text></TEI>

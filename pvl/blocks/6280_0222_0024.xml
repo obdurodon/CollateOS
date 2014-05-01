@@ -1,88 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>222, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="222"/><div type="block" n="24"><p>
-<app>
-<lem wit="#lem">
-<w n="222,24">и</w>
-<w n="222,24">поженуть</w>
-<w n="222,24">вы</w>
-<w n="222,24">ненавидящии</w>
-<w n="222,24">васъ,</w>
-<w n="222,24">и</w>
-<w n="222,24">побѣгнете,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="222,24">по<lb/>женуть</w>
-<w n="222,24">вы</w>
-<w n="222,24">ненавидѧщии</w>
-<w n="222,24">ва<hi rend="sup">с</hi>· <lb/></w>
-
-<w n="222,24">и</w>
-<w n="222,24">побѣгнете</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="222,24">и</w>
-<w n="222,24">пожнѹ<lb/>ть</w>
-<w n="222,24">ненавидѧщеи</w>
-<w n="222,24">ва<hi rend="sup">с</hi>.</w>
-<w n="222,24">побѣгнете</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="222,24">и</w>
-<w n="222,24">поженѹ<lb/>тъ</w>
-<w n="222,24">ненавидѧщеи</w>
-<w n="222,24">ва<hi rend="sup">с</hi>·</w>
-<w n="222,24">побѣгнете</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="222,24">и <lb/></w>
-
-<w n="222,24">поженуть</w>
-<w n="222,24">вы</w>
-<w n="222,24">ненавидѧще<lb/>и</w>
-<w n="222,24">васъ</w>
-<w n="222,24">и</w>
-<w n="222,24">побѣгнете</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="222,24">и</w>
-<w n="222,24">поженоу<hi rend="sup">т</hi></w>
-<w n="222,24">вас <lb/></w>
-
-<w n="222,24">ненавидѧщїи</w>
-<w n="222,24">ва<hi rend="sup">с</hi>.</w>
-<w n="222,24">и</w>
-<w n="222,24">побѣгнете</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="222,24">поженуть</w>
-<w n="222,24">вы</w>
-<w n="222,24">ненавидящии</w>
-<w n="222,24">васъ,</w>
-<w n="222,24">и</w>
-<w n="222,24">побѣгнете,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="222,24">и</w>
-<w n="222,24">поженуть</w>
-<w n="222,24">вы</w>
-<w n="222,24">ненавидящии</w>
-<w n="222,24">васъ,</w>
-<w n="222,24">и</w>
-<w n="222,24">побѣгнете,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="222,24">поженуть</w>
-<w n="222,24">вы</w>
-<w n="222,24">ненавидящии</w>
-<w n="222,24">вас,</w>
-<w n="222,24">и</w>
-<w n="222,24">побѣгнете,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>222, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="222"/><div type="block" n="24"><p><app><lem wit="#lem">
+            и поженуть вы ненавидящии васъ, и побѣгнете,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">по<lb/>женуть вы ненавидѧщии ва<hi rend="sup">с</hi>· <lb/> и побѣгнете</rdg>
+            <rdg wit="#rad">и пожнѹ<lb/>ть ненавидѧщеи ва<hi rend="sup">с</hi>. побѣгнете</rdg>
+            <rdg wit="#aka">и поженѹ<lb/>тъ ненавидѧщеи ва<hi rend="sup">с</hi>· побѣгнете</rdg>
+            <rdg wit="#ipa">и <lb/> поженуть вы ненавидѧще<lb/>и васъ и побѣгнете</rdg>
+            <rdg wit="#xle">и поженоу<hi rend="sup">т</hi> вас <lb/> ненавидѧщїи ва<hi rend="sup">с</hi>. и побѣгнете</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">поженуть вы ненавидящии васъ, и побѣгнете,</rdg><rdg wit="#shakh">и поженуть вы ненавидящии васъ, и побѣгнете,</rdg><rdg wit="#likh">поженуть вы ненавидящии вас, и побѣгнете,</rdg></rdgGrp></app></p></div></body></text></TEI>

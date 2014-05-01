@@ -1,87 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>16, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="16"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="16,5">будуть;</w>
-<w n="16,5">и</w>
-<w n="16,5">съчетають</w>
-<w n="16,5">ся</w>
-<w n="16,5">съ</w>
-<w n="16,5">окрьстьныхъ</w>
-<w n="16,5">ибо</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="16,5">будуть.</w>
-<w n="16,5">и</w>
-<w n="16,5">сочта<lb/>ютсѧ</w>
-<w n="16,5">съ</w>
-<w n="16,5">ѡкр<hi rend="sup">с</hi>нхъ.</w>
-<w n="16,5">и</w>
-<w n="16,5">въ</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="16,5">боудоуть.</w>
-<w n="16,5">и</w>
-<w n="16,5">сочтаютсѧ</w>
-<w n="16,5">со</w>
-<w n="16,5">ѡкрт<hi rend="sup">с</hi>ны<hi rend="sup">х</hi>.</w>
-<w n="16,5">ибо</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="16,5">бѹдѹтъ.</w>
-<w n="16,5">и</w>
-<w n="16,5">сочтают<hi rend="sup">с</hi>ь</w>
-<w n="16,5">со</w>
-<w n="16,5">ѡкрт<hi rend="sup">с</hi>ны<hi rend="sup">х</hi>.</w>
-<w n="16,5">ибѡ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="16,5">будуть.</w>
-<w n="16,5">и <lb/></w>
-
-<w n="16,5">съчитаютьсѧ.</w>
-<w n="16,5">съ</w>
-<w n="16,5">ѡкрѣ<lb/>стныхъ</w>
-<w n="16,5">ибо</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="16,5">бѫ<lb/>доу<hi rend="sup">т</hi>.</w>
-<w n="16,5">и</w>
-<w n="16,5">съчитаютсѧ</w>
-<w n="16,5">съ</w>
-<w n="16,5">окрт<hi rend="sup">с</hi>ны<hi rend="sup">х</hi>.</w>
-<w n="16,5">ибѡ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="16,5">будуть,</w>
-<w n="16,5">и</w>
-<w n="16,5">сочтаются</w>
-<w n="16,5">съ</w>
-<w n="16,5">окрестными</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="16,5">будуть,</w>
-<w n="16,5">и</w>
-<w n="16,5">съчьтаються</w>
-<w n="16,5">съ</w>
-<w n="16,5">окрьстьными</w>
-<w n="16,5">ихъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="16,5">будуть;</w>
-<w n="16,5">и</w>
-<w n="16,5">сочтаются</w>
-<w n="16,5">с</w>
-<w n="16,5">окрѣстными</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>16, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="16"/><div type="block" n="5"><p><app><lem wit="#lem">
+            будуть; и съчетають ся съ окрьстьныхъ ибо
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">будуть. и сочта<lb/>ютсѧ съ ѡкр<hi rend="sup">с</hi>нхъ. и въ</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">боудоуть. и сочтаютсѧ со ѡкрт<hi rend="sup">с</hi>ны<hi rend="sup">х</hi>. ибо</rdg>
+            <rdg wit="#aka">бѹдѹтъ. и сочтают<hi rend="sup">с</hi>ь со ѡкрт<hi rend="sup">с</hi>ны<hi rend="sup">х</hi>. ибѡ</rdg>
+            <rdg wit="#ipa">будуть. и <lb/> съчитаютьсѧ. съ ѡкрѣ<lb/>стныхъ ибо</rdg>
+            <rdg wit="#xle">бѫ<lb/>доу<hi rend="sup">т</hi>. и съчитаютсѧ съ окрт<hi rend="sup">с</hi>ны<hi rend="sup">х</hi>. ибѡ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">будуть, и сочтаются съ окрестными</rdg><rdg wit="#shakh">будуть, и съчьтаються съ окрьстьными ихъ</rdg><rdg wit="#likh">будуть; и сочтаются с окрѣстными</rdg></rdgGrp></app></p></div></body></text></TEI>

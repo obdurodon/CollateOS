@@ -1,79 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>188, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="188"/><div type="block" n="12"><p>
-<app>
-<lem wit="#lem">
-<w n="188,12">тѣло</w>
-<w n="188,12">мое”,</w>
-<w n="188,12">якоже</w>
-<w n="188,12">и</w>
-<w n="188,12">сътвориша.</w>
-<w n="188,12">Вечеру</w>
-<w n="188,12">бо</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="188,12">тѣло</w>
-<w n="188,12">моѥ.</w>
-<w n="188,12">ꙗкоже</w>
-<w n="188,12">и</w>
-<w n="188,12">ство<lb/>риша.</w>
-<w n="188,12">вечеру</w>
-<w n="188,12">бо</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="188,12">тѣ<lb/>ло</w>
-<w n="188,12">мое.</w>
-<w n="188,12">ꙗкоже</w>
-<w n="188,12">и</w>
-<w n="188,12">створиша.</w>
-<w n="188,12">ве<lb/>черу</w>
-<w n="188,12">бо</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="188,12">тѣло</w>
-<w n="188,12">мое.</w>
-<w n="188,12">яко<hi rend="sup">ж</hi><lb/></w>
-<w n="188,12">и</w>
-<w n="188,12">сътвориша.</w>
-<w n="188,12">вечероу</w>
-<w n="188,12">бѡ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="188,12">тѣло</w>
-<w n="188,12">мое”,</w>
-<w n="188,12">якоже</w>
-<w n="188,12">и</w>
-<w n="188,12">створиша;</w>
-<w n="188,12">вечеру</w>
-<w n="188,12">бо</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="188,12">тѣло</w>
-<w n="188,12">мое”,</w>
-<w n="188,12">якоже</w>
-<w n="188,12">и</w>
-<w n="188,12">сътвориша.</w>
-<w n="188,12">Вечеру</w>
-<w n="188,12">бо</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="188,12">тѣло</w>
-<w n="188,12">мое”,</w>
-<w n="188,12">яко</w>
-<w n="188,12">же</w>
-<w n="188,12">и</w>
-<w n="188,12">створиша.</w>
-<w n="188,12">Вечеру</w>
-<w n="188,12">бо</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>188, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="188"/><div type="block" n="12"><p><app><lem wit="#lem">
+            тѣло мое”, якоже и сътвориша. Вечеру бо
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">тѣло моѥ. ꙗкоже и ство<lb/>риша. вечеру бо</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">тѣ<lb/>ло мое. ꙗкоже и створиша. ве<lb/>черу бо</rdg>
+            <rdg wit="#xle">тѣло мое. ꙗко<hi rend="sup">ж</hi>
+                <lb/> и сътвориша. вечероу бѡ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">тѣло мое”, якоже и створиша; вечеру бо</rdg><rdg wit="#shakh">тѣло мое”, якоже и сътвориша. Вечеру бо</rdg><rdg wit="#likh">тѣло мое”, яко же и створиша. Вечеру бо</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,106 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>118, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="118"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="118,22">Перунъ</w>
-<w n="118,22">и</w>
-<w n="118,22">прочии,</w>
-<w n="118,22">идеже</w>
-<w n="118,22">требы</w>
-<w n="118,22">творяху</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="118,22">перунъ. <lb/></w>
-
-<w n="118,22">и</w>
-<w n="118,22">прочии.</w>
-<w n="118,22">идеже</w>
-<w n="118,22">творѧху</w>
-<w n="118,22">потре<lb/>бы.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="118,22">перѹнъ.</w>
-<w n="118,22">и</w>
-<w n="118,22">прочии.</w>
-<w n="118,22">идѣже</w>
-<w n="118,22">требы</w>
-<w n="118,22">творѧше <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="118,22">перѹнъ.</w>
-<w n="118,22">и</w>
-<w n="118,22">прочїи.</w>
-<w n="118,22">идѣже</w>
-<w n="118,22">требы</w>
-<w n="118,22">творѧше. <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="118,22">перунъ</w>
-<w n="118,22">и</w>
-<w n="118,22">прочи<lb/>и</w>
-<w n="118,22">идеже</w>
-<w n="118,22">требы</w>
-<w n="118,22">творѧху <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="118,22">перунъ</w>
-<w n="118,22">и</w>
-<w n="118,22">прочии</w>
-<w n="118,22">идѣже</w>
-<w n="118,22">требы</w>
-<w n="118,22">творꙗху</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="118,22">перунъ</w>
-<w n="118,22">и</w>
-<w n="118,22">прочии</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="118,22">перунъ</w>
-<w n="118,22">и</w>
-<w n="118,22">прочии</w>
-<w n="118,22">идѣже</w>
-<w n="118,22">требы</w>
-<w n="118,22">творꙗху</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="118,22">Перунъ</w>
-<w n="118,22">и</w>
-<w n="118,22">прочии,</w>
-<w n="118,22">идеже</w>
-<w n="118,22">творяху</w>
-<w n="118,22">потребы</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="118,22">Перунъ</w>
-<w n="118,22">и</w>
-<w n="118,22">прочии,</w>
-<w n="118,22">идеже</w>
-<w n="118,22">требы</w>
-<w n="118,22">творяху</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="118,22">Перунъ</w>
-<w n="118,22">и</w>
-<w n="118,22">прочии,</w>
-<w n="118,22">иде</w>
-<w n="118,22">же</w>
-<w n="118,22">творяху</w>
-<w n="118,22">потребы</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>118, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="118"/><div type="block" n="22"><p><app><lem wit="#lem">
+            Перунъ и прочии, идеже требы творяху
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">перунъ. <lb/> и прочии. идеже творѧху потре<lb/>бы.</rdg>
+            <rdg wit="#rad">перѹнъ. и прочии. идѣже требы творѧше <lb/></rdg>
+            <rdg wit="#aka">перѹнъ. и прочїи. идѣже требы творѧше. <lb/></rdg>
+            <rdg wit="#ipa">перунъ и прочи<lb/>и идеже требы творѧху <lb/></rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">перунъ и прочии идѣже требы творꙗху</rdg>
+            <rdg wit="#nak">перунъ и прочии</rdg>
+            <rdg wit="#tol">перунъ и прочии идѣже требы творꙗху</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Перунъ и прочии, идеже творяху потребы</rdg><rdg wit="#shakh">Перунъ и прочии, идеже требы творяху</rdg><rdg wit="#likh">Перунъ и прочии, иде же творяху потребы</rdg></rdgGrp></app></p></div></body></text></TEI>

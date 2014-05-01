@@ -1,71 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>131, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="131"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="131,21">правьдьну,</w>
-<w n="131,21">не</w>
-<w n="131,21">погибнеть</w>
-<w n="131,21">упъвание”.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="131,21">му<lb/>жю</w>
-<w n="131,21">праведну.</w>
-<w n="131,21">не</w>
-<w n="131,21">погыбаеть <lb/></w>
-
-<w n="131,21">оупованье.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="131,21">праве<lb/>дномѹ.</w>
-<w n="131,21">не</w>
-<w n="131,21">погинеть</w>
-<w n="131,21">оупование.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="131,21">праведномѹ.</w>
-<w n="131,21">не</w>
-<w n="131,21">по<lb/>гибнеть</w>
-<w n="131,21">оупованїе.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="131,21">правѣдному</w>
-<w n="131,21">не</w>
-<w n="131,21">погибнеть <lb/></w>
-
-<w n="131,21">оупованье.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="131,21">праведноу.</w>
-<w n="131,21">не</w>
-<w n="131,21">погыбне<hi rend="sup">т</hi></w>
-<w n="131,21">оупованїе.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="131,21">мужю</w>
-<w n="131,21">праведну,</w>
-<w n="131,21">не</w>
-<w n="131,21">погыбаеть</w>
-<w n="131,21">упованье.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="131,21">мужю</w>
-<w n="131,21">правьдьну,</w>
-<w n="131,21">не</w>
-<w n="131,21">погыбаеть</w>
-<w n="131,21">упъвание.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="131,21">мужю</w>
-<w n="131,21">праведну,</w>
-<w n="131,21">не</w>
-<w n="131,21">погыбаеть</w>
-<w n="131,21">упованье”.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>131, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="131"/><div type="block" n="21"><p><app><lem wit="#lem">
+            правьдьну, не погибнеть упъвание”.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">му<lb/>жю праведну. не погыбаеть <lb/> оупованье.</rdg>
+            <rdg wit="#rad">праве<lb/>дномѹ. не погинеть оупование.</rdg>
+            <rdg wit="#aka">праведномѹ. не по<lb/>гибнеть оупованїе.</rdg>
+            <rdg wit="#ipa">правѣдному не погибнеть <lb/> оупованье.</rdg>
+            <rdg wit="#xle">праведноу. не погыбне<hi rend="sup">т</hi> оупованїе.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">мужю праведну, не погыбаеть упованье.</rdg><rdg wit="#shakh">мужю правьдьну, не погыбаеть упъвание.</rdg><rdg wit="#likh">мужю праведну, не погыбаеть упованье”.</rdg></rdgGrp></app></p></div></body></text></TEI>

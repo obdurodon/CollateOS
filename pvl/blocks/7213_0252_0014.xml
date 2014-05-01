@@ -1,48 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>252, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="252"/><div type="block" n="14"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="252,14">мно<lb/>го</w>
-<w n="252,14">борешисѧ</w>
-<w n="252,14">срц<hi rend="sup">д</hi>мь·</w>
-<w n="252,14">и</w>
-<w n="252,14">ѡдолѣвши <lb/></w>
-
-<w n="252,14">дш҃е</w>
-<w n="252,14">срц<hi rend="sup">д</hi>ю</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="252,14">много</w>
-<w n="252,14">борешися</w>
-<w n="252,14">сердцемь,</w>
-<w n="252,14">и</w>
-<w n="252,14">одолѣвши,</w>
-<w n="252,14">душе,</w>
-<w n="252,14">сердцю</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="252,14">Много</w>
-<w n="252,14">борешися</w>
-<w n="252,14">сердцемь,</w>
-<w n="252,14">и</w>
-<w n="252,14">одолѣвши,</w>
-<w n="252,14">душе,</w>
-<w n="252,14">сердцю</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>252, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="252"/><div type="block" n="14"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">мно<lb/>го борешисѧ срц<hi rend="sup">д</hi>мь· и ѡдолѣвши <lb/> дш҃е срц<hi rend="sup">д</hi>ю</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">много борешися сердцемь, и одолѣвши, душе, сердцю</rdg><rdg wit="#likh">Много борешися сердцемь, и одолѣвши, душе, сердцю</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,87 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>265, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="265"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-<w n="265,6">мѣстѣ,</w>
-<w n="265,6">и</w>
-<w n="265,6">яко</w>
-<w n="265,6">приближи</w>
-<w n="265,6">ся</w>
-<w n="265,6">постъ</w>
-<w n="265,6">великыи,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="265,6">мѣстѣ·</w>
-<w n="265,6">и</w>
-<w n="265,6">ꙗко</w>
-<w n="265,6">прибли<lb/>жи</w>
-<w n="265,6">сѧ</w>
-<w n="265,6">постъ</w>
-<w n="265,6">великыи·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="265,6">мѣ<lb/>сте·</w>
-<w n="265,6">ꙗко</w>
-<w n="265,6">приближи<hi rend="sup">с</hi></w>
-<w n="265,6">постъ·</w>
-<w n="265,6">великии·</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="265,6">мѣстѣ·</w>
-<w n="265,6">ꙗко</w>
-<w n="265,6">приближи</w>
-<w n="265,6">сѧ</w>
-<w n="265,6">постъ</w>
-<w n="265,6">великии· <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="265,6">мѣстѣ·</w>
-<w n="265,6">ꙗко</w>
-<w n="265,6">приближи <lb/></w>
-
-<w n="265,6">сѧ</w>
-<w n="265,6">постъ</w>
-<w n="265,6">великыи·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="265,6">мѣстѣ.</w>
-<w n="265,6">и</w>
-<w n="265,6">яко</w>
-<w n="265,6">приближи</w>
-<w n="265,6">сѧ</w>
-<w n="265,6">пѡ<hi rend="sup">с</hi></w>
-<w n="265,6">великыи.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="265,6">мѣстѣ,</w>
-<w n="265,6">и</w>
-<w n="265,6">яко</w>
-<w n="265,6">приближися</w>
-<w n="265,6">постъ</w>
-<w n="265,6">великый,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="265,6">мѣстѣ,</w>
-<w n="265,6">и</w>
-<w n="265,6">яко</w>
-<w n="265,6">приближися</w>
-<w n="265,6">постъ</w>
-<w n="265,6">великыи,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="265,6">мѣстѣ,</w>
-<w n="265,6">и</w>
-<w n="265,6">яко</w>
-<w n="265,6">приближися</w>
-<w n="265,6">постъ</w>
-<w n="265,6">великый,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>265, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="265"/><div type="block" n="6"><p><app><lem wit="#lem">
+            мѣстѣ, и яко приближи ся постъ великыи,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">мѣстѣ· и ꙗко прибли<lb/>жи сѧ постъ великыи·</rdg>
+            <rdg wit="#rad">мѣ<lb/>сте· ꙗко приближи<hi rend="sup">с</hi> постъ· великии·</rdg>
+            <rdg wit="#aka">мѣстѣ· ꙗко приближи сѧ постъ великии· <lb/></rdg>
+            <rdg wit="#ipa">мѣстѣ· ꙗко приближи <lb/> сѧ постъ великыи·</rdg>
+            <rdg wit="#xle">мѣстѣ. и ꙗко приближи сѧ пѡ<hi rend="sup">с</hi> великыи.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">мѣстѣ, и яко приближися постъ великый,</rdg><rdg wit="#shakh">мѣстѣ, и яко приближися постъ великыи,</rdg><rdg wit="#likh">мѣстѣ, и яко приближися постъ великый,</rdg></rdgGrp></app></p></div></body></text></TEI>

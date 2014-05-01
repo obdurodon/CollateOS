@@ -1,95 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>147, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="147"/><div type="block" n="27"><p>
-<app>
-<lem wit="#lem">
-<w n="147,27">и</w>
-<w n="147,27">гладъ</w>
-<w n="147,27">въ</w>
-<w n="147,27">вьсеи</w>
-<w n="147,27">тои</w>
-<w n="147,27">странѣ.</w>
-<w n="147,27">Идоша</w>
-<w n="147,27">по</w>
-<w n="147,27">Вълзѣ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="147,27">и</w>
-<w n="147,27">голодъ</w>
-<w n="147,27">по</w>
-<w n="147,27">всеи</w>
-<w n="147,27">тои</w>
-<w n="147,27">странѣ. <lb/></w>
-
-<w n="147,27">идоша</w>
-<w n="147,27">по</w>
-<w n="147,27">волзѣ</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="147,27">и</w>
-<w n="147,27">го<lb/>лодъ</w>
-<w n="147,27">въ</w>
-<w n="147,27">всеи</w>
-<w n="147,27">странѣ</w>
-<w n="147,27">тои.</w>
-<w n="147,27">идо<lb/>ша</w>
-<w n="147,27">по</w>
-<w n="147,27">волзѣ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="147,27">голѡ<hi rend="sup">д</hi>. <lb/></w>
-
-<w n="147,27">въ</w>
-<w n="147,27">всеи</w>
-<w n="147,27">тъ<hi rend="sup">и</hi></w>
-<w n="147,27">странѣ</w>
-<w n="147,27">бы<hi rend="sup">с</hi>.</w>
-<w n="147,27">и</w>
-<w n="147,27">идоша</w>
-<w n="147,27">по</w>
-<w n="147,27">волѕѣ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="147,27">и</w>
-<w n="147,27">голодъ</w>
-<w n="147,27">по</w>
-<w n="147,27">всей</w>
-<w n="147,27">той</w>
-<w n="147,27">странѣ;</w>
-<w n="147,27">идоша</w>
-<w n="147,27">по</w>
-<w n="147,27">Волзѣ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="147,27">и</w>
-<w n="147,27">гладъ</w>
-<w n="147,27">по</w>
-<w n="147,27">вьсеи</w>
-<w n="147,27">тои</w>
-<w n="147,27">странѣ;</w>
-<w n="147,27">идоша</w>
-<w n="147,27">по</w>
-<w n="147,27">Вълзѣ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="147,27">и</w>
-<w n="147,27">голодъ</w>
-<w n="147,27">по</w>
-<w n="147,27">всей</w>
-<w n="147,27">той</w>
-<w n="147,27">странѣ;</w>
-<w n="147,27">идоша</w>
-<w n="147,27">по</w>
-<w n="147,27">Волзѣ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>147, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="147"/><div type="block" n="27"><p><app><lem wit="#lem">
+            и гладъ въ вьсеи тои странѣ. Идоша по Вълзѣ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и голодъ по всеи тои странѣ. <lb/> идоша по волзѣ</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">и го<lb/>лодъ въ всеи странѣ тои. идо<lb/>ша по волзѣ</rdg>
+            <rdg wit="#xle">голѡ<hi rend="sup">д</hi>. <lb/> въ всеи тъ<hi rend="sup">и</hi> странѣ бы<hi rend="sup">с</hi>. и идоша по
+                волѕѣ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и голодъ по всей той странѣ; идоша по Волзѣ</rdg><rdg wit="#shakh">и гладъ по вьсеи тои странѣ; идоша по Вълзѣ</rdg><rdg wit="#likh">и голодъ по всей той странѣ; идоша по Волзѣ</rdg></rdgGrp></app></p></div></body></text></TEI>

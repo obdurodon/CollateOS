@@ -1,101 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>239, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="239"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="239,5">не</w>
-<w n="239,5">постави</w>
-<w n="239,5">сторожовъ;</w>
-<w n="239,5">нъ</w>
-<w n="239,5">Богъ</w>
-<w n="239,5">вѣсть</w>
-<w n="239,5">избавити</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="239,5">не</w>
-<w n="239,5">постави</w>
-<w n="239,5">сто<lb/>рожовъ·</w>
-<w n="239,5">но</w>
-<w n="239,5">б҃ъ</w>
-<w n="239,5">вѣсть</w>
-<w n="239,5">избавлѧ<lb/>ти</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="239,5">не</w>
-<w n="239,5">постави<hi rend="sup">л</hi></w>
-<w n="239,5">сторожевъ·</w>
-<w n="239,5">но</w>
-<w n="239,5">б҃ъ</w>
-<w n="239,5">вѣ<lb/>сть</w>
-<w n="239,5">како</w>
-<w n="239,5">избавити</w>
-<w n="239,5">члк҃ы</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="239,5">не</w>
-<w n="239,5">поставилъ</w>
-<w n="239,5">сторожеи·</w>
-<w n="239,5">но</w>
-<w n="239,5">бг҃ь</w>
-<w n="239,5">вѣсть</w>
-<w n="239,5">како</w>
-<w n="239,5">избавити</w>
-<w n="239,5">члв҃кы <pb n="126v"/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="239,5">не</w>
-<w n="239,5">постави</w>
-<w n="239,5">сторожо<lb/>въ·</w>
-<w n="239,5">но</w>
-<w n="239,5">б҃ъ</w>
-<w n="239,5">вѣсть</w>
-<w n="239,5">избавити <lb/></w>
-
-<w n="239,5">члв҃кы</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="239,5">не <lb/></w>
-
-<w n="239,5">постави</w>
-<w n="239,5">сторожовъ.</w>
-<w n="239,5">но</w>
-<w n="239,5">б҃ъ</w>
-<w n="239,5">вѣсть</w>
-<w n="239,5">избав<hi rend="sup">т</hi>и<hi rend="sup">и</hi><lb/></w>
-<w n="239,5">чл҃кы</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="239,5">не</w>
-<w n="239,5">постави</w>
-<w n="239,5">сторожовъ;</w>
-<w n="239,5">но</w>
-<w n="239,5">Богъ</w>
-<w n="239,5">вѣсть</w>
-<w n="239,5">избавляти</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="239,5">не</w>
-<w n="239,5">постави</w>
-<w n="239,5">сторожевъ;</w>
-<w n="239,5">нъ</w>
-<w n="239,5">Богъ</w>
-<w n="239,5">вѣсть</w>
-<w n="239,5">избавляти</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="239,5">не</w>
-<w n="239,5">постави</w>
-<w n="239,5">сторожовъ;</w>
-<w n="239,5">но</w>
-<w n="239,5">богъ</w>
-<w n="239,5">вѣсть</w>
-<w n="239,5">избавляти</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>239, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="239"/><div type="block" n="5"><p><app><lem wit="#lem">
+            не постави сторожовъ; нъ Богъ вѣсть избавити
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">не постави сто<lb/>рожовъ· но б҃ъ вѣсть избавлѧ<lb/>ти</rdg>
+            <rdg wit="#rad">не постави<hi rend="sup">л</hi> сторожевъ· но б҃ъ вѣ<lb/>сть како избавити члк҃ы</rdg>
+            <rdg wit="#aka">не поставилъ сторожеи· но  бг҃ь вѣсть како избавити члв҃кы
+                    <pb n="126v"/></rdg>
+            <rdg wit="#ipa">не постави сторожо<lb/>въ· но б҃ъ вѣсть избавити <lb/> члв҃кы</rdg>
+            <rdg wit="#xle">не <lb/> постави сторожовъ. но б҃ъ вѣсть избав<hi rend="sup">т</hi>и<hi rend="sup">и</hi>
+                <lb/> чл҃кы</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">не постави сторожовъ; но Богъ вѣсть избавляти</rdg><rdg wit="#shakh">не постави сторожевъ; нъ Богъ вѣсть избавляти</rdg><rdg wit="#likh">не постави сторожовъ; но богъ вѣсть избавляти</rdg></rdgGrp></app></p></div></body></text></TEI>

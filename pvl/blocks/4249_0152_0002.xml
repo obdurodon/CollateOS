@@ -1,91 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>152, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="152"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-<w n="152,2">прекладаше</w>
-<w n="152,2">отъ</w>
-<w n="152,2">Грекъ</w>
-<w n="152,2">на</w>
-<w n="152,2">Словѣньское</w>
-<w n="152,2">письмо;</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="152,2">прекладаше</w>
-<w n="152,2">ѿ</w>
-<w n="152,2">грекъ</w>
-<w n="152,2">н<hi rend="sup">а</hi><lb/></w>
-<w n="152,2">словѣньское</w>
-<w n="152,2">писмо.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="152,2">прелагаше</w>
-<w n="152,2">ѿ</w>
-<w n="152,2">грекъ</w>
-<w n="152,2">на</w>
-<w n="152,2">словеньское</w>
-<w n="152,2">писмѧ. <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="152,2">прелагаше</w>
-<w n="152,2">ѿ</w>
-<w n="152,2">грекъ</w>
-<w n="152,2">на</w>
-<w n="152,2">словѣньское</w>
-<w n="152,2">пи<hi rend="sup">с</hi>мѧ. <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="152,2">прѣ<lb/>кладаше</w>
-<w n="152,2">ѿ</w>
-<w n="152,2">грѣкь</w>
-<w n="152,2">на</w>
-<w n="152,2">словень<lb/>скыи</w>
-<w n="152,2">ꙗзыкъ.</w>
-<w n="152,2">и</w>
-<w n="152,2">писмѧ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="152,2">прекладаша</w>
-<w n="152,2">ѿ</w>
-<w n="152,2">грекь</w>
-<w n="152,2">на</w>
-<w n="152,2">слѡвенскыи <lb/></w>
-
-<w n="152,2">языкь</w>
-<w n="152,2">писмо.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="152,2">прекладаше</w>
-<w n="152,2">отъ</w>
-<w n="152,2">Грекъ</w>
-<w n="152,2">на</w>
-<w n="152,2">Словѣньское</w>
-<w n="152,2">писмо,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="152,2">прекладаше</w>
-<w n="152,2">съ</w>
-<w n="152,2">ними</w>
-<w n="152,2">отъ</w>
-<w n="152,2">Грьчьска</w>
-<w n="152,2">на</w>
-<w n="152,2">Словѣньское</w>
-<w n="152,2">письмо;</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="152,2">прекладаше</w>
-<w n="152,2">от</w>
-<w n="152,2">грекъ</w>
-<w n="152,2">на</w>
-<w n="152,2">словѣньское</w>
-<w n="152,2">писмо.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>152, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="152"/><div type="block" n="2"><p><app><lem wit="#lem">
+            прекладаше отъ Грекъ на Словѣньское письмо;
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">прекладаше ѿ грекъ н<hi rend="sup">а</hi>
+                <lb/> словѣньское писмо.</rdg>
+            <rdg wit="#rad">прелагаше ѿ грекъ на словеньское писмѧ. <lb/></rdg>
+            <rdg wit="#aka">прелагаше ѿ грекъ на словѣньское пи<hi rend="sup">с</hi>мѧ. <lb/></rdg>
+            <rdg wit="#ipa">прѣ<lb/>кладаше ѿ грѣкь на словень<lb/>скыи ꙗзыкъ. и писмѧ.</rdg>
+            <rdg wit="#xle">прекладаша ѿ грекь на слѡвенскыи <lb/> ꙗзыкь писмо.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">прекладаше отъ Грекъ на Словѣньское писмо,</rdg><rdg wit="#shakh">прекладаше съ ними отъ Грьчьска на Словѣньское письмо;</rdg><rdg wit="#likh">прекладаше от грекъ на словѣньское писмо.</rdg></rdgGrp></app></p></div></body></text></TEI>

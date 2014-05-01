@@ -1,99 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>13, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="13"/><div type="block" n="15"><p>
-<app>
-<lem wit="#lem">
-<w n="13,15">приношаху</w>
-<w n="13,15">чьто</w>
-<w n="13,15">на</w>
-<w n="13,15">неи</w>
-<w n="13,15">въдадуче.</w>
-<w n="13,15">А</w>
-<w n="13,15">Деревляне</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="13,15">приношаху</w>
-<w n="13,15">по</w>
-<w n="13,15">неи.</w>
-<w n="13,15">что <lb/></w>
-
-<w n="13,15">вдадуче.</w>
-<w n="13,15">а</w>
-<w n="13,15">древлѧне</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="13,15">приношаху</w>
-<w n="13,15">по</w>
-<w n="13,15">неи</w>
-<w n="13,15">что</w>
-<w n="13,15">вдадуче</w>
-<w n="13,15">а</w>
-<w n="13,15">древляне</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="13,15">приношахѹ</w>
-<w n="13,15">по</w>
-<w n="13,15">неи</w>
-<w n="13,15">что</w>
-<w n="13,15">дадоуть·:· <lb/></w>
-
-<w n="13,15">А</w>
-<w n="13,15">деревлѧне</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="13,15">приношахѹ</w>
-<w n="13,15">по</w>
-<w n="13,15">неи</w>
-<w n="13,15">что</w>
-<w n="13,15">дадѹтъ.</w>
-<w n="13,15">А</w>
-<w n="13,15">деревлѧне <pb n="5v"/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="13,15">прино<lb/>шаху</w>
-<w n="13,15">что</w>
-<w n="13,15">на</w>
-<w n="13,15">неи</w>
-<w n="13,15">вдадуче. <lb/></w>
-
-<w n="13,15">а</w>
-<w n="13,15">деревлѧни</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="13,15">приношаху</w>
-<w n="13,15">по</w>
-<w n="13,15">ней</w>
-<w n="13,15">что</w>
-<w n="13,15">вдадуче.</w>
-<w n="13,15">А</w>
-<w n="13,15">Древляне</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="13,15">приношаху</w>
-<w n="13,15">по</w>
-<w n="13,15">неи,</w>
-<w n="13,15">чьто</w>
-<w n="13,15">въдадуче.</w>
-<w n="13,15">А</w>
-<w n="13,15">Древляне</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="13,15">приношаху</w>
-<w n="13,15">по</w>
-<w n="13,15">ней</w>
-<w n="13,15">что</w>
-<w n="13,15">вдадуче.</w>
-<w n="13,15">А</w>
-<w n="13,15">древляне</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>13, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="13"/><div type="block" n="15"><p><app><lem wit="#lem">
+            приношаху чьто на неи въдадуче. А Деревляне
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">приношаху по неи. что <lb/> вдадуче. а древлѧне</rdg>
+            <rdg wit="#tro">приношаху по неи что вдадуче а древляне</rdg>
+            <rdg wit="#rad">приношахѹ по неи что дадоуть·:· <lb/> А деревлѧне</rdg>
+            <rdg wit="#aka">приношахѹ  по неи что дадѹтъ. А деревлѧне <pb n="5v"/></rdg>
+            <rdg wit="#ipa">прино<lb/>шаху что на неи вдадуче. <lb/> а деревлѧни</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">приношаху по ней что вдадуче. А Древляне</rdg><rdg wit="#shakh">приношаху по неи, чьто въдадуче. А Древляне</rdg><rdg wit="#likh">приношаху по ней что вдадуче. А древляне</rdg></rdgGrp></app></p></div></body></text></TEI>

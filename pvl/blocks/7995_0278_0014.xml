@@ -1,79 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>278, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="278"/><div type="block" n="14"><p>
-<app>
-<lem wit="#lem">
-<w n="278,14">убогымъ,</w>
-<w n="278,14">ови</w>
-<w n="278,14">же</w>
-<w n="278,14">манастыремъ</w>
-<w n="278,14">требования.</w>
-<w n="278,14">И</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="278,14">оубогы<hi rend="sup">м</hi>·</w>
-<w n="278,14">инии</w>
-<w n="278,14">же</w>
-<w n="278,14">манаст<milestone unit="sic" n="start"/>ы<milestone unit="sic" n="end"/><lb/>ре<hi rend="sup">м</hi></w>
-<w n="278,14">требованьꙗ·</w>
-<w n="278,14">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="278,14">монасты<lb/>ре<hi rend="sup">м</hi></w>
-<w n="278,14">требованиꙗ·</w>
-<w n="278,14">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="278,14">манасты·̏ремь <lb/></w>
-
-<w n="278,14">требованїѧ·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="278,14">оубогымъ·</w>
-<w n="278,14">ѡви <lb/></w>
-
-<w n="278,14">же</w>
-<w n="278,14">манастыремъ</w>
-<w n="278,14">трѣбова<lb/>ньꙗ·</w>
-<w n="278,14">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="278,14">оубогы<hi rend="sup">м</hi>.</w>
-<w n="278,14">ѡви</w>
-<w n="278,14">же</w>
-<w n="278,14">манастыре<hi rend="sup">м</hi></w>
-<w n="278,14">требованїа, <lb/></w>
-
-<w n="278,14">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="278,14">убогымъ,</w>
-<w n="278,14">инии</w>
-<w n="278,14">же</w>
-<w n="278,14">манастыремъ</w>
-<w n="278,14">требованья.</w>
-<w n="278,14">И</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="278,14">убогымъ,</w>
-<w n="278,14">ини</w>
-<w n="278,14">же</w>
-<w n="278,14">манастыремъ</w>
-<w n="278,14">требовании.</w>
-<w n="278,14">И</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="278,14">убогым,</w>
-<w n="278,14">инии</w>
-<w n="278,14">же</w>
-<w n="278,14">манастырем</w>
-<w n="278,14">требованья.</w>
-<w n="278,14">И</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>278, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="278"/><div type="block" n="14"><p><app><lem wit="#lem">
+            убогымъ, ови же манастыремъ требования. И
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">оубогы<hi rend="sup">м</hi>· инии же манаст<sic>ы</sic><lb/>ре<hi rend="sup">м</hi>
+                требованьꙗ· и</rdg>
+            <rdg wit="#rad">монасты<lb/>ре<hi rend="sup">м</hi> требованиꙗ· и</rdg>
+            <rdg wit="#aka">манасты·̏ремь <lb/> требованїѧ·</rdg>
+            <rdg wit="#ipa">оубогымъ· ѡви <lb/> же манастыремъ трѣбова<lb/>ньꙗ· и</rdg>
+            <rdg wit="#xle">оубогы<hi rend="sup">м</hi>. ѡви же манастыре<hi rend="sup">м</hi> требованїа, <lb/> и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">убогымъ, инии же манастыремъ требованья. И</rdg><rdg wit="#shakh">убогымъ, ини же манастыремъ требовании. И</rdg><rdg wit="#likh">убогым, инии же манастырем требованья. И</rdg></rdgGrp></app></p></div></body></text></TEI>

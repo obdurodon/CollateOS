@@ -1,99 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>226, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="226"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="226,5">Половьчьскаго.</w>
-<w n="226,5">Тогоже</w>
-<w n="226,5">лѣта</w>
-<w n="226,5">прииде</w>
-<w n="226,5">Ольгъ</w>
-<w n="226,5">съ</w>
-<w n="226,5">Половьци</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="226,5">Томже</w>
-<w n="226,5">лѣ<hi rend="sup">т</hi>·</w>
-<w n="226,5">Приде</w>
-<w n="226,5">ѡлегъ</w>
-<w n="226,5">с</w>
-<w n="226,5">половци <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="226,5">по<hi rend="sup">л</hi>вецка<hi rend="sup">г</hi>·</w>
-<w n="226,5">томъ<hi rend="sup">ж</hi></w>
-<w n="226,5">лѣ<hi rend="sup">т</hi>·</w>
-<w n="226,5">прїиде</w>
-<w n="226,5">ѡ<lb/>легъ·</w>
-<w n="226,5">с</w>
-<w n="226,5">по<hi rend="sup">л</hi>вци</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="226,5">половецкого:·</w>
-<w n="226,5">В</w>
-<w n="226,5">томже</w>
-<w n="226,5">лѣтѣ</w>
-<w n="226,5">прииде</w>
-<w n="226,5">ѡлегъ <lb/></w>
-
-<w n="226,5">с</w>
-<w n="226,5">половци·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="226,5">половецьскаго·</w>
-<w n="226,5">тогоже <lb/></w>
-
-<w n="226,5">лѣта</w>
-<w n="226,5">ѡлегъ</w>
-<w n="226,5">приде</w>
-<w n="226,5">с</w>
-<w n="226,5">половцѣ <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="226,5">половецского.</w>
-<w n="226,5">того<hi rend="sup">ж</hi></w>
-<w n="226,5">лѣта</w>
-<w n="226,5">ѡлегь <lb/></w>
-
-<w n="226,5">прїиде</w>
-<w n="226,5">с</w>
-<w n="226,5">половци.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="226,5">Половецкаго.</w>
-<w n="226,5">Томъ</w>
-<w n="226,5">же</w>
-<w n="226,5">лѣтѣ</w>
-<w n="226,5">приде</w>
-<w n="226,5">Олегъ</w>
-<w n="226,5">с</w>
-<w n="226,5">Половци</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="226,5">Половьчьскаго.</w>
-<w n="226,5">Томьже</w>
-<w n="226,5">лѣтѣ</w>
-<w n="226,5">приде</w>
-<w n="226,5">Ольгъ</w>
-<w n="226,5">съ</w>
-<w n="226,5">Половьци</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="226,5">половецкаго.</w>
-<w n="226,5">Том</w>
-<w n="226,5">же</w>
-<w n="226,5">лѣтѣ</w>
-<w n="226,5">приде</w>
-<w n="226,5">Олегъ</w>
-<w n="226,5">с</w>
-<w n="226,5">половци</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>226, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="226"/><div type="block" n="5"><p><app><lem wit="#lem">
+            Половьчьскаго. Тогоже лѣта прииде Ольгъ съ Половьци
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">Томже лѣ<hi rend="sup">т</hi>· Приде ѡлегъ с половци <lb/></rdg>
+            <rdg wit="#rad">по<hi rend="sup">л</hi>вецка<hi rend="sup">г</hi>· томъ<hi rend="sup">ж</hi> лѣ<hi rend="sup">т</hi>· прїиде
+                ѡ<lb/>легъ· с по<hi rend="sup">л</hi>вци</rdg>
+            <rdg wit="#aka">половецкого:· В томже лѣтѣ прииде ѡлегъ <lb/> с половци·</rdg>
+            <rdg wit="#ipa">половецьскаго· тогоже <lb/> лѣта ѡлегъ приде с половцѣ <lb/></rdg>
+            <rdg wit="#xle">половецского. того<hi rend="sup">ж</hi> лѣта ѡлегь <lb/> прїиде с половци.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Половецкаго. Томъ же лѣтѣ приде Олегъ с Половци</rdg><rdg wit="#shakh">Половьчьскаго. Томьже лѣтѣ приде Ольгъ съ Половьци</rdg><rdg wit="#likh">половецкаго. Том же лѣтѣ приде Олегъ с половци</rdg></rdgGrp></app></p></div></body></text></TEI>

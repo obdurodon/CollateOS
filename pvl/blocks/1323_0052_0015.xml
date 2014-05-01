@@ -1,95 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>52, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="52"/><div type="block" n="15"><p>
-<app>
-<lem wit="#lem">
-<w n="52,15">страны,</w>
-<w n="52,15">каку</w>
-<w n="52,15">любъвь</w>
-<w n="52,15">имѣють</w>
-<w n="52,15">Грьци</w>
-<w n="52,15">съ</w>
-<w n="52,15">Русью.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="52,15">страны</w>
-<w n="52,15">каку</w>
-<w n="52,15">любовь</w>
-<w n="52,15">имѣют<hi rend="sup">ь</hi>. <lb/></w>
-
-<w n="52,15">грьци</w>
-<w n="52,15">съ</w>
-<w n="52,15">русью.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="52,15">стра<lb/>ны.</w>
-<w n="52,15">какоую</w>
-<w n="52,15">любовь</w>
-<w n="52,15">имѣю<hi rend="sup">т</hi></w>
-<w n="52,15">греци</w>
-<w n="52,15">с</w>
-<w n="52,15">рѹсью.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="52,15">страны.</w>
-<w n="52,15">какѹ <lb/></w>
-
-<w n="52,15">любовь</w>
-<w n="52,15">имѣють</w>
-<w n="52,15">греци</w>
-<w n="52,15">с</w>
-<w n="52,15">рѹ<hi rend="sup">с</hi>ю.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="52,15">стра<lb/>ны.</w>
-<w n="52,15">каку</w>
-<w n="52,15">любовь</w>
-<w n="52,15">имѣю <lb/></w>
-
-<w n="52,15">грѣци</w>
-<w n="52,15">съ</w>
-<w n="52,15">русью.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="52,15">страны.</w>
-<w n="52,15">какоу</w>
-<w n="52,15">любовь</w>
-<w n="52,15">имѣю<hi rend="sup">т</hi><lb/></w>
-<w n="52,15">греци</w>
-<w n="52,15">с</w>
-<w n="52,15">роу<hi rend="sup">с</hi>ю.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="52,15">страны,</w>
-<w n="52,15">каку</w>
-<w n="52,15">любовь</w>
-<w n="52,15">имѣють</w>
-<w n="52,15">Грьци</w>
-<w n="52,15">съ</w>
-<w n="52,15">Русью.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="52,15">страны,</w>
-<w n="52,15">каку</w>
-<w n="52,15">любъвь</w>
-<w n="52,15">имѣють</w>
-<w n="52,15">Грьци</w>
-<w n="52,15">съ</w>
-<w n="52,15">Русию.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="52,15">страны,</w>
-<w n="52,15">каку</w>
-<w n="52,15">любовь</w>
-<w n="52,15">имѣють</w>
-<w n="52,15">грьци</w>
-<w n="52,15">съ</w>
-<w n="52,15">русью.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>52, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="52"/><div type="block" n="15"><p><app><lem wit="#lem">
+            страны, каку любъвь имѣють Грьци съ Русью.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">страны каку любовь имѣют<hi rend="sup">ь</hi>. <lb/> грьци съ русью.</rdg>
+            <rdg wit="#rad">стра<lb/>ны. какоую любовь имѣю<hi rend="sup">т</hi> греци с рѹсью.</rdg>
+            <rdg wit="#aka">страны. какѹ <lb/> любовь имѣють греци с рѹ<hi rend="sup">с</hi>ю.</rdg>
+            <rdg wit="#ipa">стра<lb/>ны. каку любовь имѣю <lb/> грѣци съ русью.</rdg>
+            <rdg wit="#xle">страны. какоу любовь имѣю<hi rend="sup">т</hi>
+                <lb/> греци с роу<hi rend="sup">с</hi>ю.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">страны, каку любовь имѣють Грьци съ Русью.</rdg><rdg wit="#shakh">страны, каку любъвь имѣють Грьци съ Русию.</rdg><rdg wit="#likh">страны, каку любовь имѣють грьци съ русью.</rdg></rdgGrp></app></p></div></body></text></TEI>

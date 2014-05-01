@@ -1,42 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>286, 7s</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="286"/><div type="block" n="7s"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#ipa">
-<w n="286,7s">ѿверзъ</w>
-<w n="286,7s">ѡчи</w>
-<w n="286,7s">свои</w>
-<w n="286,7s">види·</w>
-<w n="286,7s">мужа</w>
-<w n="286,7s">стоꙗща</w>
-<w n="286,7s">над</w>
-<w n="286,7s">нимь·</w>
-<w n="286,7s">и</w>
-<w n="286,7s">мѣчь</w>
-<w n="286,7s">на<lb/>гъ</w>
-<w n="286,7s">в</w>
-<w n="286,7s">руцѣ</w>
-<w n="286,7s">его· <pb n="98d"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="286,7s">ѿвръзъ</w>
-<w n="286,7s">ѡчи</w>
-<w n="286,7s">свои.</w>
-<w n="286,7s">и</w>
-<w n="286,7s">видѣ</w>
-<w n="286,7s">мѫжа</w>
-<w n="286,7s">стоаща</w>
-<w n="286,7s">на<hi rend="sup">д</hi></w>
-<w n="286,7s">ни<hi rend="sup">м</hi>, <lb/></w>
-
-<w n="286,7s">и</w>
-<w n="286,7s">мечь</w>
-<w n="286,7s">нагь</w>
-<w n="286,7s">в</w>
-<w n="286,7s">рѫцѣ</w>
-<w n="286,7s">его.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>286, 7s</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="286"/><div type="block" n="7s"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#ipa">ѿверзъ ѡчи свои види· мужа  стоꙗща над нимь· и мѣчь на<lb/>гъ в руцѣ его·
+                    <pb n="98d"/></rdg>
+            <rdg wit="#xle">ѿвръзъ ѡчи свои. и видѣ мѫжа стоаща на<hi rend="sup">д</hi> ни<hi rend="sup">м</hi>, <lb/> и мечь
+                нагь в рѫцѣ его.</rdg>
+        </rdgGrp></app></p></div></body></text></TEI>

@@ -1,87 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>30, 3b</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="30"/><div type="block" n="3b"><p>
-<app>
-<lem wit="#lem">
-<w n="30,3b">и</w>
-<w n="30,3b">повоева</w>
-<w n="30,3b">около</w>
-<w n="30,3b">града,</w>
-<w n="30,3b">и</w>
-<w n="30,3b">мъного</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="30,3b">и</w>
-<w n="30,3b">повоева</w>
-<w n="30,3b">много</w>
-<w n="30,3b">и</w>
-<w n="30,3b">много</w>
-<w n="30,3b">убииство</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="30,3b">и</w>
-<w n="30,3b">воевати</w>
-<w n="30,3b">нача</w>
-<w n="30,3b"><hi rend="sup">и</hi></w>
-<w n="30,3b">много</w>
-<w n="30,3b">оу<lb/>бииства</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="30,3b">и</w>
-<w n="30,3b">воевати</w>
-<w n="30,3b">нача. <lb/></w>
-
-<w n="30,3b">и</w>
-<w n="30,3b">много</w>
-<w n="30,3b">оубїиство</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="30,3b">и</w>
-<w n="30,3b">повоева</w>
-<w n="30,3b">ѡколол<hi rend="sup">о</hi><lb/></w>
-<w n="30,3b">города.</w>
-<w n="30,3b">и</w>
-<w n="30,3b">много</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="30,3b">и</w>
-<w n="30,3b">повоева</w>
-<w n="30,3b">ѡколо</w>
-<w n="30,3b">города.</w>
-<w n="30,3b">и</w>
-<w n="30,3b">мнѡго</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="30,3b">и</w>
-<w n="30,3b">воевати</w>
-<w n="30,3b">нача,</w>
-<w n="30,3b">и</w>
-<w n="30,3b">много</w>
-<w n="30,3b">убийство</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="30,3b">и</w>
-<w n="30,3b">повоева</w>
-<w n="30,3b">около</w>
-<w n="30,3b">града,</w>
-<w n="30,3b">и</w>
-<w n="30,3b">мъного</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="30,3b">и</w>
-<w n="30,3b">воевати</w>
-<w n="30,3b">нача,</w>
-<w n="30,3b">и</w>
-<w n="30,3b">много</w>
-<w n="30,3b">убийства</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>30, 3b</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="30"/><div type="block" n="3b"><p><app><lem wit="#lem">
+            и повоева около града, и мъного
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">и повоева много и много убииство</rdg>
+            <rdg wit="#rad">и воевати нача <hi rend="sup">и</hi> много оу<lb/>бииства</rdg>
+            <rdg wit="#aka">и воевати нача. <lb/> и много оубїиство</rdg>
+            <rdg wit="#ipa">и повоева ѡколол<hi rend="sup">о</hi>
+                <lb/> города. и много</rdg>
+            <rdg wit="#xle">и повоева ѡколо города. и мнѡго</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и воевати нача, и много убийство</rdg><rdg wit="#shakh">и повоева около града, и мъного</rdg><rdg wit="#likh">и воевати нача, и много убийства</rdg></rdgGrp></app></p></div></body></text></TEI>

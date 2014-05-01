@@ -1,106 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>191, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="191"/><div type="block" n="12"><p>
-<app>
-<lem wit="#lem">
-<w n="191,12">и</w>
-<w n="191,12">братии.</w>
-<w n="191,12">При</w>
-<w n="191,12">семь</w>
-<w n="191,12">бо</w>
-<w n="191,12">старьци</w>
-<w n="191,12">Феодосии</w>
-<w n="191,12">престави</w>
-<w n="191,12">ся,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="191,12">и</w>
-<w n="191,12">братьи.</w>
-<w n="191,12">при</w>
-<w n="191,12">сем</w>
-<w n="191,12">бо <lb/></w>
-
-<w n="191,12">старци</w>
-<w n="191,12">ѳеѡдосии</w>
-<w n="191,12">престави<lb/>сѧ.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="191,12">и</w>
-<w n="191,12">братьи.</w>
-<w n="191,12">при</w>
-<w n="191,12">сем</w>
-<w n="191,12">бо</w>
-<w n="191,12">старци</w>
-<w n="191,12">феѡ<hi rend="sup">д</hi>сии</w>
-<w n="191,12">пре<lb/>стависѧ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="191,12">и</w>
-<w n="191,12">братьи.</w>
-<w n="191,12">при</w>
-<w n="191,12">семь</w>
-<w n="191,12">бо</w>
-<w n="191,12">ста<lb/>рци</w>
-<w n="191,12">феѡдосии</w>
-<w n="191,12">престависѧ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="191,12">и</w>
-<w n="191,12">все<lb/>и</w>
-<w n="191,12">братьи.</w>
-<w n="191,12">при</w>
-<w n="191,12">семь</w>
-<w n="191,12">бо</w>
-<w n="191,12">старь<lb/><milestone unit="sic" n="start"/>ц<milestone unit="sic" n="end"/>и</w>
-<w n="191,12">федосии</w>
-<w n="191,12">преставилъсѧ <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="191,12">и</w>
-<w n="191,12">братїи.</w>
-<w n="191,12">при</w>
-<w n="191,12">се<hi rend="sup">м</hi></w>
-<w n="191,12">бо</w>
-<w n="191,12">старци <lb/></w>
-
-<w n="191,12">ѳеѡ<hi rend="sup">д</hi>с<hi rend="sup">о</hi>їи</w>
-<w n="191,12">престависѧ.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="191,12">и</w>
-<w n="191,12">братьи.</w>
-<w n="191,12">При</w>
-<w n="191,12">семъ</w>
-<w n="191,12">бо</w>
-<w n="191,12">старци</w>
-<w n="191,12">Феодосий</w>
-<w n="191,12">преставися,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="191,12">и</w>
-<w n="191,12">братии.</w>
-<w n="191,12">При</w>
-<w n="191,12">семь</w>
-<w n="191,12">бо</w>
-<w n="191,12">старьци</w>
-<w n="191,12">Феодосии</w>
-<w n="191,12">преставися,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="191,12">и</w>
-<w n="191,12">братьи.</w>
-<w n="191,12">При</w>
-<w n="191,12">сем</w>
-<w n="191,12">бо</w>
-<w n="191,12">старци</w>
-<w n="191,12">Феодосий</w>
-<w n="191,12">преставися,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>191, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="191"/><div type="block" n="12"><p><app><lem wit="#lem">
+            и братии. При семь бо старьци Феодосии престави ся,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и братьи. при сем бо <lb/> старци ѳеѡдосии престави<lb/>сѧ.</rdg>
+            <rdg wit="#rad">и братьи. при сем бо старци феѡ<hi rend="sup">д</hi>сии пре<lb/>стависѧ.</rdg>
+            <rdg wit="#aka">и братьи. при семь бо ста<lb/>рци феѡдосии престависѧ.</rdg>
+            <rdg wit="#ipa">и все<lb/>и братьи. при семь бо старь<lb/><sic>ц</sic>и федосии
+                преставилъсѧ <lb/></rdg>
+            <rdg wit="#xle">и братїи. при се<hi rend="sup">м</hi> бо старци <lb/> ѳеѡ<hi rend="sup">д</hi>с<hi rend="sup">о</hi>їи
+                престависѧ.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и братьи. При семъ бо старци Феодосий преставися,</rdg><rdg wit="#shakh">и братии. При семь бо старьци Феодосии преставися,</rdg><rdg wit="#likh">и братьи. При сем бо старци Феодосий преставися,</rdg></rdgGrp></app></p></div></body></text></TEI>

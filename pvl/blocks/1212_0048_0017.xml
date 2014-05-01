@@ -1,86 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>48, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="48"/><div type="block" n="17"><p>
-<app>
-<lem wit="#lem">
-<w n="48,17">доньдеже</w>
-<w n="48,17">възвѣстимъ</w>
-<w n="48,17">кънязю</w>
-<w n="48,17">вашему.</w>
-<w n="48,17">Аще</w>
-<w n="48,17">ли</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="48,17">дондеже</w>
-<w n="48,17">възвѣстимъ</w>
-<w n="48,17">кнѧзю <lb/></w>
-
-<w n="48,17">нашему.</w>
-<w n="48,17">аще</w>
-<w n="48,17">ли</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="48,17"><milestone unit="sic" n="start"/>д<milestone unit="sic" n="end"/>ондеже</w>
-<w n="48,17">възвести<hi rend="sup">м</hi><lb/></w>
-<w n="48,17">кн҃зю</w>
-<w n="48,17">вашемѹ.</w>
-<w n="48,17">аще<hi rend="sup">л</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="48,17">дондеже</w>
-<w n="48,17">возвестимь</w>
-<w n="48,17">кн҃зю</w>
-<w n="48,17">вашемѹ. <lb/></w>
-
-<w n="48,17">аще</w>
-<w n="48,17">ли</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="48,17">дондеже</w>
-<w n="48,17">въ<lb/>звѣстимъ</w>
-<w n="48,17">кнѧзю</w>
-<w n="48,17">ва<lb/>шему.</w>
-<w n="48,17">аще</w>
-<w n="48,17">ли</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="48,17">донде<hi rend="sup">ж</hi></w>
-<w n="48,17">възвѣсти<hi rend="sup">м</hi></w>
-<w n="48,17">кнѧѕю</w>
-<w n="48,17">нашемоу. <lb/></w>
-
-<w n="48,17">аще</w>
-<w n="48,17">ли</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="48,17">дондеже</w>
-<w n="48,17">възвѣстимъ</w>
-<w n="48,17">князю</w>
-<w n="48,17">вашему;</w>
-<w n="48,17">аще</w>
-<w n="48,17">ли</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="48,17">доньдеже</w>
-<w n="48,17">възвѣстимъ</w>
-<w n="48,17">кънязю</w>
-<w n="48,17">нашему;</w>
-<w n="48,17">аще</w>
-<w n="48,17">ли</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="48,17">донде</w>
-<w n="48,17">же</w>
-<w n="48,17">възвѣстимъ</w>
-<w n="48,17">князю</w>
-<w n="48,17">вашему.</w>
-<w n="48,17">Аще</w>
-<w n="48,17">ли</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>48, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="48"/><div type="block" n="17"><p><app><lem wit="#lem">
+            доньдеже възвѣстимъ кънязю вашему. Аще ли
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">дондеже възвѣстимъ кнѧзю <lb/> нашему. аще ли</rdg>
+            <rdg wit="#rad"><sic>д</sic>ондеже възвести<hi rend="sup">м</hi>
+                <lb/> кн҃зю вашемѹ. аще<hi rend="sup">л</hi></rdg>
+            <rdg wit="#aka">дондеже возвестимь кн҃зю вашемѹ. <lb/> аще ли</rdg>
+            <rdg wit="#ipa">дондеже въ<lb/>звѣстимъ кнѧзю ва<lb/>шему. аще ли</rdg>
+            <rdg wit="#xle">донде<hi rend="sup">ж</hi> възвѣсти<hi rend="sup">м</hi> кнѧѕю нашемоу. <lb/> аще ли</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">дондеже възвѣстимъ князю вашему; аще ли</rdg><rdg wit="#shakh">доньдеже възвѣстимъ кънязю нашему; аще ли</rdg><rdg wit="#likh">донде же възвѣстимъ князю вашему. Аще ли</rdg></rdgGrp></app></p></div></body></text></TEI>

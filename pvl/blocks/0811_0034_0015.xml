@@ -1,100 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>34, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="34"/><div type="block" n="15"><p>
-<app>
-<lem wit="#lem">
-<w n="34,15">убииство,</w>
-<w n="34,15">аще</w>
-<w n="34,15">есть</w>
-<w n="34,15">имовитъ,</w>
-<w n="34,15">да</w>
-<w n="34,15">часть</w>
-<w n="34,15">его,</w>
-<w n="34,15">сирѣчь</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="34,15">оубииство.</w>
-<w n="34,15">да</w>
-<w n="34,15">аще</w>
-<w n="34,15">е<hi rend="sup">с</hi></w>
-<w n="34,15">домови<hi rend="sup">т</hi>. <lb/></w>
-
-<w n="34,15">да</w>
-<w n="34,15">часть</w>
-<w n="34,15">е<hi rend="sup">г</hi></w>
-<w n="34,15">сирѣ<hi rend="sup">ч</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="34,15">оубїиство.</w>
-<w n="34,15">да</w>
-<w n="34,15">аще</w>
-<w n="34,15">есть</w>
-<w n="34,15">домовитъ. <lb/></w>
-
-<w n="34,15">да</w>
-<w n="34,15">часть</w>
-<w n="34,15">его</w>
-<w n="34,15">сирѣ<hi rend="sup">ч</hi></w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="34,15">оубииство.</w>
-<w n="34,15">аще</w>
-<w n="34,15">есть</w>
-<w n="34,15">имо<lb/>витъ.</w>
-<w n="34,15">да</w>
-<w n="34,15">часть</w>
-<w n="34,15">его.</w>
-<w n="34,15">сирѣ<lb/>чь</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="34,15">оубїиство.</w>
-<w n="34,15">аще</w>
-<w n="34,15">е<hi rend="sup">с</hi></w>
-<w n="34,15">имови<hi rend="sup">т</hi>.</w>
-<w n="34,15">да</w>
-<w n="34,15">часть</w>
-<w n="34,15">его <lb/></w>
-
-<w n="34,15">сирѣ<hi rend="sup">ч</hi>,</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="34,15">убийство,</w>
-<w n="34,15">да</w>
-<w n="34,15">аще</w>
-<w n="34,15">есть</w>
-<w n="34,15">домовитъ,</w>
-<w n="34,15">да</w>
-<w n="34,15">часть</w>
-<w n="34,15">его,</w>
-<w n="34,15">сирѣчь</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="34,15">убииство,</w>
-<w n="34,15">аще</w>
-<w n="34,15">есть</w>
-<w n="34,15">имовитъ,</w>
-<w n="34,15">да</w>
-<w n="34,15">часть</w>
-<w n="34,15">его,</w>
-<w n="34,15">сирѣчь</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="34,15">убийство,</w>
-<w n="34,15">да</w>
-<w n="34,15">аще</w>
-<w n="34,15">есть</w>
-<w n="34,15">домовит,</w>
-<w n="34,15">да</w>
-<w n="34,15">часть</w>
-<w n="34,15">его,</w>
-<w n="34,15">сирѣчь</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>34, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="34"/><div type="block" n="15"><p><app><lem wit="#lem">
+            убииство, аще есть имовитъ, да часть его, сирѣчь
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">оубииство. да аще е<hi rend="sup">с</hi> домови<hi rend="sup">т</hi>. <lb/> да часть е<hi rend="sup">г</hi>
+                    сирѣ<hi rend="sup">ч</hi></rdg>
+            <rdg wit="#aka">оубїиство. да аще есть домовитъ. <lb/> да часть его сирѣ<hi rend="sup">ч</hi></rdg>
+            <rdg wit="#ipa">оубииство. аще есть имо<lb/>витъ. да часть его. сирѣ<lb/>чь</rdg>
+            <rdg wit="#xle">оубїиство. аще е<hi rend="sup">с</hi> имови<hi rend="sup">т</hi>. да часть его <lb/>
+                сирѣ<hi rend="sup">ч</hi>,</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">убийство, да аще есть домовитъ, да часть его, сирѣчь</rdg><rdg wit="#shakh">убииство, аще есть имовитъ, да часть его, сирѣчь</rdg><rdg wit="#likh">убийство, да аще есть домовит, да часть его, сирѣчь</rdg></rdgGrp></app></p></div></body></text></TEI>

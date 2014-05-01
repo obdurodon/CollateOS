@@ -1,113 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>171, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="171"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="171,16">погреба,</w>
-<w n="171,16">отътворивъше</w>
-<w n="171,16">погребъ.</w>
-<w n="171,16">И</w>
-<w n="171,16">рѣша</w>
-<w n="171,16">дружина</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="171,16">погреба.</w>
-<w n="171,16">ѡтвори<lb/>вше</w>
-<w n="171,16">погребъ.</w>
-<w n="171,16">и</w>
-<w n="171,16">рекоша</w>
-<w n="171,16">дружи<lb/>на</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="171,16">погреба.</w>
-<w n="171,16">ѡтворивше <lb/></w>
-
-<w n="171,16">погребъ</w>
-<w n="171,16">и</w>
-<w n="171,16">рѣша</w>
-<w n="171,16">дроужина</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="171,16">погреба.</w>
-<w n="171,16">ѡтворивше <lb/></w>
-
-<w n="171,16">погребъ.</w>
-<w n="171,16">и</w>
-<w n="171,16">рѣша</w>
-<w n="171,16">дрѹжина</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="171,16">погреба.</w>
-<w n="171,16">ѡтворивше</w>
-<w n="171,16">по<lb/>гребъ.</w>
-<w n="171,16">и</w>
-<w n="171,16">рѣша</w>
-<w n="171,16">друж<hi rend="sup">н</hi><milestone unit="sic" n="start"/>и<milestone unit="sic" n="end"/><hi rend="sup">а</hi></w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="171,16">погреба.</w>
-<w n="171,16">отворивше <lb/></w>
-
-<w n="171,16">погребь.</w>
-<w n="171,16">и</w>
-<w n="171,16">рѣша</w>
-<w n="171,16">дроужина</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="171,16">погреба</w>
-<w n="171,16">отворивше</w>
-<w n="171,16">погребъ</w>
-<w n="171,16">и</w>
-<w n="171,16">рѣша</w>
-<w n="171,16">дружина</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="171,16">погреба</w>
-<w n="171,16">отворивше</w>
-<w n="171,16">погребъ</w>
-<w n="171,16">и</w>
-<w n="171,16">рѣша</w>
-<w n="171,16">дружина</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="171,16">погреба</w>
-<w n="171,16">отворивше</w>
-<w n="171,16">погребъ</w>
-<w n="171,16">и</w>
-<w n="171,16">рѣша</w>
-<w n="171,16">дружина</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="171,16">погреба,</w>
-<w n="171,16">отворивше</w>
-<w n="171,16">погребъ;</w>
-<w n="171,16">и</w>
-<w n="171,16">рекоша</w>
-<w n="171,16">дружина</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="171,16">погреба,</w>
-<w n="171,16">отътворивъше</w>
-<w n="171,16">погребъ.</w>
-<w n="171,16">И</w>
-<w n="171,16">рѣша</w>
-<w n="171,16">дружина</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="171,16">погреба,</w>
-<w n="171,16">отворивше</w>
-<w n="171,16">погребъ.</w>
-<w n="171,16">И</w>
-<w n="171,16">рекоша</w>
-<w n="171,16">дружина</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>171, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="171"/><div type="block" n="16"><p><app><lem wit="#lem">
+            погреба, отътворивъше погребъ. И рѣша дружина
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">погреба. ѡтвори<lb/>вше погребъ. и рекоша дружи<lb/>на</rdg>
+            <rdg wit="#rad">погреба. ѡтворивше <lb/> погребъ и рѣша дроужина</rdg>
+            <rdg wit="#aka">погреба. ѡтворивше <lb/> погребъ. и рѣша дрѹжина</rdg>
+            <rdg wit="#ipa">погреба. ѡтворивше по<lb/>гребъ. и рѣша
+                    друж<hi rend="sup">н</hi><sic>и</sic><hi rend="sup">а</hi></rdg>
+            <rdg wit="#xle">погреба. отворивше <lb/> погребь. и рѣша дроужина</rdg>
+            <rdg wit="#kom">погреба отворивше погребъ и рѣша дружина</rdg>
+            <rdg wit="#nak">погреба отворивше погребъ и рѣша дружина</rdg>
+            <rdg wit="#tol">погреба отворивше погребъ и рѣша дружина</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">погреба, отворивше погребъ; и рекоша дружина</rdg><rdg wit="#shakh">погреба, отътворивъше погребъ. И рѣша дружина</rdg><rdg wit="#likh">погреба, отворивше погребъ. И рекоша дружина</rdg></rdgGrp></app></p></div></body></text></TEI>

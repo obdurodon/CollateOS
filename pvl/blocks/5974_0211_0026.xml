@@ -1,78 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>211, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="211"/><div type="block" n="26"><p>
-<app>
-<lem wit="#lem">
-<w n="211,26">проречение</w>
-<w n="211,26">Феодосиево.</w>
-<w n="211,26">Игуменьство</w>
-<w n="211,26">бо</w>
-<w n="211,26">Феодосиеву</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="211,26">прр҃ченье</w>
-<w n="211,26">ѳеѡдось<lb/>ево·</w>
-<w n="211,26">игуменьство</w>
-<w n="211,26">бо</w>
-<w n="211,26">ѳеѡдосью <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="211,26">проре<hi rend="sup">ч</hi>ние</w>
-<w n="211,26">феѡ<hi rend="sup">д</hi>сиево· <lb/></w>
-
-<w n="211,26">игоуменьство</w>
-<w n="211,26">бо</w>
-<w n="211,26">держащоу.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="211,26">прореченїе</w>
-<w n="211,26">феѡдось<lb/>ево·</w>
-<w n="211,26">игѹменьство</w>
-<w n="211,26">бо</w>
-<w n="211,26">дръжащю</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="211,26">прорѣ<milestone unit="sic" n="start"/>ч<milestone unit="sic" n="end"/>енье</w>
-<w n="211,26">федось<lb/>ево</w>
-<w n="211,26">игуменьство</w>
-<w n="211,26">бо</w>
-<w n="211,26">федосьеви <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="211,26">проре<hi rend="sup">ч</hi>нїе</w>
-<w n="211,26">фе<hi rend="sup">д</hi>ѡ<hi rend="sup">о</hi>сїево. <lb/></w>
-
-<w n="211,26">игоуме<hi rend="sup">н</hi>ство</w>
-<w n="211,26">бо</w>
-<w n="211,26">дръжащоу.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="211,26">прореченье</w>
-<w n="211,26">Феодосьево:</w>
-<w n="211,26">игуменьство</w>
-<w n="211,26">бо</w>
-<w n="211,26">Феодосью</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="211,26">проречение</w>
-<w n="211,26">Феодосиево.</w>
-<w n="211,26">Игуменьство</w>
-<w n="211,26">бо</w>
-<w n="211,26">Феодосиеви</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="211,26">прореченье</w>
-<w n="211,26">Феодосьево:</w>
-<w n="211,26">игуменьство</w>
-<w n="211,26">бо</w>
-<w n="211,26">Феодосью</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>211, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="211"/><div type="block" n="26"><p><app><lem wit="#lem">
+            проречение Феодосиево. Игуменьство бо Феодосиеву
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">прр҃ченье ѳеѡдось<lb/>ево· игуменьство бо ѳеѡдосью <lb/></rdg>
+            <rdg wit="#rad">проре<hi rend="sup">ч</hi>ние феѡ<hi rend="sup">д</hi>сиево· <lb/> игоуменьство бо держащоу.</rdg>
+            <rdg wit="#aka">прореченїе феѡдось<lb/>ево· игѹменьство бо дръжащю</rdg>
+            <rdg wit="#ipa">прорѣ<sic>ч</sic>енье федось<lb/>ево игуменьство бо федосьеви <lb/></rdg>
+            <rdg wit="#xle">проре<hi rend="sup">ч</hi>нїе фе<hi rend="sup">д</hi>ѡ<hi rend="sup">о</hi>сїево. <lb/> игоуме<hi rend="sup">н</hi>ство
+                бо дръжащоу.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">прореченье Феодосьево: игуменьство бо Феодосью</rdg><rdg wit="#shakh">проречение Феодосиево. Игуменьство бо Феодосиеви</rdg><rdg wit="#likh">прореченье Феодосьево: игуменьство бо Феодосью</rdg></rdgGrp></app></p></div></body></text></TEI>

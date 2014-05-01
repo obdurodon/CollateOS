@@ -1,104 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>274, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="274"/><div type="block" n="17"><p>
-<app>
-<lem wit="#lem">
-<w n="274,17">посълаша</w>
-<w n="274,17">посълы</w>
-<w n="274,17">своя</w>
-<w n="274,17">къ</w>
-<w n="274,17">Володареви</w>
-<w n="274,17">и</w>
-<w n="274,17">къ</w>
-<w n="274,17">Василькови:</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="274,17">послаша</w>
-<w n="274,17">слы</w>
-<w n="274,17">своꙗ <lb/></w>
-
-<w n="274,17">к</w>
-<w n="274,17">володареви·</w>
-<w n="274,17">и</w>
-<w n="274,17">к</w>
-<w n="274,17">василко<lb/>ви·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="274,17">послаша</w>
-<w n="274,17">послы</w>
-<w n="274,17">своа.</w>
-<w n="274,17">к</w>
-<w n="274,17">володареви.</w>
-<w n="274,17">и</w>
-<w n="274,17">васи<hi rend="sup">л</hi>кови <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="274,17">послаша <lb/></w>
-
-<w n="274,17">послы·̏</w>
-<w n="274,17">своѧ</w>
-<w n="274,17">к</w>
-<w n="274,17">володареви·</w>
-<w n="274,17">и</w>
-<w n="274,17">василкови·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="274,17">посла</w>
-<w n="274,17">по<lb/>слы</w>
-<w n="274,17">своꙗ·</w>
-<w n="274,17">к</w>
-<w n="274,17">володареви·</w>
-<w n="274,17">и</w>
-<w n="274,17">к</w>
-<w n="274,17">василкови· <pb n="94c"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="274,17">послаша</w>
-<w n="274,17">послы</w>
-<w n="274,17">своа</w>
-<w n="274,17">к′</w>
-<w n="274,17">володар<hi rend="sup">в</hi>е<hi rend="sup">и</hi>,</w>
-<w n="274,17">и</w>
-<w n="274,17">к</w>
-<w n="274,17">васи<hi rend="sup">л</hi>кови. <pb n="118r"/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="274,17">послаша</w>
-<w n="274,17">слы</w>
-<w n="274,17">своя</w>
-<w n="274,17">к</w>
-<w n="274,17">Володареви</w>
-<w n="274,17">и</w>
-<w n="274,17">к</w>
-<w n="274,17">Василкови:</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="274,17">посълаша</w>
-<w n="274,17">сълы</w>
-<w n="274,17">своя</w>
-<w n="274,17">къ</w>
-<w n="274,17">Володареви</w>
-<w n="274,17">и</w>
-<w n="274,17">къ</w>
-<w n="274,17">Василькови:</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="274,17">послаша</w>
-<w n="274,17">слы</w>
-<w n="274,17">своя</w>
-<w n="274,17">к</w>
-<w n="274,17">Володареви</w>
-<w n="274,17">и</w>
-<w n="274,17">к</w>
-<w n="274,17">Василкови:</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>274, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="274"/><div type="block" n="17"><p><app><lem wit="#lem">
+            посълаша посълы своя къ Володареви и къ Василькови:
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">послаша слы своꙗ <lb/> к володареви· и к василко<lb/>ви·</rdg>
+            <rdg wit="#rad">послаша послы своа. к володареви. и васи<hi rend="sup">л</hi>кови <lb/></rdg>
+            <rdg wit="#aka">послаша <lb/> послы·̏ своѧ к володареви· и василкови·</rdg>
+            <rdg wit="#ipa">посла по<lb/>слы своꙗ· к володареви·  и к василкови·
+                <pb n="94c"/></rdg>
+            <rdg wit="#xle">послаша послы своа к′ володар<hi rend="sup">в</hi>е<hi rend="sup">и</hi>,  и к
+                васи<hi rend="sup">л</hi>кови. <pb n="118r"/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">послаша слы своя к Володареви и к Василкови:</rdg><rdg wit="#shakh">посълаша сълы своя къ Володареви и къ Василькови:</rdg><rdg wit="#likh">послаша слы своя к Володареви и к Василкови:</rdg></rdgGrp></app></p></div></body></text></TEI>

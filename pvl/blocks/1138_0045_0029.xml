@@ -1,96 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>45, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="45"/><div type="block" n="29"><p>
-<app>
-<lem wit="#lem">
-<w n="45,29">мъного.</w>
-<w n="45,29">Игорь</w>
-<w n="45,29">же,</w>
-<w n="45,29">дошьдъ</w>
-<w n="45,29">Дуная,</w>
-<w n="45,29">съзъва</w>
-<w n="45,29">дружину,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="45,29">много.</w>
-<w n="45,29">игорь</w>
-<w n="45,29">же</w>
-<w n="45,29">доше<hi rend="sup">д</hi></w>
-<w n="45,29">дунаꙗ.</w>
-<w n="45,29">созва</w>
-<w n="45,29">дружину <pb n="11r"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="45,29">много.</w>
-<w n="45,29">иго<lb/>ржь</w>
-<w n="45,29">доше<hi rend="sup">д</hi></w>
-<w n="45,29">до</w>
-<w n="45,29">дѹнаа.</w>
-<w n="45,29">созва</w>
-<w n="45,29">дрѹжынѹ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="45,29">много.</w>
-<w n="45,29">игорже</w>
-<w n="45,29">доше<hi rend="sup">д</hi></w>
-<w n="45,29">до <lb/></w>
-
-<w n="45,29">дѹнаа.</w>
-<w n="45,29">созва</w>
-<w n="45,29">дрѹжинѹ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="45,29">много.</w>
-<w n="45,29">и<lb/>горь</w>
-<w n="45,29">же</w>
-<w n="45,29">дошедъ</w>
-<w n="45,29">дунаꙗ. <lb/></w>
-
-<w n="45,29">съзва</w>
-<w n="45,29">дружину</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="45,29">мнѡга.</w>
-<w n="45,29">игор</w>
-<w n="45,29">же</w>
-<w n="45,29">доше<hi rend="sup">д</hi></w>
-<w n="45,29">доунаа. <lb/></w>
-
-<w n="45,29">с<hi rend="sup">ъ</hi>зва</w>
-<w n="45,29">дроужиноу.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="45,29">много.</w>
-<w n="45,29">Игорь</w>
-<w n="45,29">же</w>
-<w n="45,29">дошедъ</w>
-<w n="45,29">Дуная</w>
-<w n="45,29">созва</w>
-<w n="45,29">дружину,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="45,29">мъного.</w>
-<w n="45,29">Игорь</w>
-<w n="45,29">же,</w>
-<w n="45,29">дошьдъ</w>
-<w n="45,29">Дуная,</w>
-<w n="45,29">съзъва</w>
-<w n="45,29">дружину,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="45,29">много.</w>
-<w n="45,29">Игорь</w>
-<w n="45,29">же,</w>
-<w n="45,29">дошед</w>
-<w n="45,29">Дуная,</w>
-<w n="45,29">созва</w>
-<w n="45,29">дружину,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>45, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="45"/><div type="block" n="29"><p><app><lem wit="#lem">
+            мъного. Игорь же, дошьдъ Дуная, съзъва дружину,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">много. игорь же доше<hi rend="sup">д</hi>
+                 дунаꙗ. созва дружину <pb n="11r"/></rdg>
+            <rdg wit="#rad">много. иго<lb/>ржь доше<hi rend="sup">д</hi> до дѹнаа. созва дрѹжынѹ</rdg>
+            <rdg wit="#aka">много. игорже доше<hi rend="sup">д</hi> до <lb/> дѹнаа. созва дрѹжинѹ</rdg>
+            <rdg wit="#ipa">много. и<lb/>горь же дошедъ дунаꙗ. <lb/> съзва дружину</rdg>
+            <rdg wit="#xle">мнѡга. игор же доше<hi rend="sup">д</hi> доунаа. <lb/> с<hi rend="sup">ъ</hi>зва дроужиноу.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">много. Игорь же дошедъ Дуная созва дружину,</rdg><rdg wit="#shakh">мъного. Игорь же, дошьдъ Дуная, съзъва дружину,</rdg><rdg wit="#likh">много. Игорь же, дошед Дуная, созва дружину,</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,86 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>281, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="281"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-<w n="281,4">Въ</w>
-<w n="281,4">лѣто 6614.</w>
-
-<w n="281,4">Воеваша</w>
-<w n="281,4">Половьци</w>
-<w n="281,4">около</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="281,4">В</w>
-<w n="281,4">л<hi rend="sup">т</hi>ѣ</w>
-<w n="281,4">·҂ѕ҃·х҃·д҃і·</w>
-<w n="281,4">Воеваша <lb/></w>
-
-<w n="281,4">половци</w>
-<w n="281,4">ѡколо</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="281,4">лѣ<hi rend="sup">т</hi></w>
-<w n="281,4">х҃</w>
-<w n="281,4">д҃і.</w>
-<w n="281,4">воева<lb/>ша</w>
-<w n="281,4">половци·</w>
-<w n="281,4">ѡколо</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="281,4">В</w>
-<w n="281,4">л<hi rend="sup">т</hi>ѣ</w>
-<w n="281,4">·҂ѕ҃·хд҃і·</w>
-<w n="281,4">воеваша <lb/></w>
-
-<w n="281,4">половци</w>
-<w n="281,4">ѡколо</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="281,4">В</w>
-<w n="281,4">лѣ<hi rend="sup">т</hi></w>
-<w n="281,4">·҂ѕ҃·х҃·д҃і·</w>
-<w n="281,4">Повоева<hi rend="sup">ш</hi>·</w>
-<w n="281,4">по<lb/>ловци</w>
-<w n="281,4">ѡколо</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="281,4">В</w>
-<w n="281,4">л<hi rend="sup">т</hi>ѣ</w>
-<w n="281,4">.҂ѕ҃.х҃.д҃і.</w>
-<w n="281,4">воеваша</w>
-<w n="281,4">половци <lb/></w>
-
-<w n="281,4">около</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="281,4">В</w>
-<w n="281,4">лѣто 6614.</w>
-
-<w n="281,4">Воеваша</w>
-<w n="281,4">Половци</w>
-<w n="281,4">около</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="281,4">Въ</w>
-<w n="281,4">лѣто 6614.</w>
-
-<w n="281,4">Воеваша</w>
-<w n="281,4">Половьци</w>
-<w n="281,4">около</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="281,4">В</w>
-<w n="281,4">лѣто 6614.</w>
-
-<w n="281,4">Воеваша</w>
-<w n="281,4">половци</w>
-<w n="281,4">около</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>281, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="281"/><div type="block" n="4"><p><app><lem wit="#lem">
+            Въ лѣто 6614. Воеваша Половьци около
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">В л<hi rend="sup">т</hi>ѣ ·҂ѕ҃·х҃·д҃і· Воеваша <lb/> половци ѡколо</rdg>
+            <rdg wit="#rad">лѣ<hi rend="sup">т</hi> х҃ д҃і. воева<lb/>ша половци· ѡколо</rdg>
+            <rdg wit="#aka">В л<hi rend="sup">т</hi>ѣ ·҂ѕ҃·хд҃і· воеваша <lb/> половци ѡколо</rdg>
+            <rdg wit="#ipa">В лѣ<hi rend="sup">т</hi> ·҂ѕ҃·х҃·д҃і· Повоева<hi rend="sup">ш</hi>· по<lb/>ловци ѡколо</rdg>
+            <rdg wit="#xle">В л<hi rend="sup">т</hi>ѣ .҂ѕ҃.х҃.д҃і. воеваша половци <lb/> около</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">В лѣто 6614. Воеваша Половци около</rdg><rdg wit="#shakh">Въ лѣто 6614. Воеваша Половьци около</rdg><rdg wit="#likh">В лѣто 6614. Воеваша половци около</rdg></rdgGrp></app></p></div></body></text></TEI>

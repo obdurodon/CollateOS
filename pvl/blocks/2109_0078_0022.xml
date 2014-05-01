@@ -1,116 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>78, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="78"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="78,22">бываеть,</w>
-<w n="78,22">понеже</w>
-<w n="78,22">была</w>
-<w n="78,22">бѣ</w>
-<w n="78,22">мати</w>
-<w n="78,22">его</w>
-<w n="78,22">чьрницею,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="78,22">бываеть.</w>
-<w n="78,22">понеже</w>
-<w n="78,22">бѣ</w>
-<w n="78,22">была</w>
-<w n="78,22">м҃т<hi rend="sup">и</hi><lb/></w>
-<w n="78,22">его</w>
-<w n="78,22">черницею.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="78,22">бываеть.</w>
-<w n="78,22">понеже</w>
-<w n="78,22">бѣ</w>
-<w n="78,22">м҃ти</w>
-<w n="78,22">его</w>
-<w n="78,22">была</w>
-<w n="78,22">черницею <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="78,22">бываеть.</w>
-<w n="78,22">понеже</w>
-<w n="78,22">бѣ</w>
-<w n="78,22">м҃ти <lb/></w>
-
-<w n="78,22">его</w>
-<w n="78,22">была</w>
-<w n="78,22">черницею.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="78,22">бы<lb/>ваеть.</w>
-<w n="78,22">понеже</w>
-<w n="78,22">была</w>
-<w n="78,22">бѣ</w>
-<w n="78,22">м҃ти</w>
-<w n="78,22">его</w>
-<w n="78,22">черницею <pb n="31b"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="78,22">бывае<hi rend="sup">т</hi>.</w>
-<w n="78,22">поне<hi rend="sup">ж</hi><lb/></w>
-<w n="78,22">бѣ</w>
-<w n="78,22">была</w>
-<w n="78,22">м҃ти</w>
-<w n="78,22">его</w>
-<w n="78,22">черницею</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="78,22">бываеть</w>
-<w n="78,22">понеже</w>
-<w n="78,22">была</w>
-<w n="78,22">бѣ</w>
-<w n="78,22">мати</w>
-<w n="78,22">его</w>
-<w n="78,22">черницею</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="78,22">бываеть</w>
-<w n="78,22">понеже</w>
-<w n="78,22">бо</w>
-<w n="78,22">была</w>
-<w n="78,22">бѣ</w>
-<w n="78,22">мати</w>
-<w n="78,22">его</w>
-<w n="78,22">черницею</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="78,22">бываеть:</w>
-<w n="78,22">понеже</w>
-<w n="78,22">бѣ</w>
-<w n="78,22">была</w>
-<w n="78,22">мати</w>
-<w n="78,22">его</w>
-<w n="78,22">черницею,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="78,22">бываеть,</w>
-<w n="78,22">понеже</w>
-<w n="78,22">была</w>
-<w n="78,22">бѣ</w>
-<w n="78,22">мати</w>
-<w n="78,22">его</w>
-<w n="78,22">чьрницею,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="78,22">бываеть:</w>
-<w n="78,22">понеже</w>
-<w n="78,22">бѣ</w>
-<w n="78,22">была</w>
-<w n="78,22">мати</w>
-<w n="78,22">его</w>
-<w n="78,22">черницею,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>78, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="78"/><div type="block" n="22"><p><app><lem wit="#lem">
+            бываеть, понеже была бѣ мати его чьрницею,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">бываеть. понеже бѣ была м҃т<hi rend="sup">и</hi>
+                <lb/> его черницею.</rdg>
+            <rdg wit="#rad">бываеть. понеже бѣ м҃ти его была черницею <lb/></rdg>
+            <rdg wit="#aka">бываеть. понеже бѣ м҃ти <lb/> его была черницею.</rdg>
+            <rdg wit="#ipa">бы<lb/>ваеть. понеже была бѣ  м҃ти его черницею <pb n="31b"/></rdg>
+            <rdg wit="#xle">бывае<hi rend="sup">т</hi>. поне<hi rend="sup">ж</hi>
+                <lb/> бѣ была м҃ти его черницею</rdg>
+            <rdg wit="#kom">бываеть понеже была бѣ мати его черницею</rdg>
+            <rdg wit="#tol">бываеть понеже бо была бѣ мати его черницею</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">бываеть: понеже бѣ была мати его черницею,</rdg><rdg wit="#shakh">бываеть, понеже была бѣ мати его чьрницею,</rdg><rdg wit="#likh">бываеть: понеже бѣ была мати его черницею,</rdg></rdgGrp></app></p></div></body></text></TEI>

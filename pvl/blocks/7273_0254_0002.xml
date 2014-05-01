@@ -1,54 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>254, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="254"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="254,2">на</w>
-<w n="254,2">мѣстѣ</w>
-<w n="254,2">и</w>
-<w n="254,2">сѧде<hi rend="sup">т</hi></w>
-<w n="254,2">акы</w>
-<w n="254,2">горлица· <lb/></w>
-
-<w n="254,2">на</w>
-<w n="254,2">сусѣ</w>
-<w n="254,2">древѣ</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="254,2">на</w>
-<w n="254,2">мѣстѣ,</w>
-<w n="254,2">и</w>
-<w n="254,2">сядеть</w>
-<w n="254,2">акы</w>
-<w n="254,2">горлица</w>
-<w n="254,2">на</w>
-<w n="254,2">сусѣ</w>
-<w n="254,2">древѣ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="254,2">на</w>
-<w n="254,2">мѣстѣ,</w>
-<w n="254,2">и</w>
-<w n="254,2">сядеть</w>
-<w n="254,2">акы</w>
-<w n="254,2">горлица</w>
-<w n="254,2">на</w>
-<w n="254,2">сусѣ</w>
-<w n="254,2">древѣ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>254, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="254"/><div type="block" n="2"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">на мѣстѣ и сѧде<hi rend="sup">т</hi> акы горлица· <lb/> на сусѣ древѣ</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">на мѣстѣ, и сядеть акы горлица на сусѣ древѣ</rdg><rdg wit="#likh">на мѣстѣ, и сядеть акы горлица на сусѣ древѣ</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,88 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>190, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="190"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-<w n="190,4">отъ</w>
-<w n="190,4">диявола.</w>
-<w n="190,4">Аще</w>
-<w n="190,4">которыи</w>
-<w n="190,4">братъ</w>
-<w n="190,4">мышляше</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="190,4">ѿ</w>
-<w n="190,4">дьꙗво<lb/>ла.</w>
-<w n="190,4">аще</w>
-<w n="190,4">которыи</w>
-<w n="190,4">братъ</w>
-<w n="190,4">оумы<lb/>шлѧше</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="190,4">ѿ</w>
-<w n="190,4">дьꙗвола.</w>
-<w n="190,4">и</w>
-<w n="190,4">аще</w>
-<w n="190,4">которыи</w>
-<w n="190,4">братъ</w>
-<w n="190,4">оумышлѧше.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="190,4">ѿ</w>
-<w n="190,4">дьꙗвола. <lb/></w>
-
-<w n="190,4">аще</w>
-<w n="190,4">которыи</w>
-<w n="190,4">бра<hi rend="sup">т</hi></w>
-<w n="190,4">оумышлѧше.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="190,4">ѿ <lb/></w>
-
-<w n="190,4">дьꙗвола.</w>
-<w n="190,4">аще</w>
-<w n="190,4">которыи</w>
-<w n="190,4">братъ <lb/></w>
-
-<w n="190,4">мыслѧше</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="190,4">ѿ</w>
-<w n="190,4">діавола.</w>
-<w n="190,4">и</w>
-<w n="190,4">аще</w>
-<w n="190,4">которы<hi rend="sup">и</hi><lb/></w>
-<w n="190,4">бра<hi rend="sup">т</hi></w>
-<w n="190,4">мыслѧше</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="190,4">отъ</w>
-<w n="190,4">дьявола;</w>
-<w n="190,4">аще</w>
-<w n="190,4">который</w>
-<w n="190,4">братъ</w>
-<w n="190,4">умышляше</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="190,4">отъ</w>
-<w n="190,4">диявола;</w>
-<w n="190,4">аще</w>
-<w n="190,4">которыи</w>
-<w n="190,4">братъ</w>
-<w n="190,4">умышляше</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="190,4">от</w>
-<w n="190,4">дьявола.</w>
-<w n="190,4">Аще</w>
-<w n="190,4">который</w>
-<w n="190,4">братъ</w>
-<w n="190,4">умышляше</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>190, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="190"/><div type="block" n="4"><p><app><lem wit="#lem">
+            отъ диявола. Аще которыи братъ мышляше
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѿ дьꙗво<lb/>ла. аще которыи братъ оумы<lb/>шлѧше</rdg>
+            <rdg wit="#rad">ѿ дьꙗвола. и аще которыи братъ оумышлѧше.</rdg>
+            <rdg wit="#aka">ѿ дьꙗвола. <lb/> аще которыи бра<hi rend="sup">т</hi> оумышлѧше.</rdg>
+            <rdg wit="#ipa">ѿ <lb/> дьꙗвола. аще которыи братъ <lb/> мыслѧше</rdg>
+            <rdg wit="#xle">ѿ діавола. и аще которы<hi rend="sup">и</hi>
+                <lb/> бра<hi rend="sup">т</hi> мыслѧше</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">отъ дьявола; аще который братъ умышляше</rdg><rdg wit="#shakh">отъ диявола; аще которыи братъ умышляше</rdg><rdg wit="#likh">от дьявола. Аще который братъ умышляше</rdg></rdgGrp></app></p></div></body></text></TEI>

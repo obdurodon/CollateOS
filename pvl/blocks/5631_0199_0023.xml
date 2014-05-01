@@ -1,64 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>199, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="199"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="199,23">Тьмутороканю</w>
-<w n="199,23">отъ</w>
-<w n="199,23">Вьсеволода,</w>
-<w n="199,23">мѣсяца</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="199,23">тмуто<lb/>роконю.</w>
-<w n="199,23">ѿ</w>
-<w n="199,23">всеволода.</w>
-<w n="199,23">мц<hi rend="sup">с</hi>а.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="199,23">тмѹторокани</w>
-<w n="199,23">ѿ</w>
-<w n="199,23">всеволода.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="199,23">тмѹ<lb/>тороканю</w>
-<w n="199,23">ѿ</w>
-<w n="199,23">всеволода.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="199,23">тмутороканю.</w>
-<w n="199,23">ѿ <lb/></w>
-
-<w n="199,23">всеволода.</w>
-<w n="199,23">мц҃а</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="199,23">тмоутороканю</w>
-<w n="199,23">ѿ</w>
-<w n="199,23">всеволода.</w>
-<w n="199,23">м<hi rend="sup">с</hi>ца</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="199,23">Тмутороконю</w>
-<w n="199,23">отъ</w>
-<w n="199,23">Всеволода,</w>
-<w n="199,23">мѣсяца</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="199,23">Тьмутороканю</w>
-<w n="199,23">отъ</w>
-<w n="199,23">Вьсеволода,</w>
-<w n="199,23">мѣсяца</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="199,23">Тмутороконю</w>
-<w n="199,23">от</w>
-<w n="199,23">Всеволода,</w>
-<w n="199,23">мѣсяца</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>199, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="199"/><div type="block" n="23"><p><app><lem wit="#lem">
+            Тьмутороканю отъ Вьсеволода, мѣсяца
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">тмуто<lb/>роконю. ѿ всеволода. мц<hi rend="sup">с</hi>а.</rdg>
+            <rdg wit="#rad">тмѹторокани ѿ всеволода.</rdg>
+            <rdg wit="#aka">тмѹ<lb/>тороканю ѿ всеволода.</rdg>
+            <rdg wit="#ipa">тмутороканю. ѿ <lb/> всеволода. мц҃а</rdg>
+            <rdg wit="#xle">тмоутороканю ѿ всеволода. м<hi rend="sup">с</hi>ца</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Тмутороконю отъ Всеволода, мѣсяца</rdg><rdg wit="#shakh">Тьмутороканю отъ Вьсеволода, мѣсяца</rdg><rdg wit="#likh">Тмутороконю от Всеволода, мѣсяца</rdg></rdgGrp></app></p></div></body></text></TEI>

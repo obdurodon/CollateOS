@@ -1,78 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>276, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="276"/><div type="block" n="29"><p>
-<app>
-<lem wit="#lem">
-<w n="276,29">Събыслава</w>
-<w n="276,29">въ</w>
-<w n="276,29">Ляхы</w>
-<w n="276,29">за</w>
-<w n="276,29">Болеслава,</w>
-<w n="276,29">мѣсяца</w>
-<w n="276,29">ноября</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="276,29">сбыслава·</w>
-<w n="276,29">в</w>
-<w n="276,29">лѧ<lb/>хы·</w>
-<w n="276,29">за</w>
-<w n="276,29">болеслава·</w>
-<w n="276,29">мц<hi rend="sup">с</hi>а·</w>
-<w n="276,29">но<lb/>ꙗ<hi rend="sup">б</hi>·</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="276,29">сбыслава</w>
-<w n="276,29">в</w>
-<w n="276,29">лѧхы·</w>
-<w n="276,29">за</w>
-<w n="276,29">болесла<lb/>ва·</w>
-<w n="276,29">мц<hi rend="sup">с</hi>а·</w>
-<w n="276,29">ноꙗбрѧ·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="276,29">збы<lb/>слава</w>
-<w n="276,29">в</w>
-<w n="276,29">лѧхи·̏,</w>
-<w n="276,29">за</w>
-<w n="276,29">болеслава.</w>
-<w n="276,29">мц<hi rend="sup">с</hi>а</w>
-<w n="276,29">ноабрѧ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="276,29">Сбыслава</w>
-<w n="276,29">в</w>
-<w n="276,29">Ляхы</w>
-<w n="276,29">за</w>
-<w n="276,29">Болеслава,</w>
-<w n="276,29">мѣсяца</w>
-<w n="276,29">ноября</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="276,29">Събыслава</w>
-<w n="276,29">въ</w>
-<w n="276,29">Ляхы</w>
-<w n="276,29">за</w>
-<w n="276,29">Болеслава,</w>
-<w n="276,29">мѣсяца</w>
-<w n="276,29">ноября</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="276,29">Сбыслава</w>
-<w n="276,29">в</w>
-<w n="276,29">Ляхы</w>
-<w n="276,29">за</w>
-<w n="276,29">Болеслава,</w>
-<w n="276,29">мѣсяца</w>
-<w n="276,29">ноября</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>276, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="276"/><div type="block" n="29"><p><app><lem wit="#lem">
+            Събыслава въ Ляхы за Болеслава, мѣсяца ноября
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">сбыслава· в лѧ<lb/>хы· за болеслава· мц<hi rend="sup">с</hi>а· но<lb/>ꙗ<hi rend="sup">б</hi>·</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">сбыслава в лѧхы· за болесла<lb/>ва· мц<hi rend="sup">с</hi>а· ноꙗбрѧ·</rdg>
+            <rdg wit="#xle">збы<lb/>слава в лѧхи·̏, за болеслава. мц<hi rend="sup">с</hi>а ноабрѧ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Сбыслава в Ляхы за Болеслава, мѣсяца ноября</rdg><rdg wit="#shakh">Събыслава въ Ляхы за Болеслава, мѣсяца ноября</rdg><rdg wit="#likh">Сбыслава в Ляхы за Болеслава, мѣсяца ноября</rdg></rdgGrp></app></p></div></body></text></TEI>

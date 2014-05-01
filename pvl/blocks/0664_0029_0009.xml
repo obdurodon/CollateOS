@@ -1,87 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>29, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="29"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="29,9">на</w>
-<w n="29,9">Угъры</w>
-<w n="29,9">възврати</w>
-<w n="29,9">ся,</w>
-<w n="29,9">и</w>
-<w n="29,9">Угъри</w>
-<w n="29,9">противу</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="29,9">на</w>
-<w n="29,9">угры</w>
-<w n="29,9">възвратись</w>
-<w n="29,9">и</w>
-<w n="29,9">поидоша</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="29,9">на</w>
-<w n="29,9">оугры</w>
-<w n="29,9">вр<hi rend="sup">з</hi>атисѧ.</w>
-<w n="29,9">и</w>
-<w n="29,9">оугре</w>
-<w n="29,9">противѹ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="29,9">на</w>
-<w n="29,9">оугры</w>
-<w n="29,9">возратисѧ.</w>
-<w n="29,9">и</w>
-<w n="29,9">оугре</w>
-<w n="29,9">протївѹ <pb n="12r"/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="29,9">на</w>
-<w n="29,9">оу<lb/>гры</w>
-<w n="29,9">възвратисѧ.</w>
-<w n="29,9">оугри <lb/></w>
-
-<w n="29,9">противу</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="29,9">на</w>
-<w n="29,9">оугры</w>
-<w n="29,9">възвратисѧ. <lb/></w>
-
-<w n="29,9">оугри</w>
-<w n="29,9">противоу</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="29,9">на</w>
-<w n="29,9">Угры</w>
-<w n="29,9">възвратися,</w>
-<w n="29,9">и</w>
-<w n="29,9">Угре</w>
-<w n="29,9">противу</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="29,9">на</w>
-<w n="29,9">Угъры</w>
-<w n="29,9">възвратися,</w>
-<w n="29,9">и</w>
-<w n="29,9">Угъри</w>
-<w n="29,9">противу</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="29,9">на</w>
-<w n="29,9">угры</w>
-<w n="29,9">възвратися,</w>
-<w n="29,9">и</w>
-<w n="29,9">угре</w>
-<w n="29,9">противу</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>29, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="29"/><div type="block" n="9"><p><app><lem wit="#lem">
+            на Угъры възврати ся, и Угъри противу
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">на угры възвратись и поидоша</rdg>
+            <rdg wit="#rad">на оугры вр<hi rend="sup">з</hi>атисѧ. и оугре противѹ</rdg>
+            <rdg wit="#aka">на оугры возратисѧ.  и оугре протївѹ <pb n="12r"/></rdg>
+            <rdg wit="#ipa">на оу<lb/>гры възвратисѧ. оугри <lb/> противу</rdg>
+            <rdg wit="#xle">на оугры възвратисѧ. <lb/> оугри противоу</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">на Угры възвратися, и Угре противу</rdg><rdg wit="#shakh">на Угъры възвратися, и Угъри противу</rdg><rdg wit="#likh">на угры възвратися, и угре противу</rdg></rdgGrp></app></p></div></body></text></TEI>

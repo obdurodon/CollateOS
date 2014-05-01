@@ -1,112 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>110, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="110"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="110,20">ити:</w>
-<w n="110,20">“Яко</w>
-<w n="110,20">въ</w>
-<w n="110,20">поганыя,</w>
-<w n="110,20">рече,</w>
-<w n="110,20">иду;</w>
-<w n="110,20">луче</w>
-<w n="110,20">бы</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="110,20">ити.</w>
-<w n="110,20">ꙗко</w>
-<w n="110,20">в</w>
-<w n="110,20">полонъ</w>
-<w n="110,20">ре<hi rend="sup">ч</hi></w>
-<w n="110,20">иду.</w>
-<w n="110,20">лучи</w>
-<w n="110,20">бы</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="110,20">ити.</w>
-<w n="110,20">ꙗко</w>
-<w n="110,20">въ</w>
-<w n="110,20">поганыа</w>
-<w n="110,20">ре<hi rend="sup">ч</hi></w>
-<w n="110,20">идоу. <lb/></w>
-
-<w n="110,20">лоуче</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="110,20">ити.</w>
-<w n="110,20">ꙗко</w>
-<w n="110,20">в</w>
-<w n="110,20">поганыѧ</w>
-<w n="110,20">рече</w>
-<w n="110,20">идѹ.</w>
-<w n="110,20">лѹче</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="110,20">ити <lb/></w>
-
-<w n="110,20">ꙗко</w>
-<w n="110,20">в</w>
-<w n="110,20">поганыа.</w>
-<w n="110,20">и</w>
-<w n="110,20">ре<hi rend="sup">ч</hi><milestone unit="sic" n="start"/>им<milestone unit="sic" n="end"/><milestone unit="sic" n="start"/>л<milestone unit="sic" n="end"/>у<lb/>че</w>
-<w n="110,20">бы</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="110,20">ити</w>
-<w n="110,20">ꙗко</w>
-<w n="110,20">въ</w>
-<w n="110,20">поганыꙗ</w>
-<w n="110,20">рече</w>
-<w n="110,20">иду</w>
-<w n="110,20">лучши</w>
-<w n="110,20">бы</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="110,20">ити</w>
-<w n="110,20">ꙗко</w>
-<w n="110,20">в</w>
-<w n="110,20">поганыꙗ</w>
-<w n="110,20">рече</w>
-<w n="110,20">иду</w>
-<w n="110,20">лучши</w>
-<w n="110,20">бы</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="110,20">ити:</w>
-<w n="110,20">“яко</w>
-<w n="110,20">в</w>
-<w n="110,20">полонъ”,</w>
-<w n="110,20">рече,</w>
-<w n="110,20">“иду,</w>
-<w n="110,20">луче</w>
-<w n="110,20">бы</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="110,20">ити:</w>
-<w n="110,20">яко</w>
-<w n="110,20">“въ</w>
-<w n="110,20">поганыя,</w>
-<w n="110,20">рече,</w>
-<w n="110,20">иду;</w>
-<w n="110,20">луче</w>
-<w n="110,20">бы</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="110,20">ити:</w>
-<w n="110,20">“Яко</w>
-<w n="110,20">в</w>
-<w n="110,20">полонъ,—рече,—иду,</w>
-<w n="110,20">луче</w>
-<w n="110,20">бы</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>110, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="110"/><div type="block" n="20"><p><app><lem wit="#lem">
+            ити: “Яко въ поганыя, рече, иду; луче бы
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ити. ꙗко в полонъ ре<hi rend="sup">ч</hi> иду. лучи бы</rdg>
+            <rdg wit="#rad">ити. ꙗко въ поганыа ре<hi rend="sup">ч</hi> идоу. <lb/> лоуче</rdg>
+            <rdg wit="#aka">ити. ꙗко в поганыѧ рече идѹ. лѹче</rdg>
+            <rdg wit="#ipa">ити <lb/> ꙗко в поганыа. и ре<hi rend="sup">ч</hi>
+                <sic>им</sic><sic>л</sic>у<lb/>че бы</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">ити ꙗко въ поганыꙗ рече иду лучши бы</rdg>
+            <rdg wit="#tol">ити ꙗко в поганыꙗ рече иду лучши бы</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">ити: “яко в полонъ”, рече, “иду, луче бы</rdg><rdg wit="#shakh">ити: яко “въ поганыя, рече, иду; луче бы</rdg><rdg wit="#likh">ити: “Яко в полонъ,—рече,—иду, луче бы</rdg></rdgGrp></app></p></div></body></text></TEI>

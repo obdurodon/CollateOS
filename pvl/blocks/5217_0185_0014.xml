@@ -1,100 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>185, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="185"/><div type="block" n="14"><p>
-<app>
-<lem wit="#lem">
-<w n="185,14">показавъше</w>
-<w n="185,14">труды</w>
-<w n="185,14">великыя</w>
-<w n="185,14">и</w>
-<w n="185,14">въздьржание,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="185,14">показавше</w>
-<w n="185,14">труды <lb/></w>
-
-<w n="185,14">великыꙗ.</w>
-<w n="185,14">и</w>
-<w n="185,14">вздержаньѥ. <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="185,14">показавши</w>
-<w n="185,14">троуды</w>
-<w n="185,14">великиꙗ</w>
-<w n="185,14">въздержа<lb/>ние.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="185,14">пока<lb/>завше</w>
-<w n="185,14">трѹды</w>
-<w n="185,14">великиѧ.</w>
-<w n="185,14">въздръжанїе.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="185,14">показавше <lb/></w>
-
-<w n="185,14">труды</w>
-<w n="185,14">великыꙗ.</w>
-<w n="185,14">и</w>
-<w n="185,14">вьздьрь<lb/>жаниꙗ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="185,14">показавше</w>
-<w n="185,14">троуды <lb/></w>
-
-<w n="185,14">великїа.</w>
-<w n="185,14">и</w>
-<w n="185,14">въздръжанїе</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="185,14">показавше</w>
-<w n="185,14">труды</w>
-<w n="185,14">великыꙗ</w>
-<w n="185,14">и</w>
-<w n="185,14">воздержаниа</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="185,14">показавше</w>
-<w n="185,14">труды</w>
-<w n="185,14">великиа</w>
-<w n="185,14">и</w>
-<w n="185,14">въздержаниа</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="185,14">показавше</w>
-<w n="185,14">труды</w>
-<w n="185,14">великиꙗ</w>
-<w n="185,14">и</w>
-<w n="185,14">въздержаниа</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="185,14">показавше</w>
-<w n="185,14">труды</w>
-<w n="185,14">великыя</w>
-<w n="185,14">и</w>
-<w n="185,14">въздержанье,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="185,14">показавъше</w>
-<w n="185,14">труды</w>
-<w n="185,14">великыя</w>
-<w n="185,14">и</w>
-<w n="185,14">въздьржание,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="185,14">показавше</w>
-<w n="185,14">труды</w>
-<w n="185,14">великыя</w>
-<w n="185,14">и</w>
-<w n="185,14">въздержанье,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>185, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="185"/><div type="block" n="14"><p><app><lem wit="#lem">
+            показавъше труды великыя и въздьржание,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">показавше труды <lb/> великыꙗ. и вздержаньѥ. <lb/></rdg>
+            <rdg wit="#rad">показавши троуды великиꙗ въздержа<lb/>ние.</rdg>
+            <rdg wit="#aka">пока<lb/>завше трѹды великиѧ. въздръжанїе.</rdg>
+            <rdg wit="#ipa">показавше <lb/> труды великыꙗ. и вьздьрь<lb/>жаниꙗ.</rdg>
+            <rdg wit="#xle">показавше троуды <lb/> великїа. и въздръжанїе</rdg>
+            <rdg wit="#kom">показавше труды великыꙗ и воздержаниа</rdg>
+            <rdg wit="#nak">показавше труды великиа и въздержаниа</rdg>
+            <rdg wit="#tol">показавше труды великиꙗ и въздержаниа</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">показавше труды великыя и въздержанье,</rdg><rdg wit="#shakh">показавъше труды великыя и въздьржание,</rdg><rdg wit="#likh">показавше труды великыя и въздержанье,</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,87 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 33</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="270"/><div type="block" n="33"><p>
-<app>
-<lem wit="#lem">
-<w n="270,33">полунощи,</w>
-<w n="270,33">и</w>
-<w n="270,33">въставъ</w>
-<w n="270,33">Бонякъ</w>
-<w n="270,33">отъѣха</w>
-<w n="270,33">отъ</w>
-<w n="270,33">рати,</w>
-<w n="270,33">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="270,33">полунощи·</w>
-<w n="270,33">и</w>
-<w n="270,33">вставъ <lb/></w>
-
-<w n="270,33">бонѧкъ</w>
-<w n="270,33">ѿѣха</w>
-<w n="270,33">ѿ</w>
-<w n="270,33">вои·</w>
-<w n="270,33">и</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="270,33">полунощи·</w>
-<w n="270,33">и</w>
-<w n="270,33">въ<lb/>ставъ</w>
-<w n="270,33">бонѧкъ</w>
-<w n="270,33">ѿѣха</w>
-<w n="270,33">ѿ</w>
-<w n="270,33">ра<lb/>ти·</w>
-<w n="270,33">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="270,33">полоунощи,</w>
-<w n="270,33">и</w>
-<w n="270,33">въставъ</w>
-<w n="270,33">бонѧкъ</w>
-<w n="270,33">ѿеха</w>
-<w n="270,33">ѿ</w>
-<w n="270,33">ра<hi rend="sup">т</hi><hi rend="sup">ї</hi>, <lb/></w>
-
-<w n="270,33">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="270,33">полунощи,</w>
-<w n="270,33">и</w>
-<w n="270,33">вставъ</w>
-<w n="270,33">Бонякъ</w>
-<w n="270,33">отъѣха</w>
-<w n="270,33">отъ</w>
-<w n="270,33">вой,</w>
-<w n="270,33">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="270,33">полунощи,</w>
-<w n="270,33">и</w>
-<w n="270,33">въставъ</w>
-<w n="270,33">Бонякъ,</w>
-<w n="270,33">отъѣха</w>
-<w n="270,33">отъ</w>
-<w n="270,33">вои,</w>
-<w n="270,33">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="270,33">полунощи,</w>
-<w n="270,33">и</w>
-<w n="270,33">вставъ</w>
-<w n="270,33">Бонякъ</w>
-<w n="270,33">отъѣха</w>
-<w n="270,33">от</w>
-<w n="270,33">вой,</w>
-<w n="270,33">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 33</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="270"/><div type="block" n="33"><p><app><lem wit="#lem">
+            полунощи, и въставъ Бонякъ отъѣха отъ рати, и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">полунощи· и вставъ <lb/> бонѧкъ ѿѣха ѿ вои· и</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">полунощи· и въ<lb/>ставъ бонѧкъ ѿѣха ѿ ра<lb/>ти· и</rdg>
+            <rdg wit="#xle">полоунощи, и въставъ бонѧкъ ѿеха ѿ ра<hi rend="sup">т</hi><hi rend="sup">ї</hi>, <lb/> и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">полунощи, и вставъ Бонякъ отъѣха отъ вой, и</rdg><rdg wit="#shakh">полунощи, и въставъ Бонякъ, отъѣха отъ вои, и</rdg><rdg wit="#likh">полунощи, и вставъ Бонякъ отъѣха от вой, и</rdg></rdgGrp></app></p></div></body></text></TEI>

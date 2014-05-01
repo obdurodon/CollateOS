@@ -1,85 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>193, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="193"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="193,20">гнѣвати</w>
-<w n="193,20">ся</w>
-<w n="193,20">Изяславъ</w>
-<w n="193,20">на</w>
-<w n="193,20">Антония</w>
-<w n="193,20">за</w>
-<w n="193,20">Вьсеслава.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="193,20">гнѣватисѧ</w>
-<w n="193,20">изѧславъ</w>
-<w n="193,20">на</w>
-<w n="193,20">анто<lb/>ньꙗ</w>
-<w n="193,20">изъ</w>
-<w n="193,20">всеслава.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="193,20">гнѣватисѧ</w>
-<w n="193,20">изѧславъ</w>
-<w n="193,20">на</w>
-<w n="193,20">ѡнто<lb/>ниа.</w>
-<w n="193,20">за</w>
-<w n="193,20">всеслава.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="193,20">гнѣвати<lb/>сѧ</w>
-<w n="193,20">изѧславъ</w>
-<w n="193,20">на</w>
-<w n="193,20">антонїа</w>
-<w n="193,20">за</w>
-<w n="193,20">всеслава.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="193,20">гнѣватисѧ</w>
-<w n="193,20">изѧславъ. <lb/></w>
-
-<w n="193,20">на</w>
-<w n="193,20">антониꙗ.</w>
-<w n="193,20">изо</w>
-<w n="193,20">всеслава.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="193,20">гнѣватисѧ</w>
-<w n="193,20">изѧславь</w>
-<w n="193,20">на</w>
-<w n="193,20">антонїа</w>
-<w n="193,20">за</w>
-<w n="193,20">всесла<lb/>ва,</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="193,20">гнѣватися</w>
-<w n="193,20">Изяславъ</w>
-<w n="193,20">на</w>
-<w n="193,20">Антонья</w>
-<w n="193,20">изъ</w>
-<w n="193,20">Всеслава;</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="193,20">гнѣватися</w>
-<w n="193,20">Изяславъ</w>
-<w n="193,20">на</w>
-<w n="193,20">Антония</w>
-<w n="193,20">изъ</w>
-<w n="193,20">Вьсеслава.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="193,20">гнѣватися</w>
-<w n="193,20">Изяславъ</w>
-<w n="193,20">на</w>
-<w n="193,20">Антонья</w>
-<w n="193,20">изъ</w>
-<w n="193,20">Всеслава.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>193, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="193"/><div type="block" n="20"><p><app><lem wit="#lem">
+            гнѣвати ся Изяславъ на Антония за Вьсеслава.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">гнѣватисѧ изѧславъ на анто<lb/>ньꙗ изъ всеслава.</rdg>
+            <rdg wit="#rad">гнѣватисѧ изѧславъ на ѡнто<lb/>ниа. за всеслава.</rdg>
+            <rdg wit="#aka">гнѣвати<lb/>сѧ изѧславъ на антонїа за всеслава.</rdg>
+            <rdg wit="#ipa">гнѣватисѧ изѧславъ. <lb/> на антониꙗ. изо всеслава.</rdg>
+            <rdg wit="#xle">гнѣватисѧ изѧславь на антонїа за всесла<lb/>ва,</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">гнѣватися Изяславъ на Антонья изъ Всеслава;</rdg><rdg wit="#shakh">гнѣватися Изяславъ на Антония изъ Вьсеслава.</rdg><rdg wit="#likh">гнѣватися Изяславъ на Антонья изъ Всеслава.</rdg></rdgGrp></app></p></div></body></text></TEI>

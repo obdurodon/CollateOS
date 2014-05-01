@@ -1,79 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>201, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="201"/><div type="block" n="25"><p>
-<app>
-<lem wit="#lem">
-<w n="201,25">убиша</w>
-<w n="201,25">Бориса,</w>
-<w n="201,25">сына</w>
-<w n="201,25">Вячеславля,</w>
-<w n="201,25">похваливъша</w>
-<w n="201,25">ся</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="201,25">оуби<lb/>ша</w>
-<w n="201,25">бориса.</w>
-<w n="201,25">сн҃а</w>
-<w n="201,25">вѧчеславлѧ. <lb/></w>
-
-<w n="201,25">похвалившагосѧ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="201,25">оубиша</w>
-<w n="201,25">бориса</w>
-<w n="201,25">сн҃а</w>
-<w n="201,25">вѧчеславлѧ</w>
-<w n="201,25">похва<hi rend="sup">л</hi>ша<hi rend="sup">г</hi>сѧ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="201,25">оубиша</w>
-<w n="201,25">бориса. <lb/></w>
-
-<w n="201,25">сн҃а</w>
-<w n="201,25">вѧчеславлѧ</w>
-<w n="201,25">похвалившегосѧ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="201,25">оубі<lb/>ша</w>
-<w n="201,25">бориса</w>
-<w n="201,25">сн҃а</w>
-<w n="201,25">вѧ<milestone unit="sic" n="start"/>че<milestone unit="sic" n="end"/>славлѧ. <lb/></w>
-
-<w n="201,25">похваливш<hi rend="sup">с</hi>а</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="201,25">оубиша</w>
-<w n="201,25">бориса, <lb/></w>
-
-<w n="201,25">сн҃а</w>
-<w n="201,25">вѧчеславлѧ.</w>
-<w n="201,25">похваливша<hi rend="sup">с</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="201,25">убиша</w>
-<w n="201,25">Бориса,</w>
-<w n="201,25">сына</w>
-<w n="201,25">Вячеславля,</w>
-<w n="201,25">похвалившагося</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="201,25">убиша</w>
-<w n="201,25">Бориса,</w>
-<w n="201,25">сына</w>
-<w n="201,25">Вячеславля,</w>
-<w n="201,25">похваливъшагося</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="201,25">убиша</w>
-<w n="201,25">Бориса,</w>
-<w n="201,25">сына</w>
-<w n="201,25">Вячеславля,</w>
-<w n="201,25">похвалившагося</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>201, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="201"/><div type="block" n="25"><p><app><lem wit="#lem">
+            убиша Бориса, сына Вячеславля, похваливъша ся
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">оуби<lb/>ша бориса. сн҃а вѧчеславлѧ. <lb/> похвалившагосѧ</rdg>
+            <rdg wit="#rad">оубиша бориса сн҃а вѧчеславлѧ похва<hi rend="sup">л</hi>ша<hi rend="sup">г</hi>сѧ</rdg>
+            <rdg wit="#aka">оубиша бориса. <lb/> сн҃а вѧчеславлѧ похвалившегосѧ</rdg>
+            <rdg wit="#ipa">оубі<lb/>ша бориса сн҃а вѧ<sic>че</sic>славлѧ. <lb/>
+                похваливш<hi rend="sup">с</hi>а</rdg>
+            <rdg wit="#xle">оубиша бориса, <lb/> сн҃а вѧчеславлѧ. похваливша<hi rend="sup">с</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">убиша Бориса, сына Вячеславля, похвалившагося</rdg><rdg wit="#shakh">убиша Бориса, сына Вячеславля, похваливъшагося</rdg><rdg wit="#likh">убиша Бориса, сына Вячеславля, похвалившагося</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,83 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>257, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="257"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="257,9">будеть</w>
-<w n="257,9">на</w>
-<w n="257,9">нь</w>
-<w n="257,9">крьстъ</w>
-<w n="257,9">честныи</w>
-<w n="257,9">и</w>
-<w n="257,9">вься</w>
-<w n="257,9">земля</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="257,9">буде<hi rend="sup">т</hi></w>
-<w n="257,9">нашь·</w>
-<w n="257,9">и</w>
-<w n="257,9">всѧ <lb/></w>
-
-<w n="257,9">землѧ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="257,9">и</w>
-<w n="257,9">всѧ</w>
-<w n="257,9">землѧ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="257,9">и</w>
-<w n="257,9">всѧ <lb/></w>
-
-<w n="257,9">землѧ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="257,9">будеть <lb/></w>
-
-<w n="257,9">на</w>
-<w n="257,9">нь</w>
-<w n="257,9">хрестъ</w>
-<w n="257,9">чт<hi rend="sup">с</hi>ныи</w>
-<w n="257,9">и</w>
-<w n="257,9">всѧ</w>
-<w n="257,9">зе<lb/>мьлѧ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="257,9">бѫ<lb/>де<hi rend="sup">т</hi></w>
-<w n="257,9">на</w>
-<w n="257,9">нь</w>
-<w n="257,9">кр<hi rend="sup">с</hi>ть</w>
-<w n="257,9">ч<hi rend="sup">с</hi>тныи.</w>
-<w n="257,9">и</w>
-<w n="257,9">всѧ</w>
-<w n="257,9">землѧ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="257,9">будеть</w>
-<w n="257,9">на</w>
-<w n="257,9">нь</w>
-<w n="257,9">хрестъ</w>
-<w n="257,9">честный</w>
-<w n="257,9">и</w>
-<w n="257,9">вся</w>
-<w n="257,9">земля</w>
-</rdg>
-
-<rdg wit="#shakh">
-</rdg>
-
-<rdg wit="#likh">
-<w n="257,9">будеть</w>
-<w n="257,9">на</w>
-<w n="257,9">нь</w>
-<w n="257,9">хрестъ</w>
-<w n="257,9">честный</w>
-<w n="257,9">и</w>
-<w n="257,9">вся</w>
-<w n="257,9">земля</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>257, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="257"/><div type="block" n="9"><p><app><lem wit="#lem">
+            будеть на нь крьстъ честныи и вься земля
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">буде<hi rend="sup">т</hi> нашь· и всѧ <lb/> землѧ</rdg>
+            <rdg wit="#rad">и всѧ землѧ</rdg>
+            <rdg wit="#aka">и всѧ <lb/> землѧ</rdg>
+            <rdg wit="#ipa">будеть <lb/> на нь хрестъ чт<hi rend="sup">с</hi>ныи и всѧ зе<lb/>мьлѧ</rdg>
+            <rdg wit="#xle">бѫ<lb/>де<hi rend="sup">т</hi> на нь кр<hi rend="sup">с</hi>ть ч<hi rend="sup">с</hi>тныи. и всѧ землѧ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">будеть на нь хрестъ честный и вся земля</rdg><rdg wit="#shakh"/><rdg wit="#likh">будеть на нь хрестъ честный и вся земля</rdg></rdgGrp></app></p></div></body></text></TEI>

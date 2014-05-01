@@ -1,88 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>261, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="261"/><div type="block" n="13"><p>
-<app>
-<lem wit="#lem">
-<w n="261,13">съвлѣкоша</w>
-<w n="261,13">съ</w>
-<w n="261,13">него</w>
-<w n="261,13">сорочьку</w>
-<w n="261,13">кръваву,</w>
-<w n="261,13">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="261,13">сволокоша</w>
-<w n="261,13">с</w>
-<w n="261,13">него</w>
-<w n="261,13">сорочку</w>
-<w n="261,13">кро<lb/>ваву</w>
-<w n="261,13">сущю·</w>
-<w n="261,13">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="261,13">снѧша</w>
-<w n="261,13">с</w>
-<w n="261,13">него·</w>
-<w n="261,13">соро<hi rend="sup">ч</hi>кѹ·</w>
-<w n="261,13">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="261,13">снѧша</w>
-<w n="261,13">с</w>
-<w n="261,13">него</w>
-<w n="261,13">сорочкѹ· <lb/></w>
-
-<w n="261,13">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="261,13">свол<hi rend="sup">к</hi>ъша</w>
-<w n="261,13">с</w>
-<w n="261,13">него</w>
-<w n="261,13"><milestone unit="sic" n="start"/>с<milestone unit="sic" n="end"/>орочьку·</w>
-<w n="261,13">крова<lb/>ву·</w>
-<w n="261,13">и <pb n="89d"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="261,13">свлекоша</w>
-<w n="261,13">с</w>
-<w n="261,13">него</w>
-<w n="261,13">сороч′коу <lb/></w>
-
-<w n="261,13">кръвавоу,</w>
-<w n="261,13">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="261,13">сволокоша</w>
-<w n="261,13">с</w>
-<w n="261,13">него</w>
-<w n="261,13">сорочку,</w>
-<w n="261,13">кроваву</w>
-<w n="261,13">сущю,</w>
-<w n="261,13">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="261,13">съволокоша</w>
-<w n="261,13">съ</w>
-<w n="261,13">него</w>
-<w n="261,13">сорочьку,</w>
-<w n="261,13">кръваву</w>
-<w n="261,13">сущю,</w>
-<w n="261,13">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="261,13">сволокоша</w>
-<w n="261,13">с</w>
-<w n="261,13">него</w>
-<w n="261,13">сорочку,</w>
-<w n="261,13">кроваву</w>
-<w n="261,13">сущю,</w>
-<w n="261,13">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>261, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="261"/><div type="block" n="13"><p><app><lem wit="#lem">
+            съвлѣкоша съ него сорочьку кръваву, и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">сволокоша с него сорочку кро<lb/>ваву сущю· и</rdg>
+            <rdg wit="#rad">снѧша с него· соро<hi rend="sup">ч</hi>кѹ· и</rdg>
+            <rdg wit="#aka">снѧша с него сорочкѹ· <lb/> и</rdg>
+            <rdg wit="#ipa">свол<hi rend="sup">к</hi>ъша с него <sic>с</sic>орочьку· крова<lb/>ву· и
+                    <pb n="89d"/></rdg>
+            <rdg wit="#xle">свлекоша с него сороч′коу <lb/> кръвавоу, и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">сволокоша с него сорочку, кроваву сущю, и</rdg><rdg wit="#shakh">съволокоша съ него сорочьку, кръваву сущю, и</rdg><rdg wit="#likh">сволокоша с него сорочку, кроваву сущю, и</rdg></rdgGrp></app></p></div></body></text></TEI>

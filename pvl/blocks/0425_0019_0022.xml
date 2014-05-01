@@ -1,101 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>19, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="19"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="19,22">ты</w>
-<w n="19,22">Варягы</w>
-<w n="19,22">Русь,</w>
-<w n="19,22">яко</w>
-<w n="19,22">се</w>
-<w n="19,22">друзии</w>
-<w n="19,22">зовуть</w>
-<w n="19,22">ся</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="19,22">и.</w>
-<w n="19,22">варѧзи</w>
-<w n="19,22">суть.</w>
-<w n="19,22">ꙗко</w>
-<w n="19,22">се</w>
-<w n="19,22">друзии</w>
-<w n="19,22">зо<lb/>вутсѧ</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="19,22">ти</w>
-<w n="19,22">варязи</w>
-<w n="19,22">русью</w>
-<w n="19,22">яко</w>
-<w n="19,22">сии</w>
-<w n="19,22">друзии</w>
-<w n="19,22">зовуться</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="19,22">варѧзи</w>
-<w n="19,22">роу<hi rend="sup">с</hi></w>
-<w n="19,22">ꙗко</w>
-<w n="19,22">се</w>
-<w n="19,22">дроузии</w>
-<w n="19,22">зовоуть<hi rend="sup">с</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="19,22">варѧзї</w>
-<w n="19,22">рѹ<hi rend="sup">с</hi></w>
-<w n="19,22">ꙗко</w>
-<w n="19,22">се</w>
-<w n="19,22">дрѹзии</w>
-<w n="19,22">зовѹть<hi rend="sup">с</hi></w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="19,22">ты</w>
-<w n="19,22">вар<hi rend="sup">ѧ</hi>гы</w>
-<w n="19,22">русь.</w>
-<w n="19,22">ꙗко</w>
-<w n="19,22">се</w>
-<w n="19,22">друзии <lb/></w>
-
-<w n="19,22">зовутсѧ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="19,22">ты<hi rend="sup">и</hi></w>
-<w n="19,22">варѧгы</w>
-<w n="19,22">роу<hi rend="sup">с</hi>.</w>
-<w n="19,22">яко</w>
-<w n="19,22"><milestone unit="sic" n="start"/>се<milestone unit="sic" n="end"/></w>
-<w n="19,22">дрѹѕїи</w>
-<w n="19,22">зовоутсѧ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="19,22">Варязи</w>
-<w n="19,22">Русь,</w>
-<w n="19,22">яко</w>
-<w n="19,22">се</w>
-<w n="19,22">друзии</w>
-<w n="19,22">зовутся</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="19,22">ти</w>
-<w n="19,22">Варязи</w>
-<w n="19,22">Русь,</w>
-<w n="19,22">яко</w>
-<w n="19,22">се</w>
-<w n="19,22">друзии</w>
-<w n="19,22">зовуться</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="19,22">тьи</w>
-<w n="19,22">варязи</w>
-<w n="19,22">русь,</w>
-<w n="19,22">яко</w>
-<w n="19,22">се</w>
-<w n="19,22">друзии</w>
-<w n="19,22">зовутся</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>19, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="19"/><div type="block" n="22"><p><app><lem wit="#lem">
+            ты Варягы Русь, яко се друзии зовуть ся
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и. варѧзи суть. ꙗко се друзии зо<lb/>вутсѧ</rdg>
+            <rdg wit="#tro">ти варязи русью яко сии друзии зовуться</rdg>
+            <rdg wit="#rad">варѧзи роу<hi rend="sup">с</hi> ꙗко се дроузии зовоуть<hi rend="sup">с</hi></rdg>
+            <rdg wit="#aka">варѧзї рѹ<hi rend="sup">с</hi> ꙗко се дрѹзии зовѹть<hi rend="sup">с</hi></rdg>
+            <rdg wit="#ipa">ты вар<hi rend="sup">ѧ</hi>гы русь. ꙗко се друзии <lb/> зовутсѧ</rdg>
+            <rdg wit="#xle">ты<hi rend="sup">и</hi> варѧгы роу<hi rend="sup">с</hi>. ꙗко <sic>се</sic> дрѹѕїи
+                зовоутсѧ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Варязи Русь, яко се друзии зовутся</rdg><rdg wit="#shakh">ти Варязи Русь, яко се друзии зовуться</rdg><rdg wit="#likh">тьи варязи русь, яко се друзии зовутся</rdg></rdgGrp></app></p></div></body></text></TEI>

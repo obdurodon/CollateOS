@@ -1,50 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>253, 33</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="253"/><div type="block" n="33"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="253,33">да</w>
-<w n="253,33">бы<hi rend="sup">х</hi></w>
-<w n="253,33">обуи<lb/>мъ</w>
-<w n="253,33">ѡплакалъ</w>
-<w n="253,33">мужа</w>
-<w n="253,33">еꙗ·</w>
-<w n="253,33">и</w>
-<w n="253,33">ѡ<lb/>ны</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="253,33">да</w>
-<w n="253,33">быхъ</w>
-<w n="253,33">обуимъ</w>
-<w n="253,33">оплакалъ</w>
-<w n="253,33">мужа</w>
-<w n="253,33">ея</w>
-<w n="253,33">и</w>
-<w n="253,33">оны</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="253,33">да</w>
-<w n="253,33">бых</w>
-<w n="253,33">обуимъ</w>
-<w n="253,33">оплакалъ</w>
-<w n="253,33">мужа</w>
-<w n="253,33">ея</w>
-<w n="253,33">и</w>
-<w n="253,33">оны</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>253, 33</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="253"/><div type="block" n="33"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">да бы<hi rend="sup">х</hi> обуи<lb/>мъ ѡплакалъ мужа еꙗ· и ѡ<lb/>ны</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">да быхъ обуимъ оплакалъ мужа ея и оны</rdg><rdg wit="#likh">да бых обуимъ оплакалъ мужа ея и оны</rdg></rdgGrp></app></p></div></body></text></TEI>

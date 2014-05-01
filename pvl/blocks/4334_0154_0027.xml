@@ -1,94 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>154, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="154"/><div type="block" n="27"><p>
-<app>
-<lem wit="#lem">
-<w n="154,27">пущенъ</w>
-<w n="154,27">бысть</w>
-<w n="154,27">Вышата</w>
-<w n="154,27">в</w>
-<w n="154,27">Русь</w>
-<w n="154,27">къ</w>
-<w n="154,27">Ярославу.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="154,27">пущенъ</w>
-<w n="154,27">бы<hi rend="sup">с</hi><lb/></w>
-<w n="154,27">вышата</w>
-<w n="154,27">в</w>
-<w n="154,27">русь</w>
-<w n="154,27">къ</w>
-<w n="154,27">ꙗрославу <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="154,27">пѹщенъ</w>
-<w n="154,27">бы<hi rend="sup">с</hi></w>
-<w n="154,27">вышата</w>
-<w n="154,27">в</w>
-<w n="154,27">роу<hi rend="sup">с</hi></w>
-<w n="154,27">ко</w>
-<w n="154,27">ꙗ<lb/>рославѹ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="154,27">пѹщенъ</w>
-<w n="154,27">бы<hi rend="sup">с</hi></w>
-<w n="154,27">вышета</w>
-<w n="154,27">в</w>
-<w n="154,27">рѹ<hi rend="sup">с</hi></w>
-<w n="154,27">кь</w>
-<w n="154,27">ꙗрославѹ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="154,27"><milestone unit="sic" n="start"/>по<milestone unit="sic" n="end"/>ущенъ</w>
-<w n="154,27">бы<hi rend="sup">с</hi></w>
-<w n="154,27">вы<lb/>шата.</w>
-<w n="154,27">вь</w>
-<w n="154,27">русь</w>
-<w n="154,27">кь</w>
-<w n="154,27">ꙗрославу. <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="154,27">поущень</w>
-<w n="154,27">бы<hi rend="sup">с</hi></w>
-<w n="154,27">вышата</w>
-<w n="154,27">в</w>
-<w n="154,27">роу<hi rend="sup">с</hi></w>
-<w n="154,27">къ</w>
-<w n="154,27">яро<lb/>славоу.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="154,27">пущенъ</w>
-<w n="154,27">быст</w>
-<w n="154,27">Вышата</w>
-<w n="154,27">в</w>
-<w n="154,27">Русь</w>
-<w n="154,27">къ</w>
-<w n="154,27">Ярославу.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="154,27">пущенъ</w>
-<w n="154,27">бысть</w>
-<w n="154,27">Вышата</w>
-<w n="154,27">в</w>
-<w n="154,27">Русь</w>
-<w n="154,27">къ</w>
-<w n="154,27">Ярославу.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="154,27">пущенъ</w>
-<w n="154,27">быст;</w>
-<w n="154,27">Вышата</w>
-<w n="154,27">в</w>
-<w n="154,27">Русь</w>
-<w n="154,27">къ</w>
-<w n="154,27">Ярославу.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>154, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="154"/><div type="block" n="27"><p><app><lem wit="#lem">
+            пущенъ бысть Вышата въ Русь къ Ярославу.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">пущенъ бы<hi rend="sup">с</hi>
+                <lb/> вышата в русь къ ꙗрославу <lb/></rdg>
+            <rdg wit="#rad">пѹщенъ бы<hi rend="sup">с</hi> вышата в роу<hi rend="sup">с</hi> ко ꙗ<lb/>рославѹ.</rdg>
+            <rdg wit="#aka">пѹщенъ бы<hi rend="sup">с</hi> вышета в рѹ<hi rend="sup">с</hi> кь ꙗрославѹ.</rdg>
+            <rdg wit="#ipa"><sic>по</sic>ущенъ бы<hi rend="sup">с</hi> вы<lb/>шата. вь русь кь ꙗрославу.
+                <lb/></rdg>
+            <rdg wit="#xle">поущень бы<hi rend="sup">с</hi> вышата в роу<hi rend="sup">с</hi> къ ꙗро<lb/>славоу.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">пущенъ быст Вышата в Русь къ Ярославу.</rdg><rdg wit="#shakh">пущенъ бысть Вышата в Русь къ Ярославу.</rdg><rdg wit="#likh">пущенъ быст; Вышата в Русь къ Ярославу.</rdg></rdgGrp></app></p></div></body></text></TEI>

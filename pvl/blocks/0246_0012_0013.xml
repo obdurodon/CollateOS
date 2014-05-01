@@ -1,60 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>12, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="12"/><div type="block" n="13"><p>
-<app>
-<lem wit="#lem">
-<w n="12,13">послѣже</w>
-<w n="12,13">при</w>
-<w n="12,13">Ользѣ.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="12,13">послѣже</w>
-<w n="12,13">прі <lb/></w>
-
-<w n="12,13">ѡлзѣ.</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="12,13">послѣже</w>
-<w n="12,13">при</w>
-<w n="12,13">олзѣ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="12,13">после<hi rend="sup">ж</hi></w>
-<w n="12,13">при</w>
-<w n="12,13">ѡлзѣ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="12,13">послеже</w>
-<w n="12,13">при</w>
-<w n="12,13">ѡлзѣ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="12,13">послѣже</w>
-<w n="12,13">при</w>
-<w n="12,13">ѡль<lb/>зѣ.</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="12,13">послѣже</w>
-<w n="12,13">при</w>
-<w n="12,13">Олзѣ.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="12,13">послѣже,</w>
-<w n="12,13">при</w>
-<w n="12,13">Ользѣ.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="12,13">послѣже</w>
-<w n="12,13">при</w>
-<w n="12,13">Олзѣ.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>12, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="12"/><div type="block" n="13"><p><app><lem wit="#lem">
+            послѣже при Ользѣ.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">послѣже прі <lb/> ѡлзѣ.</rdg>
+            <rdg wit="#tro">послѣже при олзѣ</rdg>
+            <rdg wit="#rad">после<hi rend="sup">ж</hi> при ѡлзѣ</rdg>
+            <rdg wit="#aka">послеже при ѡлзѣ</rdg>
+            <rdg wit="#ipa">послѣже при ѡль<lb/>зѣ.</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">послѣже при Олзѣ.</rdg><rdg wit="#shakh">послѣже, при Ользѣ.</rdg><rdg wit="#likh">послѣже при Олзѣ.</rdg></rdgGrp></app></p></div></body></text></TEI>

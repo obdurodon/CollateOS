@@ -1,86 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>6, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="6"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-<w n="6,10">тѣхъ</w>
-<w n="6,10">Ляховъ</w>
-<w n="6,10">прозъваша</w>
-<w n="6,10">ся</w>
-<w n="6,10">Поляне,</w>
-<w n="6,10">Ляхове</w>
-<w n="6,10">друзии</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="6,10">тѣхъ</w>
-<w n="6,10">лѧховъ</w>
-<w n="6,10">пр<milestone unit="sic" n="start"/>озвашасѧ<milestone unit="sic" n="end"/><lb/></w>
-<w n="6,10">полѧне.</w>
-<w n="6,10">лѧхове</w>
-<w n="6,10">друзии</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="6,10">тѣ<hi rend="sup">х</hi></w>
-<w n="6,10">лѧховъ</w>
-<w n="6,10">прозваша<hi rend="sup">с</hi></w>
-<w n="6,10">полѧне</w>
-<w n="6,10">лѧ<lb/>хове</w>
-<w n="6,10">дроузии</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="6,10">тѣхъ</w>
-<w n="6,10">лѧховь</w>
-<w n="6,10">прозвашесѧ</w>
-<w n="6,10">полѧне.</w>
-<w n="6,10">лѧхове</w>
-<w n="6,10">дрѹзїи</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="6,10">тѣхъ</w>
-<w n="6,10">лѧховъ</w>
-<w n="6,10">про<lb/>звашасѧ</w>
-<w n="6,10">полѧне</w>
-<w n="6,10">лѧховѣ. <lb/></w>
-
-<w n="6,10">друзии</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="6,10">прозваша<hi rend="sup">с</hi></w>
-<w n="6,10">полѧне</w>
-<w n="6,10">лѧхове.</w>
-<w n="6,10">дроуѕїи</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="6,10">тѣхъ</w>
-<w n="6,10">Ляховъ</w>
-<w n="6,10">прозвашася</w>
-<w n="6,10">Поляне,</w>
-<w n="6,10">Ляхове</w>
-<w n="6,10">друзии</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="6,10">тѣхъ</w>
-<w n="6,10">Ляховъ</w>
-<w n="6,10">прозъвашася</w>
-<w n="6,10">Поляне;</w>
-<w n="6,10">Ляхове</w>
-<w n="6,10">друзии</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="6,10">тѣхъ</w>
-<w n="6,10">ляховъ</w>
-<w n="6,10">прозвашася</w>
-<w n="6,10">поляне,</w>
-<w n="6,10">ляхове</w>
-<w n="6,10">друзии</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>6, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="6"/><div type="block" n="10"><p><app><lem wit="#lem">
+            тѣхъ Ляховъ прозъваша ся Поляне, Ляхове друзии
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">тѣхъ лѧховъ пр<sic>озвашасѧ</sic><lb/> полѧне. лѧхове друзии</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">тѣ<hi rend="sup">х</hi> лѧховъ прозваша<hi rend="sup">с</hi> полѧне лѧ<lb/>хове дроузии</rdg>
+            <rdg wit="#aka">тѣхъ лѧховь прозвашесѧ полѧне. лѧхове дрѹзїи</rdg>
+            <rdg wit="#ipa">тѣхъ лѧховъ про<lb/>звашасѧ полѧне лѧховѣ. <lb/> друзии</rdg>
+            <rdg wit="#xle">прозваша<hi rend="sup">с</hi> полѧне лѧхове. дроуѕїи</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">тѣхъ Ляховъ прозвашася Поляне, Ляхове друзии</rdg><rdg wit="#shakh">тѣхъ Ляховъ прозъвашася Поляне; Ляхове друзии</rdg><rdg wit="#likh">тѣхъ ляховъ прозвашася поляне, ляхове друзии</rdg></rdgGrp></app></p></div></body></text></TEI>

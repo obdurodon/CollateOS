@@ -1,93 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>36, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="36"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="36,18">коея</w>
-<w n="36,18"><choice><seg>любо</seg><seg>убо</seg></choice></w>
-<w n="36,18">страны</w>
-<w n="36,18">пришьдъшемъ</w>
-<w n="36,18">въ</w>
-<w n="36,18">Русь</w>
-<w n="36,18">и</w>
-<w n="36,18">продаемомъ</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="36,18">коеа</w>
-<w n="36,18">любо</w>
-<w n="36,18">страны.</w>
-<w n="36,18">прише<hi rend="sup">д</hi>ши<hi rend="sup">м</hi></w>
-<w n="36,18">в</w>
-<w n="36,18">роу<hi rend="sup">с</hi>.</w>
-<w n="36,18">и</w>
-<w n="36,18">продаемы<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="36,18">коеꙗ</w>
-<w n="36,18">любо</w>
-<w n="36,18">страны</w>
-<w n="36,18">прише<hi rend="sup">д</hi><lb/>шимъ</w>
-<w n="36,18">в</w>
-<w n="36,18">рѹ<hi rend="sup">с</hi>.</w>
-<w n="36,18">и</w>
-<w n="36,18">продаемымъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="36,18">коеꙗ</w>
-<w n="36,18">оу<lb/>бо</w>
-<w n="36,18">страны.</w>
-<w n="36,18">пришедшимъ <lb/></w>
-
-<w n="36,18">в</w>
-<w n="36,18">русь.</w>
-<w n="36,18">и</w>
-<w n="36,18">продаемомъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="36,18">коеѧ</w>
-<w n="36,18">оубо</w>
-<w n="36,18">страны.</w>
-<w n="36,18">при<lb/>ше<hi rend="sup">д</hi>ши<hi rend="sup">м</hi></w>
-<w n="36,18">в</w>
-<w n="36,18">роу<hi rend="sup">с</hi></w>
-<w n="36,18">и</w>
-<w n="36,18">продаемѡ<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="36,18">коеа</w>
-<w n="36,18">любо</w>
-<w n="36,18">страны</w>
-<w n="36,18">пришедшимъ</w>
-<w n="36,18">в</w>
-<w n="36,18">Русь</w>
-<w n="36,18">и</w>
-<w n="36,18">продаемымъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="36,18">коея</w>
-<w n="36,18">любо</w>
-<w n="36,18">страны</w>
-<w n="36,18">пришьдъшемъ</w>
-<w n="36,18">Руси</w>
-<w n="36,18">и</w>
-<w n="36,18">продаемомъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="36,18">коеа</w>
-<w n="36,18">любо</w>
-<w n="36,18">страны</w>
-<w n="36,18">пришедшим</w>
-<w n="36,18">в</w>
-<w n="36,18">Русь</w>
-<w n="36,18">и</w>
-<w n="36,18">продаемым</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>36, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="36"/><div type="block" n="18"><p><app><lem wit="#lem">
+            коея <choice>
+                    <seg>любо</seg>
+                    <seg>убо</seg>
+                </choice> страны пришьдъшемъ въ Русь и продаемомъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">коеа любо страны. прише<hi rend="sup">д</hi>ши<hi rend="sup">м</hi> в роу<hi rend="sup">с</hi>. и
+                    продаемы<hi rend="sup">м</hi></rdg>
+            <rdg wit="#aka">коеꙗ любо страны прише<hi rend="sup">д</hi><lb/>шимъ в рѹ<hi rend="sup">с</hi>. и продаемымъ</rdg>
+            <rdg wit="#ipa">коеꙗ оу<lb/>бо страны. пришедшимъ <lb/> в русь. и продаемомъ</rdg>
+            <rdg wit="#xle">коеѧ оубо страны. при<lb/>ше<hi rend="sup">д</hi>ши<hi rend="sup">м</hi> в роу<hi rend="sup">с</hi> и
+                    продаемѡ<hi rend="sup">м</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">коеа любо страны пришедшимъ в Русь и продаемымъ</rdg><rdg wit="#shakh">коея любо страны пришьдъшемъ Руси и продаемомъ</rdg><rdg wit="#likh">коеа любо страны пришедшим в Русь и продаемым</rdg></rdgGrp></app></p></div></body></text></TEI>

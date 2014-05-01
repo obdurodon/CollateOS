@@ -1,85 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>200, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="200"/><div type="block" n="13"><p>
-<app>
-<lem wit="#lem">
-<w n="200,13">Чьрнигову,</w>
-<w n="200,13">мьняще</w>
-<w n="200,13">одолѣвъше,</w>
-<w n="200,13">а</w>
-<w n="200,13">земли</w>
-<w n="200,13">Русьскои</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="200,13">черни<lb/>гову</w>
-<w n="200,13">мнѧще</w>
-<w n="200,13">ѡдолѣвше.</w>
-<w n="200,13">а</w>
-<w n="200,13">зе<lb/>млѣ</w>
-<w n="200,13">русьскѣи</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="200,13">черниговѹ.</w>
-<w n="200,13">мнѧще</w>
-<w n="200,13">ѡдолѣвше.</w>
-<w n="200,13">а</w>
-<w n="200,13">земли</w>
-<w n="200,13">роускои</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="200,13">че<lb/>рниговѹ</w>
-<w n="200,13">мнѧще</w>
-<w n="200,13">ѡдолѣвше.</w>
-<w n="200,13">а</w>
-<w n="200,13">земли</w>
-<w n="200,13">рѹс<hi rend="sup">с</hi>кои <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="200,13">чернигову.</w>
-<w n="200,13">мь<lb/>нѧще</w>
-<w n="200,13">ѡдолѣвше.</w>
-<w n="200,13">а</w>
-<w n="200,13">земли</w>
-<w n="200,13">ру<lb/>скои</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="200,13">чернѣговоу.</w>
-<w n="200,13">мнѧще</w>
-<w n="200,13">ѡдолѣвше. <lb/></w>
-
-<w n="200,13">а</w>
-<w n="200,13">земли</w>
-<w n="200,13">роускои</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="200,13">Чернигову,</w>
-<w n="200,13">мняще</w>
-<w n="200,13">одолѣвше,</w>
-<w n="200,13">а</w>
-<w n="200,13">землѣ</w>
-<w n="200,13">Русьскѣй</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="200,13">Чьрнигову,</w>
-<w n="200,13">мьняща</w>
-<w n="200,13">одолѣвъша,</w>
-<w n="200,13">а</w>
-<w n="200,13">земли</w>
-<w n="200,13">Русьскѣи</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="200,13">Чернигову,</w>
-<w n="200,13">мняще</w>
-<w n="200,13">одолѣвше,</w>
-<w n="200,13">а</w>
-<w n="200,13">землѣ</w>
-<w n="200,13">Русьскѣй</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>200, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="200"/><div type="block" n="13"><p><app><lem wit="#lem">
+            Чьрнигову, мьняще одолѣвъше, а земли Русьскои
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">черни<lb/>гову мнѧще ѡдолѣвше. а зе<lb/>млѣ русьскѣи</rdg>
+            <rdg wit="#rad">черниговѹ. мнѧще ѡдолѣвше. а земли роускои</rdg>
+            <rdg wit="#aka">че<lb/>рниговѹ мнѧще ѡдолѣвше. а земли рѹс<hi rend="sup">с</hi>кои <lb/></rdg>
+            <rdg wit="#ipa">чернигову. мь<lb/>нѧще ѡдолѣвше. а земли ру<lb/>скои</rdg>
+            <rdg wit="#xle">чернѣговоу. мнѧще ѡдолѣвше. <lb/> а земли роускои</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Чернигову, мняще одолѣвше, а землѣ Русьскѣй</rdg><rdg wit="#shakh">Чьрнигову, мьняща одолѣвъша, а земли Русьскѣи</rdg><rdg wit="#likh">Чернигову, мняще одолѣвше, а землѣ Русьскѣй</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,109 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>265, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="265"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="265,1">яко</w>
-<w n="265,1">“Се</w>
-<w n="265,1">Давыдова</w>
-<w n="265,1">съколота;</w>
-<w n="265,1">то</w>
-<w n="265,1">иди</w>
-<w n="265,1">ты,</w>
-<w n="265,1">Святопълче,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="265,1">ꙗко</w>
-<w n="265,1">се</w>
-<w n="265,1">дв҃два <lb/></w>
-
-<w n="265,1">сколота·</w>
-<w n="265,1">то</w>
-<w n="265,1">иди</w>
-<w n="265,1">ты</w>
-<w n="265,1">ст҃ополче <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="265,1">ꙗко <lb/></w>
-
-<w n="265,1">дв҃два·</w>
-<w n="265,1">сколота·</w>
-<w n="265,1">то</w>
-<w n="265,1">иди</w>
-<w n="265,1">ты·</w>
-<w n="265,1">ст҃ополче</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="265,1">ꙗко</w>
-<w n="265,1">дв҃да</w>
-<w n="265,1">сколота· <lb/></w>
-
-<w n="265,1">то</w>
-<w n="265,1">и<milestone unit="sic" n="start"/>д<milestone unit="sic" n="end"/>и</w>
-<w n="265,1">ты</w>
-<w n="265,1">ст҃ополче</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="265,1">ꙗко <lb/></w>
-
-<w n="265,1">се</w>
-<w n="265,1">двдв҃а</w>
-<w n="265,1"><milestone unit="sic" n="start"/>сколота<milestone unit="sic" n="end"/><milestone unit="add" n="start" place="margin"/>сольстилъ<milestone unit="add" n="end"/>·</w>
-<w n="265,1">то <lb/></w>
-
-<w n="265,1">иди</w>
-<w n="265,1">ты</w>
-<w n="265,1">ст҃ополче</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="265,1">яко</w>
-<w n="265,1">се</w>
-<w n="265,1">двд҃а</w>
-<w n="265,1">е<hi rend="sup">с</hi></w>
-<w n="265,1">сколо<lb/>та.</w>
-<w n="265,1">то</w>
-<w n="265,1">иди</w>
-<w n="265,1">ты·̏</w>
-<w n="265,1">ст҃опол′че</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="265,1">“яко</w>
-<w n="265,1">се</w>
-<w n="265,1">Давыдова</w>
-<w n="265,1">сколота;</w>
-<w n="265,1">то</w>
-<w n="265,1">иди</w>
-<w n="265,1">ты,</w>
-<w n="265,1">Святополче,</w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="265,1">яко</w>
-<w n="265,1">“се</w>
-<w n="265,1">Давыдова</w>
-<w n="265,1">съколота;</w>
-<w n="265,1">то</w>
-<w n="265,1">иди</w>
-<w n="265,1">ты,</w>
-<w n="265,1">Святопълче,</w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="265,1">яко</w>
-<w n="265,1">“Се</w>
-<w n="265,1">Давыдова</w>
-<w n="265,1">сколота;</w>
-<w n="265,1">то</w>
-<w n="265,1">иди</w>
-<w n="265,1">ты,</w>
-<w n="265,1">Святополче,</w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>265, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="265"/><div type="block" n="1"><p><app><lem wit="#lem">
+            яко “Се Давыдова съколота; то иди ты, Святопълче,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ꙗко се дв҃два <lb/> сколота· то иди ты ст҃ополче <lb/></rdg>
+            <rdg wit="#rad">ꙗко <lb/> дв҃два· сколота· то иди ты· ст҃ополче</rdg>
+            <rdg wit="#aka">ꙗко дв҃да сколота· <lb/> то и<sic>д</sic>и ты ст҃ополче</rdg>
+            <rdg wit="#ipa">ꙗко <lb/> се двдв҃а <sic>сколота</sic><add place="margin">сольстилъ</add>·
+                то <lb/> иди ты ст҃ополче</rdg>
+            <rdg wit="#xle">ꙗко се двд҃а е<hi rend="sup">с</hi> сколо<lb/>та. то иди ты·̏ ст҃опол′че</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">“яко се Давыдова сколота; то иди ты, Святополче, <add place="margin">255,7</add></rdg><rdg wit="#shakh">яко “се Давыдова съколота; то иди ты, Святопълче,
+            <add place="margin">308,16</add></rdg><rdg wit="#likh">яко “Се Давыдова сколота; то иди ты, Святополче,
+            <add place="margin">175,21</add></rdg></rdgGrp></app></p></div></body></text></TEI>

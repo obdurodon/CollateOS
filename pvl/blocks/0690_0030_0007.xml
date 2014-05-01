@@ -1,95 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>30, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="30"/><div type="block" n="7"><p>
-<app>
-<lem wit="#lem">
-<w n="30,7">же</w>
-<w n="30,7">мучаху,</w>
-<w n="30,7">иныя</w>
-<w n="30,7">же</w>
-<w n="30,7">растрѣляху,</w>
-<w n="30,7">а</w>
-<w n="30,7">другыя</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="30,7">мучаху</w>
-<w n="30,7">иныя</w>
-<w n="30,7">же</w>
-<w n="30,7">растляху</w>
-<w n="30,7">а</w>
-<w n="30,7">иныя</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="30,7">же</w>
-<w n="30,7">м<hi rend="sup">ѹ</hi><lb/>чаху</w>
-<w n="30,7">иныꙗ</w>
-<w n="30,7">же</w>
-<w n="30,7">растрелѧхоу.</w>
-<w n="30,7">а</w>
-<w n="30,7">дроугыꙗ <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="30,7">же</w>
-<w n="30,7">мѹча<lb/>хѹ.</w>
-<w n="30,7">и</w>
-<w n="30,7">иныꙗ</w>
-<w n="30,7">же</w>
-<w n="30,7">растрелѧхѹ.</w>
-<w n="30,7">а</w>
-<w n="30,7">дрѹгїа</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="30,7">же</w>
-<w n="30,7">мучаху.</w>
-<w n="30,7">иныꙗ</w>
-<w n="30,7">же</w>
-<w n="30,7">ра<lb/>стрѣлѧху.</w>
-<w n="30,7">а</w>
-<w n="30,7">другыꙗ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="30,7">же</w>
-<w n="30,7">мѫчахоу.</w>
-<w n="30,7">иныѧ<hi rend="sup">ж</hi><lb/></w>
-<w n="30,7">растрѣлѧхѫ.</w>
-<w n="30,7">а</w>
-<w n="30,7">дроугыа</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="30,7">же</w>
-<w n="30,7">мучаху,</w>
-<w n="30,7">иныя</w>
-<w n="30,7">же</w>
-<w n="30,7">растреляху,</w>
-<w n="30,7">а</w>
-<w n="30,7">другыя</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="30,7">же</w>
-<w n="30,7">мучаху,</w>
-<w n="30,7">иныя</w>
-<w n="30,7">же</w>
-<w n="30,7">растрѣляху,</w>
-<w n="30,7">а</w>
-<w n="30,7">другыя</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="30,7">же</w>
-<w n="30,7">мучаху,</w>
-<w n="30,7">иныя</w>
-<w n="30,7">же</w>
-<w n="30,7">растреляху,</w>
-<w n="30,7">а</w>
-<w n="30,7">другыя</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>30, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="30"/><div type="block" n="7"><p><app><lem wit="#lem">
+            же мучаху, иныя же растрѣляху, а другыя
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">мучаху иныя же растляху а иныя</rdg>
+            <rdg wit="#rad">же м<hi rend="sup">ѹ</hi><lb/>чаху иныꙗ же растрелѧхоу. а дроугыꙗ <lb/></rdg>
+            <rdg wit="#aka">же мѹча<lb/>хѹ. и иныꙗ же растрелѧхѹ. а дрѹгїа</rdg>
+            <rdg wit="#ipa">же мучаху. иныꙗ же ра<lb/>стрѣлѧху. а другыꙗ</rdg>
+            <rdg wit="#xle">же мѫчахоу. иныѧ<hi rend="sup">ж</hi>
+                <lb/> растрѣлѧхѫ. а дроугыа</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">же мучаху, иныя же растреляху, а другыя</rdg><rdg wit="#shakh">же мучаху, иныя же растрѣляху, а другыя</rdg><rdg wit="#likh">же мучаху, иныя же растреляху, а другыя</rdg></rdgGrp></app></p></div></body></text></TEI>

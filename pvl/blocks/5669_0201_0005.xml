@@ -1,92 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>201, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="201"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="201,5">своимь.</w>
-<w n="201,5">И</w>
-<w n="201,5">поидоша</w>
-<w n="201,5">къ</w>
-<w n="201,5">Чьрнигову,</w>
-<w n="201,5">и</w>
-<w n="201,5">Чьрниговьци</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="201,5">своимъ.</w>
-<w n="201,5">и</w>
-<w n="201,5">поидоша</w>
-<w n="201,5">к</w>
-<w n="201,5">черни<lb/>гову.</w>
-<w n="201,5">и</w>
-<w n="201,5">черниговци</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="201,5">володимеро<hi rend="sup">м</hi>.</w>
-<w n="201,5">и</w>
-<w n="201,5">поидоша</w>
-<w n="201,5">к</w>
-<w n="201,5">черниговѹ.</w>
-<w n="201,5">черниговци</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="201,5">володимеромъ.</w>
-<w n="201,5">поидоша</w>
-<w n="201,5">к</w>
-<w n="201,5">че<lb/>рниговѹ.</w>
-<w n="201,5">черниговци</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="201,5">своимь.</w>
-<w n="201,5">и</w>
-<w n="201,5">поидоша <lb/></w>
-
-<w n="201,5">к</w>
-<w n="201,5"><milestone unit="sic" n="start"/>ч<milestone unit="sic" n="end"/>ернигову.</w>
-<w n="201,5">и</w>
-<w n="201,5">чернигов<milestone unit="sic" n="start"/>ц<milestone unit="sic" n="end"/>ѣ <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="201,5">своимь. <lb/></w>
-
-<w n="201,5">и</w>
-<w n="201,5">поидоша</w>
-<w n="201,5">къ</w>
-<w n="201,5">черниговоу.</w>
-<w n="201,5">и</w>
-<w n="201,5">черниговци</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="201,5">своимъ.</w>
-<w n="201,5">И</w>
-<w n="201,5">поидоша</w>
-<w n="201,5">к</w>
-<w n="201,5">Чернигову,</w>
-<w n="201,5">и</w>
-<w n="201,5">Черниговци</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="201,5">своимь.</w>
-<w n="201,5">И</w>
-<w n="201,5">поидоша</w>
-<w n="201,5">къ</w>
-<w n="201,5">Чьрнигову,</w>
-<w n="201,5">и</w>
-<w n="201,5">Чьрниговьци</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="201,5">своимъ.</w>
-<w n="201,5">И</w>
-<w n="201,5">поидоша</w>
-<w n="201,5">к</w>
-<w n="201,5">Чернигову,</w>
-<w n="201,5">и</w>
-<w n="201,5">черниговци</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>201, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="201"/><div type="block" n="5"><p><app><lem wit="#lem">
+            своимь. И поидоша къ Чьрнигову, и Чьрниговьци
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">своимъ. и поидоша к черни<lb/>гову. и черниговци</rdg>
+            <rdg wit="#rad">володимеро<hi rend="sup">м</hi>. и поидоша к черниговѹ. черниговци</rdg>
+            <rdg wit="#aka">володимеромъ. поидоша к че<lb/>рниговѹ. черниговци</rdg>
+            <rdg wit="#ipa">своимь. и поидоша <lb/> к <sic>ч</sic>ернигову. и
+                    чернигов<sic>ц</sic>ѣ <lb/></rdg>
+            <rdg wit="#xle">своимь. <lb/> и поидоша къ черниговоу. и черниговци</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">своимъ. И поидоша к Чернигову, и Черниговци</rdg><rdg wit="#shakh">своимь. И поидоша къ Чьрнигову, и Чьрниговьци</rdg><rdg wit="#likh">своимъ. И поидоша к Чернигову, и черниговци</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,87 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>145, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="145"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="145,9">женуть,</w>
-<w n="145,9">оно</w>
-<w n="145,9">женуть,</w>
-<w n="145,9">побѣгнѣте”.</w>
-<w n="145,9">И</w>
-<w n="145,9">не</w>
-<w n="145,9">можаше</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="145,9">женуть</w>
-<w n="145,9">побѣ<lb/>гнѣте.</w>
-<w n="145,9">не</w>
-<w n="145,9">можаше</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="145,9">женѹть</w>
-<w n="145,9">ѡ</w>
-<w n="145,9">женоу<hi rend="sup">т</hi></w>
-<w n="145,9">побѣгните.</w>
-<w n="145,9">и</w>
-<w n="145,9">не</w>
-<w n="145,9">можаше</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="145,9">женѹтъ.</w>
-<w n="145,9">ѡ</w>
-<w n="145,9">женѹтъ.</w>
-<w n="145,9">по<lb/>бѣгните.</w>
-<w n="145,9">и</w>
-<w n="145,9">не</w>
-<w n="145,9">можаше</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="145,9">женуть.</w>
-<w n="145,9">ѡно</w>
-<w n="145,9">женуть.</w>
-<w n="145,9">побѣ<lb/>гнете.</w>
-<w n="145,9">и</w>
-<w n="145,9">не</w>
-<w n="145,9">можаше</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="145,9">женоу<hi rend="sup">т</hi>.</w>
-<w n="145,9">ѡно</w>
-<w n="145,9">женоу<hi rend="sup">т</hi>.</w>
-<w n="145,9">побѣ<lb/>гнѣте.</w>
-<w n="145,9">и</w>
-<w n="145,9">не</w>
-<w n="145,9">можаше</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="145,9">женуть,</w>
-<w n="145,9">о</w>
-<w n="145,9">женуть,</w>
-<w n="145,9">побѣгнѣте”.</w>
-<w n="145,9">Не</w>
-<w n="145,9">можаше</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="145,9">женуть,</w>
-<w n="145,9">оно</w>
-<w n="145,9">женуть,</w>
-<w n="145,9">побѣгнѣте”.</w>
-<w n="145,9">И</w>
-<w n="145,9">не</w>
-<w n="145,9">можаше</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="145,9">женуть,</w>
-<w n="145,9">о</w>
-<w n="145,9">женуть,</w>
-<w n="145,9">побѣгнѣте”.</w>
-<w n="145,9">Не</w>
-<w n="145,9">можаше</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>145, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="145"/><div type="block" n="9"><p><app><lem wit="#lem">
+            женуть, оно женуть, побѣгнѣте”. И не можаше
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">женуть побѣ<lb/>гнѣте. не можаше</rdg>
+            <rdg wit="#rad">женѹть ѡ женоу<hi rend="sup">т</hi> побѣгните. и не можаше</rdg>
+            <rdg wit="#aka">женѹтъ. ѡ женѹтъ. по<lb/>бѣгните. и не можаше</rdg>
+            <rdg wit="#ipa">женуть. ѡно женуть. побѣ<lb/>гнете. и не можаше</rdg>
+            <rdg wit="#xle">женоу<hi rend="sup">т</hi>. ѡно женоу<hi rend="sup">т</hi>. побѣ<lb/>гнѣте. и не можаше</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">женуть, о женуть, побѣгнѣте”. Не можаше</rdg><rdg wit="#shakh">женуть, оно женуть, побѣгнѣте”. И не можаше</rdg><rdg wit="#likh">женуть, о женуть, побѣгнѣте”. Не можаше</rdg></rdgGrp></app></p></div></body></text></TEI>

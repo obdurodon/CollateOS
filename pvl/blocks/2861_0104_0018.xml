@@ -1,80 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>104, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="104"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="104,18">учаще</w>
-<w n="104,18">и</w>
-<w n="104,18">крьстяще</w>
-<w n="104,18">водою”.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="104,18">оучаще</w>
-<w n="104,18">и</w>
-<w n="104,18">кр҃тще</w>
-<w n="104,18">водою.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="104,18">оучаще</w>
-<w n="104,18">и</w>
-<w n="104,18">крестѧще</w>
-<w n="104,18">водою.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="104,18">оучаще <lb/></w>
-
-<w n="104,18">и</w>
-<w n="104,18">крестѧще</w>
-<w n="104,18">водою.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="104,18">оучаще</w>
-<w n="104,18">и</w>
-<w n="104,18">кр<hi rend="sup">с</hi>тѧще</w>
-<w n="104,18">водою·.·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="104,18">оучаще <lb/></w>
-
-<w n="104,18">и</w>
-<w n="104,18">кр<hi rend="sup">с</hi>тѧще</w>
-<w n="104,18">водою.·̏</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="104,18">учаще</w>
-<w n="104,18">крестꙗще</w>
-<w n="104,18">водою</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="104,18">учаще</w>
-<w n="104,18">и</w>
-<w n="104,18">крестꙗще</w>
-<w n="104,18">водою</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="104,18">учаще</w>
-<w n="104,18">и</w>
-<w n="104,18">крестяще</w>
-<w n="104,18">водою”.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="104,18">учаще</w>
-<w n="104,18">и</w>
-<w n="104,18">крьстяще</w>
-<w n="104,18">водою”.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="104,18">учаще</w>
-<w n="104,18">и</w>
-<w n="104,18">крестяще</w>
-<w n="104,18">водою”.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>104, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="104"/><div type="block" n="18"><p><app><lem wit="#lem">
+            учаще и крьстяще водою”.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">оучаще и кр҃тще водою.</rdg>
+            <rdg wit="#rad">оучаще и крестѧще водою.</rdg>
+            <rdg wit="#aka">оучаще <lb/> и крестѧще водою.</rdg>
+            <rdg wit="#ipa">оучаще и кр<hi rend="sup">с</hi>тѧще водою·.·</rdg>
+            <rdg wit="#xle">оучаще <lb/> и кр<hi rend="sup">с</hi>тѧще водою.·̏</rdg>
+            <rdg wit="#kom">учаще крестꙗще водою</rdg>
+            <rdg wit="#tol">учаще и крестꙗще водою</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">учаще и крестяще водою”.</rdg><rdg wit="#shakh">учаще и крьстяще водою”.</rdg><rdg wit="#likh">учаще и крестяще водою”.</rdg></rdgGrp></app></p></div></body></text></TEI>

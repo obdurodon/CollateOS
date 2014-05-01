@@ -1,65 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>158, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="158"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="158,9">И</w>
-<w n="158,9">умъоживъшимъ</w>
-<w n="158,9">ся</w>
-<w n="158,9">братии</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="158,9">и</w>
-<w n="158,9">оумножившимсѧ <lb/></w>
-
-<w n="158,9">братьи</w>
-<w n="158,9">в</w>
-<w n="158,9">печерѣ.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="158,9">и</w>
-<w n="158,9">оумножившимъ<hi rend="sup">с</hi></w>
-<w n="158,9">бра<hi rend="sup">т</hi>и.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="158,9">и</w>
-<w n="158,9">оумноживьшимсѧ</w>
-<w n="158,9">братьи. <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="158,9">и</w>
-<w n="158,9">оумножи<lb/>вшимсѧ</w>
-<w n="158,9">братьи.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="158,9">и</w>
-<w n="158,9">оумнѡ<lb/>жившимсѧ</w>
-<w n="158,9">братїи.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="158,9">и</w>
-<w n="158,9">умножившимся</w>
-<w n="158,9">братьи</w>
-<w n="158,9">в</w>
-<w n="158,9">печерѣ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="158,9">И</w>
-<w n="158,9">умъноживъшемъся</w>
-<w n="158,9">братии,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="158,9">И</w>
-<w n="158,9">умножившимся</w>
-<w n="158,9">братьи</w>
-<w n="158,9">в</w>
-<w n="158,9">печерѣ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>158, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="158"/><div type="block" n="9"><p><app><lem wit="#lem">
+            И умъоживъшимъ ся братии
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и оумножившимсѧ <lb/> братьи в печерѣ.</rdg>
+            <rdg wit="#rad">и оумножившимъ<hi rend="sup">с</hi> бра<hi rend="sup">т</hi>и.</rdg>
+            <rdg wit="#aka">и оумноживьшимсѧ братьи. <lb/></rdg>
+            <rdg wit="#ipa">и оумножи<lb/>вшимсѧ братьи.</rdg>
+            <rdg wit="#xle">и оумнѡ<lb/>жившимсѧ братїи.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и умножившимся братьи в печерѣ</rdg><rdg wit="#shakh">И умъноживъшемъся братии,</rdg><rdg wit="#likh">И умножившимся братьи в печерѣ</rdg></rdgGrp></app></p></div></body></text></TEI>

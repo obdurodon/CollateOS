@@ -1,90 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>47, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="47"/><div type="block" n="15"><p>
-<app>
-<lem wit="#lem">
-<w n="47,15">лѣтъ,</w>
-<w n="47,15">утвьрдити</w>
-<w n="47,15">любъвь</w>
-<w n="47,15">межю</w>
-<w n="47,15">Грькы</w>
-<w n="47,15">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="47,15">лѣтъ.</w>
-<w n="47,15">и</w>
-<w n="47,15">оутвердити</w>
-<w n="47,15">любовь.</w>
-<w n="47,15">межю</w>
-<w n="47,15">греки</w>
-<w n="47,15">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="47,15">лѣ<hi rend="sup">т</hi>.</w>
-<w n="47,15">оутвердити</w>
-<w n="47,15">любовь.</w>
-<w n="47,15">межы</w>
-<w n="47,15">гр<milestone unit="sic" n="start"/>е<milestone unit="sic" n="end"/>ки</w>
-<w n="47,15">и <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="47,15">лѣ<hi rend="sup">т</hi>.</w>
-<w n="47,15">оутвердити</w>
-<w n="47,15">любовь.</w>
-<w n="47,15">межи</w>
-<w n="47,15">гре<lb/>ки</w>
-<w n="47,15">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="47,15">лѣ<hi rend="sup">т</hi>. <lb/></w>
-
-<w n="47,15">оутвѣрдити</w>
-<w n="47,15">любовь.</w>
-<w n="47,15">ме<lb/>жю</w>
-<w n="47,15">грѣкы</w>
-<w n="47,15">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="47,15">лѣ<hi rend="sup">т</hi></w>
-<w n="47,15">оутвердити</w>
-<w n="47,15">любовь.</w>
-<w n="47,15">межу</w>
-<w n="47,15">греки <lb/></w>
-
-<w n="47,15">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="47,15">лѣтъ</w>
-<w n="47,15">и</w>
-<w n="47,15">утвердити</w>
-<w n="47,15">любовь</w>
-<w n="47,15">межю</w>
-<w n="47,15">Греки</w>
-<w n="47,15">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="47,15">лѣтъ,</w>
-<w n="47,15">и</w>
-<w n="47,15">утвьрдити</w>
-<w n="47,15">любъвь</w>
-<w n="47,15">межю</w>
-<w n="47,15">Грькы</w>
-<w n="47,15">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="47,15">лѣтъ</w>
-<w n="47,15">и</w>
-<w n="47,15">утвердити</w>
-<w n="47,15">любовь</w>
-<w n="47,15">межю</w>
-<w n="47,15">Греки</w>
-<w n="47,15">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>47, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="47"/><div type="block" n="15"><p><app><lem wit="#lem">
+            лѣтъ, утвьрдити любъвь межю Грькы и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">лѣтъ. и оутвердити любовь. межю греки и</rdg>
+            <rdg wit="#rad">лѣ<hi rend="sup">т</hi>. оутвердити любовь. межы гр<sic>е</sic>ки и <lb/></rdg>
+            <rdg wit="#aka">лѣ<hi rend="sup">т</hi>. оутвердити любовь. межи гре<lb/>ки и</rdg>
+            <rdg wit="#ipa">лѣ<hi rend="sup">т</hi>. <lb/> оутвѣрдити любовь. ме<lb/>жю грѣкы и</rdg>
+            <rdg wit="#xle">лѣ<hi rend="sup">т</hi> оутвердити любовь. межу греки <lb/> и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">лѣтъ и утвердити любовь межю Греки и</rdg><rdg wit="#shakh">лѣтъ, и утвьрдити любъвь межю Грькы и</rdg><rdg wit="#likh">лѣтъ и утвердити любовь межю Греки и</rdg></rdgGrp></app></p></div></body></text></TEI>

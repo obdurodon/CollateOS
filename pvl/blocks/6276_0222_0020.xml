@@ -1,98 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>222, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="222"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="222,20">въ</w>
-<w n="222,20">рыдание”.</w>
-<w n="222,20">Сътвори</w>
-<w n="222,20">бо</w>
-<w n="222,20">ся</w>
-<w n="222,20">плачь</w>
-<w n="222,20">великъ</w>
-<w n="222,20">въ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="222,20">в</w>
-<w n="222,20">рыданье</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="222,20">в</w>
-<w n="222,20">рыдание·</w>
-<w n="222,20">сотво<lb/>ри</w>
-<w n="222,20">бо</w>
-<w n="222,20">сѧ·</w>
-<w n="222,20">плачь</w>
-<w n="222,20">великъ·</w>
-<w n="222,20">в</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="222,20">в</w>
-<w n="222,20">рыдание·</w>
-<w n="222,20">створи</w>
-<w n="222,20">бо</w>
-<w n="222,20">сѧ</w>
-<w n="222,20">пла<hi rend="sup">ч</hi></w>
-<w n="222,20">великъ</w>
-<w n="222,20">в <pb n="117v"/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="222,20">в</w>
-<w n="222,20">рыданье·</w>
-<w n="222,20">створи</w>
-<w n="222,20">бо</w>
-<w n="222,20">сѧ <lb/></w>
-
-<w n="222,20">плачь</w>
-<w n="222,20">великъ</w>
-<w n="222,20">оу</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="222,20">въ</w>
-<w n="222,20">рыданїе.</w>
-<w n="222,20">сътвори</w>
-<w n="222,20">бѡ</w>
-<w n="222,20">сѧ</w>
-<w n="222,20">пла<hi rend="sup">ч</hi></w>
-<w n="222,20">великь</w>
-<w n="222,20">в <pb n="101r"/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="222,20">в</w>
-<w n="222,20">рыданье.</w>
-<w n="222,20">Сотвори</w>
-<w n="222,20">бо</w>
-<w n="222,20">ся</w>
-<w n="222,20">плачь</w>
-<w n="222,20">великъ</w>
-<w n="222,20">в</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="222,20">въ</w>
-<w n="222,20">рыдание”.</w>
-<w n="222,20">Сътвори</w>
-<w n="222,20">бо</w>
-<w n="222,20">ся</w>
-<w n="222,20">плачь</w>
-<w n="222,20">великъ</w>
-<w n="222,20">въ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="222,20">в</w>
-<w n="222,20">рыданье”.</w>
-<w n="222,20">Сотвори</w>
-<w n="222,20">бо</w>
-<w n="222,20">ся</w>
-<w n="222,20">плачь</w>
-<w n="222,20">великъ</w>
-<w n="222,20">в</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>222, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="222"/><div type="block" n="20"><p><app><lem wit="#lem">
+            въ рыдание”. Сътвори бо ся плачь великъ въ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">в рыданье</rdg>
+            <rdg wit="#rad">в рыдание· сотво<lb/>ри бо сѧ· плачь великъ· в</rdg>
+            <rdg wit="#aka">в рыдание· створи бо сѧ пла<hi rend="sup">ч</hi>
+                 великъ в <pb n="117v"/></rdg>
+            <rdg wit="#ipa">в рыданье· створи бо сѧ <lb/> плачь великъ оу</rdg>
+            <rdg wit="#xle">въ рыданїе. сътвори бѡ сѧ пла<hi rend="sup">ч</hi> великь в <pb n="101r"/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">в рыданье. Сотвори бо ся плачь великъ в</rdg><rdg wit="#shakh">въ рыдание”. Сътвори бо ся плачь великъ въ</rdg><rdg wit="#likh">в рыданье”. Сотвори бо ся плачь великъ в</rdg></rdgGrp></app></p></div></body></text></TEI>

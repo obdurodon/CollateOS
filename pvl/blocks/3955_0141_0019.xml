@@ -1,90 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>141, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="141"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-<w n="141,19">пристрои</w>
-<w n="141,19">бес</w>
-<w n="141,19">числа</w>
-<w n="141,19">вои,</w>
-<w n="141,19">Руси</w>
-<w n="141,19">и</w>
-<w n="141,19">Печенѣгъ,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="141,19">пристрои</w>
-<w n="141,19">бещисл<hi rend="sup">а</hi><lb/></w>
-<w n="141,19">вои.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="141,19">пристрои <lb/></w>
-
-<w n="141,19">бес</w>
-<w n="141,19">числа</w>
-<w n="141,19">вои</w>
-<w n="141,19">роу<hi rend="sup">с</hi></w>
-<w n="141,19">и</w>
-<w n="141,19">печенѣгъ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="141,19">пристрои</w>
-<w n="141,19">бес</w>
-<w n="141,19">числа</w>
-<w n="141,19">вои.</w>
-<w n="141,19">рѹ<hi rend="sup">с</hi></w>
-<w n="141,19">и</w>
-<w n="141,19">печенѣгъ. <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="141,19">пристрои</w>
-<w n="141,19">бе</w>
-<w n="141,19">щисла</w>
-<w n="141,19">вои <lb/></w>
-
-<w n="141,19">руси</w>
-<w n="141,19">и</w>
-<w n="141,19">печенѣгъ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="141,19">пристро<hi rend="sup">и</hi><lb/></w>
-<w n="141,19">бес</w>
-<w n="141,19">числа</w>
-<w n="141,19">вои.</w>
-<w n="141,19">роуси</w>
-<w n="141,19">и</w>
-<w n="141,19">печенѣгь.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="141,19">пристрои</w>
-<w n="141,19">бес</w>
-<w n="141,19">числа</w>
-<w n="141,19">вой,</w>
-<w n="141,19">Руси</w>
-<w n="141,19">и</w>
-<w n="141,19">Печенѣгъ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="141,19">пристрои</w>
-<w n="141,19">бес</w>
-<w n="141,19">числа</w>
-<w n="141,19">вои,</w>
-<w n="141,19">Руси</w>
-<w n="141,19">и</w>
-<w n="141,19">Печенѣгъ,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="141,19">пристрои</w>
-<w n="141,19">бе-щисла</w>
-<w n="141,19">вой,</w>
-<w n="141,19">Руси</w>
-<w n="141,19">и</w>
-<w n="141,19">печенѣгъ,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>141, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="141"/><div type="block" n="19"><p><app><lem wit="#lem">
+            пристрои бес числа вои, Руси и Печенѣгъ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">пристрои бещисл<hi rend="sup">а</hi>
+                <lb/> вои.</rdg>
+            <rdg wit="#rad">пристрои <lb/> бес числа вои роу<hi rend="sup">с</hi> и печенѣгъ.</rdg>
+            <rdg wit="#aka">пристрои бес числа вои. рѹ<hi rend="sup">с</hi> и печенѣгъ. <lb/></rdg>
+            <rdg wit="#ipa">пристрои бе щисла вои <lb/> руси и печенѣгъ.</rdg>
+            <rdg wit="#xle">пристро<hi rend="sup">и</hi>
+                <lb/> бес числа вои. роуси и печенѣгь.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">пристрои бес числа вой, Руси и Печенѣгъ,</rdg><rdg wit="#shakh">пристрои бес числа вои, Руси и Печенѣгъ,</rdg><rdg wit="#likh">пристрои бе-щисла вой, Руси и печенѣгъ,</rdg></rdgGrp></app></p></div></body></text></TEI>

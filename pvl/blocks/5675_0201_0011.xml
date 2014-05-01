@@ -1,86 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>201, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="201"/><div type="block" n="11"><p>
-<app>
-<lem wit="#lem">
-<w n="201,11">людьмъ</w>
-<w n="201,11">въбѣгъшемъ</w>
-<w n="201,11">въ</w>
-<w n="201,11">дънѣшьнии</w>
-<w n="201,11">градъ.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="201,11">и.</w>
-<w n="201,11">людемъ</w>
-<w n="201,11">же</w>
-<w n="201,11">вбѣгши<hi rend="sup">м</hi><lb/></w>
-<w n="201,11">въ</w>
-<w n="201,11">дънѣшнии</w>
-<w n="201,11">градъ.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="201,11">лю<hi rend="sup">д</hi>мъ</w>
-<w n="201,11">вбѣ<hi rend="sup">г</hi>ши<hi rend="sup">м</hi></w>
-<w n="201,11">въ</w>
-<w n="201,11">днѣшныи</w>
-<w n="201,11">гра<hi rend="sup">д</hi>:-</w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="201,11">людемь</w>
-<w n="201,11">бѣгшимъ</w>
-<w n="201,11">въ</w>
-<w n="201,11">дн҃ешнїи</w>
-<w n="201,11">гра<hi rend="sup">д</hi>:· <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="201,11">людемъ</w>
-<w n="201,11">выбѣгшимъ</w>
-<w n="201,11">во <lb/></w>
-
-<w n="201,11">дн҃ешнии</w>
-<w n="201,11">горо<hi rend="sup">д</hi>.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="201,11">люде<hi rend="sup">м</hi></w>
-<w n="201,11">не</w>
-<w n="201,11">выбѣ<lb/>гши<hi rend="sup">м</hi></w>
-<w n="201,11">въ</w>
-<w n="201,11">днѣшнїи</w>
-<w n="201,11">гра<hi rend="sup">д</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="201,11">и,</w>
-<w n="201,11">людемъ</w>
-<w n="201,11">же</w>
-<w n="201,11">вбѣгшимъ</w>
-<w n="201,11">въ</w>
-<w n="201,11">дънѣшний</w>
-<w n="201,11">градъ.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="201,11">и,</w>
-<w n="201,11">людьмъ</w>
-<w n="201,11">же</w>
-<w n="201,11">въбѣгъшемъ</w>
-<w n="201,11">въ</w>
-<w n="201,11">дънѣшьнии</w>
-<w n="201,11">градъ.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="201,11">и,</w>
-<w n="201,11">людемъ</w>
-<w n="201,11">же</w>
-<w n="201,11">вбѣгшим</w>
-<w n="201,11">въ</w>
-<w n="201,11">дънѣшний</w>
-<w n="201,11">градъ.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>201, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="201"/><div type="block" n="11"><p><app><lem wit="#lem">
+            людьмъ въбѣгъшемъ въ дънѣшьнии градъ.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и. людемъ же вбѣгши<hi rend="sup">м</hi>
+                <lb/> въ дънѣшнии градъ.</rdg>
+            <rdg wit="#rad">лю<hi rend="sup">д</hi>мъ вбѣ<hi rend="sup">г</hi>ши<hi rend="sup">м</hi> въ днѣшныи гра<hi rend="sup">д</hi>:-
+                </rdg>
+            <rdg wit="#aka">людемь бѣгшимъ въ дн҃ешнїи гра<hi rend="sup">д</hi>:· <lb/></rdg>
+            <rdg wit="#ipa">людемъ выбѣгшимъ во <lb/> дн҃ешнии горо<hi rend="sup">д</hi>.</rdg>
+            <rdg wit="#xle">люде<hi rend="sup">м</hi> не выбѣ<lb/>гши<hi rend="sup">м</hi> въ днѣшнїи гра<hi rend="sup">д</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и, людемъ же вбѣгшимъ въ дънѣшний градъ.</rdg><rdg wit="#shakh">и, людьмъ же въбѣгъшемъ въ дънѣшьнии градъ.</rdg><rdg wit="#likh">и, людемъ же вбѣгшим въ дънѣшний градъ.</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,90 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>138, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="138"/><div type="block" n="27"><p>
-<app>
-<lem wit="#lem">
-<w n="138,27">туже</w>
-<w n="138,27">красьно</w>
-<w n="138,27">носяща,</w>
-<w n="138,27">съ</w>
-<w n="138,27">Христосъмь</w>
-<w n="138,27">цьсарьствуета</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="138,27">туже</w>
-<w n="138,27">красно</w>
-<w n="138,27">носѧ<lb/>ща</w>
-<w n="138,27">съ</w>
-<w n="138,27">хсм<hi rend="sup">с</hi>ь</w>
-<w n="138,27">цр<hi rend="sup">с</hi>твуета</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="138,27">тѹ<lb/>же</w>
-<w n="138,27">красна</w>
-<w n="138,27">носѧща.</w>
-<w n="138,27">со</w>
-<w n="138,27">хр<hi rend="sup">с</hi>томъ</w>
-<w n="138,27">цр<hi rend="sup">с</hi>твоуета</w>
-<w n="138,27">всега<hi rend="sup">д</hi></w>
-<w n="138,27">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="138,27">тѹже</w>
-<w n="138,27">красна</w>
-<w n="138,27">носѧща</w>
-<w n="138,27">со</w>
-<w n="138,27">хм<hi rend="sup">с</hi>ь</w>
-<w n="138,27">цр<hi rend="sup">с</hi>твѹета</w>
-<w n="138,27">всегда. <lb/></w>
-
-<w n="138,27">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="138,27">туже</w>
-<w n="138,27">кра<lb/>сно</w>
-<w n="138,27">носѧща.</w>
-<w n="138,27">съ</w>
-<w n="138,27">хм<hi rend="sup">с</hi>ь</w>
-<w n="138,27">цртв<hi rend="sup">с</hi>уете <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="138,27">тѹ<hi rend="sup">ж</hi><lb/></w>
-<w n="138,27">красно</w>
-<w n="138,27">носѧщи.</w>
-<w n="138,27">съ</w>
-<w n="138,27">хр<hi rend="sup">с</hi>тѡ<hi rend="sup">м</hi></w>
-<w n="138,27">цр<hi rend="sup">с</hi>твоуета</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="138,27">туже</w>
-<w n="138,27">красно</w>
-<w n="138,27">носяща</w>
-<w n="138,27">съ</w>
-<w n="138,27">Христомь</w>
-<w n="138,27">царствуета</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="138,27">туже</w>
-<w n="138,27">красьно</w>
-<w n="138,27">носяща,</w>
-<w n="138,27">съ</w>
-<w n="138,27">Христосъмь</w>
-<w n="138,27">цѣсарьствуета</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="138,27">ту</w>
-<w n="138,27">же</w>
-<w n="138,27">красно</w>
-<w n="138,27">носяща</w>
-<w n="138,27">съ</w>
-<w n="138,27">Христомь</w>
-<w n="138,27">царствуета</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>138, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="138"/><div type="block" n="27"><p><app><lem wit="#lem">
+            туже красьно носяща, съ Христосъмь цьсарьствуета
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">туже красно носѧ<lb/>ща съ хсм<hi rend="sup">с</hi>ь цр<hi rend="sup">с</hi>твуета</rdg>
+            <rdg wit="#rad">тѹ<lb/>же красна носѧща. со хр<hi rend="sup">с</hi>томъ цр<hi rend="sup">с</hi>твоуета
+                    всега<hi rend="sup">д</hi> и</rdg>
+            <rdg wit="#aka">тѹже красна носѧща со хм<hi rend="sup">с</hi>ь цр<hi rend="sup">с</hi>твѹета всегда. <lb/> и</rdg>
+            <rdg wit="#ipa">туже кра<lb/>сно носѧща. съ хм<hi rend="sup">с</hi>ь цртв<hi rend="sup">с</hi>уете <lb/></rdg>
+            <rdg wit="#xle">тѹ<hi rend="sup">ж</hi>
+                <lb/> красно носѧщи. съ хр<hi rend="sup">с</hi>тѡ<hi rend="sup">м</hi> цр<hi rend="sup">с</hi>твоуета</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">туже красно носяща съ Христомь царствуета</rdg><rdg wit="#shakh">туже красьно носяща, съ Христосъмь цѣсарьствуета</rdg><rdg wit="#likh">ту же красно носяща съ Христомь царствуета</rdg></rdgGrp></app></p></div></body></text></TEI>

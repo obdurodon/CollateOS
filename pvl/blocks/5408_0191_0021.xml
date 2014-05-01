@@ -1,88 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>191, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="191"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="191,21">Яко</w>
-<w n="191,21">се</w>
-<w n="191,21">бысть</w>
-<w n="191,21">другыи</w>
-<w n="191,21">чьрноризьць,</w>
-<w n="191,21">именьмь</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="191,21">Яко</w>
-<w n="191,21">се</w>
-<w n="191,21">бы<hi rend="sup">с</hi></w>
-<w n="191,21">другы<lb/>и</w>
-<w n="191,21">черноризець.</w>
-<w n="191,21">именемь</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="191,21">ко</w>
-<w n="191,21">се</w>
-<w n="191,21">бы<hi rend="sup">с</hi>.</w>
-<w n="191,21">дрѹгии</w>
-<w n="191,21">черноризець.</w>
-<w n="191,21">именемъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="191,21">Яко</w>
-<w n="191,21">се</w>
-<w n="191,21">бы<hi rend="sup">с</hi></w>
-<w n="191,21">дрѹгыи <lb/></w>
-
-<w n="191,21">черноризець.</w>
-<w n="191,21">именемъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="191,21">ꙗко</w>
-<w n="191,21">се <lb/></w>
-
-<w n="191,21">бы<hi rend="sup">с</hi></w>
-<w n="191,21">другыи</w>
-<w n="191,21">черноризець. <lb/></w>
-
-<w n="191,21">именемь</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="191,21">яко</w>
-<w n="191,21">се</w>
-<w n="191,21">бы<hi rend="sup">с</hi></w>
-<w n="191,21">и</w>
-<w n="191,21">дроугыи</w>
-<w n="191,21">черноризець <lb/></w>
-
-<w n="191,21">имене<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="191,21">Яко</w>
-<w n="191,21">се</w>
-<w n="191,21">бысть</w>
-<w n="191,21">другый</w>
-<w n="191,21">черноризець,</w>
-<w n="191,21">именемь</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="191,21">Яко</w>
-<w n="191,21">се</w>
-<w n="191,21">бысть</w>
-<w n="191,21">другыи</w>
-<w n="191,21">чьрноризьць,</w>
-<w n="191,21">именьмь</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="191,21">Яко</w>
-<w n="191,21">се</w>
-<w n="191,21">бысть</w>
-<w n="191,21">другый</w>
-<w n="191,21">черноризець,</w>
-<w n="191,21">именемь</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>191, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="191"/><div type="block" n="21"><p><app><lem wit="#lem">
+            Яко се бысть другыи чьрноризьць, именьмь
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">Яко се бы<hi rend="sup">с</hi> другы<lb/>и черноризець. именемь</rdg>
+            <rdg wit="#rad">ко се бы<hi rend="sup">с</hi>. дрѹгии черноризець. именемъ</rdg>
+            <rdg wit="#aka">Яко се бы<hi rend="sup">с</hi> дрѹгыи <lb/> черноризець. именемъ</rdg>
+            <rdg wit="#ipa">ꙗко се <lb/> бы<hi rend="sup">с</hi> другыи черноризець. <lb/> именемь</rdg>
+            <rdg wit="#xle">ꙗко се бы<hi rend="sup">с</hi> и дроугыи черноризець <lb/> имене<hi rend="sup">м</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Яко се бысть другый черноризець, именемь</rdg><rdg wit="#shakh">Яко се бысть другыи чьрноризьць, именьмь</rdg><rdg wit="#likh">Яко се бысть другый черноризець, именемь</rdg></rdgGrp></app></p></div></body></text></TEI>

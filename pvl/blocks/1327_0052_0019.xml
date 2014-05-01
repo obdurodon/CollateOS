@@ -1,97 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>52, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="52"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-<w n="52,19">а</w>
-<w n="52,19">на</w>
-<w n="52,19">другои</w>
-<w n="52,19">посъли</w>
-<w n="52,19">ваши</w>
-<w n="52,19">и</w>
-<w n="52,19">гостье</w>
-<w n="52,19">ваши.</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="52,19">а</w>
-<w n="52,19">на</w>
-<w n="52,19">дрѹгои <lb/></w>
-
-<w n="52,19">послы</w>
-<w n="52,19">ваша</w>
-<w n="52,19">и</w>
-<w n="52,19">гости</w>
-<w n="52,19">ваша.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="52,19">а</w>
-<w n="52,19">на</w>
-<w n="52,19">другои</w>
-<w n="52,19">послы</w>
-<w n="52,19">ваши</w>
-<w n="52,19">и</w>
-<w n="52,19">гостье</w>
-<w n="52,19">ваши. <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="52,19">а</w>
-<w n="52,19">на</w>
-<w n="52,19">дрѹгои</w>
-<w n="52,19">сли <lb/></w>
-
-<w n="52,19">ваши</w>
-<w n="52,19">и</w>
-<w n="52,19">гостье</w>
-<w n="52,19">ваши.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="52,19">а</w>
-<w n="52,19">на <lb/></w>
-
-<w n="52,19">д<milestone unit="sic" n="start"/>роуи<milestone unit="sic" n="end"/></w>
-<w n="52,19">послы</w>
-<w n="52,19">ваши</w>
-<w n="52,19">и</w>
-<w n="52,19">гостїе</w>
-<w n="52,19">ваши.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="52,19">а</w>
-<w n="52,19">на</w>
-<w n="52,19">другой</w>
-<w n="52,19">послы</w>
-<w n="52,19">ваши</w>
-<w n="52,19">и</w>
-<w n="52,19">гостье</w>
-<w n="52,19">ваша.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="52,19">а</w>
-<w n="52,19">на</w>
-<w n="52,19">друзѣи</w>
-<w n="52,19">съли</w>
-<w n="52,19">ваши</w>
-<w n="52,19">и</w>
-<w n="52,19">гостие</w>
-<w n="52,19">ваши.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="52,19">а</w>
-<w n="52,19">на</w>
-<w n="52,19">другой</w>
-<w n="52,19">послы</w>
-<w n="52,19">ваша</w>
-<w n="52,19">и</w>
-<w n="52,19">гостье</w>
-<w n="52,19">ваша.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>52, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="52"/><div type="block" n="19"><p><app><lem wit="#lem">
+            а на другои посъли ваши и гостье ваши.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">а на дрѹгои <lb/> послы ваша и гости ваша.</rdg>
+            <rdg wit="#aka">а на другои послы ваши и гостье ваши. <lb/></rdg>
+            <rdg wit="#ipa">а на дрѹгои сли <lb/> ваши и гостье ваши.</rdg>
+            <rdg wit="#xle">а на <lb/> д<sic>роуи</sic> послы ваши и гостїе ваши.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">а на другой послы ваши и гостье ваша.</rdg><rdg wit="#shakh">а на друзѣи съли ваши и гостие ваши.</rdg><rdg wit="#likh">а на другой послы ваша и гостье ваша.</rdg></rdgGrp></app></p></div></body></text></TEI>

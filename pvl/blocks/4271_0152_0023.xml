@@ -1,73 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>152, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="152"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="152,23">мудрость,</w>
-<w n="152,23">мое</w>
-<w n="152,23">утвьржение.</w>
-<w n="152,23">Мъною</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="152,23">мдр<hi rend="sup">с</hi>ть. <lb/></w>
-
-<w n="152,23">мое</w>
-<w n="152,23">оутверженье.</w>
-<w n="152,23">моꙗ</w>
-<w n="152,23">крѣ<lb/>пость.</w>
-<w n="152,23">мною</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="152,23">моꙗ</w>
-<w n="152,23">крѣпость.</w>
-<w n="152,23">мною</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="152,23">моѧ</w>
-<w n="152,23">крѣпо<hi rend="sup">с</hi>ть.</w>
-<w n="152,23">мною <pb n="80r"/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="152,23">мудро<lb/>сть.</w>
-<w n="152,23">мое</w>
-<w n="152,23">оутвѣржение.</w>
-<w n="152,23">мно<lb/>ю</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="152,23">мѫдрѡ<hi rend="sup">с</hi>.</w>
-<w n="152,23">мое</w>
-<w n="152,23">оутверженїе.</w>
-<w n="152,23">мнѡю</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="152,23">мудрость,</w>
-<w n="152,23">мое</w>
-<w n="152,23">утверженье,</w>
-<w n="152,23">моя</w>
-<w n="152,23">крѣпость;</w>
-<w n="152,23">мною</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="152,23">мудрость,</w>
-<w n="152,23">мое</w>
-<w n="152,23">утвьржение,</w>
-<w n="152,23">моя</w>
-<w n="152,23">крѣпость.</w>
-<w n="152,23">Мъною</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="152,23">мудрость,</w>
-<w n="152,23">мое</w>
-<w n="152,23">утвержденье,</w>
-<w n="152,23">моя</w>
-<w n="152,23">крѣпость.</w>
-<w n="152,23">Мною</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>152, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="152"/><div type="block" n="23"><p><app><lem wit="#lem">
+            мудрость, мое утвьржение. Мъною
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">мдр<hi rend="sup">с</hi>ть. <lb/> мое оутверженье. моꙗ крѣ<lb/>пость. мною</rdg>
+            <rdg wit="#rad">моꙗ крѣпость. мною</rdg>
+            <rdg wit="#aka">моѧ крѣпо<hi rend="sup">с</hi>ть. мною <pb n="80r"/></rdg>
+            <rdg wit="#ipa">мудро<lb/>сть. мое оутвѣржение. мно<lb/>ю</rdg>
+            <rdg wit="#xle">мѫдрѡ<hi rend="sup">с</hi>. мое оутверженїе. мнѡю</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">мудрость, мое утверженье, моя крѣпость; мною</rdg><rdg wit="#shakh">мудрость, мое утвьржение, моя крѣпость. Мъною</rdg><rdg wit="#likh">мудрость, мое утвержденье, моя крѣпость. Мною</rdg></rdgGrp></app></p></div></body></text></TEI>

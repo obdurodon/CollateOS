@@ -1,86 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>11, 13/14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="11"/><div type="block" n="13/14"><p>
-<app>
-<lem wit="#lem">
-<w n="11,13/14">Афетова,</w>
-<w n="11,13/14">иже</w>
-<w n="11,13/14">живуть</w>
-<w n="11,13/14">на</w>
-<w n="11,13/14">странахъ</w>
-<w n="11,13/14">полунощьныхъ.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="11,13/14">афетова.</w>
-<w n="11,13/14">иже</w>
-<w n="11,13/14">ж<hi rend="sup">и</hi><lb/>оуть</w>
-<w n="11,13/14">въ</w>
-<w n="11,13/14">странахъ</w>
-<w n="11,13/14">полунощныхъ.</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="11,13/14">афетова</w>
-<w n="11,13/14">иже</w>
-<w n="11,13/14">живуть</w>
-<w n="11,13/14">на</w>
-<w n="11,13/14">странахъ</w>
-<w n="11,13/14">полунощныхъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="11,13/14">афетова.</w>
-<w n="11,13/14">иже</w>
-<w n="11,13/14">живоу<hi rend="sup">т</hi></w>
-<w n="11,13/14">на</w>
-<w n="11,13/14">страна<hi rend="sup">х</hi><lb/></w>
-<w n="11,13/14">полунощны<hi rend="sup">х</hi>.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="11,13/14">афетова.</w>
-<w n="11,13/14">иже</w>
-<w n="11,13/14">живѹть</w>
-<w n="11,13/14">на</w>
-<w n="11,13/14">строна<hi rend="sup">х</hi></w>
-<w n="11,13/14">полѹнощны<hi rend="sup">х</hi>.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="11,13/14">афе<lb/>това.</w>
-<w n="11,13/14">иже</w>
-<w n="11,13/14">живуть</w>
-<w n="11,13/14">на</w>
-<w n="11,13/14">стра<lb/>нахъ</w>
-<w n="11,13/14">полунощныхъ·:·<lb/></w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="11,13/14">Афетова,</w>
-<w n="11,13/14">иже</w>
-<w n="11,13/14">живуть</w>
-<w n="11,13/14">въ</w>
-<w n="11,13/14">странахъ</w>
-<w n="11,13/14">полунощныхъ.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="11,13/14">Афетова,</w>
-<w n="11,13/14">иже</w>
-<w n="11,13/14">живуть</w>
-<w n="11,13/14">на</w>
-<w n="11,13/14">странахъ</w>
-<w n="11,13/14">полунощьныхъ.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="11,13/14">Афетова,</w>
-<w n="11,13/14">иже</w>
-<w n="11,13/14">живуть</w>
-<w n="11,13/14">въ</w>
-<w n="11,13/14">странахъ</w>
-<w n="11,13/14">полунощныхъ.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>11, 13/14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="11"/><div type="block" n="13/14"><p><app><lem wit="#lem">
+            Афетова, иже живуть на странахъ полунощьныхъ.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">афетова. иже ж<hi rend="sup">и</hi><lb/>оуть въ странахъ полунощныхъ.</rdg>
+            <rdg wit="#tro">афетова иже живуть на странахъ полунощныхъ</rdg>
+            <rdg wit="#rad">афетова. иже живоу<hi rend="sup">т</hi> на страна<hi rend="sup">х</hi>
+                <lb/> полунощны<hi rend="sup">х</hi>.</rdg>
+            <rdg wit="#aka">афетова. иже живѹть на строна<hi rend="sup">х</hi> полѹнощны<hi rend="sup">х</hi>.</rdg>
+            <rdg wit="#ipa">афе<lb/>това. иже живуть на стра<lb/>нахъ полунощныхъ·:·<lb/></rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Афетова, иже живуть въ странахъ полунощныхъ.</rdg><rdg wit="#shakh">Афетова, иже живуть на странахъ полунощьныхъ.</rdg><rdg wit="#likh">Афетова, иже живуть въ странахъ полунощныхъ.</rdg></rdgGrp></app></p></div></body></text></TEI>

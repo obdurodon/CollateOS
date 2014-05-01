@@ -1,85 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>54, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="54"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-<w n="54,6">есть</w>
-<w n="54,6">надъ</w>
-<w n="54,6">ручаемь,</w>
-<w n="54,6">коньць</w>
-<w n="54,6">Пасынъчѣ</w>
-<w n="54,6">бесѣды:</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="54,6">есть</w>
-<w n="54,6">надъ</w>
-<w n="54,6">ручаемъ.</w>
-<w n="54,6">конець</w>
-<w n="54,6">пасынъчѣ</w>
-<w n="54,6">бе<lb/>сѣды.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="54,6">е<hi rend="sup">с</hi></w>
-<w n="54,6">на<hi rend="sup">д</hi></w>
-<w n="54,6">роучае<hi rend="sup">м</hi>.</w>
-<w n="54,6">конець</w>
-<w n="54,6">пасынчи</w>
-<w n="54,6">бесѣды.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="54,6">есть</w>
-<w n="54,6">на<hi rend="sup">д</hi></w>
-<w n="54,6">рѹчаемъ.</w>
-<w n="54,6">конець</w>
-<w n="54,6">пасы<lb/>нъчи</w>
-<w n="54,6">бесѣды.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="54,6">есть</w>
-<w n="54,6">надъ</w>
-<w n="54,6">ру<milestone unit="sic" n="start"/>ч<milestone unit="sic" n="end"/>ьемъ. <lb/></w>
-
-<w n="54,6">конѣць</w>
-<w n="54,6">пасынь<milestone unit="sic" n="start"/>ч<milestone unit="sic" n="end"/>ѣ</w>
-<w n="54,6">бесѣ<lb/>ды.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="54,6">е<hi rend="sup">с</hi></w>
-<w n="54,6">на<hi rend="sup">д</hi></w>
-<w n="54,6">роучае<hi rend="sup">м</hi>. <lb/></w>
-
-<w n="54,6">конець</w>
-<w n="54,6">пасы<hi rend="sup">н</hi>че</w>
-<w n="54,6">бесѣды.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="54,6">есть</w>
-<w n="54,6">надъ</w>
-<w n="54,6">ручаемъ,</w>
-<w n="54,6">конець</w>
-<w n="54,6">Пасынъчѣ</w>
-<w n="54,6">бесѣды</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="54,6">есть</w>
-<w n="54,6">надъ</w>
-<w n="54,6">Ручаемь,</w>
-<w n="54,6">коньць</w>
-<w n="54,6">Пасынъчѣ</w>
-<w n="54,6">бесѣды:</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="54,6">есть</w>
-<w n="54,6">надъ</w>
-<w n="54,6">Ручаемъ,</w>
-<w n="54,6">конець</w>
-<w n="54,6">Пасынъчѣ</w>
-<w n="54,6">бесѣды:</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>54, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="54"/><div type="block" n="6"><p><app><lem wit="#lem">
+            есть надъ ручаемь, коньць Пасынъчѣ бесѣды:
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">есть надъ ручаемъ. конець пасынъчѣ бе<lb/>сѣды.</rdg>
+            <rdg wit="#rad">е<hi rend="sup">с</hi> на<hi rend="sup">д</hi> роучае<hi rend="sup">м</hi>. конець пасынчи бесѣды.</rdg>
+            <rdg wit="#aka">есть на<hi rend="sup">д</hi> рѹчаемъ. конець пасы<lb/>нъчи бесѣды.</rdg>
+            <rdg wit="#ipa">есть надъ ру<sic>ч</sic>ьемъ. <lb/> конѣць пасынь<sic>ч</sic>ѣ
+                бесѣ<lb/>ды.</rdg>
+            <rdg wit="#xle">е<hi rend="sup">с</hi> на<hi rend="sup">д</hi> роучае<hi rend="sup">м</hi>. <lb/> конець пасы<hi rend="sup">н</hi>че
+                бесѣды.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">есть надъ ручаемъ, конець Пасынъчѣ бесѣды</rdg><rdg wit="#shakh">есть надъ Ручаемь, коньць Пасынъчѣ бесѣды:</rdg><rdg wit="#likh">есть надъ Ручаемъ, конець Пасынъчѣ бесѣды:</rdg></rdgGrp></app></p></div></body></text></TEI>

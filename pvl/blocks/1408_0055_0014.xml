@@ -1,106 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>55, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="55"/><div type="block" n="14"><p>
-<app>
-<lem wit="#lem">
-<w n="55,14">убихомъ;</w>
-<w n="55,14">поимѣмъ</w>
-<w n="55,14">жену</w>
-<w n="55,14">его</w>
-<w n="55,14">Ольгу</w>
-<w n="55,14">за</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="55,14">рускаго.</w>
-<w n="55,14">поимемъ <lb/></w>
-
-<w n="55,14">жену</w>
-<w n="55,14">его</w>
-<w n="55,14">вольгу</w>
-<w n="55,14">за</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="55,14">рѹска<hi rend="sup">г</hi>.</w>
-<w n="55,14">поиме<hi rend="sup">м</hi><lb/></w>
-<w n="55,14">женоу</w>
-<w n="55,14">е<hi rend="sup">г</hi></w>
-<w n="55,14">ѡлгоу.</w>
-<w n="55,14">за</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="55,14">оу<lb/>бихомъ.</w>
-<w n="55,14">поимемъ</w>
-<w n="55,14">женѹ</w>
-<w n="55,14">его</w>
-<w n="55,14">ѡлгѹ</w>
-<w n="55,14">за</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="55,14">оубихом<hi rend="sup">ъ</hi>. <lb/></w>
-
-<w n="55,14">поимемъ</w>
-<w n="55,14">жену</w>
-<w n="55,14">его</w>
-<w n="55,14">ѡлгу <lb/></w>
-
-<w n="55,14">за</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="55,14">оубихѡ<hi rend="sup">м</hi>.</w>
-<w n="55,14">поиме<hi rend="sup">м</hi></w>
-<w n="55,14">женоу</w>
-<w n="55,14">его</w>
-<w n="55,14">ѡлгѹ <lb/></w>
-
-<w n="55,14">за</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="55,14">рускаго</w>
-<w n="55,14">поимемъ</w>
-<w n="55,14">жену</w>
-<w n="55,14">его</w>
-<w n="55,14">олгу</w>
-<w n="55,14">за</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="55,14">руськаго</w>
-<w n="55,14">и</w>
-<w n="55,14">поимемъ</w>
-<w n="55,14">жену</w>
-<w n="55,14">его</w>
-<w n="55,14">ольгу</w>
-<w n="55,14">за</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="55,14">Рускаго;</w>
-<w n="55,14">поимемъ</w>
-<w n="55,14">жену</w>
-<w n="55,14">его</w>
-<w n="55,14">Вольгу</w>
-<w n="55,14">за</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="55,14">Русьскаго;</w>
-<w n="55,14">поимѣмъ</w>
-<w n="55,14">жену</w>
-<w n="55,14">его</w>
-<w n="55,14">Ольгу</w>
-<w n="55,14">за</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="55,14">рускаго;</w>
-<w n="55,14">поимемъ</w>
-<w n="55,14">жену</w>
-<w n="55,14">его</w>
-<w n="55,14">Вольгу</w>
-<w n="55,14">за</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>55, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="55"/><div type="block" n="14"><p><app><lem wit="#lem">
+            убихомъ; поимѣмъ жену его Ольгу за
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">рускаго. поимемъ <lb/> жену его вольгу за</rdg>
+            <rdg wit="#rad">рѹска<hi rend="sup">г</hi>. поиме<hi rend="sup">м</hi>
+                <lb/> женоу е<hi rend="sup">г</hi> ѡлгоу. за</rdg>
+            <rdg wit="#aka">оу<lb/>бихомъ. поимемъ женѹ его ѡлгѹ за</rdg>
+            <rdg wit="#ipa">оубихом<hi rend="sup">ъ</hi>. <lb/> поимемъ жену его ѡлгу <lb/> за</rdg>
+            <rdg wit="#xle">оубихѡ<hi rend="sup">м</hi>. поиме<hi rend="sup">м</hi> женоу его ѡлгѹ <lb/> за</rdg>
+            <rdg wit="#kom">рускаго поимемъ жену его олгу за</rdg>
+            <rdg wit="#tol">руськаго и поимемъ жену его ольгу за</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Рускаго; поимемъ жену его Вольгу за</rdg><rdg wit="#shakh">Русьскаго; поимѣмъ жену его Ольгу за</rdg><rdg wit="#likh">рускаго; поимемъ жену его Вольгу за</rdg></rdgGrp></app></p></div></body></text></TEI>

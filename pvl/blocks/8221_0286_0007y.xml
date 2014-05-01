@@ -1,35 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>286, 7y</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="286"/><div type="block" n="7y"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#ipa">
-<w n="286,7y">и</w>
-<w n="286,7y">ре<hi rend="sup">ч</hi></w>
-<w n="286,7y">цр҃ь</w>
-<w n="286,7y">молю</w>
-<w n="286,7y">тѧ</w>
-<w n="286,7y">ѡ</w>
-<w n="286,7y">г<hi rend="sup">с</hi>и</w>
-<w n="286,7y">ѿпусті <lb/></w>
-
-<w n="286,7y">нынѣ</w>
-<w n="286,7y">грѣхъ</w>
-<w n="286,7y">раба</w>
-<w n="286,7y">твоего·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="286,7y">и</w>
-<w n="286,7y">рече</w>
-<w n="286,7y">цр҃ъ</w>
-<w n="286,7y">молю</w>
-<w n="286,7y">сѧ</w>
-<w n="286,7y">г҃и</w>
-<w n="286,7y">ѿпоусти</w>
-<w n="286,7y">на<hi rend="sup">м</hi><lb/></w>
-<w n="286,7y">гр<hi rend="sup">х</hi>ѣ</w>
-<w n="286,7y">раба</w>
-<w n="286,7y">твоего.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>286, 7y</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="286"/><div type="block" n="7y"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#ipa">и ре<hi rend="sup">ч</hi> цр҃ь молю тѧ ѡ г<hi rend="sup">с</hi>и ѿпусті <lb/> нынѣ грѣхъ раба
+                твоего·</rdg>
+            <rdg wit="#xle">и рече цр҃ъ молю сѧ г҃и ѿпоусти на<hi rend="sup">м</hi>
+                <lb/> гр<hi rend="sup">х</hi>ѣ раба твоего.</rdg>
+        </rdgGrp></app></p></div></body></text></TEI>

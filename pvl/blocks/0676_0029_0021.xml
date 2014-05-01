@@ -1,100 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>29, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="29"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="29,21">Варягъ</w>
-<w n="29,21">и</w>
-<w n="29,21">Словѣнъ</w>
-<w n="29,21">и</w>
-<w n="29,21">Чюдь</w>
-<w n="29,21">и</w>
-<w n="29,21">Кривичѣ</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="29,21">варягъ</w>
-<w n="29,21">и</w>
-<w n="29,21">словѣне</w>
-<w n="29,21">чюдь</w>
-<w n="29,21">кривичи</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="29,21">варѧ<hi rend="sup">г</hi>.</w>
-<w n="29,21">и</w>
-<w n="29,21">сло<lb/>венъ.</w>
-<w n="29,21">и</w>
-<w n="29,21">ч<hi rend="sup">д</hi>ю.</w>
-<w n="29,21">и</w>
-<w n="29,21">словене.</w>
-<w n="29,21">и</w>
-<w n="29,21">кривичи.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="29,21">варегь.</w>
-<w n="29,21">и</w>
-<w n="29,21">словѣнъ.</w>
-<w n="29,21">и</w>
-<w n="29,21">ч<hi rend="sup">д</hi>ю.</w>
-<w n="29,21">и</w>
-<w n="29,21">словене.</w>
-<w n="29,21">и</w>
-<w n="29,21">крївичи.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="29,21">варѧ<lb/>гъ.</w>
-<w n="29,21">и</w>
-<w n="29,21">словѣнъ.</w>
-<w n="29,21">и</w>
-<w n="29,21">чюди. <lb/></w>
-
-<w n="29,21">и</w>
-<w n="29,21">кривичи.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="29,21">варѧгь.</w>
-<w n="29,21">и</w>
-<w n="29,21">слѡвень.</w>
-<w n="29,21">и</w>
-<w n="29,21">ч<hi rend="sup">д</hi>ю<hi rend="sup">и</hi>.</w>
-<w n="29,21">и</w>
-<w n="29,21">кривичи.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="29,21">Варяг,</w>
-<w n="29,21">и</w>
-<w n="29,21">Словенъ,</w>
-<w n="29,21">и</w>
-<w n="29,21">Чюдь,</w>
-<w n="29,21">и</w>
-<w n="29,21">Кривичи,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="29,21">Варягъ</w>
-<w n="29,21">и</w>
-<w n="29,21">Словѣнъ</w>
-<w n="29,21">и</w>
-<w n="29,21">Чюдь</w>
-<w n="29,21">и</w>
-<w n="29,21">Кривичѣ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="29,21">варяг,</w>
-<w n="29,21">и</w>
-<w n="29,21">словенъ,</w>
-<w n="29,21">и</w>
-<w n="29,21">чюдь,</w>
-<w n="29,21">и</w>
-<w n="29,21">словене,</w>
-<w n="29,21">и</w>
-<w n="29,21">кривичи,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>29, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="29"/><div type="block" n="21"><p><app><lem wit="#lem">
+            Варягъ и Словѣнъ и Чюдь и Кривичѣ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">варягъ и словѣне чюдь кривичи</rdg>
+            <rdg wit="#rad">варѧ<hi rend="sup">г</hi>. и сло<lb/>венъ. и ч<hi rend="sup">д</hi>ю. и словене. и кривичи.</rdg>
+            <rdg wit="#aka">варегь. и словѣнъ. и ч<hi rend="sup">д</hi>ю. и словене. и крївичи.</rdg>
+            <rdg wit="#ipa">варѧ<lb/>гъ. и словѣнъ. и чюди. <lb/> и кривичи.</rdg>
+            <rdg wit="#xle">варѧгь. и слѡвень. и ч<hi rend="sup">д</hi>ю<hi rend="sup">и</hi>. и кривичи.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Варяг, и Словенъ, и Чюдь, и Кривичи,</rdg><rdg wit="#shakh">Варягъ и Словѣнъ и Чюдь и Кривичѣ</rdg><rdg wit="#likh">варяг, и словенъ, и чюдь, и словене, и кривичи,</rdg></rdgGrp></app></p></div></body></text></TEI>

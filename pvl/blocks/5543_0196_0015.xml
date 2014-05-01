@@ -1,85 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>196, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="196"/><div type="block" n="15"><p>
-<app>
-<lem wit="#lem">
-<w n="196,15">въступль</w>
-<w n="196,15">ногама</w>
-<w n="196,15">босыма,</w>
-<w n="196,15">ста</w>
-<w n="196,15">на</w>
-<w n="196,15">пламени,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="196,15">вступль</w>
-<w n="196,15">ногама</w>
-<w n="196,15">босы<lb/>ма.</w>
-<w n="196,15">ста</w>
-<w n="196,15">на</w>
-<w n="196,15">пламени.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="196,15">въстѹпле</w>
-<w n="196,15">ногама</w>
-<w n="196,15">босыма.</w>
-<w n="196,15">ста</w>
-<w n="196,15">на</w>
-<w n="196,15">пламени <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="196,15">оустѹпль</w>
-<w n="196,15">ногама</w>
-<w n="196,15">босыма.</w>
-<w n="196,15">и</w>
-<w n="196,15">ста <lb/></w>
-
-<w n="196,15">на</w>
-<w n="196,15">пламени.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="196,15">вьступле</w>
-<w n="196,15">на</w>
-<w n="196,15">пла<lb/>мень</w>
-<w n="196,15">ногама</w>
-<w n="196,15">босыма.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="196,15">въстѫпль</w>
-<w n="196,15">ногама,</w>
-<w n="196,15">босыма</w>
-<w n="196,15">ста</w>
-<w n="196,15">на</w>
-<w n="196,15">пламени.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="196,15">вступль</w>
-<w n="196,15">ногама</w>
-<w n="196,15">босыма</w>
-<w n="196,15">ста</w>
-<w n="196,15">на</w>
-<w n="196,15">пламени,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="196,15">въступль</w>
-<w n="196,15">ногама</w>
-<w n="196,15">босыма,</w>
-<w n="196,15">ста</w>
-<w n="196,15">на</w>
-<w n="196,15">пламени,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="196,15">вступль</w>
-<w n="196,15">ногама</w>
-<w n="196,15">босыма,</w>
-<w n="196,15">ста</w>
-<w n="196,15">на</w>
-<w n="196,15">пламени,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>196, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="196"/><div type="block" n="15"><p><app><lem wit="#lem">
+            въступль ногама босыма, ста на пламени,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">вступль ногама босы<lb/>ма. ста на пламени.</rdg>
+            <rdg wit="#rad">въстѹпле ногама босыма. ста на пламени <lb/></rdg>
+            <rdg wit="#aka">оустѹпль ногама босыма. и ста <lb/> на пламени.</rdg>
+            <rdg wit="#ipa">вьступле на пла<lb/>мень ногама босыма.</rdg>
+            <rdg wit="#xle">въстѫпль ногама, босыма ста на пламени.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">вступль ногама босыма ста на пламени,</rdg><rdg wit="#shakh">въступль ногама босыма, ста на пламени,</rdg><rdg wit="#likh">вступль ногама босыма, ста на пламени,</rdg></rdgGrp></app></p></div></body></text></TEI>

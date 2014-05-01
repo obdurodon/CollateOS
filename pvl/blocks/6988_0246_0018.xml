@@ -1,43 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>246, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="246"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="246,18">идеже</w>
-<w n="246,18">станете·</w>
-<w n="246,18">напоите</w>
-<w n="246,18">на<lb/>кормите·</w>
-<w n="246,18">оуне <pb n="80d"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="246,18">идеже</w>
-<w n="246,18">станете,</w>
-<w n="246,18">напойте,</w>
-<w n="246,18">накормите</w>
-<w n="246,18">уне-</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="246,18">иде</w>
-<w n="246,18">же</w>
-<w n="246,18">станете,</w>
-<w n="246,18">напойте,</w>
-<w n="246,18">накормите</w>
-<w n="246,18">уне-</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>246, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="246"/><div type="block" n="18"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">идеже станете· напоите на<lb/>кормите· оуне <pb n="80d"/></rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">идеже станете, напойте, накормите уне-</rdg><rdg wit="#likh">иде же станете, напойте, накормите уне-</rdg></rdgGrp></app></p></div></body></text></TEI>

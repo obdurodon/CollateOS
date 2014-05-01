@@ -1,87 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>268, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="268"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="268,21">повѣсиша</w>
-<w n="268,21">Лазаря</w>
-<w n="268,21">и</w>
-<w n="268,21">Василя,</w>
-<w n="268,21">и</w>
-<w n="268,21">растрѣляша</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="268,21">повѣсиша</w>
-<w n="268,21">василѧ·</w>
-<w n="268,21">и</w>
-<w n="268,21">лазарѧ·</w>
-<w n="268,21">и</w>
-<w n="268,21">растрѣлѧша <pb n="90c"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="268,21">повѣсиша·</w>
-<w n="268,21">василѧ</w>
-<w n="268,21">и</w>
-<w n="268,21">лазорѧ·</w>
-<w n="268,21">и</w>
-<w n="268,21">ра<lb/>стрелѧша</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="268,21">повѣсиша·</w>
-<w n="268,21">василѧ</w>
-<w n="268,21">и</w>
-<w n="268,21">лазо<lb/>рѧ·</w>
-<w n="268,21">и</w>
-<w n="268,21">растрелѧша</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="268,21">повѣсиша</w>
-<w n="268,21">лазорѧ· <lb/></w>
-
-<w n="268,21">и</w>
-<w n="268,21">василѧ·</w>
-<w n="268,21">и</w>
-<w n="268,21">растрѣлѧша· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="268,21">повѣсиша</w>
-<w n="268,21">лазарѧ,</w>
-<w n="268,21">и</w>
-<w n="268,21">василѧ.</w>
-<w n="268,21">и</w>
-<w n="268,21">растрѣлѧ<lb/>ше</w>
-<w n="268,21">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="268,21">повѣсиша</w>
-<w n="268,21">Василя</w>
-<w n="268,21">и</w>
-<w n="268,21">Лазаря</w>
-<w n="268,21">и</w>
-<w n="268,21">растрѣляша</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="268,21">повѣсиша</w>
-<w n="268,21">Василя</w>
-<w n="268,21">и</w>
-<w n="268,21">Лазаря,</w>
-<w n="268,21">и</w>
-<w n="268,21">растрѣляша</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="268,21">повѣсиша</w>
-<w n="268,21">Василя</w>
-<w n="268,21">и</w>
-<w n="268,21">Лазаря</w>
-<w n="268,21">и</w>
-<w n="268,21">растрѣляша</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>268, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="268"/><div type="block" n="21"><p><app><lem wit="#lem">
+            повѣсиша Лазаря и Василя, и растрѣляша
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">повѣсиша василѧ· и лазарѧ·  и растрѣлѧша <pb n="90c"/></rdg>
+            <rdg wit="#rad">повѣсиша· василѧ и лазорѧ· и ра<lb/>стрелѧша</rdg>
+            <rdg wit="#aka">повѣсиша· василѧ и лазо<lb/>рѧ· и растрелѧша</rdg>
+            <rdg wit="#ipa">повѣсиша лазорѧ· <lb/> и василѧ· и растрѣлѧша· <lb/></rdg>
+            <rdg wit="#xle">повѣсиша лазарѧ, и василѧ. и растрѣлѧ<lb/>ше и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">повѣсиша Василя и Лазаря и растрѣляша</rdg><rdg wit="#shakh">повѣсиша Василя и Лазаря, и растрѣляша</rdg><rdg wit="#likh">повѣсиша Василя и Лазаря и растрѣляша</rdg></rdgGrp></app></p></div></body></text></TEI>

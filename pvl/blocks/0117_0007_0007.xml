@@ -1,106 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>7, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="7"/><div type="block" n="7"><p>
-<app>
-<lem wit="#lem">
-<w n="7,7">озера</w>
-<w n="7,7">вънидеть</w>
-<w n="7,7">устие</w>
-<w n="7,7">въ</w>
-<w n="7,7">море</w>
-<w n="7,7">Варяжьское.</w>
-<w n="7,7">И</w>
-<w n="7,7">по</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="7,7">ѡзера</w>
-<w n="7,7">внидеть</w>
-<w n="7,7">устье</w>
-<w n="7,7">в</w>
-<w n="7,7">море <lb/></w>
-
-<w n="7,7">варѧжьское.</w>
-<w n="7,7">и</w>
-<w n="7,7">по</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="7,7">ѡзера</w>
-<w n="7,7">оустье</w>
-<w n="7,7">вниде<hi rend="sup">т</hi></w>
-<w n="7,7">в</w>
-<w n="7,7">море</w>
-<w n="7,7">варѧ<hi rend="sup">ж</hi>ское</w>
-<w n="7,7">и</w>
-<w n="7,7">по</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="7,7">ѡзера</w>
-<w n="7,7">внидетъ</w>
-<w n="7,7">оустье</w>
-<w n="7,7">в</w>
-<w n="7,7">море</w>
-<w n="7,7">варежь<lb/>ское</w>
-<w n="7,7">и</w>
-<w n="7,7">по</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="7,7">ѡзера</w>
-<w n="7,7">вниде<hi rend="sup">т</hi></w>
-<w n="7,7">оустье</w>
-<w n="7,7">в</w>
-<w n="7,7">мо<lb/>ре</w>
-<w n="7,7">варѧское.</w>
-<w n="7,7">и</w>
-<w n="7,7">по</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="7,7">ѡзера</w>
-<w n="7,7">оустье</w>
-<w n="7,7">вниде<hi rend="sup">т</hi></w>
-<w n="7,7">в <lb/></w>
-
-<w n="7,7">море</w>
-<w n="7,7">варѧ<hi rend="sup">ж</hi>ское.</w>
-<w n="7,7">и</w>
-<w n="7,7">по</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="7,7">озера</w>
-<w n="7,7">внидеть</w>
-<w n="7,7">устье</w>
-<w n="7,7">в</w>
-<w n="7,7">море</w>
-<w n="7,7">Варяжьское,</w>
-<w n="7,7">и</w>
-<w n="7,7">по</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="7,7">езера</w>
-<w n="7,7">вънидеть</w>
-<w n="7,7">устие</w>
-<w n="7,7">въ</w>
-<w n="7,7">море</w>
-<w n="7,7">Варяжьское;</w>
-<w n="7,7">и</w>
-<w n="7,7">по</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="7,7">озера</w>
-<w n="7,7">внидеть</w>
-<w n="7,7">устье</w>
-<w n="7,7">в</w>
-<w n="7,7">море</w>
-<w n="7,7">Варяжьское.</w>
-<w n="7,7">И</w>
-<w n="7,7">по</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>7, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="7"/><div type="block" n="7"><p><app><lem wit="#lem">
+            озера вънидеть устие въ море Варяжьское. И по
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѡзера внидеть устье в море <lb/> варѧжьское. и по</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">ѡзера оустье вниде<hi rend="sup">т</hi> в море варѧ<hi rend="sup">ж</hi>ское и по</rdg>
+            <rdg wit="#aka">ѡзера внидетъ оустье в море варежь<lb/>ское и по</rdg>
+            <rdg wit="#ipa">ѡзера вниде<hi rend="sup">т</hi> оустье в мо<lb/>ре варѧское. и по</rdg>
+            <rdg wit="#xle">ѡзера оустье вниде<hi rend="sup">т</hi> в <lb/> море варѧ<hi rend="sup">ж</hi>ское. и по</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">озера внидеть устье в море Варяжьское, и по</rdg><rdg wit="#shakh">езера вънидеть устие въ море Варяжьское; и по</rdg><rdg wit="#likh">озера внидеть устье в море Варяжьское. И по</rdg></rdgGrp></app></p></div></body></text></TEI>

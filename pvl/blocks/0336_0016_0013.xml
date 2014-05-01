@@ -1,88 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>16, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="16"/><div type="block" n="13"><p>
-<app>
-<lem wit="#lem">
-<w n="16,13">отьць</w>
-<w n="16,13">своихъ:</w>
-<w n="16,13">кръвь</w>
-<w n="16,13">проливати,</w>
-<w n="16,13">а</w>
-<w n="16,13">хваляще</w>
-<w n="16,13">ся</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="16,13">ѿць</w>
-<w n="16,13">свои<hi rend="sup">х</hi>.</w>
-<w n="16,13">кровь</w>
-<w n="16,13">проливати</w>
-<w n="16,13">а</w>
-<w n="16,13">хвалѧще</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="16,13">ѡц҃ь</w>
-<w n="16,13">свои<hi rend="sup">х</hi>.</w>
-<w n="16,13">кровь</w>
-<w n="16,13">проли<milestone unit="sic" n="start"/>вати<milestone unit="sic" n="end"/>:- <lb/></w>
-
-<w n="16,13">И</w>
-<w n="16,13">хвалѧще<hi rend="sup">с</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="16,13">ѿц҃ь</w>
-<w n="16,13">свои<hi rend="sup">х</hi>.</w>
-<w n="16,13">кровь</w>
-<w n="16,13">проливати.</w>
-<w n="16,13">Нахвалѧще<hi rend="sup">с</hi><lb/></w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="16,13">оц҃ь</w>
-<w n="16,13">своихъ. <lb/></w>
-
-<w n="16,13">кровь</w>
-<w n="16,13">проливати.</w>
-<w n="16,13">а</w>
-<w n="16,13">хва<lb/>лѧщесѧ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="16,13">ѡц҃ь</w>
-<w n="16,13">свои<hi rend="sup">х</hi>.</w>
-<w n="16,13">кръвь</w>
-<w n="16,13">проливати.</w>
-<w n="16,13">а</w>
-<w n="16,13">хвалѧщесѧ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="16,13">отець</w>
-<w n="16,13">своихъ:</w>
-<w n="16,13">кровь</w>
-<w n="16,13">проливати,</w>
-<w n="16,13">а</w>
-<w n="16,13">хвалящеся</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="16,13">отьць</w>
-<w n="16,13">своихъ:</w>
-<w n="16,13">кръвь</w>
-<w n="16,13">проливати,</w>
-<w n="16,13">а</w>
-<w n="16,13">хвалящеся</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="16,13">отець</w>
-<w n="16,13">своих:</w>
-<w n="16,13">кровь</w>
-<w n="16,13">проливати,</w>
-<w n="16,13">а</w>
-<w n="16,13">хвалящеся</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>16, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="16"/><div type="block" n="13"><p><app><lem wit="#lem">
+            отьць своихъ: кръвь проливати, а хваляще ся
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѿць свои<hi rend="sup">х</hi>. кровь проливати а хвалѧще</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">ѡц҃ь свои<hi rend="sup">х</hi>. кровь проли<sic>вати</sic>:- <lb/> И
+                    хвалѧще<hi rend="sup">с</hi></rdg>
+            <rdg wit="#aka">ѿц҃ь свои<hi rend="sup">х</hi>. кровь проливати. Нахвалѧще<hi rend="sup">с</hi>
+                <lb/></rdg>
+            <rdg wit="#ipa">оц҃ь своихъ. <lb/> кровь проливати. а хва<lb/>лѧщесѧ</rdg>
+            <rdg wit="#xle">ѡц҃ь свои<hi rend="sup">х</hi>. кръвь проливати. а хвалѧщесѧ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">отець своихъ: кровь проливати, а хвалящеся</rdg><rdg wit="#shakh">отьць своихъ: кръвь проливати, а хвалящеся</rdg><rdg wit="#likh">отець своих: кровь проливати, а хвалящеся</rdg></rdgGrp></app></p></div></body></text></TEI>

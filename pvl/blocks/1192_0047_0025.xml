@@ -1,76 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>47, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="47"/><div type="block" n="25"><p>
-<app>
-<lem wit="#lem">
-<w n="47,25">суть,</w>
-<w n="47,25">да</w>
-<w n="47,25">приимуть</w>
-<w n="47,25">мьсть</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="47,25">суть.</w>
-<w n="47,25">да</w>
-<w n="47,25">приимуть</w>
-<w n="47,25">ме<lb/>сть</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="47,25">есть. <lb/></w>
-
-<w n="47,25">ѿ</w>
-<w n="47,25">страны</w>
-<w n="47,25">роускиа.</w>
-<w n="47,25">да</w>
-<w n="47,25">приимоу<hi rend="sup">т</hi></w>
-<w n="47,25">месть</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="47,25">сѹть.</w>
-<w n="47,25">ѿ</w>
-<w n="47,25">страны</w>
-<w n="47,25">рѹс<hi rend="sup">с</hi>кїа.</w>
-<w n="47,25">да</w>
-<w n="47,25">прїимѹть</w>
-<w n="47,25">месть</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="47,25">суть.</w>
-<w n="47,25">да</w>
-<w n="47,25">приимуть <lb/></w>
-
-<w n="47,25">мѣсть</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="47,25">соу<hi rend="sup">т</hi>.</w>
-<w n="47,25">да</w>
-<w n="47,25">прїимоу<hi rend="sup">т</hi></w>
-<w n="47,25">месть</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="47,25">суть</w>
-<w n="47,25">отъ</w>
-<w n="47,25">страны</w>
-<w n="47,25">Рускыя,</w>
-<w n="47,25">да</w>
-<w n="47,25">приимуть</w>
-<w n="47,25">месть</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="47,25">суть,</w>
-<w n="47,25">да</w>
-<w n="47,25">приимуть</w>
-<w n="47,25">мьсть</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="47,25">суть,</w>
-<w n="47,25">да</w>
-<w n="47,25">приимуть</w>
-<w n="47,25">месть</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>47, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="47"/><div type="block" n="25"><p><app><lem wit="#lem">
+            суть, да приимуть мьсть
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">суть. да приимуть ме<lb/>сть</rdg>
+            <rdg wit="#rad">есть. <lb/> ѿ страны роускиа. да приимоу<hi rend="sup">т</hi> месть</rdg>
+            <rdg wit="#aka">сѹть. ѿ страны рѹс<hi rend="sup">с</hi>кїа. да прїимѹть месть</rdg>
+            <rdg wit="#ipa">суть. да приимуть <lb/> мѣсть</rdg>
+            <rdg wit="#xle">соу<hi rend="sup">т</hi>. да прїимоу<hi rend="sup">т</hi> месть</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">суть отъ страны Рускыя, да приимуть месть</rdg><rdg wit="#shakh">суть, да приимуть мьсть</rdg><rdg wit="#likh">суть, да приимуть месть</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,87 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>193, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="193"/><div type="block" n="26"><p>
-<app>
-<lem wit="#lem">
-<w n="193,26">дьни.</w>
-<w n="193,26">Феодосии</w>
-<w n="193,26">же,</w>
-<w n="193,26">увѣдавъ,</w>
-<w n="193,26">яко</w>
-<w n="193,26">Антонии</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="193,26">мѣста. <lb/></w>
-
-<w n="193,26">ѳеѡдосии</w>
-<w n="193,26">же</w>
-<w n="193,26">оувѣдавъ</w>
-<w n="193,26">ꙗко</w>
-<w n="193,26">а<lb/>нтонии</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="193,26">дн҃и.</w>
-<w n="193,26">феѡ<hi rend="sup">д</hi><lb/>сии</w>
-<w n="193,26">же</w>
-<w n="193,26">оувѣда<hi rend="sup">л</hi>.</w>
-<w n="193,26">ꙗко</w>
-<w n="193,26">антонии</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="193,26">дн҃и.</w>
-<w n="193,26">феѡдосии</w>
-<w n="193,26">же</w>
-<w n="193,26">оувѣдавъ. <lb/></w>
-
-<w n="193,26">ꙗко</w>
-<w n="193,26">антонїи</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="193,26">дн҃ии.</w>
-<w n="193,26">федосии</w>
-<w n="193,26">же</w>
-<w n="193,26">оувѣда.</w>
-<w n="193,26">ꙗко</w>
-<w n="193,26">антонии <lb/><pb n="71d"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="193,26">дн҃їи,</w>
-<w n="193,26">ѳеѡ<hi rend="sup">д</hi>с<hi rend="sup">о</hi>їи</w>
-<w n="193,26">же</w>
-<w n="193,26">оувѣда</w>
-<w n="193,26">яко <lb/></w>
-
-<w n="193,26">антонїи</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="193,26">дни.</w>
-<w n="193,26">Феодосий</w>
-<w n="193,26">же,</w>
-<w n="193,26">увѣдавъ,</w>
-<w n="193,26">яко</w>
-<w n="193,26">Антоний</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="193,26">дьне.</w>
-<w n="193,26">Феодосии</w>
-<w n="193,26">же,</w>
-<w n="193,26">увѣдавъ,</w>
-<w n="193,26">яко</w>
-<w n="193,26">Антонии</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="193,26">дни.</w>
-<w n="193,26">Феодосий</w>
-<w n="193,26">же,</w>
-<w n="193,26">увѣдавъ,</w>
-<w n="193,26">яко</w>
-<w n="193,26">Антоний</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>193, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="193"/><div type="block" n="26"><p><app><lem wit="#lem">
+            дьни. Феодосии же, увѣдавъ, яко Антонии
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">мѣста. <lb/> ѳеѡдосии же оувѣдавъ ꙗко а<lb/>нтонии</rdg>
+            <rdg wit="#rad">дн҃и. феѡ<hi rend="sup">д</hi><lb/>сии же оувѣда<hi rend="sup">л</hi>. ꙗко антонии</rdg>
+            <rdg wit="#aka">дн҃и. феѡдосии же оувѣдавъ. <lb/> ꙗко антонїи</rdg>
+            <rdg wit="#ipa">дн҃ии. федосии же оувѣда. ꙗко антонии <lb/><pb n="71d"/></rdg>
+            <rdg wit="#xle">дн҃їи, ѳеѡ<hi rend="sup">д</hi>с<hi rend="sup">о</hi>їи же оувѣда ꙗко <lb/> антонїи</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">дни. Феодосий же, увѣдавъ, яко Антоний</rdg><rdg wit="#shakh">дьне. Феодосии же, увѣдавъ, яко Антонии</rdg><rdg wit="#likh">дни. Феодосий же, увѣдавъ, яко Антоний</rdg></rdgGrp></app></p></div></body></text></TEI>

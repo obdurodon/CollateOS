@@ -1,85 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>240, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="240"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-<w n="240,19">въспять</w>
-<w n="240,19">Суждалю,</w>
-<w n="240,19">отътуду</w>
-<w n="240,19">прииде</w>
-<w n="240,19">къ</w>
-<w n="240,19">Новугороду</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="240,19">вспѧть</w>
-<w n="240,19">суждалю·</w>
-<w n="240,19">ѿтуду</w>
-<w n="240,19">пои<lb/>де</w>
-<w n="240,19">новугороду</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="240,19">к</w>
-<w n="240,19">соуз<hi rend="sup">д</hi>алю·</w>
-<w n="240,19">и</w>
-<w n="240,19">ѿтѹда <lb/></w>
-
-<w n="240,19">прииде</w>
-<w n="240,19">к</w>
-<w n="240,19">новѹгородѹ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="240,19">кь</w>
-<w n="240,19">сѹждалю·</w>
-<w n="240,19">ѿ<milestone unit="sic" n="start"/>тѹ<milestone unit="sic" n="end"/>да</w>
-<w n="240,19">при<lb/>иде</w>
-<w n="240,19">к</w>
-<w n="240,19">новѹгородѹ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="240,19">въ<lb/>спѧть</w>
-<w n="240,19">к</w>
-<w n="240,19">суждалю·</w>
-<w n="240,19">и</w>
-<w n="240,19">ѿтуду <lb/></w>
-
-<w n="240,19">при<hi rend="sup">ї</hi>де</w>
-<w n="240,19">новугороду</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="240,19">въспѧ<hi rend="sup">т</hi></w>
-<w n="240,19">къ</w>
-<w n="240,19">сѫж<hi rend="sup">д</hi>алю.</w>
-<w n="240,19">и</w>
-<w n="240,19">ѿтоудоу</w>
-<w n="240,19">прїиде</w>
-<w n="240,19">к</w>
-<w n="240,19">но<lb/>воуграу<hi rend="sup">д</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="240,19">вспять</w>
-<w n="240,19">Суждалю,</w>
-<w n="240,19">оттуду</w>
-<w n="240,19">поиде</w>
-<w n="240,19">Новугороду</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="240,19">въспять</w>
-<w n="240,19">Суждалю,</w>
-<w n="240,19">отътуду</w>
-<w n="240,19">приде</w>
-<w n="240,19">Новугороду,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="240,19">вспять</w>
-<w n="240,19">Суждалю,</w>
-<w n="240,19">оттуду</w>
-<w n="240,19">поиде</w>
-<w n="240,19">Новугороду</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>240, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="240"/><div type="block" n="19"><p><app><lem wit="#lem">
+            въспять Суждалю, отътуду прииде къ Новугороду
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">вспѧть суждалю· ѿтуду пои<lb/>де новугороду</rdg>
+            <rdg wit="#rad">к соуз<hi rend="sup">д</hi>алю· и ѿтѹда <lb/> прииде к новѹгородѹ.</rdg>
+            <rdg wit="#aka">кь сѹждалю· ѿ<sic>тѹ</sic>да при<lb/>иде к новѹгородѹ</rdg>
+            <rdg wit="#ipa">въ<lb/>спѧть к суждалю· и ѿтуду <lb/> при<hi rend="sup">ї</hi>де новугороду</rdg>
+            <rdg wit="#xle">въспѧ<hi rend="sup">т</hi> къ сѫж<hi rend="sup">д</hi>алю. и ѿтоудоу прїиде к
+                    но<lb/>воуграу<hi rend="sup">д</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">вспять Суждалю, оттуду поиде Новугороду</rdg><rdg wit="#shakh">въспять Суждалю, отътуду приде Новугороду,</rdg><rdg wit="#likh">вспять Суждалю, оттуду поиде Новугороду</rdg></rdgGrp></app></p></div></body></text></TEI>

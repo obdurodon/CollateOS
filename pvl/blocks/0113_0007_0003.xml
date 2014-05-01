@@ -1,104 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>7, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="7"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="7,3">Грькъ</w>
-<w n="7,3">по</w>
-<w n="7,3">Дънѣпру,</w>
-<w n="7,3">и</w>
-<w n="7,3">вьрхъ</w>
-<w n="7,3">Дънѣпра</w>
-<w n="7,3">волокъ</w>
-<w n="7,3">до</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="7,3">гре<lb/>къ</w>
-<w n="7,3">по</w>
-<w n="7,3">днѣпру.</w>
-<w n="7,3">и</w>
-<w n="7,3">верхъ</w>
-<w n="7,3">днѣпра</w>
-<w n="7,3">волокъ</w>
-<w n="7,3">до</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="7,3">гре<lb/>къ</w>
-<w n="7,3">по</w>
-<w n="7,3"><hi rend="sup">д</hi>непроу</w>
-<w n="7,3">и</w>
-<w n="7,3">верхъ</w>
-<w n="7,3">днепра</w>
-<w n="7,3">волокъ</w>
-<w n="7,3">до</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="7,3">грекъ</w>
-<w n="7,3">по</w>
-<w n="7,3">днепрѹ.</w>
-<w n="7,3">и</w>
-<w n="7,3">верхъ</w>
-<w n="7,3">днепра</w>
-<w n="7,3">волокь.</w>
-<w n="7,3">до</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="7,3">грѣкъ</w>
-<w n="7,3">по</w>
-<w n="7,3">днепру.</w>
-<w n="7,3">и</w>
-<w n="7,3">вѣ<lb/>рхъ</w>
-<w n="7,3">днѣпра</w>
-<w n="7,3">волокъ</w>
-<w n="7,3">до</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="7,3">гре<hi rend="sup">к</hi><lb/></w>
-<w n="7,3">по</w>
-<w n="7,3">днѣпроу.</w>
-<w n="7,3">и</w>
-<w n="7,3">верхь</w>
-<w n="7,3">днѣпра</w>
-<w n="7,3">волокь</w>
-<w n="7,3">до</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="7,3">Грекъ</w>
-<w n="7,3">по</w>
-<w n="7,3">Днѣпру,</w>
-<w n="7,3">и</w>
-<w n="7,3">верхъ</w>
-<w n="7,3">Днѣпра</w>
-<w n="7,3">волокъ</w>
-<w n="7,3">до</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="7,3">Грькъ</w>
-<w n="7,3">по</w>
-<w n="7,3">Дънѣпру,</w>
-<w n="7,3">и</w>
-<w n="7,3">вьрхъ</w>
-<w n="7,3">Дънѣпра</w>
-<w n="7,3">волокъ</w>
-<w n="7,3">до</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="7,3">Грекъ</w>
-<w n="7,3">по</w>
-<w n="7,3">Днѣпру,</w>
-<w n="7,3">и</w>
-<w n="7,3">верхъ</w>
-<w n="7,3">Днѣпра</w>
-<w n="7,3">волокъ</w>
-<w n="7,3">до</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>7, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="7"/><div type="block" n="3"><p><app><lem wit="#lem">
+            Грькъ по Дънѣпру, и вьрхъ Дънѣпра волокъ до
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">гре<lb/>къ по днѣпру. и верхъ днѣпра волокъ до</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">гре<lb/>къ по <hi rend="sup">д</hi>непроу и верхъ днепра волокъ до</rdg>
+            <rdg wit="#aka">грекъ по днепрѹ. и верхъ днепра волокь. до</rdg>
+            <rdg wit="#ipa">грѣкъ по днепру. и вѣ<lb/>рхъ днѣпра волокъ до</rdg>
+            <rdg wit="#xle">гре<hi rend="sup">к</hi>
+                <lb/> по днѣпроу. и верхь днѣпра волокь до</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Грекъ по Днѣпру, и верхъ Днѣпра волокъ до</rdg><rdg wit="#shakh">Грькъ по Дънѣпру, и вьрхъ Дънѣпра волокъ до</rdg><rdg wit="#likh">Грекъ по Днѣпру, и верхъ Днѣпра волокъ до</rdg></rdgGrp></app></p></div></body></text></TEI>

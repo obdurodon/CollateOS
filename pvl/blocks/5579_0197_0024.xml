@@ -1,94 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>197, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="197"/><div type="block" n="24"><p>
-<app>
-<lem wit="#lem">
-<w n="197,24">въ</w>
-<w n="197,24">видѣнии.</w>
-<w n="197,24">И</w>
-<w n="197,24">абие</w>
-<w n="197,24">погыбоша</w>
-<w n="197,24">бѣси</w>
-<w n="197,24">отъ</w>
-<w n="197,24">него,</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="197,24">въ</w>
-<w n="197,24">видѣнии.</w>
-<w n="197,24">и</w>
-<w n="197,24">абие</w>
-<w n="197,24">погибо<lb/>ша</w>
-<w n="197,24">бѣси</w>
-<w n="197,24">ѿ</w>
-<w n="197,24">него.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="197,24">во</w>
-<w n="197,24">виде<lb/>нии.</w>
-<w n="197,24">и</w>
-<w n="197,24">абие</w>
-<w n="197,24">погибоша</w>
-<w n="197,24">бѣси</w>
-<w n="197,24">ѿ</w>
-<w n="197,24">него.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="197,24">вь</w>
-<w n="197,24">видѣньи.</w>
-<w n="197,24">и</w>
-<w n="197,24">абье</w>
-<w n="197,24">погы<lb/>боша</w>
-<w n="197,24">бѣси</w>
-<w n="197,24">ѿ</w>
-<w n="197,24">него.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="197,24">въ <lb/></w>
-
-<w n="197,24">виденїи.</w>
-<w n="197,24">и</w>
-<w n="197,24">абїе</w>
-<w n="197,24">погыбоша</w>
-<w n="197,24">бѣси</w>
-<w n="197,24">ѿ</w>
-<w n="197,24">него.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="197,24">в</w>
-<w n="197,24">видѣнии”;</w>
-<w n="197,24">и</w>
-<w n="197,24">абие</w>
-<w n="197,24">погибоша</w>
-<w n="197,24">бѣси</w>
-<w n="197,24">отъ</w>
-<w n="197,24">него,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="197,24">въ</w>
-<w n="197,24">видѣнии.</w>
-<w n="197,24">И</w>
-<w n="197,24">абие</w>
-<w n="197,24">погыбоша</w>
-<w n="197,24">бѣси</w>
-<w n="197,24">отъ</w>
-<w n="197,24">него,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="197,24">в</w>
-<w n="197,24">видѣнии.</w>
-<w n="197,24">И</w>
-<w n="197,24">абие</w>
-<w n="197,24">погибоша</w>
-<w n="197,24">бѣси</w>
-<w n="197,24">от</w>
-<w n="197,24">него,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>197, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="197"/><div type="block" n="24"><p><app><lem wit="#lem">
+            въ видѣнии. И абие погыбоша бѣси отъ него,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">въ видѣнии. и абие погибо<lb/>ша бѣси ѿ него.</rdg>
+            <rdg wit="#aka">во виде<lb/>нии. и абие погибоша бѣси ѿ него.</rdg>
+            <rdg wit="#ipa">вь видѣньи. и абье погы<lb/>боша бѣси ѿ него.</rdg>
+            <rdg wit="#xle">въ <lb/> виденїи. и абїе погыбоша бѣси ѿ него.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">в видѣнии”; и абие погибоша бѣси отъ него,</rdg><rdg wit="#shakh">въ видѣнии. И абие погыбоша бѣси отъ него,</rdg><rdg wit="#likh">в видѣнии. И абие погибоша бѣси от него,</rdg></rdgGrp></app></p></div></body></text></TEI>

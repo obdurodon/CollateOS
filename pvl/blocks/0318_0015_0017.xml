@@ -1,82 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>15, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="15"/><div type="block" n="17"><p>
-<app>
-<lem wit="#lem">
-<w n="15,17">въздьржаеми</w>
-<w n="15,17">отъ</w>
-<w n="15,17">мужии</w>
-<w n="15,17">своихъ</w>
-<w n="15,17">отъниудь,</w>
-<w n="15,17">ни</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="15,17">въздержаеми.</w>
-<w n="15,17">ѿ</w>
-<w n="15,17">мужии <lb/></w>
-
-<w n="15,17">своихъ</w>
-<w n="15,17">весьма.</w>
-<w n="15,17">ли</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="15,17">воздержими</w>
-<w n="15,17">ѿ</w>
-<w n="15,17">моу<hi rend="sup">ж</hi></w>
-<w n="15,17">свои<hi rend="sup">х</hi></w>
-<w n="15,17">ѿн<hi rend="sup">д</hi>ю.</w>
-<w n="15,17">ни</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="15,17">воздержими</w>
-<w n="15,17">ѿ</w>
-<w n="15,17">мѹжь</w>
-<w n="15,17">своихъ</w>
-<w n="15,17">ѿн<hi rend="sup">д</hi>ю. <lb/></w>
-
-<w n="15,17">ни</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="15,17">въздѣр<hi rend="sup">ж</hi>а<lb/>еми</w>
-<w n="15,17">ѿ</w>
-<w n="15,17">мужии</w>
-<w n="15,17">своихъ</w>
-<w n="15,17">ѡ<lb/>тинудь.</w>
-<w n="15,17">ни</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="15,17">въздержаеми</w>
-<w n="15,17">отъ</w>
-<w n="15,17">мужий</w>
-<w n="15,17">своихъ</w>
-<w n="15,17">весьма,</w>
-<w n="15,17">ни</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="15,17">въздьржаеми</w>
-<w n="15,17">отъ</w>
-<w n="15,17">мужь</w>
-<w n="15,17">своихъ</w>
-<w n="15,17">вьсьма,</w>
-<w n="15,17">ли</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="15,17">въздержаеми</w>
-<w n="15,17">от</w>
-<w n="15,17">мужий</w>
-<w n="15,17">своихъ</w>
-<w n="15,17">весьма,</w>
-<w n="15,17">ли</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>15, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="15"/><div type="block" n="17"><p><app><lem wit="#lem">
+            въздьржаеми отъ мужии своихъ отъниудь, ни
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">въздержаеми. ѿ мужии <lb/> своихъ весьма. ли</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">воздержими ѿ моу<hi rend="sup">ж</hi> свои<hi rend="sup">х</hi> ѿн<hi rend="sup">д</hi>ю. ни</rdg>
+            <rdg wit="#aka">воздержими ѿ мѹжь своихъ ѿн<hi rend="sup">д</hi>ю. <lb/> ни</rdg>
+            <rdg wit="#ipa">въздѣр<hi rend="sup">ж</hi>а<lb/>еми ѿ мужии своихъ ѡ<lb/>тинудь. ни</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">въздержаеми отъ мужий своихъ весьма, ни</rdg><rdg wit="#shakh">въздьржаеми отъ мужь своихъ вьсьма, ли</rdg><rdg wit="#likh">въздержаеми от мужий своихъ весьма, ли</rdg></rdgGrp></app></p></div></body></text></TEI>

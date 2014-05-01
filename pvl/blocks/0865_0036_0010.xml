@@ -1,101 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>36, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="36"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-<w n="36,10">надъ</w>
-<w n="36,10">нь</w>
-<w n="36,10">челядиная</w>
-<w n="36,10">цѣна.</w>
-<w n="36,10">Тако</w>
-<w n="36,10">же</w>
-<w n="36,10">аще</w>
-<w n="36,10">отъ</w>
-<w n="36,10">рати</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="36,10">над</w>
-<w n="36,10">нь</w>
-<w n="36,10">челѧдиннаа</w>
-<w n="36,10">цѣна.</w>
-<w n="36,10">тако</w>
-<w n="36,10">же</w>
-<w n="36,10">аще</w>
-<w n="36,10">ѿ <lb/></w>
-
-<w n="36,10">рати</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="36,10">не</w>
-<w n="36,10">дан<milestone unit="sic" n="start"/>ъ<milestone unit="sic" n="end"/></w>
-<w n="36,10">челѧдїннаа</w>
-<w n="36,10">цѣна. <lb/></w>
-
-<w n="36,10">тако</w>
-<w n="36,10">же</w>
-<w n="36,10">аще</w>
-<w n="36,10">ѿ</w>
-<w n="36,10">рати</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="36,10">на</w>
-<w n="36,10">дань</w>
-<w n="36,10">челѧдинаꙗ</w>
-<w n="36,10">цѣна.</w>
-<w n="36,10">тако</w>
-<w n="36,10">же</w>
-<w n="36,10">ащ<hi rend="sup">е</hi><lb/></w>
-<w n="36,10">ѿ <lb/></w>
-
-<w n="36,10">рати <pb n="14c"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="36,10">дань</w>
-<w n="36,10">челѧдинаа</w>
-<w n="36,10">цѣна. <lb/></w>
-
-<w n="36,10">тако<hi rend="sup">ж</hi></w>
-<w n="36,10">аще</w>
-<w n="36,10">ѿ</w>
-<w n="36,10">рати</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="36,10">на</w>
-<w n="36,10">день</w>
-<w n="36,10">челядиннаа</w>
-<w n="36,10">цѣна;</w>
-<w n="36,10">такоже</w>
-<w n="36,10">аще</w>
-<w n="36,10">отъ</w>
-<w n="36,10">рати</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="36,10">надъ</w>
-<w n="36,10">нь</w>
-<w n="36,10">челядиная</w>
-<w n="36,10">цѣна.</w>
-<w n="36,10">Такоже</w>
-<w n="36,10">аще</w>
-<w n="36,10">отъ</w>
-<w n="36,10">рати</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="36,10">надань</w>
-<w n="36,10">челядиннаа</w>
-<w n="36,10">цѣна.</w>
-<w n="36,10">Тако</w>
-<w n="36,10">же</w>
-<w n="36,10">аще</w>
-<w n="36,10">от</w>
-<w n="36,10">рати</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>36, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="36"/><div type="block" n="10"><p><app><lem wit="#lem">
+            надъ нь челядиная цѣна. Тако же аще отъ рати
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">над нь челѧдиннаа цѣна. тако же аще ѿ <lb/> рати</rdg>
+            <rdg wit="#aka">не дан<sic>ъ</sic> челѧдїннаа цѣна. <lb/> тако же аще ѿ рати</rdg>
+            <rdg wit="#ipa">на дань челѧдинаꙗ цѣна. тако же ащ<hi rend="sup">е</hi>
+                <lb/> ѿ <lb/> рати <pb n="14c"/></rdg>
+            <rdg wit="#xle">дань челѧдинаа цѣна. <lb/> тако<hi rend="sup">ж</hi> аще ѿ рати</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">на день челядиннаа цѣна; такоже аще отъ рати</rdg><rdg wit="#shakh">надъ нь челядиная цѣна. Такоже аще отъ рати</rdg><rdg wit="#likh">надань челядиннаа цѣна. Тако же аще от рати</rdg></rdgGrp></app></p></div></body></text></TEI>

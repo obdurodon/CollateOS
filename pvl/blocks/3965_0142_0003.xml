@@ -1,84 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>142, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="142"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="142,3">плътьници</w>
-<w n="142,3">суще?</w>
-<w n="142,3">А</w>
-<w n="142,3">приставимъ</w>
-<w n="142,3">вы</w>
-<w n="142,3">хоромъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="142,3">плотници</w>
-<w n="142,3">су<lb/>ще.</w>
-<w n="142,3">а</w>
-<w n="142,3">приставимъ</w>
-<w n="142,3">вы</w>
-<w n="142,3">хоромо<lb/>мъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="142,3">плотници</w>
-<w n="142,3">сѹще.</w>
-<w n="142,3">да</w>
-<w n="142,3">при<lb/>ставимъ</w>
-<w n="142,3">ва<hi rend="sup">с</hi></w>
-<w n="142,3">хомовъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="142,3">плотнї<lb/>ци</w>
-<w n="142,3">сѹще.</w>
-<w n="142,3">да</w>
-<w n="142,3">приставимъ</w>
-<w n="142,3">васъ</w>
-<w n="142,3">хоромовь</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="142,3">плотници</w>
-<w n="142,3">суще.</w>
-<w n="142,3">а</w>
-<w n="142,3">при<lb/>ставимъ</w>
-<w n="142,3">вы.</w>
-<w n="142,3">хоромъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="142,3">плотници</w>
-<w n="142,3">сѫще.</w>
-<w n="142,3">да</w>
-<w n="142,3">пристави<hi rend="sup">м</hi></w>
-<w n="142,3">вы <lb/></w>
-
-<w n="142,3">роубити</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="142,3">плотници</w>
-<w n="142,3">суще?</w>
-<w n="142,3">а</w>
-<w n="142,3">приставимъ</w>
-<w n="142,3">вы</w>
-<w n="142,3">хоромовъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="142,3">плътьници</w>
-<w n="142,3">суще?</w>
-<w n="142,3">А</w>
-<w n="142,3">приставимъ</w>
-<w n="142,3">вы</w>
-<w n="142,3">хоромъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="142,3">плотници</w>
-<w n="142,3">суще?</w>
-<w n="142,3">А</w>
-<w n="142,3">приставимъ</w>
-<w n="142,3">вы</w>
-<w n="142,3">хоромовѣ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>142, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="142"/><div type="block" n="3"><p><app><lem wit="#lem">
+            плътьници суще? А приставимъ вы хоромъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">плотници су<lb/>ще. а приставимъ вы хоромо<lb/>мъ</rdg>
+            <rdg wit="#rad">плотници сѹще. да при<lb/>ставимъ ва<hi rend="sup">с</hi> хомовъ</rdg>
+            <rdg wit="#aka">плотнї<lb/>ци сѹще. да приставимъ васъ хоромовь</rdg>
+            <rdg wit="#ipa">плотници суще. а при<lb/>ставимъ вы. хоромъ</rdg>
+            <rdg wit="#xle">плотници сѫще. да пристави<hi rend="sup">м</hi> вы <lb/> роубити</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">плотници суще? а приставимъ вы хоромовъ</rdg><rdg wit="#shakh">плътьници суще? А приставимъ вы хоромъ</rdg><rdg wit="#likh">плотници суще? А приставимъ вы хоромовѣ</rdg></rdgGrp></app></p></div></body></text></TEI>

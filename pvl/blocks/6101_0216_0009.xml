@@ -1,76 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>216, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="216"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="216,9">чьрноризьцѣ,</w>
-<w n="216,9">и</w>
-<w n="216,9">подаваше</w>
-<w n="216,9">требование</w>
-<w n="216,9">имъ.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="216,9">черноризци· <lb/></w>
-
-<w n="216,9">подаꙗше</w>
-<w n="216,9">требованьѥ</w>
-<w n="216,9">имъ·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="216,9">че<lb/>рноризци·</w>
-<w n="216,9">и</w>
-<w n="216,9">подаваше</w>
-<w n="216,9">требование</w>
-<w n="216,9">имъ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="216,9">черноризци·</w>
-<w n="216,9">и</w>
-<w n="216,9">подаваше</w>
-<w n="216,9">требование</w>
-<w n="216,9">имъ· <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="216,9">чернорисцѣ·</w>
-<w n="216,9">и</w>
-<w n="216,9">подаваше <lb/></w>
-
-<w n="216,9">требованье</w>
-<w n="216,9">имъ·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="216,9">черноризци.</w>
-<w n="216,9">и</w>
-<w n="216,9">подаваше</w>
-<w n="216,9">требо<lb/>ванїе</w>
-<w n="216,9">имь.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="216,9">черноризци,</w>
-<w n="216,9">и</w>
-<w n="216,9">подаяше</w>
-<w n="216,9">требованье</w>
-<w n="216,9">имъ;</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="216,9">чьрноризьцѣ,</w>
-<w n="216,9">и</w>
-<w n="216,9">подаяше</w>
-<w n="216,9">требование</w>
-<w n="216,9">имъ;</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="216,9">черноризци,</w>
-<w n="216,9">и,</w>
-<w n="216,9">подаяше</w>
-<w n="216,9">требованье</w>
-<w n="216,9">имъ.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>216, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="216"/><div type="block" n="9"><p><app><lem wit="#lem">
+            чьрноризьцѣ, и подаваше требование имъ.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">черноризци· <lb/> подаꙗше требованьѥ имъ·</rdg>
+            <rdg wit="#rad">че<lb/>рноризци· и подаваше требование имъ.</rdg>
+            <rdg wit="#aka">черноризци· и подаваше требование имъ· <lb/></rdg>
+            <rdg wit="#ipa">чернорисцѣ· и подаваше <lb/> требованье имъ·</rdg>
+            <rdg wit="#xle">черноризци. и подаваше требо<lb/>ванїе имь.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">черноризци, и подаяше требованье имъ;</rdg><rdg wit="#shakh">чьрноризьцѣ, и подаяше требование имъ;</rdg><rdg wit="#likh">черноризци, и, подаяше требованье имъ.</rdg></rdgGrp></app></p></div></body></text></TEI>

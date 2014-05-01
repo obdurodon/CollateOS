@@ -1,89 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>30, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="30"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="30,21">Ольгъ</w>
-<w n="30,21">дань</w>
-<w n="30,21">даяти</w>
-<w n="30,21">на 2000</w>
-
-<w n="30,21">корабль,</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="30,21">олегъ</w>
-<w n="30,21">дань</w>
-<w n="30,21">даяти</w>
-<w n="30,21">на</w>
-<w n="30,21">двѣ</w>
-<w n="30,21">тысячи</w>
-<w n="30,21">кораблевъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="30,21">ѡлегъ</w>
-<w n="30,21">даꙗти</w>
-<w n="30,21">на</w>
-<w n="30,21">҂в҃.</w>
-<w n="30,21">корабль <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="30,21">ѡлегъ</w>
-<w n="30,21">да<lb/>ꙗти</w>
-<w n="30,21">на</w>
-<w n="30,21">.҂в҃.</w>
-<w n="30,21">корабль</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="30,21">ѡ<lb/>легъ</w>
-<w n="30,21">дань</w>
-<w n="30,21">даꙗти.</w>
-<w n="30,21">на</w>
-<w n="30,21">.҂в҃. <lb/></w>
-
-<w n="30,21">кораблии.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="30,21">ѡлегь</w>
-<w n="30,21">да<hi rend="sup">н</hi></w>
-<w n="30,21">даѧти <lb/></w>
-
-<w n="30,21">на</w>
-<w n="30,21">двѣ</w>
-<w n="30,21">тысѫщи</w>
-<w n="30,21">кораблеи.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="30,21">Олегъ</w>
-<w n="30,21">дань</w>
-<w n="30,21">даяти</w>
-<w n="30,21">на 2000</w>
-
-<w n="30,21">корабль,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="30,21">Ольгъ</w>
-<w n="30,21">дань</w>
-<w n="30,21">даяти</w>
-<w n="30,21">на 2000</w>
-
-<w n="30,21">корабль,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="30,21">Олегъ</w>
-<w n="30,21">дань</w>
-<w n="30,21">даяти</w>
-<w n="30,21">на 2000</w>
-
-<w n="30,21">корабль,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>30, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="30"/><div type="block" n="21"><p><app><lem wit="#lem">
+            Ольгъ дань даяти на 2000 корабль,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">олегъ дань даяти на двѣ тысячи кораблевъ</rdg>
+            <rdg wit="#rad">ѡлегъ даꙗти на ҂в҃. корабль <lb/></rdg>
+            <rdg wit="#aka">ѡлегъ да<lb/>ꙗти на .҂в҃. корабль</rdg>
+            <rdg wit="#ipa">ѡ<lb/>легъ дань даꙗти. на .҂в҃. <lb/> кораблии.</rdg>
+            <rdg wit="#xle">ѡлегь да<hi rend="sup">н</hi> даѧти <lb/> на двѣ тысѫщи кораблеи.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Олегъ дань даяти на 2000 корабль,</rdg><rdg wit="#shakh">Ольгъ дань даяти на 2000 корабль,</rdg><rdg wit="#likh">Олегъ дань даяти на 2000 корабль,</rdg></rdgGrp></app></p></div></body></text></TEI>

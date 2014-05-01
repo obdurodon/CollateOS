@@ -1,40 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>214, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="214"/><div type="block" n="24"><p>
-<app>
-<lem wit="#lem">
-<w n="214,24">погыбе.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="214,24">погыбе·:·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="214,24">погибе· <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="214,24">погибе:·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="214,24">погибе:·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="214,24">погыбе.</w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="214,24">погыбе.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="214,24">погыбе.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="214,24">погыбе.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>214, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="214"/><div type="block" n="24"><p><app><lem wit="#lem">
+            погыбе.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">погыбе·:·</rdg>
+            <rdg wit="#rad">погибе· <lb/></rdg>
+            <rdg wit="#aka">погибе:·</rdg>
+            <rdg wit="#ipa">погибе:·</rdg>
+            <rdg wit="#xle">погыбе. </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">погыбе.</rdg><rdg wit="#shakh">погыбе.</rdg><rdg wit="#likh">погыбе.</rdg></rdgGrp></app></p></div></body></text></TEI>

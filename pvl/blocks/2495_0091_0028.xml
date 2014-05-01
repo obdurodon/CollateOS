@@ -1,94 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>91, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="91"/><div type="block" n="28"><p>
-<app>
-<lem wit="#lem">
-<w n="91,28">цьсаремъ,</w>
-<w n="91,28">другымъ</w>
-<w n="91,28">храбрымъ</w>
-<w n="91,28">и</w>
-<w n="91,28">вълхвомъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="91,28">цр҃мъ.</w>
-<w n="91,28">другомъ</w>
-<w n="91,28">храбр<hi rend="sup">ы</hi><lb/>мъ</w>
-<w n="91,28">и</w>
-<w n="91,28">волъхвомъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="91,28">цр҃мъ.</w>
-<w n="91,28">дроугы<hi rend="sup">м</hi></w>
-<w n="91,28">храбромъ.</w>
-<w n="91,28">и</w>
-<w n="91,28">волъхвомъ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="91,28">ц҃ремь</w>
-<w n="91,28">дрѹгимь <lb/></w>
-
-<w n="91,28">храбромъ.</w>
-<w n="91,28">и</w>
-<w n="91,28">волхвоимъ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="91,28">цр<hi rend="sup">с</hi>емъ.</w>
-<w n="91,28">другымъ <lb/></w>
-
-<w n="91,28">храбрымъ.</w>
-<w n="91,28">и</w>
-<w n="91,28">волъхвом<hi rend="sup">ъ</hi>. <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="91,28">ц҃ре<hi rend="sup">м</hi></w>
-<w n="91,28">и</w>
-<w n="91,28">дроугы<hi rend="sup">м</hi>.</w>
-<w n="91,28">храбры<hi rend="sup">м</hi>.</w>
-<w n="91,28">и</w>
-<w n="91,28">влъхвѡ<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="91,28">цесаремь</w>
-<w n="91,28">другым</w>
-<w n="91,28">же</w>
-<w n="91,28">храбрымъ</w>
-<w n="91,28">волхвом</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="91,28">царемъ</w>
-<w n="91,28">другимь</w>
-<w n="91,28">же</w>
-<w n="91,28">храбрымъ</w>
-<w n="91,28">волхвом</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="91,28">царемъ,</w>
-<w n="91,28">другомъ</w>
-<w n="91,28">храбрымъ,</w>
-<w n="91,28">и</w>
-<w n="91,28">волъхвомъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="91,28">цѣсаремъ,</w>
-<w n="91,28">другымъ</w>
-<w n="91,28">храбромъ</w>
-<w n="91,28">и</w>
-<w n="91,28">вълхвомъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="91,28">царемъ,</w>
-<w n="91,28">другомъ</w>
-<w n="91,28">храбрымъ,</w>
-<w n="91,28">и</w>
-<w n="91,28">волъхвомъ,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>91, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="91"/><div type="block" n="28"><p><app><lem wit="#lem">
+            цьсаремъ, другымъ храбрымъ и вълхвомъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">цр҃мъ. другомъ храбр<hi rend="sup">ы</hi>
+                <lb/>мъ и волъхвомъ</rdg>
+            <rdg wit="#rad">цр҃мъ. дроугы<hi rend="sup">м</hi> храбромъ. и волъхвомъ.</rdg>
+            <rdg wit="#aka">ц҃ремь дрѹгимь <lb/> храбромъ. и волхвоимъ.</rdg>
+            <rdg wit="#ipa">цр<hi rend="sup">с</hi>емъ. другымъ <lb/> храбрымъ. и волъхвом<hi rend="sup">ъ</hi>. <lb/></rdg>
+            <rdg wit="#xle">ц҃ре<hi rend="sup">м</hi>
+                 и дроугы<hi rend="sup">м</hi>. храбры<hi rend="sup">м</hi>. и влъхвѡ<hi rend="sup">м</hi>
+                </rdg>
+            <rdg wit="#kom">цесаремь другым же храбрымъ волхвом</rdg>
+            <rdg wit="#tol">царемъ другимь же храбрымъ волхвом</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">царемъ, другомъ храбрымъ, и волъхвомъ</rdg><rdg wit="#shakh">цѣсаремъ, другымъ храбромъ и вълхвомъ</rdg><rdg wit="#likh">царемъ, другомъ храбрымъ, и волъхвомъ,</rdg></rdgGrp></app></p></div></body></text></TEI>

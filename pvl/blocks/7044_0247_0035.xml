@@ -1,51 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>247, 35</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="247"/><div type="block" n="35"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="247,35">с</w>
-<w n="247,35">половци <lb/></w>
-
-<w n="247,35">на</w>
-<w n="247,35">ѡдрьскъ</w>
-<w n="247,35">воюꙗ</w>
-<w n="247,35">та</w>
-<w n="247,35">черни<lb/>гову·</w>
-<w n="247,35">и</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="247,35">с</w>
-<w n="247,35">Половци</w>
-<w n="247,35">на</w>
-<w n="247,35">Одрьскъ,</w>
-<w n="247,35">воюя;</w>
-<w n="247,35">та</w>
-<w n="247,35">Чернигову.</w>
-<w n="247,35">И</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="247,35">с</w>
-<w n="247,35">половци</w>
-<w n="247,35">на</w>
-<w n="247,35">Одрьскъ,</w>
-<w n="247,35">воюя,</w>
-<w n="247,35">та</w>
-<w n="247,35">Чернигову.</w>
-<w n="247,35">И</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>247, 35</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="247"/><div type="block" n="35"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">с половци <lb/> на ѡдрьскъ воюꙗ та черни<lb/>гову· и</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">с Половци на Одрьскъ, воюя; та Чернигову. И</rdg><rdg wit="#likh">с половци на Одрьскъ, воюя, та Чернигову. И</rdg></rdgGrp></app></p></div></body></text></TEI>

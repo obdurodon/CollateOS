@@ -1,86 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>13, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="13"/><div type="block" n="13"><p>
-<app>
-<lem wit="#lem">
-<w n="13,13">обычаи</w>
-<w n="13,13">имѣяху:</w>
-<w n="13,13">не</w>
-<w n="13,13">хожаше</w>
-<w n="13,13">женихъ</w>
-<w n="13,13">по</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="13,13">ѡбычаи</w>
-<w n="13,13">имѧху.</w>
-<w n="13,13">не</w>
-<w n="13,13">хож<hi rend="sup">ш</hi>е<hi rend="sup">е</hi>&gt;</w>
-<w n="13,13">зѧть</w>
-<w n="13,13">по</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="13,13">обычаи</w>
-<w n="13,13">не</w>
-<w n="13,13">хожаше</w>
-<w n="13,13">зять</w>
-<w n="13,13">по</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="13,13">ѡбычаи <lb/></w>
-
-<w n="13,13">имеꙗхоу.</w>
-<w n="13,13">не</w>
-<w n="13,13">хожаше</w>
-<w n="13,13">жени<hi rend="sup">х</hi></w>
-<w n="13,13">по</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="13,13">ѡбычаи</w>
-<w n="13,13">имеꙗхѹ.</w>
-<w n="13,13">не</w>
-<w n="13,13">хожахѹ</w>
-<w n="13,13">жени<hi rend="sup">х</hi><lb/></w>
-<w n="13,13">по</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="13,13">обычаи</w>
-<w n="13,13">имѣа<lb/>ху.</w>
-<w n="13,13">не</w>
-<w n="13,13">хожаше</w>
-<w n="13,13">женихъ</w>
-<w n="13,13">п<hi rend="sup">о</hi><lb/></w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="13,13">обычай</w>
-<w n="13,13">имяху:</w>
-<w n="13,13">не</w>
-<w n="13,13">хожаше</w>
-<w n="13,13">зять</w>
-<w n="13,13">по</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="13,13">обычаи</w>
-<w n="13,13">имѣяху:</w>
-<w n="13,13">не</w>
-<w n="13,13">хожаше</w>
-<w n="13,13">зять</w>
-<w n="13,13">по</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="13,13">обычай</w>
-<w n="13,13">имяху:</w>
-<w n="13,13">не</w>
-<w n="13,13">хожаше</w>
-<w n="13,13">зять</w>
-<w n="13,13">по</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>13, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="13"/><div type="block" n="13"><p><app><lem wit="#lem">
+            обычаи имѣяху: не хожаше женихъ по
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѡбычаи имѧху. не хож<hi rend="sup">ш</hi>е<hi rend="sup">е</hi>&gt; зѧть по</rdg>
+            <rdg wit="#tro">обычаи не хожаше зять по</rdg>
+            <rdg wit="#rad">ѡбычаи <lb/> имеꙗхоу. не хожаше жени<hi rend="sup">х</hi> по</rdg>
+            <rdg wit="#aka">ѡбычаи имеꙗхѹ. не хожахѹ жени<hi rend="sup">х</hi>
+                <lb/> по</rdg>
+            <rdg wit="#ipa">обычаи имѣа<lb/>ху. не хожаше женихъ п<hi rend="sup">о</hi>
+                <lb/></rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">обычай имяху: не хожаше зять по</rdg><rdg wit="#shakh">обычаи имѣяху: не хожаше зять по</rdg><rdg wit="#likh">обычай имяху: не хожаше зять по</rdg></rdgGrp></app></p></div></body></text></TEI>

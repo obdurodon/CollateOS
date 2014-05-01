@@ -1,73 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>189, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="189"/><div type="block" n="12"><p>
-<app>
-<lem wit="#lem">
-<w n="189,12">человѣкъ,</w>
-<w n="189,12">кацѣмь</w>
-<w n="189,12">любо</w>
-<w n="189,12">недугъмь</w>
-<w n="189,12">одьржимъ,</w>
-<w n="189,12">приходяще</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="189,12">члв҃къ</w>
-<w n="189,12">кацѣ<hi rend="sup">м</hi></w>
-<w n="189,12">любо</w>
-<w n="189,12">недугомь</w>
-<w n="189,12">ѡдержи<hi rend="sup">м</hi></w>
-<w n="189,12">приходѧ<lb/>ше <pb n="64a"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="189,12">члв҃къ <lb/></w>
-
-<w n="189,12">ка<milestone unit="sic" n="start"/>ц<milestone unit="sic" n="end"/>имъ</w>
-<w n="189,12">любо</w>
-<w n="189,12">недугомъ. <lb/></w>
-
-<w n="189,12">прихожаше</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="189,12">чл҃кь.</w>
-<w n="189,12">кац<hi rend="sup">м</hi>ѣ</w>
-<w n="189,12">любо</w>
-<w n="189,12">недоуго<hi rend="sup">м</hi></w>
-<w n="189,12">ѡдръжи<hi rend="sup">м</hi><lb/></w>
-<w n="189,12">прихожааше</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="189,12">человѣкъ,</w>
-<w n="189,12">кацѣмъ</w>
-<w n="189,12">любо</w>
-<w n="189,12">недугомь</w>
-<w n="189,12">одержимъ,</w>
-<w n="189,12">приходяще</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="189,12">человѣкъ,</w>
-<w n="189,12">кацѣмь</w>
-<w n="189,12">любо</w>
-<w n="189,12">недугъмь</w>
-<w n="189,12">одьржимъ,</w>
-<w n="189,12">приходяще</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="189,12">человѣкъ,</w>
-<w n="189,12">кацѣм</w>
-<w n="189,12">любо</w>
-<w n="189,12">недугомь</w>
-<w n="189,12">одержим,</w>
-<w n="189,12">приходяще</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>189, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="189"/><div type="block" n="12"><p><app><lem wit="#lem">
+            человѣкъ, кацѣмь любо недугъмь одьржимъ, приходяще
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">члв҃къ кацѣ<hi rend="sup">м</hi> любо недугомь ѡдержи<hi rend="sup">м</hi> приходѧ<lb/>ше
+                    <pb n="64a"/></rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">члв҃къ <lb/> ка<sic>ц</sic>имъ любо недугомъ. <lb/> прихожаше</rdg>
+            <rdg wit="#xle">чл҃кь. кац<hi rend="sup">м</hi>ѣ любо недоуго<hi rend="sup">м</hi> ѡдръжи<hi rend="sup">м</hi>
+                <lb/> прихожааше</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">человѣкъ, кацѣмъ любо недугомь одержимъ, приходяще</rdg><rdg wit="#shakh">человѣкъ, кацѣмь любо недугъмь одьржимъ, приходяще</rdg><rdg wit="#likh">человѣкъ, кацѣм любо недугомь одержим, приходяще</rdg></rdgGrp></app></p></div></body></text></TEI>

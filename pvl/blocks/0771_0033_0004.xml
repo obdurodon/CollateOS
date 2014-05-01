@@ -1,86 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>33, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="33"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-<w n="33,4">иже</w>
-<w n="33,4">посълани</w>
-<w n="33,4">отъ</w>
-<w n="33,4">Ольга,</w>
-<w n="33,4">великаго</w>
-<w n="33,4">кънязя</w>
-<w n="33,4">Русьскаго,</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="33,4">иже</w>
-<w n="33,4">послани</w>
-<w n="33,4">ѿ</w>
-<w n="33,4">ѡлга</w>
-<w n="33,4">велико<hi rend="sup">г</hi></w>
-<w n="33,4">кн҃зѧ</w>
-<w n="33,4">роу<hi rend="sup">с</hi><lb/>ка<hi rend="sup">г</hi>.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="33,4">иже</w>
-<w n="33,4">посланїи</w>
-<w n="33,4">ѿ</w>
-<w n="33,4">о<lb/>лга</w>
-<w n="33,4">великого</w>
-<w n="33,4">кнѧзѧ</w>
-<w n="33,4">рѹс<hi rend="sup">с</hi>кого.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="33,4">иже</w>
-<w n="33,4">п<hi rend="sup">о</hi><lb/>слани</w>
-<w n="33,4">ѿ</w>
-<w n="33,4">ѡлга</w>
-<w n="33,4">великаго</w>
-<w n="33,4">кн<hi rend="sup">ѧ</hi><lb/>зѧ</w>
-<w n="33,4">рускаго.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="33,4">иже</w>
-<w n="33,4">послани</w>
-<w n="33,4">ѿ</w>
-<w n="33,4">олга, <lb/></w>
-
-<w n="33,4">великаго</w>
-<w n="33,4">кнѧѕѧ</w>
-<w n="33,4">роускаго.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="33,4">иже</w>
-<w n="33,4">послани</w>
-<w n="33,4">отъ</w>
-<w n="33,4">Олга,</w>
-<w n="33,4">великого</w>
-<w n="33,4">князя</w>
-<w n="33,4">Рускаго,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="33,4">иже</w>
-<w n="33,4">посълани</w>
-<w n="33,4">отъ</w>
-<w n="33,4">Ольга,</w>
-<w n="33,4">великаго</w>
-<w n="33,4">кънязя</w>
-<w n="33,4">Русьскаго,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="33,4">иже</w>
-<w n="33,4">послани</w>
-<w n="33,4">от</w>
-<w n="33,4">Олга,</w>
-<w n="33,4">великого</w>
-<w n="33,4">князя</w>
-<w n="33,4">рускаго,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>33, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="33"/><div type="block" n="4"><p><app><lem wit="#lem">
+            иже посълани отъ Ольга, великаго кънязя Русьскаго,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">иже послани ѿ ѡлга велико<hi rend="sup">г</hi> кн҃зѧ
+                роу<hi rend="sup">с</hi><lb/>ка<hi rend="sup">г</hi>.</rdg>
+            <rdg wit="#aka">иже посланїи ѿ о<lb/>лга великого кнѧзѧ рѹс<hi rend="sup">с</hi>кого.</rdg>
+            <rdg wit="#ipa">иже п<hi rend="sup">о</hi><lb/>слани ѿ ѡлга великаго кн<hi rend="sup">ѧ</hi><lb/>зѧ рускаго.</rdg>
+            <rdg wit="#xle">иже послани ѿ олга, <lb/> великаго кнѧѕѧ роускаго.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">иже послани отъ Олга, великого князя Рускаго,</rdg><rdg wit="#shakh">иже посълани отъ Ольга, великаго кънязя Русьскаго,</rdg><rdg wit="#likh">иже послани от Олга, великого князя рускаго,</rdg></rdgGrp></app></p></div></body></text></TEI>

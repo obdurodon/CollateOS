@@ -1,87 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>222, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="222"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="222,5">великъ</w>
-<w n="222,5">въ</w>
-<w n="222,5">градѣ,</w>
-<w n="222,5">грѣхъ</w>
-<w n="222,5">ради</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="222,5">в</w>
-<w n="222,5">градѣ</w>
-<w n="222,5">а</w>
-<w n="222,5">не</w>
-<w n="222,5">радость· <lb/></w>
-
-<w n="222,5">грѣхъ</w>
-<w n="222,5">ради</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="222,5">великъ</w>
-<w n="222,5">въ</w>
-<w n="222,5">градѣ.</w>
-<w n="222,5">грѣ<hi rend="sup">х</hi></w>
-<w n="222,5">ра<hi rend="sup">д</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="222,5">великь</w>
-<w n="222,5">въ</w>
-<w n="222,5">гра<lb/>дѣ·</w>
-<w n="222,5">грѣ<hi rend="sup">х</hi></w>
-<w n="222,5">ради</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="222,5">великъ· <lb/></w>
-
-<w n="222,5">оу</w>
-<w n="222,5">городѣ</w>
-<w n="222,5">грѣхъ</w>
-<w n="222,5">ради</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="222,5">великь</w>
-<w n="222,5">в</w>
-<w n="222,5">городѣ.</w>
-<w n="222,5">грѣ<hi rend="sup">х</hi></w>
-<w n="222,5">р<hi rend="sup">д</hi>а<hi rend="sup">и</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="222,5">великъ</w>
-<w n="222,5">в</w>
-<w n="222,5">градѣ,</w>
-<w n="222,5">а</w>
-<w n="222,5">не</w>
-<w n="222,5">радость,</w>
-<w n="222,5">грѣхъ</w>
-<w n="222,5">ради</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="222,5">великъ</w>
-<w n="222,5">въ</w>
-<w n="222,5">градѣ,</w>
-<w n="222,5">а</w>
-<w n="222,5">не</w>
-<w n="222,5">радость,</w>
-<w n="222,5">грѣхъ</w>
-<w n="222,5">ради</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="222,5">великъ</w>
-<w n="222,5">в</w>
-<w n="222,5">градѣ,</w>
-<w n="222,5">а</w>
-<w n="222,5">не</w>
-<w n="222,5">радость,</w>
-<w n="222,5">грѣхъ</w>
-<w n="222,5">ради</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>222, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="222"/><div type="block" n="5"><p><app><lem wit="#lem">
+            великъ въ градѣ, грѣхъ ради
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">в градѣ а не радость· <lb/> грѣхъ ради</rdg>
+            <rdg wit="#rad">великъ въ градѣ. грѣ<hi rend="sup">х</hi> ра<hi rend="sup">д</hi></rdg>
+            <rdg wit="#aka">великь въ гра<lb/>дѣ· грѣ<hi rend="sup">х</hi> ради</rdg>
+            <rdg wit="#ipa">великъ· <lb/> оу городѣ грѣхъ ради</rdg>
+            <rdg wit="#xle">великь в городѣ. грѣ<hi rend="sup">х</hi> р<hi rend="sup">д</hi>а<hi rend="sup">и</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">великъ в градѣ, а не радость, грѣхъ ради</rdg><rdg wit="#shakh">великъ въ градѣ, а не радость, грѣхъ ради</rdg><rdg wit="#likh">великъ в градѣ, а не радость, грѣхъ ради</rdg></rdgGrp></app></p></div></body></text></TEI>

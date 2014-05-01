@@ -1,74 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>208, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="208"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="208,21">бысть</w>
-<w n="208,21">цьркы</w>
-<w n="208,21">святаго</w>
-<w n="208,21">Михаила</w>
-<w n="208,21">Переяславьская</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="208,21">бы<hi rend="sup">с</hi></w>
-<w n="208,21">црк҃ы</w>
-<w n="208,21">ста<hi rend="sup">г</hi><lb/></w>
-<w n="208,21">михаила.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="208,21">бы<hi rend="sup">с</hi></w>
-<w n="208,21">црк҃ви.</w>
-<w n="208,21">ст҃го</w>
-<w n="208,21">михаила. <lb/></w>
-
-<w n="208,21">переꙗславьскаꙗ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="208,21">бы<hi rend="sup">с</hi></w>
-<w n="208,21">црк҃ви</w>
-<w n="208,21">стг҃о</w>
-<w n="208,21">михаи<lb/>ла</w>
-<w n="208,21">переꙗславьскаꙗ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="208,21">бы<hi rend="sup">с</hi></w>
-<w n="208,21">црк҃ви</w>
-<w n="208,21">ст҃го</w>
-<w n="208,21">михаила.</w>
-<w n="208,21">переꙗ<lb/>славлескиꙗ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="208,21">бы<hi rend="sup">с</hi><lb/></w>
-<w n="208,21">цр҃кви</w>
-<w n="208,21">ст҃го</w>
-<w n="208,21">михаила</w>
-<w n="208,21">переяславскыа.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="208,21">бысть</w>
-<w n="208,21">церкы</w>
-<w n="208,21">святаго</w>
-<w n="208,21">Михаила</w>
-<w n="208,21">Переяславьская</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="208,21">бысть</w>
-<w n="208,21">цьркы</w>
-<w n="208,21">святаго</w>
-<w n="208,21">Михаила</w>
-<w n="208,21">Переяславьская</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="208,21">бысть</w>
-<w n="208,21">церкы</w>
-<w n="208,21">святаго</w>
-<w n="208,21">Михаила</w>
-<w n="208,21">Переяславьская</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>208, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="208"/><div type="block" n="21"><p><app><lem wit="#lem">
+            бысть цьркы святаго Михаила Переяславьская
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">бы<hi rend="sup">с</hi> црк҃ы ста<hi rend="sup">г</hi>
+                <lb/> михаила.</rdg>
+            <rdg wit="#rad">бы<hi rend="sup">с</hi> црк҃ви. ст҃го михаила. <lb/> переꙗславьскаꙗ.</rdg>
+            <rdg wit="#aka">бы<hi rend="sup">с</hi> црк҃ви стг҃о михаи<lb/>ла переꙗславьскаꙗ.</rdg>
+            <rdg wit="#ipa">бы<hi rend="sup">с</hi> црк҃ви ст҃го михаила. переꙗ<lb/>славлескиꙗ</rdg>
+            <rdg wit="#xle">бы<hi rend="sup">с</hi>
+                <lb/> цр҃кви ст҃го михаила переꙗславскыа.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">бысть церкы святаго Михаила Переяславьская</rdg><rdg wit="#shakh">бысть цьркы святаго Михаила Переяславьская</rdg><rdg wit="#likh">бысть церкы святаго Михаила Переяславьская</rdg></rdgGrp></app></p></div></body></text></TEI>

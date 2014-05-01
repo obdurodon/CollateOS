@@ -1,95 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>49, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="49"/><div type="block" n="17"><p>
-<app>
-<lem wit="#lem">
-<w n="49,17">есть</w>
-<w n="49,17">пьрвое,</w>
-<w n="49,17">и</w>
-<w n="49,17">да</w>
-<w n="49,17">възвращають</w>
-<w n="49,17">ся</w>
-<w n="49,17">съ</w>
-<w n="49,17">съпасениемь</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="49,17">есть</w>
-<w n="49,17">преже.</w>
-<w n="49,17">и</w>
-<w n="49,17">да</w>
-<w n="49,17">возъвращаютсѧ</w>
-<w n="49,17">съ</w>
-<w n="49,17">сп<milestone unit="sic" n="start"/><hi rend="sup">с</hi>ни<milestone unit="sic" n="end"/><lb/>емъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="49,17">е<hi rend="sup">с</hi></w>
-<w n="49,17">первое <lb/></w>
-
-<w n="49,17">да</w>
-<w n="49,17">възращает<hi rend="sup">с</hi>ь</w>
-<w n="49,17">со</w>
-<w n="49,17">спн<hi rend="sup">с</hi>ие<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="49,17">есть</w>
-<w n="49,17">первое.</w>
-<w n="49,17">да</w>
-<w n="49,17">возращаетсѧ</w>
-<w n="49,17">со</w>
-<w n="49,17">спн<hi rend="sup">с</hi>їеемь <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="49,17">есть</w>
-<w n="49,17">пѣрвое.</w>
-<w n="49,17">и</w>
-<w n="49,17">да</w>
-<w n="49,17">въ<lb/>звращаютсѧ</w>
-<w n="49,17">съ</w>
-<w n="49,17">спн<hi rend="sup">с</hi>иемъ <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="49,17">е<hi rend="sup">с</hi></w>
-<w n="49,17">пръвое.</w>
-<w n="49,17">и</w>
-<w n="49,17">да <lb/></w>
-
-<w n="49,17">възвратѧтсѧ</w>
-<w n="49,17">съ</w>
-<w n="49,17">спн<hi rend="sup">с</hi>їемь</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="49,17">есть</w>
-<w n="49,17">преже,</w>
-<w n="49,17">и</w>
-<w n="49,17">да</w>
-<w n="49,17">возъвращаются</w>
-<w n="49,17">съ</w>
-<w n="49,17">спасениемъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="49,17">есть</w>
-<w n="49,17">преже,</w>
-<w n="49,17">и</w>
-<w n="49,17">да</w>
-<w n="49,17">възвращаються</w>
-<w n="49,17">съ</w>
-<w n="49,17">съпасениемь</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="49,17">есть</w>
-<w n="49,17">преже,</w>
-<w n="49,17">и</w>
-<w n="49,17">да</w>
-<w n="49,17">возъвращаются</w>
-<w n="49,17">съ</w>
-<w n="49,17">спасениемъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>49, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="49"/><div type="block" n="17"><p><app><lem wit="#lem">
+            есть пьрвое, и да възвращають ся съ съпасениемь
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">есть преже. и да возъвращаютсѧ съ сп<sic><hi rend="sup">с</hi>ни</sic><lb/>емъ</rdg>
+            <rdg wit="#rad">е<hi rend="sup">с</hi> первое <lb/> да възращает<hi rend="sup">с</hi>ь со
+                    спн<hi rend="sup">с</hi>ие<hi rend="sup">м</hi></rdg>
+            <rdg wit="#aka">есть первое. да возращаетсѧ со спн<hi rend="sup">с</hi>їеемь <lb/></rdg>
+            <rdg wit="#ipa">есть пѣрвое. и да въ<lb/>звращаютсѧ съ спн<hi rend="sup">с</hi>иемъ <lb/></rdg>
+            <rdg wit="#xle">е<hi rend="sup">с</hi> пръвое. и да <lb/> възвратѧтсѧ съ спн<hi rend="sup">с</hi>їемь</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">есть преже, и да возъвращаются съ спасениемъ</rdg><rdg wit="#shakh">есть преже, и да възвращаються съ съпасениемь</rdg><rdg wit="#likh">есть преже, и да возъвращаются съ спасениемъ</rdg></rdgGrp></app></p></div></body></text></TEI>

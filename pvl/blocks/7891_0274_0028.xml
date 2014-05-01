@@ -1,77 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>274, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="274"/><div type="block" n="28"><p>
-<app>
-<lem wit="#lem">
-<w n="274,28">кънязь,</w>
-<w n="274,28">мѣсяца</w>
-<w n="274,28">априля</w>
-<w n="274,28">въ 14</w>
-
-<w n="274,28">дьнь,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="274,28">кнѧзь·</w>
-<w n="274,28">мц<hi rend="sup">с</hi>а·</w>
-<w n="274,28">априлѧ·</w>
-<w n="274,28">въ· <lb/></w>
-
-<w n="274,28">д҃і·</w>
-<w n="274,28">дн҃ь·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="274,28">кнзь.</w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="274,28">кнз҃ь:·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="274,28">кнѧ<lb/>зь·</w>
-<w n="274,28">мц<hi rend="sup">с</hi>а·</w>
-<w n="274,28">априлѧ·</w>
-<w n="274,28">въ</w>
-<w n="274,28">·д҃і·</w>
-<w n="274,28">дн҃ь· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="274,28">кнѧ<hi rend="sup">з</hi>.</w>
-<w n="274,28">мц<hi rend="sup">с</hi>а</w>
-<w n="274,28">априлѧ <lb/></w>
-
-<w n="274,28">въ</w>
-<w n="274,28">д҃і.</w>
-<w n="274,28">дн҃ь.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="274,28">князь,</w>
-<w n="274,28">мѣсяца</w>
-<w n="274,28">априля</w>
-<w n="274,28">въ 14</w>
-
-<w n="274,28">день,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="274,28">кънязь,</w>
-<w n="274,28">мѣсяца</w>
-<w n="274,28">априля</w>
-<w n="274,28">въ 14</w>
-
-<w n="274,28">дьнь,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="274,28">князь,</w>
-<w n="274,28">мѣсяца</w>
-<w n="274,28">априля</w>
-<w n="274,28">въ 14</w>
-
-<w n="274,28">день,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>274, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="274"/><div type="block" n="28"><p><app><lem wit="#lem">
+            кънязь, мѣсяца априля въ 14 дьнь,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">кнѧзь· мц<hi rend="sup">с</hi>а· априлѧ· въ· <lb/> д҃і· дн҃ь·</rdg>
+            <rdg wit="#rad">кнзь. </rdg>
+            <rdg wit="#aka">кнз҃ь:·</rdg>
+            <rdg wit="#ipa">кнѧ<lb/>зь· мц<hi rend="sup">с</hi>а· априлѧ· въ ·д҃і· дн҃ь· <lb/></rdg>
+            <rdg wit="#xle">кнѧ<hi rend="sup">з</hi>. мц<hi rend="sup">с</hi>а априлѧ <lb/> въ д҃і. дн҃ь.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">князь, мѣсяца априля въ 14 день,</rdg><rdg wit="#shakh">кънязь, мѣсяца априля въ 14 дьнь,</rdg><rdg wit="#likh">князь, мѣсяца априля въ 14 день,</rdg></rdgGrp></app></p></div></body></text></TEI>

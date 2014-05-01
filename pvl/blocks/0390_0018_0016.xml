@@ -1,98 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="18,16">а</w>
-<w n="18,16">отъ</w>
-<w n="18,16">пьрваго</w>
-<w n="18,16">лѣта</w>
-<w n="18,16">Святославля</w>
-<w n="18,16">до</w>
-<w n="18,16">пьрваго</w>
-<w n="18,16">лѣта</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="18,16">а</w>
-<w n="18,16">ѿ</w>
-<w n="18,16">перваго</w>
-<w n="18,16">лѣ<hi rend="sup">т</hi><lb/></w>
-<w n="18,16">с҃тославлѧ</w>
-<w n="18,16">до</w>
-<w n="18,16">перваго</w>
-<w n="18,16">лѣ<hi rend="sup">т</hi></w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-<w n="18,16">а</w>
-<w n="18,16">перваго</w>
-<w n="18,16">лѣта</w>
-<w n="18,16">с҃тосла<lb/>влѧ</w>
-<w n="18,16">до</w>
-<w n="18,16">.а҃.</w>
-<w n="18,16">лѣта</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="18,16">ѿ <lb/></w>
-
-<w n="18,16">пѣрваго</w>
-<w n="18,16">лѣта</w>
-<w n="18,16">с҃тославлѧ. <lb/></w>
-
-<w n="18,16">до</w>
-<w n="18,16">пѣрваго</w>
-<w n="18,16">лѣ<hi rend="sup">т</hi><lb/></w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="18,16">а</w>
-<w n="18,16">ѿ</w>
-<w n="18,16">а҃</w>
-<w n="18,16">го.</w>
-<w n="18,16">лѣ<hi rend="sup">т</hi></w>
-<w n="18,16">с҃то<lb/>славлѧ</w>
-<w n="18,16">до</w>
-<w n="18,16">а҃</w>
-<w n="18,16">го</w>
-<w n="18,16">лѣ<hi rend="sup">т</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="18,16">а</w>
-<w n="18,16">отъ</w>
-<w n="18,16">перваго</w>
-<w n="18,16">лѣта</w>
-<w n="18,16">Святославля</w>
-<w n="18,16">до</w>
-<w n="18,16">перваго</w>
-<w n="18,16">лѣта</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="18,16">а</w>
-<w n="18,16">отъ</w>
-<w n="18,16">пьрваго</w>
-<w n="18,16">лѣта</w>
-<w n="18,16">Святославля</w>
-<w n="18,16">до</w>
-<w n="18,16">пьрваго</w>
-<w n="18,16">лѣта</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="18,16">а</w>
-<w n="18,16">от</w>
-<w n="18,16">перваго</w>
-<w n="18,16">лѣта</w>
-<w n="18,16">Святославля</w>
-<w n="18,16">до</w>
-<w n="18,16">перваго</w>
-<w n="18,16">лѣта</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="16"><p><app><lem wit="#lem">
+            а отъ пьрваго лѣта Святославля до пьрваго лѣта
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">а ѿ перваго лѣ<hi rend="sup">т</hi>
+                <lb/> с҃тославлѧ до перваго лѣ<hi rend="sup">т</hi></rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">а перваго лѣта с҃тосла<lb/>влѧ до .а҃. лѣта</rdg>
+            <rdg wit="#ipa">ѿ <lb/> пѣрваго лѣта с҃тославлѧ. <lb/> до пѣрваго лѣ<hi rend="sup">т</hi>
+                <lb/></rdg>
+            <rdg wit="#xle">а ѿ а҃ го. лѣ<hi rend="sup">т</hi> с҃то<lb/>славлѧ до а҃ го лѣ<hi rend="sup">т</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">а отъ перваго лѣта Святославля до перваго лѣта</rdg><rdg wit="#shakh">а отъ пьрваго лѣта Святославля до пьрваго лѣта</rdg><rdg wit="#likh">а от перваго лѣта Святославля до перваго лѣта</rdg></rdgGrp></app></p></div></body></text></TEI>

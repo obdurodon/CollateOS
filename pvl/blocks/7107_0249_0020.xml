@@ -1,53 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>249, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="249"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="249,20">своѥго</w>
-<w n="249,20">мѣсто</w>
-<w n="249,20">а</w>
-<w n="249,20">самъ</w>
-<w n="249,20">идо<hi rend="sup">х</hi><lb/></w>
-<w n="249,20">на</w>
-<w n="249,20">ѡц҃ѧ</w>
-<w n="249,20">своѥго</w>
-<w n="249,20">мѣсто</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="249,20">его</w>
-<w n="249,20">мѣсто,</w>
-<w n="249,20">а</w>
-<w n="249,20">самъ</w>
-<w n="249,20">идохъ</w>
-<w n="249,20">на</w>
-<w n="249,20">отця</w>
-<w n="249,20">своего</w>
-<w n="249,20">мѣсто</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="249,20">его</w>
-<w n="249,20">мѣсто,</w>
-<w n="249,20">а</w>
-<w n="249,20">самъ</w>
-<w n="249,20">идох</w>
-<w n="249,20">на</w>
-<w n="249,20">отця</w>
-<w n="249,20">своего</w>
-<w n="249,20">мѣсто</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>249, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="249"/><div type="block" n="20"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">своѥго мѣсто а самъ идо<hi rend="sup">х</hi>
+                <lb/> на ѡц҃ѧ своѥго мѣсто</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">его мѣсто, а самъ идохъ на отця своего мѣсто</rdg><rdg wit="#likh">его мѣсто, а самъ идох на отця своего мѣсто</rdg></rdgGrp></app></p></div></body></text></TEI>

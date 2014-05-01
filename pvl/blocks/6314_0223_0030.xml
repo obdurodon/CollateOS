@@ -1,76 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>223, 30</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="223"/><div type="block" n="30"><p>
-<app>
-<lem wit="#lem">
-<w n="223,30">почьтени</w>
-<w n="223,30">бывъше,</w>
-<w n="223,30">не</w>
-<w n="223,30">почьтохомъ;</w>
-<w n="223,30">освятивъше</w>
-<w n="223,30">ся,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="223,30">почтени</w>
-<w n="223,30">бы<lb/>вше</w>
-<w n="223,30">не</w>
-<w n="223,30">почтохо<hi rend="sup">м</hi>·</w>
-<w n="223,30">ѡст҃ившесѧ <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="223,30">почтени</w>
-<w n="223,30">бывше· <lb/></w>
-
-<w n="223,30">не</w>
-<w n="223,30">почтохо<hi rend="sup">м</hi>.</w>
-<w n="223,30">ѡст҃ивше<hi rend="sup">с</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="223,30">почтени</w>
-<w n="223,30">бы·̏хом</w>
-<w n="223,30">не</w>
-<w n="223,30">почто·̏хомъ· <lb/></w>
-
-<w n="223,30">ѡст҃ившесѧ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="223,30">не</w>
-<w n="223,30">почтохомъ·</w>
-<w n="223,30">ѡст҃ивь<lb/>шесѧ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="223,30">почтени</w>
-<w n="223,30">бы<lb/>вше</w>
-<w n="223,30">не</w>
-<w n="223,30">почтохо<hi rend="sup">м</hi>.</w>
-<w n="223,30">ѡст҃ившесѧ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="223,30">почтени</w>
-<w n="223,30">бывше,</w>
-<w n="223,30">не</w>
-<w n="223,30">почтохомъ;</w>
-<w n="223,30">освятившеся,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="223,30">почьтени</w>
-<w n="223,30">бывъше,</w>
-<w n="223,30">не</w>
-<w n="223,30">почьтохомъ;</w>
-<w n="223,30">освятивъшеся,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="223,30">почтени</w>
-<w n="223,30">бывше,</w>
-<w n="223,30">не</w>
-<w n="223,30">почтохом;</w>
-<w n="223,30">освятившеся,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>223, 30</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="223"/><div type="block" n="30"><p><app><lem wit="#lem">
+            почьтени бывъше, не почьтохомъ; освятивъше ся,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">почтени бы<lb/>вше не почтохо<hi rend="sup">м</hi>· ѡст҃ившесѧ <lb/></rdg>
+            <rdg wit="#rad">почтени бывше· <lb/> не почтохо<hi rend="sup">м</hi>. ѡст҃ивше<hi rend="sup">с</hi></rdg>
+            <rdg wit="#aka">почтени бы·̏хом не почто·̏хомъ· <lb/> ѡст҃ившесѧ</rdg>
+            <rdg wit="#ipa">не почтохомъ· ѡст҃ивь<lb/>шесѧ</rdg>
+            <rdg wit="#xle">почтени бы<lb/>вше не почтохо<hi rend="sup">м</hi>. ѡст҃ившесѧ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">почтени бывше, не почтохомъ; освятившеся,</rdg><rdg wit="#shakh">почьтени бывъше, не почьтохомъ; освятивъшеся,</rdg><rdg wit="#likh">почтени бывше, не почтохом; освятившеся,</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,86 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>259, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="259"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="259,9">брате,</w>
-<w n="259,9">остати;</w>
-<w n="259,9">уже</w>
-<w n="259,9">есмъ</w>
-<w n="259,9">повелѣлъ</w>
-<w n="259,9">товаромъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="259,9">ѡстати</w>
-<w n="259,9">бр<hi rend="sup">а</hi><lb/>те·</w>
-<w n="259,9">оуже</w>
-<w n="259,9">есмъ</w>
-<w n="259,9">повелѣлъ</w>
-<w n="259,9">това<lb/>ровамъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="259,9">бра<hi rend="sup">т</hi></w>
-<w n="259,9">ѡстати·</w>
-<w n="259,9">оуже</w>
-<w n="259,9">есми</w>
-<w n="259,9">велѣ<lb/>лъ</w>
-<w n="259,9">товаро<hi rend="sup">м</hi>·</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="259,9">брате</w>
-<w n="259,9">ѡстати· <lb/></w>
-
-<w n="259,9">оуже</w>
-<w n="259,9">есми</w>
-<w n="259,9">велѣлъ</w>
-<w n="259,9">товаромъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="259,9">брате</w>
-<w n="259,9">ѡстати</w>
-<w n="259,9">оуже <lb/></w>
-
-<w n="259,9">есмь</w>
-<w n="259,9">повелѣ<hi rend="sup">л</hi></w>
-<w n="259,9">товаромъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="259,9">брате <lb/></w>
-
-<w n="259,9">ѡстати.</w>
-<w n="259,9">оуже</w>
-<w n="259,9">есмь</w>
-<w n="259,9">повел<hi rend="sup">л</hi>ѣ</w>
-<w n="259,9">товарѡ<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="259,9">остати,</w>
-<w n="259,9">брате;</w>
-<w n="259,9">уже</w>
-<w n="259,9">есмъ</w>
-<w n="259,9">повелѣлъ</w>
-<w n="259,9">товаромъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="259,9">остати,</w>
-<w n="259,9">брате;</w>
-<w n="259,9">уже</w>
-<w n="259,9">есмъ</w>
-<w n="259,9">повелѣлъ</w>
-<w n="259,9">товаромъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="259,9">остати,</w>
-<w n="259,9">брате;</w>
-<w n="259,9">уже</w>
-<w n="259,9">есмъ</w>
-<w n="259,9">повелѣлъ</w>
-<w n="259,9">товаромъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>259, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="259"/><div type="block" n="9"><p><app><lem wit="#lem">
+            брате, остати; уже есмъ повелѣлъ товаромъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѡстати бр<hi rend="sup">а</hi><lb/>те· оуже есмъ повелѣлъ това<lb/>ровамъ</rdg>
+            <rdg wit="#rad">бра<hi rend="sup">т</hi> ѡстати· оуже есми велѣ<lb/>лъ товаро<hi rend="sup">м</hi>·</rdg>
+            <rdg wit="#aka">брате ѡстати· <lb/> оуже есми велѣлъ товаромъ</rdg>
+            <rdg wit="#ipa">брате ѡстати оуже <lb/> есмь повелѣ<hi rend="sup">л</hi> товаромъ</rdg>
+            <rdg wit="#xle">брате <lb/> ѡстати. оуже есмь повел<hi rend="sup">л</hi>ѣ товарѡ<hi rend="sup">м</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">остати, брате; уже есмъ повелѣлъ товаромъ</rdg><rdg wit="#shakh">остати, брате; уже есмъ повелѣлъ товаромъ</rdg><rdg wit="#likh">остати, брате; уже есмъ повелѣлъ товаромъ</rdg></rdgGrp></app></p></div></body></text></TEI>

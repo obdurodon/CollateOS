@@ -1,54 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>245, 37</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="245"/><div type="block" n="37"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="245,37">и</w>
-<w n="245,37">въ</w>
-<w n="245,37">оумѣ·</w>
-<w n="245,37">но</w>
-<w n="245,37">рцѣмъ</w>
-<w n="245,37">смр҃тни</w>
-<w n="245,37">ѥсмы·</w>
-<w n="245,37">дн<hi rend="sup">с</hi>ь</w>
-<w n="245,37">живи <lb/><pb n="80c"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="245,37">и</w>
-<w n="245,37">въ</w>
-<w n="245,37">умѣ,</w>
-<w n="245,37">но</w>
-<w n="245,37">рцѣмъ:</w>
-<w n="245,37">смертни</w>
-<w n="245,37">есмы,</w>
-<w n="245,37">днесь</w>
-<w n="245,37">живи,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="245,37">и</w>
-<w n="245,37">въ</w>
-<w n="245,37">умѣ,</w>
-<w n="245,37">но</w>
-<w n="245,37">рцѣм:</w>
-<w n="245,37">смертни</w>
-<w n="245,37">есмы,</w>
-<w n="245,37">днесь</w>
-<w n="245,37">живи,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>245, 37</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="245"/><div type="block" n="37"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и въ оумѣ· но  рцѣмъ смр҃тни ѥсмы· дн<hi rend="sup">с</hi>ь живи
+                    <lb/><pb n="80c"/></rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и въ умѣ, но рцѣмъ: смертни есмы, днесь живи,</rdg><rdg wit="#likh">и въ умѣ, но рцѣм: смертни есмы, днесь живи,</rdg></rdgGrp></app></p></div></body></text></TEI>

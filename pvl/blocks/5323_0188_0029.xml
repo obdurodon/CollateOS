@@ -1,64 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>188, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="188"/><div type="block" n="29"><p>
-<app>
-<lem wit="#lem">
-<w n="188,29">утѣшаху,</w>
-<w n="188,29">и</w>
-<w n="188,29">епитемию</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="188,29">оутѣша<lb/>ху</w>
-<w n="188,29">и</w>
-<w n="188,29">епитемью.</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="188,29">оутѣшаху</w>
-<w n="188,29">и.</w>
-<w n="188,29">и</w>
-<w n="188,29">епи<lb/>темью</w>
-<w n="188,29">единого</w>
-<w n="188,29">брата.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="188,29">оутѣшахѫ</w>
-<w n="188,29">его.</w>
-<w n="188,29">и <lb/></w>
-
-<w n="188,29">епетемїю</w>
-<w n="188,29">единаго</w>
-<w n="188,29">брата</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="188,29">утѣшаху,</w>
-<w n="188,29">и</w>
-<w n="188,29">епитемью</w>
-<w n="188,29">единого</w>
-<w n="188,29">брата</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="188,29">утѣшаху</w>
-<w n="188,29">и,</w>
-<w n="188,29">и</w>
-<w n="188,29">епитемию</w>
-<w n="188,29">единого</w>
-<w n="188,29">брата</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="188,29">утѣшаху,</w>
-<w n="188,29">и</w>
-<w n="188,29">епитемью</w>
-<w n="188,29">единого</w>
-<w n="188,29">брата</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>188, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="188"/><div type="block" n="29"><p><app><lem wit="#lem">
+            утѣшаху, и епитемию
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">оутѣша<lb/>ху и епитемью.</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">оутѣшаху и. и епи<lb/>темью единого брата.</rdg>
+            <rdg wit="#xle">оутѣшахѫ его. и <lb/> епетемїю единаго брата</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">утѣшаху, и епитемью единого брата</rdg><rdg wit="#shakh">утѣшаху и, и епитемию единого брата</rdg><rdg wit="#likh">утѣшаху, и епитемью единого брата</rdg></rdgGrp></app></p></div></body></text></TEI>

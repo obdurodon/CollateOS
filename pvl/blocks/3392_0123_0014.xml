@@ -1,95 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>123, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="123"/><div type="block" n="14"><p>
-<app>
-<lem wit="#lem">
-<w n="123,14">ему</w>
-<w n="123,14">Володимиръ:</w>
-<w n="123,14">“Можеши</w>
-<w n="123,14">ся</w>
-<w n="123,14">съ</w>
-<w n="123,14">нимь</w>
-<w n="123,14">бороти”.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="123,14">ѥму</w>
-<w n="123,14">володимеръ.</w>
-<w n="123,14">може<lb/>ши</w>
-<w n="123,14">сѧ</w>
-<w n="123,14">с</w>
-<w n="123,14">ни</w>
-<w n="123,14">бороти.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="123,14">емоу</w>
-<w n="123,14">володимиръ.</w>
-<w n="123,14">можеши</w>
-<w n="123,14">с</w>
-<w n="123,14">нимъ</w>
-<w n="123,14">бороти</w>
-<w n="123,14">сѧ. <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="123,14">емѹ</w>
-<w n="123,14">володимї<lb/>ръ.</w>
-<w n="123,14">можеши</w>
-<w n="123,14">с</w>
-<w n="123,14">нимъ</w>
-<w n="123,14">бороти</w>
-<w n="123,14">сѧ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="123,14">ему</w>
-<w n="123,14">володимѣръ.</w>
-<w n="123,14">мож<hi rend="sup">с</hi>е<hi rend="sup">ь</hi></w>
-<w n="123,14">сѧ <lb/><milestone unit="sic" n="start"/>ли<milestone unit="sic" n="end"/></w>
-
-<w n="123,14">с</w>
-<w n="123,14">нимь</w>
-<w n="123,14">борити.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="123,14">емоу</w>
-<w n="123,14">вол<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>мерь,</w>
-<w n="123,14">можеши</w>
-<w n="123,14">сѧ <lb/></w>
-
-<w n="123,14">с</w>
-<w n="123,14">ни<hi rend="sup">м</hi></w>
-<w n="123,14">бороти.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="123,14">ему</w>
-<w n="123,14">Володимеръ:</w>
-<w n="123,14">“можеши</w>
-<w n="123,14">ся</w>
-<w n="123,14">с</w>
-<w n="123,14">нимъ</w>
-<w n="123,14">бороти”.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="123,14">ему</w>
-<w n="123,14">Володимеръ:</w>
-<w n="123,14">“можеши</w>
-<w n="123,14">ся</w>
-<w n="123,14">съ</w>
-<w n="123,14">нимь</w>
-<w n="123,14">бороти”.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="123,14">ему</w>
-<w n="123,14">Володимеръ:</w>
-<w n="123,14">“Можеши</w>
-<w n="123,14">ся</w>
-<w n="123,14">с</w>
-<w n="123,14">нимъ</w>
-<w n="123,14">бороти”.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>123, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="123"/><div type="block" n="14"><p><app><lem wit="#lem">
+            ему Володимиръ: “Можеши ся съ нимь бороти”.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѥму володимеръ. може<lb/>ши сѧ с ни бороти.</rdg>
+            <rdg wit="#rad">емоу володимиръ. можеши с нимъ бороти сѧ. <lb/></rdg>
+            <rdg wit="#aka">емѹ володимї<lb/>ръ. можеши с нимъ бороти сѧ.</rdg>
+            <rdg wit="#ipa">ему володимѣръ. мож<hi rend="sup">с</hi>е<hi rend="sup">ь</hi> сѧ <lb/><sic>ли</sic> с нимь
+                борити.</rdg>
+            <rdg wit="#xle">емоу вол<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>мерь, можеши сѧ <lb/> с ни<hi rend="sup">м</hi>
+                бороти.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">ему Володимеръ: “можеши ся с нимъ бороти”.</rdg><rdg wit="#shakh">ему Володимеръ: “можеши ся съ нимь бороти”.</rdg><rdg wit="#likh">ему Володимеръ: “Можеши ся с нимъ бороти”.</rdg></rdgGrp></app></p></div></body></text></TEI>

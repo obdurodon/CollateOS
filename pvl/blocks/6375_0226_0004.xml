@@ -1,84 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>226, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="226"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-<w n="226,4">и</w>
-<w n="226,4">поя</w>
-<w n="226,4">собѣ</w>
-<w n="226,4">жену</w>
-<w n="226,4">дъщерь</w>
-<w n="226,4">Тугортъканю,</w>
-<w n="226,4">кънязя</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="226,4">и</w>
-<w n="226,4">поꙗ</w>
-<w n="226,4">собѣ <lb/></w>
-
-<w n="226,4">женѹ</w>
-<w n="226,4">дщерь</w>
-<w n="226,4">тѹгорканю·</w>
-<w n="226,4">кн҃зѧ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="226,4">и</w>
-<w n="226,4">поѧ</w>
-<w n="226,4">собѣ</w>
-<w n="226,4">женѹ·</w>
-<w n="226,4">дщерь</w>
-<w n="226,4">тѹгорканю·</w>
-<w n="226,4">кнз҃ѧ <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="226,4">ї</w>
-<w n="226,4">поꙗ</w>
-<w n="226,4">же<lb/>ну</w>
-<w n="226,4">дщерь</w>
-<w n="226,4">тугортоканю·</w>
-<w n="226,4">кнѧ<lb/>зѧ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="226,4">и</w>
-<w n="226,4">поѧ</w>
-<w n="226,4">женоу,</w>
-<w n="226,4">тогоръ<hi rend="sup">т</hi><lb/>каню.</w>
-<w n="226,4">кнѧѕѧ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="226,4">и</w>
-<w n="226,4">поя</w>
-<w n="226,4">собѣ</w>
-<w n="226,4">жену</w>
-<w n="226,4">дщерь</w>
-<w n="226,4">Тугорканю,</w>
-<w n="226,4">князя</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="226,4">и</w>
-<w n="226,4">поя</w>
-<w n="226,4">собѣ</w>
-<w n="226,4">жену</w>
-<w n="226,4">дъщерь</w>
-<w n="226,4">Тугортъканю,</w>
-<w n="226,4">кънязя</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="226,4">и</w>
-<w n="226,4">поя</w>
-<w n="226,4">собѣ</w>
-<w n="226,4">жену</w>
-<w n="226,4">дщерь</w>
-<w n="226,4">Тугорканю,</w>
-<w n="226,4">князя</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>226, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="226"/><div type="block" n="4"><p><app><lem wit="#lem">
+            и поя собѣ жену дъщерь Тугортъканю, кънязя
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">и поꙗ собѣ <lb/> женѹ дщерь тѹгорканю· кн҃зѧ</rdg>
+            <rdg wit="#aka">и поѧ собѣ женѹ· дщерь тѹгорканю· кнз҃ѧ <lb/></rdg>
+            <rdg wit="#ipa">ї поꙗ же<lb/>ну дщерь тугортоканю· кнѧ<lb/>зѧ</rdg>
+            <rdg wit="#xle">и поѧ женоу, тогоръ<hi rend="sup">т</hi><lb/>каню. кнѧѕѧ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и поя собѣ жену дщерь Тугорканю, князя</rdg><rdg wit="#shakh">и поя собѣ жену дъщерь Тугортъканю, кънязя</rdg><rdg wit="#likh">и поя собѣ жену дщерь Тугорканю, князя</rdg></rdgGrp></app></p></div></body></text></TEI>

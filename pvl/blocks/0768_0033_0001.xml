@@ -1,75 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>33, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="33"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="33,1">Русьскаго,</w>
-<w n="33,1">Карлы,</w>
-<w n="33,1">Иньгелдъ,</w>
-<w n="33,1">Фарлофъ,</w>
-<w n="33,1">Верьмудъ,</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="33,1">рѹ<hi rend="sup">с</hi><lb/>ка<hi rend="sup">г</hi>.</w>
-<w n="33,1">карлы.</w>
-<w n="33,1">инегелдъ.</w>
-<w n="33,1">фарло<hi rend="sup">ѳ</hi>.</w>
-<w n="33,1">веремоу<hi rend="sup">д</hi>.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="33,1">рѹс<hi rend="sup">с</hi>каго.</w>
-<w n="33,1">карлы. <lb/></w>
-
-<w n="33,1">инегелдъ.</w>
-<w n="33,1">фарлоѳъ.</w>
-<w n="33,1">веремѹдъ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="33,1">рускаго.</w>
-<w n="33,1">карлы</w>
-<w n="33,1">инеге<lb/>лдъ.</w>
-<w n="33,1">фарлофъ.</w>
-<w n="33,1">веремудъ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="33,1">роу<hi rend="sup">с</hi>каго.</w>
-<w n="33,1">карлы <lb/></w>
-
-<w n="33,1">инегелдь.</w>
-<w n="33,1">фарлоѳь.</w>
-<w n="33,1">и</w>
-<w n="33,1">веремоу<hi rend="sup">д</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="33,1">Рускаго,</w>
-<w n="33,1">Карлы,</w>
-<w n="33,1">Инегелдъ,</w>
-<w n="33,1">Фарлоѳъ,</w>
-<w n="33,1">Веремудъ, <pb n="32,7"/></w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="33,1">Русьскаго:</w>
-<w n="33,1">Карлы,</w>
-<w n="33,1">Иньгелдъ,</w>
-<w n="33,1">Фарлофъ,</w>
-<w n="33,1">Верьмудъ, <pb n="33,12"/></w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="33,1">рускаго,</w>
-<w n="33,1">Карлы,</w>
-<w n="33,1">Инегелдъ,</w>
-<w n="33,1">Фарлоф,</w>
-<w n="33,1">Веремуд, <pb n="25,32"/></w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>33, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="33"/><div type="block" n="1"><p><app><lem wit="#lem">
+            Русьскаго, Карлы, Иньгелдъ, Фарлофъ, Верьмудъ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">рѹ<hi rend="sup">с</hi><lb/>ка<hi rend="sup">г</hi>. карлы. инегелдъ. фарло<hi rend="sup">ѳ</hi>.
+                    веремоу<hi rend="sup">д</hi>.</rdg>
+            <rdg wit="#aka">рѹс<hi rend="sup">с</hi>каго. карлы. <lb/> инегелдъ. фарлоѳъ. веремѹдъ.</rdg>
+            <rdg wit="#ipa">рускаго. карлы инеге<lb/>лдъ. фарлофъ. веремудъ.</rdg>
+            <rdg wit="#xle">роу<hi rend="sup">с</hi>каго. карлы <lb/> инегелдь. фарлоѳь. и веремоу<hi rend="sup">д</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Рускаго, Карлы, Инегелдъ, Фарлоѳъ, Веремудъ, <pb n="32,7"/></rdg><rdg wit="#shakh">Русьскаго: Карлы, Иньгелдъ, Фарлофъ, Верьмудъ, <pb n="33,12"/></rdg><rdg wit="#likh">рускаго, Карлы, Инегелдъ, Фарлоф, Веремуд, <pb n="25,32"/></rdg></rdgGrp></app></p></div></body></text></TEI>

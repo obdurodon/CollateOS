@@ -1,89 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>194, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="194"/><div type="block" n="15"><p>
-<app>
-<lem wit="#lem">
-<w n="194,15">творяше</w>
-<w n="194,15">надъ</w>
-<w n="194,15">нимь</w>
-<w n="194,15">нощь</w>
-<w n="194,15">и</w>
-<w n="194,15">дьнь,</w>
-<w n="194,15">доньдеже</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="194,15">творѧше</w>
-<w n="194,15">над</w>
-<w n="194,15">нимь</w>
-<w n="194,15">дн҃ь</w>
-<w n="194,15">и</w>
-<w n="194,15">нощь. <lb/></w>
-
-<w n="194,15">дондеже</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="194,15">дн҃ь <lb/></w>
-
-<w n="194,15">и</w>
-<w n="194,15">нощь.</w>
-<w n="194,15">ѡлны</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="194,15">де<lb/>нь</w>
-<w n="194,15">и</w>
-<w n="194,15">нощь.</w>
-<w n="194,15">ѡлны</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="194,15">творѧшеть</w>
-<w n="194,15">над</w>
-<w n="194,15">ни<lb/>мь.</w>
-<w n="194,15">нощь</w>
-<w n="194,15">и</w>
-<w n="194,15">дн҃ь.</w>
-<w n="194,15">дондеже</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="194,15">творѧше</w>
-<w n="194,15">на<hi rend="sup">д</hi></w>
-<w n="194,15">ни<hi rend="sup">м</hi>.</w>
-<w n="194,15">нощь</w>
-<w n="194,15">и</w>
-<w n="194,15">дн҃ь.</w>
-<w n="194,15">до<hi rend="sup">н</hi>де<hi rend="sup">ж</hi><lb/></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="194,15">творяше</w>
-<w n="194,15">над</w>
-<w n="194,15">нимь</w>
-<w n="194,15">день</w>
-<w n="194,15">и</w>
-<w n="194,15">нощь,</w>
-<w n="194,15">дондеже</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="194,15">творяше</w>
-<w n="194,15">надъ</w>
-<w n="194,15">нимь</w>
-<w n="194,15">дьнь</w>
-<w n="194,15">и</w>
-<w n="194,15">нощь,</w>
-<w n="194,15">доньдеже</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="194,15">творяше</w>
-<w n="194,15">над</w>
-<w n="194,15">нимь</w>
-<w n="194,15">день</w>
-<w n="194,15">и</w>
-<w n="194,15">нощь,</w>
-<w n="194,15">донде</w>
-<w n="194,15">же</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>194, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="194"/><div type="block" n="15"><p><app><lem wit="#lem">
+            творяше надъ нимь нощь и дьнь, доньдеже
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">творѧше над нимь дн҃ь и нощь. <lb/> дондеже</rdg>
+            <rdg wit="#rad">дн҃ь <lb/> и нощь. ѡлны</rdg>
+            <rdg wit="#aka">де<lb/>нь и нощь. ѡлны</rdg>
+            <rdg wit="#ipa">творѧшеть над ни<lb/>мь. нощь и дн҃ь. дондеже</rdg>
+            <rdg wit="#xle">творѧше на<hi rend="sup">д</hi> ни<hi rend="sup">м</hi>. нощь и дн҃ь. до<hi rend="sup">н</hi>де<hi rend="sup">ж</hi>
+                <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">творяше над нимь день и нощь, дондеже</rdg><rdg wit="#shakh">творяше надъ нимь дьнь и нощь, доньдеже</rdg><rdg wit="#likh">творяше над нимь день и нощь, донде же</rdg></rdgGrp></app></p></div></body></text></TEI>

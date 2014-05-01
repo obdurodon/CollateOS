@@ -1,69 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>286, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="286"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="286,1">Игуменъ</w>
-<w n="286,1">Силивестръ</w>
-<w n="286,1">святаго</w>
-<w n="286,1">Михаила</w>
-<w n="286,1">написахъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="286,1">Игуменъ</w>
-<w n="286,1">силивестръ</w>
-<w n="286,1">ста<hi rend="sup">г</hi></w>
-<w n="286,1">ми<lb/>хаила·</w>
-<w n="286,1">написа<hi rend="sup">х</hi></w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="286,1">гоуменъ</w>
-<w n="286,1">ст҃го</w>
-<w n="286,1">михаила. <lb/></w>
-
-<w n="286,1">селиверстъ.</w>
-<w n="286,1">написа<hi rend="sup">х</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="286,1">Игѹменъ</w>
-<w n="286,1">ст҃го</w>
-<w n="286,1">михаила</w>
-<w n="286,1">се·̏ливестръ <lb/></w>
-
-<w n="286,1">написа<hi rend="sup">х</hi></w>
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="286,1">Игуменъ</w>
-<w n="286,1">Силивестръ</w>
-<w n="286,1">святаго</w>
-<w n="286,1">Михаила</w>
-<w n="286,1">написахъ</w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="286,1">Игуменъ</w>
-<w n="286,1">Силивестръ</w>
-<w n="286,1">святаго</w>
-<w n="286,1">Михаила</w>
-<w n="286,1">написахъ</w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="286,1">Игуменъ</w>
-<w n="286,1">Силивестръ</w>
-<w n="286,1">святаго</w>
-<w n="286,1">Михаила</w>
-<w n="286,1">написах</w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>286, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="286"/><div type="block" n="1"><p><app><lem wit="#lem">
+            Игуменъ Силивестръ святаго Михаила написахъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">Игуменъ силивестръ ста<hi rend="sup">г</hi> ми<lb/>хаила· написа<hi rend="sup">х</hi></rdg>
+            <rdg wit="#rad">гоуменъ ст҃го михаила. <lb/> селиверстъ. написа<hi rend="sup">х</hi></rdg>
+            <rdg wit="#aka">Игѹменъ ст҃го михаила се·̏ливестръ <lb/> написа<hi rend="sup">х</hi></rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Игуменъ Силивестръ святаго Михаила написахъ <add place="margin">274,15</add></rdg><rdg wit="#shakh">Игуменъ Силивестръ святаго Михаила написахъ <add place="margin">332,10</add></rdg><rdg wit="#likh">Игуменъ Силивестръ святаго Михаила написах <add place="margin">188,19</add></rdg></rdgGrp></app></p></div></body></text></TEI>

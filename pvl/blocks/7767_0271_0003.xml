@@ -1,79 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="271"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="271,3">повѣда</w>
-<w n="271,3">Давыдови,</w>
-<w n="271,3">яко</w>
-<w n="271,3">“Побѣда</w>
-<w n="271,3">ны</w>
-<w n="271,3">есть</w>
-<w n="271,3">на</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="271,3">повѣда</w>
-<w n="271,3">двд҃ви·</w>
-<w n="271,3">ꙗко</w>
-<w n="271,3">побѣда</w>
-<w n="271,3">ны <lb/></w>
-
-<w n="271,3">е<hi rend="sup">с</hi></w>
-<w n="271,3">на</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="271,3">повѣда</w>
-<w n="271,3">да<lb/>выдови·</w>
-<w n="271,3">ꙗко</w>
-<w n="271,3">по<milestone unit="sic" n="start"/>б<milestone unit="sic" n="end"/>ѣда</w>
-<w n="271,3">ны</w>
-<w n="271,3">е<lb/>сть</w>
-<w n="271,3">на</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="271,3">повѣда</w>
-<w n="271,3">дв҃дви,</w>
-<w n="271,3">яко</w>
-<w n="271,3">побѣда</w>
-<w n="271,3">ны</w>
-<w n="271,3">е<hi rend="sup">с</hi></w>
-<w n="271,3">на</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="271,3">повѣда</w>
-<w n="271,3">Давыдови,</w>
-<w n="271,3">яко</w>
-<w n="271,3">“побѣда</w>
-<w n="271,3">ны</w>
-<w n="271,3">есть</w>
-<w n="271,3">на</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="271,3">повѣда</w>
-<w n="271,3">Давыдови,</w>
-<w n="271,3">яко</w>
-<w n="271,3">“побѣда</w>
-<w n="271,3">ны</w>
-<w n="271,3">есть</w>
-<w n="271,3">на</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="271,3">повѣда</w>
-<w n="271,3">Давыдови,</w>
-<w n="271,3">яко</w>
-<w n="271,3">“Побѣда</w>
-<w n="271,3">ны</w>
-<w n="271,3">есть</w>
-<w n="271,3">на</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="271"/><div type="block" n="3"><p><app><lem wit="#lem">
+            повѣда Давыдови, яко “Побѣда ны есть на
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">повѣда двд҃ви· ꙗко побѣда ны <lb/> е<hi rend="sup">с</hi> на</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">повѣда да<lb/>выдови· ꙗко по<sic>б</sic>ѣда ны е<lb/>сть на</rdg>
+            <rdg wit="#xle">повѣда дв҃дви, ꙗко побѣда ны е<hi rend="sup">с</hi> на</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">повѣда Давыдови, яко “побѣда ны есть на</rdg><rdg wit="#shakh">повѣда Давыдови, яко “побѣда ны есть на</rdg><rdg wit="#likh">повѣда Давыдови, яко “Побѣда ны есть на</rdg></rdgGrp></app></p></div></body></text></TEI>

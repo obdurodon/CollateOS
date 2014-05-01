@@ -1,77 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>65, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="65"/><div type="block" n="11"><p>
-<app>
-<lem wit="#lem">
-<w n="65,11">и</w>
-<w n="65,11">Касогы.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="65,11">и</w>
-<w n="65,11">касогы.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="65,11">и</w>
-<w n="65,11">касогы:- <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="65,11">и</w>
-<w n="65,11">косагы:·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="65,11">и</w>
-<w n="65,11">касогы.</w>
-<w n="65,11">и</w>
-<w n="65,11">приде</w>
-<w n="65,11">къ</w>
-<w n="65,11">киеву·:· <lb/><pb n="26a"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="65,11">и</w>
-<w n="65,11">касоги.</w>
-<w n="65,11">и</w>
-<w n="65,11">прїиде</w>
-<w n="65,11">къ</w>
-<w n="65,11">кїевоу.</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="65,11">и</w>
-<w n="65,11">касогы</w>
-<w n="65,11">и</w>
-<w n="65,11">приведе</w>
-<w n="65,11">кыеву</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="65,11">и</w>
-<w n="65,11">касоги</w>
-<w n="65,11">и</w>
-<w n="65,11">приведе</w>
-<w n="65,11">къ</w>
-<w n="65,11">кыеву</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="65,11">и</w>
-<w n="65,11">Касогы.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="65,11">и</w>
-<w n="65,11">Касогы,</w>
-<w n="65,11">и</w>
-<w n="65,11">приведе</w>
-<w n="65,11">Кыеву.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="65,11">и</w>
-<w n="65,11">касогы.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>65, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="65"/><div type="block" n="11"><p><app><lem wit="#lem">
+            и Касогы.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и касогы.</rdg>
+            <rdg wit="#rad">и касогы:- <lb/></rdg>
+            <rdg wit="#aka">и косагы:·</rdg>
+            <rdg wit="#ipa">и касогы. и приде къ киеву·:· <lb/><pb n="26a"/></rdg>
+            <rdg wit="#xle">и касоги. и прїиде къ кїевоу.</rdg>
+            <rdg wit="#kom">и касогы и приведе кыеву</rdg>
+            <rdg wit="#tol">и касоги и приведе къ кыеву</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и Касогы.</rdg><rdg wit="#shakh">и Касогы, и приведе Кыеву.</rdg><rdg wit="#likh">и касогы.</rdg></rdgGrp></app></p></div></body></text></TEI>

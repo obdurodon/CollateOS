@@ -1,88 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>143, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="143"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="143,16">Болеславъ:</w>
-<w n="143,16">“Разведѣте</w>
-<w n="143,16">дружину</w>
-<w n="143,16">мою</w>
-<w n="143,16">по</w>
-<w n="143,16">городомъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="143,16">болеславъ</w>
-<w n="143,16">разведѣте</w>
-<w n="143,16">дружї<lb/>ну</w>
-<w n="143,16">мою</w>
-<w n="143,16">по</w>
-<w n="143,16">городомъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="143,16">болеславъ.</w>
-<w n="143,16">разведете</w>
-<w n="143,16">дрѹ<hi rend="sup">ж</hi><lb/>ноу</w>
-<w n="143,16">мою.</w>
-<w n="143,16">по</w>
-<w n="143,16">горо<hi rend="sup">д</hi>мъ:- <lb/></w>
-
-<w n="143,16">п<milestone unit="sic" n="start"/>о<hi rend="sup">г</hi>р<milestone unit="sic" n="end"/>одомъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="143,16">болеславь.</w>
-<w n="143,16">разведїте</w>
-<w n="143,16">дрѹжинѹ <lb/></w>
-
-<w n="143,16">мою</w>
-<w n="143,16">пѡ</w>
-<w n="143,16">городомъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="143,16">болеславъ.</w>
-<w n="143,16">разведете <lb/></w>
-
-<w n="143,16">дружину</w>
-<w n="143,16">мою</w>
-<w n="143,16">по</w>
-<w n="143,16">городомъ. <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="143,16">болеславь,</w>
-<w n="143,16">разведѣте</w>
-<w n="143,16">дроужи<lb/>ноу</w>
-<w n="143,16">мою</w>
-<w n="143,16">по</w>
-<w n="143,16">городѡ<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="143,16">Болеславъ:</w>
-<w n="143,16">“разведѣте</w>
-<w n="143,16">дружину</w>
-<w n="143,16">мою</w>
-<w n="143,16">по</w>
-<w n="143,16">городомъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="143,16">Болеславъ:</w>
-<w n="143,16">“разведѣте</w>
-<w n="143,16">дружину</w>
-<w n="143,16">мою</w>
-<w n="143,16">по</w>
-<w n="143,16">городомъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="143,16">Болеславъ:</w>
-<w n="143,16">“Разведѣте</w>
-<w n="143,16">дружину</w>
-<w n="143,16">мою</w>
-<w n="143,16">по</w>
-<w n="143,16">городомъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>143, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="143"/><div type="block" n="16"><p><app><lem wit="#lem">
+            Болеславъ: “Разведѣте дружину мою по городомъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">болеславъ разведѣте дружї<lb/>ну мою по городомъ</rdg>
+            <rdg wit="#rad">болеславъ. разведете дрѹ<hi rend="sup">ж</hi><lb/>ноу мою. по горо<hi rend="sup">д</hi>мъ:- <lb/>
+                        п<sic>о<hi rend="sup">г</hi>р</sic>одомъ</rdg>
+            <rdg wit="#aka">болеславь. разведїте дрѹжинѹ <lb/> мою пѡ городомъ</rdg>
+            <rdg wit="#ipa">болеславъ. разведете <lb/> дружину мою по городомъ. <lb/></rdg>
+            <rdg wit="#xle">болеславь, разведѣте дроужи<lb/>ноу мою по городѡ<hi rend="sup">м</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Болеславъ: “разведѣте дружину мою по городомъ</rdg><rdg wit="#shakh">Болеславъ: “разведѣте дружину мою по городомъ</rdg><rdg wit="#likh">Болеславъ: “Разведѣте дружину мою по городомъ</rdg></rdgGrp></app></p></div></body></text></TEI>

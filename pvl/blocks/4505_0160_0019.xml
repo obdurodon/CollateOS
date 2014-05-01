@@ -1,79 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>160, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="160"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-<w n="160,19">приимающю</w>
-<w n="160,19">вьсякого</w>
-<w n="160,19">приходящаго</w>
-<w n="160,19">къ</w>
-<w n="160,19">нему,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="160,19">приимающю</w>
-<w n="160,19">всѧкого <lb/></w>
-
-<w n="160,19">приходѧщаго</w>
-<w n="160,19">к</w>
-<w n="160,19">нему. <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="160,19">приимающѹ</w>
-<w n="160,19">всѧкого</w>
-<w n="160,19">приходѧща<hi rend="sup">г</hi></w>
-<w n="160,19">к</w>
-<w n="160,19">немѹ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="160,19">приимающю</w>
-<w n="160,19">всѧкого</w>
-<w n="160,19">приходѧщего</w>
-<w n="160,19">к</w>
-<w n="160,19">не<lb/>мѹ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="160,19">приимающе <lb/></w>
-
-<w n="160,19">всѧкого</w>
-<w n="160,19">приходѧщего <lb/></w>
-
-<w n="160,19">к</w>
-<w n="160,19">нему</w>
-<w n="160,19"><milestone unit="sic" n="start"/>ж<milestone unit="sic" n="end"/></w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="160,19">прїимающѫ</w>
-<w n="160,19">всѧкого</w>
-<w n="160,19">приходѧщаго</w>
-<w n="160,19">к</w>
-<w n="160,19">немоу.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="160,19">приимающю</w>
-<w n="160,19">всякого</w>
-<w n="160,19">приходящаго</w>
-<w n="160,19">к</w>
-<w n="160,19">нему,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="160,19">приимающю</w>
-<w n="160,19">вьсякого</w>
-<w n="160,19">приходящаго</w>
-<w n="160,19">къ</w>
-<w n="160,19">нему,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="160,19">приимающю</w>
-<w n="160,19">всякого</w>
-<w n="160,19">приходящаго</w>
-<w n="160,19">к</w>
-<w n="160,19">нему,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>160, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="160"/><div type="block" n="19"><p><app><lem wit="#lem">
+            приимающю вьсякого приходящаго къ нему,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">приимающю всѧкого <lb/> приходѧщаго к нему. <lb/></rdg>
+            <rdg wit="#rad">приимающѹ всѧкого приходѧща<hi rend="sup">г</hi> к немѹ.</rdg>
+            <rdg wit="#aka">приимающю всѧкого приходѧщего к не<lb/>мѹ.</rdg>
+            <rdg wit="#ipa">приимающе <lb/> всѧкого приходѧщего <lb/> к нему <sic>ж</sic></rdg>
+            <rdg wit="#xle">прїимающѫ всѧкого приходѧщаго к немоу.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">приимающю всякого приходящаго к нему,</rdg><rdg wit="#shakh">приимающю вьсякого приходящаго къ нему,</rdg><rdg wit="#likh">приимающю всякого приходящаго к нему,</rdg></rdgGrp></app></p></div></body></text></TEI>

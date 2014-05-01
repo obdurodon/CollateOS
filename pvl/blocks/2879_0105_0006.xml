@@ -1,87 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>105, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="105"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-<w n="105,6">чловѣкомъ,</w>
-<w n="105,6">обновлениемь</w>
-<w n="105,6">водою”;</w>
-<w n="105,6">ибо</w>
-<w n="105,6">Жидовьскыи</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="105,6">члв҃кмъ.</w>
-<w n="105,6">ѡ<lb/>бновленьемь</w>
-<w n="105,6">водою.</w>
-<w n="105,6">ибо</w>
-<w n="105,6">жидовьскии</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="105,6">чл҃комъ.</w>
-<w n="105,6">ѡбновениемъ</w>
-<w n="105,6">водою.</w>
-<w n="105,6">ибо</w>
-<w n="105,6">жидовьски<lb/>и <pb n="57v"/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="105,6">чл҃вкомь. <lb/></w>
-
-<w n="105,6">ѡбновленїемь</w>
-<w n="105,6">водою.</w>
-<w n="105,6">ибо</w>
-<w n="105,6">жидовьскїи</w>
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-<w n="105,6">чл҃ко<hi rend="sup">м</hi></w>
-<w n="105,6">ѡбновленїемь</w>
-<w n="105,6">водою.</w>
-<w n="105,6">ибо</w>
-<w n="105,6">жидовь<lb/>скыи</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="105,6">человѣкомъ</w>
-<w n="105,6">обновлениемь</w>
-<w n="105,6">водою</w>
-<w n="105,6">ибо</w>
-<w n="105,6">жидовескъ</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="105,6">человѣком</w>
-<w n="105,6">обновлением</w>
-<w n="105,6">водою</w>
-<w n="105,6">ибо</w>
-<w n="105,6">жидовескъ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="105,6">человѣкомъ,</w>
-<w n="105,6">обновленьемь</w>
-<w n="105,6">водою;</w>
-<w n="105,6">ибо</w>
-<w n="105,6">Жидовьский</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="105,6">чловѣкомъ,</w>
-<w n="105,6">обновлениемь</w>
-<w n="105,6">водою;</w>
-<w n="105,6">ибо</w>
-<w n="105,6">Жидовьскыи</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="105,6">человѣкомъ,</w>
-<w n="105,6">обновленьемь</w>
-<w n="105,6">водою;</w>
-<w n="105,6">ибо</w>
-<w n="105,6">жидовьский</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>105, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="105"/><div type="block" n="6"><p><app><lem wit="#lem">
+            чловѣкомъ, обновлениемь водою”; ибо Жидовьскыи
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">члв҃кмъ. ѡ<lb/>бновленьемь водою. ибо жидовьскии</rdg>
+            <rdg wit="#rad">чл҃комъ. ѡбновениемъ водою. ибо жидовьски<lb/>и <pb n="57v"/></rdg>
+            <rdg wit="#aka">чл҃вкомь. <lb/> ѡбновленїемь водою. ибо жидовьскїи</rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">чл҃ко<hi rend="sup">м</hi> ѡбновленїемь водою. ибо жидовь<lb/>скыи</rdg>
+            <rdg wit="#kom">человѣкомъ обновлениемь водою ибо жидовескъ</rdg>
+            <rdg wit="#tol">человѣком обновлением водою ибо жидовескъ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">человѣкомъ, обновленьемь водою; ибо Жидовьский</rdg><rdg wit="#shakh">чловѣкомъ, обновлениемь водою; ибо Жидовьскыи</rdg><rdg wit="#likh">человѣкомъ, обновленьемь водою; ибо жидовьский</rdg></rdgGrp></app></p></div></body></text></TEI>

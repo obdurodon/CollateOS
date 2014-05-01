@@ -1,107 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>54, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="54"/><div type="block" n="25"><p>
-<app>
-<lem wit="#lem">
-<w n="54,25">а</w>
-<w n="54,25">язъ</w>
-<w n="54,25">възвращю</w>
-<w n="54,25">ся</w>
-<w n="54,25">и</w>
-<w n="54,25">похожю</w>
-<w n="54,25">еще”.</w>
-<w n="54,25">И</w>
-<w n="54,25">пусти</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="54,25">а</w>
-<w n="54,25">ꙗ</w>
-<w n="54,25">возъвращюсѧ</w>
-<w n="54,25">похожю</w>
-<w n="54,25">и</w>
-<w n="54,25">е<lb/>ще.</w>
-<w n="54,25">пусти</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="54,25">а</w>
-<w n="54,25">ꙗзъ</w>
-<w n="54,25">възвра<lb/>щюсѧ</w>
-<w n="54,25">и</w>
-<w n="54,25">похожю</w>
-<w n="54,25">еще.</w>
-<w n="54,25">и <lb/></w>
-
-<w n="54,25">пусти</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="54,25">а</w>
-<w n="54,25">азь</w>
-<w n="54,25">възвращоусѧ</w>
-<w n="54,25">и</w>
-<w n="54,25">похожю</w>
-<w n="54,25">еще.</w>
-<w n="54,25">и</w>
-<w n="54,25">поусти <lb/></w>
-
-</rdg>
-
-<rdg wit="#kom">
-<w n="54,25">а</w>
-<w n="54,25">ꙗзъ</w>
-<w n="54,25">возвращусꙗ</w>
-<w n="54,25">и</w>
-<w n="54,25">похожю</w>
-<w n="54,25">еще</w>
-<w n="54,25">и</w>
-<w n="54,25">пусти</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="54,25">а</w>
-<w n="54,25">ꙗзъ</w>
-<w n="54,25">взвращусꙗ</w>
-<w n="54,25">и</w>
-<w n="54,25">похожу</w>
-<w n="54,25">еще</w>
-<w n="54,25">и</w>
-<w n="54,25">пусти</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="54,25">а</w>
-<w n="54,25">я</w>
-<w n="54,25">возъвращюся,</w>
-<w n="54,25">похожю</w>
-<w n="54,25">и</w>
-<w n="54,25">еще.”</w>
-<w n="54,25">Пусти</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="54,25">а</w>
-<w n="54,25">язъ</w>
-<w n="54,25">възвращюся,</w>
-<w n="54,25">и</w>
-<w n="54,25">похожю</w>
-<w n="54,25">еще”.</w>
-<w n="54,25">И</w>
-<w n="54,25">пусти</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="54,25">а</w>
-<w n="54,25">я</w>
-<w n="54,25">возъвращюся,</w>
-<w n="54,25">похожю</w>
-<w n="54,25">и</w>
-<w n="54,25">еще”.</w>
-<w n="54,25">Пусти</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>54, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="54"/><div type="block" n="25"><p><app><lem wit="#lem">
+            а язъ възвращю ся и похожю еще”. И пусти
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">а ꙗ возъвращюсѧ похожю и е<lb/>ще. пусти</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">а ꙗзъ възвра<lb/>щюсѧ и похожю еще. и <lb/> пусти</rdg>
+            <rdg wit="#xle">а азь възвращоусѧ и похожю еще. и поусти <lb/></rdg>
+            <rdg wit="#kom">а ꙗзъ возвращусꙗ и похожю еще и пусти</rdg>
+            <rdg wit="#tol">а ꙗзъ взвращусꙗ и похожу еще и пусти</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">а я возъвращюся, похожю и еще.” Пусти</rdg><rdg wit="#shakh">а язъ възвращюся, и похожю еще”. И пусти</rdg><rdg wit="#likh">а я возъвращюся, похожю и еще”. Пусти</rdg></rdgGrp></app></p></div></body></text></TEI>

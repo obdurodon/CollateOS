@@ -1,89 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>158, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="158"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-<w n="158,10">и</w>
-<w n="158,10">не</w>
-<w n="158,10">могущимъ</w>
-<w n="158,10">ся</w>
-<w n="158,10">въмѣстити,</w>
-<w n="158,10">и</w>
-<w n="158,10">помыслиша</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="158,10">и</w>
-<w n="158,10">помысли<lb/>ша</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="158,10">и</w>
-<w n="158,10">не</w>
-<w n="158,10">имѹщимсѧ</w>
-<w n="158,10">вмѣстити. <lb/></w>
-
-<w n="158,10">и</w>
-<w n="158,10">помыслиша</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="158,10">и</w>
-<w n="158,10">не</w>
-<w n="158,10">имѹщимсѧ</w>
-<w n="158,10">вместити.</w>
-<w n="158,10">и</w>
-<w n="158,10">помыслиша</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="158,10">и</w>
-<w n="158,10">не</w>
-<w n="158,10">могущи<lb/>мъ</w>
-<w n="158,10">имъ</w>
-<w n="158,10">вмѣститисѧ</w>
-<w n="158,10">в</w>
-<w n="158,10">пече<lb/>ру.</w>
-<w n="158,10">и</w>
-<w n="158,10">помыслиша.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="158,10">и</w>
-<w n="158,10">не</w>
-<w n="158,10">могоуще<hi rend="sup">м</hi></w>
-<w n="158,10">в</w>
-<w n="158,10">пещероу</w>
-<w n="158,10">въ<lb/>мѣститисѧ.</w>
-<w n="158,10">помыслиша</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="158,10">и</w>
-<w n="158,10">не</w>
-<w n="158,10">имущимъ</w>
-<w n="158,10">ся</w>
-<w n="158,10">вмѣстити,</w>
-<w n="158,10">и</w>
-<w n="158,10">помыслиша</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="158,10">и</w>
-<w n="158,10">не</w>
-<w n="158,10">могущемъ</w>
-<w n="158,10">ся</w>
-<w n="158,10">въмѣстити</w>
-<w n="158,10">въ</w>
-<w n="158,10">печерѣ,</w>
-<w n="158,10">помыслиша</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="158,10">и</w>
-<w n="158,10">не</w>
-<w n="158,10">имущим</w>
-<w n="158,10">ся</w>
-<w n="158,10">вмѣстити,</w>
-<w n="158,10">и</w>
-<w n="158,10">помыслиша</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>158, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="158"/><div type="block" n="10"><p><app><lem wit="#lem">
+            и не могущимъ ся въмѣстити, и помыслиша
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и помысли<lb/>ша</rdg>
+            <rdg wit="#rad">и не имѹщимсѧ вмѣстити. <lb/> и помыслиша</rdg>
+            <rdg wit="#aka">и не имѹщимсѧ вместити. и помыслиша</rdg>
+            <rdg wit="#ipa">и не могущи<lb/>мъ имъ вмѣститисѧ в пече<lb/>ру. и помыслиша.</rdg>
+            <rdg wit="#xle">и не могоуще<hi rend="sup">м</hi> в пещероу въ<lb/>мѣститисѧ. помыслиша</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и не имущимъ ся вмѣстити, и помыслиша</rdg><rdg wit="#shakh">и не могущемъ ся въмѣстити въ печерѣ, помыслиша</rdg><rdg wit="#likh">и не имущим ся вмѣстити, и помыслиша</rdg></rdgGrp></app></p></div></body></text></TEI>

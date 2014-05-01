@@ -1,88 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>187, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="187"/><div type="block" n="29"><p>
-<app>
-<lem wit="#lem">
-<w n="187,29">сего,</w>
-<w n="187,29">аще</w>
-<w n="187,29">буду</w>
-<w n="187,29">Богу</w>
-<w n="187,29">угодилъ</w>
-<w n="187,29">и</w>
-<w n="187,29">приялъ</w>
-<w n="187,29">мя</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="187,29">сего. <lb/></w>
-
-<w n="187,29">аще</w>
-<w n="187,29">буду</w>
-<w n="187,29">б҃у</w>
-<w n="187,29">оугодилъ.</w>
-<w n="187,29">и</w>
-<w n="187,29">приꙗ<lb/>лъ</w>
-<w n="187,29">мѧ</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="187,29">сего <lb/></w>
-
-<w n="187,29">аще</w>
-<w n="187,29">буду.</w>
-<w n="187,29">б҃у</w>
-<w n="187,29">оугодилъ.</w>
-<w n="187,29">и</w>
-<w n="187,29">при<lb/>ꙗлъ</w>
-<w n="187,29">мѧ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="187,29">сего. <lb/></w>
-
-<w n="187,29">аще</w>
-<w n="187,29">бѫдоу</w>
-<w n="187,29">б҃оу</w>
-<w n="187,29">оугоди<hi rend="sup">л</hi>.</w>
-<w n="187,29">и</w>
-<w n="187,29">прїалъ</w>
-<w n="187,29">мѧ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="187,29">сего,</w>
-<w n="187,29">аще</w>
-<w n="187,29">буду</w>
-<w n="187,29">Богу</w>
-<w n="187,29">угодилъ</w>
-<w n="187,29">и</w>
-<w n="187,29">приялъ</w>
-<w n="187,29">мя</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="187,29">сего,</w>
-<w n="187,29">аще</w>
-<w n="187,29">буду</w>
-<w n="187,29">Богу</w>
-<w n="187,29">угодилъ,</w>
-<w n="187,29">и</w>
-<w n="187,29">приялъ</w>
-<w n="187,29">мя</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="187,29">сего,</w>
-<w n="187,29">аще</w>
-<w n="187,29">буду</w>
-<w n="187,29">богу</w>
-<w n="187,29">угодилъ</w>
-<w n="187,29">и</w>
-<w n="187,29">приялъ</w>
-<w n="187,29">мя</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>187, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="187"/><div type="block" n="29"><p><app><lem wit="#lem">
+            сего, аще буду Богу угодилъ и приялъ мя
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">сего. <lb/> аще буду б҃у оугодилъ. и приꙗ<lb/>лъ мѧ</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">сего <lb/> аще буду. б҃у оугодилъ. и при<lb/>ꙗлъ мѧ</rdg>
+            <rdg wit="#xle">сего. <lb/> аще бѫдоу б҃оу оугоди<hi rend="sup">л</hi>. и прїалъ мѧ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">сего, аще буду Богу угодилъ и приялъ мя</rdg><rdg wit="#shakh">сего, аще буду Богу угодилъ, и приялъ мя</rdg><rdg wit="#likh">сего, аще буду богу угодилъ и приялъ мя</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,81 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>219, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="219"/><div type="block" n="12"><p>
-<app>
-<lem wit="#lem">
-<w n="219,12">Русьскую.</w>
-<w n="219,12">Послѣди</w>
-<w n="219,12">ся</w>
-<w n="219,12">съмирита,</w>
-<w n="219,12">а</w>
-<w n="219,12">нынѣ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="219,12">русь<lb/>скую·</w>
-<w n="219,12">послѣди</w>
-<w n="219,12">сѧ</w>
-<w n="219,12">уладита· <lb/></w>
-
-<w n="219,12">а</w>
-<w n="219,12">нонѣ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="219,12">последи</w>
-<w n="219,12">смир<milestone unit="sic" n="start"/>и<milestone unit="sic" n="end"/>та<hi rend="sup">с</hi>·</w>
-<w n="219,12">а</w>
-<w n="219,12">нн҃ѣ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="219,12">послѣдѣ <lb/></w>
-
-<w n="219,12">смирѣтасѧ</w>
-<w n="219,12">а</w>
-<w n="219,12">нынѣ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="219,12">рускую</w>
-<w n="219,12">послѣ<lb/>дѣ</w>
-<w n="219,12">сѧ</w>
-<w n="219,12">смирита·</w>
-<w n="219,12">а</w>
-<w n="219,12">нн҃ѣ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="219,12">роу<hi rend="sup">с</hi>коую.</w>
-<w n="219,12">посл<hi rend="sup">д</hi>ѣ<hi rend="sup">и</hi></w>
-<w n="219,12">же</w>
-<w n="219,12">смиритасѧ.</w>
-<w n="219,12">а</w>
-<w n="219,12">нн҃ѣ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="219,12">Русьскую;</w>
-<w n="219,12">послѣди</w>
-<w n="219,12">ся</w>
-<w n="219,12">уладита,</w>
-<w n="219,12">а</w>
-<w n="219,12">нынѣ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="219,12">Русьскую;</w>
-<w n="219,12">послѣди</w>
-<w n="219,12">ся</w>
-<w n="219,12">уладита,</w>
-<w n="219,12">а</w>
-<w n="219,12">нынѣ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="219,12">Русьскую.</w>
-<w n="219,12">Послѣди</w>
-<w n="219,12">ся</w>
-<w n="219,12">уладита,</w>
-<w n="219,12">а</w>
-<w n="219,12">нонѣ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>219, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="219"/><div type="block" n="12"><p><app><lem wit="#lem">
+            Русьскую. Послѣди ся съмирита, а нынѣ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">русь<lb/>скую· послѣди сѧ уладита· <lb/> а нонѣ</rdg>
+            <rdg wit="#rad">последи смир<sic>и</sic>та<hi rend="sup">с</hi>· а нн҃ѣ</rdg>
+            <rdg wit="#aka">послѣдѣ <lb/> смирѣтасѧ а нынѣ</rdg>
+            <rdg wit="#ipa">рускую послѣ<lb/>дѣ сѧ смирита· а нн҃ѣ</rdg>
+            <rdg wit="#xle">роу<hi rend="sup">с</hi>коую. посл<hi rend="sup">д</hi>ѣ<hi rend="sup">и</hi> же смиритасѧ. а нн҃ѣ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Русьскую; послѣди ся уладита, а нынѣ</rdg><rdg wit="#shakh">Русьскую; послѣди ся уладита, а нынѣ</rdg><rdg wit="#likh">Русьскую. Послѣди ся уладита, а нонѣ</rdg></rdgGrp></app></p></div></body></text></TEI>

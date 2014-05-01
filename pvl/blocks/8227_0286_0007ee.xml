@@ -1,40 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>286, 7ee</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="286"/><div type="block" n="7ee"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#ipa">
-<w n="286,7ee">и</w>
-<w n="286,7ee">показаша <lb/></w>
-
-<w n="286,7ee">ему</w>
-<w n="286,7ee"><milestone unit="sic" n="start"/>книги<milestone unit="sic" n="end"/></w>
-<w n="286,7ee">книги</w>
-<w n="286,7ee">данила</w>
-<w n="286,7ee">прр҃ка <lb/></w>
-
-<w n="286,7ee">и</w>
-<w n="286,7ee">рекоша</w>
-<w n="286,7ee">ему</w>
-<w n="286,7ee">ты</w>
-<w n="286,7ee">еси</w>
-<w n="286,7ee">козелъ· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="286,7ee">и</w>
-<w n="286,7ee">показаша</w>
-<w n="286,7ee">емоу</w>
-<w n="286,7ee">книги</w>
-<w n="286,7ee">данїила</w>
-<w n="286,7ee">прр<hi rend="sup">о</hi>ка <lb/></w>
-
-<w n="286,7ee">и</w>
-<w n="286,7ee">рекоша</w>
-<w n="286,7ee">емоу</w>
-<w n="286,7ee">ты·̏</w>
-<w n="286,7ee">еси</w>
-<w n="286,7ee">козелъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>286, 7ee</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="286"/><div type="block" n="7ee"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#ipa">и показаша <lb/> ему <sic>книги</sic> книги данила прр҃ка <lb/> и рекоша
+                ему ты еси козелъ· <lb/></rdg>
+            <rdg wit="#xle">и показаша емоу книги данїила прр<hi rend="sup">о</hi>ка <lb/> и рекоша емоу ты·̏ еси
+                козелъ</rdg>
+        </rdgGrp></app></p></div></body></text></TEI>

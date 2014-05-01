@@ -1,80 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>180, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="180"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-<w n="180,19">чюдеса</w>
-<w n="180,19">противу</w>
-<w n="180,19">Моисѣеви,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="180,19">чюдеса</w>
-<w n="180,19">про<lb/>тиву</w>
-<w n="180,19">моисиѡви.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="180,19">чюдеса.</w>
-<w n="180,19">проти<lb/>воу</w>
-<w n="180,19">истиннѣ</w>
-<w n="180,19">моисѣеви.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="180,19">чюдеса.</w>
-<w n="180,19">проти<lb/>вѹ</w>
-<w n="180,19">истинне</w>
-<w n="180,19">моисѣеви.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="180,19">чюдеса</w>
-<w n="180,19">творѧшеть</w>
-<w n="180,19">про<lb/>тиву</w>
-<w n="180,19">моисѣеви</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="180,19">чюдеса</w>
-<w n="180,19">творѧше.</w>
-<w n="180,19">про<lb/>тивоу</w>
-<w n="180,19">мѡѵсеѡви,</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="180,19">чюдеса</w>
-<w n="180,19">противу</w>
-<w n="180,19">моисѣеви</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="180,19">чюдеса</w>
-<w n="180,19">противу</w>
-<w n="180,19">моисиови</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="180,19">чюдеса</w>
-<w n="180,19">противу</w>
-<w n="180,19">моисиови</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="180,19">чюдеса</w>
-<w n="180,19">творяшеть</w>
-<w n="180,19">противу</w>
-<w n="180,19">Моисиови,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="180,19">чюдеса</w>
-<w n="180,19">противу</w>
-<w n="180,19">Моисѣеви,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="180,19">чюдеса</w>
-<w n="180,19">творяшета</w>
-<w n="180,19">противу</w>
-<w n="180,19">Моисиови,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>180, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="180"/><div type="block" n="19"><p><app><lem wit="#lem">
+            чюдеса противу Моисѣеви,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">чюдеса про<lb/>тиву моисиѡви.</rdg>
+            <rdg wit="#rad">чюдеса. проти<lb/>воу истиннѣ моисѣеви.</rdg>
+            <rdg wit="#aka">чюдеса. проти<lb/>вѹ истинне моисѣеви.</rdg>
+            <rdg wit="#ipa">чюдеса творѧшеть про<lb/>тиву моисѣеви</rdg>
+            <rdg wit="#xle">чюдеса творѧше. про<lb/>тивоу мѡѵсеѡви,</rdg>
+            <rdg wit="#kom">чюдеса противу моисѣеви</rdg>
+            <rdg wit="#nak">чюдеса противу моисиови</rdg>
+            <rdg wit="#tol">чюдеса противу моисиови</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">чюдеса творяшеть противу Моисиови,</rdg><rdg wit="#shakh">чюдеса противу Моисѣеви,</rdg><rdg wit="#likh">чюдеса творяшета противу Моисиови,</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,50 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>253, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="253"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="253,20">ѥ<lb/>го·</w>
-<w n="253,20">и</w>
-<w n="253,20">тѣло</w>
-<w n="253,20">ѹвѧнувшю</w>
-<w n="253,20">ꙗко</w>
-<w n="253,20">цвѣ<lb/>ту</w>
-<w n="253,20">нову</w>
-<w n="253,20">процветшю·</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="253,20">его</w>
-<w n="253,20">и</w>
-<w n="253,20">тѣло</w>
-<w n="253,20">увянувшю,</w>
-<w n="253,20">яко</w>
-<w n="253,20">цвѣту</w>
-<w n="253,20">нову</w>
-<w n="253,20">процветшю,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="253,20">его</w>
-<w n="253,20">и</w>
-<w n="253,20">тѣло</w>
-<w n="253,20">увянувшю,</w>
-<w n="253,20">яко</w>
-<w n="253,20">цвѣту</w>
-<w n="253,20">нову</w>
-<w n="253,20">процветшю,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>253, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="253"/><div type="block" n="20"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѥ<lb/>го· и тѣло ѹвѧнувшю ꙗко цвѣ<lb/>ту нову процветшю·</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">его и тѣло увянувшю, яко цвѣту нову процветшю,</rdg><rdg wit="#likh">его и тѣло увянувшю, яко цвѣту нову процветшю,</rdg></rdgGrp></app></p></div></body></text></TEI>

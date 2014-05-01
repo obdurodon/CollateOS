@@ -1,86 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>151, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="151"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="151,5">испълчи</w>
-<w n="151,5">дружину,</w>
-<w n="151,5">и</w>
-<w n="151,5">постави</w>
-<w n="151,5">Варягы</w>
-<w n="151,5">посредѣ,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="151,5">и<lb/>сполчи</w>
-<w n="151,5">дружину.</w>
-<w n="151,5">постави</w>
-<w n="151,5">ва<lb/>рѧгы</w>
-<w n="151,5">посредѣ.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="151,5">исполчи</w>
-<w n="151,5">дроужинѹ.</w>
-<w n="151,5">и</w>
-<w n="151,5">по<lb/>стави</w>
-<w n="151,5">варѧгы</w>
-<w n="151,5">посре<hi rend="sup">д</hi>.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="151,5">исполчи</w>
-<w n="151,5">дрѹжинѹ</w>
-<w n="151,5">и</w>
-<w n="151,5">постави</w>
-<w n="151,5">ва<lb/>рѧгы</w>
-<w n="151,5">посрѣдѣ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="151,5">исполчи <lb/></w>
-
-<w n="151,5">дружину.</w>
-<w n="151,5">и</w>
-<w n="151,5">постави</w>
-<w n="151,5">варѧ<lb/>гы</w>
-<w n="151,5">посредѣ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="151,5">исполчи</w>
-<w n="151,5">дроужиноу. <lb/></w>
-
-<w n="151,5">и</w>
-<w n="151,5">постави</w>
-<w n="151,5">варѧги</w>
-<w n="151,5">поср<hi rend="sup">д</hi>е<hi rend="sup">и</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="151,5">исполчи</w>
-<w n="151,5">дружину,</w>
-<w n="151,5">и</w>
-<w n="151,5">постави</w>
-<w n="151,5">Варягы</w>
-<w n="151,5">по</w>
-<w n="151,5">средѣ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="151,5">испълчи</w>
-<w n="151,5">дружину,</w>
-<w n="151,5">и</w>
-<w n="151,5">постави</w>
-<w n="151,5">Варягы</w>
-<w n="151,5">посредѣ,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="151,5">исполчи</w>
-<w n="151,5">дружину,</w>
-<w n="151,5">и</w>
-<w n="151,5">постави</w>
-<w n="151,5">варягы</w>
-<w n="151,5">по</w>
-<w n="151,5">средѣ,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>151, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="151"/><div type="block" n="5"><p><app><lem wit="#lem">
+            испълчи дружину, и постави Варягы посредѣ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и<lb/>сполчи дружину. постави ва<lb/>рѧгы посредѣ.</rdg>
+            <rdg wit="#rad">исполчи дроужинѹ. и по<lb/>стави варѧгы посре<hi rend="sup">д</hi>.</rdg>
+            <rdg wit="#aka">исполчи дрѹжинѹ и постави ва<lb/>рѧгы посрѣдѣ.</rdg>
+            <rdg wit="#ipa">исполчи <lb/> дружину. и постави варѧ<lb/>гы посредѣ</rdg>
+            <rdg wit="#xle">исполчи дроужиноу. <lb/> и постави варѧги поср<hi rend="sup">д</hi>е<hi rend="sup">и</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">исполчи дружину, и постави Варягы по средѣ,</rdg><rdg wit="#shakh">испълчи дружину, и постави Варягы посредѣ,</rdg><rdg wit="#likh">исполчи дружину, и постави варягы по средѣ,</rdg></rdgGrp></app></p></div></body></text></TEI>

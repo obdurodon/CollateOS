@@ -1,48 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>247, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="247"/><div type="block" n="7"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="247,7">живо<lb/>тъ·</w>
-<w n="247,7">тако</w>
-<w n="247,7">похвалю</w>
-<w n="247,7">б҃а·</w>
-<w n="247,7">и</w>
-<w n="247,7">сѣдше <lb/></w>
-
-<w n="247,7">думати</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="247,7">животъ,</w>
-<w n="247,7">тако</w>
-<w n="247,7">похвалю</w>
-<w n="247,7">Бога;</w>
-<w n="247,7">и</w>
-<w n="247,7">сѣдше</w>
-<w n="247,7">думати</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="247,7">животъ”,</w>
-<w n="247,7">тако</w>
-<w n="247,7">похвалю</w>
-<w n="247,7">бога!</w>
-<w n="247,7">И</w>
-<w n="247,7">сѣдше</w>
-<w n="247,7">думати</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>247, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="247"/><div type="block" n="7"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">живо<lb/>тъ· тако похвалю б҃а· и сѣдше <lb/> думати</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">животъ, тако похвалю Бога; и сѣдше думати</rdg><rdg wit="#likh">животъ”, тако похвалю бога! И сѣдше думати</rdg></rdgGrp></app></p></div></body></text></TEI>

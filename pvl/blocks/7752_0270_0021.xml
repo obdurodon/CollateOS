@@ -1,80 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="270"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="270,21">и</w>
-<w n="270,21">прочая</w>
-<w n="270,21">дружина.</w>
-<w n="270,21">Святопълкъ</w>
-<w n="270,21">же</w>
-<w n="270,21">посади</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="270,21">и</w>
-<w n="270,21">прочаꙗ</w>
-<w n="270,21">дружина·</w>
-<w n="270,21">ст҃опо<lb/>лкъ</w>
-<w n="270,21">же</w>
-<w n="270,21">посади</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="270,21">и</w>
-<w n="270,21">прочаꙗ</w>
-<w n="270,21">дружина·</w>
-<w n="270,21">ст҃опо<lb/>лкъ</w>
-<w n="270,21">же</w>
-<w n="270,21">посади·</w>
-<w n="270,21">сн҃а</w>
-<w n="270,21">своего <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="270,21">и</w>
-<w n="270,21">прочаа</w>
-<w n="270,21">дроужина.</w>
-<w n="270,21">ст҃опо<lb/>л′къ</w>
-<w n="270,21">же</w>
-<w n="270,21">пос<hi rend="sup">д</hi>а<hi rend="sup">и</hi></w>
-<w n="270,21">сн҃а</w>
-<w n="270,21">своего</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="270,21">и</w>
-<w n="270,21">прочая</w>
-<w n="270,21">дружина.</w>
-<w n="270,21">Святополкъ</w>
-<w n="270,21">же</w>
-<w n="270,21">посади</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="270,21">и</w>
-<w n="270,21">прочая</w>
-<w n="270,21">дружина.</w>
-<w n="270,21">Святопълкъ</w>
-<w n="270,21">же</w>
-<w n="270,21">посади</w>
-<w n="270,21">сына</w>
-<w n="270,21">своего</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="270,21">и</w>
-<w n="270,21">прочая</w>
-<w n="270,21">дружина.</w>
-<w n="270,21">Святополкъ</w>
-<w n="270,21">же</w>
-<w n="270,21">посади</w>
-<w n="270,21">сына</w>
-<w n="270,21">своего</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="270"/><div type="block" n="21"><p><app><lem wit="#lem">
+            и прочая дружина. Святопълкъ же посади
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и прочаꙗ дружина· ст҃опо<lb/>лкъ же посади</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">и прочаꙗ дружина· ст҃опо<lb/>лкъ же посади· сн҃а своего <lb/></rdg>
+            <rdg wit="#xle">и прочаа дроужина. ст҃опо<lb/>л′къ же пос<hi rend="sup">д</hi>а<hi rend="sup">и</hi> сн҃а
+                своего</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и прочая дружина. Святополкъ же посади</rdg><rdg wit="#shakh">и прочая дружина. Святопълкъ же посади сына своего</rdg><rdg wit="#likh">и прочая дружина. Святополкъ же посади сына своего</rdg></rdgGrp></app></p></div></body></text></TEI>

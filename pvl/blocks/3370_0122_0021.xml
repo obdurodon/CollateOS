@@ -1,86 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>122, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="122"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="122,21">Володимиръ</w>
-<w n="122,21">же,</w>
-<w n="122,21">пришьдъ</w>
-<w n="122,21">въ</w>
-<w n="122,21">товары,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="122,21">разно.</w>
-<w n="122,21">володимеръ</w>
-<w n="122,21">же <lb/></w>
-
-<w n="122,21">приде</w>
-<w n="122,21">въ</w>
-<w n="122,21">товары.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="122,21">разно.</w>
-<w n="122,21">володимир<milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/></w>
-<w n="122,21">же</w>
-<w n="122,21">прииде</w>
-<w n="122,21">въ</w>
-<w n="122,21">това<lb/>ры<hi rend="sup">щ</hi></w>
-<w n="122,21">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="122,21">разно.</w>
-<w n="122,21">володимїр</w>
-<w n="122,21">же</w>
-<w n="122,21">прииде</w>
-<w n="122,21">в</w>
-<w n="122,21">то<lb/>варыщи.</w>
-<w n="122,21">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="122,21">воло<lb/>димеръ</w>
-<w n="122,21">же</w>
-<w n="122,21">пришедъ</w>
-<w n="122,21">в</w>
-<w n="122,21">то<lb/>вары</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="122,21">вол<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>мер</w>
-<w n="122,21">же</w>
-<w n="122,21">прише<hi rend="sup">д</hi><lb/></w>
-<w n="122,21">в</w>
-<w n="122,21">товары.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="122,21">разно.</w>
-<w n="122,21">Володимеръ</w>
-<w n="122,21">же</w>
-<w n="122,21">приде</w>
-<w n="122,21">въ</w>
-<w n="122,21">товары,</w>
-<w n="122,21">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="122,21">разно.</w>
-<w n="122,21">Володимеръ</w>
-<w n="122,21">же,</w>
-<w n="122,21">пришьдъ</w>
-<w n="122,21">въ</w>
-<w n="122,21">товары,</w>
-<w n="122,21">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="122,21">разно.</w>
-<w n="122,21">Володимеръ</w>
-<w n="122,21">же</w>
-<w n="122,21">приде</w>
-<w n="122,21">въ</w>
-<w n="122,21">товары,</w>
-<w n="122,21">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>122, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="122"/><div type="block" n="21"><p><app><lem wit="#lem">
+            Володимиръ же, пришьдъ въ товары,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">разно. володимеръ же <lb/> приде въ товары.</rdg>
+            <rdg wit="#rad">разно. володимир<sic>о</sic> же прииде въ това<lb/>ры<hi rend="sup">щ</hi> и</rdg>
+            <rdg wit="#aka">разно. володимїр же прииде в то<lb/>варыщи. и</rdg>
+            <rdg wit="#ipa">воло<lb/>димеръ же пришедъ в то<lb/>вары</rdg>
+            <rdg wit="#xle">вол<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>мер же прише<hi rend="sup">д</hi>
+                <lb/> в товары.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">разно. Володимеръ же приде въ товары, и</rdg><rdg wit="#shakh">разно. Володимеръ же, пришьдъ въ товары, и</rdg><rdg wit="#likh">разно. Володимеръ же приде въ товары, и</rdg></rdgGrp></app></p></div></body></text></TEI>

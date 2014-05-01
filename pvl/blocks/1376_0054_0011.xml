@@ -1,102 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>54, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="54"/><div type="block" n="11"><p>
-<app>
-<lem wit="#lem">
-<w n="54,11">придоша</w>
-<w n="54,11">къ</w>
-<w n="54,11">цьсареви,</w>
-<w n="54,11">и</w>
-<w n="54,11">повѣдаша</w>
-<w n="54,11">вься</w>
-<w n="54,11">рѣчи</w>
-<w n="54,11">Игоревы</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="54,11">придош<hi rend="sup">а</hi><lb/></w>
-<w n="54,11">к<milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/></w>
-<w n="54,11">цр҃ви.</w>
-<w n="54,11">повѣдаша</w>
-<w n="54,11">всѧ</w>
-<w n="54,11">рѣчи</w>
-<w n="54,11">игоревы.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="54,11">приидоша</w>
-<w n="54,11">ко</w>
-<w n="54,11">цр҃ви.</w>
-<w n="54,11">и</w>
-<w n="54,11">поведаша</w>
-<w n="54,11">всѧ</w>
-<w n="54,11">рѣ<hi rend="sup">ч</hi></w>
-<w n="54,11">игоревы.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="54,11">прїидоша</w>
-<w n="54,11">ко</w>
-<w n="54,11">цр҃ви.</w>
-<w n="54,11">и</w>
-<w n="54,11">поведаша</w>
-<w n="54,11">всѧ</w>
-<w n="54,11">рѣчи <lb/></w>
-
-<w n="54,11">игоревы.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="54,11">придо<lb/>ша</w>
-<w n="54,11">къ</w>
-<w n="54,11">ц<hi rend="sup">с</hi>рви.</w>
-<w n="54,11">и</w>
-<w n="54,11">повѣдаш<hi rend="sup">а</hi><lb/></w>
-<w n="54,11">всѧ</w>
-<w n="54,11">рѣчи</w>
-<w n="54,11">игоревы.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="54,11">прїидоша</w>
-<w n="54,11">къ</w>
-<w n="54,11">цр҃ви,</w>
-<w n="54,11">и</w>
-<w n="54,11">повѣдаша</w>
-<w n="54,11">всѧ</w>
-<w n="54,11">рѣчи</w>
-<w n="54,11">игоревы. <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="54,11">придоша</w>
-<w n="54,11">ко</w>
-<w n="54,11">цареви,</w>
-<w n="54,11">и</w>
-<w n="54,11">повѣдаша</w>
-<w n="54,11">вся</w>
-<w n="54,11">рѣчи</w>
-<w n="54,11">Игоревы</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="54,11">придоша</w>
-<w n="54,11">къ</w>
-<w n="54,11">цѣсареви,</w>
-<w n="54,11">и</w>
-<w n="54,11">повѣдаша</w>
-<w n="54,11">вься</w>
-<w n="54,11">рѣчи</w>
-<w n="54,11">Игоревы</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="54,11">придоша</w>
-<w n="54,11">ко</w>
-<w n="54,11">цареви,</w>
-<w n="54,11">и</w>
-<w n="54,11">повѣдаша</w>
-<w n="54,11">вся</w>
-<w n="54,11">рѣчи</w>
-<w n="54,11">Игоревы</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>54, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="54"/><div type="block" n="11"><p><app><lem wit="#lem">
+            придоша къ цьсареви, и повѣдаша вься рѣчи Игоревы
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">придош<hi rend="sup">а</hi>
+                <lb/> к<sic>о</sic> цр҃ви. повѣдаша всѧ рѣчи игоревы.</rdg>
+            <rdg wit="#rad">приидоша ко цр҃ви. и поведаша всѧ рѣ<hi rend="sup">ч</hi> игоревы.</rdg>
+            <rdg wit="#aka">прїидоша ко цр҃ви. и поведаша всѧ рѣчи <lb/> игоревы.</rdg>
+            <rdg wit="#ipa">придо<lb/>ша къ ц<hi rend="sup">с</hi>рви. и повѣдаш<hi rend="sup">а</hi>
+                <lb/> всѧ рѣчи игоревы.</rdg>
+            <rdg wit="#xle">прїидоша къ цр҃ви, и повѣдаша всѧ рѣчи игоревы. <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">придоша ко цареви, и повѣдаша вся рѣчи Игоревы</rdg><rdg wit="#shakh">придоша къ цѣсареви, и повѣдаша вься рѣчи Игоревы</rdg><rdg wit="#likh">придоша ко цареви, и повѣдаша вся рѣчи Игоревы</rdg></rdgGrp></app></p></div></body></text></TEI>

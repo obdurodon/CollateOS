@@ -1,80 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>152, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="152"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="152,22">азъ</w>
-<w n="152,22">призъвахъ.</w>
-<w n="152,22">Страхъ</w>
-<w n="152,22">Господьнь</w>
-<w n="152,22">Мои</w>
-<w n="152,22">съвѣти,</w>
-<w n="152,22">моя</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="152,22">азъ</w>
-<w n="152,22">призва<hi rend="sup">х</hi></w>
-<w n="152,22">страхъ <lb/></w>
-
-<w n="152,22">гнь<hi rend="sup">с</hi>.</w>
-<w n="152,22">мои</w>
-<w n="152,22">съвѣти.</w>
-<w n="152,22">моꙗ</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="152,22">азъ</w>
-<w n="152,22">призва<hi rend="sup">х</hi>.</w>
-<w n="152,22">страхъ <lb/></w>
-
-<w n="152,22">гн<hi rend="sup">с</hi>ь.</w>
-<w n="152,22">мои</w>
-<w n="152,22">свѣтъ.</w>
-<w n="152,22">моꙗ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="152,22">азъ</w>
-<w n="152,22">при<lb/>зва<hi rend="sup">х</hi>.</w>
-<w n="152,22">стра<hi rend="sup">х</hi></w>
-<w n="152,22">г҃нь.</w>
-<w n="152,22">мои</w>
-<w n="152,22">съвѣти</w>
-<w n="152,22">моа</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="152,22">азъ</w>
-<w n="152,22">призвахъ;</w>
-<w n="152,22">страхъ</w>
-<w n="152,22">Господень...</w>
-<w n="152,22">мои</w>
-<w n="152,22">съвѣти,</w>
-<w n="152,22">моя</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="152,22">азъ</w>
-<w n="152,22">призъвахъ.</w>
-<w n="152,22">Страхъ</w>
-<w n="152,22">Господьнь...</w>
-<w n="152,22">Мои</w>
-<w n="152,22">съвѣти,</w>
-<w n="152,22">моя</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="152,22">азъ</w>
-<w n="152,22">призвах.</w>
-<w n="152,22">Страхъ</w>
-<w n="152,22">господень...</w>
-<w n="152,22">Мои</w>
-<w n="152,22">свѣти,</w>
-<w n="152,22">моя</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>152, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="152"/><div type="block" n="22"><p><app><lem wit="#lem">
+            азъ призъвахъ. Страхъ Господьнь Мои съвѣти, моя
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">азъ призва<hi rend="sup">х</hi> страхъ <lb/> гнь<hi rend="sup">с</hi>. мои съвѣти. моꙗ</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">азъ призва<hi rend="sup">х</hi>. страхъ <lb/> гн<hi rend="sup">с</hi>ь. мои свѣтъ. моꙗ</rdg>
+            <rdg wit="#xle">азъ при<lb/>зва<hi rend="sup">х</hi>. стра<hi rend="sup">х</hi> г҃нь. мои съвѣти моа</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">азъ призвахъ; страхъ Господень... мои съвѣти, моя</rdg><rdg wit="#shakh">азъ призъвахъ. Страхъ Господьнь... Мои съвѣти, моя</rdg><rdg wit="#likh">азъ призвах. Страхъ господень... Мои свѣти, моя</rdg></rdgGrp></app></p></div></body></text></TEI>

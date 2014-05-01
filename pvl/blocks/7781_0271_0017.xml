@@ -1,86 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="271"/><div type="block" n="17"><p>
-<app>
-<lem wit="#lem">
-<w n="271,17">Бонякъ</w>
-<w n="271,17">же</w>
-<w n="271,17">раздѣли</w>
-<w n="271,17">ся</w>
-<w n="271,17">на 3</w>
-
-<w n="271,17">пълкы,</w>
-<w n="271,17">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="271,17">в</w>
-<w n="271,17">мѧчь·</w>
-<w n="271,17">бонѧкъ</w>
-<w n="271,17">же</w>
-<w n="271,17">раздѣ<lb/>ли</w>
-<w n="271,17">сѧ</w>
-<w n="271,17">на</w>
-<w n="271,17">·г҃·</w>
-<w n="271,17">полкы·</w>
-<w n="271,17">и</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="271,17">бонѧкъ</w>
-<w n="271,17">же</w>
-<w n="271,17">раздили</w>
-<w n="271,17">сѧ</w>
-<w n="271,17">на· <lb/></w>
-
-<w n="271,17">г҃·</w>
-<w n="271,17">полкы·</w>
-<w n="271,17">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="271,17">бонѧк′</w>
-<w n="271,17">же</w>
-<w n="271,17">раздѣли</w>
-<w n="271,17">сѧ</w>
-<w n="271,17">на</w>
-<w n="271,17">три·̏ <lb/></w>
-
-<w n="271,17">пол′кы.</w>
-<w n="271,17">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="271,17">в</w>
-<w n="271,17">мячь;</w>
-<w n="271,17">Бонякъ</w>
-<w n="271,17">же</w>
-<w n="271,17">раздѣлися</w>
-<w n="271,17">на 3</w>
-
-<w n="271,17">полкы,</w>
-<w n="271,17">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="271,17">Бонякъ;</w>
-<w n="271,17">и</w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="271,17">в</w>
-<w n="271,17">мячь.</w>
-<w n="271,17">Бонякъ</w>
-<w n="271,17">же</w>
-<w n="271,17">раздѣлися</w>
-<w n="271,17">на 3</w>
-
-<w n="271,17">полкы,</w>
-<w n="271,17">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="271"/><div type="block" n="17"><p><app><lem wit="#lem">
+            Бонякъ же раздѣли ся на 3 пълкы, и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">в мѧчь· бонѧкъ же раздѣ<lb/>ли сѧ на ·г҃· полкы· и</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">бонѧкъ же раздили сѧ на· <lb/> г҃· полкы· и</rdg>
+            <rdg wit="#xle">бонѧк′ же раздѣли сѧ на три·̏ <lb/> пол′кы. и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">в мячь; Бонякъ же раздѣлися на 3 полкы, и</rdg><rdg wit="#shakh">Бонякъ; и </rdg><rdg wit="#likh">в мячь. Бонякъ же раздѣлися на 3 полкы, и</rdg></rdgGrp></app></p></div></body></text></TEI>

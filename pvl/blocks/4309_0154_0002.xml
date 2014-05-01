@@ -1,71 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>154, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="154"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-<w n="154,2">бѣ</w>
-<w n="154,2">моръ</w>
-<w n="154,2">въ</w>
-<w n="154,2">конихъ.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="154,2">бо</w>
-<w n="154,2">бѣ</w>
-<w n="154,2">моръ</w>
-<w n="154,2">в</w>
-<w n="154,2">кони<hi rend="sup">х</hi>·:·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="154,2">бѣ</w>
-<w n="154,2">моръ</w>
-<w n="154,2">в</w>
-<w n="154,2">ни<hi rend="sup">х</hi>:-</w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="154,2">бѣ</w>
-<w n="154,2">моръ</w>
-<w n="154,2">в</w>
-<w n="154,2">нихъ:· <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="154,2">бѣ</w>
-<w n="154,2">мо<lb/>ръ</w>
-<w n="154,2">в</w>
-<w n="154,2">конѣхъ·:· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="154,2">бѣ</w>
-<w n="154,2">морь</w>
-<w n="154,2">в</w>
-<w n="154,2">коне<hi rend="sup">х</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="154,2">бо</w>
-<w n="154,2">бѣ</w>
-<w n="154,2">моръ</w>
-<w n="154,2">в</w>
-<w n="154,2">конихъ.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="154,2">бѣ</w>
-<w n="154,2">моръ</w>
-<w n="154,2">въ</w>
-<w n="154,2">конихъ.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="154,2">бо</w>
-<w n="154,2">бѣ</w>
-<w n="154,2">моръ</w>
-<w n="154,2">в</w>
-<w n="154,2">коних.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>154, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="154"/><div type="block" n="2"><p><app><lem wit="#lem">
+            бѣ моръ въ конихъ.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">бо бѣ моръ в кони<hi rend="sup">х</hi>·:·</rdg>
+            <rdg wit="#rad">бѣ моръ в ни<hi rend="sup">х</hi>:- </rdg>
+            <rdg wit="#aka">бѣ моръ в нихъ:· <lb/></rdg>
+            <rdg wit="#ipa">бѣ мо<lb/>ръ в конѣхъ·:· <lb/></rdg>
+            <rdg wit="#xle">бѣ морь в коне<hi rend="sup">х</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">бо бѣ моръ в конихъ.</rdg><rdg wit="#shakh">бѣ моръ въ конихъ.</rdg><rdg wit="#likh">бо бѣ моръ в коних.</rdg></rdgGrp></app></p></div></body></text></TEI>

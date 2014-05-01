@@ -1,88 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>52, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="52"/><div type="block" n="26"><p>
-<app>
-<lem wit="#lem">
-<w n="52,26">елико</w>
-<w n="52,26">насъ</w>
-<w n="52,26">крьстили</w>
-<w n="52,26">ся</w>
-<w n="52,26">есмы,</w>
-<w n="52,26">кляхомъ</w>
-<w n="52,26">ся</w>
-<w n="52,26">цьркъвью</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="52,26">елико</w>
-<w n="52,26">насъ</w>
-<w n="52,26">хр<hi rend="sup">с</hi>тли<lb/>сѧ</w>
-<w n="52,26">есмы.</w>
-<w n="52,26">клѧхомъсѧ</w>
-<w n="52,26">црк҃вью</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="52,26">елико</w>
-<w n="52,26">на<hi rend="sup">с</hi></w>
-<w n="52,26">кр<hi rend="sup">с</hi>тилисѧ</w>
-<w n="52,26">е<lb/>смо.</w>
-<w n="52,26">клѧхомъ<hi rend="sup">с</hi></w>
-<w n="52,26">црк҃вию</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="52,26">елико</w>
-<w n="52,26">на<hi rend="sup">с</hi></w>
-<w n="52,26">кр<hi rend="sup">с</hi>тилисѧ</w>
-<w n="52,26">есмо. <lb/></w>
-
-<w n="52,26">клѧхомсѧ</w>
-<w n="52,26">црк҃вью</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="52,26">елико</w>
-<w n="52,26">насъ <lb/></w>
-
-<w n="52,26">кр<hi rend="sup">с</hi>тилисѧ</w>
-<w n="52,26">есмы.</w>
-<w n="52,26">клѧ<lb/>хомсѧ</w>
-<w n="52,26">црк҃вью</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="52,26">елико</w>
-<w n="52,26">на<hi rend="sup">с</hi></w>
-<w n="52,26">кр<hi rend="sup">с</hi>тилисѧ</w>
-<w n="52,26">есмы.</w>
-<w n="52,26">клѧхомсѧ</w>
-<w n="52,26">црк҃вїю <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="52,26">елико</w>
-<w n="52,26">насъ</w>
-<w n="52,26">хрестилися</w>
-<w n="52,26">есмы,</w>
-<w n="52,26">кляхомъся</w>
-<w n="52,26">церковью</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="52,26">елико</w>
-<w n="52,26">насъ</w>
-<w n="52,26">крьстилися</w>
-<w n="52,26">есмы,</w>
-<w n="52,26">кляхомъся</w>
-<w n="52,26">цьркъвию</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="52,26">елико</w>
-<w n="52,26">насъ</w>
-<w n="52,26">хрестилися</w>
-<w n="52,26">есмы,</w>
-<w n="52,26">кляхомъся</w>
-<w n="52,26">церковью</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>52, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="52"/><div type="block" n="26"><p><app><lem wit="#lem">
+            елико насъ крьстили ся есмы, кляхомъ ся цьркъвью
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">елико насъ хр<hi rend="sup">с</hi>тли<lb/>сѧ есмы. клѧхомъсѧ црк҃вью</rdg>
+            <rdg wit="#rad">елико на<hi rend="sup">с</hi> кр<hi rend="sup">с</hi>тилисѧ е<lb/>смо. клѧхомъ<hi rend="sup">с</hi>
+                црк҃вию</rdg>
+            <rdg wit="#aka">елико на<hi rend="sup">с</hi> кр<hi rend="sup">с</hi>тилисѧ есмо. <lb/> клѧхомсѧ црк҃вью</rdg>
+            <rdg wit="#ipa">елико насъ <lb/> кр<hi rend="sup">с</hi>тилисѧ есмы. клѧ<lb/>хомсѧ црк҃вью</rdg>
+            <rdg wit="#xle">елико на<hi rend="sup">с</hi> кр<hi rend="sup">с</hi>тилисѧ есмы. клѧхомсѧ црк҃вїю <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">елико насъ хрестилися есмы, кляхомъся церковью</rdg><rdg wit="#shakh">елико насъ крьстилися есмы, кляхомъся цьркъвию</rdg><rdg wit="#likh">елико насъ хрестилися есмы, кляхомъся церковью</rdg></rdgGrp></app></p></div></body></text></TEI>

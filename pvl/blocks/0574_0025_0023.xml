@@ -1,104 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>25, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="25"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="25,23">Фрачьску</w>
-<w n="25,23">и</w>
-<w n="25,23">Макидоньску</w>
-<w n="25,23">доже</w>
-<w n="25,23">и</w>
-<w n="25,23">до</w>
-<w n="25,23">Селуня;</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="25,23"><milestone unit="sic" n="start"/>фрачьску</w>
-<w n="25,23">и</w>
-<w n="25,23">макидо<milestone unit="sic" n="end"/>ньску</w>
-<w n="25,23">доже</w>
-<w n="25,23">и</w>
-<w n="25,23">до</w>
-<w n="25,23">селунѧ. <pb n="9r"/></w>
-
-</rdg>
-
-<rdg wit="#tro">
-<w n="25,23">фрачьску</w>
-<w n="25,23">и</w>
-<w n="25,23">макидонску</w>
-<w n="25,23">даже</w>
-<w n="25,23">и</w>
-<w n="25,23">до</w>
-<w n="25,23">селуня</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="25,23">фра<hi rend="sup">ч</hi>скоу.</w>
-<w n="25,23">и</w>
-<w n="25,23">макидоньскоу.</w>
-<w n="25,23">даже</w>
-<w n="25,23">и</w>
-<w n="25,23">до</w>
-<w n="25,23">селоунѧ <pb n="12v"/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="25,23">фра<hi rend="sup">ч</hi>скѹ.</w>
-<w n="25,23">и</w>
-<w n="25,23">ма<lb/>кидоньскѹ.</w>
-<w n="25,23">даже</w>
-<w n="25,23">и</w>
-<w n="25,23">до</w>
-<w n="25,23">селѹнѧ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="25,23">фрачь<lb/>скую.</w>
-<w n="25,23">и</w>
-<w n="25,23">македоньску.</w>
-<w n="25,23">до<lb/>же</w>
-<w n="25,23">и</w>
-<w n="25,23">до</w>
-<w n="25,23">селунѧ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="25,23">фра<hi rend="sup">ч</hi>скоую.</w>
-<w n="25,23">и</w>
-<w n="25,23">македо<hi rend="sup">н</hi><lb/>скоу.</w>
-<w n="25,23">даже</w>
-<w n="25,23">и</w>
-<w n="25,23">до</w>
-<w n="25,23">селоунѧ.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="25,23">Фрачьску</w>
-<w n="25,23">и</w>
-<w n="25,23">Макидоньску</w>
-<w n="25,23">доже</w>
-<w n="25,23">и</w>
-<w n="25,23">до</w>
-<w n="25,23">Селуня;</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="25,23">Фрачьску</w>
-<w n="25,23">и</w>
-<w n="25,23">Макидоньску</w>
-<w n="25,23">доже</w>
-<w n="25,23">и</w>
-<w n="25,23">до</w>
-<w n="25,23">Селуня;</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="25,23">Фрачьску</w>
-<w n="25,23">и</w>
-<w n="25,23">Макидоньску</w>
-<w n="25,23">доже</w>
-<w n="25,23">и</w>
-<w n="25,23">до</w>
-<w n="25,23">Селуня.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>25, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="25"/><div type="block" n="23"><p><app><lem wit="#lem">
+            Фрачьску и Макидоньску доже и до Селуня;
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav"><sic>фрачьску и макидо</sic>ньску доже и до селунѧ.
+                    <pb n="9r"/></rdg>
+            <rdg wit="#tro">фрачьску и макидонску даже и до селуня</rdg>
+            <rdg wit="#rad">фра<hi rend="sup">ч</hi>скоу. и макидоньскоу. даже  и до селоунѧ
+                <pb n="12v"/></rdg>
+            <rdg wit="#aka">фра<hi rend="sup">ч</hi>скѹ. и ма<lb/>кидоньскѹ. даже и до селѹнѧ</rdg>
+            <rdg wit="#ipa">фрачь<lb/>скую. и македоньску. до<lb/>же и до селунѧ.</rdg>
+            <rdg wit="#xle">фра<hi rend="sup">ч</hi>скоую. и македо<hi rend="sup">н</hi><lb/>скоу. даже и до селоунѧ.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Фрачьску и Макидоньску доже и до Селуня;</rdg><rdg wit="#shakh">Фрачьску и Макидоньску доже и до Селуня;</rdg><rdg wit="#likh">Фрачьску и Макидоньску доже и до Селуня.</rdg></rdgGrp></app></p></div></body></text></TEI>

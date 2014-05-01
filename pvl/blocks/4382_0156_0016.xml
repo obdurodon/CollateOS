@@ -1,92 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>156, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="156"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="156,16">чьрньчьскыи</w>
-<w n="156,16">образъ,</w>
-<w n="156,16">и</w>
-<w n="156,16">приде</w>
-<w n="156,16">въ</w>
-<w n="156,16">манастырь</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="156,16">чернечьскыи</w>
-<w n="156,16">ѡбра<hi rend="sup">з</hi>. <lb/></w>
-
-<w n="156,16">приде</w>
-<w n="156,16">в</w>
-<w n="156,16">манастырь</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="156,16">мни<lb/>шескыи</w>
-<w n="156,16">ѡбразъ.</w>
-<w n="156,16">и</w>
-<w n="156,16">прииде</w>
-<w n="156,16">в</w>
-<w n="156,16">монастырь</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="156,16">мнишескыи <lb/></w>
-
-<w n="156,16">ѡбразъ.</w>
-<w n="156,16">и</w>
-<w n="156,16">прїиде</w>
-<w n="156,16">в</w>
-<w n="156,16">монастырь.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="156,16">чернѣць<lb/>скыи</w>
-<w n="156,16">ѡбразъ.</w>
-<w n="156,16">и</w>
-<w n="156,16">приде</w>
-<w n="156,16">вь</w>
-<w n="156,16">еди<lb/>нъ</w>
-<w n="156,16">манастырь.</w>
-<w n="156,16">ѿ</w>
-<w n="156,16">сущихъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="156,16">черноризкыи</w>
-<w n="156,16">обра<hi rend="sup">з</hi>.</w>
-<w n="156,16">и</w>
-<w n="156,16">прїиде</w>
-<w n="156,16">въ</w>
-<w n="156,16">единь</w>
-<w n="156,16">манастыр <lb/></w>
-
-<w n="156,16">ѿ</w>
-<w n="156,16">сѫщи<hi rend="sup">х</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="156,16">чернечьскый</w>
-<w n="156,16">образъ,</w>
-<w n="156,16">приде</w>
-<w n="156,16">в</w>
-<w n="156,16">манастырь</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="156,16">чьрньчьскыи</w>
-<w n="156,16">образъ,</w>
-<w n="156,16">и</w>
-<w n="156,16">приде</w>
-<w n="156,16">въ</w>
-<w n="156,16">единъ</w>
-<w n="156,16">манастырь</w>
-<w n="156,16">отъ</w>
-<w n="156,16">сущихъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="156,16">чернечьскый</w>
-<w n="156,16">образ,</w>
-<w n="156,16">приде</w>
-<w n="156,16">в</w>
-<w n="156,16">манастырь</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>156, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="156"/><div type="block" n="16"><p><app><lem wit="#lem">
+            чьрньчьскыи образъ, и приде въ манастырь
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">чернечьскыи ѡбра<hi rend="sup">з</hi>. <lb/> приде в манастырь</rdg>
+            <rdg wit="#rad">мни<lb/>шескыи ѡбразъ. и прииде в монастырь</rdg>
+            <rdg wit="#aka">мнишескыи <lb/> ѡбразъ. и прїиде в монастырь.</rdg>
+            <rdg wit="#ipa">чернѣць<lb/>скыи ѡбразъ. и приде вь еди<lb/>нъ манастырь. ѿ сущихъ</rdg>
+            <rdg wit="#xle">черноризкыи обра<hi rend="sup">з</hi>. и прїиде въ единь манастыр <lb/> ѿ
+                сѫщи<hi rend="sup">х</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">чернечьскый образъ, приде в манастырь</rdg><rdg wit="#shakh">чьрньчьскыи образъ, и приде въ единъ манастырь отъ сущихъ</rdg><rdg wit="#likh">чернечьскый образ, приде в манастырь</rdg></rdgGrp></app></p></div></body></text></TEI>

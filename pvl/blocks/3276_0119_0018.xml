@@ -1,89 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>119, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="119"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="119,18">сущимъ?</w>
-<w n="119,18">Недоумѣемъ</w>
-<w n="119,18">противу</w>
-<w n="119,18">даромъ</w>
-<w n="119,18">твоимъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="119,18">сущемъ.</w>
-<w n="119,18">недоѹмѣѥ<hi rend="sup">м</hi></w>
-<w n="119,18">противу <lb/></w>
-
-<w n="119,18">даромъ</w>
-<w n="119,18">твои<hi rend="sup">м</hi>.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="119,18">соущимъ.</w>
-<w n="119,18">не</w>
-<w n="119,18">оумѣемъ</w>
-<w n="119,18">проти<lb/>воу</w>
-<w n="119,18">даромъ</w>
-<w n="119,18">твоимъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="119,18">сѹщимъ.</w>
-<w n="119,18">недооумѣемь</w>
-<w n="119,18">про<lb/>тивѹ</w>
-<w n="119,18">даромъ</w>
-<w n="119,18">твоимъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="119,18">сущимъ.</w>
-<w n="119,18">недооумѣ<lb/>емь</w>
-<w n="119,18">противу</w>
-<w n="119,18">даромъ</w>
-<w n="119,18">твои<hi rend="sup">м</hi><lb/></w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="119,18">сущимъ</w>
-<w n="119,18">и</w>
-<w n="119,18">недоумѣемъ</w>
-<w n="119,18">противу</w>
-<w n="119,18">даромъ</w>
-<w n="119,18">твоимъ</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="119,18">сущимъ</w>
-<w n="119,18">и</w>
-<w n="119,18">недоумѣемъ</w>
-<w n="119,18">противу</w>
-<w n="119,18">даромъ</w>
-<w n="119,18">твоимъ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="119,18">сущемъ?</w>
-<w n="119,18">недоумѣемъ</w>
-<w n="119,18">противу</w>
-<w n="119,18">даромъ</w>
-<w n="119,18">твоимъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="119,18">сущемъ?</w>
-<w n="119,18">Недоумѣемъ</w>
-<w n="119,18">противу</w>
-<w n="119,18">даромъ</w>
-<w n="119,18">твоимъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="119,18">сущемъ?</w>
-<w n="119,18">Недоумѣем</w>
-<w n="119,18">противу</w>
-<w n="119,18">даромъ</w>
-<w n="119,18">твоим</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>119, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="119"/><div type="block" n="18"><p><app><lem wit="#lem">
+            сущимъ? Недоумѣемъ противу даромъ твоимъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">сущемъ. недоѹмѣѥ<hi rend="sup">м</hi> противу <lb/> даромъ твои<hi rend="sup">м</hi>.</rdg>
+            <rdg wit="#rad">соущимъ. не оумѣемъ проти<lb/>воу даромъ твоимъ</rdg>
+            <rdg wit="#aka">сѹщимъ. недооумѣемь про<lb/>тивѹ даромъ твоимъ</rdg>
+            <rdg wit="#ipa">сущимъ. недооумѣ<lb/>емь противу даромъ твои<hi rend="sup">м</hi>
+                <lb/></rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">сущимъ и недоумѣемъ противу даромъ твоимъ</rdg>
+            <rdg wit="#tol">сущимъ и недоумѣемъ противу даромъ твоимъ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">сущемъ? недоумѣемъ противу даромъ твоимъ</rdg><rdg wit="#shakh">сущемъ? Недоумѣемъ противу даромъ твоимъ</rdg><rdg wit="#likh">сущемъ? Недоумѣем противу даромъ твоим</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,100 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>31, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="31"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="31,1">градъ</w>
-<w n="31,1">Карла,</w>
-<w n="31,1">Фарлофа,</w>
-<w n="31,1">Вельмуда,</w>
-<w n="31,1">Рулава</w>
-<w n="31,1">и</w>
-<w n="31,1">Стемида,</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="31,1">градъ</w>
-<w n="31,1">карла</w>
-<w n="31,1">фарлофа</w>
-<w n="31,1">вельмуда</w>
-<w n="31,1">рулава</w>
-<w n="31,1">и</w>
-<w n="31,1">стемида</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="31,1">гра<hi rend="sup">д</hi></w>
-<w n="31,1">карла</w>
-<w n="31,1">фарло<hi rend="sup">ѳ</hi>.</w>
-<w n="31,1">вельм<hi rend="sup">ѹ</hi>да.</w>
-<w n="31,1">рѹлава.</w>
-<w n="31,1">и</w>
-<w n="31,1">стеми<hi rend="sup">д</hi>.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="31,1">гра<hi rend="sup">д</hi>.</w>
-<w n="31,1">карла.</w>
-<w n="31,1">фарълофа. <lb/></w>
-
-<w n="31,1">вельмѹда.</w>
-<w n="31,1">рѹлава.</w>
-<w n="31,1">и</w>
-<w n="31,1">стемида.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="31,1">городъ</w>
-<w n="31,1">ка<lb/>рла.</w>
-<w n="31,1">фарлофа.</w>
-<w n="31,1">велму<lb/>да.</w>
-<w n="31,1">рулава.</w>
-<w n="31,1">и</w>
-<w n="31,1">стѣмида</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="31,1">горѡ<hi rend="sup">д</hi>.</w>
-<w n="31,1">карла.</w>
-<w n="31,1">фарлоѳа,</w>
-<w n="31,1">велмоуда, <lb/></w>
-
-<w n="31,1">роулава.</w>
-<w n="31,1">и</w>
-<w n="31,1">стемида.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="31,1">градъ</w>
-<w n="31,1">Карла,</w>
-<w n="31,1">Фарлоѳа,</w>
-<w n="31,1">Вельмуда,</w>
-<w n="31,1">Рулава</w>
-<w n="31,1">и</w>
-<w n="31,1">Стемида, <pb n="30,8"/></w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="31,1">градъ</w>
-<w n="31,1">Карла,</w>
-<w n="31,1">Фарлофа,</w>
-<w n="31,1">Верьмуда,</w>
-<w n="31,1">Рулава</w>
-<w n="31,1">и</w>
-<w n="31,1">Стемида, <pb n="31,2"/></w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="31,1">градъ</w>
-<w n="31,1">Карла,</w>
-<w n="31,1">Фарлофа,</w>
-<w n="31,1">Вельмуда,</w>
-<w n="31,1">Рулава</w>
-<w n="31,1">и</w>
-<w n="31,1">Стемида, <pb n="24,23"/></w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>31, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="31"/><div type="block" n="1"><p><app><lem wit="#lem">
+            градъ Карла, Фарлофа, Вельмуда, Рулава и Стемида,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">градъ карла фарлофа вельмуда рулава и стемида</rdg>
+            <rdg wit="#rad">гра<hi rend="sup">д</hi> карла фарло<hi rend="sup">ѳ</hi>. вельм<hi rend="sup">ѹ</hi>да. рѹлава. и
+                    стеми<hi rend="sup">д</hi>.</rdg>
+            <rdg wit="#aka">гра<hi rend="sup">д</hi>. карла. фарълофа. <lb/> вельмѹда. рѹлава. и стемида.</rdg>
+            <rdg wit="#ipa">городъ ка<lb/>рла. фарлофа. велму<lb/>да. рулава. и стѣмида</rdg>
+            <rdg wit="#xle">горѡ<hi rend="sup">д</hi>. карла. фарлоѳа, велмоуда, <lb/> роулава. и стемида.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">градъ Карла, Фарлоѳа, Вельмуда, Рулава и Стемида, <pb n="30,8"/></rdg><rdg wit="#shakh">градъ Карла, Фарлофа, Верьмуда, Рулава и Стемида, <pb n="31,2"/></rdg><rdg wit="#likh">градъ Карла, Фарлофа, Вельмуда, Рулава и Стемида, <pb n="24,23"/></rdg></rdgGrp></app></p></div></body></text></TEI>

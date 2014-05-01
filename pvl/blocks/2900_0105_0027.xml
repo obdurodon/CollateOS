@@ -1,114 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>105, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="105"/><div type="block" n="27"><p>
-<app>
-<lem wit="#lem">
-<w n="105,27">веселие</w>
-<w n="105,27">бес</w>
-<w n="105,27">коньца,</w>
-<w n="105,27">и</w>
-<w n="105,27">не</w>
-<w n="105,27">умирати</w>
-<w n="105,27">въ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="105,27">веселье</w>
-<w n="105,27">бес</w>
-<w n="105,27">ко<lb/>нца</w>
-<w n="105,27">и</w>
-<w n="105,27">не</w>
-<w n="105,27">оумирати</w>
-<w n="105,27">въ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="105,27">веселее</w>
-<w n="105,27">бес</w>
-<w n="105,27">конца.</w>
-<w n="105,27">и</w>
-<w n="105,27">не</w>
-<w n="105,27">оумирати <lb/></w>
-
-<w n="105,27">в</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="105,27">веселїе</w>
-<w n="105,27">бес</w>
-<w n="105,27">конца.</w>
-<w n="105,27">и</w>
-<w n="105,27">не</w>
-<w n="105,27">оумирати</w>
-<w n="105,27">в <pb n="54v"/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-<w n="105,27">веселїе</w>
-<w n="105,27">бе<hi rend="sup">з</hi></w>
-<w n="105,27">конца.</w>
-<w n="105,27">и</w>
-<w n="105,27">не</w>
-<w n="105,27">оуми<lb/>рати</w>
-<w n="105,27">в</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="105,27">веселие</w>
-<w n="105,27">бес</w>
-<w n="105,27">конца</w>
-<w n="105,27">не</w>
-<w n="105,27">умирати</w>
-<w n="105,27">в</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="105,27">веселие</w>
-<w n="105,27">бес</w>
-<w n="105,27">конца</w>
-<w n="105,27">не</w>
-<w n="105,27">умирати</w>
-<w n="105,27">въ</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="105,27">веселие</w>
-<w n="105,27">бес</w>
-<w n="105,27">конца</w>
-<w n="105,27">не</w>
-<w n="105,27">умираетъ</w>
-<w n="105,27">в</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="105,27">веселье</w>
-<w n="105,27">бес</w>
-<w n="105,27">конца,</w>
-<w n="105,27">и</w>
-<w n="105,27">не</w>
-<w n="105,27">умирати</w>
-<w n="105,27">въ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="105,27">веселие</w>
-<w n="105,27">бес</w>
-<w n="105,27">коньца,</w>
-<w n="105,27">и</w>
-<w n="105,27">не</w>
-<w n="105,27">умирати</w>
-<w n="105,27">въ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="105,27">веселье</w>
-<w n="105,27">бес</w>
-<w n="105,27">конца,</w>
-<w n="105,27">и</w>
-<w n="105,27">не</w>
-<w n="105,27">умирати</w>
-<w n="105,27">въ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>105, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="105"/><div type="block" n="27"><p><app><lem wit="#lem">
+            веселие бес коньца, и не умирати въ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">веселье бес ко<lb/>нца и не оумирати въ</rdg>
+            <rdg wit="#rad">веселее бес конца. и не оумирати <lb/> в</rdg>
+            <rdg wit="#aka">веселїе бес конца. и не оумирати в <pb n="54v"/></rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">веселїе бе<hi rend="sup">з</hi> конца. и не оуми<lb/>рати в</rdg>
+            <rdg wit="#kom">веселие бес конца не умирати в</rdg>
+            <rdg wit="#nak">веселие бес конца не умирати въ</rdg>
+            <rdg wit="#tol">веселие бес конца не умираетъ в</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">веселье бес конца, и не умирати въ</rdg><rdg wit="#shakh">веселие бес коньца, и не умирати въ</rdg><rdg wit="#likh">веселье бес конца, и не умирати въ</rdg></rdgGrp></app></p></div></body></text></TEI>

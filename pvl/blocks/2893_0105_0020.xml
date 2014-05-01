@@ -1,95 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>105, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="105"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="105,20">яко</w>
-<w n="105,20">водою</w>
-<w n="105,20">обновление</w>
-<w n="105,20">будеть.</w>
-<w n="105,20">Апостоломъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="105,20">ꙗко</w>
-<w n="105,20">водою</w>
-<w n="105,20">ѡбновл<hi rend="sup">е</hi><lb/>нъ</w>
-<w n="105,20">будеть.</w>
-<w n="105,20">ап<hi rend="sup">с</hi>лмъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="105,20">ꙗко</w>
-<w n="105,20">водою <lb/></w>
-
-<w n="105,20">ѡбновленъ</w>
-<w n="105,20">боудеть.</w>
-<w n="105,20">ап<hi rend="sup">с</hi>тлмъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="105,20">ꙗко</w>
-<w n="105,20">водою <lb/></w>
-
-<w n="105,20">ѡбновленъ</w>
-<w n="105,20">бѹдеть.</w>
-<w n="105,20">ап<hi rend="sup">с</hi>ломъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-<w n="105,20">яко</w>
-<w n="105,20">водою</w>
-<w n="105,20">ѡбновленїе</w>
-<w n="105,20">бѫде<hi rend="sup">т</hi>.</w>
-<w n="105,20">ап<hi rend="sup">с</hi>лѡ<hi rend="sup">м</hi><pb n="46v"/></w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="105,20">ꙗко</w>
-<w n="105,20">водою</w>
-<w n="105,20">обновление</w>
-<w n="105,20">будеть</w>
-<w n="105,20">апостоломъ</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="105,20">ꙗко</w>
-<w n="105,20">водою</w>
-<w n="105,20">обьновление</w>
-<w n="105,20">будеть</w>
-<w n="105,20">апостоломъ</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="105,20">ꙗко</w>
-<w n="105,20">водою</w>
-<w n="105,20">обьновление</w>
-<w n="105,20">будеть</w>
-<w n="105,20">апостоломъ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="105,20">яко</w>
-<w n="105,20">водою</w>
-<w n="105,20">обновленье</w>
-<w n="105,20">будеть.</w>
-<w n="105,20">Апостоломъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="105,20">яко</w>
-<w n="105,20">водою</w>
-<w n="105,20">обновление</w>
-<w n="105,20">будеть.</w>
-<w n="105,20">Апостоломъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="105,20">яко</w>
-<w n="105,20">водою</w>
-<w n="105,20">обновленье</w>
-<w n="105,20">будеть.</w>
-<w n="105,20">Апостоломъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>105, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="105"/><div type="block" n="20"><p><app><lem wit="#lem">
+            яко водою обновление будеть. Апостоломъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ꙗко водою ѡбновл<hi rend="sup">е</hi><lb/>нъ будеть. ап<hi rend="sup">с</hi>лмъ</rdg>
+            <rdg wit="#rad">ꙗко водою <lb/> ѡбновленъ боудеть. ап<hi rend="sup">с</hi>тлмъ</rdg>
+            <rdg wit="#aka">ꙗко водою <lb/> ѡбновленъ бѹдеть. ап<hi rend="sup">с</hi>ломъ</rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">ꙗко водою ѡбновленїе бѫде<hi rend="sup">т</hi>. ап<hi rend="sup">с</hi>лѡ<hi rend="sup">м</hi>
+                <pb n="46v"/></rdg>
+            <rdg wit="#kom">ꙗко водою обновление будеть апостоломъ</rdg>
+            <rdg wit="#nak">ꙗко водою обьновление будеть апостоломъ</rdg>
+            <rdg wit="#tol">ꙗко водою обьновление будеть апостоломъ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">яко водою обновленье будеть. Апостоломъ</rdg><rdg wit="#shakh">яко водою обновление будеть. Апостоломъ</rdg><rdg wit="#likh">яко водою обновленье будеть. Апостоломъ</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,52 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>251, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="251"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="251,10">свѧзалъ</w>
-<w n="251,10">ѥсмь· <lb/></w>
-
-<w n="251,10">в</w>
-<w n="251,10">пуша<hi rend="sup">х</hi></w>
-<w n="251,10">·і҃·и·к҃·</w>
-<w n="251,10">живы<hi rend="sup">х</hi></w>
-<w n="251,10">конь·</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="251,10">связалъ</w>
-<w n="251,10">есмь</w>
-<w n="251,10">въ</w>
-<w n="251,10">пушахъ 10</w>
-
-<w n="251,10">и 20</w>
-
-<w n="251,10">живыхъ</w>
-<w n="251,10">конь,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="251,10">связалъ</w>
-<w n="251,10">есмь</w>
-<w n="251,10">въ</w>
-<w n="251,10">пушах 10</w>
-
-<w n="251,10">и 20</w>
-
-<w n="251,10">живых</w>
-<w n="251,10">конь,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>251, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="251"/><div type="block" n="10"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">свѧзалъ ѥсмь· <lb/> в пуша<hi rend="sup">х</hi> ·і҃·и·к҃· живы<hi rend="sup">х</hi> конь·</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">связалъ есмь въ пушахъ 10 и 20 живыхъ конь,</rdg><rdg wit="#likh">связалъ есмь въ пушах 10 и 20 живых конь,</rdg></rdgGrp></app></p></div></body></text></TEI>

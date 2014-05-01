@@ -1,94 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>235, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="235"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="235,9">и</w>
-<w n="235,9">говоръ,</w>
-<w n="235,9">и</w>
-<w n="235,9">сѣкуть</w>
-<w n="235,9">гору,</w>
-<w n="235,9">хотяще</w>
-<w n="235,9">просѣчи</w>
-<w n="235,9">ся;</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="235,9">и</w>
-<w n="235,9">говоръ·</w>
-<w n="235,9">и</w>
-<w n="235,9">сѣку<lb/>ть</w>
-<w n="235,9">гору</w>
-<w n="235,9">хотѧще</w>
-<w n="235,9">высѣчисѧ·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="235,9">и</w>
-<w n="235,9">говоръ·</w>
-<w n="235,9">и</w>
-<w n="235,9">секоть</w>
-<w n="235,9">горѹ.</w>
-<w n="235,9">хотѧ<hi rend="sup">ч</hi><lb/></w>
-<w n="235,9">просѣчи<hi rend="sup">с</hi>.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="235,9">и</w>
-<w n="235,9">говоръ·</w>
-<w n="235,9">и</w>
-<w n="235,9">секѹть</w>
-<w n="235,9">горѹ·</w>
-<w n="235,9">хотѧчи</w>
-<w n="235,9">просѣчисѧ·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="235,9">и</w>
-<w n="235,9">гово<lb/>ръ·</w>
-<w n="235,9">и</w>
-<w n="235,9">сѣкуть</w>
-<w n="235,9">гору</w>
-<w n="235,9">хотѧще</w>
-<w n="235,9">про<lb/>сѣчисѧ·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="235,9">и</w>
-<w n="235,9">говорь</w>
-<w n="235,9">и</w>
-<w n="235,9">сѣкоу<hi rend="sup">т</hi></w>
-<w n="235,9">гороу</w>
-<w n="235,9">хотѧще <lb/></w>
-
-<w n="235,9">просѣщисѧ,</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="235,9">и</w>
-<w n="235,9">говоръ,</w>
-<w n="235,9">и</w>
-<w n="235,9">сѣкуть</w>
-<w n="235,9">гору,</w>
-<w n="235,9">хотяще</w>
-<w n="235,9">высѣчися;</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="235,9">и</w>
-<w n="235,9">говоръ,</w>
-<w n="235,9">и</w>
-<w n="235,9">сѣкуть</w>
-<w n="235,9">гору,</w>
-<w n="235,9">хотяще</w>
-<w n="235,9">высѣчися;</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="235,9">и</w>
-<w n="235,9">говоръ,</w>
-<w n="235,9">и</w>
-<w n="235,9">сѣкуть</w>
-<w n="235,9">гору,</w>
-<w n="235,9">хотяще</w>
-<w n="235,9">высѣчися;</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>235, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="235"/><div type="block" n="9"><p><app><lem wit="#lem">
+            и говоръ, и сѣкуть гору, хотяще просѣчи ся;
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и говоръ· и сѣку<lb/>ть гору хотѧще высѣчисѧ·</rdg>
+            <rdg wit="#rad">и говоръ· и секоть горѹ. хотѧ<hi rend="sup">ч</hi>
+                <lb/> просѣчи<hi rend="sup">с</hi>.</rdg>
+            <rdg wit="#aka">и говоръ· и секѹть горѹ· хотѧчи просѣчисѧ·</rdg>
+            <rdg wit="#ipa">и гово<lb/>ръ· и сѣкуть гору хотѧще про<lb/>сѣчисѧ·</rdg>
+            <rdg wit="#xle">и говорь и сѣкоу<hi rend="sup">т</hi> гороу хотѧще <lb/> просѣщисѧ,</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и говоръ, и сѣкуть гору, хотяще высѣчися;</rdg><rdg wit="#shakh">и говоръ, и сѣкуть гору, хотяще высѣчися;</rdg><rdg wit="#likh">и говоръ, и сѣкуть гору, хотяще высѣчися;</rdg></rdgGrp></app></p></div></body></text></TEI>

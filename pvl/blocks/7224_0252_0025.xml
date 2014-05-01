@@ -1,50 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>252, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="252"/><div type="block" n="25"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="252,25">бо</w>
-<w n="252,25">были</w>
-<w n="252,25">рати</w>
-<w n="252,25">при</w>
-<w n="252,25">оумны<hi rend="sup">х</hi><lb/></w>
-<w n="252,25">дѣте<hi rend="sup">х</hi></w>
-<w n="252,25">наши<hi rend="sup">х</hi>·</w>
-<w n="252,25">при</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="252,25">бо</w>
-<w n="252,25">были</w>
-<w n="252,25">рати</w>
-<w n="252,25">при</w>
-<w n="252,25">умныхъ</w>
-<w n="252,25">дѣдѣхъ</w>
-<w n="252,25">нашихъ,</w>
-<w n="252,25">при</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="252,25">бо</w>
-<w n="252,25">были</w>
-<w n="252,25">рати</w>
-<w n="252,25">при</w>
-<w n="252,25">умных</w>
-<w n="252,25">дѣдѣх</w>
-<w n="252,25">наших,</w>
-<w n="252,25">при</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>252, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="252"/><div type="block" n="25"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">бо были рати при оумны<hi rend="sup">х</hi>
+                <lb/> дѣте<hi rend="sup">х</hi> наши<hi rend="sup">х</hi>· при</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">бо были рати при умныхъ дѣдѣхъ нашихъ, при</rdg><rdg wit="#likh">бо были рати при умных дѣдѣх наших, при</rdg></rdgGrp></app></p></div></body></text></TEI>

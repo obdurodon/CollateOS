@@ -1,73 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>42, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="42"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="42,16">по</w>
-<w n="42,16">Печенѣгы.</w>
-<w n="42,16">Печенѣгомъ</w>
-<w n="42,16">пришьдъшемъ</w>
-<w n="42,16">и</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="42,16">по</w>
-<w n="42,16">печенѣги.</w>
-<w n="42,16">печенѣго<hi rend="sup">м</hi></w>
-<w n="42,16">прише<hi rend="sup">д</hi>ши<hi rend="sup">м</hi>.</w>
-<w n="42,16">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="42,16">по</w>
-<w n="42,16">пече<lb/>нѣгы.</w>
-<w n="42,16">печенѣгомь</w>
-<w n="42,16">пришедшимь.</w>
-<w n="42,16">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="42,16"><hi rend="sup">п</hi><hi rend="sup">о</hi></w>
-<w n="42,16">печенѣгы. <lb/></w>
-
-<w n="42,16">печенѣгомъ</w>
-<w n="42,16">же</w>
-<w n="42,16">пришедъ<lb/>шимъ.</w>
-<w n="42,16">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="42,16">по</w>
-<w n="42,16">печенѣгы</w>
-<w n="42,16">печенѣго<hi rend="sup">м</hi>. <lb/></w>
-
-<w n="42,16">же</w>
-<w n="42,16">прише<hi rend="sup">д</hi>ши<hi rend="sup">м</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="42,16">по</w>
-<w n="42,16">Печенѣги;</w>
-<w n="42,16">Печенѣгомъ</w>
-<w n="42,16">пришедшимъ</w>
-<w n="42,16">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="42,16">по</w>
-<w n="42,16">Печенѣгы.</w>
-<w n="42,16">Печенѣгомъ</w>
-<w n="42,16">же</w>
-<w n="42,16">пришьдъшемъ</w>
-<w n="42,16">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="42,16">по</w>
-<w n="42,16">печенѣги.</w>
-<w n="42,16">Печенѣгом</w>
-<w n="42,16">пришедшим</w>
-<w n="42,16">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>42, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="42"/><div type="block" n="16"><p><app><lem wit="#lem">
+            по Печенѣгы. Печенѣгомъ пришьдъшемъ и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">по печенѣги. печенѣго<hi rend="sup">м</hi> прише<hi rend="sup">д</hi>ши<hi rend="sup">м</hi>. и</rdg>
+            <rdg wit="#aka">по пече<lb/>нѣгы. печенѣгомь пришедшимь. и</rdg>
+            <rdg wit="#ipa"><hi rend="sup">п</hi><hi rend="sup">о</hi> печенѣгы. <lb/> печенѣгомъ же пришедъ<lb/>шимъ. и</rdg>
+            <rdg wit="#xle">по печенѣгы печенѣго<hi rend="sup">м</hi>. <lb/> же прише<hi rend="sup">д</hi>ши<hi rend="sup">м</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">по Печенѣги; Печенѣгомъ пришедшимъ и</rdg><rdg wit="#shakh">по Печенѣгы. Печенѣгомъ же пришьдъшемъ и</rdg><rdg wit="#likh">по печенѣги. Печенѣгом пришедшим и</rdg></rdgGrp></app></p></div></body></text></TEI>

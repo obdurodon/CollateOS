@@ -1,103 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>11, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="11"/><div type="block" n="12"><p>
-<app>
-<lem wit="#lem">
-<w n="11,12">Либь.</w>
-<w n="11,12">Си</w>
-<w n="11,12">суть</w>
-<w n="11,12">свои</w>
-<w n="11,12">языкъ</w>
-<w n="11,12">имуще,</w>
-<w n="11,12">отъ</w>
-<w n="11,12">колѣна</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="11,12">либь:</w>
-<w n="11,12">си</w>
-<w n="11,12">су<lb/>ть</w>
-<w n="11,12">свои</w>
-<w n="11,12">ꙗзыкъ.</w>
-<w n="11,12">имуще</w>
-<w n="11,12">ѿ</w>
-<w n="11,12">колена</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="11,12">либь</w>
-<w n="11,12">си</w>
-<w n="11,12">суть</w>
-<w n="11,12">свои</w>
-<w n="11,12">языкъ</w>
-<w n="11,12">имуще</w>
-<w n="11,12">от</w>
-<w n="11,12">колена</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="11,12">ливь.</w>
-<w n="11,12">су<hi rend="sup">т</hi>.</w>
-<w n="11,12">свои</w>
-<w n="11,12">ꙗзькъ:· <lb/></w>
-
-<w n="11,12">Имоуще</w>
-<w n="11,12">ѿ</w>
-<w n="11,12">колѣна</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="11,12">ливь</w>
-<w n="11,12">сѹ<lb/>ть</w>
-<w n="11,12">свои</w>
-<w n="11,12">ꙗзы<hi rend="sup">к</hi>:·</w>
-<w n="11,12">Имѹще</w>
-<w n="11,12">ѿ</w>
-<w n="11,12">колѣна</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="11,12">либь.</w>
-<w n="11,12">си</w>
-<w n="11,12">суть</w>
-<w n="11,12">свои</w>
-<w n="11,12">ꙗзы<lb/>къ</w>
-<w n="11,12">имуще</w>
-<w n="11,12">ѿ</w>
-<w n="11,12">колѣна</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="11,12">Либь;</w>
-<w n="11,12">си</w>
-<w n="11,12">суть</w>
-<w n="11,12">свой</w>
-<w n="11,12">языкъ</w>
-<w n="11,12">имуще,</w>
-<w n="11,12">отъ</w>
-<w n="11,12">колена</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="11,12">Либь;</w>
-<w n="11,12">си</w>
-<w n="11,12">суть</w>
-<w n="11,12">свои</w>
-<w n="11,12">языкъ</w>
-<w n="11,12">имуще,</w>
-<w n="11,12">отъ</w>
-<w n="11,12">колѣна</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="11,12">либь:</w>
-<w n="11,12">си</w>
-<w n="11,12">суть</w>
-<w n="11,12">свой</w>
-<w n="11,12">языкъ</w>
-<w n="11,12">имуще,</w>
-<w n="11,12">от</w>
-<w n="11,12">колена</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>11, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="11"/><div type="block" n="12"><p><app><lem wit="#lem">
+            Либь. Си суть свои языкъ имуще, отъ колѣна
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">либь: си су<lb/>ть свои ꙗзыкъ. имуще ѿ колена</rdg>
+            <rdg wit="#tro">либь си суть свои языкъ имуще от колена</rdg>
+            <rdg wit="#rad">ливь. су<hi rend="sup">т</hi>. свои ꙗзькъ:· <lb/> Имоуще ѿ колѣна</rdg>
+            <rdg wit="#aka">ливь сѹ<lb/>ть свои ꙗзы<hi rend="sup">к</hi>:· Имѹще ѿ колѣна</rdg>
+            <rdg wit="#ipa">либь. си суть свои ꙗзы<lb/>къ имуще ѿ колѣна</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Либь; си суть свой языкъ имуще, отъ колена</rdg><rdg wit="#shakh">Либь; си суть свои языкъ имуще, отъ колѣна</rdg><rdg wit="#likh">либь: си суть свой языкъ имуще, от колена</rdg></rdgGrp></app></p></div></body></text></TEI>

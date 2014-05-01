@@ -1,57 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>253, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="253"/><div type="block" n="15"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="253,15">зри</w>
-<w n="253,15">бра<hi rend="sup">т</hi></w>
-<w n="253,15">ѡ҃ца</w>
-<w n="253,15">наю·</w>
-<w n="253,15">что <lb/></w>
-
-<w n="253,15">взѧста</w>
-<w n="253,15">или</w>
-<w n="253,15">чи<hi rend="sup">м</hi></w>
-<w n="253,15">има·</w>
-<w n="253,15">поротѣ·</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="253,15">Зри,</w>
-<w n="253,15">братъ,</w>
-<w n="253,15">отца</w>
-<w n="253,15">наю:</w>
-<w n="253,15">что</w>
-<w n="253,15">взяста,</w>
-<w n="253,15">или</w>
-<w n="253,15">чимъ</w>
-<w n="253,15">има</w>
-<w n="253,15">порты?</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="253,15">Зри,</w>
-<w n="253,15">братъ,</w>
-<w n="253,15">отца</w>
-<w n="253,15">наю:</w>
-<w n="253,15">что</w>
-<w n="253,15">взяста,</w>
-<w n="253,15">или</w>
-<w n="253,15">чим</w>
-<w n="253,15">има</w>
-<w n="253,15">порты?</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>253, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="253"/><div type="block" n="15"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">зри бра<hi rend="sup">т</hi> ѡ҃ца наю· что <lb/> взѧста или чи<hi rend="sup">м</hi> има·
+                поротѣ·</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Зри, братъ, отца наю: что взяста, или чимъ има порты?</rdg><rdg wit="#likh">Зри, братъ, отца наю: что взяста, или чим има порты?</rdg></rdgGrp></app></p></div></body></text></TEI>

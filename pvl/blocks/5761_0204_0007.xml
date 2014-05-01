@@ -1,63 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>204, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="204"/><div type="block" n="7"><p>
-<app>
-<lem wit="#lem">
-<w n="204,7">Начало</w>
-<w n="204,7">къняжения</w>
-<w n="204,7">Вьсеволожа</w>
-<w n="204,7">въ</w>
-<w n="204,7">Киевѣ.</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="204,7">Начало</w>
-<w n="204,7">кнж҃ениа.</w>
-<w n="204,7">всеволожа</w>
-<w n="204,7">в</w>
-<w n="204,7">киеве.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="204,7">Начало</w>
-<w n="204,7">кнѧженьѧ</w>
-<w n="204,7">всеволожа</w>
-<w n="204,7">в</w>
-<w n="204,7">кыевѣ:·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="204,7">Начало <lb/></w>
-
-<w n="204,7">кнженьꙗ</w>
-<w n="204,7">всеволожа</w>
-<w n="204,7"><hi rend="sup">в</hi></w>
-<w n="204,7">киеві·:· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="204,7">Начало</w>
-<w n="204,7">кнѧженїа</w>
-<w n="204,7">всеволожа</w>
-<w n="204,7">въ</w>
-<w n="204,7">кїевѣ <lb/></w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="204,7">Начало</w>
-<w n="204,7">къняжения</w>
-<w n="204,7">Вьсеволожа</w>
-<w n="204,7">Кыевѣ.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="204,7">Начало</w>
-<w n="204,7">княжениа</w>
-<w n="204,7">Всеволожа</w>
-<w n="204,7">в</w>
-<w n="204,7">Киеве.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>204, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="204"/><div type="block" n="7"><p><app><lem wit="#lem">
+            Начало къняжения Вьсеволожа въ Киевѣ.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">Начало кнж҃ениа. всеволожа в киеве.</rdg>
+            <rdg wit="#aka">Начало кнѧженьѧ всеволожа в кыевѣ:·</rdg>
+            <rdg wit="#ipa">Начало <lb/> кнженьꙗ всеволожа <hi rend="sup">в</hi> киеві·:· <lb/></rdg>
+            <rdg wit="#xle">Начало кнѧженїа всеволожа въ кїевѣ <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#shakh">Начало къняжения Вьсеволожа Кыевѣ.</rdg><rdg wit="#likh">Начало княжениа Всеволожа в Киеве.</rdg></rdgGrp></app></p></div></body></text></TEI>

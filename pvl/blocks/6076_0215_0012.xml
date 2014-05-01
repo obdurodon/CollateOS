@@ -1,94 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>215, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="215"/><div type="block" n="12"><p>
-<app>
-<lem wit="#lem">
-<w n="215,12">мънога</w>
-<w n="215,12">знамения</w>
-<w n="215,12">бываху</w>
-<w n="215,12">по</w>
-<w n="215,12"><choice><seg>мѣстомь</seg><seg>землѣ</seg></choice>;</w>
-<w n="215,12">и</w>
-<w n="215,12">рать</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="215,12">многа</w>
-<w n="215,12">знаменьꙗ</w>
-<w n="215,12">бываху</w>
-<w n="215,12">по</w>
-<w n="215,12">мѣ<lb/>стомь·</w>
-<w n="215,12">и</w>
-<w n="215,12">рать <pb n="72a"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="215,12">многа</w>
-<w n="215,12">знаменьа</w>
-<w n="215,12">бывахѹ</w>
-<w n="215,12">по</w>
-<w n="215,12">мѣсто<hi rend="sup">м</hi>·</w>
-<w n="215,12">и</w>
-<w n="215,12">рать</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="215,12">многа</w>
-<w n="215,12">зна<lb/>мениꙗ</w>
-<w n="215,12">бывахѹ</w>
-<w n="215,12">по</w>
-<w n="215,12">мѣстомь·</w>
-<w n="215,12">и</w>
-<w n="215,12">рать</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="215,12">многа</w>
-<w n="215,12">зна<lb/>меньꙗ</w>
-<w n="215,12">бываху</w>
-<w n="215,12">по</w>
-<w n="215,12">землѣ</w>
-<w n="215,12">и</w>
-<w n="215,12">ра<lb/>ть</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="215,12">мнѡга</w>
-<w n="215,12">знаменїа</w>
-<w n="215,12">бывахѫ</w>
-<w n="215,12">по</w>
-<w n="215,12">зе<hi rend="sup">м</hi>ли <lb/></w>
-
-<w n="215,12">и</w>
-<w n="215,12">ра<hi rend="sup">т</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="215,12">многа</w>
-<w n="215,12">знаменья</w>
-<w n="215,12">бываху</w>
-<w n="215,12">по</w>
-<w n="215,12">мѣстомь;</w>
-<w n="215,12">и</w>
-<w n="215,12">рать</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="215,12">мънога</w>
-<w n="215,12">знамения</w>
-<w n="215,12">бываху</w>
-<w n="215,12">по</w>
-<w n="215,12">мѣстомь;</w>
-<w n="215,12">и</w>
-<w n="215,12">рать</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="215,12">многа</w>
-<w n="215,12">знаменья</w>
-<w n="215,12">бываху</w>
-<w n="215,12">по</w>
-<w n="215,12">мѣстомь;</w>
-<w n="215,12">и</w>
-<w n="215,12">рать</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>215, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="215"/><div type="block" n="12"><p><app><lem wit="#lem">
+            мънога знамения бываху по <choice>
+                    <seg>мѣстомь</seg>
+                    <seg>землѣ</seg>
+                </choice>; и рать
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">многа знаменьꙗ бываху по мѣ<lb/>стомь· и рать <pb n="72a"/></rdg>
+            <rdg wit="#rad">многа знаменьа бывахѹ по мѣсто<hi rend="sup">м</hi>· и рать</rdg>
+            <rdg wit="#aka">многа зна<lb/>мениꙗ бывахѹ по мѣстомь· и рать</rdg>
+            <rdg wit="#ipa">многа зна<lb/>меньꙗ бываху по землѣ и ра<lb/>ть</rdg>
+            <rdg wit="#xle">мнѡга знаменїа бывахѫ по зе<hi rend="sup">м</hi>ли <lb/> и ра<hi rend="sup">т</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">многа знаменья бываху по мѣстомь; и рать</rdg><rdg wit="#shakh">мънога знамения бываху по мѣстомь; и рать</rdg><rdg wit="#likh">многа знаменья бываху по мѣстомь; и рать</rdg></rdgGrp></app></p></div></body></text></TEI>

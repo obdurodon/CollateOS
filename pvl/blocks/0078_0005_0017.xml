@@ -1,97 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>5, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="5"/><div type="block" n="17"><p>
-<app>
-<lem wit="#lem">
-<w n="5,17">же</w>
-<w n="5,17">стълпа</w>
-<w n="5,17">и</w>
-<w n="5,17">по</w>
-<w n="5,17">раздѣлении</w>
-<w n="5,17">языкъ</w>
-<w n="5,17">прияша</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="5,17">же <lb/></w>
-
-<w n="5,17">столпа.</w>
-<w n="5,17">и</w>
-<w n="5,17">по</w>
-<w n="5,17">раздѣленьи</w>
-<w n="5,17">ꙗзыкъ.</w>
-<w n="5,17">приꙗша</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="5,17">же</w>
-<w n="5,17">столпа</w>
-<w n="5,17">и</w>
-<w n="5,17">по</w>
-<w n="5,17">разделение</w>
-<w n="5,17">ꙗзыкъ</w>
-<w n="5,17">приꙗша</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="5,17">же</w>
-<w n="5,17">столпа</w>
-<w n="5,17">и</w>
-<w n="5,17">по</w>
-<w n="5,17">разделенїи</w>
-<w n="5,17">ꙗзы<hi rend="sup">к</hi></w>
-<w n="5,17">прїꙗша</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="5,17">же</w>
-<w n="5,17">столпа</w>
-<w n="5,17">и</w>
-<w n="5,17">по</w>
-<w n="5,17">раздѣле<lb/>нии</w>
-<w n="5,17">ꙗзыкъ.</w>
-<w n="5,17">приꙗша</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="5,17">же</w>
-<w n="5,17">стлъпа.</w>
-<w n="5,17">и</w>
-<w n="5,17">по</w>
-<w n="5,17">раздѣленїи</w>
-<w n="5,17">языкь.</w>
-<w n="5,17">прїаша <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="5,17">же</w>
-<w n="5,17">столпа</w>
-<w n="5,17">и</w>
-<w n="5,17">по</w>
-<w n="5,17">раздѣленьи</w>
-<w n="5,17">языкъ</w>
-<w n="5,17">прияша</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="5,17">же</w>
-<w n="5,17">стълпа</w>
-<w n="5,17">и</w>
-<w n="5,17">по</w>
-<w n="5,17">раздѣлении</w>
-<w n="5,17">языкъ</w>
-<w n="5,17">прияша</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="5,17">же</w>
-<w n="5,17">столпа</w>
-<w n="5,17">и</w>
-<w n="5,17">по</w>
-<w n="5,17">раздѣленьи</w>
-<w n="5,17">языкъ</w>
-<w n="5,17">прияша</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>5, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="5"/><div type="block" n="17"><p><app><lem wit="#lem">
+            же стълпа и по раздѣлении языкъ прияша
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">же <lb/> столпа. и по раздѣленьи ꙗзыкъ. приꙗша</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">же столпа и по разделение ꙗзыкъ приꙗша</rdg>
+            <rdg wit="#aka">же столпа и по разделенїи ꙗзы<hi rend="sup">к</hi> прїꙗша</rdg>
+            <rdg wit="#ipa">же столпа и по раздѣле<lb/>нии ꙗзыкъ. приꙗша</rdg>
+            <rdg wit="#xle">же стлъпа. и по раздѣленїи ꙗзыкь. прїаша <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">же столпа и по раздѣленьи языкъ прияша</rdg><rdg wit="#shakh">же стълпа и по раздѣлении языкъ прияша</rdg><rdg wit="#likh">же столпа и по раздѣленьи языкъ прияша</rdg></rdgGrp></app></p></div></body></text></TEI>

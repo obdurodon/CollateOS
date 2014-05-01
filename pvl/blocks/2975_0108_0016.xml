@@ -1,93 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>108, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="108"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="108,16">красоты</w>
-<w n="108,16">не</w>
-<w n="108,16">видѣхомъ</w>
-<w n="108,16">никоеяже.</w>
-<w n="108,16">И</w>
-<w n="108,16">придохомъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="108,16">кр<hi rend="sup">а</hi><lb/>соты</w>
-<w n="108,16">не</w>
-<w n="108,16">в<milestone unit="sic" n="start"/>идѣхом<milestone unit="sic" n="end"/>ъ</w>
-<w n="108,16">никоеꙗже.</w>
-<w n="108,16">и</w>
-<w n="108,16">придохо</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="108,16">красоты</w>
-<w n="108,16">не</w>
-<w n="108,16">видѣхо<hi rend="sup">м</hi></w>
-<w n="108,16">никоеаже.</w>
-<w n="108,16">приидохом</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="108,16">красоты</w>
-<w n="108,16">не</w>
-<w n="108,16">видѣхомъ</w>
-<w n="108,16">никоеꙗже. <lb/></w>
-
-<w n="108,16">прїидохом</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="108,16">красоты <lb/></w>
-
-<w n="108,16">не</w>
-<w n="108,16">видихомъ</w>
-<w n="108,16">никоеꙗже. <lb/></w>
-
-<w n="108,16">и</w>
-<w n="108,16">придохом</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="108,16">красоты</w>
-<w n="108,16">не</w>
-<w n="108,16">видѣхомъ</w>
-<w n="108,16">никоеꙗже</w>
-<w n="108,16">приидохомъ</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="108,16">красоты</w>
-<w n="108,16">не</w>
-<w n="108,16">видѣхом</w>
-<w n="108,16">никоеꙗж</w>
-<w n="108,16">приидохом</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="108,16">красоты</w>
-<w n="108,16">не</w>
-<w n="108,16">видѣхомъ</w>
-<w n="108,16">никоеяже.</w>
-<w n="108,16">И</w>
-<w n="108,16">приидохомъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="108,16">красоты</w>
-<w n="108,16">не</w>
-<w n="108,16">видѣхомъ</w>
-<w n="108,16">никоеяже.</w>
-<w n="108,16">Придохомъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="108,16">красоты</w>
-<w n="108,16">не</w>
-<w n="108,16">видѣхомъ</w>
-<w n="108,16">никоеяже.</w>
-<w n="108,16">И</w>
-<w n="108,16">придохомъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>108, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="108"/><div type="block" n="16"><p><app><lem wit="#lem">
+            красоты не видѣхомъ никоеяже. И придохомъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">кр<hi rend="sup">а</hi><lb/>соты не в<sic>идѣхом</sic>ъ никоеꙗже. и придохо</rdg>
+            <rdg wit="#rad">красоты не видѣхо<hi rend="sup">м</hi> никоеаже. приидохом</rdg>
+            <rdg wit="#aka">красоты не видѣхомъ никоеꙗже. <lb/> прїидохом</rdg>
+            <rdg wit="#ipa">красоты <lb/> не видихомъ никоеꙗже. <lb/> и придохом</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">красоты не видѣхомъ никоеꙗже приидохомъ</rdg>
+            <rdg wit="#tol">красоты не видѣхом никоеꙗж приидохом</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">красоты не видѣхомъ никоеяже. И приидохомъ</rdg><rdg wit="#shakh">красоты не видѣхомъ никоеяже. Придохомъ</rdg><rdg wit="#likh">красоты не видѣхомъ никоеяже. И придохомъ</rdg></rdgGrp></app></p></div></body></text></TEI>

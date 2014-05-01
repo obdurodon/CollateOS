@@ -1,89 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>190, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="190"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="190,16">подълѣ</w>
-<w n="190,16">братию,</w>
-<w n="190,16">възимая</w>
-<w n="190,16">изъ</w>
-<w n="190,16">лона</w>
-<w n="190,16">цвѣтъкъ,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="190,16">подлѣ</w>
-<w n="190,16">бра<hi rend="sup">т</hi>ю.</w>
-<w n="190,16">взимаꙗ</w>
-<w n="190,16">и<lb/>з</w>
-<w n="190,16">лона</w>
-<w n="190,16">лѣпокъ.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="190,16">подлѣ</w>
-<w n="190,16">братью.</w>
-<w n="190,16">възима<lb/>ꙗ</w>
-<w n="190,16">из</w>
-<w n="190,16">лона</w>
-<w n="190,16">лепокъ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="190,16">подлѣ</w>
-<w n="190,16">братию.</w>
-<w n="190,16">възимаꙗ</w>
-<w n="190,16">иѕ</w>
-<w n="190,16">лона</w>
-<w n="190,16">лепокъ. <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="190,16">подлѣ <lb/></w>
-
-<w n="190,16">братью.</w>
-<w n="190,16">взимаꙗ</w>
-<w n="190,16">из</w>
-<w n="190,16">лона</w>
-<w n="190,16"><milestone unit="sic" n="start"/>ч<milestone unit="sic" n="end"/>ь<lb/>вѣтокъ.</w>
-<w n="190,16">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="190,16">подле</w>
-<w n="190,16">братїю.</w>
-<w n="190,16">и</w>
-<w n="190,16">възимаа <lb/></w>
-
-<w n="190,16">из</w>
-<w n="190,16">лона</w>
-<w n="190,16">цвѣтѡ<hi rend="sup">к</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="190,16">подлѣ</w>
-<w n="190,16">братью,</w>
-<w n="190,16">взимая</w>
-<w n="190,16">из</w>
-<w n="190,16">лона</w>
-<w n="190,16">лѣпокъ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="190,16">подълѣ</w>
-<w n="190,16">братию</w>
-<w n="190,16">и</w>
-<w n="190,16">възимая</w>
-<w n="190,16">изъ</w>
-<w n="190,16">лона</w>
-<w n="190,16">цвѣтъкъ,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="190,16">подлѣ</w>
-<w n="190,16">братью,</w>
-<w n="190,16">взимая</w>
-<w n="190,16">из</w>
-<w n="190,16">лона</w>
-<w n="190,16">лѣпокъ,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>190, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="190"/><div type="block" n="16"><p><app><lem wit="#lem">
+            подълѣ братию, възимая изъ лона цвѣтъкъ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">подлѣ бра<hi rend="sup">т</hi>ю. взимаꙗ и<lb/>з лона лѣпокъ.</rdg>
+            <rdg wit="#rad">подлѣ братью. възима<lb/>ꙗ из лона лепокъ.</rdg>
+            <rdg wit="#aka">подлѣ братию. възимаꙗ иѕ лона лепокъ. <lb/></rdg>
+            <rdg wit="#ipa">подлѣ <lb/> братью. взимаꙗ из лона <sic>ч</sic>ь<lb/>вѣтокъ. и</rdg>
+            <rdg wit="#xle">подле братїю. и възимаа <lb/> из лона цвѣтѡ<hi rend="sup">к</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">подлѣ братью, взимая из лона лѣпокъ,</rdg><rdg wit="#shakh">подълѣ братию и възимая изъ лона цвѣтъкъ,</rdg><rdg wit="#likh">подлѣ братью, взимая из лона лѣпокъ,</rdg></rdgGrp></app></p></div></body></text></TEI>

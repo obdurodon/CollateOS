@@ -1,107 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>24, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="24"/><div type="block" n="11"><p>
-<app>
-<lem wit="#lem">
-<w n="24,11"><choice><seg>платити</seg><seg>даяти</seg></choice>,</w>
-<w n="24,11">рекъ:</w>
-<w n="24,11">“Азъ</w>
-<w n="24,11">имъ</w>
-<w n="24,11">противьнъ,</w>
-<w n="24,11">а</w>
-<w n="24,11">вамъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="24,11">платити</w>
-<w n="24,11">рекъ</w>
-<w n="24,11">азъ</w>
-<w n="24,11">имъ</w>
-<w n="24,11">противенъ.</w>
-<w n="24,11">а</w>
-<w n="24,11">вам<hi rend="sup">ъ</hi><lb/></w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="24,11">платити</w>
-<w n="24,11">река</w>
-<w n="24,11">азъ</w>
-<w n="24,11">есмь</w>
-<w n="24,11">имъ</w>
-<w n="24,11">противенъ</w>
-<w n="24,11">а</w>
-<w n="24,11">вамъ</w>
-<w n="24,11">есть</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="24,11">платити.</w>
-<w n="24,11">ре<hi rend="sup">к</hi></w>
-<w n="24,11">азъ</w>
-<w n="24,11">имъ</w>
-<w n="24,11">противе<hi rend="sup">н</hi>.</w>
-<w n="24,11">а</w>
-<w n="24,11">ва<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="24,11">платити.</w>
-<w n="24,11">рекь <lb/></w>
-
-<w n="24,11">азь</w>
-<w n="24,11">имь</w>
-<w n="24,11">противенъ.</w>
-<w n="24,11">а</w>
-<w n="24,11">вамъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="24,11">даꙗти.</w>
-<w n="24,11">рекъ</w>
-<w n="24,11">азъ</w>
-<w n="24,11">имъ</w>
-<w n="24,11">про<lb/>тивенъ.</w>
-<w n="24,11">а</w>
-<w n="24,11">вамъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="24,11">даати.</w>
-<w n="24,11">и</w>
-<w n="24,11">рекь</w>
-<w n="24,11">азь <lb/></w>
-
-<w n="24,11">имъ</w>
-<w n="24,11">противень.</w>
-<w n="24,11">а</w>
-<w n="24,11">ва<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="24,11">платити,</w>
-<w n="24,11">рекъ:</w>
-<w n="24,11">“азъ</w>
-<w n="24,11">имъ</w>
-<w n="24,11">противенъ,</w>
-<w n="24,11">а</w>
-<w n="24,11">вамъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="24,11">платити,</w>
-<w n="24,11">река:</w>
-<w n="24,11">“азъ</w>
-<w n="24,11">имъ</w>
-<w n="24,11">противьнъ,</w>
-<w n="24,11">а</w>
-<w n="24,11">вамъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="24,11">платити,</w>
-<w n="24,11">рекъ:</w>
-<w n="24,11">“Азъ</w>
-<w n="24,11">имъ</w>
-<w n="24,11">противенъ,</w>
-<w n="24,11">а</w>
-<w n="24,11">вамъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>24, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="24"/><div type="block" n="11"><p><app><lem wit="#lem">
+            <choice>
+                    <seg>платити</seg>
+                    <seg>даяти</seg>
+                </choice>, рекъ: “Азъ имъ противьнъ, а вамъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">платити рекъ азъ имъ противенъ. а вам<hi rend="sup">ъ</hi>
+                <lb/></rdg>
+            <rdg wit="#tro">платити река азъ есмь имъ противенъ а вамъ есть</rdg>
+            <rdg wit="#rad">платити. ре<hi rend="sup">к</hi> азъ имъ противе<hi rend="sup">н</hi>. а ва<hi rend="sup">м</hi></rdg>
+            <rdg wit="#aka">платити. рекь <lb/> азь имь противенъ. а вамъ</rdg>
+            <rdg wit="#ipa">даꙗти. рекъ азъ имъ про<lb/>тивенъ. а вамъ</rdg>
+            <rdg wit="#xle">даати. и рекь азь <lb/> имъ противень. а ва<hi rend="sup">м</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">платити, рекъ: “азъ имъ противенъ, а вамъ</rdg><rdg wit="#shakh">платити, река: “азъ имъ противьнъ, а вамъ</rdg><rdg wit="#likh">платити, рекъ: “Азъ имъ противенъ, а вамъ</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,72 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>269, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="269"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="269,23">помощьници”;</w>
-<w n="269,23">и</w>
-<w n="269,23">сълъгаша</w>
-<w n="269,23">ему,</w>
-<w n="269,23">емлюще</w>
-<w n="269,23">злато</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="269,23">помощници·</w>
-<w n="269,23">и</w>
-<w n="269,23">солгаша</w>
-<w n="269,23">ѥму <lb/></w>
-
-<w n="269,23">емлюще</w>
-<w n="269,23">злато</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="269,23">помощници</w>
-<w n="269,23">и</w>
-<w n="269,23">сол<lb/>гаша·</w>
-<w n="269,23">а</w>
-<w n="269,23">емл<milestone unit="sic" n="start"/>ю<milestone unit="sic" n="end"/>ще</w>
-<w n="269,23">злато</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="269,23">помощ′ници. <lb/></w>
-
-<w n="269,23">и</w>
-<w n="269,23">съл′гаша.</w>
-<w n="269,23">взѧша</w>
-<w n="269,23">злато</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="269,23">помощници”;</w>
-<w n="269,23">и</w>
-<w n="269,23">солгаша</w>
-<w n="269,23">ему,</w>
-<w n="269,23">емлюще</w>
-<w n="269,23">злато</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="269,23">помощьници”;</w>
-<w n="269,23">и</w>
-<w n="269,23">сълъгаша</w>
-<w n="269,23">ему,</w>
-<w n="269,23">емлюще</w>
-<w n="269,23">злато</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="269,23">помощници”;</w>
-<w n="269,23">и</w>
-<w n="269,23">солгаша</w>
-<w n="269,23">ему,</w>
-<w n="269,23">емлюще</w>
-<w n="269,23">злато</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>269, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="269"/><div type="block" n="23"><p><app><lem wit="#lem">
+            помощьници”; и сълъгаша ему, емлюще злато
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">помощници· и солгаша ѥму <lb/> емлюще злато</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">помощници и сол<lb/>гаша· а емл<sic>ю</sic>ще злато</rdg>
+            <rdg wit="#xle">помощ′ници. <lb/> и съл′гаша. взѧша злато</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">помощници”; и солгаша ему, емлюще злато</rdg><rdg wit="#shakh">помощьници”; и сълъгаша ему, емлюще злато</rdg><rdg wit="#likh">помощници”; и солгаша ему, емлюще злато</rdg></rdgGrp></app></p></div></body></text></TEI>

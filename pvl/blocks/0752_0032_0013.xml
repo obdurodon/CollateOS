@@ -1,98 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>32, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="32"/><div type="block" n="13"><p>
-<app>
-<lem wit="#lem">
-<w n="32,13">я</w>
-<w n="32,13">вѣтръ.</w>
-<w n="32,13">И</w>
-<w n="32,13">рѣша</w>
-<w n="32,13">Словѣни:</w>
-<w n="32,13">“Имѣмъ</w>
-<w n="32,13">ся</w>
-<w n="32,13">своимъ</w>
-<w n="32,13">тълстинамъ,</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="32,13">а <lb/></w>
-
-<w n="32,13">вѣтръ.</w>
-<w n="32,13">и</w>
-<w n="32,13">рѣша</w>
-<w n="32,13">словени</w>
-<w n="32,13">име<hi rend="sup">м</hi>сѧ</w>
-<w n="32,13">свои<hi rend="sup">м</hi></w>
-<w n="32,13">то<hi rend="sup">л</hi>стина<hi rend="sup">м</hi>.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="32,13">ꙗ</w>
-<w n="32,13">вѣтръ. <lb/></w>
-
-<w n="32,13">и</w>
-<w n="32,13">рѣша</w>
-<w n="32,13">словѣне</w>
-<w n="32,13">имемьсѧ</w>
-<w n="32,13">своимъ</w>
-<w n="32,13">толъстинамъ. <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="32,13">ꙗ</w>
-<w n="32,13">вѣтръ.</w>
-<w n="32,13">и</w>
-<w n="32,13">рк<hi rend="sup">о</hi><lb/>ша</w>
-<w n="32,13">словенѣ.</w>
-<w n="32,13">имемъсѧ <lb/></w>
-
-<w n="32,13">свои<hi rend="sup">м</hi><milestone unit="sic" n="start"/>т<milestone unit="sic" n="end"/>олъстинамъ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="32,13">ѧ</w>
-<w n="32,13">вѣтрь.</w>
-<w n="32,13">и</w>
-<w n="32,13">рекоша <lb/></w>
-
-<w n="32,13">словени.</w>
-<w n="32,13">име<hi rend="sup">м</hi>сѧ</w>
-<w n="32,13">свои<hi rend="sup">м</hi></w>
-<w n="32,13">то<hi rend="sup">л</hi>стина<hi rend="sup">м</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="32,13">а</w>
-<w n="32,13">вѣтръ;</w>
-<w n="32,13">и</w>
-<w n="32,13">рѣша</w>
-<w n="32,13">Словени:</w>
-<w n="32,13">“имемся</w>
-<w n="32,13">своимъ</w>
-<w n="32,13">толстинамъ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="32,13">я</w>
-<w n="32,13">вѣтръ.</w>
-<w n="32,13">И</w>
-<w n="32,13">рѣша</w>
-<w n="32,13">Словѣни:</w>
-<w n="32,13">“имѣмъся</w>
-<w n="32,13">своимъ</w>
-<w n="32,13">тълстинамъ,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="32,13">а</w>
-<w n="32,13">вѣтръ:</w>
-<w n="32,13">и</w>
-<w n="32,13">рѣша</w>
-<w n="32,13">словени:</w>
-<w n="32,13">“Имемся</w>
-<w n="32,13">своим</w>
-<w n="32,13">толстинам,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>32, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="32"/><div type="block" n="13"><p><app><lem wit="#lem">
+            я вѣтръ. И рѣша Словѣни: “Имѣмъ ся своимъ тълстинамъ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">а <lb/> вѣтръ. и рѣша словени име<hi rend="sup">м</hi>сѧ свои<hi rend="sup">м</hi>
+                    то<hi rend="sup">л</hi>стина<hi rend="sup">м</hi>.</rdg>
+            <rdg wit="#aka">ꙗ вѣтръ. <lb/> и рѣша словѣне имемьсѧ своимъ толъстинамъ. <lb/></rdg>
+            <rdg wit="#ipa">ꙗ вѣтръ. и рк<hi rend="sup">о</hi><lb/>ша словенѣ. имемъсѧ <lb/> свои<hi rend="sup">м</hi>
+                <sic>т</sic>олъстинамъ.</rdg>
+            <rdg wit="#xle">ѧ вѣтрь. и рекоша <lb/> словени. име<hi rend="sup">м</hi>сѧ свои<hi rend="sup">м</hi>
+                    то<hi rend="sup">л</hi>стина<hi rend="sup">м</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">а вѣтръ; и рѣша Словени: “имемся своимъ толстинамъ,</rdg><rdg wit="#shakh">я вѣтръ. И рѣша Словѣни: “имѣмъся своимъ тълстинамъ,</rdg><rdg wit="#likh">а вѣтръ: и рѣша словени: “Имемся своим толстинам,</rdg></rdgGrp></app></p></div></body></text></TEI>

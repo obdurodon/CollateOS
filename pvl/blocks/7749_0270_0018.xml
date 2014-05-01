@@ -1,83 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="270"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="270,18">стати”,</w>
-<w n="270,18">и</w>
-<w n="270,18">не</w>
-<w n="270,18">идоста</w>
-<w n="270,18">никаможе.</w>
-<w n="270,18">Святопълкъ</w>
-<w n="270,18">же</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="270,18">стати·</w>
-<w n="270,18">и</w>
-<w n="270,18">не</w>
-<w n="270,18">и<lb/>доста</w>
-<w n="270,18">никаможе·</w>
-<w n="270,18">ст҃ополкъ <lb/></w>
-
-<w n="270,18">же</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="270,18">стати·</w>
-<w n="270,18">и</w>
-<w n="270,18">не</w>
-<w n="270,18">идоста <lb/></w>
-
-<w n="270,18">никаможе·</w>
-<w n="270,18">ст҃ополкъ</w>
-<w n="270,18">же <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="270,18">стати· <lb/></w>
-
-<w n="270,18">и</w>
-<w n="270,18">не</w>
-<w n="270,18">идоста</w>
-<w n="270,18">никаможе.</w>
-<w n="270,18">ст҃опол′къ</w>
-<w n="270,18">же</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="270,18">стати”,</w>
-<w n="270,18">и</w>
-<w n="270,18">не</w>
-<w n="270,18">идоста</w>
-<w n="270,18">никаможе.</w>
-<w n="270,18">Святополкъ</w>
-<w n="270,18">же</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="270,18">стати”;</w>
-<w n="270,18">и</w>
-<w n="270,18">не</w>
-<w n="270,18">идоста</w>
-<w n="270,18">никаможе.</w>
-<w n="270,18">Святопълкъ</w>
-<w n="270,18">же</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="270,18">стати”,</w>
-<w n="270,18">и</w>
-<w n="270,18">не</w>
-<w n="270,18">идоста</w>
-<w n="270,18">никамо</w>
-<w n="270,18">же.</w>
-<w n="270,18">Святополкъ</w>
-<w n="270,18">же</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="270"/><div type="block" n="18"><p><app><lem wit="#lem">
+            стати”, и не идоста никаможе. Святопълкъ же
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">стати· и не и<lb/>доста никаможе· ст҃ополкъ <lb/> же</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">стати· и не идоста <lb/> никаможе· ст҃ополкъ же <lb/></rdg>
+            <rdg wit="#xle">стати· <lb/> и не идоста никаможе. ст҃опол′къ же</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">стати”, и не идоста никаможе. Святополкъ же</rdg><rdg wit="#shakh">стати”; и не идоста никаможе. Святопълкъ же</rdg><rdg wit="#likh">стати”, и не идоста никамо же. Святополкъ же</rdg></rdgGrp></app></p></div></body></text></TEI>

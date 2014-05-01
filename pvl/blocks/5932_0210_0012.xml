@@ -1,78 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>210, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="210"/><div type="block" n="12"><p>
-<app>
-<lem wit="#lem">
-<w n="210,12">на</w>
-<w n="210,12">мощи</w>
-<w n="210,12">Феодосиевы.</w>
-<w n="210,12">И</w>
-<w n="210,12">оному</w>
-<w n="210,12">глаголющю</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="210,12">на</w>
-<w n="210,12">мощѣ</w>
-<w n="210,12">ѳеѡдосьевы.</w>
-<w n="210,12">ѡно<lb/>му</w>
-<w n="210,12">гл҃щю</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="210,12">на<hi rend="sup">д</hi></w>
-<w n="210,12">мо<lb/>щми</w>
-<w n="210,12">феѡ<hi rend="sup">д</hi>сиевыми.</w>
-<w n="210,12">ѡномоу</w>
-<w n="210,12">глщ҃ю</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="210,12">на<hi rend="sup">д</hi></w>
-<w n="210,12">мощьми</w>
-<w n="210,12">феѡдосьевыми.</w>
-<w n="210,12">ѡномѹ</w>
-<w n="210,12">гл҃юще<lb/>мѹ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="210,12">на</w>
-<w n="210,12">мощи</w>
-<w n="210,12">федосье<lb/>вы.</w>
-<w n="210,12">ї</w>
-<w n="210,12">ѡному</w>
-<w n="210,12">глю҃щю</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="210,12">на<hi rend="sup">д</hi></w>
-<w n="210,12">мѡщи</w>
-<w n="210,12">ѳеѡ<hi rend="sup">д</hi>с<hi rend="sup">о</hi>їевы.</w>
-<w n="210,12">и</w>
-<w n="210,12">ѡномоу</w>
-<w n="210,12">гл҃ющоу</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="210,12">на</w>
-<w n="210,12">мощѣ</w>
-<w n="210,12">Феодосьевы,</w>
-<w n="210,12">оному</w>
-<w n="210,12">глаголющю</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="210,12">на</w>
-<w n="210,12">мощи</w>
-<w n="210,12">Феодосиевы.</w>
-<w n="210,12">И</w>
-<w n="210,12">оному</w>
-<w n="210,12">глаголющю</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="210,12">на</w>
-<w n="210,12">мощѣ</w>
-<w n="210,12">Феодосьевы.</w>
-<w n="210,12">Оному</w>
-<w n="210,12">глаголющю</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>210, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="210"/><div type="block" n="12"><p><app><lem wit="#lem">
+            на мощи Феодосиевы. И оному глаголющю
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">на мощѣ ѳеѡдосьевы. ѡно<lb/>му гл҃щю</rdg>
+            <rdg wit="#rad">на<hi rend="sup">д</hi> мо<lb/>щми феѡ<hi rend="sup">д</hi>сиевыми. ѡномоу глщ҃ю</rdg>
+            <rdg wit="#aka">на<hi rend="sup">д</hi> мощьми феѡдосьевыми. ѡномѹ гл҃юще<lb/>мѹ</rdg>
+            <rdg wit="#ipa">на мощи федосье<lb/>вы. ї ѡному глю҃щю</rdg>
+            <rdg wit="#xle">на<hi rend="sup">д</hi> мѡщи ѳеѡ<hi rend="sup">д</hi>с<hi rend="sup">о</hi>їевы. и ѡномоу гл҃ющоу</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">на мощѣ Феодосьевы, оному глаголющю</rdg><rdg wit="#shakh">на мощи Феодосиевы. И оному глаголющю</rdg><rdg wit="#likh">на мощѣ Феодосьевы. Оному глаголющю</rdg></rdgGrp></app></p></div></body></text></TEI>

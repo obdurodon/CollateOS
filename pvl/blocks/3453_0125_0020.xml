@@ -1,109 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>125, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="125"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="125,20">собѣ</w>
-<w n="125,20">съкровище</w>
-<w n="125,20">на</w>
-<w n="125,20">небесехъ,</w>
-<w n="125,20">идеже</w>
-<w n="125,20">ни</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="125,20">собѣ</w>
-<w n="125,20">скровище</w>
-<w n="125,20">на</w>
-<w n="125,20">нбсѣ<hi rend="sup">х</hi>.</w>
-<w n="125,20"><milestone unit="sic" n="start"/>идеже</w>
-<w n="125,20">ни<milestone unit="sic" n="end"/><pb n="43c"/></w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="125,20">собѣ.</w>
-<w n="125,20">на</w>
-<w n="125,20">нб҃сѣ.</w>
-<w n="125,20">идѣ<lb/>же</w>
-<w n="125,20">ни</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="125,20">собѣ.</w>
-<w n="125,20">на</w>
-<w n="125,20">нб҃сѣхъ.</w>
-<w n="125,20">идѣже</w>
-<w n="125,20">нї</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="125,20">собѣ</w>
-<w n="125,20">скровище</w>
-<w n="125,20">на</w>
-<w n="125,20">нб҃си<hi rend="sup">х</hi>.</w>
-<w n="125,20">идеже</w>
-<w n="125,20">ни <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="125,20">себѣ</w>
-<w n="125,20">съкровища</w>
-<w n="125,20">на</w>
-<w n="125,20">нб҃се<hi rend="sup">х</hi>,</w>
-<w n="125,20">идеже</w>
-<w n="125,20">ни</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="125,20">собѣ</w>
-<w n="125,20">имѣние</w>
-<w n="125,20">на</w>
-<w n="125,20">небеси</w>
-<w n="125,20">идѣже</w>
-<w n="125,20">ни</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="125,20">себѣ</w>
-<w n="125,20">скровища</w>
-<w n="125,20">на</w>
-<w n="125,20">небесѣх</w>
-<w n="125,20">идѣже</w>
-<w n="125,20">ни</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="125,20">себѣ</w>
-<w n="125,20">сокровища</w>
-<w n="125,20">на</w>
-<w n="125,20">небесѣх</w>
-<w n="125,20">идѣже</w>
-<w n="125,20">ни</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="125,20">собѣ</w>
-<w n="125,20">скровище</w>
-<w n="125,20">на</w>
-<w n="125,20">небесѣхъ,</w>
-<w n="125,20">идеже</w>
-<w n="125,20">ни</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="125,20">собѣ</w>
-<w n="125,20">съкровище</w>
-<w n="125,20">на</w>
-<w n="125,20">небесѣхъ,</w>
-<w n="125,20">идеже</w>
-<w n="125,20">ни</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="125,20">собѣ</w>
-<w n="125,20">скровище</w>
-<w n="125,20">на</w>
-<w n="125,20">небесѣх,</w>
-<w n="125,20">идеже</w>
-<w n="125,20">ни</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>125, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="125"/><div type="block" n="20"><p><app><lem wit="#lem">
+            собѣ съкровище на небесехъ, идеже ни
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">собѣ скровище на нбсѣ<hi rend="sup">х</hi>. <sic>идеже
+                    ни</sic><pb n="43c"/></rdg>
+            <rdg wit="#rad">собѣ. на нб҃сѣ. идѣ<lb/>же ни</rdg>
+            <rdg wit="#aka">собѣ. на нб҃сѣхъ. идѣже нї</rdg>
+            <rdg wit="#ipa">собѣ скровище на нб҃си<hi rend="sup">х</hi>. идеже ни <lb/></rdg>
+            <rdg wit="#xle">себѣ съкровища на нб҃се<hi rend="sup">х</hi>, идеже ни</rdg>
+            <rdg wit="#kom">собѣ имѣние на небеси идѣже ни</rdg>
+            <rdg wit="#nak">себѣ скровища на небесѣх идѣже ни</rdg>
+            <rdg wit="#tol">себѣ сокровища на небесѣх идѣже ни</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">собѣ скровище на небесѣхъ, идеже ни</rdg><rdg wit="#shakh">собѣ съкровище на небесѣхъ, идеже ни</rdg><rdg wit="#likh">собѣ скровище на небесѣх, идеже ни</rdg></rdgGrp></app></p></div></body></text></TEI>

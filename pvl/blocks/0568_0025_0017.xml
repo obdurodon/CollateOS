@@ -1,103 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>25, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="25"/><div type="block" n="17"><p>
-<app>
-<lem wit="#lem">
-<w n="25,17">Сѣдяху</w>
-<w n="25,17">бо</w>
-<w n="25,17">ту</w>
-<w n="25,17">преже</w>
-<w n="25,17">Словѣни,</w>
-<w n="25,17">и</w>
-<w n="25,17">Волохове</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="25,17"><milestone unit="sic" n="start"/>сѣдѧху</w>
-<w n="25,17">бо</w>
-<w n="25,17">ту</w>
-<w n="25,17">преже</w>
-<w n="25,17">словѣни.</w>
-<w n="25,17">и</w>
-<w n="25,17">волъ<lb/>хве.<milestone unit="sic" n="end"/></w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="25,17">сѣдяху</w>
-<w n="25,17">бо</w>
-<w n="25,17">ту</w>
-<w n="25,17">преже</w>
-<w n="25,17">словѣни</w>
-<w n="25,17">и</w>
-<w n="25,17">волхове</w>
-<w n="25,17">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="25,17">седѧхоу</w>
-<w n="25,17">оубо</w>
-<w n="25,17">тоу</w>
-<w n="25,17">словене</w>
-<w n="25,17">преже</w>
-<w n="25,17">и</w>
-<w n="25,17">волохове</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="25,17">седѧхѹ</w>
-<w n="25,17">оубо</w>
-<w n="25,17">тѹ</w>
-<w n="25,17">словѣне.</w>
-<w n="25,17">преже</w>
-<w n="25,17">и</w>
-<w n="25,17">во<lb/>лохове</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="25,17">сѣдѧху</w>
-<w n="25,17">бо</w>
-<w n="25,17">ту</w>
-<w n="25,17">пре<lb/>же</w>
-<w n="25,17">словене.</w>
-<w n="25,17">и</w>
-<w n="25,17">волохове.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="25,17">сѣ<lb/>дѧху</w>
-<w n="25,17">бо</w>
-<w n="25,17">тоу</w>
-<w n="25,17">преж<hi rend="sup">д</hi>е</w>
-<w n="25,17">слѡвене,</w>
-<w n="25,17">и</w>
-<w n="25,17">волохове.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="25,17">Сѣдяху</w>
-<w n="25,17">бо</w>
-<w n="25,17">ту</w>
-<w n="25,17">преже</w>
-<w n="25,17">Словѣни,</w>
-<w n="25,17">и</w>
-<w n="25,17">Волохове</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="25,17">Сѣдяху</w>
-<w n="25,17">бо</w>
-<w n="25,17">ту</w>
-<w n="25,17">преже</w>
-<w n="25,17">Словѣне,</w>
-<w n="25,17">и</w>
-<w n="25,17">Волохове</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="25,17">Сѣдяху</w>
-<w n="25,17">бо</w>
-<w n="25,17">ту</w>
-<w n="25,17">преже</w>
-<w n="25,17">словѣни,</w>
-<w n="25,17">и</w>
-<w n="25,17">волохове</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>25, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="25"/><div type="block" n="17"><p><app><lem wit="#lem">
+            Сѣдяху бо ту преже Словѣни, и Волохове
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <sic>сѣдѧху бо ту преже словѣни. и волъ<lb/>хве.</sic>
+            </rdg>
+            <rdg wit="#tro">сѣдяху бо ту преже словѣни и волхове и</rdg>
+            <rdg wit="#rad">седѧхоу оубо тоу словене преже и волохове</rdg>
+            <rdg wit="#aka">седѧхѹ оубо тѹ словѣне. преже и во<lb/>лохове</rdg>
+            <rdg wit="#ipa">сѣдѧху бо ту пре<lb/>же словене. и волохове.</rdg>
+            <rdg wit="#xle">сѣ<lb/>дѧху бо тоу преж<hi rend="sup">д</hi>е слѡвене, и волохове.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Сѣдяху бо ту преже Словѣни, и Волохове</rdg><rdg wit="#shakh">Сѣдяху бо ту преже Словѣне, и Волохове</rdg><rdg wit="#likh">Сѣдяху бо ту преже словѣни, и волохове</rdg></rdgGrp></app></p></div></body></text></TEI>

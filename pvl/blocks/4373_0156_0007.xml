@@ -1,88 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>156, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="156"/><div type="block" n="7"><p>
-<app>
-<lem wit="#lem">
-<w n="156,7">малу,</w>
-<w n="156,7">дъву</w>
-<w n="156,7">сажену,</w>
-<w n="156,7">и</w>
-<w n="156,7">приходя</w>
-<w n="156,7">съ</w>
-<w n="156,7">Берестоваго,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="156,7">малу</w>
-<w n="156,7">двусажену.</w>
-<w n="156,7">и</w>
-<w n="156,7">при<lb/>ходѧ</w>
-<w n="156,7">с</w>
-<w n="156,7">берестового</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="156,7">малоу.</w>
-<w n="156,7">двѹсажнѹ.</w>
-<w n="156,7">и</w>
-<w n="156,7">приходѧ</w>
-<w n="156,7">с</w>
-<w n="156,7">берестово<hi rend="sup">г</hi>. <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="156,7">ма<lb/>лѹ</w>
-<w n="156,7">двѹса<hi rend="sup">ж</hi>нѹ.</w>
-<w n="156,7">и</w>
-<w n="156,7">приходѧ</w>
-<w n="156,7">со</w>
-<w n="156,7">берестоваго</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="156,7">малу</w>
-<w n="156,7">.в҃.</w>
-<w n="156,7">са<lb/>женю.</w>
-<w n="156,7">и</w>
-<w n="156,7">приходѧ</w>
-<w n="156,7">с</w>
-<w n="156,7">берестового. <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="156,7">малоу.</w>
-<w n="156,7">двоусажню.</w>
-<w n="156,7">и</w>
-<w n="156,7">приходѧ</w>
-<w n="156,7">з</w>
-<w n="156,7">берестового</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="156,7">малу,</w>
-<w n="156,7">двусажену,</w>
-<w n="156,7">и</w>
-<w n="156,7">приходя</w>
-<w n="156,7">с</w>
-<w n="156,7">Берестового,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="156,7">малу,</w>
-<w n="156,7">дъву</w>
-<w n="156,7">сажену,</w>
-<w n="156,7">и</w>
-<w n="156,7">приходя</w>
-<w n="156,7">съ</w>
-<w n="156,7">Берестоваго,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="156,7">малу,</w>
-<w n="156,7">двусажену,</w>
-<w n="156,7">и</w>
-<w n="156,7">приходя</w>
-<w n="156,7">с</w>
-<w n="156,7">Берестового,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>156, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="156"/><div type="block" n="7"><p><app><lem wit="#lem">
+            малу, дъву сажену, и приходя съ Берестоваго,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">малу двусажену. и при<lb/>ходѧ с берестового</rdg>
+            <rdg wit="#rad">малоу. двѹсажнѹ. и приходѧ с берестово<hi rend="sup">г</hi>. <lb/></rdg>
+            <rdg wit="#aka">ма<lb/>лѹ двѹса<hi rend="sup">ж</hi>нѹ. и приходѧ со берестоваго</rdg>
+            <rdg wit="#ipa">малу .в҃. са<lb/>женю. и приходѧ с берестового. <lb/></rdg>
+            <rdg wit="#xle">малоу. двоусажню. и приходѧ з берестового</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">малу, двусажену, и приходя с Берестового,</rdg><rdg wit="#shakh">малу, дъву сажену, и приходя съ Берестоваго,</rdg><rdg wit="#likh">малу, двусажену, и приходя с Берестового,</rdg></rdgGrp></app></p></div></body></text></TEI>

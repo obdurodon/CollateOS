@@ -1,93 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>283, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="283"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="283,16">въписати</w>
-<w n="283,16">въ</w>
-<w n="283,16">синодикъ.</w>
-<w n="283,16">Митрополитъ</w>
-<w n="283,16">повелѣ</w>
-<w n="283,16">писати</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="283,16">вписати <lb/></w>
-
-<w n="283,16">в</w>
-<w n="283,16">синодикъ·</w>
-<w n="283,16">и</w>
-<w n="283,16">повелѣ</w>
-<w n="283,16">впи<lb/>сывати</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="283,16">в</w>
-<w n="283,16">синоди<hi rend="sup">к</hi>· <lb/></w>
-
-<w n="283,16">митрополитъ·</w>
-<w n="283,16">и</w>
-<w n="283,16">повелѣ</w>
-<w n="283,16">писати·</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="283,16">в</w>
-<w n="283,16">сї<lb/>нодикъ·</w>
-<w n="283,16">митрополитъ</w>
-<w n="283,16">повелѣ</w>
-<w n="283,16">писати</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="283,16">вписа</w>
-<w n="283,16">его</w>
-<w n="283,16">в</w>
-<w n="283,16">сѣна<milestone unit="sic" n="start"/>н<milestone unit="sic" n="end"/>икъ·</w>
-<w n="283,16">повелѣ</w>
-<w n="283,16">же</w>
-<w n="283,16">митрополи<lb/>тъ <pb n="97d"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="283,16">в′писа</w>
-<w n="283,16">его</w>
-<w n="283,16">в</w>
-<w n="283,16">синани<hi rend="sup">к</hi>, <lb/></w>
-
-<w n="283,16">повелѣ</w>
-<w n="283,16">же</w>
-<w n="283,16">митрополи<hi rend="sup">т</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="283,16">вписати</w>
-<w n="283,16">в</w>
-<w n="283,16">синодикъ;</w>
-<w n="283,16">и</w>
-<w n="283,16">повелѣ</w>
-<w n="283,16">вписывати</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="283,16">въписати</w>
-<w n="283,16">и</w>
-<w n="283,16">въ</w>
-<w n="283,16">синодикъ,</w>
-<w n="283,16">еже</w>
-<w n="283,16">в</w>
-<w n="283,16">сътвори</w>
-<w n="283,16">митрополитъ:</w>
-<w n="283,16">повелѣ</w>
-<w n="283,16">же</w>
-<w n="283,16">въписывати</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="283,16">вписати</w>
-<w n="283,16">в</w>
-<w n="283,16">синодикъ.</w>
-<w n="283,16">И</w>
-<w n="283,16">повелѣ</w>
-<w n="283,16">вписывати</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>283, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="283"/><div type="block" n="16"><p><app><lem wit="#lem">
+            въписати въ синодикъ. Митрополитъ повелѣ писати
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">вписати <lb/> в синодикъ· и повелѣ впи<lb/>сывати</rdg>
+            <rdg wit="#rad">в синоди<hi rend="sup">к</hi>· <lb/> митрополитъ· и повелѣ писати·</rdg>
+            <rdg wit="#aka">в сї<lb/>нодикъ· митрополитъ повелѣ писати</rdg>
+            <rdg wit="#ipa">вписа его в сѣна<sic>н</sic>икъ· повелѣ же митрополи<lb/>тъ
+                    <pb n="97d"/></rdg>
+            <rdg wit="#xle">в′писа его в синани<hi rend="sup">к</hi>, <lb/> повелѣ же митрополи<hi rend="sup">т</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">вписати в синодикъ; и повелѣ вписывати</rdg><rdg wit="#shakh">въписати и въ синодикъ, еже в сътвори митрополитъ: повелѣ же въписывати</rdg><rdg wit="#likh">вписати в синодикъ. И повелѣ вписывати</rdg></rdgGrp></app></p></div></body></text></TEI>

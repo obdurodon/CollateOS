@@ -1,51 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>243, 34</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="243"/><div type="block" n="34"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="243,34">вскорѣ·</w>
-<w n="243,34">а</w>
-<w n="243,34">г<hi rend="sup">с</hi>ь</w>
-<w n="243,34">нашь</w>
-<w n="243,34">владѣꙗ· <lb/></w>
-
-<w n="243,34">и</w>
-<w n="243,34">животомъ</w>
-<w n="243,34">и</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="243,34">вскорѣ;</w>
-<w n="243,34">а</w>
-<w n="243,34">Господь</w>
-<w n="243,34">нашь,</w>
-<w n="243,34">владѣя</w>
-<w n="243,34">и</w>
-<w n="243,34">животомъ</w>
-<w n="243,34">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="243,34">вскорѣ;</w>
-<w n="243,34">а</w>
-<w n="243,34">господь</w>
-<w n="243,34">нашь,</w>
-<w n="243,34">владѣя</w>
-<w n="243,34">и</w>
-<w n="243,34">животомъ</w>
-<w n="243,34">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>243, 34</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="243"/><div type="block" n="34"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">вскорѣ· а г<hi rend="sup">с</hi>ь нашь владѣꙗ· <lb/> и животомъ и</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">вскорѣ; а Господь нашь, владѣя и животомъ и</rdg><rdg wit="#likh">вскорѣ; а господь нашь, владѣя и животомъ и</rdg></rdgGrp></app></p></div></body></text></TEI>

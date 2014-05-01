@@ -1,89 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>217, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="217"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="217,21">Володимиръ</w>
-<w n="217,21">нача</w>
-<w n="217,21">рамышляти,</w>
-<w n="217,21">река:</w>
-<w n="217,21">“Аще</w>
-<w n="217,21">азъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="217,21">володимеръ</w>
-<w n="217,21">же</w>
-<w n="217,21">нача <lb/></w>
-
-<w n="217,21">размышлѧти</w>
-<w n="217,21">река·</w>
-<w n="217,21">аще</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="217,21">володимиръ</w>
-<w n="217,21">же</w>
-<w n="217,21">нача·</w>
-<w n="217,21">розмышлѧ<lb/>ти</w>
-<w n="217,21">река</w>
-<w n="217,21">аще</w>
-<w n="217,21">азъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="217,21">володимиръ</w>
-<w n="217,21">же</w>
-<w n="217,21">на<lb/>ча·</w>
-<w n="217,21">размышлѧти</w>
-<w n="217,21">река·</w>
-<w n="217,21">аще</w>
-<w n="217,21">азь</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="217,21">володимеръ <lb/></w>
-
-<w n="217,21">же</w>
-<w n="217,21">нача</w>
-<w n="217,21">размышлѧти</w>
-<w n="217,21">река <lb/></w>
-
-<w n="217,21">аще</w>
-<w n="217,21">ꙗзъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="217,21">вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>мер</w>
-<w n="217,21">же</w>
-<w n="217,21">нача</w>
-<w n="217,21">размы<lb/>шлѧти,</w>
-<w n="217,21">река.</w>
-<w n="217,21">аще</w>
-<w n="217,21">я·̏</w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="217,21">Володимеръ</w>
-<w n="217,21">нача</w>
-<w n="217,21">рамышляти,</w>
-<w n="217,21">река:</w>
-<w n="217,21">“аще</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="217,21">Володимеръ</w>
-<w n="217,21">же</w>
-<w n="217,21">нача</w>
-<w n="217,21">рамышляти,</w>
-<w n="217,21">река:</w>
-<w n="217,21">“аще</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="217,21">Володимеръ</w>
-<w n="217,21">нача</w>
-<w n="217,21">рамышляти,</w>
-<w n="217,21">река:</w>
-<w n="217,21">“Аще</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>217, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="217"/><div type="block" n="21"><p><app><lem wit="#lem">
+            Володимиръ нача рамышляти, река: “Аще азъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">володимеръ же нача <lb/> размышлѧти река· аще</rdg>
+            <rdg wit="#rad">володимиръ же нача· розмышлѧ<lb/>ти река аще азъ</rdg>
+            <rdg wit="#aka">володимиръ же на<lb/>ча· размышлѧти река· аще азь</rdg>
+            <rdg wit="#ipa">володимеръ <lb/> же нача размышлѧти река <lb/> аще ꙗзъ</rdg>
+            <rdg wit="#xle">вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>мер же нача размы<lb/>шлѧти, река. аще ꙗ·̏ </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Володимеръ нача рамышляти, река: “аще</rdg><rdg wit="#shakh">Володимеръ же нача рамышляти, река: “аще</rdg><rdg wit="#likh">Володимеръ нача рамышляти, река: “Аще</rdg></rdgGrp></app></p></div></body></text></TEI>

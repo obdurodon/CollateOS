@@ -1,74 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>148, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="148"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="148,22">сильна.</w>
-<w n="148,22">Яко</w>
-<w n="148,22">посвѣтяше</w>
-<w n="148,22">мълния,</w>
-<w n="148,22">блисташа</w>
-<w n="148,22">ся</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="148,22">силна.</w>
-<w n="148,22">ꙗ<lb/>ко</w>
-<w n="148,22">посвѣтѧше</w>
-<w n="148,22">молоньꙗ.</w>
-<w n="148,22">блещ<hi rend="sup">а</hi><lb/>шетьсѧ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="148,22">силна.</w>
-<w n="148,22">и</w>
-<w n="148,22">ꙗко</w>
-<w n="148,22">блисташа</w>
-<w n="148,22">молыньа.</w>
-<w n="148,22">и</w>
-<w n="148,22">блиста<lb/>ше<hi rend="sup">с</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="148,22">силна.</w>
-<w n="148,22">ꙗко</w>
-<w n="148,22">посвѣтѧ<lb/>ше</w>
-<w n="148,22">мъльнъꙗ</w>
-<w n="148,22">и</w>
-<w n="148,22">блисташасѧ <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="148,22">ѕла.</w>
-<w n="148,22">яко</w>
-<w n="148,22">посвѣтѧ<lb/>ше</w>
-<w n="148,22">млънїа</w>
-<w n="148,22">блисташа<hi rend="sup">с</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="148,22">силна,</w>
-<w n="148,22">яко</w>
-<w n="148,22">посвѣтяше</w>
-<w n="148,22">молонья,</w>
-<w n="148,22">блещашеться</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="148,22">сильна;</w>
-<w n="148,22">яко</w>
-<w n="148,22">посвѣтяше</w>
-<w n="148,22">мълния,</w>
-<w n="148,22">бльщашеться</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="148,22">силна,</w>
-<w n="148,22">яко</w>
-<w n="148,22">посвѣтяше</w>
-<w n="148,22">молонья,</w>
-<w n="148,22">блещашеться</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>148, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="148"/><div type="block" n="22"><p><app><lem wit="#lem">
+            сильна. Яко посвѣтяше мълния, блисташа ся
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">силна. ꙗ<lb/>ко посвѣтѧше молоньꙗ. блещ<hi rend="sup">а</hi><lb/>шетьсѧ</rdg>
+            <rdg wit="#rad">силна. и ꙗко блисташа молыньа. и блиста<lb/>ше<hi rend="sup">с</hi></rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">силна. ꙗко посвѣтѧ<lb/>ше мъльнъꙗ и блисташасѧ <lb/></rdg>
+            <rdg wit="#xle">ѕла. ꙗко посвѣтѧ<lb/>ше млънїа блисташа<hi rend="sup">с</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">силна, яко посвѣтяше молонья, блещашеться</rdg><rdg wit="#shakh">сильна; яко посвѣтяше мълния, бльщашеться</rdg><rdg wit="#likh">силна, яко посвѣтяше молонья, блещашеться</rdg></rdgGrp></app></p></div></body></text></TEI>

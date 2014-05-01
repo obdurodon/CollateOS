@@ -1,108 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>75, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="75"/><div type="block" n="17"><p>
-<app>
-<lem wit="#lem">
-<w n="75,17">яко</w>
-<w n="75,17">Яропълкъ</w>
-<w n="75,17">уби</w>
-<w n="75,17">Ольга,</w>
-<w n="75,17">убоявъ</w>
-<w n="75,17">ся,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="75,17">ꙗко</w>
-<w n="75,17">ꙗрополкъ</w>
-<w n="75,17">оуби</w>
-<w n="75,17">ѡ<lb/>льга.</w>
-<w n="75,17">оубоꙗвсѧ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="75,17">ꙗко</w>
-<w n="75,17">ꙗрополкъ</w>
-<w n="75,17">оуби</w>
-<w n="75,17">ѡлга.</w>
-<w n="75,17">и</w>
-<w n="75,17">оубоавсѧ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="75,17">ꙗко</w>
-<w n="75,17">ꙗрополкь <lb/></w>
-
-<w n="75,17">оуби</w>
-<w n="75,17">ѡлга.</w>
-<w n="75,17">и</w>
-<w n="75,17">оубоꙗвсѧ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="75,17">ꙗко</w>
-<w n="75,17">ꙗрополкъ. <lb/></w>
-
-<w n="75,17">оуби</w>
-<w n="75,17">ѡлга.</w>
-<w n="75,17">оубоꙗвсѧ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="75,17">яко</w>
-<w n="75,17">ярополкь</w>
-<w n="75,17">оуби</w>
-<w n="75,17">ѡлга.</w>
-<w n="75,17">оубоѧвсѧ</w>
-<w n="75,17">и</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="75,17">ꙗко</w>
-<w n="75,17">уби</w>
-<w n="75,17">ꙗрополкъ</w>
-<w n="75,17">олга</w>
-<w n="75,17">и</w>
-<w n="75,17">убоꙗвъсꙗ</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="75,17">ꙗко</w>
-<w n="75,17">ꙗрополкъ</w>
-<w n="75,17">уби</w>
-<w n="75,17">ольга</w>
-<w n="75,17">и</w>
-<w n="75,17">убоꙗвсꙗ</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="75,17">ꙗко</w>
-<w n="75,17">ꙗрополкъ</w>
-<w n="75,17">уби</w>
-<w n="75,17">ольга</w>
-<w n="75,17">и</w>
-<w n="75,17">убоꙗвсꙗ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="75,17">яко</w>
-<w n="75,17">Ярополкъ</w>
-<w n="75,17">уби</w>
-<w n="75,17">Ольга,</w>
-<w n="75,17">убоявся</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="75,17">яко</w>
-<w n="75,17">Яропълкъ</w>
-<w n="75,17">уби</w>
-<w n="75,17">Ольга,</w>
-<w n="75,17">и,</w>
-<w n="75,17">убоявъся,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="75,17">яко</w>
-<w n="75,17">Ярополкъ</w>
-<w n="75,17">уби</w>
-<w n="75,17">Ольга,</w>
-<w n="75,17">убоявся</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>75, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="75"/><div type="block" n="17"><p><app><lem wit="#lem">
+            яко Яропълкъ уби Ольга, убоявъ ся,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ꙗко ꙗрополкъ оуби ѡ<lb/>льга. оубоꙗвсѧ</rdg>
+            <rdg wit="#rad">ꙗко ꙗрополкъ оуби ѡлга. и оубоавсѧ</rdg>
+            <rdg wit="#aka">ꙗко ꙗрополкь <lb/> оуби ѡлга. и оубоꙗвсѧ</rdg>
+            <rdg wit="#ipa">ꙗко ꙗрополкъ. <lb/> оуби ѡлга. оубоꙗвсѧ</rdg>
+            <rdg wit="#xle">ꙗко ꙗрополкь оуби ѡлга. оубоѧвсѧ и</rdg>
+            <rdg wit="#kom">ꙗко уби ꙗрополкъ олга и убоꙗвъсꙗ</rdg>
+            <rdg wit="#nak">ꙗко ꙗрополкъ уби ольга и убоꙗвсꙗ</rdg>
+            <rdg wit="#tol">ꙗко ꙗрополкъ уби ольга и убоꙗвсꙗ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">яко Ярополкъ уби Ольга, убоявся</rdg><rdg wit="#shakh">яко Яропълкъ уби Ольга, и, убоявъся,</rdg><rdg wit="#likh">яко Ярополкъ уби Ольга, убоявся</rdg></rdgGrp></app></p></div></body></text></TEI>

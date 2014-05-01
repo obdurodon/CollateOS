@@ -1,82 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>283, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="283"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-<w n="283,2">сына</w>
-<w n="283,2">Аепину</w>
-<w n="283,2">дъщерь,</w>
-<w n="283,2">Гиргеневу</w>
-<w n="283,2">вънуку</w>
-<w n="283,2">мѣсяца</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="283,2">сн҃а·</w>
-<w n="283,2">аепину</w>
-<w n="283,2">дчерь·</w>
-<w n="283,2">гирге<lb/>неву</w>
-<w n="283,2">внуку·</w>
-<w n="283,2">мц<hi rend="sup">с</hi>а·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="283,2">сн҃а·</w>
-<w n="283,2">аепиноу</w>
-<w n="283,2">дще<milestone unit="sic" n="start"/>р<milestone unit="sic" n="end"/>ь·</w>
-<w n="283,2">гигреневѹ</w>
-<w n="283,2">внѹкѹ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="283,2">сн҃а·</w>
-<w n="283,2">аепинѹ</w>
-<w n="283,2">дщерь·</w>
-<w n="283,2">гигреневѹ</w>
-<w n="283,2">внѹкѹ· <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="283,2">.25и'акаепиду</w>
-<w n="283,2">дще<lb/>рь·</w>
-<w n="283,2">ꙗневу</w>
-<w n="283,2">внуку·</w>
-<w n="283,2">мц<hi rend="sup">с</hi>а</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="283,2">сн҃а</w>
-<w n="283,2">акаапиноу</w>
-<w n="283,2">дщеръ</w>
-<w n="283,2">гир′геневѹ <lb/></w>
-
-<w n="283,2">вноукоу.</w>
-<w n="283,2">мц<hi rend="sup">с</hi>а</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="283,2">сына</w>
-<w n="283,2">Аепину</w>
-<w n="283,2">дчерь,</w>
-<w n="283,2">Гиргеневу</w>
-<w n="283,2">внуку,</w>
-<w n="283,2">мѣсяца</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="283,2">сына</w>
-<w n="283,2">Аепину</w>
-<w n="283,2">дъщерь,</w>
-<w n="283,2">Гиргеневу</w>
-<w n="283,2">вънуку,</w>
-<w n="283,2">мѣсяца</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="283,2">сына</w>
-<w n="283,2">Аепину</w>
-<w n="283,2">дчерь,</w>
-<w n="283,2">Гиргеневу</w>
-<w n="283,2">внуку</w>
-<w n="283,2">мѣсяца</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>283, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="283"/><div type="block" n="2"><p><app><lem wit="#lem">
+            сына Аепину дъщерь, Гиргеневу вънуку мѣсяца
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">сн҃а· аепину дчерь· гирге<lb/>неву внуку· мц<hi rend="sup">с</hi>а·</rdg>
+            <rdg wit="#rad">сн҃а· аепиноу дще<sic>р</sic>ь· гигреневѹ внѹкѹ.</rdg>
+            <rdg wit="#aka">сн҃а· аепинѹ дщерь· гигреневѹ внѹкѹ· <lb/></rdg>
+            <rdg wit="#ipa">.25и'акаепиду дще<lb/>рь· ꙗневу внуку· мц<hi rend="sup">с</hi>а</rdg>
+            <rdg wit="#xle">сн҃а акаапиноу дщеръ гир′геневѹ <lb/> вноукоу. мц<hi rend="sup">с</hi>а</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">сына Аепину дчерь, Гиргеневу внуку, мѣсяца</rdg><rdg wit="#shakh">сына Аепину дъщерь, Гиргеневу вънуку, мѣсяца</rdg><rdg wit="#likh">сына Аепину дчерь, Гиргеневу внуку мѣсяца</rdg></rdgGrp></app></p></div></body></text></TEI>

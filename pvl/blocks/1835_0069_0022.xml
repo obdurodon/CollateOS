@@ -1,100 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>69, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="69"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="69,22">къ</w>
-<w n="69,22">Новугороду,</w>
-<w n="69,22">а</w>
-<w n="69,22">Святославъ</w>
-<w n="69,22">къ</w>
-<w n="69,22">Переяславьцю.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="69,22">нооугороду.</w>
-<w n="69,22">а</w>
-<w n="69,22">с҃тославъ <lb/></w>
-
-<w n="69,22">переꙗславьцю.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="69,22">к</w>
-<w n="69,22">новѹгородѹ.</w>
-<w n="69,22">а</w>
-<w n="69,22">с҃то<lb/>сла</w>
-<w n="69,22">к</w>
-<w n="69,22">переꙗславцю:- <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="69,22">к</w>
-<w n="69,22">новѹгородѹ. <lb/></w>
-
-<w n="69,22">а</w>
-<w n="69,22">с҃тославь</w>
-<w n="69,22">к</w>
-<w n="69,22">переꙗславцю:·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="69,22">к</w>
-<w n="69,22">новугороду.</w>
-<w n="69,22">а</w>
-<w n="69,22">с҃то<lb/>славъ</w>
-<w n="69,22">къ</w>
-<w n="69,22">переꙗславцю·:· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="69,22">к</w>
-<w n="69,22">новуграду</w>
-<w n="69,22">а</w>
-<w n="69,22">свꙗтославъ</w>
-<w n="69,22">къ</w>
-<w n="69,22">переꙗславцю</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="69,22">к</w>
-<w n="69,22">новугороду</w>
-<w n="69,22">а</w>
-<w n="69,22">свꙗтославъ</w>
-<w n="69,22">въ</w>
-<w n="69,22">переꙗславцю</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="69,22">к</w>
-<w n="69,22">новугороду</w>
-<w n="69,22">а</w>
-<w n="69,22">свꙗтославъ</w>
-<w n="69,22">въ</w>
-<w n="69,22">переꙗславцю</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="69,22">Ноугороду,</w>
-<w n="69,22">а</w>
-<w n="69,22">Святославъ</w>
-<w n="69,22">Переяславьцю.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="69,22">Новугороду,</w>
-<w n="69,22">а</w>
-<w n="69,22">Святославъ</w>
-<w n="69,22">Переяславьцю.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="69,22">Ноугороду,</w>
-<w n="69,22">а</w>
-<w n="69,22">Святославъ</w>
-<w n="69,22">Переяславьцю.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>69, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="69"/><div type="block" n="22"><p><app><lem wit="#lem">
+            къ Новугороду, а Святославъ къ Переяславьцю.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">нооугороду. а с҃тославъ <lb/> переꙗславьцю.</rdg>
+            <rdg wit="#rad">к новѹгородѹ. а с҃то<lb/>сла к переꙗславцю:- <lb/></rdg>
+            <rdg wit="#aka">к новѹгородѹ. <lb/> а с҃тославь к переꙗславцю:·</rdg>
+            <rdg wit="#ipa">к новугороду. а с҃то<lb/>славъ къ переꙗславцю·:· <lb/></rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">к новуграду а свꙗтославъ къ переꙗславцю</rdg>
+            <rdg wit="#nak">к новугороду а свꙗтославъ въ переꙗславцю</rdg>
+            <rdg wit="#tol">к новугороду а свꙗтославъ въ переꙗславцю</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Ноугороду, а Святославъ Переяславьцю.</rdg><rdg wit="#shakh">Новугороду, а Святославъ Переяславьцю.</rdg><rdg wit="#likh">Ноугороду, а Святославъ Переяславьцю.</rdg></rdgGrp></app></p></div></body></text></TEI>

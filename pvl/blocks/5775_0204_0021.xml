@@ -1,78 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>204, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="204"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="204,21">Вьсеволодъ</w>
-<w n="204,21">же</w>
-<w n="204,21">посади</w>
-<w n="204,21">посадьника</w>
-<w n="204,21">Ратибора</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="204,21">всеволодъ</w>
-<w n="204,21">же</w>
-<w n="204,21">по<lb/>сади</w>
-<w n="204,21">посадника</w>
-<w n="204,21">ратибора <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="204,21">всеволо<hi rend="sup">д</hi></w>
-<w n="204,21">же</w>
-<w n="204,21">посади</w>
-<w n="204,21">посадника</w>
-<w n="204,21">тмѹ<lb/>тороканю.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="204,21">всеволодъ</w>
-<w n="204,21">же</w>
-<w n="204,21">посади</w>
-<w n="204,21">посадника.</w>
-<w n="204,21">тмѹ<lb/>тороканю</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="204,21">всево<lb/>лодъ</w>
-<w n="204,21">же</w>
-<w n="204,21">посади</w>
-<w n="204,21">посадни<hi rend="sup">к</hi>. <lb/></w>
-
-<w n="204,21">ратибора.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="204,21">Всеволо<hi rend="sup">д</hi></w>
-<w n="204,21">же</w>
-<w n="204,21">пос<hi rend="sup">д</hi>а<hi rend="sup">и</hi></w>
-<w n="204,21">поса<hi rend="sup">д</hi>никы</w>
-<w n="204,21">ратиборѧ</w>
-<w n="204,21">въ <pb n="93r"/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="204,21">Всеволодъ</w>
-<w n="204,21">же</w>
-<w n="204,21">посади</w>
-<w n="204,21">посадника</w>
-<w n="204,21">Ратибора</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="204,21">Вьсеволодъ</w>
-<w n="204,21">же</w>
-<w n="204,21">посади</w>
-<w n="204,21">посадьника</w>
-<w n="204,21">Ратибора</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="204,21">Всеволодъ</w>
-<w n="204,21">же</w>
-<w n="204,21">посади</w>
-<w n="204,21">посадника</w>
-<w n="204,21">Ратибора</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>204, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="204"/><div type="block" n="21"><p><app><lem wit="#lem">
+            Вьсеволодъ же посади посадьника Ратибора
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">всеволодъ же по<lb/>сади посадника ратибора <lb/></rdg>
+            <rdg wit="#rad">всеволо<hi rend="sup">д</hi> же посади посадника тмѹ<lb/>тороканю.</rdg>
+            <rdg wit="#aka">всеволодъ же посади посадника. тмѹ<lb/>тороканю</rdg>
+            <rdg wit="#ipa">всево<lb/>лодъ же посади посадни<hi rend="sup">к</hi>. <lb/> ратибора.</rdg>
+            <rdg wit="#xle">Всеволо<hi rend="sup">д</hi> же пос<hi rend="sup">д</hi>а<hi rend="sup">и</hi>
+                 поса<hi rend="sup">д</hi>никы ратиборѧ въ <pb n="93r"/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Всеволодъ же посади посадника Ратибора</rdg><rdg wit="#shakh">Вьсеволодъ же посади посадьника Ратибора</rdg><rdg wit="#likh">Всеволодъ же посади посадника Ратибора</rdg></rdgGrp></app></p></div></body></text></TEI>

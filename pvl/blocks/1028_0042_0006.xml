@@ -1,70 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>42, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="42"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-<w n="42,6">отъ</w>
-<w n="42,6">Игоря</w>
-<w n="42,6">по</w>
-<w n="42,6">Ольговѣ</w>
-<w n="42,6">съмьрти.</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="42,6">ѿ</w>
-<w n="42,6">игорѧ</w>
-<w n="42,6">по</w>
-<w n="42,6">ѡлговѣ</w>
-<w n="42,6">см҃рти.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="42,6">ѿ</w>
-<w n="42,6">и<lb/>горѧ</w>
-<w n="42,6">по</w>
-<w n="42,6">ѡльговѣ</w>
-<w n="42,6">смерти:·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="42,6">ѿ</w>
-<w n="42,6">игорѧ</w>
-<w n="42,6">по</w>
-<w n="42,6">л<hi rend="sup">о</hi>говѣ</w>
-<w n="42,6">смѣ<lb/>рти·:· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="42,6">ѿ</w>
-<w n="42,6">игорѧ</w>
-<w n="42,6">по</w>
-<w n="42,6">ѡлговѣ</w>
-<w n="42,6">см҃рти:</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="42,6">отъ</w>
-<w n="42,6">Игоря</w>
-<w n="42,6">по</w>
-<w n="42,6">Олговѣ</w>
-<w n="42,6">смерти.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="42,6">отъ</w>
-<w n="42,6">Игоря</w>
-<w n="42,6">по</w>
-<w n="42,6">Ольговѣ</w>
-<w n="42,6">съмьрти.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="42,6">от</w>
-<w n="42,6">Игоря</w>
-<w n="42,6">по</w>
-<w n="42,6">Олговѣ</w>
-<w n="42,6">смерти.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>42, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="42"/><div type="block" n="6"><p><app><lem wit="#lem">
+            отъ Игоря по Ольговѣ съмьрти.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">ѿ игорѧ по ѡлговѣ см҃рти.</rdg>
+            <rdg wit="#aka">ѿ и<lb/>горѧ по ѡльговѣ смерти:·</rdg>
+            <rdg wit="#ipa">ѿ игорѧ по л<hi rend="sup">о</hi>говѣ смѣ<lb/>рти·:· <lb/></rdg>
+            <rdg wit="#xle">ѿ игорѧ по ѡлговѣ см҃рти:</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">отъ Игоря по Олговѣ смерти.</rdg><rdg wit="#shakh">отъ Игоря по Ольговѣ съмьрти.</rdg><rdg wit="#likh">от Игоря по Олговѣ смерти.</rdg></rdgGrp></app></p></div></body></text></TEI>

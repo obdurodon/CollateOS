@@ -1,101 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>9, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="9"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="9,3">И</w>
-<w n="9,3">слышавьше</w>
-<w n="9,3">дивляху</w>
-<w n="9,3">ся.</w>
-<w n="9,3">Андрѣи</w>
-<w n="9,3">же,</w>
-<w n="9,3">бывъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="9,3">ты</w>
-<w n="9,3">сл<hi rend="sup">ы</hi><lb/>шаще</w>
-<w n="9,3">дивлѧху<hi rend="sup">с</hi>.</w>
-<w n="9,3">ѡньдрѣи</w>
-<w n="9,3">же.</w>
-<w n="9,3">бывъ</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="9,3">слышащеи</w>
-<w n="9,3">же</w>
-<w n="9,3">се</w>
-<w n="9,3">дивляхусь</w>
-<w n="9,3">андрѣи</w>
-<w n="9,3">же</w>
-<w n="9,3">бивъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="9,3">и</w>
-<w n="9,3">слышавше</w>
-<w n="9,3">дивлѧхоусѧ.</w>
-<w n="9,3">андрѣи</w>
-<w n="9,3">же</w>
-<w n="9,3">бывъ <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="9,3">и</w>
-<w n="9,3">слышавше</w>
-<w n="9,3">дивлѧхѹсѧ.</w>
-<w n="9,3">андрѣи</w>
-<w n="9,3">же</w>
-<w n="9,3">бывь</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="9,3">и</w>
-<w n="9,3">се</w>
-<w n="9,3">слышавше <lb/></w>
-
-<w n="9,3">дивлѧхусѧ.</w>
-<w n="9,3">андрѣи <lb/></w>
-
-<w n="9,3">же</w>
-<w n="9,3">бывъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="9,3">и</w>
-<w n="9,3">се</w>
-<w n="9,3">слышавше</w>
-<w n="9,3">дивлѧ<lb/>хѫсѧ.</w>
-<w n="9,3">андреи</w>
-<w n="9,3">же</w>
-<w n="9,3">бывь</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="9,3">Слышащеи</w>
-<w n="9,3">же</w>
-<w n="9,3">се</w>
-<w n="9,3">дивляхуся.</w>
-<w n="9,3">Оньдрѣй</w>
-<w n="9,3">же,</w>
-<w n="9,3">бывъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="9,3">И</w>
-<w n="9,3">то</w>
-<w n="9,3">слышаще</w>
-<w n="9,3">дивляхуся.</w>
-<w n="9,3">Андрѣи</w>
-<w n="9,3">же,</w>
-<w n="9,3">бывъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="9,3">Ты</w>
-<w n="9,3">слышаще</w>
-<w n="9,3">дивляхуся.</w>
-<w n="9,3">Оньдрѣй</w>
-<w n="9,3">же,</w>
-<w n="9,3">бывъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>9, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="9"/><div type="block" n="3"><p><app><lem wit="#lem">
+            И слышавьше дивляху ся. Андрѣи же, бывъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ты сл<hi rend="sup">ы</hi>
+                <lb/>шаще дивлѧху<hi rend="sup">с</hi>. ѡньдрѣи же. бывъ</rdg>
+            <rdg wit="#tro">слышащеи же се дивляхусь андрѣи же бивъ</rdg>
+            <rdg wit="#rad">и слышавше дивлѧхоусѧ. андрѣи же бывъ <lb/></rdg>
+            <rdg wit="#aka">и слышавше дивлѧхѹсѧ. андрѣи же бывь</rdg>
+            <rdg wit="#ipa">и се слышавше <lb/> дивлѧхусѧ. андрѣи <lb/> же бывъ</rdg>
+            <rdg wit="#xle">и се слышавше дивлѧ<lb/>хѫсѧ. андреи же бывь</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Слышащеи же се дивляхуся. Оньдрѣй же, бывъ</rdg><rdg wit="#shakh">И то слышаще дивляхуся. Андрѣи же, бывъ</rdg><rdg wit="#likh">Ты слышаще дивляхуся. Оньдрѣй же, бывъ</rdg></rdgGrp></app></p></div></body></text></TEI>

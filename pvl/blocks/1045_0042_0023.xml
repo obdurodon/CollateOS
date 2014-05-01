@@ -1,94 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>42, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="42"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="42,23">Агамемнонь;</w>
-<w n="42,23">иже</w>
-<w n="42,23">пьрвое</w>
-<w n="42,23">въ</w>
-<w n="42,23">трьхъ</w>
-<w n="42,23">рѣкахъ</w>
-<w n="42,23">купавъ</w>
-<w n="42,23">ся,</w>
-<w n="42,23">недуга</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="42,23">агамемнонъ.</w>
-<w n="42,23">и<hi rend="sup">ж</hi></w>
-<w n="42,23">во</w>
-<w n="42,23">г҃</w>
-<w n="42,23">хъ</w>
-<w n="42,23">река<hi rend="sup">х</hi></w>
-<w n="42,23">кѹпа<hi rend="sup">в</hi>сѧ</w>
-<w n="42,23">недоуга</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="42,23">агамемнонъ.</w>
-<w n="42,23">иже</w>
-<w n="42,23">въ</w>
-<w n="42,23">.г҃.</w>
-<w n="42,23">хъ <lb/></w>
-
-<w n="42,23">рекахъ</w>
-<w n="42,23">кѹпавсѧ</w>
-<w n="42,23">недѹга</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="42,23">агамемнонъ.</w>
-<w n="42,23">иже</w>
-<w n="42,23">пѣрво<lb/>е</w>
-<w n="42,23">въ</w>
-<w n="42,23">трехъ</w>
-<w n="42,23">рѣкахъ</w>
-<w n="42,23">купа<lb/>всѧ.</w>
-<w n="42,23">недуга</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="42,23">агамеммонь.</w>
-<w n="42,23">иже</w>
-<w n="42,23">въ <lb/></w>
-
-<w n="42,23">тре<hi rend="sup">х</hi></w>
-<w n="42,23">рѣка<hi rend="sup">х</hi></w>
-<w n="42,23">коупавсѧ.</w>
-<w n="42,23">недоуга</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="42,23">Агамемнонъ,</w>
-<w n="42,23">иже</w>
-<w n="42,23">во</w>
-<w n="42,23">3-хъ</w>
-<w n="42,23">рекахъ</w>
-<w n="42,23">купався</w>
-<w n="42,23">недуга</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="42,23">Агамемля;</w>
-<w n="42,23">онъ</w>
-<w n="42,23">же</w>
-<w n="42,23">пьрвое</w>
-<w n="42,23">въ</w>
-<w n="42,23">трьхъ</w>
-<w n="42,23">рѣкахъ</w>
-<w n="42,23">купавъся,</w>
-<w n="42,23">недуга</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="42,23">Агамемнонъ,</w>
-<w n="42,23">иже</w>
-<w n="42,23">во</w>
-<w n="42,23">3-хъ</w>
-<w n="42,23">реках</w>
-<w n="42,23">купався</w>
-<w n="42,23">недуга</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>42, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="42"/><div type="block" n="23"><p><app><lem wit="#lem">
+            Агамемнонь; иже пьрвое въ трьхъ рѣкахъ купавъ ся, недуга
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">агамемнонъ. и<hi rend="sup">ж</hi> во г҃ хъ река<hi rend="sup">х</hi> кѹпа<hi rend="sup">в</hi>сѧ
+                недоуга</rdg>
+            <rdg wit="#aka">агамемнонъ. иже въ .г҃. хъ <lb/> рекахъ кѹпавсѧ недѹга</rdg>
+            <rdg wit="#ipa">агамемнонъ. иже пѣрво<lb/>е въ трехъ рѣкахъ купа<lb/>всѧ. недуга</rdg>
+            <rdg wit="#xle">агамеммонь. иже въ <lb/> тре<hi rend="sup">х</hi> рѣка<hi rend="sup">х</hi> коупавсѧ. недоуга</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Агамемнонъ, иже во 3-хъ рекахъ купався недуга</rdg><rdg wit="#shakh">Агамемля; онъ же пьрвое въ трьхъ рѣкахъ купавъся, недуга</rdg><rdg wit="#likh">Агамемнонъ, иже во 3-хъ реках купався недуга</rdg></rdgGrp></app></p></div></body></text></TEI>

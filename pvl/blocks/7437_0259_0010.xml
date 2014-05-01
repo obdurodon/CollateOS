@@ -1,84 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>259, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="259"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-<w n="259,10">поити</w>
-<w n="259,10">переди”.</w>
-<w n="259,10">Давыдъ</w>
-<w n="259,10">же</w>
-<w n="259,10">сѣдяше</w>
-<w n="259,10">акы</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="259,10">поити</w>
-<w n="259,10">переди·</w>
-<w n="259,10">дв҃дъ</w>
-<w n="259,10">же <lb/></w>
-
-<w n="259,10">сѣдѧше</w>
-<w n="259,10">акы</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="259,10">поити</w>
-<w n="259,10">напере<hi rend="sup">д</hi>·</w>
-<w n="259,10">дв<hi rend="sup">д</hi>ъ</w>
-<w n="259,10">седѧше</w>
-<w n="259,10">аки</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="259,10">поити</w>
-<w n="259,10">напере<hi rend="sup">д</hi>· <lb/></w>
-
-<w n="259,10">двд҃ъ</w>
-<w n="259,10">се·̏дѧше</w>
-<w n="259,10">акы·̏</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="259,10">по<lb/>ити</w>
-<w n="259,10">переди·</w>
-<w n="259,10">давыдъ</w>
-<w n="259,10">же</w>
-<w n="259,10">сѣ<lb/>дѧше</w>
-<w n="259,10">аки</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="259,10">поити</w>
-<w n="259,10">пер<hi rend="sup">д</hi>е<hi rend="sup">и</hi>. <lb/></w>
-
-<w n="259,10">дв҃дь</w>
-<w n="259,10">же</w>
-<w n="259,10">сѣдѧше</w>
-<w n="259,10">аки</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="259,10">поити</w>
-<w n="259,10">переди”.</w>
-<w n="259,10">Давыдъ</w>
-<w n="259,10">же</w>
-<w n="259,10">сѣдяше</w>
-<w n="259,10">акы</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="259,10">поити</w>
-<w n="259,10">переди”.</w>
-<w n="259,10">Давыдъ</w>
-<w n="259,10">же</w>
-<w n="259,10">сѣдяше</w>
-<w n="259,10">акы</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="259,10">поити</w>
-<w n="259,10">переди”.</w>
-<w n="259,10">Давыдъ</w>
-<w n="259,10">же</w>
-<w n="259,10">сѣдяше</w>
-<w n="259,10">акы</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>259, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="259"/><div type="block" n="10"><p><app><lem wit="#lem">
+            поити переди”. Давыдъ же сѣдяше акы
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">поити переди· дв҃дъ же <lb/> сѣдѧше акы</rdg>
+            <rdg wit="#rad">поити напере<hi rend="sup">д</hi>· дв<hi rend="sup">д</hi>ъ седѧше аки</rdg>
+            <rdg wit="#aka">поити напере<hi rend="sup">д</hi>· <lb/> двд҃ъ се·̏дѧше акы·̏</rdg>
+            <rdg wit="#ipa">по<lb/>ити переди· давыдъ же сѣ<lb/>дѧше аки</rdg>
+            <rdg wit="#xle">поити пер<hi rend="sup">д</hi>е<hi rend="sup">и</hi>. <lb/> дв҃дь же сѣдѧше аки</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">поити переди”. Давыдъ же сѣдяше акы</rdg><rdg wit="#shakh">поити переди”. Давыдъ же сѣдяше акы</rdg><rdg wit="#likh">поити переди”. Давыдъ же сѣдяше акы</rdg></rdgGrp></app></p></div></body></text></TEI>

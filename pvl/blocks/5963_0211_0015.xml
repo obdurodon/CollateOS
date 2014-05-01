@@ -1,68 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>211, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="211"/><div type="block" n="15"><p>
-<app>
-<lem wit="#lem">
-<w n="211,15">Стефанъ</w>
-<w n="211,15">Володимирьскыи,</w>
-<w n="211,15">Иоанъ</w>
-<w n="211,15">Чьрниговьскыи,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="211,15">стеѳанъ</w>
-<w n="211,15">володимерьскыи· <lb/></w>
-
-<w n="211,15">іѡа<hi rend="sup">н</hi></w>
-<w n="211,15">черниговьскыи·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="211,15">стефанъ·</w>
-<w n="211,15">володимирьскии·</w>
-<w n="211,15">иѡ<hi rend="sup">н</hi>а.</w>
-<w n="211,15">черниго<lb/>вьскии.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="211,15">и</w>
-<w n="211,15">стефанъ</w>
-<w n="211,15">володимерьскы·̏и·</w>
-<w n="211,15">иѡ<lb/>анъ</w>
-<w n="211,15">черниговьскы·̏и·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="211,15">стефанъ</w>
-<w n="211,15">володимерьскыи <lb/></w>
-
-<w n="211,15">їванъ</w>
-<w n="211,15"><milestone unit="sic" n="start"/>ч<milestone unit="sic" n="end"/>ерниговьскыи·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="211,15">сте<lb/>фань</w>
-<w n="211,15">вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>мерскыи.</w>
-<w n="211,15">ива<hi rend="sup">н</hi></w>
-<w n="211,15">чернѣговскыи.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="211,15">Стефанъ</w>
-<w n="211,15">Володимерьскый,</w>
-<w n="211,15">Иоанъ</w>
-<w n="211,15">Черниговьскый,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="211,15">Стефанъ</w>
-<w n="211,15">Володимерьскыи,</w>
-<w n="211,15">Иоанъ</w>
-<w n="211,15">Чьрниговьскыи,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="211,15">Стефанъ</w>
-<w n="211,15">Володимерьскый,</w>
-<w n="211,15">Иоан</w>
-<w n="211,15">Черниговьскый,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>211, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="211"/><div type="block" n="15"><p><app><lem wit="#lem">
+            Стефанъ Володимирьскыи, Иоанъ Чьрниговьскыи,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">стеѳанъ володимерьскыи· <lb/> іѡа<hi rend="sup">н</hi> черниговьскыи·</rdg>
+            <rdg wit="#rad">стефанъ· володимирьскии· иѡ<hi rend="sup">н</hi>а. черниго<lb/>вьскии.</rdg>
+            <rdg wit="#aka">и стефанъ володимерьскы·̏и· иѡ<lb/>анъ черниговьскы·̏и·</rdg>
+            <rdg wit="#ipa">стефанъ володимерьскыи <lb/> їванъ <sic>ч</sic>ерниговьскыи·</rdg>
+            <rdg wit="#xle">сте<lb/>фань вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>мерскыи. ива<hi rend="sup">н</hi>
+                чернѣговскыи.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Стефанъ Володимерьскый, Иоанъ Черниговьскый,</rdg><rdg wit="#shakh">Стефанъ Володимерьскыи, Иоанъ Чьрниговьскыи,</rdg><rdg wit="#likh">Стефанъ Володимерьскый, Иоан Черниговьскый,</rdg></rdgGrp></app></p></div></body></text></TEI>

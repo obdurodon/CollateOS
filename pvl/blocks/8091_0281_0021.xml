@@ -1,76 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>281, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="281"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="281,21">Въ</w>
-<w n="281,21">томьже</w>
-<w n="281,21">лѣтѣ</w>
-<w n="281,21">побѣдиша</w>
-<w n="281,21">Зимѣгола</w>
-<w n="281,21">Вьсеславича,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="281,21">том</w>
-<w n="281,21">же <lb/></w>
-
-<w n="281,21">лѣ<hi rend="sup">т</hi>·</w>
-<w n="281,21">побѣдиша</w>
-<w n="281,21">зимѣгола·</w>
-<w n="281,21">все<lb/>славичь</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="281,21">в</w>
-<w n="281,21">се</w>
-<w n="281,21">же</w>
-<w n="281,21">лѣ<hi rend="sup">т</hi></w>
-<w n="281,21">победиша</w>
-<w n="281,21">зимѣ<lb/>гола·</w>
-<w n="281,21">всеславичи</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="281,21">победиша</w>
-<w n="281,21">зимѣгола·</w>
-<w n="281,21">все·̏славича·</w>
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-<w n="281,21">В</w>
-<w n="281,21">тѡ<hi rend="sup">м</hi></w>
-<w n="281,21">же</w>
-<w n="281,21">лѣте</w>
-<w n="281,21">поб<hi rend="sup">д</hi>ѣ<hi rend="sup">ї</hi>ша</w>
-<w n="281,21">ѕимѣ<lb/>гола.</w>
-<w n="281,21">всеславича</w>
-<w n="281,21">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="281,21">Томже</w>
-<w n="281,21">лѣтѣ</w>
-<w n="281,21">побѣдиша</w>
-<w n="281,21">Зимѣгола</w>
-<w n="281,21">Всеславичь,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="281,21">Томьже</w>
-<w n="281,21">лѣтѣ</w>
-<w n="281,21">побѣдиша</w>
-<w n="281,21">Зимѣгола</w>
-<w n="281,21">Вьсеславича,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="281,21">Том</w>
-<w n="281,21">же</w>
-<w n="281,21">лѣтѣ</w>
-<w n="281,21">побѣдиша</w>
-<w n="281,21">зимѣгола</w>
-<w n="281,21">Всеславичь,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>281, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="281"/><div type="block" n="21"><p><app><lem wit="#lem">
+            Въ томьже лѣтѣ побѣдиша Зимѣгола Вьсеславича,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">том же <lb/> лѣ<hi rend="sup">т</hi>· побѣдиша зимѣгола· все<lb/>славичь</rdg>
+            <rdg wit="#rad">в се же лѣ<hi rend="sup">т</hi> победиша зимѣ<lb/>гола· всеславичи</rdg>
+            <rdg wit="#aka">победиша зимѣгола· все·̏славича·</rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">В тѡ<hi rend="sup">м</hi> же лѣте поб<hi rend="sup">д</hi>ѣ<hi rend="sup">ї</hi>ша ѕимѣ<lb/>гола. всеславича
+                и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Томже лѣтѣ побѣдиша Зимѣгола Всеславичь,</rdg><rdg wit="#shakh">Томьже лѣтѣ побѣдиша Зимѣгола Вьсеславича,</rdg><rdg wit="#likh">Том же лѣтѣ побѣдиша зимѣгола Всеславичь,</rdg></rdgGrp></app></p></div></body></text></TEI>

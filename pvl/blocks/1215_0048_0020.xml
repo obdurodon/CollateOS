@@ -1,99 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>48, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="48"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="48,20">Аще</w>
-<w n="48,20">ли,</w>
-<w n="48,20">убѣжавъше,</w>
-<w n="48,20">придуть</w>
-<w n="48,20">въ</w>
-<w n="48,20">Русь,</w>
-<w n="48,20">и</w>
-<w n="48,20">мы</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="48,20">аще</w>
-<w n="48,20">ли</w>
-<w n="48,20">оубѣжавше</w>
-<w n="48,20">в</w>
-<w n="48,20">русь <lb/></w>
-
-<w n="48,20">придут<hi rend="sup">м</hi>ь<hi rend="sup">ы</hi>.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="48,20">аще<hi rend="sup">л</hi></w>
-<w n="48,20">оубежавше</w>
-<w n="48,20">приидоу<hi rend="sup">т</hi></w>
-<w n="48,20">в</w>
-<w n="48,20">рѹ<hi rend="sup">с</hi>.</w>
-<w n="48,20">и</w>
-<w n="48,20">мы</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="48,20">аще</w>
-<w n="48,20">ли</w>
-<w n="48,20">оубежавше</w>
-<w n="48,20">прїидѹть</w>
-<w n="48,20">в</w>
-<w n="48,20">рѹ<hi rend="sup">с</hi>.</w>
-<w n="48,20">и</w>
-<w n="48,20">мы</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="48,20">аще <lb/></w>
-
-<w n="48,20">ли</w>
-<w n="48,20">оубѣжавше</w>
-<w n="48,20">приидуть <lb/></w>
-
-<w n="48,20">в</w>
-<w n="48,20">русь.</w>
-<w n="48,20">и</w>
-<w n="48,20">мы</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="48,20"><milestone unit="sic" n="start"/>оу<milestone unit="sic" n="end"/>ще</w>
-<w n="48,20">ли</w>
-<w n="48,20">оубѣжавше</w>
-<w n="48,20">прїидоу<hi rend="sup">т</hi></w>
-<w n="48,20">в</w>
-<w n="48,20">роу<hi rend="sup">с</hi>.</w>
-<w n="48,20">и <lb/></w>
-
-<w n="48,20">мы</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="48,20">аще</w>
-<w n="48,20">ли</w>
-<w n="48,20">убѣжавше</w>
-<w n="48,20">в</w>
-<w n="48,20">Русь</w>
-<w n="48,20">придуть,</w>
-<w n="48,20">мы</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="48,20">аще</w>
-<w n="48,20">ли,</w>
-<w n="48,20">убѣжавъше,</w>
-<w n="48,20">въ</w>
-<w n="48,20">Русь</w>
-<w n="48,20">придуть,</w>
-<w n="48,20">мы</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="48,20">Аще</w>
-<w n="48,20">ли</w>
-<w n="48,20">убѣжавше</w>
-<w n="48,20">в</w>
-<w n="48,20">Русь</w>
-<w n="48,20">придуть,</w>
-<w n="48,20">мы</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>48, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="48"/><div type="block" n="20"><p><app><lem wit="#lem">
+            Аще ли, убѣжавъше, придуть въ Русь, и мы
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">аще ли оубѣжавше в русь <lb/> придут<hi rend="sup">м</hi>ь<hi rend="sup">ы</hi>.</rdg>
+            <rdg wit="#rad">аще<hi rend="sup">л</hi> оубежавше приидоу<hi rend="sup">т</hi> в рѹ<hi rend="sup">с</hi>. и мы</rdg>
+            <rdg wit="#aka">аще ли оубежавше прїидѹть в рѹ<hi rend="sup">с</hi>. и мы</rdg>
+            <rdg wit="#ipa">аще <lb/> ли оубѣжавше приидуть <lb/> в русь. и мы</rdg>
+            <rdg wit="#xle"><sic>оу</sic>ще ли оубѣжавше прїидоу<hi rend="sup">т</hi> в роу<hi rend="sup">с</hi>. и <lb/>
+                мы</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">аще ли убѣжавше в Русь придуть, мы</rdg><rdg wit="#shakh">аще ли, убѣжавъше, въ Русь придуть, мы</rdg><rdg wit="#likh">Аще ли убѣжавше в Русь придуть, мы</rdg></rdgGrp></app></p></div></body></text></TEI>

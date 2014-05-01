@@ -1,98 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>31, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="31"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="31,5">и</w>
-<w n="31,5">потомь</w>
-<w n="31,5">даяти</w>
-<w n="31,5">уклады</w>
-<w n="31,5">на</w>
-<w n="31,5">Русьскыя</w>
-<w n="31,5">грады:</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="31,5">потомъ</w>
-<w n="31,5">пояти</w>
-<w n="31,5">уклады</w>
-<w n="31,5">на</w>
-<w n="31,5">русьския</w>
-<w n="31,5">грады</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="31,5">и</w>
-<w n="31,5">пото<hi rend="sup">м</hi></w>
-<w n="31,5">даꙗти <lb/></w>
-
-<w n="31,5">оугла<hi rend="sup">д</hi>ы</w>
-<w n="31,5">на</w>
-<w n="31,5">роу<hi rend="sup">с</hi>кыа</w>
-<w n="31,5">гра<hi rend="sup">д</hi>.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="31,5">и</w>
-<w n="31,5">потомъ</w>
-<w n="31,5">даꙗтї <lb/></w>
-
-<w n="31,5">оу<milestone unit="sic" n="start"/>к<milestone unit="sic" n="end"/>лады</w>
-<w n="31,5">на</w>
-<w n="31,5">рѹс<hi rend="sup">с</hi>кїа</w>
-<w n="31,5">грады.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="31,5">и <lb/></w>
-
-<w n="31,5">пото<hi rend="sup">м</hi></w>
-<w n="31,5">даꙗти</w>
-<w n="31,5">оуглады</w>
-<w n="31,5">на</w>
-<w n="31,5">ру<lb/>скіе</w>
-<w n="31,5">городы.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="31,5">и</w>
-<w n="31,5">потѡ<hi rend="sup">м</hi></w>
-<w n="31,5">даѧти.</w>
-<w n="31,5">оуглады</w>
-<w n="31,5">на</w>
-<w n="31,5">роускые <lb/></w>
-
-<w n="31,5">горѡды.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="31,5">и</w>
-<w n="31,5">потомъ</w>
-<w n="31,5">даяти</w>
-<w n="31,5">уклады</w>
-<w n="31,5">на</w>
-<w n="31,5">Рускыа</w>
-<w n="31,5">грады:</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="31,5">и</w>
-<w n="31,5">потомь</w>
-<w n="31,5">даяти</w>
-<w n="31,5">уклады</w>
-<w n="31,5">на</w>
-<w n="31,5">Русьскыя</w>
-<w n="31,5">грады:</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="31,5">и</w>
-<w n="31,5">потом</w>
-<w n="31,5">даяти</w>
-<w n="31,5">уклады</w>
-<w n="31,5">на</w>
-<w n="31,5">рускыа</w>
-<w n="31,5">грады:</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>31, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="31"/><div type="block" n="5"><p><app><lem wit="#lem">
+            и потомь даяти уклады на Русьскыя грады:
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">потомъ пояти уклады на русьския грады</rdg>
+            <rdg wit="#rad">и пото<hi rend="sup">м</hi> даꙗти <lb/> оугла<hi rend="sup">д</hi>ы на роу<hi rend="sup">с</hi>кыа
+                    гра<hi rend="sup">д</hi>.</rdg>
+            <rdg wit="#aka">и потомъ даꙗтї <lb/> оу<sic>к</sic>лады на рѹс<hi rend="sup">с</hi>кїа грады.</rdg>
+            <rdg wit="#ipa">и <lb/> пото<hi rend="sup">м</hi> даꙗти оуглады на ру<lb/>скіе городы.</rdg>
+            <rdg wit="#xle">и потѡ<hi rend="sup">м</hi> даѧти. оуглады на роускые <lb/> горѡды.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и потомъ даяти уклады на Рускыа грады:</rdg><rdg wit="#shakh">и потомь даяти уклады на Русьскыя грады:</rdg><rdg wit="#likh">и потом даяти уклады на рускыа грады:</rdg></rdgGrp></app></p></div></body></text></TEI>

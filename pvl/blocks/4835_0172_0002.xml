@@ -1,116 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>172, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="172"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-<w n="172,2">събравъ</w>
-<w n="172,2">дружины</w>
-<w n="172,2">нѣколико,</w>
-<w n="172,2">изиде</w>
-<w n="172,2">на</w>
-<w n="172,2">ня</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="172,2">собравъ</w>
-<w n="172,2">дружины</w>
-<w n="172,2">нѣ<lb/>колико.</w>
-<w n="172,2">изиде</w>
-<w n="172,2">на</w>
-<w n="172,2">нь</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="172,2">собравъ</w>
-<w n="172,2">дрѹжыны</w>
-<w n="172,2">нѣколько. <lb/></w>
-
-<w n="172,2">изы<hi rend="sup">д</hi></w>
-<w n="172,2">на</w>
-<w n="172,2">нь</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="172,2">събравъ</w>
-<w n="172,2">дрѹжины</w>
-<w n="172,2">нѣсколко</w>
-<w n="172,2">изыиде</w>
-<w n="172,2">на <lb/></w>
-
-<w n="172,2">нь</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="172,2">собравъ</w>
-<w n="172,2">дружину <lb/></w>
-
-<w n="172,2">и</w>
-<w n="172,2">нѣколико</w>
-<w n="172,2">ихъ.</w>
-<w n="172,2">изыиде</w>
-<w n="172,2">на</w>
-<w n="172,2">нѧ <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="172,2">събравь</w>
-<w n="172,2">дроужи<lb/>ны</w>
-<w n="172,2">нѣколико.</w>
-<w n="172,2">изыде</w>
-<w n="172,2">на</w>
-<w n="172,2">нѧ</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="172,2">собравъ</w>
-<w n="172,2">дружины</w>
-<w n="172,2">нѣколико</w>
-<w n="172,2">изиде</w>
-<w n="172,2">на</w>
-<w n="172,2">нѣх</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="172,2">събравъ</w>
-<w n="172,2">дружины</w>
-<w n="172,2">нѣколико</w>
-<w n="172,2">изыде</w>
-<w n="172,2">на</w>
-<w n="172,2">нꙗ</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="172,2">сбрав</w>
-<w n="172,2">дружины</w>
-<w n="172,2">нѣколико</w>
-<w n="172,2">изыде</w>
-<w n="172,2">на</w>
-<w n="172,2">нꙗ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="172,2">собравъ</w>
-<w n="172,2">дружины</w>
-<w n="172,2">нѣколико,</w>
-<w n="172,2">изиде</w>
-<w n="172,2">на</w>
-<w n="172,2">ня</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="172,2">събравъ</w>
-<w n="172,2">дружины</w>
-<w n="172,2">нѣколико,</w>
-<w n="172,2">изиде</w>
-<w n="172,2">на</w>
-<w n="172,2">ня</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="172,2">собравъ</w>
-<w n="172,2">дружины</w>
-<w n="172,2">нѣколико,</w>
-<w n="172,2">изиде</w>
-<w n="172,2">на</w>
-<w n="172,2">ня</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>172, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="172"/><div type="block" n="2"><p><app><lem wit="#lem">
+            събравъ дружины нѣколико, изиде на ня
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">собравъ дружины нѣ<lb/>колико. изиде на нь</rdg>
+            <rdg wit="#rad">собравъ дрѹжыны нѣколько. <lb/> изы<hi rend="sup">д</hi> на нь</rdg>
+            <rdg wit="#aka">събравъ дрѹжины нѣсколко изыиде на <lb/> нь</rdg>
+            <rdg wit="#ipa">собравъ дружину <lb/> и нѣколико ихъ. изыиде на нѧ <lb/></rdg>
+            <rdg wit="#xle">събравь дроужи<lb/>ны нѣколико. изыде на нѧ</rdg>
+            <rdg wit="#kom">собравъ дружины нѣколико изиде на нѣх</rdg>
+            <rdg wit="#nak">събравъ дружины нѣколико изыде на нꙗ</rdg>
+            <rdg wit="#tol">сбрав дружины нѣколико изыде на нꙗ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">собравъ дружины нѣколико, изиде на ня</rdg><rdg wit="#shakh">събравъ дружины нѣколико, изиде на ня</rdg><rdg wit="#likh">собравъ дружины нѣколико, изиде на ня</rdg></rdgGrp></app></p></div></body></text></TEI>

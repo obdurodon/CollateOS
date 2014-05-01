@@ -1,92 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>17, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="17"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="17,5">и</w>
-<w n="17,5">къ</w>
-<w n="17,5">старѣишинамъ</w>
-<w n="17,5">своимъ,</w>
-<w n="17,5">и</w>
-<w n="17,5">рѣша</w>
-<w n="17,5">имъ:</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="17,5">и</w>
-<w n="17,5">къ</w>
-<w n="17,5">стариишинымъ.</w>
-<w n="17,5">и</w>
-<w n="17,5">рѣша</w>
-<w n="17,5">имъ</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="17,5">пагес</w>
-<w n="17,5">миссинг</w>
-<w n="17,5">ор</w>
-<w n="17,5">дамагед</w>
-<w n="17,5">тhроугh 19,3</w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="17,5">и</w>
-<w n="17,5">старе<hi rend="sup">и</hi><lb/>шинамъ</w>
-<w n="17,5">свои<hi rend="sup">м</hi>.</w>
-<w n="17,5">и</w>
-<w n="17,5">рѣша</w>
-<w n="17,5">имъ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="17,5">и</w>
-<w n="17,5">къ</w>
-<w n="17,5">ста<lb/>рѣишинамъ</w>
-<w n="17,5">свои<hi rend="sup">м</hi>.</w>
-<w n="17,5">и</w>
-<w n="17,5">рѣ<lb/>ша</w>
-<w n="17,5">имъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="17,5">и</w>
-<w n="17,5">къ</w>
-<w n="17,5">старѣишина<hi rend="sup">м</hi></w>
-<w n="17,5">свои<hi rend="sup">м</hi>.</w>
-<w n="17,5">и</w>
-<w n="17,5">рѣша</w>
-<w n="17,5">и<hi rend="sup">м</hi>,</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="17,5">и</w>
-<w n="17,5">къ</w>
-<w n="17,5">старѣйшинамъ</w>
-<w n="17,5">своимъ,</w>
-<w n="17,5">и</w>
-<w n="17,5">рѣша</w>
-<w n="17,5">имъ:</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="17,5">и</w>
-<w n="17,5">къ</w>
-<w n="17,5">старѣишинамъ</w>
-<w n="17,5">своимъ,</w>
-<w n="17,5">и</w>
-<w n="17,5">рѣша</w>
-<w n="17,5">имъ:</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="17,5">и</w>
-<w n="17,5">къ</w>
-<w n="17,5">старѣйшинымъ</w>
-<w n="17,5">своимъ,</w>
-<w n="17,5">и</w>
-<w n="17,5">рѣша</w>
-<w n="17,5">имъ:</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>17, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="17"/><div type="block" n="5"><p><app><lem wit="#lem">
+            и къ старѣишинамъ своимъ, и рѣша имъ:
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и къ стариишинымъ. и рѣша имъ</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">пагес миссинг ор дамагед тhроугh 19,3</rdg>
+            <rdg wit="#aka">и старе<hi rend="sup">и</hi><lb/>шинамъ свои<hi rend="sup">м</hi>. и рѣша имъ.</rdg>
+            <rdg wit="#ipa">и къ ста<lb/>рѣишинамъ свои<hi rend="sup">м</hi>. и рѣ<lb/>ша имъ</rdg>
+            <rdg wit="#xle">и къ старѣишина<hi rend="sup">м</hi> свои<hi rend="sup">м</hi>. и рѣша и<hi rend="sup">м</hi>,</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и къ старѣйшинамъ своимъ, и рѣша имъ:</rdg><rdg wit="#shakh">и къ старѣишинамъ своимъ, и рѣша имъ:</rdg><rdg wit="#likh">и къ старѣйшинымъ своимъ, и рѣша имъ:</rdg></rdgGrp></app></p></div></body></text></TEI>

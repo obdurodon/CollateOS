@@ -1,62 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>29, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="29"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-<w n="29,4">Въ</w>
-<w n="29,4">лѣто 6408.</w>
-
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="29,4">въ</w>
-<w n="29,4">лѣто 6407</w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="29,4">В</w>
-<w n="29,4">лѣ<hi rend="sup">т</hi></w>
-<w n="29,4">҂ѕ҃.у҃.и҃.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="29,4">В</w>
-<w n="29,4">лѣ<hi rend="sup">т</hi>.</w>
-<w n="29,4">҂ѕ҃.у҃и.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="29,4">В</w>
-<w n="29,4">лѣто.</w>
-<w n="29,4">҂ѕ҃</w>
-<w n="29,4">у҃.и҃·:· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="29,4">В</w>
-<w n="29,4">лѣ<hi rend="sup">т</hi>.</w>
-<w n="29,4">҂ѕ҃.у҃</w>
-<w n="29,4">и҃.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="29,4">В</w>
-<w n="29,4">лѣто 6408.</w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="29,4">Въ</w>
-<w n="29,4">лѣто 6408.</w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="29,4">В</w>
-<w n="29,4">лѣто 6408.</w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>29, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="29"/><div type="block" n="4"><p><app><lem wit="#lem">
+            Въ лѣто 6408.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">въ лѣто 6407</rdg>
+            <rdg wit="#rad">В лѣ<hi rend="sup">т</hi> ҂ѕ҃.у҃.и҃.</rdg>
+            <rdg wit="#aka">В лѣ<hi rend="sup">т</hi>. ҂ѕ҃.у҃и.</rdg>
+            <rdg wit="#ipa">В лѣто. ҂ѕ҃ у҃.и҃·:· <lb/></rdg>
+            <rdg wit="#xle">В лѣ<hi rend="sup">т</hi>. ҂ѕ҃.у҃ и҃.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">В лѣто 6408.</rdg><rdg wit="#shakh">Въ лѣто 6408.</rdg><rdg wit="#likh">В лѣто 6408.</rdg></rdgGrp></app></p></div></body></text></TEI>

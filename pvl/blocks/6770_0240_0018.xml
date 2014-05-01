@@ -1,88 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>240, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="240"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="240,18">обѣща</w>
-<w n="240,18">ся</w>
-<w n="240,18">тако</w>
-<w n="240,18">сътворити.</w>
-<w n="240,18">Мьстиславъ</w>
-<w n="240,18">же</w>
-<w n="240,18">възвративъ</w>
-<w n="240,18">ся</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="240,18">ѡбѣщасѧ</w>
-<w n="240,18">тако</w>
-<w n="240,18">створити· <lb/></w>
-
-<w n="240,18">мстислав</w>
-<w n="240,18">же</w>
-<w n="240,18">възвративъсѧ <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="240,18">ѡбеща<hi rend="sup">с</hi></w>
-<w n="240,18">тако</w>
-<w n="240,18">сотворити· <lb/></w>
-
-<w n="240,18">мстислав</w>
-<w n="240,18">же</w>
-<w n="240,18">възрати<hi rend="sup">с</hi>·</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="240,18">ѡбѣщасѧ</w>
-<w n="240,18">тако</w>
-<w n="240,18">сотворити·</w>
-<w n="240,18">мсти<lb/>славъ</w>
-<w n="240,18">же</w>
-<w n="240,18">возратисѧ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="240,18">ѡбѣ<lb/>щасѧ</w>
-<w n="240,18">тако</w>
-<w n="240,18">створити·</w>
-<w n="240,18">мьсти<lb/>славъ</w>
-<w n="240,18">же</w>
-<w n="240,18">оузворотисѧ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="240,18">ѡбѣща<hi rend="sup">с</hi><lb/></w>
-<w n="240,18">тако</w>
-<w n="240,18">сътворити.</w>
-<w n="240,18">мьстислав</w>
-<w n="240,18">же</w>
-<w n="240,18">възвороти<lb/>сѧ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="240,18">обѣщася</w>
-<w n="240,18">тако</w>
-<w n="240,18">створити.</w>
-<w n="240,18">Мстиславъ</w>
-<w n="240,18">же</w>
-<w n="240,18">възвративъся</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="240,18">обѣщася</w>
-<w n="240,18">тако</w>
-<w n="240,18">сътворити.</w>
-<w n="240,18">Мьстиславъ</w>
-<w n="240,18">же,</w>
-<w n="240,18">възвративъся</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="240,18">обѣщася</w>
-<w n="240,18">тако</w>
-<w n="240,18">створити.</w>
-<w n="240,18">Мстиславъ</w>
-<w n="240,18">же</w>
-<w n="240,18">възвративъся</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>240, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="240"/><div type="block" n="18"><p><app><lem wit="#lem">
+            обѣща ся тако сътворити. Мьстиславъ же възвративъ ся
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѡбѣщасѧ тако створити· <lb/> мстислав же възвративъсѧ <lb/></rdg>
+            <rdg wit="#rad">ѡбеща<hi rend="sup">с</hi> тако сотворити· <lb/> мстислав же възрати<hi rend="sup">с</hi>·</rdg>
+            <rdg wit="#aka">ѡбѣщасѧ тако сотворити· мсти<lb/>славъ же возратисѧ</rdg>
+            <rdg wit="#ipa">ѡбѣ<lb/>щасѧ тако створити· мьсти<lb/>славъ же оузворотисѧ</rdg>
+            <rdg wit="#xle">ѡбѣща<hi rend="sup">с</hi>
+                <lb/> тако сътворити. мьстислав же възвороти<lb/>сѧ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">обѣщася тако створити. Мстиславъ же възвративъся</rdg><rdg wit="#shakh">обѣщася тако сътворити. Мьстиславъ же, възвративъся</rdg><rdg wit="#likh">обѣщася тако створити. Мстиславъ же възвративъся</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,80 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>188, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="188"/><div type="block" n="25"><p>
-<app>
-<lem wit="#lem">
-<w n="188,25">съ</w>
-<w n="188,25">покорениемь</w>
-<w n="188,25">и</w>
-<w n="188,25">съ</w>
-<w n="188,25">послушаниемъ</w>
-<w n="188,25">великъмь.</w>
-<w n="188,25">Такоже</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="188,25">с</w>
-<w n="188,25">покореньемь</w>
-<w n="188,25">и</w>
-<w n="188,25">с</w>
-<w n="188,25">послу<lb/>шаньѥ<hi rend="sup">м</hi></w>
-<w n="188,25">великымъ.</w>
-<w n="188,25">такоже</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="188,25">с</w>
-<w n="188,25">покорениемь</w>
-<w n="188,25">и</w>
-<w n="188,25">с</w>
-<w n="188,25">послушани<lb/>емь.</w>
-<w n="188,25">великомъ.</w>
-<w n="188,25">и</w>
-<w n="188,25">такоже</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="188,25">с</w>
-<w n="188,25">покоренїемь. <lb/></w>
-
-<w n="188,25">и</w>
-<w n="188,25">послоушанїемь</w>
-<w n="188,25">великы<hi rend="sup">м</hi>.</w>
-<w n="188,25">тако<hi rend="sup">ж</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="188,25">с</w>
-<w n="188,25">покореньемь</w>
-<w n="188,25">и</w>
-<w n="188,25">с</w>
-<w n="188,25">послушаньемъ</w>
-<w n="188,25">великымъ;</w>
-<w n="188,25">такоже</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="188,25">съ</w>
-<w n="188,25">покорениемь</w>
-<w n="188,25">и</w>
-<w n="188,25">съ</w>
-<w n="188,25">послушаниемъ</w>
-<w n="188,25">великъмь.</w>
-<w n="188,25">Такоже</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="188,25">с</w>
-<w n="188,25">покореньемь</w>
-<w n="188,25">и</w>
-<w n="188,25">с</w>
-<w n="188,25">послушаньем</w>
-<w n="188,25">великымъ.</w>
-<w n="188,25">Тако</w>
-<w n="188,25">же</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>188, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="188"/><div type="block" n="25"><p><app><lem wit="#lem">
+            съ покорениемь и съ послушаниемъ великъмь. Такоже
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">с покореньемь и с послу<lb/>шаньѥ<hi rend="sup">м</hi> великымъ. такоже</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">с покорениемь и с послушани<lb/>емь. великомъ. и такоже</rdg>
+            <rdg wit="#xle">с покоренїемь. <lb/> и послоушанїемь великы<hi rend="sup">м</hi>. тако<hi rend="sup">ж</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">с покореньемь и с послушаньемъ великымъ; такоже</rdg><rdg wit="#shakh">съ покорениемь и съ послушаниемъ великъмь. Такоже</rdg><rdg wit="#likh">с покореньемь и с послушаньем великымъ. Тако же</rdg></rdgGrp></app></p></div></body></text></TEI>

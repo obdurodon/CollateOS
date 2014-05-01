@@ -1,93 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>139, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="139"/><div type="block" n="24"><p>
-<app>
-<lem wit="#lem">
-<w n="139,24">кънязя</w>
-<w n="139,24">правьдьна,</w>
-<w n="139,24">любяща</w>
-<w n="139,24">судъ</w>
-<w n="139,24">и</w>
-<w n="139,24">правьду,</w>
-<w n="139,24">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="139,24">кнѧзѧ</w>
-<w n="139,24">праведна.</w>
-<w n="139,24">лю<lb/>бѧща</w>
-<w n="139,24">судъ.</w>
-<w n="139,24">и</w>
-<w n="139,24">правду.</w>
-<w n="139,24">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="139,24">кн҃зѧ.</w>
-<w n="139,24">праведна.</w>
-<w n="139,24">любѧща</w>
-<w n="139,24">соу<hi rend="sup">д</hi></w>
-<w n="139,24">и</w>
-<w n="139,24">правдѹ.</w>
-<w n="139,24">и <pb n="79r"/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="139,24">кнз҃ѧ</w>
-<w n="139,24">праве<lb/>дна.</w>
-<w n="139,24">любѧща</w>
-<w n="139,24">соудъ</w>
-<w n="139,24">и</w>
-<w n="139,24">правдоу.</w>
-<w n="139,24">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="139,24">кнѧзѧ</w>
-<w n="139,24">правѣдна</w>
-<w n="139,24">любѧ<lb/>ща</w>
-<w n="139,24">судъ</w>
-<w n="139,24">и</w>
-<w n="139,24">правду.</w>
-<w n="139,24">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="139,24">кнѧѕѧ</w>
-<w n="139,24">праве<hi rend="sup">д</hi>на.</w>
-<w n="139,24">любѧща</w>
-<w n="139,24">сѫ<hi rend="sup">д</hi></w>
-<w n="139,24">и</w>
-<w n="139,24">прав<hi rend="sup">д</hi>оу.</w>
-<w n="139,24">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="139,24">князя</w>
-<w n="139,24">праведна,</w>
-<w n="139,24">любяща</w>
-<w n="139,24">судъ</w>
-<w n="139,24">и</w>
-<w n="139,24">правду,</w>
-<w n="139,24">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="139,24">кънязя</w>
-<w n="139,24">правьдьна,</w>
-<w n="139,24">любяща</w>
-<w n="139,24">судъ</w>
-<w n="139,24">и</w>
-<w n="139,24">правьду,</w>
-<w n="139,24">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="139,24">князя</w>
-<w n="139,24">праведна,</w>
-<w n="139,24">любяща</w>
-<w n="139,24">судъ</w>
-<w n="139,24">и</w>
-<w n="139,24">правду,</w>
-<w n="139,24">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>139, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="139"/><div type="block" n="24"><p><app><lem wit="#lem">
+            кънязя правьдьна, любяща судъ и правьду, и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">кнѧзѧ праведна. лю<lb/>бѧща судъ. и правду. и</rdg>
+            <rdg wit="#rad">кн҃зѧ.  праведна. любѧща соу<hi rend="sup">д</hi> и правдѹ. и
+                <pb n="79r"/></rdg>
+            <rdg wit="#aka">кнз҃ѧ праве<lb/>дна. любѧща соудъ и правдоу. и</rdg>
+            <rdg wit="#ipa">кнѧзѧ правѣдна любѧ<lb/>ща судъ и правду. и</rdg>
+            <rdg wit="#xle">кнѧѕѧ праве<hi rend="sup">д</hi>на. любѧща сѫ<hi rend="sup">д</hi> и прав<hi rend="sup">д</hi>оу. и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">князя праведна, любяща судъ и правду, и</rdg><rdg wit="#shakh">кънязя правьдьна, любяща судъ и правьду, и</rdg><rdg wit="#likh">князя праведна, любяща судъ и правду, и</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,90 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>282, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="282"/><div type="block" n="25"><p>
-<app>
-<lem wit="#lem">
-<w n="282,25">Святопълча</w>
-<w n="282,25">мати,</w>
-<w n="282,25">мѣсяца</w>
-<w n="282,25">генваря</w>
-<w n="282,25">въ 4</w>
-
-<w n="282,25">дьнь.</w>
-<w n="282,25">Томьже</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="282,25">ст҃ополча</w>
-<w n="282,25">мт҃и·</w>
-<w n="282,25">мц<hi rend="sup">с</hi>а <lb/></w>
-
-<w n="282,25">генва<hi rend="sup">р</hi>·</w>
-<w n="282,25">въ</w>
-<w n="282,25">·д҃·</w>
-<w n="282,25">дн҃ь·</w>
-<w n="282,25">томь<hi rend="sup">ж</hi></w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="282,25">ст҃ополча</w>
-<w n="282,25">мт҃и·</w>
-<w n="282,25">мц<hi rend="sup">с</hi>а·</w>
-<w n="282,25">ге<lb/>нварѧ</w>
-<w n="282,25">въ</w>
-<w n="282,25">·д҃·</w>
-<w n="282,25">дн҃ь·</w>
-<w n="282,25">томъже</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="282,25">ст҃опол′ча</w>
-<w n="282,25">мати. <lb/></w>
-
-<w n="282,25">мц<hi rend="sup">с</hi>а</w>
-<w n="282,25">ге<hi rend="sup">н</hi>варѧ</w>
-<w n="282,25">въ</w>
-<w n="282,25">.д҃.</w>
-<w n="282,25">д҃нь.</w>
-<w n="282,25">в</w>
-<w n="282,25">то<hi rend="sup">ж</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="282,25">Святополча</w>
-<w n="282,25">мати,</w>
-<w n="282,25">мѣсяца</w>
-<w n="282,25">генваря</w>
-<w n="282,25">въ 4</w>
-
-<w n="282,25">день.</w>
-<w n="282,25">Томь</w>
-<w n="282,25">же</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="282,25">Святопълча</w>
-<w n="282,25">мати,</w>
-<w n="282,25">мѣсяца</w>
-<w n="282,25">генваря</w>
-<w n="282,25">въ 4</w>
-
-<w n="282,25">дьнь.</w>
-<w n="282,25">Томьже</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="282,25">Святополча</w>
-<w n="282,25">мати,</w>
-<w n="282,25">мѣсяца</w>
-<w n="282,25">генваря</w>
-<w n="282,25">въ 4</w>
-
-<w n="282,25">день.</w>
-<w n="282,25">Томь</w>
-<w n="282,25">же</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>282, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="282"/><div type="block" n="25"><p><app><lem wit="#lem">
+            Святопълча мати, мѣсяца генваря въ 4 дьнь. Томьже
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ст҃ополча мт҃и· мц<hi rend="sup">с</hi>а <lb/> генва<hi rend="sup">р</hi>· въ ·д҃· дн҃ь·
+                    томь<hi rend="sup">ж</hi></rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">ст҃ополча мт҃и· мц<hi rend="sup">с</hi>а· ге<lb/>нварѧ въ ·д҃· дн҃ь· томъже</rdg>
+            <rdg wit="#xle">ст҃опол′ча мати. <lb/> мц<hi rend="sup">с</hi>а ге<hi rend="sup">н</hi>варѧ въ .д҃. д҃нь. в
+                    то<hi rend="sup">ж</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Святополча мати, мѣсяца генваря въ 4 день. Томь же</rdg><rdg wit="#shakh">Святопълча мати, мѣсяца генваря въ 4 дьнь. Томьже</rdg><rdg wit="#likh">Святополча мати, мѣсяца генваря въ 4 день. Томь же</rdg></rdgGrp></app></p></div></body></text></TEI>

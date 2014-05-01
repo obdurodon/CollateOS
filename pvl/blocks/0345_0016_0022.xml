@@ -1,87 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>16, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="16"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="16,22">быша</w>
-<w n="16,22">обидими</w>
-<w n="16,22">Деревляны</w>
-<w n="16,22">и</w>
-<w n="16,22">инѣми</w>
-<w n="16,22">окольными.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="16,22">бы<milestone unit="sic" n="start"/>ша</w>
-<w n="16,22">ѡ<milestone unit="sic" n="end"/>бидимы</w>
-<w n="16,22">дре<lb/>влѧми.</w>
-<w n="16,22">инѣми</w>
-<w n="16,22">ѡколними.</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="16,22">быша</w>
-<w n="16,22">ѡбидими</w>
-<w n="16,22">деревлѧни.</w>
-<w n="16,22">и</w>
-<w n="16,22">їными</w>
-<w n="16,22">ѡколними.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="16,22">быша</w>
-<w n="16,22">ѡбидими</w>
-<w n="16,22">дере<lb/>влѧми.</w>
-<w n="16,22">и</w>
-<w n="16,22">иными</w>
-<w n="16,22">ѡколными.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="16,22">быш<hi rend="sup">а</hi><lb/></w>
-<w n="16,22">ѡбидими</w>
-<w n="16,22">деревлѧны.</w>
-<w n="16,22">и <lb/></w>
-
-<w n="16,22">инѣми</w>
-<w n="16,22">ѡколными.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="16,22">быша</w>
-<w n="16,22">ѡб<hi rend="sup">д</hi>и<hi rend="sup">и</hi>ми <lb/></w>
-
-<w n="16,22">деревлѧне.</w>
-<w n="16,22">и</w>
-<w n="16,22">иними</w>
-<w n="16,22">околними.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="16,22">быша</w>
-<w n="16,22">обидимы</w>
-<w n="16,22">Древлями</w>
-<w n="16,22">и</w>
-<w n="16,22">инѣми</w>
-<w n="16,22">околними,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="16,22">быша</w>
-<w n="16,22">обидимы</w>
-<w n="16,22">Древлями</w>
-<w n="16,22">и</w>
-<w n="16,22">инѣми</w>
-<w n="16,22">окольними,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="16,22">быша</w>
-<w n="16,22">обидимы</w>
-<w n="16,22">древлями</w>
-<w n="16,22">и</w>
-<w n="16,22">инѣми</w>
-<w n="16,22">околними.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>16, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="16"/><div type="block" n="22"><p><app><lem wit="#lem">
+            быша обидими Деревляны и инѣми окольными.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">бы<sic>ша ѡ</sic>бидимы дре<lb/>влѧми. инѣми ѡколними.</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">быша ѡбидими деревлѧни. и їными ѡколними.</rdg>
+            <rdg wit="#aka">быша ѡбидими дере<lb/>влѧми. и иными ѡколными.</rdg>
+            <rdg wit="#ipa">быш<hi rend="sup">а</hi>
+                <lb/> ѡбидими деревлѧны. и <lb/> инѣми ѡколными.</rdg>
+            <rdg wit="#xle">быша ѡб<hi rend="sup">д</hi>и<hi rend="sup">и</hi>ми <lb/> деревлѧне. и иними околними.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">быша обидимы Древлями и инѣми околними,</rdg><rdg wit="#shakh">быша обидимы Древлями и инѣми окольними,</rdg><rdg wit="#likh">быша обидимы древлями и инѣми околними.</rdg></rdgGrp></app></p></div></body></text></TEI>

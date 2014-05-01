@@ -1,85 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>229, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="229"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="229,16">И</w>
-<w n="229,16">пошьдъ</w>
-<w n="229,16">Давыдъ,</w>
-<w n="229,16">вороти</w>
-<w n="229,16">ся</w>
-<w n="229,16">Смолиньску,</w>
-<w n="229,16">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="229,16">пошедъ</w>
-<w n="229,16">дв҃дъ</w>
-<w n="229,16">воротисѧ</w>
-<w n="229,16">смоли<lb/>ньску·</w>
-<w n="229,16">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="229,16">и</w>
-<w n="229,16">поше<hi rend="sup">д</hi></w>
-<w n="229,16">дв<hi rend="sup">д</hi>ъ</w>
-<w n="229,16">и</w>
-<w n="229,16">вороти<hi rend="sup">с</hi>.</w>
-<w n="229,16">и</w>
-<w n="229,16">въ</w>
-<w n="229,16">смо<lb/>ленесцѣ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="229,16">и</w>
-<w n="229,16">поше<hi rend="sup">д</hi><lb/></w>
-<w n="229,16">дв҃дъ</w>
-<w n="229,16">и</w>
-<w n="229,16">воротисѧ·</w>
-<w n="229,16">и</w>
-<w n="229,16">въ</w>
-<w n="229,16">смоленьстцѣ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="229,16">пошед<milestone unit="sic" n="start"/>ъ<milestone unit="sic" n="end"/></w>
-<w n="229,16">дав҃ы<lb/>дъ</w>
-<w n="229,16">оуз</w>
-<w n="229,16">воротисѧ·</w>
-<w n="229,16">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="229,16">и</w>
-<w n="229,16">поше<hi rend="sup">д</hi></w>
-<w n="229,16">дв҃дь</w>
-<w n="229,16">възвратисѧ.</w>
-<w n="229,16">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="229,16">И</w>
-<w n="229,16">пошедъ</w>
-<w n="229,16">Давыдъ,</w>
-<w n="229,16">воротися</w>
-<w n="229,16">Смолиньску,</w>
-<w n="229,16">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="229,16">И</w>
-<w n="229,16">пошьдъ</w>
-<w n="229,16">Давыдъ,</w>
-<w n="229,16">воротися</w>
-<w n="229,16">Смолиньску,</w>
-<w n="229,16">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="229,16">И</w>
-<w n="229,16">пошедъ</w>
-<w n="229,16">Давыдъ,</w>
-<w n="229,16">воротися</w>
-<w n="229,16">Смолиньску,</w>
-<w n="229,16">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>229, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="229"/><div type="block" n="16"><p><app><lem wit="#lem">
+            И пошьдъ Давыдъ, вороти ся Смолиньску, и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">пошедъ дв҃дъ воротисѧ смоли<lb/>ньску· и</rdg>
+            <rdg wit="#rad">и поше<hi rend="sup">д</hi> дв<hi rend="sup">д</hi>ъ и вороти<hi rend="sup">с</hi>. и въ смо<lb/>ленесцѣ</rdg>
+            <rdg wit="#aka">и поше<hi rend="sup">д</hi>
+                <lb/> дв҃дъ и воротисѧ· и въ смоленьстцѣ</rdg>
+            <rdg wit="#ipa">пошед<sic>ъ</sic> дав҃ы<lb/>дъ оуз воротисѧ· и</rdg>
+            <rdg wit="#xle">и поше<hi rend="sup">д</hi> дв҃дь възвратисѧ. и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">И пошедъ Давыдъ, воротися Смолиньску, и</rdg><rdg wit="#shakh">И пошьдъ Давыдъ, воротися Смолиньску, и</rdg><rdg wit="#likh">И пошедъ Давыдъ, воротися Смолиньску, и</rdg></rdgGrp></app></p></div></body></text></TEI>

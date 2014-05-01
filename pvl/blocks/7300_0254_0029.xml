@@ -1,54 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>254, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="254"/><div type="block" n="29"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="254,29">то</w>
-<w n="254,29">ти</w>
-<w n="254,29">сѣдить· <lb/></w>
-
-<w n="254,29">сн҃ъ</w>
-<w n="254,29">твои</w>
-<w n="254,29">хр<hi rend="sup">с</hi>ьтныи</w>
-<w n="254,29">с</w>
-<w n="254,29">малы<hi rend="sup">м</hi></w>
-<w n="254,29">бра<lb/>томъ</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="254,29">то</w>
-<w n="254,29">ти</w>
-<w n="254,29">сѣдить</w>
-<w n="254,29">сынъ</w>
-<w n="254,29">твой</w>
-<w n="254,29">хрестьный</w>
-<w n="254,29">с</w>
-<w n="254,29">малымъ</w>
-<w n="254,29">братомъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="254,29">то</w>
-<w n="254,29">ти</w>
-<w n="254,29">сѣдить</w>
-<w n="254,29">сынъ</w>
-<w n="254,29">твой</w>
-<w n="254,29">хрестьный</w>
-<w n="254,29">с</w>
-<w n="254,29">малым</w>
-<w n="254,29">братомъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>254, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="254"/><div type="block" n="29"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">то ти сѣдить· <lb/> сн҃ъ твои хр<hi rend="sup">с</hi>ьтныи с малы<hi rend="sup">м</hi>
+                бра<lb/>томъ</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">то ти сѣдить сынъ твой хрестьный с малымъ братомъ</rdg><rdg wit="#likh">то ти сѣдить сынъ твой хрестьный с малым братомъ</rdg></rdgGrp></app></p></div></body></text></TEI>

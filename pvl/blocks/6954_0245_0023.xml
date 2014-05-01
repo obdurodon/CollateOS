@@ -1,48 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>245, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="245"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="245,23">сами·</w>
-<w n="245,23">а</w>
-<w n="245,23">не</w>
-<w n="245,23">вдава<lb/>ите</w>
-<w n="245,23">силны<hi rend="sup">м</hi></w>
-<w n="245,23">погубити</w>
-<w n="245,23">члв҃ка· <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="245,23">сами,</w>
-<w n="245,23">а</w>
-<w n="245,23">не</w>
-<w n="245,23">вдавайте</w>
-<w n="245,23">силным</w>
-<w n="245,23">погубити</w>
-<w n="245,23">человѣка.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="245,23">сами,</w>
-<w n="245,23">а</w>
-<w n="245,23">не</w>
-<w n="245,23">вдавайте</w>
-<w n="245,23">силным</w>
-<w n="245,23">погубити</w>
-<w n="245,23">человѣка.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>245, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="245"/><div type="block" n="23"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">сами· а не вдава<lb/>ите силны<hi rend="sup">м</hi> погубити члв҃ка· <lb/></rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">сами, а не вдавайте силным погубити человѣка.</rdg><rdg wit="#likh">сами, а не вдавайте силным погубити человѣка.</rdg></rdgGrp></app></p></div></body></text></TEI>

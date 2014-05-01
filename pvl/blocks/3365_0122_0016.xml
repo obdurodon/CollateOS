@@ -1,89 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>122, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="122"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="122,16">Печенѣжьскыи</w>
-<w n="122,16">къ</w>
-<w n="122,16">рѣцѣ,</w>
-<w n="122,16">и</w>
-<w n="122,16">възъва</w>
-<w n="122,16">Володимира,</w>
-<w n="122,16">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="122,16">печенѣжьскыи</w>
-<w n="122,16">к</w>
-<w n="122,16">рѣкѣ.</w>
-<w n="122,16">во<milestone unit="sic" n="start"/>-ва<milestone unit="sic" n="end"/></w>
-<w n="122,16">володимера</w>
-<w n="122,16">и <pb n="42c"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="122,16">печенѣскыи</w>
-<w n="122,16">к</w>
-<w n="122,16">рецѣ.</w>
-<w n="122,16">во<lb/>зва</w>
-<w n="122,16">володимира</w>
-<w n="122,16">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="122,16">печенѣзьскїи</w>
-<w n="122,16">к</w>
-<w n="122,16">ре<lb/>цѣ.</w>
-<w n="122,16">возва</w>
-<w n="122,16">володимира</w>
-<w n="122,16">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="122,16">печенѣ<lb/>скыи</w>
-<w n="122,16">к</w>
-<w n="122,16">рѣцѣ.</w>
-<w n="122,16">и</w>
-<w n="122,16">возва</w>
-<w n="122,16">воло<lb/>димира</w>
-<w n="122,16">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="122,16">печенѣ<hi rend="sup">ж</hi>ьскыи</w>
-<w n="122,16">к</w>
-<w n="122,16">рецѣ.</w>
-<w n="122,16">и</w>
-<w n="122,16">възва</w>
-<w n="122,16">вол<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>мера <lb/></w>
-
-<w n="122,16">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="122,16">Печенѣжьскый</w>
-<w n="122,16">к</w>
-<w n="122,16">рѣкѣ,</w>
-<w n="122,16">возва</w>
-<w n="122,16">Володимера</w>
-<w n="122,16">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="122,16">Печенѣжьскыи</w>
-<w n="122,16">къ</w>
-<w n="122,16">рѣцѣ,</w>
-<w n="122,16">и</w>
-<w n="122,16">възъва</w>
-<w n="122,16">Володимера,</w>
-<w n="122,16">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="122,16">печенѣжьскый</w>
-<w n="122,16">к</w>
-<w n="122,16">рѣкѣ,</w>
-<w n="122,16">возва</w>
-<w n="122,16">Володимера</w>
-<w n="122,16">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>122, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="122"/><div type="block" n="16"><p><app><lem wit="#lem">
+            Печенѣжьскыи къ рѣцѣ, и възъва Володимира, и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">печенѣжьскыи к рѣкѣ. во<sic>-ва</sic> володимера и
+                    <pb n="42c"/></rdg>
+            <rdg wit="#rad">печенѣскыи к рецѣ. во<lb/>зва володимира и</rdg>
+            <rdg wit="#aka">печенѣзьскїи к ре<lb/>цѣ. возва володимира и</rdg>
+            <rdg wit="#ipa">печенѣ<lb/>скыи к рѣцѣ. и возва воло<lb/>димира и</rdg>
+            <rdg wit="#xle">печенѣ<hi rend="sup">ж</hi>ьскыи к рецѣ. и възва вол<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>мера <lb/>
+                и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Печенѣжьскый к рѣкѣ, возва Володимера и</rdg><rdg wit="#shakh">Печенѣжьскыи къ рѣцѣ, и възъва Володимера, и</rdg><rdg wit="#likh">печенѣжьскый к рѣкѣ, возва Володимера и</rdg></rdgGrp></app></p></div></body></text></TEI>

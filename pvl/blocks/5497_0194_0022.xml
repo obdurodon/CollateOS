@@ -1,104 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>194, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="194"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="194,22">положаху</w>
-<w n="194,22">предъ</w>
-<w n="194,22">нимъ</w>
-<w n="194,22">хлѣбъ,</w>
-<w n="194,22">и</w>
-<w n="194,22">не</w>
-<w n="194,22">възьмяше</w>
-<w n="194,22">его,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="194,22"><milestone unit="add" n="start" place="margin"/>по<milestone unit="add" n="end"/>ложаху</w>
-<w n="194,22">пред</w>
-<w n="194,22">ни<hi rend="sup">м</hi></w>
-<w n="194,22">хлѣбъ.</w>
-<w n="194,22">и</w>
-<w n="194,22">не</w>
-<w n="194,22">въ<lb/>змѧше</w>
-<w n="194,22">ѥго.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="194,22">положахоу</w>
-<w n="194,22">пред</w>
-<w n="194,22">ни<hi rend="sup">м</hi><lb/></w>
-<w n="194,22">хлѣбъ.</w>
-<w n="194,22">и</w>
-<w n="194,22">не</w>
-<w n="194,22">взимаше</w>
-<w n="194,22">его.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="194,22">положаахѹ <lb/></w>
-
-<w n="194,22">пре<hi rend="sup">д</hi></w>
-<w n="194,22">нимь</w>
-<w n="194,22">хлѣбъ.</w>
-<w n="194,22">и</w>
-<w n="194,22">не</w>
-<w n="194,22">возымааше</w>
-<w n="194,22">его.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="194,22">положаху <lb/></w>
-
-<w n="194,22">пред</w>
-<w n="194,22">нимь.</w>
-<w n="194,22">хлѣбъ</w>
-<w n="194,22">и</w>
-<w n="194,22">не</w>
-<w n="194,22">взима<lb/>ше</w>
-<w n="194,22">его.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="194,22">положахѫ</w>
-<w n="194,22">пре<hi rend="sup">д</hi></w>
-<w n="194,22">ни<hi rend="sup">м</hi></w>
-<w n="194,22">хлѣбь.</w>
-<w n="194,22">и</w>
-<w n="194,22">не <lb/></w>
-
-<w n="194,22">възимаше</w>
-<w n="194,22">его</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="194,22">положаху</w>
-<w n="194,22">пред</w>
-<w n="194,22">нимъ</w>
-<w n="194,22">хлѣбъ,</w>
-<w n="194,22">и</w>
-<w n="194,22">не</w>
-<w n="194,22">възмяше</w>
-<w n="194,22">его,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="194,22">положаху</w>
-<w n="194,22">предъ</w>
-<w n="194,22">нимъ</w>
-<w n="194,22">хлѣбъ,</w>
-<w n="194,22">и</w>
-<w n="194,22">не</w>
-<w n="194,22">възьмяше</w>
-<w n="194,22">его,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="194,22">положаху</w>
-<w n="194,22">пред</w>
-<w n="194,22">ним</w>
-<w n="194,22">хлѣбъ,</w>
-<w n="194,22">и</w>
-<w n="194,22">не</w>
-<w n="194,22">възмяше</w>
-<w n="194,22">его,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>194, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="194"/><div type="block" n="22"><p><app><lem wit="#lem">
+            положаху предъ нимъ хлѣбъ, и не възьмяше его,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav"><add place="margin">по</add>ложаху пред ни<hi rend="sup">м</hi> хлѣбъ. и не въ<lb/>змѧше
+                ѥго.</rdg>
+            <rdg wit="#rad">положахоу пред ни<hi rend="sup">м</hi>
+                <lb/> хлѣбъ. и не взимаше его.</rdg>
+            <rdg wit="#aka">положаахѹ <lb/> пре<hi rend="sup">д</hi> нимь хлѣбъ. и не возымааше его.</rdg>
+            <rdg wit="#ipa">положаху <lb/> пред нимь. хлѣбъ и не взима<lb/>ше его.</rdg>
+            <rdg wit="#xle">положахѫ пре<hi rend="sup">д</hi> ни<hi rend="sup">м</hi> хлѣбь. и не <lb/> възимаше его</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">положаху пред нимъ хлѣбъ, и не възмяше его,</rdg><rdg wit="#shakh">положаху предъ нимъ хлѣбъ, и не възьмяше его,</rdg><rdg wit="#likh">положаху пред ним хлѣбъ, и не възмяше его,</rdg></rdgGrp></app></p></div></body></text></TEI>

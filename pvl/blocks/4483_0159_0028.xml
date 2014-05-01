@@ -1,77 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>159, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="159"/><div type="block" n="28"><p>
-<app>
-<lem wit="#lem">
-<w n="159,28">старьцю,</w>
-<w n="159,28">и</w>
-<w n="159,28">поставиша</w>
-<w n="159,28">Феодосия</w>
-<w n="159,28">игуменъмь,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="159,28">старцю.</w>
-<w n="159,28">и</w>
-<w n="159,28">поставиша</w>
-<w n="159,28">ѳе<lb/>ѡдосьꙗ</w>
-<w n="159,28">игумено<hi rend="sup">м</hi>.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="159,28">старцю.</w>
-<w n="159,28">и</w>
-<w n="159,28">поста<lb/>виша</w>
-<w n="159,28">феѡдоса</w>
-<w n="159,28">игѹменомъ.</w>
-<w n="159,28">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="159,28">старцю.</w>
-<w n="159,28">и</w>
-<w n="159,28">поставиша</w>
-<w n="159,28">феѡдо<lb/>сїѧ</w>
-<w n="159,28">игѹменомъ.</w>
-<w n="159,28">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="159,28">старцю.</w>
-<w n="159,28">и</w>
-<w n="159,28">поставиша</w>
-<w n="159,28">федо<lb/>сьꙗ</w>
-<w n="159,28">игуменомъ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="159,28">старцю.</w>
-<w n="159,28">и</w>
-<w n="159,28">поставиша, <lb/></w>
-
-<w n="159,28">ѳеѡ<hi rend="sup">д</hi>с<hi rend="sup">о</hi>їа</w>
-<w n="159,28">игоуменѡ<hi rend="sup">м</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="159,28">старцю,</w>
-<w n="159,28">и</w>
-<w n="159,28">поставиша</w>
-<w n="159,28">Ѳеодосья</w>
-<w n="159,28">игуменомъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="159,28">старьцю,</w>
-<w n="159,28">и</w>
-<w n="159,28">поставиша</w>
-<w n="159,28">Феодосия</w>
-<w n="159,28">игуменъмь,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="159,28">старцю,</w>
-<w n="159,28">и</w>
-<w n="159,28">поставиша</w>
-<w n="159,28">Феодосья</w>
-<w n="159,28">игуменом</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>159, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="159"/><div type="block" n="28"><p><app><lem wit="#lem">
+            старьцю, и поставиша Феодосия игуменъмь,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">старцю. и поставиша ѳе<lb/>ѡдосьꙗ игумено<hi rend="sup">м</hi>.</rdg>
+            <rdg wit="#rad">старцю. и поста<lb/>виша феѡдоса игѹменомъ. и</rdg>
+            <rdg wit="#aka">старцю. и поставиша феѡдо<lb/>сїѧ игѹменомъ. и</rdg>
+            <rdg wit="#ipa">старцю. и поставиша федо<lb/>сьꙗ игуменомъ.</rdg>
+            <rdg wit="#xle">старцю. и поставиша, <lb/> ѳеѡ<hi rend="sup">д</hi>с<hi rend="sup">о</hi>їа
+                игоуменѡ<hi rend="sup">м</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">старцю, и поставиша Ѳеодосья игуменомъ</rdg><rdg wit="#shakh">старьцю, и поставиша Феодосия игуменъмь,</rdg><rdg wit="#likh">старцю, и поставиша Феодосья игуменом</rdg></rdgGrp></app></p></div></body></text></TEI>

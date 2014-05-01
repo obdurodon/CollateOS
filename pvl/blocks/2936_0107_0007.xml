@@ -1,91 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>107, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="107"/><div type="block" n="7"><p>
-<app>
-<lem wit="#lem">
-<w n="107,7">избьраша</w>
-<w n="107,7">мудры</w>
-<w n="107,7">и</w>
-<w n="107,7">съмысльны,</w>
-<w n="107,7">числъмь</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="107,7">избраша</w>
-<w n="107,7">мужи</w>
-<w n="107,7">добры</w>
-<w n="107,7">и</w>
-<w n="107,7">смыслены</w>
-<w n="107,7">числомъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="107,7">избраша</w>
-<w n="107,7">моудры</w>
-<w n="107,7">и</w>
-<w n="107,7">смы<lb/>слены.</w>
-<w n="107,7">числомъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="107,7">избраша <lb/></w>
-
-<w n="107,7">мѹдры</w>
-<w n="107,7">и</w>
-<w n="107,7">смыслены.</w>
-<w n="107,7">числомъ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="107,7"><milestone unit="sic" n="start"/>и</w>
-<w n="107,7">с<milestone unit="sic" n="end"/>мыслены</w>
-<w n="107,7">числомъ <pb n="41a"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="107,7">избраша</w>
-<w n="107,7">мужи</w>
-<w n="107,7">мудры</w>
-<w n="107,7">и</w>
-<w n="107,7">смысленѣ</w>
-<w n="107,7">числомъ</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="107,7">избраша</w>
-<w n="107,7">у</w>
-<w n="107,7">себе</w>
-<w n="107,7">мудры</w>
-<w n="107,7">смыслени</w>
-<w n="107,7">числом</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="107,7">избраша</w>
-<w n="107,7">мужи</w>
-<w n="107,7">добры</w>
-<w n="107,7">и</w>
-<w n="107,7">смыслены,</w>
-<w n="107,7">числомъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="107,7">избьраша</w>
-<w n="107,7">мужи</w>
-<w n="107,7">добры</w>
-<w n="107,7">и</w>
-<w n="107,7">съмысльны,</w>
-<w n="107,7">числъмь</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="107,7">избраша</w>
-<w n="107,7">мужи</w>
-<w n="107,7">добры</w>
-<w n="107,7">и</w>
-<w n="107,7">смыслены,</w>
-<w n="107,7">числомъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>107, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="107"/><div type="block" n="7"><p><app><lem wit="#lem">
+            избьраша мудры и съмысльны, числъмь
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">избраша мужи добры и смыслены числомъ</rdg>
+            <rdg wit="#rad">избраша моудры и смы<lb/>слены. числомъ</rdg>
+            <rdg wit="#aka">избраша <lb/> мѹдры и смыслены. числомъ.</rdg>
+            <rdg wit="#ipa"><sic>и с</sic>мыслены числомъ <pb n="41a"/></rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">избраша мужи мудры и смысленѣ числомъ</rdg>
+            <rdg wit="#tol">избраша у себе мудры смыслени числом</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">избраша мужи добры и смыслены, числомъ</rdg><rdg wit="#shakh">избьраша мужи добры и съмысльны, числъмь</rdg><rdg wit="#likh">избраша мужи добры и смыслены, числомъ</rdg></rdgGrp></app></p></div></body></text></TEI>

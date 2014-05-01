@@ -1,84 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>156, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="156"/><div type="block" n="12"><p>
-<app>
-<lem wit="#lem">
-<w n="156,12">нѣкыи</w>
-<w n="156,12">человѣкъ,</w>
-<w n="156,12">именьмь</w>
-<w n="156,12">мирьскымь,</w>
-<w n="156,12">отъ</w>
-<w n="156,12">града</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="156,12">нѣкыи</w>
-<w n="156,12">члв҃къ</w>
-<w n="156,12">именемь</w>
-<w n="156,12">мирьскымь</w>
-<w n="156,12">ѿ</w>
-<w n="156,12">града <pb n="53a"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="156,12">нѣкоторыи</w>
-<w n="156,12">чл҃къ.</w>
-<w n="156,12">мирьскыи <lb/></w>
-
-<w n="156,12">ѿ</w>
-<w n="156,12">гр<hi rend="sup">д</hi>а</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="156,12">нѣкоторыи</w>
-<w n="156,12">чело<lb/>вѣкь</w>
-<w n="156,12">мирьскыи.</w>
-<w n="156,12">ѿ</w>
-<w n="156,12">гра<hi rend="sup">д</hi></w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="156,12">нѣкии</w>
-<w n="156,12">члв҃кы</w>
-<w n="156,12">именемь. <lb/></w>
-
-<w n="156,12">мирьскимь.</w>
-<w n="156,12">ѿ</w>
-<w n="156,12">гр<hi rend="sup">д</hi>а</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="156,12">нѣкїи</w>
-<w n="156,12">чл҃кь</w>
-<w n="156,12">имене<hi rend="sup">м</hi></w>
-<w n="156,12">мирскы.</w>
-<w n="156,12">ѿ</w>
-<w n="156,12">града</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="156,12">нѣкый</w>
-<w n="156,12">человѣкъ,</w>
-<w n="156,12">именемь</w>
-<w n="156,12">мирьскымь,</w>
-<w n="156,12">отъ</w>
-<w n="156,12">града</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="156,12">нѣкыи</w>
-<w n="156,12">человѣкъ,</w>
-<w n="156,12">именьмь</w>
-<w n="156,12">мирьскымь...,</w>
-<w n="156,12">отъ</w>
-<w n="156,12">града</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="156,12">нѣкый</w>
-<w n="156,12">человѣкъ,</w>
-<w n="156,12">именемь</w>
-<w n="156,12">мирьскымь,</w>
-<w n="156,12">от</w>
-<w n="156,12">града</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>156, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="156"/><div type="block" n="12"><p><app><lem wit="#lem">
+            нѣкыи человѣкъ, именьмь мирьскымь, отъ града
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">нѣкыи члв҃къ именемь мирьскымь ѿ града <pb n="53a"/></rdg>
+            <rdg wit="#rad">нѣкоторыи чл҃къ. мирьскыи <lb/> ѿ гр<hi rend="sup">д</hi>а</rdg>
+            <rdg wit="#aka">нѣкоторыи чело<lb/>вѣкь мирьскыи. ѿ гра<hi rend="sup">д</hi></rdg>
+            <rdg wit="#ipa">нѣкии члв҃кы именемь. <lb/> мирьскимь. ѿ гр<hi rend="sup">д</hi>а</rdg>
+            <rdg wit="#xle">нѣкїи чл҃кь имене<hi rend="sup">м</hi> мирскы. ѿ града</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">нѣкый человѣкъ, именемь мирьскымь, отъ града</rdg><rdg wit="#shakh">нѣкыи человѣкъ, именьмь мирьскымь..., отъ града</rdg><rdg wit="#likh">нѣкый человѣкъ, именемь мирьскымь, от града</rdg></rdgGrp></app></p></div></body></text></TEI>

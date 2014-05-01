@@ -1,90 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>116, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="116"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="116,18">мьнять</w>
-<w n="116,18">я</w>
-<w n="116,18">мраморяны</w>
-<w n="116,18">суща.</w>
-<w n="116,18">Въдасть</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="116,18">мнѧть</w>
-<w n="116,18">ꙗ</w>
-<w n="116,18">мрамарѧны</w>
-<w n="116,18">суща.</w>
-<w n="116,18">вдасть</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="116,18">мраморѧны</w>
-<w n="116,18">соуща.</w>
-<w n="116,18">дасть</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="116,18">мра<lb/>морѧны</w>
-<w n="116,18">сѹща.</w>
-<w n="116,18">дасть</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="116,18">мнѧтсѧ.</w>
-<w n="116,18">мрамо<lb/>рѧны</w>
-<w n="116,18">суща.</w>
-<w n="116,18">вдасть</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="116,18">мънꙗть</w>
-<w n="116,18">ꙗ</w>
-<w n="116,18">мраморꙗнѣ</w>
-<w n="116,18">суща</w>
-<w n="116,18">вдасть</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="116,18">мнꙗть</w>
-<w n="116,18">ꙗ</w>
-<w n="116,18">мраморꙗны</w>
-<w n="116,18">суща</w>
-<w n="116,18">и</w>
-<w n="116,18">вдасть</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="116,18">мнꙗтъ</w>
-<w n="116,18">ꙗ</w>
-<w n="116,18">мраморꙗны</w>
-<w n="116,18">суща</w>
-<w n="116,18">и</w>
-<w n="116,18">вдасть</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="116,18">мнять</w>
-<w n="116,18">я</w>
-<w n="116,18">мрамаряны</w>
-<w n="116,18">суща.</w>
-<w n="116,18">Вдасть</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="116,18">мьнять</w>
-<w n="116,18">я</w>
-<w n="116,18">мраморяны</w>
-<w n="116,18">суща.</w>
-<w n="116,18">Въдасть</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="116,18">мнять</w>
-<w n="116,18">я</w>
-<w n="116,18">мрамаряны</w>
-<w n="116,18">суща.</w>
-<w n="116,18">Вдасть</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>116, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="116"/><div type="block" n="18"><p><app><lem wit="#lem">
+            мьнять я мраморяны суща. Въдасть
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">мнѧть ꙗ мрамарѧны суща. вдасть</rdg>
+            <rdg wit="#rad">мраморѧны соуща. дасть</rdg>
+            <rdg wit="#aka">мра<lb/>морѧны сѹща. дасть</rdg>
+            <rdg wit="#ipa">мнѧтсѧ. мрамо<lb/>рѧны суща. вдасть</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">мънꙗть ꙗ мраморꙗнѣ суща вдасть</rdg>
+            <rdg wit="#nak">мнꙗть ꙗ мраморꙗны суща и вдасть</rdg>
+            <rdg wit="#tol">мнꙗтъ ꙗ мраморꙗны суща и вдасть</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">мнять я мрамаряны суща. Вдасть</rdg><rdg wit="#shakh">мьнять я мраморяны суща. Въдасть</rdg><rdg wit="#likh">мнять я мрамаряны суща. Вдасть</rdg></rdgGrp></app></p></div></body></text></TEI>

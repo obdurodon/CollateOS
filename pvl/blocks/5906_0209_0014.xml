@@ -1,79 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>209, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="209"/><div type="block" n="14"><p>
-<app>
-<lem wit="#lem">
-<w n="209,14">и</w>
-<w n="209,14">чьрноризьцѣ</w>
-<w n="209,14">съвъкупилъ”.</w>
-<w n="209,14">Съвѣтъ</w>
-<w n="209,14">сътворьше,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="209,14">и</w>
-<w n="209,14">черноризци</w>
-<w n="209,14">совокупилъ.</w>
-<w n="209,14">свѣ<lb/>тъ</w>
-<w n="209,14">створше</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="209,14">и</w>
-<w n="209,14">черноризци</w>
-<w n="209,14">сово<lb/>коупилъ.</w>
-<w n="209,14">совѣтъ</w>
-<w n="209,14">сотворше.</w>
-<w n="209,14">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="209,14">и</w>
-<w n="209,14">чернори<lb/>зци</w>
-<w n="209,14">совокѹпилъ.</w>
-<w n="209,14">совѣтъ</w>
-<w n="209,14">сотворше.</w>
-<w n="209,14">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="209,14">и</w>
-<w n="209,14"><milestone unit="sic" n="start"/>ч<milestone unit="sic" n="end"/>ерноризци</w>
-<w n="209,14">совокупи<lb/>лъ.</w>
-<w n="209,14">и</w>
-<w n="209,14">свѣтъ</w>
-<w n="209,14">створше</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="209,14">и</w>
-<w n="209,14">чернори<hi rend="sup">з</hi>ци</w>
-<w n="209,14">съвокоупи<hi rend="sup">л</hi>.</w>
-<w n="209,14">и</w>
-<w n="209,14">съвѣ<hi rend="sup">т</hi></w>
-<w n="209,14">съ<lb/>творше.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="209,14">и</w>
-<w n="209,14">черноризци</w>
-<w n="209,14">совокупилъ”;</w>
-<w n="209,14">совѣтъ</w>
-<w n="209,14">створше,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="209,14">и</w>
-<w n="209,14">чьрноризьцѣ</w>
-<w n="209,14">съвъкупилъ”.</w>
-<w n="209,14">И</w>
-<w n="209,14">съвѣтъ</w>
-<w n="209,14">сътворьше,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="209,14">и</w>
-<w n="209,14">черноризци</w>
-<w n="209,14">совокупилъ”.</w>
-<w n="209,14">Совѣтъ</w>
-<w n="209,14">створше,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>209, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="209"/><div type="block" n="14"><p><app><lem wit="#lem">
+            и чьрноризьцѣ съвъкупилъ”. Съвѣтъ сътворьше,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и черноризци совокупилъ. свѣ<lb/>тъ створше</rdg>
+            <rdg wit="#rad">и черноризци сово<lb/>коупилъ. совѣтъ сотворше. и</rdg>
+            <rdg wit="#aka">и чернори<lb/>зци совокѹпилъ. совѣтъ сотворше. и</rdg>
+            <rdg wit="#ipa">и <sic>ч</sic>ерноризци совокупи<lb/>лъ. и свѣтъ створше</rdg>
+            <rdg wit="#xle">и чернори<hi rend="sup">з</hi>ци съвокоупи<hi rend="sup">л</hi>. и съвѣ<hi rend="sup">т</hi>
+                съ<lb/>творше.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и черноризци совокупилъ”; совѣтъ створше,</rdg><rdg wit="#shakh">и чьрноризьцѣ съвъкупилъ”. И съвѣтъ сътворьше,</rdg><rdg wit="#likh">и черноризци совокупилъ”. Совѣтъ створше,</rdg></rdgGrp></app></p></div></body></text></TEI>

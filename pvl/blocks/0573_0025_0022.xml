@@ -1,104 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>25, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="25"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="25,22">воевати</w>
-<w n="25,22">Угъри</w>
-<w n="25,22">на</w>
-<w n="25,22">Грьки,</w>
-<w n="25,22">и</w>
-<w n="25,22">поплѣниша</w>
-<w n="25,22">землю</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="25,22"><milestone unit="sic" n="start"/>воевати</w>
-<w n="25,22">оугри</w>
-<w n="25,22">на <lb/></w>
-
-<w n="25,22">греки</w>
-<w n="25,22">и</w>
-<w n="25,22">поплѣниша</w>
-<w n="25,22">землю<milestone unit="sic" n="end"/></w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="25,22">воевати</w>
-<w n="25,22">угре</w>
-<w n="25,22">на</w>
-<w n="25,22">грѣки</w>
-<w n="25,22">поплѣниша</w>
-<w n="25,22">землю</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="25,22">оугре</w>
-<w n="25,22">воевати</w>
-<w n="25,22">на</w>
-<w n="25,22">грекы.</w>
-<w n="25,22">и</w>
-<w n="25,22">поп<hi rend="sup">л</hi>ениша</w>
-<w n="25,22">землю</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="25,22">оугре <lb/></w>
-
-<w n="25,22">воевати</w>
-<w n="25,22">на</w>
-<w n="25,22">греки.</w>
-<w n="25,22">и</w>
-<w n="25,22">попленїша</w>
-<w n="25,22">землю</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="25,22">воевати.</w>
-<w n="25,22">оугре</w>
-<w n="25,22">на</w>
-<w n="25,22">грѣкы. <lb/></w>
-
-<w n="25,22">и</w>
-<w n="25,22">пополониша</w>
-<w n="25,22">землю</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="25,22">воевати</w>
-<w n="25,22">оугри</w>
-<w n="25,22">на</w>
-<w n="25,22">гре<lb/>кы.</w>
-<w n="25,22">и</w>
-<w n="25,22">пополониша</w>
-<w n="25,22">землю</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="25,22">воевати</w>
-<w n="25,22">Угри</w>
-<w n="25,22">на</w>
-<w n="25,22">Греки,</w>
-<w n="25,22">и</w>
-<w n="25,22">поплѣниша</w>
-<w n="25,22">землю</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="25,22">воевати</w>
-<w n="25,22">Угъри</w>
-<w n="25,22">на</w>
-<w n="25,22">Грьки,</w>
-<w n="25,22">и</w>
-<w n="25,22">поплѣниша</w>
-<w n="25,22">землю</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="25,22">воевати</w>
-<w n="25,22">угри</w>
-<w n="25,22">на</w>
-<w n="25,22">греки,</w>
-<w n="25,22">и</w>
-<w n="25,22">поплѣниша</w>
-<w n="25,22">землю</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>25, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="25"/><div type="block" n="22"><p><app><lem wit="#lem">
+            воевати Угъри на Грьки, и поплѣниша землю
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <sic>воевати оугри на <lb/> греки и поплѣниша землю</sic>
+            </rdg>
+            <rdg wit="#tro">воевати угре на грѣки поплѣниша землю</rdg>
+            <rdg wit="#rad">оугре воевати на грекы. и поп<hi rend="sup">л</hi>ениша землю</rdg>
+            <rdg wit="#aka">оугре <lb/> воевати на греки. и попленїша землю</rdg>
+            <rdg wit="#ipa">воевати. оугре на грѣкы. <lb/> и пополониша землю</rdg>
+            <rdg wit="#xle">воевати оугри на гре<lb/>кы. и пополониша землю</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">воевати Угри на Греки, и поплѣниша землю</rdg><rdg wit="#shakh">воевати Угъри на Грьки, и поплѣниша землю</rdg><rdg wit="#likh">воевати угри на греки, и поплѣниша землю</rdg></rdgGrp></app></p></div></body></text></TEI>

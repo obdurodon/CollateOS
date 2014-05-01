@@ -1,85 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>235, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="235"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="235,20">о</w>
-<w n="235,20">нихъ</w>
-<w n="235,20">Мефодии</w>
-<w n="235,20">Патариискыи,</w>
-<w n="235,20">глаголя:</w>
-<w n="235,20">“Александръ,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="235,20">о</w>
-<w n="235,20">ни<hi rend="sup">х</hi></w>
-<w n="235,20">меѳоди</w>
-<w n="235,20">папа</w>
-<w n="235,20">ри<hi rend="sup">м</hi>скыи· <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="235,20">ѡ</w>
-<w n="235,20">ни<hi rend="sup">х</hi>.</w>
-<w n="235,20">ме<hi rend="sup">ѳ</hi>дии</w>
-<w n="235,20">патариискыи</w>
-<w n="235,20">гл҃ѧ·</w>
-<w n="235,20">але<lb/>ксанд҃ръ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="235,20">ѡ</w>
-<w n="235,20">ни<hi rend="sup">х</hi></w>
-<w n="235,20">мефодїи</w>
-<w n="235,20">патариискы·̏и· <lb/></w>
-
-<w n="235,20">гл҃ѧ</w>
-<w n="235,20">ѡлександръ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="235,20">ѡ</w>
-<w n="235,20">нихъ</w>
-<w n="235,20">мефедии</w>
-<w n="235,20"><milestone unit="sic" n="start"/>п<milestone unit="sic" n="end"/>атариис<lb/>къ</w>
-<w n="235,20">гл҃ѧ·</w>
-<w n="235,20">ѡлександръ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="235,20">ѡ</w>
-<w n="235,20">нихь</w>
-<w n="235,20">мефедїи <lb/></w>
-
-<w n="235,20">патарїискыи</w>
-<w n="235,20">гл҃ѧ,</w>
-<w n="235,20">алеѯандръ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="235,20">о</w>
-<w n="235,20">нихъ</w>
-<w n="235,20">Мефодий</w>
-<w n="235,20">Патарийскый,</w>
-<w n="235,20">глаголя:</w>
-<w n="235,20">Александръ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="235,20">о</w>
-<w n="235,20">нихъ</w>
-<w n="235,20">Мефодии</w>
-<w n="235,20">Патариискыи,</w>
-<w n="235,20">глаголя:</w>
-<w n="235,20">Александръ,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="235,20">о</w>
-<w n="235,20">них</w>
-<w n="235,20">Мефодий</w>
-<w n="235,20">Патарийскый,</w>
-<w n="235,20">глаголя:</w>
-<w n="235,20">“Александръ,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>235, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="235"/><div type="block" n="20"><p><app><lem wit="#lem">
+            о нихъ Мефодии Патариискыи, глаголя: “Александръ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">о ни<hi rend="sup">х</hi> меѳоди папа ри<hi rend="sup">м</hi>скыи· <lb/></rdg>
+            <rdg wit="#rad">ѡ ни<hi rend="sup">х</hi>. ме<hi rend="sup">ѳ</hi>дии патариискыи гл҃ѧ· але<lb/>ксанд҃ръ</rdg>
+            <rdg wit="#aka">ѡ ни<hi rend="sup">х</hi> мефодїи патариискы·̏и· <lb/> гл҃ѧ ѡлександръ</rdg>
+            <rdg wit="#ipa">ѡ нихъ мефедии <sic>п</sic>атариис<lb/>къ гл҃ѧ· ѡлександръ</rdg>
+            <rdg wit="#xle">ѡ нихь мефедїи <lb/> патарїискыи гл҃ѧ, алеѯандръ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">о нихъ Мефодий Патарийскый, глаголя: Александръ,</rdg><rdg wit="#shakh">о нихъ Мефодии Патариискыи, глаголя: Александръ,</rdg><rdg wit="#likh">о них Мефодий Патарийскый, глаголя: “Александръ,</rdg></rdgGrp></app></p></div></body></text></TEI>

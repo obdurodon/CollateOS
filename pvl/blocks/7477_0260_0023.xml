@@ -1,88 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>260, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="260"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="260,23">съ</w>
-<w n="260,23">нима</w>
-<w n="260,23">крѣпъко,</w>
-<w n="260,23">и</w>
-<w n="260,23">не</w>
-<w n="260,23">можета</w>
-<w n="260,23">его</w>
-<w n="260,23">поврещи.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="260,23">с</w>
-<w n="260,23">нима</w>
-<w n="260,23">крѣпко· <lb/></w>
-
-<w n="260,23">и</w>
-<w n="260,23">не</w>
-<w n="260,23">можаста</w>
-<w n="260,23">ѥго</w>
-<w n="260,23">поврещи·</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="260,23">с</w>
-<w n="260,23">нима <lb/></w>
-
-<w n="260,23">крѣпко·</w>
-<w n="260,23">и</w>
-<w n="260,23">не</w>
-<w n="260,23">можета</w>
-<w n="260,23">его</w>
-<w n="260,23">поврѣ<lb/>щи·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="260,23">с</w>
-<w n="260,23">ними</w>
-<w n="260,23">крѣп′ко.</w>
-<w n="260,23">и</w>
-<w n="260,23">не <lb/></w>
-
-<w n="260,23">можета</w>
-<w n="260,23">его</w>
-<w n="260,23">поврещи.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="260,23">с</w>
-<w n="260,23">нима</w>
-<w n="260,23">крѣпко,</w>
-<w n="260,23">и</w>
-<w n="260,23">не</w>
-<w n="260,23">можаста</w>
-<w n="260,23">его</w>
-<w n="260,23">поврещи.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="260,23">съ</w>
-<w n="260,23">нима</w>
-<w n="260,23">крѣпъко,</w>
-<w n="260,23">и</w>
-<w n="260,23">не</w>
-<w n="260,23">можаста</w>
-<w n="260,23">его</w>
-<w n="260,23">поврещи.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="260,23">с</w>
-<w n="260,23">нима</w>
-<w n="260,23">крѣпко,</w>
-<w n="260,23">и</w>
-<w n="260,23">не</w>
-<w n="260,23">можаста</w>
-<w n="260,23">его</w>
-<w n="260,23">поврещи.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>260, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="260"/><div type="block" n="23"><p><app><lem wit="#lem">
+            съ нима крѣпъко, и не можета его поврещи.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">с нима крѣпко· <lb/> и не можаста ѥго поврещи·</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">с нима <lb/> крѣпко· и не можета его поврѣ<lb/>щи·</rdg>
+            <rdg wit="#xle">с ними крѣп′ко. и не <lb/> можета его поврещи.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">с нима крѣпко, и не можаста его поврещи.</rdg><rdg wit="#shakh">съ нима крѣпъко, и не можаста его поврещи.</rdg><rdg wit="#likh">с нима крѣпко, и не можаста его поврещи.</rdg></rdgGrp></app></p></div></body></text></TEI>

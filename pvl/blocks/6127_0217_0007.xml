@@ -1,89 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>217, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="217"/><div type="block" n="7"><p>
-<app>
-<lem wit="#lem">
-<w n="217,7">ему</w>
-<w n="217,7">вельми,</w>
-<w n="217,7">посъла</w>
-<w n="217,7">по</w>
-<w n="217,7">сына</w>
-<w n="217,7">своего</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="217,7">ѥму</w>
-<w n="217,7">велми·</w>
-<w n="217,7">посла</w>
-<w n="217,7">по</w>
-<w n="217,7">сн҃а</w>
-<w n="217,7">сво<lb/>ѥго</w>
-<w n="217,7">до</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="217,7">емоу</w>
-<w n="217,7">велми. <lb/></w>
-
-<w n="217,7">и</w>
-<w n="217,7">посла</w>
-<w n="217,7">по</w>
-<w n="217,7">сн҃а</w>
-<w n="217,7">свое<hi rend="sup">г</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="217,7">емѹ</w>
-<w n="217,7">велми·</w>
-<w n="217,7">и</w>
-<w n="217,7">посла <lb/></w>
-
-<w n="217,7">по</w>
-<w n="217,7">сн҃а</w>
-<w n="217,7">своего</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="217,7">ему</w>
-<w n="217,7">велмї</w>
-<w n="217,7">посла</w>
-<w n="217,7">сн҃а</w>
-<w n="217,7">своего <pb n="80b"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="217,7">емоу <lb/></w>
-
-<w n="217,7">велми.</w>
-<w n="217,7">посла</w>
-<w n="217,7">по</w>
-<w n="217,7">сн҃а</w>
-<w n="217,7">своего</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="217,7">ему</w>
-<w n="217,7">велми,</w>
-<w n="217,7">посла</w>
-<w n="217,7">по</w>
-<w n="217,7">сына</w>
-<w n="217,7">своего</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="217,7">ему</w>
-<w n="217,7">вельми,</w>
-<w n="217,7">посъла</w>
-<w n="217,7">по</w>
-<w n="217,7">сына</w>
-<w n="217,7">своего</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="217,7">ему</w>
-<w n="217,7">велми,</w>
-<w n="217,7">посла</w>
-<w n="217,7">по</w>
-<w n="217,7">сына</w>
-<w n="217,7">своего</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>217, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="217"/><div type="block" n="7"><p><app><lem wit="#lem">
+            ему вельми, посъла по сына своего
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѥму велми· посла по сн҃а сво<lb/>ѥго до</rdg>
+            <rdg wit="#rad">емоу велми. <lb/> и посла по сн҃а свое<hi rend="sup">г</hi></rdg>
+            <rdg wit="#aka">емѹ велми· и посла <lb/> по сн҃а своего</rdg>
+            <rdg wit="#ipa">ему велмї  посла сн҃а своего <pb n="80b"/></rdg>
+            <rdg wit="#xle">емоу <lb/> велми. посла по сн҃а своего</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">ему велми, посла по сына своего</rdg><rdg wit="#shakh">ему вельми, посъла по сына своего</rdg><rdg wit="#likh">ему велми, посла по сына своего</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,83 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>44, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="44"/><div type="block" n="27"><p>
-<app>
-<lem wit="#lem">
-<w n="44,27">Феофанъ</w>
-<w n="44,27">же</w>
-<w n="44,27">усърѣте</w>
-<w n="44,27">я</w>
-<w n="44,27">въ</w>
-<w n="44,27">олядьхъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="44,27">феѡфанъ</w>
-<w n="44,27">же</w>
-<w n="44,27">сустрѣте</w>
-<w n="44,27">ꙗ</w>
-<w n="44,27">въ</w>
-<w n="44,27">лѧ<lb/>дехъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="44,27">Феѡфанъ</w>
-<w n="44,27">же</w>
-<w n="44,27">оуср<hi rend="sup">т</hi>ѣте</w>
-<w n="44,27">а</w>
-<w n="44,27">въ</w>
-<w n="44,27">ѡлѧде<hi rend="sup">х</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="44,27">Феѡфан</w>
-<w n="44,27">же</w>
-<w n="44,27">оустрѣте</w>
-<w n="44,27">ѧ</w>
-<w n="44,27">въ</w>
-<w n="44,27">ѡлѧдехъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="44,27">феѡфа<lb/>нъ</w>
-<w n="44,27">же</w>
-<w n="44,27">оусрѣте</w>
-<w n="44,27">ꙗ</w>
-<w n="44,27">въ</w>
-<w n="44,27">ѡлѧ<lb/>дѣхъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="44,27">ѳеѡфа<hi rend="sup">н</hi></w>
-<w n="44,27">же</w>
-<w n="44,27">оустрѣте</w>
-<w n="44,27">ѧ</w>
-<w n="44,27">въ</w>
-<w n="44,27">ѡлѧде<hi rend="sup">х</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="44,27">Феофанъ</w>
-<w n="44,27">же</w>
-<w n="44,27">сустрѣте</w>
-<w n="44,27">я</w>
-<w n="44,27">въ</w>
-<w n="44,27">олядехъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="44,27">Феофанъ</w>
-<w n="44,27">же</w>
-<w n="44,27">усърѣте</w>
-<w n="44,27">я</w>
-<w n="44,27">въ</w>
-<w n="44,27">олядьхъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="44,27">Феофанъ</w>
-<w n="44,27">же</w>
-<w n="44,27">сустрѣте</w>
-<w n="44,27">я</w>
-<w n="44,27">въ</w>
-<w n="44,27">лядехъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>44, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="44"/><div type="block" n="27"><p><app><lem wit="#lem">
+            Феофанъ же усърѣте я въ олядьхъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">феѡфанъ же сустрѣте ꙗ въ лѧ<lb/>дехъ</rdg>
+            <rdg wit="#rad">Феѡфанъ же оуср<hi rend="sup">т</hi>ѣте а въ ѡлѧде<hi rend="sup">х</hi></rdg>
+            <rdg wit="#aka">Феѡфан же оустрѣте ѧ въ ѡлѧдехъ</rdg>
+            <rdg wit="#ipa">феѡфа<lb/>нъ же оусрѣте ꙗ въ ѡлѧ<lb/>дѣхъ</rdg>
+            <rdg wit="#xle">ѳеѡфа<hi rend="sup">н</hi> же оустрѣте ѧ въ ѡлѧде<hi rend="sup">х</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Феофанъ же сустрѣте я въ олядехъ</rdg><rdg wit="#shakh">Феофанъ же усърѣте я въ олядьхъ</rdg><rdg wit="#likh">Феофанъ же сустрѣте я въ лядехъ</rdg></rdgGrp></app></p></div></body></text></TEI>

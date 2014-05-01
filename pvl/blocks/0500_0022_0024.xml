@@ -1,101 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>22, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="22"/><div type="block" n="24"><p>
-<app>
-<lem wit="#lem">
-<w n="22,24">Въ</w>
-<w n="22,24">лѣто 6390.</w>
-
-<w n="22,24">Поиде</w>
-<w n="22,24">Ольгъ,</w>
-<w n="22,24">поимъ</w>
-<w n="22,24">воя</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="22,24">оиде</w>
-<w n="22,24">ѡлегъ</w>
-<w n="22,24">поимъ</w>
-<w n="22,24">воꙗ</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="22,24">поиде</w>
-<w n="22,24">олегъ</w>
-<w n="22,24">поимъ</w>
-<w n="22,24">с</w>
-<w n="22,24">собою</w>
-<w n="22,24">воя</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="22,24">В</w>
-<w n="22,24">лѣ<hi rend="sup">т</hi></w>
-<w n="22,24">҂ѕ҃.т҃.ч҃.</w>
-<w n="22,24">Поиде</w>
-<w n="22,24">ѡ<lb/>легъ</w>
-<w n="22,24">поимъ</w>
-<w n="22,24">вои</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="22,24">В</w>
-<w n="22,24">лѣ<hi rend="sup">т</hi>.</w>
-<w n="22,24">҂ѕ҃.т҃.ч҃.</w>
-<w n="22,24">Поиде</w>
-<w n="22,24">ѡлегъ</w>
-<w n="22,24">поимь</w>
-<w n="22,24">вои</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="22,24">В</w>
-<w n="22,24">лѣто.</w>
-<w n="22,24">҂ѕ҃.т҃.ч҃·:· <lb/></w>
-
-<w n="22,24">Поиде</w>
-<w n="22,24">ѡлгъ</w>
-<w n="22,24">поемъ</w>
-<w n="22,24">вои</w>
-<w n="22,24">сво<lb/>и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="22,24">Въ</w>
-<w n="22,24">лѣ<hi rend="sup">т</hi>.</w>
-<w n="22,24">҂ѕ҃.т҃.ч҃.</w>
-<w n="22,24">Поиде</w>
-<w n="22,24">ѡлегь</w>
-<w n="22,24">пое<hi rend="sup">м</hi></w>
-<w n="22,24">вои <pb n="7v"/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="22,24">Въ</w>
-<w n="22,24">лѣто 6390.</w>
-
-<w n="22,24">Поиде</w>
-<w n="22,24">Олегъ,</w>
-<w n="22,24">поимъ</w>
-<w n="22,24">воя</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="22,24">Въ</w>
-<w n="22,24">лѣто 6390.</w>
-
-<w n="22,24">Поиде</w>
-<w n="22,24">Ольгъ,</w>
-<w n="22,24">поимъ</w>
-<w n="22,24">воя</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="22,24">Въ</w>
-<w n="22,24">лѣто 6390.</w>
-
-<w n="22,24">Поиде</w>
-<w n="22,24">Олегъ,</w>
-<w n="22,24">поимъ</w>
-<w n="22,24">воя</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>22, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="22"/><div type="block" n="24"><p><app><lem wit="#lem">
+            Въ лѣто 6390. Поиде Ольгъ, поимъ воя
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">оиде ѡлегъ поимъ воꙗ</rdg>
+            <rdg wit="#tro">поиде олегъ поимъ с собою воя</rdg>
+            <rdg wit="#rad">В лѣ<hi rend="sup">т</hi> ҂ѕ҃.т҃.ч҃. Поиде ѡ<lb/>легъ поимъ вои</rdg>
+            <rdg wit="#aka">В лѣ<hi rend="sup">т</hi>. ҂ѕ҃.т҃.ч҃. Поиде ѡлегъ поимь вои</rdg>
+            <rdg wit="#ipa">В лѣто. ҂ѕ҃.т҃.ч҃·:· <lb/> Поиде ѡлгъ поемъ вои сво<lb/>и</rdg>
+            <rdg wit="#xle">Въ лѣ<hi rend="sup">т</hi>. ҂ѕ҃.т҃.ч҃. Поиде ѡлегь пое<hi rend="sup">м</hi> вои
+                <pb n="7v"/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Въ лѣто 6390. Поиде Олегъ, поимъ воя</rdg><rdg wit="#shakh">Въ лѣто 6390. Поиде Ольгъ, поимъ воя</rdg><rdg wit="#likh">Въ лѣто 6390. Поиде Олегъ, поимъ воя</rdg></rdgGrp></app></p></div></body></text></TEI>

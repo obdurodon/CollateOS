@@ -1,91 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>41, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="41"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-<w n="41,4">повелѣваемая</w>
-<w n="41,4">отъ</w>
-<w n="41,4">него.</w>
-<w n="41,4">Та</w>
-<w n="41,4">же</w>
-<w n="41,4">вься</w>
-<w n="41,4">ослаблениемь</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="41,4">повелеваемаа</w>
-<w n="41,4">ѿ</w>
-<w n="41,4">не<hi rend="sup">г</hi>.</w>
-<w n="41,4">тако</w>
-<w n="41,4">же</w>
-<w n="41,4">и</w>
-<w n="41,4">всѧ</w>
-<w n="41,4">ѡслабленьемъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="41,4">повелѣваемаа</w>
-<w n="41,4">ѿ</w>
-<w n="41,4">него.</w>
-<w n="41,4">тако</w>
-<w n="41,4">же</w>
-<w n="41,4">и</w>
-<w n="41,4">всѧ</w>
-<w n="41,4">ѡслабленїемъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="41,4">по<lb/>велѣваемаꙗ</w>
-<w n="41,4">ѿ</w>
-<w n="41,4">него.</w>
-<w n="41,4">та <lb/></w>
-
-<w n="41,4">же</w>
-<w n="41,4">всѧ</w>
-<w n="41,4">ѡслаблениемъ <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="41,4">повелеваемаа <lb/></w>
-
-<w n="41,4">ѿ</w>
-<w n="41,4">него.</w>
-<w n="41,4">та</w>
-<w n="41,4">же</w>
-<w n="41,4">всѧ</w>
-<w n="41,4">ѡслабленїемъ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="41,4">повелеваемаа</w>
-<w n="41,4">отъ</w>
-<w n="41,4">него.</w>
-<w n="41,4">Такоже</w>
-<w n="41,4">и</w>
-<w n="41,4">вся</w>
-<w n="41,4">ослабленьемъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="41,4">повелѣваемая</w>
-<w n="41,4">отъ</w>
-<w n="41,4">него.</w>
-<w n="41,4">Та</w>
-<w n="41,4">же</w>
-<w n="41,4">вься</w>
-<w n="41,4">ослаблениемь</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="41,4">повелеваемаа</w>
-<w n="41,4">от</w>
-<w n="41,4">него.</w>
-<w n="41,4">Та</w>
-<w n="41,4">же</w>
-<w n="41,4">и</w>
-<w n="41,4">вся</w>
-<w n="41,4">ослабленьемъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>41, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="41"/><div type="block" n="4"><p><app><lem wit="#lem">
+            повелѣваемая отъ него. Та же вься ослаблениемь
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">повелеваемаа ѿ не<hi rend="sup">г</hi>. тако же и всѧ ѡслабленьемъ</rdg>
+            <rdg wit="#aka">повелѣваемаа ѿ него. тако же и всѧ ѡслабленїемъ</rdg>
+            <rdg wit="#ipa">по<lb/>велѣваемаꙗ ѿ него. та <lb/> же всѧ ѡслаблениемъ <lb/></rdg>
+            <rdg wit="#xle">повелеваемаа <lb/> ѿ него. та же всѧ ѡслабленїемъ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">повелеваемаа отъ него. Такоже и вся ослабленьемъ</rdg><rdg wit="#shakh">повелѣваемая отъ него. Та же вься ослаблениемь</rdg><rdg wit="#likh">повелеваемаа от него. Та же и вся ослабленьемъ</rdg></rdgGrp></app></p></div></body></text></TEI>

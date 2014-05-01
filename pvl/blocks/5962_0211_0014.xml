@@ -1,78 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>211, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="211"/><div type="block" n="14"><p>
-<app>
-<lem wit="#lem">
-<w n="211,14">дьнь</w>
-<w n="211,14"><choice><seg>събьраша</seg><seg>съвокупиша</seg></choice></w>
-<w n="211,14">ся</w>
-<w n="211,14">епископи:</w>
-<w n="211,14">Ефрѣмъ</w>
-<w n="211,14">Переяславьскыи,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="211,14">дн҃ь</w>
-<w n="211,14">собрашасѧ</w>
-<w n="211,14">ѥпп<hi rend="sup">с</hi>и·</w>
-<w n="211,14">ѥѳрѣмъ</w>
-<w n="211,14">переꙗславьскы<lb/>и <pb n="70d"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="211,14">дн҃ь·</w>
-<w n="211,14">събраша<hi rend="sup">с</hi>.</w>
-<w n="211,14">епп<hi rend="sup">с</hi>и·</w>
-<w n="211,14">ефрѣмъ·</w>
-<w n="211,14">переꙗсла<lb/>вьскыи.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="211,14">дн҃ь·</w>
-<w n="211,14">собрашесѧ</w>
-<w n="211,14">епп<hi rend="sup">с</hi>и·</w>
-<w n="211,14">еф<milestone unit="sic" n="start"/>р<milestone unit="sic" n="end"/>ѣмь</w>
-<w n="211,14">пере<lb/>ꙗславьскы·̏и·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="211,14">дн҃ь</w>
-<w n="211,14">совокупиша<hi rend="sup">с</hi></w>
-<w n="211,14">епп<hi rend="sup">с</hi>и <lb/></w>
-
-<w n="211,14">ефримъ</w>
-<w n="211,14">переꙗславьскыи· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="211,14">дн҃ь</w>
-<w n="211,14">съвокупиша<hi rend="sup">с</hi></w>
-<w n="211,14">епк<hi rend="sup">с</hi>пи.</w>
-<w n="211,14">ефре<hi rend="sup">м</hi></w>
-<w n="211,14">переяславскыи.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="211,14">день</w>
-<w n="211,14">собрашася</w>
-<w n="211,14">епископи,</w>
-<w n="211,14">Ефрѣмъ</w>
-<w n="211,14">Переяславьскый,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="211,14">дьнь</w>
-<w n="211,14">събьрашася</w>
-<w n="211,14">епископи:</w>
-<w n="211,14">Ефрѣмъ</w>
-<w n="211,14">Переяславьскыи,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="211,14">день</w>
-<w n="211,14">собрашася</w>
-<w n="211,14">епископи:</w>
-<w n="211,14">Ефрѣмъ</w>
-<w n="211,14">Переяславьскый,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>211, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="211"/><div type="block" n="14"><p><app><lem wit="#lem">
+            дьнь <choice>
+                    <seg>събьраша</seg>
+                    <seg>съвокупиша</seg>
+                </choice> ся епископи: Ефрѣмъ Переяславьскыи,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">дн҃ь собрашасѧ  ѥпп<hi rend="sup">с</hi>и· ѥѳрѣмъ переꙗславьскы<lb/>и
+                    <pb n="70d"/></rdg>
+            <rdg wit="#rad">дн҃ь· събраша<hi rend="sup">с</hi>. епп<hi rend="sup">с</hi>и· ефрѣмъ· переꙗсла<lb/>вьскыи.</rdg>
+            <rdg wit="#aka">дн҃ь· собрашесѧ епп<hi rend="sup">с</hi>и· еф<sic>р</sic>ѣмь
+                пере<lb/>ꙗславьскы·̏и·</rdg>
+            <rdg wit="#ipa">дн҃ь совокупиша<hi rend="sup">с</hi> епп<hi rend="sup">с</hi>и <lb/> ефримъ переꙗславьскыи·
+                <lb/></rdg>
+            <rdg wit="#xle">дн҃ь съвокупиша<hi rend="sup">с</hi> епк<hi rend="sup">с</hi>пи. ефре<hi rend="sup">м</hi>
+                переꙗславскыи.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">день собрашася епископи, Ефрѣмъ Переяславьскый,</rdg><rdg wit="#shakh">дьнь събьрашася епископи: Ефрѣмъ Переяславьскыи,</rdg><rdg wit="#likh">день собрашася епископи: Ефрѣмъ Переяславьскый,</rdg></rdgGrp></app></p></div></body></text></TEI>

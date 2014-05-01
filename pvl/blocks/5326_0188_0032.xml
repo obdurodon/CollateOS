@@ -1,76 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>188, 32</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="188"/><div type="block" n="32"><p>
-<app>
-<lem wit="#lem">
-<w n="188,32">велико.</w>
-<w n="188,32">Аще</w>
-<w n="188,32">братъ</w>
-<w n="188,32">етеръ</w>
-<w n="188,32">выидяше</w>
-<w n="188,32">из</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="188,32">ве<lb/>лико.</w>
-<w n="188,32">аще</w>
-<w n="188,32">братъ</w>
-<w n="188,32">етеръ</w>
-<w n="188,32">выидѧ<lb/>ше</w>
-<w n="188,32">из</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="188,32">велико.</w>
-<w n="188,32">аще <lb/></w>
-
-<w n="188,32">братъ.</w>
-<w n="188,32">етеръ.</w>
-<w n="188,32">вънъ</w>
-<w n="188,32">идѧше <lb/></w>
-
-<w n="188,32">изь</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="188,32">велико.</w>
-<w n="188,32">аще</w>
-<w n="188,32">бра<hi rend="sup">т</hi></w>
-<w n="188,32">етеръ</w>
-<w n="188,32">въ <lb/></w>
-
-<w n="188,32">иныи</w>
-<w n="188,32">идѧше</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="188,32">велико.</w>
-<w n="188,32">Аще</w>
-<w n="188,32">братъ</w>
-<w n="188,32">етеръ</w>
-<w n="188,32">выидяше</w>
-<w n="188,32">из</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="188,32">велико.</w>
-<w n="188,32">Аще</w>
-<w n="188,32">братъ</w>
-<w n="188,32">етеръ</w>
-<w n="188,32">выидяше</w>
-<w n="188,32">из</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="188,32">велико.</w>
-<w n="188,32">Аще</w>
-<w n="188,32">братъ</w>
-<w n="188,32">етеръ</w>
-<w n="188,32">выидяше</w>
-<w n="188,32">из</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>188, 32</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="188"/><div type="block" n="32"><p><app><lem wit="#lem">
+            велико. Аще братъ етеръ выидяше из
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ве<lb/>лико. аще братъ етеръ выидѧ<lb/>ше из</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">велико. аще <lb/> братъ. етеръ. вънъ идѧше <lb/> изь</rdg>
+            <rdg wit="#xle">велико. аще бра<hi rend="sup">т</hi> етеръ въ <lb/> иныи идѧше</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">велико. Аще братъ етеръ выидяше из</rdg><rdg wit="#shakh">велико. Аще братъ етеръ выидяше из</rdg><rdg wit="#likh">велико. Аще братъ етеръ выидяше из</rdg></rdgGrp></app></p></div></body></text></TEI>

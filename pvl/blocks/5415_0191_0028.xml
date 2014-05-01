@@ -1,83 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>191, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="191"/><div type="block" n="28"><p>
-<app>
-<lem wit="#lem">
-<w n="191,28">чьрноризьцьмь.</w>
-<w n="191,28">И</w>
-<w n="191,28">приять</w>
-<w n="191,28">и</w>
-<w n="191,28">Антонии,</w>
-<w n="191,28">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="191,28">черноризцемъ. <lb/></w>
-
-<w n="191,28">и</w>
-<w n="191,28">приꙗтъ</w>
-<w n="191,28">и</w>
-<w n="191,28">антонии.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="191,28">и</w>
-<w n="191,28">приꙗтъ</w>
-<w n="191,28">и</w>
-<w n="191,28">антонии.</w>
-<w n="191,28">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="191,28">и</w>
-<w n="191,28">приꙗтъ</w>
-<w n="191,28">и</w>
-<w n="191,28">антонїи.</w>
-<w n="191,28">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="191,28">черьноризьцемь.</w>
-<w n="191,28">и</w>
-<w n="191,28">приꙗть <lb/></w>
-
-<w n="191,28">и</w>
-<w n="191,28">антонии.</w>
-<w n="191,28">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="191,28">черноризце<hi rend="sup">м</hi>, <lb/></w>
-
-<w n="191,28">и</w>
-<w n="191,28">прїать</w>
-<w n="191,28">его</w>
-<w n="191,28">антонїи.</w>
-<w n="191,28">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="191,28">черноризцемъ;</w>
-<w n="191,28">и</w>
-<w n="191,28">приятъ</w>
-<w n="191,28">и</w>
-<w n="191,28">Антоний,</w>
-<w n="191,28">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="191,28">чьрноризьцьмь.</w>
-<w n="191,28">И</w>
-<w n="191,28">приять</w>
-<w n="191,28">и</w>
-<w n="191,28">Антонии,</w>
-<w n="191,28">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="191,28">черноризцемъ.</w>
-<w n="191,28">И</w>
-<w n="191,28">приять</w>
-<w n="191,28">и</w>
-<w n="191,28">Антоний,</w>
-<w n="191,28">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>191, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="191"/><div type="block" n="28"><p><app><lem wit="#lem">
+            чьрноризьцьмь. И приять и Антонии, и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">черноризцемъ. <lb/> и приꙗтъ и антонии.</rdg>
+            <rdg wit="#rad">и приꙗтъ и антонии. и</rdg>
+            <rdg wit="#aka">и приꙗтъ и антонїи. и</rdg>
+            <rdg wit="#ipa">черьноризьцемь. и приꙗть <lb/> и антонии. и</rdg>
+            <rdg wit="#xle">черноризце<hi rend="sup">м</hi>, <lb/> и прїать его антонїи. и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">черноризцемъ; и приятъ и Антоний, и</rdg><rdg wit="#shakh">чьрноризьцьмь. И приять и Антонии, и</rdg><rdg wit="#likh">черноризцемъ. И приять и Антоний, и</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,83 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>139, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="139"/><div type="block" n="25"><p>
-<app>
-<lem wit="#lem">
-<w n="139,25">властеля</w>
-<w n="139,25">устраяеть</w>
-<w n="139,25">и</w>
-<w n="139,25">судию,</w>
-<w n="139,25">правяща</w>
-<w n="139,25">судъ.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="139,25">власт<milestone unit="sic" n="start"/>е<milestone unit="sic" n="end"/>лѧ</w>
-<w n="139,25">оустраꙗеть.</w>
-<w n="139,25">и</w>
-<w n="139,25">судью</w>
-<w n="139,25">правѧ<lb/>щаго</w>
-<w n="139,25">судъ. <pb n="48a"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="139,25">властелѧ</w>
-<w n="139,25">оустра<lb/>ꙗеть.</w>
-<w n="139,25">и</w>
-<w n="139,25">соу<hi rend="sup">д</hi>ю</w>
-<w n="139,25">правѧща</w>
-<w n="139,25">соу<hi rend="sup">д</hi>.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="139,25">властелѧ</w>
-<w n="139,25">оустро<lb/>ꙗеть.</w>
-<w n="139,25">и</w>
-<w n="139,25">сѹдью</w>
-<w n="139,25">правѧща</w>
-<w n="139,25">сѹдъ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="139,25">власте<lb/>лѧ.</w>
-<w n="139,25">оустра<milestone unit="sic" n="start"/>ꙗ<milestone unit="sic" n="end"/>ють</w>
-<w n="139,25">судью</w>
-<w n="139,25">пра<lb/>вѧща</w>
-<w n="139,25">судъ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="139,25">вла<lb/>стелѧ</w>
-<w n="139,25">оустраѧе<hi rend="sup">т</hi>.</w>
-<w n="139,25">и</w>
-<w n="139,25">с<hi rend="sup">д</hi>ѫ<hi rend="sup">ї</hi>ю</w>
-<w n="139,25">правѧща</w>
-<w n="139,25">сѫ<hi rend="sup">д</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="139,25">властеля</w>
-<w n="139,25">устраяеть,</w>
-<w n="139,25">и</w>
-<w n="139,25">судью,</w>
-<w n="139,25">правящаго</w>
-<w n="139,25">судъ.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="139,25">властеля</w>
-<w n="139,25">устраяеть</w>
-<w n="139,25">и</w>
-<w n="139,25">судию,</w>
-<w n="139,25">правяща</w>
-<w n="139,25">судъ.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="139,25">властеля</w>
-<w n="139,25">устраяеть,</w>
-<w n="139,25">и</w>
-<w n="139,25">судью,</w>
-<w n="139,25">правящаго</w>
-<w n="139,25">судъ.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>139, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="139"/><div type="block" n="25"><p><app><lem wit="#lem">
+            властеля устраяеть и судию, правяща судъ.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">власт<sic>е</sic>лѧ оустраꙗеть. и судью правѧ<lb/>щаго судъ.
+                    <pb n="48a"/></rdg>
+            <rdg wit="#rad">властелѧ оустра<lb/>ꙗеть. и соу<hi rend="sup">д</hi>ю правѧща соу<hi rend="sup">д</hi>.</rdg>
+            <rdg wit="#aka">властелѧ оустро<lb/>ꙗеть. и сѹдью правѧща сѹдъ.</rdg>
+            <rdg wit="#ipa">власте<lb/>лѧ. оустра<sic>ꙗ</sic>ють судью пра<lb/>вѧща судъ.</rdg>
+            <rdg wit="#xle">вла<lb/>стелѧ оустраѧе<hi rend="sup">т</hi>. и с<hi rend="sup">д</hi>ѫ<hi rend="sup">ї</hi>ю правѧща
+                    сѫ<hi rend="sup">д</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">властеля устраяеть, и судью, правящаго судъ.</rdg><rdg wit="#shakh">властеля устраяеть и судию, правяща судъ.</rdg><rdg wit="#likh">властеля устраяеть, и судью, правящаго судъ.</rdg></rdgGrp></app></p></div></body></text></TEI>

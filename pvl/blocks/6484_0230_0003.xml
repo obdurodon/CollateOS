@@ -1,86 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>230, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="230"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="230,3">въсприимъ</w>
-<w n="230,3">съмыслъ</w>
-<w n="230,3">буи</w>
-<w n="230,3">и</w>
-<w n="230,3">словеса</w>
-<w n="230,3">величава,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="230,3">въсприимъ</w>
-<w n="230,3">смыслъ·</w>
-<w n="230,3">буи</w>
-<w n="230,3">и <lb/></w>
-
-<w n="230,3">словеса</w>
-<w n="230,3">величава·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="230,3">въсприимъ</w>
-<w n="230,3">смыслъ·</w>
-<w n="230,3">боуи·</w>
-<w n="230,3">и</w>
-<w n="230,3">словеса</w>
-<w n="230,3">ве<lb/>личава.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="230,3">восприемъ</w>
-<w n="230,3">смы·̏слъ</w>
-<w n="230,3">бѹи</w>
-<w n="230,3">и</w>
-<w n="230,3">словеса</w>
-<w n="230,3">велї<lb/>чава·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="230,3">оуспри<lb/>емъ</w>
-<w n="230,3">смыслъ</w>
-<w n="230,3">буи·</w>
-<w n="230,3">и</w>
-<w n="230,3">словеса <lb/></w>
-
-<w n="230,3">величава·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="230,3">въспрїе<hi rend="sup">м</hi></w>
-<w n="230,3">смыслъ <lb/></w>
-
-<w n="230,3">бои,</w>
-<w n="230,3">и</w>
-<w n="230,3">слѡвеса</w>
-<w n="230,3">величаваа.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="230,3">въсприимъ</w>
-<w n="230,3">смыслъ</w>
-<w n="230,3">буй</w>
-<w n="230,3">и</w>
-<w n="230,3">словеса</w>
-<w n="230,3">величава,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="230,3">въсприимъ</w>
-<w n="230,3">съмыслъ</w>
-<w n="230,3">буи</w>
-<w n="230,3">и</w>
-<w n="230,3">словеса</w>
-<w n="230,3">величава,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="230,3">въсприимъ</w>
-<w n="230,3">смыслъ</w>
-<w n="230,3">буй</w>
-<w n="230,3">и</w>
-<w n="230,3">словеса</w>
-<w n="230,3">величава,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>230, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="230"/><div type="block" n="3"><p><app><lem wit="#lem">
+            въсприимъ съмыслъ буи и словеса величава,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">въсприимъ смыслъ· буи и <lb/> словеса величава·</rdg>
+            <rdg wit="#rad">въсприимъ смыслъ· боуи· и словеса ве<lb/>личава.</rdg>
+            <rdg wit="#aka">восприемъ смы·̏слъ бѹи и словеса велї<lb/>чава·</rdg>
+            <rdg wit="#ipa">оуспри<lb/>емъ смыслъ буи· и словеса <lb/> величава·</rdg>
+            <rdg wit="#xle">въспрїе<hi rend="sup">м</hi> смыслъ <lb/> бои, и слѡвеса величаваа.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">въсприимъ смыслъ буй и словеса величава,</rdg><rdg wit="#shakh">въсприимъ съмыслъ буи и словеса величава,</rdg><rdg wit="#likh">въсприимъ смыслъ буй и словеса величава,</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,57 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>241, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="241"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="241,4">своеи·</w>
-<w n="241,4">и</w>
-<w n="241,4">по <lb/></w>
-
-<w n="241,4">ѡтни</w>
-<w n="241,4">млт҃вѣ·</w>
-<w n="241,4">ѿ</w>
-<w n="241,4">вс<hi rend="sup">х</hi>ѣ</w>
-<w n="241,4">бѣдъ·</w>
-<w n="241,4">сѣ<lb/>дѧ</w>
-<w n="241,4">на</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="241,4">своей</w>
-<w n="241,4">и</w>
-<w n="241,4">по</w>
-<w n="241,4">отни</w>
-<w n="241,4">молитвѣ</w>
-<w n="241,4">отъ</w>
-<w n="241,4">всѣхъ</w>
-<w n="241,4">бѣдъ.</w>
-<w n="241,4">Сѣдя</w>
-<w n="241,4">на</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="241,4">своей</w>
-<w n="241,4">и</w>
-<w n="241,4">по</w>
-<w n="241,4">отни</w>
-<w n="241,4">молитвѣ</w>
-<w n="241,4">от</w>
-<w n="241,4">всѣх</w>
-<w n="241,4">бѣдъ!</w>
-<w n="241,4">Сѣдя</w>
-<w n="241,4">на</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>241, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="241"/><div type="block" n="4"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">своеи· и по <lb/> ѡтни млт҃вѣ· ѿ вс<hi rend="sup">х</hi>ѣ бѣдъ· сѣ<lb/>дѧ на</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">своей и по отни молитвѣ отъ всѣхъ бѣдъ. Сѣдя на</rdg><rdg wit="#likh">своей и по отни молитвѣ от всѣх бѣдъ! Сѣдя на</rdg></rdgGrp></app></p></div></body></text></TEI>

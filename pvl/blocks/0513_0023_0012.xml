@@ -1,107 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>23, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="23"/><div type="block" n="12"><p>
-<app>
-<lem wit="#lem">
-<w n="23,12">къ</w>
-<w n="23,12">роду</w>
-<w n="23,12">своему</w>
-<w n="23,12">къ</w>
-<w n="23,12">намъ”.</w>
-<w n="23,12">Асколдъ</w>
-<w n="23,12">же</w>
-<w n="23,12">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="23,12">к</w>
-<w n="23,12">на<lb/>мъ</w>
-<w n="23,12">к</w>
-<w n="23,12">родомъ</w>
-<w n="23,12">своимъ.</w>
-<w n="23,12">асколдъ</w>
-<w n="23,12">же</w>
-<w n="23,12">и</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="23,12">к</w>
-<w n="23,12">намъ</w>
-<w n="23,12">к</w>
-<w n="23,12">родом<milestone unit="sic" n="start"/>ъ<milestone unit="sic" n="end"/></w>
-<w n="23,12">своимъ:-</w>
-<w n="23,12">Асколдъ</w>
-<w n="23,12">же</w>
-<w n="23,12">и <pb n="11r"/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="23,12">к</w>
-<w n="23,12">намъ</w>
-<w n="23,12">к</w>
-<w n="23,12">ро<lb/>домъ</w>
-<w n="23,12">своимъ:·</w>
-<w n="23,12">Исколдъ</w>
-<w n="23,12">же</w>
-<w n="23,12">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="23,12">к</w>
-<w n="23,12">роду</w>
-<w n="23,12">своему</w>
-<w n="23,12">к</w>
-<w n="23,12">нам<milestone unit="sic" n="start"/>ъ<milestone unit="sic" n="end"/>. <lb/></w>
-
-<w n="23,12">асколдъ</w>
-<w n="23,12">же</w>
-<w n="23,12">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="23,12">къ <lb/></w>
-
-<w n="23,12">родоу</w>
-<w n="23,12">своемоу</w>
-<w n="23,12">къ</w>
-<w n="23,12">на<hi rend="sup">м</hi>.</w>
-<w n="23,12">асколдь</w>
-<w n="23,12">же</w>
-<w n="23,12">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="23,12">к</w>
-<w n="23,12">намъ</w>
-<w n="23,12">к</w>
-<w n="23,12">родомъ</w>
-<w n="23,12">своимъ”.</w>
-<w n="23,12">Асколдъ</w>
-<w n="23,12">же</w>
-<w n="23,12">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="23,12">къ</w>
-<w n="23,12">намъ</w>
-<w n="23,12">къ</w>
-<w n="23,12">родомъ</w>
-<w n="23,12">своимъ”.</w>
-<w n="23,12">Асколдъ</w>
-<w n="23,12">же</w>
-<w n="23,12">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="23,12">к</w>
-<w n="23,12">намъ</w>
-<w n="23,12">к</w>
-<w n="23,12">родомъ</w>
-<w n="23,12">своимъ”.</w>
-<w n="23,12">Асколдъ</w>
-<w n="23,12">же</w>
-<w n="23,12">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>23, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="23"/><div type="block" n="12"><p><app><lem wit="#lem">
+            къ роду своему къ намъ”. Асколдъ же и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">к на<lb/>мъ к родомъ своимъ. асколдъ же и</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">к намъ к родом<sic>ъ</sic> своимъ:-  Асколдъ же и
+                    <pb n="11r"/></rdg>
+            <rdg wit="#aka">к намъ к ро<lb/>домъ своимъ:· Исколдъ же и</rdg>
+            <rdg wit="#ipa">к роду своему к нам<sic>ъ</sic>. <lb/> асколдъ же и</rdg>
+            <rdg wit="#xle">къ <lb/> родоу своемоу къ на<hi rend="sup">м</hi>. асколдь же и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">к намъ к родомъ своимъ”. Асколдъ же и</rdg><rdg wit="#shakh">къ намъ къ родомъ своимъ”. Асколдъ же и</rdg><rdg wit="#likh">к намъ к родомъ своимъ”. Асколдъ же и</rdg></rdgGrp></app></p></div></body></text></TEI>

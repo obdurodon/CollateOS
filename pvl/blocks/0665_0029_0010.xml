@@ -1,88 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>29, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="29"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-<w n="29,10">поидоша,</w>
-<w n="29,10">и</w>
-<w n="29,10">побѣдиша</w>
-<w n="29,10">Българы,</w>
-<w n="29,10">яко</w>
-<w n="29,10">одъва</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="29,10">противу</w>
-<w n="29,10">и</w>
-<w n="29,10">побѣдиша</w>
-<w n="29,10">болгары</w>
-<w n="29,10">яко</w>
-<w n="29,10">едва</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="29,10">поидоша.</w>
-<w n="29,10">и <lb/></w>
-
-<w n="29,10">победиша</w>
-<w n="29,10">болгары.</w>
-<w n="29,10">ꙗко</w>
-<w n="29,10">ѡдва</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="29,10">поидоша.</w>
-<w n="29,10">и</w>
-<w n="29,10">победиша</w>
-<w n="29,10">болгары. <lb/></w>
-
-<w n="29,10">ꙗко</w>
-<w n="29,10">ѡдва</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="29,10">поидоша.</w>
-<w n="29,10">и</w>
-<w n="29,10">побѣ<lb/>диша</w>
-<w n="29,10">болгары.</w>
-<w n="29,10">ꙗко</w>
-<w n="29,10">ѡдъ<lb/>ва</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="29,10">поидоша,</w>
-<w n="29,10">и</w>
-<w n="29,10">поб<hi rend="sup">д</hi>ѣ<hi rend="sup">и</hi>ша</w>
-<w n="29,10">болгары.</w>
-<w n="29,10">я<hi rend="sup">к</hi><lb/></w>
-<w n="29,10">ѡдва</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="29,10">поидоша</w>
-<w n="29,10">и</w>
-<w n="29,10">побѣдиша</w>
-<w n="29,10">Болгары,</w>
-<w n="29,10">яко</w>
-<w n="29,10">одва</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="29,10">поидоша,</w>
-<w n="29,10">и</w>
-<w n="29,10">побѣдиша</w>
-<w n="29,10">Българы,</w>
-<w n="29,10">яко</w>
-<w n="29,10">одъва</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="29,10">поидоша</w>
-<w n="29,10">и</w>
-<w n="29,10">побѣдиша</w>
-<w n="29,10">болгары,</w>
-<w n="29,10">яко</w>
-<w n="29,10">одва</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>29, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="29"/><div type="block" n="10"><p><app><lem wit="#lem">
+            поидоша, и побѣдиша Българы, яко одъва
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">противу и побѣдиша болгары яко едва</rdg>
+            <rdg wit="#rad">поидоша. и <lb/> победиша болгары. ꙗко ѡдва</rdg>
+            <rdg wit="#aka">поидоша. и победиша болгары. <lb/> ꙗко ѡдва</rdg>
+            <rdg wit="#ipa">поидоша. и побѣ<lb/>диша болгары. ꙗко ѡдъ<lb/>ва</rdg>
+            <rdg wit="#xle">поидоша, и поб<hi rend="sup">д</hi>ѣ<hi rend="sup">и</hi>ша болгары. ꙗ<hi rend="sup">к</hi>
+                <lb/> ѡдва</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">поидоша и побѣдиша Болгары, яко одва</rdg><rdg wit="#shakh">поидоша, и побѣдиша Българы, яко одъва</rdg><rdg wit="#likh">поидоша и побѣдиша болгары, яко одва</rdg></rdgGrp></app></p></div></body></text></TEI>

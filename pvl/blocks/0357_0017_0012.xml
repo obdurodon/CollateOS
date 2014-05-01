@@ -1,73 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>17, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="17"/><div type="block" n="12"><p>
-<app>
-<lem wit="#lem">
-<w n="17,12">рекъше</w>
-<w n="17,12">саблями,</w>
-<w n="17,12">а</w>
-<w n="17,12">сихъ</w>
-<w n="17,12">оружие</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="17,12">рекоша</w>
-<w n="17,12">саблѧми.</w>
-<w n="17,12">а</w>
-<w n="17,12">сихъ</w>
-<w n="17,12">ѡружье</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-<w n="17,12">рекше</w>
-<w n="17,12">саблѧми.</w>
-<w n="17,12">а</w>
-<w n="17,12">си<hi rend="sup">х</hi></w>
-<w n="17,12">ѡрѹжье</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="17,12">рѣкше</w>
-<w n="17,12">саблѧми.</w>
-<w n="17,12">а</w>
-<w n="17,12">сихъ <lb/></w>
-
-<w n="17,12">ѡружье</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="17,12">рекше</w>
-<w n="17,12">саблѧми.</w>
-<w n="17,12">а</w>
-<w n="17,12">си<hi rend="sup">х</hi></w>
-<w n="17,12">ѡроужїе</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="17,12">рекше</w>
-<w n="17,12">саблями,</w>
-<w n="17,12">а</w>
-<w n="17,12">сихъ</w>
-<w n="17,12">оружье</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="17,12">рекъше</w>
-<w n="17,12">саблями,</w>
-<w n="17,12">а</w>
-<w n="17,12">сихъ</w>
-<w n="17,12">оружие</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="17,12">рекше</w>
-<w n="17,12">саблями,</w>
-<w n="17,12">а</w>
-<w n="17,12">сихъ</w>
-<w n="17,12">оружье</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>17, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="17"/><div type="block" n="12"><p><app><lem wit="#lem">
+            рекъше саблями, а сихъ оружие
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">рекоша саблѧми. а сихъ ѡружье</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">рекше саблѧми. а си<hi rend="sup">х</hi> ѡрѹжье</rdg>
+            <rdg wit="#ipa">рѣкше саблѧми. а сихъ <lb/> ѡружье</rdg>
+            <rdg wit="#xle">рекше саблѧми. а си<hi rend="sup">х</hi> ѡроужїе</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">рекше саблями, а сихъ оружье</rdg><rdg wit="#shakh">рекъше саблями, а сихъ оружие</rdg><rdg wit="#likh">рекше саблями, а сихъ оружье</rdg></rdgGrp></app></p></div></body></text></TEI>

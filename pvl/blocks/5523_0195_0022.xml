@@ -1,80 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>195, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="195"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="195,22">посмихая</w>
-<w n="195,22">ся</w>
-<w n="195,22">Исакию:</w>
-<w n="195,22">“Оно</w>
-<w n="195,22">сѣдить</w>
-<w n="195,22">вранъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="195,22">посмихаꙗсѧ</w>
-<w n="195,22">іса<lb/>кию.</w>
-<w n="195,22">ѡно</w>
-<w n="195,22">ти</w>
-<w n="195,22">сѣдить</w>
-<w n="195,22">вранъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="195,22">смеꙗсѧ.</w>
-<w n="195,22">исакию</w>
-<w n="195,22">воно</w>
-<w n="195,22">седить <lb/></w>
-
-<w n="195,22">воронъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="195,22">смеꙗсѧ</w>
-<w n="195,22">исакию.</w>
-<w n="195,22">воно</w>
-<w n="195,22">седитъ</w>
-<w n="195,22">воронъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="195,22">посмихаꙗсѧ</w>
-<w n="195,22">исакь<lb/><milestone unit="sic" n="start"/>ю<milestone unit="sic" n="end"/></w>
-<w n="195,22">ѡно</w>
-<w n="195,22">сѣдить</w>
-<w n="195,22">вранъ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="195,22">посмѣхаасѧ</w>
-<w n="195,22">исакїи.</w>
-<w n="195,22">ѡно</w>
-<w n="195,22">сѣ<lb/>ди<hi rend="sup">т</hi></w>
-<w n="195,22">вранъ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="195,22">посмихаяся</w>
-<w n="195,22">Исакию:</w>
-<w n="195,22">“оно</w>
-<w n="195,22">ти</w>
-<w n="195,22">сѣдить</w>
-<w n="195,22">вранъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="195,22">посмихаяся,</w>
-<w n="195,22">Исакию:</w>
-<w n="195,22">“оно</w>
-<w n="195,22">ти</w>
-<w n="195,22">сѣдить</w>
-<w n="195,22">вранъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="195,22">посмихаяся</w>
-<w n="195,22">Исакию:</w>
-<w n="195,22">“Оно</w>
-<w n="195,22">ти</w>
-<w n="195,22">сѣдить</w>
-<w n="195,22">вранъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>195, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="195"/><div type="block" n="22"><p><app><lem wit="#lem">
+            посмихая ся Исакию: “Оно сѣдить вранъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">посмихаꙗсѧ іса<lb/>кию. ѡно ти сѣдить вранъ</rdg>
+            <rdg wit="#rad">смеꙗсѧ. исакию воно седить <lb/> воронъ</rdg>
+            <rdg wit="#aka">смеꙗсѧ исакию. воно седитъ воронъ</rdg>
+            <rdg wit="#ipa">посмихаꙗсѧ исакь<lb/><sic>ю</sic> ѡно сѣдить вранъ.</rdg>
+            <rdg wit="#xle">посмѣхаасѧ исакїи. ѡно сѣ<lb/>ди<hi rend="sup">т</hi> вранъ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">посмихаяся Исакию: “оно ти сѣдить вранъ</rdg><rdg wit="#shakh">посмихаяся, Исакию: “оно ти сѣдить вранъ</rdg><rdg wit="#likh">посмихаяся Исакию: “Оно ти сѣдить вранъ</rdg></rdgGrp></app></p></div></body></text></TEI>

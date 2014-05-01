@@ -1,87 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>263, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="263"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="263,9">а</w>
-<w n="263,9"><choice><seg>заходилъ</seg><seg>шьлъ</seg></choice></w>
-<w n="263,9">ротѣ</w>
-<w n="263,9">съ</w>
-<w n="263,9">Володимиръмь,</w>
-<w n="263,9">яко</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="263,9">а</w>
-<w n="263,9">захо<lb/>дилъ</w>
-<w n="263,9">ротѣ</w>
-<w n="263,9">с</w>
-<w n="263,9">володимеро<hi rend="sup">м</hi>·</w>
-<w n="263,9">ꙗко <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="263,9">и</w>
-<w n="263,9">заходи<hi rend="sup">л</hi>·</w>
-<w n="263,9">ротѣ</w>
-<w n="263,9">с</w>
-<w n="263,9">володимеро<hi rend="sup">м</hi>.</w>
-<w n="263,9">ꙗко</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="263,9">и</w>
-<w n="263,9">заходилъ</w>
-<w n="263,9">ротѣ</w>
-<w n="263,9">с</w>
-<w n="263,9">воло<lb/>димиромъ·</w>
-<w n="263,9">ꙗко</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="263,9">и</w>
-<w n="263,9">шелъ <lb/></w>
-
-<w n="263,9">ротѣ</w>
-<w n="263,9">с</w>
-<w n="263,9">володимѣромъ·</w>
-<w n="263,9">ꙗ<lb/>ко</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="263,9">и</w>
-<w n="263,9">ше<hi rend="sup">л</hi></w>
-<w n="263,9">к</w>
-<w n="263,9">ротѣ <lb/></w>
-
-<w n="263,9">с</w>
-<w n="263,9">вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>мерѡ<hi rend="sup">м</hi>.</w>
-<w n="263,9">яко</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="263,9">а</w>
-<w n="263,9">заходилъ</w>
-<w n="263,9">ротѣ</w>
-<w n="263,9">с</w>
-<w n="263,9">Володимеромъ,</w>
-<w n="263,9">яко</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="263,9">а</w>
-<w n="263,9">заходилъ</w>
-<w n="263,9">ротѣ</w>
-<w n="263,9">съ</w>
-<w n="263,9">Володимеръмь,</w>
-<w n="263,9">яко</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="263,9">а</w>
-<w n="263,9">заходилъ</w>
-<w n="263,9">ротѣ</w>
-<w n="263,9">с</w>
-<w n="263,9">Володимером,</w>
-<w n="263,9">яко</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>263, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="263"/><div type="block" n="9"><p><app><lem wit="#lem">
+            а <choice>
+                    <seg>заходилъ</seg>
+                    <seg>шьлъ</seg>
+                </choice> ротѣ съ Володимиръмь, яко
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">а захо<lb/>дилъ ротѣ с володимеро<hi rend="sup">м</hi>· ꙗко <lb/></rdg>
+            <rdg wit="#rad">и заходи<hi rend="sup">л</hi>· ротѣ с володимеро<hi rend="sup">м</hi>. ꙗко</rdg>
+            <rdg wit="#aka">и заходилъ ротѣ с воло<lb/>димиромъ· ꙗко</rdg>
+            <rdg wit="#ipa">и шелъ <lb/> ротѣ с володимѣромъ· ꙗ<lb/>ко</rdg>
+            <rdg wit="#xle">и ше<hi rend="sup">л</hi> к ротѣ <lb/> с вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>мерѡ<hi rend="sup">м</hi>.
+                ꙗко</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">а заходилъ ротѣ с Володимеромъ, яко</rdg><rdg wit="#shakh">а заходилъ ротѣ съ Володимеръмь, яко</rdg><rdg wit="#likh">а заходилъ ротѣ с Володимером, яко</rdg></rdgGrp></app></p></div></body></text></TEI>

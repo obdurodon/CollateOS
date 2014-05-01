@@ -1,107 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>31, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="31"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="31,3">“Чего</w>
-<w n="31,3">хощеши,</w>
-<w n="31,3">дамы</w>
-<w n="31,3">ти”.</w>
-<w n="31,3">И</w>
-<w n="31,3">заповѣда</w>
-<w n="31,3">Ольгъ</w>
-<w n="31,3">дати</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="31,3">чего</w>
-<w n="31,3">хощеши</w>
-<w n="31,3">дамы</w>
-<w n="31,3">ти</w>
-<w n="31,3">и</w>
-<w n="31,3">заповѣда</w>
-<w n="31,3">олегъ</w>
-<w n="31,3">дати</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="31,3">че<hi rend="sup">г</hi></w>
-<w n="31,3">хоще<hi rend="sup">ш</hi></w>
-<w n="31,3">дамъ</w>
-<w n="31,3">ти.</w>
-<w n="31,3">и</w>
-<w n="31,3">заповеда</w>
-<w n="31,3">ѡле<hi rend="sup">г</hi></w>
-<w n="31,3">да<hi rend="sup">т</hi><lb/></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="31,3">чего</w>
-<w n="31,3">хощеши</w>
-<w n="31,3">дамы <lb/></w>
-
-<w n="31,3">ти</w>
-<w n="31,3">и</w>
-<w n="31,3">заповеда</w>
-<w n="31,3">ѡлегъ</w>
-<w n="31,3">давати</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="31,3">чего</w>
-<w n="31,3">хочете</w>
-<w n="31,3">и <lb/></w>
-
-<w n="31,3">дамы</w>
-<w n="31,3">ти.</w>
-<w n="31,3">и</w>
-<w n="31,3">заповѣда</w>
-<w n="31,3">ѡле<lb/>гъ</w>
-<w n="31,3">дати</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="31,3">чего</w>
-<w n="31,3">хощете</w>
-<w n="31,3">дамы</w>
-<w n="31,3">ти.</w>
-<w n="31,3">и</w>
-<w n="31,3">заповѣ<lb/>да</w>
-<w n="31,3">ѡлегь</w>
-<w n="31,3">дати</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="31,3">“чего</w>
-<w n="31,3">хощеши,</w>
-<w n="31,3">дамы</w>
-<w n="31,3">ти”.</w>
-<w n="31,3">И</w>
-<w n="31,3">заповѣда</w>
-<w n="31,3">Олегъ</w>
-<w n="31,3">дати</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="31,3">“чего</w>
-<w n="31,3">хощеши,</w>
-<w n="31,3">дамъ</w>
-<w n="31,3">ти”.</w>
-<w n="31,3">И</w>
-<w n="31,3">заповѣда</w>
-<w n="31,3">Ольгъ</w>
-<w n="31,3">дати</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="31,3">“Чего</w>
-<w n="31,3">хощеши,</w>
-<w n="31,3">дамы</w>
-<w n="31,3">ти”.</w>
-<w n="31,3">И</w>
-<w n="31,3">заповѣда</w>
-<w n="31,3">Олег</w>
-<w n="31,3">дати</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>31, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="31"/><div type="block" n="3"><p><app><lem wit="#lem">
+            “Чего хощеши, дамы ти”. И заповѣда Ольгъ дати
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">чего хощеши дамы ти и заповѣда олегъ дати</rdg>
+            <rdg wit="#rad">че<hi rend="sup">г</hi> хоще<hi rend="sup">ш</hi> дамъ ти. и заповеда ѡле<hi rend="sup">г</hi> да<hi rend="sup">т</hi>
+                <lb/></rdg>
+            <rdg wit="#aka">чего хощеши дамы <lb/> ти и заповеда ѡлегъ давати</rdg>
+            <rdg wit="#ipa">чего хочете и <lb/> дамы ти. и заповѣда ѡле<lb/>гъ дати</rdg>
+            <rdg wit="#xle">чего хощете дамы ти. и заповѣ<lb/>да ѡлегь дати</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">“чего хощеши, дамы ти”. И заповѣда Олегъ дати</rdg><rdg wit="#shakh">“чего хощеши, дамъ ти”. И заповѣда Ольгъ дати</rdg><rdg wit="#likh">“Чего хощеши, дамы ти”. И заповѣда Олег дати</rdg></rdgGrp></app></p></div></body></text></TEI>

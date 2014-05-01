@@ -1,83 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>147, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="147"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="147,22">сѣде</w>
-<w n="147,22">на</w>
-<w n="147,22">столѣ</w>
-<w n="147,22">Чьрниговѣ,</w>
-<w n="147,22">Ярославу</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="147,22">шедъ</w>
-<w n="147,22">сѣде</w>
-<w n="147,22">на</w>
-<w n="147,22">сто<lb/>лѣ</w>
-<w n="147,22">черниговѣ.</w>
-<w n="147,22">ꙗрославу</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="147,22">сѣде</w>
-<w n="147,22">на</w>
-<w n="147,22">столѣ</w>
-<w n="147,22">в</w>
-<w n="147,22">черниговѣ.</w>
-<w n="147,22">ꙗрославѹ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="147,22">сѣде</w>
-<w n="147,22">на</w>
-<w n="147,22">столѣ</w>
-<w n="147,22">в</w>
-<w n="147,22">чернигове.</w>
-<w n="147,22">ꙗросла<lb/>вѹ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="147,22">сѣде</w>
-<w n="147,22">на</w>
-<w n="147,22">сто<lb/>лѣ</w>
-<w n="147,22">черниговѣ.</w>
-<w n="147,22">ꙗрославу</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="147,22">ше<hi rend="sup">д</hi></w>
-<w n="147,22">сѣде</w>
-<w n="147,22">на</w>
-<w n="147,22">столѣ</w>
-<w n="147,22">в</w>
-<w n="147,22">чернѣговѣ. <lb/></w>
-
-<w n="147,22">ярославоу</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="147,22">шедъ</w>
-<w n="147,22">сѣде</w>
-<w n="147,22">на</w>
-<w n="147,22">столѣ</w>
-<w n="147,22">Черниговѣ,</w>
-<w n="147,22">Ярославу</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="147,22">шьдъ,</w>
-<w n="147,22">сѣде</w>
-<w n="147,22">на</w>
-<w n="147,22">столѣ</w>
-<w n="147,22">Чьрниговѣ,</w>
-<w n="147,22">Ярославу</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="147,22">шедъ</w>
-<w n="147,22">сѣде</w>
-<w n="147,22">на</w>
-<w n="147,22">столѣ</w>
-<w n="147,22">Черниговѣ,</w>
-<w n="147,22">Ярославу</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>147, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="147"/><div type="block" n="22"><p><app><lem wit="#lem">
+            сѣде на столѣ Чьрниговѣ, Ярославу
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">шедъ сѣде на сто<lb/>лѣ черниговѣ. ꙗрославу</rdg>
+            <rdg wit="#rad">сѣде на столѣ в черниговѣ. ꙗрославѹ</rdg>
+            <rdg wit="#aka">сѣде на столѣ в чернигове. ꙗросла<lb/>вѹ</rdg>
+            <rdg wit="#ipa">сѣде на сто<lb/>лѣ черниговѣ. ꙗрославу</rdg>
+            <rdg wit="#xle">ше<hi rend="sup">д</hi> сѣде на столѣ в чернѣговѣ. <lb/> ꙗрославоу</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">шедъ сѣде на столѣ Черниговѣ, Ярославу</rdg><rdg wit="#shakh">шьдъ, сѣде на столѣ Чьрниговѣ, Ярославу</rdg><rdg wit="#likh">шедъ сѣде на столѣ Черниговѣ, Ярославу</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,102 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>141, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="141"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="141,23">Въ</w>
-<w n="141,23">лѣто 6524.</w>
-
-<w n="141,23">Приде</w>
-<w n="141,23">Ярославъ,</w>
-<w n="141,23">и</w>
-<w n="141,23">сташа</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="141,23">В</w>
-<w n="141,23">лѣ<hi rend="sup">т</hi>. <lb/></w>
-
-<w n="141,23">҂ѕ҃.ф҃.к҃д·:·</w>
-<w n="141,23">Приде</w>
-<w n="141,23">ꙗрославъ <lb/></w>
-
-<w n="141,23">и</w>
-<w n="141,23">сташа</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="141,23">В</w>
-<w n="141,23">лѣ<hi rend="sup">т</hi></w>
-<w n="141,23">҂ѕ҃</w>
-<w n="141,23">ф҃.к҃д. <lb/></w>
-
-<w n="141,23">риде</w>
-<w n="141,23">ꙗрославъ.</w>
-<w n="141,23">и</w>
-<w n="141,23">ста</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="141,23">В</w>
-<w n="141,23">лѣ<hi rend="sup">т</hi></w>
-<w n="141,23">.҂ѕ҃.ф҃.к҃д.</w>
-<w n="141,23">прїиде</w>
-<w n="141,23">ꙗрославь</w>
-<w n="141,23">и</w>
-<w n="141,23">ста<lb/>вь</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="141,23">Въ</w>
-<w n="141,23">лѣ<hi rend="sup">т</hi></w>
-<w n="141,23">.҂ѕ҃..ф҃.к҃д.</w>
-<w n="141,23">Приде</w>
-<w n="141,23">с<hi rend="sup">ꙗ</hi>л<hi rend="sup">р</hi>а<hi rend="sup">о</hi><lb/>въ.</w>
-<w n="141,23"><milestone unit="add" n="start" place="margin"/>на</w>
-<w n="141,23">ст҃ополка<milestone unit="add" n="end"/></w>
-<w n="141,23">и</w>
-<w n="141,23">сташа</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="141,23">В</w>
-<w n="141,23">лѣ<hi rend="sup">т</hi></w>
-<w n="141,23">.҂ѕ҃.ф҃.к҃д.</w>
-<w n="141,23">прїиде</w>
-<w n="141,23">ярославь.</w>
-<w n="141,23">и</w>
-<w n="141,23">сташа</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="141,23">В</w>
-<w n="141,23">лѣто 6524.</w>
-
-<w n="141,23">Приде</w>
-<w n="141,23">Ярославъ</w>
-<w n="141,23">на</w>
-<w n="141,23">Святополка,</w>
-<w n="141,23">и</w>
-<w n="141,23">сташа</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="141,23">Въ</w>
-<w n="141,23">лѣто 6524.</w>
-
-<w n="141,23">Приде</w>
-<w n="141,23">Ярославъ,</w>
-<w n="141,23">и</w>
-<w n="141,23">сташа</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="141,23">В</w>
-<w n="141,23">лѣто 6524.</w>
-
-<w n="141,23">Приде</w>
-<w n="141,23">Ярославъ</w>
-<w n="141,23">на</w>
-<w n="141,23">Святополка,</w>
-<w n="141,23">и</w>
-<w n="141,23">сташа</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>141, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="141"/><div type="block" n="23"><p><app><lem wit="#lem">
+            Въ лѣто 6524. Приде Ярославъ, и сташа
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">В лѣ<hi rend="sup">т</hi>. <lb/> ҂ѕ҃.ф҃.к҃д·:· Приде ꙗрославъ <lb/> и сташа</rdg>
+            <rdg wit="#rad">В лѣ<hi rend="sup">т</hi> ҂ѕ҃ ф҃.к҃д. <lb/> риде ꙗрославъ. и ста</rdg>
+            <rdg wit="#aka">В лѣ<hi rend="sup">т</hi> .҂ѕ҃.ф҃.к҃д. прїиде ꙗрославь и ста<lb/>вь</rdg>
+            <rdg wit="#ipa">Въ лѣ<hi rend="sup">т</hi> .҂ѕ҃..ф҃.к҃д. Приде
+                с<hi rend="sup">ꙗ</hi>л<hi rend="sup">р</hi>а<hi rend="sup">о</hi><lb/>въ. <add place="margin">на
+                    ст҃ополка</add> и сташа</rdg>
+            <rdg wit="#xle">В лѣ<hi rend="sup">т</hi> .҂ѕ҃.ф҃.к҃д. прїиде ꙗрославь. и сташа</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">В лѣто 6524. Приде Ярославъ на Святополка, и сташа</rdg><rdg wit="#shakh">Въ лѣто 6524. Приде Ярославъ, и сташа</rdg><rdg wit="#likh">В лѣто 6524. Приде Ярославъ на Святополка, и сташа</rdg></rdgGrp></app></p></div></body></text></TEI>

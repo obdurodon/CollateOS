@@ -1,87 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>51, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="51"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="51,22">будеть</w>
-<w n="51,22">сътворилъ.</w>
-<w n="51,22">Аще</w>
-<w n="51,22">убиеть</w>
-<w n="51,22">хрьстьянинъ</w>
-<w n="51,22">Русина</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="51,22">будеть</w>
-<w n="51,22">створи<lb/>лъ.</w>
-<w n="51,22">аще</w>
-<w n="51,22">оубьеть</w>
-<w n="51,22">хе<hi rend="sup">с</hi>ꙗнинъ</w>
-<w n="51,22">русина.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="51,22">боу<hi rend="sup">д</hi>ть</w>
-<w n="51,22">ство<lb/>рилъ.</w>
-<w n="51,22">аще</w>
-<w n="51,22">оубьеть</w>
-<w n="51,22">хрт<hi rend="sup">с</hi>ьанинъ</w>
-<w n="51,22">рѹсина.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="51,22">бѹдеть</w>
-<w n="51,22">сотворилъ.</w>
-<w n="51,22">аще <lb/></w>
-
-<w n="51,22">оубьеть</w>
-<w n="51,22">хрт<hi rend="sup">с</hi>ьанинъ</w>
-<w n="51,22">рѹсина.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="51,22">будеть</w>
-<w n="51,22">створилъ. <lb/></w>
-
-<w n="51,22">и</w>
-<w n="51,22">аще</w>
-<w n="51,22">оубьеть</w>
-<w n="51,22">кр<hi rend="sup">с</hi>тьꙗнї<lb/>нъ</w>
-<w n="51,22">русина.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="51,22">бѫде<hi rend="sup">т</hi></w>
-<w n="51,22">с<milestone unit="sic" n="start"/>ът<milestone unit="sic" n="end"/>вори<hi rend="sup">л</hi>.</w>
-<w n="51,22">аще <lb/></w>
-
-<w n="51,22">оубїеть</w>
-<w n="51,22">хр<hi rend="sup">с</hi>тїанинь</w>
-<w n="51,22">роусина.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="51,22">будеть</w>
-<w n="51,22">створилъ.</w>
-<w n="51,22">Аще</w>
-<w n="51,22">убьеть</w>
-<w n="51,22">хрестеянинъ</w>
-<w n="51,22">Русина,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="51,22">будеть</w>
-<w n="51,22">сътворилъ.</w>
-<w n="51,22">Аще</w>
-<w n="51,22">убиеть</w>
-<w n="51,22">хрьстиянинъ</w>
-<w n="51,22">Русина</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="51,22">будеть</w>
-<w n="51,22">створилъ.</w>
-<w n="51,22">Аще</w>
-<w n="51,22">убьеть</w>
-<w n="51,22">хрестеянинъ</w>
-<w n="51,22">русина,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>51, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="51"/><div type="block" n="22"><p><app><lem wit="#lem">
+            будеть сътворилъ. Аще убиеть хрьстьянинъ Русина
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">будеть створи<lb/>лъ. аще оубьеть хе<hi rend="sup">с</hi>ꙗнинъ русина.</rdg>
+            <rdg wit="#rad">боу<hi rend="sup">д</hi>ть ство<lb/>рилъ. аще оубьеть хрт<hi rend="sup">с</hi>ьанинъ рѹсина.</rdg>
+            <rdg wit="#aka">бѹдеть сотворилъ. аще <lb/> оубьеть хрт<hi rend="sup">с</hi>ьанинъ рѹсина.</rdg>
+            <rdg wit="#ipa">будеть створилъ. <lb/> и аще оубьеть кр<hi rend="sup">с</hi>тьꙗнї<lb/>нъ русина.</rdg>
+            <rdg wit="#xle">бѫде<hi rend="sup">т</hi> с<sic>ът</sic>вори<hi rend="sup">л</hi>. аще <lb/> оубїеть
+                    хр<hi rend="sup">с</hi>тїанинь роусина.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">будеть створилъ. Аще убьеть хрестеянинъ Русина,</rdg><rdg wit="#shakh">будеть сътворилъ. Аще убиеть хрьстиянинъ Русина</rdg><rdg wit="#likh">будеть створилъ. Аще убьеть хрестеянинъ русина,</rdg></rdgGrp></app></p></div></body></text></TEI>

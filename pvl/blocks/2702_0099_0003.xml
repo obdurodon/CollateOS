@@ -1,98 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>99, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="99"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="99,3">мѣсяць</w>
-<w n="99,3">вашихъ,</w>
-<w n="99,3">и</w>
-<w n="99,3">суботъ</w>
-<w n="99,3">вашихъ</w>
-<w n="99,3">не</w>
-<w n="99,3">приемлю”.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="99,3">мц<hi rend="sup">с</hi>ь</w>
-<w n="99,3">ваши<hi rend="sup">х</hi>.</w>
-<w n="99,3">суботъ</w>
-<w n="99,3">вашихъ</w>
-<w n="99,3">не</w>
-<w n="99,3">прием<milestone unit="sic" n="start"/>лю<milestone unit="sic" n="end"/>. <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="99,3">мц<hi rend="sup">с</hi>ь</w>
-<w n="99,3">ваши<hi rend="sup">х</hi>.</w>
-<w n="99,3">и</w>
-<w n="99,3">соубо<hi rend="sup">т</hi><lb/></w>
-<w n="99,3">ваши<hi rend="sup">х</hi></w>
-<w n="99,3">не</w>
-<w n="99,3">приемлю.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="99,3">м<hi rend="sup">с</hi>ць <lb/></w>
-
-<w n="99,3">ваши<hi rend="sup">х</hi>.</w>
-<w n="99,3">и</w>
-<w n="99,3">сѹботъ</w>
-<w n="99,3">ваши<hi rend="sup">х</hi></w>
-<w n="99,3">не</w>
-<w n="99,3">приемлю.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="99,3">мц<hi rend="sup">с</hi>ь</w>
-<w n="99,3">ва<lb/>ши<hi rend="sup">х</hi></w>
-<w n="99,3">не</w>
-<w n="99,3">приемлю.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="99,3">мц<hi rend="sup">с</hi>ь</w>
-<w n="99,3">ваши<hi rend="sup">х</hi>,</w>
-<w n="99,3">и</w>
-<w n="99,3">сѫбо<hi rend="sup">т</hi></w>
-<w n="99,3">ва<lb/>ши<hi rend="sup">х</hi></w>
-<w n="99,3">не</w>
-<w n="99,3">прїемлю.</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="99,3">мѣсꙗць</w>
-<w n="99,3">вашихъ</w>
-<w n="99,3">и</w>
-<w n="99,3">суботъ</w>
-<w n="99,3">ваших</w>
-<w n="99,3">не</w>
-<w n="99,3">прииму</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="99,3">мѣсяць</w>
-<w n="99,3">вашихъ,</w>
-<w n="99,3">суботъ</w>
-<w n="99,3">вашихъ</w>
-<w n="99,3">не</w>
-<w n="99,3">приемлю.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="99,3">мѣсяць</w>
-<w n="99,3">вашихъ,</w>
-<w n="99,3">и</w>
-<w n="99,3">суботъ</w>
-<w n="99,3">вашихъ</w>
-<w n="99,3">не</w>
-<w n="99,3">приемлю.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="99,3">мѣсяць</w>
-<w n="99,3">ваших,</w>
-<w n="99,3">суботъ</w>
-<w n="99,3">вашихъ</w>
-<w n="99,3">не</w>
-<w n="99,3">приемлю”.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>99, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="99"/><div type="block" n="3"><p><app><lem wit="#lem">
+            мѣсяць вашихъ, и суботъ вашихъ не приемлю”.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">мц<hi rend="sup">с</hi>ь ваши<hi rend="sup">х</hi>. суботъ вашихъ не прием<sic>лю</sic>.
+                <lb/></rdg>
+            <rdg wit="#rad">мц<hi rend="sup">с</hi>ь ваши<hi rend="sup">х</hi>. и соубо<hi rend="sup">т</hi>
+                <lb/> ваши<hi rend="sup">х</hi> не приемлю.</rdg>
+            <rdg wit="#aka">м<hi rend="sup">с</hi>ць <lb/> ваши<hi rend="sup">х</hi>. и сѹботъ ваши<hi rend="sup">х</hi> не приемлю.</rdg>
+            <rdg wit="#ipa">мц<hi rend="sup">с</hi>ь ва<lb/>ши<hi rend="sup">х</hi> не приемлю.</rdg>
+            <rdg wit="#xle">мц<hi rend="sup">с</hi>ь ваши<hi rend="sup">х</hi>, и сѫбо<hi rend="sup">т</hi> ва<lb/>ши<hi rend="sup">х</hi> не
+                прїемлю.</rdg>
+            <rdg wit="#kom">мѣсꙗць вашихъ и суботъ ваших не прииму</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">мѣсяць вашихъ, суботъ вашихъ не приемлю.</rdg><rdg wit="#shakh">мѣсяць вашихъ, и суботъ вашихъ не приемлю.</rdg><rdg wit="#likh">мѣсяць ваших, суботъ вашихъ не приемлю”.</rdg></rdgGrp></app></p></div></body></text></TEI>

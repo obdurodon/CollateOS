@@ -1,97 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>159, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="159"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="159,18">пощениемь</w>
-<w n="159,18">и</w>
-<w n="159,18">молитвою</w>
-<w n="159,18">и</w>
-<w n="159,18">бъдѣниемь.</w>
-<w n="159,18">Антонии</w>
-<w n="159,18">бо</w>
-<w n="159,18">не</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="159,18">пощенье<lb/>мь</w>
-<w n="159,18">млт҃вою</w>
-<w n="159,18">бдѣньемь.</w>
-<w n="159,18">анто<lb/>нии</w>
-<w n="159,18">бо</w>
-<w n="159,18">не</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="159,18">пощениемъ.</w>
-<w n="159,18">и</w>
-<w n="159,18">млт҃вою.</w>
-<w n="159,18">и</w>
-<w n="159,18">бдѣние<hi rend="sup">м</hi>.</w>
-<w n="159,18">антониї <lb/></w>
-
-<w n="159,18">не</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="159,18">пощенї<lb/>емь</w>
-<w n="159,18">и</w>
-<w n="159,18">мл҃твою.</w>
-<w n="159,18">и</w>
-<w n="159,18">бдѣньемь.</w>
-<w n="159,18">антонїи</w>
-<w n="159,18">не</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="159,18">пощениемь.</w>
-<w n="159,18">и</w>
-<w n="159,18">мл҃твою.</w>
-<w n="159,18">и</w>
-<w n="159,18">бдѣниемь.</w>
-<w n="159,18">антонии</w>
-<w n="159,18">бо <lb/></w>
-
-<w n="159,18">не <pb n="59d"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="159,18">мл҃твою,</w>
-<w n="159,18">и <lb/></w>
-
-<w n="159,18">пощенїемь</w>
-<w n="159,18">и</w>
-<w n="159,18">бденїе<hi rend="sup">м</hi>.</w>
-<w n="159,18">антонїи</w>
-<w n="159,18">бѡ</w>
-<w n="159,18">не</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="159,18">пощеньемь,</w>
-<w n="159,18">молитвою,</w>
-<w n="159,18">бдѣньемь;</w>
-<w n="159,18">Антоний</w>
-<w n="159,18">бо</w>
-<w n="159,18">не</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="159,18">пощениемь</w>
-<w n="159,18">и</w>
-<w n="159,18">молитвою</w>
-<w n="159,18">и</w>
-<w n="159,18">бъдѣниемь;</w>
-<w n="159,18">Антонии</w>
-<w n="159,18">бо</w>
-<w n="159,18">не</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="159,18">пощеньемь,</w>
-<w n="159,18">молитвою,</w>
-<w n="159,18">бдѣньемь.</w>
-<w n="159,18">Антоний</w>
-<w n="159,18">бо</w>
-<w n="159,18">не</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>159, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="159"/><div type="block" n="18"><p><app><lem wit="#lem">
+            пощениемь и молитвою и бъдѣниемь. Антонии бо не
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">пощенье<lb/>мь млт҃вою бдѣньемь. анто<lb/>нии бо не</rdg>
+            <rdg wit="#rad">пощениемъ. и млт҃вою. и бдѣние<hi rend="sup">м</hi>. антониї <lb/> не</rdg>
+            <rdg wit="#aka">пощенї<lb/>емь и мл҃твою. и бдѣньемь. антонїи не</rdg>
+            <rdg wit="#ipa">пощениемь. и мл҃твою. и бдѣниемь. антонии бо <lb/> не
+                <pb n="59d"/></rdg>
+            <rdg wit="#xle">мл҃твою, и <lb/> пощенїемь и бденїе<hi rend="sup">м</hi>. антонїи бѡ не</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">пощеньемь, молитвою, бдѣньемь; Антоний бо не</rdg><rdg wit="#shakh">пощениемь и молитвою и бъдѣниемь; Антонии бо не</rdg><rdg wit="#likh">пощеньемь, молитвою, бдѣньемь. Антоний бо не</rdg></rdgGrp></app></p></div></body></text></TEI>

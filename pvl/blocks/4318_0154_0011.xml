@@ -1,82 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>154, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="154"/><div type="block" n="11"><p>
-<app>
-<lem wit="#lem">
-<w n="154,11">вои</w>
-<w n="154,11">Володимири</w>
-<w n="154,11">вывьржени</w>
-<w n="154,11">быша</w>
-<w n="154,11">на</w>
-<w n="154,11">брегъ,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="154,11">вои</w>
-<w n="154,11">володимери</w>
-<w n="154,11">вверже<lb/>ни</w>
-<w n="154,11">быша</w>
-<w n="154,11">на</w>
-<w n="154,11">брегъ.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="154,11">вои</w>
-<w n="154,11">володимири.</w>
-<w n="154,11">вы<lb/>вержени</w>
-<w n="154,11">быша</w>
-<w n="154,11">на</w>
-<w n="154,11">берегъ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="154,11">вои</w>
-<w n="154,11">володими<lb/>ри.</w>
-<w n="154,11">выверженї</w>
-<w n="154,11">быша</w>
-<w n="154,11">на</w>
-<w n="154,11">брегъ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="154,11">вои</w>
-<w n="154,11">володимѣрѣ.</w>
-<w n="154,11">выве<lb/>ржени</w>
-<w n="154,11">быша</w>
-<w n="154,11">брегъ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="154,11">вои</w>
-<w n="154,11">вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>меровы.</w>
-<w n="154,11">выверже<lb/>ни</w>
-<w n="154,11">быша</w>
-<w n="154,11">на</w>
-<w n="154,11">брегь.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="154,11">вои</w>
-<w n="154,11">Володимери</w>
-<w n="154,11">вывержени</w>
-<w n="154,11">быша</w>
-<w n="154,11">на</w>
-<w n="154,11">брегъ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="154,11">вои</w>
-<w n="154,11">Володимери</w>
-<w n="154,11">вывьржени</w>
-<w n="154,11">быша</w>
-<w n="154,11">на</w>
-<w n="154,11">брегъ,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="154,11">вои</w>
-<w n="154,11">Володимери</w>
-<w n="154,11">вывержени</w>
-<w n="154,11">быша</w>
-<w n="154,11">на</w>
-<w n="154,11">брегъ,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>154, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="154"/><div type="block" n="11"><p><app><lem wit="#lem">
+            вои Володимири вывьржени быша на брегъ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">вои володимери вверже<lb/>ни быша на брегъ.</rdg>
+            <rdg wit="#rad">вои володимири. вы<lb/>вержени быша на берегъ.</rdg>
+            <rdg wit="#aka">вои володими<lb/>ри. выверженї быша на брегъ.</rdg>
+            <rdg wit="#ipa">вои володимѣрѣ. выве<lb/>ржени быша брегъ.</rdg>
+            <rdg wit="#xle">вои вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>меровы. выверже<lb/>ни быша на брегь.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">вои Володимери вывержени быша на брегъ,</rdg><rdg wit="#shakh">вои Володимери вывьржени быша на брегъ,</rdg><rdg wit="#likh">вои Володимери вывержени быша на брегъ,</rdg></rdgGrp></app></p></div></body></text></TEI>

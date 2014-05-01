@@ -1,88 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>218, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="218"/><div type="block" n="11"><p>
-<app>
-<lem wit="#lem">
-<w n="218,11">сътвори</w>
-<w n="218,11">съ</w>
-<w n="218,11">пришьдъшими</w>
-<w n="218,11">съ</w>
-<w n="218,11">нимъ,</w>
-<w n="218,11">изъимавъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="218,11">створи</w>
-<w n="218,11">с</w>
-<w n="218,11">пришедши<lb/>ми</w>
-<w n="218,11">с</w>
-<w n="218,11">нимъ·</w>
-<w n="218,11">изъимавъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="218,11">сотвори·</w>
-<w n="218,11">со</w>
-<w n="218,11">прише<hi rend="sup">д</hi>шими</w>
-<w n="218,11">с</w>
-<w n="218,11">ни<lb/>ми·</w>
-<w n="218,11">и</w>
-<w n="218,11">поима</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="218,11">сотвори</w>
-<w n="218,11">со</w>
-<w n="218,11">прише<hi rend="sup">д</hi>шими <lb/></w>
-
-<w n="218,11">с</w>
-<w n="218,11">нимъ·</w>
-<w n="218,11">и</w>
-<w n="218,11">поима</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="218,11">ство<lb/>ри</w>
-<w n="218,11">с</w>
-<w n="218,11">пришедшими</w>
-<w n="218,11">с</w>
-<w n="218,11">нимь·</w>
-<w n="218,11">їзо<lb/>їмавъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="218,11">сътвори</w>
-<w n="218,11">съ</w>
-<w n="218,11">прише<hi rend="sup">д</hi>ш<hi rend="sup">м</hi>и<hi rend="sup">и</hi></w>
-<w n="218,11">с</w>
-<w n="218,11">ни<hi rend="sup">м</hi>.</w>
-<w n="218,11">изымавь</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="218,11">створи</w>
-<w n="218,11">с</w>
-<w n="218,11">пришедшими</w>
-<w n="218,11">с</w>
-<w n="218,11">нимъ,</w>
-<w n="218,11">и</w>
-<w n="218,11">изъимавъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="218,11">сътворь</w>
-<w n="218,11">съ</w>
-<w n="218,11">пришьдъшими</w>
-<w n="218,11">съ</w>
-<w n="218,11">нимъ,</w>
-<w n="218,11">изъимавъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="218,11">створи</w>
-<w n="218,11">с</w>
-<w n="218,11">пришедшими</w>
-<w n="218,11">с</w>
-<w n="218,11">нимъ,</w>
-<w n="218,11">и</w>
-<w n="218,11">изъимавъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>218, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="218"/><div type="block" n="11"><p><app><lem wit="#lem">
+            сътвори съ пришьдъшими съ нимъ, изъимавъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">створи с пришедши<lb/>ми с нимъ· изъимавъ</rdg>
+            <rdg wit="#rad">сотвори· со прише<hi rend="sup">д</hi>шими с ни<lb/>ми· и поима</rdg>
+            <rdg wit="#aka">сотвори со прише<hi rend="sup">д</hi>шими <lb/> с нимъ· и поима</rdg>
+            <rdg wit="#ipa">ство<lb/>ри с пришедшими с нимь· їзо<lb/>їмавъ</rdg>
+            <rdg wit="#xle">сътвори съ прише<hi rend="sup">д</hi>ш<hi rend="sup">м</hi>и<hi rend="sup">и</hi> с ни<hi rend="sup">м</hi>.
+                изымавь</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">створи с пришедшими с нимъ, и изъимавъ</rdg><rdg wit="#shakh">сътворь съ пришьдъшими съ нимъ, изъимавъ</rdg><rdg wit="#likh">створи с пришедшими с нимъ, и изъимавъ</rdg></rdgGrp></app></p></div></body></text></TEI>

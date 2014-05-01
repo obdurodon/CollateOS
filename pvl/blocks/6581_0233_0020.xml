@@ -1,88 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>233, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="233"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="233,20">пророку,</w>
-<w n="233,20">глаголемъ:</w>
-<w n="233,20">“Боже</w>
-<w n="233,20">мои!</w>
-<w n="233,20">положи</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="233,20">прр҃ку</w>
-<w n="233,20">дв҃ду <lb/></w>
-
-<w n="233,20">вопьемъ·</w>
-<w n="233,20">г<hi rend="sup">с</hi>и</w>
-<w n="233,20">б҃е</w>
-<w n="233,20">мои·</w>
-<w n="233,20">положи</w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="233,20">прр<hi rend="sup">о</hi>коу</w>
-<w n="233,20">гл҃мъ</w>
-<w n="233,20">бж҃е</w>
-<w n="233,20">мои</w>
-<w n="233,20">положи <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="233,20">прр҃кѹ</w>
-<w n="233,20">гл҃емь·</w>
-<w n="233,20">бж҃е</w>
-<w n="233,20">мои</w>
-<w n="233,20">положи</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="233,20">прр<hi rend="sup">о</hi>ку <lb/></w>
-
-<w n="233,20">гле҃мъ·</w>
-<w n="233,20">б҃е</w>
-<w n="233,20">мои</w>
-<w n="233,20">положи <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="233,20">пр<hi rend="sup">о</hi>ркоу</w>
-<w n="233,20">гл҃емъ, <lb/></w>
-
-<w n="233,20">бж҃е</w>
-<w n="233,20">мои</w>
-<w n="233,20">положи</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="233,20">пророку</w>
-<w n="233,20">Давыду,</w>
-<w n="233,20">вопьемъ:</w>
-<w n="233,20">Господи</w>
-<w n="233,20">Боже</w>
-<w n="233,20">мой!</w>
-<w n="233,20">положи</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="233,20">пророку</w>
-<w n="233,20">Давыду,</w>
-<w n="233,20">въпиемъ:</w>
-<w n="233,20">“Господи</w>
-<w n="233,20">Боже</w>
-<w n="233,20">мои,</w>
-<w n="233,20">положи</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="233,20">пророку</w>
-<w n="233,20">Давыду,</w>
-<w n="233,20">вопьемъ:</w>
-<w n="233,20">“Господи</w>
-<w n="233,20">боже</w>
-<w n="233,20">мой!</w>
-<w n="233,20">положи</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>233, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="233"/><div type="block" n="20"><p><app><lem wit="#lem">
+            пророку, глаголемъ: “Боже мои! положи
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">прр҃ку дв҃ду <lb/> вопьемъ· г<hi rend="sup">с</hi>и б҃е мои· положи </rdg>
+            <rdg wit="#rad">прр<hi rend="sup">о</hi>коу гл҃мъ бж҃е мои положи <lb/></rdg>
+            <rdg wit="#aka">прр҃кѹ гл҃емь· бж҃е мои положи</rdg>
+            <rdg wit="#ipa">прр<hi rend="sup">о</hi>ку <lb/> гле҃мъ· б҃е мои положи <lb/></rdg>
+            <rdg wit="#xle">пр<hi rend="sup">о</hi>ркоу гл҃емъ, <lb/> бж҃е мои положи</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">пророку Давыду, вопьемъ: Господи Боже мой! положи</rdg><rdg wit="#shakh">пророку Давыду, въпиемъ: “Господи Боже мои, положи</rdg><rdg wit="#likh">пророку Давыду, вопьемъ: “Господи боже мой! положи</rdg></rdgGrp></app></p></div></body></text></TEI>

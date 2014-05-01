@@ -1,87 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>33, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="33"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="33,21">любъви,</w>
-<w n="33,21">главы</w>
-<w n="33,21">таковыя.</w>
-<w n="33,21">По</w>
-<w n="33,21">пьрвому</w>
-<w n="33,21">убо</w>
-<w n="33,21">слову,</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="33,21">любви.</w>
-<w n="33,21">главы</w>
-<w n="33,21">таковыа.</w>
-<w n="33,21">по</w>
-<w n="33,21">пе<lb/>рвомѹ</w>
-<w n="33,21">оубо</w>
-<w n="33,21">словоу.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="33,21">любви.</w>
-<w n="33,21">главы <lb/></w>
-
-<w n="33,21">таковыа.</w>
-<w n="33,21">по</w>
-<w n="33,21">первомѹ</w>
-<w n="33,21">оубо</w>
-<w n="33,21">словѹ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="33,21">любви.</w>
-<w n="33,21">главы <lb/></w>
-
-<w n="33,21">таковыꙗ</w>
-<w n="33,21">по</w>
-<w n="33,21">пѣрвому</w>
-<w n="33,21">слов<hi rend="sup">у</hi>. <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="33,21">любви.</w>
-<w n="33,21">гла<lb/>вы</w>
-<w n="33,21">таковыа</w>
-<w n="33,21">по</w>
-<w n="33,21">пръвомоу</w>
-<w n="33,21">бо</w>
-<w n="33,21">словоу.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="33,21">любви,</w>
-<w n="33,21">главы</w>
-<w n="33,21">таковыа:</w>
-<w n="33,21">по</w>
-<w n="33,21">первому</w>
-<w n="33,21">убо</w>
-<w n="33,21">слову</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="33,21">любъви,</w>
-<w n="33,21">главы</w>
-<w n="33,21">таковыя.</w>
-<w n="33,21">По</w>
-<w n="33,21">пьрвому</w>
-<w n="33,21">убо</w>
-<w n="33,21">слову,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="33,21">любви,</w>
-<w n="33,21">главы</w>
-<w n="33,21">таковыа:</w>
-<w n="33,21">по</w>
-<w n="33,21">первому</w>
-<w n="33,21">убо</w>
-<w n="33,21">слову</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>33, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="33"/><div type="block" n="21"><p><app><lem wit="#lem">
+            любъви, главы таковыя. По пьрвому убо слову,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">любви. главы таковыа. по пе<lb/>рвомѹ оубо словоу.</rdg>
+            <rdg wit="#aka">любви. главы <lb/> таковыа. по первомѹ оубо словѹ.</rdg>
+            <rdg wit="#ipa">любви. главы <lb/> таковыꙗ по пѣрвому слов<hi rend="sup">у</hi>. <lb/></rdg>
+            <rdg wit="#xle">любви. гла<lb/>вы таковыа по пръвомоу бо словоу.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">любви, главы таковыа: по первому убо слову</rdg><rdg wit="#shakh">любъви, главы таковыя. По пьрвому убо слову,</rdg><rdg wit="#likh">любви, главы таковыа: по первому убо слову</rdg></rdgGrp></app></p></div></body></text></TEI>

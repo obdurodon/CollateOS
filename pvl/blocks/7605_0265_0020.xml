@@ -1,86 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>265, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="265"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="265,20">любо</w>
-<w n="265,20">Вьсеволожь,</w>
-<w n="265,20">любо</w>
-<w n="265,20">Шеполь,</w>
-<w n="265,20">любо</w>
-<w n="265,20">Перемиль”.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="265,20">любо <lb/></w>
-
-<w n="265,20">всеволожь·</w>
-<w n="265,20">любо</w>
-<w n="265,20">ш<hi rend="sup">е</hi>поль·</w>
-<w n="265,20">любо</w>
-<w n="265,20">пе<lb/>ремиль·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="265,20">любо</w>
-<w n="265,20">всеволо<hi rend="sup">ж</hi>·</w>
-<w n="265,20">любо</w>
-<w n="265,20">шеполь·</w>
-<w n="265,20">любо</w>
-<w n="265,20">перемиль·</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="265,20">любо</w>
-<w n="265,20">все·̏воложь</w>
-<w n="265,20">любо</w>
-<w n="265,20">шеполь·</w>
-<w n="265,20">любо</w>
-<w n="265,20">пе<lb/>ремиль·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="265,20">любо <lb/></w>
-
-<w n="265,20">всеволожь</w>
-<w n="265,20">любо</w>
-<w n="265,20">шеполь·</w>
-<w n="265,20">лю<lb/>бо</w>
-<w n="265,20">перемиль·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="265,20">любо</w>
-<w n="265,20">всеволѡ<hi rend="sup">ж</hi>.</w>
-<w n="265,20">любѡ <lb/></w>
-
-<w n="265,20">шеполь.</w>
-<w n="265,20">любо</w>
-<w n="265,20">перемиль.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="265,20">любо</w>
-<w n="265,20">Всеволожь,</w>
-<w n="265,20">любо</w>
-<w n="265,20">Шеполь,</w>
-<w n="265,20">любо</w>
-<w n="265,20">Перемиль”.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="265,20">любо</w>
-<w n="265,20">Вьсеволожь,</w>
-<w n="265,20">любо</w>
-<w n="265,20">Шеполь,</w>
-<w n="265,20">любо</w>
-<w n="265,20">Перемиль”.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="265,20">любо</w>
-<w n="265,20">Всеволожь,</w>
-<w n="265,20">любо</w>
-<w n="265,20">Шеполь,</w>
-<w n="265,20">любо</w>
-<w n="265,20">Перемиль”.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>265, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="265"/><div type="block" n="20"><p><app><lem wit="#lem">
+            любо Вьсеволожь, любо Шеполь, любо Перемиль”.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">любо <lb/> всеволожь· любо ш<hi rend="sup">е</hi>поль· любо пе<lb/>ремиль·</rdg>
+            <rdg wit="#rad">любо всеволо<hi rend="sup">ж</hi>· любо шеполь· любо перемиль·</rdg>
+            <rdg wit="#aka">любо все·̏воложь любо шеполь· любо пе<lb/>ремиль·</rdg>
+            <rdg wit="#ipa">любо <lb/> всеволожь любо шеполь· лю<lb/>бо перемиль·</rdg>
+            <rdg wit="#xle">любо всеволѡ<hi rend="sup">ж</hi>. любѡ <lb/> шеполь. любо перемиль.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">любо Всеволожь, любо Шеполь, любо Перемиль”.</rdg><rdg wit="#shakh">любо Вьсеволожь, любо Шеполь, любо Перемиль”.</rdg><rdg wit="#likh">любо Всеволожь, любо Шеполь, любо Перемиль”.</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,86 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>267, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="267"/><div type="block" n="12"><p>
-<app>
-<lem wit="#lem">
-<w n="267,12">сътворили</w>
-<w n="267,12">тоже.</w>
-<w n="267,12">Неволя</w>
-<w n="267,12">ми</w>
-<w n="267,12">было</w>
-<w n="267,12">пристати</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="267,12">створили</w>
-<w n="267,12">такоже</w>
-<w n="267,12">неволѧ</w>
-<w n="267,12">ми</w>
-<w n="267,12">бы<lb/>ло</w>
-<w n="267,12">пристати</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="267,12">сотворили</w>
-<w n="267,12">бы</w>
-<w n="267,12">ми</w>
-<w n="267,12">тоже·</w>
-<w n="267,12">не<lb/>волѧ</w>
-<w n="267,12">ми</w>
-<w n="267,12">пристати</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="267,12">сътворили</w>
-<w n="267,12">бы</w>
-<w n="267,12">ми</w>
-<w n="267,12">тоже·</w>
-<w n="267,12">не<lb/>волѧ</w>
-<w n="267,12">ми</w>
-<w n="267,12">пристати</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="267,12">створили</w>
-<w n="267,12">тоже·</w>
-<w n="267,12">не<lb/>волѧ</w>
-<w n="267,12">ми</w>
-<w n="267,12">было</w>
-<w n="267,12">пристати</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="267,12">сътворили</w>
-<w n="267,12">тоже;</w>
-<w n="267,12">не<lb/>волѧ</w>
-<w n="267,12">ми</w>
-<w n="267,12">было</w>
-<w n="267,12">пристати</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="267,12">створили</w>
-<w n="267,12">такоже;</w>
-<w n="267,12">неволя</w>
-<w n="267,12">ми</w>
-<w n="267,12">было</w>
-<w n="267,12">пристати</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="267,12">сътворили</w>
-<w n="267,12">такоже;</w>
-<w n="267,12">неволя</w>
-<w n="267,12">ми</w>
-<w n="267,12">было</w>
-<w n="267,12">пристати</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="267,12">створили</w>
-<w n="267,12">тако</w>
-<w n="267,12">же.</w>
-<w n="267,12">Неволя</w>
-<w n="267,12">ми</w>
-<w n="267,12">было</w>
-<w n="267,12">пристати</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>267, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="267"/><div type="block" n="12"><p><app><lem wit="#lem">
+            сътворили тоже. Неволя ми было пристати
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">створили такоже неволѧ ми бы<lb/>ло пристати</rdg>
+            <rdg wit="#rad">сотворили бы ми тоже· не<lb/>волѧ ми пристати</rdg>
+            <rdg wit="#aka">сътворили бы ми тоже· не<lb/>волѧ ми пристати</rdg>
+            <rdg wit="#ipa">створили тоже· не<lb/>волѧ ми было пристати</rdg>
+            <rdg wit="#xle">сътворили тоже; не<lb/>волѧ ми было пристати</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">створили такоже; неволя ми было пристати</rdg><rdg wit="#shakh">сътворили такоже; неволя ми было пристати</rdg><rdg wit="#likh">створили тако же. Неволя ми было пристати</rdg></rdgGrp></app></p></div></body></text></TEI>

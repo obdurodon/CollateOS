@@ -1,76 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>278, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="278"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="278,18">посълаша</w>
-<w n="278,18">сторожѣ</w>
-<w n="278,18">свои.</w>
-<w n="278,18">И</w>
-<w n="278,18">устерегоша</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="278,18">послаша</w>
-<w n="278,18">сторожѣ</w>
-<w n="278,18">своѣ·</w>
-<w n="278,18">и <lb/></w>
-
-<w n="278,18">оустерегоша</w>
-<w n="278,18">рускиѣ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="278,18">посла<lb/>ша</w>
-<w n="278,18">сторожы</w>
-<w n="278,18">свои.</w>
-<w n="278,18">и</w>
-<w n="278,18">оустерегоша</w>
-<w n="278,18">роустии</w>
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="278,18">послаша</w>
-<w n="278,18">сторожѣ</w>
-<w n="278,18">свои· <lb/></w>
-
-<w n="278,18">и</w>
-<w n="278,18">въстерегоша</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="278,18">послаша</w>
-<w n="278,18">сторожи</w>
-<w n="278,18">свои.</w>
-<w n="278,18">и</w>
-<w n="278,18">оустерегоша,</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="278,18">послаша</w>
-<w n="278,18">сторожѣ</w>
-<w n="278,18">своѣ.</w>
-<w n="278,18">И</w>
-<w n="278,18">устерегоша</w>
-<w n="278,18">Рускиѣ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="278,18">посълаша</w>
-<w n="278,18">сторожѣ</w>
-<w n="278,18">своѣ.</w>
-<w n="278,18">И</w>
-<w n="278,18">устерегоша</w>
-<w n="278,18">Русьстии</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="278,18">послаша</w>
-<w n="278,18">сторожѣ</w>
-<w n="278,18">своѣ.</w>
-<w n="278,18">И</w>
-<w n="278,18">устерегоша</w>
-<w n="278,18">рускиѣ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>278, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="278"/><div type="block" n="18"><p><app><lem wit="#lem">
+            посълаша сторожѣ свои. И устерегоша
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">послаша сторожѣ своѣ· и <lb/> оустерегоша рускиѣ</rdg>
+            <rdg wit="#rad">посла<lb/>ша сторожы свои. и оустерегоша роустии</rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">послаша сторожѣ свои· <lb/> и въстерегоша</rdg>
+            <rdg wit="#xle">послаша сторожи свои. и оустерегоша,</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">послаша сторожѣ своѣ. И устерегоша Рускиѣ</rdg><rdg wit="#shakh">посълаша сторожѣ своѣ. И устерегоша Русьстии</rdg><rdg wit="#likh">послаша сторожѣ своѣ. И устерегоша рускиѣ</rdg></rdgGrp></app></p></div></body></text></TEI>

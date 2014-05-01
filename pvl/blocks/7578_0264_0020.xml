@@ -1,96 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>264, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="264"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="264,20">акы</w>
-<w n="264,20">мати</w>
-<w n="264,20">дѣти</w>
-<w n="264,20">своя.</w>
-<w n="264,20">Аще</w>
-<w n="264,20">кого</w>
-<w n="264,20">видить</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="264,20">акы</w>
-<w n="264,20">мт҃и</w>
-<w n="264,20">дѣти</w>
-<w n="264,20">своꙗ· <lb/></w>
-
-<w n="264,20">аще</w>
-<w n="264,20">кого</w>
-<w n="264,20">видѧше</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="264,20">аки</w>
-<w n="264,20">мт҃и</w>
-<w n="264,20">дѣти</w>
-<w n="264,20">своа</w>
-<w n="264,20">аще</w>
-<w n="264,20">ко<hi rend="sup">г</hi><lb/></w>
-<w n="264,20">види<hi rend="sup">т</hi>.</w>
-<w n="264,20">ко<hi rend="sup">г</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="264,20">аки <lb/></w>
-
-<w n="264,20">мт҃и</w>
-<w n="264,20">дѣти</w>
-<w n="264,20">своѧ·</w>
-<w n="264,20">аще</w>
-<w n="264,20">кого</w>
-<w n="264,20">видить</w>
-<w n="264,20">кого</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="264,20">акы</w>
-<w n="264,20">мт҃и</w>
-<w n="264,20">дѣти</w>
-<w n="264,20">сво<lb/>ꙗ·</w>
-<w n="264,20">аще</w>
-<w n="264,20">кого</w>
-<w n="264,20">видить</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="264,20">акы</w>
-<w n="264,20">мт҃и</w>
-<w n="264,20">дѣти</w>
-<w n="264,20">своѧ.</w>
-<w n="264,20">аще</w>
-<w n="264,20">кого</w>
-<w n="264,20">види<hi rend="sup">т</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="264,20">акы</w>
-<w n="264,20">мати</w>
-<w n="264,20">дѣти</w>
-<w n="264,20">своя;</w>
-<w n="264,20">аще</w>
-<w n="264,20">кого</w>
-<w n="264,20">видяше</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="264,20">акы</w>
-<w n="264,20">мати</w>
-<w n="264,20">дѣти</w>
-<w n="264,20">своя;</w>
-<w n="264,20">аще</w>
-<w n="264,20">кого</w>
-<w n="264,20">видить</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="264,20">акы</w>
-<w n="264,20">мати</w>
-<w n="264,20">дѣти</w>
-<w n="264,20">своя.</w>
-<w n="264,20">Аще</w>
-<w n="264,20">кого</w>
-<w n="264,20">видяше</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>264, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="264"/><div type="block" n="20"><p><app><lem wit="#lem">
+            акы мати дѣти своя. Аще кого видить
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">акы мт҃и дѣти своꙗ· <lb/> аще кого видѧше</rdg>
+            <rdg wit="#rad">аки мт҃и дѣти своа аще ко<hi rend="sup">г</hi>
+                <lb/> види<hi rend="sup">т</hi>. ко<hi rend="sup">г</hi></rdg>
+            <rdg wit="#aka">аки <lb/> мт҃и дѣти своѧ· аще кого видить кого</rdg>
+            <rdg wit="#ipa">акы мт҃и дѣти сво<lb/>ꙗ· аще кого видить</rdg>
+            <rdg wit="#xle">акы мт҃и дѣти своѧ. аще кого види<hi rend="sup">т</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">акы мати дѣти своя; аще кого видяше</rdg><rdg wit="#shakh">акы мати дѣти своя; аще кого видить</rdg><rdg wit="#likh">акы мати дѣти своя. Аще кого видяше</rdg></rdgGrp></app></p></div></body></text></TEI>

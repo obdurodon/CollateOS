@@ -1,93 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>12, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="12"/><div type="block" n="17"><p>
-<app>
-<lem wit="#lem">
-<w n="12,17">и</w>
-<w n="12,17">нарекоша</w>
-<w n="12,17">ся</w>
-<w n="12,17">Древляне;</w>
-<w n="12,17">Радимичи</w>
-<w n="12,17">бо</w>
-<w n="12,17">и</w>
-<w n="12,17">Вятичи</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="12,17">и</w>
-<w n="12,17">нареко<lb/>шасѧ</w>
-<w n="12,17">древлѧне.</w>
-<w n="12,17">радимичи</w>
-<w n="12,17">бо</w>
-<w n="12,17">и</w>
-<w n="12,17">вѧтичи</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="12,17">нарекошася</w>
-<w n="12,17">радимичи</w>
-<w n="12,17">же</w>
-<w n="12,17">и</w>
-<w n="12,17">вятичи</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="12,17">нарекоша<hi rend="sup">с</hi></w>
-<w n="12,17">деревлѧне.</w>
-<w n="12,17">радимичи</w>
-<w n="12,17">бо</w>
-<w n="12,17">и</w>
-<w n="12,17">вѧтичи <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="12,17">нареко<lb/>ша<hi rend="sup">с</hi></w>
-<w n="12,17">деревлѧне.</w>
-<w n="12,17">радимичи</w>
-<w n="12,17">бо</w>
-<w n="12,17">и</w>
-<w n="12,17">вѧтичи</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="12,17">и</w>
-<w n="12,17">на<lb/>рекошасѧ</w>
-<w n="12,17">древлѧне.</w>
-<w n="12,17">ради<lb/>мичи</w>
-<w n="12,17">бо</w>
-<w n="12,17">и</w>
-<w n="12,17">вѧтичи</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="12,17">и</w>
-<w n="12,17">нарекошася</w>
-<w n="12,17">Древляне;</w>
-<w n="12,17">Радимичи</w>
-<w n="12,17">бо</w>
-<w n="12,17">и</w>
-<w n="12,17">Вятичи</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="12,17">и</w>
-<w n="12,17">нарекошася</w>
-<w n="12,17">Древляне;</w>
-<w n="12,17">Радимичи</w>
-<w n="12,17">же</w>
-<w n="12,17">и</w>
-<w n="12,17">Вятичи</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="12,17">и</w>
-<w n="12,17">нарекошася</w>
-<w n="12,17">древляне;</w>
-<w n="12,17">радимичи</w>
-<w n="12,17">бо</w>
-<w n="12,17">и</w>
-<w n="12,17">вятичи</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>12, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="12"/><div type="block" n="17"><p><app><lem wit="#lem">
+            и нарекоша ся Древляне; Радимичи бо и Вятичи
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и нареко<lb/>шасѧ древлѧне. радимичи бо и вѧтичи</rdg>
+            <rdg wit="#tro">нарекошася радимичи же и вятичи</rdg>
+            <rdg wit="#rad">нарекоша<hi rend="sup">с</hi> деревлѧне. радимичи бо и вѧтичи <lb/></rdg>
+            <rdg wit="#aka">нареко<lb/>ша<hi rend="sup">с</hi> деревлѧне. радимичи бо и вѧтичи</rdg>
+            <rdg wit="#ipa">и на<lb/>рекошасѧ древлѧне. ради<lb/>мичи бо и вѧтичи</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и нарекошася Древляне; Радимичи бо и Вятичи</rdg><rdg wit="#shakh">и нарекошася Древляне; Радимичи же и Вятичи</rdg><rdg wit="#likh">и нарекошася древляне; радимичи бо и вятичи</rdg></rdgGrp></app></p></div></body></text></TEI>

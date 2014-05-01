@@ -1,91 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>229, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="229"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="229,23">къ</w>
-<w n="229,23">полунощьнымъ</w>
-<w n="229,23">странамъ,</w>
-<w n="229,23">ядуще</w>
-<w n="229,23">траву</w>
-<w n="229,23">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="229,23">к</w>
-<w n="229,23">полунощнымъ</w>
-<w n="229,23">странамъ· <lb/></w>
-
-<w n="229,23">ꙗдуща</w>
-<w n="229,23">траву</w>
-<w n="229,23">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="229,23">к</w>
-<w n="229,23">полоунощны<hi rend="sup">м</hi></w>
-<w n="229,23">странамъ·</w>
-<w n="229,23">ꙗкоже <lb/></w>
-
-<w n="229,23">дивити<hi rend="sup">с</hi></w>
-<w n="229,23">ꙗдѹща</w>
-<w n="229,23">травѹ·</w>
-<w n="229,23">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="229,23">к</w>
-<w n="229,23">полѹнощны·̏мъ</w>
-<w n="229,23">странамъ·</w>
-<w n="229,23">ꙗко</w>
-<w n="229,23">же</w>
-<w n="229,23">дивитисѧ</w>
-<w n="229,23">ꙗдѹще</w>
-<w n="229,23">травѹ</w>
-<w n="229,23">и <pb n="121v"/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="229,23">к</w>
-<w n="229,23">по<lb/>лунощнымъ</w>
-<w n="229,23">странахъ·</w>
-<w n="229,23">ꙗду<lb/>ще</w>
-<w n="229,23">тра<milestone unit="sic" n="start"/>в<milestone unit="sic" n="end"/>у</w>
-<w n="229,23">или</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="229,23">к</w>
-<w n="229,23">полоунощны<hi rend="sup">м</hi></w>
-<w n="229,23">страна<hi rend="sup">м</hi>.</w>
-<w n="229,23">ядоуще</w>
-<w n="229,23">трау<hi rend="sup">в</hi></w>
-<w n="229,23">или</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="229,23">к</w>
-<w n="229,23">полунощнымъ</w>
-<w n="229,23">странамъ,</w>
-<w n="229,23">ядуще</w>
-<w n="229,23">траву</w>
-<w n="229,23">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="229,23">къ</w>
-<w n="229,23">полунощьнымъ</w>
-<w n="229,23">странамъ,</w>
-<w n="229,23">ядуще</w>
-<w n="229,23">траву</w>
-<w n="229,23">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="229,23">к</w>
-<w n="229,23">полунощнымъ</w>
-<w n="229,23">странамъ,</w>
-<w n="229,23">ядуще</w>
-<w n="229,23">траву</w>
-<w n="229,23">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>229, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="229"/><div type="block" n="23"><p><app><lem wit="#lem">
+            къ полунощьнымъ странамъ, ядуще траву и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">к полунощнымъ странамъ· <lb/> ꙗдуща траву и</rdg>
+            <rdg wit="#rad">к полоунощны<hi rend="sup">м</hi> странамъ· ꙗкоже <lb/> дивити<hi rend="sup">с</hi> ꙗдѹща травѹ·
+                и</rdg>
+            <rdg wit="#aka">к полѹнощны·̏мъ странамъ· ꙗко же  дивитисѧ ꙗдѹще травѹ и
+                    <pb n="121v"/></rdg>
+            <rdg wit="#ipa">к по<lb/>лунощнымъ странахъ· ꙗду<lb/>ще тра<sic>в</sic>у или</rdg>
+            <rdg wit="#xle">к полоунощны<hi rend="sup">м</hi> страна<hi rend="sup">м</hi>. ꙗдоуще трау<hi rend="sup">в</hi> или</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">к полунощнымъ странамъ, ядуще траву и</rdg><rdg wit="#shakh">къ полунощьнымъ странамъ, ядуще траву и</rdg><rdg wit="#likh">к полунощнымъ странамъ, ядуще траву и</rdg></rdgGrp></app></p></div></body></text></TEI>

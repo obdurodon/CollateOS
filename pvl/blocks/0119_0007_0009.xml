@@ -1,97 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>7, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="7"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="7,9">томуже</w>
-<w n="7,9">морю</w>
-<w n="7,9">къ</w>
-<w n="7,9">Цьсарюграду,</w>
-<w n="7,9">и</w>
-<w n="7,9">отъ</w>
-<w n="7,9">Цьсаряграда</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="7,9">томуже</w>
-<w n="7,9">морю</w>
-<w n="7,9">ко</w>
-<w n="7,9">цр҃югороду</w>
-<w n="7,9">а</w>
-<w n="7,9">ѿ <lb/></w>
-
-<w n="7,9">цр҃ѧгорода</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="7,9">томо<hi rend="sup">ж</hi></w>
-<w n="7,9">морю</w>
-<w n="7,9">ко</w>
-<w n="7,9">цр҃юградоу</w>
-<w n="7,9">ѿ</w>
-<w n="7,9">цр҃ѧгра<hi rend="sup">д</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="7,9">томѹже</w>
-<w n="7,9">морю</w>
-<w n="7,9">ко</w>
-<w n="7,9">цр҃юградѹ</w>
-<w n="7,9">ѿ</w>
-<w n="7,9">цр҃ѧ<lb/>города</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="7,9">томуже <lb/></w>
-
-<w n="7,9">морю.</w>
-<w n="7,9">къ</w>
-<w n="7,9">цр<hi rend="sup">с</hi>юграду.</w>
-<w n="7,9">и</w>
-<w n="7,9">ѿ</w>
-<w n="7,9">ца<lb/>рѧгра<hi rend="sup">д</hi></w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="7,9">томоуже</w>
-<w n="7,9">морю</w>
-<w n="7,9">къ</w>
-<w n="7,9">царигра<hi rend="sup">д</hi>у</w>
-<w n="7,9">и</w>
-<w n="7,9">ѿ</w>
-<w n="7,9">цр҃ѧграда <pb n="4r"/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="7,9">томуже</w>
-<w n="7,9">морю</w>
-<w n="7,9">ко</w>
-<w n="7,9">Царюгороду,</w>
-<w n="7,9">а</w>
-<w n="7,9">отъ</w>
-<w n="7,9">Царягорода</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="7,9">томуже</w>
-<w n="7,9">морю</w>
-<w n="7,9">къ</w>
-<w n="7,9">Цѣсарюграду,</w>
-<w n="7,9">а</w>
-<w n="7,9">отъ</w>
-<w n="7,9">Цѣсаряграда</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="7,9">тому</w>
-<w n="7,9">же</w>
-<w n="7,9">морю</w>
-<w n="7,9">ко</w>
-<w n="7,9">Царюгороду,</w>
-<w n="7,9">а</w>
-<w n="7,9">от</w>
-<w n="7,9">Царягорода</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>7, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="7"/><div type="block" n="9"><p><app><lem wit="#lem">
+            томуже морю къ Цьсарюграду, и отъ Цьсаряграда
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">томуже морю ко цр҃югороду а ѿ <lb/> цр҃ѧгорода</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">томо<hi rend="sup">ж</hi> морю ко цр҃юградоу ѿ цр҃ѧгра<hi rend="sup">д</hi></rdg>
+            <rdg wit="#aka">томѹже морю ко цр҃юградѹ ѿ цр҃ѧ<lb/>города</rdg>
+            <rdg wit="#ipa">томуже <lb/> морю. къ цр<hi rend="sup">с</hi>юграду. и ѿ ца<lb/>рѧгра<hi rend="sup">д</hi></rdg>
+            <rdg wit="#xle">томоуже морю къ царигра<hi rend="sup">д</hi>у и ѿ цр҃ѧграда <pb n="4r"/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">томуже морю ко Царюгороду, а отъ Царягорода</rdg><rdg wit="#shakh">томуже морю къ Цѣсарюграду, а отъ Цѣсаряграда</rdg><rdg wit="#likh">тому же морю ко Царюгороду, а от Царягорода</rdg></rdgGrp></app></p></div></body></text></TEI>

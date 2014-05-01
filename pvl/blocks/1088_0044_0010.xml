@@ -1,87 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>44, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="44"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-<w n="44,10">страну</w>
-<w n="44,10">Никомидиискую</w>
-<w n="44,10">поплѣнивша,</w>
-<w n="44,10">и</w>
-<w n="44,10">Судъ</w>
-<w n="44,10">вьсь</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="44,10">страну</w>
-<w n="44,10">никомидиискую. <lb/></w>
-
-<w n="44,10">поплѣнивше</w>
-<w n="44,10">и</w>
-<w n="44,10">судъ</w>
-<w n="44,10">весь</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="44,10">странѹ</w>
-<w n="44,10">никоми<hi rend="sup">д</hi>скѹю</w>
-<w n="44,10">попленивше.</w>
-<w n="44,10">и <lb/></w>
-
-<w n="44,10">соу<hi rend="sup">д</hi></w>
-<w n="44,10">ве<hi rend="sup">с</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="44,10">стра<lb/>нѹ</w>
-<w n="44,10">никомодїискѹю</w>
-<w n="44,10">попленивше.</w>
-<w n="44,10">и</w>
-<w n="44,10">сѹ<hi rend="sup">д</hi></w>
-<w n="44,10">весь</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="44,10">страну</w>
-<w n="44,10">никомидииск<hi rend="sup">у</hi><lb/>ю</w>
-<w n="44,10">пополониша.</w>
-<w n="44,10">и</w>
-<w n="44,10">судъ</w>
-<w n="44,10">всь <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="44,10">страноу</w>
-<w n="44,10">никомидїискоую <lb/></w>
-
-<w n="44,10">пополониша.</w>
-<w n="44,10">и</w>
-<w n="44,10">сѫ<hi rend="sup">д</hi></w>
-<w n="44,10">весь</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="44,10">страну</w>
-<w n="44,10">Никомидийскую</w>
-<w n="44,10">поплѣнивше,</w>
-<w n="44,10">и</w>
-<w n="44,10">Судъ</w>
-<w n="44,10">весь</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="44,10">страну</w>
-<w n="44,10">Никомидиискую</w>
-<w n="44,10">поплѣнивъше,</w>
-<w n="44,10">и</w>
-<w n="44,10">Судъ</w>
-<w n="44,10">вьсь</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="44,10">страну</w>
-<w n="44,10">Никомидийскую</w>
-<w n="44,10">поплѣнивше,</w>
-<w n="44,10">и</w>
-<w n="44,10">Судъ</w>
-<w n="44,10">весь</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>44, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="44"/><div type="block" n="10"><p><app><lem wit="#lem">
+            страну Никомидиискую поплѣнивша, и Судъ вьсь
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">страну никомидиискую. <lb/> поплѣнивше и судъ весь</rdg>
+            <rdg wit="#rad">странѹ никоми<hi rend="sup">д</hi>скѹю попленивше. и <lb/> соу<hi rend="sup">д</hi>
+                ве<hi rend="sup">с</hi></rdg>
+            <rdg wit="#aka">стра<lb/>нѹ никомодїискѹю попленивше. и сѹ<hi rend="sup">д</hi> весь</rdg>
+            <rdg wit="#ipa">страну никомидииск<hi rend="sup">у</hi><lb/>ю пополониша. и судъ всь <lb/></rdg>
+            <rdg wit="#xle">страноу никомидїискоую <lb/> пополониша. и сѫ<hi rend="sup">д</hi> весь</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">страну Никомидийскую поплѣнивше, и Судъ весь</rdg><rdg wit="#shakh">страну Никомидиискую поплѣнивъше, и Судъ вьсь</rdg><rdg wit="#likh">страну Никомидийскую поплѣнивше, и Судъ весь</rdg></rdgGrp></app></p></div></body></text></TEI>

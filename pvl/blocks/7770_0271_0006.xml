@@ -1,99 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="271"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-<w n="271,6">раздѣли</w>
-<w n="271,6">я</w>
-<w n="271,6">на 3</w>
-
-<w n="271,6">пълкы,</w>
-<w n="271,6">и</w>
-<w n="271,6">поиде</w>
-<w n="271,6">къ</w>
-<w n="271,6">Угъромъ.</w>
-<w n="271,6">И</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="271,6">раздѣли</w>
-<w n="271,6">на</w>
-<w n="271,6">·г҃·</w>
-<w n="271,6">полкы· <lb/></w>
-
-<w n="271,6">и</w>
-<w n="271,6">поиде</w>
-<w n="271,6">къ</w>
-<w n="271,6">ѹгро<hi rend="sup">м</hi>·</w>
-<w n="271,6">и</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="271,6">разлѣ<lb/>ли</w>
-<w n="271,6">на</w>
-<w n="271,6">·г҃·</w>
-<w n="271,6">полкы·</w>
-<w n="271,6">и</w>
-<w n="271,6">поиде</w>
-<w n="271,6">ко <lb/></w>
-
-<w n="271,6">оугромъ·</w>
-<w n="271,6">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="271,6">раздѣли</w>
-<w n="271,6">на</w>
-<w n="271,6">три·̏</w>
-<w n="271,6">полкы.</w>
-<w n="271,6">и</w>
-<w n="271,6">поиде</w>
-<w n="271,6">къ <lb/></w>
-
-<w n="271,6">оугро<hi rend="sup">м</hi>,</w>
-<w n="271,6">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="271,6">раздѣли</w>
-<w n="271,6">я</w>
-<w n="271,6">на 3</w>
-
-<w n="271,6">полкы,</w>
-<w n="271,6">и</w>
-<w n="271,6">поиде</w>
-<w n="271,6">къ</w>
-<w n="271,6">Угромъ;</w>
-<w n="271,6">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="271,6">раздѣли</w>
-<w n="271,6">я</w>
-<w n="271,6">на 3</w>
-
-<w n="271,6">пълкы;</w>
-<w n="271,6">и</w>
-<w n="271,6">поиде</w>
-<w n="271,6">къ</w>
-<w n="271,6">Угъромъ;</w>
-<w n="271,6">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="271,6">раздѣли</w>
-<w n="271,6">я</w>
-<w n="271,6">на 3</w>
-
-<w n="271,6">полкы,</w>
-<w n="271,6">и</w>
-<w n="271,6">поиде</w>
-<w n="271,6">къ</w>
-<w n="271,6">угром.</w>
-<w n="271,6">И</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="271"/><div type="block" n="6"><p><app><lem wit="#lem">
+            раздѣли я на 3 пълкы, и поиде къ Угъромъ. И
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">раздѣли на ·г҃· полкы· <lb/> и поиде къ ѹгро<hi rend="sup">м</hi>· и</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">разлѣ<lb/>ли на ·г҃· полкы· и поиде ко <lb/> оугромъ· и</rdg>
+            <rdg wit="#xle">раздѣли на три·̏ полкы. и поиде къ <lb/> оугро<hi rend="sup">м</hi>, и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">раздѣли я на 3 полкы, и поиде къ Угромъ; и</rdg><rdg wit="#shakh">раздѣли я на 3 пълкы; и поиде къ Угъромъ; и</rdg><rdg wit="#likh">раздѣли я на 3 полкы, и поиде къ угром. И</rdg></rdgGrp></app></p></div></body></text></TEI>

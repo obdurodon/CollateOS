@@ -1,110 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>175, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="175"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="175,3">насмисають</w>
-<w n="175,3">ся,</w>
-<w n="175,3"><choice><seg>въвьргъше</seg><seg>въринуша</seg></choice></w>
-<w n="175,3">и</w>
-<w n="175,3">въ</w>
-<w n="175,3">пропасть</w>
-<w n="175,3">съмьртьную,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="175,3">насмисаютсѧ</w>
-<w n="175,3">вве<lb/>ргъше</w>
-<w n="175,3">и</w>
-<w n="175,3">в</w>
-<w n="175,3">пропасть</w>
-<w n="175,3">смр҃тную. <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="175,3">смеютсѧ</w>
-<w n="175,3">въвергше</w>
-<w n="175,3">в</w>
-<w n="175,3">пропасть.</w>
-<w n="175,3">смр҃тнѹю. <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="175,3">смеютьсѧ</w>
-<w n="175,3">въвергъше <lb/></w>
-
-<w n="175,3">во</w>
-<w n="175,3">пропасть</w>
-<w n="175,3">смрт҃нѹю.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="175,3">насми<milestone unit="sic" n="start"/>с<milestone unit="sic" n="end"/>ающисѧ.</w>
-<w n="175,3">вринуша</w>
-<w n="175,3">и <lb/></w>
-
-<w n="175,3">в</w>
-<w n="175,3">пропасть.</w>
-<w n="175,3">смр҃тьную</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="175,3">насмѣхающесѧ</w>
-<w n="175,3">въ<lb/>риноуша</w>
-<w n="175,3">и</w>
-<w n="175,3">въ</w>
-<w n="175,3">пропасть</w>
-<w n="175,3">смр҃тнѫѫ.</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="175,3">насмихаютсꙗ</w>
-<w n="175,3">вринувше</w>
-<w n="175,3">въ</w>
-<w n="175,3">пропасть</w>
-<w n="175,3">смертьную</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="175,3">насмиютьсꙗ</w>
-<w n="175,3">вринувше</w>
-<w n="175,3">въ</w>
-<w n="175,3">пропасть</w>
-<w n="175,3">смертъную</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="175,3">насмѣютсꙗ</w>
-<w n="175,3">вринувше</w>
-<w n="175,3">въ</w>
-<w n="175,3">пропасть</w>
-<w n="175,3">смертьную</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="175,3">насмисаются,</w>
-<w n="175,3">ввергъше</w>
-<w n="175,3">и</w>
-<w n="175,3">в</w>
-<w n="175,3">пропасть</w>
-<w n="175,3">смертную,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="175,3">насмисаються,</w>
-<w n="175,3">въвьргъше</w>
-<w n="175,3">и</w>
-<w n="175,3">въ</w>
-<w n="175,3">пропасть</w>
-<w n="175,3">съмьртьную,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="175,3">насмисаются</w>
-<w n="175,3">ввергъше</w>
-<w n="175,3">и</w>
-<w n="175,3">в</w>
-<w n="175,3">пропасть</w>
-<w n="175,3">смертную,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>175, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="175"/><div type="block" n="3"><p><app><lem wit="#lem">
+            насмисають ся, <choice>
+                    <seg>въвьргъше</seg>
+                    <seg>въринуша</seg>
+                </choice> и въ пропасть съмьртьную,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">насмисаютсѧ вве<lb/>ргъше и в пропасть смр҃тную. <lb/></rdg>
+            <rdg wit="#rad">смеютсѧ въвергше в пропасть. смр҃тнѹю. <lb/></rdg>
+            <rdg wit="#aka">смеютьсѧ въвергъше <lb/> во пропасть смрт҃нѹю.</rdg>
+            <rdg wit="#ipa">насми<sic>с</sic>ающисѧ. вринуша и <lb/> в пропасть. смр҃тьную</rdg>
+            <rdg wit="#xle">насмѣхающесѧ въ<lb/>риноуша и въ пропасть смр҃тнѫѫ.</rdg>
+            <rdg wit="#kom">насмихаютсꙗ вринувше въ пропасть смертьную</rdg>
+            <rdg wit="#nak">насмиютьсꙗ вринувше въ пропасть смертъную</rdg>
+            <rdg wit="#tol">насмѣютсꙗ вринувше въ пропасть смертьную</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">насмисаются, ввергъше и в пропасть смертную,</rdg><rdg wit="#shakh">насмисаються, въвьргъше и въ пропасть съмьртьную,</rdg><rdg wit="#likh">насмисаются ввергъше и в пропасть смертную,</rdg></rdgGrp></app></p></div></body></text></TEI>

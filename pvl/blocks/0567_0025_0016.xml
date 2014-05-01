@@ -1,95 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>25, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="25"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="25,16">воевати</w>
-<w n="25,16">на</w>
-<w n="25,16">живущая</w>
-<w n="25,16">ту.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="25,16"><milestone unit="sic" n="start"/>воевати</w>
-<w n="25,16">на</w>
-<w n="25,16">жиоущаꙗ</w>
-<w n="25,16">ту.</w>
-<w n="25,16">волхі <lb/></w>
-
-<w n="25,16">и</w>
-<w n="25,16">словѣни.<milestone unit="sic" n="end"/></w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="25,16">воевати</w>
-<w n="25,16">на</w>
-<w n="25,16">живущая</w>
-<w n="25,16">ту</w>
-<w n="25,16">волохы</w>
-<w n="25,16">и</w>
-<w n="25,16">словѣни</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="25,16">воевати</w>
-<w n="25,16">на</w>
-<w n="25,16">живоущаꙗ</w>
-<w n="25,16">тоу.</w>
-<w n="25,16">волохы</w>
-<w n="25,16">и</w>
-<w n="25,16">словены. <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="25,16">воевати</w>
-<w n="25,16">на</w>
-<w n="25,16">живѹщаа</w>
-<w n="25,16">тѹ.</w>
-<w n="25,16">воло<lb/>хы</w>
-<w n="25,16">и</w>
-<w n="25,16">словѣны.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="25,16">воевати</w>
-<w n="25,16">на</w>
-<w n="25,16">ж<hi rend="sup">и</hi><lb/>вущаꙗ</w>
-<w n="25,16">ту.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="25,16">воевати</w>
-<w n="25,16">на</w>
-<w n="25,16">живоущаа</w>
-<w n="25,16">тоу.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="25,16">воевати</w>
-<w n="25,16">на</w>
-<w n="25,16">живущая</w>
-<w n="25,16">ту</w>
-<w n="25,16">Волохи</w>
-<w n="25,16">и</w>
-<w n="25,16">Словѣни.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="25,16">воевати</w>
-<w n="25,16">на</w>
-<w n="25,16">живущая</w>
-<w n="25,16">ту</w>
-<w n="25,16">Волохы</w>
-<w n="25,16">и</w>
-<w n="25,16">Словѣни.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="25,16">воевати</w>
-<w n="25,16">на</w>
-<w n="25,16">живущая</w>
-<w n="25,16">ту</w>
-<w n="25,16">волохи</w>
-<w n="25,16">и</w>
-<w n="25,16">словѣни.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>25, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="25"/><div type="block" n="16"><p><app><lem wit="#lem">
+            воевати на живущая ту.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <sic>воевати на жиоущаꙗ ту. волхі <lb/> и словѣни.</sic>
+            </rdg>
+            <rdg wit="#tro">воевати на живущая ту волохы и словѣни</rdg>
+            <rdg wit="#rad">воевати на живоущаꙗ тоу. волохы и словены. <lb/></rdg>
+            <rdg wit="#aka">воевати на живѹщаа тѹ. воло<lb/>хы и словѣны.</rdg>
+            <rdg wit="#ipa">воевати на ж<hi rend="sup">и</hi><lb/>вущаꙗ ту.</rdg>
+            <rdg wit="#xle">воевати на живоущаа тоу.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">воевати на живущая ту Волохи и Словѣни.</rdg><rdg wit="#shakh">воевати на живущая ту Волохы и Словѣни.</rdg><rdg wit="#likh">воевати на живущая ту волохи и словѣни.</rdg></rdgGrp></app></p></div></body></text></TEI>

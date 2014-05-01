@@ -1,96 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>6, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="6"/><div type="block" n="14"><p>
-<app>
-<lem wit="#lem">
-<w n="6,14">зане</w>
-<w n="6,14">сѣдоша</w>
-<w n="6,14">въ</w>
-<w n="6,14">лѣсѣхъ;</w>
-<w n="6,14">а</w>
-<w n="6,14">друзии</w>
-<w n="6,14">сѣдоша</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="6,14">зане</w>
-<w n="6,14">сѣдо<lb/>ша</w>
-<w n="6,14">в</w>
-<w n="6,14">лѣсѣ<hi rend="sup">х</hi>.</w>
-<w n="6,14">а</w>
-<w n="6,14">друзии</w>
-<w n="6,14">сѣдоша</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="6,14">зане</w>
-<w n="6,14">седоша <lb/></w>
-
-<w n="6,14">в</w>
-<w n="6,14">лесѣ<hi rend="sup">х</hi></w>
-<w n="6,14">а</w>
-<w n="6,14">дроузїи</w>
-<w n="6,14">седоша</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="6,14">зане</w>
-<w n="6,14">седоша</w>
-<w n="6,14">в</w>
-<w n="6,14">лесѣхъ.</w>
-<w n="6,14">а</w>
-<w n="6,14">дрѹ<lb/>зїи</w>
-<w n="6,14">седоша</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="6,14">за<lb/>не</w>
-<w n="6,14">сѣдоша</w>
-<w n="6,14">в</w>
-<w n="6,14">лѣсѣхъ.</w>
-<w n="6,14">а</w>
-<w n="6,14">дру<lb/>зии</w>
-<w n="6,14">сѣдоша</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="6,14">зане</w>
-<w n="6,14">сѣдоша</w>
-<w n="6,14">в</w>
-<w n="6,14">лѣсе<hi rend="sup">х</hi>.</w>
-<w n="6,14">а</w>
-<w n="6,14">дроуѕїи</w>
-<w n="6,14">сѣдоша</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="6,14">зане</w>
-<w n="6,14">сѣдоша</w>
-<w n="6,14">в</w>
-<w n="6,14">лѣсѣхъ;</w>
-<w n="6,14">а</w>
-<w n="6,14">друзии</w>
-<w n="6,14">сѣдоша</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="6,14">зане</w>
-<w n="6,14">сѣдоша</w>
-<w n="6,14">въ</w>
-<w n="6,14">лѣсѣхъ;</w>
-<w n="6,14">а</w>
-<w n="6,14">друзии</w>
-<w n="6,14">сѣдоша</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="6,14">зане</w>
-<w n="6,14">сѣдоша</w>
-<w n="6,14">в</w>
-<w n="6,14">лѣсѣх;</w>
-<w n="6,14">а</w>
-<w n="6,14">друзии</w>
-<w n="6,14">сѣдоша</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>6, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="6"/><div type="block" n="14"><p><app><lem wit="#lem">
+            зане сѣдоша въ лѣсѣхъ; а друзии сѣдоша
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">зане сѣдо<lb/>ша в лѣсѣ<hi rend="sup">х</hi>. а друзии сѣдоша</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">зане седоша <lb/> в лесѣ<hi rend="sup">х</hi> а дроузїи седоша</rdg>
+            <rdg wit="#aka">зане седоша в лесѣхъ. а дрѹ<lb/>зїи седоша</rdg>
+            <rdg wit="#ipa">за<lb/>не сѣдоша в лѣсѣхъ. а дру<lb/>зии сѣдоша</rdg>
+            <rdg wit="#xle">зане сѣдоша в лѣсе<hi rend="sup">х</hi>. а дроуѕїи сѣдоша</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">зане сѣдоша в лѣсѣхъ; а друзии сѣдоша</rdg><rdg wit="#shakh">зане сѣдоша въ лѣсѣхъ; а друзии сѣдоша</rdg><rdg wit="#likh">зане сѣдоша в лѣсѣх; а друзии сѣдоша</rdg></rdgGrp></app></p></div></body></text></TEI>

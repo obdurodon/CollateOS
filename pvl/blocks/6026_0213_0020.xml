@@ -1,84 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>213, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="213"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="213,20">надежею</w>
-<w n="213,20">и</w>
-<w n="213,20">вѣчьныхъ</w>
-<w n="213,20">благъ</w>
-<w n="213,20">приимъ,</w>
-<w n="213,20">умертвивъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="213,20">надежею</w>
-<w n="213,20">вѣчны<lb/>хъ</w>
-<w n="213,20">бл҃гъ</w>
-<w n="213,20">приимъ·</w>
-<w n="213,20">оумертвивъ <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="213,20">надежею.</w>
-<w n="213,20">и</w>
-<w n="213,20">вечны<hi rend="sup">х</hi></w>
-<w n="213,20">бг҃ъ</w>
-<w n="213,20">приимъ·</w>
-<w n="213,20">оумертвивъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="213,20">надежею·</w>
-<w n="213,20">и</w>
-<w n="213,20">вечны<hi rend="sup">х</hi></w>
-<w n="213,20">блг҃ъ</w>
-<w n="213,20">прїемь·</w>
-<w n="213,20">оумрт҃вивъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="213,20">надежею·</w>
-<w n="213,20">ї</w>
-<w n="213,20">вѣчны<hi rend="sup">х</hi><lb/></w>
-<w n="213,20">блг҃ъ</w>
-<w n="213,20">приемъ·</w>
-<w n="213,20">оумрт҃вивъ <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="213,20">надеж<hi rend="sup">д</hi>ею <lb/></w>
-
-<w n="213,20">вѣчны<hi rend="sup">х</hi></w>
-<w n="213,20">бл҃гь</w>
-<w n="213,20">и</w>
-<w n="213,20">прїемь.</w>
-<w n="213,20">и</w>
-<w n="213,20">оумрътвивъ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="213,20">надежею,</w>
-<w n="213,20">вѣчныхъ</w>
-<w n="213,20">благъ</w>
-<w n="213,20">приимъ,</w>
-<w n="213,20">умертвивъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="213,20">надежею</w>
-<w n="213,20">вѣчьныхъ</w>
-<w n="213,20">благъ,</w>
-<w n="213,20">умьртвивъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="213,20">надежею</w>
-<w n="213,20">вѣчныхъ</w>
-<w n="213,20">благъ,</w>
-<w n="213,20">их</w>
-<w n="213,20">же</w>
-<w n="213,20">приимъ,</w>
-<w n="213,20">умертвивъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>213, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="213"/><div type="block" n="20"><p><app><lem wit="#lem">
+            надежею и вѣчьныхъ благъ приимъ, умертвивъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">надежею вѣчны<lb/>хъ бл҃гъ приимъ· оумертвивъ <lb/></rdg>
+            <rdg wit="#rad">надежею. и вечны<hi rend="sup">х</hi> бг҃ъ приимъ· оумертвивъ</rdg>
+            <rdg wit="#aka">надежею· и вечны<hi rend="sup">х</hi> блг҃ъ прїемь· оумрт҃вивъ</rdg>
+            <rdg wit="#ipa">надежею· ї вѣчны<hi rend="sup">х</hi>
+                <lb/> блг҃ъ приемъ· оумрт҃вивъ <lb/></rdg>
+            <rdg wit="#xle">надеж<hi rend="sup">д</hi>ею <lb/> вѣчны<hi rend="sup">х</hi> бл҃гь и прїемь. и оумрътвивъ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">надежею, вѣчныхъ благъ приимъ, умертвивъ</rdg><rdg wit="#shakh">надежею вѣчьныхъ благъ, умьртвивъ</rdg><rdg wit="#likh">надежею вѣчныхъ благъ, их же приимъ, умертвивъ</rdg></rdgGrp></app></p></div></body></text></TEI>

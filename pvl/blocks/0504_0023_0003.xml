@@ -1,108 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>23, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="23"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="23,3">поиде</w>
-<w n="23,3">вънизъ,</w>
-<w n="23,3">и</w>
-<w n="23,3">възя</w>
-<w n="23,3">Любьчь,</w>
-<w n="23,3">и</w>
-<w n="23,3">посади</w>
-<w n="23,3">мужь</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="23,3">поиде</w>
-<w n="23,3">внизъ.</w>
-<w n="23,3">и</w>
-<w n="23,3">взѧ</w>
-<w n="23,3">любець.</w>
-<w n="23,3">и</w>
-<w n="23,3">посади</w>
-<w n="23,3">муж<hi rend="sup">ь</hi><lb/></w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="23,3">поиде</w>
-<w n="23,3">внизъ.</w>
-<w n="23,3">и</w>
-<w n="23,3">взѧ</w>
-<w n="23,3">любечь.</w>
-<w n="23,3">и</w>
-<w n="23,3">посади</w>
-<w n="23,3">моу<hi rend="sup">ж</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="23,3">поиде</w>
-<w n="23,3">внїзь.</w>
-<w n="23,3">и</w>
-<w n="23,3">взѧ</w>
-<w n="23,3">любечь</w>
-<w n="23,3">и</w>
-<w n="23,3">поса<lb/>ди</w>
-<w n="23,3">мѹжь</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="23,3">поиде</w>
-<w n="23,3">внизъ.</w>
-<w n="23,3">и <lb/></w>
-
-<w n="23,3">пришедъ</w>
-<w n="23,3">взѧ</w>
-<w n="23,3">любечь. <lb/></w>
-
-<w n="23,3">и</w>
-<w n="23,3">посади</w>
-<w n="23,3">мужь</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="23,3">поиде</w>
-<w n="23,3">внизь.</w>
-<w n="23,3">и</w>
-<w n="23,3">взѧ</w>
-<w n="23,3">любечь, <lb/></w>
-
-<w n="23,3">и</w>
-<w n="23,3">пос<hi rend="sup">д</hi>а<hi rend="sup">и</hi></w>
-<w n="23,3">мѫ<hi rend="sup">ж</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="23,3">поиде</w>
-<w n="23,3">внизъ,</w>
-<w n="23,3">и</w>
-<w n="23,3">взя</w>
-<w n="23,3">Любець,</w>
-<w n="23,3">и</w>
-<w n="23,3">посади</w>
-<w n="23,3">мужъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="23,3">поиде</w>
-<w n="23,3">вънизъ,</w>
-<w n="23,3">и</w>
-<w n="23,3">възя</w>
-<w n="23,3">Любьчь,</w>
-<w n="23,3">и</w>
-<w n="23,3">посади</w>
-<w n="23,3">мужь</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="23,3">поиде</w>
-<w n="23,3">внизъ,</w>
-<w n="23,3">и</w>
-<w n="23,3">взя</w>
-<w n="23,3">Любець,</w>
-<w n="23,3">и</w>
-<w n="23,3">посади</w>
-<w n="23,3">мужь</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>23, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="23"/><div type="block" n="3"><p><app><lem wit="#lem">
+            поиде вънизъ, и възя Любьчь, и посади мужь
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">поиде внизъ. и взѧ любець. и посади муж<hi rend="sup">ь</hi>
+                <lb/></rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">поиде внизъ. и взѧ любечь. и посади моу<hi rend="sup">ж</hi></rdg>
+            <rdg wit="#aka">поиде внїзь. и взѧ любечь и поса<lb/>ди мѹжь</rdg>
+            <rdg wit="#ipa">поиде внизъ. и <lb/> пришедъ взѧ любечь. <lb/> и посади мужь</rdg>
+            <rdg wit="#xle">поиде внизь. и взѧ любечь, <lb/> и пос<hi rend="sup">д</hi>а<hi rend="sup">и</hi>
+                мѫ<hi rend="sup">ж</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">поиде внизъ, и взя Любець, и посади мужъ</rdg><rdg wit="#shakh">поиде вънизъ, и възя Любьчь, и посади мужь</rdg><rdg wit="#likh">поиде внизъ, и взя Любець, и посади мужь</rdg></rdgGrp></app></p></div></body></text></TEI>

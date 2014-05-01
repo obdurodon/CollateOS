@@ -1,54 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>242, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="242"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="242,10">ꙗко</w>
-<w n="242,10">гь<hi rend="sup">с</hi></w>
-<w n="242,10">подъемлеть</w>
-<w n="242,10">руку</w>
-<w n="242,10">ѥго· <lb/></w>
-
-<w n="242,10">оунъ</w>
-<w n="242,10">бѣ<hi rend="sup">х</hi></w>
-<w n="242,10">и</w>
-<w n="242,10">сстарѣхсѧ·</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="242,10">яко</w>
-<w n="242,10">Господь</w>
-<w n="242,10">подъемлеть</w>
-<w n="242,10">руку</w>
-<w n="242,10">его.</w>
-<w n="242,10">Унъ</w>
-<w n="242,10">бѣхъ,</w>
-<w n="242,10">и</w>
-<w n="242,10">сстарѣхся,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="242,10">яко</w>
-<w n="242,10">господь</w>
-<w n="242,10">подъемлеть</w>
-<w n="242,10">руку</w>
-<w n="242,10">его.</w>
-<w n="242,10">Унъ</w>
-<w n="242,10">бѣх,</w>
-<w n="242,10">и</w>
-<w n="242,10">сстарѣхся,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>242, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="242"/><div type="block" n="10"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ꙗко гь<hi rend="sup">с</hi> подъемлеть руку ѥго· <lb/> оунъ бѣ<hi rend="sup">х</hi> и
+                сстарѣхсѧ·</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">яко Господь подъемлеть руку его. Унъ бѣхъ, и сстарѣхся,</rdg><rdg wit="#likh">яко господь подъемлеть руку его. Унъ бѣх, и сстарѣхся,</rdg></rdgGrp></app></p></div></body></text></TEI>

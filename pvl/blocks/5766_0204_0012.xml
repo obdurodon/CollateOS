@@ -1,49 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>204, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="204"/><div type="block" n="12"><p>
-<app>
-<lem wit="#lem">
-<w n="204,12">ему</w>
-<w n="204,12">Туровъ.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="204,12">ѥму</w>
-<w n="204,12">туровъ·:·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="204,12">емѹ</w>
-<w n="204,12">тѹровъ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="204,12">емѹ</w>
-<w n="204,12">тѹровъ:·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="204,12">ему</w>
-<w n="204,12">туровъ·:· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="204,12">емоу</w>
-<w n="204,12">тоуро<hi rend="sup">в</hi>. <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="204,12">ему</w>
-<w n="204,12">Туровъ.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="204,12">ему</w>
-<w n="204,12">Туровъ.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="204,12">ему</w>
-<w n="204,12">Туровъ.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>204, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="204"/><div type="block" n="12"><p><app><lem wit="#lem">
+            ему Туровъ.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѥму туровъ·:·</rdg>
+            <rdg wit="#rad">емѹ тѹровъ.</rdg>
+            <rdg wit="#aka">емѹ тѹровъ:·</rdg>
+            <rdg wit="#ipa">ему туровъ·:· <lb/></rdg>
+            <rdg wit="#xle">емоу тоуро<hi rend="sup">в</hi>. <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">ему Туровъ.</rdg><rdg wit="#shakh">ему Туровъ.</rdg><rdg wit="#likh">ему Туровъ.</rdg></rdgGrp></app></p></div></body></text></TEI>

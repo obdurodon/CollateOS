@@ -1,82 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>37, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="37"/><div type="block" n="8"><p>
-<app>
-<lem wit="#lem">
-<w n="37,8">Аще</w>
-<w n="37,8">зълодѣи</w>
-<w n="37,8">възратить</w>
-<w n="37,8">ся</w>
-<w n="37,8">въ</w>
-<w n="37,8">Русь,</w>
-<w n="37,8">да</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="37,8">аще</w>
-<w n="37,8">злодѣи</w>
-<w n="37,8">възратит<hi rend="sup">с</hi></w>
-<w n="37,8">в</w>
-<w n="37,8">роу<hi rend="sup">с</hi></w>
-<w n="37,8">да</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="37,8">аще</w>
-<w n="37,8">ѕло<lb/>дѣи</w>
-<w n="37,8">возратїть<hi rend="sup">с</hi></w>
-<w n="37,8">в</w>
-<w n="37,8">рѹ<hi rend="sup">с</hi>.</w>
-<w n="37,8">да</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="37,8">аще <lb/></w>
-
-<w n="37,8">злодѣи</w>
-<w n="37,8">възвратитсѧ <lb/></w>
-
-<w n="37,8">в</w>
-<w n="37,8">русь.</w>
-<w n="37,8">да</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="37,8">аще</w>
-<w n="37,8">ѕлѡдѣи</w>
-<w n="37,8">възвратитсѧ</w>
-<w n="37,8">в</w>
-<w n="37,8">роу<hi rend="sup">с</hi>.</w>
-<w n="37,8">да</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="37,8">Аще</w>
-<w n="37,8">злодѣй</w>
-<w n="37,8">не</w>
-<w n="37,8">възратиться</w>
-<w n="37,8">в</w>
-<w n="37,8">Русь,</w>
-<w n="37,8">да</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="37,8">Аще</w>
-<w n="37,8">зълодѣи</w>
-<w n="37,8">възратиться</w>
-<w n="37,8">въ</w>
-<w n="37,8">Русь,</w>
-<w n="37,8">да</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="37,8">Аще</w>
-<w n="37,8">злодѣй</w>
-<w n="37,8">не</w>
-<w n="37,8">възратиться</w>
-<w n="37,8">в</w>
-<w n="37,8">Русь,</w>
-<w n="37,8">да</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>37, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="37"/><div type="block" n="8"><p><app><lem wit="#lem">
+            Аще зълодѣи възратить ся въ Русь, да
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">аще злодѣи възратит<hi rend="sup">с</hi> в роу<hi rend="sup">с</hi> да</rdg>
+            <rdg wit="#aka">аще ѕло<lb/>дѣи возратїть<hi rend="sup">с</hi> в рѹ<hi rend="sup">с</hi>. да</rdg>
+            <rdg wit="#ipa">аще <lb/> злодѣи възвратитсѧ <lb/> в русь. да</rdg>
+            <rdg wit="#xle">аще ѕлѡдѣи възвратитсѧ в роу<hi rend="sup">с</hi>. да</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Аще злодѣй не възратиться в Русь, да</rdg><rdg wit="#shakh">Аще зълодѣи възратиться въ Русь, да</rdg><rdg wit="#likh">Аще злодѣй не възратиться в Русь, да</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,86 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>279, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="279"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="279,9">братия,</w>
-<w n="279,9">побѣдивъше</w>
-<w n="279,9">врагы</w>
-<w n="279,9">своя,</w>
-<w n="279,9">и</w>
-<w n="279,9">приведоша</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="279,9">бра<hi rend="sup">т</hi>ꙗ·</w>
-<w n="279,9">побѣдивше</w>
-<w n="279,9">врагы</w>
-<w n="279,9">своꙗ·</w>
-<w n="279,9">приведо<lb/>ша <pb n="94b"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="279,9">бра<hi rend="sup">т</hi>ꙗ</w>
-<w n="279,9">победивше <lb/></w>
-
-<w n="279,9">враги</w>
-<w n="279,9">своꙗ·</w>
-<w n="279,9">и</w>
-<w n="279,9">приве<hi rend="sup">д</hi>ша</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="279,9">братьѧ</w>
-<w n="279,9">победивше</w>
-<w n="279,9">врагы·̏</w>
-<w n="279,9">своѧ·</w>
-<w n="279,9">и</w>
-<w n="279,9">приве<lb/>доша</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="279,9">братьꙗ·</w>
-<w n="279,9">побѣдивше <lb/></w>
-
-<w n="279,9">в<milestone unit="sic" n="start"/>е<milestone unit="sic" n="end"/>р<milestone unit="sic" n="start"/>а<milestone unit="sic" n="end"/>ги</w>
-<w n="279,9">своꙗ·</w>
-<w n="279,9">и</w>
-<w n="279,9">приведоша</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="279,9">братїа.</w>
-<w n="279,9">поб<hi rend="sup">д</hi>ѣ<hi rend="sup">ї</hi>в′ше</w>
-<w n="279,9">вороги</w>
-<w n="279,9">своа.</w>
-<w n="279,9">и</w>
-<w n="279,9">прив<hi rend="sup">д</hi>е<hi rend="sup">о</hi>шѧ <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="279,9">братья,</w>
-<w n="279,9">побѣдивше</w>
-<w n="279,9">врагы</w>
-<w n="279,9">своя,</w>
-<w n="279,9">и</w>
-<w n="279,9">приведоша</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="279,9">братия,</w>
-<w n="279,9">побѣдивъше</w>
-<w n="279,9">врагы</w>
-<w n="279,9">своя,</w>
-<w n="279,9">и</w>
-<w n="279,9">приведоша</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="279,9">братья,</w>
-<w n="279,9">побѣдивше</w>
-<w n="279,9">врагы</w>
-<w n="279,9">своя,</w>
-<w n="279,9">и</w>
-<w n="279,9">приведоша</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>279, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="279"/><div type="block" n="9"><p><app><lem wit="#lem">
+            братия, побѣдивъше врагы своя, и приведоша
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">бра<hi rend="sup">т</hi>ꙗ· побѣдивше врагы своꙗ· приведо<lb/>ша
+                <pb n="94b"/></rdg>
+            <rdg wit="#rad">бра<hi rend="sup">т</hi>ꙗ победивше <lb/> враги своꙗ· и приве<hi rend="sup">д</hi>ша</rdg>
+            <rdg wit="#aka">братьѧ победивше врагы·̏ своѧ· и приве<lb/>доша</rdg>
+            <rdg wit="#ipa">братьꙗ· побѣдивше <lb/> в<sic>е</sic>р<sic>а</sic>ги своꙗ· и
+                приведоша</rdg>
+            <rdg wit="#xle">братїа. поб<hi rend="sup">д</hi>ѣ<hi rend="sup">ї</hi>в′ше вороги своа. и
+                    прив<hi rend="sup">д</hi>е<hi rend="sup">о</hi>шѧ <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">братья, побѣдивше врагы своя, и приведоша</rdg><rdg wit="#shakh">братия, побѣдивъше врагы своя, и приведоша</rdg><rdg wit="#likh">братья, побѣдивше врагы своя, и приведоша</rdg></rdgGrp></app></p></div></body></text></TEI>

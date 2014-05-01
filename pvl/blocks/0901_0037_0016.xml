@@ -1,70 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>37, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="37"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="37,16">и</w>
-<w n="37,16">своею</w>
-<w n="37,16">рукою,</w>
-<w n="37,16">предълежащимь</w>
-<w n="37,16">чьстьнымь</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="37,16">и</w>
-<w n="37,16">своею</w>
-<w n="37,16">роукою.</w>
-<w n="37,16">пре<hi rend="sup">д</hi>лежащи<hi rend="sup">м</hi></w>
-<w n="37,16">чн<hi rend="sup">с</hi>тнымъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="37,16">и</w>
-<w n="37,16">своею</w>
-<w n="37,16">рѹкою.</w>
-<w n="37,16">пре<hi rend="sup">д</hi>лежащимъ</w>
-<w n="37,16">ч<hi rend="sup">с</hi>тны<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="37,16">и</w>
-<w n="37,16">свое<lb/>ю</w>
-<w n="37,16">рукою.</w>
-<w n="37,16">предлежащимъ <lb/></w>
-
-<w n="37,16">ч<hi rend="sup">с</hi>тнымъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="37,16">и</w>
-<w n="37,16">своею</w>
-<w n="37,16">рѫкою,</w>
-<w n="37,16">пре<hi rend="sup">д</hi>лежащи<hi rend="sup">м</hi></w>
-<w n="37,16">ч<hi rend="sup">с</hi>тны<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="37,16">и</w>
-<w n="37,16">своею</w>
-<w n="37,16">рукою,</w>
-<w n="37,16">предлежащимъ</w>
-<w n="37,16">честнымъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="37,16">и</w>
-<w n="37,16">своею</w>
-<w n="37,16">рукою,</w>
-<w n="37,16">предълежащимь</w>
-<w n="37,16">чьстьнымь</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="37,16">и</w>
-<w n="37,16">своею</w>
-<w n="37,16">рукою,</w>
-<w n="37,16">предлежащим</w>
-<w n="37,16">честнымъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>37, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="37"/><div type="block" n="16"><p><app><lem wit="#lem">
+            и своею рукою, предълежащимь чьстьнымь
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">и своею роукою. пре<hi rend="sup">д</hi>лежащи<hi rend="sup">м</hi> чн<hi rend="sup">с</hi>тнымъ</rdg>
+            <rdg wit="#aka">и своею рѹкою. пре<hi rend="sup">д</hi>лежащимъ ч<hi rend="sup">с</hi>тны<hi rend="sup">м</hi></rdg>
+            <rdg wit="#ipa">и свое<lb/>ю рукою. предлежащимъ <lb/> ч<hi rend="sup">с</hi>тнымъ</rdg>
+            <rdg wit="#xle">и своею рѫкою, пре<hi rend="sup">д</hi>лежащи<hi rend="sup">м</hi> ч<hi rend="sup">с</hi>тны<hi rend="sup">м</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и своею рукою, предлежащимъ честнымъ</rdg><rdg wit="#shakh">и своею рукою, предълежащимь чьстьнымь</rdg><rdg wit="#likh">и своею рукою, предлежащим честнымъ</rdg></rdgGrp></app></p></div></body></text></TEI>

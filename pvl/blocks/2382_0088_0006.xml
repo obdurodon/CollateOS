@@ -1,94 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>88, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="88"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-<w n="88,6">сотона</w>
-<w n="88,6">же,</w>
-<w n="88,6">грѣшивъ</w>
-<w n="88,6">помысла</w>
-<w n="88,6">своего,</w>
-<w n="88,6">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="88,6">сотона</w>
-<w n="88,6">же</w>
-<w n="88,6">грѣшивъ</w>
-<w n="88,6">помысла</w>
-<w n="88,6">своего.</w>
-<w n="88,6">и <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="88,6">сотона<hi rend="sup">ж</hi></w>
-<w n="88,6">грешивъ</w>
-<w n="88,6">помысла</w>
-<w n="88,6">свое<hi rend="sup">г</hi>.</w>
-<w n="88,6">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="88,6">сотона</w>
-<w n="88,6">же</w>
-<w n="88,6">грешивь</w>
-<w n="88,6">помысла</w>
-<w n="88,6">своего. <lb/></w>
-
-<w n="88,6">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="88,6">с<milestone unit="sic" n="start"/>а<milestone unit="sic" n="end"/>т<milestone unit="sic" n="start"/>а<milestone unit="sic" n="end"/><lb/>на</w>
-<w n="88,6">же</w>
-<w n="88,6">грѣшивъ</w>
-<w n="88,6">помысла <lb/></w>
-
-<w n="88,6">своего.</w>
-<w n="88,6">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="88,6">сатана<hi rend="sup">ж</hi></w>
-<w n="88,6">грѣшивь</w>
-<w n="88,6">помысла <lb/></w>
-
-<w n="88,6">своего.</w>
-<w n="88,6">и</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="88,6">он</w>
-<w n="88,6">же</w>
-<w n="88,6">погрѣши</w>
-<w n="88,6">помысла</w>
-<w n="88,6">своего</w>
-<w n="88,6">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="88,6">сотона</w>
-<w n="88,6">же,</w>
-<w n="88,6">грѣшивъ</w>
-<w n="88,6">помысла</w>
-<w n="88,6">своего</w>
-<w n="88,6">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="88,6">сотона</w>
-<w n="88,6">же,</w>
-<w n="88,6">грѣшивъ</w>
-<w n="88,6">помысла</w>
-<w n="88,6">своего,</w>
-<w n="88,6">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="88,6">Сотона</w>
-<w n="88,6">же,</w>
-<w n="88,6">грѣшивъ</w>
-<w n="88,6">помысла</w>
-<w n="88,6">своего</w>
-<w n="88,6">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>88, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="88"/><div type="block" n="6"><p><app><lem wit="#lem">
+            сотона же, грѣшивъ помысла своего, и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">сотона же грѣшивъ помысла своего. и <lb/></rdg>
+            <rdg wit="#rad">сотона<hi rend="sup">ж</hi> грешивъ помысла свое<hi rend="sup">г</hi>. и</rdg>
+            <rdg wit="#aka">сотона же грешивь помысла своего. <lb/> и</rdg>
+            <rdg wit="#ipa">с<sic>а</sic>т<sic>а</sic><lb/>на же грѣшивъ помысла <lb/> своего.
+                и</rdg>
+            <rdg wit="#xle">сатана<hi rend="sup">ж</hi> грѣшивь помысла <lb/> своего. и</rdg>
+            <rdg wit="#kom">он же погрѣши помысла своего и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">сотона же, грѣшивъ помысла своего и</rdg><rdg wit="#shakh">сотона же, грѣшивъ помысла своего, и</rdg><rdg wit="#likh">Сотона же, грѣшивъ помысла своего и</rdg></rdgGrp></app></p></div></body></text></TEI>

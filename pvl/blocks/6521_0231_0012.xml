@@ -1,84 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>231, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="231"/><div type="block" n="12"><p>
-<app>
-<lem wit="#lem">
-<w n="231,12">затвориша</w>
-<w n="231,12">ся</w>
-<w n="231,12">въ</w>
-<w n="231,12">градѣ.</w>
-<w n="231,12">Святопълкъ</w>
-<w n="231,12">же</w>
-<w n="231,12">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="231,12">затворишасѧ</w>
-<w n="231,12">в</w>
-<w n="231,12">градѣ·</w>
-<w n="231,12">ст҃опо<lb/>лкъ</w>
-<w n="231,12">же</w>
-<w n="231,12">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="231,12">затворишасѧ</w>
-<w n="231,12">в</w>
-<w n="231,12">гр<hi rend="sup">д</hi>а·</w>
-<w n="231,12">ст҃ополкъ</w>
-<w n="231,12">же·</w>
-<w n="231,12">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="231,12">затворишасѧ</w>
-<w n="231,12">во</w>
-<w n="231,12">градѣ·</w>
-<w n="231,12">ст҃о<lb/>полкь</w>
-<w n="231,12">же</w>
-<w n="231,12">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="231,12">за<lb/>творишасѧ</w>
-<w n="231,12">в</w>
-<w n="231,12">городѣ·</w>
-<w n="231,12">ст҃о<lb/>полкъ</w>
-<w n="231,12">же</w>
-<w n="231,12">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="231,12">затвориша<hi rend="sup">с</hi><lb/></w>
-<w n="231,12">в</w>
-<w n="231,12">горѡдѣ.</w>
-<w n="231,12">ст҃ополкь</w>
-<w n="231,12">же</w>
-<w n="231,12">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="231,12">затворишася</w>
-<w n="231,12">в</w>
-<w n="231,12">градѣ.</w>
-<w n="231,12">Святополкъ</w>
-<w n="231,12">же</w>
-<w n="231,12">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="231,12">затворишася</w>
-<w n="231,12">въ</w>
-<w n="231,12">градѣ.</w>
-<w n="231,12">Святопълкъ</w>
-<w n="231,12">же</w>
-<w n="231,12">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="231,12">затворишася</w>
-<w n="231,12">в</w>
-<w n="231,12">градѣ.</w>
-<w n="231,12">Святополкъ</w>
-<w n="231,12">же</w>
-<w n="231,12">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>231, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="231"/><div type="block" n="12"><p><app><lem wit="#lem">
+            затвориша ся въ градѣ. Святопълкъ же и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">затворишасѧ в градѣ· ст҃опо<lb/>лкъ же и</rdg>
+            <rdg wit="#rad">затворишасѧ в гр<hi rend="sup">д</hi>а· ст҃ополкъ же· и</rdg>
+            <rdg wit="#aka">затворишасѧ во градѣ· ст҃о<lb/>полкь же и</rdg>
+            <rdg wit="#ipa">за<lb/>творишасѧ в городѣ· ст҃о<lb/>полкъ же и</rdg>
+            <rdg wit="#xle">затвориша<hi rend="sup">с</hi>
+                <lb/> в горѡдѣ. ст҃ополкь же и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">затворишася в градѣ. Святополкъ же и</rdg><rdg wit="#shakh">затворишася въ градѣ. Святопълкъ же и</rdg><rdg wit="#likh">затворишася в градѣ. Святополкъ же и</rdg></rdgGrp></app></p></div></body></text></TEI>

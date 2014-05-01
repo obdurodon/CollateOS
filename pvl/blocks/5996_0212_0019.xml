@@ -1,77 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>212, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="212"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-<w n="212,19">лѣто</w>
-<w n="212,19">престави</w>
-<w n="212,19">ся</w>
-<w n="212,19">Яневая,</w>
-<w n="212,19">именьмь</w>
-<w n="212,19">Мария,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="212,19">лѣ<lb/>то</w>
-<w n="212,19">престависѧ</w>
-<w n="212,19">ꙗневаꙗ·</w>
-<w n="212,19">име<lb/>немь</w>
-<w n="212,19">мр҃ьꙗ·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="212,19">лѣто. <lb/></w>
-
-<w n="212,19">престави<hi rend="sup">с</hi></w>
-<w n="212,19">ꙗноваꙗ.</w>
-<w n="212,19">имене<hi rend="sup">м</hi>ъ. <lb/></w>
-
-<w n="212,19">мр҃ьꙗ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="212,19">лѣто</w>
-<w n="212,19">престависѧ</w>
-<w n="212,19">ꙗне<lb/>ваꙗ·</w>
-<w n="212,19">именемь</w>
-<w n="212,19">мр҃иѧ·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="212,19">лѣ<hi rend="sup">т</hi>·</w>
-<w n="212,19">престависѧ</w>
-<w n="212,19">ꙗ<lb/>новаꙗ·</w>
-<w n="212,19">їменемь</w>
-<w n="212,19">мр҃ьꙗ·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="212,19">лѣто</w>
-<w n="212,19">престависѧ</w>
-<w n="212,19">яневаа,</w>
-<w n="212,19">имене<hi rend="sup">м</hi><lb/></w>
-<w n="212,19">марїа.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="212,19">лѣто</w>
-<w n="212,19">преставися</w>
-<w n="212,19">Яневая,</w>
-<w n="212,19">именемь</w>
-<w n="212,19">Марья,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="212,19">лѣто</w>
-<w n="212,19">преставися</w>
-<w n="212,19">Яневая,</w>
-<w n="212,19">именьмь</w>
-<w n="212,19">Мария,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="212,19">лѣто</w>
-<w n="212,19">преставися</w>
-<w n="212,19">Яневая,</w>
-<w n="212,19">именемь</w>
-<w n="212,19">Марья,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>212, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="212"/><div type="block" n="19"><p><app><lem wit="#lem">
+            лѣто престави ся Яневая, именьмь Мария,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">лѣ<lb/>то престависѧ ꙗневаꙗ· име<lb/>немь мр҃ьꙗ·</rdg>
+            <rdg wit="#rad">лѣто. <lb/> престави<hi rend="sup">с</hi> ꙗноваꙗ. имене<hi rend="sup">м</hi>ъ. <lb/> мр҃ьꙗ.</rdg>
+            <rdg wit="#aka">лѣто престависѧ ꙗне<lb/>ваꙗ· именемь мр҃иѧ·</rdg>
+            <rdg wit="#ipa">лѣ<hi rend="sup">т</hi>· престависѧ ꙗ<lb/>новаꙗ· їменемь мр҃ьꙗ·</rdg>
+            <rdg wit="#xle">лѣто престависѧ ꙗневаа, имене<hi rend="sup">м</hi>
+                <lb/> марїа.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">лѣто преставися Яневая, именемь Марья,</rdg><rdg wit="#shakh">лѣто преставися Яневая, именьмь Мария,</rdg><rdg wit="#likh">лѣто преставися Яневая, именемь Марья,</rdg></rdgGrp></app></p></div></body></text></TEI>

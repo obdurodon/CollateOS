@@ -1,84 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>219, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="219"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-<w n="219,19">на</w>
-<w n="219,19">съвѣтъ,</w>
-<w n="219,19">хотяче</w>
-<w n="219,19">поступити</w>
-<w n="219,19">чресъ</w>
-<w n="219,19">рѣку,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="219,19">на</w>
-<w n="219,19">свѣ<lb/>тъ·</w>
-<w n="219,19">хотѧче</w>
-<w n="219,19">поступити</w>
-<w n="219,19">чере<lb/>съ</w>
-<w n="219,19">рѣку·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="219,19">на</w>
-<w n="219,19">совѣтъ·</w>
-<w n="219,19">хотѧше <lb/></w>
-
-<w n="219,19">постоупити</w>
-<w n="219,19">чре<hi rend="sup">с</hi></w>
-<w n="219,19">рекѹ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="219,19">на</w>
-<w n="219,19">св<hi rend="sup">т</hi>ѣ·</w>
-<w n="219,19">хотѧче</w>
-<w n="219,19">пѹ<lb/>стити</w>
-<w n="219,19">чре<hi rend="sup">с</hi></w>
-<w n="219,19">рекѹ·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="219,19">на</w>
-<w n="219,19">свѣтъ·</w>
-<w n="219,19">хотѧче</w>
-<w n="219,19">по<lb/>ступити</w>
-<w n="219,19">чересъ</w>
-<w n="219,19">рѣку·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="219,19">на</w>
-<w n="219,19">съвѣтъ.</w>
-<w n="219,19">хотѧше</w>
-<w n="219,19">постѫп<hi rend="sup">т</hi>и<hi rend="sup">и</hi><lb/></w>
-<w n="219,19">чре<hi rend="sup">з</hi></w>
-<w n="219,19">рѣкоу.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="219,19">на</w>
-<w n="219,19">совѣтъ,</w>
-<w n="219,19">хотяче</w>
-<w n="219,19">поступити</w>
-<w n="219,19">чересъ</w>
-<w n="219,19">рѣку,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="219,19">на</w>
-<w n="219,19">съвѣтъ,</w>
-<w n="219,19">хотяще</w>
-<w n="219,19">поступити</w>
-<w n="219,19">чресъ</w>
-<w n="219,19">рѣку,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="219,19">на</w>
-<w n="219,19">совѣтъ,</w>
-<w n="219,19">хотяче</w>
-<w n="219,19">поступити</w>
-<w n="219,19">чересъ</w>
-<w n="219,19">рѣку,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>219, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="219"/><div type="block" n="19"><p><app><lem wit="#lem">
+            на съвѣтъ, хотяче поступити чресъ рѣку,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">на свѣ<lb/>тъ· хотѧче поступити чере<lb/>съ рѣку·</rdg>
+            <rdg wit="#rad">на совѣтъ· хотѧше <lb/> постоупити чре<hi rend="sup">с</hi> рекѹ</rdg>
+            <rdg wit="#aka">на св<hi rend="sup">т</hi>ѣ· хотѧче пѹ<lb/>стити чре<hi rend="sup">с</hi> рекѹ·</rdg>
+            <rdg wit="#ipa">на свѣтъ· хотѧче по<lb/>ступити чересъ рѣку·</rdg>
+            <rdg wit="#xle">на съвѣтъ. хотѧше постѫп<hi rend="sup">т</hi>и<hi rend="sup">и</hi>
+                <lb/> чре<hi rend="sup">з</hi> рѣкоу.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">на совѣтъ, хотяче поступити чересъ рѣку,</rdg><rdg wit="#shakh">на съвѣтъ, хотяще поступити чресъ рѣку,</rdg><rdg wit="#likh">на совѣтъ, хотяче поступити чересъ рѣку,</rdg></rdgGrp></app></p></div></body></text></TEI>

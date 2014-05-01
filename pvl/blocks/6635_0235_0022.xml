@@ -1,84 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>235, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="235"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="235,22">страны</w>
-<w n="235,22">до</w>
-<w n="235,22">моря,</w>
-<w n="235,22">нарицаемое</w>
-<w n="235,22">Сълньче</w>
-<w n="235,22">мѣсто,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="235,22">страны <lb/></w>
-
-<w n="235,22">до</w>
-<w n="235,22">морѧ</w>
-<w n="235,22">наричемое</w>
-<w n="235,22">слн҃че</w>
-<w n="235,22">мѣ<lb/>сто·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="235,22">страны</w>
-<w n="235,22">морѧ·</w>
-<w n="235,22">наричимое·</w>
-<w n="235,22">солньчь</w>
-<w n="235,22">мѣсто.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="235,22">страны·̏</w>
-<w n="235,22">морѧ·</w>
-<w n="235,22">наречемое <lb/></w>
-
-<w n="235,22">слн҃че</w>
-<w n="235,22">мѣсто·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="235,22">страны·</w>
-<w n="235,22">до</w>
-<w n="235,22">морѧ·</w>
-<w n="235,22">нарѣцаемое</w>
-<w n="235,22">слн҃це</w>
-<w n="235,22">мѣсто. <pb n="86c"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="235,22">страны</w>
-<w n="235,22">до</w>
-<w n="235,22">морѧ.</w>
-<w n="235,22">нарица<lb/>емо</w>
-<w n="235,22">сл҃нче</w>
-<w n="235,22">мѣсто,</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="235,22">страны</w>
-<w n="235,22">до</w>
-<w n="235,22">моря,</w>
-<w n="235,22">наричемое</w>
-<w n="235,22">Солнче</w>
-<w n="235,22">мѣсто,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="235,22">страны</w>
-<w n="235,22">до</w>
-<w n="235,22">моря,</w>
-<w n="235,22">нарицаемаго</w>
-<w n="235,22">Сълньче</w>
-<w n="235,22">мѣсто,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="235,22">страны</w>
-<w n="235,22">до</w>
-<w n="235,22">моря,</w>
-<w n="235,22">наричемое</w>
-<w n="235,22">Солнче</w>
-<w n="235,22">мѣсто,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>235, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="235"/><div type="block" n="22"><p><app><lem wit="#lem">
+            страны до моря, нарицаемое Сълньче мѣсто,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">страны <lb/> до морѧ наричемое слн҃че мѣ<lb/>сто·</rdg>
+            <rdg wit="#rad">страны морѧ· наричимое· солньчь мѣсто.</rdg>
+            <rdg wit="#aka">страны·̏ морѧ· наречемое <lb/> слн҃че мѣсто·</rdg>
+            <rdg wit="#ipa">страны· до морѧ·  нарѣцаемое слн҃це мѣсто. <pb n="86c"/></rdg>
+            <rdg wit="#xle">страны до морѧ. нарица<lb/>емо сл҃нче мѣсто,</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">страны до моря, наричемое Солнче мѣсто,</rdg><rdg wit="#shakh">страны до моря, нарицаемаго Сълньче мѣсто,</rdg><rdg wit="#likh">страны до моря, наричемое Солнче мѣсто,</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,88 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>207, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="207"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-<w n="207,10">своею</w>
-<w n="207,10">кръвию,</w>
-<w n="207,10">и</w>
-<w n="207,10">избуду</w>
-<w n="207,10">суетьнаго</w>
-<w n="207,10">сего</w>
-<w n="207,10">свѣта</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="207,10">своѥю</w>
-<w n="207,10">кровь<lb/>ю.</w>
-<w n="207,10">избуду</w>
-<w n="207,10">суѥтнаго</w>
-<w n="207,10">сего</w>
-<w n="207,10">свѣта. <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="207,10">своею</w>
-<w n="207,10">кровью.</w>
-<w n="207,10">и</w>
-<w n="207,10">избѹдѹ</w>
-<w n="207,10">соуетнаго</w>
-<w n="207,10">сего</w>
-<w n="207,10">свѣта</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="207,10">своею</w>
-<w n="207,10">кровию.</w>
-<w n="207,10">и</w>
-<w n="207,10">и<lb/>збѹдѹ</w>
-<w n="207,10">сѹетного</w>
-<w n="207,10">сего</w>
-<w n="207,10">свѣта.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="207,10">своею</w>
-<w n="207,10">кровью.</w>
-<w n="207,10">їзбуду</w>
-<w n="207,10">су<lb/>етнаго</w>
-<w n="207,10">свѣта</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="207,10">своею</w>
-<w n="207,10">кръвїю.</w>
-<w n="207,10">избѫдоу</w>
-<w n="207,10">сѫетнаго</w>
-<w n="207,10">свѣ<lb/>та.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="207,10">своею</w>
-<w n="207,10">кровью,</w>
-<w n="207,10">и</w>
-<w n="207,10">избуду</w>
-<w n="207,10">суетнаго</w>
-<w n="207,10">сего</w>
-<w n="207,10">свѣта</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="207,10">своею</w>
-<w n="207,10">кръвию,</w>
-<w n="207,10">и</w>
-<w n="207,10">избуду</w>
-<w n="207,10">суетьнаго</w>
-<w n="207,10">сего</w>
-<w n="207,10">свѣта</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="207,10">своею</w>
-<w n="207,10">кровью,</w>
-<w n="207,10">и</w>
-<w n="207,10">избуду</w>
-<w n="207,10">суетнаго</w>
-<w n="207,10">сего</w>
-<w n="207,10">свѣта</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>207, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="207"/><div type="block" n="10"><p><app><lem wit="#lem">
+            своею кръвию, и избуду суетьнаго сего свѣта
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">своѥю кровь<lb/>ю. избуду суѥтнаго сего свѣта. <lb/></rdg>
+            <rdg wit="#rad">своею кровью. и избѹдѹ соуетнаго сего свѣта</rdg>
+            <rdg wit="#aka">своею кровию. и и<lb/>збѹдѹ сѹетного сего свѣта.</rdg>
+            <rdg wit="#ipa">своею кровью. їзбуду су<lb/>етнаго свѣта</rdg>
+            <rdg wit="#xle">своею кръвїю. избѫдоу сѫетнаго свѣ<lb/>та.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">своею кровью, и избуду суетнаго сего свѣта</rdg><rdg wit="#shakh">своею кръвию, и избуду суетьнаго сего свѣта</rdg><rdg wit="#likh">своею кровью, и избуду суетнаго сего свѣта</rdg></rdgGrp></app></p></div></body></text></TEI>

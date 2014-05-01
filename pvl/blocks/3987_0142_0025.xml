@@ -1,87 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>142, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="142"/><div type="block" n="25"><p>
-<app>
-<lem wit="#lem">
-<w n="142,25">Въ</w>
-<w n="142,25">лѣто 6526.</w>
-
-<w n="142,25">Поиде</w>
-<w n="142,25">Болеславъ</w>
-<w n="142,25">съ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="142,25">В</w>
-<w n="142,25">лѣ<hi rend="sup">т</hi></w>
-<w n="142,25">.҂ѕ҃.ф҃.к҃ѕ·:·- <lb/></w>
-
-<w n="142,25">Приде</w>
-<w n="142,25">болеславъ</w>
-<w n="142,25">съ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="142,25">В</w>
-<w n="142,25">лѣ<hi rend="sup">т</hi></w>
-<w n="142,25">.҂ѕ҃</w>
-<w n="142,25">ф҃.к҃ѕ.</w>
-<w n="142,25">Поиде</w>
-<w n="142,25">болеславъ</w>
-<w n="142,25">со</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="142,25">В</w>
-<w n="142,25">лѣ<hi rend="sup">т</hi></w>
-<w n="142,25">.҂ѕ҃.ф҃.<lb/>.к҃ѕ.</w>
-<w n="142,25">поиде</w>
-<w n="142,25">болеславь</w>
-<w n="142,25">со</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="142,25">В</w>
-<w n="142,25">лѣ<hi rend="sup">т</hi></w>
-<w n="142,25">.҂ѕ҃..ф҃..к҃ѕ.</w>
-<w n="142,25">Поиде <lb/></w>
-
-<w n="142,25">болеславъ.</w>
-<w n="142,25">сь</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="142,25">В</w>
-<w n="142,25">лѣ<hi rend="sup">т</hi></w>
-<w n="142,25">.҂ѕ҃.ф҃.к҃ѕ.</w>
-<w n="142,25">поиде <lb/></w>
-
-<w n="142,25">болеславь</w>
-<w n="142,25">съ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="142,25">В</w>
-<w n="142,25">лѣто 6526.</w>
-
-<w n="142,25">Приде</w>
-<w n="142,25">Болеславъ</w>
-<w n="142,25">съ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="142,25">Въ</w>
-<w n="142,25">лѣто 6526.</w>
-
-<w n="142,25">Поиде</w>
-<w n="142,25">Болеславъ</w>
-<w n="142,25">съ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="142,25">В</w>
-<w n="142,25">лѣто 6526.</w>
-
-<w n="142,25">Приде</w>
-<w n="142,25">Болеславъ</w>
-<w n="142,25">съ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>142, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="142"/><div type="block" n="25"><p><app><lem wit="#lem">
+            Въ лѣто 6526. Поиде Болеславъ съ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">В лѣ<hi rend="sup">т</hi> .҂ѕ҃.ф҃.к҃ѕ·:·- <lb/> Приде болеславъ съ</rdg>
+            <rdg wit="#rad">В лѣ<hi rend="sup">т</hi> .҂ѕ҃ ф҃.к҃ѕ. Поиде болеславъ со</rdg>
+            <rdg wit="#aka">В лѣ<hi rend="sup">т</hi> .҂ѕ҃.ф҃.<lb/>.к҃ѕ. поиде болеславь со</rdg>
+            <rdg wit="#ipa">В лѣ<hi rend="sup">т</hi> .҂ѕ҃..ф҃..к҃ѕ. Поиде <lb/> болеславъ. сь</rdg>
+            <rdg wit="#xle">В лѣ<hi rend="sup">т</hi> .҂ѕ҃.ф҃.к҃ѕ. поиде <lb/> болеславь съ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">В лѣто 6526. Приде Болеславъ съ</rdg><rdg wit="#shakh">Въ лѣто 6526. Поиде Болеславъ съ</rdg><rdg wit="#likh">В лѣто 6526. Приде Болеславъ съ</rdg></rdgGrp></app></p></div></body></text></TEI>

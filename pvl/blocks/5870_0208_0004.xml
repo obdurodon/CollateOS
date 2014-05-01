@@ -1,87 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>208, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="208"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-<w n="208,4">Русьскыя</w>
-<w n="208,4">земля,</w>
-<w n="208,4">и</w>
-<w n="208,4">чадома</w>
-<w n="208,4">его</w>
-<w n="208,4">Володимирѣ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="208,4">русьскыꙗ</w>
-<w n="208,4">землѧ.</w>
-<w n="208,4">и</w>
-<w n="208,4">чадома</w>
-<w n="208,4">ѥго</w>
-<w n="208,4">воло<lb/>димера. <pb n="69d"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="208,4">роускыꙗ</w>
-<w n="208,4">земли.</w>
-<w n="208,4">и</w>
-<w n="208,4">ча<hi rend="sup">д</hi>мъ <lb/></w>
-
-<w n="208,4">его.</w>
-<w n="208,4">володимира.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="208,4">рѹс<hi rend="sup">с</hi>кы<hi rend="sup">ꙗ</hi></w>
-<w n="208,4">земъ<lb/>лѧ.</w>
-<w n="208,4">и</w>
-<w n="208,4">чадомь</w>
-<w n="208,4">его</w>
-<w n="208,4">володимера</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="208,4">роускиꙗ</w>
-<w n="208,4">землѧ.</w>
-<w n="208,4">и</w>
-<w n="208,4">чадома <lb/></w>
-
-<w n="208,4">е<hi rend="sup">г</hi></w>
-<w n="208,4">володимера.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="208,4">роу<hi rend="sup">с</hi>кыа</w>
-<w n="208,4">землѧ <lb/></w>
-
-<w n="208,4">и</w>
-<w n="208,4">чадома</w>
-<w n="208,4">его,</w>
-<w n="208,4">вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>мера,</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="208,4">Русьскыя</w>
-<w n="208,4">земля,</w>
-<w n="208,4">и</w>
-<w n="208,4">чадома</w>
-<w n="208,4">его,</w>
-<w n="208,4">Володимера</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="208,4">Русьскыя</w>
-<w n="208,4">земля,</w>
-<w n="208,4">и</w>
-<w n="208,4">чаду</w>
-<w n="208,4">его</w>
-<w n="208,4">Володимерѣ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="208,4">Русьскыя</w>
-<w n="208,4">земля,</w>
-<w n="208,4">и</w>
-<w n="208,4">чаду</w>
-<w n="208,4">его,</w>
-<w n="208,4">Володимере</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>208, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="208"/><div type="block" n="4"><p><app><lem wit="#lem">
+            Русьскыя земля, и чадома его Володимирѣ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">русьскыꙗ землѧ. и чадома ѥго воло<lb/>димера. <pb n="69d"/></rdg>
+            <rdg wit="#rad">роускыꙗ земли. и ча<hi rend="sup">д</hi>мъ <lb/> его. володимира.</rdg>
+            <rdg wit="#aka">рѹс<hi rend="sup">с</hi>кы<hi rend="sup">ꙗ</hi> земъ<lb/>лѧ. и чадомь его володимера</rdg>
+            <rdg wit="#ipa">роускиꙗ землѧ. и чадома <lb/> е<hi rend="sup">г</hi> володимера.</rdg>
+            <rdg wit="#xle">роу<hi rend="sup">с</hi>кыа землѧ <lb/> и чадома его,
+                вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>мера,</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Русьскыя земля, и чадома его, Володимера</rdg><rdg wit="#shakh">Русьскыя земля, и чаду его Володимерѣ</rdg><rdg wit="#likh">Русьскыя земля, и чаду его, Володимере</rdg></rdgGrp></app></p></div></body></text></TEI>

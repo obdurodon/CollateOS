@@ -1,76 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="271"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="271,16">опять,</w>
-<w n="271,16">и</w>
-<w n="271,16">тако</w>
-<w n="271,16">мъножицею</w>
-<w n="271,16">избиваяше</w>
-<w n="271,16">я</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="271,16">ѡпѧть·</w>
-<w n="271,16">и</w>
-<w n="271,16">та<lb/>ко</w>
-<w n="271,16">множецею</w>
-<w n="271,16">оубиваꙗ·</w>
-<w n="271,16">сби<lb/>ша</w>
-<w n="271,16">ѣ</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="271,16">ѡпѧть· <lb/></w>
-
-<w n="271,16">и</w>
-<w n="271,16">тако</w>
-<w n="271,16">множицею</w>
-<w n="271,16">избиваше <lb/></w>
-
-<w n="271,16">ꙗ·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="271,16">ѡпѧ<hi rend="sup">т</hi>,</w>
-<w n="271,16">и</w>
-<w n="271,16">тако</w>
-<w n="271,16">мнѡжи<lb/>цею</w>
-<w n="271,16">избиваше</w>
-<w n="271,16">ѧ·̏.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="271,16">опять,</w>
-<w n="271,16">и</w>
-<w n="271,16">тако</w>
-<w n="271,16">множицею</w>
-<w n="271,16">убивая</w>
-<w n="271,16">сбиша</w>
-<w n="271,16">ѣ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="271,16">опять;</w>
-<w n="271,16">и</w>
-<w n="271,16">тако</w>
-<w n="271,16">мъножицею</w>
-<w n="271,16">избиваяше</w>
-<w n="271,16">я</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="271,16">опять,</w>
-<w n="271,16">и</w>
-<w n="271,16">тако</w>
-<w n="271,16">множицею</w>
-<w n="271,16">убивая</w>
-<w n="271,16">сбиша</w>
-<w n="271,16">ѣ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="271"/><div type="block" n="16"><p><app><lem wit="#lem">
+            опять, и тако мъножицею избиваяше я
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѡпѧть· и та<lb/>ко множецею оубиваꙗ· сби<lb/>ша ѣ</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">ѡпѧть· <lb/> и тако множицею избиваше <lb/> ꙗ·</rdg>
+            <rdg wit="#xle">ѡпѧ<hi rend="sup">т</hi>, и тако мнѡжи<lb/>цею избиваше ѧ·̏.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">опять, и тако множицею убивая сбиша ѣ</rdg><rdg wit="#shakh">опять; и тако мъножицею избиваяше я</rdg><rdg wit="#likh">опять, и тако множицею убивая сбиша ѣ</rdg></rdgGrp></app></p></div></body></text></TEI>

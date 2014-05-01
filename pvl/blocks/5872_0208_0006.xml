@@ -1,72 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>208, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="208"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-<w n="208,6">тысяща</w>
-<w n="208,6">Яневи,</w>
-<w n="208,6">игуменьство</w>
-<w n="208,6">дьржащю</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="208,6">ты<lb/>сѧща</w>
-<w n="208,6">ꙗневи.</w>
-<w n="208,6">игуменьство</w>
-<w n="208,6">держа<lb/>щю</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="208,6">тысоуща</w>
-<w n="208,6">ꙗневи. <lb/></w>
-
-<w n="208,6">а</w>
-<w n="208,6">игоуменьство</w>
-<w n="208,6">де<lb/>ржащѹ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="208,6">тысѹща <lb/></w>
-
-<w n="208,6">ꙗневи.</w>
-<w n="208,6">а</w>
-<w n="208,6">игѹменьство</w>
-<w n="208,6">держащи</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="208,6">тысѧщи.</w>
-<w n="208,6">ꙗневи. <lb/></w>
-
-<w n="208,6">игуменьство</w>
-<w n="208,6">держащу</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="208,6">тысѫще,</w>
-<w n="208,6">яневи. <lb/></w>
-
-<w n="208,6">игоуме<hi rend="sup">н</hi>ство</w>
-<w n="208,6">дръжащю</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="208,6">тысяща</w>
-<w n="208,6">Яневи,</w>
-<w n="208,6">игуменьство</w>
-<w n="208,6">держащю</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="208,6">тысяща</w>
-<w n="208,6">Яневи,</w>
-<w n="208,6">а</w>
-<w n="208,6">игуменьство</w>
-<w n="208,6">дьржащю</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="208,6">тысяща</w>
-<w n="208,6">Яневи,</w>
-<w n="208,6">игуменьство</w>
-<w n="208,6">держащю</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>208, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="208"/><div type="block" n="6"><p><app><lem wit="#lem">
+            тысяща Яневи, игуменьство дьржащю
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ты<lb/>сѧща ꙗневи. игуменьство держа<lb/>щю</rdg>
+            <rdg wit="#rad">тысоуща ꙗневи. <lb/> а игоуменьство де<lb/>ржащѹ.</rdg>
+            <rdg wit="#aka">тысѹща <lb/> ꙗневи. а игѹменьство держащи</rdg>
+            <rdg wit="#ipa">тысѧщи. ꙗневи. <lb/> игуменьство держащу</rdg>
+            <rdg wit="#xle">тысѫще, ꙗневи. <lb/> игоуме<hi rend="sup">н</hi>ство дръжащю</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">тысяща Яневи, игуменьство держащю</rdg><rdg wit="#shakh">тысяща Яневи, а игуменьство дьржащю</rdg><rdg wit="#likh">тысяща Яневи, игуменьство держащю</rdg></rdgGrp></app></p></div></body></text></TEI>

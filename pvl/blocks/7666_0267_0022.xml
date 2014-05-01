@@ -1,85 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>267, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="267"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="267,22">ставъшима</w>
-<w n="267,22">около</w>
-<w n="267,22">Вьсеволожа,</w>
-<w n="267,22">и</w>
-<w n="267,22">възяста</w>
-<w n="267,22">копиемь</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="267,22">ставшима</w>
-<w n="267,22">ѡколо</w>
-<w n="267,22">всеволо<lb/>жа·</w>
-<w n="267,22">и</w>
-<w n="267,22">взѧста</w>
-<w n="267,22">копье<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="267,22">ставшима·</w>
-<w n="267,22">ѡко<hi rend="sup">л</hi></w>
-<w n="267,22">всеволожа. <lb/></w>
-
-<w n="267,22">и</w>
-<w n="267,22">взѧста</w>
-<w n="267,22">копьемъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="267,22">ставшима</w>
-<w n="267,22">ѡколо</w>
-<w n="267,22">все·̏воло<lb/>жа·</w>
-<w n="267,22">и</w>
-<w n="267,22">взѧста</w>
-<w n="267,22">копиемъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="267,22">ста<lb/>вшима</w>
-<w n="267,22">ѡколо</w>
-<w n="267,22">всеволожа· <lb/></w>
-
-<w n="267,22">и</w>
-<w n="267,22">взѧста</w>
-<w n="267,22">копьемъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="267,22">ста<lb/>в′шема</w>
-<w n="267,22">ѡколо</w>
-<w n="267,22">всеволожа.</w>
-<w n="267,22">и</w>
-<w n="267,22">възѧста</w>
-<w n="267,22">копїемь</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="267,22">ставшима</w>
-<w n="267,22">около</w>
-<w n="267,22">Всеволожа,</w>
-<w n="267,22">и</w>
-<w n="267,22">взяста</w>
-<w n="267,22">копьемъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="267,22">ставъшема</w>
-<w n="267,22">около</w>
-<w n="267,22">Вьсеволожа,</w>
-<w n="267,22">и</w>
-<w n="267,22">възяста</w>
-<w n="267,22">копиемь</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="267,22">ставшима</w>
-<w n="267,22">около</w>
-<w n="267,22">Всеволожа,</w>
-<w n="267,22">и</w>
-<w n="267,22">взяста</w>
-<w n="267,22">копьем</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>267, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="267"/><div type="block" n="22"><p><app><lem wit="#lem">
+            ставъшима около Вьсеволожа, и възяста копиемь
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ставшима ѡколо всеволо<lb/>жа· и взѧста копье<hi rend="sup">м</hi></rdg>
+            <rdg wit="#rad">ставшима· ѡко<hi rend="sup">л</hi> всеволожа. <lb/> и взѧста копьемъ</rdg>
+            <rdg wit="#aka">ставшима ѡколо все·̏воло<lb/>жа· и взѧста копиемъ</rdg>
+            <rdg wit="#ipa">ста<lb/>вшима ѡколо всеволожа· <lb/> и взѧста копьемъ</rdg>
+            <rdg wit="#xle">ста<lb/>в′шема ѡколо всеволожа. и възѧста копїемь</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">ставшима около Всеволожа, и взяста копьемъ</rdg><rdg wit="#shakh">ставъшема около Вьсеволожа, и възяста копиемь</rdg><rdg wit="#likh">ставшима около Всеволожа, и взяста копьем</rdg></rdgGrp></app></p></div></body></text></TEI>

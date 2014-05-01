@@ -1,87 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>231, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="231"/><div type="block" n="17"><p>
-<app>
-<lem wit="#lem">
-<w n="231,17">къ</w>
-<w n="231,17">граду.</w>
-<w n="231,17">Гражане</w>
-<w n="231,17">же</w>
-<w n="231,17">узьрѣвъше,</w>
-<w n="231,17">ради</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="231,17">к</w>
-<w n="231,17">гра<lb/>ду·</w>
-<w n="231,17">гражане</w>
-<w n="231,17">же</w>
-<w n="231,17">оузрѣвше</w>
-<w n="231,17">радї <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="231,17">ко</w>
-<w n="231,17">городоу·</w>
-<w n="231,17">и</w>
-<w n="231,17">гража<lb/>не</w>
-<w n="231,17">же</w>
-<w n="231,17">оузрѣша</w>
-<w n="231,17">ради</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="231,17">кь</w>
-<w n="231,17">горо<lb/>дѹ·</w>
-<w n="231,17">и</w>
-<w n="231,17">гражане</w>
-<w n="231,17">же</w>
-<w n="231,17">оузрѣша</w>
-<w n="231,17">и</w>
-<w n="231,17">ради</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="231,17">к</w>
-<w n="231,17">городу·</w>
-<w n="231,17">гражанѣ <lb/></w>
-
-<w n="231,17">оузрѣвше</w>
-<w n="231,17">ради</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="231,17">къ</w>
-<w n="231,17">городоу,</w>
-<w n="231,17">гра<lb/>жане</w>
-<w n="231,17">же</w>
-<w n="231,17">оузрѣ·̏вше</w>
-<w n="231,17">р<hi rend="sup">д</hi>а<hi rend="sup">и</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="231,17">к</w>
-<w n="231,17">граду;</w>
-<w n="231,17">гражане</w>
-<w n="231,17">же</w>
-<w n="231,17">узрѣвше,</w>
-<w n="231,17">раді</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="231,17">къ</w>
-<w n="231,17">граду.</w>
-<w n="231,17">Гражане</w>
-<w n="231,17">же,</w>
-<w n="231,17">узьрѣвъше,</w>
-<w n="231,17">ради</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="231,17">к</w>
-<w n="231,17">граду;</w>
-<w n="231,17">гражане</w>
-<w n="231,17">же</w>
-<w n="231,17">узрѣвше,</w>
-<w n="231,17">ради</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>231, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="231"/><div type="block" n="17"><p><app><lem wit="#lem">
+            къ граду. Гражане же узьрѣвъше, ради
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">к гра<lb/>ду· гражане же оузрѣвше радї <lb/></rdg>
+            <rdg wit="#rad">ко городоу· и гража<lb/>не же оузрѣша ради</rdg>
+            <rdg wit="#aka">кь горо<lb/>дѹ· и гражане же оузрѣша и ради</rdg>
+            <rdg wit="#ipa">к городу· гражанѣ <lb/> оузрѣвше ради</rdg>
+            <rdg wit="#xle">къ городоу, гра<lb/>жане же оузрѣ·̏вше р<hi rend="sup">д</hi>а<hi rend="sup">и</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">к граду; гражане же узрѣвше, раді</rdg><rdg wit="#shakh">къ граду. Гражане же, узьрѣвъше, ради</rdg><rdg wit="#likh">к граду; гражане же узрѣвше, ради</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,82 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>208, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="208"/><div type="block" n="17"><p>
-<app>
-<lem wit="#lem">
-<w n="208,17">видѣвъше</w>
-<w n="208,17">людие</w>
-<w n="208,17">вьси</w>
-<w n="208,17">рекоша:</w>
-<w n="208,17">“Се</w>
-<w n="208,17">мьртвьць</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="208,17">лю<lb/>дье</w>
-<w n="208,17">вси</w>
-<w n="208,17">рекоша.</w>
-<w n="208,17">се</w>
-<w n="208,17">намъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="208,17">лю<hi rend="sup">д</hi>е</w>
-<w n="208,17">видѣвше.</w>
-<w n="208,17">рекоша.</w>
-<w n="208,17">се</w>
-<w n="208,17">навь</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="208,17">людие</w>
-<w n="208,17">видевше</w>
-<w n="208,17">рекоша.</w>
-<w n="208,17">се</w>
-<w n="208,17">навье <pb n="110r"/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="208,17">видивше</w>
-<w n="208,17">лю<hi rend="sup">д</hi>е. <lb/></w>
-
-<w n="208,17">вси</w>
-<w n="208,17">рекоша</w>
-<w n="208,17">се</w>
-<w n="208,17">мрт҃вець</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="208,17">видѣвше</w>
-<w n="208,17">лю<hi rend="sup">д</hi>е<hi rend="sup">и</hi><lb/></w>
-<w n="208,17">вси</w>
-<w n="208,17">рекоша.</w>
-<w n="208,17">се</w>
-<w n="208,17">мр҃твець</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="208,17">видѣвше</w>
-<w n="208,17">людье</w>
-<w n="208,17">вси</w>
-<w n="208,17">рекоша:</w>
-<w n="208,17">“се</w>
-<w n="208,17">навье</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="208,17">видѣвъше</w>
-<w n="208,17">людие</w>
-<w n="208,17">вьси,</w>
-<w n="208,17">рекоша:</w>
-<w n="208,17">“се,</w>
-<w n="208,17">навь</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="208,17">видѣвше</w>
-<w n="208,17">людье</w>
-<w n="208,17">вси</w>
-<w n="208,17">рекоша:</w>
-<w n="208,17">Се</w>
-<w n="208,17">навье</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>208, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="208"/><div type="block" n="17"><p><app><lem wit="#lem">
+            видѣвъше людие вьси рекоша: “Се мьртвьць
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">лю<lb/>дье вси рекоша. се намъ</rdg>
+            <rdg wit="#rad">лю<hi rend="sup">д</hi>е видѣвше. рекоша. се навь</rdg>
+            <rdg wit="#aka">людие видевше рекоша. се навье <pb n="110r"/></rdg>
+            <rdg wit="#ipa">видивше лю<hi rend="sup">д</hi>е. <lb/> вси рекоша се мрт҃вець</rdg>
+            <rdg wit="#xle">видѣвше лю<hi rend="sup">д</hi>е<hi rend="sup">и</hi>
+                <lb/> вси рекоша. се мр҃твець</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">видѣвше людье вси рекоша: “се навье</rdg><rdg wit="#shakh">видѣвъше людие вьси, рекоша: “се, навь</rdg><rdg wit="#likh">видѣвше людье вси рекоша: Се навье</rdg></rdgGrp></app></p></div></body></text></TEI>

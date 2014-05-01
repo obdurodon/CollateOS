@@ -1,89 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>210, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="210"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="210,20">дугы</w>
-<w n="210,20">зарьны,</w>
-<w n="210,20">и</w>
-<w n="210,20">стоявъше</w>
-<w n="210,20">и</w>
-<w n="210,20">приидоша</w>
-<w n="210,20">надъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="210,20">дугы</w>
-<w n="210,20">зарны.</w>
-<w n="210,20">и</w>
-<w n="210,20">стоꙗвше</w>
-<w n="210,20">придоша</w>
-<w n="210,20">на<lb/>дъ <pb n="70c"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="210,20">доуги</w>
-<w n="210,20">зарены.</w>
-<w n="210,20">и</w>
-<w n="210,20">стоꙗвше <lb/></w>
-
-<w n="210,20">и</w>
-<w n="210,20">приидоша.</w>
-<w n="210,20">на<hi rend="sup">д</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="210,20">дѹгы</w>
-<w n="210,20">зарены.</w>
-<w n="210,20">и</w>
-<w n="210,20">сто<lb/>ꙗвше</w>
-<w n="210,20">и</w>
-<w n="210,20">преидоша</w>
-<w n="210,20">на<hi rend="sup">д</hi></w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="210,20">дугы</w>
-<w n="210,20">зарни.</w>
-<w n="210,20">ї</w>
-<w n="210,20">стоꙗвше</w>
-<w n="210,20">и</w>
-<w n="210,20">прии<lb/>доша.</w>
-<w n="210,20">надъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="210,20">доугы</w>
-<w n="210,20">зарни.</w>
-<w n="210,20">и</w>
-<w n="210,20">стоавше</w>
-<w n="210,20">прїидоша</w>
-<w n="210,20">над</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="210,20">дугы</w>
-<w n="210,20">зарны,</w>
-<w n="210,20">и</w>
-<w n="210,20">стоявше</w>
-<w n="210,20">придоша</w>
-<w n="210,20">надъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="210,20">дугы</w>
-<w n="210,20">зарьны;</w>
-<w n="210,20">и</w>
-<w n="210,20">стоявъше</w>
-<w n="210,20">преидоша</w>
-<w n="210,20">надъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="210,20">дугы</w>
-<w n="210,20">зарны,</w>
-<w n="210,20">и</w>
-<w n="210,20">стоявше</w>
-<w n="210,20">придоша</w>
-<w n="210,20">надъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>210, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="210"/><div type="block" n="20"><p><app><lem wit="#lem">
+            дугы зарьны, и стоявъше и приидоша надъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">дугы  зарны. и стоꙗвше придоша на<lb/>дъ <pb n="70c"/></rdg>
+            <rdg wit="#rad">доуги зарены. и стоꙗвше <lb/> и приидоша. на<hi rend="sup">д</hi></rdg>
+            <rdg wit="#aka">дѹгы зарены. и сто<lb/>ꙗвше и преидоша на<hi rend="sup">д</hi></rdg>
+            <rdg wit="#ipa">дугы зарни. ї стоꙗвше и прии<lb/>доша. надъ</rdg>
+            <rdg wit="#xle">доугы зарни. и стоавше прїидоша над</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">дугы зарны, и стоявше придоша надъ</rdg><rdg wit="#shakh">дугы зарьны; и стоявъше преидоша надъ</rdg><rdg wit="#likh">дугы зарны, и стоявше придоша надъ</rdg></rdgGrp></app></p></div></body></text></TEI>

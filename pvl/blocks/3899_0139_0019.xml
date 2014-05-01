@@ -1,67 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>139, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="139"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-<w n="139,19">Русьскую</w>
-<w n="139,19">единъ”.</w>
-<w n="139,19">Помысли</w>
-<w n="139,19">высокоумиемь</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="139,19">русьскую</w>
-<w n="139,19">е<lb/>динъ.</w>
-<w n="139,19">помысливъ</w>
-<w n="139,19">высокооу<lb/>мъемь</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="139,19">роускѹю</w>
-<w n="139,19">единъ.</w>
-<w n="139,19">помысливъ</w>
-<w n="139,19">высокооу<lb/>мъствомъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="139,19">рѹс<hi rend="sup">с</hi>кѹ</w>
-<w n="139,19">единъ. <lb/></w>
-
-<w n="139,19">помысливь</w>
-<w n="139,19">высокооумьствомь</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="139,19">рускую</w>
-<w n="139,19">е<lb/>динъ.</w>
-<w n="139,19">помысли</w>
-<w n="139,19">высокооу<lb/>мьемь</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="139,19">роу<hi rend="sup">с</hi>коую</w>
-<w n="139,19">еди<hi rend="sup">н</hi>. <lb/></w>
-
-<w n="139,19">помысли</w>
-<w n="139,19">высокооумие<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="139,19">Русьскую</w>
-<w n="139,19">единъ”.</w>
-<w n="139,19">Помысливъ</w>
-<w n="139,19">высокоумьемь</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="139,19">Русьскую</w>
-<w n="139,19">единъ”;</w>
-<w n="139,19">помысли</w>
-<w n="139,19">высокоумиемь</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="139,19">русьскую</w>
-<w n="139,19">единъ”.</w>
-<w n="139,19">Помысливъ</w>
-<w n="139,19">высокоумьемь</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>139, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="139"/><div type="block" n="19"><p><app><lem wit="#lem">
+            Русьскую единъ”. Помысли высокоумиемь
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">русьскую е<lb/>динъ. помысливъ высокооу<lb/>мъемь</rdg>
+            <rdg wit="#rad">роускѹю единъ. помысливъ высокооу<lb/>мъствомъ</rdg>
+            <rdg wit="#aka">рѹс<hi rend="sup">с</hi>кѹ единъ. <lb/> помысливь высокооумьствомь</rdg>
+            <rdg wit="#ipa">рускую е<lb/>динъ. помысли высокооу<lb/>мьемь</rdg>
+            <rdg wit="#xle">роу<hi rend="sup">с</hi>коую еди<hi rend="sup">н</hi>. <lb/> помысли высокооумие<hi rend="sup">м</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Русьскую единъ”. Помысливъ высокоумьемь</rdg><rdg wit="#shakh">Русьскую единъ”; помысли высокоумиемь</rdg><rdg wit="#likh">русьскую единъ”. Помысливъ высокоумьемь</rdg></rdgGrp></app></p></div></body></text></TEI>

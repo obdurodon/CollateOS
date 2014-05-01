@@ -1,84 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>190, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="190"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-<w n="190,2">и</w>
-<w n="190,2">аще</w>
-<w n="190,2">кого</w>
-<w n="190,2">видяше</w>
-<w n="190,2">въ</w>
-<w n="190,2">помышлении,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="190,2">и</w>
-<w n="190,2">аще</w>
-<w n="190,2">кого</w>
-<w n="190,2">видѧше</w>
-<w n="190,2">в</w>
-<w n="190,2">помы<lb/>шленьи.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="190,2">и</w>
-<w n="190,2">аще</w>
-<w n="190,2">кого</w>
-<w n="190,2">видѧше</w>
-<w n="190,2">въ</w>
-<w n="190,2">по<lb/>мышлении</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="190,2">и</w>
-<w n="190,2">аще</w>
-<w n="190,2">кого</w>
-<w n="190,2">видѧше</w>
-<w n="190,2">в</w>
-<w n="190,2">помышленїи.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="190,2">и</w>
-<w n="190,2">аще</w>
-<w n="190,2">кого</w>
-<w n="190,2">видѧше</w>
-<w n="190,2">в</w>
-<w n="190,2">по<lb/>мышлении</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="190,2">и</w>
-<w n="190,2">аще</w>
-<w n="190,2">кого</w>
-<w n="190,2">видѧше</w>
-<w n="190,2">въ</w>
-<w n="190,2">помышленїи <pb n="86r"/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="190,2">и</w>
-<w n="190,2">аще</w>
-<w n="190,2">кого</w>
-<w n="190,2">видяше</w>
-<w n="190,2">в</w>
-<w n="190,2">помышленьи,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="190,2">и</w>
-<w n="190,2">аще</w>
-<w n="190,2">кого</w>
-<w n="190,2">видяше</w>
-<w n="190,2">въ</w>
-<w n="190,2">помышлении,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="190,2">и</w>
-<w n="190,2">аще</w>
-<w n="190,2">кого</w>
-<w n="190,2">видяше</w>
-<w n="190,2">в</w>
-<w n="190,2">помышленьи,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>190, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="190"/><div type="block" n="2"><p><app><lem wit="#lem">
+            и аще кого видяше въ помышлении,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и аще кого видѧше в помы<lb/>шленьи.</rdg>
+            <rdg wit="#rad">и аще кого видѧше въ по<lb/>мышлении</rdg>
+            <rdg wit="#aka">и аще кого видѧше в помышленїи.</rdg>
+            <rdg wit="#ipa">и аще кого видѧше в по<lb/>мышлении</rdg>
+            <rdg wit="#xle">и аще кого  видѧше въ помышленїи <pb n="86r"/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и аще кого видяше в помышленьи,</rdg><rdg wit="#shakh">и аще кого видяше въ помышлении,</rdg><rdg wit="#likh">и аще кого видяше в помышленьи,</rdg></rdgGrp></app></p></div></body></text></TEI>

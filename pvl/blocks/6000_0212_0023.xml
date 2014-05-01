@@ -1,77 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>212, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="212"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="212,23">гробу</w>
-<w n="212,23">Феодосиеву,</w>
-<w n="212,23">на</w>
-<w n="212,23">лѣвои</w>
-<w n="212,23">странѣ.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="212,23">гробу</w>
-<w n="212,23">ѳеѡ<lb/>досьеву·</w>
-<w n="212,23">на</w>
-<w n="212,23">шюеи</w>
-<w n="212,23">странѣ·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="212,23">гроб<milestone unit="sic" n="start"/>ѹ<milestone unit="sic" n="end"/></w>
-<w n="212,23">феѡ<hi rend="sup">д</hi>сьевѹ.</w>
-<w n="212,23">на</w>
-<w n="212,23">лѣвои <lb/></w>
-
-<w n="212,23">странѣ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="212,23">гробѹ</w>
-<w n="212,23">феѡдосьевѹ</w>
-<w n="212,23">на</w>
-<w n="212,23">лѣвои</w>
-<w n="212,23">странѣ· <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="212,23">гробу</w>
-<w n="212,23">федось<lb/>еву·</w>
-<w n="212,23">на</w>
-<w n="212,23">лѣвои</w>
-<w n="212,23">сторонѣ·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="212,23">гробоу</w>
-<w n="212,23">ѳе<hi rend="sup">д</hi>ѡ<hi rend="sup">о</hi>сїевоу, <lb/></w>
-
-<w n="212,23">на</w>
-<w n="212,23">лѣвои</w>
-<w n="212,23">сторонѣ.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="212,23">гробу</w>
-<w n="212,23">Феодосьеву,</w>
-<w n="212,23">на</w>
-<w n="212,23">шюей</w>
-<w n="212,23">странѣ.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="212,23">гробу</w>
-<w n="212,23">Феодосиеву,</w>
-<w n="212,23">на</w>
-<w n="212,23">шюеи</w>
-<w n="212,23">странѣ.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="212,23">гробу</w>
-<w n="212,23">Феодосьеву,</w>
-<w n="212,23">на</w>
-<w n="212,23">шюей</w>
-<w n="212,23">странѣ.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>212, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="212"/><div type="block" n="23"><p><app><lem wit="#lem">
+            гробу Феодосиеву, на лѣвои странѣ.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">гробу ѳеѡ<lb/>досьеву· на шюеи странѣ·</rdg>
+            <rdg wit="#rad">гроб<sic>ѹ</sic> феѡ<hi rend="sup">д</hi>сьевѹ. на лѣвои <lb/> странѣ.</rdg>
+            <rdg wit="#aka">гробѹ феѡдосьевѹ на лѣвои странѣ· <lb/></rdg>
+            <rdg wit="#ipa">гробу федось<lb/>еву· на лѣвои сторонѣ·</rdg>
+            <rdg wit="#xle">гробоу ѳе<hi rend="sup">д</hi>ѡ<hi rend="sup">о</hi>сїевоу, <lb/> на лѣвои сторонѣ.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">гробу Феодосьеву, на шюей странѣ.</rdg><rdg wit="#shakh">гробу Феодосиеву, на шюеи странѣ.</rdg><rdg wit="#likh">гробу Феодосьеву, на шюей странѣ.</rdg></rdgGrp></app></p></div></body></text></TEI>

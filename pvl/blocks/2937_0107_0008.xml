@@ -1,46 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>107, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="107"/><div type="block" n="8"><p>
-<app>
-<lem wit="#lem">
-
-</lem>
-
-<rdg wit="#lav">
-<w n="107,8">.і҃. <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="107,8">.і҃.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="107,8">десѧть.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="107,8">.і҃.</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-
-</rdg>
-
-<rdg wit="#tol">
-<w n="107,8">десꙗть</w>
-</rdg>
-
-<rdg wit="#bych">
-
-</rdg>
-
-<rdg wit="#shakh">
-
-</rdg>
-
-<rdg wit="#likh">
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>107, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="107"/><div type="block" n="8"><p><app><lem wit="#lem">
+            10,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">.і҃. <lb/></rdg>
+            <rdg wit="#rad">.і҃.</rdg>
+            <rdg wit="#aka">десѧть.</rdg>
+            <rdg wit="#ipa">.і҃.</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">10</rdg>
+            <rdg wit="#tol">десꙗть</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">10,</rdg><rdg wit="#shakh">10,</rdg><rdg wit="#likh">10,</rdg></rdgGrp></app></p></div></body></text></TEI>

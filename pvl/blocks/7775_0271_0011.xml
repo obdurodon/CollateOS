@@ -1,73 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="271"/><div type="block" n="11"><p>
-<app>
-<lem wit="#lem">
-<w n="271,11">Алтунопа</w>
-<w n="271,11">же</w>
-<w n="271,11">пригъна</w>
-<w n="271,11">къ</w>
-<w n="271,11">пьрвому</w>
-<w n="271,11">заступу,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="271,11">алту<lb/>нопа</w>
-<w n="271,11">же</w>
-<w n="271,11">пригна</w>
-<w n="271,11">къ</w>
-<w n="271,11">·а҃·</w>
-<w n="271,11">му</w>
-<w n="271,11">за<lb/>ступу·</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="271,11">алтунопа</w>
-<w n="271,11">же</w>
-<w n="271,11">пригна</w>
-<w n="271,11">къ</w>
-<w n="271,11">первому</w>
-<w n="271,11">заступу· <pb n="93b"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="271,11">алтоу<lb/>напа</w>
-<w n="271,11">же</w>
-<w n="271,11">пригна</w>
-<w n="271,11">къ</w>
-<w n="271,11">пръвомоу</w>
-<w n="271,11">застѫпоу.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="271,11">Алтунопа</w>
-<w n="271,11">же</w>
-<w n="271,11">пригна</w>
-<w n="271,11">къ</w>
-<w n="271,11">1-му</w>
-<w n="271,11">заступу,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="271,11">Алтунопа</w>
-<w n="271,11">же</w>
-<w n="271,11">пригъна</w>
-<w n="271,11">къ</w>
-<w n="271,11">пьрвому</w>
-<w n="271,11">заступу,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="271,11">Алтунопа</w>
-<w n="271,11">же</w>
-<w n="271,11">пригна</w>
-<w n="271,11">къ</w>
-<w n="271,11">1-му</w>
-<w n="271,11">заступу,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="271"/><div type="block" n="11"><p><app><lem wit="#lem">
+            Алтунопа же пригъна къ пьрвому заступу,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">алту<lb/>нопа же пригна къ ·а҃· му за<lb/>ступу·</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">алтунопа же пригна къ первому заступу· <pb n="93b"/></rdg>
+            <rdg wit="#xle">алтоу<lb/>напа же пригна къ пръвомоу застѫпоу.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Алтунопа же пригна къ 1-му заступу,</rdg><rdg wit="#shakh">Алтунопа же пригъна къ пьрвому заступу,</rdg><rdg wit="#likh">Алтунопа же пригна къ 1-му заступу,</rdg></rdgGrp></app></p></div></body></text></TEI>

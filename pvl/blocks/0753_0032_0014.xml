@@ -1,89 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>32, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="32"/><div type="block" n="14"><p>
-<app>
-<lem wit="#lem">
-<w n="32,14">не</w>
-<w n="32,14">даны</w>
-<w n="32,14">суть</w>
-<w n="32,14">Словѣномъ</w>
-<w n="32,14">пърѣ”.</w>
-<w n="32,14">И</w>
-<w n="32,14">приде</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="32,14">не</w>
-<w n="32,14">даны</w>
-<w n="32,14">соу<hi rend="sup">т</hi></w>
-<w n="32,14">словѣно<hi rend="sup">м</hi></w>
-<w n="32,14">прѣ.</w>
-<w n="32,14">и</w>
-<w n="32,14">при<hi rend="sup">д</hi><pb n="16v"/></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="32,14">не</w>
-<w n="32,14">даны</w>
-<w n="32,14">сѹть</w>
-<w n="32,14">словѣномъ</w>
-<w n="32,14">прѣ.</w>
-<w n="32,14">и</w>
-<w n="32,14">при<hi rend="sup">д</hi></w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="32,14">не <lb/></w>
-
-<w n="32,14">даны</w>
-<w n="32,14">суть</w>
-<w n="32,14">словѣно<hi rend="sup">м</hi><milestone unit="sic" n="start"/>прѣ<milestone unit="sic" n="end"/><lb/></w>
-<w n="32,14">кропинныꙗ.</w>
-<w n="32,14">и</w>
-<w n="32,14">приде</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="32,14">не</w>
-<w n="32,14">даны</w>
-<w n="32,14">сѫ<hi rend="sup">т</hi></w>
-<w n="32,14">слѡ<lb/>венѡ<hi rend="sup">м</hi></w>
-<w n="32,14">пре</w>
-<w n="32,14">кропинныѧ.</w>
-<w n="32,14">и</w>
-<w n="32,14">прїиде</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="32,14">не</w>
-<w n="32,14">даны</w>
-<w n="32,14">суть</w>
-<w n="32,14">Словѣномъ</w>
-<w n="32,14">прѣ</w>
-<w n="32,14">кропинныя”.</w>
-<w n="32,14">И</w>
-<w n="32,14">приде</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="32,14">не</w>
-<w n="32,14">даны</w>
-<w n="32,14">суть</w>
-<w n="32,14">Словѣномъ</w>
-<w n="32,14">пърѣ”.</w>
-<w n="32,14">И</w>
-<w n="32,14">приде</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="32,14">не</w>
-<w n="32,14">даны</w>
-<w n="32,14">суть</w>
-<w n="32,14">словѣном</w>
-<w n="32,14">прѣ</w>
-<w n="32,14">паволочиты”.</w>
-<w n="32,14">И</w>
-<w n="32,14">приде</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>32, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="32"/><div type="block" n="14"><p><app><lem wit="#lem">
+            не даны суть Словѣномъ пърѣ”. И приде
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">не  даны соу<hi rend="sup">т</hi> словѣно<hi rend="sup">м</hi> прѣ. и при<hi rend="sup">д</hi>
+                <pb n="16v"/></rdg>
+            <rdg wit="#aka">не даны сѹть словѣномъ прѣ. и при<hi rend="sup">д</hi></rdg>
+            <rdg wit="#ipa">не <lb/> даны суть словѣно<hi rend="sup">м</hi>
+                <sic>прѣ</sic><lb/> кропинныꙗ. и приде</rdg>
+            <rdg wit="#xle">не даны сѫ<hi rend="sup">т</hi> слѡ<lb/>венѡ<hi rend="sup">м</hi> пре кропинныѧ. и прїиде</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">не даны суть Словѣномъ прѣ кропинныя”. И приде</rdg><rdg wit="#shakh">не даны суть Словѣномъ пърѣ”. И приде</rdg><rdg wit="#likh">не даны суть словѣном прѣ паволочиты”. И приде</rdg></rdgGrp></app></p></div></body></text></TEI>

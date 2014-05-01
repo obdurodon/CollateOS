@@ -1,69 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>138, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="138"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="138,1">вьсѣмъ</w>
-<w n="138,1">ицѣление</w>
-<w n="138,1">подаета.</w>
-<w n="138,1">Радуита</w>
-<w n="138,1">ся,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="138,1">всѣ<hi rend="sup">м</hi></w>
-<w n="138,1">ицѣленье</w>
-<w n="138,1">пода<lb/>ета.</w>
-<w n="138,1">радуитасѧ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="138,1">исцеление</w>
-<w n="138,1">подаета. <lb/></w>
-
-<w n="138,1">ра<hi rend="sup">д</hi>уита<hi rend="sup">с</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="138,1">исцеленїе</w>
-<w n="138,1">подаета. <lb/></w>
-
-<w n="138,1">ра<hi rend="sup">д</hi>уитесѧ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="138,1">всимъ</w>
-<w n="138,1">исцѣление</w>
-<w n="138,1">подаета.</w>
-<w n="138,1">радуите<hi rend="sup">с</hi><pb n="52b"/></w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="138,1">вс<hi rend="sup">м</hi>ѣ</w>
-<w n="138,1">исцѣленїе</w>
-<w n="138,1">подаваета.</w>
-<w n="138,1">ра<hi rend="sup">д</hi>уитесѧ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="138,1">всѣмъ</w>
-<w n="138,1">ицѣленье</w>
-<w n="138,1">подаета.</w>
-<w n="138,1">Радуйтася,</w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="138,1">вьсѣмъ</w>
-<w n="138,1">ицѣление</w>
-<w n="138,1">подаета.</w>
-<w n="138,1">Радуитася,</w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="138,1">всѣм</w>
-<w n="138,1">ицѣленье</w>
-<w n="138,1">подаета.</w>
-<w n="138,1">Радуйтася,</w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>138, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="138"/><div type="block" n="1"><p><app><lem wit="#lem">
+            вьсѣмъ ицѣление подаета. Радуита ся,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">всѣ<hi rend="sup">м</hi> ицѣленье пода<lb/>ета. радуитасѧ</rdg>
+            <rdg wit="#rad">исцеление подаета. <lb/> ра<hi rend="sup">д</hi>уита<hi rend="sup">с</hi></rdg>
+            <rdg wit="#aka">исцеленїе подаета. <lb/> ра<hi rend="sup">д</hi>уитесѧ</rdg>
+            <rdg wit="#ipa">всимъ исцѣление подаета. радуите<hi rend="sup">с</hi>
+                <pb n="52b"/></rdg>
+            <rdg wit="#xle">вс<hi rend="sup">м</hi>ѣ исцѣленїе подаваета. ра<hi rend="sup">д</hi>уитесѧ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">всѣмъ ицѣленье подаета. Радуйтася, <add place="margin">134,21</add></rdg><rdg wit="#shakh">вьсѣмъ ицѣление подаета. Радуитася, <add place="margin">175,18</add></rdg><rdg wit="#likh">всѣм ицѣленье подаета. Радуйтася, <add place="margin">94,1</add></rdg></rdgGrp></app></p></div></body></text></TEI>

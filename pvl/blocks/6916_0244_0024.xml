@@ -1,48 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>244, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="244"/><div type="block" n="24"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="244,24">кыи<lb/>же</w>
-<w n="244,24">своимъ</w>
-<w n="244,24">лиць</w>
-<w n="244,24">ѡбразо<hi rend="sup">м</hi>·</w>
-<w n="244,24">по</w>
-<w n="244,24">б҃и<lb/>и</w>
-<w n="244,24">мдр<hi rend="sup">с</hi>ти·</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="244,24">кыйже</w>
-<w n="244,24">своимъ</w>
-<w n="244,24">лица</w>
-<w n="244,24">образомъ,</w>
-<w n="244,24">по</w>
-<w n="244,24">Божии</w>
-<w n="244,24">мудрости;</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="244,24">кый</w>
-<w n="244,24">же</w>
-<w n="244,24">своимъ</w>
-<w n="244,24">лиць</w>
-<w n="244,24">образом,</w>
-<w n="244,24">по</w>
-<w n="244,24">божии</w>
-<w n="244,24">мудрости.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>244, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="244"/><div type="block" n="24"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">кыи<lb/>же своимъ лиць ѡбразо<hi rend="sup">м</hi>· по б҃и<lb/>и мдр<hi rend="sup">с</hi>ти·</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">кыйже своимъ лица образомъ, по Божии мудрости;</rdg><rdg wit="#likh">кый же своимъ лиць образом, по божии мудрости.</rdg></rdgGrp></app></p></div></body></text></TEI>

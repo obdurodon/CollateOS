@@ -1,48 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>243, 30</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="243"/><div type="block" n="30"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="243,30">дѣ<lb/>ти</w>
-<w n="243,30">моꙗ</w>
-<w n="243,30">разумѣите·</w>
-<w n="243,30">како <lb/></w>
-
-<w n="243,30">ти</w>
-<w n="243,30">ѥсть</w>
-<w n="243,30">члв҃колюбець</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="243,30">дѣти</w>
-<w n="243,30">моя,</w>
-<w n="243,30">разумѣйте,</w>
-<w n="243,30">како</w>
-<w n="243,30">ти</w>
-<w n="243,30">есть</w>
-<w n="243,30">человѣколюбець</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="243,30">дѣти</w>
-<w n="243,30">моя,</w>
-<w n="243,30">разумѣйте,</w>
-<w n="243,30">како</w>
-<w n="243,30">ти</w>
-<w n="243,30">есть</w>
-<w n="243,30">человѣколюбець</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>243, 30</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="243"/><div type="block" n="30"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">дѣ<lb/>ти моꙗ разумѣите· како <lb/> ти ѥсть члв҃колюбець</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">дѣти моя, разумѣйте, како ти есть человѣколюбець</rdg><rdg wit="#likh">дѣти моя, разумѣйте, како ти есть человѣколюбець</rdg></rdgGrp></app></p></div></body></text></TEI>

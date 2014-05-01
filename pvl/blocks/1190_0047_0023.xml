@@ -1,86 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>47, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="47"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="47,23">Иже</w>
-<w n="47,23">помыслять</w>
-<w n="47,23">отъ</w>
-<w n="47,23">страны</w>
-<w n="47,23">Русьскыя</w>
-<w n="47,23">раздрушити</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="47,23">иже</w>
-<w n="47,23">помыслить</w>
-<w n="47,23">ѿ</w>
-<w n="47,23">стра<lb/>ны</w>
-<w n="47,23">рускиꙗ.</w>
-<w n="47,23">разрушити</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="47,23">иже</w>
-<w n="47,23">помыслить</w>
-<w n="47,23">ѿ</w>
-<w n="47,23">страны</w>
-<w n="47,23">рѹскыꙗ. <lb/></w>
-
-<w n="47,23">разрѹшити</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="47,23">иже</w>
-<w n="47,23">мыслїть</w>
-<w n="47,23">ѿ</w>
-<w n="47,23">рѹс<hi rend="sup">с</hi>кїа</w>
-<w n="47,23">страны.</w>
-<w n="47,23">разрѹ<lb/>шити</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="47,23">иже</w>
-<w n="47,23">по<lb/>мыслить</w>
-<w n="47,23">ѿ</w>
-<w n="47,23">страны</w>
-<w n="47,23">ру<lb/>скыꙗ.</w>
-<w n="47,23">раздрушити <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="47,23">иже</w>
-<w n="47,23">помысли<hi rend="sup">т</hi></w>
-<w n="47,23">ѿ</w>
-<w n="47,23">страны</w>
-<w n="47,23">роу<hi rend="sup">с</hi>кыа</w>
-<w n="47,23">раз<hi rend="sup">д</hi>роушити <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="47,23">иже</w>
-<w n="47,23">помыслить</w>
-<w n="47,23">отъ</w>
-<w n="47,23">страны</w>
-<w n="47,23">Руския</w>
-<w n="47,23">разрушити</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="47,23">иже</w>
-<w n="47,23">помыслять</w>
-<w n="47,23">отъ</w>
-<w n="47,23">страны</w>
-<w n="47,23">Русьскыя</w>
-<w n="47,23">раздрушити</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="47,23">еже</w>
-<w n="47,23">помыслить</w>
-<w n="47,23">от</w>
-<w n="47,23">страны</w>
-<w n="47,23">руския</w>
-<w n="47,23">разрушити</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>47, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="47"/><div type="block" n="23"><p><app><lem wit="#lem">
+            Иже помыслять отъ страны Русьскыя раздрушити
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">иже помыслить ѿ стра<lb/>ны рускиꙗ. разрушити</rdg>
+            <rdg wit="#rad">иже помыслить ѿ страны рѹскыꙗ. <lb/> разрѹшити</rdg>
+            <rdg wit="#aka">иже мыслїть ѿ рѹс<hi rend="sup">с</hi>кїа страны. разрѹ<lb/>шити</rdg>
+            <rdg wit="#ipa">иже по<lb/>мыслить ѿ страны ру<lb/>скыꙗ. раздрушити <lb/></rdg>
+            <rdg wit="#xle">иже помысли<hi rend="sup">т</hi> ѿ страны роу<hi rend="sup">с</hi>кыа раз<hi rend="sup">д</hi>роушити
+                <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">иже помыслить отъ страны Руския разрушити</rdg><rdg wit="#shakh">иже помыслять отъ страны Русьскыя раздрушити</rdg><rdg wit="#likh">еже помыслить от страны руския разрушити</rdg></rdgGrp></app></p></div></body></text></TEI>

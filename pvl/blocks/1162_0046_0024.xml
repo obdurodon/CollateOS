@@ -1,76 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>46, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="46"/><div type="block" n="24"><p>
-<app>
-<lem wit="#lem">
-<w n="46,24">Слуды</w>
-<w n="46,24">Игоревъ,</w>
-<w n="46,24">нетия</w>
-<w n="46,24">Игорева;</w>
-<w n="46,24">Улѣбъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="46,24">слуды</w>
-<w n="46,24">игоревъ.</w>
-<w n="46,24">нети</w>
-<w n="46,24">и<milestone unit="sic" n="start"/>го<milestone unit="sic" n="end"/><lb/>ревъ.</w>
-<w n="46,24">оулѣ<milestone unit="sic" n="start"/>бъ<milestone unit="sic" n="end"/></w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="46,24">слоу<lb/>гъ</w>
-<w n="46,24">игоревъ.</w>
-<w n="46,24">нетии</w>
-<w n="46,24">игоревъ.</w>
-<w n="46,24">оулѣбъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="46,24">слѹ<hi rend="sup">д</hi><lb/></w>
-<w n="46,24">игоревь.</w>
-<w n="46,24">нетїи</w>
-<w n="46,24">игоревь.</w>
-<w n="46,24">оу<milestone unit="add" n="start" place="margin"/>лѣ<milestone unit="add" n="end"/>бъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="46,24">слуды</w>
-<w n="46,24">и<lb/>горевъ.</w>
-<w n="46,24">нетии</w>
-<w n="46,24">игоревъ.</w>
-<w n="46,24">оулѣбъ <pb n="18c"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="46,24">слоуды</w>
-<w n="46,24">игоревь.</w>
-<w n="46,24">нетїи</w>
-<w n="46,24">игоревь. <lb/></w>
-
-<w n="46,24">оулѣбь</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="46,24">Слуды</w>
-<w n="46,24">Игоревъ,</w>
-<w n="46,24">нети</w>
-<w n="46,24">Игоревъ;</w>
-<w n="46,24">Улѣбъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="46,24">Слуды</w>
-<w n="46,24">Игоревъ,</w>
-<w n="46,24">нетия</w>
-<w n="46,24">Игорева;</w>
-<w n="46,24">Улѣбъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="46,24">Слуды</w>
-<w n="46,24">Игоревъ,</w>
-<w n="46,24">нети</w>
-<w n="46,24">Игоревъ;</w>
-<w n="46,24">Улѣбъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>46, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="46"/><div type="block" n="24"><p><app><lem wit="#lem">
+            Слуды Игоревъ, нетия Игорева; Улѣбъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">слуды игоревъ. нети и<sic>го</sic><lb/>ревъ.
+                оулѣ<sic>бъ</sic></rdg>
+            <rdg wit="#rad">слоу<lb/>гъ игоревъ. нетии игоревъ. оулѣбъ</rdg>
+            <rdg wit="#aka">слѹ<hi rend="sup">д</hi>
+                <lb/> игоревь. нетїи игоревь. оу<add place="margin">лѣ</add>бъ</rdg>
+            <rdg wit="#ipa">слуды и<lb/>горевъ. нетии игоревъ. оулѣбъ <pb n="18c"/></rdg>
+            <rdg wit="#xle">слоуды игоревь. нетїи игоревь. <lb/> оулѣбь</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Слуды Игоревъ, нети Игоревъ; Улѣбъ</rdg><rdg wit="#shakh">Слуды Игоревъ, нетия Игорева; Улѣбъ</rdg><rdg wit="#likh">Слуды Игоревъ, нети Игоревъ; Улѣбъ</rdg></rdgGrp></app></p></div></body></text></TEI>

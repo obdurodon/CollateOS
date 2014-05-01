@@ -1,109 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>65, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="65"/><div type="block" n="27"><p>
-<app>
-<lem wit="#lem">
-<w n="65,27">людие</w>
-<w n="65,27">гладъмь</w>
-<w n="65,27">и</w>
-<w n="65,27">водою.</w>
-<w n="65,27">Събьравъше</w>
-<w n="65,27">ся</w>
-<w n="65,27">людье</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="65,27">же <lb/></w>
-
-<w n="65,27">людье</w>
-<w n="65,27">гладомъ</w>
-<w n="65,27">и</w>
-<w n="65,27">водою.</w>
-<w n="65,27">собравшесѧ</w>
-<w n="65,27">людье. <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="65,27">лю<hi rend="sup">д</hi>е</w>
-<w n="65,27">гла<hi rend="sup">д</hi>мъ.</w>
-<w n="65,27">и</w>
-<w n="65,27">водою.</w>
-<w n="65,27">собравше<hi rend="sup">с</hi></w>
-<w n="65,27">лю<hi rend="sup">д</hi>е</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="65,27">сѧ</w>
-<w n="65,27">людїе</w>
-<w n="65,27">гла<lb/>домъ.</w>
-<w n="65,27">и</w>
-<w n="65,27">водою.</w>
-<w n="65,27">собравшесѧ</w>
-<w n="65,27">людїе.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="65,27">лю<hi rend="sup">д</hi>е</w>
-<w n="65,27">гладо<hi rend="sup">м</hi><lb/></w>
-<w n="65,27">и</w>
-<w n="65,27">водою.</w>
-<w n="65,27">и</w>
-<w n="65,27">събравшесѧ <lb/></w>
-
-<w n="65,27">лю<hi rend="sup">д</hi>е</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="65,27">лю<hi rend="sup">д</hi>е<hi rend="sup">ї</hi></w>
-<w n="65,27">гладѡ<hi rend="sup">м</hi></w>
-<w n="65,27">и</w>
-<w n="65,27">водою. <lb/></w>
-
-<w n="65,27">и</w>
-<w n="65,27">събравшесѧ</w>
-<w n="65,27">лю<hi rend="sup">д</hi>е<hi rend="sup">ї</hi></w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="65,27">людие</w>
-<w n="65,27">гладомъ</w>
-<w n="65,27">и</w>
-<w n="65,27">жажею</w>
-<w n="65,27">собравшесꙗ</w>
-<w n="65,27">людие</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="65,27">людие</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="65,27">же</w>
-<w n="65,27">людье</w>
-<w n="65,27">гладомъ</w>
-<w n="65,27">и</w>
-<w n="65,27">водою.</w>
-<w n="65,27">Собравшеся</w>
-<w n="65,27">людье</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="65,27">же</w>
-<w n="65,27">людие</w>
-<w n="65,27">гладъмь</w>
-<w n="65,27">и</w>
-<w n="65,27">водою.</w>
-<w n="65,27">И</w>
-<w n="65,27">събьравъшеся</w>
-<w n="65,27">людие</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="65,27">же</w>
-<w n="65,27">людье</w>
-<w n="65,27">гладомъ</w>
-<w n="65,27">и</w>
-<w n="65,27">водою.</w>
-<w n="65,27">Собрашеся</w>
-<w n="65,27">людье</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>65, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="65"/><div type="block" n="27"><p><app><lem wit="#lem">
+            людие гладъмь и водою. Събьравъше ся людье
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">же <lb/> людье гладомъ и водою. собравшесѧ людье. <lb/></rdg>
+            <rdg wit="#rad">лю<hi rend="sup">д</hi>е гла<hi rend="sup">д</hi>мъ. и водою. собравше<hi rend="sup">с</hi>
+                лю<hi rend="sup">д</hi>е</rdg>
+            <rdg wit="#aka">сѧ людїе гла<lb/>домъ. и водою. собравшесѧ людїе.</rdg>
+            <rdg wit="#ipa">лю<hi rend="sup">д</hi>е гладо<hi rend="sup">м</hi>
+                <lb/> и водою. и събравшесѧ <lb/> лю<hi rend="sup">д</hi>е</rdg>
+            <rdg wit="#xle">лю<hi rend="sup">д</hi>е<hi rend="sup">ї</hi> гладѡ<hi rend="sup">м</hi> и водою. <lb/> и събравшесѧ
+                    лю<hi rend="sup">д</hi>е<hi rend="sup">ї</hi></rdg>
+            <rdg wit="#kom">людие гладомъ и жажею собравшесꙗ людие</rdg>
+            <rdg wit="#tol">людие</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">же людье гладомъ и водою. Собравшеся людье</rdg><rdg wit="#shakh">же людие гладъмь и водою. И събьравъшеся людие</rdg><rdg wit="#likh">же людье гладомъ и водою. Собрашеся людье</rdg></rdgGrp></app></p></div></body></text></TEI>

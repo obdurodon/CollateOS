@@ -1,58 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>285, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="285"/><div type="block" n="7"><p>
-<app>
-<lem wit="#lem">
-<w n="285,7">буди</w>
-<w n="285,7">съ</w>
-<w n="285,7">тобою?”</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="285,7">буди</w>
-<w n="285,7">с</w>
-<w n="285,7">тобою·:· <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="285,7">боу<hi rend="sup">д</hi></w>
-<w n="285,7">с</w>
-<w n="285,7">тобою:</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="285,7">бѹди</w>
-<w n="285,7">с</w>
-<w n="285,7">то<lb/>бою:·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="285,7">бу<lb/>ди</w>
-<w n="285,7">с</w>
-<w n="285,7">тобою·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="285,7">б<hi rend="sup">д</hi>ѫ<hi rend="sup">и</hi></w>
-<w n="285,7">с</w>
-<w n="285,7">тобою.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="285,7">буди</w>
-<w n="285,7">с</w>
-<w n="285,7">тобою?</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="285,7">буди</w>
-<w n="285,7">съ</w>
-<w n="285,7">тобою?”] <pb n="ends at 333,18"/></w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="285,7">буди</w>
-<w n="285,7">с</w>
-<w n="285,7">тобою?”</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>285, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="285"/><div type="block" n="7"><p><app><lem wit="#lem">
+            буди съ тобою?”
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">буди с тобою·:· <lb/></rdg>
+            <rdg wit="#rad">боу<hi rend="sup">д</hi> с тобою:</rdg>
+            <rdg wit="#aka">бѹди с то<lb/>бою:·</rdg>
+            <rdg wit="#ipa">бу<lb/>ди с тобою·</rdg>
+            <rdg wit="#xle">б<hi rend="sup">д</hi>ѫ<hi rend="sup">и</hi> с тобою.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">буди с тобою?</rdg><rdg wit="#shakh">буди съ тобою?”] <pb n="ends at 333,18"/></rdg><rdg wit="#likh">буди с тобою?”</rdg></rdgGrp></app></p></div></body></text></TEI>

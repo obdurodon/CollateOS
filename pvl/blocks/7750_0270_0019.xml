@@ -1,92 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="270"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-<w n="270,19">прибѣже</w>
-<w n="270,19">Володимирю,</w>
-<w n="270,19">и</w>
-<w n="270,19">съ</w>
-<w n="270,19">нимь</w>
-<w n="270,19">сына</w>
-<w n="270,19">его</w>
-<w n="270,19">дъва</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="270,19">прибѣже</w>
-<w n="270,19">володимерю·</w>
-<w n="270,19">и</w>
-<w n="270,19">с</w>
-<w n="270,19">нї<lb/>мь</w>
-<w n="270,19">сн҃а</w>
-<w n="270,19">ѥго</w>
-<w n="270,19">·в҃·</w>
-<w n="270,19">и</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="270,19">прибѣже</w>
-<w n="270,19">володимерю·</w>
-<w n="270,19">и <lb/></w>
-
-<w n="270,19">с</w>
-<w n="270,19">нимь</w>
-<w n="270,19">сн҃а</w>
-<w n="270,19">его</w>
-<w n="270,19">два·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="270,19">прибѣже <lb/></w>
-
-<w n="270,19">к</w>
-<w n="270,19">вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>мерю.</w>
-<w n="270,19">и</w>
-<w n="270,19">с</w>
-<w n="270,19">ни<hi rend="sup">м</hi></w>
-<w n="270,19">сн҃а</w>
-<w n="270,19">его</w>
-<w n="270,19">два·̏,</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="270,19">прибѣже</w>
-<w n="270,19">Володимерю,</w>
-<w n="270,19">и</w>
-<w n="270,19">с</w>
-<w n="270,19">німь</w>
-<w n="270,19">сына</w>
-<w n="270,19">его 2,</w>
-
-<w n="270,19">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="270,19">прибѣже</w>
-<w n="270,19">Володимерю,</w>
-<w n="270,19">и</w>
-<w n="270,19">съ</w>
-<w n="270,19">нимь</w>
-<w n="270,19">сына</w>
-<w n="270,19">его</w>
-<w n="270,19">дъва</w>
-<w n="270,19">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="270,19">прибѣже</w>
-<w n="270,19">Володимерю,</w>
-<w n="270,19">и</w>
-<w n="270,19">с</w>
-<w n="270,19">нимь</w>
-<w n="270,19">сына</w>
-<w n="270,19">его 2,</w>
-
-<w n="270,19">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="270"/><div type="block" n="19"><p><app><lem wit="#lem">
+            прибѣже Володимирю, и съ нимь сына его дъва
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">прибѣже володимерю· и с нї<lb/>мь сн҃а ѥго ·в҃· и</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">прибѣже володимерю· и <lb/> с нимь сн҃а его два·</rdg>
+            <rdg wit="#xle">прибѣже <lb/> к вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>мерю. и с ни<hi rend="sup">м</hi> сн҃а его
+                два·̏,</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">прибѣже Володимерю, и с німь сына его 2, и</rdg><rdg wit="#shakh">прибѣже Володимерю, и съ нимь сына его дъва и</rdg><rdg wit="#likh">прибѣже Володимерю, и с нимь сына его 2, и</rdg></rdgGrp></app></p></div></body></text></TEI>

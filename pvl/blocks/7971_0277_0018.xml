@@ -1,84 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>277, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="277"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="277,18">велико</w>
-<w n="277,18">добро</w>
-<w n="277,18">сътвориши</w>
-<w n="277,18">Русьскои</w>
-<w n="277,18">земли”.</w>
-<w n="277,18">И</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="277,18">велико</w>
-<w n="277,18">добро</w>
-<w n="277,18">створи<lb/>ши</w>
-<w n="277,18">землѣ</w>
-<w n="277,18">русскѣи·</w>
-<w n="277,18">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="277,18">велико</w>
-<w n="277,18">добро</w>
-<w n="277,18">сотвориши</w>
-<w n="277,18">роу<hi rend="sup">с</hi>скои</w>
-<w n="277,18">земли:- <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="277,18">велико</w>
-<w n="277,18">до<lb/>бро</w>
-<w n="277,18">сотвориши·</w>
-<w n="277,18">рѹ<hi rend="sup">с</hi>кои</w>
-<w n="277,18">земли:·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="277,18">велико</w>
-<w n="277,18">добро</w>
-<w n="277,18">створиши <lb/></w>
-
-<w n="277,18">русьскои</w>
-<w n="277,18">земьли.</w>
-<w n="277,18">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="277,18">велико</w>
-<w n="277,18">добро</w>
-<w n="277,18">сътвориши</w>
-<w n="277,18">роу<hi rend="sup">с</hi>кои</w>
-<w n="277,18">зе<hi rend="sup">м</hi>ли.</w>
-<w n="277,18">и <pb n="119v"/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="277,18">велико</w>
-<w n="277,18">добро</w>
-<w n="277,18">створиши</w>
-<w n="277,18">землѣ</w>
-<w n="277,18">Русскѣй”.</w>
-<w n="277,18">И</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="277,18">велико</w>
-<w n="277,18">добро</w>
-<w n="277,18">сътвориши</w>
-<w n="277,18">землѣ</w>
-<w n="277,18">Русьстѣи”.</w>
-<w n="277,18">И</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="277,18">велико</w>
-<w n="277,18">добро</w>
-<w n="277,18">створиши</w>
-<w n="277,18">землѣ</w>
-<w n="277,18">Русскѣй”.</w>
-<w n="277,18">И</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>277, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="277"/><div type="block" n="18"><p><app><lem wit="#lem">
+            велико добро сътвориши Русьскои земли”. И
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">велико добро створи<lb/>ши землѣ русскѣи· и</rdg>
+            <rdg wit="#rad">велико добро сотвориши роу<hi rend="sup">с</hi>скои земли:- <lb/></rdg>
+            <rdg wit="#aka">велико до<lb/>бро сотвориши· рѹ<hi rend="sup">с</hi>кои земли:·</rdg>
+            <rdg wit="#ipa">велико добро створиши <lb/> русьскои земьли. и</rdg>
+            <rdg wit="#xle">велико добро сътвориши роу<hi rend="sup">с</hi>кои зе<hi rend="sup">м</hi>ли.  и
+                    <pb n="119v"/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">велико добро створиши землѣ Русскѣй”. И</rdg><rdg wit="#shakh">велико добро сътвориши землѣ Русьстѣи”. И</rdg><rdg wit="#likh">велико добро створиши землѣ Русскѣй”. И</rdg></rdgGrp></app></p></div></body></text></TEI>

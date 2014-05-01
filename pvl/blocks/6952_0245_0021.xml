@@ -1,51 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>245, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="245"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="245,21">оубогы<hi rend="sup">х</hi></w>
-<w n="245,21">не <lb/></w>
-
-<w n="245,21">забываите·</w>
-<w n="245,21">но</w>
-<w n="245,21">елико</w>
-<w n="245,21">могу<lb/>ще</w>
-<w n="245,21">по</w>
-<w n="245,21">силѣ</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="245,21">убогыхъ</w>
-<w n="245,21">не</w>
-<w n="245,21">забывайте,</w>
-<w n="245,21">но</w>
-<w n="245,21">елико</w>
-<w n="245,21">могуще</w>
-<w n="245,21">по</w>
-<w n="245,21">силѣ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="245,21">убогых</w>
-<w n="245,21">не</w>
-<w n="245,21">забывайте,</w>
-<w n="245,21">но</w>
-<w n="245,21">елико</w>
-<w n="245,21">могуще</w>
-<w n="245,21">по</w>
-<w n="245,21">силѣ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>245, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="245"/><div type="block" n="21"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">оубогы<hi rend="sup">х</hi> не <lb/> забываите· но елико могу<lb/>ще по силѣ</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">убогыхъ не забывайте, но елико могуще по силѣ</rdg><rdg wit="#likh">убогых не забывайте, но елико могуще по силѣ</rdg></rdgGrp></app></p></div></body></text></TEI>

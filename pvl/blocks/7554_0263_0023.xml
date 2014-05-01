@@ -1,77 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>263, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="263"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="263,23">твоима,</w>
-<w n="263,23">не</w>
-<w n="263,23">мозѣте</w>
-<w n="263,23">погубити</w>
-<w n="263,23">Русьскыя</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="263,23">твоима·</w>
-<w n="263,23">не</w>
-<w n="263,23">мозѣте <lb/></w>
-
-<w n="263,23">погубити</w>
-<w n="263,23">русьскыѣ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="263,23">твои<hi rend="sup">м</hi>.</w>
-<w n="263,23">не</w>
-<w n="263,23">мо<lb/>зит<milestone unit="sic" n="start"/>а<milestone unit="sic" n="end"/>.</w>
-<w n="263,23">погоубити·</w>
-<w n="263,23">роу<hi rend="sup">с</hi>киа</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="263,23">твоима·</w>
-<w n="263,23">не</w>
-<w n="263,23">мозита <lb/></w>
-
-<w n="263,23">погѹбити</w>
-<w n="263,23">рѹс<hi rend="sup">с</hi>кои</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="263,23">твоима· <lb/></w>
-
-<w n="263,23">не</w>
-<w n="263,23">мозѣте</w>
-<w n="263,23">погубити</w>
-<w n="263,23">русьскои</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="263,23">твоима.</w>
-<w n="263,23">не</w>
-<w n="263,23">моѕѣте</w>
-<w n="263,23">погоубити</w>
-<w n="263,23">роу<hi rend="sup">с</hi>кыа</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="263,23">твоима,</w>
-<w n="263,23">не</w>
-<w n="263,23">мозѣте</w>
-<w n="263,23">погубити</w>
-<w n="263,23">Русьскыѣ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="263,23">твоима,</w>
-<w n="263,23">не</w>
-<w n="263,23">мозѣте</w>
-<w n="263,23">погубити</w>
-<w n="263,23">Русьскыѣ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="263,23">твоима,</w>
-<w n="263,23">не</w>
-<w n="263,23">мозѣте</w>
-<w n="263,23">погубити</w>
-<w n="263,23">Русьскыѣ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>263, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="263"/><div type="block" n="23"><p><app><lem wit="#lem">
+            твоима, не мозѣте погубити Русьскыя
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">твоима· не мозѣте <lb/> погубити русьскыѣ</rdg>
+            <rdg wit="#rad">твои<hi rend="sup">м</hi>. не мо<lb/>зит<sic>а</sic>. погоубити·
+                роу<hi rend="sup">с</hi>киа</rdg>
+            <rdg wit="#aka">твоима· не мозита <lb/> погѹбити рѹс<hi rend="sup">с</hi>кои</rdg>
+            <rdg wit="#ipa">твоима· <lb/> не мозѣте погубити русьскои</rdg>
+            <rdg wit="#xle">твоима. не моѕѣте погоубити роу<hi rend="sup">с</hi>кыа</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">твоима, не мозѣте погубити Русьскыѣ</rdg><rdg wit="#shakh">твоима, не мозѣте погубити Русьскыѣ</rdg><rdg wit="#likh">твоима, не мозѣте погубити Русьскыѣ</rdg></rdgGrp></app></p></div></body></text></TEI>

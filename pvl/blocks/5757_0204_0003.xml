@@ -1,80 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>204, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="204"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="204,3">бѣсомь.</w>
-<w n="204,3">Любъве</w>
-<w n="204,3">ради</w>
-<w n="204,3">мученици</w>
-<w n="204,3">пролияша</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="204,3">бѣсовь<lb/>ское.</w>
-<w n="204,3">любве</w>
-<w n="204,3">ради</w>
-<w n="204,3">мчн҃ци</w>
-<w n="204,3">про<lb/>льꙗша</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="204,3">бесомъ. <lb/></w>
-
-<w n="204,3">любве</w>
-<w n="204,3">ра<hi rend="sup">д</hi></w>
-<w n="204,3">мчн҃ци</w>
-<w n="204,3">кровь</w>
-<w n="204,3">свою</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="204,3">бѣсомъ.</w>
-<w n="204,3">любве</w>
-<w n="204,3">ради</w>
-<w n="204,3">мчн҃ци</w>
-<w n="204,3">кровь</w>
-<w n="204,3">свою</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="204,3">бѣсомь.</w>
-<w n="204,3">любви <lb/></w>
-
-<w n="204,3">ради</w>
-<w n="204,3">мчн҃ци</w>
-<w n="204,3">прольꙗша <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="204,3">бѣсо<hi rend="sup">м</hi>.</w>
-<w n="204,3">любве</w>
-<w n="204,3">р<hi rend="sup">д</hi>а<hi rend="sup">и</hi></w>
-<w n="204,3">мчн҃ци <lb/></w>
-
-<w n="204,3">пролїаша</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="204,3">бѣсовьское;</w>
-<w n="204,3">любве</w>
-<w n="204,3">ради</w>
-<w n="204,3">мученици</w>
-<w n="204,3">прольяша</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="204,3">бѣсовьскыя;</w>
-<w n="204,3">любъве</w>
-<w n="204,3">ради</w>
-<w n="204,3">мученици</w>
-<w n="204,3">пролияша</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="204,3">бѣсовьское.</w>
-<w n="204,3">Любве</w>
-<w n="204,3">ради</w>
-<w n="204,3">мученици</w>
-<w n="204,3">прольяша</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>204, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="204"/><div type="block" n="3"><p><app><lem wit="#lem">
+            бѣсомь. Любъве ради мученици пролияша
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">бѣсовь<lb/>ское. любве ради мчн҃ци про<lb/>льꙗша</rdg>
+            <rdg wit="#rad">бесомъ. <lb/> любве ра<hi rend="sup">д</hi> мчн҃ци кровь свою</rdg>
+            <rdg wit="#aka">бѣсомъ. любве ради мчн҃ци кровь свою</rdg>
+            <rdg wit="#ipa">бѣсомь. любви <lb/> ради мчн҃ци прольꙗша <lb/></rdg>
+            <rdg wit="#xle">бѣсо<hi rend="sup">м</hi>. любве р<hi rend="sup">д</hi>а<hi rend="sup">и</hi> мчн҃ци <lb/> пролїаша</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">бѣсовьское; любве ради мученици прольяша</rdg><rdg wit="#shakh">бѣсовьскыя; любъве ради мученици пролияша</rdg><rdg wit="#likh">бѣсовьское. Любве ради мученици прольяша</rdg></rdgGrp></app></p></div></body></text></TEI>

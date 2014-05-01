@@ -1,77 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>214, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="214"/><div type="block" n="26"><p>
-<app>
-<lem wit="#lem">
-<w n="214,26">въ</w>
-<w n="214,26">мьчьтѣ:</w>
-<w n="214,26">в</w>
-<w n="214,26">нощи</w>
-<w n="214,26">бывъши</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="214,26">в</w>
-<w n="214,26">мечтѣ</w>
-<w n="214,26">ны</w>
-<w n="214,26">бываше</w>
-<w n="214,26">в</w>
-<w n="214,26">нощи</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="214,26">въ</w>
-<w n="214,26">ме<hi rend="sup">ч</hi>тѣ</w>
-<w n="214,26">бываше.</w>
-<w n="214,26">в</w>
-<w n="214,26">но<lb/>щи</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="214,26">в</w>
-<w n="214,26">мечтѣ</w>
-<w n="214,26">бываше·</w>
-<w n="214,26">в</w>
-<w n="214,26">нощи <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="214,26">оу</w>
-<w n="214,26">мечьтѣ·</w>
-<w n="214,26">и</w>
-<w n="214,26">в</w>
-<w n="214,26">нощи</w>
-<w n="214,26">бы<lb/>вши</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="214,26">в</w>
-<w n="214,26">мечтѣ</w>
-<w n="214,26">и</w>
-<w n="214,26">в</w>
-<w n="214,26">но<lb/>щи</w>
-<w n="214,26">бывши</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="214,26">въ</w>
-<w n="214,26">мечтѣ,</w>
-<w n="214,26">бываше</w>
-<w n="214,26">в</w>
-<w n="214,26">нощи</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="214,26">въ</w>
-<w n="214,26">мьчьтѣ:</w>
-<w n="214,26">бывъше</w>
-<w n="214,26">нощи</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="214,26">въ</w>
-<w n="214,26">мечтѣ:</w>
-<w n="214,26">бываше</w>
-<w n="214,26">в</w>
-<w n="214,26">нощи</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>214, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="214"/><div type="block" n="26"><p><app><lem wit="#lem">
+            въ мьчьтѣ: въ нощи бывъши
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">в мечтѣ ны бываше в нощи</rdg>
+            <rdg wit="#rad">въ ме<hi rend="sup">ч</hi>тѣ бываше. в но<lb/>щи</rdg>
+            <rdg wit="#aka">в мечтѣ бываше· в нощи <lb/></rdg>
+            <rdg wit="#ipa">оу мечьтѣ· и в нощи бы<lb/>вши</rdg>
+            <rdg wit="#xle">в мечтѣ и в но<lb/>щи бывши</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">въ мечтѣ, бываше в нощи</rdg><rdg wit="#shakh">въ мьчьтѣ: бывъше нощи</rdg><rdg wit="#likh">въ мечтѣ: бываше в нощи</rdg></rdgGrp></app></p></div></body></text></TEI>

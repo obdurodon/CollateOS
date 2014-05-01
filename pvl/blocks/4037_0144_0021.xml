@@ -1,88 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>144, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="144"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="144,21">рекъшю,</w>
-<w n="144,21">поидоша</w>
-<w n="144,21">противу</w>
-<w n="144,21">собѣ,</w>
-<w n="144,21">и</w>
-<w n="144,21">покрыша</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="144,21">рекшю</w>
-<w n="144,21">поидоша</w>
-<w n="144,21">проти<lb/>ву</w>
-<w n="144,21">собѣ.</w>
-<w n="144,21">и</w>
-<w n="144,21">покрыша</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="144,21">рекша</w>
-<w n="144,21">поидоша</w>
-<w n="144,21">противоу</w>
-<w n="144,21">собѣ.</w>
-<w n="144,21">и <lb/></w>
-
-<w n="144,21">покрыша</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="144,21">рекшю</w>
-<w n="144,21">и</w>
-<w n="144,21">поидоша</w>
-<w n="144,21">про<lb/>тивѹ</w>
-<w n="144,21">собѣ.</w>
-<w n="144,21">и</w>
-<w n="144,21">покрыша</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="144,21">рекшю.</w>
-<w n="144,21">и</w>
-<w n="144,21">поидоша <lb/></w>
-
-<w n="144,21">противу</w>
-<w n="144,21">собѣ.</w>
-<w n="144,21">и</w>
-<w n="144,21">покрыша <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="144,21">ре<hi rend="sup">к</hi><lb/>шоу.</w>
-<w n="144,21">поидоша</w>
-<w n="144,21">противоу</w>
-<w n="144,21">себѣ.</w>
-<w n="144,21">и</w>
-<w n="144,21">покрыша</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="144,21">рекшю,</w>
-<w n="144,21">поидоша</w>
-<w n="144,21">противу</w>
-<w n="144,21">собѣ,</w>
-<w n="144,21">и</w>
-<w n="144,21">покрыша</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="144,21">рекъшю,</w>
-<w n="144,21">поидоша</w>
-<w n="144,21">противу</w>
-<w n="144,21">собѣ,</w>
-<w n="144,21">и</w>
-<w n="144,21">покрыша</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="144,21">рекшю,</w>
-<w n="144,21">поидоша</w>
-<w n="144,21">противу</w>
-<w n="144,21">собѣ,</w>
-<w n="144,21">и</w>
-<w n="144,21">покрыша</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>144, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="144"/><div type="block" n="21"><p><app><lem wit="#lem">
+            рекъшю, поидоша противу собѣ, и покрыша
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">рекшю поидоша проти<lb/>ву собѣ. и покрыша</rdg>
+            <rdg wit="#rad">рекша поидоша противоу собѣ. и <lb/> покрыша</rdg>
+            <rdg wit="#aka">рекшю и поидоша про<lb/>тивѹ собѣ. и покрыша</rdg>
+            <rdg wit="#ipa">рекшю. и поидоша <lb/> противу собѣ. и покрыша <lb/></rdg>
+            <rdg wit="#xle">ре<hi rend="sup">к</hi><lb/>шоу. поидоша противоу себѣ. и покрыша</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">рекшю, поидоша противу собѣ, и покрыша</rdg><rdg wit="#shakh">рекъшю, поидоша противу собѣ, и покрыша</rdg><rdg wit="#likh">рекшю, поидоша противу собѣ, и покрыша</rdg></rdgGrp></app></p></div></body></text></TEI>

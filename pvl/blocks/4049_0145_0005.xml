@@ -1,104 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>145, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="145"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="145,5">женуть</w>
-<w n="145,5">по</w>
-<w n="145,5">насъ”.</w>
-<w n="145,5">Отроци</w>
-<w n="145,5">же</w>
-<w n="145,5">его</w>
-<w n="145,5">сылаху</w>
-<w n="145,5">противу:</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="145,5">женуть <lb/></w>
-
-<w n="145,5">по</w>
-<w n="145,5">насъ.</w>
-<w n="145,5">ѡтроци</w>
-<w n="145,5">же</w>
-<w n="145,5">ѥго</w>
-<w n="145,5">всыла<lb/>ху</w>
-<w n="145,5">противу.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="145,5">женоуть</w>
-<w n="145,5">по</w>
-<w n="145,5">на<hi rend="sup">с</hi>. <lb/></w>
-
-<w n="145,5">ѿроци</w>
-<w n="145,5">же</w>
-<w n="145,5">слахѹ</w>
-<w n="145,5">за</w>
-<w n="145,5">сѧ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="145,5">женѹтъ</w>
-<w n="145,5">по</w>
-<w n="145,5">насъ.</w>
-<w n="145,5">ѡтроци</w>
-<w n="145,5">же</w>
-<w n="145,5">слахѹ</w>
-<w n="145,5">за</w>
-<w n="145,5">сѧ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="145,5">женуть</w>
-<w n="145,5">по</w>
-<w n="145,5">насъ.</w>
-<w n="145,5">ѡ<lb/>тро<milestone unit="sic" n="start"/>ч<milestone unit="sic" n="end"/>и</w>
-<w n="145,5">же</w>
-<w n="145,5">его</w>
-<w n="145,5">посылаху</w>
-<w n="145,5">про<lb/>тиву.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="145,5">женоу<hi rend="sup">т</hi></w>
-<w n="145,5">по</w>
-<w n="145,5">на<hi rend="sup">с</hi>.</w>
-<w n="145,5">отроци</w>
-<w n="145,5">же</w>
-<w n="145,5">его</w>
-<w n="145,5">посылахѫ</w>
-<w n="145,5">противоу. <pb n="64v"/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="145,5">женуть</w>
-<w n="145,5">по</w>
-<w n="145,5">насъ”.</w>
-<w n="145,5">Отроци</w>
-<w n="145,5">же</w>
-<w n="145,5">его</w>
-<w n="145,5">всылаху</w>
-<w n="145,5">противу:</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="145,5">женуть</w>
-<w n="145,5">по</w>
-<w n="145,5">насъ”.</w>
-<w n="145,5">Отроци</w>
-<w n="145,5">же</w>
-<w n="145,5">его</w>
-<w n="145,5">въсылаху</w>
-<w n="145,5">противу,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="145,5">женуть</w>
-<w n="145,5">по</w>
-<w n="145,5">насъ”.</w>
-<w n="145,5">Отроци</w>
-<w n="145,5">же</w>
-<w n="145,5">его</w>
-<w n="145,5">всылаху</w>
-<w n="145,5">противу:</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>145, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="145"/><div type="block" n="5"><p><app><lem wit="#lem">
+            женуть по насъ”. Отроци же его сылаху противу:
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">женуть <lb/> по насъ. ѡтроци же ѥго всыла<lb/>ху противу.</rdg>
+            <rdg wit="#rad">женоуть по на<hi rend="sup">с</hi>. <lb/> ѿроци же слахѹ за сѧ.</rdg>
+            <rdg wit="#aka">женѹтъ по насъ. ѡтроци же слахѹ за сѧ.</rdg>
+            <rdg wit="#ipa">женуть по насъ. ѡ<lb/>тро<sic>ч</sic>и же его посылаху про<lb/>тиву.</rdg>
+            <rdg wit="#xle">женоу<hi rend="sup">т</hi>
+                 по на<hi rend="sup">с</hi>. отроци же его посылахѫ противоу.
+                <pb n="64v"/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">женуть по насъ”. Отроци же его всылаху противу:</rdg><rdg wit="#shakh">женуть по насъ”. Отроци же его въсылаху противу,</rdg><rdg wit="#likh">женуть по насъ”. Отроци же его всылаху противу:</rdg></rdgGrp></app></p></div></body></text></TEI>

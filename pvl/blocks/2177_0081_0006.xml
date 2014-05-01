@@ -1,107 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>81, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="81"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-<w n="81,6">чресла</w>
-<w n="81,6">своя,</w>
-<w n="81,6">утвьрди</w>
-<w n="81,6">мышьци</w>
-<w n="81,6">свои</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="81,6">чресла</w>
-<w n="81,6">своꙗ. <lb/></w>
-
-<w n="81,6">и</w>
-<w n="81,6">оутверди</w>
-<w n="81,6">мышцю</w>
-<w n="81,6">свою</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="81,6">своꙗ</w>
-<w n="81,6">крѣпко.</w>
-<w n="81,6">оутвер<hi rend="sup">д</hi>ить</w>
-<w n="81,6">мышци</w>
-<w n="81,6">своа <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="81,6">своѧ</w>
-<w n="81,6">крѣпко. <lb/></w>
-
-<w n="81,6">оутвердить</w>
-<w n="81,6">мышци</w>
-<w n="81,6">свои</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="81,6">чресла</w>
-<w n="81,6">своꙗ.</w>
-<w n="81,6">и</w>
-<w n="81,6">оутвѣрь<lb/>ди</w>
-<w n="81,6">мышьци</w>
-<w n="81,6">свои</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="81,6">чресла</w>
-<w n="81,6">своѧ.</w>
-<w n="81,6">и</w>
-<w n="81,6">оутверди</w>
-<w n="81,6">мышци</w>
-<w n="81,6">свои</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="81,6">чресла</w>
-<w n="81,6">своꙗ</w>
-<w n="81,6">и</w>
-<w n="81,6">утверди</w>
-<w n="81,6">мышци</w>
-<w n="81,6">свои</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="81,6">чресла</w>
-<w n="81,6">своꙗ</w>
-<w n="81,6">и</w>
-<w n="81,6">утверди</w>
-<w n="81,6">мышци</w>
-<w n="81,6">свои</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="81,6">чресла</w>
-<w n="81,6">своꙗ</w>
-<w n="81,6">и</w>
-<w n="81,6">утверди</w>
-<w n="81,6">мышци</w>
-<w n="81,6">свои</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="81,6">чресла</w>
-<w n="81,6">своя,</w>
-<w n="81,6">утвердить</w>
-<w n="81,6">мышци</w>
-<w n="81,6">своа</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="81,6">чресла</w>
-<w n="81,6">своя,</w>
-<w n="81,6">утвьрди</w>
-<w n="81,6">мышьци</w>
-<w n="81,6">свои</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="81,6">чресла</w>
-<w n="81,6">своя,</w>
-<w n="81,6">утвердить</w>
-<w n="81,6">мышци</w>
-<w n="81,6">своа</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>81, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="81"/><div type="block" n="6"><p><app><lem wit="#lem">
+            чресла своя, утвьрди мышьци свои
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">чресла своꙗ. <lb/> и оутверди мышцю свою</rdg>
+            <rdg wit="#rad">своꙗ крѣпко. оутвер<hi rend="sup">д</hi>ить мышци своа <lb/></rdg>
+            <rdg wit="#aka">своѧ крѣпко. <lb/> оутвердить мышци свои</rdg>
+            <rdg wit="#ipa">чресла своꙗ. и оутвѣрь<lb/>ди мышьци свои</rdg>
+            <rdg wit="#xle">чресла своѧ. и оутверди мышци свои</rdg>
+            <rdg wit="#kom">чресла своꙗ и утверди мышци свои</rdg>
+            <rdg wit="#nak">чресла своꙗ и утверди мышци свои</rdg>
+            <rdg wit="#tol">чресла своꙗ и утверди мышци свои</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">чресла своя, утвердить мышци своа</rdg><rdg wit="#shakh">чресла своя, утвьрди мышьци свои</rdg><rdg wit="#likh">чресла своя, утвердить мышци своа</rdg></rdgGrp></app></p></div></body></text></TEI>

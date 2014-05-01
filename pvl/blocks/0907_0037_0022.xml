@@ -1,90 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>37, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="37"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="37,22">ни</w>
-<w n="37,22">иному</w>
-<w n="37,22">отъ</w>
-<w n="37,22">страны</w>
-<w n="37,22">нашея</w>
-<w n="37,22">отъ</w>
-<w n="37,22">уставленыхъ</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="37,22">ни</w>
-<w n="37,22">и</w>
-<w n="37,22">ѡнѹ</w>
-<w n="37,22">ѿ</w>
-<w n="37,22">страны</w>
-<w n="37,22">нашеꙗ. <lb/></w>
-
-<w n="37,22">ѿ</w>
-<w n="37,22">оуставлены<hi rend="sup">х</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="37,22">ни</w>
-<w n="37,22">и<milestone unit="sic" n="start"/>ном<milestone unit="sic" n="end"/>ѹ</w>
-<w n="37,22">ѿ <lb/></w>
-
-<w n="37,22">страны</w>
-<w n="37,22">нашеꙗ.</w>
-<w n="37,22">ѿ</w>
-<w n="37,22">оуставлены<hi rend="sup">х</hi></w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="37,22">ни</w>
-<w n="37,22">иному</w>
-<w n="37,22">ѿ</w>
-<w n="37,22">страны</w>
-<w n="37,22">на<lb/>шеꙗ.</w>
-<w n="37,22">ѿ</w>
-<w n="37,22">оуставленыхъ <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="37,22">ни</w>
-<w n="37,22">иномоу</w>
-<w n="37,22">ѿ</w>
-<w n="37,22">страны</w>
-<w n="37,22">нашеа. <lb/></w>
-
-<w n="37,22">ѿ</w>
-<w n="37,22">оуставленны<hi rend="sup">х</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="37,22">ни</w>
-<w n="37,22">иному</w>
-<w n="37,22">отъ</w>
-<w n="37,22">страны</w>
-<w n="37,22">нашея</w>
-<w n="37,22">отъ</w>
-<w n="37,22">уставленыхъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="37,22">ни</w>
-<w n="37,22">иному</w>
-<w n="37,22">отъ</w>
-<w n="37,22">страны</w>
-<w n="37,22">нашея</w>
-<w n="37,22">отъ</w>
-<w n="37,22">уставленыхъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="37,22">ни</w>
-<w n="37,22">иному</w>
-<w n="37,22">от</w>
-<w n="37,22">страны</w>
-<w n="37,22">нашея</w>
-<w n="37,22">от</w>
-<w n="37,22">уставленых</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>37, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="37"/><div type="block" n="22"><p><app><lem wit="#lem">
+            ни иному отъ страны нашея отъ уставленыхъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">ни и ѡнѹ ѿ страны нашеꙗ. <lb/> ѿ оуставлены<hi rend="sup">х</hi></rdg>
+            <rdg wit="#aka">ни и<sic>ном</sic>ѹ ѿ <lb/> страны нашеꙗ. ѿ оуставлены<hi rend="sup">х</hi></rdg>
+            <rdg wit="#ipa">ни иному ѿ страны на<lb/>шеꙗ. ѿ оуставленыхъ <lb/></rdg>
+            <rdg wit="#xle">ни иномоу ѿ страны нашеа. <lb/> ѿ оуставленны<hi rend="sup">х</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">ни иному отъ страны нашея отъ уставленыхъ</rdg><rdg wit="#shakh">ни иному отъ страны нашея отъ уставленыхъ</rdg><rdg wit="#likh">ни иному от страны нашея от уставленых</rdg></rdgGrp></app></p></div></body></text></TEI>

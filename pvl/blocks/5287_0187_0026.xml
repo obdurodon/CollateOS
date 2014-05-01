@@ -1,95 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>187, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="187"/><div type="block" n="26"><p>
-<app>
-<lem wit="#lem">
-<w n="187,26">и</w>
-<w n="187,26">иде</w>
-<w n="187,26">отъ</w>
-<w n="187,26">него.</w>
-<w n="187,26">Семому</w>
-<w n="187,26">же</w>
-<w n="187,26">дьни</w>
-<w n="187,26">пришьдъшю,</w>
-<w n="187,26">изнемагающю,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="187,26">и</w>
-<w n="187,26">иде</w>
-<w n="187,26">ѿ</w>
-<w n="187,26">него.</w>
-<w n="187,26">семому</w>
-<w n="187,26">же</w>
-<w n="187,26">дн҃и <lb/></w>
-
-<w n="187,26">пришедшю.</w>
-<w n="187,26">призва</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="187,26">и</w>
-<w n="187,26">ѿд<hi rend="sup">и</hi>е</w>
-<w n="187,26">ѿ <lb/></w>
-
-<w n="187,26">него.</w>
-<w n="187,26">се<hi rend="sup">м</hi>м<hi rend="sup">о</hi>у</w>
-<w n="187,26">же</w>
-<w n="187,26">дн҃и</w>
-<w n="187,26">пришед҃шю <lb/></w>
-
-<w n="187,26">изнемогающю</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="187,26">и</w>
-<w n="187,26">ѿиде</w>
-<w n="187,26">ѿ</w>
-<w n="187,26">него.</w>
-<w n="187,26">се<hi rend="sup">д</hi><lb/>момоу<hi rend="sup">ж</hi></w>
-<w n="187,26">дн҃и</w>
-<w n="187,26">прише<hi rend="sup">д</hi>шоу.</w>
-<w n="187,26">изнемогающѫ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="187,26">и</w>
-<w n="187,26">иде</w>
-<w n="187,26">отъ</w>
-<w n="187,26">него.</w>
-<w n="187,26">Семому</w>
-<w n="187,26">же</w>
-<w n="187,26">дни</w>
-<w n="187,26">пришедшю,</w>
-<w n="187,26">призва</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="187,26">и</w>
-<w n="187,26">иде</w>
-<w n="187,26">отъ</w>
-<w n="187,26">него.</w>
-<w n="187,26">Семому</w>
-<w n="187,26">же</w>
-<w n="187,26">дьни</w>
-<w n="187,26">пришьдъшю,</w>
-<w n="187,26">уже</w>
-<w n="187,26">изнемагающю</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="187,26">и</w>
-<w n="187,26">иде</w>
-<w n="187,26">от</w>
-<w n="187,26">него.</w>
-<w n="187,26">Семому</w>
-<w n="187,26">же</w>
-<w n="187,26">дни</w>
-<w n="187,26">пришедшю,</w>
-<w n="187,26">призва</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>187, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="187"/><div type="block" n="26"><p><app><lem wit="#lem">
+            и иде отъ него. Семому же дьни пришьдъшю, изнемагающю,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и иде ѿ него. семому же дн҃и <lb/> пришедшю. призва</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">и ѿд<hi rend="sup">и</hi>е ѿ <lb/> него. се<hi rend="sup">м</hi>м<hi rend="sup">о</hi>у же дн҃и пришед҃шю
+                <lb/> изнемогающю</rdg>
+            <rdg wit="#xle">и ѿиде ѿ него. се<hi rend="sup">д</hi><lb/>момоу<hi rend="sup">ж</hi> дн҃и прише<hi rend="sup">д</hi>шоу.
+                изнемогающѫ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и иде отъ него. Семому же дни пришедшю, призва</rdg><rdg wit="#shakh">и иде отъ него. Семому же дьни пришьдъшю, уже изнемагающю</rdg><rdg wit="#likh">и иде от него. Семому же дни пришедшю, призва</rdg></rdgGrp></app></p></div></body></text></TEI>

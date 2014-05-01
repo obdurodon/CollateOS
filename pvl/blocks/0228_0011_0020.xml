@@ -1,76 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>11, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="11"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="11,20">землю</w>
-<w n="11,20">Словѣньску</w>
-<w n="11,20">прогънавъше</w>
-<w n="11,20">Волохы,</w>
-<w n="11,20">иже</w>
-<w n="11,20">бѣша</w>
-<w n="11,20">преже</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="11,20">з<hi rend="sup">е</hi><lb/>млю</w>
-<w n="11,20">словѣньску.</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="11,20">землю</w>
-<w n="11,20">словѣньску</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="11,20">землю</w>
-<w n="11,20">словеньскоу.</w>
-<w n="11,20">прогнавши</w>
-<w n="11,20">волохы.</w>
-<w n="11,20">и<hi rend="sup">ж</hi></w>
-<w n="11,20">бѣша <lb/></w>
-
-<w n="11,20">пре<hi rend="sup">ж</hi>.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="11,20">землю</w>
-<w n="11,20">словѣньскѹ.</w>
-<w n="11,20">прогнавше</w>
-<w n="11,20">волохы.</w>
-<w n="11,20">иже</w>
-<w n="11,20">бѣша</w>
-<w n="11,20">преже.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="11,20">землю</w>
-<w n="11,20">словѣнь<lb/>скую.</w>
-<w n="11,20">прогнавше</w>
-<w n="11,20">вололо<lb/>хы.</w>
-<w n="11,20">иже</w>
-<w n="11,20">бѣша</w>
-<w n="11,20">преже</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="11,20">землю</w>
-<w n="11,20">Словѣньску;</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="11,20">землю</w>
-<w n="11,20">Словѣньску,</w>
-<w n="11,20">прогънавъше</w>
-<w n="11,20">Волохы,</w>
-<w n="11,20">иже</w>
-<w n="11,20">бѣша</w>
-<w n="11,20">преже</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="11,20">землю</w>
-<w n="11,20">словѣньску.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>11, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="11"/><div type="block" n="20"><p><app><lem wit="#lem">
+            землю Словѣньску прогънавъше Волохы, иже бѣша преже
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">з<hi rend="sup">е</hi><lb/>млю словѣньску.</rdg>
+            <rdg wit="#tro">землю словѣньску</rdg>
+            <rdg wit="#rad">землю словеньскоу. прогнавши волохы. и<hi rend="sup">ж</hi> бѣша <lb/>
+                пре<hi rend="sup">ж</hi>.</rdg>
+            <rdg wit="#aka">землю словѣньскѹ. прогнавше волохы. иже бѣша преже.</rdg>
+            <rdg wit="#ipa">землю словѣнь<lb/>скую. прогнавше вололо<lb/>хы. иже бѣша преже</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">землю Словѣньску;</rdg><rdg wit="#shakh">землю Словѣньску, прогънавъше Волохы, иже бѣша преже</rdg><rdg wit="#likh">землю словѣньску.</rdg></rdgGrp></app></p></div></body></text></TEI>

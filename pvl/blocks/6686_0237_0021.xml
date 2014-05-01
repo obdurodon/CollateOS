@@ -1,88 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>237, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="237"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="237,21">на</w>
-<w n="237,21">Суждаль.</w>
-<w n="237,21">И</w>
-<w n="237,21">пришьдъ</w>
-<w n="237,21">Суждалю,</w>
-<w n="237,21">и</w>
-<w n="237,21">Суждальци</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="237,21">на</w>
-<w n="237,21">суждаль·</w>
-<w n="237,21">и</w>
-<w n="237,21">шедъ</w>
-<w n="237,21">сужда<lb/>лю</w>
-<w n="237,21">и</w>
-<w n="237,21">суждалци</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="237,21">на <lb/></w>
-
-<w n="237,21">сѹз<hi rend="sup">д</hi>аль.</w>
-<w n="237,21">и</w>
-<w n="237,21">прїиде</w>
-<w n="237,21">к</w>
-<w n="237,21">сѹз<hi rend="sup">д</hi>алю·</w>
-<w n="237,21">и</w>
-<w n="237,21">сѹз<hi rend="sup">д</hi>алци</w>
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="237,21">на</w>
-<w n="237,21">су<lb/>ждаль·</w>
-<w n="237,21">и</w>
-<w n="237,21">пришедъ</w>
-<w n="237,21">суждалю <lb/></w>
-
-<w n="237,21">и</w>
-<w n="237,21">суждалци</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="237,21">на</w>
-<w n="237,21">сѫж<hi rend="sup">д</hi>аль.</w>
-<w n="237,21">и</w>
-<w n="237,21">при<lb/>ше<hi rend="sup">д</hi></w>
-<w n="237,21">к</w>
-<w n="237,21">сѫж<hi rend="sup">д</hi>алю.</w>
-<w n="237,21">сѫж<hi rend="sup">д</hi>алци</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="237,21">на</w>
-<w n="237,21">Суждаль;</w>
-<w n="237,21">и</w>
-<w n="237,21">пришедъ</w>
-<w n="237,21">Суждалю,</w>
-<w n="237,21">и</w>
-<w n="237,21">Суждалци</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="237,21">на</w>
-<w n="237,21">Суждаль;</w>
-<w n="237,21">и</w>
-<w n="237,21">пришьдъ</w>
-<w n="237,21">Суждалю,</w>
-<w n="237,21">и</w>
-<w n="237,21">Суждальци</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="237,21">на</w>
-<w n="237,21">Суждаль.</w>
-<w n="237,21">И</w>
-<w n="237,21">пришедъ</w>
-<w n="237,21">Суждалю,</w>
-<w n="237,21">и</w>
-<w n="237,21">суждалци</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>237, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="237"/><div type="block" n="21"><p><app><lem wit="#lem">
+            на Суждаль. И пришьдъ Суждалю, и Суждальци
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">на суждаль· и шедъ сужда<lb/>лю и суждалци</rdg>
+            <rdg wit="#rad">на <lb/> сѹз<hi rend="sup">д</hi>аль. и прїиде к сѹз<hi rend="sup">д</hi>алю· и
+                сѹз<hi rend="sup">д</hi>алци</rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">на су<lb/>ждаль· и пришедъ суждалю <lb/> и суждалци</rdg>
+            <rdg wit="#xle">на сѫж<hi rend="sup">д</hi>аль. и при<lb/>ше<hi rend="sup">д</hi> к сѫж<hi rend="sup">д</hi>алю.
+                    сѫж<hi rend="sup">д</hi>алци</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">на Суждаль; и пришедъ Суждалю, и Суждалци</rdg><rdg wit="#shakh">на Суждаль; и пришьдъ Суждалю, и Суждальци</rdg><rdg wit="#likh">на Суждаль. И пришедъ Суждалю, и суждалци</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,87 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>76, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="76"/><div type="block" n="17"><p>
-<app>
-<lem wit="#lem">
-<w n="76,17">на</w>
-<w n="76,17">Дорогожичи,</w>
-<w n="76,17">межю</w>
-<w n="76,17">Дорогожичьмь</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="76,17">на</w>
-<w n="76,17">дорогожичи.</w>
-<w n="76,17">м<hi rend="sup">е</hi><lb/>жю</w>
-<w n="76,17">дорогожичемъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="76,17">на</w>
-<w n="76,17">дорогожи<hi rend="sup">ч</hi><lb/></w>
-<w n="76,17">межи</w>
-<w n="76,17">дорогожиченъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="76,17">на</w>
-<w n="76,17">дорогожичи.</w>
-<w n="76,17">межи <lb/></w>
-
-<w n="76,17">дорогожичемь.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="76,17">на</w>
-<w n="76,17">дорогожичї.</w>
-<w n="76,17">межи</w>
-<w n="76,17">дорогожичемъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="76,17">на<hi rend="sup">д</hi>рогожичи,</w>
-<w n="76,17">межи <lb/></w>
-
-<w n="76,17">дорогожиче<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="76,17">володимеръ</w>
-<w n="76,17">обрывъсꙗ</w>
-<w n="76,17">межи</w>
-<w n="76,17">дорогожицемъ</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="76,17">володимеръ</w>
-<w n="76,17">обърывсꙗ</w>
-<w n="76,17">межи</w>
-<w n="76,17">дорогожицемъ</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="76,17">володимеръ</w>
-<w n="76,17">обърывсꙗ</w>
-<w n="76,17">межи</w>
-<w n="76,17">дорогожицемъ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="76,17">на</w>
-<w n="76,17">Дорогожичи,</w>
-<w n="76,17">межю</w>
-<w n="76,17">Дорогожичемъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="76,17">на</w>
-<w n="76,17">Дорогожичи,</w>
-<w n="76,17">межю</w>
-<w n="76,17">Дорогожичьмь</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="76,17">на</w>
-<w n="76,17">Дорогожичи,</w>
-<w n="76,17">межю</w>
-<w n="76,17">Дорогожичемъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>76, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="76"/><div type="block" n="17"><p><app><lem wit="#lem">
+            на Дорогожичи, межю Дорогожичьмь
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">на дорогожичи. м<hi rend="sup">е</hi><lb/>жю дорогожичемъ</rdg>
+            <rdg wit="#rad">на дорогожи<hi rend="sup">ч</hi>
+                <lb/> межи дорогожиченъ</rdg>
+            <rdg wit="#aka">на дорогожичи. межи <lb/> дорогожичемь.</rdg>
+            <rdg wit="#ipa">на дорогожичї. межи дорогожичемъ</rdg>
+            <rdg wit="#xle">на<hi rend="sup">д</hi>рогожичи, межи <lb/> дорогожиче<hi rend="sup">м</hi></rdg>
+            <rdg wit="#kom">володимеръ обрывъсꙗ межи дорогожицемъ</rdg>
+            <rdg wit="#nak">володимеръ обърывсꙗ межи дорогожицемъ</rdg>
+            <rdg wit="#tol">володимеръ обърывсꙗ межи дорогожицемъ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">на Дорогожичи, межю Дорогожичемъ</rdg><rdg wit="#shakh">на Дорогожичи, межю Дорогожичьмь</rdg><rdg wit="#likh">на Дорогожичи, межю Дорогожичемъ</rdg></rdgGrp></app></p></div></body></text></TEI>

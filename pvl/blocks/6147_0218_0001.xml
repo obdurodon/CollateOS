@@ -1,71 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>218, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="218"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="218,1">дьни,</w>
-<w n="218,1">и</w>
-<w n="218,1">прешьдъши</w>
-<w n="218,1">Праздьнѣи</w>
-<w n="218,1">недѣли,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="218,1">дн҃и <lb/></w>
-
-<w n="218,1">прешедши</w>
-<w n="218,1">празднѣи</w>
-<w n="218,1">недѣли·:· <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="218,1">дн҃и·</w>
-<w n="218,1">и <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="218,1">дн҃и·</w>
-<w n="218,1">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="218,1">дн҃и</w>
-<w n="218,1">и</w>
-<w n="218,1">прі<lb/>шедше</w>
-<w n="218,1">празднѣи</w>
-<w n="218,1">недѣли· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="218,1">дн҃и.</w>
-<w n="218,1">и</w>
-<w n="218,1">преше<hi rend="sup">д</hi>ши</w>
-<w n="218,1">празн<hi rend="sup">д</hi>ѣи</w>
-<w n="218,1">не<hi rend="sup">д</hi>ли.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="218,1">дни,</w>
-<w n="218,1">прешедши</w>
-<w n="218,1">Празднѣй</w>
-<w n="218,1">недѣли,</w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="218,1">дьни,</w>
-<w n="218,1">прешьдъши</w>
-<w n="218,1">праздьнѣи</w>
-<w n="218,1">недѣли,</w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="218,1">дни,</w>
-<w n="218,1">прешедши</w>
-<w n="218,1">Празднѣй</w>
-<w n="218,1">недѣли,</w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>218, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="218"/><div type="block" n="1"><p><app><lem wit="#lem">
+            дьни, и прешьдъши Праздьнѣи недѣли,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">дн҃и <lb/> прешедши празднѣи недѣли·:· <lb/></rdg>
+            <rdg wit="#rad">дн҃и· и <lb/></rdg>
+            <rdg wit="#aka">дн҃и· и</rdg>
+            <rdg wit="#ipa">дн҃и и прі<lb/>шедше празднѣи недѣли· <lb/></rdg>
+            <rdg wit="#xle">дн҃и. и преше<hi rend="sup">д</hi>ши празн<hi rend="sup">д</hi>ѣи не<hi rend="sup">д</hi>ли.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">дни, прешедши Празднѣй недѣли, <add place="margin">210,15</add></rdg><rdg wit="#shakh">дьни, прешьдъши праздьнѣи недѣли, <add place="margin">275,9</add></rdg><rdg wit="#likh">дни, прешедши Празднѣй недѣли, <add place="margin">143,5</add></rdg></rdgGrp></app></p></div></body></text></TEI>

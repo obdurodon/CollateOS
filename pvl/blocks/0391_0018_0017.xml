@@ -1,103 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="17"><p>
-<app>
-<lem wit="#lem">
-<w n="18,17">Яропълча</w>
-<w n="18,17">лѣтъ 28.</w>
-
-<w n="18,17">Яропълкъ</w>
-<w n="18,17">къняжи</w>
-<w n="18,17">лѣт 8;</w>
-
-<w n="18,17">а</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="18,17">ꙗрополча.</w>
-<w n="18,17">лѣ<hi rend="sup">т</hi></w>
-<w n="18,17">к҃и.</w>
-<w n="18,17">а</w>
-<w n="18,17">ꙗ<lb/>рополкъ</w>
-<w n="18,17">кнѧжи.</w>
-<w n="18,17">лѣ<hi rend="sup">т</hi></w>
-<w n="18,17">.и҃.</w>
-<w n="18,17">а</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-<w n="18,17">ꙗрополча.</w>
-<w n="18,17">лѣ<hi rend="sup">т</hi></w>
-<w n="18,17">.к҃и.</w>
-<w n="18,17">ꙗрополкъ <lb/></w>
-
-<w n="18,17">кнѧжи</w>
-<w n="18,17">лѣ<hi rend="sup">т</hi></w>
-<w n="18,17">.и҃.</w>
-<w n="18,17">а</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="18,17">ꙗрополча.</w>
-<w n="18,17">лѣ<hi rend="sup">т</hi></w>
-<w n="18,17">.к҃и.</w>
-<w n="18,17">ꙗрополкъ</w>
-<w n="18,17">кнѧжи</w>
-<w n="18,17">лѣ<hi rend="sup">т</hi>. <lb/></w>
-
-<w n="18,17">.и҃.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="18,17">ярополча.</w>
-<w n="18,17">лѣ<hi rend="sup">т</hi></w>
-<w n="18,17">.к҃и.</w>
-<w n="18,17">а</w>
-<w n="18,17">яропок<hi rend="sup">л</hi>ь <lb/></w>
-
-<w n="18,17">кнѧжи</w>
-<w n="18,17">лѣ<hi rend="sup">т</hi></w>
-<w n="18,17">и҃.</w>
-<w n="18,17">а</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="18,17">Ярополча</w>
-<w n="18,17">лѣтъ 28;</w>
-
-<w n="18,17">а</w>
-<w n="18,17">Ярополкъ</w>
-<w n="18,17">княжи</w>
-<w n="18,17">лѣтъ 8;</w>
-
-<w n="18,17">а</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="18,17">Яропълча</w>
-<w n="18,17">лѣтъ 28;</w>
-
-<w n="18,17">а</w>
-<w n="18,17">Яропълкъ</w>
-<w n="18,17">къняжи</w>
-<w n="18,17">лѣтъ 8;</w>
-
-<w n="18,17">а</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="18,17">Ярополча</w>
-<w n="18,17">лѣтъ 28;</w>
-
-<w n="18,17">а</w>
-<w n="18,17">Ярополкъ</w>
-<w n="18,17">княжи</w>
-<w n="18,17">лѣт 8;</w>
-
-<w n="18,17">а</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="17"><p><app><lem wit="#lem">
+            Яропълча лѣтъ 28. Яропълкъ къняжи лѣтъ 8; а
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ꙗрополча. лѣ<hi rend="sup">т</hi> к҃и. а ꙗ<lb/>рополкъ кнѧжи. лѣ<hi rend="sup">т</hi> .и҃. а</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">ꙗрополча. лѣ<hi rend="sup">т</hi> .к҃и. ꙗрополкъ <lb/> кнѧжи лѣ<hi rend="sup">т</hi> .и҃. а</rdg>
+            <rdg wit="#ipa">ꙗрополча. лѣ<hi rend="sup">т</hi> .к҃и. ꙗрополкъ кнѧжи лѣ<hi rend="sup">т</hi>. <lb/> .и҃.</rdg>
+            <rdg wit="#xle">ꙗрополча. лѣ<hi rend="sup">т</hi> .к҃и. а ꙗропок<hi rend="sup">л</hi>ь <lb/> кнѧжи лѣ<hi rend="sup">т</hi> и҃.
+                а</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Ярополча лѣтъ 28; а Ярополкъ княжи лѣтъ 8; а</rdg><rdg wit="#shakh">Яропълча лѣтъ 28; а Яропълкъ къняжи лѣтъ 8; а</rdg><rdg wit="#likh">Ярополча лѣтъ 28; а Ярополкъ княжи лѣт 8; а</rdg></rdgGrp></app></p></div></body></text></TEI>

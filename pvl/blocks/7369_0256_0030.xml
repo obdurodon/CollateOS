@@ -1,104 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>256, 30</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="256"/><div type="block" n="30"><p>
-<app>
-<lem wit="#lem">
-<w n="256,30">Половьци</w>
-<w n="256,30">землю</w>
-<w n="256,30">нашю</w>
-<w n="256,30">несуть</w>
-<w n="256,30">розьно,</w>
-<w n="256,30">и</w>
-<w n="256,30">ради</w>
-<w n="256,30">суть,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="256,30">по<lb/>ловци</w>
-<w n="256,30">землю</w>
-<w n="256,30">нашю</w>
-<w n="256,30">несуть</w>
-<w n="256,30">ро<lb/>зно·</w>
-<w n="256,30">и</w>
-<w n="256,30">ради</w>
-<w n="256,30">суть</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="256,30">поло<lb/>вци</w>
-<w n="256,30">нашю</w>
-<w n="256,30">землю</w>
-<w n="256,30">несоу<hi rend="sup">т</hi></w>
-<w n="256,30">розно.</w>
-<w n="256,30">и</w>
-<w n="256,30">р<hi rend="sup">д</hi>а<hi rend="sup">и</hi></w>
-<w n="256,30">соу<hi rend="sup">т</hi>.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="256,30">по<lb/>ловци</w>
-<w n="256,30">нашю</w>
-<w n="256,30">землю</w>
-<w n="256,30">несѹть</w>
-<w n="256,30">розно·</w>
-<w n="256,30">и</w>
-<w n="256,30">ради</w>
-<w n="256,30">сѹть</w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="256,30">половци</w>
-<w n="256,30">землю <lb/></w>
-
-<w n="256,30">нашю</w>
-<w n="256,30">несуть</w>
-<w n="256,30">роздно·</w>
-<w n="256,30">и</w>
-<w n="256,30">ра<lb/>ди</w>
-<w n="256,30">суть·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="256,30">полов′ци</w>
-<w n="256,30">землю <lb/></w>
-
-<w n="256,30">нашю</w>
-<w n="256,30">несѫ<hi rend="sup">т</hi></w>
-<w n="256,30">разно.</w>
-<w n="256,30">и</w>
-<w n="256,30">р<hi rend="sup">д</hi>а<hi rend="sup">и</hi></w>
-<w n="256,30">сѫ<hi rend="sup">т</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="256,30">Половци</w>
-<w n="256,30">землю</w>
-<w n="256,30">нашю</w>
-<w n="256,30">несуть</w>
-<w n="256,30">розно,</w>
-<w n="256,30">и</w>
-<w n="256,30">ради</w>
-<w n="256,30">суть,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="256,30">Половьци</w>
-<w n="256,30">землю</w>
-<w n="256,30">нашю</w>
-<w n="256,30">несуть</w>
-<w n="256,30">розно,</w>
-<w n="256,30">и</w>
-<w n="256,30">ради</w>
-<w n="256,30">суть,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="256,30">половци</w>
-<w n="256,30">землю</w>
-<w n="256,30">нашю</w>
-<w n="256,30">несуть</w>
-<w n="256,30">розно,</w>
-<w n="256,30">и</w>
-<w n="256,30">ради</w>
-<w n="256,30">суть,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>256, 30</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="256"/><div type="block" n="30"><p><app><lem wit="#lem">
+            Половьци землю нашю несуть розьно, и ради суть,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">по<lb/>ловци землю нашю несуть ро<lb/>зно· и ради суть</rdg>
+            <rdg wit="#rad">поло<lb/>вци нашю землю несоу<hi rend="sup">т</hi> розно. и р<hi rend="sup">д</hi>а<hi rend="sup">и</hi>
+                    соу<hi rend="sup">т</hi>.</rdg>
+            <rdg wit="#aka">по<lb/>ловци нашю землю несѹть розно· и ради сѹть </rdg>
+            <rdg wit="#ipa">половци землю <lb/> нашю несуть роздно· и ра<lb/>ди суть·</rdg>
+            <rdg wit="#xle">полов′ци землю <lb/> нашю несѫ<hi rend="sup">т</hi> разно. и р<hi rend="sup">д</hi>а<hi rend="sup">и</hi>
+                    сѫ<hi rend="sup">т</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Половци землю нашю несуть розно, и ради суть,</rdg><rdg wit="#shakh">Половьци землю нашю несуть розно, и ради суть,</rdg><rdg wit="#likh">половци землю нашю несуть розно, и ради суть,</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,82 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>276, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="276"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="276,9">Мьстислава,</w>
-<w n="276,9">поидоша</w>
-<w n="276,9">Новугороду.</w>
-<w n="276,9">Въ</w>
-<w n="276,9">тоже</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="276,9">мсти<lb/>слава</w>
-<w n="276,9">придоша</w>
-<w n="276,9">новугоро<lb/>ду·</w>
-<w n="276,9">в</w>
-<w n="276,9">тоже·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="276,9">мстисла<lb/>ва,</w>
-<w n="276,9">и</w>
-<w n="276,9">ведоша</w>
-<w n="276,9">новѹгородоу:- <lb/></w>
-
-<w n="276,9">тоже</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="276,9">мьстислава·</w>
-<w n="276,9">ведоша</w>
-<w n="276,9">к</w>
-<w n="276,9">новѹгородѹ:· <lb/></w>
-
-<w n="276,9">И</w>
-<w n="276,9">в</w>
-<w n="276,9">тоже</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="276,9">мь<lb/>стислава·</w>
-<w n="276,9">поидоша</w>
-<w n="276,9">новугоро<lb/>ду</w>
-<w n="276,9">В</w>
-<w n="276,9">тоже</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="276,9">мьстислава, <lb/></w>
-
-<w n="276,9">поидоша</w>
-<w n="276,9">к′</w>
-<w n="276,9">новоугородоу.</w>
-<w n="276,9">В</w>
-<w n="276,9">то<hi rend="sup">ж</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="276,9">Мстислава,</w>
-<w n="276,9">придоша</w>
-<w n="276,9">Новугороду.</w>
-<w n="276,9">В</w>
-<w n="276,9">то</w>
-<w n="276,9">же</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="276,9">Мьстислава,</w>
-<w n="276,9">придоша</w>
-<w n="276,9">Новугороду.</w>
-<w n="276,9">Въ</w>
-<w n="276,9">тоже</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="276,9">Мстислава,</w>
-<w n="276,9">придоша</w>
-<w n="276,9">Новугороду.</w>
-<w n="276,9">В</w>
-<w n="276,9">то</w>
-<w n="276,9">же</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>276, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="276"/><div type="block" n="9"><p><app><lem wit="#lem">
+            Мьстислава, поидоша Новугороду. Въ тоже
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">мсти<lb/>слава придоша новугоро<lb/>ду· в тоже·</rdg>
+            <rdg wit="#rad">мстисла<lb/>ва, и ведоша новѹгородоу:- <lb/> тоже</rdg>
+            <rdg wit="#aka">мьстислава· ведоша к новѹгородѹ:· <lb/> И в тоже</rdg>
+            <rdg wit="#ipa">мь<lb/>стислава· поидоша новугоро<lb/>ду В тоже</rdg>
+            <rdg wit="#xle">мьстислава, <lb/> поидоша к′ новоугородоу. В то<hi rend="sup">ж</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Мстислава, придоша Новугороду. В то же</rdg><rdg wit="#shakh">Мьстислава, придоша Новугороду. Въ тоже</rdg><rdg wit="#likh">Мстислава, придоша Новугороду. В то же</rdg></rdgGrp></app></p></div></body></text></TEI>

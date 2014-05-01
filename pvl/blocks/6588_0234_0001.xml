@@ -1,82 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>234, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="234"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="234,1">безбожьнии</w>
-<w n="234,1">сынове</w>
-<w n="234,1">Измаилеви,</w>
-<w n="234,1">пущени</w>
-<w n="234,1">на</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="234,1">безбожнии</w>
-<w n="234,1">сн҃ве</w>
-<w n="234,1">и<lb/>змаилеви·</w>
-<w n="234,1">пущени</w>
-<w n="234,1">бо</w>
-<w n="234,1">на</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="234,1">безбожнии</w>
-<w n="234,1">снв҃е</w>
-<w n="234,1">измаилови.</w>
-<w n="234,1">поущени</w>
-<w n="234,1">на <pb n="134v"/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="234,1">безбо<lb/>жнїи</w>
-<w n="234,1">сн҃ве</w>
-<w n="234,1">измаилеви·</w>
-<w n="234,1">пѹщени</w>
-<w n="234,1">на</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="234,1">безбожь<lb/>нии</w>
-<w n="234,1">снв҃е</w>
-<w n="234,1">измаилеви· <lb/></w>
-
-<w n="234,1">пущении</w>
-<w n="234,1">на</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="234,1">безаконнїи</w>
-<w n="234,1">сынове</w>
-<w n="234,1">измаилевы.</w>
-<w n="234,1">поуще<lb/>нїи</w>
-<w n="234,1">на</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="234,1">безбожнии</w>
-<w n="234,1">сынове</w>
-<w n="234,1">Измаилеви,</w>
-<w n="234,1">пущени</w>
-<w n="234,1">бо</w>
-<w n="234,1">на</w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="234,1">безбожьнии</w>
-<w n="234,1">сынове</w>
-<w n="234,1">Измаилеви,</w>
-<w n="234,1">пущени</w>
-<w n="234,1">на</w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="234,1">безбожнии</w>
-<w n="234,1">сынове</w>
-<w n="234,1">измаилеви,</w>
-<w n="234,1">пущени</w>
-<w n="234,1">бо</w>
-<w n="234,1">на</w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>234, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="234"/><div type="block" n="1"><p><app><lem wit="#lem">
+            безбожьнии сынове Измаилеви, пущени на
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">безбожнии сн҃ве и<lb/>змаилеви· пущени бо на</rdg>
+            <rdg wit="#rad">безбожнии снв҃е измаилови. поущени на <pb n="134v"/></rdg>
+            <rdg wit="#aka">безбо<lb/>жнїи сн҃ве измаилеви· пѹщени на</rdg>
+            <rdg wit="#ipa">безбожь<lb/>нии снв҃е измаилеви· <lb/> пущении на</rdg>
+            <rdg wit="#xle">безаконнїи сынове измаилевы. поуще<lb/>нїи на</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">безбожнии сынове Измаилеви, пущени бо на <add place="margin">226,2</add></rdg><rdg wit="#shakh">безбожьнии сынове Измаилеви, пущени на <add place="margin">292,11</add></rdg><rdg wit="#likh">безбожнии сынове измаилеви, пущени бо на <add place="margin">152,23</add></rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,104 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="14"><p>
-<app>
-<lem wit="#lem">
-<w n="18,14">лѣта</w>
-<w n="18,14">Игорева</w>
-<w n="18,14">лѣтъ 31;</w>
-
-<w n="18,14">а</w>
-<w n="18,14">отъ</w>
-<w n="18,14">пьрваго</w>
-<w n="18,14">лѣта</w>
-<w n="18,14">Игорева</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="18,14">лѣта</w>
-<w n="18,14">игорева.</w>
-<w n="18,14">лѣ<hi rend="sup">т</hi></w>
-<w n="18,14">л҃а.</w>
-<w n="18,14">а</w>
-<w n="18,14">ѿ</w>
-<w n="18,14">перваго</w>
-<w n="18,14">лѣ<hi rend="sup">т</hi></w>
-<w n="18,14">игорева</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-<w n="18,14">лѣта <lb/></w>
-
-<w n="18,14">игорева.</w>
-<w n="18,14">лѣ<hi rend="sup">т</hi></w>
-<w n="18,14">.л҃а.</w>
-<w n="18,14">а</w>
-<w n="18,14">перваго</w>
-<w n="18,14">лѣта</w>
-<w n="18,14">игорева</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="18,14">лѣта</w>
-<w n="18,14">игоре<lb/>ва.</w>
-<w n="18,14">лѣ<hi rend="sup">т</hi></w>
-<w n="18,14">.л҃а.</w>
-<w n="18,14">ѿ</w>
-<w n="18,14">пѣрва<hi rend="sup">г</hi><lb/></w>
-<w n="18,14">лѣ<hi rend="sup">т</hi></w>
-<w n="18,14">игорева.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="18,14">лѣта</w>
-<w n="18,14">игорева.</w>
-<w n="18,14">лѣ<hi rend="sup">т</hi></w>
-<w n="18,14">.л҃а.</w>
-<w n="18,14">а</w>
-<w n="18,14">ѿ</w>
-<w n="18,14">пръваго</w>
-<w n="18,14">лѣта</w>
-<w n="18,14">игорева. <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="18,14">лѣта</w>
-<w n="18,14">Игорева</w>
-<w n="18,14">лѣтъ 31;</w>
-
-<w n="18,14">а</w>
-<w n="18,14">отъ</w>
-<w n="18,14">перваго</w>
-<w n="18,14">лѣта</w>
-<w n="18,14">Игорева</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="18,14">лѣта</w>
-<w n="18,14">Игорева</w>
-<w n="18,14">лѣтъ 31;</w>
-
-<w n="18,14">а</w>
-<w n="18,14">отъ</w>
-<w n="18,14">пьрваго</w>
-<w n="18,14">лѣта</w>
-<w n="18,14">Игорева</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="18,14">лѣта</w>
-<w n="18,14">Игорева</w>
-<w n="18,14">лѣт 31;</w>
-
-<w n="18,14">а</w>
-<w n="18,14">от</w>
-<w n="18,14">перваго</w>
-<w n="18,14">лѣта</w>
-<w n="18,14">Игорева</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="14"><p><app><lem wit="#lem">
+            лѣта Игорева лѣтъ 31; а отъ пьрваго лѣта Игорева
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">лѣта игорева. лѣ<hi rend="sup">т</hi> л҃а. а ѿ перваго лѣ<hi rend="sup">т</hi> игорева</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">лѣта <lb/> игорева. лѣ<hi rend="sup">т</hi> .л҃а. а перваго лѣта игорева</rdg>
+            <rdg wit="#ipa">лѣта игоре<lb/>ва. лѣ<hi rend="sup">т</hi> .л҃а. ѿ пѣрва<hi rend="sup">г</hi>
+                <lb/> лѣ<hi rend="sup">т</hi> игорева.</rdg>
+            <rdg wit="#xle">лѣта игорева. лѣ<hi rend="sup">т</hi> .л҃а. а ѿ пръваго лѣта игорева. <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">лѣта Игорева лѣтъ 31; а отъ перваго лѣта Игорева</rdg><rdg wit="#shakh">лѣта Игорева лѣтъ 31; а отъ пьрваго лѣта Игорева</rdg><rdg wit="#likh">лѣта Игорева лѣт 31; а от перваго лѣта Игорева</rdg></rdgGrp></app></p></div></body></text></TEI>

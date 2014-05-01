@@ -1,90 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>283, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="283"/><div type="block" n="14"><p>
-<app>
-<lem wit="#lem">
-<w n="283,14">въписати</w>
-<w n="283,14">Феодосия</w>
-<w n="283,14">въ</w>
-<w n="283,14">синаникъ.</w>
-<w n="283,14">И</w>
-<w n="283,14">радъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="283,14">да</w>
-<w n="283,14">бы</w>
-<w n="283,14">вписалъ</w>
-<w n="283,14">ѳе<lb/>ѡдосьꙗ</w>
-<w n="283,14">в</w>
-<w n="283,14">сѣнаникъ·</w>
-<w n="283,14"><hi rend="sup">и</hi></w>
-<w n="283,14">радъ <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="283,14">написаша</w>
-<w n="283,14">феѡ<hi rend="sup">д</hi>сиꙗ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="283,14">написаша</w>
-<w n="283,14">феѡдосьѧ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="283,14">вопсати</w>
-<w n="283,14">федось<lb/>ꙗ·</w>
-<w n="283,14">в</w>
-<w n="283,14">сина<milestone unit="sic" n="start"/>н<milestone unit="sic" n="end"/>икъ·</w>
-<w n="283,14">бо҃у</w>
-<w n="283,14">тако</w>
-<w n="283,14">изво<lb/>лшю·</w>
-<w n="283,14">ст҃ополкъ</w>
-<w n="283,14">же</w>
-<w n="283,14">радъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="283,14">в′пис<hi rend="sup">т</hi>а<hi rend="sup">и</hi><lb/></w>
-<w n="283,14">ѳе<hi rend="sup">д</hi>ѡ<hi rend="sup">о</hi>сїа</w>
-<w n="283,14">в</w>
-<w n="283,14">синаникъ.</w>
-<w n="283,14">бо҃у</w>
-<w n="283,14">тако</w>
-<w n="283,14">изволив′шоу.</w>
-<w n="283,14">сто<lb/>пол′кь</w>
-<w n="283,14">же</w>
-<w n="283,14">ра<hi rend="sup">д</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="283,14">дабы</w>
-<w n="283,14">вписалъ</w>
-<w n="283,14">Феодосья</w>
-<w n="283,14">в</w>
-<w n="283,14">сѣнаникъ;</w>
-<w n="283,14">и</w>
-<w n="283,14">радъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="283,14">да</w>
-<w n="283,14">бы</w>
-<w n="283,14">въписалъ</w>
-<w n="283,14">Феодосия</w>
-<w n="283,14">въ</w>
-<w n="283,14">синодикъ;</w>
-<w n="283,14">и</w>
-<w n="283,14">радъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="283,14">дабы</w>
-<w n="283,14">вписалъ</w>
-<w n="283,14">Феодосья</w>
-<w n="283,14">в</w>
-<w n="283,14">сѣнаникъ.</w>
-<w n="283,14">И</w>
-<w n="283,14">радъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>283, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="283"/><div type="block" n="14"><p><app><lem wit="#lem">
+            въписати Феодосия въ синаникъ. И радъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">да бы вписалъ ѳе<lb/>ѡдосьꙗ в сѣнаникъ· <hi rend="sup">и</hi> радъ <lb/></rdg>
+            <rdg wit="#rad">написаша феѡ<hi rend="sup">д</hi>сиꙗ</rdg>
+            <rdg wit="#aka">написаша феѡдосьѧ</rdg>
+            <rdg wit="#ipa">вопсати федось<lb/>ꙗ· в сина<sic>н</sic>икъ· бо҃у тако изво<lb/>лшю·
+                ст҃ополкъ же радъ</rdg>
+            <rdg wit="#xle">в′пис<hi rend="sup">т</hi>а<hi rend="sup">и</hi>
+                <lb/> ѳе<hi rend="sup">д</hi>ѡ<hi rend="sup">о</hi>сїа в синаникъ. бо҃у тако изволив′шоу.
+                сто<lb/>пол′кь же ра<hi rend="sup">д</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">дабы вписалъ Феодосья в сѣнаникъ; и радъ</rdg><rdg wit="#shakh">да бы въписалъ Феодосия въ синодикъ; и радъ</rdg><rdg wit="#likh">дабы вписалъ Феодосья в сѣнаникъ. И радъ</rdg></rdgGrp></app></p></div></body></text></TEI>

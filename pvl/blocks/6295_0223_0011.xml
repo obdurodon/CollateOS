@@ -1,78 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>223, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="223"/><div type="block" n="11"><p>
-<app>
-<lem wit="#lem">
-<w n="223,11">горькую</w>
-<w n="223,11">приемлюще</w>
-<w n="223,11">съмьрть,</w>
-<w n="223,11">друзии</w>
-<w n="223,11">трепещють,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="223,11">горкую</w>
-<w n="223,11">смр҃ть</w>
-<w n="223,11">при<lb/>емлюще·</w>
-<w n="223,11">друзии</w>
-<w n="223,11">трепечють <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="223,11">горкѹю</w>
-<w n="223,11">приемлюще</w>
-<w n="223,11">смрть· <lb/></w>
-
-<w n="223,11">дрѹзии</w>
-<w n="223,11">трепещють.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="223,11">горкѹю <lb/></w>
-
-<w n="223,11">приемлюще</w>
-<w n="223,11">смр҃ть·</w>
-<w n="223,11">дрѹзїи</w>
-<w n="223,11">трепещѹ<hi rend="sup">т</hi></w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="223,11">горкую</w>
-<w n="223,11">при<lb/>емлюще</w>
-<w n="223,11">смр҃ть·</w>
-<w n="223,11">друзии</w>
-<w n="223,11">тре<lb/>пещють</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="223,11">горкоую</w>
-<w n="223,11">прїемлюще</w>
-<w n="223,11">см҃рть. <lb/></w>
-
-<w n="223,11">дроуѕїи</w>
-<w n="223,11">трепешоу<hi rend="sup">т</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="223,11">горкую</w>
-<w n="223,11">смерть</w>
-<w n="223,11">приемлюще,</w>
-<w n="223,11">друзии</w>
-<w n="223,11">трепещють,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="223,11">горькую</w>
-<w n="223,11">съмьрть</w>
-<w n="223,11">приемлюще,</w>
-<w n="223,11">друзии</w>
-<w n="223,11">трепещють,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="223,11">горкую</w>
-<w n="223,11">смерть</w>
-<w n="223,11">приемлюще,</w>
-<w n="223,11">друзии</w>
-<w n="223,11">трепечють,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>223, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="223"/><div type="block" n="11"><p><app><lem wit="#lem">
+            горькую приемлюще съмьрть, друзии трепещють,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">горкую смр҃ть при<lb/>емлюще· друзии трепечють <lb/></rdg>
+            <rdg wit="#rad">горкѹю приемлюще смрть· <lb/> дрѹзии трепещють.</rdg>
+            <rdg wit="#aka">горкѹю <lb/> приемлюще смр҃ть· дрѹзїи трепещѹ<hi rend="sup">т</hi></rdg>
+            <rdg wit="#ipa">горкую при<lb/>емлюще смр҃ть· друзии тре<lb/>пещють</rdg>
+            <rdg wit="#xle">горкоую прїемлюще см҃рть. <lb/> дроуѕїи трепешоу<hi rend="sup">т</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">горкую смерть приемлюще, друзии трепещють,</rdg><rdg wit="#shakh">горькую съмьрть приемлюще, друзии трепещють,</rdg><rdg wit="#likh">горкую смерть приемлюще, друзии трепечють,</rdg></rdgGrp></app></p></div></body></text></TEI>

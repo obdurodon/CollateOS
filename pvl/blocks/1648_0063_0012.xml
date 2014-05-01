@@ -1,103 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>63, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="63"/><div type="block" n="12"><p>
-<app>
-<lem wit="#lem">
-<w n="63,12">ушима</w>
-<w n="63,12">тяжько</w>
-<w n="63,12">слышати,</w>
-<w n="63,12">очима</w>
-<w n="63,12">видѣти.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="63,12">оуш<milestone unit="sic" n="start"/>има<milestone unit="sic" n="end"/><lb/></w>
-<w n="63,12">тѧжько</w>
-<w n="63,12">слышати</w>
-<w n="63,12">ѡчима</w>
-<w n="63,12">видѣти.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="63,12">оушима</w>
-<w n="63,12">тѧшко</w>
-<w n="63,12">слышети.</w>
-<w n="63,12">а</w>
-<w n="63,12">ѡчима</w>
-<w n="63,12">видети.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="63,12">оушима</w>
-<w n="63,12">тѧжко</w>
-<w n="63,12">слышати.</w>
-<w n="63,12">ѡчима</w>
-<w n="63,12">виде<lb/>ти.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="63,12">оу<lb/>шима</w>
-<w n="63,12">бо</w>
-<w n="63,12">тѧшько</w>
-<w n="63,12">слышаша. <lb/></w>
-
-<w n="63,12">ѡчима</w>
-<w n="63,12">видѣти.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="63,12">оушима</w>
-<w n="63,12">тѧ<hi rend="sup">ж</hi>ко</w>
-<w n="63,12">слышаша,</w>
-<w n="63,12">и</w>
-<w n="63,12">очима</w>
-<w n="63,12">вид<hi rend="sup">т</hi>ѣ<hi rend="sup">и</hi>, <lb/></w>
-
-</rdg>
-
-<rdg wit="#kom">
-<w n="63,12">ушима</w>
-<w n="63,12">тꙗжко</w>
-<w n="63,12">слышати</w>
-<w n="63,12">и</w>
-<w n="63,12">очима</w>
-<w n="63,12">видѣти</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="63,12">ушима</w>
-<w n="63,12">тꙗжько</w>
-<w n="63,12">слышать</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="63,12">уши</w>
-<w n="63,12">тꙗжько</w>
-<w n="63,12">слышать</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="63,12">ушима</w>
-<w n="63,12">тяжько</w>
-<w n="63,12">слышати,</w>
-<w n="63,12">а</w>
-<w n="63,12">очима</w>
-<w n="63,12">видѣти.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="63,12">ушима</w>
-<w n="63,12">тяжько</w>
-<w n="63,12">слышати,</w>
-<w n="63,12">и</w>
-<w n="63,12">очима</w>
-<w n="63,12">видѣти.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="63,12">ушюма</w>
-<w n="63,12">тяжько</w>
-<w n="63,12">слышати,</w>
-<w n="63,12">а</w>
-<w n="63,12">очима</w>
-<w n="63,12">видѣти”.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>63, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="63"/><div type="block" n="12"><p><app><lem wit="#lem">
+            ушима тяжько слышати, очима видѣти.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">оуш<sic>има</sic><lb/> тѧжько слышати ѡчима видѣти.</rdg>
+            <rdg wit="#rad">оушима тѧшко слышети. а ѡчима видети.</rdg>
+            <rdg wit="#aka">оушима тѧжко слышати. ѡчима виде<lb/>ти.</rdg>
+            <rdg wit="#ipa">оу<lb/>шима бо тѧшько слышаша. <lb/> ѡчима видѣти.</rdg>
+            <rdg wit="#xle">оушима тѧ<hi rend="sup">ж</hi>ко слышаша, и очима вид<hi rend="sup">т</hi>ѣ<hi rend="sup">и</hi>, <lb/></rdg>
+            <rdg wit="#kom">ушима тꙗжко слышати и очима видѣти</rdg>
+            <rdg wit="#nak">ушима тꙗжько слышать</rdg>
+            <rdg wit="#tol">уши тꙗжько слышать</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">ушима тяжько слышати, а очима видѣти.</rdg><rdg wit="#shakh">ушима тяжько слышати, и очима видѣти.</rdg><rdg wit="#likh">ушюма тяжько слышати, а очима видѣти”.</rdg></rdgGrp></app></p></div></body></text></TEI>

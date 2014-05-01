@@ -1,105 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>31, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="31"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="31,18">И</w>
-<w n="31,18">рекоста</w>
-<w n="31,18">цьсаря</w>
-<w n="31,18">и</w>
-<w n="31,18">боярьство</w>
-<w n="31,18">вьсе:</w>
-<w n="31,18">“Аще</w>
-<w n="31,18">придуть</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="31,18">и</w>
-<w n="31,18">рѣста</w>
-<w n="31,18">царя</w>
-<w n="31,18">и</w>
-<w n="31,18">боярьство</w>
-<w n="31,18">все</w>
-<w n="31,18">аще</w>
-<w n="31,18">придуть</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="31,18">И</w>
-<w n="31,18">рѣста</w>
-<w n="31,18">ц҃рѧ</w>
-<w n="31,18">и</w>
-<w n="31,18">боꙗрьство</w>
-<w n="31,18">все.</w>
-<w n="31,18">аще</w>
-<w n="31,18">приидоуть <pb n="16r"/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="31,18">Рѣста</w>
-<w n="31,18">ц҃рѧ</w>
-<w n="31,18">и</w>
-<w n="31,18">бо<lb/>ꙗрьство</w>
-<w n="31,18">все.</w>
-<w n="31,18">аще</w>
-<w n="31,18">прїидѹтъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="31,18">и</w>
-<w n="31,18">ркоша</w>
-<w n="31,18">цр<hi rend="sup">с</hi>ѧ</w>
-<w n="31,18">и</w>
-<w n="31,18">боꙗрьство <lb/></w>
-
-<w n="31,18">все.</w>
-<w n="31,18">аще</w>
-<w n="31,18">приидуть</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="31,18">и</w>
-<w n="31,18">реко<lb/>ша,</w>
-<w n="31,18">ц҃рѧ</w>
-<w n="31,18">и</w>
-<w n="31,18">боѧрьство</w>
-<w n="31,18">все.</w>
-<w n="31,18">аще</w>
-<w n="31,18">прїидоу<hi rend="sup">т</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="31,18">и</w>
-<w n="31,18">рѣста</w>
-<w n="31,18">царя</w>
-<w n="31,18">и</w>
-<w n="31,18">боярьство</w>
-<w n="31,18">все:</w>
-<w n="31,18">“аще</w>
-<w n="31,18">приидуть</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="31,18">И</w>
-<w n="31,18">рѣста</w>
-<w n="31,18">цѣсаря</w>
-<w n="31,18">и</w>
-<w n="31,18">болярьство</w>
-<w n="31,18">вьсе:</w>
-<w n="31,18">“аще</w>
-<w n="31,18">придуть</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="31,18">и</w>
-<w n="31,18">рѣста</w>
-<w n="31,18">царя</w>
-<w n="31,18">и</w>
-<w n="31,18">боярьство</w>
-<w n="31,18">все:</w>
-<w n="31,18">“Аще</w>
-<w n="31,18">приидуть</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>31, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="31"/><div type="block" n="18"><p><app><lem wit="#lem">
+            И рекоста цьсаря и боярьство вьсе: “Аще придуть
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">и рѣста царя и боярьство все аще придуть</rdg>
+            <rdg wit="#rad">И рѣста ц҃рѧ и боꙗрьство все. аще приидоуть <pb n="16r"/></rdg>
+            <rdg wit="#aka">Рѣста ц҃рѧ и бо<lb/>ꙗрьство все. аще прїидѹтъ</rdg>
+            <rdg wit="#ipa">и ркоша цр<hi rend="sup">с</hi>ѧ и боꙗрьство <lb/> все. аще приидуть</rdg>
+            <rdg wit="#xle">и реко<lb/>ша, ц҃рѧ и боѧрьство все. аще прїидоу<hi rend="sup">т</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и рѣста царя и боярьство все: “аще приидуть</rdg><rdg wit="#shakh">И рѣста цѣсаря и болярьство вьсе: “аще придуть</rdg><rdg wit="#likh">и рѣста царя и боярьство все: “Аще приидуть</rdg></rdgGrp></app></p></div></body></text></TEI>

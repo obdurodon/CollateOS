@@ -1,83 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>153, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="153"/><div type="block" n="12"><p>
-<app>
-<lem wit="#lem">
-<w n="153,12">веля</w>
-<w n="153,12">имъ</w>
-<w n="153,12">учити</w>
-<w n="153,12">люди</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="153,12">велѧ</w>
-<w n="153,12">имъ</w>
-<w n="153,12">оучи<lb/>ти</w>
-<w n="153,12">люди.</w>
-<w n="153,12">понеже</w>
-<w n="153,12">тѣмь</w>
-<w n="153,12">есть</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="153,12">велѧ</w>
-<w n="153,12">имъ</w>
-<w n="153,12">оучити</w>
-<w n="153,12">лю<hi rend="sup">д</hi>е.</w>
-<w n="153,12">понеже</w>
-<w n="153,12">тѣмъ</w>
-<w n="153,12">е<hi rend="sup">с</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="153,12">велѧ</w>
-<w n="153,12">имъ</w>
-<w n="153,12">оучити</w>
-<w n="153,12">люди.</w>
-<w n="153,12">понеже <lb/></w>
-
-<w n="153,12">тѣмь</w>
-<w n="153,12">есть</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="153,12">велѧ</w>
-<w n="153,12">имъ <lb/></w>
-
-<w n="153,12">оучити</w>
-<w n="153,12">людии</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="153,12">велѧ</w>
-<w n="153,12">и<hi rend="sup">м</hi></w>
-<w n="153,12">оучити</w>
-<w n="153,12">л<hi rend="sup">д</hi>ю<hi rend="sup">и</hi>. <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="153,12">веля</w>
-<w n="153,12">имъ</w>
-<w n="153,12">учити</w>
-<w n="153,12">люди,</w>
-<w n="153,12">понеже</w>
-<w n="153,12">тѣмь</w>
-<w n="153,12">есть</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="153,12">веля</w>
-<w n="153,12">имъ</w>
-<w n="153,12">учити</w>
-<w n="153,12">люди</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="153,12">веля</w>
-<w n="153,12">имъ</w>
-<w n="153,12">учити</w>
-<w n="153,12">люди,</w>
-<w n="153,12">понеже</w>
-<w n="153,12">тѣмь</w>
-<w n="153,12">есть</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>153, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="153"/><div type="block" n="12"><p><app><lem wit="#lem">
+            веля имъ учити люди
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">велѧ имъ оучи<lb/>ти люди. понеже тѣмь есть</rdg>
+            <rdg wit="#rad">велѧ имъ оучити лю<hi rend="sup">д</hi>е. понеже тѣмъ е<hi rend="sup">с</hi></rdg>
+            <rdg wit="#aka">велѧ имъ оучити люди. понеже <lb/> тѣмь есть</rdg>
+            <rdg wit="#ipa">велѧ имъ <lb/> оучити людии</rdg>
+            <rdg wit="#xle">велѧ и<hi rend="sup">м</hi> оучити л<hi rend="sup">д</hi>ю<hi rend="sup">и</hi>. <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">веля имъ учити люди, понеже тѣмь есть</rdg><rdg wit="#shakh">веля имъ учити люди</rdg><rdg wit="#likh">веля имъ учити люди, понеже тѣмь есть</rdg></rdgGrp></app></p></div></body></text></TEI>

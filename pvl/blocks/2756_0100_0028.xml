@@ -1,99 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>100, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="100"/><div type="block" n="28"><p>
-<app>
-<lem wit="#lem">
-<w n="100,28">глаголеть</w>
-<w n="100,28">Господь:</w>
-<w n="100,28">плъть</w>
-<w n="100,28">моя</w>
-<w n="100,28">отъ</w>
-<w n="100,28">нихъ”.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="100,28">моꙗ</w>
-<w n="100,28">ѿ</w>
-<w n="100,28">нихъ.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="100,28">гл҃ть</w>
-<w n="100,28">г҃ь</w>
-<w n="100,28">плоть</w>
-<w n="100,28">моꙗ</w>
-<w n="100,28">ѿ</w>
-<w n="100,28">ни<hi rend="sup">х</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="100,28">гл҃ть</w>
-<w n="100,28">г҃ь</w>
-<w n="100,28">плоть</w>
-<w n="100,28">моа</w>
-<w n="100,28">ѿ</w>
-<w n="100,28">ни<hi rend="sup">х</hi>.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="100,28">гл҃ть</w>
-<w n="100,28">гь<hi rend="sup">с</hi></w>
-<w n="100,28">плоть</w>
-<w n="100,28">моꙗ</w>
-<w n="100,28">ѿ</w>
-<w n="100,28">них<hi rend="sup">ъ</hi>. <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="100,28">гл҃ть</w>
-<w n="100,28">г҃ь.</w>
-<w n="100,28">плъ<hi rend="sup">т</hi></w>
-<w n="100,28">моа</w>
-<w n="100,28">ѿ</w>
-<w n="100,28">ни<hi rend="sup">х</hi>.</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="100,28">глаголеть</w>
-<w n="100,28">господь</w>
-<w n="100,28">плоть</w>
-<w n="100,28">моꙗ</w>
-<w n="100,28">от</w>
-<w n="100,28">них</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="100,28">глаголетъ</w>
-<w n="100,28">господь</w>
-<w n="100,28">плоть</w>
-<w n="100,28">моꙗ</w>
-<w n="100,28">от</w>
-<w n="100,28">них</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="100,28">глаголеть</w>
-<w n="100,28">Господь:</w>
-<w n="100,28">плоть</w>
-<w n="100,28">моя</w>
-<w n="100,28">отъ</w>
-<w n="100,28">нихъ.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="100,28">глаголеть</w>
-<w n="100,28">Господь:</w>
-<w n="100,28">плъть</w>
-<w n="100,28">моя</w>
-<w n="100,28">отъ</w>
-<w n="100,28">нихъ.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="100,28">глаголеть</w>
-<w n="100,28">господь:</w>
-<w n="100,28">плоть</w>
-<w n="100,28">моя</w>
-<w n="100,28">от</w>
-<w n="100,28">них”.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>100, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="100"/><div type="block" n="28"><p><app><lem wit="#lem">
+            глаголеть Господь: плъть моя отъ нихъ”.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">моꙗ ѿ нихъ.</rdg>
+            <rdg wit="#rad">гл҃ть г҃ь плоть моꙗ ѿ ни<hi rend="sup">х</hi></rdg>
+            <rdg wit="#aka">гл҃ть г҃ь плоть моа ѿ ни<hi rend="sup">х</hi>.</rdg>
+            <rdg wit="#ipa">гл҃ть гь<hi rend="sup">с</hi> плоть моꙗ ѿ них<hi rend="sup">ъ</hi>. <lb/></rdg>
+            <rdg wit="#xle">гл҃ть г҃ь. плъ<hi rend="sup">т</hi> моа ѿ ни<hi rend="sup">х</hi>.</rdg>
+            <rdg wit="#kom">глаголеть господь плоть моꙗ от них</rdg>
+            <rdg wit="#tol">глаголетъ господь плоть моꙗ от них</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">глаголеть Господь: плоть моя отъ нихъ.</rdg><rdg wit="#shakh">глаголеть Господь: плъть моя отъ нихъ.</rdg><rdg wit="#likh">глаголеть господь: плоть моя от них”.</rdg></rdgGrp></app></p></div></body></text></TEI>

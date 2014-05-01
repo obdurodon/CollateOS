@@ -1,78 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>131, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="131"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="131,20">патриархы,</w>
-<w n="131,20">якоже</w>
-<w n="131,20">Соломонъ</w>
-<w n="131,20">рече:</w>
-<w n="131,20">“Умьръшю</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="131,20">патриархы.</w>
-<w n="131,20">ꙗко<lb/>же</w>
-<w n="131,20">соломонъ</w>
-<w n="131,20">ре<hi rend="sup">ч</hi>.</w>
-<w n="131,20">оумершю</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="131,20">потреꙗрхи.</w>
-<w n="131,20">ꙗко<hi rend="sup">ж</hi></w>
-<w n="131,20">соломонъ</w>
-<w n="131,20">ре<hi rend="sup">ч</hi>.</w>
-<w n="131,20">оумершю</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="131,20">патрїархи.</w>
-<w n="131,20">ꙗко<lb/>же</w>
-<w n="131,20">соломонъ</w>
-<w n="131,20">рече.</w>
-<w n="131,20">оумершю</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="131,20">патрѣархы.</w>
-<w n="131,20">ꙗко<lb/>же</w>
-<w n="131,20">соломонъ</w>
-<w n="131,20">рче.</w>
-<w n="131,20">оумершю <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="131,20">патрїархы.</w>
-<w n="131,20">якоже</w>
-<w n="131,20">соломѡ<hi rend="sup">н</hi></w>
-<w n="131,20">рече.</w>
-<w n="131,20">оумръшоу</w>
-<w n="131,20">же <pb n="58r"/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="131,20">патриархы,</w>
-<w n="131,20">якоже</w>
-<w n="131,20">Соломонъ</w>
-<w n="131,20">рече:</w>
-<w n="131,20">умершю</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="131,20">патриархы,</w>
-<w n="131,20">якоже</w>
-<w n="131,20">Соломонъ</w>
-<w n="131,20">рече:</w>
-<w n="131,20">Умьръшю</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="131,20">патриархы,</w>
-<w n="131,20">яко</w>
-<w n="131,20">же</w>
-<w n="131,20">Соломонъ</w>
-<w n="131,20">рече:</w>
-<w n="131,20">“Умершю</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>131, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="131"/><div type="block" n="20"><p><app><lem wit="#lem">
+            патриархы, якоже Соломонъ рече: “Умьръшю
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">патриархы. ꙗко<lb/>же соломонъ ре<hi rend="sup">ч</hi>. оумершю</rdg>
+            <rdg wit="#rad">потреꙗрхи. ꙗко<hi rend="sup">ж</hi> соломонъ ре<hi rend="sup">ч</hi>. оумершю</rdg>
+            <rdg wit="#aka">патрїархи. ꙗко<lb/>же соломонъ рече. оумершю</rdg>
+            <rdg wit="#ipa">патрѣархы. ꙗко<lb/>же соломонъ рче. оумершю <lb/></rdg>
+            <rdg wit="#xle">патрїархы. ꙗкоже соломѡ<hi rend="sup">н</hi> рече. оумръшоу же
+                <pb n="58r"/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">патриархы, якоже Соломонъ рече: умершю</rdg><rdg wit="#shakh">патриархы, якоже Соломонъ рече: Умьръшю</rdg><rdg wit="#likh">патриархы, яко же Соломонъ рече: “Умершю</rdg></rdgGrp></app></p></div></body></text></TEI>

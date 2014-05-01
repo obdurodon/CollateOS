@@ -1,66 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>131, 5bb</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="131"/><div type="block" n="5bb"><p>
-<app>
-<lem wit="#lem">
-<w n="131,5bb">Дивьно</w>
-<w n="131,5bb">есть</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="131,5bb">дивн<hi rend="sup">о</hi><lb/></w>
-<w n="131,5bb">же</w>
-<w n="131,5bb">есть</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="131,5bb">дивно<hi rend="sup">ж</hi><lb/></w>
-<w n="131,5bb">есть</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="131,5bb">дивно</w>
-<w n="131,5bb">же</w>
-<w n="131,5bb">есть</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="131,5bb">взиидоша</w>
-<w n="131,5bb">в</w>
-<w n="131,5bb">памѧть</w>
-<w n="131,5bb">предъ <lb/></w>
-
-<w n="131,5bb">б҃мь.</w>
-<w n="131,5bb">дивно</w>
-<w n="131,5bb">есть</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="131,5bb">възыдоша</w>
-<w n="131,5bb">в</w>
-<w n="131,5bb">памѧ<hi rend="sup">т</hi><lb/></w>
-<w n="131,5bb">пре<hi rend="sup">д</hi></w>
-<w n="131,5bb">б҃гѡ<hi rend="sup">м</hi>.</w>
-<w n="131,5bb">ѡ</w>
-<w n="131,5bb">ч<hi rend="sup">д</hi>ю<hi rend="sup">о</hi></w>
-<w n="131,5bb">дивно</w>
-<w n="131,5bb">бѡ</w>
-<w n="131,5bb">е<hi rend="sup">с</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="131,5bb">Дивно</w>
-<w n="131,5bb">же</w>
-<w n="131,5bb">есть</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="131,5bb">Дивьно</w>
-<w n="131,5bb">же</w>
-<w n="131,5bb">есть</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="131,5bb">Дивно</w>
-<w n="131,5bb">же</w>
-<w n="131,5bb">есть</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>131, 5bb</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="131"/><div type="block" n="5bb"><p><app><lem wit="#lem">
+            Дивьно есть
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">дивн<hi rend="sup">о</hi>
+                <lb/> же есть</rdg>
+            <rdg wit="#rad">дивно<hi rend="sup">ж</hi>
+                <lb/> есть</rdg>
+            <rdg wit="#aka">дивно же есть</rdg>
+            <rdg wit="#ipa">взиидоша в памѧть предъ <lb/> б҃мь. дивно есть</rdg>
+            <rdg wit="#xle">възыдоша в памѧ<hi rend="sup">т</hi>
+                <lb/> пре<hi rend="sup">д</hi> б҃гѡ<hi rend="sup">м</hi>. ѡ ч<hi rend="sup">д</hi>ю<hi rend="sup">о</hi> дивно бѡ
+                    е<hi rend="sup">с</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Дивно же есть</rdg><rdg wit="#shakh">Дивьно же есть</rdg><rdg wit="#likh">Дивно же есть</rdg></rdgGrp></app></p></div></body></text></TEI>

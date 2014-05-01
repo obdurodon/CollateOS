@@ -1,79 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>142, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="142"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-<w n="142,10">же</w>
-<w n="142,10">заутра,</w>
-<w n="142,10">испълчивъ</w>
-<w n="142,10">дружину,</w>
-<w n="142,10">противу</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="142,10">же</w>
-<w n="142,10">заоутра</w>
-<w n="142,10">и<lb/>сполчивъ</w>
-<w n="142,10">дружину</w>
-<w n="142,10">свою.</w>
-<w n="142,10">про<lb/>тиву</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="142,10">же</w>
-<w n="142,10">заоутра</w>
-<w n="142,10">исполчивъ</w>
-<w n="142,10">дроу<hi rend="sup">ж</hi>нѹ</w>
-<w n="142,10">противѹ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="142,10">же</w>
-<w n="142,10">заоутра</w>
-<w n="142,10">исполчивъ</w>
-<w n="142,10">дрѹжи<lb/>нѹ.</w>
-<w n="142,10">противѹ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="142,10">же</w>
-<w n="142,10">заоутра.</w>
-<w n="142,10">исполчивъ. <lb/></w>
-
-<w n="142,10">дружину</w>
-<w n="142,10">противу</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="142,10">же</w>
-<w n="142,10">зау<hi rend="sup">т</hi>ра</w>
-<w n="142,10">исполчивь</w>
-<w n="142,10">дрѹ<lb/>жинѹ</w>
-<w n="142,10">перевезесѧ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="142,10">же</w>
-<w n="142,10">заутра</w>
-<w n="142,10">исполчивъ</w>
-<w n="142,10">дружину</w>
-<w n="142,10">свою,</w>
-<w n="142,10">противу</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="142,10">же</w>
-<w n="142,10">заутра,</w>
-<w n="142,10">испълчивъ</w>
-<w n="142,10">дружину</w>
-<w n="142,10">свою,</w>
-<w n="142,10">противу</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="142,10">же</w>
-<w n="142,10">заутра,</w>
-<w n="142,10">исполчивъ</w>
-<w n="142,10">дружину</w>
-<w n="142,10">свою,</w>
-<w n="142,10">противу</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>142, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="142"/><div type="block" n="10"><p><app><lem wit="#lem">
+            же заутра, испълчивъ дружину, противу
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">же заоутра и<lb/>сполчивъ дружину свою. про<lb/>тиву</rdg>
+            <rdg wit="#rad">же заоутра исполчивъ дроу<hi rend="sup">ж</hi>нѹ противѹ</rdg>
+            <rdg wit="#aka">же заоутра исполчивъ дрѹжи<lb/>нѹ. противѹ</rdg>
+            <rdg wit="#ipa">же заоутра. исполчивъ. <lb/> дружину противу</rdg>
+            <rdg wit="#xle">же зау<hi rend="sup">т</hi>ра исполчивь дрѹ<lb/>жинѹ перевезесѧ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">же заутра исполчивъ дружину свою, противу</rdg><rdg wit="#shakh">же заутра, испълчивъ дружину свою, противу</rdg><rdg wit="#likh">же заутра, исполчивъ дружину свою, противу</rdg></rdgGrp></app></p></div></body></text></TEI>

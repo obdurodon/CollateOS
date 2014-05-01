@@ -1,93 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>217, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="217"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="217,3">начаша</w>
-<w n="217,3">и</w>
-<w n="217,3">заводити</w>
-<w n="217,3">и,</w>
-<w n="217,3">негодовати</w>
-<w n="217,3">дружины</w>
-<w n="217,3">своея</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="217,3">нача<lb/>ша</w>
-<w n="217,3">заводити</w>
-<w n="217,3">и</w>
-<w n="217,3">негодовати</w>
-<w n="217,3">дру<lb/>жины</w>
-<w n="217,3">своеꙗ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="217,3">начаша</w>
-<w n="217,3">и</w>
-<w n="217,3">заводити</w>
-<w n="217,3">и.</w>
-<w n="217,3">и</w>
-<w n="217,3">негодовати·</w>
-<w n="217,3">дроу<hi rend="sup">ж</hi>ны <lb/></w>
-
-<w n="217,3">своеꙗ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="217,3">начаша</w>
-<w n="217,3">заводити</w>
-<w n="217,3">и·</w>
-<w n="217,3">и</w>
-<w n="217,3">негодовати</w>
-<w n="217,3">дрѹжины</w>
-<w n="217,3">своеѧ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="217,3">на<lb/>чаша</w>
-<w n="217,3">ї</w>
-<w n="217,3"><milestone unit="sic" n="start"/>за<milestone unit="sic" n="end"/>водити</w>
-<w n="217,3">и</w>
-<w n="217,3">не<milestone unit="sic" n="start"/>г<milestone unit="sic" n="end"/>о<milestone unit="sic" n="start"/>д<milestone unit="sic" n="end"/>о<lb/>вати</w>
-<w n="217,3">дружины</w>
-<w n="217,3">своеꙗ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="217,3">начаша</w>
-<w n="217,3">и</w>
-<w n="217,3">завидѣти</w>
-<w n="217,3">и</w>
-<w n="217,3">негодовати</w>
-<w n="217,3">дроужи<lb/>ны</w>
-<w n="217,3">своеѧ</w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="217,3">начаша</w>
-<w n="217,3">заводити</w>
-<w n="217,3">и,</w>
-<w n="217,3">негодовати</w>
-<w n="217,3">дружины</w>
-<w n="217,3">своея</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="217,3">начаша</w>
-<w n="217,3">и</w>
-<w n="217,3">заводити</w>
-<w n="217,3">и,</w>
-<w n="217,3">нача</w>
-<w n="217,3">негодовати</w>
-<w n="217,3">дружины</w>
-<w n="217,3">своея</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="217,3">начаша</w>
-<w n="217,3">заводити</w>
-<w n="217,3">и,</w>
-<w n="217,3">негодовати</w>
-<w n="217,3">дружины</w>
-<w n="217,3">своея</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>217, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="217"/><div type="block" n="3"><p><app><lem wit="#lem">
+            начаша и заводити и, негодовати дружины своея
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">нача<lb/>ша заводити и негодовати дру<lb/>жины своеꙗ</rdg>
+            <rdg wit="#rad">начаша и заводити и. и негодовати· дроу<hi rend="sup">ж</hi>ны <lb/> своеꙗ.</rdg>
+            <rdg wit="#aka">начаша заводити и· и негодовати дрѹжины своеѧ</rdg>
+            <rdg wit="#ipa">на<lb/>чаша ї <sic>за</sic>водити и
+                    не<sic>г</sic>о<sic>д</sic>о<lb/>вати дружины своеꙗ</rdg>
+            <rdg wit="#xle">начаша и завидѣти и негодовати дроужи<lb/>ны своеѧ </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">начаша заводити и, негодовати дружины своея</rdg><rdg wit="#shakh">начаша и заводити и, нача негодовати дружины своея</rdg><rdg wit="#likh">начаша заводити и, негодовати дружины своея</rdg></rdgGrp></app></p></div></body></text></TEI>

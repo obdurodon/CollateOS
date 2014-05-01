@@ -1,50 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>249, 34</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="249"/><div type="block" n="34"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="249,34">к</w>
-<w n="249,34">половце<hi rend="sup">м</hi>·</w>
-<w n="249,34">и</w>
-<w n="249,34">на</w>
-<w n="249,34">б҃ъ</w>
-<w n="249,34">идохо<hi rend="sup">м</hi></w>
-<w n="249,34">с</w>
-<w n="249,34">ст҃опо<lb/>лко<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="249,34">к</w>
-<w n="249,34">Половцемъ;</w>
-<w n="249,34">и</w>
-<w n="249,34">на</w>
-<w n="249,34">Богъ</w>
-<w n="249,34">идохомъ,</w>
-<w n="249,34">с</w>
-<w n="249,34">Святополкомъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="249,34">к</w>
-<w n="249,34">половцем.</w>
-<w n="249,34">И</w>
-<w n="249,34">на</w>
-<w n="249,34">богъ</w>
-<w n="249,34">идохом,</w>
-<w n="249,34">с</w>
-<w n="249,34">Святополком</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>249, 34</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="249"/><div type="block" n="34"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">к половце<hi rend="sup">м</hi>· и на б҃ъ идохо<hi rend="sup">м</hi> с
+                ст҃опо<lb/>лко<hi rend="sup">м</hi></rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">к Половцемъ; и на Богъ идохомъ, с Святополкомъ</rdg><rdg wit="#likh">к половцем. И на богъ идохом, с Святополком</rdg></rdgGrp></app></p></div></body></text></TEI>

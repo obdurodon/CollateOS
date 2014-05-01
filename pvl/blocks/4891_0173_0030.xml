@@ -1,108 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>173, 30</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="173"/><div type="block" n="30"><p>
-<app>
-<lem wit="#lem">
-<w n="173,30">И</w>
-<w n="173,30">пришьдъ</w>
-<w n="173,30">Мьстиславъ,</w>
-<w n="173,30">исѣче</w>
-<w n="173,30">Кияны,</w>
-<w n="173,30">иже</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="173,30">и</w>
-<w n="173,30">прише<hi rend="sup">д</hi><lb/></w>
-<w n="173,30">мьстиславъ</w>
-<w n="173,30">исѣче</w>
-<w n="173,30">иже</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="173,30">и</w>
-<w n="173,30">прише<hi rend="sup">д</hi><lb/></w>
-<w n="173,30">мстиславъ.</w>
-<w n="173,30">и</w>
-<w n="173,30">посече</w>
-<w n="173,30">киꙗны.</w>
-<w n="173,30">иже</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="173,30">и</w>
-<w n="173,30">прише<hi rend="sup">д</hi></w>
-<w n="173,30">мьстиславъ.</w>
-<w n="173,30">и</w>
-<w n="173,30">посече</w>
-<w n="173,30">кыꙗны. <lb/></w>
-
-<w n="173,30">иже</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="173,30">и</w>
-<w n="173,30">пришедъ</w>
-<w n="173,30">мьстисла<lb/>въ</w>
-<w n="173,30">исьсѣче</w>
-<w n="173,30">кыаны.</w>
-<w n="173,30">иже</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="173,30">и</w>
-<w n="173,30">прише<hi rend="sup">д</hi></w>
-<w n="173,30">мьстиславь.</w>
-<w n="173,30">изсѣче</w>
-<w n="173,30">кїаны,</w>
-<w n="173,30">иже</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="173,30">и</w>
-<w n="173,30">пришед</w>
-<w n="173,30">мьстиславъ</w>
-<w n="173,30">исѣче</w>
-<w n="173,30">иже</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="173,30">и</w>
-<w n="173,30">пришед</w>
-<w n="173,30">мьстиславъ</w>
-<w n="173,30">иссѣче</w>
-<w n="173,30">иже</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="173,30">и</w>
-<w n="173,30">пришед</w>
-<w n="173,30">мстиславъ</w>
-<w n="173,30">иссѣче</w>
-<w n="173,30">иже</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="173,30">И</w>
-<w n="173,30">пришедъ</w>
-<w n="173,30">Мьстиславъ,</w>
-<w n="173,30">исѣче</w>
-<w n="173,30">Кияны,</w>
-<w n="173,30">иже</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="173,30">И</w>
-<w n="173,30">пришьдъ</w>
-<w n="173,30">Мьстиславъ,</w>
-<w n="173,30">исѣче,</w>
-<w n="173,30">иже</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="173,30">И</w>
-<w n="173,30">пришед</w>
-<w n="173,30">Мьстиславъ,</w>
-<w n="173,30">исѣче</w>
-<w n="173,30">кияны,</w>
-<w n="173,30">иже</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>173, 30</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="173"/><div type="block" n="30"><p><app><lem wit="#lem">
+            И пришьдъ Мьстиславъ, исѣче Кияны, иже
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и прише<hi rend="sup">д</hi>
+                <lb/> мьстиславъ исѣче иже</rdg>
+            <rdg wit="#rad">и прише<hi rend="sup">д</hi>
+                <lb/> мстиславъ. и посече киꙗны. иже</rdg>
+            <rdg wit="#aka">и прише<hi rend="sup">д</hi> мьстиславъ. и посече кыꙗны. <lb/> иже</rdg>
+            <rdg wit="#ipa">и пришедъ мьстисла<lb/>въ исьсѣче кыаны. иже</rdg>
+            <rdg wit="#xle">и прише<hi rend="sup">д</hi> мьстиславь. изсѣче кїаны, иже</rdg>
+            <rdg wit="#kom">и пришед мьстиславъ исѣче иже</rdg>
+            <rdg wit="#nak">и пришед мьстиславъ иссѣче иже</rdg>
+            <rdg wit="#tol">и пришед мстиславъ иссѣче иже</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">И пришедъ Мьстиславъ, исѣче Кияны, иже</rdg><rdg wit="#shakh">И пришьдъ Мьстиславъ, исѣче, иже</rdg><rdg wit="#likh">И пришед Мьстиславъ, исѣче кияны, иже</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,106 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>7, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="7"/><div type="block" n="13"><p>
-<app>
-<lem wit="#lem">
-<w n="7,13">лѣса</w>
-<w n="7,13">потечеть,</w>
-<w n="7,13">и</w>
-<w n="7,13">идеть</w>
-<w n="7,13">на</w>
-<w n="7,13">полуночие</w>
-<w n="7,13">и</w>
-<w n="7,13">вънидеть</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="7,13">лѣса <lb/></w>
-
-<w n="7,13">потече<hi rend="sup">т</hi>.</w>
-<w n="7,13">а</w>
-<w n="7,13">идеть</w>
-<w n="7,13">на</w>
-<w n="7,13">полунощье</w>
-<w n="7,13">и</w>
-<w n="7,13">внидеть</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="7,13">лѣса</w>
-<w n="7,13">потече</w>
-<w n="7,13">и</w>
-<w n="7,13">иде<hi rend="sup">т</hi></w>
-<w n="7,13">на</w>
-<w n="7,13">полоуно<hi rend="sup">ч</hi>е</w>
-<w n="7,13">и</w>
-<w n="7,13">вниде<hi rend="sup">т</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="7,13">лѣса</w>
-<w n="7,13">потечетъ. <lb/></w>
-
-<w n="7,13">и</w>
-<w n="7,13">идетъ</w>
-<w n="7,13">на</w>
-<w n="7,13">полѹно<hi rend="sup">ч</hi>е.</w>
-<w n="7,13">и</w>
-<w n="7,13">внидетъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="7,13">лѣса</w>
-<w n="7,13">по<lb/>тече<hi rend="sup">т</hi>.</w>
-<w n="7,13">и</w>
-<w n="7,13">идеть</w>
-<w n="7,13">на</w>
-<w n="7,13">полуно<lb/>чье.</w>
-<w n="7,13">и</w>
-<w n="7,13">вниде<hi rend="sup">т</hi></w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="7,13">лѣса</w>
-<w n="7,13">потече<hi rend="sup">т</hi>.</w>
-<w n="7,13">и</w>
-<w n="7,13">и<lb/>де<hi rend="sup">т</hi></w>
-<w n="7,13">на</w>
-<w n="7,13">полоуночїе.</w>
-<w n="7,13">и</w>
-<w n="7,13">вниде</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="7,13">лѣса</w>
-<w n="7,13">потечеть,</w>
-<w n="7,13">а</w>
-<w n="7,13">идеть</w>
-<w n="7,13">на</w>
-<w n="7,13">полунощье</w>
-<w n="7,13">и</w>
-<w n="7,13">внидеть</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="7,13">лѣса</w>
-<w n="7,13">потечеть,</w>
-<w n="7,13">а</w>
-<w n="7,13">идеть</w>
-<w n="7,13">на</w>
-<w n="7,13">полунощие,</w>
-<w n="7,13">и</w>
-<w n="7,13">вънидеть</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="7,13">лѣса</w>
-<w n="7,13">потечет,</w>
-<w n="7,13">а</w>
-<w n="7,13">идеть</w>
-<w n="7,13">на</w>
-<w n="7,13">полунощье</w>
-<w n="7,13">и</w>
-<w n="7,13">внидеть</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>7, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="7"/><div type="block" n="13"><p><app><lem wit="#lem">
+            лѣса потечеть, и идеть на полуночие и вънидеть
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">лѣса <lb/> потече<hi rend="sup">т</hi>. а идеть на полунощье и внидеть</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">лѣса потече и иде<hi rend="sup">т</hi> на полоуно<hi rend="sup">ч</hi>е и вниде<hi rend="sup">т</hi></rdg>
+            <rdg wit="#aka">лѣса потечетъ. <lb/> и идетъ на полѹно<hi rend="sup">ч</hi>е. и внидетъ</rdg>
+            <rdg wit="#ipa">лѣса по<lb/>тече<hi rend="sup">т</hi>. и идеть на полуно<lb/>чье. и вниде<hi rend="sup">т</hi></rdg>
+            <rdg wit="#xle">лѣса потече<hi rend="sup">т</hi>. и и<lb/>де<hi rend="sup">т</hi> на полоуночїе. и вниде</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">лѣса потечеть, а идеть на полунощье и внидеть</rdg><rdg wit="#shakh">лѣса потечеть, а идеть на полунощие, и вънидеть</rdg><rdg wit="#likh">лѣса потечет, а идеть на полунощье и внидеть</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,101 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>17, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="17"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-<w n="17,2">въ</w>
-<w n="17,2">лѣсѣхъ,</w>
-<w n="17,2">и</w>
-<w n="17,2">рекоша</w>
-<w n="17,2">Козаре:</w>
-<w n="17,2">“Платите</w>
-<w n="17,2">намъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="17,2">сихъ</w>
-<w n="17,2">в</w>
-<w n="17,2">лѣсѣхъ</w>
-<w n="17,2">и</w>
-<w n="17,2">рѣша</w>
-<w n="17,2">козари.</w>
-<w n="17,2">пл<hi rend="sup">а</hi><lb/>тит<milestone unit="sic" n="start"/>е<milestone unit="sic" n="end"/></w>
-<w n="17,2">намъ</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="17,2">си<hi rend="sup">х</hi>.</w>
-<w n="17,2">в</w>
-<w n="17,2">лесѣ<hi rend="sup">х</hi>.</w>
-<w n="17,2">и</w>
-<w n="17,2">рекоша</w>
-<w n="17,2">козаре</w>
-<w n="17,2">платите</w>
-<w n="17,2">на<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="17,2">сихъ.</w>
-<w n="17,2">в</w>
-<w n="17,2">лесѣ<hi rend="sup">х</hi>.</w>
-<w n="17,2">и</w>
-<w n="17,2">рекоша</w>
-<w n="17,2">козаре</w>
-<w n="17,2">плати<lb/>те</w>
-<w n="17,2">намъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="17,2">на</w>
-<w n="17,2">гора<hi rend="sup">х</hi>.</w>
-<w n="17,2">и</w>
-<w n="17,2">рко<lb/>ша</w>
-<w n="17,2">козарѣ.</w>
-<w n="17,2">платите</w>
-<w n="17,2">на<lb/>мъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="17,2">в</w>
-<w n="17,2">лѣсе<hi rend="sup">х</hi></w>
-<w n="17,2">и</w>
-<w n="17,2">рекоша</w>
-<w n="17,2">козаре</w>
-<w n="17,2">пла<lb/>тите</w>
-<w n="17,2">на<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="17,2">сихъ</w>
-<w n="17,2">в</w>
-<w n="17,2">лѣсѣхъ,</w>
-<w n="17,2">и</w>
-<w n="17,2">рѣша</w>
-<w n="17,2">Козари:</w>
-<w n="17,2">“платите</w>
-<w n="17,2">намъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="17,2">сихъ</w>
-<w n="17,2">въ</w>
-<w n="17,2">лѣсѣхъ,</w>
-<w n="17,2">и</w>
-<w n="17,2">рѣша</w>
-<w n="17,2">Козаре:</w>
-<w n="17,2">“платите</w>
-<w n="17,2">намъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="17,2">сихъ</w>
-<w n="17,2">в</w>
-<w n="17,2">лѣсѣхъ,</w>
-<w n="17,2">и</w>
-<w n="17,2">рѣша</w>
-<w n="17,2">козари:</w>
-<w n="17,2">“Платите</w>
-<w n="17,2">намъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>17, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="17"/><div type="block" n="2"><p><app><lem wit="#lem">
+            въ лѣсѣхъ, и рекоша Козаре: “Платите намъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">сихъ в лѣсѣхъ и рѣша козари. пл<hi rend="sup">а</hi><lb/>тит<sic>е</sic> намъ</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">си<hi rend="sup">х</hi>. в лесѣ<hi rend="sup">х</hi>. и рекоша козаре платите на<hi rend="sup">м</hi></rdg>
+            <rdg wit="#aka">сихъ. в лесѣ<hi rend="sup">х</hi>. и рекоша козаре плати<lb/>те намъ</rdg>
+            <rdg wit="#ipa">на гора<hi rend="sup">х</hi>. и рко<lb/>ша козарѣ. платите на<lb/>мъ</rdg>
+            <rdg wit="#xle">в лѣсе<hi rend="sup">х</hi> и рекоша козаре пла<lb/>тите на<hi rend="sup">м</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">сихъ в лѣсѣхъ, и рѣша Козари: “платите намъ</rdg><rdg wit="#shakh">сихъ въ лѣсѣхъ, и рѣша Козаре: “платите намъ</rdg><rdg wit="#likh">сихъ в лѣсѣхъ, и рѣша козари: “Платите намъ</rdg></rdgGrp></app></p></div></body></text></TEI>

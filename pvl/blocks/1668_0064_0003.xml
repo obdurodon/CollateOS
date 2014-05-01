@@ -1,88 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>64, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="64"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="64,3">собѣ</w>
-<w n="64,3">досаженье,</w>
-<w n="64,3">обличая</w>
-<w n="64,3">нечьстиваго</w>
-<w n="64,3">поречеть</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="64,3">собѣ</w>
-<w n="64,3">досаженье</w>
-<w n="64,3">ѡбличаꙗ.</w>
-<w n="64,3">н<milestone unit="sic" n="start"/>ч<hi rend="sup">с</hi><hi rend="sup">т</hi>в<milestone unit="sic" n="end"/><lb/></w>
-<w n="64,3">поречеть</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="64,3">собѣ</w>
-<w n="64,3">досажение.</w>
-<w n="64,3">ѡбличаꙗ</w>
-<w n="64,3">нечти<lb/>ваго</w>
-<w n="64,3">поре<hi rend="sup">ч</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="64,3">собѣ</w>
-<w n="64,3">досаж<hi rend="sup">д</hi>енїе.</w>
-<w n="64,3">ѡблича<lb/>ꙗ</w>
-<w n="64,3">нечт<hi rend="sup">с</hi>иваго</w>
-<w n="64,3">поречеть</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="64,3">себе</w>
-<w n="64,3">досажение.</w>
-<w n="64,3">ѡ<lb/>бличаꙗ</w>
-<w n="64,3">неч<hi rend="sup">с</hi>тиваго</w>
-<w n="64,3">поре<hi rend="sup">ч</hi>ть <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="64,3">себѣ</w>
-<w n="64,3">бесчестїе.</w>
-<w n="64,3">ѡбличаѧи</w>
-<w n="64,3">нечести<lb/>ваго</w>
-<w n="64,3">порече<hi rend="sup">т</hi></w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="64,3">собѣ</w>
-<w n="64,3">досаждение</w>
-<w n="64,3">облицаꙗ</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="64,3">себѣ</w>
-<w n="64,3">досажение</w>
-<w n="64,3">облицаа</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="64,3">собѣ</w>
-<w n="64,3">досаженье,</w>
-<w n="64,3">обличаяй</w>
-<w n="64,3">нечестиваго</w>
-<w n="64,3">поречеть</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="64,3">собѣ</w>
-<w n="64,3">досажение,</w>
-<w n="64,3">обличаяи</w>
-<w n="64,3">же</w>
-<w n="64,3">нечьстиваго</w>
-<w n="64,3">поречеть</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="64,3">собѣ</w>
-<w n="64,3">досаженье,</w>
-<w n="64,3">обличаяй</w>
-<w n="64,3">нечестиваго</w>
-<w n="64,3">поречеть</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>64, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="64"/><div type="block" n="3"><p><app><lem wit="#lem">
+            собѣ досаженье, обличая нечьстиваго поречеть
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">собѣ досаженье ѡбличаꙗ. н<sic>ч<hi rend="sup">с</hi><hi rend="sup">т</hi>в</sic><lb/>
+                поречеть</rdg>
+            <rdg wit="#rad">собѣ досажение. ѡбличаꙗ нечти<lb/>ваго поре<hi rend="sup">ч</hi></rdg>
+            <rdg wit="#aka">собѣ досаж<hi rend="sup">д</hi>енїе. ѡблича<lb/>ꙗ нечт<hi rend="sup">с</hi>иваго поречеть</rdg>
+            <rdg wit="#ipa">себе досажение. ѡ<lb/>бличаꙗ неч<hi rend="sup">с</hi>тиваго поре<hi rend="sup">ч</hi>ть <lb/></rdg>
+            <rdg wit="#xle">себѣ бесчестїе. ѡбличаѧи нечести<lb/>ваго порече<hi rend="sup">т</hi></rdg>
+            <rdg wit="#kom">собѣ досаждение облицаꙗ</rdg>
+            <rdg wit="#tol">себѣ досажение облицаа</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">собѣ досаженье, обличаяй нечестиваго поречеть</rdg><rdg wit="#shakh">собѣ досажение, обличаяи же нечьстиваго поречеть</rdg><rdg wit="#likh">собѣ досаженье, обличаяй нечестиваго поречеть</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,117 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>30, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="30"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="30,18">не</w>
-<w n="30,18">прия</w>
-<w n="30,18">его;</w>
-<w n="30,18">бѣ</w>
-<w n="30,18">бо</w>
-<w n="30,18">устроено</w>
-<w n="30,18">съ</w>
-<w n="30,18">отравою.</w>
-<w n="30,18">И</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="30,18">не</w>
-<w n="30,18">прияше</w>
-<w n="30,18">его</w>
-<w n="30,18">бѣ</w>
-<w n="30,18">бо</w>
-<w n="30,18">устроено</w>
-<w n="30,18">со</w>
-<w n="30,18">отравою</w>
-<w n="30,18">смертною</w>
-<w n="30,18">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="30,18">не</w>
-<w n="30,18">приа</w>
-<w n="30,18">е<hi rend="sup">г</hi>.</w>
-<w n="30,18">бѣ</w>
-<w n="30,18">бо <lb/></w>
-
-<w n="30,18">оустроено</w>
-<w n="30,18">со</w>
-<w n="30,18">ѡтравою.</w>
-<w n="30,18">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="30,18">не</w>
-<w n="30,18">прї<lb/>ꙗ</w>
-<w n="30,18">его.</w>
-<w n="30,18">бѣ</w>
-<w n="30,18">бо</w>
-<w n="30,18">оустроено</w>
-<w n="30,18">со</w>
-<w n="30,18">ѡтравою.</w>
-<w n="30,18">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="30,18">не</w>
-<w n="30,18">приꙗ</w>
-<w n="30,18">его</w>
-<w n="30,18">бѣ <lb/></w>
-
-<w n="30,18">бо</w>
-<w n="30,18">оустроено</w>
-<w n="30,18">съ</w>
-<w n="30,18">ѡтраво<lb/>ю.</w>
-<w n="30,18">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="30,18">не <lb/></w>
-
-<w n="30,18">прїѧ</w>
-<w n="30,18">его,</w>
-<w n="30,18">бѣ</w>
-<w n="30,18">бѡ</w>
-<w n="30,18">оучинено</w>
-<w n="30,18">съ</w>
-<w n="30,18">ѡтравою.</w>
-<w n="30,18">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="30,18">не</w>
-<w n="30,18">приа</w>
-<w n="30,18">его;</w>
-<w n="30,18">бѣ</w>
-<w n="30,18">бо</w>
-<w n="30,18">устроено</w>
-<w n="30,18">со</w>
-<w n="30,18">отравою.</w>
-<w n="30,18">И</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="30,18">не</w>
-<w n="30,18">прия</w>
-<w n="30,18">его;</w>
-<w n="30,18">бѣ</w>
-<w n="30,18">бо</w>
-<w n="30,18">устроено</w>
-<w n="30,18">съ</w>
-<w n="30,18">отравою.</w>
-<w n="30,18">И</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="30,18">не</w>
-<w n="30,18">приа</w>
-<w n="30,18">его;</w>
-<w n="30,18">бѣ</w>
-<w n="30,18">бо</w>
-<w n="30,18">устроено</w>
-<w n="30,18">со</w>
-<w n="30,18">отравою.</w>
-<w n="30,18">И</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>30, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="30"/><div type="block" n="18"><p><app><lem wit="#lem">
+            не прия его; бѣ бо устроено съ отравою. И
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">не прияше его бѣ бо устроено со отравою смертною и</rdg>
+            <rdg wit="#rad">не приа е<hi rend="sup">г</hi>. бѣ бо <lb/> оустроено со ѡтравою. и</rdg>
+            <rdg wit="#aka">не прї<lb/>ꙗ его. бѣ бо оустроено со ѡтравою. и</rdg>
+            <rdg wit="#ipa">не приꙗ его бѣ <lb/> бо оустроено съ ѡтраво<lb/>ю. и</rdg>
+            <rdg wit="#xle">не <lb/> прїѧ его, бѣ бѡ оучинено съ ѡтравою. и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">не приа его; бѣ бо устроено со отравою. И</rdg><rdg wit="#shakh">не прия его; бѣ бо устроено съ отравою. И</rdg><rdg wit="#likh">не приа его; бѣ бо устроено со отравою. И</rdg></rdgGrp></app></p></div></body></text></TEI>

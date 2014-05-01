@@ -1,100 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>218, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="218"/><div type="block" n="24"><p>
-<app>
-<lem wit="#lem">
-<w n="218,24">пристроилъ 8</w>
-
-<w n="218,24">тысячь,</w>
-<w n="218,24">не</w>
-<w n="218,24">лихо</w>
-<w n="218,24">ти</w>
-<w n="218,24">есть:</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="218,24">пристроилъ</w>
-<w n="218,24">и·</w>
-<w n="218,24">и҃· <lb/></w>
-
-<w n="218,24">тысѧчь</w>
-<w n="218,24">не</w>
-<w n="218,24">лихо</w>
-<w n="218,24">то</w>
-<w n="218,24">ѥсть·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="218,24">пристроилъ·</w>
-<w n="218,24">ѿ</w>
-<w n="218,24">не</w>
-<w n="218,24">лихо</w>
-<w n="218,24">ти</w>
-<w n="218,24">е<hi rend="sup">с</hi>·</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="218,24">пристроилъ·</w>
-<w n="218,24">·ѿ·</w>
-<w n="218,24">не</w>
-<w n="218,24">лихо</w>
-<w n="218,24">ти</w>
-<w n="218,24">есть· <pb n="115v"/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="218,24">пристроилъ</w>
-<w n="218,24">и<hi rend="sup">х</hi><lb/></w>
-<w n="218,24">·и҃·</w>
-<w n="218,24">тысѧщь</w>
-<w n="218,24">не</w>
-<w n="218,24">лихо</w>
-<w n="218,24">ти</w>
-<w n="218,24">есть· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="218,24">пристрои<hi rend="sup">л</hi><lb/></w>
-<w n="218,24">и<hi rend="sup">х</hi>.</w>
-<w n="218,24">и҃.</w>
-<w n="218,24">тысѫщь</w>
-<w n="218,24">не</w>
-<w n="218,24">лихо</w>
-<w n="218,24">ти</w>
-<w n="218,24">е<hi rend="sup">с</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="218,24">пристроилъ</w>
-<w n="218,24">и 8</w>
-
-<w n="218,24">тысячь,</w>
-<w n="218,24">не</w>
-<w n="218,24">лихо</w>
-<w n="218,24">ти</w>
-<w n="218,24">есть,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="218,24">пристроилъ</w>
-<w n="218,24">ихъ</w>
-<w n="218,24">и 8</w>
-
-<w n="218,24">тысячь,</w>
-<w n="218,24">не</w>
-<w n="218,24">лихо</w>
-<w n="218,24">ти</w>
-<w n="218,24">есть:</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="218,24">пристроилъ</w>
-<w n="218,24">и 8</w>
-
-<w n="218,24">тысячь,</w>
-<w n="218,24">не</w>
-<w n="218,24">лихо</w>
-<w n="218,24">ти</w>
-<w n="218,24">есть:</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>218, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="218"/><div type="block" n="24"><p><app><lem wit="#lem">
+            пристроилъ 8 тысячь, не лихо ти есть:
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">пристроилъ и· и҃· <lb/> тысѧчь не лихо то ѥсть·</rdg>
+            <rdg wit="#rad">пристроилъ· ѿ не лихо ти е<hi rend="sup">с</hi>·</rdg>
+            <rdg wit="#aka">пристроилъ·  ·ѿ· не лихо ти есть· <pb n="115v"/></rdg>
+            <rdg wit="#ipa">пристроилъ и<hi rend="sup">х</hi>
+                <lb/> ·и҃· тысѧщь не лихо ти есть· <lb/></rdg>
+            <rdg wit="#xle">пристрои<hi rend="sup">л</hi>
+                <lb/> и<hi rend="sup">х</hi>. и҃. тысѫщь не лихо ти е<hi rend="sup">с</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">пристроилъ и 8 тысячь, не лихо ти есть,</rdg><rdg wit="#shakh">пристроилъ ихъ и 8 тысячь, не лихо ти есть:</rdg><rdg wit="#likh">пристроилъ и 8 тысячь, не лихо ти есть:</rdg></rdgGrp></app></p></div></body></text></TEI>

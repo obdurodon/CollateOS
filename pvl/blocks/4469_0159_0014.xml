@@ -1,75 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>159, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="159"/><div type="block" n="14"><p>
-<app>
-<lem wit="#lem">
-<w n="159,14">хотя</w>
-<w n="159,14">сътворити</w>
-<w n="159,14">вышии</w>
-<w n="159,14">сего</w>
-<w n="159,14">манастыря,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="159,14">хотѧ</w>
-<w n="159,14">створити</w>
-<w n="159,14">вышнии</w>
-<w n="159,14">сего</w>
-<w n="159,14">ма<lb/>настырѧ.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="159,14">хотѧ</w>
-<w n="159,14">створити</w>
-<w n="159,14">выши</w>
-<w n="159,14">сего</w>
-<w n="159,14">монасты<lb/>рѧ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="159,14">хотѧ</w>
-<w n="159,14">сотворити</w>
-<w n="159,14">выше <lb/></w>
-
-<w n="159,14">сего</w>
-<w n="159,14">монастырѧ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="159,14">хотѧ</w>
-<w n="159,14">ство<lb/>рити</w>
-<w n="159,14">вышии</w>
-<w n="159,14">сего</w>
-<w n="159,14">манасты<lb/>рѧ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="159,14">хотѧ</w>
-<w n="159,14">сътворити</w>
-<w n="159,14">выше</w>
-<w n="159,14">сего</w>
-<w n="159,14">манастырь.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="159,14">хотя</w>
-<w n="159,14">створити</w>
-<w n="159,14">вышний</w>
-<w n="159,14">сего</w>
-<w n="159,14">манастыря,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="159,14">хотя</w>
-<w n="159,14">сътворити</w>
-<w n="159,14">вышии</w>
-<w n="159,14">сего</w>
-<w n="159,14">манастыря,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="159,14">хотя</w>
-<w n="159,14">створити</w>
-<w n="159,14">вышний</w>
-<w n="159,14">сего</w>
-<w n="159,14">манастыря,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>159, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="159"/><div type="block" n="14"><p><app><lem wit="#lem">
+            хотя сътворити вышии сего манастыря,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">хотѧ створити вышнии сего ма<lb/>настырѧ.</rdg>
+            <rdg wit="#rad">хотѧ створити выши сего монасты<lb/>рѧ.</rdg>
+            <rdg wit="#aka">хотѧ сотворити выше <lb/> сего монастырѧ.</rdg>
+            <rdg wit="#ipa">хотѧ ство<lb/>рити вышии сего манасты<lb/>рѧ.</rdg>
+            <rdg wit="#xle">хотѧ сътворити выше сего манастырь.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">хотя створити вышний сего манастыря,</rdg><rdg wit="#shakh">хотя сътворити вышии сего манастыря,</rdg><rdg wit="#likh">хотя створити вышний сего манастыря,</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,51 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>69, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="69"/><div type="block" n="7"><p>
-<app>
-<lem wit="#lem">
-<w n="69,7">диявола.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="69,7">дьꙗвола.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="69,7">дьаво<hi rend="sup">л</hi>. <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="69,7">дїꙗвола:·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="69,7">дьѧвола·:· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="69,7">диꙗвола</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="69,7">дьꙗвола</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="69,7">дьꙗвола</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="69,7">дьявола.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="69,7">диявола.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="69,7">дьявола.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>69, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="69"/><div type="block" n="7"><p><app><lem wit="#lem">
+            диявола.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">дьꙗвола.</rdg>
+            <rdg wit="#rad">дьаво<hi rend="sup">л</hi>. <lb/></rdg>
+            <rdg wit="#aka">дїꙗвола:·</rdg>
+            <rdg wit="#ipa">дьѧвола·:· <lb/></rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">диꙗвола</rdg>
+            <rdg wit="#nak">дьꙗвола</rdg>
+            <rdg wit="#tol">дьꙗвола</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">дьявола.</rdg><rdg wit="#shakh">диявола.</rdg><rdg wit="#likh">дьявола.</rdg></rdgGrp></app></p></div></body></text></TEI>

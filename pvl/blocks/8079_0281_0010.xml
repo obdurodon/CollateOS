@@ -1,100 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>281, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="281"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-<w n="281,10">бѣ</w>
-<w n="281,10">пьрвыхъ</w>
-<w n="281,10">правьдьникъ.</w>
-<w n="281,10">У</w>
-<w n="281,10">негоже</w>
-<w n="281,10">и</w>
-<w n="281,10">азъ</w>
-<w n="281,10">слышахъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="281,10">бѣ</w>
-<w n="281,10">первы<hi rend="sup">х</hi><lb/></w>
-<w n="281,10">праведни<hi rend="sup">к</hi>·</w>
-<w n="281,10">ѿ</w>
-<w n="281,10">негоже</w>
-<w n="281,10">и</w>
-<w n="281,10">азъ</w>
-<w n="281,10">мно<lb/>га</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="281,10">бѣ</w>
-<w n="281,10">первы<hi rend="sup">х</hi></w>
-<w n="281,10">праве<hi rend="sup">д</hi>никъ·</w>
-<w n="281,10">оу</w>
-<w n="281,10">него<hi rend="sup">ж</hi><lb/></w>
-<w n="281,10">и</w>
-<w n="281,10">азъ</w>
-<w n="281,10">многа</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="281,10">первы<hi rend="sup">х</hi></w>
-<w n="281,10">праведникъ·</w>
-<w n="281,10">оу</w>
-<w n="281,10">негоже</w>
-<w n="281,10">и</w>
-<w n="281,10">азь</w>
-<w n="281,10">многа <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="281,10">первыхъ</w>
-<w n="281,10">праведникъ· <lb/></w>
-
-<w n="281,10">оу</w>
-<w n="281,10">негоже</w>
-<w n="281,10">азъ</w>
-<w n="281,10">слышахъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="281,10">первы<hi rend="sup">х</hi></w>
-<w n="281,10">праведни<hi rend="sup">к</hi></w>
-<w n="281,10">оу</w>
-<w n="281,10">него<hi rend="sup">ж</hi></w>
-<w n="281,10">азъ</w>
-<w n="281,10">слышахь <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="281,10">бѣ</w>
-<w n="281,10">первыхъ</w>
-<w n="281,10">праведникъ,</w>
-<w n="281,10">отъ</w>
-<w n="281,10">негоже</w>
-<w n="281,10">и</w>
-<w n="281,10">азъ</w>
-<w n="281,10">многа</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="281,10">бѣ</w>
-<w n="281,10">пьрвыхъ</w>
-<w n="281,10">правьдьникъ;</w>
-<w n="281,10">отъ</w>
-<w n="281,10">негоже</w>
-<w n="281,10">и</w>
-<w n="281,10">азъ</w>
-<w n="281,10">мънога</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="281,10">бѣ</w>
-<w n="281,10">первых</w>
-<w n="281,10">праведник.</w>
-<w n="281,10">От</w>
-<w n="281,10">него</w>
-<w n="281,10">же</w>
-<w n="281,10">и</w>
-<w n="281,10">азъ</w>
-<w n="281,10">многа</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>281, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="281"/><div type="block" n="10"><p><app><lem wit="#lem">
+            бѣ пьрвыхъ правьдьникъ. У негоже и азъ слышахъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">бѣ первы<hi rend="sup">х</hi>
+                <lb/> праведни<hi rend="sup">к</hi>· ѿ негоже и азъ мно<lb/>га</rdg>
+            <rdg wit="#rad">бѣ первы<hi rend="sup">х</hi> праве<hi rend="sup">д</hi>никъ· оу него<hi rend="sup">ж</hi>
+                <lb/> и азъ многа</rdg>
+            <rdg wit="#aka">первы<hi rend="sup">х</hi> праведникъ· оу негоже и азь многа <lb/></rdg>
+            <rdg wit="#ipa">первыхъ праведникъ· <lb/> оу негоже азъ слышахъ</rdg>
+            <rdg wit="#xle">первы<hi rend="sup">х</hi> праведни<hi rend="sup">к</hi> оу него<hi rend="sup">ж</hi> азъ слышахь <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">бѣ первыхъ праведникъ, отъ негоже и азъ многа</rdg><rdg wit="#shakh">бѣ пьрвыхъ правьдьникъ; отъ негоже и азъ мънога</rdg><rdg wit="#likh">бѣ первых праведник. От него же и азъ многа</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,106 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>12, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="12"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="12,23">живяху</w>
-<w n="12,23">въ</w>
-<w n="12,23">мирѣ</w>
-<w n="12,23">Поляне,</w>
-<w n="12,23">и</w>
-<w n="12,23">Деревляне,</w>
-<w n="12,23">и</w>
-<w n="12,23">Сѣверо,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="12,23">бѧху</w>
-<w n="12,23">в</w>
-<w n="12,23">мирѣ</w>
-<w n="12,23">полѧне.</w>
-<w n="12,23">и</w>
-<w n="12,23">деревлѧне.</w>
-<w n="12,23">сѣверъ</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="12,23">живяху</w>
-<w n="12,23">в</w>
-<w n="12,23">мирѣ</w>
-<w n="12,23">поляне</w>
-<w n="12,23">и</w>
-<w n="12,23">древляне</w>
-<w n="12,23">сѣверъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="12,23">живѧхоу</w>
-<w n="12,23">в</w>
-<w n="12,23">мирѣ.</w>
-<w n="12,23">полѧне</w>
-<w n="12,23">и</w>
-<w n="12,23">деревлѧне <lb/></w>
-
-<w n="12,23">и</w>
-<w n="12,23">сѣверо.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="12,23">живѧхѹ</w>
-<w n="12,23">во</w>
-<w n="12,23">мирѣ.</w>
-<w n="12,23">полѧне</w>
-<w n="12,23">и</w>
-<w n="12,23">деревлѧне. <lb/></w>
-
-<w n="12,23">и</w>
-<w n="12,23">сѣверо</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="12,23">живѧху</w>
-<w n="12,23">в</w>
-<w n="12,23">мирѣ. <lb/></w>
-
-<w n="12,23">полѧне</w>
-<w n="12,23">и</w>
-<w n="12,23">древлѧне.</w>
-<w n="12,23">и</w>
-<w n="12,23">севе<lb/>ро</w>
-<w n="12,23"><milestone unit="add" n="start" place="margin"/>буж<milestone unit="sic" n="start"/>--<milestone unit="sic" n="end"/><milestone unit="add" n="end"/></w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="12,23">живяху</w>
-<w n="12,23">в</w>
-<w n="12,23">мирѣ</w>
-<w n="12,23">Поляне,</w>
-<w n="12,23">и</w>
-<w n="12,23">Деревляне,</w>
-<w n="12,23">и</w>
-<w n="12,23">Сѣверъ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="12,23">живяху</w>
-<w n="12,23">въ</w>
-<w n="12,23">мирѣ</w>
-<w n="12,23">Поляне</w>
-<w n="12,23">и</w>
-<w n="12,23">Древляне</w>
-<w n="12,23">и</w>
-<w n="12,23">Сѣверъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="12,23">живяху</w>
-<w n="12,23">в</w>
-<w n="12,23">мирѣ</w>
-<w n="12,23">поляне,</w>
-<w n="12,23">и</w>
-<w n="12,23">деревляне,</w>
-<w n="12,23">и</w>
-<w n="12,23">сѣверъ,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>12, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="12"/><div type="block" n="23"><p><app><lem wit="#lem">
+            живяху въ мирѣ Поляне, и Деревляне, и Сѣверо,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">бѧху в мирѣ полѧне. и деревлѧне. сѣверъ</rdg>
+            <rdg wit="#tro">живяху в мирѣ поляне и древляне сѣверъ</rdg>
+            <rdg wit="#rad">живѧхоу в мирѣ. полѧне и деревлѧне <lb/> и сѣверо.</rdg>
+            <rdg wit="#aka">живѧхѹ во мирѣ. полѧне и деревлѧне. <lb/> и сѣверо</rdg>
+            <rdg wit="#ipa">живѧху в мирѣ. <lb/> полѧне и древлѧне. и севе<lb/>ро
+                        <add place="margin">буж<sic>--</sic></add></rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">живяху в мирѣ Поляне, и Деревляне, и Сѣверъ,</rdg><rdg wit="#shakh">живяху въ мирѣ Поляне и Древляне и Сѣверъ</rdg><rdg wit="#likh">живяху в мирѣ поляне, и деревляне, и сѣверъ,</rdg></rdgGrp></app></p></div></body></text></TEI>

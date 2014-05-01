@@ -1,103 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>128, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="128"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-<w n="128,2">рѣша:</w>
-<w n="128,2">“Не</w>
-<w n="128,2">сътьрпять</w>
-<w n="128,2">людие</w>
-<w n="128,2">глада”.</w>
-<w n="128,2">И</w>
-<w n="128,2">рече</w>
-<w n="128,2">имъ:</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="128,2">не</w>
-<w n="128,2">стерпѧть</w>
-<w n="128,2">людье</w>
-<w n="128,2">глада.</w>
-<w n="128,2">и</w>
-<w n="128,2">ре<hi rend="sup">ч</hi></w>
-<w n="128,2">имъ <pb n="44b"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="128,2">рѣша</w>
-<w n="128,2">не</w>
-<w n="128,2">терпѧть</w>
-<w n="128,2">лю<hi rend="sup">д</hi>е</w>
-<w n="128,2">гл<hi rend="sup">д</hi>а.</w>
-<w n="128,2">и</w>
-<w n="128,2">ре<hi rend="sup">ч</hi></w>
-<w n="128,2">имъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="128,2">рѣша</w>
-<w n="128,2">не</w>
-<w n="128,2">терпѧть</w>
-<w n="128,2">людїе</w>
-<w n="128,2">гла<lb/>да.</w>
-<w n="128,2">и</w>
-<w n="128,2">рече</w>
-<w n="128,2">имъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="128,2">рѣша</w>
-<w n="128,2">не</w>
-<w n="128,2">стѣрпѧть <lb/></w>
-
-<w n="128,2">людье</w>
-<w n="128,2">голода.</w>
-<w n="128,2">и</w>
-<w n="128,2">ре<hi rend="sup">ч</hi></w>
-<w n="128,2">имъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="128,2">рѣша,</w>
-<w n="128,2">не</w>
-<w n="128,2">стерпѧ<hi rend="sup">т</hi></w>
-<w n="128,2">л<hi rend="sup">д</hi>ю<hi rend="sup">и</hi>е <lb/></w>
-
-<w n="128,2">голода.</w>
-<w n="128,2">ѡн</w>
-<w n="128,2">же</w>
-<w n="128,2">ре<hi rend="sup">ч</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="128,2">рѣша:</w>
-<w n="128,2">“не</w>
-<w n="128,2">стерпять</w>
-<w n="128,2">людье</w>
-<w n="128,2">глада”.</w>
-<w n="128,2">И</w>
-<w n="128,2">рече</w>
-<w n="128,2">имъ:</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="128,2">рѣша:</w>
-<w n="128,2">“не</w>
-<w n="128,2">сътьрпять</w>
-<w n="128,2">людие</w>
-<w n="128,2">глада”.</w>
-<w n="128,2">И</w>
-<w n="128,2">рече</w>
-<w n="128,2">имъ:</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="128,2">рѣша:</w>
-<w n="128,2">“Не</w>
-<w n="128,2">стерпять</w>
-<w n="128,2">людье</w>
-<w n="128,2">глада”.</w>
-<w n="128,2">И</w>
-<w n="128,2">рече</w>
-<w n="128,2">имъ:</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>128, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="128"/><div type="block" n="2"><p><app><lem wit="#lem">
+            рѣша: “Не сътьрпять людие глада”. И рече имъ:
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">не стерпѧть людье глада. и ре<hi rend="sup">ч</hi>
+                 имъ <pb n="44b"/></rdg>
+            <rdg wit="#rad">рѣша не терпѧть лю<hi rend="sup">д</hi>е гл<hi rend="sup">д</hi>а. и ре<hi rend="sup">ч</hi> имъ</rdg>
+            <rdg wit="#aka">рѣша не терпѧть людїе гла<lb/>да. и рече имъ</rdg>
+            <rdg wit="#ipa">рѣша не стѣрпѧть <lb/> людье голода. и ре<hi rend="sup">ч</hi> имъ</rdg>
+            <rdg wit="#xle">рѣша, не стерпѧ<hi rend="sup">т</hi> л<hi rend="sup">д</hi>ю<hi rend="sup">и</hi>е <lb/> голода. ѡн же
+                    ре<hi rend="sup">ч</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">рѣша: “не стерпять людье глада”. И рече имъ:</rdg><rdg wit="#shakh">рѣша: “не сътьрпять людие глада”. И рече имъ:</rdg><rdg wit="#likh">рѣша: “Не стерпять людье глада”. И рече имъ:</rdg></rdgGrp></app></p></div></body></text></TEI>

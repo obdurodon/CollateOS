@@ -1,87 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>157, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="157"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="157,9">ему,</w>
-<w n="157,9">на</w>
-<w n="157,9">потребу.</w>
-<w n="157,9">И</w>
-<w n="157,9">прослу</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="157,9">же</w>
-<w n="157,9">ѥму</w>
-<w n="157,9">еже</w>
-<w n="157,9">на</w>
-<w n="157,9">по<lb/>требу</w>
-<w n="157,9">бѣ.</w>
-<w n="157,9">и</w>
-<w n="157,9">прослу</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="157,9">емѹ</w>
-<w n="157,9">потребыаꙗ. <lb/></w>
-
-<w n="157,9">и</w>
-<w n="157,9">прослы<hi rend="sup">ж</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="157,9">емѹ</w>
-<w n="157,9">потребнаѧ.</w>
-<w n="157,9">и</w>
-<w n="157,9">про<lb/>слы</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="157,9">ему</w>
-<w n="157,9">на</w>
-<w n="157,9">потребу.</w>
-<w n="157,9">и</w>
-<w n="157,9">прослу</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="157,9">еже</w>
-<w n="157,9">бѣ</w>
-<w n="157,9">на</w>
-<w n="157,9">потребоу</w>
-<w n="157,9">его.</w>
-<w n="157,9">и</w>
-<w n="157,9">прослы<hi rend="sup">ж</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="157,9">же</w>
-<w n="157,9">ему,</w>
-<w n="157,9">еже</w>
-<w n="157,9">на</w>
-<w n="157,9">потребу</w>
-<w n="157,9">бѣ,</w>
-<w n="157,9">и</w>
-<w n="157,9">прослу</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="157,9">же</w>
-<w n="157,9">ему,</w>
-<w n="157,9">еже</w>
-<w n="157,9">бѣ</w>
-<w n="157,9">на</w>
-<w n="157,9">потребу.</w>
-<w n="157,9">И</w>
-<w n="157,9">прослу</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="157,9">же</w>
-<w n="157,9">ему,</w>
-<w n="157,9">еже</w>
-<w n="157,9">на</w>
-<w n="157,9">потребу</w>
-<w n="157,9">бѣ.</w>
-<w n="157,9">И</w>
-<w n="157,9">прослу</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>157, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="157"/><div type="block" n="9"><p><app><lem wit="#lem">
+            ему, на потребу. И прослу
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">же ѥму еже на по<lb/>требу бѣ. и прослу</rdg>
+            <rdg wit="#rad">емѹ потребыаꙗ. <lb/> и прослы<hi rend="sup">ж</hi></rdg>
+            <rdg wit="#aka">емѹ потребнаѧ. и про<lb/>слы</rdg>
+            <rdg wit="#ipa">ему на потребу. и прослу</rdg>
+            <rdg wit="#xle">еже бѣ на потребоу его. и прослы<hi rend="sup">ж</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">же ему, еже на потребу бѣ, и прослу</rdg><rdg wit="#shakh">же ему, еже бѣ на потребу. И прослу</rdg><rdg wit="#likh">же ему, еже на потребу бѣ. И прослу</rdg></rdgGrp></app></p></div></body></text></TEI>

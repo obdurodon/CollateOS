@@ -1,53 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>250, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="250"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="250,4">но</w>
-<w n="250,4">ли <lb/></w>
-
-<w n="250,4">ѡли</w>
-<w n="250,4">оубиша</w>
-<w n="250,4">и</w>
-<w n="250,4">не</w>
-<w n="250,4">постигохо<hi rend="sup">м</hi><lb/></w>
-<w n="250,4">ихъ</w>
-<w n="250,4">и</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="250,4">но</w>
-<w n="250,4">ли</w>
-<w n="250,4">оли</w>
-<w n="250,4">убиша,</w>
-<w n="250,4">и</w>
-<w n="250,4">не</w>
-<w n="250,4">постигохомъ</w>
-<w n="250,4">ихъ;</w>
-<w n="250,4">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="250,4">но</w>
-<w n="250,4">ли</w>
-<w n="250,4">оли...убиша,</w>
-<w n="250,4">и</w>
-<w n="250,4">не</w>
-<w n="250,4">постигохом</w>
-<w n="250,4">ихъ.</w>
-<w n="250,4">И</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>250, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="250"/><div type="block" n="4"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">но ли <lb/> ѡли оубиша и не постигохо<hi rend="sup">м</hi>
+                <lb/> ихъ и</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">но ли оли убиша, и не постигохомъ ихъ; и</rdg><rdg wit="#likh">но ли оли...убиша, и не постигохом ихъ. И</rdg></rdgGrp></app></p></div></body></text></TEI>

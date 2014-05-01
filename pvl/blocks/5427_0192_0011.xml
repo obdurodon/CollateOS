@@ -1,84 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>192, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="192"/><div type="block" n="11"><p>
-<app>
-<lem wit="#lem">
-<w n="192,11">подаваше</w>
-<w n="192,11">окъньцьмь</w>
-<w n="192,11">ему,</w>
-<w n="192,11">яко</w>
-<w n="192,11">ся</w>
-<w n="192,11">въмѣстяше</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="192,11">подаваше</w>
-<w n="192,11">ѥму</w>
-<w n="192,11">ѡ<lb/>концемъ.</w>
-<w n="192,11">ꙗко</w>
-<w n="192,11">сѧ</w>
-<w n="192,11">вмѣстѧше</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="192,11">подаваше</w>
-<w n="192,11">емоу</w>
-<w n="192,11">ѡко<lb/>нцемъ.</w>
-<w n="192,11">ꙗко</w>
-<w n="192,11">сѧ</w>
-<w n="192,11">вмѣстиша</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="192,11">подаваше</w>
-<w n="192,11">ѡконцемь. <lb/></w>
-
-<w n="192,11">ꙗко</w>
-<w n="192,11">сѧ</w>
-<w n="192,11">оуместѧше</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="192,11">пода<lb/>ваше</w>
-<w n="192,11">ѡконьцемь</w>
-<w n="192,11">ему.</w>
-<w n="192,11">ꙗко <lb/></w>
-
-<w n="192,11">сѧ</w>
-<w n="192,11">вмѣстѧше<hi rend="sup">с</hi></w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="192,11">подавааше</w>
-<w n="192,11">око<hi rend="sup">н</hi>це<hi rend="sup">м</hi></w>
-<w n="192,11">емоу.</w>
-<w n="192,11">яко</w>
-<w n="192,11">сѧ</w>
-<w n="192,11">въ<lb/>мѣстѧше</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="192,11">подаваше</w>
-<w n="192,11">ему</w>
-<w n="192,11">оконцемъ,</w>
-<w n="192,11">яко</w>
-<w n="192,11">ся</w>
-<w n="192,11">вмѣстяше</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="192,11">подаваше</w>
-<w n="192,11">ему</w>
-<w n="192,11">окъньцьмь,</w>
-<w n="192,11">яко</w>
-<w n="192,11">ся</w>
-<w n="192,11">въмѣстяше</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="192,11">подаваше</w>
-<w n="192,11">ему</w>
-<w n="192,11">оконцемъ,</w>
-<w n="192,11">яко</w>
-<w n="192,11">ся</w>
-<w n="192,11">вмѣстяше</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>192, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="192"/><div type="block" n="11"><p><app><lem wit="#lem">
+            подаваше окъньцьмь ему, яко ся въмѣстяше
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">подаваше ѥму ѡ<lb/>концемъ. ꙗко сѧ вмѣстѧше</rdg>
+            <rdg wit="#rad">подаваше емоу ѡко<lb/>нцемъ. ꙗко сѧ вмѣстиша</rdg>
+            <rdg wit="#aka">подаваше ѡконцемь. <lb/> ꙗко сѧ оуместѧше</rdg>
+            <rdg wit="#ipa">пода<lb/>ваше ѡконьцемь ему. ꙗко <lb/> сѧ вмѣстѧше<hi rend="sup">с</hi></rdg>
+            <rdg wit="#xle">подавааше око<hi rend="sup">н</hi>це<hi rend="sup">м</hi> емоу. ꙗко сѧ въ<lb/>мѣстѧше</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">подаваше ему оконцемъ, яко ся вмѣстяше</rdg><rdg wit="#shakh">подаваше ему окъньцьмь, яко ся въмѣстяше</rdg><rdg wit="#likh">подаваше ему оконцемъ, яко ся вмѣстяше</rdg></rdgGrp></app></p></div></body></text></TEI>

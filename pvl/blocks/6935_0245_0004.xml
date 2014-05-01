@@ -1,54 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>245, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="245"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="245,4">по<lb/>хвалите</w>
-<w n="245,4">б҃а·</w>
-<w n="245,4">давшаго</w>
-<w n="245,4">на<hi rend="sup">м</hi></w>
-<w n="245,4">мл<hi rend="sup">с</hi>ть <lb/></w>
-
-<w n="245,4">свою·</w>
-<w n="245,4">и</w>
-<w n="245,4">се</w>
-<w n="245,4">ѿ</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="245,4">похвалите</w>
-<w n="245,4">Бога,</w>
-<w n="245,4">давшаго</w>
-<w n="245,4">намъ</w>
-<w n="245,4">милость</w>
-<w n="245,4">свою,</w>
-<w n="245,4">и</w>
-<w n="245,4">се</w>
-<w n="245,4">отъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="245,4">похвалите</w>
-<w n="245,4">бога,</w>
-<w n="245,4">давшаго</w>
-<w n="245,4">нам</w>
-<w n="245,4">милость</w>
-<w n="245,4">свою:</w>
-<w n="245,4">а</w>
-<w n="245,4">се</w>
-<w n="245,4">от</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>245, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="245"/><div type="block" n="4"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">по<lb/>хвалите б҃а· давшаго на<hi rend="sup">м</hi> мл<hi rend="sup">с</hi>ть <lb/> свою· и се
+                ѿ</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">похвалите Бога, давшаго намъ милость свою, и се отъ</rdg><rdg wit="#likh">похвалите бога, давшаго нам милость свою: а се от</rdg></rdgGrp></app></p></div></body></text></TEI>

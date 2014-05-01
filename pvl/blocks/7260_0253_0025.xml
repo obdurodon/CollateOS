@@ -1,54 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>253, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="253"/><div type="block" n="25"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="253,25">налѣзо<hi rend="sup">х</hi></w>
-<w n="253,25">гр<hi rend="sup">х</hi>ѣ</w>
-<w n="253,25">собѣ·</w>
-<w n="253,25">ѡц҃ю· <lb/></w>
-
-<w n="253,25">и</w>
-<w n="253,25">мт҃ри</w>
-<w n="253,25">слезы·</w>
-<w n="253,25">и</w>
-<w n="253,25">рещи</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="253,25">налѣзохъ</w>
-<w n="253,25">грѣхъ</w>
-<w n="253,25">собѣ,</w>
-<w n="253,25">отцю</w>
-<w n="253,25">и</w>
-<w n="253,25">матери</w>
-<w n="253,25">слезы;</w>
-<w n="253,25">и</w>
-<w n="253,25">рещи</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="253,25">налѣзох</w>
-<w n="253,25">грѣх</w>
-<w n="253,25">собѣ,</w>
-<w n="253,25">отцю</w>
-<w n="253,25">и</w>
-<w n="253,25">матери</w>
-<w n="253,25">слезы”.</w>
-<w n="253,25">И</w>
-<w n="253,25">рещи</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>253, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="253"/><div type="block" n="25"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">налѣзо<hi rend="sup">х</hi> гр<hi rend="sup">х</hi>ѣ собѣ· ѡц҃ю· <lb/> и мт҃ри слезы· и рещи</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">налѣзохъ грѣхъ собѣ, отцю и матери слезы; и рещи</rdg><rdg wit="#likh">налѣзох грѣх собѣ, отцю и матери слезы”. И рещи</rdg></rdgGrp></app></p></div></body></text></TEI>

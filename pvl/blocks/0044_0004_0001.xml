@@ -1,99 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>4, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="4"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="4,1">прочая</w>
-<w n="4,1">рѣкы:</w>
-<w n="4,1">Десна,</w>
-<w n="4,1">Припеть,</w>
-<w n="4,1">Двина,</w>
-<w n="4,1">Вълховъ,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="4,1">проч<milestone unit="sic" n="start"/>аꙗ<milestone unit="sic" n="end"/></w>
-<w n="4,1">рѣки</w>
-<w n="4,1">десна</w>
-<w n="4,1"><milestone unit="sic" n="start"/>при<milestone unit="sic" n="end"/><lb/>петь</w>
-<w n="4,1">двина.</w>
-<w n="4,1">вол<milestone unit="sic" n="start"/>х<milestone unit="sic" n="end"/>овъ</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="4,1">прочая</w>
-<w n="4,1">рѣка</w>
-<w n="4,1">десна</w>
-<w n="4,1">припеть</w>
-<w n="4,1">двина</w>
-<w n="4,1">волхъвъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="4,1">прочаа</w>
-<w n="4,1">рекы</w>
-<w n="4,1">десна</w>
-<w n="4,1">припѧть</w>
-<w n="4,1">двина <lb/></w>
-
-<w n="4,1">волховъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="4,1">прочаа</w>
-<w n="4,1">рекы.</w>
-<w n="4,1">десна</w>
-<w n="4,1">припе<hi rend="sup">т</hi>.</w>
-<w n="4,1">двина.</w>
-<w n="4,1">волховь. <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="4,1">прочаа<lb/>ꙗ</w>
-<w n="4,1">рѣкы.</w>
-<w n="4,1">десна.</w>
-<w n="4,1">припеть. <lb/></w>
-
-<w n="4,1">двина.</w>
-<w n="4,1">волховъ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="4,1">проч<milestone unit="sic" n="start"/>а<milestone unit="sic" n="end"/>а</w>
-<w n="4,1">рѣкы,</w>
-<w n="4,1">десна, <lb/></w>
-
-<w n="4,1">припе<hi rend="sup">т</hi>.</w>
-<w n="4,1">двина</w>
-<w n="4,1">влъховь,</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="4,1">прочая</w>
-<w n="4,1">рѣки:</w>
-<w n="4,1">Десна,</w>
-<w n="4,1">Припеть,</w>
-<w n="4,1">Двина,</w>
-<w n="4,1">Волховъ, <pb n="3,8"/></w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="4,1">прочая</w>
-<w n="4,1">рѣкы:</w>
-<w n="4,1">Десна,</w>
-<w n="4,1">Припеть,</w>
-<w n="4,1">Двина,</w>
-<w n="4,1">Вълховъ, <pb n="3,8"/></w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="4,1">прочая</w>
-<w n="4,1">рѣки:</w>
-<w n="4,1">Десна,</w>
-<w n="4,1">Припеть,</w>
-<w n="4,1">Двина,</w>
-<w n="4,1">Волховъ, <pb n="10,10"/></w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>4, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="4"/><div type="block" n="1"><p><app><lem wit="#lem">
+            прочая рѣкы: Десна, Припеть, Двина, Вълховъ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">проч<sic>аꙗ</sic> рѣки десна <sic>при</sic><lb/>петь двина.
+                    вол<sic>х</sic>овъ</rdg>
+            <rdg wit="#tro">прочая рѣка десна припеть двина волхъвъ</rdg>
+            <rdg wit="#rad">прочаа рекы десна припѧть двина <lb/> волховъ</rdg>
+            <rdg wit="#aka">прочаа рекы. десна припе<hi rend="sup">т</hi>. двина. волховь. <lb/></rdg>
+            <rdg wit="#ipa">прочаа<lb/>ꙗ рѣкы. десна. припеть. <lb/> двина. волховъ.</rdg>
+            <rdg wit="#xle">проч<sic>а</sic>а рѣкы, десна, <lb/> припе<hi rend="sup">т</hi>. двина
+                влъховь,</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">прочая рѣки: Десна, Припеть, Двина, Волховъ, <pb n="3,8"/></rdg><rdg wit="#shakh">прочая рѣкы: Десна, Припеть, Двина, Вълховъ, <pb n="3,8"/></rdg><rdg wit="#likh">прочая рѣки: Десна, Припеть, Двина, Волховъ, <pb n="10,10"/></rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,91 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>283, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="283"/><div type="block" n="24"><p>
-<app>
-<lem wit="#lem">
-<w n="283,24">Вьсеволожа</w>
-<w n="283,24">мѣсяца</w>
-<w n="283,24">июлия</w>
-<w n="283,24">въ 9</w>
-
-<w n="283,24">дьнь,</w>
-<w n="283,24">и</w>
-<w n="283,24">положена</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="283,24">всеволожа· <lb/></w>
-
-<w n="283,24">мц<hi rend="sup">с</hi>а</w>
-<w n="283,24">иоулиꙗ·</w>
-<w n="283,24">въ</w>
-<w n="283,24">·і҃·</w>
-<w n="283,24">дн҃ь·</w>
-<w n="283,24">и</w>
-<w n="283,24">по<lb/>ложена</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="283,24">всеволо<hi rend="sup">ж</hi>·</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="283,24">все·̏воложа·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="283,24">всеволожа</w>
-<w n="283,24">дщи <lb/></w>
-
-<w n="283,24">мц<hi rend="sup">с</hi>а</w>
-<w n="283,24">июлѧ·</w>
-<w n="283,24">въ</w>
-<w n="283,24">·ѳ҃·</w>
-<w n="283,24">дн҃ь·</w>
-<w n="283,24">и</w>
-<w n="283,24">поло<lb/>жено</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="283,24">всеволожа</w>
-<w n="283,24">дъщи.</w>
-<w n="283,24">мц<hi rend="sup">с</hi>а</w>
-<w n="283,24">ію<hi rend="sup">л</hi>,</w>
-<w n="283,24">въ</w>
-<w n="283,24">ѳ҃</w>
-<w n="283,24">де<hi rend="sup">н</hi>.</w>
-<w n="283,24">и</w>
-<w n="283,24">положено</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="283,24">Всеволожа,</w>
-<w n="283,24">мѣсяца</w>
-<w n="283,24">иулия</w>
-<w n="283,24">въ 10</w>
-
-<w n="283,24">день,</w>
-<w n="283,24">и</w>
-<w n="283,24">положена</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="283,24">Вьсеволожа,</w>
-<w n="283,24">мѣсяца</w>
-<w n="283,24">иулия</w>
-<w n="283,24">въ 9</w>
-
-<w n="283,24">дьнь,</w>
-<w n="283,24">и</w>
-<w n="283,24">положена</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="283,24">Всеволожа,</w>
-<w n="283,24">мѣсяца</w>
-<w n="283,24">иулия</w>
-<w n="283,24">въ 10</w>
-
-<w n="283,24">день,</w>
-<w n="283,24">и</w>
-<w n="283,24">положена</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>283, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="283"/><div type="block" n="24"><p><app><lem wit="#lem">
+            Вьсеволожа мѣсяца июлия въ 9 дьнь, и положена
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">всеволожа· <lb/> мц<hi rend="sup">с</hi>а иоулиꙗ· въ ·і҃· дн҃ь· и по<lb/>ложена</rdg>
+            <rdg wit="#rad">всеволо<hi rend="sup">ж</hi>·</rdg>
+            <rdg wit="#aka">все·̏воложа·</rdg>
+            <rdg wit="#ipa">всеволожа дщи <lb/> мц<hi rend="sup">с</hi>а июлѧ· въ ·ѳ҃· дн҃ь· и поло<lb/>жено</rdg>
+            <rdg wit="#xle">всеволожа дъщи. мц<hi rend="sup">с</hi>а ію<hi rend="sup">л</hi>, въ ѳ҃ де<hi rend="sup">н</hi>. и
+                положено</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Всеволожа, мѣсяца иулия въ 10 день, и положена</rdg><rdg wit="#shakh">Вьсеволожа, мѣсяца иулия въ 9 дьнь, и положена</rdg><rdg wit="#likh">Всеволожа, мѣсяца иулия въ 10 день, и положена</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,88 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>28, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="28"/><div type="block" n="25"><p>
-<app>
-<lem wit="#lem">
-<w n="28,25">рѣчь</w>
-<w n="28,25">бѣ.</w>
-<w n="28,25">Полями</w>
-<w n="28,25">же</w>
-<w n="28,25">прозъваша</w>
-<w n="28,25">ся,</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="28,25">речь</w>
-<w n="28,25">бѣ</w>
-<w n="28,25">в</w>
-<w n="28,25">нихъ</w>
-<w n="28,25">по</w>
-<w n="28,25">сему</w>
-<w n="28,25">же</w>
-<w n="28,25">прозвани</w>
-<w n="28,25">быша</w>
-<w n="28,25">полемъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="28,25">рѣ<hi rend="sup">ч</hi></w>
-<w n="28,25">бѣ.</w>
-<w n="28,25">полѧ<lb/>ми</w>
-<w n="28,25">же</w>
-<w n="28,25">прозвани</w>
-<w n="28,25">быши.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="28,25">рѣчь</w>
-<w n="28,25">бѣ. <lb/></w>
-
-<w n="28,25">полѧми</w>
-<w n="28,25">же</w>
-<w n="28,25">прозванї</w>
-<w n="28,25">быша.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="28,25">рѣчь</w>
-<w n="28,25">бѣ.</w>
-<w n="28,25">п<hi rend="sup">о</hi><lb/>лѧми</w>
-<w n="28,25">же</w>
-<w n="28,25">прозвашасѧ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="28,25">рѣ<hi rend="sup">ч</hi></w>
-<w n="28,25">бѣ.</w>
-<w n="28,25">полѧ<hi rend="sup">н</hi>ми</w>
-<w n="28,25">же</w>
-<w n="28,25">про<lb/>зваша<hi rend="sup">с</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="28,25">рѣчь</w>
-<w n="28,25">бѣ.</w>
-<w n="28,25">Полями</w>
-<w n="28,25">же</w>
-<w n="28,25">прозвани</w>
-<w n="28,25">быша,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="28,25">рѣчь</w>
-<w n="28,25">бѣ;</w>
-<w n="28,25">Полями</w>
-<w n="28,25">же</w>
-<w n="28,25">прозъвашася,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="28,25">рѣчь</w>
-<w n="28,25">бѣ.</w>
-<w n="28,25">Полями</w>
-<w n="28,25">же</w>
-<w n="28,25">прозвани</w>
-<w n="28,25">быши,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>28, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="28"/><div type="block" n="25"><p><app><lem wit="#lem">
+            рѣчь бѣ. Полями же прозъваша ся,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">речь бѣ в нихъ по сему же прозвани быша полемъ</rdg>
+            <rdg wit="#rad">рѣ<hi rend="sup">ч</hi> бѣ. полѧ<lb/>ми же прозвани быши.</rdg>
+            <rdg wit="#aka">рѣчь бѣ. <lb/> полѧми же прозванї быша.</rdg>
+            <rdg wit="#ipa">рѣчь бѣ. п<hi rend="sup">о</hi><lb/>лѧми же прозвашасѧ.</rdg>
+            <rdg wit="#xle">рѣ<hi rend="sup">ч</hi> бѣ. полѧ<hi rend="sup">н</hi>ми же про<lb/>зваша<hi rend="sup">с</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">рѣчь бѣ. Полями же прозвани быша,</rdg><rdg wit="#shakh">рѣчь бѣ; Полями же прозъвашася,</rdg><rdg wit="#likh">рѣчь бѣ. Полями же прозвани быши,</rdg></rdgGrp></app></p></div></body></text></TEI>

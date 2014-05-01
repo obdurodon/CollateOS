@@ -1,76 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>232, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="232"/><div type="block" n="14"><p>
-<app>
-<lem wit="#lem">
-<w n="232,14">манастырѣ,</w>
-<w n="232,14">и</w>
-<w n="232,14">пожьгоша</w>
-<w n="232,14">манастырь</w>
-<w n="232,14">Стефановъ,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="232,14">манастырь·</w>
-<w n="232,14">и</w>
-<w n="232,14">въ<lb/>жгоша</w>
-<w n="232,14">стеѳановъ</w>
-<w n="232,14">манасты<lb/>рь·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="232,14">монастырь·</w>
-<w n="232,14">и</w>
-<w n="232,14">пожгоша</w>
-<w n="232,14">монастырь</w>
-<w n="232,14">стефа<lb/>не<hi rend="sup">ч</hi>.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="232,14">монасты·̏рь·</w>
-<w n="232,14">и</w>
-<w n="232,14">пожгоша <lb/></w>
-
-<w n="232,14">монасты·̏рь</w>
-<w n="232,14">сте<hi rend="sup">ѳ</hi>ванечь·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="232,14">монастырѣ· <lb/></w>
-
-<w n="232,14">ї</w>
-<w n="232,14">пожгоша</w>
-<w n="232,14">манастырь</w>
-<w n="232,14">стефа<lb/>не<milestone unit="sic" n="start"/>ч<milestone unit="sic" n="end"/>ь</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="232,14">манас<lb/>тыри.</w>
-<w n="232,14">и</w>
-<w n="232,14">пожгоша</w>
-<w n="232,14">манастырь</w>
-<w n="232,14">стефане<hi rend="sup">ч</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="232,14">манастырь,</w>
-<w n="232,14">и</w>
-<w n="232,14">въжгоша</w>
-<w n="232,14">Стефановъ</w>
-<w n="232,14">манастырь</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="232,14">манастырѣ,</w>
-<w n="232,14">и</w>
-<w n="232,14">въжьгоша</w>
-<w n="232,14">Стефановъ</w>
-<w n="232,14">манастырь,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="232,14">манастырь,</w>
-<w n="232,14">и</w>
-<w n="232,14">въжгоша</w>
-<w n="232,14">Стефановъ</w>
-<w n="232,14">манастырь,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>232, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="232"/><div type="block" n="14"><p><app><lem wit="#lem">
+            манастырѣ, и пожьгоша манастырь Стефановъ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">манастырь· и въ<lb/>жгоша стеѳановъ манасты<lb/>рь·</rdg>
+            <rdg wit="#rad">монастырь· и пожгоша монастырь стефа<lb/>не<hi rend="sup">ч</hi>.</rdg>
+            <rdg wit="#aka">монасты·̏рь· и пожгоша <lb/> монасты·̏рь сте<hi rend="sup">ѳ</hi>ванечь·</rdg>
+            <rdg wit="#ipa">монастырѣ· <lb/> ї пожгоша манастырь стефа<lb/>не<sic>ч</sic>ь</rdg>
+            <rdg wit="#xle">манас<lb/>тыри. и пожгоша манастырь стефане<hi rend="sup">ч</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">манастырь, и въжгоша Стефановъ манастырь</rdg><rdg wit="#shakh">манастырѣ, и въжьгоша Стефановъ манастырь,</rdg><rdg wit="#likh">манастырь, и въжгоша Стефановъ манастырь,</rdg></rdgGrp></app></p></div></body></text></TEI>

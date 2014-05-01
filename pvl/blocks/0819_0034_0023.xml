@@ -1,104 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>34, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="34"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="34,23">литръ 5</w>
-
-<w n="34,23">сьребра</w>
-<w n="34,23">по</w>
-<w n="34,23">покону</w>
-<w n="34,23">Русьскому;</w>
-<w n="34,23">аще</w>
-<w n="34,23">ли</w>
-<w n="34,23">не</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="34,23">литръ</w>
-<w n="34,23">.е҃</w>
-<w n="34,23">сребра.</w>
-<w n="34,23">по</w>
-<w n="34,23">за<lb/>конѹ</w>
-<w n="34,23">роу<hi rend="sup">с</hi>комѹ.</w>
-<w n="34,23">аще<hi rend="sup">л</hi></w>
-<w n="34,23">не</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="34,23">литръ</w>
-<w n="34,23">.е҃.</w>
-<w n="34,23">сребра.</w>
-<w n="34,23">по</w>
-<w n="34,23">законѹ <lb/></w>
-
-<w n="34,23">рѹс<hi rend="sup">с</hi>комѹ.</w>
-<w n="34,23">аще</w>
-<w n="34,23">ли</w>
-<w n="34,23">не</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="34,23">литръ</w>
-<w n="34,23">.е҃.</w>
-<w n="34,23">сребра.</w>
-<w n="34,23">п<hi rend="sup">о</hi><lb/><milestone unit="sic" n="start"/>по<milestone unit="sic" n="end"/>кону</w>
-<w n="34,23">рускому.</w>
-<w n="34,23">аще</w>
-<w n="34,23">ли</w>
-<w n="34,23">бу<lb/>деть</w>
-<w n="34,23">не</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="34,23">литрь</w>
-<w n="34,23">.е҃.</w>
-<w n="34,23">сребра.</w>
-<w n="34,23">по</w>
-<w n="34,23">поконоу <lb/></w>
-
-<w n="34,23">роу<hi rend="sup">с</hi>комоу.</w>
-<w n="34,23">аще</w>
-<w n="34,23">бѫде<hi rend="sup">т</hi></w>
-<w n="34,23">и</w>
-<w n="34,23">не</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="34,23">литръ 5</w>
-
-<w n="34,23">сребра</w>
-<w n="34,23">по</w>
-<w n="34,23">закону</w>
-<w n="34,23">Рускому;</w>
-<w n="34,23">аще</w>
-<w n="34,23">ли</w>
-<w n="34,23">не</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="34,23">литръ 5</w>
-
-<w n="34,23">сьребра</w>
-<w n="34,23">по</w>
-<w n="34,23">покону</w>
-<w n="34,23">Русьскому;</w>
-<w n="34,23">аще</w>
-<w n="34,23">ли</w>
-<w n="34,23">будеть</w>
-<w n="34,23">не-</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="34,23">литръ 5</w>
-
-<w n="34,23">сребра</w>
-<w n="34,23">по</w>
-<w n="34,23">закону</w>
-<w n="34,23">рускому;</w>
-<w n="34,23">аще</w>
-<w n="34,23">ли</w>
-<w n="34,23">не</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>34, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="34"/><div type="block" n="23"><p><app><lem wit="#lem">
+            литръ 5 сьребра по покону Русьскому; аще ли не
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">литръ .е҃ сребра. по за<lb/>конѹ роу<hi rend="sup">с</hi>комѹ. аще<hi rend="sup">л</hi> не</rdg>
+            <rdg wit="#aka">литръ .е҃. сребра. по законѹ <lb/> рѹс<hi rend="sup">с</hi>комѹ. аще ли не</rdg>
+            <rdg wit="#ipa">литръ .е҃. сребра. п<hi rend="sup">о</hi>
+                <lb/><sic>по</sic>кону рускому. аще ли бу<lb/>деть не</rdg>
+            <rdg wit="#xle">литрь .е҃. сребра. по поконоу <lb/> роу<hi rend="sup">с</hi>комоу. аще бѫде<hi rend="sup">т</hi> и
+                не</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">литръ 5 сребра по закону Рускому; аще ли не</rdg><rdg wit="#shakh">литръ 5 сьребра по покону Русьскому; аще ли будеть не-</rdg><rdg wit="#likh">литръ 5 сребра по закону рускому; аще ли не</rdg></rdgGrp></app></p></div></body></text></TEI>

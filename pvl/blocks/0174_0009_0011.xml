@@ -1,99 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>9, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="9"/><div type="block" n="11"><p>
-<app>
-<lem wit="#lem">
-<w n="9,11">Хоривъ,</w>
-<w n="9,11">и</w>
-<w n="9,11">сестра</w>
-<w n="9,11">ихъ</w>
-<w n="9,11">Лыбедь.</w>
-<w n="9,11">И</w>
-<w n="9,11">сѣдяше</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="9,11">хор<hi rend="sup">в</hi>и<hi rend="sup">ъ</hi>]</w>
-<w n="9,11">сестра</w>
-<w n="9,11">ихъ</w>
-<w n="9,11">лыбедь.</w>
-<w n="9,11">сѣдѧще <pb n="4r"/></w>
-
-</rdg>
-
-<rdg wit="#tro">
-<w n="9,11">хоривъ</w>
-<w n="9,11">а</w>
-<w n="9,11">сестра</w>
-<w n="9,11">ихъ</w>
-<w n="9,11">лыбедь</w>
-<w n="9,11">сѣдяше</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="9,11">хоривъ.</w>
-<w n="9,11">и</w>
-<w n="9,11">сестра</w>
-<w n="9,11">и<hi rend="sup">х</hi></w>
-<w n="9,11">лыбедь.</w>
-<w n="9,11">и</w>
-<w n="9,11">седѧше</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="9,11">хорївь.</w>
-<w n="9,11">и</w>
-<w n="9,11">сестра</w>
-<w n="9,11">и<hi rend="sup">х</hi></w>
-<w n="9,11">лыбедь.</w>
-<w n="9,11">и</w>
-<w n="9,11">седѧ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="9,11">хоривъ.</w>
-<w n="9,11">и</w>
-<w n="9,11">се<lb/>стра</w>
-<w n="9,11">ихъ</w>
-<w n="9,11">лыб<milestone unit="sic" n="start"/>ѣ<milestone unit="sic" n="end"/>дь.</w>
-<w n="9,11">и</w>
-<w n="9,11">сѣдѧ<lb/>ше</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="9,11">хоривь.</w>
-<w n="9,11">и <lb/></w>
-
-<w n="9,11">сестра</w>
-<w n="9,11">и<hi rend="sup">х</hi></w>
-<w n="9,11">либе<hi rend="sup">д</hi></w>
-<w n="9,11">и</w>
-<w n="9,11">сѣдѧше</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="9,11">Хоривъ,</w>
-<w n="9,11">и</w>
-<w n="9,11">сестра</w>
-<w n="9,11">ихъ</w>
-<w n="9,11">Лыбедь.</w>
-<w n="9,11">Сѣдяше</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="9,11">Хоривъ,</w>
-<w n="9,11">и</w>
-<w n="9,11">сестра</w>
-<w n="9,11">ихъ</w>
-<w n="9,11">Лыбедь.</w>
-<w n="9,11">И</w>
-<w n="9,11">сѣдяше</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="9,11">Хоривъ,</w>
-<w n="9,11">и</w>
-<w n="9,11">сестра</w>
-<w n="9,11">ихъ</w>
-<w n="9,11">Лыбедь.</w>
-<w n="9,11">Сѣдяше</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>9, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="9"/><div type="block" n="11"><p><app><lem wit="#lem">
+            Хоривъ, и сестра ихъ Лыбедь. И сѣдяше
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">хор<hi rend="sup">в</hi>и<hi rend="sup">ъ</hi>]  сестра ихъ лыбедь. сѣдѧще
+                <pb n="4r"/></rdg>
+            <rdg wit="#tro">хоривъ а сестра ихъ лыбедь сѣдяше</rdg>
+            <rdg wit="#rad">хоривъ. и сестра и<hi rend="sup">х</hi> лыбедь. и седѧше</rdg>
+            <rdg wit="#aka">хорївь. и сестра и<hi rend="sup">х</hi> лыбедь. и седѧ</rdg>
+            <rdg wit="#ipa">хоривъ. и се<lb/>стра ихъ лыб<sic>ѣ</sic>дь. и сѣдѧ<lb/>ше</rdg>
+            <rdg wit="#xle">хоривь. и <lb/> сестра и<hi rend="sup">х</hi> либе<hi rend="sup">д</hi> и сѣдѧше</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Хоривъ, и сестра ихъ Лыбедь. Сѣдяше</rdg><rdg wit="#shakh">Хоривъ, и сестра ихъ Лыбедь. И сѣдяше</rdg><rdg wit="#likh">Хоривъ, и сестра ихъ Лыбедь. Сѣдяше</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,92 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>17, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="17"/><div type="block" n="29"><p>
-<app>
-<lem wit="#lem">
-<w n="17,29">въ</w>
-<w n="17,29">лѣтописании</w>
-<w n="17,29">Грьцьскомь.</w>
-<w n="17,29">Тѣмь</w>
-<w n="17,29">же</w>
-<w n="17,29">и</w>
-<w n="17,29">отъселе</w>
-<w n="17,29">почьнемъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="17,29">в</w>
-<w n="17,29">лѣтописаньи</w>
-<w n="17,29">гречь<lb/>стѣмь.</w>
-<w n="17,29">тѣм</w>
-<w n="17,29">же</w>
-<w n="17,29">ѿселе</w>
-<w n="17,29">почнем.</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-<w n="17,29">в</w>
-<w n="17,29">лѣтописа<lb/>нїи</w>
-<w n="17,29">греческомъ.</w>
-<w n="17,29">тѣм</w>
-<w n="17,29">же</w>
-<w n="17,29">ѿселе</w>
-<w n="17,29">и</w>
-<w n="17,29">почнемъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="17,29">в</w>
-<w n="17,29">лѣтописании</w>
-<w n="17,29">грѣ<lb/>цко<hi rend="sup">м</hi>.</w>
-<w n="17,29">тѣмь</w>
-<w n="17,29">же</w>
-<w n="17,29">и</w>
-<w n="17,29">ѿселѣ <lb/></w>
-
-<w n="17,29">почне<hi rend="sup">м</hi>.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="17,29">в</w>
-<w n="17,29">лѣтописанїи</w>
-<w n="17,29">грецко<hi rend="sup">м</hi>.</w>
-<w n="17,29">Тѣ<hi rend="sup">м</hi></w>
-<w n="17,29">же</w>
-<w n="17,29">и</w>
-<w n="17,29">ѿсели</w>
-<w n="17,29">по<lb/>чне<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="17,29">в</w>
-<w n="17,29">лѣтописаньи</w>
-<w n="17,29">Гречьстѣмь.</w>
-<w n="17,29">Тѣмже</w>
-<w n="17,29">отселе</w>
-<w n="17,29">почнемъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="17,29">въ</w>
-<w n="17,29">лѣтописании</w>
-<w n="17,29">Грьчьстѣмь.</w>
-<w n="17,29">Тѣмь</w>
-<w n="17,29">же</w>
-<w n="17,29">отъселѣ</w>
-<w n="17,29">почьнемъ,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="17,29">в</w>
-<w n="17,29">лѣтописаньи</w>
-<w n="17,29">гречьстѣмь.</w>
-<w n="17,29">Тѣм</w>
-<w n="17,29">же</w>
-<w n="17,29">отселе</w>
-<w n="17,29">почнем</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>17, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="17"/><div type="block" n="29"><p><app><lem wit="#lem">
+            въ лѣтописании Грьцьскомь. Тѣмь же и отъселе почьнемъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">в лѣтописаньи гречь<lb/>стѣмь. тѣм же ѿселе почнем.</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">в лѣтописа<lb/>нїи греческомъ. тѣм же ѿселе и почнемъ</rdg>
+            <rdg wit="#ipa">в лѣтописании грѣ<lb/>цко<hi rend="sup">м</hi>. тѣмь же и ѿселѣ <lb/>
+                почне<hi rend="sup">м</hi>.</rdg>
+            <rdg wit="#xle">в лѣтописанїи грецко<hi rend="sup">м</hi>. Тѣ<hi rend="sup">м</hi> же и ѿсели
+                по<lb/>чне<hi rend="sup">м</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">в лѣтописаньи Гречьстѣмь. Тѣмже отселе почнемъ</rdg><rdg wit="#shakh">въ лѣтописании Грьчьстѣмь. Тѣмь же отъселѣ почьнемъ,</rdg><rdg wit="#likh">в лѣтописаньи гречьстѣмь. Тѣм же отселе почнем</rdg></rdgGrp></app></p></div></body></text></TEI>

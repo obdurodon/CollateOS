@@ -1,101 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>119, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="119"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-<w n="119,4">Симъ</w>
-<w n="119,4">же</w>
-<w n="119,4">раздаяномъ</w>
-<w n="119,4">на</w>
-<w n="119,4">учение</w>
-<w n="119,4">кънижьное,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="119,4">сим</w>
-<w n="119,4">же</w>
-<w n="119,4">раздаꙗномъ <lb/></w>
-
-<w n="119,4">на</w>
-<w n="119,4">оученье</w>
-<w n="119,4">книгамъ.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="119,4">сим</w>
-<w n="119,4">же</w>
-<w n="119,4">раздае<lb/>номъ</w>
-<w n="119,4">на</w>
-<w n="119,4">оучение</w>
-<w n="119,4">книжное</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="119,4">симъ <lb/></w>
-
-<w n="119,4">же</w>
-<w n="119,4">раздаеномъ</w>
-<w n="119,4">на</w>
-<w n="119,4">оученїе.</w>
-<w n="119,4">книжное.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="119,4">симь <lb/></w>
-
-<w n="119,4">же</w>
-<w n="119,4">раздаꙗнымъ.</w>
-<w n="119,4">на</w>
-<w n="119,4">оуче<lb/>ние</w>
-<w n="119,4">книжное.</w>
-<w n="119,4">и</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="119,4">сим</w>
-<w n="119,4">же</w>
-<w n="119,4">раздаꙗномъ</w>
-<w n="119,4">на</w>
-<w n="119,4">учение</w>
-<w n="119,4">книгамъ</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="119,4">сим</w>
-<w n="119,4">бо</w>
-<w n="119,4">дѣтем</w>
-<w n="119,4">раздалномъ</w>
-<w n="119,4">суще</w>
-<w n="119,4">на</w>
-<w n="119,4">ученье</w>
-<w n="119,4">книжное</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="119,4">Симъ</w>
-<w n="119,4">же</w>
-<w n="119,4">раздаяномъ</w>
-<w n="119,4">на</w>
-<w n="119,4">ученье</w>
-<w n="119,4">книгамъ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="119,4">Симъ</w>
-<w n="119,4">же</w>
-<w n="119,4">раздаяномъ</w>
-<w n="119,4">на</w>
-<w n="119,4">учение</w>
-<w n="119,4">кънигамъ,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="119,4">Сим</w>
-<w n="119,4">же</w>
-<w n="119,4">раздаяномъ</w>
-<w n="119,4">на</w>
-<w n="119,4">ученье</w>
-<w n="119,4">книгамъ,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>119, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="119"/><div type="block" n="4"><p><app><lem wit="#lem">
+            Симъ же раздаяномъ на учение кънижьное,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">сим же раздаꙗномъ <lb/> на оученье книгамъ.</rdg>
+            <rdg wit="#rad">сим же раздае<lb/>номъ на оучение книжное</rdg>
+            <rdg wit="#aka">симъ <lb/> же раздаеномъ на оученїе. книжное.</rdg>
+            <rdg wit="#ipa">симь <lb/> же раздаꙗнымъ. на оуче<lb/>ние книжное. и</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">сим же раздаꙗномъ на учение книгамъ</rdg>
+            <rdg wit="#tol">сим бо дѣтем раздалномъ суще на ученье книжное</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Симъ же раздаяномъ на ученье книгамъ,</rdg><rdg wit="#shakh">Симъ же раздаяномъ на учение кънигамъ,</rdg><rdg wit="#likh">Сим же раздаяномъ на ученье книгамъ,</rdg></rdgGrp></app></p></div></body></text></TEI>

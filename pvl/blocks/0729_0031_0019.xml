@@ -1,105 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>31, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="31"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-<w n="31,19">Русь</w>
-<w n="31,19">бес</w>
-<w n="31,19">купля,</w>
-<w n="31,19">да</w>
-<w n="31,19">не</w>
-<w n="31,19">възимають</w>
-<w n="31,19">мѣсячьна.</w>
-<w n="31,19">Да</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="31,19">русь</w>
-<w n="31,19">бес</w>
-<w n="31,19">купли</w>
-<w n="31,19">да</w>
-<w n="31,19">не</w>
-<w n="31,19">взимают</w>
-<w n="31,19">мѣсячины</w>
-<w n="31,19">да</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="31,19">роу<hi rend="sup">с</hi></w>
-<w n="31,19">бес</w>
-<w n="31,19">кѹ<lb/>пли.</w>
-<w n="31,19">да</w>
-<w n="31,19">не</w>
-<w n="31,19">взимаю<hi rend="sup">т</hi></w>
-<w n="31,19">мѣсѧчины</w>
-<w n="31,19">да</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="31,19">рѹ<hi rend="sup">с</hi></w>
-<w n="31,19">бес</w>
-<w n="31,19">кѹпли.</w>
-<w n="31,19">да</w>
-<w n="31,19">не</w>
-<w n="31,19">взи<lb/>маютъ</w>
-<w n="31,19">мѣсѧчины.</w>
-<w n="31,19">да</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="31,19">русь <lb/></w>
-
-<w n="31,19">бес</w>
-<w n="31,19">купли.</w>
-<w n="31,19">да</w>
-<w n="31,19">не</w>
-<w n="31,19">взимаю<hi rend="sup">т</hi><lb/></w>
-<w n="31,19">мѣсѧчины.</w>
-<w n="31,19">да</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="31,19">роу<hi rend="sup">с</hi></w>
-<w n="31,19">бе<hi rend="sup">з</hi></w>
-<w n="31,19">кѹ<lb/>плѧ.</w>
-<w n="31,19">да</w>
-<w n="31,19">не</w>
-<w n="31,19">взимаю<hi rend="sup">т</hi></w>
-<w n="31,19">мѣсѧчины.</w>
-<w n="31,19">да</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="31,19">Русь</w>
-<w n="31,19">бес</w>
-<w n="31,19">купли,</w>
-<w n="31,19">да</w>
-<w n="31,19">не</w>
-<w n="31,19">взимають</w>
-<w n="31,19">мѣсячины;</w>
-<w n="31,19">да</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="31,19">Русь</w>
-<w n="31,19">бес</w>
-<w n="31,19">купля,</w>
-<w n="31,19">да</w>
-<w n="31,19">не</w>
-<w n="31,19">възимають</w>
-<w n="31,19">мѣсячьна.</w>
-<w n="31,19">Да</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="31,19">Русь</w>
-<w n="31,19">бес</w>
-<w n="31,19">купли,</w>
-<w n="31,19">да</w>
-<w n="31,19">не</w>
-<w n="31,19">взимают</w>
-<w n="31,19">мѣсячины:</w>
-<w n="31,19">да</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>31, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="31"/><div type="block" n="19"><p><app><lem wit="#lem">
+            Русь бес купля, да не възимають мѣсячьна. Да
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">русь бес купли да не взимают мѣсячины да</rdg>
+            <rdg wit="#rad">роу<hi rend="sup">с</hi> бес кѹ<lb/>пли. да не взимаю<hi rend="sup">т</hi> мѣсѧчины да</rdg>
+            <rdg wit="#aka">рѹ<hi rend="sup">с</hi> бес кѹпли. да не взи<lb/>маютъ мѣсѧчины. да</rdg>
+            <rdg wit="#ipa">русь <lb/> бес купли. да не взимаю<hi rend="sup">т</hi>
+                <lb/> мѣсѧчины. да</rdg>
+            <rdg wit="#xle">роу<hi rend="sup">с</hi> бе<hi rend="sup">з</hi> кѹ<lb/>плѧ. да не взимаю<hi rend="sup">т</hi> мѣсѧчины.
+                да</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Русь бес купли, да не взимають мѣсячины; да</rdg><rdg wit="#shakh">Русь бес купля, да не възимають мѣсячьна. Да</rdg><rdg wit="#likh">Русь бес купли, да не взимают мѣсячины: да</rdg></rdgGrp></app></p></div></body></text></TEI>

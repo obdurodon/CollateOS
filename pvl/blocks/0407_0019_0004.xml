@@ -1,94 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>19, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="19"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-<w n="19,4">просиша</w>
-<w n="19,4">и</w>
-<w n="19,4">покоряти</w>
-<w n="19,4">ся</w>
-<w n="19,4">Грькомъ.</w>
-<w n="19,4">Цьсарь</w>
-<w n="19,4">же</w>
-<w n="19,4">крьсти</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="19,4">просиша.</w>
-<w n="19,4">и</w>
-<w n="19,4">покорити<hi rend="sup">с</hi><lb/></w>
-<w n="19,4">грекомъ.</w>
-<w n="19,4">цр҃ь</w>
-<w n="19,4">же</w>
-<w n="19,4">крти</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="19,4">пр<milestone unit="sic" n="start"/>------------------с<milestone unit="sic" n="end"/>ѧ</w>
-<w n="19,4">грекомъ</w>
-
-<w n="19,4">же</w>
-<w n="19,4">кр<hi rend="sup">с</hi>ти</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="19,4">просиша.</w>
-<w n="19,4">и</w>
-<w n="19,4">поко<lb/>ритисѧ</w>
-<w n="19,4">грекомъ.</w>
-<w n="19,4">цр҃ь</w>
-<w n="19,4">же</w>
-<w n="19,4">кр<hi rend="sup">с</hi>ти</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="19,4">проси<lb/>ша.</w>
-<w n="19,4">покорѧтисѧ</w>
-<w n="19,4">грѣко<hi rend="sup">м</hi>. <lb/></w>
-
-<w n="19,4">ц<hi rend="sup">с</hi>рь</w>
-<w n="19,4">же</w>
-<w n="19,4">кр<hi rend="sup">с</hi>ти</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="19,4">просиша</w>
-<w n="19,4">и</w>
-<w n="19,4">по<lb/>корѧтисѧ</w>
-<w n="19,4">грекѡ<hi rend="sup">м</hi>.</w>
-<w n="19,4">цр҃ь</w>
-<w n="19,4">же</w>
-<w n="19,4">кр<hi rend="sup">с</hi>ти</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="19,4">просиша</w>
-<w n="19,4">и</w>
-<w n="19,4">покоритися</w>
-<w n="19,4">Грекомъ.</w>
-<w n="19,4">Царь</w>
-<w n="19,4">же</w>
-<w n="19,4">крести</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="19,4">просиша</w>
-<w n="19,4">и</w>
-<w n="19,4">покоритися</w>
-<w n="19,4">Грькомъ.</w>
-<w n="19,4">Цѣсарь</w>
-<w n="19,4">же</w>
-<w n="19,4">крьсти</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="19,4">просиша</w>
-<w n="19,4">и</w>
-<w n="19,4">покоритися</w>
-<w n="19,4">грекомъ.</w>
-<w n="19,4">Царь</w>
-<w n="19,4">же</w>
-<w n="19,4">крести</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>19, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="19"/><div type="block" n="4"><p><app><lem wit="#lem">
+            просиша и покоряти ся Грькомъ. Цьсарь же крьсти
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">просиша. и покорити<hi rend="sup">с</hi>
+                <lb/> грекомъ. цр҃ь же крти</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">пр<sic>------------------с</sic>ѧ грекомъ <sic>---</sic><lb/> же
+                    кр<hi rend="sup">с</hi>ти</rdg>
+            <rdg wit="#aka">просиша. и поко<lb/>ритисѧ грекомъ. цр҃ь же кр<hi rend="sup">с</hi>ти</rdg>
+            <rdg wit="#ipa">проси<lb/>ша. покорѧтисѧ грѣко<hi rend="sup">м</hi>. <lb/> ц<hi rend="sup">с</hi>рь же
+                кр<hi rend="sup">с</hi>ти</rdg>
+            <rdg wit="#xle">просиша и по<lb/>корѧтисѧ грекѡ<hi rend="sup">м</hi>. цр҃ь же кр<hi rend="sup">с</hi>ти</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">просиша и покоритися Грекомъ. Царь же крести</rdg><rdg wit="#shakh">просиша и покоритися Грькомъ. Цѣсарь же крьсти</rdg><rdg wit="#likh">просиша и покоритися грекомъ. Царь же крести</rdg></rdgGrp></app></p></div></body></text></TEI>

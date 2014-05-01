@@ -1,102 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>237, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="237"/><div type="block" n="14"><p>
-<app>
-<lem wit="#lem">
-<w n="237,14">чресъ</w>
-<w n="237,14">лѣсъ,</w>
-<w n="237,14">друзии</w>
-<w n="237,14">въ</w>
-<w n="237,14">градъ.</w>
-<w n="237,14">Ольгъ</w>
-<w n="237,14">же</w>
-<w n="237,14">въниде</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="237,14">чересъ</w>
-<w n="237,14">лѣсъ·</w>
-<w n="237,14">дру<lb/>зии</w>
-<w n="237,14">в</w>
-<w n="237,14">городъ·</w>
-<w n="237,14">ѡлег</w>
-<w n="237,14">же</w>
-<w n="237,14">вниде</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="237,14">чре<hi rend="sup">с</hi></w>
-<w n="237,14">лѣ<hi rend="sup">с</hi><milestone unit="sic" n="start"/>-<milestone unit="sic" n="end"/>о</w>
-<w n="237,14">ѡви</w>
-<w n="237,14">в</w>
-<w n="237,14">горо<hi rend="sup">д</hi>·</w>
-<w n="237,14">ѡ<lb/>легъ<hi rend="sup">ж</hi>·</w>
-<w n="237,14">вни<hi rend="sup">д</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="237,14">чре<hi rend="sup">с</hi></w>
-<w n="237,14">лѣсъ</w>
-<w n="237,14">ѡви</w>
-<w n="237,14">в</w>
-<w n="237,14">городъ·</w>
-<w n="237,14">ѡлегъ</w>
-<w n="237,14">же <lb/></w>
-
-<w n="237,14">вниде</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="237,14">чре<lb/>съ</w>
-<w n="237,14">лѣсъ·</w>
-<w n="237,14">друзии</w>
-<w n="237,14">же</w>
-<w n="237,14">в</w>
-<w n="237,14">городъ·</w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="237,14">чре<hi rend="sup">з</hi></w>
-<w n="237,14">лѣсь.</w>
-<w n="237,14">дроуѕїи</w>
-<w n="237,14">же</w>
-<w n="237,14">в</w>
-<w n="237,14">горѡ<hi rend="sup">д</hi>.</w>
-<w n="237,14">олег</w>
-<w n="237,14">же</w>
-<w n="237,14">вниде</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="237,14">чересъ</w>
-<w n="237,14">лѣсъ,</w>
-<w n="237,14">друзии</w>
-<w n="237,14">в</w>
-<w n="237,14">городъ.</w>
-<w n="237,14">Олегъ</w>
-<w n="237,14">же</w>
-<w n="237,14">вниде</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="237,14">чресъ</w>
-<w n="237,14">лѣсъ,</w>
-<w n="237,14">друзии</w>
-<w n="237,14">же</w>
-<w n="237,14">въ</w>
-<w n="237,14">городъ.</w>
-<w n="237,14">Ольгъ</w>
-<w n="237,14">же</w>
-<w n="237,14">въниде</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="237,14">чересъ</w>
-<w n="237,14">лѣсъ,</w>
-<w n="237,14">друзии</w>
-<w n="237,14">в</w>
-<w n="237,14">городъ.</w>
-<w n="237,14">Олег</w>
-<w n="237,14">же</w>
-<w n="237,14">вниде</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>237, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="237"/><div type="block" n="14"><p><app><lem wit="#lem">
+            чресъ лѣсъ, друзии въ градъ. Ольгъ же въниде
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">чересъ лѣсъ· дру<lb/>зии в городъ· ѡлег же вниде</rdg>
+            <rdg wit="#rad">чре<hi rend="sup">с</hi> лѣ<hi rend="sup">с</hi>
+                <sic>-</sic>о ѡви в горо<hi rend="sup">д</hi>· ѡ<lb/>легъ<hi rend="sup">ж</hi>·
+                    вни<hi rend="sup">д</hi></rdg>
+            <rdg wit="#aka">чре<hi rend="sup">с</hi> лѣсъ ѡви в городъ· ѡлегъ же <lb/> вниде</rdg>
+            <rdg wit="#ipa">чре<lb/>съ лѣсъ· друзии же в городъ· </rdg>
+            <rdg wit="#xle">чре<hi rend="sup">з</hi> лѣсь. дроуѕїи же в горѡ<hi rend="sup">д</hi>. олег же вниде</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">чересъ лѣсъ, друзии в городъ. Олегъ же вниде</rdg><rdg wit="#shakh">чресъ лѣсъ, друзии же въ городъ. Ольгъ же въниде</rdg><rdg wit="#likh">чересъ лѣсъ, друзии в городъ. Олег же вниде</rdg></rdgGrp></app></p></div></body></text></TEI>

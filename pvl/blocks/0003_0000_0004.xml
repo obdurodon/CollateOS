@@ -1,76 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>0, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="0"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-<w n="0,4">и</w>
-<w n="0,4">отъкуду</w>
-<w n="0,4">Русьская</w>
-<w n="0,4">земля</w>
-<w n="0,4">стала</w>
-<w n="0,4">есть.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="0,4">и</w>
-<w n="0,4">ѿкуду</w>
-<w n="0,4">рускаꙗ</w>
-<w n="0,4">землѧ</w>
-<w n="0,4">стала</w>
-<w n="0,4">есть·:·</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="0,4">и</w>
-<w n="0,4">отъкуду</w>
-<w n="0,4">руская</w>
-<w n="0,4">земля</w>
-<w n="0,4">стала</w>
-<w n="0,4">есть</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="0,4">стала</w>
-<w n="0,4">есть</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="0,4">и</w>
-<w n="0,4">ѿкоудоу</w>
-<w n="0,4">роу<hi rend="sup">с</hi>каа</w>
-<w n="0,4">землѧ</w>
-<w n="0,4">стала</w>
-<w n="0,4">е<hi rend="sup">с</hi>:</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="0,4">И</w>
-<w n="0,4">ОТКУДУ</w>
-<w n="0,4">РУСКАЯ</w>
-<w n="0,4">ЗЕМЛЯ</w>
-<w n="0,4">СТАЛА</w>
-<w n="0,4">ЕСТЬ.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="0,4">и</w>
-<w n="0,4">отъкуду</w>
-<w n="0,4">русьская</w>
-<w n="0,4">земля</w>
-<w n="0,4">стала</w>
-<w n="0,4">есть.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="0,4">И</w>
-<w n="0,4">ОТКУДУ</w>
-<w n="0,4">РУСКАЯ</w>
-<w n="0,4">ЗЕМЛЯ</w>
-<w n="0,4">СТАЛА</w>
-<w n="0,4">ЕСТЬ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>0, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="0"/><div type="block" n="4"><p><app><lem wit="#lem">
+            и отъкуду Русьская земля стала есть.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и ѿкуду рускаꙗ землѧ стала есть·:·</rdg>
+            <rdg wit="#tro">и отъкуду руская земля стала есть</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">стала есть</rdg>
+            <rdg wit="#xle">и ѿкоудоу роу<hi rend="sup">с</hi>каа землѧ стала е<hi rend="sup">с</hi>:</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">И ОТКУДУ РУСКАЯ ЗЕМЛЯ СТАЛА ЕСТЬ.</rdg><rdg wit="#shakh">и отъкуду русьская земля стала есть.</rdg><rdg wit="#likh">И ОТКУДУ РУСКАЯ ЗЕМЛЯ СТАЛА ЕСТЬ</rdg></rdgGrp></app></p></div></body></text></TEI>

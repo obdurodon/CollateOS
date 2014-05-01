@@ -1,81 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>274, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="274"/><div type="block" n="26"><p>
-<app>
-<lem wit="#lem">
-<w n="274,26">Володимирь</w>
-<w n="274,26">въдасть</w>
-<w n="274,26">сынови</w>
-<w n="274,26">своему</w>
-<w n="274,26">Ярославу.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="274,26">володимеръ</w>
-<w n="274,26">вда <lb/></w>
-
-<w n="274,26">снв҃и</w>
-<w n="274,26">своѥму</w>
-<w n="274,26">ꙗрославу·:- <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="274,26">володимирь</w>
-<w n="274,26">да<hi rend="sup">с</hi>ть <lb/></w>
-
-<w n="274,26">сн҃оу</w>
-<w n="274,26">своемоу</w>
-<w n="274,26">ꙗрославоу:- <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="274,26">володимирь <lb/></w>
-
-<w n="274,26">дасть</w>
-<w n="274,26">сн҃ѹ</w>
-<w n="274,26">своемѹ</w>
-<w n="274,26">ꙗрославѹ:·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="274,26">во<lb/>лодимеръ</w>
-<w n="274,26">вдасть</w>
-<w n="274,26">с<hi rend="sup">н</hi>ви</w>
-<w n="274,26">свое<lb/>му·</w>
-<w n="274,26">ꙗрославу·:·- <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="274,26">вол<hi rend="sup">д</hi>о<hi rend="sup">ї</hi>меръ <lb/></w>
-
-<w n="274,26">вдасть.</w>
-<w n="274,26">сн҃ѡви</w>
-<w n="274,26">своемоу</w>
-<w n="274,26">ярославоу.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="274,26">Володимеръ</w>
-<w n="274,26">вда</w>
-<w n="274,26">сынови</w>
-<w n="274,26">своему</w>
-<w n="274,26">Ярославу.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="274,26">Володимерь</w>
-<w n="274,26">въдасть</w>
-<w n="274,26">сынови</w>
-<w n="274,26">своему</w>
-<w n="274,26">Ярославу.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="274,26">Володимеръ</w>
-<w n="274,26">вда</w>
-<w n="274,26">сынови</w>
-<w n="274,26">своему</w>
-<w n="274,26">Ярославу.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>274, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="274"/><div type="block" n="26"><p><app><lem wit="#lem">
+            Володимирь въдасть сынови своему Ярославу.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">володимеръ вда <lb/> снв҃и своѥму ꙗрославу·:- <lb/></rdg>
+            <rdg wit="#rad">володимирь да<hi rend="sup">с</hi>ть <lb/> сн҃оу своемоу ꙗрославоу:- <lb/></rdg>
+            <rdg wit="#aka">володимирь <lb/> дасть сн҃ѹ своемѹ ꙗрославѹ:·</rdg>
+            <rdg wit="#ipa">во<lb/>лодимеръ вдасть с<hi rend="sup">н</hi>ви свое<lb/>му· ꙗрославу·:·- <lb/></rdg>
+            <rdg wit="#xle">вол<hi rend="sup">д</hi>о<hi rend="sup">ї</hi>меръ <lb/> вдасть. сн҃ѡви своемоу ꙗрославоу.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Володимеръ вда сынови своему Ярославу.</rdg><rdg wit="#shakh">Володимерь въдасть сынови своему Ярославу.</rdg><rdg wit="#likh">Володимеръ вда сынови своему Ярославу.</rdg></rdgGrp></app></p></div></body></text></TEI>

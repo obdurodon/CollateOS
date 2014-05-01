@@ -1,97 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>119, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="119"/><div type="block" n="11"><p>
-<app>
-<lem wit="#lem">
-<w n="119,11">хощю”.</w>
-<w n="119,11">Помилова</w>
-<w n="119,11">бо</w>
-<w n="119,11">ны</w>
-<w n="119,11">“Пакы</w>
-<w n="119,11">банею</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="119,11">хощю</w>
-<w n="119,11">помилу<lb/>ю.</w>
-<w n="119,11">помилова</w>
-<w n="119,11">бо</w>
-<w n="119,11">ны</w>
-<w n="119,11">пакы</w>
-<w n="119,11">бане<lb/>ю</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="119,11">хощю.</w>
-<w n="119,11">помило<lb/>ва</w>
-<w n="119,11">бо</w>
-<w n="119,11">ны</w>
-<w n="119,11">пакы.</w>
-<w n="119,11">банею</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="119,11">хощю.</w>
-<w n="119,11">помї<lb/>лова</w>
-<w n="119,11">бо</w>
-<w n="119,11">ны</w>
-<w n="119,11">паки.</w>
-<w n="119,11">банею</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="119,11">хощю.</w>
-<w n="119,11">помилова</w>
-<w n="119,11">бо</w>
-<w n="119,11">ны <lb/></w>
-
-<w n="119,11">пакы</w>
-<w n="119,11">банею</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="119,11">хощу</w>
-<w n="119,11">помилую</w>
-<w n="119,11">помилова</w>
-<w n="119,11">ны</w>
-<w n="119,11">пакы</w>
-<w n="119,11">банею</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="119,11">хощу</w>
-<w n="119,11">помилую</w>
-<w n="119,11">помилова</w>
-<w n="119,11">ны</w>
-<w n="119,11">паки</w>
-<w n="119,11">банею</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="119,11">хощю.</w>
-<w n="119,11">Помилова</w>
-<w n="119,11">бо</w>
-<w n="119,11">ны</w>
-<w n="119,11">пакы</w>
-<w n="119,11">банею</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="119,11">хощю.</w>
-<w n="119,11">Помилова</w>
-<w n="119,11">бо</w>
-<w n="119,11">ны</w>
-<w n="119,11">Пакы</w>
-<w n="119,11">банею</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="119,11">хощю”.</w>
-<w n="119,11">Помилова</w>
-<w n="119,11">бо</w>
-<w n="119,11">ны</w>
-<w n="119,11">“Пакы</w>
-<w n="119,11">банею</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>119, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="119"/><div type="block" n="11"><p><app><lem wit="#lem">
+            хощю”. Помилова бо ны “Пакы банею
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">хощю помилу<lb/>ю. помилова бо ны пакы бане<lb/>ю</rdg>
+            <rdg wit="#rad">хощю. помило<lb/>ва бо ны пакы. банею</rdg>
+            <rdg wit="#aka">хощю. помї<lb/>лова бо ны паки. банею</rdg>
+            <rdg wit="#ipa">хощю. помилова бо ны <lb/> пакы банею</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">хощу помилую помилова ны пакы банею</rdg>
+            <rdg wit="#tol">хощу помилую помилова ны паки банею</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">хощю. Помилова бо ны пакы банею</rdg><rdg wit="#shakh">хощю. Помилова бо ны Пакы банею</rdg><rdg wit="#likh">хощю”. Помилова бо ны “Пакы банею</rdg></rdgGrp></app></p></div></body></text></TEI>

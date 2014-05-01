@@ -1,88 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>123, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="123"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="123,20">И</w>
-<w n="123,20">выступи</w>
-<w n="123,20">мужь</w>
-<w n="123,20">Володимирь,</w>
-<w n="123,20">и</w>
-<w n="123,20">въздрѣвъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="123,20">и</w>
-<w n="123,20">высту<lb/>пи</w>
-<w n="123,20">мужь</w>
-<w n="123,20">володимерь.</w>
-<w n="123,20">и</w>
-<w n="123,20">оузрѣ <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="123,20">и</w>
-<w n="123,20">выстоупи</w>
-<w n="123,20">моу<hi rend="sup">ж</hi></w>
-<w n="123,20">вололодимирь.</w>
-<w n="123,20">и</w>
-<w n="123,20">оузрѣвъ <pb n="69r"/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="123,20">и</w>
-<w n="123,20">выстѹпи <lb/></w>
-
-<w n="123,20">мѹжь</w>
-<w n="123,20">володимиръ.</w>
-<w n="123,20">и</w>
-<w n="123,20">оузрѣвъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="123,20">и</w>
-<w n="123,20">выступи</w>
-<w n="123,20">мужь</w>
-<w n="123,20">володимѣрь <lb/></w>
-
-<w n="123,20">и</w>
-<w n="123,20">възрѣвъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="123,20">и</w>
-<w n="123,20">выстѫпи</w>
-<w n="123,20">мѫ<hi rend="sup">ж</hi></w>
-<w n="123,20">вол<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>меровь. <lb/></w>
-
-<w n="123,20">и</w>
-<w n="123,20">видѣвь</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="123,20">и</w>
-<w n="123,20">выступи</w>
-<w n="123,20">мужь</w>
-<w n="123,20">Володимерь,</w>
-<w n="123,20">и</w>
-<w n="123,20">узрѣ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="123,20">И</w>
-<w n="123,20">выступи</w>
-<w n="123,20">мужь</w>
-<w n="123,20">Володимерь,</w>
-<w n="123,20">и</w>
-<w n="123,20">узьрѣ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="123,20">И</w>
-<w n="123,20">выступи</w>
-<w n="123,20">мужь</w>
-<w n="123,20">Володимерь,</w>
-<w n="123,20">и</w>
-<w n="123,20">узрѣ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>123, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="123"/><div type="block" n="20"><p><app><lem wit="#lem">
+            И выступи мужь Володимирь, и въздрѣвъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и высту<lb/>пи мужь володимерь. и оузрѣ <lb/></rdg>
+            <rdg wit="#rad">и выстоупи моу<hi rend="sup">ж</hi> вололодимирь. и оузрѣвъ <pb n="69r"/></rdg>
+            <rdg wit="#aka">и выстѹпи <lb/> мѹжь володимиръ. и оузрѣвъ</rdg>
+            <rdg wit="#ipa">и выступи мужь володимѣрь <lb/> и възрѣвъ</rdg>
+            <rdg wit="#xle">и выстѫпи мѫ<hi rend="sup">ж</hi> вол<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>меровь. <lb/> и видѣвь</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и выступи мужь Володимерь, и узрѣ</rdg><rdg wit="#shakh">И выступи мужь Володимерь, и узьрѣ</rdg><rdg wit="#likh">И выступи мужь Володимерь, и узрѣ</rdg></rdgGrp></app></p></div></body></text></TEI>

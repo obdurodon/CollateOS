@@ -1,87 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>36, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="36"/><div type="block" n="8"><p>
-<app>
-<lem wit="#lem">
-<w n="36,8">искупленое</w>
-<w n="36,8">лице</w>
-<w n="36,8">въ</w>
-<w n="36,8">свою</w>
-<w n="36,8">страну,</w>
-<w n="36,8">и</w>
-<w n="36,8">възьмуть</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="36,8">искѹпное <lb/></w>
-
-<w n="36,8">лице</w>
-<w n="36,8">въ</w>
-<w n="36,8">свою</w>
-<w n="36,8">сторонѹ.</w>
-<w n="36,8">и</w>
-<w n="36,8">возмоу<hi rend="sup">т</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="36,8">искѹпно<lb/>е</w>
-<w n="36,8">лїце</w>
-<w n="36,8">во</w>
-<w n="36,8">свою</w>
-<w n="36,8">сторонѹ.</w>
-<w n="36,8">и</w>
-<w n="36,8">возмѹ<hi rend="sup">т</hi></w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="36,8">и.скупленое</w>
-<w n="36,8">лице</w>
-<w n="36,8">въ</w>
-<w n="36,8">св<hi rend="sup">о</hi><lb/>ю</w>
-<w n="36,8">страну.</w>
-<w n="36,8">и</w>
-<w n="36,8">възмуть</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="36,8">искоупеное <lb/><milestone unit="sic" n="start"/>е<milestone unit="sic" n="end"/></w>
-
-<w n="36,8">лице</w>
-<w n="36,8">въ</w>
-<w n="36,8">свою</w>
-<w n="36,8">страноу.</w>
-<w n="36,8">и</w>
-<w n="36,8">възмоу<hi rend="sup">т</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="36,8">искупное</w>
-<w n="36,8">лице</w>
-<w n="36,8">въ</w>
-<w n="36,8">свою</w>
-<w n="36,8">сторону,</w>
-<w n="36,8">и</w>
-<w n="36,8">возмуть</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="36,8">искупленое</w>
-<w n="36,8">лиць</w>
-<w n="36,8">въ</w>
-<w n="36,8">свою</w>
-<w n="36,8">страну,</w>
-<w n="36,8">и</w>
-<w n="36,8">възьмуть</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="36,8">искупное</w>
-<w n="36,8">лице</w>
-<w n="36,8">въ</w>
-<w n="36,8">свою</w>
-<w n="36,8">сторону,</w>
-<w n="36,8">и</w>
-<w n="36,8">возмуть</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>36, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="36"/><div type="block" n="8"><p><app><lem wit="#lem">
+            искупленое лице въ свою страну, и възьмуть
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">искѹпное <lb/> лице въ свою сторонѹ. и возмоу<hi rend="sup">т</hi></rdg>
+            <rdg wit="#aka">искѹпно<lb/>е лїце во свою сторонѹ. и возмѹ<hi rend="sup">т</hi></rdg>
+            <rdg wit="#ipa">и.скупленое лице въ св<hi rend="sup">о</hi><lb/>ю страну. и възмуть</rdg>
+            <rdg wit="#xle">искоупеное <lb/><sic>е</sic> лице въ свою страноу. и
+                възмоу<hi rend="sup">т</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">искупное лице въ свою сторону, и возмуть</rdg><rdg wit="#shakh">искупленое лиць въ свою страну, и възьмуть</rdg><rdg wit="#likh">искупное лице въ свою сторону, и возмуть</rdg></rdgGrp></app></p></div></body></text></TEI>

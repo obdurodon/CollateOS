@@ -1,98 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>17, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="17"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-<w n="17,6">“Се,</w>
-<w n="17,6">налѣзохомъ</w>
-<w n="17,6">дань</w>
-<w n="17,6">нову”.</w>
-<w n="17,6">Они</w>
-<w n="17,6">же</w>
-<w n="17,6">рѣша</w>
-<w n="17,6">имъ:</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="17,6">се</w>
-<w n="17,6">налѣзохо<lb/>мъ</w>
-<w n="17,6">дань</w>
-<w n="17,6">нооу</w>
-<w n="17,6">ѡни</w>
-<w n="17,6">же</w>
-<w n="17,6">рѣ<lb/>ша</w>
-<w n="17,6">имъ</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-<w n="17,6">се</w>
-<w n="17,6">налезохомъ</w>
-<w n="17,6">дань</w>
-<w n="17,6">но<lb/>вѹ.</w>
-<w n="17,6">ѡни</w>
-<w n="17,6">же</w>
-<w n="17,6">рѣша</w>
-<w n="17,6">имъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="17,6">се</w>
-<w n="17,6">налѣзохомъ <lb/></w>
-
-<w n="17,6">дань</w>
-<w n="17,6">нову.</w>
-<w n="17,6">ѡни</w>
-<w n="17,6">же</w>
-<w n="17,6">рѣша <lb/></w>
-
-<w n="17,6">имъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="17,6">се</w>
-<w n="17,6">налѣзохѡ<hi rend="sup">м</hi><lb/></w>
-<w n="17,6">дань</w>
-<w n="17,6">новоу,</w>
-<w n="17,6">ѡни</w>
-<w n="17,6">же</w>
-<w n="17,6">рѣша</w>
-<w n="17,6">и<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="17,6">“се,</w>
-<w n="17,6">налѣзохомъ</w>
-<w n="17,6">дань</w>
-<w n="17,6">нову”.</w>
-<w n="17,6">Они</w>
-<w n="17,6">же</w>
-<w n="17,6">рѣша</w>
-<w n="17,6">имъ:</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="17,6">“се,</w>
-<w n="17,6">налѣзохомъ</w>
-<w n="17,6">дань</w>
-<w n="17,6">нову”.</w>
-<w n="17,6">Они</w>
-<w n="17,6">же</w>
-<w n="17,6">рѣша</w>
-<w n="17,6">имъ:</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="17,6">“Се,</w>
-<w n="17,6">налѣзохомъ</w>
-<w n="17,6">дань</w>
-<w n="17,6">нову”.</w>
-<w n="17,6">Они</w>
-<w n="17,6">же</w>
-<w n="17,6">рѣша</w>
-<w n="17,6">имъ:</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>17, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="17"/><div type="block" n="6"><p><app><lem wit="#lem">
+            “Се, налѣзохомъ дань нову”. Они же рѣша имъ:
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">се налѣзохо<lb/>мъ дань нооу ѡни же рѣ<lb/>ша имъ</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">се налезохомъ дань но<lb/>вѹ. ѡни же рѣша имъ</rdg>
+            <rdg wit="#ipa">се налѣзохомъ <lb/> дань нову. ѡни же рѣша <lb/> имъ</rdg>
+            <rdg wit="#xle">се налѣзохѡ<hi rend="sup">м</hi>
+                <lb/> дань новоу, ѡни же рѣша и<hi rend="sup">м</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">“се, налѣзохомъ дань нову”. Они же рѣша имъ:</rdg><rdg wit="#shakh">“се, налѣзохомъ дань нову”. Они же рѣша имъ:</rdg><rdg wit="#likh">“Се, налѣзохомъ дань нову”. Они же рѣша имъ:</rdg></rdgGrp></app></p></div></body></text></TEI>

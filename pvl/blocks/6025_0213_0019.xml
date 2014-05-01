@@ -1,57 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>213, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="213"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-<w n="213,19">Радуи</w>
-<w n="213,19">ся,</w>
-<w n="213,19">укрѣпль</w>
-<w n="213,19">ся</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="213,19">книжны<hi rend="sup">х</hi></w>
-<w n="213,19">веселуꙗсѧ·</w>
-<w n="213,19">радуи<lb/>сѧ</w>
-<w n="213,19">оукрѣпльсѧ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="213,19">рау<hi rend="sup">д</hi>исѧ</w>
-<w n="213,19">оукрѣ<lb/>пль<hi rend="sup">с</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="213,19">рау<hi rend="sup">д</hi>исѧ</w>
-<w n="213,19">оукрепльсѧ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="213,19">радуисѧ</w>
-<w n="213,19">оукрѣ<lb/>плесѧ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="213,19">рау<hi rend="sup">д</hi>исѧ</w>
-<w n="213,19">оукрѣпльсѧ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="213,19">книжныхъ</w>
-<w n="213,19">веселуяся.</w>
-<w n="213,19">Радуйся,</w>
-<w n="213,19">укрѣплься</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="213,19">кънижьныхъ</w>
-<w n="213,19">веселуяся.</w>
-<w n="213,19">Радуися,</w>
-<w n="213,19">укрѣплься</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="213,19">книжных</w>
-<w n="213,19">веселуяся.</w>
-<w n="213,19">Радуйся,</w>
-<w n="213,19">укрѣплься</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>213, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="213"/><div type="block" n="19"><p><app><lem wit="#lem">
+            Радуи ся, укрѣпль ся
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">книжны<hi rend="sup">х</hi> веселуꙗсѧ· радуи<lb/>сѧ оукрѣпльсѧ</rdg>
+            <rdg wit="#rad">рау<hi rend="sup">д</hi>исѧ оукрѣ<lb/>пль<hi rend="sup">с</hi></rdg>
+            <rdg wit="#aka">рау<hi rend="sup">д</hi>исѧ оукрепльсѧ</rdg>
+            <rdg wit="#ipa">радуисѧ оукрѣ<lb/>плесѧ</rdg>
+            <rdg wit="#xle">рау<hi rend="sup">д</hi>исѧ оукрѣпльсѧ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">книжныхъ веселуяся. Радуйся, укрѣплься</rdg><rdg wit="#shakh">кънижьныхъ веселуяся. Радуися, укрѣплься</rdg><rdg wit="#likh">книжных веселуяся. Радуйся, укрѣплься</rdg></rdgGrp></app></p></div></body></text></TEI>

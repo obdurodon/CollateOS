@@ -1,77 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>215, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="215"/><div type="block" n="28"><p>
-<app>
-<lem wit="#lem">
-<w n="215,28">великыи</w>
-<w n="215,28">кънязь</w>
-<w n="215,28">Вьсеволодъ,</w>
-<w n="215,28">сынъ</w>
-<w n="215,28">Ярославль,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="215,28">великыи</w>
-<w n="215,28">кнѧзь</w>
-<w n="215,28">всеволодъ·</w>
-<w n="215,28">снъ҃ <lb/></w>
-
-<w n="215,28">ꙗрославль·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="215,28">великии</w>
-<w n="215,28">кн҃зь</w>
-<w n="215,28">всеволо<hi rend="sup">д</hi>·</w>
-<w n="215,28">сн҃ъ</w>
-<w n="215,28">ꙗрославль.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="215,28">великыи</w>
-<w n="215,28">кнз҃ь</w>
-<w n="215,28">всеволодъ·</w>
-<w n="215,28">сн҃ъ</w>
-<w n="215,28">ꙗрославле· <pb n="114r"/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="215,28">кнѧзь·</w>
-<w n="215,28">всеволодъ <lb/></w>
-
-<w n="215,28">сн҃ъ</w>
-<w n="215,28">ꙗрославль·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="215,28">великыи <lb/></w>
-
-<w n="215,28">кнѧзь</w>
-<w n="215,28">всев<hi rend="sup">о</hi>лѡ<hi rend="sup">д</hi>.</w>
-<w n="215,28">сн҃ъ</w>
-<w n="215,28">ярославль.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="215,28">великый</w>
-<w n="215,28">князь</w>
-<w n="215,28">Всеволодъ,</w>
-<w n="215,28">сынъ</w>
-<w n="215,28">Ярославль,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="215,28">великыи</w>
-<w n="215,28">кънязь</w>
-<w n="215,28">Вьсеволодъ,</w>
-<w n="215,28">сынъ</w>
-<w n="215,28">Ярославль,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="215,28">великый</w>
-<w n="215,28">князь</w>
-<w n="215,28">Всеволодъ,</w>
-<w n="215,28">сынъ</w>
-<w n="215,28">Ярославль,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>215, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="215"/><div type="block" n="28"><p><app><lem wit="#lem">
+            великыи кънязь Вьсеволодъ, сынъ Ярославль,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">великыи кнѧзь всеволодъ· снъ҃ <lb/> ꙗрославль·</rdg>
+            <rdg wit="#rad">великии кн҃зь всеволо<hi rend="sup">д</hi>· сн҃ъ ꙗрославль.</rdg>
+            <rdg wit="#aka">великыи кнз҃ь всеволодъ· сн҃ъ ꙗрославле· <pb n="114r"/></rdg>
+            <rdg wit="#ipa">кнѧзь· всеволодъ <lb/> сн҃ъ ꙗрославль·</rdg>
+            <rdg wit="#xle">великыи <lb/> кнѧзь всев<hi rend="sup">о</hi>лѡ<hi rend="sup">д</hi>. сн҃ъ ꙗрославль.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">великый князь Всеволодъ, сынъ Ярославль,</rdg><rdg wit="#shakh">великыи кънязь Вьсеволодъ, сынъ Ярославль,</rdg><rdg wit="#likh">великый князь Всеволодъ, сынъ Ярославль,</rdg></rdgGrp></app></p></div></body></text></TEI>

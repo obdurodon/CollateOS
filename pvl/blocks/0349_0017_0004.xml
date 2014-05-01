@@ -1,100 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>17, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="17"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-<w n="17,4">дыма</w>
-<w n="17,4">мечь,</w>
-<w n="17,4">и</w>
-<w n="17,4">несоша</w>
-<w n="17,4">Козаре</w>
-<w n="17,4">къ</w>
-<w n="17,4">кънязю</w>
-<w n="17,4">своему</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="17,4">дыма</w>
-<w n="17,4">мечь</w>
-<w n="17,4">и</w>
-<w n="17,4">несоша</w>
-<w n="17,4">козари</w>
-<w n="17,4">ко</w>
-<w n="17,4">кнѧзю</w>
-<w n="17,4">своему. <lb/></w>
-
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="17,4">дыма</w>
-<w n="17,4">мечь:·</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="17,4">дыма</w>
-<w n="17,4">мечь:·</w>
-<w n="17,4">Внесоша</w>
-<w n="17,4">козаре</w>
-<w n="17,4">ко</w>
-<w n="17,4">кн҃зю</w>
-<w n="17,4">своемѹ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="17,4">дым<hi rend="sup">а</hi><lb/></w>
-<w n="17,4">мечь.</w>
-<w n="17,4">и</w>
-<w n="17,4">несоша</w>
-<w n="17,4">козарѣ</w>
-<w n="17,4">къ <lb/></w>
-
-<w n="17,4">кнѧзю</w>
-<w n="17,4">своему.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="17,4">дыма</w>
-<w n="17,4">мечь.</w>
-<w n="17,4">и</w>
-<w n="17,4">несоша</w>
-<w n="17,4">къ</w>
-<w n="17,4">кнѧѕю</w>
-<w n="17,4">своемоу</w>
-<w n="17,4">козаре. <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="17,4">дыма</w>
-<w n="17,4">мечь,</w>
-<w n="17,4">и</w>
-<w n="17,4">несоша</w>
-<w n="17,4">Козари</w>
-<w n="17,4">ко</w>
-<w n="17,4">князю</w>
-<w n="17,4">своему</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="17,4">дыма</w>
-<w n="17,4">мечь.</w>
-<w n="17,4">И</w>
-<w n="17,4">несоша</w>
-<w n="17,4">Козаре</w>
-<w n="17,4">къ</w>
-<w n="17,4">кънязю</w>
-<w n="17,4">своему</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="17,4">дыма</w>
-<w n="17,4">мечь,</w>
-<w n="17,4">и</w>
-<w n="17,4">несоша</w>
-<w n="17,4">козари</w>
-<w n="17,4">ко</w>
-<w n="17,4">князю</w>
-<w n="17,4">своему</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>17, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="17"/><div type="block" n="4"><p><app><lem wit="#lem">
+            дыма мечь, и несоша Козаре къ кънязю своему
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">дыма мечь и несоша козари ко кнѧзю своему. <lb/></rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">дыма мечь:·</rdg>
+            <rdg wit="#aka">дыма мечь:· Внесоша козаре ко кн҃зю своемѹ</rdg>
+            <rdg wit="#ipa">дым<hi rend="sup">а</hi>
+                <lb/> мечь. и несоша козарѣ къ <lb/> кнѧзю своему.</rdg>
+            <rdg wit="#xle">дыма мечь. и несоша къ кнѧѕю своемоу козаре. <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">дыма мечь, и несоша Козари ко князю своему</rdg><rdg wit="#shakh">дыма мечь. И несоша Козаре къ кънязю своему</rdg><rdg wit="#likh">дыма мечь, и несоша козари ко князю своему</rdg></rdgGrp></app></p></div></body></text></TEI>

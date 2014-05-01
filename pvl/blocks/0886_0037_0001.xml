@@ -1,88 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>37, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="37"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="37,1">хрьстияньскаго</w>
-<w n="37,1">цьсаря.</w>
-<w n="37,1">Аще</w>
-<w n="37,1">къто</w>
-<w n="37,1">умьреть,</w>
-<w n="37,1">не</w>
-<w n="37,1">урядивъ</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="37,1">хрт<hi rend="sup">с</hi>ьаньскаго</w>
-<w n="37,1">ц҃рѧ</w>
-<w n="37,1">аще</w>
-<w n="37,1">кто</w>
-<w n="37,1">оумреть</w>
-<w n="37,1">не</w>
-<w n="37,1">оурѧвъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="37,1">хр<hi rend="sup">с</hi>тїаньского</w>
-<w n="37,1">ц҃рѧ</w>
-<w n="37,1">аще</w>
-<w n="37,1">кто</w>
-<w n="37,1">оумретъ</w>
-<w n="37,1">не</w>
-<w n="37,1">оурѧдивь</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="37,1">хр<hi rend="sup">с</hi>тьꙗньского</w>
-<w n="37,1">ц<hi rend="sup">с</hi>рѧ</w>
-<w n="37,1">аще</w>
-<w n="37,1">кто</w>
-<w n="37,1">оумреть</w>
-<w n="37,1">не</w>
-<w n="37,1">оурѧдивъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="37,1">хрт<hi rend="sup">с</hi>їанского</w>
-<w n="37,1">ц҃рѧ</w>
-<w n="37,1">аще</w>
-<w n="37,1">кто</w>
-<w n="37,1">оумре<hi rend="sup">т</hi></w>
-<w n="37,1">не</w>
-<w n="37,1">оурѧдивь</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="37,1">хрестьаньскаго</w>
-<w n="37,1">царя.</w>
-<w n="37,1">Аще</w>
-<w n="37,1">кто</w>
-<w n="37,1">умреть,</w>
-<w n="37,1">не</w>
-<w n="37,1">урядивь</w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="37,1">хрьстияньскаго</w>
-<w n="37,1">цѣсаря.</w>
-<w n="37,1">Аще</w>
-<w n="37,1">къто</w>
-<w n="37,1">умьреть,</w>
-<w n="37,1">не</w>
-<w n="37,1">урядивъ</w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="37,1">хрестьаньскаго</w>
-<w n="37,1">царя.</w>
-<w n="37,1">Аще</w>
-<w n="37,1">кто</w>
-<w n="37,1">умреть,</w>
-<w n="37,1">не</w>
-<w n="37,1">урядивь</w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>37, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="37"/><div type="block" n="1"><p><app><lem wit="#lem">
+            хрьстияньскаго цьсаря. Аще къто умьреть, не урядивъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">хрт<hi rend="sup">с</hi>ьаньскаго ц҃рѧ аще кто оумреть не оурѧвъ</rdg>
+            <rdg wit="#aka">хр<hi rend="sup">с</hi>тїаньского ц҃рѧ аще кто оумретъ не оурѧдивь</rdg>
+            <rdg wit="#ipa">хр<hi rend="sup">с</hi>тьꙗньского ц<hi rend="sup">с</hi>рѧ аще кто оумреть не оурѧдивъ</rdg>
+            <rdg wit="#xle">хрт<hi rend="sup">с</hi>їанского ц҃рѧ аще кто оумре<hi rend="sup">т</hi> не оурѧдивь</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">хрестьаньскаго царя. Аще кто умреть, не урядивь <add place="margin">36,7</add></rdg><rdg wit="#shakh">хрьстияньскаго цѣсаря. Аще къто умьреть, не урядивъ
+            <add place="margin">39,6</add></rdg><rdg wit="#likh">хрестьаньскаго царя. Аще кто умреть, не урядивь <add place="margin">28,23</add></rdg></rdgGrp></app></p></div></body></text></TEI>

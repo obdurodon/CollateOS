@@ -1,80 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>196, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="196"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="196,1">и</w>
-<w n="196,1">пакостити</w>
-<w n="196,1">нача</w>
-<w n="196,1">ово</w>
-<w n="196,1">игумену,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="196,1">творити.</w>
-<w n="196,1">пакости<lb/>ти</w>
-<w n="196,1">нача.</w>
-<w n="196,1">ѡво</w>
-<w n="196,1">игумену.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="196,1">и</w>
-<w n="196,1">пако<lb/>стити</w>
-<w n="196,1">на<hi rend="sup">ч</hi></w>
-<w n="196,1">ѡво</w>
-<w n="196,1">игоменѹ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="196,1">и</w>
-<w n="196,1">пакостити</w>
-<w n="196,1">на<lb/>ча.</w>
-<w n="196,1">ѡво</w>
-<w n="196,1">игѹменѹ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="196,1">и</w>
-<w n="196,1">пакостити</w>
-<w n="196,1">на<lb/>ча</w>
-<w n="196,1">ѡво</w>
-<w n="196,1">игумену.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="196,1">и</w>
-<w n="196,1">пакостити</w>
-<w n="196,1">нача.</w>
-<w n="196,1">ѡво</w>
-<w n="196,1">игоуменоу</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="196,1">творити,</w>
-<w n="196,1">и</w>
-<w n="196,1">пакостити</w>
-<w n="196,1">нача</w>
-<w n="196,1">ово</w>
-<w n="196,1">игумену,</w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="196,1">творити,</w>
-<w n="196,1">и</w>
-<w n="196,1">пакостити</w>
-<w n="196,1">нача</w>
-<w n="196,1">ово</w>
-<w n="196,1">игумену,</w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="196,1">творити,</w>
-<w n="196,1">и</w>
-<w n="196,1">пакостити</w>
-<w n="196,1">нача</w>
-<w n="196,1">ово</w>
-<w n="196,1">игумену,</w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>196, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="196"/><div type="block" n="1"><p><app><lem wit="#lem">
+            и пакостити нача ово игумену,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">творити. пакости<lb/>ти нача. ѡво игумену.</rdg>
+            <rdg wit="#rad">и пако<lb/>стити на<hi rend="sup">ч</hi> ѡво игоменѹ</rdg>
+            <rdg wit="#aka">и пакостити на<lb/>ча. ѡво игѹменѹ</rdg>
+            <rdg wit="#ipa">и пакостити на<lb/>ча ѡво игумену.</rdg>
+            <rdg wit="#xle">и пакостити нача. ѡво игоуменоу</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">творити, и пакостити нача ово игумену, <add place="margin">190,6</add></rdg><rdg wit="#shakh">творити, и пакостити нача ово игумену, <add place="margin">248,23</add></rdg><rdg wit="#likh">творити, и пакостити нача ово игумену, <add place="margin">130,5</add></rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,91 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>234, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="234"/><div type="block" n="12"><p>
-<app>
-<lem wit="#lem">
-<w n="234,12">отъ</w>
-<w n="234,12">Измаила,</w>
-<w n="234,12">и</w>
-<w n="234,12">творять</w>
-<w n="234,12">ся</w>
-<w n="234,12">Сарини,</w>
-<w n="234,12">и</w>
-<w n="234,12">прозъваша</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="234,12">ѿ <lb/></w>
-
-<w n="234,12">измаилѧ·</w>
-<w n="234,12">творѧтсѧ</w>
-<w n="234,12">сарини <lb/></w>
-
-<w n="234,12">и</w>
-<w n="234,12">прозваша</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="234,12">ѿ</w>
-<w n="234,12">измаила·</w>
-<w n="234,12">и</w>
-<w n="234,12">творѧть<hi rend="sup">с</hi></w>
-<w n="234,12">сарани·</w>
-<w n="234,12">прозваша</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="234,12">ѿ</w>
-<w n="234,12">измаила·</w>
-<w n="234,12">и</w>
-<w n="234,12">творѧть<hi rend="sup">с</hi><lb/></w>
-<w n="234,12">сарани·</w>
-<w n="234,12">прозваша</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="234,12">ѿ</w>
-<w n="234,12">измаи<lb/>ла</w>
-<w n="234,12">и</w>
-<w n="234,12">творѧть<hi rend="sup">с</hi></w>
-<w n="234,12">сарини·</w>
-<w n="234,12">и</w>
-<w n="234,12">проз<lb/>ваша</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="234,12">ѿ</w>
-<w n="234,12">измаила.</w>
-<w n="234,12">и</w>
-<w n="234,12">творѧтсѧ</w>
-<w n="234,12">сари<hi rend="sup">ц</hi>н<hi rend="sup">и</hi>и.</w>
-<w n="234,12">и <lb/></w>
-
-<w n="234,12">прозваша</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="234,12">отъ</w>
-<w n="234,12">Измаиля</w>
-<w n="234,12">творятся</w>
-<w n="234,12">Сарини,</w>
-<w n="234,12">и</w>
-<w n="234,12">прозваша</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="234,12">отъ</w>
-<w n="234,12">Измаила,</w>
-<w n="234,12">и</w>
-<w n="234,12">творяться</w>
-<w n="234,12">Сарини,</w>
-<w n="234,12">и</w>
-<w n="234,12">прозъваша</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="234,12">от</w>
-<w n="234,12">Измаиля</w>
-<w n="234,12">творятся</w>
-<w n="234,12">Сарини,</w>
-<w n="234,12">и</w>
-<w n="234,12">прозваша</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>234, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="234"/><div type="block" n="12"><p><app><lem wit="#lem">
+            отъ Измаила, и творять ся Сарини, и прозъваша
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѿ <lb/> измаилѧ· творѧтсѧ сарини <lb/> и прозваша</rdg>
+            <rdg wit="#rad">ѿ измаила· и творѧть<hi rend="sup">с</hi> сарани· прозваша</rdg>
+            <rdg wit="#aka">ѿ измаила· и творѧть<hi rend="sup">с</hi>
+                <lb/> сарани· прозваша</rdg>
+            <rdg wit="#ipa">ѿ измаи<lb/>ла и творѧть<hi rend="sup">с</hi> сарини· и проз<lb/>ваша</rdg>
+            <rdg wit="#xle">ѿ измаила. и творѧтсѧ сари<hi rend="sup">ц</hi>н<hi rend="sup">и</hi>и. и <lb/> прозваша</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">отъ Измаиля творятся Сарини, и прозваша</rdg><rdg wit="#shakh">отъ Измаила, и творяться Сарини, и прозъваша</rdg><rdg wit="#likh">от Измаиля творятся Сарини, и прозваша</rdg></rdgGrp></app></p></div></body></text></TEI>

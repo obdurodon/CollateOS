@@ -1,70 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>33, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="33"/><div type="block" n="15"><p>
-<app>
-<lem wit="#lem">
-<w n="33,15">межю</w>
-<w n="33,15">хрьстияны</w>
-<w n="33,15">и</w>
-<w n="33,15">Русию,</w>
-<w n="33,15">мъногашьды</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="33,15">межи</w>
-<w n="33,15">хрестьꙗны</w>
-<w n="33,15">и</w>
-<w n="33,15">роу<hi rend="sup">с</hi>ю.</w>
-<w n="33,15">многажды</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="33,15">межи</w>
-<w n="33,15">хрт<hi rend="sup">с</hi>ьꙗны</w>
-<w n="33,15">и</w>
-<w n="33,15">рѹ<hi rend="sup">с</hi>ю.</w>
-<w n="33,15">многаж<hi rend="sup">д</hi>ы</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="33,15">межю</w>
-<w n="33,15">хрт<hi rend="sup">с</hi>иꙗны</w>
-<w n="33,15">и</w>
-<w n="33,15">ру<lb/>сью.</w>
-<w n="33,15">многажды</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="33,15">межю</w>
-<w n="33,15">хрт<hi rend="sup">с</hi>їаны <lb/></w>
-
-<w n="33,15">и</w>
-<w n="33,15">роу<hi rend="sup">с</hi>ю.</w>
-<w n="33,15">мнѡгаж<hi rend="sup">д</hi>ы</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="33,15">межи</w>
-<w n="33,15">хрестьяны</w>
-<w n="33,15">и</w>
-<w n="33,15">Русью</w>
-<w n="33,15">многажды,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="33,15">межю</w>
-<w n="33,15">хрьстияны</w>
-<w n="33,15">и</w>
-<w n="33,15">Русию,</w>
-<w n="33,15">мъногашьды</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="33,15">межи</w>
-<w n="33,15">хрестьяны</w>
-<w n="33,15">и</w>
-<w n="33,15">Русью</w>
-<w n="33,15">многажды,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>33, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="33"/><div type="block" n="15"><p><app><lem wit="#lem">
+            межю хрьстияны и Русию, мъногашьды
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">межи хрестьꙗны и роу<hi rend="sup">с</hi>ю. многажды</rdg>
+            <rdg wit="#aka">межи хрт<hi rend="sup">с</hi>ьꙗны и рѹ<hi rend="sup">с</hi>ю. многаж<hi rend="sup">д</hi>ы</rdg>
+            <rdg wit="#ipa">межю хрт<hi rend="sup">с</hi>иꙗны и ру<lb/>сью. многажды</rdg>
+            <rdg wit="#xle">межю хрт<hi rend="sup">с</hi>їаны <lb/> и роу<hi rend="sup">с</hi>ю. мнѡгаж<hi rend="sup">д</hi>ы</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">межи хрестьяны и Русью многажды,</rdg><rdg wit="#shakh">межю хрьстияны и Русию, мъногашьды</rdg><rdg wit="#likh">межи хрестьяны и Русью многажды,</rdg></rdgGrp></app></p></div></body></text></TEI>

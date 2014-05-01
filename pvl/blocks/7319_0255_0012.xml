@@ -1,54 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>255, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="255"/><div type="block" n="12"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="255,12">в</w>
-<w n="255,12">разумѣ</w>
-<w n="255,12">мо<lb/>е</w>
-<w n="255,12">срц<hi rend="sup">д</hi>е</w>
-<w n="255,12">влк<hi rend="sup">д</hi>о·</w>
-<w n="255,12">ты</w>
-<w n="255,12">дажь</w>
-<w n="255,12">ми</w>
-<w n="255,12">слово <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="255,12">в</w>
-<w n="255,12">разумѣ</w>
-<w n="255,12">мое</w>
-<w n="255,12">сердце,</w>
-<w n="255,12">Владыко!</w>
-<w n="255,12">ты</w>
-<w n="255,12">дажь</w>
-<w n="255,12">ми</w>
-<w n="255,12">слово</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="255,12">в</w>
-<w n="255,12">разумѣ</w>
-<w n="255,12">мое</w>
-<w n="255,12">сердце,</w>
-<w n="255,12">владыко!</w>
-<w n="255,12">Ты</w>
-<w n="255,12">дажь</w>
-<w n="255,12">ми</w>
-<w n="255,12">слово,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>255, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="255"/><div type="block" n="12"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">в разумѣ мо<lb/>е срц<hi rend="sup">д</hi>е влк<hi rend="sup">д</hi>о· ты дажь ми слово <lb/></rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">в разумѣ мое сердце, Владыко! ты дажь ми слово</rdg><rdg wit="#likh">в разумѣ мое сердце, владыко! Ты дажь ми слово,</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,87 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>269, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="269"/><div type="block" n="24"><p>
-<app>
-<lem wit="#lem">
-<w n="269,24">у</w>
-<w n="269,24">Давыда</w>
-<w n="269,24">и</w>
-<w n="269,24">у</w>
-<w n="269,24">Святопълка.</w>
-<w n="269,24">Святопълкъ</w>
-<w n="269,24">же</w>
-<w n="269,24">оступи</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="269,24"><milestone unit="sic" n="start"/>ѹ<milestone unit="sic" n="end"/></w>
-<w n="269,24">двд҃а</w>
-<w n="269,24">и</w>
-<w n="269,24">ѹ</w>
-<w n="269,24">ст҃о<lb/>полка·</w>
-<w n="269,24">ст҃ополкъ</w>
-<w n="269,24">же</w>
-<w n="269,24">оступи <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="269,24">оу</w>
-<w n="269,24">да<lb/>выда</w>
-<w n="269,24"><milestone unit="sic" n="start"/>и</w>
-<w n="269,24">въ</w>
-<w n="269,24">ст҃ополка<milestone unit="sic" n="end"/>·</w>
-<w n="269,24">ст҃опо<lb/>лкъ</w>
-<w n="269,24">же</w>
-<w n="269,24">ѡступи</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="269,24">оу</w>
-<w n="269,24">дв҃да</w>
-<w n="269,24">и</w>
-<w n="269,24">оу</w>
-<w n="269,24">ст҃опол′ка <lb/></w>
-
-<w n="269,24">ст҃опол′къ</w>
-<w n="269,24">же</w>
-<w n="269,24">ѡстѫпи</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="269,24">у</w>
-<w n="269,24">Давыда</w>
-<w n="269,24">и</w>
-<w n="269,24">у</w>
-<w n="269,24">Святополка.</w>
-<w n="269,24">Святополкъ</w>
-<w n="269,24">же</w>
-<w n="269,24">оступи</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="269,24">у</w>
-<w n="269,24">Давыда</w>
-<w n="269,24">и</w>
-<w n="269,24">у</w>
-<w n="269,24">Святопълка.</w>
-<w n="269,24">Святопълкъ</w>
-<w n="269,24">же</w>
-<w n="269,24">оступи</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="269,24">у</w>
-<w n="269,24">Давыда</w>
-<w n="269,24">и</w>
-<w n="269,24">у</w>
-<w n="269,24">Святополка.</w>
-<w n="269,24">Святополкъ</w>
-<w n="269,24">же</w>
-<w n="269,24">оступи</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>269, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="269"/><div type="block" n="24"><p><app><lem wit="#lem">
+            у Давыда и у Святопълка. Святопълкъ же оступи
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav"><sic>ѹ</sic> двд҃а и ѹ ст҃о<lb/>полка· ст҃ополкъ же оступи <lb/></rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">оу да<lb/>выда <sic>и въ ст҃ополка</sic>· ст҃опо<lb/>лкъ же ѡступи</rdg>
+            <rdg wit="#xle">оу дв҃да и оу ст҃опол′ка <lb/> ст҃опол′къ же ѡстѫпи</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">у Давыда и у Святополка. Святополкъ же оступи</rdg><rdg wit="#shakh">у Давыда и у Святопълка. Святопълкъ же оступи</rdg><rdg wit="#likh">у Давыда и у Святополка. Святополкъ же оступи</rdg></rdgGrp></app></p></div></body></text></TEI>

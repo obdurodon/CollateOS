@@ -1,114 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>163, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="163"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-<w n="163,4">бещисльно</w>
-<w n="163,4">мъножьство,</w>
-<w n="163,4">на</w>
-<w n="163,4">Търкы.</w>
-<w n="163,4">Се</w>
-<w n="163,4">слышавъше</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="163,4">бещислено</w>
-<w n="163,4">множьство. <lb/></w>
-
-<w n="163,4">на</w>
-<w n="163,4">торкы.</w>
-<w n="163,4">се</w>
-<w n="163,4">слышавше</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="163,4">бесчисле<lb/>ное</w>
-<w n="163,4">множество</w>
-<w n="163,4">на</w>
-<w n="163,4">т<milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/>ркы.</w>
-<w n="163,4">се</w>
-<w n="163,4">слышавше</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="163,4">безчислено<lb/>е</w>
-<w n="163,4">множество</w>
-<w n="163,4">на</w>
-<w n="163,4">торкы.</w>
-<w n="163,4">се</w>
-<w n="163,4">слышавше</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="163,4">бещи<lb/>сленое</w>
-<w n="163,4">множьство</w>
-<w n="163,4">на</w>
-<w n="163,4">торкы <lb/></w>
-
-<w n="163,4">и</w>
-<w n="163,4">се</w>
-<w n="163,4">слышавше</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="163,4">бесчисленное</w>
-<w n="163,4">мнѡ<hi rend="sup">ж</hi><lb/>ство</w>
-<w n="163,4">на</w>
-<w n="163,4">торки.</w>
-<w n="163,4">се</w>
-<w n="163,4">слышавше</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="163,4">бещисленое</w>
-<w n="163,4">множество</w>
-<w n="163,4">на</w>
-<w n="163,4">торкы</w>
-<w n="163,4">слышавши</w>
-<w n="163,4">же</w>
-<w n="163,4">се</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="163,4">бесчисленое</w>
-<w n="163,4">множество</w>
-<w n="163,4">на</w>
-<w n="163,4">туркы</w>
-<w n="163,4">се</w>
-<w n="163,4">слышавше</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="163,4">бесчисленое</w>
-<w n="163,4">множество</w>
-<w n="163,4">на</w>
-<w n="163,4">туркы</w>
-<w n="163,4">се</w>
-<w n="163,4">слышавше</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="163,4">бещислено</w>
-<w n="163,4">множьство,</w>
-<w n="163,4">на</w>
-<w n="163,4">Торкы.</w>
-<w n="163,4">Се</w>
-<w n="163,4">слышавше</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="163,4">бещисльно</w>
-<w n="163,4">мъножьство,</w>
-<w n="163,4">на</w>
-<w n="163,4">Търкы.</w>
-<w n="163,4">Се</w>
-<w n="163,4">слышавъше</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="163,4">бещислено</w>
-<w n="163,4">множьство,</w>
-<w n="163,4">на</w>
-<w n="163,4">торкы.</w>
-<w n="163,4">Се</w>
-<w n="163,4">слышавше</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>163, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="163"/><div type="block" n="4"><p><app><lem wit="#lem">
+            бещисльно мъножьство, на Търкы. Се слышавъше
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">бещислено множьство. <lb/> на торкы. се слышавше</rdg>
+            <rdg wit="#rad">бесчисле<lb/>ное множество на т<sic>о</sic>ркы. се слышавше</rdg>
+            <rdg wit="#aka">безчислено<lb/>е множество на торкы. се слышавше</rdg>
+            <rdg wit="#ipa">бещи<lb/>сленое множьство на торкы <lb/> и се слышавше</rdg>
+            <rdg wit="#xle">бесчисленное мнѡ<hi rend="sup">ж</hi><lb/>ство на торки. се слышавше</rdg>
+            <rdg wit="#kom">бещисленое множество на торкы слышавши же се</rdg>
+            <rdg wit="#nak">бесчисленое множество на туркы се слышавше</rdg>
+            <rdg wit="#tol">бесчисленое множество на туркы се слышавше</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">бещислено множьство, на Торкы. Се слышавше</rdg><rdg wit="#shakh">бещисльно мъножьство, на Търкы. Се слышавъше</rdg><rdg wit="#likh">бещислено множьство, на торкы. Се слышавше</rdg></rdgGrp></app></p></div></body></text></TEI>

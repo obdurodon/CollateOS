@@ -1,94 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>45, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="45"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="45,22">Русь,</w>
-<w n="45,22">покрыли</w>
-<w n="45,22">суть</w>
-<w n="45,22">море</w>
-<w n="45,22">корабли,</w>
-<w n="45,22">бесчисла</w>
-<w n="45,22">корабль”.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="45,22">ру<milestone unit="sic" n="start"/>сь</w>
-<w n="45,22">бе<milestone unit="sic" n="end"/><lb/>щисла</w>
-<w n="45,22">корабль.</w>
-<w n="45,22">покрыли</w>
-<w n="45,22">суть</w>
-<w n="45,22">море</w>
-<w n="45,22">корабл<milestone unit="sic" n="start"/>и<milestone unit="sic" n="end"/>.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="45,22">роу<hi rend="sup">с</hi><lb/></w>
-<w n="45,22">бесчисла</w>
-<w n="45,22">корабль.</w>
-<w n="45,22">покрыли</w>
-<w n="45,22">соу<hi rend="sup">т</hi></w>
-<w n="45,22">море</w>
-<w n="45,22">корабли.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="45,22">рѹ<hi rend="sup">с</hi></w>
-<w n="45,22">бесчисла</w>
-<w n="45,22">корабль.</w>
-<w n="45,22">покрыли</w>
-<w n="45,22">сѹть <lb/></w>
-
-<w n="45,22">море</w>
-<w n="45,22">корабли.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="45,22">русь</w>
-<w n="45,22">пок<hi rend="sup">ъ</hi><lb/>рыли</w>
-<w n="45,22">суть</w>
-<w n="45,22">море</w>
-<w n="45,22">корабли. <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="45,22">роу<hi rend="sup">с</hi>.</w>
-<w n="45,22">покрыли</w>
-<w n="45,22">соу<hi rend="sup">т</hi></w>
-<w n="45,22">море</w>
-<w n="45,22">корабл<hi rend="sup">м</hi>ь<hi rend="sup">и</hi>. <lb/></w>
-
-<w n="45,22">бесчисла</w>
-<w n="45,22">кораблеи.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="45,22">Русь</w>
-<w n="45,22">бещисла</w>
-<w n="45,22">корабль,</w>
-<w n="45,22">покрыли</w>
-<w n="45,22">суть</w>
-<w n="45,22">море</w>
-<w n="45,22">корабли”.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="45,22">Русь,</w>
-<w n="45,22">бес</w>
-<w n="45,22">числа</w>
-<w n="45,22">корабль,</w>
-<w n="45,22">покрыли</w>
-<w n="45,22">суть</w>
-<w n="45,22">море</w>
-<w n="45,22">корабли”.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="45,22">Русь</w>
-<w n="45,22">бещисла</w>
-<w n="45,22">корабль,</w>
-<w n="45,22">покрыли</w>
-<w n="45,22">суть</w>
-<w n="45,22">море</w>
-<w n="45,22">корабли”.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>45, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="45"/><div type="block" n="22"><p><app><lem wit="#lem">
+            Русь, покрыли суть море корабли, бесчисла корабль”.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ру<sic>сь бе</sic><lb/>щисла корабль. покрыли суть море
+                    корабл<sic>и</sic>.</rdg>
+            <rdg wit="#rad">роу<hi rend="sup">с</hi>
+                <lb/> бесчисла корабль. покрыли соу<hi rend="sup">т</hi> море корабли.</rdg>
+            <rdg wit="#aka">рѹ<hi rend="sup">с</hi> бесчисла корабль. покрыли сѹть <lb/> море корабли.</rdg>
+            <rdg wit="#ipa">русь пок<hi rend="sup">ъ</hi><lb/>рыли суть море корабли. <lb/></rdg>
+            <rdg wit="#xle">роу<hi rend="sup">с</hi>. покрыли соу<hi rend="sup">т</hi> море корабл<hi rend="sup">м</hi>ь<hi rend="sup">и</hi>.
+                <lb/> бесчисла кораблеи.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Русь бещисла корабль, покрыли суть море корабли”.</rdg><rdg wit="#shakh">Русь, бес числа корабль, покрыли суть море корабли”.</rdg><rdg wit="#likh">Русь бещисла корабль, покрыли суть море корабли”.</rdg></rdgGrp></app></p></div></body></text></TEI>

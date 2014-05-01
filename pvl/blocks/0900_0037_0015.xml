@@ -1,79 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>37, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="37"/><div type="block" n="15"><p>
-<app>
-<lem wit="#lem">
-<w n="37,15">написаниемь</w>
-<w n="37,15">на</w>
-<w n="37,15">дъвою</w>
-<w n="37,15">харатию,</w>
-<w n="37,15">цьсаря</w>
-<w n="37,15">вашего</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="37,15">написание<hi rend="sup">м</hi></w>
-<w n="37,15">на</w>
-<w n="37,15">двою</w>
-<w n="37,15">харатью</w>
-<w n="37,15">ц҃рѧ</w>
-<w n="37,15">вашего. <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="37,15">пїс<milestone unit="sic" n="start"/>а<milestone unit="sic" n="end"/>ньемь</w>
-<w n="37,15">на</w>
-<w n="37,15">двою</w>
-<w n="37,15">хора<hi rend="sup">т</hi>ю</w>
-<w n="37,15">ц҃рѧ</w>
-<w n="37,15">ва<lb/>шего.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="37,15">написание<hi rend="sup">м</hi>.</w>
-<w n="37,15">на</w>
-<w n="37,15">двою</w>
-<w n="37,15">ха<lb/>ротью</w>
-<w n="37,15">ц<hi rend="sup">с</hi>рѧ</w>
-<w n="37,15">вашего.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="37,15">написанїе<hi rend="sup">м</hi></w>
-<w n="37,15">на</w>
-<w n="37,15">двою</w>
-<w n="37,15">хартїю.</w>
-<w n="37,15">ц҃рѧ</w>
-<w n="37,15">вашего. <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="37,15">написаниемъ</w>
-<w n="37,15">на</w>
-<w n="37,15">двою</w>
-<w n="37,15">харатью,</w>
-<w n="37,15">царя</w>
-<w n="37,15">вашего</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="37,15">написаниемь</w>
-<w n="37,15">на</w>
-<w n="37,15">дъвою</w>
-<w n="37,15">харатию,</w>
-<w n="37,15">цѣсаря</w>
-<w n="37,15">вашего</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="37,15">написанием</w>
-<w n="37,15">на</w>
-<w n="37,15">двою</w>
-<w n="37,15">харатью,</w>
-<w n="37,15">царя</w>
-<w n="37,15">вашего</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>37, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="37"/><div type="block" n="15"><p><app><lem wit="#lem">
+            написаниемь на дъвою харатию, цьсаря вашего
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">написание<hi rend="sup">м</hi> на двою харатью ц҃рѧ вашего. <lb/></rdg>
+            <rdg wit="#aka">пїс<sic>а</sic>ньемь на двою хора<hi rend="sup">т</hi>ю ц҃рѧ ва<lb/>шего.</rdg>
+            <rdg wit="#ipa">написание<hi rend="sup">м</hi>. на двою ха<lb/>ротью ц<hi rend="sup">с</hi>рѧ вашего.</rdg>
+            <rdg wit="#xle">написанїе<hi rend="sup">м</hi> на двою хартїю. ц҃рѧ вашего. <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">написаниемъ на двою харатью, царя вашего</rdg><rdg wit="#shakh">написаниемь на дъвою харатию, цѣсаря вашего</rdg><rdg wit="#likh">написанием на двою харатью, царя вашего</rdg></rdgGrp></app></p></div></body></text></TEI>

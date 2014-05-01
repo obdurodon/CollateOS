@@ -1,90 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>225, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="225"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="225,21">вьсѣхъ</w>
-<w n="225,21">почьтени</w>
-<w n="225,21">бывъше,</w>
-<w n="225,21">горѣе</w>
-<w n="225,21">вьсѣхъ</w>
-<w n="225,21">съдѣяхомъ</w>
-<w n="225,21">грѣхы.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="225,21">всѣ<hi rend="sup">х</hi></w>
-<w n="225,21">почтени</w>
-<w n="225,21">бывше·</w>
-<w n="225,21">горѣѥ <lb/></w>
-
-<w n="225,21">всѣ<hi rend="sup">х</hi></w>
-<w n="225,21">сдѣꙗхо<hi rend="sup">м</hi></w>
-<w n="225,21">грѣхы·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="225,21">вс<hi rend="sup">х</hi>ѣ</w>
-<w n="225,21">по<hi rend="sup">ч</hi>тены</w>
-<w n="225,21">бывше.</w>
-<w n="225,21">горее</w>
-<w n="225,21">вс<hi rend="sup">х</hi>ѣ</w>
-<w n="225,21">содеꙗхомъ</w>
-<w n="225,21">грехы· <pb n="129r"/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="225,21">всѣ<hi rend="sup">х</hi></w>
-<w n="225,21">почтени</w>
-<w n="225,21">бы·̏вше·</w>
-<w n="225,21">горѣе· <lb/></w>
-
-<w n="225,21">всѣ<hi rend="sup">х</hi></w>
-<w n="225,21">съдеꙗхомъ</w>
-<w n="225,21">грехы·̏·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="225,21">всихъ <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="225,21">всѣ<hi rend="sup">х</hi></w>
-<w n="225,21">почтени</w>
-<w n="225,21">бывше.</w>
-<w n="225,21">горѣе</w>
-<w n="225,21">всѣ<hi rend="sup">х</hi></w>
-<w n="225,21">съдѣѧхо<hi rend="sup">м</hi><lb/></w>
-<w n="225,21">грѣхы.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="225,21">всѣхъ</w>
-<w n="225,21">почтени</w>
-<w n="225,21">бывше,</w>
-<w n="225,21">горѣе</w>
-<w n="225,21">всѣхъ</w>
-<w n="225,21">сдѣяхомъ</w>
-<w n="225,21">грѣхы;</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="225,21">вьсѣхъ</w>
-<w n="225,21">почьтени</w>
-<w n="225,21">бывъше,</w>
-<w n="225,21">горе</w>
-<w n="225,21">вьсѣхъ</w>
-<w n="225,21">съдѣяхомъ</w>
-<w n="225,21">грѣхы;</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="225,21">всѣх</w>
-<w n="225,21">почтени</w>
-<w n="225,21">бывше,</w>
-<w n="225,21">горѣе</w>
-<w n="225,21">всѣх</w>
-<w n="225,21">сдѣяхом</w>
-<w n="225,21">грѣхы.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>225, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="225"/><div type="block" n="21"><p><app><lem wit="#lem">
+            вьсѣхъ почьтени бывъше, горѣе вьсѣхъ съдѣяхомъ грѣхы.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">всѣ<hi rend="sup">х</hi> почтени бывше· горѣѥ <lb/> всѣ<hi rend="sup">х</hi> сдѣꙗхо<hi rend="sup">м</hi>
+                грѣхы·</rdg>
+            <rdg wit="#rad">вс<hi rend="sup">х</hi>ѣ по<hi rend="sup">ч</hi>тены бывше. горее вс<hi rend="sup">х</hi>ѣ содеꙗхомъ
+                грехы· <pb n="129r"/></rdg>
+            <rdg wit="#aka">всѣ<hi rend="sup">х</hi> почтени бы·̏вше· горѣе· <lb/> всѣ<hi rend="sup">х</hi> съдеꙗхомъ
+                грехы·̏·</rdg>
+            <rdg wit="#ipa">всихъ <lb/></rdg>
+            <rdg wit="#xle">всѣ<hi rend="sup">х</hi> почтени бывше. горѣе всѣ<hi rend="sup">х</hi> съдѣѧхо<hi rend="sup">м</hi>
+                <lb/> грѣхы.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">всѣхъ почтени бывше, горѣе всѣхъ сдѣяхомъ грѣхы;</rdg><rdg wit="#shakh">вьсѣхъ почьтени бывъше, горе вьсѣхъ съдѣяхомъ грѣхы;</rdg><rdg wit="#likh">всѣх почтени бывше, горѣе всѣх сдѣяхом грѣхы.</rdg></rdgGrp></app></p></div></body></text></TEI>

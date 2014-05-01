@@ -1,93 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>154, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="154"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="154,1">конемъ</w>
-<w n="154,1">съдираху</w>
-<w n="154,1">хъзы</w>
-<w n="154,1">съ</w>
-<w n="154,1">нихъ:</w>
-<w n="154,1">толикъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="154,1">конемъ. <lb/></w>
-
-<w n="154,1">съдираху</w>
-<w n="154,1">хзы</w>
-<w n="154,1">с</w>
-<w n="154,1">нихъ.</w>
-<w n="154,1">толикъ <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="154,1">конемъ. <lb/></w>
-
-<w n="154,1">и</w>
-<w n="154,1">соди<lb/>рахоу</w>
-<w n="154,1">кожы</w>
-<w n="154,1">с</w>
-<w n="154,1">ни<hi rend="sup">х</hi>.</w>
-<w n="154,1">только</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="154,1">конемъ. <lb/></w>
-
-<w n="154,1">и</w>
-<w n="154,1">здирахѹ</w>
-<w n="154,1">хозыи</w>
-<w n="154,1">с</w>
-<w n="154,1">ни<hi rend="sup">х</hi>.</w>
-<w n="154,1">толикъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="154,1">конемь.</w>
-<w n="154,1">сдирахоу <lb/></w>
-
-<w n="154,1">хъзы</w>
-<w n="154,1">с</w>
-<w n="154,1">нихъ.</w>
-<w n="154,1">толикъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="154,1">коне<hi rend="sup">м</hi></w>
-<w n="154,1">здирахѫ</w>
-<w n="154,1">с</w>
-<w n="154,1">ни<hi rend="sup">х</hi><lb/></w>
-<w n="154,1">кожи.</w>
-<w n="154,1">толикь</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="154,1">конемъ</w>
-<w n="154,1">съдираху</w>
-<w n="154,1">хзы</w>
-<w n="154,1">с</w>
-<w n="154,1">нихъ:</w>
-<w n="154,1">толикъ <pb n="150,9"/></w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="154,1">конемъ,</w>
-<w n="154,1">съдираху</w>
-<w n="154,1">хъзы</w>
-<w n="154,1">съ</w>
-<w n="154,1">нихъ:</w>
-<w n="154,1">толикъ <pb n="195,4"/></w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="154,1">конемъ</w>
-<w n="154,1">съдираху</w>
-<w n="154,1">хзы</w>
-<w n="154,1">с</w>
-<w n="154,1">нихъ:</w>
-<w n="154,1">толикъ <pb n="103,27"/></w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>154, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="154"/><div type="block" n="1"><p><app><lem wit="#lem">
+            конемъ съдираху хъзы съ нихъ: толикъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">конемъ. <lb/> съдираху хзы с нихъ. толикъ <lb/></rdg>
+            <rdg wit="#rad">конемъ. <lb/> и соди<lb/>рахоу кожы с ни<hi rend="sup">х</hi>. только</rdg>
+            <rdg wit="#aka">конемъ. <lb/> и здирахѹ хозыи с ни<hi rend="sup">х</hi>. толикъ</rdg>
+            <rdg wit="#ipa">конемь. сдирахоу <lb/> хъзы с нихъ. толикъ</rdg>
+            <rdg wit="#xle">коне<hi rend="sup">м</hi> здирахѫ с ни<hi rend="sup">х</hi>
+                <lb/> кожи. толикь</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">конемъ съдираху хзы с нихъ: толикъ <pb n="150,9"/></rdg><rdg wit="#shakh">конемъ, съдираху хъзы съ нихъ: толикъ <pb n="195,4"/></rdg><rdg wit="#likh">конемъ съдираху хзы с нихъ: толикъ <pb n="103,27"/></rdg></rdgGrp></app></p></div></body></text></TEI>

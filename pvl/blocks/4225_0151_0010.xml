@@ -1,95 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>151, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="151"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-<w n="151,10">святая</w>
-<w n="151,10">София,</w>
-<w n="151,10">митрополия</w>
-<w n="151,10">Русьская;</w>
-<w n="151,10">бѣ</w>
-<w n="151,10">бо</w>
-<w n="151,10">тъгда</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="151,10">с҃таꙗ <lb/></w>
-
-<w n="151,10">соѳьꙗ.</w>
-<w n="151,10">митропольꙗ</w>
-<w n="151,10">русьска<lb/>ꙗ.</w>
-<w n="151,10">бѣ</w>
-<w n="151,10">бо</w>
-<w n="151,10">тогда</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="151,10">с҃таꙗ</w>
-<w n="151,10">софѣа.</w>
-<w n="151,10">митропольа</w>
-<w n="151,10">роу<hi rend="sup">с</hi>каꙗ.</w>
-<w n="151,10">бѣ</w>
-<w n="151,10">бо</w>
-<w n="151,10">тогда</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="151,10">ст҃аѧ</w>
-<w n="151,10">софиѧ.</w>
-<w n="151,10">ми<lb/>трополиѧ</w>
-<w n="151,10">рѹс<hi rend="sup">с</hi>каѧ.</w>
-<w n="151,10">бѣ</w>
-<w n="151,10">бо</w>
-<w n="151,10">тога<hi rend="sup">д</hi></w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="151,10">ст҃аꙗ</w>
-<w n="151,10">софьꙗ <lb/></w>
-
-<w n="151,10">митропольꙗ</w>
-<w n="151,10">роускаꙗ.</w>
-<w n="151,10">бѣ</w>
-<w n="151,10">бо <lb/></w>
-
-<w n="151,10">тогда</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="151,10">ст҃ы<milestone unit="sic" n="start"/>и<milestone unit="sic" n="end"/><lb/></w>
-<w n="151,10">соѳ<milestone unit="sic" n="start"/>е<milestone unit="sic" n="end"/>и.</w>
-<w n="151,10">митрѡполїа</w>
-<w n="151,10">роу<hi rend="sup">с</hi>каа.</w>
-<w n="151,10">бѣ</w>
-<w n="151,10">бо</w>
-<w n="151,10">тог<hi rend="sup">д</hi>а</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="151,10">святая</w>
-<w n="151,10">Соѳья,</w>
-<w n="151,10">митрополья</w>
-<w n="151,10">Русьская:</w>
-<w n="151,10">бѣ</w>
-<w n="151,10">бо</w>
-<w n="151,10">тогда</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="151,10">святая</w>
-<w n="151,10">София,</w>
-<w n="151,10">митрополия</w>
-<w n="151,10">Русьская;</w>
-<w n="151,10">бѣ</w>
-<w n="151,10">бо</w>
-<w n="151,10">тъгда</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="151,10">святая</w>
-<w n="151,10">Софья,</w>
-<w n="151,10">митрополья</w>
-<w n="151,10">русьская:</w>
-<w n="151,10">бѣ</w>
-<w n="151,10">бо</w>
-<w n="151,10">тогда</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>151, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="151"/><div type="block" n="10"><p><app><lem wit="#lem">
+            святая София, митрополия Русьская; бѣ бо тъгда
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">с҃таꙗ <lb/> соѳьꙗ. митропольꙗ русьска<lb/>ꙗ. бѣ бо тогда</rdg>
+            <rdg wit="#rad">с҃таꙗ софѣа. митропольа роу<hi rend="sup">с</hi>каꙗ. бѣ бо тогда</rdg>
+            <rdg wit="#aka">ст҃аѧ софиѧ. ми<lb/>трополиѧ рѹс<hi rend="sup">с</hi>каѧ. бѣ бо тога<hi rend="sup">д</hi></rdg>
+            <rdg wit="#ipa">ст҃аꙗ софьꙗ <lb/> митропольꙗ роускаꙗ. бѣ бо <lb/> тогда</rdg>
+            <rdg wit="#xle">ст҃ы<sic>и</sic><lb/> соѳ<sic>е</sic>и. митрѡполїа
+                роу<hi rend="sup">с</hi>каа. бѣ бо тог<hi rend="sup">д</hi>а</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">святая Соѳья, митрополья Русьская: бѣ бо тогда</rdg><rdg wit="#shakh">святая София, митрополия Русьская; бѣ бо тъгда</rdg><rdg wit="#likh">святая Софья, митрополья русьская: бѣ бо тогда</rdg></rdgGrp></app></p></div></body></text></TEI>

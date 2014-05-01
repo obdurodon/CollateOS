@@ -1,98 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>10, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="10"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="10,22">Кривичи.</w>
-<w n="10,22">Таже</w>
-<w n="10,22">Сѣверо</w>
-<w n="10,22">отъ</w>
-<w n="10,22">нихъ.</w>
-<w n="10,22">На</w>
-<w n="10,22">Бѣлѣозерѣ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="10,22">кривичи</w>
-<w n="10,22">таже</w>
-<w n="10,22">с<milestone unit="sic" n="start"/>ѣвер<milestone unit="sic" n="end"/>ъ</w>
-<w n="10,22">ѿ</w>
-<w n="10,22">нихъ</w>
-<w n="10,22"><milestone unit="sic" n="start"/>н<hi rend="sup">а</hi><milestone unit="sic" n="end"/><lb/></w>
-<w n="10,22">бѣлѣѡзерѣ</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="10,22">кривичи</w>
-<w n="10,22">таже</w>
-<w n="10,22">сѣверъ</w>
-<w n="10,22">от</w>
-<w n="10,22">нихъ</w>
-<w n="10,22">сѣдять</w>
-<w n="10,22">на</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="10,22">криви<hi rend="sup">ч</hi>.</w>
-<w n="10,22">та<hi rend="sup">ж</hi></w>
-<w n="10,22">сѣра</w>
-<w n="10,22">ѿ</w>
-<w n="10,22">ни<hi rend="sup">х</hi>.</w>
-<w n="10,22">на</w>
-<w n="10,22">белѣѡзере</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="10,22">кривичи. <lb/></w>
-
-<w n="10,22">таже</w>
-<w n="10,22">сѣвера</w>
-<w n="10,22">ѿ</w>
-<w n="10,22">нихъ</w>
-<w n="10,22">на</w>
-<w n="10,22">белѣѡзере</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="10,22">кри<lb/>вичи.</w>
-<w n="10,22">таже</w>
-<w n="10,22">сѣверо</w>
-<w n="10,22">ѿ</w>
-<w n="10,22">ни<hi rend="sup">х</hi>. <lb/></w>
-
-<w n="10,22">на</w>
-<w n="10,22">бѣлѣѡзерѣ</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="10,22">Кривичи.</w>
-<w n="10,22">Таже</w>
-<w n="10,22">сѣверъ</w>
-<w n="10,22">отъ</w>
-<w n="10,22">нихъ</w>
-<w n="10,22">на</w>
-<w n="10,22">Бѣлѣозерѣ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="10,22">Кривичи;</w>
-<w n="10,22">таже</w>
-<w n="10,22">Сѣверъ</w>
-<w n="10,22">отъ</w>
-<w n="10,22">нихъ.</w>
-<w n="10,22">А</w>
-<w n="10,22">на</w>
-<w n="10,22">Бѣлѣозерѣ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="10,22">кривичи.</w>
-<w n="10,22">Таже</w>
-<w n="10,22">сѣверъ</w>
-<w n="10,22">от</w>
-<w n="10,22">нихъ.</w>
-<w n="10,22">На</w>
-<w n="10,22">Бѣлѣозерѣ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>10, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="10"/><div type="block" n="22"><p><app><lem wit="#lem">
+            Кривичи. Таже Сѣверо отъ нихъ. На Бѣлѣозерѣ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">кривичи таже с<sic>ѣвер</sic>ъ ѿ нихъ <sic>н<hi rend="sup">а</hi></sic><lb/>
+                бѣлѣѡзерѣ</rdg>
+            <rdg wit="#tro">кривичи таже сѣверъ от нихъ сѣдять на</rdg>
+            <rdg wit="#rad">криви<hi rend="sup">ч</hi>. та<hi rend="sup">ж</hi> сѣра ѿ ни<hi rend="sup">х</hi>. на белѣѡзере</rdg>
+            <rdg wit="#aka">кривичи. <lb/> таже сѣвера ѿ нихъ на белѣѡзере</rdg>
+            <rdg wit="#ipa">кри<lb/>вичи. таже сѣверо ѿ ни<hi rend="sup">х</hi>. <lb/> на бѣлѣѡзерѣ</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Кривичи. Таже сѣверъ отъ нихъ на Бѣлѣозерѣ</rdg><rdg wit="#shakh">Кривичи; таже Сѣверъ отъ нихъ. А на Бѣлѣозерѣ</rdg><rdg wit="#likh">кривичи. Таже сѣверъ от нихъ. На Бѣлѣозерѣ</rdg></rdgGrp></app></p></div></body></text></TEI>

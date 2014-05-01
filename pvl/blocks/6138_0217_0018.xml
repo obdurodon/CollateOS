@@ -1,90 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>217, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="217"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="217,18">людие,</w>
-<w n="217,18">възьмъше</w>
-<w n="217,18">тѣло</w>
-<w n="217,18">его,</w>
-<w n="217,18">съ</w>
-<w n="217,18">обычьными</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="217,18">людье·</w>
-<w n="217,18">вземше</w>
-<w n="217,18">тѣло</w>
-<w n="217,18">ѥго</w>
-<w n="217,18">со <lb/></w>
-
-<w n="217,18">ѡбычными</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="217,18">лю<hi rend="sup">д</hi>е·</w>
-<w n="217,18">и</w>
-<w n="217,18">вземше</w>
-<w n="217,18">тѣло</w>
-<w n="217,18">е<hi rend="sup">г</hi>·</w>
-<w n="217,18">и</w>
-<w n="217,18">ѡбы<hi rend="sup">ч</hi>наꙗ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="217,18">люди<lb/>е·</w>
-<w n="217,18">и</w>
-<w n="217,18">вземше</w>
-<w n="217,18">тѣло</w>
-<w n="217,18">его·</w>
-<w n="217,18">ѡбычнаѧ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="217,18">людье</w>
-<w n="217,18">вземше</w>
-<w n="217,18">тѣло</w>
-<w n="217,18">его</w>
-<w n="217,18">со <lb/></w>
-
-<w n="217,18">ѡбычними</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="217,18">л<hi rend="sup">д</hi>ю<hi rend="sup">и</hi>е.</w>
-<w n="217,18">възе<hi rend="sup">м</hi>ше <lb/></w>
-
-<w n="217,18">тѣло</w>
-<w n="217,18">его</w>
-<w n="217,18">съ</w>
-<w n="217,18">обы<hi rend="sup">ч</hi>ными</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="217,18">людье,</w>
-<w n="217,18">и</w>
-<w n="217,18">вземше</w>
-<w n="217,18">тѣло</w>
-<w n="217,18">его,</w>
-<w n="217,18">со</w>
-<w n="217,18">обычными</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="217,18">людие,</w>
-<w n="217,18">и</w>
-<w n="217,18">възьмъше</w>
-<w n="217,18">тѣло</w>
-<w n="217,18">его,</w>
-<w n="217,18">съ</w>
-<w n="217,18">обычьными</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="217,18">людье,</w>
-<w n="217,18">и</w>
-<w n="217,18">вземше</w>
-<w n="217,18">тѣло</w>
-<w n="217,18">его,</w>
-<w n="217,18">со</w>
-<w n="217,18">обычными</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>217, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="217"/><div type="block" n="18"><p><app><lem wit="#lem">
+            людие, възьмъше тѣло его, съ обычьными
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">людье· вземше тѣло ѥго со <lb/> ѡбычными</rdg>
+            <rdg wit="#rad">лю<hi rend="sup">д</hi>е· и вземше тѣло е<hi rend="sup">г</hi>· и ѡбы<hi rend="sup">ч</hi>наꙗ</rdg>
+            <rdg wit="#aka">люди<lb/>е· и вземше тѣло его· ѡбычнаѧ</rdg>
+            <rdg wit="#ipa">людье вземше тѣло его со <lb/> ѡбычними</rdg>
+            <rdg wit="#xle">л<hi rend="sup">д</hi>ю<hi rend="sup">и</hi>е. възе<hi rend="sup">м</hi>ше <lb/> тѣло его съ
+                обы<hi rend="sup">ч</hi>ными</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">людье, и вземше тѣло его, со обычными</rdg><rdg wit="#shakh">людие, и възьмъше тѣло его, съ обычьными</rdg><rdg wit="#likh">людье, и вземше тѣло его, со обычными</rdg></rdgGrp></app></p></div></body></text></TEI>

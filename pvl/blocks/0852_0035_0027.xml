@@ -1,103 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>35, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="35"/><div type="block" n="27"><p>
-<app>
-<lem wit="#lem">
-<w n="35,27">тоя</w>
-<w n="35,27">лодия,</w>
-<w n="35,27">аще</w>
-<w n="35,27">чьто</w>
-<w n="35,27">можеть</w>
-<w n="35,27">продати</w>
-<w n="35,27">отъ</w>
-<w n="35,27">лодия,</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="35,27">то<lb/>ꙗ</w>
-<w n="35,27">ло<hi rend="sup">д</hi>и.</w>
-<w n="35,27">и</w>
-<w n="35,27">аще</w>
-<w n="35,27">что</w>
-<w n="35,27">можеть</w>
-<w n="35,27">продати</w>
-<w n="35,27">ѿ</w>
-<w n="35,27">ло<hi rend="sup">д</hi>а.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="35,27">тоа</w>
-<w n="35,27">лѡ<hi rend="sup">д</hi>и.</w>
-<w n="35,27">и</w>
-<w n="35,27">аще</w>
-<w n="35,27">что</w>
-<w n="35,27">можетъ</w>
-<w n="35,27">продатї <lb/></w>
-
-<w n="35,27">ѿ</w>
-<w n="35,27">лодїꙗ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="35,27">тоꙗ</w>
-<w n="35,27">лодьꙗ.</w>
-<w n="35,27">и</w>
-<w n="35,27">аще</w>
-<w n="35,27">что</w>
-<w n="35,27">мо<lb/>жеть</w>
-<w n="35,27">продати</w>
-<w n="35,27">ѿ</w>
-<w n="35,27">лодьꙗ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="35,27">тоѧ</w>
-<w n="35,27">лѡ<hi rend="sup">д</hi>и.</w>
-<w n="35,27">и</w>
-<w n="35,27">аще</w>
-<w n="35,27">что</w>
-<w n="35,27">може<hi rend="sup">т</hi></w>
-<w n="35,27">продати <lb/></w>
-
-<w n="35,27">ѿ</w>
-<w n="35,27">лѡ<hi rend="sup">д</hi>ѧ.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="35,27">тоя</w>
-<w n="35,27">лодьи,</w>
-<w n="35,27">и</w>
-<w n="35,27">аще</w>
-<w n="35,27">что</w>
-<w n="35,27">можеть</w>
-<w n="35,27">продати</w>
-<w n="35,27">отъ</w>
-<w n="35,27">лодьа,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="35,27">тоя</w>
-<w n="35,27">лодия,</w>
-<w n="35,27">аще</w>
-<w n="35,27">чьто</w>
-<w n="35,27">можеть</w>
-<w n="35,27">продати</w>
-<w n="35,27">отъ</w>
-<w n="35,27">лодия,</w>
-<w n="35,27">и</w>
-<w n="35,27">лодия</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="35,27">тоя</w>
-<w n="35,27">лодьи,</w>
-<w n="35,27">и</w>
-<w n="35,27">аще</w>
-<w n="35,27">что</w>
-<w n="35,27">может</w>
-<w n="35,27">продати</w>
-<w n="35,27">от</w>
-<w n="35,27">лодьа,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>35, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="35"/><div type="block" n="27"><p><app><lem wit="#lem">
+            тоя лодия, аще чьто можеть продати отъ лодия,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">то<lb/>ꙗ ло<hi rend="sup">д</hi>и. и аще что можеть продати ѿ ло<hi rend="sup">д</hi>а.</rdg>
+            <rdg wit="#aka">тоа лѡ<hi rend="sup">д</hi>и. и аще что можетъ продатї <lb/> ѿ лодїꙗ.</rdg>
+            <rdg wit="#ipa">тоꙗ лодьꙗ. и аще что мо<lb/>жеть продати ѿ лодьꙗ.</rdg>
+            <rdg wit="#xle">тоѧ лѡ<hi rend="sup">д</hi>и. и аще что може<hi rend="sup">т</hi> продати <lb/> ѿ
+                лѡ<hi rend="sup">д</hi>ѧ.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">тоя лодьи, и аще что можеть продати отъ лодьа,</rdg><rdg wit="#shakh">тоя лодия, аще чьто можеть продати отъ лодия, и лодия</rdg><rdg wit="#likh">тоя лодьи, и аще что может продати от лодьа,</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,56 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>245, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="245"/><div type="block" n="17"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="245,17">не</w>
-<w n="245,17">будеть</w>
-<w n="245,17">ни</w>
-<w n="245,17">с</w>
-<w n="245,17">кы<hi rend="sup">м</hi></w>
-<w n="245,17">ѡрудьꙗ·</w>
-<w n="245,17">а<lb/>ще</w>
-<w n="245,17">инѣ<hi rend="sup">х</hi></w>
-<w n="245,17">млт҃въ</w>
-<w n="245,17">не</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="245,17">не</w>
-<w n="245,17">будеть</w>
-<w n="245,17">ни</w>
-<w n="245,17">с</w>
-<w n="245,17">кымъ</w>
-<w n="245,17">орудья,</w>
-<w n="245,17">аще</w>
-<w n="245,17">инѣхъ</w>
-<w n="245,17">молитвъ</w>
-<w n="245,17">не</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="245,17">не</w>
-<w n="245,17">будеть</w>
-<w n="245,17">ни</w>
-<w n="245,17">с</w>
-<w n="245,17">кым</w>
-<w n="245,17">орудья,</w>
-<w n="245,17">аще</w>
-<w n="245,17">инѣх</w>
-<w n="245,17">молитвъ</w>
-<w n="245,17">не</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>245, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="245"/><div type="block" n="17"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">не будеть ни с кы<hi rend="sup">м</hi> ѡрудьꙗ· а<lb/>ще инѣ<hi rend="sup">х</hi> млт҃въ не</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">не будеть ни с кымъ орудья, аще инѣхъ молитвъ не</rdg><rdg wit="#likh">не будеть ни с кым орудья, аще инѣх молитвъ не</rdg></rdgGrp></app></p></div></body></text></TEI>

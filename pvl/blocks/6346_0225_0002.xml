@@ -1,95 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>225, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="225"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-<w n="225,2">людие</w>
-<w n="225,2">въ</w>
-<w n="225,2">градѣ</w>
-<w n="225,2">отъ</w>
-<w n="225,2">гладъмь,</w>
-<w n="225,2">и</w>
-<w n="225,2">предаша</w>
-<w n="225,2">ся</w>
-<w n="225,2">ратьнымъ.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="225,2">людье</w>
-<w n="225,2">в</w>
-<w n="225,2">градѣ <lb/></w>
-
-<w n="225,2">гладомь·</w>
-<w n="225,2">и</w>
-<w n="225,2">предашасѧ</w>
-<w n="225,2">ратны<lb/>мъ·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="225,2">людие</w>
-<w n="225,2">ѿ</w>
-<w n="225,2">гла<hi rend="sup">д</hi>.</w>
-<w n="225,2">и</w>
-<w n="225,2">предаша<hi rend="sup">с</hi></w>
-<w n="225,2">ратнымъ·</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="225,2">людие</w>
-<w n="225,2">ѿ</w>
-<w n="225,2">глада</w>
-<w n="225,2">и</w>
-<w n="225,2">предаша<lb/>сѧ</w>
-<w n="225,2">ратнымъ·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="225,2">лю<lb/>дье</w>
-<w n="225,2">въ</w>
-<w n="225,2">градѣ</w>
-<w n="225,2">ѿ</w>
-<w n="225,2">глада·</w>
-<w n="225,2">и</w>
-<w n="225,2">пре<lb/>дашасѧ</w>
-<w n="225,2">ратнымъ·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="225,2">л<hi rend="sup">д</hi>ю<hi rend="sup">и</hi>е</w>
-<w n="225,2">въ</w>
-<w n="225,2">градѣ</w>
-<w n="225,2">ѿ</w>
-<w n="225,2">глада.</w>
-<w n="225,2">и</w>
-<w n="225,2">пе<lb/>редаша<hi rend="sup">с</hi></w>
-<w n="225,2">ратны<hi rend="sup">м</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="225,2">людье</w>
-<w n="225,2">в</w>
-<w n="225,2">градѣ</w>
-<w n="225,2">гладомь,</w>
-<w n="225,2">и</w>
-<w n="225,2">предашася</w>
-<w n="225,2">ратнымъ;</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="225,2">людие</w>
-<w n="225,2">въ</w>
-<w n="225,2">градѣ</w>
-<w n="225,2">гладъмь,</w>
-<w n="225,2">и</w>
-<w n="225,2">предашася</w>
-<w n="225,2">ратьнымъ.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="225,2">людье</w>
-<w n="225,2">в</w>
-<w n="225,2">градѣ</w>
-<w n="225,2">гладомь,</w>
-<w n="225,2">и</w>
-<w n="225,2">предашася</w>
-<w n="225,2">ратнымъ.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>225, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="225"/><div type="block" n="2"><p><app><lem wit="#lem">
+            людие въ градѣ отъ гладъмь, и предаша ся ратьнымъ.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">людье в градѣ <lb/> гладомь· и предашасѧ ратны<lb/>мъ·</rdg>
+            <rdg wit="#rad">людие ѿ гла<hi rend="sup">д</hi>. и предаша<hi rend="sup">с</hi> ратнымъ·</rdg>
+            <rdg wit="#aka">людие ѿ глада и предаша<lb/>сѧ ратнымъ·</rdg>
+            <rdg wit="#ipa">лю<lb/>дье въ градѣ ѿ глада· и пре<lb/>дашасѧ ратнымъ·</rdg>
+            <rdg wit="#xle">л<hi rend="sup">д</hi>ю<hi rend="sup">и</hi>е въ градѣ ѿ глада. и пе<lb/>редаша<hi rend="sup">с</hi>
+                    ратны<hi rend="sup">м</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">людье в градѣ гладомь, и предашася ратнымъ;</rdg><rdg wit="#shakh">людие въ градѣ гладъмь, и предашася ратьнымъ.</rdg><rdg wit="#likh">людье в градѣ гладомь, и предашася ратнымъ.</rdg></rdgGrp></app></p></div></body></text></TEI>

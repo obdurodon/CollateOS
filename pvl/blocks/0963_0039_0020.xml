@@ -1,91 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>39, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="39"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="39,20">вьсюду</w>
-<w n="39,20">въ</w>
-<w n="39,20">градѣхъ</w>
-<w n="39,20">и</w>
-<w n="39,20">въ</w>
-<w n="39,20">селѣхъ</w>
-<w n="39,20">бѣсовьская</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="39,20">всю<lb/>дѹ.</w>
-<w n="39,20">въ</w>
-<w n="39,20">градѣ<hi rend="sup">х</hi></w>
-<w n="39,20">и</w>
-<w n="39,20">в</w>
-<w n="39,20">селе<hi rend="sup">х</hi>.</w>
-<w n="39,20">бесовьскаа</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="39,20">всюдѹ <lb/></w>
-
-<w n="39,20">и</w>
-<w n="39,20">во</w>
-<w n="39,20">градѣ<hi rend="sup">х</hi></w>
-<w n="39,20">и</w>
-<w n="39,20">в</w>
-<w n="39,20">селе<hi rend="sup">х</hi></w>
-<w n="39,20">бесовьскаа</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="39,20">всюду.</w>
-<w n="39,20">в</w>
-<w n="39,20">городехъ</w>
-<w n="39,20">и <lb/></w>
-
-<w n="39,20">в</w>
-<w n="39,20">селѣхъ.</w>
-<w n="39,20">бѣсовьскаꙗ <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="39,20">всюдоу.</w>
-<w n="39,20">въ</w>
-<w n="39,20">граде<hi rend="sup">х</hi></w>
-<w n="39,20">и</w>
-<w n="39,20">в</w>
-<w n="39,20">селе<hi rend="sup">х</hi>.</w>
-<w n="39,20">бѣсовскаа</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="39,20">всюду</w>
-<w n="39,20">и</w>
-<w n="39,20">въ</w>
-<w n="39,20">градѣхъ</w>
-<w n="39,20">и</w>
-<w n="39,20">в</w>
-<w n="39,20">селехъ</w>
-<w n="39,20">бѣсовьскаа</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="39,20">вьсюду</w>
-<w n="39,20">въ</w>
-<w n="39,20">градѣхъ</w>
-<w n="39,20">и</w>
-<w n="39,20">въ</w>
-<w n="39,20">селѣхъ</w>
-<w n="39,20">бѣсовьская</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="39,20">всюду</w>
-<w n="39,20">и</w>
-<w n="39,20">въ</w>
-<w n="39,20">градѣх</w>
-<w n="39,20">и</w>
-<w n="39,20">в</w>
-<w n="39,20">селех</w>
-<w n="39,20">бѣсовьскаа</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>39, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="39"/><div type="block" n="20"><p><app><lem wit="#lem">
+            вьсюду въ градѣхъ и въ селѣхъ бѣсовьская
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">всю<lb/>дѹ. въ градѣ<hi rend="sup">х</hi> и в селе<hi rend="sup">х</hi>. бесовьскаа</rdg>
+            <rdg wit="#aka">всюдѹ <lb/> и во градѣ<hi rend="sup">х</hi> и в селе<hi rend="sup">х</hi> бесовьскаа</rdg>
+            <rdg wit="#ipa">всюду. в городехъ и <lb/> в селѣхъ. бѣсовьскаꙗ <lb/></rdg>
+            <rdg wit="#xle">всюдоу. въ граде<hi rend="sup">х</hi> и в селе<hi rend="sup">х</hi>. бѣсовскаа</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">всюду и въ градѣхъ и в селехъ бѣсовьскаа</rdg><rdg wit="#shakh">вьсюду въ градѣхъ и въ селѣхъ бѣсовьская</rdg><rdg wit="#likh">всюду и въ градѣх и в селех бѣсовьскаа</rdg></rdgGrp></app></p></div></body></text></TEI>

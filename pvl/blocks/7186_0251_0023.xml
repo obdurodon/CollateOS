@@ -1,48 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>251, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="251"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="251,23">Еже</w>
-<w n="251,23">было</w>
-<w n="251,23">творити</w>
-<w n="251,23">ѡтроку</w>
-<w n="251,23">моему <lb/></w>
-
-<w n="251,23">то</w>
-<w n="251,23">са<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="251,23">Еже</w>
-<w n="251,23">было</w>
-<w n="251,23">творити</w>
-<w n="251,23">отроку</w>
-<w n="251,23">моему,</w>
-<w n="251,23">то</w>
-<w n="251,23">самъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="251,23">Еже</w>
-<w n="251,23">было</w>
-<w n="251,23">творити</w>
-<w n="251,23">отроку</w>
-<w n="251,23">моему,</w>
-<w n="251,23">то</w>
-<w n="251,23">сам</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>251, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="251"/><div type="block" n="23"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">Еже было творити ѡтроку моему <lb/> то са<hi rend="sup">м</hi></rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Еже было творити отроку моему, то самъ</rdg><rdg wit="#likh">Еже было творити отроку моему, то сам</rdg></rdgGrp></app></p></div></body></text></TEI>

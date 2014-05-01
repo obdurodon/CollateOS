@@ -1,100 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>17, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="17"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-<w n="17,10">старьци</w>
-<w n="17,10">Козарьстии:</w>
-<w n="17,10">“Не</w>
-<w n="17,10">добра</w>
-<w n="17,10">дань,</w>
-<w n="17,10">къняже.</w>
-<w n="17,10">Мы</w>
-<w n="17,10">доискахомъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="17,10">старци</w>
-<w n="17,10">козарьстии.</w>
-<w n="17,10">не</w>
-<w n="17,10">добра</w>
-<w n="17,10">дань</w>
-<w n="17,10">кнѧже. <lb/></w>
-
-<w n="17,10">мы</w>
-<w n="17,10">сѧ</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-<w n="17,10">старци</w>
-<w n="17,10">козарьстїи <lb/></w>
-
-<w n="17,10">не</w>
-<w n="17,10">добра</w>
-<w n="17,10">дань</w>
-<w n="17,10">кн҃же.</w>
-<w n="17,10">мы</w>
-<w n="17,10">доискахом</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="17,10">старцѣ</w>
-<w n="17,10">козарьсти<lb/>и.</w>
-<w n="17,10">не</w>
-<w n="17,10">добра</w>
-<w n="17,10">дань</w>
-<w n="17,10">кнѧже <lb/></w>
-
-<w n="17,10">мы</w>
-<w n="17,10">доискахом</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="17,10">старци</w>
-<w n="17,10">козарьстїи.</w>
-<w n="17,10">не</w>
-<w n="17,10">добра</w>
-<w n="17,10">да<hi rend="sup">н</hi></w>
-<w n="17,10">кнѧже. <lb/></w>
-
-<w n="17,10">мы</w>
-<w n="17,10">доискахом</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="17,10">старци</w>
-<w n="17,10">Козарьстии:</w>
-<w n="17,10">“не</w>
-<w n="17,10">добра</w>
-<w n="17,10">дань,</w>
-<w n="17,10">княже!</w>
-<w n="17,10">мы</w>
-<w n="17,10">ся</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="17,10">старьци</w>
-<w n="17,10">Козарьстии:</w>
-<w n="17,10">“не</w>
-<w n="17,10">добра</w>
-<w n="17,10">дань,</w>
-<w n="17,10">къняже,</w>
-<w n="17,10">мы</w>
-<w n="17,10">ся</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="17,10">старци</w>
-<w n="17,10">козарьстии:</w>
-<w n="17,10">“Не</w>
-<w n="17,10">добра</w>
-<w n="17,10">дань,</w>
-<w n="17,10">княже!</w>
-<w n="17,10">Мы</w>
-<w n="17,10">ся</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>17, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="17"/><div type="block" n="10"><p><app><lem wit="#lem">
+            старьци Козарьстии: “Не добра дань, къняже. Мы доискахомъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">старци козарьстии. не добра дань кнѧже. <lb/> мы сѧ</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">старци козарьстїи <lb/> не добра дань кн҃же. мы доискахом</rdg>
+            <rdg wit="#ipa">старцѣ козарьсти<lb/>и. не добра дань кнѧже <lb/> мы доискахом</rdg>
+            <rdg wit="#xle">старци козарьстїи. не добра да<hi rend="sup">н</hi> кнѧже. <lb/> мы доискахом</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">старци Козарьстии: “не добра дань, княже! мы ся</rdg><rdg wit="#shakh">старьци Козарьстии: “не добра дань, къняже, мы ся</rdg><rdg wit="#likh">старци козарьстии: “Не добра дань, княже! Мы ся</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,91 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>196, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="196"/><div type="block" n="17"><p>
-<app>
-<lem wit="#lem">
-<w n="196,17">повѣдаху</w>
-<w n="196,17">о</w>
-<w n="196,17">немь,</w>
-<w n="196,17">а</w>
-<w n="196,17">другому</w>
-<w n="196,17">и</w>
-<w n="196,17">самовидьци</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="196,17">повѣдаху</w>
-<w n="196,17">ѡ</w>
-<w n="196,17">немь.</w>
-<w n="196,17">а</w>
-<w n="196,17">др<hi rend="sup">у</hi><lb/>гое</w>
-<w n="196,17">и</w>
-<w n="196,17">самовидець</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="196,17">поведахѹ</w>
-<w n="196,17">ѡ</w>
-<w n="196,17">немъ:-</w>
-<w n="196,17">а</w>
-<w n="196,17">дроугое</w>
-<w n="196,17">самови<hi rend="sup">д</hi>ци <pb n="113v"/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="196,17">поведахѹ</w>
-<w n="196,17">ѡ</w>
-<w n="196,17">немь:·</w>
-<w n="196,17">На</w>
-<w n="196,17">дрѹгое</w>
-<w n="196,17">са<lb/>мовидци</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="196,17">повѣдаху</w>
-<w n="196,17">ѡ</w>
-<w n="196,17">немь.</w>
-<w n="196,17">а</w>
-<w n="196,17">другому <lb/></w>
-
-<w n="196,17">и</w>
-<w n="196,17">самовидци</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="196,17">повѣ<lb/>дахѫ</w>
-<w n="196,17">о</w>
-<w n="196,17">не<hi rend="sup">м</hi>.</w>
-<w n="196,17">а</w>
-<w n="196,17">дроугомоу</w>
-<w n="196,17">самови<hi rend="sup">д</hi>ци</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="196,17">повѣдаху</w>
-<w n="196,17">о</w>
-<w n="196,17">немь,</w>
-<w n="196,17">а</w>
-<w n="196,17">другое</w>
-<w n="196,17">и</w>
-<w n="196,17">самовидець</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="196,17">повѣдаху</w>
-<w n="196,17">о</w>
-<w n="196,17">немь,</w>
-<w n="196,17">а</w>
-<w n="196,17">другому</w>
-<w n="196,17">и</w>
-<w n="196,17">самовидьць</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="196,17">повѣдаху</w>
-<w n="196,17">о</w>
-<w n="196,17">немь,</w>
-<w n="196,17">а</w>
-<w n="196,17">другое</w>
-<w n="196,17">и</w>
-<w n="196,17">самовидець</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>196, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="196"/><div type="block" n="17"><p><app><lem wit="#lem">
+            повѣдаху о немь, а другому и самовидьци
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">повѣдаху ѡ немь. а др<hi rend="sup">у</hi><lb/>гое и самовидець</rdg>
+            <rdg wit="#rad">поведахѹ ѡ немъ:-  а дроугое самови<hi rend="sup">д</hi>ци
+                <pb n="113v"/></rdg>
+            <rdg wit="#aka">поведахѹ ѡ немь:· На дрѹгое са<lb/>мовидци</rdg>
+            <rdg wit="#ipa">повѣдаху ѡ немь. а другому <lb/> и самовидци</rdg>
+            <rdg wit="#xle">повѣ<lb/>дахѫ о не<hi rend="sup">м</hi>. а дроугомоу самови<hi rend="sup">д</hi>ци</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">повѣдаху о немь, а другое и самовидець</rdg><rdg wit="#shakh">повѣдаху о немь, а другому и самовидьць</rdg><rdg wit="#likh">повѣдаху о немь, а другое и самовидець</rdg></rdgGrp></app></p></div></body></text></TEI>

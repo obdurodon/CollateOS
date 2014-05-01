@@ -1,99 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>225, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="225"/><div type="block" n="24"><p>
-<app>
-<lem wit="#lem">
-<w n="225,24">инѣхъ</w>
-<w n="225,24">казними</w>
-<w n="225,24">есмы.</w>
-<w n="225,24">Се</w>
-<w n="225,24">бо</w>
-<w n="225,24">азъ</w>
-<w n="225,24">грѣшьныи</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="225,24">инѣхъ</w>
-<w n="225,24">ка<lb/>зними</w>
-<w n="225,24">ѥсмы·</w>
-<w n="225,24">се</w>
-<w n="225,24">бо</w>
-<w n="225,24">азъ</w>
-<w n="225,24">грѣшны<lb/>и</w>
-<w n="225,24">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="225,24">инѣ<hi rend="sup">х</hi>·</w>
-<w n="225,24">ка<lb/>зними</w>
-<w n="225,24">есми.</w>
-<w n="225,24">се</w>
-<w n="225,24">бо</w>
-<w n="225,24">азъ</w>
-<w n="225,24">грѣшныи·</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="225,24">инѣ<hi rend="sup">х</hi></w>
-<w n="225,24">казними</w>
-<w n="225,24">есмы·̏· <lb/></w>
-
-<w n="225,24">се</w>
-<w n="225,24">бо</w>
-<w n="225,24">азь</w>
-<w n="225,24">грѣшны·̏и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="225,24">и<lb/>нѣхъ</w>
-<w n="225,24">казним<milestone unit="sic" n="start"/>ы<milestone unit="sic" n="end"/></w>
-<w n="225,24">ѥсмы·</w>
-<w n="225,24">се <lb/></w>
-
-<w n="225,24">бо</w>
-<w n="225,24">азъ</w>
-<w n="225,24">грѣшныи</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="225,24">инѣ<hi rend="sup">х</hi><lb/></w>
-<w n="225,24">казнимы</w>
-<w n="225,24">есмы.</w>
-<w n="225,24">се</w>
-<w n="225,24">бѡ</w>
-<w n="225,24">азъ</w>
-<w n="225,24">грѣшныи</w>
-<w n="225,24">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="225,24">инѣхъ</w>
-<w n="225,24">казними</w>
-<w n="225,24">есмы.</w>
-<w n="225,24">Се</w>
-<w n="225,24">бо</w>
-<w n="225,24">азъ</w>
-<w n="225,24">грѣшный</w>
-<w n="225,24">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="225,24">инѣхъ</w>
-<w n="225,24">казними</w>
-<w n="225,24">есмы.</w>
-<w n="225,24">Се</w>
-<w n="225,24">бо</w>
-<w n="225,24">азъ</w>
-<w n="225,24">грѣшьныи</w>
-<w n="225,24">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="225,24">инѣхъ</w>
-<w n="225,24">казними</w>
-<w n="225,24">есмы.</w>
-<w n="225,24">Се</w>
-<w n="225,24">бо</w>
-<w n="225,24">азъ</w>
-<w n="225,24">грѣшный</w>
-<w n="225,24">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>225, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="225"/><div type="block" n="24"><p><app><lem wit="#lem">
+            инѣхъ казними есмы. Се бо азъ грѣшьныи
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">инѣхъ ка<lb/>зними ѥсмы· се бо азъ грѣшны<lb/>и и</rdg>
+            <rdg wit="#rad">инѣ<hi rend="sup">х</hi>· ка<lb/>зними есми. се бо азъ грѣшныи·</rdg>
+            <rdg wit="#aka">инѣ<hi rend="sup">х</hi> казними есмы·̏· <lb/> се бо азь грѣшны·̏и</rdg>
+            <rdg wit="#ipa">и<lb/>нѣхъ казним<sic>ы</sic> ѥсмы· се <lb/> бо азъ грѣшныи</rdg>
+            <rdg wit="#xle">инѣ<hi rend="sup">х</hi>
+                <lb/> казнимы есмы. се бѡ азъ грѣшныи и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">инѣхъ казними есмы. Се бо азъ грѣшный и</rdg><rdg wit="#shakh">инѣхъ казними есмы. Се бо азъ грѣшьныи и</rdg><rdg wit="#likh">инѣхъ казними есмы. Се бо азъ грѣшный и</rdg></rdgGrp></app></p></div></body></text></TEI>

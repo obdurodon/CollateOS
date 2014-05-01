@@ -1,69 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>207, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="207"/><div type="block" n="26"><p>
-<app>
-<lem wit="#lem">
-<w n="207,26">святыя</w>
-<w n="207,26">Богородица</w>
-<w n="207,26">манастыря</w>
-<w n="207,26">Феодосиева</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="207,26">ст҃ыꙗ</w>
-<w n="207,26">бц҃а. <lb/></w>
-
-<w n="207,26">манастырѧ</w>
-<w n="207,26">ѳеѡдосьѥва.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="207,26">ст҃аꙗ</w>
-<w n="207,26">бц<hi rend="sup">д</hi>а. <lb/></w>
-
-<w n="207,26">монастырѧ</w>
-<w n="207,26">феѡ<hi rend="sup">д</hi>сиева.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="207,26">ст҃ыꙗ</w>
-<w n="207,26">бц҃а.</w>
-<w n="207,26">монастырѧ</w>
-<w n="207,26">феѡдо<lb/>сьева.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="207,26">ст҃ыꙗ</w>
-<w n="207,26">бц҃а. <lb/></w>
-
-<w n="207,26">манастырѧ</w>
-<w n="207,26">федосьева</w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="207,26">ст҃ыя</w>
-<w n="207,26">бц҃а.</w>
-<w n="207,26">манастырѧ</w>
-<w n="207,26">феѡ<hi rend="sup">д</hi>с<hi rend="sup">о</hi>їева.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="207,26">святыя</w>
-<w n="207,26">Богородица</w>
-<w n="207,26">манастыря</w>
-<w n="207,26">Феодосьева</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="207,26">святыя</w>
-<w n="207,26">Богородица</w>
-<w n="207,26">манастыря</w>
-<w n="207,26">Феодосиева</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="207,26">святыя</w>
-<w n="207,26">Богородица</w>
-<w n="207,26">манастыря</w>
-<w n="207,26">Феодосьева</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>207, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="207"/><div type="block" n="26"><p><app><lem wit="#lem">
+            святыя Богородица манастыря Феодосиева
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ст҃ыꙗ бц҃а. <lb/> манастырѧ ѳеѡдосьѥва.</rdg>
+            <rdg wit="#rad">ст҃аꙗ бц<hi rend="sup">д</hi>а. <lb/> монастырѧ феѡ<hi rend="sup">д</hi>сиева.</rdg>
+            <rdg wit="#aka">ст҃ыꙗ бц҃а. монастырѧ феѡдо<lb/>сьева.</rdg>
+            <rdg wit="#ipa">ст҃ыꙗ бц҃а. <lb/> манастырѧ федосьева </rdg>
+            <rdg wit="#xle">ст҃ыꙗ бц҃а. манастырѧ феѡ<hi rend="sup">д</hi>с<hi rend="sup">о</hi>їева.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">святыя Богородица манастыря Феодосьева</rdg><rdg wit="#shakh">святыя Богородица манастыря Феодосиева</rdg><rdg wit="#likh">святыя Богородица манастыря Феодосьева</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,94 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>81, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="81"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-<w n="81,2">издалеча</w>
-<w n="81,2">събираеть</w>
-<w n="81,2">себѣ</w>
-<w n="81,2">богатьство.</w>
-<w n="81,2">И</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="81,2">и</w>
-<w n="81,2">сбираеть</w>
-<w n="81,2">ѡсобь</w>
-<w n="81,2">б҃атьство.</w>
-<w n="81,2">и</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-<w n="81,2">издалеча</w>
-<w n="81,2">собираеть.</w>
-<w n="81,2">собѣ</w>
-<w n="81,2">богате<lb/>ство</w>
-<w n="81,2">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="81,2">издалеча</w>
-<w n="81,2">съ<lb/>бираеть</w>
-<w n="81,2">себѣ</w>
-<w n="81,2">б҃атьство.</w>
-<w n="81,2">и <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="81,2">издалеча</w>
-<w n="81,2">себѣ</w>
-<w n="81,2">събирае<hi rend="sup">т</hi></w>
-<w n="81,2">бога<hi rend="sup">т</hi>ство.</w>
-<w n="81,2">и</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="81,2">издалеча</w>
-<w n="81,2">сбираеть</w>
-<w n="81,2">себѣ</w>
-<w n="81,2">богатьство</w>
-<w n="81,2">и</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="81,2">издалеча</w>
-<w n="81,2">събираеть</w>
-<w n="81,2">себѣ</w>
-<w n="81,2">богатество</w>
-<w n="81,2">и</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="81,2">издалеча</w>
-<w n="81,2">сбираетъ</w>
-<w n="81,2">себѣ</w>
-<w n="81,2">богатество</w>
-<w n="81,2">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="81,2">издалеча</w>
-<w n="81,2">собираеть</w>
-<w n="81,2">собѣ</w>
-<w n="81,2">богатьство,</w>
-<w n="81,2">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="81,2">издалеча</w>
-<w n="81,2">събираеть</w>
-<w n="81,2">собѣ</w>
-<w n="81,2">богатьство.</w>
-<w n="81,2">И</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="81,2">издалеча</w>
-<w n="81,2">собираеть</w>
-<w n="81,2">собѣ</w>
-<w n="81,2">богатьство,</w>
-<w n="81,2">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>81, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="81"/><div type="block" n="2"><p><app><lem wit="#lem">
+            издалеча събираеть себѣ богатьство. И
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и сбираеть ѡсобь б҃атьство. и</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">издалеча собираеть. собѣ богате<lb/>ство и</rdg>
+            <rdg wit="#ipa">издалеча съ<lb/>бираеть себѣ б҃атьство. и <lb/></rdg>
+            <rdg wit="#xle">издалеча себѣ събирае<hi rend="sup">т</hi> бога<hi rend="sup">т</hi>ство. и</rdg>
+            <rdg wit="#kom">издалеча сбираеть себѣ богатьство и</rdg>
+            <rdg wit="#nak">издалеча събираеть себѣ богатество и</rdg>
+            <rdg wit="#tol">издалеча сбираетъ себѣ богатество и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">издалеча собираеть собѣ богатьство, и</rdg><rdg wit="#shakh">издалеча събираеть собѣ богатьство. И</rdg><rdg wit="#likh">издалеча собираеть собѣ богатьство, и</rdg></rdgGrp></app></p></div></body></text></TEI>

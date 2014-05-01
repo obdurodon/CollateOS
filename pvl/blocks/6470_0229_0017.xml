@@ -1,84 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>229, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="229"/><div type="block" n="17"><p>
-<app>
-<lem wit="#lem">
-<w n="229,17">сѣде</w>
-<w n="229,17">Смолиньскѣ,</w>
-<w n="229,17">а</w>
-<w n="229,17">Мьстиславъ</w>
-<w n="229,17">сѣде</w>
-<w n="229,17">въ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="229,17">сѣде</w>
-<w n="229,17">смолиньскѣ·</w>
-<w n="229,17">а <lb/></w>
-
-<w n="229,17">мьстиславъ</w>
-<w n="229,17">новѣгородѣ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="229,17">сѣде·</w>
-<w n="229,17">а</w>
-<w n="229,17">мстиславъ</w>
-<w n="229,17">сѣде</w>
-<w n="229,17">в</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="229,17">сѣде· <lb/></w>
-
-<w n="229,17">а</w>
-<w n="229,17">мьстиславъ</w>
-<w n="229,17">сѣде</w>
-<w n="229,17">в</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="229,17">сѣде</w>
-<w n="229,17">оу <lb/></w>
-
-<w n="229,17">смоленьскѣ</w>
-<w n="229,17">ѡпѧть·</w>
-<w n="229,17">а</w>
-<w n="229,17">мь<lb/>стиславъ</w>
-<w n="229,17">сѣде</w>
-<w n="229,17">оу</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="229,17">сѣ<lb/>де</w>
-<w n="229,17">в</w>
-<w n="229,17">смоле<hi rend="sup">н</hi>скоу</w>
-<w n="229,17">опѧ<hi rend="sup">т</hi>,</w>
-<w n="229,17">а</w>
-<w n="229,17">мьстиславь</w>
-<w n="229,17">сѣде</w>
-<w n="229,17">в</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="229,17">сѣде</w>
-<w n="229,17">Смолиньскѣ,</w>
-<w n="229,17">а</w>
-<w n="229,17">Мьстиславъ</w>
-<w n="229,17">Новѣгородѣ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="229,17">сѣде</w>
-<w n="229,17">Смолиньстѣ,</w>
-<w n="229,17">а</w>
-<w n="229,17">Мьстиславъ</w>
-<w n="229,17">Новѣгородѣ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="229,17">сѣде</w>
-<w n="229,17">Смолиньскѣ,</w>
-<w n="229,17">а</w>
-<w n="229,17">Мьстиславъ</w>
-<w n="229,17">Новѣгородѣ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>229, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="229"/><div type="block" n="17"><p><app><lem wit="#lem">
+            сѣде Смолиньскѣ, а Мьстиславъ сѣде въ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">сѣде смолиньскѣ· а <lb/> мьстиславъ новѣгородѣ</rdg>
+            <rdg wit="#rad">сѣде· а мстиславъ сѣде в</rdg>
+            <rdg wit="#aka">сѣде· <lb/> а мьстиславъ сѣде в</rdg>
+            <rdg wit="#ipa">сѣде оу <lb/> смоленьскѣ ѡпѧть· а мь<lb/>стиславъ сѣде оу</rdg>
+            <rdg wit="#xle">сѣ<lb/>де в смоле<hi rend="sup">н</hi>скоу опѧ<hi rend="sup">т</hi>, а мьстиславь сѣде в</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">сѣде Смолиньскѣ, а Мьстиславъ Новѣгородѣ</rdg><rdg wit="#shakh">сѣде Смолиньстѣ, а Мьстиславъ Новѣгородѣ</rdg><rdg wit="#likh">сѣде Смолиньскѣ, а Мьстиславъ Новѣгородѣ</rdg></rdgGrp></app></p></div></body></text></TEI>

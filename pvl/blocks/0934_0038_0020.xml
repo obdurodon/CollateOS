@@ -1,108 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>38, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="38"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="38,20">“Къняже!</w>
-<w n="38,20">Конь,</w>
-<w n="38,20">егоже</w>
-<w n="38,20">любиши</w>
-<w n="38,20">и</w>
-<w n="38,20">ѣздиши</w>
-<w n="38,20">на</w>
-<w n="38,20">немь,</w>
-<w n="38,20">отъ</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="38,20">кн҃же</w>
-<w n="38,20">конь</w>
-<w n="38,20">е<hi rend="sup">г</hi></w>
-<w n="38,20">же</w>
-<w n="38,20">любиши <lb/></w>
-
-<w n="38,20">и</w>
-<w n="38,20">ѣздиши</w>
-<w n="38,20">на</w>
-<w n="38,20">не<hi rend="sup">м</hi>.</w>
-<w n="38,20">ѿ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="38,20">кн҃же</w>
-<w n="38,20">конь</w>
-<w n="38,20">его</w>
-<w n="38,20">же <lb/></w>
-
-<w n="38,20">любиши.</w>
-<w n="38,20">и</w>
-<w n="38,20">едеши</w>
-<w n="38,20">на</w>
-<w n="38,20">немъ.</w>
-<w n="38,20">ѿ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="38,20">кнѧже</w>
-<w n="38,20">конь</w>
-<w n="38,20">его<hi rend="sup">ж</hi><hi rend="sup">е</hi></w>
-<w n="38,20">любиши.</w>
-<w n="38,20">и</w>
-<w n="38,20">ѣздиши</w>
-<w n="38,20">на</w>
-<w n="38,20">нем<hi rend="sup">ъ</hi>. <lb/></w>
-
-<w n="38,20">ѿ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="38,20">кнѧ<lb/>же</w>
-<w n="38,20">ко<hi rend="sup">н</hi></w>
-<w n="38,20">его</w>
-<w n="38,20">же</w>
-<w n="38,20">любиши</w>
-<w n="38,20">и</w>
-<w n="38,20">ездиши</w>
-<w n="38,20">на</w>
-<w n="38,20">не<hi rend="sup">м</hi>,</w>
-<w n="38,20">ѿ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="38,20">“княже!</w>
-<w n="38,20">конь,</w>
-<w n="38,20">егоже</w>
-<w n="38,20">любиши</w>
-<w n="38,20">и</w>
-<w n="38,20">ѣздиши</w>
-<w n="38,20">на</w>
-<w n="38,20">немъ,</w>
-<w n="38,20">отъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="38,20">“къняже!</w>
-<w n="38,20">конь,</w>
-<w n="38,20">егоже</w>
-<w n="38,20">любиши</w>
-<w n="38,20">и</w>
-<w n="38,20">ѣздиши</w>
-<w n="38,20">на</w>
-<w n="38,20">немь,</w>
-<w n="38,20">отъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="38,20">“Княже!</w>
-<w n="38,20">Конь,</w>
-<w n="38,20">его</w>
-<w n="38,20">же</w>
-<w n="38,20">любиши</w>
-<w n="38,20">и</w>
-<w n="38,20">ѣздиши</w>
-<w n="38,20">на</w>
-<w n="38,20">нем,</w>
-<w n="38,20">от</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>38, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="38"/><div type="block" n="20"><p><app><lem wit="#lem">
+            “Къняже! Конь, егоже любиши и ѣздиши на немь, отъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">кн҃же конь е<hi rend="sup">г</hi> же любиши <lb/> и ѣздиши на не<hi rend="sup">м</hi>. ѿ</rdg>
+            <rdg wit="#aka">кн҃же конь его же <lb/> любиши. и едеши на немъ. ѿ</rdg>
+            <rdg wit="#ipa">кнѧже конь его<hi rend="sup">ж</hi><hi rend="sup">е</hi> любиши. и ѣздиши на нем<hi rend="sup">ъ</hi>. <lb/>
+                ѿ</rdg>
+            <rdg wit="#xle">кнѧ<lb/>же ко<hi rend="sup">н</hi> его же любиши и ездиши на не<hi rend="sup">м</hi>, ѿ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">“княже! конь, егоже любиши и ѣздиши на немъ, отъ</rdg><rdg wit="#shakh">“къняже! конь, егоже любиши и ѣздиши на немь, отъ</rdg><rdg wit="#likh">“Княже! Конь, его же любиши и ѣздиши на нем, от</rdg></rdgGrp></app></p></div></body></text></TEI>

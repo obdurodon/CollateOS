@@ -1,92 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>5, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="5"/><div type="block" n="15"><p>
-<app>
-<lem wit="#lem">
-<w n="5,15">и</w>
-<w n="5,15">въ</w>
-<w n="5,15">ширину</w>
-<w n="5,15">локътъ 5433</w>
-
-<w n="5,15">локътъ.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="5,15">и</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="5,15">и</w>
-<w n="5,15">в</w>
-<w n="5,15">ширинѹ</w>
-<w n="5,15">локо<hi rend="sup">т</hi></w>
-<w n="5,15">҂е҃</w>
-<w n="5,15">у҃</w>
-<w n="5,15">л҃</w>
-<w n="5,15">г҃</w>
-<w n="5,15">локти:</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="5,15">и</w>
-<w n="5,15">в</w>
-<w n="5,15">ширинѹ</w>
-<w n="5,15">локо<hi rend="sup">т</hi></w>
-<w n="5,15">.҂е҃.у҃.л҃.г҃. <lb/></w>
-
-<w n="5,15">локотъ·:</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="5,15">и</w>
-<w n="5,15">въ</w>
-<w n="5,15">шириню. <lb/></w>
-
-<w n="5,15">л<milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/>котъ</w>
-<w n="5,15">.҂е҃.у҃.л҃.г҃.</w>
-<w n="5,15">локо<hi rend="sup">т</hi>ъ.·. <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="5,15">и</w>
-<w n="5,15">въ</w>
-<w n="5,15">широтоу,</w>
-<w n="5,15">лако<hi rend="sup">т</hi></w>
-<w n="5,15">.҂е҃.у҃ <lb/></w>
-
-<w n="5,15">л҃г.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="5,15">и</w>
-<w n="5,15">въ</w>
-<w n="5,15">ширину</w>
-<w n="5,15">локоть 5433</w>
-
-<w n="5,15">локти,</w>
-<w n="5,15">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="5,15">и</w>
-<w n="5,15">въ</w>
-<w n="5,15">ширину</w>
-<w n="5,15">лакътъ 5400</w>
-
-<w n="5,15">и 33</w>
-
-<w n="5,15">лакъти,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="5,15">и</w>
-<w n="5,15">въ</w>
-<w n="5,15">ширину</w>
-<w n="5,15">локоть 5433</w>
-
-<w n="5,15">локти,</w>
-<w n="5,15">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>5, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="5"/><div type="block" n="15"><p><app><lem wit="#lem">
+            и въ ширину локътъ 5433 локътъ.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">и в ширинѹ локо<hi rend="sup">т</hi> ҂е҃ у҃ л҃ г҃ локти:</rdg>
+            <rdg wit="#aka">и в ширинѹ локо<hi rend="sup">т</hi> .҂е҃.у҃.л҃.г҃. <lb/> локотъ·:</rdg>
+            <rdg wit="#ipa">и въ шириню. <lb/> л<sic>о</sic>котъ .҂е҃.у҃.л҃.г҃. локо<hi rend="sup">т</hi>ъ.·.
+                <lb/></rdg>
+            <rdg wit="#xle">и въ широтоу, лако<hi rend="sup">т</hi> .҂е҃.у҃ <lb/> л҃г.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и въ ширину локоть 5433 локти, и</rdg><rdg wit="#shakh">и въ ширину лакътъ 5400 и 33 лакъти,</rdg><rdg wit="#likh">и въ ширину локоть 5433 локти, и</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,72 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>189, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="189"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-<w n="189,10">принесяше</w>
-<w n="189,10">дѣтищь</w>
-<w n="189,10">больнъ,</w>
-<w n="189,10">кацѣмь</w>
-<w n="189,10">любо</w>
-<w n="189,10">недугъмь</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="189,10">принесѧше</w>
-<w n="189,10">дѣтищь <lb/></w>
-
-<w n="189,10">боленъ.</w>
-<w n="189,10">кацѣмь</w>
-<w n="189,10">любо</w>
-<w n="189,10">недуго<hi rend="sup">м</hi><lb/></w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="189,10">прине<lb/>сѧше</w>
-<w n="189,10">дѣтищь</w>
-<w n="189,10">боленъ.</w>
-<w n="189,10">каци<lb/>мъ</w>
-<w n="189,10">любо</w>
-<w n="189,10">недугомъ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="189,10">приносѧше</w>
-<w n="189,10">дѣтищь</w>
-<w n="189,10">болень,</w>
-<w n="189,10">кацѣ<hi rend="sup">м</hi><lb/></w>
-<w n="189,10">любо</w>
-<w n="189,10">недоуго<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="189,10">принесяше</w>
-<w n="189,10">дѣтищь</w>
-<w n="189,10">боленъ,</w>
-<w n="189,10">кацѣмь</w>
-<w n="189,10">любо</w>
-<w n="189,10">недугомъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="189,10">принесяше</w>
-<w n="189,10">дѣтищь</w>
-<w n="189,10">больнъ,</w>
-<w n="189,10">кацѣмь</w>
-<w n="189,10">любо</w>
-<w n="189,10">недугъмь</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="189,10">принесяше</w>
-<w n="189,10">дѣтищь</w>
-<w n="189,10">боленъ,</w>
-<w n="189,10">кацѣмь</w>
-<w n="189,10">любо</w>
-<w n="189,10">недугом</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>189, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="189"/><div type="block" n="10"><p><app><lem wit="#lem">
+            принесяше дѣтищь больнъ, кацѣмь любо недугъмь
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">принесѧше дѣтищь <lb/> боленъ. кацѣмь любо недуго<hi rend="sup">м</hi>
+                <lb/></rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">прине<lb/>сѧше дѣтищь боленъ. каци<lb/>мъ любо недугомъ.</rdg>
+            <rdg wit="#xle">приносѧше дѣтищь болень, кацѣ<hi rend="sup">м</hi>
+                <lb/> любо недоуго<hi rend="sup">м</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">принесяше дѣтищь боленъ, кацѣмь любо недугомъ</rdg><rdg wit="#shakh">принесяше дѣтищь больнъ, кацѣмь любо недугъмь</rdg><rdg wit="#likh">принесяше дѣтищь боленъ, кацѣмь любо недугом</rdg></rdgGrp></app></p></div></body></text></TEI>

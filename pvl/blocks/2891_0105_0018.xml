@@ -1,88 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>105, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="105"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="105,18">роса,</w>
-<w n="105,18">еже</w>
-<w n="105,18">есть</w>
-<w n="105,18">святое</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="105,18">роса.</w>
-<w n="105,18">еже</w>
-<w n="105,18">е<lb/>сть</w>
-<w n="105,18">на</w>
-<w n="105,18">странахъ</w>
-<w n="105,18">ро<hi rend="sup">с</hi>.</w>
-<w n="105,18">еже</w>
-<w n="105,18">е</w>
-<w n="105,18">с҃тое</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="105,18">роса.</w>
-<w n="105,18">еже</w>
-<w n="105,18">е<hi rend="sup">с</hi></w>
-<w n="105,18">с҃тое</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="105,18">роса.</w>
-<w n="105,18">еже</w>
-<w n="105,18">есть</w>
-<w n="105,18">ст҃ое</w>
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-<w n="105,18">роса.</w>
-<w n="105,18">еже</w>
-<w n="105,18">е<hi rend="sup">с</hi></w>
-<w n="105,18">с҃тое <lb/></w>
-
-</rdg>
-
-<rdg wit="#kom">
-<w n="105,18">роса</w>
-<w n="105,18">еже</w>
-<w n="105,18">есть</w>
-<w n="105,18">свꙗтое</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="105,18">роса</w>
-<w n="105,18">еже</w>
-<w n="105,18">есть</w>
-<w n="105,18">свꙗтое</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="105,18">роса</w>
-<w n="105,18">еже</w>
-<w n="105,18">есть</w>
-<w n="105,18">свꙗтое</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="105,18">роса,</w>
-<w n="105,18">еже</w>
-<w n="105,18">есть</w>
-<w n="105,18">святое</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="105,18">роса,</w>
-<w n="105,18">еже</w>
-<w n="105,18">есть</w>
-<w n="105,18">святое</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="105,18">роса,</w>
-<w n="105,18">еже</w>
-<w n="105,18">есть</w>
-<w n="105,18">святое</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>105, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="105"/><div type="block" n="18"><p><app><lem wit="#lem">
+            роса, еже есть святое
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">роса. еже е<lb/>сть на странахъ ро<hi rend="sup">с</hi>. еже е с҃тое</rdg>
+            <rdg wit="#rad">роса. еже е<hi rend="sup">с</hi> с҃тое</rdg>
+            <rdg wit="#aka">роса. еже есть ст҃ое</rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">роса. еже е<hi rend="sup">с</hi> с҃тое <lb/></rdg>
+            <rdg wit="#kom">роса еже есть свꙗтое</rdg>
+            <rdg wit="#nak">роса еже есть свꙗтое</rdg>
+            <rdg wit="#tol">роса еже есть свꙗтое</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">роса, еже есть святое</rdg><rdg wit="#shakh">роса, еже есть святое</rdg><rdg wit="#likh">роса, еже есть святое</rdg></rdgGrp></app></p></div></body></text></TEI>

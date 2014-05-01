@@ -1,93 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>216, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="216"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="216,23">печали</w>
-<w n="216,23">большѣ,</w>
-<w n="216,23">паче</w>
-<w n="216,23">неже</w>
-<w n="216,23">сѣдящю</w>
-<w n="216,23">ему</w>
-<w n="216,23">въ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="216,23">печали</w>
-<w n="216,23">болше</w>
-<w n="216,23">паче· <lb/></w>
-
-<w n="216,23">неже</w>
-<w n="216,23">сѣдѧщю</w>
-<w n="216,23">ѥму</w>
-<w n="216,23">в</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="216,23">печали</w>
-<w n="216,23">боль<lb/>ши·</w>
-<w n="216,23">паче</w>
-<w n="216,23">неже</w>
-<w n="216,23">седѧщю</w>
-<w n="216,23">емоу</w>
-<w n="216,23">в</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="216,23">печали</w>
-<w n="216,23">болши·</w>
-<w n="216,23">паче</w>
-<w n="216,23">неже</w>
-<w n="216,23">седѧщѹ <lb/></w>
-
-<w n="216,23">емѹ</w>
-<w n="216,23">оу</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="216,23">печалѣ</w>
-<w n="216,23">болшѣ·</w>
-<w n="216,23">паче</w>
-<w n="216,23">не<lb/>же</w>
-<w n="216,23">сѣдѧщю</w>
-<w n="216,23">ему</w>
-<w n="216,23">оу</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="216,23">печали</w>
-<w n="216,23">болша.</w>
-<w n="216,23">па<hi rend="sup">ч</hi><lb/></w>
-<w n="216,23">нежели</w>
-<w n="216,23">сѣдѧщю</w>
-<w n="216,23">емоу</w>
-<w n="216,23">в</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="216,23">печали</w>
-<w n="216,23">больши</w>
-<w n="216,23">паче</w>
-<w n="216,23">неже</w>
-<w n="216,23">сѣдящю</w>
-<w n="216,23">ему</w>
-<w n="216,23">в</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="216,23">печали</w>
-<w n="216,23">большѣ,</w>
-<w n="216,23">паче</w>
-<w n="216,23">неже</w>
-<w n="216,23">сѣдящю</w>
-<w n="216,23">ему</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="216,23">печали</w>
-<w n="216,23">больши</w>
-<w n="216,23">паче,</w>
-<w n="216,23">неже</w>
-<w n="216,23">сѣдящю</w>
-<w n="216,23">ему</w>
-<w n="216,23">в</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>216, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="216"/><div type="block" n="23"><p><app><lem wit="#lem">
+            печали большѣ, паче неже сѣдящю ему въ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">печали болше паче· <lb/> неже сѣдѧщю ѥму в</rdg>
+            <rdg wit="#rad">печали боль<lb/>ши· паче неже седѧщю емоу в</rdg>
+            <rdg wit="#aka">печали болши· паче неже седѧщѹ <lb/> емѹ оу</rdg>
+            <rdg wit="#ipa">печалѣ болшѣ· паче не<lb/>же сѣдѧщю ему оу</rdg>
+            <rdg wit="#xle">печали болша. па<hi rend="sup">ч</hi>
+                <lb/> нежели сѣдѧщю емоу в</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">печали больши паче неже сѣдящю ему в</rdg><rdg wit="#shakh">печали большѣ, паче неже сѣдящю ему</rdg><rdg wit="#likh">печали больши паче, неже сѣдящю ему в</rdg></rdgGrp></app></p></div></body></text></TEI>

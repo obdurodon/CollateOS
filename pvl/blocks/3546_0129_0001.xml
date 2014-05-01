@@ -1,87 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>129, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="129"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="129,1">идѣже</w>
-<w n="129,1">цѣжь,</w>
-<w n="129,1">и</w>
-<w n="129,1">почьрпоша</w>
-<w n="129,1">вѣдръмь,</w>
-<w n="129,1">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="129,1">идѣже</w>
-<w n="129,1">цѣ<lb/>жь.</w>
-<w n="129,1">и</w>
-<w n="129,1">почерпоша</w>
-<w n="129,1">вѣдромь</w>
-<w n="129,1">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="129,1">идѣже</w>
-<w n="129,1">цѣжь.</w>
-<w n="129,1">и</w>
-<w n="129,1">почерпаша</w>
-<w n="129,1">ведромъ.</w>
-<w n="129,1">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="129,1">идѣже</w>
-<w n="129,1">цѣ<lb/>жь.</w>
-<w n="129,1">и</w>
-<w n="129,1">почерпоша</w>
-<w n="129,1">ведромъ.</w>
-<w n="129,1">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="129,1">идѣже</w>
-<w n="129,1">цѣжь.</w>
-<w n="129,1">и</w>
-<w n="129,1">поче<lb/>рпоша</w>
-<w n="129,1">вѣдромъ.</w>
-<w n="129,1">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="129,1">идеже</w>
-<w n="129,1">цѣ<hi rend="sup">ж</hi>.</w>
-<w n="129,1">и</w>
-<w n="129,1">почерпоша</w>
-<w n="129,1">ведро<hi rend="sup">м</hi>, <lb/></w>
-
-<w n="129,1">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="129,1">идѣже</w>
-<w n="129,1">цѣжь,</w>
-<w n="129,1">и</w>
-<w n="129,1">почерпоша</w>
-<w n="129,1">вѣдромь</w>
-<w n="129,1">и <pb n="126,6"/></w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="129,1">идѣже</w>
-<w n="129,1">цѣжь,</w>
-<w n="129,1">и</w>
-<w n="129,1">почьрпоша</w>
-<w n="129,1">вѣдръмь,</w>
-<w n="129,1">и <pb n="163,9"/></w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="129,1">идѣже</w>
-<w n="129,1">цѣжь,</w>
-<w n="129,1">и</w>
-<w n="129,1">почерпоша</w>
-<w n="129,1">вѣдромь</w>
-<w n="129,1">и <pb n="88,6"/></w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>129, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="129"/><div type="block" n="1"><p><app><lem wit="#lem">
+            идѣже цѣжь, и почьрпоша вѣдръмь, и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">идѣже цѣ<lb/>жь. и почерпоша вѣдромь и</rdg>
+            <rdg wit="#rad">идѣже цѣжь. и почерпаша ведромъ. и</rdg>
+            <rdg wit="#aka">идѣже цѣ<lb/>жь. и почерпоша ведромъ. и</rdg>
+            <rdg wit="#ipa">идѣже цѣжь. и поче<lb/>рпоша вѣдромъ. и</rdg>
+            <rdg wit="#xle">идеже цѣ<hi rend="sup">ж</hi>. и почерпоша ведро<hi rend="sup">м</hi>, <lb/> и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">идѣже цѣжь, и почерпоша вѣдромь и <pb n="126,6"/></rdg><rdg wit="#shakh">идѣже цѣжь, и почьрпоша вѣдръмь, и <pb n="163,9"/></rdg><rdg wit="#likh">идѣже цѣжь, и почерпоша вѣдромь и <pb n="88,6"/></rdg></rdgGrp></app></p></div></body></text></TEI>

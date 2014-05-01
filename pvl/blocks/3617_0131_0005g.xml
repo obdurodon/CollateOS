@@ -1,64 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>131, 5g</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="131"/><div type="block" n="5g"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="131,5g">ѡбратитисѧ</w>
-<w n="131,5g">ему <lb/></w>
-
-<w n="131,5g">ѿ</w>
-<w n="131,5g">пути</w>
-<w n="131,5g">своего</w>
-<w n="131,5g">и</w>
-<w n="131,5g">живу</w>
-<w n="131,5g">быти.</w>
-<w n="131,5g">ѡ<lb/>бращениемь</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="131,5g">обратитисѧ</w>
-<w n="131,5g">емоу</w>
-<w n="131,5g">ѿ</w>
-<w n="131,5g">поути</w>
-<w n="131,5g">своего</w>
-<w n="131,5g">и</w>
-<w n="131,5g">живоу</w>
-<w n="131,5g">б<hi rend="sup">т</hi>ы<hi rend="sup">и</hi><lb/></w>
-<w n="131,5g">емоу.</w>
-<w n="131,5g">обращенїемь</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="131,5g">обратисꙗ</w>
-<w n="131,5g">имь</w>
-<w n="131,5g">от</w>
-<w n="131,5g">пути</w>
-<w n="131,5g">вашего</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="131,5g">обратитисꙗ</w>
-<w n="131,5g">имъ</w>
-<w n="131,5g">от</w>
-<w n="131,5g">пути</w>
-<w n="131,5g">вашего</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="131,5g">обратитисꙗ</w>
-<w n="131,5g">имь</w>
-<w n="131,5g">от</w>
-<w n="131,5g">пути</w>
-<w n="131,5g">вашего</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>131, 5g</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="131"/><div type="block" n="5g"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">ѡбратитисѧ ему <lb/> ѿ пути своего и живу быти. ѡ<lb/>бращениемь</rdg>
+            <rdg wit="#xle">обратитисѧ емоу ѿ поути своего и живоу б<hi rend="sup">т</hi>ы<hi rend="sup">и</hi>
+                <lb/> емоу. обращенїемь</rdg>
+            <rdg wit="#kom">обратисꙗ имь от пути вашего</rdg>
+            <rdg wit="#nak">обратитисꙗ имъ от пути вашего</rdg>
+            <rdg wit="#tol">обратитисꙗ имь от пути вашего</rdg>
+        </rdgGrp></app></p></div></body></text></TEI>

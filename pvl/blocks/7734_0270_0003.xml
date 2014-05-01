@@ -1,106 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="270"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="270,3">семь,</w>
-<w n="270,3">яко</w>
-<w n="270,3">“На</w>
-<w n="270,3">Давыда</w>
-<w n="270,3">пришьлъ</w>
-<w n="270,3">есмь,</w>
-<w n="270,3">а</w>
-<w n="270,3">съ</w>
-<w n="270,3">вама</w>
-<w n="270,3">хощю</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="270,3">се<hi rend="sup">м</hi></w>
-<w n="270,3">ꙗко</w>
-<w n="270,3">на</w>
-<w n="270,3">двд҃а</w>
-<w n="270,3">пришелъ <lb/></w>
-
-<w n="270,3">есмъ·</w>
-<w n="270,3">а</w>
-<w n="270,3">с</w>
-<w n="270,3">вама</w>
-<w n="270,3">хочю</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="270,3">и</w>
-<w n="270,3">двд҃у</w>
-<w n="270,3">рѣша</w>
-<w n="270,3">ц<hi rend="sup">н</hi>ѣ<hi rend="sup">а</hi>лова<hi rend="sup">н</hi><milestone unit="add" n="start" place="margin"/>приш<hi rend="sup">л</hi>е</w>
-<w n="270,3">еси<milestone unit="add" n="end"/></w>
-<w n="270,3">и</w>
-<w n="270,3">ре<hi rend="sup">ч</hi></w>
-<w n="270,3">дв҃дъ· <lb/></w>
-
-<w n="270,3">пришелъ·</w>
-<w n="270,3">есмь·</w>
-<w n="270,3">а</w>
-<w n="270,3">с</w>
-<w n="270,3">вама</w>
-<w n="270,3">хо<lb/>щю</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="270,3">се<hi rend="sup">м</hi>.</w>
-<w n="270,3">яко</w>
-<w n="270,3">на</w>
-<w n="270,3">дв҃да</w>
-<w n="270,3">пришелъ</w>
-<w n="270,3">есмъ.</w>
-<w n="270,3">а</w>
-<w n="270,3">с</w>
-<w n="270,3">вама</w>
-<w n="270,3">хощю <pb n="115v"/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="270,3">семъ,</w>
-<w n="270,3">“яко</w>
-<w n="270,3">на</w>
-<w n="270,3">Давыда</w>
-<w n="270,3">пришелъ</w>
-<w n="270,3">есмъ,</w>
-<w n="270,3">а</w>
-<w n="270,3">с</w>
-<w n="270,3">вама</w>
-<w n="270,3">хочю</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="270,3">семь,</w>
-<w n="270,3">яко</w>
-<w n="270,3">“на</w>
-<w n="270,3">Давыда</w>
-<w n="270,3">пришьлъ</w>
-<w n="270,3">есмь,</w>
-<w n="270,3">а</w>
-<w n="270,3">съ</w>
-<w n="270,3">вама</w>
-<w n="270,3">хощю</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="270,3">сем,</w>
-<w n="270,3">яко</w>
-<w n="270,3">“На</w>
-<w n="270,3">Давыда</w>
-<w n="270,3">пришелъ</w>
-<w n="270,3">есмъ,</w>
-<w n="270,3">а</w>
-<w n="270,3">с</w>
-<w n="270,3">вама</w>
-<w n="270,3">хочю</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="270"/><div type="block" n="3"><p><app><lem wit="#lem">
+            семь, яко “На Давыда пришьлъ есмь, а съ вама хощю
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">се<hi rend="sup">м</hi> ꙗко на двд҃а пришелъ <lb/> есмъ· а с вама хочю</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">и двд҃у рѣша ц<hi rend="sup">н</hi>ѣ<hi rend="sup">а</hi>лова<hi rend="sup">н</hi>
+                <add place="margin">приш<hi rend="sup">л</hi>е еси</add> и ре<hi rend="sup">ч</hi> дв҃дъ· <lb/>
+                пришелъ· есмь· а с вама хо<lb/>щю</rdg>
+            <rdg wit="#xle">се<hi rend="sup">м</hi>. ꙗко на дв҃да пришелъ есмъ.  а с вама хощю
+                    <pb n="115v"/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">семъ, “яко на Давыда пришелъ есмъ, а с вама хочю</rdg><rdg wit="#shakh">семь, яко “на Давыда пришьлъ есмь, а съ вама хощю</rdg><rdg wit="#likh">сем, яко “На Давыда пришелъ есмъ, а с вама хочю</rdg></rdgGrp></app></p></div></body></text></TEI>

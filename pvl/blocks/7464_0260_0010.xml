@@ -1,88 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>260, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="260"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-<w n="260,10">къняжити,</w>
-<w n="260,10">ни</w>
-<w n="260,10">мънѣ”.</w>
-<w n="260,10">Святопълкъ</w>
-<w n="260,10">же</w>
-<w n="260,10">хотяше</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="260,10">кнѧ<lb/>жи</w>
-<w n="260,10">ни</w>
-<w n="260,10">мнѣ·</w>
-<w n="260,10">ст҃ополкъ</w>
-<w n="260,10">же</w>
-<w n="260,10">хотѧше <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="260,10">кнж҃ниꙗ</w>
-<w n="260,10">нѣтъ <lb/></w>
-
-<w n="260,10">ни</w>
-<w n="260,10">тобѣ·</w>
-<w n="260,10">ст҃ополкъ</w>
-<w n="260,10">же</w>
-<w n="260,10">хотѧше</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="260,10">кнѧженьѧ<lb/></w>
-<w n="260,10">нѣтъ·</w>
-<w n="260,10">ни</w>
-<w n="260,10">тобѣ·</w>
-<w n="260,10">ст҃ополкь</w>
-<w n="260,10">же</w>
-<w n="260,10">хотѧше</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="260,10">кнѧ<lb/>жити</w>
-<w n="260,10">ни</w>
-<w n="260,10">мнѣ·</w>
-<w n="260,10">ст҃ополкъ</w>
-<w n="260,10">же <lb/></w>
-
-<w n="260,10">хотѧше</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="260,10">кнѧжити</w>
-<w n="260,10">ни</w>
-<w n="260,10">мнѣ.</w>
-<w n="260,10">ст҃опол′кь</w>
-<w n="260,10">же</w>
-<w n="260,10">хотѧше</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="260,10">княжити,</w>
-<w n="260,10">ни</w>
-<w n="260,10">мнѣ”.</w>
-<w n="260,10">Святополкъ</w>
-<w n="260,10">же</w>
-<w n="260,10">хотяше</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="260,10">къняжити,</w>
-<w n="260,10">ни</w>
-<w n="260,10">мънѣ”.</w>
-<w n="260,10">Святопълкъ</w>
-<w n="260,10">же</w>
-<w n="260,10">хотяше</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="260,10">княжити,</w>
-<w n="260,10">ни</w>
-<w n="260,10">мнѣ”.</w>
-<w n="260,10">Святополкъ</w>
-<w n="260,10">же</w>
-<w n="260,10">хотяше</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>260, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="260"/><div type="block" n="10"><p><app><lem wit="#lem">
+            къняжити, ни мънѣ”. Святопълкъ же хотяше
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">кнѧ<lb/>жи ни мнѣ· ст҃ополкъ же хотѧше <lb/></rdg>
+            <rdg wit="#rad">кнж҃ниꙗ нѣтъ <lb/> ни тобѣ· ст҃ополкъ же хотѧше</rdg>
+            <rdg wit="#aka">кнѧженьѧ<lb/> нѣтъ· ни тобѣ· ст҃ополкь же хотѧше</rdg>
+            <rdg wit="#ipa">кнѧ<lb/>жити ни мнѣ· ст҃ополкъ же <lb/> хотѧше</rdg>
+            <rdg wit="#xle">кнѧжити ни мнѣ. ст҃опол′кь же хотѧше</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">княжити, ни мнѣ”. Святополкъ же хотяше</rdg><rdg wit="#shakh">къняжити, ни мънѣ”. Святопълкъ же хотяше</rdg><rdg wit="#likh">княжити, ни мнѣ”. Святополкъ же хотяше</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,95 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>53, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="53"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="53,23">рѣчи</w>
-<w n="53,23">цьсаря</w>
-<w n="53,23">Романа.</w>
-<w n="53,23">Игорь</w>
-<w n="53,23">же</w>
-<w n="53,23">призъва</w>
-<w n="53,23">посълы</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="53,23">рѣчи</w>
-<w n="53,23">ц҃рѧ</w>
-<w n="53,23">рама<lb/>на.</w>
-<w n="53,23">игорь</w>
-<w n="53,23">же</w>
-<w n="53,23">призва</w>
-<w n="53,23">слы</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="53,23">рѣ<hi rend="sup">ч</hi></w>
-<w n="53,23">цр҃ѧ</w>
-<w n="53,23">романа:-</w>
-<w n="53,23">Игор</w>
-<w n="53,23">же</w>
-<w n="53,23">призва</w>
-<w n="53,23">послы <pb n="26v"/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="53,23">рѣчи</w>
-<w n="53,23">ц҃рѧ</w>
-<w n="53,23">рома<lb/>на:·</w>
-<w n="53,23">Игор</w>
-<w n="53,23">же</w>
-<w n="53,23">призва</w>
-<w n="53,23">послы</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="53,23">рѣ<lb/>чи</w>
-<w n="53,23">ц<hi rend="sup">с</hi>рѧ</w>
-<w n="53,23">романа.</w>
-<w n="53,23">игорь</w>
-<w n="53,23">же</w>
-<w n="53,23">призва</w>
-<w n="53,23">посль <pb n="21b"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="53,23">рѣчи</w>
-<w n="53,23">ц҃рѧ</w>
-<w n="53,23">романа.</w>
-<w n="53,23">игор</w>
-<w n="53,23">же</w>
-<w n="53,23">призва <lb/></w>
-
-<w n="53,23">послы</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="53,23">рѣчи</w>
-<w n="53,23">царя</w>
-<w n="53,23">Рамана.</w>
-<w n="53,23">Игорь</w>
-<w n="53,23">же</w>
-<w n="53,23">призва</w>
-<w n="53,23">слы</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="53,23">рѣчи</w>
-<w n="53,23">цѣсаря</w>
-<w n="53,23">Романа.</w>
-<w n="53,23">Игорь</w>
-<w n="53,23">же</w>
-<w n="53,23">призъва</w>
-<w n="53,23">сълы</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="53,23">рѣчи</w>
-<w n="53,23">царя</w>
-<w n="53,23">Рамана.</w>
-<w n="53,23">Игорь</w>
-<w n="53,23">же</w>
-<w n="53,23">призва</w>
-<w n="53,23">слы</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>53, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="53"/><div type="block" n="23"><p><app><lem wit="#lem">
+            рѣчи цьсаря Романа. Игорь же призъва посълы
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">рѣчи ц҃рѧ рама<lb/>на. игорь же призва слы</rdg>
+            <rdg wit="#rad">рѣ<hi rend="sup">ч</hi> цр҃ѧ романа:-  Игор же призва послы
+                <pb n="26v"/></rdg>
+            <rdg wit="#aka">рѣчи ц҃рѧ рома<lb/>на:· Игор же призва послы</rdg>
+            <rdg wit="#ipa">рѣ<lb/>чи ц<hi rend="sup">с</hi>рѧ романа. игорь же  призва посль
+                    <pb n="21b"/></rdg>
+            <rdg wit="#xle">рѣчи ц҃рѧ романа. игор же призва <lb/> послы</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">рѣчи царя Рамана. Игорь же призва слы</rdg><rdg wit="#shakh">рѣчи цѣсаря Романа. Игорь же призъва сълы</rdg><rdg wit="#likh">рѣчи царя Рамана. Игорь же призва слы</rdg></rdgGrp></app></p></div></body></text></TEI>

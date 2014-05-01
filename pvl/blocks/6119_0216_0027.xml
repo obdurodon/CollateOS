@@ -1,86 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>216, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="216"/><div type="block" n="27"><p>
-<app>
-<lem wit="#lem">
-<w n="216,27">другия;</w>
-<w n="216,27">се</w>
-<w n="216,27">же,</w>
-<w n="216,27">омиряя</w>
-<w n="216,27">ихъ,</w>
-<w n="216,27">раздаваше</w>
-<w n="216,27">власти</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="216,27">дроугие·</w>
-<w n="216,27">сеи</w>
-<w n="216,27">же</w>
-<w n="216,27">ѡмирѧꙗ</w>
-<w n="216,27">и<hi rend="sup">х</hi>.</w>
-<w n="216,27">раздаваꙗ</w>
-<w n="216,27">власти</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="216,27">дрѹгыѧ·</w>
-<w n="216,27">сеи</w>
-<w n="216,27">же</w>
-<w n="216,27">ѡмирѧꙗ</w>
-<w n="216,27">и<hi rend="sup">х</hi>·</w>
-<w n="216,27">раза<hi rend="sup">д</hi>ваѧ</w>
-<w n="216,27">вла<lb/>сти</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="216,27">другоѣ· <lb/></w>
-
-<w n="216,27">се</w>
-<w n="216,27">же</w>
-<w n="216,27">смириваꙗ</w>
-<w n="216,27">и<hi rend="sup">х</hi></w>
-<w n="216,27">раздава<lb/>ше</w>
-<w n="216,27">волостѣ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="216,27">дроугїа.</w>
-<w n="216,27">съ·̏</w>
-<w n="216,27">же</w>
-<w n="216,27">смиреваѧ</w>
-<w n="216,27">и<hi rend="sup">х</hi>,</w>
-<w n="216,27">разда<lb/>ваше</w>
-<w n="216,27">волости</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="216,27">другие;</w>
-<w n="216,27">сей</w>
-<w n="216,27">же,</w>
-<w n="216,27">омиряя</w>
-<w n="216,27">ихъ,</w>
-<w n="216,27">раздаваше</w>
-<w n="216,27">власти</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="216,27">другия;</w>
-<w n="216,27">сь</w>
-<w n="216,27">же,</w>
-<w n="216,27">омиряя</w>
-<w n="216,27">ихъ,</w>
-<w n="216,27">раздаваше</w>
-<w n="216,27">власти</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="216,27">другие;</w>
-<w n="216,27">сей</w>
-<w n="216,27">же,</w>
-<w n="216,27">омиряя</w>
-<w n="216,27">их,</w>
-<w n="216,27">раздаваше</w>
-<w n="216,27">власти</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>216, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="216"/><div type="block" n="27"><p><app><lem wit="#lem">
+            другия; се же, омиряя ихъ, раздаваше власти
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">дроугие· сеи же ѡмирѧꙗ и<hi rend="sup">х</hi>. раздаваꙗ власти</rdg>
+            <rdg wit="#aka">дрѹгыѧ· сеи же ѡмирѧꙗ и<hi rend="sup">х</hi>· раза<hi rend="sup">д</hi>ваѧ вла<lb/>сти</rdg>
+            <rdg wit="#ipa">другоѣ· <lb/> се же смириваꙗ и<hi rend="sup">х</hi> раздава<lb/>ше волостѣ</rdg>
+            <rdg wit="#xle">дроугїа. съ·̏ же смиреваѧ и<hi rend="sup">х</hi>, разда<lb/>ваше волости</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">другие; сей же, омиряя ихъ, раздаваше власти</rdg><rdg wit="#shakh">другия; сь же, омиряя ихъ, раздаваше власти</rdg><rdg wit="#likh">другие; сей же, омиряя их, раздаваше власти</rdg></rdgGrp></app></p></div></body></text></TEI>

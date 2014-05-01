@@ -1,95 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>65, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="65"/><div type="block" n="15"><p>
-<app>
-<lem wit="#lem">
-<w n="65,15">на</w>
-<w n="65,15">Българы.</w>
-<w n="65,15">И</w>
-<w n="65,15">бивъшемъ</w>
-<w n="65,15">ся</w>
-<w n="65,15">обоимъ,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="65,15">и</w>
-<w n="65,15">на</w>
-<w n="65,15">болгары.</w>
-<w n="65,15">бившемъсѧ <lb/></w>
-
-<w n="65,15">ѡбоимъ.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="65,15">и</w>
-<w n="65,15">на</w>
-<w n="65,15">болгары.</w>
-<w n="65,15">и <lb/></w>
-
-<w n="65,15">бивши<hi rend="sup">м</hi>сѧ</w>
-<w n="65,15">ѡбоимъ.</w>
-<w n="65,15">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="65,15">на</w>
-<w n="65,15">болъ<lb/>гары.</w>
-<w n="65,15">и</w>
-<w n="65,15">бившимсѧ</w>
-<w n="65,15">ѡбоимъ.</w>
-<w n="65,15">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="65,15">на</w>
-<w n="65,15">бол<hi rend="sup">ъ</hi><lb/>гары.</w>
-<w n="65,15">и</w>
-<w n="65,15">бившимъсѧ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="65,15">на</w>
-<w n="65,15">бо<hi rend="sup">л</hi>гары.</w>
-<w n="65,15">и</w>
-<w n="65,15">бившимсѧ</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="65,15">на</w>
-<w n="65,15">болгары</w>
-<w n="65,15">и</w>
-<w n="65,15">бившемсꙗ</w>
-<w n="65,15">обоимъ</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="65,15">на</w>
-<w n="65,15">болгаръ</w>
-<w n="65,15">и</w>
-<w n="65,15">бившимсꙗ</w>
-<w n="65,15">обоимъ</w>
-<w n="65,15">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="65,15">на</w>
-<w n="65,15">Болгары.</w>
-<w n="65,15">И</w>
-<w n="65,15">бившемъся</w>
-<w n="65,15">обоимъ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="65,15">на</w>
-<w n="65,15">Българы.</w>
-<w n="65,15">И</w>
-<w n="65,15">бивъшемъся</w>
-<w n="65,15">обоимъ,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="65,15">на</w>
-<w n="65,15">Болгары.</w>
-<w n="65,15">И</w>
-<w n="65,15">бившемъся</w>
-<w n="65,15">обоимъ,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>65, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="65"/><div type="block" n="15"><p><app><lem wit="#lem">
+            на Българы. И бивъшемъ ся обоимъ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и на болгары. бившемъсѧ <lb/> ѡбоимъ.</rdg>
+            <rdg wit="#rad">и на болгары. и <lb/> бивши<hi rend="sup">м</hi>сѧ ѡбоимъ. и</rdg>
+            <rdg wit="#aka">на болъ<lb/>гары. и бившимсѧ ѡбоимъ. и</rdg>
+            <rdg wit="#ipa">на бол<hi rend="sup">ъ</hi><lb/>гары. и бившимъсѧ</rdg>
+            <rdg wit="#xle">на бо<hi rend="sup">л</hi>гары. и бившимсѧ</rdg>
+            <rdg wit="#kom">на болгары и бившемсꙗ обоимъ</rdg>
+            <rdg wit="#tol">на болгаръ и бившимсꙗ обоимъ и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">на Болгары. И бившемъся обоимъ,</rdg><rdg wit="#shakh">на Българы. И бивъшемъся обоимъ,</rdg><rdg wit="#likh">на Болгары. И бившемъся обоимъ,</rdg></rdgGrp></app></p></div></body></text></TEI>

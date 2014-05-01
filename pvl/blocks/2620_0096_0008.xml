@@ -1,116 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>96, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="96"/><div type="block" n="8"><p>
-<app>
-<lem wit="#lem">
-<w n="96,8">воды.</w>
-<w n="96,8">Посемь</w>
-<w n="96,8">же</w>
-<w n="96,8">пакы</w>
-<w n="96,8">въздръпъташа</w>
-<w n="96,8">на</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="96,8">воды.</w>
-<w n="96,8">посем</w>
-<w n="96,8">же</w>
-<w n="96,8">паки <lb/></w>
-
-<w n="96,8">возропташа</w>
-<w n="96,8">на</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="96,8">воды.</w>
-<w n="96,8">посем</w>
-<w n="96,8">же</w>
-<w n="96,8">пакы <lb/></w>
-
-<w n="96,8">възропташа.</w>
-<w n="96,8">на</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="96,8">воды.</w>
-<w n="96,8">посем</w>
-<w n="96,8">же</w>
-<w n="96,8">паки</w>
-<w n="96,8">возропь<lb/>таша.</w>
-<w n="96,8">на</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="96,8">воды.</w>
-<w n="96,8">посемъ</w>
-<w n="96,8">же <lb/></w>
-
-<w n="96,8">пакы.</w>
-<w n="96,8">възропташа</w>
-<w n="96,8">лю<hi rend="sup">д</hi>е</w>
-<w n="96,8">на <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="96,8">воды.</w>
-<w n="96,8">посе<hi rend="sup">м</hi></w>
-<w n="96,8">же</w>
-<w n="96,8">пакы</w>
-<w n="96,8">възро<lb/>пташа</w>
-<w n="96,8">людїе</w>
-<w n="96,8">на</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="96,8">воды</w>
-<w n="96,8">посемь</w>
-<w n="96,8">же</w>
-<w n="96,8">пакы</w>
-<w n="96,8">возропташа</w>
-<w n="96,8">на</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="96,8">воды</w>
-<w n="96,8">посемь</w>
-<w n="96,8">же</w>
-<w n="96,8">пакы</w>
-<w n="96,8">възропташа</w>
-<w n="96,8">на</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="96,8">воды</w>
-<w n="96,8">посемъ</w>
-<w n="96,8">же</w>
-<w n="96,8">пакы</w>
-<w n="96,8">взропташа</w>
-<w n="96,8">на</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="96,8">воды.</w>
-<w n="96,8">Посемь</w>
-<w n="96,8">же</w>
-<w n="96,8">паки</w>
-<w n="96,8">возропташа</w>
-<w n="96,8">на</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="96,8">воды.</w>
-<w n="96,8">Посемь</w>
-<w n="96,8">же</w>
-<w n="96,8">пакы</w>
-<w n="96,8">възръпъташа</w>
-<w n="96,8">на</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="96,8">воды.</w>
-<w n="96,8">Посем</w>
-<w n="96,8">же</w>
-<w n="96,8">паки</w>
-<w n="96,8">возропташа</w>
-<w n="96,8">на</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>96, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="96"/><div type="block" n="8"><p><app><lem wit="#lem">
+            воды. Посемь же пакы въздръпъташа на
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">воды. посем же паки <lb/> возропташа на</rdg>
+            <rdg wit="#rad">воды. посем же пакы <lb/> възропташа. на</rdg>
+            <rdg wit="#aka">воды. посем же паки возропь<lb/>таша. на</rdg>
+            <rdg wit="#ipa">воды. посемъ же <lb/> пакы. възропташа лю<hi rend="sup">д</hi>е на <lb/></rdg>
+            <rdg wit="#xle">воды. посе<hi rend="sup">м</hi> же пакы възро<lb/>пташа людїе на</rdg>
+            <rdg wit="#kom">воды посемь же пакы возропташа на</rdg>
+            <rdg wit="#nak">воды посемь же пакы възропташа на</rdg>
+            <rdg wit="#tol">воды посемъ же пакы взропташа на</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">воды. Посемь же паки возропташа на</rdg><rdg wit="#shakh">воды. Посемь же пакы възръпъташа на</rdg><rdg wit="#likh">воды. Посем же паки возропташа на</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,99 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>50, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="50"/><div type="block" n="7"><p>
-<app>
-<lem wit="#lem">
-<w n="50,7">сугубо.</w>
-<w n="50,7">Аще</w>
-<w n="50,7">ли</w>
-<w n="50,7">сътворить</w>
-<w n="50,7">тоже</w>
-<w n="50,7">Грьчинъ</w>
-<w n="50,7">Русину,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="50,7">сугубо.</w>
-<w n="50,7">и</w>
-<w n="50,7">аще</w>
-<w n="50,7">створить</w>
-<w n="50,7">грьчинъ</w>
-<w n="50,7">русину. <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="50,7">сѹгоубъ <lb/></w>
-
-<w n="50,7">и</w>
-<w n="50,7">аще</w>
-<w n="50,7">сотворить</w>
-<w n="50,7">то</w>
-<w n="50,7">же</w>
-<w n="50,7">гречинъ</w>
-<w n="50,7">роусинѹ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="50,7">сѹгѹбо.</w>
-<w n="50,7">и</w>
-<w n="50,7">аще</w>
-<w n="50,7">со<lb/>творить</w>
-<w n="50,7">то</w>
-<w n="50,7">же</w>
-<w n="50,7">гречинь</w>
-<w n="50,7">рѹсинѹ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="50,7">сугубо.</w>
-<w n="50,7">аще <lb/></w>
-
-<w n="50,7">ли</w>
-<w n="50,7">створить</w>
-<w n="50,7">то</w>
-<w n="50,7">же</w>
-<w n="50,7">грѣ<milestone unit="sic" n="start"/>ч<milestone unit="sic" n="end"/><hi rend="sup">и</hi><lb/>нъ</w>
-<w n="50,7">русину.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="50,7">соугоубо.</w>
-<w n="50,7">аще</w>
-<w n="50,7">ли</w>
-<w n="50,7">твори<hi rend="sup">т</hi></w>
-<w n="50,7">то</w>
-<w n="50,7">же</w>
-<w n="50,7">гречи<hi rend="sup">н</hi></w>
-<w n="50,7">роусиноу.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="50,7">сугубо;</w>
-<w n="50,7">и</w>
-<w n="50,7">аще</w>
-<w n="50,7">створить</w>
-<w n="50,7">тоже</w>
-<w n="50,7">Грьчинъ</w>
-<w n="50,7">Русину,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="50,7">сугубо;</w>
-<w n="50,7">и</w>
-<w n="50,7">аще</w>
-<w n="50,7">сътворить</w>
-<w n="50,7">тоже</w>
-<w n="50,7">Грьчинъ</w>
-<w n="50,7">Русину,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="50,7">сугубо;</w>
-<w n="50,7">и</w>
-<w n="50,7">аще</w>
-<w n="50,7">створить</w>
-<w n="50,7">то</w>
-<w n="50,7">же</w>
-<w n="50,7">грьчинъ</w>
-<w n="50,7">русину,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>50, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="50"/><div type="block" n="7"><p><app><lem wit="#lem">
+            сугубо. Аще ли сътворить тоже Грьчинъ Русину,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">сугубо. и аще створить грьчинъ русину. <lb/></rdg>
+            <rdg wit="#rad">сѹгоубъ <lb/> и аще сотворить то же гречинъ роусинѹ.</rdg>
+            <rdg wit="#aka">сѹгѹбо. и аще со<lb/>творить то же гречинь рѹсинѹ.</rdg>
+            <rdg wit="#ipa">сугубо. аще <lb/> ли створить то же грѣ<sic>ч</sic><hi rend="sup">и</hi><lb/>нъ
+                русину.</rdg>
+            <rdg wit="#xle">соугоубо. аще ли твори<hi rend="sup">т</hi> то же гречи<hi rend="sup">н</hi> роусиноу.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">сугубо; и аще створить тоже Грьчинъ Русину,</rdg><rdg wit="#shakh">сугубо; и аще сътворить тоже Грьчинъ Русину,</rdg><rdg wit="#likh">сугубо; и аще створить то же грьчинъ русину,</rdg></rdgGrp></app></p></div></body></text></TEI>

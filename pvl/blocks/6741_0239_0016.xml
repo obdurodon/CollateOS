@@ -1,82 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>239, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="239"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="239,16">Вячеславъ</w>
-<w n="239,16">въ</w>
-<w n="239,16">четвьргъ</w>
-<w n="239,16">по</w>
-<w n="239,16">Феодоровои</w>
-<w n="239,16">недѣли</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="239,16">вѧчеславъ</w>
-<w n="239,16">в</w>
-<w n="239,16">четвергъ</w>
-<w n="239,16">ѳеѡдо<lb/>ровы</w>
-<w n="239,16">не<hi rend="sup">д</hi>ли</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="239,16">вѧчиславъ·</w>
-<w n="239,16">в</w>
-<w n="239,16">че<hi rend="sup">т</hi></w>
-<w n="239,16">фе<hi rend="sup">д</hi>ровы.</w>
-<w n="239,16">не<hi rend="sup">д</hi>.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="239,16">вѧчеславъ·</w>
-<w n="239,16">в</w>
-<w n="239,16">че<hi rend="sup">т</hi></w>
-<w n="239,16">федоровы·̏</w>
-<w n="239,16">недѣ<lb/>ли·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="239,16">вѧчьславъ</w>
-<w n="239,16">оу</w>
-<w n="239,16">четвертокъ.</w>
-<w n="239,16">по</w>
-<w n="239,16">ф<milestone unit="sic" n="start"/>е<milestone unit="sic" n="end"/>доро<lb/>вои</w>
-<w n="239,16">недѣлѣ <pb n="87d"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="239,16">вѧчеславь</w>
-<w n="239,16">в</w>
-<w n="239,16">четвертѡ<hi rend="sup">к</hi></w>
-<w n="239,16">по</w>
-<w n="239,16">ѳе<hi rend="sup">д</hi>ѡ<hi rend="sup">о</hi>ровои <lb/></w>
-
-<w n="239,16">не<hi rend="sup">д</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="239,16">Вячеславъ</w>
-<w n="239,16">в</w>
-<w n="239,16">четвергъ</w>
-<w n="239,16">по</w>
-<w n="239,16">Феодоровы</w>
-<w n="239,16">недѣли,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="239,16">Вячеславъ</w>
-<w n="239,16">въ</w>
-<w n="239,16">четвьргъ</w>
-<w n="239,16">по</w>
-<w n="239,16">Феодоровѣ</w>
-<w n="239,16">недѣли</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="239,16">Вячеславъ</w>
-<w n="239,16">в</w>
-<w n="239,16">четвергъ</w>
-<w n="239,16">по</w>
-<w n="239,16">Феодоровы</w>
-<w n="239,16">недѣли,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>239, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="239"/><div type="block" n="16"><p><app><lem wit="#lem">
+            Вячеславъ въ четвьргъ по Феодоровои недѣли
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">вѧчеславъ в четвергъ ѳеѡдо<lb/>ровы не<hi rend="sup">д</hi>ли</rdg>
+            <rdg wit="#rad">вѧчиславъ· в че<hi rend="sup">т</hi> фе<hi rend="sup">д</hi>ровы. не<hi rend="sup">д</hi>.</rdg>
+            <rdg wit="#aka">вѧчеславъ· в че<hi rend="sup">т</hi> федоровы·̏ недѣ<lb/>ли·</rdg>
+            <rdg wit="#ipa">вѧчьславъ оу четвертокъ. по ф<sic>е</sic>доро<lb/>вои недѣлѣ
+                    <pb n="87d"/></rdg>
+            <rdg wit="#xle">вѧчеславь в четвертѡ<hi rend="sup">к</hi> по ѳе<hi rend="sup">д</hi>ѡ<hi rend="sup">о</hi>ровои <lb/>
+                    не<hi rend="sup">д</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Вячеславъ в четвергъ по Феодоровы недѣли,</rdg><rdg wit="#shakh">Вячеславъ въ четвьргъ по Феодоровѣ недѣли</rdg><rdg wit="#likh">Вячеславъ в четвергъ по Феодоровы недѣли,</rdg></rdgGrp></app></p></div></body></text></TEI>

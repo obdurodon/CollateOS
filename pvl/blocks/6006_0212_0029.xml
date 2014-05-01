@@ -1,90 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>212, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="212"/><div type="block" n="29"><p>
-<app>
-<lem wit="#lem">
-<w n="212,29">с</w>
-<w n="212,29">расъмотрениемь,</w>
-<w n="212,29">блюда</w>
-<w n="212,29">ихъ</w>
-<w n="212,29">и</w>
-<w n="212,29">бъдѣниемъ,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="212,29">с</w>
-<w n="212,29">расмотреньѥмь·</w>
-<w n="212,29">блю<lb/>да</w>
-<w n="212,29">ихъ·</w>
-<w n="212,29">и</w>
-<w n="212,29">бдѧ</w>
-<w n="212,29">за</w>
-<w n="212,29">не</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="212,29">расмо<lb/>трениемъ.</w>
-<w n="212,29"><milestone unit="sic" n="start"/>б<milestone unit="sic" n="end"/>люда</w>
-<w n="212,29">и<hi rend="sup">х</hi>·</w>
-<w n="212,29">и</w>
-<w n="212,29">бдѣниемъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="212,29">разьсмотрениемъ</w>
-<w n="212,29">блюда</w>
-<w n="212,29">ихъ·</w>
-<w n="212,29">и</w>
-<w n="212,29">бьдѣнкїемь</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="212,29">с</w>
-<w n="212,29">расмотреньемь</w>
-<w n="212,29"><milestone unit="sic" n="start"/>и<hi rend="sup">х</hi><milestone unit="sic" n="end"/><lb/></w>
-<w n="212,29">блюда</w>
-<w n="212,29">и<hi rend="sup">х</hi>·</w>
-<w n="212,29">и</w>
-<w n="212,29">бдѣньемь·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="212,29">с</w>
-<w n="212,29">расмотренїемь</w>
-<w n="212,29">блюдѧ</w>
-<w n="212,29">и<hi rend="sup">х</hi>.</w>
-<w n="212,29">и</w>
-<w n="212,29">бденїемь.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="212,29">с</w>
-<w n="212,29">расмотреньемь,</w>
-<w n="212,29">блюда</w>
-<w n="212,29">ихъ</w>
-<w n="212,29">и</w>
-<w n="212,29">бдя</w>
-<w n="212,29">за</w>
-<w n="212,29">ня,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="212,29">с</w>
-<w n="212,29">расъмотрениемь,</w>
-<w n="212,29">блюда</w>
-<w n="212,29">ихъ</w>
-<w n="212,29">и</w>
-<w n="212,29">бъдя</w>
-<w n="212,29">за</w>
-<w n="212,29">ня,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="212,29">с</w>
-<w n="212,29">расмотреньемь,</w>
-<w n="212,29">блюда</w>
-<w n="212,29">ихъ</w>
-<w n="212,29">и</w>
-<w n="212,29">бдя</w>
-<w n="212,29">за</w>
-<w n="212,29">ня,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>212, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="212"/><div type="block" n="29"><p><app><lem wit="#lem">
+            съ расъмотрениемь, блюда ихъ и бъдѣниемъ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">с расмотреньѥмь· блю<lb/>да ихъ· и бдѧ за не</rdg>
+            <rdg wit="#rad">расмо<lb/>трениемъ. <sic>б</sic>люда и<hi rend="sup">х</hi>· и бдѣниемъ</rdg>
+            <rdg wit="#aka">разьсмотрениемъ блюда ихъ· и бьдѣнкїемь</rdg>
+            <rdg wit="#ipa">с расмотреньемь <sic>и<hi rend="sup">х</hi></sic><lb/> блюда и<hi rend="sup">х</hi>· и
+                бдѣньемь·</rdg>
+            <rdg wit="#xle">с расмотренїемь блюдѧ и<hi rend="sup">х</hi>. и бденїемь.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">с расмотреньемь, блюда ихъ и бдя за ня,</rdg><rdg wit="#shakh">с расъмотрениемь, блюда ихъ и бъдя за ня,</rdg><rdg wit="#likh">с расмотреньемь, блюда ихъ и бдя за ня,</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,81 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>158, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="158"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-<w n="158,2">обыклъ,</w>
-<w n="158,2">уединивъ</w>
-<w n="158,2">ся”.</w>
-<w n="158,2">И</w>
-<w n="158,2">постави</w>
-<w n="158,2">имъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="158,2">ѡбыклъ</w>
-<w n="158,2">оуединивъсѧ. <lb/></w>
-
-<w n="158,2">и</w>
-<w n="158,2">постави</w>
-<w n="158,2">имъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="158,2">ѡбы<lb/>клъ.</w>
-<w n="158,2">оуединивъ<hi rend="sup">с</hi></w>
-<w n="158,2">жити.</w>
-<w n="158,2">и</w>
-<w n="158,2">постави</w>
-<w n="158,2">имъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="158,2">ѡбыклъ. <lb/></w>
-
-<w n="158,2">оуединївсѧ</w>
-<w n="158,2">жити.</w>
-<w n="158,2">и</w>
-<w n="158,2">постави</w>
-<w n="158,2">имъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="158,2">ѡбы<lb/>клъ.</w>
-<w n="158,2">оуединивсѧ.</w>
-<w n="158,2">и</w>
-<w n="158,2">поста<lb/>ви</w>
-<w n="158,2">имъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="158,2">ѡбыкль</w>
-<w n="158,2">оуединивсѧ.</w>
-<w n="158,2">и</w>
-<w n="158,2">постави <lb/></w>
-
-<w n="158,2">имь</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="158,2">обыклъ,</w>
-<w n="158,2">уединивъся,</w>
-<w n="158,2">жити”.</w>
-<w n="158,2">И</w>
-<w n="158,2">постави</w>
-<w n="158,2">имъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="158,2">обыклъ,</w>
-<w n="158,2">уединивъся”,</w>
-<w n="158,2">постави</w>
-<w n="158,2">имъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="158,2">обыклъ,</w>
-<w n="158,2">уединивъся,</w>
-<w n="158,2">жити”.</w>
-<w n="158,2">И</w>
-<w n="158,2">постави</w>
-<w n="158,2">имъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>158, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="158"/><div type="block" n="2"><p><app><lem wit="#lem">
+            обыклъ, уединивъ ся”. И постави имъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѡбыклъ оуединивъсѧ. <lb/> и постави имъ</rdg>
+            <rdg wit="#rad">ѡбы<lb/>клъ. оуединивъ<hi rend="sup">с</hi> жити. и постави имъ</rdg>
+            <rdg wit="#aka">ѡбыклъ. <lb/> оуединївсѧ жити. и постави имъ</rdg>
+            <rdg wit="#ipa">ѡбы<lb/>клъ. оуединивсѧ. и поста<lb/>ви имъ</rdg>
+            <rdg wit="#xle">ѡбыкль оуединивсѧ. и постави <lb/> имь</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">обыклъ, уединивъся, жити”. И постави имъ</rdg><rdg wit="#shakh">обыклъ, уединивъся”, постави имъ</rdg><rdg wit="#likh">обыклъ, уединивъся, жити”. И постави имъ</rdg></rdgGrp></app></p></div></body></text></TEI>

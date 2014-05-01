@@ -1,83 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>235, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="235"/><div type="block" n="24"><p>
-<app>
-<lem wit="#lem">
-<w n="235,24">ихъже</w>
-<w n="235,24">нечистоту</w>
-<w n="235,24">видѣвъ:</w>
-<w n="235,24">ядяху</w>
-<w n="235,24">сквьрну</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="235,24">их</w>
-<w n="235,24">же <lb/></w>
-
-<w n="235,24">нечт<hi rend="sup">с</hi>оту</w>
-<w n="235,24">видѣвъ</w>
-<w n="235,24">ꙗдѧху</w>
-<w n="235,24">скве<lb/>рну</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="235,24">их</w>
-<w n="235,24">же</w>
-<w n="235,24">нечт<hi rend="sup">с</hi>отоу <lb/></w>
-
-<w n="235,24">видѣвъ·</w>
-<w n="235,24">ꙗдѧхоу</w>
-<w n="235,24">скверноу</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="235,24">их</w>
-<w n="235,24">же</w>
-<w n="235,24">неч<hi rend="sup">с</hi>тотѹ</w>
-<w n="235,24">видевъ·</w>
-<w n="235,24">ꙗдѧ<lb/>хѹ</w>
-<w n="235,24">сквернѹ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="235,24">ихъ</w>
-<w n="235,24">же</w>
-<w n="235,24">нечт<hi rend="sup">с</hi>оту</w>
-<w n="235,24">видѣвъ· <lb/></w>
-
-<w n="235,24">ꙗдѧху</w>
-<w n="235,24">скверну</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="235,24">и<hi rend="sup">х</hi></w>
-<w n="235,24">же</w>
-<w n="235,24">нечистотоу</w>
-<w n="235,24">видѣвь.</w>
-<w n="235,24">ядѧу<hi rend="sup">х</hi><lb/></w>
-<w n="235,24">скверьноу</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="235,24">ихже</w>
-<w n="235,24">нечистоту</w>
-<w n="235,24">видѣвъ:</w>
-<w n="235,24">ядяху</w>
-<w n="235,24">скверну</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="235,24">ихъже</w>
-<w n="235,24">нечистоту</w>
-<w n="235,24">видѣвъ:</w>
-<w n="235,24">ядяху</w>
-<w n="235,24">сквьрну</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="235,24">их</w>
-<w n="235,24">же</w>
-<w n="235,24">нечистоту</w>
-<w n="235,24">видѣвъ:</w>
-<w n="235,24">ядяху</w>
-<w n="235,24">скверну</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>235, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="235"/><div type="block" n="24"><p><app><lem wit="#lem">
+            ихъже нечистоту видѣвъ: ядяху сквьрну
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">их же <lb/> нечт<hi rend="sup">с</hi>оту видѣвъ ꙗдѧху скве<lb/>рну</rdg>
+            <rdg wit="#rad">их же нечт<hi rend="sup">с</hi>отоу <lb/> видѣвъ· ꙗдѧхоу скверноу</rdg>
+            <rdg wit="#aka">их же неч<hi rend="sup">с</hi>тотѹ видевъ· ꙗдѧ<lb/>хѹ сквернѹ</rdg>
+            <rdg wit="#ipa">ихъ же нечт<hi rend="sup">с</hi>оту видѣвъ· <lb/> ꙗдѧху скверну</rdg>
+            <rdg wit="#xle">и<hi rend="sup">х</hi> же нечистотоу видѣвь. ꙗдѧу<hi rend="sup">х</hi>
+                <lb/> скверьноу</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">ихже нечистоту видѣвъ: ядяху скверну</rdg><rdg wit="#shakh">ихъже нечистоту видѣвъ: ядяху сквьрну</rdg><rdg wit="#likh">их же нечистоту видѣвъ: ядяху скверну</rdg></rdgGrp></app></p></div></body></text></TEI>

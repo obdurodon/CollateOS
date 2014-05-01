@@ -1,92 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>31, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="31"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="31,9">бо</w>
-<w n="31,9">градомъ</w>
-<w n="31,9">сѣдяху</w>
-<w n="31,9">кънязи,</w>
-<w n="31,9">подъ</w>
-<w n="31,9">Ольгъмь</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="31,9">убо</w>
-<w n="31,9">градомъ</w>
-<w n="31,9">сѣдяху</w>
-<w n="31,9">князеве</w>
-<w n="31,9">подъ</w>
-<w n="31,9">олгомъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="31,9">бо</w>
-<w n="31,9">горо<hi rend="sup">д</hi>мъ</w>
-<w n="31,9">седѧхѹ</w>
-<w n="31,9">велиции</w>
-<w n="31,9">кни<hi rend="sup">з</hi>.</w>
-<w n="31,9">по<hi rend="sup">д</hi></w>
-<w n="31,9">лго<hi rend="sup">м</hi><lb/></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="31,9">бо</w>
-<w n="31,9">городомъ.</w>
-<w n="31,9">седѧхѹ</w>
-<w n="31,9">велїции</w>
-<w n="31,9">кн҃зи.</w>
-<w n="31,9">под</w>
-<w n="31,9">ѡлгомъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="31,9">бо</w>
-<w n="31,9">городомъ.</w>
-<w n="31,9">сѣ<lb/>дѧху</w>
-<w n="31,9">кнѧ<milestone unit="sic" n="start"/>ж<milestone unit="sic" n="end"/>ьꙗ.</w>
-<w n="31,9">подъ</w>
-<w n="31,9">ѡль<lb/>го<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="31,9">бо</w>
-<w n="31,9">городомь <lb/></w>
-
-<w n="31,9">сѣдѧхѫ</w>
-<w n="31,9">кнѧжьа.</w>
-<w n="31,9">пѡ<hi rend="sup">д</hi></w>
-<w n="31,9">ѡльго<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="31,9">бо</w>
-<w n="31,9">городомъ</w>
-<w n="31,9">седяху</w>
-<w n="31,9">велиции</w>
-<w n="31,9">князи,</w>
-<w n="31,9">подъ</w>
-<w n="31,9">Олгомъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="31,9">бо</w>
-<w n="31,9">градомъ</w>
-<w n="31,9">сѣдяху</w>
-<w n="31,9">велиции</w>
-<w n="31,9">кънязи,</w>
-<w n="31,9">подъ</w>
-<w n="31,9">Ольгъмь</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="31,9">бо</w>
-<w n="31,9">городомъ</w>
-<w n="31,9">седяху</w>
-<w n="31,9">велиции</w>
-<w n="31,9">князи,</w>
-<w n="31,9">под</w>
-<w n="31,9">Олгом</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>31, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="31"/><div type="block" n="9"><p><app><lem wit="#lem">
+            бо градомъ сѣдяху кънязи, подъ Ольгъмь
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">убо градомъ сѣдяху князеве подъ олгомъ</rdg>
+            <rdg wit="#rad">бо горо<hi rend="sup">д</hi>мъ седѧхѹ велиции кни<hi rend="sup">з</hi>. по<hi rend="sup">д</hi>
+                    лго<hi rend="sup">м</hi>
+                <lb/></rdg>
+            <rdg wit="#aka">бо городомъ. седѧхѹ велїции кн҃зи. под ѡлгомъ</rdg>
+            <rdg wit="#ipa">бо городомъ. сѣ<lb/>дѧху кнѧ<sic>ж</sic>ьꙗ. подъ
+                ѡль<lb/>го<hi rend="sup">м</hi></rdg>
+            <rdg wit="#xle">бо городомь <lb/> сѣдѧхѫ кнѧжьа. пѡ<hi rend="sup">д</hi> ѡльго<hi rend="sup">м</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">бо городомъ седяху велиции князи, подъ Олгомъ</rdg><rdg wit="#shakh">бо градомъ сѣдяху велиции кънязи, подъ Ольгъмь</rdg><rdg wit="#likh">бо городомъ седяху велиции князи, под Олгом</rdg></rdgGrp></app></p></div></body></text></TEI>

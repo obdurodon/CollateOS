@@ -1,87 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>146, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="146"/><div type="block" n="7"><p>
-<app>
-<lem wit="#lem">
-<w n="146,7">иже</w>
-<w n="146,7">изби</w>
-<w n="146,7">братию</w>
-<w n="146,7">свою,</w>
-<w n="146,7">сыны</w>
-<w n="146,7">Гедеоновы.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="146,7">и<lb/>же</w>
-<w n="146,7">изби</w>
-<w n="146,7">бра<hi rend="sup">т</hi>ю</w>
-<w n="146,7">свою.</w>
-<w n="146,7">сн҃ы</w>
-<w n="146,7">гедеѡ<lb/>ны.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="146,7">иже <lb/></w>
-
-<w n="146,7">изби</w>
-<w n="146,7">бра<hi rend="sup">т</hi>ю</w>
-<w n="146,7">свою.</w>
-<w n="146,7">сн҃ы</w>
-<w n="146,7">едиѡновы.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="146,7">иже</w>
-<w n="146,7">избї <lb/></w>
-
-<w n="146,7">братью</w>
-<w n="146,7">свою.</w>
-<w n="146,7">сн҃ы</w>
-<w n="146,7">гедиѡновы.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="146,7">иже</w>
-<w n="146,7">изби</w>
-<w n="146,7">бр<hi rend="sup">т</hi>аю</w>
-<w n="146,7">свою</w>
-<w n="146,7">с҃ны</w>
-<w n="146,7">гедеѡновы. <pb n="55a"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="146,7">яже</w>
-<w n="146,7">изби</w>
-<w n="146,7">братїю</w>
-<w n="146,7">свою</w>
-<w n="146,7">сн҃ы</w>
-<w n="146,7">гедеоновы. <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="146,7">иже</w>
-<w n="146,7">изби</w>
-<w n="146,7">братью</w>
-<w n="146,7">свою,</w>
-<w n="146,7">сыны</w>
-<w n="146,7">Гедеоны;</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="146,7">иже</w>
-<w n="146,7">изби</w>
-<w n="146,7">братию</w>
-<w n="146,7">свою,</w>
-<w n="146,7">сыны</w>
-<w n="146,7">Гедеоновы;</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="146,7">иже</w>
-<w n="146,7">изби</w>
-<w n="146,7">братью</w>
-<w n="146,7">свою,</w>
-<w n="146,7">сыны</w>
-<w n="146,7">Гедеоны;</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>146, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="146"/><div type="block" n="7"><p><app><lem wit="#lem">
+            иже изби братию свою, сыны Гедеоновы.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и<lb/>же изби бра<hi rend="sup">т</hi>ю свою. сн҃ы гедеѡ<lb/>ны.</rdg>
+            <rdg wit="#rad">иже <lb/> изби бра<hi rend="sup">т</hi>ю свою. сн҃ы едиѡновы.</rdg>
+            <rdg wit="#aka">иже избї <lb/> братью свою. сн҃ы гедиѡновы.</rdg>
+            <rdg wit="#ipa">иже изби бр<hi rend="sup">т</hi>аю свою с҃ны гедеѡновы. <pb n="55a"/></rdg>
+            <rdg wit="#xle">ꙗже изби братїю свою сн҃ы гедеоновы. <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">иже изби братью свою, сыны Гедеоны;</rdg><rdg wit="#shakh">иже изби братию свою, сыны Гедеоновы;</rdg><rdg wit="#likh">иже изби братью свою, сыны Гедеоны;</rdg></rdgGrp></app></p></div></body></text></TEI>

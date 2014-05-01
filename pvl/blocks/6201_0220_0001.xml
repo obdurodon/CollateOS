@@ -1,81 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>220, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="220"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="220,1">испълчивъше</w>
-<w n="220,1">ся,</w>
-<w n="220,1">поидоша.</w>
-<w n="220,1">Идяше</w>
-<w n="220,1">на</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="220,1">исполчи<lb/>вше</w>
-<w n="220,1">дружину</w>
-<w n="220,1">поидоша</w>
-<w n="220,1">и</w>
-<w n="220,1">и<lb/>дѧше</w>
-<w n="220,1">на</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="220,1">исполчивше<hi rend="sup">с</hi><lb/></w>
-<w n="220,1">и</w>
-<w n="220,1">поидоша.</w>
-<w n="220,1">идѧше</w>
-<w n="220,1">на</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="220,1">исполчивъ<lb/>ше</w>
-<w n="220,1">сѧ</w>
-<w n="220,1">и</w>
-<w n="220,1">поидоша·</w>
-<w n="220,1">идѧше</w>
-<w n="220,1">на</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="220,1">исполчившесѧ <lb/></w>
-
-<w n="220,1">поидоша·</w>
-<w n="220,1">идѧше</w>
-<w n="220,1">на</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="220,1">испочившесѧ</w>
-<w n="220,1">пои<lb/>доша.</w>
-<w n="220,1">идѧше</w>
-<w n="220,1">на</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="220,1">исполчивше</w>
-<w n="220,1">дружину,</w>
-<w n="220,1">поидоша;</w>
-<w n="220,1">и</w>
-<w n="220,1">идяше</w>
-<w n="220,1">на</w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="220,1">испълчивъше</w>
-<w n="220,1">дружину,</w>
-<w n="220,1">поидоша.</w>
-<w n="220,1">И</w>
-<w n="220,1">идяше</w>
-<w n="220,1">на</w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="220,1">исполчивше</w>
-<w n="220,1">дружину,</w>
-<w n="220,1">поидоша.</w>
-<w n="220,1">И</w>
-<w n="220,1">идяше</w>
-<w n="220,1">на</w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>220, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="220"/><div type="block" n="1"><p><app><lem wit="#lem">
+            испълчивъше ся, поидоша. Идяше на
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">исполчи<lb/>вше дружину поидоша и и<lb/>дѧше на</rdg>
+            <rdg wit="#rad">исполчивше<hi rend="sup">с</hi>
+                <lb/> и поидоша. идѧше на</rdg>
+            <rdg wit="#aka">исполчивъ<lb/>ше сѧ и поидоша· идѧше на</rdg>
+            <rdg wit="#ipa">исполчившесѧ <lb/> поидоша· идѧше на</rdg>
+            <rdg wit="#xle">испочившесѧ пои<lb/>доша. идѧше на</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">исполчивше дружину, поидоша; и идяше на <add place="margin">212,15</add></rdg><rdg wit="#shakh">испълчивъше дружину, поидоша. И идяше на <add place="margin">277,14</add></rdg><rdg wit="#likh">исполчивше дружину, поидоша. И идяше на <add place="margin">144,10</add></rdg></rdgGrp></app></p></div></body></text></TEI>

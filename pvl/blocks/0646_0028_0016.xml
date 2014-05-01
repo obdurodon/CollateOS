@@ -1,83 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>28, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="28"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="28,16">пьрвое.</w>
-<w n="28,16">Тѣмь</w>
-<w n="28,16">же</w>
-<w n="28,16">Словѣньску</w>
-<w n="28,16">языку</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="28,16">первие</w>
-<w n="28,16">тѣм</w>
-<w n="28,16">же</w>
-<w n="28,16">словѣньску</w>
-<w n="28,16">языку</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="28,16">первое</w>
-<w n="28,16">тѣм</w>
-<w n="28,16">же</w>
-<w n="28,16">и</w>
-<w n="28,16">словеньскѹ</w>
-<w n="28,16">ꙗзы<lb/>коу</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="28,16">первое.</w>
-<w n="28,16">тѣм</w>
-<w n="28,16">же</w>
-<w n="28,16">и <lb/></w>
-
-<w n="28,16">словѣньскѹ</w>
-<w n="28,16">ꙗзыкѹ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="28,16">пѣрвѣе.</w>
-<w n="28,16">тѣмь <lb/></w>
-
-<w n="28,16">же</w>
-<w n="28,16">словѣньску</w>
-<w n="28,16">ꙗзыку</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="28,16">пръ<lb/>вое.</w>
-<w n="28,16">т<hi rend="sup">м</hi>ѣ</w>
-<w n="28,16">же</w>
-<w n="28,16">слѡвенскоу</w>
-<w n="28,16">языкоу</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="28,16">первое.</w>
-<w n="28,16">Тѣмже</w>
-<w n="28,16">и</w>
-<w n="28,16">Словеньску</w>
-<w n="28,16">языку</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="28,16">пьрвое.</w>
-<w n="28,16">Тѣмь</w>
-<w n="28,16">же</w>
-<w n="28,16">и</w>
-<w n="28,16">Словѣньску</w>
-<w n="28,16">языку</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="28,16">первое.</w>
-<w n="28,16">Тѣм</w>
-<w n="28,16">же</w>
-<w n="28,16">и</w>
-<w n="28,16">словеньску</w>
-<w n="28,16">языку</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>28, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="28"/><div type="block" n="16"><p><app><lem wit="#lem">
+            пьрвое. Тѣмь же Словѣньску языку
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">первие тѣм же словѣньску языку</rdg>
+            <rdg wit="#rad">первое тѣм же и словеньскѹ ꙗзы<lb/>коу</rdg>
+            <rdg wit="#aka">первое. тѣм же и <lb/> словѣньскѹ ꙗзыкѹ</rdg>
+            <rdg wit="#ipa">пѣрвѣе. тѣмь <lb/> же словѣньску ꙗзыку</rdg>
+            <rdg wit="#xle">пръ<lb/>вое. т<hi rend="sup">м</hi>ѣ же слѡвенскоу ꙗзыкоу</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">первое. Тѣмже и Словеньску языку</rdg><rdg wit="#shakh">пьрвое. Тѣмь же и Словѣньску языку</rdg><rdg wit="#likh">первое. Тѣм же и словеньску языку</rdg></rdgGrp></app></p></div></body></text></TEI>

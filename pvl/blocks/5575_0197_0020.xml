@@ -1,86 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>197, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="197"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="197,20">въ</w>
-<w n="197,20">ангельскъмъ,</w>
-<w n="197,20">недостоини</w>
-<w n="197,20">суще</w>
-<w n="197,20">того</w>
-<w n="197,20">видѣния.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="197,20">въ</w>
-<w n="197,20">а<lb/>нг҃льстѣмь</w>
-<w n="197,20">недостоини</w>
-<w n="197,20">ще <lb/></w>
-
-<w n="197,20">того</w>
-<w n="197,20">видѣньꙗ.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="197,20">въ</w>
-<w n="197,20">агг<hi rend="sup">с</hi>лкомъ.</w>
-<w n="197,20">недостоини</w>
-<w n="197,20">сѹще</w>
-<w n="197,20">то<hi rend="sup">г</hi><lb/></w>
-<w n="197,20">видѣниꙗ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="197,20">во</w>
-<w n="197,20">аньильскомъ.</w>
-<w n="197,20">недостоини</w>
-<w n="197,20">сѹще</w>
-<w n="197,20">того</w>
-<w n="197,20">виденїѧ. <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="197,20">вь</w>
-<w n="197,20">англ<hi rend="sup">с</hi>комъ <lb/></w>
-
-<w n="197,20">недостоинѣ</w>
-<w n="197,20">суще</w>
-<w n="197,20">того</w>
-<w n="197,20">видѣ<lb/>ниꙗ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="197,20">въ</w>
-<w n="197,20">агг҃льскѡ<hi rend="sup">м</hi>.</w>
-<w n="197,20">недостоини</w>
-<w n="197,20">сѫще</w>
-<w n="197,20">того</w>
-<w n="197,20">виденїа.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="197,20">въ</w>
-<w n="197,20">ангельстѣмь,</w>
-<w n="197,20">недостойни</w>
-<w n="197,20">суще</w>
-<w n="197,20">того</w>
-<w n="197,20">видѣнья;</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="197,20">въ</w>
-<w n="197,20">ангельстѣ,</w>
-<w n="197,20">недостоини</w>
-<w n="197,20">суще</w>
-<w n="197,20">того</w>
-<w n="197,20">видѣния;</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="197,20">въ</w>
-<w n="197,20">ангельстѣмь,</w>
-<w n="197,20">недостойни</w>
-<w n="197,20">суще</w>
-<w n="197,20">того</w>
-<w n="197,20">видѣнья;</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>197, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="197"/><div type="block" n="20"><p><app><lem wit="#lem">
+            въ ангельскъмъ, недостоини суще того видѣния.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">въ а<lb/>нг҃льстѣмь недостоини ще <lb/> того видѣньꙗ.</rdg>
+            <rdg wit="#rad">въ агг<hi rend="sup">с</hi>лкомъ. недостоини сѹще то<hi rend="sup">г</hi>
+                <lb/> видѣниꙗ.</rdg>
+            <rdg wit="#aka">во аньильскомъ. недостоини сѹще того виденїѧ. <lb/></rdg>
+            <rdg wit="#ipa">вь англ<hi rend="sup">с</hi>комъ <lb/> недостоинѣ суще того видѣ<lb/>ниꙗ.</rdg>
+            <rdg wit="#xle">въ агг҃льскѡ<hi rend="sup">м</hi>. недостоини сѫще того виденїа.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">въ ангельстѣмь, недостойни суще того видѣнья;</rdg><rdg wit="#shakh">въ ангельстѣ, недостоини суще того видѣния;</rdg><rdg wit="#likh">въ ангельстѣмь, недостойни суще того видѣнья;</rdg></rdgGrp></app></p></div></body></text></TEI>

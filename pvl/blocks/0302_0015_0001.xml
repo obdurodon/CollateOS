@@ -1,89 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>15, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="15"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="15,1">Върахмане</w>
-<w n="15,1">и</w>
-<w n="15,1">Островици,</w>
-<w n="15,1">иже</w>
-<w n="15,1">отъ</w>
-<w n="15,1">прадѣдъ</w>
-<w n="15,1">показаниемь</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="15,1">вра<lb/>хмане</w>
-<w n="15,1">и</w>
-<w n="15,1">ѡстровьници.</w>
-<w n="15,1">ѥже</w>
-<w n="15,1">ѿ</w>
-<w n="15,1">прадѣдъ</w>
-<w n="15,1">пок<hi rend="sup">з</hi>а<hi rend="sup">а</hi>нь<lb/>емь.</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="15,1">върахме<hi rend="sup">х</hi></w>
-<w n="15,1">ѡстро<lb/>вници.</w>
-<w n="15,1">иже</w>
-<w n="15,1">ѿ</w>
-<w n="15,1">предѣлъ</w>
-<w n="15,1">показание<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="15,1">върахме<hi rend="sup">х</hi></w>
-<w n="15,1">ѡстро<lb/>внїци.</w>
-<w n="15,1">иже</w>
-<w n="15,1">ѿ</w>
-<w n="15,1">предѣлъ</w>
-<w n="15,1">показанїемь</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="15,1">върахмане.</w>
-<w n="15,1">и</w>
-<w n="15,1">ѡстрови<lb/><milestone unit="sic" n="start"/>ц<milestone unit="sic" n="end"/>и.</w>
-<w n="15,1">иже</w>
-<w n="15,1">ѿ</w>
-<w n="15,1">прадѣдъ</w>
-<w n="15,1"><milestone unit="sic" n="start"/>предѣлъ<milestone unit="sic" n="end"/></w>
-<w n="15,1">пока<lb/>заньемь</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="15,1">Врахмане</w>
-<w n="15,1">и</w>
-<w n="15,1">островьници,</w>
-<w n="15,1">еже</w>
-<w n="15,1">отъ</w>
-<w n="15,1">прадѣдъ</w>
-<w n="15,1">наказаньемъ</w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="15,1">Врахмане</w>
-<w n="15,1">и</w>
-<w n="15,1">Островьници,</w>
-<w n="15,1">еже</w>
-<w n="15,1">отъ</w>
-<w n="15,1">прадѣдъ</w>
-<w n="15,1">показаниемь</w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="15,1">врахманеи</w>
-<w n="15,1">островьници,</w>
-<w n="15,1">еже</w>
-<w n="15,1">от</w>
-<w n="15,1">прадѣдъ</w>
-<w n="15,1">показаньемъ</w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>15, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="15"/><div type="block" n="1"><p><app><lem wit="#lem">
+            Върахмане и Островици, иже отъ прадѣдъ показаниемь
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">вра<lb/>хмане и ѡстровьници. ѥже ѿ прадѣдъ
+                пок<hi rend="sup">з</hi>а<hi rend="sup">а</hi>нь<lb/>емь.</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">върахме<hi rend="sup">х</hi> ѡстро<lb/>вници. иже ѿ предѣлъ показание<hi rend="sup">м</hi></rdg>
+            <rdg wit="#aka">върахме<hi rend="sup">х</hi> ѡстро<lb/>внїци. иже ѿ предѣлъ показанїемь</rdg>
+            <rdg wit="#ipa">върахмане. и ѡстрови<lb/><sic>ц</sic>и. иже ѿ прадѣдъ
+                    <sic>предѣлъ</sic> пока<lb/>заньемь</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Врахмане и островьници, еже отъ прадѣдъ наказаньемъ
+            <add place="margin">14,2</add></rdg><rdg wit="#shakh">Врахмане и Островьници, еже отъ прадѣдъ показаниемь
+            <add place="margin">14,6</add></rdg><rdg wit="#likh">врахманеи островьници, еже от прадѣдъ показаньемъ
+            <add place="margin">15,22</add></rdg></rdgGrp></app></p></div></body></text></TEI>

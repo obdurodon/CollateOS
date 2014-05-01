@@ -1,104 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>109, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="109"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-<w n="109,4">объ</w>
-<w n="109,4">онъ</w>
-<w n="109,4">полъ</w>
-<w n="109,4">града</w>
-<w n="109,4">въ</w>
-<w n="109,4">лимени,</w>
-<w n="109,4">въдале</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="109,4">ѡб</w>
-<w n="109,4">онъ</w>
-<w n="109,4">полъ</w>
-<w n="109,4">города</w>
-<w n="109,4">в</w>
-<w n="109,4">лимени.</w>
-<w n="109,4">дали.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="109,4">ѡб</w>
-<w n="109,4">онъ</w>
-<w n="109,4">полъ</w>
-<w n="109,4">гра<hi rend="sup">д</hi></w>
-<w n="109,4">в</w>
-<w n="109,4">лиме<lb/>ни.</w>
-<w n="109,4">вдале</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="109,4">ѡб</w>
-<w n="109,4">онъ</w>
-<w n="109,4">гра<lb/>да</w>
-<w n="109,4">в</w>
-<w n="109,4">лименї.</w>
-<w n="109,4">вдале</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="109,4">ѡб</w>
-<w n="109,4">онъ</w>
-<w n="109,4">полъ</w>
-<w n="109,4">гра<hi rend="sup">д</hi></w>
-<w n="109,4">в</w>
-<w n="109,4">лимени.</w>
-<w n="109,4">вьда<lb/>ле</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="109,4">об</w>
-<w n="109,4">онъ</w>
-<w n="109,4">полъ</w>
-<w n="109,4">града</w>
-<w n="109,4">в</w>
-<w n="109,4">лименѣ</w>
-<w n="109,4">вдале</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="109,4">об</w>
-<w n="109,4">онъ</w>
-<w n="109,4">полъ</w>
-<w n="109,4">града</w>
-<w n="109,4">в</w>
-<w n="109,4">лименѣ</w>
-<w n="109,4">вдале</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="109,4">объ</w>
-<w n="109,4">онъ</w>
-<w n="109,4">полъ</w>
-<w n="109,4">города</w>
-<w n="109,4">в</w>
-<w n="109,4">лимени,</w>
-<w n="109,4">дали</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="109,4">объ</w>
-<w n="109,4">онъ</w>
-<w n="109,4">полъ</w>
-<w n="109,4">града</w>
-<w n="109,4">въ</w>
-<w n="109,4">лимени,</w>
-<w n="109,4">въдале</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="109,4">об</w>
-<w n="109,4">онъ</w>
-<w n="109,4">полъ</w>
-<w n="109,4">города</w>
-<w n="109,4">в</w>
-<w n="109,4">лимени,</w>
-<w n="109,4">дали</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>109, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="109"/><div type="block" n="4"><p><app><lem wit="#lem">
+            объ онъ полъ града въ лимени, въдале
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѡб онъ полъ города в лимени. дали.</rdg>
+            <rdg wit="#rad">ѡб онъ полъ гра<hi rend="sup">д</hi> в лиме<lb/>ни. вдале</rdg>
+            <rdg wit="#aka">ѡб онъ гра<lb/>да в лименї. вдале</rdg>
+            <rdg wit="#ipa">ѡб онъ полъ гра<hi rend="sup">д</hi> в лимени. вьда<lb/>ле</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">об онъ полъ града в лименѣ вдале</rdg>
+            <rdg wit="#tol">об онъ полъ града в лименѣ вдале</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">объ онъ полъ города в лимени, дали</rdg><rdg wit="#shakh">объ онъ полъ града въ лимени, въдале</rdg><rdg wit="#likh">об онъ полъ города в лимени, дали</rdg></rdgGrp></app></p></div></body></text></TEI>

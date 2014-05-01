@@ -1,77 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>257, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="257"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-<w n="257,2">Изяславль,</w>
-<w n="257,2">Володимирь</w>
-<w n="257,2">Вьсеволожь,</w>
-<w n="257,2">Давыдъ</w>
-<w n="257,2">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="257,2">и<lb/>зѧславль</w>
-<w n="257,2">володимерь</w>
-<w n="257,2">всеволо<lb/>жь·</w>
-<w n="257,2">дв҃дъ</w>
-<w n="257,2">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="257,2">изѧславль.</w>
-<w n="257,2">володимеръ. <lb/></w>
-
-<w n="257,2">всеволо<hi rend="sup">ж</hi>.</w>
-<w n="257,2">дв<hi rend="sup">д</hi>ъ.</w>
-<w n="257,2">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="257,2">изѧславль</w>
-<w n="257,2">володимеръ·</w>
-<w n="257,2">всеволожь· <lb/></w>
-
-<w n="257,2">двд҃ъ·</w>
-<w n="257,2">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="257,2">изѧславль·</w>
-<w n="257,2">володимеръ <lb/></w>
-
-<w n="257,2">всеволожь·</w>
-<w n="257,2">двд҃ъ</w>
-<w n="257,2">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="257,2">изѧславь.</w>
-<w n="257,2">вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>меръ,</w>
-<w n="257,2">все<lb/>волѡ<hi rend="sup">ж</hi>.</w>
-<w n="257,2">дв҃дь.</w>
-<w n="257,2">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="257,2">Изяславлю,</w>
-<w n="257,2">Володимерь</w>
-<w n="257,2">Всеволожю,</w>
-<w n="257,2">Давыдъ</w>
-<w n="257,2">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="257,2">Изяславль;</w>
-<w n="257,2">Володимерь</w>
-<w n="257,2">Вьсеволоже,</w>
-<w n="257,2">Давыдъ</w>
-<w n="257,2">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="257,2">Изяславлю,</w>
-<w n="257,2">Володимерь</w>
-<w n="257,2">Всеволожю,</w>
-<w n="257,2">Давыдъ</w>
-<w n="257,2">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>257, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="257"/><div type="block" n="2"><p><app><lem wit="#lem">
+            Изяславль, Володимирь Вьсеволожь, Давыдъ и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и<lb/>зѧславль володимерь всеволо<lb/>жь· дв҃дъ и</rdg>
+            <rdg wit="#rad">изѧславль. володимеръ. <lb/> всеволо<hi rend="sup">ж</hi>. дв<hi rend="sup">д</hi>ъ. и</rdg>
+            <rdg wit="#aka">изѧславль володимеръ· всеволожь· <lb/> двд҃ъ· и</rdg>
+            <rdg wit="#ipa">изѧславль· володимеръ <lb/> всеволожь· двд҃ъ и</rdg>
+            <rdg wit="#xle">изѧславь. вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>меръ, все<lb/>волѡ<hi rend="sup">ж</hi>. дв҃дь.
+                и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Изяславлю, Володимерь Всеволожю, Давыдъ и</rdg><rdg wit="#shakh">Изяславль; Володимерь Вьсеволоже, Давыдъ и</rdg><rdg wit="#likh">Изяславлю, Володимерь Всеволожю, Давыдъ и</rdg></rdgGrp></app></p></div></body></text></TEI>

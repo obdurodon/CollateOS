@@ -1,80 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>145, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="145"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="145,21">показание</w>
-<w n="145,21">къняземъ</w>
-<w n="145,21">Русьскымъ,</w>
-<w n="145,21">да</w>
-<w n="145,21">аще</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="145,21">наказанье</w>
-<w n="145,21">кнѧ<lb/>земъ</w>
-<w n="145,21">русьскы<hi rend="sup">м</hi>.</w>
-<w n="145,21">да</w>
-<w n="145,21">аще</w>
-<w n="145,21">сии</w>
-<w n="145,21">е<lb/>ще</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="145,21">наказание</w>
-<w n="145,21">кнз҃мъ</w>
-<w n="145,21">роу<hi rend="sup">с</hi>ки<hi rend="sup">м</hi>.</w>
-<w n="145,21">да</w>
-<w n="145,21">аще</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="145,21">наказанїе</w>
-<w n="145,21">кн҃земъ</w>
-<w n="145,21">рѹс<hi rend="sup">с</hi>кимъ.</w>
-<w n="145,21">да</w>
-<w n="145,21">аще</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="145,21">показание</w>
-<w n="145,21">кнѧземь</w>
-<w n="145,21">ру<lb/>скымъ.</w>
-<w n="145,21">да</w>
-<w n="145,21">аще</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="145,21">показа<lb/>нїе</w>
-<w n="145,21">кнѧѕе<hi rend="sup">м</hi></w>
-<w n="145,21">роускы<hi rend="sup">м</hi>.</w>
-<w n="145,21">да</w>
-<w n="145,21">аще</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="145,21">наказанье</w>
-<w n="145,21">княземъ</w>
-<w n="145,21">Русьскымъ,</w>
-<w n="145,21">да</w>
-<w n="145,21">аще</w>
-<w n="145,21">сии</w>
-<w n="145,21">еще</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="145,21">показание</w>
-<w n="145,21">къняземъ</w>
-<w n="145,21">Русьскымъ,</w>
-<w n="145,21">да</w>
-<w n="145,21">аще</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="145,21">наказанье</w>
-<w n="145,21">княземъ</w>
-<w n="145,21">русьскым,</w>
-<w n="145,21">да</w>
-<w n="145,21">аще</w>
-<w n="145,21">сии</w>
-<w n="145,21">еще</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>145, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="145"/><div type="block" n="21"><p><app><lem wit="#lem">
+            показание къняземъ Русьскымъ, да аще
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">наказанье кнѧ<lb/>земъ русьскы<hi rend="sup">м</hi>. да аще сии е<lb/>ще</rdg>
+            <rdg wit="#rad">наказание кнз҃мъ роу<hi rend="sup">с</hi>ки<hi rend="sup">м</hi>. да аще</rdg>
+            <rdg wit="#aka">наказанїе кн҃земъ рѹс<hi rend="sup">с</hi>кимъ. да аще</rdg>
+            <rdg wit="#ipa">показание кнѧземь ру<lb/>скымъ. да аще</rdg>
+            <rdg wit="#xle">показа<lb/>нїе кнѧѕе<hi rend="sup">м</hi> роускы<hi rend="sup">м</hi>. да аще</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">наказанье княземъ Русьскымъ, да аще сии еще</rdg><rdg wit="#shakh">показание къняземъ Русьскымъ, да аще</rdg><rdg wit="#likh">наказанье княземъ русьскым, да аще сии еще</rdg></rdgGrp></app></p></div></body></text></TEI>

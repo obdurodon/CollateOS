@@ -1,78 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="270"/><div type="block" n="27"><p>
-<app>
-<lem wit="#lem">
-<w n="270,27">сташа</w>
-<w n="270,27">около</w>
-<w n="270,27">Перемышля</w>
-<w n="270,27">по</w>
-<w n="270,27">Вягру,</w>
-<w n="270,27">а</w>
-<w n="270,27">Володарь</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="270,27">сташа</w>
-<w n="270,27">ѡколо</w>
-<w n="270,27">перемы<lb/>шлѧ</w>
-<w n="270,27">по</w>
-<w n="270,27">вагру·</w>
-<w n="270,27">а</w>
-<w n="270,27">володарь</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="270,27">сташа</w>
-<w n="270,27">ѡколо</w>
-<w n="270,27">пе<lb/>ремышлѧ</w>
-<w n="270,27">по</w>
-<w n="270,27">вѧгру·</w>
-<w n="270,27">а</w>
-<w n="270,27">волода<lb/>рь</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="270,27">сташа</w>
-<w n="270,27">около</w>
-<w n="270,27">пере<lb/>мышлѧ.</w>
-<w n="270,27">по</w>
-<w n="270,27">вѧгроу.</w>
-<w n="270,27">а</w>
-<w n="270,27">володаръ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="270,27">сташа</w>
-<w n="270,27">около</w>
-<w n="270,27">Перемышля</w>
-<w n="270,27">по</w>
-<w n="270,27">Вагру,</w>
-<w n="270,27">а</w>
-<w n="270,27">Володарь</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="270,27">сташа</w>
-<w n="270,27">около</w>
-<w n="270,27">Перемышля</w>
-<w n="270,27">по</w>
-<w n="270,27">Вягру,</w>
-<w n="270,27">а</w>
-<w n="270,27">Володарь</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="270,27">сташа</w>
-<w n="270,27">около</w>
-<w n="270,27">Перемышля</w>
-<w n="270,27">по</w>
-<w n="270,27">Вагру,</w>
-<w n="270,27">а</w>
-<w n="270,27">Володарь</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="270"/><div type="block" n="27"><p><app><lem wit="#lem">
+            сташа около Перемышля по Вягру, а Володарь
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">сташа ѡколо перемы<lb/>шлѧ по вагру· а володарь</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">сташа ѡколо пе<lb/>ремышлѧ по вѧгру· а волода<lb/>рь</rdg>
+            <rdg wit="#xle">сташа около пере<lb/>мышлѧ. по вѧгроу. а володаръ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">сташа около Перемышля по Вагру, а Володарь</rdg><rdg wit="#shakh">сташа около Перемышля по Вягру, а Володарь</rdg><rdg wit="#likh">сташа около Перемышля по Вагру, а Володарь</rdg></rdgGrp></app></p></div></body></text></TEI>

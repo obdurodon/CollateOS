@@ -1,110 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>29, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="29"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-<w n="29,6">Въ</w>
-<w n="29,6">лѣто 6410.</w>
-
-<w n="29,6">Леонъ</w>
-<w n="29,6">цьсарь</w>
-<w n="29,6">ная</w>
-<w n="29,6">Угъры</w>
-<w n="29,6">на</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="29,6">въ</w>
-<w n="29,6">лѣто 6409</w>
-
-<w n="29,6">леонъ</w>
-<w n="29,6">царь</w>
-<w n="29,6">ная</w>
-<w n="29,6">угры</w>
-<w n="29,6">на</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="29,6">В</w>
-<w n="29,6">лѣ<hi rend="sup">т</hi></w>
-<w n="29,6">҂ѕ҃</w>
-<w n="29,6">у҃.і҃. <lb/></w>
-
-<w n="29,6">И</w>
-<w n="29,6">леѡнъ</w>
-<w n="29,6">ц҃рь</w>
-<w n="29,6">наꙗ</w>
-<w n="29,6">оугры</w>
-<w n="29,6">на</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="29,6">В</w>
-<w n="29,6">лѣ<hi rend="sup">т</hi>.</w>
-<w n="29,6">҂ѕ҃.у҃і.</w>
-<w n="29,6">леѡнъ</w>
-<w n="29,6">ц҃рь</w>
-<w n="29,6">наꙗ</w>
-<w n="29,6">оугры</w>
-<w n="29,6">на</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="29,6">В</w>
-<w n="29,6">лѣто.</w>
-<w n="29,6">҂ѕ҃.у҃.і҃·:· <lb/></w>
-
-<w n="29,6">Леѡнъ</w>
-<w n="29,6">ц<hi rend="sup">с</hi>рь</w>
-<w n="29,6">наꙗ</w>
-<w n="29,6">оугры</w>
-<w n="29,6">на <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="29,6">В</w>
-<w n="29,6">лѣ<hi rend="sup">т</hi></w>
-<w n="29,6">҂ѕ҃.у҃</w>
-<w n="29,6">і҃.</w>
-<w n="29,6">Леѡнь</w>
-<w n="29,6">ц҃рь.</w>
-<w n="29,6">наѧ</w>
-<w n="29,6">оугры</w>
-<w n="29,6">на</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="29,6">В</w>
-<w n="29,6">лѣто 6410.</w>
-
-<w n="29,6">Леонъ</w>
-<w n="29,6">царь</w>
-<w n="29,6">ная</w>
-<w n="29,6">Угры</w>
-<w n="29,6">на</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="29,6">Въ</w>
-<w n="29,6">лѣто 6410.</w>
-
-<w n="29,6">Леонъ</w>
-<w n="29,6">цѣсарь</w>
-<w n="29,6">ная</w>
-<w n="29,6">Угъры</w>
-<w n="29,6">на</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="29,6">В</w>
-<w n="29,6">лѣто 6410.</w>
-
-<w n="29,6">Леон</w>
-<w n="29,6">царь</w>
-<w n="29,6">ная</w>
-<w n="29,6">угры</w>
-<w n="29,6">на</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>29, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="29"/><div type="block" n="6"><p><app><lem wit="#lem">
+            Въ лѣто 6410. Леонъ цьсарь ная Угъры на
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">въ лѣто 6409 леонъ царь ная угры на</rdg>
+            <rdg wit="#rad">В лѣ<hi rend="sup">т</hi> ҂ѕ҃ у҃.і҃. <lb/> И леѡнъ ц҃рь наꙗ оугры на</rdg>
+            <rdg wit="#aka">В лѣ<hi rend="sup">т</hi>. ҂ѕ҃.у҃і. леѡнъ ц҃рь наꙗ оугры на</rdg>
+            <rdg wit="#ipa">В лѣто. ҂ѕ҃.у҃.і҃·:· <lb/> Леѡнъ ц<hi rend="sup">с</hi>рь наꙗ оугры на <lb/></rdg>
+            <rdg wit="#xle">В лѣ<hi rend="sup">т</hi> ҂ѕ҃.у҃ і҃. Леѡнь ц҃рь. наѧ оугры на</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">В лѣто 6410. Леонъ царь ная Угры на</rdg><rdg wit="#shakh">Въ лѣто 6410. Леонъ цѣсарь ная Угъры на</rdg><rdg wit="#likh">В лѣто 6410. Леон царь ная угры на</rdg></rdgGrp></app></p></div></body></text></TEI>

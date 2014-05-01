@@ -1,38 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>131, 5x</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="131"/><div type="block" n="5x"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="131,5x">паче</w>
-<w n="131,5x">всего</w>
-<w n="131,5x">добрѣи <lb/></w>
-
-<w n="131,5x">млт<hi rend="sup">с</hi>и</w>
-<w n="131,5x">бо</w>
-<w n="131,5x">хощю</w>
-<w n="131,5x">а<hi rend="sup">н</hi><hi rend="sup">е</hi></w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="131,5x">паче</w>
-<w n="131,5x">вс<hi rend="sup">х</hi>ѣ</w>
-<w n="131,5x">добрѣи. <lb/></w>
-
-<w n="131,5x">мл<hi rend="sup">с</hi>тыни</w>
-<w n="131,5x">бо</w>
-<w n="131,5x">хощю</w>
-<w n="131,5x">ре<hi rend="sup">ч</hi></w>
-<w n="131,5x">а</w>
-<w n="131,5x">не</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>131, 5x</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="131"/><div type="block" n="5x"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">паче всего добрѣи <lb/> млт<hi rend="sup">с</hi>и бо хощю а<hi rend="sup">н</hi><hi rend="sup">е</hi></rdg>
+            <rdg wit="#xle">паче вс<hi rend="sup">х</hi>ѣ добрѣи. <lb/> мл<hi rend="sup">с</hi>тыни бо хощю ре<hi rend="sup">ч</hi> а
+                не</rdg>
+        </rdgGrp></app></p></div></body></text></TEI>

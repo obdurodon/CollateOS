@@ -1,106 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>15, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="15"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="15,9">паче</w>
-<w n="15,9">же</w>
-<w n="15,9">ядять</w>
-<w n="15,9">яко</w>
-<w n="15,9">пьси.</w>
-<w n="15,9">Етеръ</w>
-<w n="15,9">же</w>
-<w n="15,9">законъ</w>
-<w n="15,9">Халдѣемъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="15,9">паче</w>
-<w n="15,9">же</w>
-<w n="15,9">ꙗдѧть</w>
-<w n="15,9">ꙗко</w>
-<w n="15,9">пси.</w>
-<w n="15,9">етеръ</w>
-<w n="15,9">же</w>
-<w n="15,9">зак<hi rend="sup">о</hi><lb/>нъ</w>
-<w n="15,9">халдѣемъ</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="15,9">па<hi rend="sup">ч</hi></w>
-<w n="15,9">же</w>
-<w n="15,9">ꙗдѧть</w>
-<w n="15,9">ꙗко</w>
-<w n="15,9">пси.</w>
-<w n="15,9">етер</w>
-<w n="15,9">же</w>
-<w n="15,9">законъ</w>
-<w n="15,9">халдѣ<lb/>емъ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="15,9">паче</w>
-<w n="15,9">же</w>
-<w n="15,9">ꙗдѧтъ</w>
-<w n="15,9">ꙗко</w>
-<w n="15,9">пси.</w>
-<w n="15,9">етер</w>
-<w n="15,9">же <lb/></w>
-
-<w n="15,9">законъ</w>
-<w n="15,9">хал<hi rend="sup">д</hi>ѣемъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="15,9">паче</w>
-<w n="15,9">же</w>
-<w n="15,9">ꙗдѧть <lb/></w>
-
-<w n="15,9">ꙗко</w>
-<w n="15,9">пси.</w>
-<w n="15,9">етеръ</w>
-<w n="15,9">же</w>
-<w n="15,9">зако<lb/>нъ</w>
-<w n="15,9">халдѣемъ.</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="15,9">паче</w>
-<w n="15,9">же</w>
-<w n="15,9">ядять</w>
-<w n="15,9">яко</w>
-<w n="15,9">пси.</w>
-<w n="15,9">Етеръ</w>
-<w n="15,9">же</w>
-<w n="15,9">законъ</w>
-<w n="15,9">Халдѣемъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="15,9">паче</w>
-<w n="15,9">же</w>
-<w n="15,9">ядять,</w>
-<w n="15,9">яко</w>
-<w n="15,9">пьси.</w>
-<w n="15,9">Етеръ</w>
-<w n="15,9">же</w>
-<w n="15,9">законъ</w>
-<w n="15,9">Халдѣемъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="15,9">паче</w>
-<w n="15,9">же</w>
-<w n="15,9">ядять</w>
-<w n="15,9">яко</w>
-<w n="15,9">пси.</w>
-<w n="15,9">Етеръ</w>
-<w n="15,9">же</w>
-<w n="15,9">законъ</w>
-<w n="15,9">халдѣемъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>15, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="15"/><div type="block" n="9"><p><app><lem wit="#lem">
+            паче же ядять яко пьси. Етеръ же законъ Халдѣемъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">паче же ꙗдѧть ꙗко пси. етеръ же зак<hi rend="sup">о</hi><lb/>нъ халдѣемъ</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">па<hi rend="sup">ч</hi> же ꙗдѧть ꙗко пси. етер же законъ халдѣ<lb/>емъ.</rdg>
+            <rdg wit="#aka">паче же ꙗдѧтъ ꙗко пси. етер же <lb/> законъ хал<hi rend="sup">д</hi>ѣемъ</rdg>
+            <rdg wit="#ipa">паче же ꙗдѧть <lb/> ꙗко пси. етеръ же зако<lb/>нъ халдѣемъ.</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">паче же ядять яко пси. Етеръ же законъ Халдѣемъ</rdg><rdg wit="#shakh">паче же ядять, яко пьси. Етеръ же законъ Халдѣемъ</rdg><rdg wit="#likh">паче же ядять яко пси. Етеръ же законъ халдѣемъ</rdg></rdgGrp></app></p></div></body></text></TEI>

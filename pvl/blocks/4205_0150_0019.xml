@@ -1,83 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>150, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="150"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-<w n="150,19">стоячи</w>
-<w n="150,19">рукою</w>
-<w n="150,19">досячи.</w>
-<w n="150,19">Бѣ</w>
-<w n="150,19">же</w>
-<w n="150,19">Мьстиславъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="150,19">стоꙗ<lb/>ще</w>
-<w n="150,19">досѧщи.</w>
-<w n="150,19">бѣ</w>
-<w n="150,19">же</w>
-<w n="150,19">мьстиславъ. <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="150,19">стоꙗчи</w>
-<w n="150,19">рѹкою <lb/></w>
-
-<w n="150,19">досѧчи.</w>
-<w n="150,19">бѣ</w>
-<w n="150,19">же</w>
-<w n="150,19">мьстиславъ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="150,19">стоꙗчи.</w>
-<w n="150,19">рѹкою</w>
-<w n="150,19">досѧчи.</w>
-<w n="150,19">бѣ</w>
-<w n="150,19">же</w>
-<w n="150,19">мстиславъ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="150,19">стоꙗчи</w>
-<w n="150,19">рукою</w>
-<w n="150,19">до<lb/>сѧчи.</w>
-<w n="150,19">бѣ</w>
-<w n="150,19">же</w>
-<w n="150,19">мьстиславъ. <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="150,19">стоачи</w>
-<w n="150,19">рѫкою</w>
-<w n="150,19">досѧчи.</w>
-<w n="150,19">бѣ<hi rend="sup">ж</hi></w>
-<w n="150,19">мстисла<hi rend="sup">в</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="150,19">стояще</w>
-<w n="150,19">рукою</w>
-<w n="150,19">досящи.</w>
-<w n="150,19">Бѣ</w>
-<w n="150,19">же</w>
-<w n="150,19">Мьстиславъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="150,19">стоящю</w>
-<w n="150,19">досящи.</w>
-<w n="150,19">Бѣ</w>
-<w n="150,19">же</w>
-<w n="150,19">Мьстиславъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="150,19">стояще</w>
-<w n="150,19">рукою</w>
-<w n="150,19">досящи.</w>
-<w n="150,19">Бѣ</w>
-<w n="150,19">же</w>
-<w n="150,19">Мьстиславъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>150, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="150"/><div type="block" n="19"><p><app><lem wit="#lem">
+            стоячи рукою досячи. Бѣ же Мьстиславъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">стоꙗ<lb/>ще досѧщи. бѣ же мьстиславъ. <lb/></rdg>
+            <rdg wit="#rad">стоꙗчи рѹкою <lb/> досѧчи. бѣ же мьстиславъ.</rdg>
+            <rdg wit="#aka">стоꙗчи. рѹкою досѧчи. бѣ же мстиславъ.</rdg>
+            <rdg wit="#ipa">стоꙗчи рукою до<lb/>сѧчи. бѣ же мьстиславъ. <lb/></rdg>
+            <rdg wit="#xle">стоачи рѫкою досѧчи. бѣ<hi rend="sup">ж</hi> мстисла<hi rend="sup">в</hi>
+                </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">стояще рукою досящи. Бѣ же Мьстиславъ</rdg><rdg wit="#shakh">стоящю досящи. Бѣ же Мьстиславъ</rdg><rdg wit="#likh">стояще рукою досящи. Бѣ же Мьстиславъ</rdg></rdgGrp></app></p></div></body></text></TEI>

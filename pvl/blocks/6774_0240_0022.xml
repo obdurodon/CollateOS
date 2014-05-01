@@ -1,64 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>240, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="240"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="240,22">инъдикта 4</w>
-
-<w n="240,22">на</w>
-<w n="240,22">полы.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="240,22">индикта</w>
-<w n="240,22">·д҃·</w>
-<w n="240,22">на</w>
-<w n="240,22">полы·:· <pb n="86d,19"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="240,22">нти<hi rend="sup">д</hi>.</w>
-<w n="240,22">д҃</w>
-<w n="240,22">на</w>
-<w n="240,22">полы. <pb n="138r"/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="240,22">инь<hi rend="sup">д</hi>·</w>
-<w n="240,22">·д҃·</w>
-<w n="240,22">на</w>
-<w n="240,22">полы·̏·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="240,22">инь<lb/>дикта</w>
-<w n="240,22">·д҃·</w>
-<w n="240,22">на</w>
-<w n="240,22">полы· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="240,22">индикта 4</w>
-
-<w n="240,22">на</w>
-<w n="240,22">полы.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="240,22">инъдикта 4</w>
-
-<w n="240,22">на</w>
-<w n="240,22">полы.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="240,22">индикта 4</w>
-
-<w n="240,22">на</w>
-<w n="240,22">полы.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>240, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="240"/><div type="block" n="22"><p><app><lem wit="#lem">
+            инъдикта 4 на полы.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">индикта ·д҃· на полы·:· <pb n="86d,19"/></rdg>
+            <rdg wit="#rad">нти<hi rend="sup">д</hi>. д҃ на полы. <pb n="138r"/></rdg>
+            <rdg wit="#aka">инь<hi rend="sup">д</hi>· ·д҃· на полы·̏·</rdg>
+            <rdg wit="#ipa">инь<lb/>дикта ·д҃· на полы· <lb/></rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">индикта 4 на полы.</rdg><rdg wit="#shakh">инъдикта 4 на полы.</rdg><rdg wit="#likh">индикта 4 на полы.</rdg></rdgGrp></app></p></div></body></text></TEI>

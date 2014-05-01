@@ -1,102 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>187, 32</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="187"/><div type="block" n="32"><p>
-<app>
-<lem wit="#lem">
-<w n="187,32">вѣжьте,</w>
-<w n="187,32">яко</w>
-<w n="187,32">приялъ</w>
-<w n="187,32">мя</w>
-<w n="187,32">есть</w>
-<w n="187,32">Богъ.</w>
-<w n="187,32">Аще</w>
-<w n="187,32">ли,</w>
-<w n="187,32">по</w>
-<w n="187,32">моеи</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="187,32">вѣжьте</w>
-<w n="187,32">ꙗко</w>
-<w n="187,32">приꙗл</w>
-<w n="187,32">мѧ</w>
-<w n="187,32">есть <lb/></w>
-
-<w n="187,32">б҃ъ.</w>
-<w n="187,32">аще</w>
-<w n="187,32">ли</w>
-<w n="187,32">по</w>
-<w n="187,32">моеи</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="187,32">вѣжьте</w>
-<w n="187,32">ꙗко <lb/></w>
-
-<w n="187,32">приꙗлъ</w>
-<w n="187,32">мѧ</w>
-<w n="187,32">есть</w>
-<w n="187,32">б҃ъ.</w>
-<w n="187,32">аще</w>
-<w n="187,32">ли</w>
-<w n="187,32">по</w>
-<w n="187,32">моемь <pb n="69c"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="187,32">вѣдаите</w>
-<w n="187,32">я<hi rend="sup">к</hi><lb/></w>
-<w n="187,32">прїаль</w>
-<w n="187,32">мѧ</w>
-<w n="187,32">е<hi rend="sup">с</hi></w>
-<w n="187,32">б҃ъ.</w>
-<w n="187,32">аще</w>
-<w n="187,32">ли</w>
-<w n="187,32">по</w>
-<w n="187,32">мое<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="187,32">вѣжьте,</w>
-<w n="187,32">яко</w>
-<w n="187,32">приялъ</w>
-<w n="187,32">мя</w>
-<w n="187,32">есть</w>
-<w n="187,32">Богъ;</w>
-<w n="187,32">аще</w>
-<w n="187,32">ли,</w>
-<w n="187,32">по</w>
-<w n="187,32">моей</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="187,32">вѣжьте,</w>
-<w n="187,32">яко</w>
-<w n="187,32">приялъ</w>
-<w n="187,32">мя</w>
-<w n="187,32">есть</w>
-<w n="187,32">Богъ;</w>
-<w n="187,32">аще</w>
-<w n="187,32">ли,</w>
-<w n="187,32">по</w>
-<w n="187,32">моеи</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="187,32">вѣжьте,</w>
-<w n="187,32">яко</w>
-<w n="187,32">приял</w>
-<w n="187,32">мя</w>
-<w n="187,32">есть</w>
-<w n="187,32">богъ.</w>
-<w n="187,32">Аще</w>
-<w n="187,32">ли,</w>
-<w n="187,32">по</w>
-<w n="187,32">моей</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>187, 32</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="187"/><div type="block" n="32"><p><app><lem wit="#lem">
+            вѣжьте, яко приялъ мя есть Богъ. Аще ли, по моеи
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">вѣжьте ꙗко приꙗл мѧ есть <lb/> б҃ъ. аще ли по моеи</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">вѣжьте ꙗко <lb/> приꙗлъ мѧ есть б҃ъ. аще ли  по моемь
+                <pb n="69c"/></rdg>
+            <rdg wit="#xle">вѣдаите ꙗ<hi rend="sup">к</hi>
+                <lb/> прїаль мѧ е<hi rend="sup">с</hi> б҃ъ. аще ли по мое<hi rend="sup">м</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">вѣжьте, яко приялъ мя есть Богъ; аще ли, по моей</rdg><rdg wit="#shakh">вѣжьте, яко приялъ мя есть Богъ; аще ли, по моеи</rdg><rdg wit="#likh">вѣжьте, яко приял мя есть богъ. Аще ли, по моей</rdg></rdgGrp></app></p></div></body></text></TEI>

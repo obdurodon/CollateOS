@@ -1,69 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>193, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="193"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="193,23">възлюби</w>
-<w n="193,23">Болъдины</w>
-<w n="193,23">горы;</w>
-<w n="193,23">ископавъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="193,23">възлюби</w>
-<w n="193,23">болдины</w>
-<w n="193,23">горы.</w>
-<w n="193,23">иско<lb/>павъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="193,23">возлюби <lb/></w>
-
-<w n="193,23">болдинѹ</w>
-<w n="193,23">гороу.</w>
-<w n="193,23">ископавъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="193,23">възлюби</w>
-<w n="193,23">бо<lb/>алдинѹ</w>
-<w n="193,23">горѹ.</w>
-<w n="193,23">ископавъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="193,23">вьзлюби</w>
-<w n="193,23">болъди<lb/>ну</w>
-<w n="193,23">гору.</w>
-<w n="193,23">и</w>
-<w n="193,23">ископавъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="193,23">възлюби</w>
-<w n="193,23">болдиноу</w>
-<w n="193,23">гороу.</w>
-<w n="193,23">и</w>
-<w n="193,23">ископавь</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="193,23">възлюби</w>
-<w n="193,23">Болдины</w>
-<w n="193,23">горы,</w>
-<w n="193,23">ископавъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="193,23">възлюби</w>
-<w n="193,23">Болъдины</w>
-<w n="193,23">горы,</w>
-<w n="193,23">и</w>
-<w n="193,23">ископавъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="193,23">възлюби</w>
-<w n="193,23">Болдины</w>
-<w n="193,23">горы;</w>
-<w n="193,23">ископавъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>193, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="193"/><div type="block" n="23"><p><app><lem wit="#lem">
+            възлюби Болъдины горы; ископавъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">възлюби болдины горы. иско<lb/>павъ</rdg>
+            <rdg wit="#rad">возлюби <lb/> болдинѹ гороу. ископавъ</rdg>
+            <rdg wit="#aka">възлюби бо<lb/>алдинѹ горѹ. ископавъ</rdg>
+            <rdg wit="#ipa">вьзлюби болъди<lb/>ну гору. и ископавъ</rdg>
+            <rdg wit="#xle">възлюби болдиноу гороу. и ископавь</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">възлюби Болдины горы, ископавъ</rdg><rdg wit="#shakh">възлюби Болъдины горы, и ископавъ</rdg><rdg wit="#likh">възлюби Болдины горы; ископавъ</rdg></rdgGrp></app></p></div></body></text></TEI>

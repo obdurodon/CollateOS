@@ -1,82 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>223, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="223"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-<w n="223,10">бывають,</w>
-<w n="223,10">друзии</w>
-<w n="223,10">на</w>
-<w n="223,10">мьсть</w>
-<w n="223,10">даеми</w>
-<w n="223,10">бывають,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="223,10">бывають·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="223,10">бывають·</w>
-<w n="223,10">дроузи<lb/>и</w>
-<w n="223,10">на</w>
-<w n="223,10">месть</w>
-<w n="223,10">даеми</w>
-<w n="223,10">бываю<hi rend="sup">т</hi>.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="223,10">бы·̏ваю<hi rend="sup">т</hi>· <lb/></w>
-
-<w n="223,10">дрѹзїи</w>
-<w n="223,10">на</w>
-<w n="223,10">месть</w>
-<w n="223,10">даеми</w>
-<w n="223,10">бы·̏ваютъ·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="223,10">бывають·</w>
-<w n="223,10">друзии</w>
-<w n="223,10">на</w>
-<w n="223,10">месть</w>
-<w n="223,10">да<lb/>еми</w>
-<w n="223,10">бывають·</w>
-<w n="223,10">ї</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="223,10">бывают.</w>
-<w n="223,10">дроуѕїи</w>
-<w n="223,10">на</w>
-<w n="223,10">месть <lb/></w>
-
-<w n="223,10">даеми</w>
-<w n="223,10">бываю<hi rend="sup">т</hi>.</w>
-<w n="223,10">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="223,10">бывають,</w>
-<w n="223,10">друзии</w>
-<w n="223,10">на</w>
-<w n="223,10">месть</w>
-<w n="223,10">даеми</w>
-<w n="223,10">бывають,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="223,10">бывають,</w>
-<w n="223,10">друзии</w>
-<w n="223,10">на</w>
-<w n="223,10">мьсть</w>
-<w n="223,10">даеми</w>
-<w n="223,10">бывають,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="223,10">бывають,</w>
-<w n="223,10">друзии</w>
-<w n="223,10">на</w>
-<w n="223,10">месть</w>
-<w n="223,10">даеми</w>
-<w n="223,10">бывають,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>223, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="223"/><div type="block" n="10"><p><app><lem wit="#lem">
+            бывають, друзии на мьсть даеми бывають,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">бывають·</rdg>
+            <rdg wit="#rad">бывають· дроузи<lb/>и на месть даеми бываю<hi rend="sup">т</hi>.</rdg>
+            <rdg wit="#aka">бы·̏ваю<hi rend="sup">т</hi>· <lb/> дрѹзїи на месть даеми бы·̏ваютъ·</rdg>
+            <rdg wit="#ipa">бывають· друзии на месть да<lb/>еми бывають· ї</rdg>
+            <rdg wit="#xle">бывают. дроуѕїи на месть <lb/> даеми бываю<hi rend="sup">т</hi>. и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">бывають, друзии на месть даеми бывають,</rdg><rdg wit="#shakh">бывають, друзии на мьсть даеми бывають,</rdg><rdg wit="#likh">бывають, друзии на месть даеми бывають,</rdg></rdgGrp></app></p></div></body></text></TEI>

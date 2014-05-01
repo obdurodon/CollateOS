@@ -1,95 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="11"><p>
-<app>
-<lem wit="#lem">
-<w n="18,11">отъ</w>
-<w n="18,11">пьрваго</w>
-<w n="18,11">лѣта</w>
-<w n="18,11">Михаила</w>
-<w n="18,11">сего</w>
-<w n="18,11">до</w>
-<w n="18,11">пьрваго</w>
-<w n="18,11">лѣта</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="18,11">ѿ</w>
-<w n="18,11">перваго</w>
-<w n="18,11">лѣта</w>
-<w n="18,11">михаилова. <lb/></w>
-
-<w n="18,11">до</w>
-<w n="18,11">перваго</w>
-<w n="18,11">лѣ<hi rend="sup">т</hi></w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-<w n="18,11">перваго</w>
-<w n="18,11">лѣта</w>
-<w n="18,11">михаила</w>
-<w n="18,11">сего.</w>
-<w n="18,11">до</w>
-<w n="18,11">.а҃. <lb/></w>
-
-<w n="18,11">го</w>
-<w n="18,11">лѣта</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="18,11">ѿ</w>
-<w n="18,11">пѣрь<lb/>ваго</w>
-<w n="18,11">лѣта</w>
-<w n="18,11">м<milestone unit="sic" n="start"/>и<milestone unit="sic" n="end"/>хаила</w>
-<w n="18,11">сего. <lb/></w>
-
-<w n="18,11">до</w>
-<w n="18,11">пѣрваго</w>
-<w n="18,11">лѣ<hi rend="sup">т</hi></w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="18,11">ѿ</w>
-<w n="18,11">пръваго</w>
-<w n="18,11">лѣта</w>
-<w n="18,11">михаила</w>
-<w n="18,11">сего.</w>
-<w n="18,11">до</w>
-<w n="18,11">пръ<lb/>ваго</w>
-<w n="18,11">лѣта</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="18,11">отъ</w>
-<w n="18,11">перваго</w>
-<w n="18,11">лѣта</w>
-<w n="18,11">Михаилова</w>
-<w n="18,11">до</w>
-<w n="18,11">перваго</w>
-<w n="18,11">лѣта</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="18,11">отъ</w>
-<w n="18,11">пьрваго</w>
-<w n="18,11">лѣта</w>
-<w n="18,11">Михаилова</w>
-<w n="18,11">до</w>
-<w n="18,11">пьрваго</w>
-<w n="18,11">лѣта</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="18,11">от</w>
-<w n="18,11">перваго</w>
-<w n="18,11">лѣта</w>
-<w n="18,11">Михаилова</w>
-<w n="18,11">до</w>
-<w n="18,11">перваго</w>
-<w n="18,11">лѣта</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="11"><p><app><lem wit="#lem">
+            отъ пьрваго лѣта Михаила сего до пьрваго лѣта
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѿ перваго лѣта михаилова. <lb/> до перваго лѣ<hi rend="sup">т</hi></rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">перваго лѣта михаила сего. до .а҃. <lb/> го лѣта</rdg>
+            <rdg wit="#ipa">ѿ пѣрь<lb/>ваго лѣта м<sic>и</sic>хаила сего. <lb/> до пѣрваго
+                    лѣ<hi rend="sup">т</hi></rdg>
+            <rdg wit="#xle">ѿ пръваго лѣта михаила сего. до пръ<lb/>ваго лѣта</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">отъ перваго лѣта Михаилова до перваго лѣта</rdg><rdg wit="#shakh">отъ пьрваго лѣта Михаилова до пьрваго лѣта</rdg><rdg wit="#likh">от перваго лѣта Михаилова до перваго лѣта</rdg></rdgGrp></app></p></div></body></text></TEI>

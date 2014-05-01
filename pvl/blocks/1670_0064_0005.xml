@@ -1,106 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>64, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="64"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="64,5">суть.</w>
-<w n="64,5">Не</w>
-<w n="64,5">обличаи</w>
-<w n="64,5">зълыхъ,</w>
-<w n="64,5">да</w>
-<w n="64,5">не</w>
-<w n="64,5">възненавидять</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="64,5">суть.</w>
-<w n="64,5">не</w>
-<w n="64,5">ѡ<milestone unit="sic" n="start"/>бычаи</w>
-<w n="64,5">злыхъ</w>
-<w n="64,5">да</w>
-<w n="64,5"><hi rend="sup">н</hi><hi rend="sup">е</hi><milestone unit="sic" n="end"/></w>
-<w n="64,5">възненав<hi rend="sup">и</hi><lb/>дить</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="64,5">емоу. <lb/></w>
-
-<w n="64,5">не</w>
-<w n="64,5">ѡбличаи</w>
-<w n="64,5">злы<hi rend="sup">х</hi></w>
-<w n="64,5">да</w>
-<w n="64,5">не</w>
-<w n="64,5">воз<hi rend="sup">н</hi>н<hi rend="sup">е</hi>а<milestone unit="sic" n="start"/>в<milestone unit="sic" n="end"/>иди<hi rend="sup">т</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="64,5">емѹ.</w>
-<w n="64,5">не</w>
-<w n="64,5">ѡбличаи</w>
-<w n="64,5">ѕлыхъ</w>
-<w n="64,5">да</w>
-<w n="64,5">не</w>
-<w n="64,5">во<lb/>зненавидить</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="64,5">суть.</w>
-<w n="64,5">не</w>
-<w n="64,5">ѡбличаи</w>
-<w n="64,5">злыхъ.</w>
-<w n="64,5">да <lb/></w>
-
-<w n="64,5">не</w>
-<w n="64,5">възненавидидѧть</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="64,5">сѫ<hi rend="sup">т</hi>.</w>
-<w n="64,5">не</w>
-<w n="64,5">обличаи</w>
-<w n="64,5">ѕлы<hi rend="sup">х</hi></w>
-<w n="64,5">да</w>
-<w n="64,5">не</w>
-<w n="64,5">възненавидѧ<hi rend="sup">т</hi></w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="64,5">злыхъ</w>
-<w n="64,5">да</w>
-<w n="64,5">възненавидит</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="64,5">злыхъ</w>
-<w n="64,5">да</w>
-<w n="64,5">възненавидит</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="64,5">суть;</w>
-<w n="64,5">не</w>
-<w n="64,5">обличай</w>
-<w n="64,5">злыхъ,</w>
-<w n="64,5">да</w>
-<w n="64,5">не</w>
-<w n="64,5">възненавидять</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="64,5">суть.</w>
-<w n="64,5">Не</w>
-<w n="64,5">обличаи</w>
-<w n="64,5">зълыхъ,</w>
-<w n="64,5">да</w>
-<w n="64,5">не</w>
-<w n="64,5">възненавидять</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="64,5">суть.</w>
-<w n="64,5">Не</w>
-<w n="64,5">обличай</w>
-<w n="64,5">злыхъ,</w>
-<w n="64,5">да</w>
-<w n="64,5">не</w>
-<w n="64,5">възненавидять</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>64, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="64"/><div type="block" n="5"><p><app><lem wit="#lem">
+            суть. Не обличаи зълыхъ, да не възненавидять
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">суть. не ѡ<sic>бычаи злыхъ да <hi rend="sup">н</hi><hi rend="sup">е</hi></sic>
+                    възненав<hi rend="sup">и</hi><lb/>дить</rdg>
+            <rdg wit="#rad">емоу. <lb/> не ѡбличаи злы<hi rend="sup">х</hi> да не
+                    воз<hi rend="sup">н</hi>н<hi rend="sup">е</hi>а<sic>в</sic>иди<hi rend="sup">т</hi></rdg>
+            <rdg wit="#aka">емѹ. не ѡбличаи ѕлыхъ да не во<lb/>зненавидить</rdg>
+            <rdg wit="#ipa">суть. не ѡбличаи злыхъ. да <lb/> не възненавидидѧть</rdg>
+            <rdg wit="#xle">сѫ<hi rend="sup">т</hi>. не обличаи ѕлы<hi rend="sup">х</hi> да не възненавидѧ<hi rend="sup">т</hi></rdg>
+            <rdg wit="#kom">злыхъ да възненавидит</rdg>
+            <rdg wit="#tol">злыхъ да възненавидит</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">суть; не обличай злыхъ, да не възненавидять</rdg><rdg wit="#shakh">суть. Не обличаи зълыхъ, да не възненавидять</rdg><rdg wit="#likh">суть. Не обличай злыхъ, да не възненавидять</rdg></rdgGrp></app></p></div></body></text></TEI>

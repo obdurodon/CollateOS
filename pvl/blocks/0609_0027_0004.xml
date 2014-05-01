@@ -1,76 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>27, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="27"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-<w n="27,4">писмена</w>
-<w n="27,4">азъбукъвьная</w>
-<w n="27,4">Словѣньскы,</w>
-<w n="27,4">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="27,4">писмена.</w>
-<w n="27,4">аз<milestone unit="sic" n="start"/>ъ<milestone unit="sic" n="end"/>буковьнаꙗ</w>
-<w n="27,4">словѣньски.</w>
-<w n="27,4">и <pb n="9v"/></w>
-
-</rdg>
-
-<rdg wit="#tro">
-<w n="27,4">азъбуки</w>
-<w n="27,4">писания</w>
-<w n="27,4">истолкованья</w>
-<w n="27,4">словѣньскы</w>
-<w n="27,4">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="27,4">писмена.</w>
-<w n="27,4">азбуковнаа.</w>
-<w n="27,4">сло<lb/>веньскы.</w>
-<w n="27,4">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="27,4">писмена</w>
-<w n="27,4">азбоуковнаа.</w>
-<w n="27,4">словѣньскы. <lb/></w>
-
-<w n="27,4">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="27,4">пи<lb/>смена.</w>
-<w n="27,4">азъбѹковна<lb/>ꙗ</w>
-<w n="27,4">словеньскы.</w>
-<w n="27,4">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="27,4">писмена.</w>
-<w n="27,4">азбоуковнаѧ <lb/></w>
-
-<w n="27,4">слѡвенскы.</w>
-<w n="27,4">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="27,4">писмена</w>
-<w n="27,4">азъбуковьная</w>
-<w n="27,4">Словѣньски,</w>
-<w n="27,4">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="27,4">писмена</w>
-<w n="27,4">азъбукъвьная</w>
-<w n="27,4">Словѣньскы,</w>
-<w n="27,4">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="27,4">писмена</w>
-<w n="27,4">азъбуковьная</w>
-<w n="27,4">словѣньски,</w>
-<w n="27,4">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>27, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="27"/><div type="block" n="4"><p><app><lem wit="#lem">
+            писмена азъбукъвьная Словѣньскы, и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">писмена. аз<sic>ъ</sic>буковьнаꙗ словѣньски. и
+                <pb n="9v"/></rdg>
+            <rdg wit="#tro">азъбуки писания истолкованья словѣньскы и</rdg>
+            <rdg wit="#rad">писмена. азбуковнаа. сло<lb/>веньскы. и</rdg>
+            <rdg wit="#aka">писмена азбоуковнаа. словѣньскы. <lb/> и</rdg>
+            <rdg wit="#ipa">пи<lb/>смена. азъбѹковна<lb/>ꙗ словеньскы. и</rdg>
+            <rdg wit="#xle">писмена. азбоуковнаѧ <lb/> слѡвенскы. и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">писмена азъбуковьная Словѣньски, и</rdg><rdg wit="#shakh">писмена азъбукъвьная Словѣньскы, и</rdg><rdg wit="#likh">писмена азъбуковьная словѣньски, и</rdg></rdgGrp></app></p></div></body></text></TEI>

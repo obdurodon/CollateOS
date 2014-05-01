@@ -1,84 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>5, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="5"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-<w n="5,19">сынове</w>
-<w n="5,19">полудьньныя</w>
-<w n="5,19">страны.</w>
-<w n="5,19">Афетови</w>
-<w n="5,19">же</w>
-<w n="5,19">сынове</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="5,19">сн҃ве</w>
-<w n="5,19">п<hi rend="sup">о</hi><lb/>луденьныꙗ</w>
-<w n="5,19">страны.</w>
-<w n="5,19">афетови</w>
-<w n="5,19">же</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="5,19">сн҃ве</w>
-<w n="5,19">полоудн҃ыа <lb/></w>
-
-<w n="5,19">страны</w>
-<w n="5,19">афетови<hi rend="sup">ж</hi></w>
-<w n="5,19">сн҃ве</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="5,19">сн҃ве</w>
-<w n="5,19">полѹ<lb/>денныа</w>
-<w n="5,19">страны.</w>
-<w n="5,19">афетови</w>
-<w n="5,19">же</w>
-<w n="5,19">сн҃ве</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="5,19">сн҃ве</w>
-<w n="5,19">полу<milestone unit="sic" n="start"/>-<milestone unit="sic" n="end"/>ныꙗ</w>
-<w n="5,19">страны]</w>
-<w n="5,19">афетови</w>
-<w n="5,19">же</w>
-<w n="5,19">сн҃ве <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="5,19">сн҃ве <lb/></w>
-
-<w n="5,19">полоуде<hi rend="sup">н</hi>ныа</w>
-<w n="5,19">страны.</w>
-<w n="5,19">афетови</w>
-<w n="5,19">же</w>
-<w n="5,19">сн҃ове</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="5,19">сынове</w>
-<w n="5,19">полуденьныя</w>
-<w n="5,19">страны,</w>
-<w n="5,19">Афетови</w>
-<w n="5,19">же</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="5,19">сынове</w>
-<w n="5,19">полудьньныя</w>
-<w n="5,19">страны,</w>
-<w n="5,19">Афетови</w>
-<w n="5,19">же</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="5,19">сынове</w>
-<w n="5,19">полуденьныя</w>
-<w n="5,19">страны.</w>
-<w n="5,19">Афетови</w>
-<w n="5,19">же</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>5, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="5"/><div type="block" n="19"><p><app><lem wit="#lem">
+            сынове полудьньныя страны. Афетови же сынове
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">сн҃ве п<hi rend="sup">о</hi><lb/>луденьныꙗ страны. афетови же</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">сн҃ве полоудн҃ыа <lb/> страны афетови<hi rend="sup">ж</hi> сн҃ве</rdg>
+            <rdg wit="#aka">сн҃ве полѹ<lb/>денныа страны. афетови же сн҃ве</rdg>
+            <rdg wit="#ipa">сн҃ве полу<sic>-</sic>ныꙗ страны] афетови же сн҃ве <lb/></rdg>
+            <rdg wit="#xle">сн҃ве <lb/> полоуде<hi rend="sup">н</hi>ныа страны. афетови же сн҃ове</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">сынове полуденьныя страны, Афетови же</rdg><rdg wit="#shakh">сынове полудьньныя страны, Афетови же</rdg><rdg wit="#likh">сынове полуденьныя страны. Афетови же</rdg></rdgGrp></app></p></div></body></text></TEI>

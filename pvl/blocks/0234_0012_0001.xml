@@ -1,81 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>12, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="12"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="12,1">и</w>
-<w n="12,1">примучиша</w>
-<w n="12,1">Дулѣбы,</w>
-<w n="12,1">сущая</w>
-<w n="12,1">Словѣны,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="12,1">и</w>
-<w n="12,1">примучиша</w>
-<w n="12,1">дулѣбы.</w>
-<w n="12,1">сущаꙗ</w>
-<w n="12,1">словѣны.<lb/></w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="12,1">и</w>
-<w n="12,1">примучиша</w>
-<w n="12,1">дулѣбы</w>
-<w n="12,1">суща</w>
-<w n="12,1">въ</w>
-<w n="12,1">словѣнехъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="12,1">и</w>
-<w n="12,1">примоучи<lb/>ша</w>
-<w n="12,1">доулѣбы</w>
-<w n="12,1">соущаꙗ</w>
-<w n="12,1">словены.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="12,1">и</w>
-<w n="12,1">примѹчиша</w>
-<w n="12,1">дѹлѣбы</w>
-<w n="12,1">сѹщаа</w>
-<w n="12,1">словѣны.<lb/></w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="12,1">и</w>
-<w n="12,1">примучиша</w>
-<w n="12,1">дулѣбы</w>
-<w n="12,1">су<lb/>щаꙗ</w>
-<w n="12,1">словѣны.</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="12,1">и</w>
-<w n="12,1">примучиша</w>
-<w n="12,1">Дулѣбы,</w>
-<w n="12,1">сущая</w>
-<w n="12,1">Словѣны, <pb n="11,3"/></w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="12,1">и</w>
-<w n="12,1">примучиша</w>
-<w n="12,1">Дулѣбы,</w>
-<w n="12,1">сущая</w>
-<w n="12,1">Словѣны, <pb n="11,9"/></w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="12,1">и</w>
-<w n="12,1">примучиша</w>
-<w n="12,1">дулѣбы,</w>
-<w n="12,1">сущая</w>
-<w n="12,1">словѣны, <pb n="14,8"/></w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>12, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="12"/><div type="block" n="1"><p><app><lem wit="#lem">
+            и примучиша Дулѣбы, сущая Словѣны,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и примучиша дулѣбы. сущаꙗ словѣны.<lb/></rdg>
+            <rdg wit="#tro">и примучиша дулѣбы суща въ словѣнехъ</rdg>
+            <rdg wit="#rad">и примоучи<lb/>ша доулѣбы соущаꙗ словены.</rdg>
+            <rdg wit="#aka">и примѹчиша дѹлѣбы сѹщаа словѣны.<lb/></rdg>
+            <rdg wit="#ipa">и примучиша дулѣбы су<lb/>щаꙗ словѣны.</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и примучиша Дулѣбы, сущая Словѣны, <pb n="11,3"/></rdg><rdg wit="#shakh">и примучиша Дулѣбы, сущая Словѣны, <pb n="11,9"/></rdg><rdg wit="#likh">и примучиша дулѣбы, сущая словѣны, <pb n="14,8"/></rdg></rdgGrp></app></p></div></body></text></TEI>

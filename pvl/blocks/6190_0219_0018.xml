@@ -1,79 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>219, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="219"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="219,18">и</w>
-<w n="219,18">Ростиславъ</w>
-<w n="219,18">съзъваша</w>
-<w n="219,18">дружину</w>
-<w n="219,18">свою</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="219,18">и</w>
-<w n="219,18">ростиславъ <lb/></w>
-
-<w n="219,18">созваша</w>
-<w n="219,18">дружину</w>
-<w n="219,18">свою</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="219,18">и</w>
-<w n="219,18">росла<lb/>въ·</w>
-<w n="219,18">и</w>
-<w n="219,18">созваша</w>
-<w n="219,18">дроужиноу</w>
-<w n="219,18">свою·</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="219,18">и</w>
-<w n="219,18">ростиславъ· <lb/></w>
-
-<w n="219,18">созваша</w>
-<w n="219,18">дрѹжинѹ</w>
-<w n="219,18">свою</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="219,18">и</w>
-<w n="219,18">рости<lb/>славъ·</w>
-<w n="219,18">съзваша</w>
-<w n="219,18">дружину <lb/></w>
-
-<w n="219,18">свою</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="219,18">и</w>
-<w n="219,18">ростиславь.</w>
-<w n="219,18">съзваша <lb/></w>
-
-<w n="219,18">дроужиноу</w>
-<w n="219,18">свою</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="219,18">и</w>
-<w n="219,18">Ростиславъ</w>
-<w n="219,18">созваша</w>
-<w n="219,18">дружину</w>
-<w n="219,18">свою</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="219,18">и</w>
-<w n="219,18">Ростиславъ</w>
-<w n="219,18">съзъваша</w>
-<w n="219,18">дружину</w>
-<w n="219,18">свою</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="219,18">и</w>
-<w n="219,18">Ростиславъ</w>
-<w n="219,18">созваша</w>
-<w n="219,18">дружину</w>
-<w n="219,18">свою</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>219, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="219"/><div type="block" n="18"><p><app><lem wit="#lem">
+            и Ростиславъ съзъваша дружину свою
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и ростиславъ <lb/> созваша дружину свою</rdg>
+            <rdg wit="#rad">и росла<lb/>въ· и созваша дроужиноу свою·</rdg>
+            <rdg wit="#aka">и ростиславъ· <lb/> созваша дрѹжинѹ свою</rdg>
+            <rdg wit="#ipa">и рости<lb/>славъ· съзваша дружину <lb/> свою</rdg>
+            <rdg wit="#xle">и ростиславь. съзваша <lb/> дроужиноу свою</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и Ростиславъ созваша дружину свою</rdg><rdg wit="#shakh">и Ростиславъ съзъваша дружину свою</rdg><rdg wit="#likh">и Ростиславъ созваша дружину свою</rdg></rdgGrp></app></p></div></body></text></TEI>

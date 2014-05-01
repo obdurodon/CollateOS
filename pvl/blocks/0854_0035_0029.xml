@@ -1,103 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>35, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="35"/><div type="block" n="29"><p>
-<app>
-<lem wit="#lem">
-<w n="35,29">или</w>
-<w n="35,29">съ</w>
-<w n="35,29">куплею</w>
-<w n="35,29">или</w>
-<w n="35,29">въ</w>
-<w n="35,29">съльбу</w>
-<w n="35,29">къ</w>
-<w n="35,29">цьсареви</w>
-<w n="35,29">нашему,</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="35,29">или</w>
-<w n="35,29">с</w>
-<w n="35,29">коуплею.</w>
-<w n="35,29">или</w>
-<w n="35,29">въ</w>
-<w n="35,29">солбѹ</w>
-<w n="35,29">ко</w>
-<w n="35,29">цр҃ви <lb/></w>
-
-<w n="35,29">вашемѹ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="35,29">илї</w>
-<w n="35,29">с</w>
-<w n="35,29">кѹплею</w>
-<w n="35,29">во</w>
-<w n="35,29">солбѹ.</w>
-<w n="35,29">ко</w>
-<w n="35,29">цр҃ви</w>
-<w n="35,29">нашемѹ. <pb n="15v"/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="35,29">или</w>
-<w n="35,29">с</w>
-<w n="35,29">куплею.</w>
-<w n="35,29">или</w>
-<w n="35,29">в</w>
-<w n="35,29">солбу <lb/></w>
-
-<w n="35,29">къ</w>
-<w n="35,29">цр<hi rend="sup">с</hi>еви</w>
-<w n="35,29">нашему.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="35,29">или</w>
-<w n="35,29">с</w>
-<w n="35,29">коуплею,</w>
-<w n="35,29">или</w>
-<w n="35,29">въ</w>
-<w n="35,29">со<hi rend="sup">л</hi>боу</w>
-<w n="35,29">къ</w>
-<w n="35,29">цр҃ви</w>
-<w n="35,29">нашемоу.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="35,29">или</w>
-<w n="35,29">с</w>
-<w n="35,29">куплею,</w>
-<w n="35,29">или</w>
-<w n="35,29">въ</w>
-<w n="35,29">солбу</w>
-<w n="35,29">ко</w>
-<w n="35,29">цареви</w>
-<w n="35,29">вашему,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="35,29">или</w>
-<w n="35,29">съ</w>
-<w n="35,29">куплею</w>
-<w n="35,29">или</w>
-<w n="35,29">въ</w>
-<w n="35,29">съльбу</w>
-<w n="35,29">къ</w>
-<w n="35,29">цѣсареви</w>
-<w n="35,29">нашему,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="35,29">или</w>
-<w n="35,29">с</w>
-<w n="35,29">куплею,</w>
-<w n="35,29">или</w>
-<w n="35,29">въ</w>
-<w n="35,29">солбу</w>
-<w n="35,29">ко</w>
-<w n="35,29">цареви</w>
-<w n="35,29">вашему,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>35, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="35"/><div type="block" n="29"><p><app><lem wit="#lem">
+            или съ куплею или въ съльбу къ цьсареви нашему,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">или с коуплею. или въ солбѹ ко цр҃ви <lb/> вашемѹ.</rdg>
+            <rdg wit="#aka">илї с кѹплею во солбѹ. ко цр҃ви нашемѹ. <pb n="15v"/></rdg>
+            <rdg wit="#ipa">или с куплею. или в солбу <lb/> къ цр<hi rend="sup">с</hi>еви нашему.</rdg>
+            <rdg wit="#xle">или с коуплею, или въ со<hi rend="sup">л</hi>боу къ цр҃ви нашемоу.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">или с куплею, или въ солбу ко цареви вашему,</rdg><rdg wit="#shakh">или съ куплею или въ съльбу къ цѣсареви нашему,</rdg><rdg wit="#likh">или с куплею, или въ солбу ко цареви вашему,</rdg></rdgGrp></app></p></div></body></text></TEI>

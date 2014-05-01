@@ -1,113 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>105, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="105"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="105,9">“Духъ</w>
-<w n="105,9">Божии</w>
-<w n="105,9">ношаше</w>
-<w n="105,9">ся</w>
-<w n="105,9">вьрху</w>
-<w n="105,9">воды”.</w>
-<w n="105,9">Еже</w>
-<w n="105,9">бо</w>
-<w n="105,9">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="105,9">д҃хъ</w>
-<w n="105,9">б҃жии</w>
-<w n="105,9">ношашесѧ</w>
-<w n="105,9">ве<lb/>рху</w>
-<w n="105,9">воды.</w>
-<w n="105,9">еже</w>
-<w n="105,9">бо</w>
-<w n="105,9">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="105,9">д҃хъ</w>
-<w n="105,9">б҃жьи. <lb/></w>
-
-<w n="105,9">ношаше<hi rend="sup">с</hi></w>
-<w n="105,9">верхоу</w>
-<w n="105,9">воды.</w>
-<w n="105,9">еже</w>
-<w n="105,9">бо</w>
-<w n="105,9">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="105,9">д҃хъ</w>
-<w n="105,9">б҃жїи</w>
-<w n="105,9">ношашесѧ</w>
-<w n="105,9">верхѹ</w>
-<w n="105,9">воды.</w>
-<w n="105,9">еже</w>
-<w n="105,9">бо</w>
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-<w n="105,9">д҃хъ <lb/></w>
-
-<w n="105,9">б҃жїи</w>
-<w n="105,9">ношашесѧ</w>
-<w n="105,9">връхѫ</w>
-<w n="105,9">воды,</w>
-<w n="105,9">иже</w>
-<w n="105,9">бо</w>
-<w n="105,9">и</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="105,9">духъ</w>
-<w n="105,9">божии</w>
-<w n="105,9">ношашесꙗ</w>
-<w n="105,9">верху</w>
-<w n="105,9">воды</w>
-<w n="105,9">еже</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="105,9">духъ</w>
-<w n="105,9">божии</w>
-<w n="105,9">ношашесꙗ</w>
-<w n="105,9">верху</w>
-<w n="105,9">воды</w>
-<w n="105,9">еже</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="105,9">Духъ</w>
-<w n="105,9">Божий</w>
-<w n="105,9">ношашеся</w>
-<w n="105,9">верху</w>
-<w n="105,9">воды;</w>
-<w n="105,9">еже</w>
-<w n="105,9">бо</w>
-<w n="105,9">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="105,9">Духъ</w>
-<w n="105,9">Божии</w>
-<w n="105,9">ношашеся</w>
-<w n="105,9">вьрху</w>
-<w n="105,9">воды,</w>
-<w n="105,9">еже</w>
-<w n="105,9">бо</w>
-<w n="105,9">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="105,9">духъ</w>
-<w n="105,9">божий</w>
-<w n="105,9">ношашеся</w>
-<w n="105,9">верху</w>
-<w n="105,9">воды;</w>
-<w n="105,9">еже</w>
-<w n="105,9">бо</w>
-<w n="105,9">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>105, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="105"/><div type="block" n="9"><p><app><lem wit="#lem">
+            “Духъ Божии ношаше ся вьрху воды”. Еже бо и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">д҃хъ б҃жии ношашесѧ ве<lb/>рху воды. еже бо и</rdg>
+            <rdg wit="#rad">д҃хъ б҃жьи. <lb/> ношаше<hi rend="sup">с</hi> верхоу воды. еже бо и</rdg>
+            <rdg wit="#aka">д҃хъ б҃жїи ношашесѧ верхѹ воды. еже бо</rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">д҃хъ <lb/> б҃жїи ношашесѧ връхѫ воды, иже бо и</rdg>
+            <rdg wit="#kom">духъ божии ношашесꙗ верху воды еже</rdg>
+            <rdg wit="#tol">духъ божии ношашесꙗ верху воды еже</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Духъ Божий ношашеся верху воды; еже бо и</rdg><rdg wit="#shakh">Духъ Божии ношашеся вьрху воды, еже бо и</rdg><rdg wit="#likh">духъ божий ношашеся верху воды; еже бо и</rdg></rdgGrp></app></p></div></body></text></TEI>

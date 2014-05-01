@@ -1,94 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>6, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="6"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="6,16">Дрьгъвичи;</w>
-<w n="6,16">инии</w>
-<w n="6,16">сѣдоша</w>
-<w n="6,16">на</w>
-<w n="6,16">Двинѣ,</w>
-<w n="6,16">и</w>
-<w n="6,16">нарекоша</w>
-<w n="6,16">ся</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="6,16">дре<lb/>говичи.</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="6,16">дрегвичи</w>
-<w n="6,16">инии</w>
-<w n="6,16">седоша</w>
-<w n="6,16">на</w>
-<w n="6,16">двинѣ</w>
-<w n="6,16">и</w>
-<w n="6,16">нарекоша<hi rend="sup">с</hi><lb/></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="6,16">дрегвичи.</w>
-<w n="6,16">инїи</w>
-<w n="6,16">сѣдоша</w>
-<w n="6,16">на</w>
-<w n="6,16">двинѣ</w>
-<w n="6,16">и</w>
-<w n="6,16">нарекоша<hi rend="sup">с</hi><lb/></w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="6,16">дреговичи.</w>
-<w n="6,16">и</w>
-<w n="6,16">инии</w>
-<w n="6,16">сѣдоша <lb/></w>
-
-<w n="6,16">на</w>
-<w n="6,16">двинѣ.</w>
-<w n="6,16">и</w>
-<w n="6,16">нарекошасѧ <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="6,16">дръговичи.</w>
-<w n="6,16">инїи</w>
-<w n="6,16">сѣдоша</w>
-<w n="6,16">на</w>
-<w n="6,16">двинѣ, <lb/></w>
-
-<w n="6,16">и</w>
-<w n="6,16">нарекоша<hi rend="sup">с</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="6,16">Дреговичи;</w>
-<w n="6,16">инии</w>
-<w n="6,16">сѣдоша</w>
-<w n="6,16">на</w>
-<w n="6,16">Двинѣ</w>
-<w n="6,16">и</w>
-<w n="6,16">нарекошася</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="6,16">Дрьгъвичи;</w>
-<w n="6,16">инии</w>
-<w n="6,16">сѣдоша</w>
-<w n="6,16">на</w>
-<w n="6,16">Двинѣ,</w>
-<w n="6,16">и</w>
-<w n="6,16">нарекошася</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="6,16">дреговичи;</w>
-<w n="6,16">инии</w>
-<w n="6,16">сѣдоша</w>
-<w n="6,16">на</w>
-<w n="6,16">Двинѣ</w>
-<w n="6,16">и</w>
-<w n="6,16">нарекошася</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>6, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="6"/><div type="block" n="16"><p><app><lem wit="#lem">
+            Дрьгъвичи; инии сѣдоша на Двинѣ, и нарекоша ся
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">дре<lb/>говичи.</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">дрегвичи инии седоша на двинѣ и нарекоша<hi rend="sup">с</hi>
+                <lb/></rdg>
+            <rdg wit="#aka">дрегвичи. инїи сѣдоша на двинѣ и нарекоша<hi rend="sup">с</hi>
+                <lb/></rdg>
+            <rdg wit="#ipa">дреговичи. и инии сѣдоша <lb/> на двинѣ. и нарекошасѧ <lb/></rdg>
+            <rdg wit="#xle">дръговичи. инїи сѣдоша на двинѣ, <lb/> и нарекоша<hi rend="sup">с</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Дреговичи; инии сѣдоша на Двинѣ и нарекошася</rdg><rdg wit="#shakh">Дрьгъвичи; инии сѣдоша на Двинѣ, и нарекошася</rdg><rdg wit="#likh">дреговичи; инии сѣдоша на Двинѣ и нарекошася</rdg></rdgGrp></app></p></div></body></text></TEI>

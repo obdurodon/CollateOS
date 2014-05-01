@@ -1,93 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>188, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="188"/><div type="block" n="24"><p>
-<app>
-<lem wit="#lem">
-<w n="188,24">старѣишимъ,</w>
-<w n="188,24">не</w>
-<w n="188,24">смѣюще</w>
-<w n="188,24">предъ</w>
-<w n="188,24">ними</w>
-<w n="188,24">глаголати,</w>
-<w n="188,24">нъ</w>
-<w n="188,24">вьсе</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="188,24">старѣишимъ. <lb/></w>
-
-<w n="188,24">и</w>
-<w n="188,24">не</w>
-<w n="188,24">смѣюще</w>
-<w n="188,24">пре<hi rend="sup">д</hi></w>
-<w n="188,24">ними</w>
-<w n="188,24">гл҃ати. <lb/></w>
-
-<w n="188,24">но</w>
-<w n="188,24">все</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="188,24">старѣишимъ.</w>
-<w n="188,24">не</w>
-<w n="188,24">смѣ<lb/>юще</w>
-<w n="188,24">пред</w>
-<w n="188,24">ними</w>
-<w n="188,24">гл҃ати.</w>
-<w n="188,24">но</w>
-<w n="188,24">все <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="188,24">старѣиши<hi rend="sup">м</hi>, <lb/></w>
-
-<w n="188,24">не</w>
-<w n="188,24">смѣюще</w>
-<w n="188,24">пре<hi rend="sup">д</hi></w>
-<w n="188,24">ними</w>
-<w n="188,24">гл҃ати.</w>
-<w n="188,24">но</w>
-<w n="188,24">все</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="188,24">старѣйшимъ</w>
-<w n="188,24">и</w>
-<w n="188,24">не</w>
-<w n="188,24">смѣюще</w>
-<w n="188,24">предъ</w>
-<w n="188,24">ними</w>
-<w n="188,24">глаголати,</w>
-<w n="188,24">но</w>
-<w n="188,24">все</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="188,24">старѣишимъ</w>
-<w n="188,24">и</w>
-<w n="188,24">не</w>
-<w n="188,24">смѣють</w>
-<w n="188,24">предъ</w>
-<w n="188,24">ними</w>
-<w n="188,24">глаголати,</w>
-<w n="188,24">нъ</w>
-<w n="188,24">вьсе</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="188,24">старѣйшимъ</w>
-<w n="188,24">и</w>
-<w n="188,24">не</w>
-<w n="188,24">смѣюще</w>
-<w n="188,24">пред</w>
-<w n="188,24">ними</w>
-<w n="188,24">глаголати,</w>
-<w n="188,24">но</w>
-<w n="188,24">все</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>188, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="188"/><div type="block" n="24"><p><app><lem wit="#lem">
+            старѣишимъ, не смѣюще предъ ними глаголати, нъ вьсе
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">старѣишимъ. <lb/> и не смѣюще пре<hi rend="sup">д</hi> ними гл҃ати. <lb/> но все</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">старѣишимъ. не смѣ<lb/>юще пред ними гл҃ати. но все <lb/></rdg>
+            <rdg wit="#xle">старѣиши<hi rend="sup">м</hi>, <lb/> не смѣюще пре<hi rend="sup">д</hi> ними гл҃ати. но все</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">старѣйшимъ и не смѣюще предъ ними глаголати, но все</rdg><rdg wit="#shakh">старѣишимъ и не смѣють предъ ними глаголати, нъ вьсе</rdg><rdg wit="#likh">старѣйшимъ и не смѣюще пред ними глаголати, но все</rdg></rdgGrp></app></p></div></body></text></TEI>

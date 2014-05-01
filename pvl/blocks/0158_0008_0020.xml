@@ -1,92 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>8, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="8"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="8,20">банѣ</w>
-<w n="8,20">древяны,</w>
-<w n="8,20">и</w>
-<w n="8,20">пережьгуть</w>
-<w n="8,20">я</w>
-<w n="8,20">вельми,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="8,20">бани</w>
-<w n="8,20">древены.</w>
-<w n="8,20">и</w>
-<w n="8,20">пережьгуть</w>
-<w n="8,20">е</w>
-<w n="8,20">рамѧно.</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="8,20">бани</w>
-<w n="8,20">древяны</w>
-<w n="8,20">и</w>
-<w n="8,20">истопятъ</w>
-<w n="8,20">зноино</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="8,20">бани</w>
-<w n="8,20">древѧны <lb/></w>
-
-<w n="8,20">и</w>
-<w n="8,20">пережьгоуть</w>
-<w n="8,20">и<hi rend="sup">х</hi></w>
-<w n="8,20">велми</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="8,20">ба<lb/>ни</w>
-<w n="8,20">древены.</w>
-<w n="8,20">и</w>
-<w n="8,20">пережгѹтъ</w>
-<w n="8,20">и<hi rend="sup">х</hi></w>
-<w n="8,20">велми</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="8,20">банѣ</w>
-<w n="8,20">древѧны.</w>
-<w n="8,20">и</w>
-<w n="8,20">пе<lb/>режьгуть</w>
-<w n="8,20">ꙗ</w>
-<w n="8,20">велми.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="8,20">банѧ</w>
-<w n="8,20">древѧны.</w>
-<w n="8,20">и</w>
-<w n="8,20">пережгѹ<hi rend="sup">т</hi><lb/></w>
-<w n="8,20">ѧ</w>
-<w n="8,20">велми,</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="8,20">бани</w>
-<w n="8,20">древены,</w>
-<w n="8,20">и</w>
-<w n="8,20">пережьгуть</w>
-<w n="8,20">я</w>
-<w n="8,20">рамяно,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="8,20">банѣ</w>
-<w n="8,20">древяны,</w>
-<w n="8,20">и</w>
-<w n="8,20">прежьгуть</w>
-<w n="8,20">я</w>
-<w n="8,20">рамяно,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="8,20">бани</w>
-<w n="8,20">древены,</w>
-<w n="8,20">и</w>
-<w n="8,20">пережьгуть</w>
-<w n="8,20">е</w>
-<w n="8,20">рамяно,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>8, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="8"/><div type="block" n="20"><p><app><lem wit="#lem">
+            банѣ древяны, и пережьгуть я вельми,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">бани древены. и пережьгуть е рамѧно.</rdg>
+            <rdg wit="#tro">бани древяны и истопятъ зноино</rdg>
+            <rdg wit="#rad">бани древѧны <lb/> и пережьгоуть и<hi rend="sup">х</hi> велми</rdg>
+            <rdg wit="#aka">ба<lb/>ни древены. и пережгѹтъ и<hi rend="sup">х</hi> велми</rdg>
+            <rdg wit="#ipa">банѣ древѧны. и пе<lb/>режьгуть ꙗ велми.</rdg>
+            <rdg wit="#xle">банѧ древѧны. и пережгѹ<hi rend="sup">т</hi>
+                <lb/> ѧ велми,</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">бани древены, и пережьгуть я рамяно,</rdg><rdg wit="#shakh">банѣ древяны, и прежьгуть я рамяно,</rdg><rdg wit="#likh">бани древены, и пережьгуть е рамяно,</rdg></rdgGrp></app></p></div></body></text></TEI>

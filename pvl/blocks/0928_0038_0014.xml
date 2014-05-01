@@ -1,86 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>38, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="38"/><div type="block" n="14"><p>
-<app>
-<lem wit="#lem">
-<w n="38,14">ни</w>
-<w n="38,14">Грькомъ,</w>
-<w n="38,14">ни</w>
-<w n="38,14">Руси.</w>
-<w n="38,14">И</w>
-<w n="38,14">живяше</w>
-<w n="38,14">Ольгъ</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="38,14">ни</w>
-<w n="38,14">греко<hi rend="sup">м</hi></w>
-<w n="38,14">ни</w>
-<w n="38,14">роу<hi rend="sup">с</hi>.</w>
-<w n="38,14">и</w>
-<w n="38,14">живѧше</w>
-<w n="38,14">ѡлегъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="38,14">гре<lb/>комъ</w>
-<w n="38,14">нї</w>
-<w n="38,14">рѹси.</w>
-<w n="38,14">и</w>
-<w n="38,14">живѧше</w>
-<w n="38,14">ѡлегъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="38,14">ни <lb/></w>
-
-<w n="38,14">грѣцемь</w>
-<w n="38,14">ни</w>
-<w n="38,14">руси.</w>
-<w n="38,14">и</w>
-<w n="38,14">живѧ<lb/>ше</w>
-<w n="38,14">ѡлегъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="38,14">ни</w>
-<w n="38,14">греко<hi rend="sup">м</hi></w>
-<w n="38,14">ни</w>
-<w n="38,14">роуси.</w>
-<w n="38,14">и</w>
-<w n="38,14">живѧше</w>
-<w n="38,14">ѡлегь <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="38,14">ни</w>
-<w n="38,14">Грекомъ</w>
-<w n="38,14">ни</w>
-<w n="38,14">Руси.</w>
-<w n="38,14">И</w>
-<w n="38,14">живяше</w>
-<w n="38,14">Олегъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="38,14">ни</w>
-<w n="38,14">Грькомъ,</w>
-<w n="38,14">ни</w>
-<w n="38,14">Руси.</w>
-<w n="38,14">И</w>
-<w n="38,14">живяше</w>
-<w n="38,14">Ольгъ,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="38,14">ни</w>
-<w n="38,14">греком,</w>
-<w n="38,14">ни</w>
-<w n="38,14">руси.</w>
-<w n="38,14">И</w>
-<w n="38,14">живяше</w>
-<w n="38,14">Олегъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>38, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="38"/><div type="block" n="14"><p><app><lem wit="#lem">
+            ни Грькомъ, ни Руси. И живяше Ольгъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">ни греко<hi rend="sup">м</hi> ни роу<hi rend="sup">с</hi>. и живѧше ѡлегъ</rdg>
+            <rdg wit="#aka">гре<lb/>комъ нї рѹси. и живѧше ѡлегъ</rdg>
+            <rdg wit="#ipa">ни <lb/> грѣцемь ни руси. и живѧ<lb/>ше ѡлегъ</rdg>
+            <rdg wit="#xle">ни греко<hi rend="sup">м</hi> ни роуси. и живѧше ѡлегь <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">ни Грекомъ ни Руси. И живяше Олегъ</rdg><rdg wit="#shakh">ни Грькомъ, ни Руси. И живяше Ольгъ,</rdg><rdg wit="#likh">ни греком, ни руси. И живяше Олегъ</rdg></rdgGrp></app></p></div></body></text></TEI>

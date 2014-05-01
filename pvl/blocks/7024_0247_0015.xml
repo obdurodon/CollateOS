@@ -1,54 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>247, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="247"/><div type="block" n="15"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="247,15">мѧ</w>
-<w n="247,15">ѡ<lb/>ц҃ь·</w>
-<w n="247,15">а</w>
-<w n="247,15">самъ</w>
-<w n="247,15">иде</w>
-<w n="247,15">курь<lb/>ску·</w>
-<w n="247,15">и</w>
-<w n="247,15">пакы</w>
-<w n="247,15">·в҃·</w>
-<w n="247,15">е</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="247,15">мя</w>
-<w n="247,15">отець,</w>
-<w n="247,15">а</w>
-<w n="247,15">самъ</w>
-<w n="247,15">иде</w>
-<w n="247,15">Курьску;</w>
-<w n="247,15">и</w>
-<w n="247,15">пакы</w>
-<w n="247,15">2-е</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="247,15">мя</w>
-<w n="247,15">отець,</w>
-<w n="247,15">а</w>
-<w n="247,15">самъ</w>
-<w n="247,15">иде</w>
-<w n="247,15">Курьску;</w>
-<w n="247,15">и</w>
-<w n="247,15">пакы</w>
-<w n="247,15">2-е</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>247, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="247"/><div type="block" n="15"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">мѧ ѡ<lb/>ц҃ь· а самъ иде курь<lb/>ску· и пакы ·в҃· е</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">мя отець, а самъ иде Курьску; и пакы 2-е</rdg><rdg wit="#likh">мя отець, а самъ иде Курьску; и пакы 2-е</rdg></rdgGrp></app></p></div></body></text></TEI>

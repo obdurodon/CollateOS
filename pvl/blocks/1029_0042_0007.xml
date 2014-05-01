@@ -1,94 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>42, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="42"/><div type="block" n="7"><p>
-<app>
-<lem wit="#lem">
-<w n="42,7">В</w>
-<w n="42,7">лѣто 6422.</w>
-
-<w n="42,7">Иде</w>
-<w n="42,7">Игорь</w>
-<w n="42,7">на</w>
-<w n="42,7">Деревляны,</w>
-<w n="42,7">и</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="42,7">В</w>
-<w n="42,7">лѣ<hi rend="sup">т</hi></w>
-<w n="42,7">҂ѕ҃.у҃</w>
-<w n="42,7">к҃в.</w>
-<w n="42,7"><milestone unit="sic" n="start"/>и<milestone unit="sic" n="end"/>де</w>
-<w n="42,7">игорь</w>
-<w n="42,7">на</w>
-<w n="42,7">деревлѧны.</w>
-<w n="42,7">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="42,7">В</w>
-<w n="42,7">лѣ<hi rend="sup">т</hi></w>
-<w n="42,7">.҂ѕ҃.у҃.к҃в.</w>
-<w n="42,7">Иде</w>
-<w n="42,7">игорь</w>
-<w n="42,7">на</w>
-<w n="42,7">деревлѧны.</w>
-<w n="42,7">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="42,7">В</w>
-<w n="42,7">лѣто</w>
-<w n="42,7">.҂ѕ҃.у҃.к҃в.</w>
-<w n="42,7">Иде</w>
-<w n="42,7">иго<lb/>рь</w>
-<w n="42,7">на</w>
-<w n="42,7">древлѧны.</w>
-<w n="42,7">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="42,7">В</w>
-<w n="42,7">лѣ<hi rend="sup">т</hi></w>
-<w n="42,7">҂ѕ҃.у҃.к҃в.</w>
-<w n="42,7">Иде</w>
-<w n="42,7">игорь</w>
-<w n="42,7">на</w>
-<w n="42,7">деревлѧны.</w>
-<w n="42,7">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="42,7">В</w>
-<w n="42,7">лѣто 6422.</w>
-
-<w n="42,7">Иде</w>
-<w n="42,7">Игорь</w>
-<w n="42,7">на</w>
-<w n="42,7">Деревляны,</w>
-<w n="42,7">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="42,7">В</w>
-<w n="42,7">лѣто 6422.</w>
-
-<w n="42,7">Иде</w>
-<w n="42,7">Игорь</w>
-<w n="42,7">на</w>
-<w n="42,7">Древляны,</w>
-<w n="42,7">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="42,7">В</w>
-<w n="42,7">лѣто 6422.</w>
-
-<w n="42,7">Иде</w>
-<w n="42,7">Игорь</w>
-<w n="42,7">на</w>
-<w n="42,7">деревляны,</w>
-<w n="42,7">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>42, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="42"/><div type="block" n="7"><p><app><lem wit="#lem">
+            В лѣто 6422. Иде Игорь на Деревляны, и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">В лѣ<hi rend="sup">т</hi> ҂ѕ҃.у҃ к҃в. <sic>и</sic>де игорь на деревлѧны. и</rdg>
+            <rdg wit="#aka">В лѣ<hi rend="sup">т</hi> .҂ѕ҃.у҃.к҃в. Иде игорь на деревлѧны. и</rdg>
+            <rdg wit="#ipa">В лѣто .҂ѕ҃.у҃.к҃в. Иде иго<lb/>рь на древлѧны. и</rdg>
+            <rdg wit="#xle">В лѣ<hi rend="sup">т</hi> ҂ѕ҃.у҃.к҃в. Иде игорь на деревлѧны. и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">В лѣто 6422. Иде Игорь на Деревляны, и</rdg><rdg wit="#shakh">В лѣто 6422. Иде Игорь на Древляны, и</rdg><rdg wit="#likh">В лѣто 6422. Иде Игорь на деревляны, и</rdg></rdgGrp></app></p></div></body></text></TEI>

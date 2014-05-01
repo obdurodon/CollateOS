@@ -1,94 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>158, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="158"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="158,18">надъ</w>
-<w n="158,18">печерою</w>
-<w n="158,18">въ</w>
-<w n="158,18">имя</w>
-<w n="158,18">Святыя</w>
-<w n="158,18">Богородица</w>
-<w n="158,18">Усъпение.</w>
-<w n="158,18">И</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="158,18">на<lb/>дъ</w>
-<w n="158,18">пещерою.</w>
-<w n="158,18">во</w>
-<w n="158,18">имѧ</w>
-<w n="158,18">ст҃ыꙗ</w>
-<w n="158,18">бц҃а <lb/></w>
-
-<w n="158,18">оуспенье.</w>
-<w n="158,18">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="158,18">оу<lb/>спение</w>
-<w n="158,18">ст҃ыа</w>
-<w n="158,18">бц<hi rend="sup">д</hi>и:-</w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="158,18">оуспе<lb/>нье</w>
-<w n="158,18">ст҃еи</w>
-<w n="158,18">бц҃и:·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="158,18">надъ</w>
-<w n="158,18">печер<milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/>ю. <lb/></w>
-
-<w n="158,18">во</w>
-<w n="158,18">имѧ</w>
-<w n="158,18">ст҃ыꙗ</w>
-<w n="158,18">бц҃а</w>
-<w n="158,18">оуспение.</w>
-<w n="158,18">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="158,18">на<hi rend="sup">д</hi><lb/></w>
-<w n="158,18">печерою.</w>
-<w n="158,18">въ</w>
-<w n="158,18">имѧ</w>
-<w n="158,18">ст҃ыа</w>
-<w n="158,18">бц҃а</w>
-<w n="158,18">оуспенїе.</w>
-<w n="158,18">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="158,18">надъ</w>
-<w n="158,18">пещерою</w>
-<w n="158,18">во</w>
-<w n="158,18">имя</w>
-<w n="158,18">святыя</w>
-<w n="158,18">Богородица</w>
-<w n="158,18">Успенье.</w>
-<w n="158,18">И</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="158,18">надъ</w>
-<w n="158,18">печерою</w>
-<w n="158,18">въ</w>
-<w n="158,18">имя</w>
-<w n="158,18">Святыя</w>
-<w n="158,18">Богородица</w>
-<w n="158,18">Усъпения.</w>
-<w n="158,18">И</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="158,18">надъ</w>
-<w n="158,18">пещерою</w>
-<w n="158,18">во</w>
-<w n="158,18">имя</w>
-<w n="158,18">святыя</w>
-<w n="158,18">богородица</w>
-<w n="158,18">Успенье.</w>
-<w n="158,18">И</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>158, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="158"/><div type="block" n="18"><p><app><lem wit="#lem">
+            надъ печерою въ имя Святыя Богородица Усъпение. И
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">на<lb/>дъ пещерою. во имѧ ст҃ыꙗ бц҃а <lb/> оуспенье. и</rdg>
+            <rdg wit="#rad">оу<lb/>спение ст҃ыа бц<hi rend="sup">д</hi>и:- </rdg>
+            <rdg wit="#aka">оуспе<lb/>нье ст҃еи бц҃и:·</rdg>
+            <rdg wit="#ipa">надъ печер<sic>о</sic>ю. <lb/> во имѧ ст҃ыꙗ бц҃а оуспение. и</rdg>
+            <rdg wit="#xle">на<hi rend="sup">д</hi>
+                <lb/> печерою. въ имѧ ст҃ыа бц҃а оуспенїе. и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">надъ пещерою во имя святыя Богородица Успенье. И</rdg><rdg wit="#shakh">надъ печерою въ имя Святыя Богородица Усъпения. И</rdg><rdg wit="#likh">надъ пещерою во имя святыя богородица Успенье. И</rdg></rdgGrp></app></p></div></body></text></TEI>

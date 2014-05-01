@@ -1,105 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>110, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="110"/><div type="block" n="15"><p>
-<app>
-<lem wit="#lem">
-<w n="110,15">глаголюща:</w>
-<w n="110,15">“Крьсти</w>
-<w n="110,15">ся,</w>
-<w n="110,15">тъгда</w>
-<w n="110,15">посълевѣ</w>
-<w n="110,15">сестру</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="110,15">гл҃ща.</w>
-<w n="110,15">кр<hi rend="sup">с</hi>тисѧ</w>
-<w n="110,15">и</w>
-<w n="110,15">тогда</w>
-<w n="110,15">послевѣ</w>
-<w n="110,15">сестру</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="110,15">гл҃ща</w>
-<w n="110,15">кр<hi rend="sup">с</hi>тисѧ.</w>
-<w n="110,15">то<lb/>гда</w>
-<w n="110,15">послеве</w>
-<w n="110,15">к</w>
-<w n="110,15">тобѣ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="110,15">гл҃ща.</w>
-<w n="110,15">кр<hi rend="sup">с</hi>тисѧ.</w>
-<w n="110,15">тогда</w>
-<w n="110,15">по<lb/>славе</w>
-<w n="110,15">к</w>
-<w n="110,15">тобѣ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="110,15">гл҃щи.</w>
-<w n="110,15">кре<lb/>стисѧ.</w>
-<w n="110,15">тогда</w>
-<w n="110,15">посл<milestone unit="sic" n="start"/>евѣ<milestone unit="sic" n="end"/></w>
-<w n="110,15">сестру <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="110,15">глаголюща</w>
-<w n="110,15">крестисꙗ</w>
-<w n="110,15">тогда</w>
-<w n="110,15">послевѣ</w>
-<w n="110,15">к</w>
-<w n="110,15">тобѣ</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="110,15">глаголюща</w>
-<w n="110,15">крестисꙗ</w>
-<w n="110,15">и</w>
-<w n="110,15">тогда</w>
-<w n="110,15">послемъ</w>
-<w n="110,15">к</w>
-<w n="110,15">тобѣ</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="110,15">глаголюща</w>
-<w n="110,15">крестисꙗ</w>
-<w n="110,15">и</w>
-<w n="110,15">тогда</w>
-<w n="110,15">послемъ</w>
-<w n="110,15">к</w>
-<w n="110,15">тебѣ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="110,15">глаголюща:</w>
-<w n="110,15">“крестися,</w>
-<w n="110,15">и</w>
-<w n="110,15">тогда</w>
-<w n="110,15">послевѣ</w>
-<w n="110,15">сестру</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="110,15">глаголюща:</w>
-<w n="110,15">“крьстися,</w>
-<w n="110,15">тъгда</w>
-<w n="110,15">посълевѣ</w>
-<w n="110,15">сестру</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="110,15">глаголюща:</w>
-<w n="110,15">“Крестися,</w>
-<w n="110,15">и</w>
-<w n="110,15">тогда</w>
-<w n="110,15">послевѣ</w>
-<w n="110,15">сестру</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>110, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="110"/><div type="block" n="15"><p><app><lem wit="#lem">
+            глаголюща: “Крьсти ся, тъгда посълевѣ сестру
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">гл҃ща. кр<hi rend="sup">с</hi>тисѧ и тогда послевѣ сестру</rdg>
+            <rdg wit="#rad">гл҃ща кр<hi rend="sup">с</hi>тисѧ. то<lb/>гда послеве к тобѣ.</rdg>
+            <rdg wit="#aka">гл҃ща. кр<hi rend="sup">с</hi>тисѧ. тогда по<lb/>славе к тобѣ</rdg>
+            <rdg wit="#ipa">гл҃щи. кре<lb/>стисѧ. тогда посл<sic>евѣ</sic> сестру <lb/></rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">глаголюща крестисꙗ тогда послевѣ к тобѣ</rdg>
+            <rdg wit="#nak">глаголюща крестисꙗ и тогда послемъ к тобѣ</rdg>
+            <rdg wit="#tol">глаголюща крестисꙗ и тогда послемъ к тебѣ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">глаголюща: “крестися, и тогда послевѣ сестру</rdg><rdg wit="#shakh">глаголюща: “крьстися, тъгда посълевѣ сестру</rdg><rdg wit="#likh">глаголюща: “Крестися, и тогда послевѣ сестру</rdg></rdgGrp></app></p></div></body></text></TEI>

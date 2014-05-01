@@ -1,88 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>37, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="37"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="37,9">жалують</w>
-<w n="37,9">Русь</w>
-<w n="37,9">хрьстияньскому</w>
-<w n="37,9">цьсарьству,</w>
-<w n="37,9">и</w>
-<w n="37,9">ятъ</w>
-<w n="37,9">будеть</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="37,9">жалѹють <lb/></w>
-
-<w n="37,9">роу<hi rend="sup">с</hi>.</w>
-<w n="37,9">хрт<hi rend="sup">с</hi>ьаньскоу</w>
-<w n="37,9">цр҃твѹ.</w>
-<w n="37,9">и</w>
-<w n="37,9">ꙗтъ</w>
-<w n="37,9">бѹде<hi rend="sup">т</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="37,9">жалаютъ</w>
-<w n="37,9">рѹ<hi rend="sup">с</hi></w>
-<w n="37,9">хр<hi rend="sup">с</hi>тьꙗнь<lb/>скомѹ</w>
-<w n="37,9">ц<hi rend="sup">с</hi>ртвѹ.</w>
-<w n="37,9">и</w>
-<w n="37,9">ꙗтъ</w>
-<w n="37,9">бѹдетъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="37,9">жалують</w>
-<w n="37,9">русь <lb/></w>
-
-<w n="37,9">хрт<hi rend="sup">с</hi>ьꙗнскому</w>
-<w n="37,9">ц<hi rend="sup">с</hi>ртву. <lb/></w>
-
-<w n="37,9">и</w>
-<w n="37,9">ꙗтъ</w>
-<w n="37,9">будеть</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="37,9">жалоують</w>
-<w n="37,9">роу<hi rend="sup">с</hi></w>
-<w n="37,9">хрт<hi rend="sup">с</hi>їанскомоу</w>
-<w n="37,9">ц<hi rend="sup">с</hi>ртвоу.</w>
-<w n="37,9">и</w>
-<w n="37,9">ять</w>
-<w n="37,9">бѫде<hi rend="sup">т</hi><pb n="13v"/></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="37,9">жалують</w>
-<w n="37,9">Русь</w>
-<w n="37,9">хрестьяньскому</w>
-<w n="37,9">царству,</w>
-<w n="37,9">и</w>
-<w n="37,9">ятъ</w>
-<w n="37,9">будеть</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="37,9">жалують</w>
-<w n="37,9">Русь</w>
-<w n="37,9">хрьстияньскому</w>
-<w n="37,9">цѣсарьству,</w>
-<w n="37,9">и</w>
-<w n="37,9">ятъ</w>
-<w n="37,9">будеть</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="37,9">жалують</w>
-<w n="37,9">Русь</w>
-<w n="37,9">хрестьаньску</w>
-<w n="37,9">царству,</w>
-<w n="37,9">и</w>
-<w n="37,9">ятъ</w>
-<w n="37,9">будеть</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>37, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="37"/><div type="block" n="9"><p><app><lem wit="#lem">
+            жалують Русь хрьстияньскому цьсарьству, и ятъ будеть
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">жалѹють <lb/> роу<hi rend="sup">с</hi>. хрт<hi rend="sup">с</hi>ьаньскоу цр҃твѹ. и ꙗтъ
+                    бѹде<hi rend="sup">т</hi></rdg>
+            <rdg wit="#aka">жалаютъ рѹ<hi rend="sup">с</hi> хр<hi rend="sup">с</hi>тьꙗнь<lb/>скомѹ ц<hi rend="sup">с</hi>ртвѹ. и ꙗтъ
+                бѹдетъ</rdg>
+            <rdg wit="#ipa">жалують русь <lb/> хрт<hi rend="sup">с</hi>ьꙗнскому ц<hi rend="sup">с</hi>ртву. <lb/> и ꙗтъ
+                будеть</rdg>
+            <rdg wit="#xle">жалоують  роу<hi rend="sup">с</hi> хрт<hi rend="sup">с</hi>їанскомоу ц<hi rend="sup">с</hi>ртвоу. и ꙗть
+                    бѫде<hi rend="sup">т</hi>
+                <pb n="13v"/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">жалують Русь хрестьяньскому царству, и ятъ будеть</rdg><rdg wit="#shakh">жалують Русь хрьстияньскому цѣсарьству, и ятъ будеть</rdg><rdg wit="#likh">жалують Русь хрестьаньску царству, и ятъ будеть</rdg></rdgGrp></app></p></div></body></text></TEI>

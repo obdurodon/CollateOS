@@ -1,94 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>229, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="229"/><div type="block" n="15"><p>
-<app>
-<lem wit="#lem">
-<w n="229,15">а</w>
-<w n="229,15">Давыдови</w>
-<w n="229,15">рекоша:</w>
-<w n="229,15">“Не</w>
-<w n="229,15">ходи</w>
-<w n="229,15">къ</w>
-<w n="229,15">намъ”.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="229,15">а</w>
-<w n="229,15">двд҃ви</w>
-<w n="229,15">рекоша</w>
-<w n="229,15">не</w>
-<w n="229,15">ходи</w>
-<w n="229,15">к</w>
-<w n="229,15">на<hi rend="sup">м</hi><lb/></w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="229,15">а</w>
-<w n="229,15">двд҃ви</w>
-<w n="229,15">рекоша</w>
-<w n="229,15">не</w>
-<w n="229,15">ходи</w>
-<w n="229,15">к</w>
-<w n="229,15">на<hi rend="sup">м</hi>.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="229,15">а</w>
-<w n="229,15">двд҃ви</w>
-<w n="229,15">рекоша</w>
-<w n="229,15">не</w>
-<w n="229,15">ходи</w>
-<w n="229,15">к</w>
-<w n="229,15">намь·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="229,15">а</w>
-<w n="229,15">двд҃ови</w>
-<w n="229,15">рекоша</w>
-<w n="229,15">не <lb/></w>
-
-<w n="229,15">ходи</w>
-<w n="229,15">к</w>
-<w n="229,15">намъ·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="229,15">а</w>
-<w n="229,15">дв<hi rend="sup">д</hi>ви <lb/></w>
-
-<w n="229,15">рекоша</w>
-<w n="229,15">не</w>
-<w n="229,15">х<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi></w>
-<w n="229,15">к</w>
-<w n="229,15">на<hi rend="sup">м</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="229,15">а</w>
-<w n="229,15">Давыдови</w>
-<w n="229,15">рекоша:</w>
-<w n="229,15">“не</w>
-<w n="229,15">ходи</w>
-<w n="229,15">к</w>
-<w n="229,15">намъ”;</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="229,15">а</w>
-<w n="229,15">Давыдови</w>
-<w n="229,15">рекоша:</w>
-<w n="229,15">“не</w>
-<w n="229,15">ходи</w>
-<w n="229,15">къ</w>
-<w n="229,15">намъ”.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="229,15">а</w>
-<w n="229,15">Давыдови</w>
-<w n="229,15">рекоша:</w>
-<w n="229,15">“Не</w>
-<w n="229,15">ходи</w>
-<w n="229,15">к</w>
-<w n="229,15">нам”.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>229, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="229"/><div type="block" n="15"><p><app><lem wit="#lem">
+            а Давыдови рекоша: “Не ходи къ намъ”.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">а двд҃ви рекоша не ходи к на<hi rend="sup">м</hi>
+                <lb/></rdg>
+            <rdg wit="#rad">а двд҃ви рекоша не ходи к на<hi rend="sup">м</hi>.</rdg>
+            <rdg wit="#aka">а двд҃ви рекоша не ходи к намь·</rdg>
+            <rdg wit="#ipa">а двд҃ови рекоша не <lb/> ходи к намъ·</rdg>
+            <rdg wit="#xle">а дв<hi rend="sup">д</hi>ви <lb/> рекоша не х<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi> к
+                на<hi rend="sup">м</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">а Давыдови рекоша: “не ходи к намъ”;</rdg><rdg wit="#shakh">а Давыдови рекоша: “не ходи къ намъ”.</rdg><rdg wit="#likh">а Давыдови рекоша: “Не ходи к нам”.</rdg></rdgGrp></app></p></div></body></text></TEI>

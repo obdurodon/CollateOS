@@ -1,85 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>28, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="28"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="28,23">бо</w>
-<w n="28,23">прозъвашася</w>
-<w n="28,23">Русию,</w>
-<w n="28,23">а</w>
-<w n="28,23">пьрвѣе</w>
-<w n="28,23">бѣша</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="28,23">бо</w>
-<w n="28,23">прозвася</w>
-<w n="28,23">русью</w>
-<w n="28,23">а</w>
-<w n="28,23">первое</w>
-<w n="28,23">быша</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="28,23">бо</w>
-<w n="28,23">прозваша<hi rend="sup">с</hi></w>
-<w n="28,23">роу<hi rend="sup">с</hi>ю.</w>
-<w n="28,23">а</w>
-<w n="28,23">первое</w>
-<w n="28,23">бѣша</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="28,23">прозвашасѧ</w>
-<w n="28,23">рѹ<hi rend="sup">с</hi>ю.</w>
-<w n="28,23">а</w>
-<w n="28,23">первое</w>
-<w n="28,23">быша</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="28,23">бо</w>
-<w n="28,23">прозвашасѧ</w>
-<w n="28,23">русью. <lb/></w>
-
-<w n="28,23">а</w>
-<w n="28,23">пѣрвѣе</w>
-<w n="28,23">бѣша</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="28,23">бо</w>
-<w n="28,23">прозва<lb/>ша<hi rend="sup">с</hi></w>
-<w n="28,23">роу<hi rend="sup">с</hi>ю.</w>
-<w n="28,23">а</w>
-<w n="28,23">пръвѣе</w>
-<w n="28,23">бѣша</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="28,23">бо</w>
-<w n="28,23">прозвашася</w>
-<w n="28,23">Русью,</w>
-<w n="28,23">а</w>
-<w n="28,23">первое</w>
-<w n="28,23">бѣша</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="28,23">прозъвашася</w>
-<w n="28,23">Русию,</w>
-<w n="28,23">а</w>
-<w n="28,23">пьрвѣе</w>
-<w n="28,23">бѣша</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="28,23">бо</w>
-<w n="28,23">прозвашася</w>
-<w n="28,23">Русью,</w>
-<w n="28,23">а</w>
-<w n="28,23">первое</w>
-<w n="28,23">бѣша</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>28, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="28"/><div type="block" n="23"><p><app><lem wit="#lem">
+            бо прозъваша ся Русию, а пьрвѣе бѣша
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">бо прозвася русью а первое быша</rdg>
+            <rdg wit="#rad">бо прозваша<hi rend="sup">с</hi> роу<hi rend="sup">с</hi>ю. а первое бѣша</rdg>
+            <rdg wit="#aka">прозвашасѧ рѹ<hi rend="sup">с</hi>ю. а первое быша</rdg>
+            <rdg wit="#ipa">бо прозвашасѧ русью. <lb/> а пѣрвѣе бѣша</rdg>
+            <rdg wit="#xle">бо прозва<lb/>ша<hi rend="sup">с</hi> роу<hi rend="sup">с</hi>ю. а пръвѣе бѣша</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">бо прозвашася Русью, а первое бѣша</rdg><rdg wit="#shakh">прозъвашася Русию, а пьрвѣе бѣша</rdg><rdg wit="#likh">бо прозвашася Русью, а первое бѣша</rdg></rdgGrp></app></p></div></body></text></TEI>

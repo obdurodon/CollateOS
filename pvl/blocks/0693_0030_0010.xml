@@ -1,78 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>30, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="30"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-<w n="30,10">И</w>
-<w n="30,10">повелѣ</w>
-<w n="30,10">Ольгъ</w>
-<w n="30,10">воемъ</w>
-<w n="30,10">своимъ</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="30,10">и</w>
-<w n="30,10">повелѣ</w>
-<w n="30,10">олегъ</w>
-<w n="30,10">воимъ</w>
-<w n="30,10">своимъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="30,10">И</w>
-<w n="30,10">повелѣ</w>
-<w n="30,10">ѡлегъ</w>
-<w n="30,10">воемъ</w>
-<w n="30,10">своимъ. <pb n="15r"/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="30,10">И</w>
-<w n="30,10">повелѣ</w>
-<w n="30,10">ѡлегъ</w>
-<w n="30,10">воемь</w>
-<w n="30,10">сво<lb/>имъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="30,10">и</w>
-<w n="30,10">повелѣ</w>
-<w n="30,10">ѡлегъ</w>
-<w n="30,10">воемъ</w>
-<w n="30,10">сво<lb/>и<hi rend="sup">м</hi>.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="30,10">и</w>
-<w n="30,10">повелѣ</w>
-<w n="30,10">ѡлегь</w>
-<w n="30,10">во<hi rend="sup">м</hi>е</w>
-<w n="30,10">свои<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="30,10">И</w>
-<w n="30,10">повелѣ</w>
-<w n="30,10">Олегъ</w>
-<w n="30,10">воемъ</w>
-<w n="30,10">своимъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="30,10">И</w>
-<w n="30,10">повелѣ</w>
-<w n="30,10">Ольгъ</w>
-<w n="30,10">воемъ</w>
-<w n="30,10">своимъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="30,10">И</w>
-<w n="30,10">повелѣ</w>
-<w n="30,10">Олегъ</w>
-<w n="30,10">воемъ</w>
-<w n="30,10">своимъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>30, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="30"/><div type="block" n="10"><p><app><lem wit="#lem">
+            И повелѣ Ольгъ воемъ своимъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">и повелѣ олегъ воимъ своимъ</rdg>
+            <rdg wit="#rad">И повелѣ ѡлегъ воемъ своимъ. <pb n="15r"/></rdg>
+            <rdg wit="#aka">И повелѣ ѡлегъ воемь сво<lb/>имъ</rdg>
+            <rdg wit="#ipa">и повелѣ ѡлегъ воемъ сво<lb/>и<hi rend="sup">м</hi>.</rdg>
+            <rdg wit="#xle">и повелѣ ѡлегь во<hi rend="sup">м</hi>е свои<hi rend="sup">м</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">И повелѣ Олегъ воемъ своимъ</rdg><rdg wit="#shakh">И повелѣ Ольгъ воемъ своимъ</rdg><rdg wit="#likh">И повелѣ Олегъ воемъ своимъ</rdg></rdgGrp></app></p></div></body></text></TEI>

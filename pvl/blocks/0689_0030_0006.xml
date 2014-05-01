@@ -1,79 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>30, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="30"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-<w n="30,6">имяху</w>
-<w n="30,6">плѣньникы,</w>
-<w n="30,6">овы</w>
-<w n="30,6">посѣкаху,</w>
-<w n="30,6">другыя</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="30,6">имяху</w>
-<w n="30,6">полоняники</w>
-<w n="30,6">овы</w>
-<w n="30,6">посѣкаху</w>
-<w n="30,6">а</w>
-<w n="30,6">другия</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="30,6">има<lb/>хоу</w>
-<w n="30,6">плѣнникы.</w>
-<w n="30,6">ѡвѣхъ</w>
-<w n="30,6">посекахѹ</w>
-<w n="30,6">дроугиа</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="30,6">имахѹ</w>
-<w n="30,6">плѣнники.</w>
-<w n="30,6">ѡвѣ<hi rend="sup">х</hi></w>
-<w n="30,6">посекахѹ.</w>
-<w n="30,6">дрѹгїа</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="30,6">имѧху</w>
-<w n="30,6">полонѧникы.</w>
-<w n="30,6">ѡ<lb/>вѣхъ</w>
-<w n="30,6">посѣкаху.</w>
-<w n="30,6">другы<lb/>ꙗ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="30,6">имѧхѫ</w>
-<w n="30,6">полонѧникы. <lb/></w>
-
-<w n="30,6">ѡвѣ<hi rend="sup">х</hi></w>
-<w n="30,6">посѣкахоу<hi rend="sup">т</hi>.</w>
-<w n="30,6">дроугыа</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="30,6">имаху</w>
-<w n="30,6">плѣнникы,</w>
-<w n="30,6">овѣхъ</w>
-<w n="30,6">посекаху,</w>
-<w n="30,6">другиа</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="30,6">имаху</w>
-<w n="30,6">плѣньникы,</w>
-<w n="30,6">овы</w>
-<w n="30,6">посѣкаху,</w>
-<w n="30,6">другыя</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="30,6">имаху</w>
-<w n="30,6">плѣнникы,</w>
-<w n="30,6">овѣхъ</w>
-<w n="30,6">посекаху,</w>
-<w n="30,6">другиа</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>30, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="30"/><div type="block" n="6"><p><app><lem wit="#lem">
+            имяху плѣньникы, овы посѣкаху, другыя
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">имяху полоняники овы посѣкаху а другия</rdg>
+            <rdg wit="#rad">има<lb/>хоу плѣнникы. ѡвѣхъ посекахѹ дроугиа</rdg>
+            <rdg wit="#aka">имахѹ плѣнники. ѡвѣ<hi rend="sup">х</hi> посекахѹ. дрѹгїа</rdg>
+            <rdg wit="#ipa">имѧху полонѧникы. ѡ<lb/>вѣхъ посѣкаху. другы<lb/>ꙗ</rdg>
+            <rdg wit="#xle">имѧхѫ полонѧникы. <lb/> ѡвѣ<hi rend="sup">х</hi> посѣкахоу<hi rend="sup">т</hi>. дроугыа</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">имаху плѣнникы, овѣхъ посекаху, другиа</rdg><rdg wit="#shakh">имаху плѣньникы, овы посѣкаху, другыя</rdg><rdg wit="#likh">имаху плѣнникы, овѣхъ посекаху, другиа</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,112 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>172, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="172"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-<w n="172,19">крьстьную</w>
-<w n="172,19">на</w>
-<w n="172,19">показание</w>
-<w n="172,19">землѣ</w>
-<w n="172,19">Русьстѣи,</w>
-<w n="172,19">да</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="172,19">крт<hi rend="sup">с</hi>ную</w>
-<w n="172,19">показань<lb/>е</w>
-<w n="172,19">землѣ</w>
-<w n="172,19">русьстѣи.</w>
-<w n="172,19">да</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="172,19">крт<hi rend="sup">с</hi>ноую.</w>
-<w n="172,19">на</w>
-<w n="172,19">показание <lb/></w>
-
-<w n="172,19">земли</w>
-<w n="172,19">роускои.</w>
-<w n="172,19">да</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="172,19">крт<hi rend="sup">с</hi>нѹю.</w>
-<w n="172,19">на</w>
-<w n="172,19">показание</w>
-<w n="172,19">земли</w>
-<w n="172,19">рѹс<hi rend="sup">с</hi>кои. <lb/></w>
-
-<w n="172,19">да</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="172,19">крт<hi rend="sup">с</hi>ь<milestone unit="sic" n="start"/><milestone unit="sic" n="end"/>ную</w>
-<w n="172,19">на</w>
-<w n="172,19">показа<lb/>ние</w>
-<w n="172,19">земли</w>
-<w n="172,19">рустѣи.</w>
-<w n="172,19">да</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="172,19">кр<hi rend="sup">с</hi>тноую.</w>
-<w n="172,19">на</w>
-<w n="172,19">показанїе</w>
-<w n="172,19">земли</w>
-<w n="172,19">роустеи. <lb/></w>
-
-<w n="172,19">да</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="172,19">крестиꙗнскую</w>
-<w n="172,19">на</w>
-<w n="172,19">показанье</w>
-<w n="172,19">земли</w>
-<w n="172,19">рустѣи</w>
-<w n="172,19">да</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="172,19">христианьскую</w>
-<w n="172,19">на</w>
-<w n="172,19">показание</w>
-<w n="172,19">земли</w>
-<w n="172,19">рустѣи</w>
-<w n="172,19">да</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="172,19">христианьскую</w>
-<w n="172,19">на</w>
-<w n="172,19">показание</w>
-<w n="172,19">земли</w>
-<w n="172,19">рустѣи</w>
-<w n="172,19">да</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="172,19">крестную</w>
-<w n="172,19">на</w>
-<w n="172,19">показанье</w>
-<w n="172,19">землѣ</w>
-<w n="172,19">Русьстѣй,</w>
-<w n="172,19">да</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="172,19">крьстьную</w>
-<w n="172,19">на</w>
-<w n="172,19">показание</w>
-<w n="172,19">землѣ</w>
-<w n="172,19">Русьстѣи,</w>
-<w n="172,19">да</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="172,19">крестную</w>
-<w n="172,19">на</w>
-<w n="172,19">показанье</w>
-<w n="172,19">землѣ</w>
-<w n="172,19">Русьстѣй,</w>
-<w n="172,19">да</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>172, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="172"/><div type="block" n="19"><p><app><lem wit="#lem">
+            крьстьную на показание землѣ Русьстѣи, да
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">крт<hi rend="sup">с</hi>ную показань<lb/>е землѣ русьстѣи. да</rdg>
+            <rdg wit="#rad">крт<hi rend="sup">с</hi>ноую. на показание <lb/> земли роускои. да</rdg>
+            <rdg wit="#aka">крт<hi rend="sup">с</hi>нѹю. на показание земли рѹс<hi rend="sup">с</hi>кои. <lb/> да</rdg>
+            <rdg wit="#ipa">крт<hi rend="sup">с</hi>ь<sic/>ную на показа<lb/>ние земли рустѣи. да</rdg>
+            <rdg wit="#xle">кр<hi rend="sup">с</hi>тноую. на показанїе земли роустеи. <lb/> да</rdg>
+            <rdg wit="#kom">крестиꙗнскую на показанье земли рустѣи да</rdg>
+            <rdg wit="#nak">христианьскую на показание земли рустѣи да</rdg>
+            <rdg wit="#tol">христианьскую на показание земли рустѣи да</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">крестную на показанье землѣ Русьстѣй, да</rdg><rdg wit="#shakh">крьстьную на показание землѣ Русьстѣи, да</rdg><rdg wit="#likh">крестную на показанье землѣ Русьстѣй, да</rdg></rdgGrp></app></p></div></body></text></TEI>

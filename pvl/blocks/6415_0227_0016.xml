@@ -1,90 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>227, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="227"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="227,16">къ</w>
-<w n="227,16">тобѣ</w>
-<w n="227,16">ходяще</w>
-<w n="227,16">ротѣ,</w>
-<w n="227,16">губять</w>
-<w n="227,16">землю</w>
-<w n="227,16">Русьскую,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="227,16">к</w>
-<w n="227,16">тобѣ</w>
-<w n="227,16">ходѧче</w>
-<w n="227,16">ротѣ</w>
-<w n="227,16">губѧ<lb/>ть</w>
-<w n="227,16">землю</w>
-<w n="227,16">русьскую·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="227,16">то<lb/>бѣ</w>
-<w n="227,16">ходѧще</w>
-<w n="227,16">ротѣ·</w>
-<w n="227,16">гѹбѧть</w>
-<w n="227,16">землю</w>
-<w n="227,16">роускоую·</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="227,16">тобѣ</w>
-<w n="227,16">ходѧще</w>
-<w n="227,16">ротѣ</w>
-<w n="227,16">гѹбѧтъ <lb/></w>
-
-<w n="227,16">землю</w>
-<w n="227,16">рѹс<hi rend="sup">с</hi>кѹю·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="227,16">все<lb/>гда</w>
-<w n="227,16">ротѣ</w>
-<w n="227,16">ходѧще</w>
-<w n="227,16">губѧть</w>
-<w n="227,16">зе<lb/>млю</w>
-<w n="227,16">рускую·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="227,16">всег<hi rend="sup">д</hi>а</w>
-<w n="227,16">ротѣ</w>
-<w n="227,16">ходѧща</w>
-<w n="227,16">гоубѧ<hi rend="sup">т</hi></w>
-<w n="227,16">землю <lb/></w>
-
-<w n="227,16">роу<hi rend="sup">с</hi>коую.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="227,16">к</w>
-<w n="227,16">тобѣ</w>
-<w n="227,16">ходяще</w>
-<w n="227,16">ротѣ,</w>
-<w n="227,16">губять</w>
-<w n="227,16">землю</w>
-<w n="227,16">Русьскую,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="227,16">къ</w>
-<w n="227,16">тобѣ</w>
-<w n="227,16">ходяще</w>
-<w n="227,16">ротѣ,</w>
-<w n="227,16">губять</w>
-<w n="227,16">землю</w>
-<w n="227,16">Русьскую,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="227,16">к</w>
-<w n="227,16">тобѣ</w>
-<w n="227,16">ходяче</w>
-<w n="227,16">ротѣ,</w>
-<w n="227,16">губять</w>
-<w n="227,16">землю</w>
-<w n="227,16">Русьскую,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>227, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="227"/><div type="block" n="16"><p><app><lem wit="#lem">
+            къ тобѣ ходяще ротѣ, губять землю Русьскую,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">к тобѣ ходѧче ротѣ губѧ<lb/>ть землю русьскую·</rdg>
+            <rdg wit="#rad">то<lb/>бѣ ходѧще ротѣ· гѹбѧть землю роускоую·</rdg>
+            <rdg wit="#aka">тобѣ ходѧще ротѣ гѹбѧтъ <lb/> землю рѹс<hi rend="sup">с</hi>кѹю·</rdg>
+            <rdg wit="#ipa">все<lb/>гда ротѣ ходѧще губѧть зе<lb/>млю рускую·</rdg>
+            <rdg wit="#xle">всег<hi rend="sup">д</hi>а ротѣ ходѧща гоубѧ<hi rend="sup">т</hi> землю <lb/>
+                роу<hi rend="sup">с</hi>коую.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">к тобѣ ходяще ротѣ, губять землю Русьскую,</rdg><rdg wit="#shakh">къ тобѣ ходяще ротѣ, губять землю Русьскую,</rdg><rdg wit="#likh">к тобѣ ходяче ротѣ, губять землю Русьскую,</rdg></rdgGrp></app></p></div></body></text></TEI>

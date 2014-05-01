@@ -1,78 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>35, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="35"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="35,18">проводимъ</w>
-<w n="35,18">ю</w>
-<w n="35,18">сквозѣ</w>
-<w n="35,18">вьсяко</w>
-<w n="35,18">страшьно</w>
-<w n="35,18">мѣсто,</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="35,18">проводимъ</w>
-<w n="35,18">ю</w>
-<w n="35,18">сквозѣ</w>
-<w n="35,18">всѧко</w>
-<w n="35,18">страшно</w>
-<w n="35,18">мѣсто.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="35,18">проводимъ</w>
-<w n="35,18">ю <lb/></w>
-
-<w n="35,18">сквозѣ</w>
-<w n="35,18">всѧко</w>
-<w n="35,18">страшно</w>
-<w n="35,18">мѣсто.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="35,18">проводимъ</w>
-<w n="35,18">ю</w>
-<w n="35,18">сквозѣ</w>
-<w n="35,18">всѧ<lb/>ко</w>
-<w n="35,18">страшно</w>
-<w n="35,18">мѣсто.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="35,18">проводи<hi rend="sup">м</hi></w>
-<w n="35,18">ю</w>
-<w n="35,18">скво<milestone unit="sic" n="start"/>ѕѣ<milestone unit="sic" n="end"/></w>
-<w n="35,18">всѧко</w>
-<w n="35,18">страшно</w>
-<w n="35,18">мѣсто.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="35,18">проводимъ</w>
-<w n="35,18">ю</w>
-<w n="35,18">сквозѣ</w>
-<w n="35,18">всяко</w>
-<w n="35,18">страшно</w>
-<w n="35,18">мѣсто,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="35,18">проводимъ</w>
-<w n="35,18">ю</w>
-<w n="35,18">сквозѣ</w>
-<w n="35,18">вьсяко</w>
-<w n="35,18">страшьно</w>
-<w n="35,18">мѣсто,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="35,18">проводимъ</w>
-<w n="35,18">ю</w>
-<w n="35,18">сквозѣ</w>
-<w n="35,18">всяко</w>
-<w n="35,18">страшно</w>
-<w n="35,18">мѣсто,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>35, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="35"/><div type="block" n="18"><p><app><lem wit="#lem">
+            проводимъ ю сквозѣ вьсяко страшьно мѣсто,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">проводимъ ю сквозѣ всѧко страшно мѣсто.</rdg>
+            <rdg wit="#aka">проводимъ ю <lb/> сквозѣ всѧко страшно мѣсто.</rdg>
+            <rdg wit="#ipa">проводимъ ю сквозѣ всѧ<lb/>ко страшно мѣсто.</rdg>
+            <rdg wit="#xle">проводи<hi rend="sup">м</hi> ю скво<sic>ѕѣ</sic> всѧко страшно мѣсто.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">проводимъ ю сквозѣ всяко страшно мѣсто,</rdg><rdg wit="#shakh">проводимъ ю сквозѣ вьсяко страшьно мѣсто,</rdg><rdg wit="#likh">проводимъ ю сквозѣ всяко страшно мѣсто,</rdg></rdgGrp></app></p></div></body></text></TEI>

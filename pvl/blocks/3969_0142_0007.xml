@@ -1,85 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>142, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="142"/><div type="block" n="7"><p>
-<app>
-<lem wit="#lem">
-<w n="142,7">Бѣ</w>
-<w n="142,7">бо</w>
-<w n="142,7">уже</w>
-<w n="142,7">въ</w>
-<w n="142,7">заморозъ.</w>
-<w n="142,7">И</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="142,7">бѣ</w>
-<w n="142,7">бо <lb/></w>
-
-<w n="142,7">оуже</w>
-<w n="142,7">в</w>
-<w n="142,7">заморозъ.</w>
-<w n="142,7">с҃тополкъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="142,7">бѣ</w>
-<w n="142,7">бо</w>
-<w n="142,7">в</w>
-<w n="142,7">заморозъ.</w>
-<w n="142,7">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="142,7">бѣ</w>
-<w n="142,7">бо</w>
-<w n="142,7">в</w>
-<w n="142,7">заморозъ.</w>
-<w n="142,7">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="142,7">бѣ</w>
-<w n="142,7">бо</w>
-<w n="142,7">оуже</w>
-<w n="142,7">вь</w>
-<w n="142,7">замрозъ.</w>
-<w n="142,7">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="142,7">бѣ</w>
-<w n="142,7">бо <lb/></w>
-
-<w n="142,7">оуже</w>
-<w n="142,7">в</w>
-<w n="142,7">заморозь.</w>
-<w n="142,7">и</w>
-<w n="142,7">стоаше</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="142,7">Бѣ</w>
-<w n="142,7">бо</w>
-<w n="142,7">уже</w>
-<w n="142,7">в</w>
-<w n="142,7">заморозъ.</w>
-<w n="142,7">Святополкъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="142,7">Бѣ</w>
-<w n="142,7">бо</w>
-<w n="142,7">уже</w>
-<w n="142,7">въ</w>
-<w n="142,7">заморозъ.</w>
-<w n="142,7">И</w>
-<w n="142,7">стояше</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="142,7">Бѣ</w>
-<w n="142,7">бо</w>
-<w n="142,7">уже</w>
-<w n="142,7">в</w>
-<w n="142,7">заморозъ.</w>
-<w n="142,7">Святополкъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>142, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="142"/><div type="block" n="7"><p><app><lem wit="#lem">
+            Бѣ бо уже въ заморозъ. И
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">бѣ бо <lb/> оуже в заморозъ. с҃тополкъ</rdg>
+            <rdg wit="#rad">бѣ бо в заморозъ. и</rdg>
+            <rdg wit="#aka">бѣ бо в заморозъ. и</rdg>
+            <rdg wit="#ipa">бѣ бо оуже вь замрозъ. и</rdg>
+            <rdg wit="#xle">бѣ бо <lb/> оуже в заморозь. и стоаше</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Бѣ бо уже в заморозъ. Святополкъ</rdg><rdg wit="#shakh">Бѣ бо уже въ заморозъ. И стояше</rdg><rdg wit="#likh">Бѣ бо уже в заморозъ. Святополкъ</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,107 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>10, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="10"/><div type="block" n="14"><p>
-<app>
-<lem wit="#lem">
-<w n="10,14">и</w>
-<w n="10,14">Хоривъ</w>
-<w n="10,14">и</w>
-<w n="10,14">сестра</w>
-<w n="10,14">ихъ</w>
-<w n="10,14">Лыбедь</w>
-<w n="10,14">ту</w>
-<w n="10,14">съконьчаша</w>
-<w n="10,14">ся.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="10,14"><milestone unit="sic" n="start"/>и</w>
-<w n="10,14">хорі<milestone unit="sic" n="end"/><lb/>въ</w>
-<w n="10,14">и</w>
-<w n="10,14">сестра</w>
-<w n="10,14">и<hi rend="sup">х</hi></w>
-<w n="10,14">лыбедь</w>
-<w n="10,14">ту</w>
-<w n="10,14">скончаш<hi rend="sup">с</hi>а<hi rend="sup">ѧ</hi>.</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="10,14">и</w>
-<w n="10,14">хоривъ</w>
-<w n="10,14">и</w>
-<w n="10,14">сестра</w>
-<w n="10,14">их</w>
-<w n="10,14">лыбедь</w>
-<w n="10,14">ту</w>
-<w n="10,14">скончашася</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="10,14">и</w>
-<w n="10,14">хоривъ.</w>
-<w n="10,14">и</w>
-<w n="10,14">сестра</w>
-<w n="10,14">и<hi rend="sup">х</hi></w>
-<w n="10,14">лыбе<hi rend="sup">д</hi>.</w>
-<w n="10,14">тоу</w>
-<w n="10,14">скончаша<hi rend="sup">с</hi>:·<lb/></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="10,14">и</w>
-<w n="10,14">хоривь</w>
-<w n="10,14">и</w>
-<w n="10,14">сестра <lb/></w>
-
-<w n="10,14">ихъ</w>
-<w n="10,14">лыбедь.</w>
-<w n="10,14">тѹ</w>
-<w n="10,14">скончашасѧ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="10,14">и <lb/></w>
-
-<w n="10,14">хоривъ.</w>
-<w n="10,14">и</w>
-<w n="10,14">сестра</w>
-<w n="10,14">ихъ</w>
-<w n="10,14">лы<lb/>бѣдь</w>
-<w n="10,14">ту</w>
-<w n="10,14">скон<milestone unit="sic" n="start"/>ч<milestone unit="sic" n="end"/>ашасѧ·:·<lb/></w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="10,14">и</w>
-<w n="10,14">Хоривъ</w>
-<w n="10,14">и</w>
-<w n="10,14">сестра</w>
-<w n="10,14">ихъ</w>
-<w n="10,14">Лыбедь</w>
-<w n="10,14">ту</w>
-<w n="10,14">скончашася.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="10,14">и</w>
-<w n="10,14">Хоривъ</w>
-<w n="10,14">и</w>
-<w n="10,14">сестра</w>
-<w n="10,14">ихъ</w>
-<w n="10,14">Лыбедь</w>
-<w n="10,14">ту</w>
-<w n="10,14">съконьчашася.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="10,14">и</w>
-<w n="10,14">Хоривъ</w>
-<w n="10,14">и</w>
-<w n="10,14">сестра</w>
-<w n="10,14">их</w>
-<w n="10,14">Лыбедь</w>
-<w n="10,14">ту</w>
-<w n="10,14">скончашася.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>10, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="10"/><div type="block" n="14"><p><app><lem wit="#lem">
+            и Хоривъ и сестра ихъ Лыбедь ту съконьчаша ся.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav"><sic>и хорі</sic><lb/>въ и сестра и<hi rend="sup">х</hi> лыбедь ту
+                    скончаш<hi rend="sup">с</hi>а<hi rend="sup">ѧ</hi>.</rdg>
+            <rdg wit="#tro">и хоривъ и сестра их лыбедь ту скончашася</rdg>
+            <rdg wit="#rad">и хоривъ. и сестра и<hi rend="sup">х</hi> лыбе<hi rend="sup">д</hi>. тоу
+                скончаша<hi rend="sup">с</hi>:·<lb/></rdg>
+            <rdg wit="#aka">и хоривь и сестра <lb/> ихъ лыбедь. тѹ скончашасѧ.</rdg>
+            <rdg wit="#ipa">и <lb/> хоривъ. и сестра ихъ лы<lb/>бѣдь ту
+                скон<sic>ч</sic>ашасѧ·:·<lb/></rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и Хоривъ и сестра ихъ Лыбедь ту скончашася.</rdg><rdg wit="#shakh">и Хоривъ и сестра ихъ Лыбедь ту съконьчашася.</rdg><rdg wit="#likh">и Хоривъ и сестра их Лыбедь ту скончашася.</rdg></rdgGrp></app></p></div></body></text></TEI>

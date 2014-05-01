@@ -1,88 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>143, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="143"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="143,5">Буды,</w>
-<w n="143,5">и</w>
-<w n="143,5">нача</w>
-<w n="143,5">Буды</w>
-<w n="143,5">укаряти</w>
-<w n="143,5">Болеслава,</w>
-<w n="143,5">глаголя:</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="143,5">буды.</w>
-<w n="143,5">нача</w>
-<w n="143,5">оукарѧти</w>
-<w n="143,5">бо<lb/>леслава</w>
-<w n="143,5">гл҃ѧ.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="143,5">бѹ<lb/>дыи.</w>
-<w n="143,5">и</w>
-<w n="143,5">на<hi rend="sup">ч</hi></w>
-<w n="143,5">боу<hi rend="sup">д</hi></w>
-<w n="143,5">оукарѧти</w>
-<w n="143,5">болеслава</w>
-<w n="143,5">гл҃ѧ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="143,5">бѹдыи.</w>
-<w n="143,5">и</w>
-<w n="143,5">нача</w>
-<w n="143,5">бѹ<hi rend="sup">д</hi></w>
-<w n="143,5">оукарѧти</w>
-<w n="143,5">болесла<lb/>ва</w>
-<w n="143,5">гл҃ѧ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="143,5">будыи. <lb/></w>
-
-<w n="143,5">и</w>
-<w n="143,5">нача</w>
-<w n="143,5">буды</w>
-<w n="143,5">оукарѧти</w>
-<w n="143,5">бо<lb/>леслава</w>
-<w n="143,5">гл҃ѧ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="143,5">боу<lb/>ды.</w>
-<w n="143,5">и</w>
-<w n="143,5">нача</w>
-<w n="143,5">боуды</w>
-<w n="143,5">оукарѧти</w>
-<w n="143,5">болеслава</w>
-<w n="143,5">г҃лѧ, <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="143,5">Буды,</w>
-<w n="143,5">нача</w>
-<w n="143,5">укаряти</w>
-<w n="143,5">Болеслава,</w>
-<w n="143,5">глаголя:</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="143,5">Буды,</w>
-<w n="143,5">и</w>
-<w n="143,5">нача</w>
-<w n="143,5">Буды</w>
-<w n="143,5">укаряти</w>
-<w n="143,5">Болеслава,</w>
-<w n="143,5">глаголя:</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="143,5">Буды,</w>
-<w n="143,5">нача</w>
-<w n="143,5">укаряти</w>
-<w n="143,5">Болеслава,</w>
-<w n="143,5">глаголя:</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>143, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="143"/><div type="block" n="5"><p><app><lem wit="#lem">
+            Буды, и нача Буды укаряти Болеслава, глаголя:
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">буды. нача оукарѧти бо<lb/>леслава гл҃ѧ.</rdg>
+            <rdg wit="#rad">бѹ<lb/>дыи. и на<hi rend="sup">ч</hi> боу<hi rend="sup">д</hi> оукарѧти болеслава гл҃ѧ.</rdg>
+            <rdg wit="#aka">бѹдыи. и нача бѹ<hi rend="sup">д</hi> оукарѧти болесла<lb/>ва гл҃ѧ.</rdg>
+            <rdg wit="#ipa">будыи. <lb/> и нача буды оукарѧти бо<lb/>леслава гл҃ѧ.</rdg>
+            <rdg wit="#xle">боу<lb/>ды. и нача боуды оукарѧти болеслава г҃лѧ, <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Буды, нача укаряти Болеслава, глаголя:</rdg><rdg wit="#shakh">Буды, и нача Буды укаряти Болеслава, глаголя:</rdg><rdg wit="#likh">Буды, нача укаряти Болеслава, глаголя:</rdg></rdgGrp></app></p></div></body></text></TEI>

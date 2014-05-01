@@ -1,81 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>216, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="216"/><div type="block" n="24"><p>
-<app>
-<lem wit="#lem">
-<w n="216,24">Переяславли.</w>
-<w n="216,24">Сѣдящю</w>
-<w n="216,24">бо</w>
-<w n="216,24">ему</w>
-<w n="216,24">Кыевѣ,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="216,24">переꙗсла<lb/>вли·</w>
-<w n="216,24">сѣдѧщю</w>
-<w n="216,24">бо</w>
-<w n="216,24">ѥму</w>
-<w n="216,24">кыѥвѣ· <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="216,24">переꙗславли.</w>
-<w n="216,24">седѧщоу <lb/></w>
-
-<w n="216,24">бо</w>
-<w n="216,24">емоу</w>
-<w n="216,24">в</w>
-<w n="216,24">киевѣ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="216,24">переꙗславли·</w>
-<w n="216,24">и</w>
-<w n="216,24">седѧщѹ</w>
-<w n="216,24">бо</w>
-<w n="216,24">емѹ</w>
-<w n="216,24">оу</w>
-<w n="216,24">кы<lb/>евѣ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="216,24">переꙗ<lb/>славлѣ·</w>
-<w n="216,24">сѣдшю</w>
-<w n="216,24">бо</w>
-<w n="216,24">ему</w>
-<w n="216,24">ки<lb/>евѣ·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="216,24">переяславли.</w>
-<w n="216,24">сѣ<hi rend="sup">д</hi>шю</w>
-<w n="216,24">бѡ <lb/></w>
-
-<w n="216,24">емоу</w>
-<w n="216,24">в</w>
-<w n="216,24">кыевѣ.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="216,24">Переяславли;</w>
-<w n="216,24">сѣдящю</w>
-<w n="216,24">бо</w>
-<w n="216,24">ему</w>
-<w n="216,24">Кыевѣ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="216,24">Переяславли.</w>
-<w n="216,24">Сѣдящю</w>
-<w n="216,24">бо</w>
-<w n="216,24">ему</w>
-<w n="216,24">Кыевѣ,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="216,24">Переяславли.</w>
-<w n="216,24">Сѣдящю</w>
-<w n="216,24">бо</w>
-<w n="216,24">ему</w>
-<w n="216,24">Кыевѣ,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>216, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="216"/><div type="block" n="24"><p><app><lem wit="#lem">
+            Переяславли. Сѣдящю бо ему Кыевѣ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">переꙗсла<lb/>вли· сѣдѧщю бо ѥму кыѥвѣ· <lb/></rdg>
+            <rdg wit="#rad">переꙗславли. седѧщоу <lb/> бо емоу в киевѣ.</rdg>
+            <rdg wit="#aka">переꙗславли· и седѧщѹ бо емѹ оу кы<lb/>евѣ</rdg>
+            <rdg wit="#ipa">переꙗ<lb/>славлѣ· сѣдшю бо ему ки<lb/>евѣ·</rdg>
+            <rdg wit="#xle">переꙗславли. сѣ<hi rend="sup">д</hi>шю бѡ <lb/> емоу в кыевѣ.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Переяславли; сѣдящю бо ему Кыевѣ,</rdg><rdg wit="#shakh">Переяславли. Сѣдящю бо ему Кыевѣ,</rdg><rdg wit="#likh">Переяславли. Сѣдящю бо ему Кыевѣ,</rdg></rdgGrp></app></p></div></body></text></TEI>

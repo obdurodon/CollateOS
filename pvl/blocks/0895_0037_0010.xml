@@ -1,80 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>37, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="37"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-<w n="37,10">таковыи,</w>
-<w n="37,10">и</w>
-<w n="37,10">възвращенъ</w>
-<w n="37,10">будеть,</w>
-<w n="37,10">не</w>
-<w n="37,10">хотяи,</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="37,10">таковыи.</w>
-<w n="37,10">и</w>
-<w n="37,10">възвра<lb/>ще<hi rend="sup">н</hi></w>
-<w n="37,10">боуде<hi rend="sup">т</hi></w>
-<w n="37,10">не</w>
-<w n="37,10">хотѧ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="37,10">таковыи.</w>
-<w n="37,10">и</w>
-<w n="37,10">възращенъ</w>
-<w n="37,10">бѹдетъ</w>
-<w n="37,10">не</w>
-<w n="37,10">хотѧи</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="37,10">таковыи. <lb/></w>
-
-<w n="37,10">и</w>
-<w n="37,10">възвращенъ</w>
-<w n="37,10">буде<hi rend="sup">т</hi><lb/></w>
-<w n="37,10">не</w>
-<w n="37,10">хотѧ<hi rend="sup">и</hi></w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="37,10">таковыи. <lb/></w>
-
-<w n="37,10">и</w>
-<w n="37,10">възвращень</w>
-<w n="37,10">боуде<hi rend="sup">т</hi></w>
-<w n="37,10">и</w>
-<w n="37,10">не</w>
-<w n="37,10">хотѧ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="37,10">таковый,</w>
-<w n="37,10">и</w>
-<w n="37,10">възвращенъ</w>
-<w n="37,10">будеть,</w>
-<w n="37,10">не</w>
-<w n="37,10">хотя,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="37,10">таковыи,</w>
-<w n="37,10">и</w>
-<w n="37,10">възвращенъ</w>
-<w n="37,10">будеть,</w>
-<w n="37,10">не</w>
-<w n="37,10">хотяи,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="37,10">таковый,</w>
-<w n="37,10">и</w>
-<w n="37,10">възвращен</w>
-<w n="37,10">будеть,</w>
-<w n="37,10">не</w>
-<w n="37,10">хотя,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>37, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="37"/><div type="block" n="10"><p><app><lem wit="#lem">
+            таковыи, и възвращенъ будеть, не хотяи,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">таковыи. и възвра<lb/>ще<hi rend="sup">н</hi> боуде<hi rend="sup">т</hi> не хотѧ</rdg>
+            <rdg wit="#aka">таковыи. и възращенъ бѹдетъ не хотѧи</rdg>
+            <rdg wit="#ipa">таковыи. <lb/> и възвращенъ буде<hi rend="sup">т</hi>
+                <lb/> не хотѧ<hi rend="sup">и</hi></rdg>
+            <rdg wit="#xle">таковыи. <lb/> и възвращень боуде<hi rend="sup">т</hi> и не хотѧ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">таковый, и възвращенъ будеть, не хотя,</rdg><rdg wit="#shakh">таковыи, и възвращенъ будеть, не хотяи,</rdg><rdg wit="#likh">таковый, и възвращен будеть, не хотя,</rdg></rdgGrp></app></p></div></body></text></TEI>

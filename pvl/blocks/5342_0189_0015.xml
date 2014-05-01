@@ -1,75 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>189, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="189"/><div type="block" n="15"><p>
-<app>
-<lem wit="#lem">
-<w n="189,15">абие</w>
-<w n="189,15">творяше</w>
-<w n="189,15">молитву,</w>
-<w n="189,15">и</w>
-<w n="189,15">маслъмь</w>
-<w n="189,15">помазаше,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="189,15">абье</w>
-<w n="189,15">створѧше</w>
-<w n="189,15">мо<lb/>литву.</w>
-<w n="189,15">и</w>
-<w n="189,15">масломь</w>
-<w n="189,15">помазаше.</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="189,15">абье</w>
-<w n="189,15">творѧше <lb/></w>
-
-<w n="189,15">млтв҃у.</w>
-<w n="189,15">и</w>
-<w n="189,15">масломъ</w>
-<w n="189,15">ст҃мъ <lb/></w>
-
-<w n="189,15">помазаше.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="189,15">абїе</w>
-<w n="189,15">творѧше</w>
-<w n="189,15">мл҃твоу.</w>
-<w n="189,15">и</w>
-<w n="189,15">ма<lb/>слѡ<hi rend="sup">м</hi></w>
-<w n="189,15">ст҃ы<hi rend="sup">м</hi></w>
-<w n="189,15">помазаше.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="189,15">абье</w>
-<w n="189,15">створяше</w>
-<w n="189,15">молитву,</w>
-<w n="189,15">и</w>
-<w n="189,15">масломь</w>
-<w n="189,15">помазаше,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="189,15">абие</w>
-<w n="189,15">сътворяше</w>
-<w n="189,15">молитву,</w>
-<w n="189,15">и</w>
-<w n="189,15">маслъмь</w>
-<w n="189,15">помазаше.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="189,15">абье</w>
-<w n="189,15">створяше</w>
-<w n="189,15">молитву,</w>
-<w n="189,15">и</w>
-<w n="189,15">масломь</w>
-<w n="189,15">помазаше,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>189, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="189"/><div type="block" n="15"><p><app><lem wit="#lem">
+            абие творяше молитву, и маслъмь помазаше,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">абье створѧше мо<lb/>литву. и масломь помазаше.</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">абье творѧше <lb/> млтв҃у. и масломъ ст҃мъ <lb/> помазаше.</rdg>
+            <rdg wit="#xle">абїе творѧше мл҃твоу. и ма<lb/>слѡ<hi rend="sup">м</hi> ст҃ы<hi rend="sup">м</hi> помазаше.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">абье створяше молитву, и масломь помазаше,</rdg><rdg wit="#shakh">абие сътворяше молитву, и маслъмь помазаше.</rdg><rdg wit="#likh">абье створяше молитву, и масломь помазаше,</rdg></rdgGrp></app></p></div></body></text></TEI>

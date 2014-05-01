@@ -1,56 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>252, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="252"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="252,10">повелѣно·</w>
-<w n="252,10">а</w>
-<w n="252,10">иже</w>
-<w n="252,10">ѿ</w>
-<w n="252,10">б҃а</w>
-<w n="252,10">буде<hi rend="sup">т</hi><lb/></w>
-<w n="252,10">смр҃ть·</w>
-<w n="252,10">то</w>
-<w n="252,10">ни</w>
-<w n="252,10">ѡц҃ь</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="252,10">повелѣно;</w>
-<w n="252,10">а</w>
-<w n="252,10">иже</w>
-<w n="252,10">отъ</w>
-<w n="252,10">Бога</w>
-<w n="252,10">будеть</w>
-<w n="252,10">смерть,</w>
-<w n="252,10">то</w>
-<w n="252,10">ни</w>
-<w n="252,10">отець,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="252,10">повелѣно.</w>
-<w n="252,10">А</w>
-<w n="252,10">иже</w>
-<w n="252,10">от</w>
-<w n="252,10">бога</w>
-<w n="252,10">будеть</w>
-<w n="252,10">смерть,</w>
-<w n="252,10">то</w>
-<w n="252,10">ни</w>
-<w n="252,10">отець,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>252, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="252"/><div type="block" n="10"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">повелѣно· а иже ѿ б҃а буде<hi rend="sup">т</hi>
+                <lb/> смр҃ть· то ни ѡц҃ь</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">повелѣно; а иже отъ Бога будеть смерть, то ни отець,</rdg><rdg wit="#likh">повелѣно. А иже от бога будеть смерть, то ни отець,</rdg></rdgGrp></app></p></div></body></text></TEI>

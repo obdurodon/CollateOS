@@ -1,82 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>221, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="221"/><div type="block" n="13"><p>
-<app>
-<lem wit="#lem">
-<w n="221,13">Половьци</w>
-<w n="221,13">же</w>
-<w n="221,13">начаша</w>
-<w n="221,13">налѣгати,</w>
-<w n="221,13">и</w>
-<w n="221,13">отъимати</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="221,13">половци</w>
-<w n="221,13">же</w>
-<w n="221,13">начаша</w>
-<w n="221,13">на<lb/>лѣгати</w>
-<w n="221,13">и</w>
-<w n="221,13">ѡтъимаху</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="221,13">половци<hi rend="sup">ж</hi><lb/></w>
-<w n="221,13">начаша.</w>
-<w n="221,13">налегати.</w>
-<w n="221,13">ѿимати</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="221,13">половци</w>
-<w n="221,13">же</w>
-<w n="221,13">начаша <lb/></w>
-
-<w n="221,13">налегати</w>
-<w n="221,13">и</w>
-<w n="221,13">ѿнимати</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="221,13">половци <lb/></w>
-
-<w n="221,13">же</w>
-<w n="221,13">на<milestone unit="sic" n="start"/>ч<milestone unit="sic" n="end"/>аша</w>
-<w n="221,13">налѣгати</w>
-<w n="221,13">ѡ<lb/>тоимати</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="221,13">половци</w>
-<w n="221,13">же,</w>
-<w n="221,13">начаша</w>
-<w n="221,13">на<lb/>лѣгати</w>
-<w n="221,13">и</w>
-<w n="221,13">ѿимати</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="221,13">Половци</w>
-<w n="221,13">же</w>
-<w n="221,13">начаша</w>
-<w n="221,13">налѣгати,</w>
-<w n="221,13">и</w>
-<w n="221,13">отъимаху</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="221,13">Половьци</w>
-<w n="221,13">же</w>
-<w n="221,13">начаша</w>
-<w n="221,13">налѣгати,</w>
-<w n="221,13">и</w>
-<w n="221,13">отъимаху</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="221,13">Половци</w>
-<w n="221,13">же</w>
-<w n="221,13">начаша</w>
-<w n="221,13">налѣгати,</w>
-<w n="221,13">и</w>
-<w n="221,13">отъимаху</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>221, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="221"/><div type="block" n="13"><p><app><lem wit="#lem">
+            Половьци же начаша налѣгати, и отъимати
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">половци же начаша на<lb/>лѣгати и ѡтъимаху</rdg>
+            <rdg wit="#rad">половци<hi rend="sup">ж</hi>
+                <lb/> начаша. налегати. ѿимати</rdg>
+            <rdg wit="#aka">половци же начаша <lb/> налегати и ѿнимати</rdg>
+            <rdg wit="#ipa">половци <lb/> же на<sic>ч</sic>аша налѣгати ѡ<lb/>тоимати</rdg>
+            <rdg wit="#xle">половци же, начаша на<lb/>лѣгати и ѿимати</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Половци же начаша налѣгати, и отъимаху</rdg><rdg wit="#shakh">Половьци же начаша налѣгати, и отъимаху</rdg><rdg wit="#likh">Половци же начаша налѣгати, и отъимаху</rdg></rdgGrp></app></p></div></body></text></TEI>

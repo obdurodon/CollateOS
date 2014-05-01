@@ -1,82 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>146, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="146"/><div type="block" n="25"><p>
-<app>
-<lem wit="#lem">
-<w n="146,25">же</w>
-<w n="146,25">се,</w>
-<w n="146,25">кънязь</w>
-<w n="146,25">Касожьскыи</w>
-<w n="146,25">Редедя</w>
-<w n="146,25">изыде</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="146,25">же</w>
-<w n="146,25">се</w>
-<w n="146,25">кнѧзь <lb/></w>
-
-<w n="146,25">касожьскыи.</w>
-<w n="146,25">редедѧ.</w>
-<w n="146,25">изиде <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="146,25">же</w>
-<w n="146,25">кн҃зь</w>
-<w n="146,25">касо<hi rend="sup">ж</hi>скыи.</w>
-<w n="146,25">изы<hi rend="sup">д</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="146,25">же <lb/></w>
-
-<w n="146,25">кнз҃ь</w>
-<w n="146,25">косажьскыи.</w>
-<w n="146,25">изыде</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="146,25">же</w>
-<w n="146,25">се</w>
-<w n="146,25">кнѧ<lb/>зь</w>
-<w n="146,25">касожьскии.</w>
-<w n="146,25">редедѧ.</w>
-<w n="146,25">изы<lb/>иде</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="146,25">же</w>
-<w n="146,25">се</w>
-<w n="146,25">кнѧ<hi rend="sup">з</hi></w>
-<w n="146,25">коса<hi rend="sup">ж</hi>скыи</w>
-<w n="146,25">редедѧ.</w>
-<w n="146,25">изыде</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="146,25">же</w>
-<w n="146,25">се</w>
-<w n="146,25">князь</w>
-<w n="146,25">Касожьскый</w>
-<w n="146,25">Редедя,</w>
-<w n="146,25">изиде</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="146,25">же</w>
-<w n="146,25">се</w>
-<w n="146,25">кънязь</w>
-<w n="146,25">Касожьскыи</w>
-<w n="146,25">Редедя,</w>
-<w n="146,25">изиде</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="146,25">же</w>
-<w n="146,25">се,</w>
-<w n="146,25">князь</w>
-<w n="146,25">касожьскый</w>
-<w n="146,25">Редедя</w>
-<w n="146,25">изиде</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>146, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="146"/><div type="block" n="25"><p><app><lem wit="#lem">
+            же се, кънязь Касожьскыи Редедя изыде
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">же се кнѧзь <lb/> касожьскыи. редедѧ. изиде <lb/></rdg>
+            <rdg wit="#rad">же кн҃зь касо<hi rend="sup">ж</hi>скыи. изы<hi rend="sup">д</hi></rdg>
+            <rdg wit="#aka">же <lb/> кнз҃ь косажьскыи. изыде</rdg>
+            <rdg wit="#ipa">же се кнѧ<lb/>зь касожьскии. редедѧ. изы<lb/>иде</rdg>
+            <rdg wit="#xle">же се кнѧ<hi rend="sup">з</hi> коса<hi rend="sup">ж</hi>скыи редедѧ. изыде</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">же се князь Касожьскый Редедя, изиде</rdg><rdg wit="#shakh">же се кънязь Касожьскыи Редедя, изиде</rdg><rdg wit="#likh">же се, князь касожьскый Редедя изиде</rdg></rdgGrp></app></p></div></body></text></TEI>

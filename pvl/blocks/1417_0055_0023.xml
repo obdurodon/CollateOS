@@ -1,98 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>55, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="55"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="55,23">иде</w>
-<w n="55,23">же</w>
-<w n="55,23">есть</w>
-<w n="55,23">нынѣ</w>
-<w n="55,23">дворъ</w>
-<w n="55,23">Воротиславль</w>
-<w n="55,23">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="55,23">идеже</w>
-<w n="55,23">есть</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="55,23">идѣже</w>
-<w n="55,23">е<hi rend="sup">с</hi></w>
-<w n="55,23">н҃нѣ</w>
-<w n="55,23">дворъ</w>
-<w n="55,23">воротиславль.</w>
-<w n="55,23">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="55,23">идѣже</w>
-<w n="55,23">есть</w>
-<w n="55,23">н҃нѣ</w>
-<w n="55,23">дворъ</w>
-<w n="55,23">воротисла<lb/>вль.</w>
-<w n="55,23">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="55,23">и<lb/>деже</w>
-<w n="55,23">есть</w>
-<w n="55,23">нынѣ</w>
-<w n="55,23">двор<hi rend="sup">ъ</hi><lb/></w>
-<w n="55,23">воротиславль</w>
-<w n="55,23">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="55,23">идеже</w>
-<w n="55,23">е<hi rend="sup">с</hi></w>
-<w n="55,23">н҃нѣ</w>
-<w n="55,23">дворь</w>
-<w n="55,23">воротиславль</w>
-<w n="55,23">и</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="55,23">идеже</w>
-<w n="55,23">есть</w>
-<w n="55,23">нынѣ</w>
-<w n="55,23">дворъ</w>
-<w n="55,23">воротиславль</w>
-<w n="55,23">и</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="55,23">идѣже</w>
-<w n="55,23">есть</w>
-<w n="55,23">нынѣ</w>
-<w n="55,23">дворъ</w>
-<w n="55,23">воротиславль</w>
-<w n="55,23">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="55,23">идеже</w>
-<w n="55,23">есть</w>
-<w n="55,23">нынѣ</w>
-<w n="55,23">дворъ</w>
-<w n="55,23">Воротиславль</w>
-<w n="55,23">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="55,23">идеже</w>
-<w n="55,23">есть</w>
-<w n="55,23">нынѣ</w>
-<w n="55,23">дворъ</w>
-<w n="55,23">Воротиславль</w>
-<w n="55,23">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="55,23">идеже</w>
-<w n="55,23">есть</w>
-<w n="55,23">нынѣ</w>
-<w n="55,23">дворъ</w>
-<w n="55,23">Воротиславль</w>
-<w n="55,23">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>55, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="55"/><div type="block" n="23"><p><app><lem wit="#lem">
+            иде же есть нынѣ дворъ Воротиславль и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">идеже есть</rdg>
+            <rdg wit="#rad">идѣже е<hi rend="sup">с</hi> н҃нѣ дворъ воротиславль. и</rdg>
+            <rdg wit="#aka">идѣже есть н҃нѣ дворъ воротисла<lb/>вль. и</rdg>
+            <rdg wit="#ipa">и<lb/>деже есть нынѣ двор<hi rend="sup">ъ</hi>
+                <lb/> воротиславль и</rdg>
+            <rdg wit="#xle">идеже е<hi rend="sup">с</hi> н҃нѣ дворь воротиславль и</rdg>
+            <rdg wit="#kom">идеже есть нынѣ дворъ воротиславль и</rdg>
+            <rdg wit="#tol">идѣже есть нынѣ дворъ воротиславль и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">идеже есть нынѣ дворъ Воротиславль и</rdg><rdg wit="#shakh">идеже есть нынѣ дворъ Воротиславль и</rdg><rdg wit="#likh">идеже есть нынѣ дворъ Воротиславль и</rdg></rdgGrp></app></p></div></body></text></TEI>

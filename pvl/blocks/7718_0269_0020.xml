@@ -1,99 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>269, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="269"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="269,20">Давыда</w>
-<w n="269,20">къ</w>
-<w n="269,20">граду,</w>
-<w n="269,20">и</w>
-<w n="269,20">Давыдъ</w>
-<w n="269,20">затвори</w>
-<w n="269,20">ся</w>
-<w n="269,20">въ</w>
-<w n="269,20">градѣ,</w>
-<w n="269,20">чая</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="269,20">двд҃а</w>
-<w n="269,20">къ</w>
-<w n="269,20">граду·</w>
-<w n="269,20">и</w>
-<w n="269,20">дв҃дъ <lb/></w>
-
-<w n="269,20">затвори</w>
-<w n="269,20">сѧ</w>
-<w n="269,20">в</w>
-<w n="269,20">градѣ·</w>
-<w n="269,20">чаꙗ</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="269,20">двд҃а</w>
-<w n="269,20">къ</w>
-<w n="269,20">граду· <lb/></w>
-
-<w n="269,20">двд҃ъ</w>
-<w n="269,20">затвори</w>
-<w n="269,20">сѧ</w>
-<w n="269,20">въ</w>
-<w n="269,20">градѣ <lb/></w>
-
-<w n="269,20">чаꙗ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="269,20">двд҃а</w>
-<w n="269,20">къ <lb/></w>
-
-<w n="269,20">грау<hi rend="sup">д</hi>.</w>
-<w n="269,20">и</w>
-<w n="269,20">дв҃дь</w>
-<w n="269,20">затвори</w>
-<w n="269,20">сѧ</w>
-<w n="269,20">въ</w>
-<w n="269,20">градѣ.</w>
-<w n="269,20">чаѧ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="269,20">Давыда</w>
-<w n="269,20">къ</w>
-<w n="269,20">граду,</w>
-<w n="269,20">и</w>
-<w n="269,20">Давыдъ</w>
-<w n="269,20">затворися</w>
-<w n="269,20">в</w>
-<w n="269,20">градѣ,</w>
-<w n="269,20">чая</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="269,20">Давыда</w>
-<w n="269,20">къ</w>
-<w n="269,20">граду,</w>
-<w n="269,20">и</w>
-<w n="269,20">Давыдъ</w>
-<w n="269,20">затворися</w>
-<w n="269,20">въ</w>
-<w n="269,20">градѣ,</w>
-<w n="269,20">чая</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="269,20">Давыда</w>
-<w n="269,20">къ</w>
-<w n="269,20">граду,</w>
-<w n="269,20">и</w>
-<w n="269,20">Давыдъ</w>
-<w n="269,20">затворися</w>
-<w n="269,20">в</w>
-<w n="269,20">градѣ,</w>
-<w n="269,20">чая</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>269, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="269"/><div type="block" n="20"><p><app><lem wit="#lem">
+            Давыда къ граду, и Давыдъ затвори ся въ градѣ, чая
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">двд҃а къ граду· и дв҃дъ <lb/> затвори сѧ в градѣ· чаꙗ</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">двд҃а къ граду· <lb/> двд҃ъ затвори сѧ въ градѣ <lb/> чаꙗ</rdg>
+            <rdg wit="#xle">двд҃а къ <lb/> грау<hi rend="sup">д</hi>. и дв҃дь затвори сѧ въ градѣ. чаѧ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Давыда къ граду, и Давыдъ затворися в градѣ, чая</rdg><rdg wit="#shakh">Давыда къ граду, и Давыдъ затворися въ градѣ, чая</rdg><rdg wit="#likh">Давыда къ граду, и Давыдъ затворися в градѣ, чая</rdg></rdgGrp></app></p></div></body></text></TEI>

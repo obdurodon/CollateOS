@@ -1,107 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>116, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="116"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="116,5">служать,</w>
-<w n="116,5">а</w>
-<w n="116,5">друзии,</w>
-<w n="116,5">до</w>
-<w n="116,5">седми</w>
-<w n="116,5">женъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="116,5">служать. <lb/></w>
-
-<w n="116,5">а</w>
-<w n="116,5">друзии</w>
-<w n="116,5">до</w>
-<w n="116,5">семые</w>
-<w n="116,5">жены</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="116,5">слоужить.</w>
-<w n="116,5">а</w>
-<w n="116,5">инии</w>
-<w n="116,5">до</w>
-<w n="116,5">.з҃.</w>
-<w n="116,5">ми</w>
-<w n="116,5">женъ <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="116,5">слѹжить.</w>
-<w n="116,5">а</w>
-<w n="116,5">инїи</w>
-<w n="116,5">до</w>
-<w n="116,5">семи</w>
-<w n="116,5">же<lb/>нъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="116,5">служать.</w>
-<w n="116,5">а</w>
-<w n="116,5">дру<lb/>зии</w>
-<w n="116,5">до</w>
-<w n="116,5">семи</w>
-<w n="116,5">женъ.</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="116,5">служат</w>
-<w n="116,5">а</w>
-<w n="116,5">друзии</w>
-<w n="116,5">до</w>
-<w n="116,5">седми</w>
-<w n="116,5">женъ</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="116,5">служать</w>
-<w n="116,5">а</w>
-<w n="116,5">друзии</w>
-<w n="116,5">до</w>
-<w n="116,5">семи</w>
-<w n="116,5">женъ</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="116,5">служат</w>
-<w n="116,5">а</w>
-<w n="116,5">друзии</w>
-<w n="116,5">до</w>
-<w n="116,5">семи</w>
-<w n="116,5">женъ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="116,5">служать,</w>
-<w n="116,5">а</w>
-<w n="116,5">друзии</w>
-<w n="116,5">до</w>
-<w n="116,5">7-ми</w>
-<w n="116,5">женъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="116,5">служать,</w>
-<w n="116,5">а</w>
-<w n="116,5">друзии,</w>
-<w n="116,5">до</w>
-<w n="116,5">седми</w>
-<w n="116,5">женъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="116,5">служать,</w>
-<w n="116,5">а</w>
-<w n="116,5">друзии</w>
-<w n="116,5">до</w>
-<w n="116,5">7-ми</w>
-<w n="116,5">женъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>116, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="116"/><div type="block" n="5"><p><app><lem wit="#lem">
+            служать, а друзии, до седми женъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">служать. <lb/> а друзии до семые жены</rdg>
+            <rdg wit="#rad">слоужить. а инии до .з҃. ми женъ <lb/></rdg>
+            <rdg wit="#aka">слѹжить. а инїи до семи же<lb/>нъ</rdg>
+            <rdg wit="#ipa">служать. а дру<lb/>зии до семи женъ.</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">служат а друзии до седми женъ</rdg>
+            <rdg wit="#nak">служать а друзии до семи женъ</rdg>
+            <rdg wit="#tol">служат а друзии до семи женъ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">служать, а друзии до 7-ми женъ</rdg><rdg wit="#shakh">служать, а друзии, до седми женъ</rdg><rdg wit="#likh">служать, а друзии до 7-ми женъ</rdg></rdgGrp></app></p></div></body></text></TEI>

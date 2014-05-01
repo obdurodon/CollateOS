@@ -1,105 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>12, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="12"/><div type="block" n="7"><p>
-<app>
-<lem wit="#lem">
-<w n="12,7">Объри</w>
-<w n="12,7">тѣлъмь</w>
-<w n="12,7">велици,</w>
-<w n="12,7">а</w>
-<w n="12,7">умъмь</w>
-<w n="12,7">гьрди,</w>
-<w n="12,7">и</w>
-<w n="12,7">потреби</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="12,7">ѡбърѣ</w>
-<w n="12,7">тѣломъ</w>
-<w n="12,7">велици</w>
-<w n="12,7">и</w>
-<w n="12,7">оумомь <lb/><milestone unit="sic" n="start"/>г<milestone unit="sic" n="end"/><hi rend="sup">о</hi>рди.</w>
-
-<w n="12,7">и</w>
-<w n="12,7">б҃ъ</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="12,7">обри</w>
-<w n="12,7">тѣломъ</w>
-<w n="12,7">велици</w>
-<w n="12,7">и</w>
-<w n="12,7">умомь</w>
-<w n="12,7">горди</w>
-<w n="12,7">и</w>
-<w n="12,7">богъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="12,7">ѡбри</w>
-<w n="12,7">тѣломъ</w>
-<w n="12,7">велици.</w>
-<w n="12,7">а</w>
-<w n="12,7">оумомъ</w>
-<w n="12,7">горди.</w>
-<w n="12,7">и</w>
-<w n="12,7">по<lb/>треби</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="12,7">ѡбри</w>
-<w n="12,7">тѣломъ</w>
-<w n="12,7">велици.</w>
-<w n="12,7">а</w>
-<w n="12,7">оумомъ</w>
-<w n="12,7">горди. <lb/></w>
-
-<w n="12,7">и</w>
-<w n="12,7">потребї</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="12,7">ѡбри</w>
-<w n="12,7">тѣломъ</w>
-<w n="12,7">вели<lb/>цѣ.</w>
-<w n="12,7">а</w>
-<w n="12,7">оумомъ</w>
-<w n="12,7">горди.</w>
-<w n="12,7">и</w>
-<w n="12,7">по<lb/>треби</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="12,7">Обърѣ</w>
-<w n="12,7">тѣломъ</w>
-<w n="12,7">велици</w>
-<w n="12,7">и</w>
-<w n="12,7">умомь</w>
-<w n="12,7">горди,</w>
-<w n="12,7">и</w>
-<w n="12,7">Богъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="12,7">Объри</w>
-<w n="12,7">тѣлъмь</w>
-<w n="12,7">велици,</w>
-<w n="12,7">а</w>
-<w n="12,7">умъмь</w>
-<w n="12,7">гьрди,</w>
-<w n="12,7">и</w>
-<w n="12,7">Богъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="12,7">обърѣ</w>
-<w n="12,7">тѣломъ</w>
-<w n="12,7">велици</w>
-<w n="12,7">и</w>
-<w n="12,7">умомь</w>
-<w n="12,7">горди,</w>
-<w n="12,7">и</w>
-<w n="12,7">богъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>12, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="12"/><div type="block" n="7"><p><app><lem wit="#lem">
+            Объри тѣлъмь велици, а умъмь гьрди, и потреби
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѡбърѣ тѣломъ велици и оумомь <lb/><sic>г</sic><hi rend="sup">о</hi>рди. и б҃ъ</rdg>
+            <rdg wit="#tro">обри тѣломъ велици и умомь горди и богъ</rdg>
+            <rdg wit="#rad">ѡбри тѣломъ велици. а оумомъ горди. и по<lb/>треби</rdg>
+            <rdg wit="#aka">ѡбри тѣломъ велици. а оумомъ горди. <lb/> и потребї</rdg>
+            <rdg wit="#ipa">ѡбри тѣломъ вели<lb/>цѣ. а оумомъ горди. и по<lb/>треби</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Обърѣ тѣломъ велици и умомь горди, и Богъ</rdg><rdg wit="#shakh">Объри тѣлъмь велици, а умъмь гьрди, и Богъ</rdg><rdg wit="#likh">обърѣ тѣломъ велици и умомь горди, и богъ</rdg></rdgGrp></app></p></div></body></text></TEI>

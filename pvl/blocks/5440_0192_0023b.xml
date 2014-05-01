@@ -1,61 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>192, 23b</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="192"/><div type="block" n="23b"><p>
-<app>
-<lem wit="#lem">
-<w n="192,23b">и</w>
-<w n="192,23b">въставъ</w>
-<w n="192,23b">Исакии,</w>
-<w n="192,23b">видѣ</w>
-<w n="192,23b">тълпу</w>
-<w n="192,23b">и</w>
-<w n="192,23b">лица</w>
-<w n="192,23b">ихъ</w>
-<w n="192,23b">паче</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="192,23b">и</w>
-<w n="192,23b">вь<lb/>ставъ</w>
-<w n="192,23b">исакии</w>
-<w n="192,23b">видѣ</w>
-<w n="192,23b">толпу <lb/></w>
-
-<w n="192,23b">и</w>
-<w n="192,23b">лица</w>
-<w n="192,23b">ихъ</w>
-<w n="192,23b">паче</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="192,23b">и</w>
-<w n="192,23b">въставь</w>
-<w n="192,23b">исакїи</w>
-<w n="192,23b">видѣ <lb/></w>
-
-<w n="192,23b">толпоу.</w>
-<w n="192,23b">и</w>
-<w n="192,23b">лица</w>
-<w n="192,23b">и<hi rend="sup">х</hi></w>
-<w n="192,23b">паче</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="192,23b">и</w>
-<w n="192,23b">въставъ</w>
-<w n="192,23b">Исакии,</w>
-<w n="192,23b">видѣ</w>
-<w n="192,23b">тълпу</w>
-<w n="192,23b">и</w>
-<w n="192,23b">лица</w>
-<w n="192,23b">ихъ</w>
-<w n="192,23b">паче</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>192, 23b</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="192"/><div type="block" n="23b"><p><app><lem wit="#lem">
+            и въставъ Исакии, видѣ тълпу и лица ихъ паче
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">и вь<lb/>ставъ исакии видѣ толпу <lb/> и лица ихъ паче</rdg>
+            <rdg wit="#xle">и въставь исакїи видѣ <lb/> толпоу. и лица и<hi rend="sup">х</hi> паче</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#shakh">и въставъ Исакии, видѣ тълпу и лица ихъ паче</rdg></rdgGrp></app></p></div></body></text></TEI>

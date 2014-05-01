@@ -1,106 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>7, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="7"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-<w n="7,4">Ловоти,</w>
-<w n="7,4">и</w>
-<w n="7,4">по</w>
-<w n="7,4">Ловоти</w>
-<w n="7,4">вънити</w>
-<w n="7,4">въ</w>
-<w n="7,4">Илмерь</w>
-<w n="7,4">озеро</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="7,4">ловоти. <lb/></w>
-
-<w n="7,4">по</w>
-<w n="7,4">ловоти</w>
-<w n="7,4">внити</w>
-<w n="7,4">в</w>
-<w n="7,4">ылмерь</w>
-<w n="7,4">ѡзеро</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="7,4">ловоти</w>
-<w n="7,4">и <lb/></w>
-
-<w n="7,4">по</w>
-<w n="7,4">ловоти</w>
-<w n="7,4">внити</w>
-<w n="7,4">въ</w>
-<w n="7,4">илмерь</w>
-<w n="7,4">ѡзоро</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="7,4">ловоти.</w>
-<w n="7,4">и</w>
-<w n="7,4">по</w>
-<w n="7,4">ловоти</w>
-<w n="7,4">вни<lb/>ти</w>
-<w n="7,4">въ</w>
-<w n="7,4">ильмерь</w>
-<w n="7,4">ѡзеро</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="7,4">ло<lb/>воти.</w>
-<w n="7,4">и</w>
-<w n="7,4">по</w>
-<w n="7,4">ловоти</w>
-<w n="7,4">внити</w>
-<w n="7,4">в<hi rend="sup">ъ</hi><lb/></w>
-<w n="7,4">и<milestone unit="sic" n="start"/>л<milestone unit="sic" n="end"/>мерь</w>
-<w n="7,4">ѡзеро</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="7,4">волоти, <lb/></w>
-
-<w n="7,4">и</w>
-<w n="7,4">по</w>
-<w n="7,4">волоти</w>
-<w n="7,4">внити</w>
-<w n="7,4">въ</w>
-<w n="7,4">илмерь</w>
-<w n="7,4">ѡзеро</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="7,4">Ловоти,</w>
-<w n="7,4">и</w>
-<w n="7,4">по</w>
-<w n="7,4">Ловоти</w>
-<w n="7,4">внити</w>
-<w n="7,4">въ</w>
-<w n="7,4">Илмерь</w>
-<w n="7,4">озеро</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="7,4">Ловоти,</w>
-<w n="7,4">и</w>
-<w n="7,4">по</w>
-<w n="7,4">Ловоти</w>
-<w n="7,4">вънити</w>
-<w n="7,4">в</w>
-<w n="7,4">Илмерь</w>
-<w n="7,4">езеро</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="7,4">Ловоти,</w>
-<w n="7,4">и</w>
-<w n="7,4">по</w>
-<w n="7,4">Ловоти</w>
-<w n="7,4">внити</w>
-<w n="7,4">в</w>
-<w n="7,4">Ылмерь</w>
-<w n="7,4">озеро</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>7, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="7"/><div type="block" n="4"><p><app><lem wit="#lem">
+            Ловоти, и по Ловоти вънити въ Илмерь озеро
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ловоти. <lb/> по ловоти внити в ылмерь ѡзеро</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">ловоти и <lb/> по ловоти внити въ илмерь ѡзоро</rdg>
+            <rdg wit="#aka">ловоти. и по ловоти вни<lb/>ти въ ильмерь ѡзеро</rdg>
+            <rdg wit="#ipa">ло<lb/>воти. и по ловоти внити в<hi rend="sup">ъ</hi>
+                <lb/> и<sic>л</sic>мерь ѡзеро</rdg>
+            <rdg wit="#xle">волоти, <lb/> и по волоти внити въ илмерь ѡзеро</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Ловоти, и по Ловоти внити въ Илмерь озеро</rdg><rdg wit="#shakh">Ловоти, и по Ловоти вънити в Илмерь езеро</rdg><rdg wit="#likh">Ловоти, и по Ловоти внити в Ылмерь озеро</rdg></rdgGrp></app></p></div></body></text></TEI>

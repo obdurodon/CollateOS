@@ -1,90 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>61, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="61"/><div type="block" n="13"><p>
-<app>
-<lem wit="#lem">
-<w n="61,13">патриарху,</w>
-<w n="61,13">глаголющи:</w>
-<w n="61,13">“Молитвами</w>
-<w n="61,13">твоими,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="61,13">пт҃рарху</w>
-<w n="61,13">гл҃щи.</w>
-<w n="61,13">мл҃твами <lb/></w>
-
-<w n="61,13">твоими</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="61,13">п<milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/>треархѹ</w>
-<w n="61,13">гл҃ще</w>
-<w n="61,13">мл҃тва<lb/>ми</w>
-<w n="61,13">твоими</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="61,13">патриархѹ.</w>
-<w n="61,13">гл҃ще</w>
-<w n="61,13">мл҃тва<lb/>ми</w>
-<w n="61,13">твоими</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="61,13">патриарху</w>
-<w n="61,13">гл҃ше.</w>
-<w n="61,13">мл҃твами</w>
-<w n="61,13">твоими <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="61,13">патрїархоу</w>
-<w n="61,13">гл҃ще.</w>
-<w n="61,13">мл҃твами</w>
-<w n="61,13">твоими</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="61,13">патриарху</w>
-<w n="61,13">глаголюще</w>
-<w n="61,13">молитвами</w>
-<w n="61,13">твоими</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="61,13">патриаръху</w>
-<w n="61,13">глаголюще</w>
-<w n="61,13">ему</w>
-<w n="61,13">молитвами</w>
-<w n="61,13">твоими</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="61,13">патриарху</w>
-<w n="61,13">глаголюще</w>
-<w n="61,13">ему</w>
-<w n="61,13">молитвами</w>
-<w n="61,13">твоими</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="61,13">патреарху,</w>
-<w n="61,13">глаголющи:</w>
-<w n="61,13">“молитвами</w>
-<w n="61,13">твоими,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="61,13">патриарху,</w>
-<w n="61,13">глаголющи:</w>
-<w n="61,13">“молитвами</w>
-<w n="61,13">твоими,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="61,13">патреарху,</w>
-<w n="61,13">глаголющи:</w>
-<w n="61,13">“Молитвами</w>
-<w n="61,13">твоими,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>61, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="61"/><div type="block" n="13"><p><app><lem wit="#lem">
+            патриарху, глаголющи: “Молитвами твоими,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">пт҃рарху гл҃щи. мл҃твами <lb/> твоими</rdg>
+            <rdg wit="#rad">п<sic>о</sic>треархѹ гл҃ще мл҃тва<lb/>ми твоими</rdg>
+            <rdg wit="#aka">патриархѹ. гл҃ще мл҃тва<lb/>ми твоими</rdg>
+            <rdg wit="#ipa">патриарху гл҃ше. мл҃твами твоими <lb/></rdg>
+            <rdg wit="#xle">патрїархоу гл҃ще. мл҃твами твоими</rdg>
+            <rdg wit="#kom">патриарху глаголюще молитвами твоими</rdg>
+            <rdg wit="#nak">патриаръху глаголюще ему молитвами твоими</rdg>
+            <rdg wit="#tol">патриарху глаголюще ему молитвами твоими</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">патреарху, глаголющи: “молитвами твоими,</rdg><rdg wit="#shakh">патриарху, глаголющи: “молитвами твоими,</rdg><rdg wit="#likh">патреарху, глаголющи: “Молитвами твоими,</rdg></rdgGrp></app></p></div></body></text></TEI>

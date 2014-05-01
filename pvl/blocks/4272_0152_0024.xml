@@ -1,83 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>152, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="152"/><div type="block" n="24"><p>
-<app>
-<lem wit="#lem">
-<w n="152,24">цьсари</w>
-<w n="152,24">цьсарьствують,</w>
-<w n="152,24">и</w>
-<w n="152,24">сильнии</w>
-<w n="152,24">пишють</w>
-<w n="152,24">правьду;</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="152,24">цр<hi rend="sup">с</hi>ве</w>
-<w n="152,24">црт<hi rend="sup">с</hi>вують. <lb/></w>
-
-<w n="152,24">а</w>
-<w n="152,24">силнии</w>
-<w n="152,24">пишють</w>
-<w n="152,24">правду.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="152,24">цр҃и</w>
-<w n="152,24">ц҃рьствѹють.</w>
-<w n="152,24">и</w>
-<w n="152,24">си<lb/>лние</w>
-<w n="152,24">пишють</w>
-<w n="152,24">правдѹ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="152,24">цр҃и</w>
-<w n="152,24">црт<hi rend="sup">с</hi>вѹють.</w>
-<w n="152,24">сильнїи</w>
-<w n="152,24">пишють</w>
-<w n="152,24">пра<lb/>вдѹ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="152,24">цр<hi rend="sup">с</hi>и</w>
-<w n="152,24">црт<hi rend="sup">с</hi>вують.</w>
-<w n="152,24">и</w>
-<w n="152,24">силнии</w>
-<w n="152,24">пь<lb/>ють</w>
-<w n="152,24">правду.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="152,24">ц҃рїе</w>
-<w n="152,24">цр<hi rend="sup">с</hi>твоую<hi rend="sup">т</hi>.</w>
-<w n="152,24">и</w>
-<w n="152,24">силнїи</w>
-<w n="152,24">пишю<hi rend="sup">т</hi></w>
-<w n="152,24">пра<lb/>вдоу.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="152,24">цесареве</w>
-<w n="152,24">царствують,</w>
-<w n="152,24">а</w>
-<w n="152,24">силнии</w>
-<w n="152,24">пишють</w>
-<w n="152,24">правду;</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="152,24">цѣсари</w>
-<w n="152,24">цѣсарьствують,</w>
-<w n="152,24">и</w>
-<w n="152,24">сильнии</w>
-<w n="152,24">пишють</w>
-<w n="152,24">правьду;</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="152,24">цесареве</w>
-<w n="152,24">царствують,</w>
-<w n="152,24">а</w>
-<w n="152,24">силнии</w>
-<w n="152,24">пишють</w>
-<w n="152,24">правду.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>152, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="152"/><div type="block" n="24"><p><app><lem wit="#lem">
+            цьсари цьсарьствують, и сильнии пишють правьду;
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">цр<hi rend="sup">с</hi>ве црт<hi rend="sup">с</hi>вують. <lb/> а силнии пишють правду.</rdg>
+            <rdg wit="#rad">цр҃и ц҃рьствѹють. и си<lb/>лние пишють правдѹ.</rdg>
+            <rdg wit="#aka">цр҃и црт<hi rend="sup">с</hi>вѹють. сильнїи пишють пра<lb/>вдѹ.</rdg>
+            <rdg wit="#ipa">цр<hi rend="sup">с</hi>и црт<hi rend="sup">с</hi>вують. и силнии пь<lb/>ють правду.</rdg>
+            <rdg wit="#xle">ц҃рїе цр<hi rend="sup">с</hi>твоую<hi rend="sup">т</hi>. и силнїи пишю<hi rend="sup">т</hi>
+                пра<lb/>вдоу.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">цесареве царствують, а силнии пишють правду;</rdg><rdg wit="#shakh">цѣсари цѣсарьствують, и сильнии пишють правьду;</rdg><rdg wit="#likh">цесареве царствують, а силнии пишють правду.</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,86 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>36, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="36"/><div type="block" n="29"><p>
-<app>
-<lem wit="#lem">
-<w n="36,29">не</w>
-<w n="36,29">дасть</w>
-<w n="36,29">сътворити</w>
-<w n="36,29">мьстьнику,</w>
-<w n="36,29">да</w>
-<w n="36,29">погубить</w>
-<w n="36,29">правьду</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="36,29">не</w>
-<w n="36,29">да<hi rend="sup">с</hi></w>
-<w n="36,29">створити.</w>
-<w n="36,29">местникъ</w>
-<w n="36,29">да</w>
-<w n="36,29">по<lb/>гоуби<hi rend="sup">т</hi></w>
-<w n="36,29">правдѹ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="36,29">не</w>
-<w n="36,29">да<hi rend="sup">с</hi></w>
-<w n="36,29">со<lb/>творїти.</w>
-<w n="36,29">местникь</w>
-<w n="36,29">да</w>
-<w n="36,29">погѹбитъ</w>
-<w n="36,29">правдѹ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="36,29">не</w>
-<w n="36,29">дасть</w>
-<w n="36,29">створити. <lb/></w>
-
-<w n="36,29">мѣстникъ</w>
-<w n="36,29">да</w>
-<w n="36,29">погуби<hi rend="sup">т</hi><lb/></w>
-<w n="36,29">правду</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="36,29">не</w>
-<w n="36,29">да<hi rend="sup">с</hi><lb/></w>
-<w n="36,29">сътворити.</w>
-<w n="36,29">местникь</w>
-<w n="36,29">да</w>
-<w n="36,29">погоуби<hi rend="sup">т</hi></w>
-<w n="36,29">правдоу</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="36,29">не</w>
-<w n="36,29">дасть</w>
-<w n="36,29">створити,</w>
-<w n="36,29">местникъ</w>
-<w n="36,29">да</w>
-<w n="36,29">погубить</w>
-<w n="36,29">правду</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="36,29">не</w>
-<w n="36,29">дасть</w>
-<w n="36,29">сътворити</w>
-<w n="36,29">мьстьнику,</w>
-<w n="36,29">да</w>
-<w n="36,29">погубить</w>
-<w n="36,29">правьду</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="36,29">не</w>
-<w n="36,29">дасть</w>
-<w n="36,29">створити</w>
-<w n="36,29">местникъ,</w>
-<w n="36,29">да</w>
-<w n="36,29">погубить</w>
-<w n="36,29">правду</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>36, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="36"/><div type="block" n="29"><p><app><lem wit="#lem">
+            не дасть сътворити мьстьнику, да погубить правьду
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">не да<hi rend="sup">с</hi> створити. местникъ да по<lb/>гоуби<hi rend="sup">т</hi> правдѹ</rdg>
+            <rdg wit="#aka">не да<hi rend="sup">с</hi> со<lb/>творїти. местникь да погѹбитъ правдѹ</rdg>
+            <rdg wit="#ipa">не дасть створити. <lb/> мѣстникъ да погуби<hi rend="sup">т</hi>
+                <lb/> правду</rdg>
+            <rdg wit="#xle">не да<hi rend="sup">с</hi>
+                <lb/> сътворити. местникь да погоуби<hi rend="sup">т</hi> правдоу</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">не дасть створити, местникъ да погубить правду</rdg><rdg wit="#shakh">не дасть сътворити мьстьнику, да погубить правьду</rdg><rdg wit="#likh">не дасть створити местникъ, да погубить правду</rdg></rdgGrp></app></p></div></body></text></TEI>

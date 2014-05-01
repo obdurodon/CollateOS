@@ -1,108 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>110, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="110"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="110,23">а</w>
-<w n="110,23">Грьчьскую</w>
-<w n="110,23">землю</w>
-<w n="110,23">избавиши</w>
-<w n="110,23">отъ</w>
-<w n="110,23">лютыя</w>
-<w n="110,23">рати.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="110,23">а</w>
-<w n="110,23">гречьскую <lb/></w>
-
-<w n="110,23">землю</w>
-<w n="110,23">избавишь</w>
-<w n="110,23">ѿ</w>
-<w n="110,23">лютыꙗ</w>
-<w n="110,23">рати.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="110,23">а</w>
-<w n="110,23">зе<lb/>млю</w>
-<w n="110,23">грецкѹ</w>
-<w n="110,23">избавиши</w>
-<w n="110,23">ѿ</w>
-<w n="110,23">лютыꙗ</w>
-<w n="110,23">рати.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="110,23">а</w>
-<w n="110,23">землю</w>
-<w n="110,23">грецкѹ</w>
-<w n="110,23">избавиши</w>
-<w n="110,23">ѿ</w>
-<w n="110,23">лютыа</w>
-<w n="110,23">ра<lb/>ти.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="110,23">а</w>
-<w n="110,23">грѣчкую</w>
-<w n="110,23">землю <lb/></w>
-
-<w n="110,23">избавиши</w>
-<w n="110,23">ѿ</w>
-<w n="110,23">лютыꙗ</w>
-<w n="110,23">рати. <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="110,23">а</w>
-<w n="110,23">гречьскую</w>
-<w n="110,23">землю</w>
-<w n="110,23">избавиши</w>
-<w n="110,23">от</w>
-<w n="110,23">лютыꙗ</w>
-<w n="110,23">работы</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="110,23">а</w>
-<w n="110,23">гречкую</w>
-<w n="110,23">землю</w>
-<w n="110,23">избавиши</w>
-<w n="110,23">от</w>
-<w n="110,23">лютыꙗ</w>
-<w n="110,23">работы</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="110,23">а</w>
-<w n="110,23">Гречьскую</w>
-<w n="110,23">землю</w>
-<w n="110,23">избавишь</w>
-<w n="110,23">отъ</w>
-<w n="110,23">лютыя</w>
-<w n="110,23">рати;</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="110,23">а</w>
-<w n="110,23">Грьчьскую</w>
-<w n="110,23">землю</w>
-<w n="110,23">избавиши</w>
-<w n="110,23">отъ</w>
-<w n="110,23">лютыя</w>
-<w n="110,23">рати;</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="110,23">а</w>
-<w n="110,23">Гречьскую</w>
-<w n="110,23">землю</w>
-<w n="110,23">избавишь</w>
-<w n="110,23">отъ</w>
-<w n="110,23">лютыя</w>
-<w n="110,23">рати.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>110, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="110"/><div type="block" n="23"><p><app><lem wit="#lem">
+            а Грьчьскую землю избавиши отъ лютыя рати.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">а гречьскую <lb/> землю избавишь ѿ лютыꙗ рати.</rdg>
+            <rdg wit="#rad">а зе<lb/>млю грецкѹ избавиши ѿ лютыꙗ рати.</rdg>
+            <rdg wit="#aka">а землю грецкѹ избавиши ѿ лютыа ра<lb/>ти.</rdg>
+            <rdg wit="#ipa">а грѣчкую землю <lb/> избавиши ѿ лютыꙗ рати. <lb/></rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">а гречьскую землю избавиши от лютыꙗ работы</rdg>
+            <rdg wit="#tol">а гречкую землю избавиши от лютыꙗ работы</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">а Гречьскую землю избавишь отъ лютыя рати;</rdg><rdg wit="#shakh">а Грьчьскую землю избавиши отъ лютыя рати;</rdg><rdg wit="#likh">а Гречьскую землю избавишь отъ лютыя рати.</rdg></rdgGrp></app></p></div></body></text></TEI>

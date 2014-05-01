@@ -1,86 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>233, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="233"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-<w n="233,2">вълѣзъше</w>
-<w n="233,2">у</w>
-<w n="233,2">притворъ</w>
-<w n="233,2">у</w>
-<w n="233,2">гроба</w>
-<w n="233,2">Феодосиева,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="233,2">влѣ<lb/>зше</w>
-<w n="233,2">в</w>
-<w n="233,2">притворъ</w>
-<w n="233,2">оу</w>
-<w n="233,2">гроба</w>
-<w n="233,2">ѳеѡ<lb/>досьева·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="233,2">влѣзъше</w>
-<w n="233,2">оу</w>
-<w n="233,2">при<lb/>творъ</w>
-<w n="233,2">оу</w>
-<w n="233,2"><milestone unit="sic" n="start"/>г<milestone unit="sic" n="end"/>роба</w>
-<w n="233,2">феѡ<hi rend="sup">д</hi>сиева.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="233,2">оулѣзше</w>
-<w n="233,2">оу</w>
-<w n="233,2">прї<lb/>творъ·</w>
-<w n="233,2">оу</w>
-<w n="233,2">гроба</w>
-<w n="233,2">феѡдосиева·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="233,2">влѣ<lb/>зъше</w>
-<w n="233,2">оу</w>
-<w n="233,2">притворъ</w>
-<w n="233,2">оу</w>
-<w n="233,2">гроба</w>
-<w n="233,2">фе<lb/>досьева·</w>
-<w n="233,2">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="233,2">влѣ<hi rend="sup">з</hi>ше</w>
-<w n="233,2">въ</w>
-<w n="233,2">притворь</w>
-<w n="233,2">оу</w>
-<w n="233,2">гроба <lb/></w>
-
-<w n="233,2">ѳе<hi rend="sup">д</hi>ѡ<hi rend="sup">о</hi>сїева.</w>
-<w n="233,2">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="233,2">влѣзше</w>
-<w n="233,2">в</w>
-<w n="233,2">притворъ</w>
-<w n="233,2">у</w>
-<w n="233,2">гроба</w>
-<w n="233,2">Феодосьева,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="233,2">вълѣзъше</w>
-<w n="233,2">въ</w>
-<w n="233,2">притворъ</w>
-<w n="233,2">у</w>
-<w n="233,2">гроба</w>
-<w n="233,2">Феодосиева,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="233,2">влѣзше</w>
-<w n="233,2">в</w>
-<w n="233,2">притворъ</w>
-<w n="233,2">у</w>
-<w n="233,2">гроба</w>
-<w n="233,2">Феодосьева,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>233, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="233"/><div type="block" n="2"><p><app><lem wit="#lem">
+            вълѣзъше у притворъ у гроба Феодосиева,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">влѣ<lb/>зше в притворъ оу гроба ѳеѡ<lb/>досьева·</rdg>
+            <rdg wit="#rad">влѣзъше оу при<lb/>творъ оу <sic>г</sic>роба феѡ<hi rend="sup">д</hi>сиева.</rdg>
+            <rdg wit="#aka">оулѣзше оу прї<lb/>творъ· оу гроба феѡдосиева·</rdg>
+            <rdg wit="#ipa">влѣ<lb/>зъше оу притворъ оу гроба фе<lb/>досьева· и</rdg>
+            <rdg wit="#xle">влѣ<hi rend="sup">з</hi>ше въ притворь оу гроба <lb/> ѳе<hi rend="sup">д</hi>ѡ<hi rend="sup">о</hi>сїева.
+                и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">влѣзше в притворъ у гроба Феодосьева,</rdg><rdg wit="#shakh">вълѣзъше въ притворъ у гроба Феодосиева,</rdg><rdg wit="#likh">влѣзше в притворъ у гроба Феодосьева,</rdg></rdgGrp></app></p></div></body></text></TEI>

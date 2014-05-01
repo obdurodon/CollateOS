@@ -1,95 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>282, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="282"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="282,23">молитву</w>
-<w n="282,23">възьмъ</w>
-<w n="282,23">у</w>
-<w n="282,23">игумена,</w>
-<w n="282,23">ту</w>
-<w n="282,23">сущаго,</w>
-<w n="282,23">тоже</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="282,23">млт҃ву</w>
-<w n="282,23">вземъ</w>
-<w n="282,23">оу</w>
-<w n="282,23">игумена <lb/></w>
-
-<w n="282,23">ту</w>
-<w n="282,23">сущаго·</w>
-<w n="282,23">тоже</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="282,23">мо<lb/>литвоу</w>
-<w n="282,23">вземъ</w>
-<w n="282,23">оу</w>
-<w n="282,23">игоумена·</w>
-<w n="282,23">тоу</w>
-<w n="282,23">сѹщаго·</w>
-<w n="282,23">тоже <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="282,23">мл҃твѹ</w>
-<w n="282,23">вземъ</w>
-<w n="282,23">во</w>
-<w n="282,23">игѹмена·</w>
-<w n="282,23">тѹ</w>
-<w n="282,23">сѹщего·</w>
-<w n="282,23">тоже <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="282,23">млт҃ву</w>
-<w n="282,23">вземъ</w>
-<w n="282,23">оу</w>
-<w n="282,23">и<lb/>гумена</w>
-<w n="282,23">сущаго·</w>
-<w n="282,23">тоже</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="282,23">мл҃твоу</w>
-<w n="282,23">възе<hi rend="sup">м</hi><lb/></w>
-<w n="282,23">въ</w>
-<w n="282,23">игоумена</w>
-<w n="282,23">сѫщаго</w>
-<w n="282,23">тоу.</w>
-<w n="282,23">то<hi rend="sup">ж</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="282,23">молитву</w>
-<w n="282,23">вземъ</w>
-<w n="282,23">у</w>
-<w n="282,23">игумена,</w>
-<w n="282,23">ту</w>
-<w n="282,23">сущаго,</w>
-<w n="282,23">таже</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="282,23">молитву</w>
-<w n="282,23">възьмъ</w>
-<w n="282,23">у</w>
-<w n="282,23">игумена,</w>
-<w n="282,23">ту</w>
-<w n="282,23">сущаго,</w>
-<w n="282,23">тоже</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="282,23">молитву</w>
-<w n="282,23">вземъ</w>
-<w n="282,23">у</w>
-<w n="282,23">игумена,</w>
-<w n="282,23">ту</w>
-<w n="282,23">сущаго,</w>
-<w n="282,23">то</w>
-<w n="282,23">же</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>282, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="282"/><div type="block" n="23"><p><app><lem wit="#lem">
+            молитву възьмъ у игумена, ту сущаго, тоже
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">млт҃ву вземъ оу игумена <lb/> ту сущаго· тоже</rdg>
+            <rdg wit="#rad">мо<lb/>литвоу вземъ оу игоумена· тоу сѹщаго· тоже <lb/></rdg>
+            <rdg wit="#aka">мл҃твѹ вземъ во игѹмена· тѹ сѹщего· тоже <lb/></rdg>
+            <rdg wit="#ipa">млт҃ву вземъ оу и<lb/>гумена сущаго· тоже</rdg>
+            <rdg wit="#xle">мл҃твоу възе<hi rend="sup">м</hi>
+                <lb/> въ игоумена сѫщаго тоу. то<hi rend="sup">ж</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">молитву вземъ у игумена, ту сущаго, таже</rdg><rdg wit="#shakh">молитву възьмъ у игумена, ту сущаго, тоже</rdg><rdg wit="#likh">молитву вземъ у игумена, ту сущаго, то же</rdg></rdgGrp></app></p></div></body></text></TEI>

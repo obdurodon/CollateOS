@@ -1,87 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>8, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="8"/><div type="block" n="8"><p>
-<app>
-<lem wit="#lem">
-<w n="8,8">благодать</w>
-<w n="8,8">Божия;</w>
-<w n="8,8">имать</w>
-<w n="8,8">градъ</w>
-<w n="8,8">великъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="8,8">блг҃дть</w>
-<w n="8,8">бж҃ьꙗ.</w>
-<w n="8,8">имать</w>
-<w n="8,8">градъ <lb/></w>
-
-<w n="8,8">великъ.</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="8,8">благодать</w>
-<w n="8,8">божья</w>
-<w n="8,8">и</w>
-<w n="8,8">создати</w>
-<w n="8,8">имуть</w>
-<w n="8,8">градъ</w>
-<w n="8,8">великъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="8,8">блг<hi rend="sup">д</hi>ть</w>
-<w n="8,8">бж҃ьа</w>
-<w n="8,8">имат<milestone unit="sic" n="start"/>ь<milestone unit="sic" n="end"/></w>
-<w n="8,8">гра<hi rend="sup">д</hi></w>
-<w n="8,8">великъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="8,8">блг<hi rend="sup">д</hi>ть</w>
-<w n="8,8">бж҃ьѧ.</w>
-<w n="8,8">иматъ</w>
-<w n="8,8">гра<hi rend="sup">д</hi></w>
-<w n="8,8">великъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="8,8">блг<hi rend="sup">д</hi>ть <lb/></w>
-
-<w n="8,8">бж҃иꙗ.</w>
-<w n="8,8">имать</w>
-<w n="8,8">и</w>
-<w n="8,8">городъ</w>
-<w n="8,8">ве<lb/>ликъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="8,8">блг<hi rend="sup">д</hi>ть</w>
-<w n="8,8">бж҃їѧ.</w>
-<w n="8,8">има<hi rend="sup">т</hi><lb/></w>
-<w n="8,8">горѡ<hi rend="sup">д</hi></w>
-<w n="8,8">великь</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="8,8">благодать</w>
-<w n="8,8">Божья;</w>
-<w n="8,8">имать</w>
-<w n="8,8">градъ</w>
-<w n="8,8">великъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="8,8">благодать</w>
-<w n="8,8">Божия;</w>
-<w n="8,8">имать</w>
-<w n="8,8">градъ</w>
-<w n="8,8">великъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="8,8">благодать</w>
-<w n="8,8">божья;</w>
-<w n="8,8">имать</w>
-<w n="8,8">градъ</w>
-<w n="8,8">великъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>8, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="8"/><div type="block" n="8"><p><app><lem wit="#lem">
+            благодать Божия; имать градъ великъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">блг҃дть бж҃ьꙗ. имать градъ <lb/> великъ.</rdg>
+            <rdg wit="#tro">благодать божья и создати имуть градъ великъ</rdg>
+            <rdg wit="#rad">блг<hi rend="sup">д</hi>ть бж҃ьа имат<sic>ь</sic> гра<hi rend="sup">д</hi> великъ</rdg>
+            <rdg wit="#aka">блг<hi rend="sup">д</hi>ть бж҃ьѧ. иматъ гра<hi rend="sup">д</hi> великъ</rdg>
+            <rdg wit="#ipa">блг<hi rend="sup">д</hi>ть <lb/> бж҃иꙗ. имать и городъ ве<lb/>ликъ</rdg>
+            <rdg wit="#xle">блг<hi rend="sup">д</hi>ть бж҃їѧ. има<hi rend="sup">т</hi>
+                <lb/> горѡ<hi rend="sup">д</hi> великь</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">благодать Божья; имать градъ великъ</rdg><rdg wit="#shakh">благодать Божия; имать градъ великъ</rdg><rdg wit="#likh">благодать божья; имать градъ великъ</rdg></rdgGrp></app></p></div></body></text></TEI>

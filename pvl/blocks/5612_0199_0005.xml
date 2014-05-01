@@ -1,41 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>199, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="199"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="199,5">разьно.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="199,5">разно·:·- <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="199,5">имѣнье:-</w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="199,5">имѣ<lb/>нье:·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="199,5">разд<hi rend="sup">н</hi>ь·:· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="199,5">разно.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="199,5">разно.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="199,5">разно.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="199,5">разно.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>199, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="199"/><div type="block" n="5"><p><app><lem wit="#lem">
+            разьно.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">разно·:·- <lb/></rdg>
+            <rdg wit="#rad">имѣнье:- </rdg>
+            <rdg wit="#aka">имѣ<lb/>нье:·</rdg>
+            <rdg wit="#ipa">разд<hi rend="sup">н</hi>ь·:· <lb/></rdg>
+            <rdg wit="#xle">разно.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">разно.</rdg><rdg wit="#shakh">разно.</rdg><rdg wit="#likh">разно.</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,103 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>145, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="145"/><div type="block" n="25"><p>
-<app>
-<lem wit="#lem">
-<w n="145,25">прия</w>
-<w n="145,25">Каинъ,</w>
-<w n="145,25">убивъ</w>
-<w n="145,25">Авеля,</w>
-<w n="145,25">а</w>
-<w n="145,25">Ламехъ 70;</w>
-
-<w n="145,25">понеже</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="145,25">приꙗ</w>
-<w n="145,25">каинъ</w>
-<w n="145,25">оубивъ</w>
-<w n="145,25">авелѧ. <lb/></w>
-
-<w n="145,25">а</w>
-<w n="145,25">ламехъ</w>
-<w n="145,25">.о҃.</w>
-<w n="145,25">Понеже</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="145,25">приа</w>
-<w n="145,25">каинъ.</w>
-<w n="145,25">оуби</w>
-<w n="145,25">авелѧ.</w>
-<w n="145,25">а</w>
-<w n="145,25">ламе<hi rend="sup">х</hi><lb/></w>
-<w n="145,25">.о҃.</w>
-<w n="145,25">понеже</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="145,25">прїꙗ</w>
-<w n="145,25">каи<lb/>нъ</w>
-<w n="145,25">оуби</w>
-<w n="145,25">авелѧ.</w>
-<w n="145,25">а</w>
-<w n="145,25">ламе<hi rend="sup">х</hi></w>
-<w n="145,25">.о҃.</w>
-<w n="145,25">понеже</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="145,25">приꙗ</w>
-<w n="145,25">каинъ. <lb/></w>
-
-<w n="145,25">оубивъ</w>
-<w n="145,25">авѣлѧ.</w>
-<w n="145,25">ламехъ</w>
-<w n="145,25">.о҃. <lb/></w>
-
-<w n="145,25">понеже</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="145,25">прїать</w>
-<w n="145,25">каинь</w>
-<w n="145,25">оубивь</w>
-<w n="145,25">авелѧ.</w>
-<w n="145,25">а</w>
-<w n="145,25">ламе<hi rend="sup">х</hi></w>
-<w n="145,25">.о҃.</w>
-<w n="145,25">поне<hi rend="sup">ж</hi><lb/></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="145,25">прия</w>
-<w n="145,25">Каинъ,</w>
-<w n="145,25">убивъ</w>
-<w n="145,25">Авеля,</w>
-<w n="145,25">а</w>
-<w n="145,25">Ламехъ 70;</w>
-
-<w n="145,25">понеже</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="145,25">прия</w>
-<w n="145,25">Каинъ,</w>
-<w n="145,25">убивъ</w>
-<w n="145,25">Авеля,</w>
-<w n="145,25">а</w>
-<w n="145,25">Ламехъ 70;</w>
-
-<w n="145,25">понеже</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="145,25">прия</w>
-<w n="145,25">Каинъ,</w>
-<w n="145,25">убивъ</w>
-<w n="145,25">Авеля,</w>
-<w n="145,25">а</w>
-<w n="145,25">Ламехъ 70;</w>
-
-<w n="145,25">понеже</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>145, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="145"/><div type="block" n="25"><p><app><lem wit="#lem">
+            прия Каинъ, убивъ Авеля, а Ламехъ 70; понеже
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">приꙗ каинъ оубивъ авелѧ. <lb/> а ламехъ .о҃. Понеже</rdg>
+            <rdg wit="#rad">приа каинъ. оуби авелѧ. а ламе<hi rend="sup">х</hi>
+                <lb/> .о҃. понеже</rdg>
+            <rdg wit="#aka">прїꙗ каи<lb/>нъ оуби авелѧ. а ламе<hi rend="sup">х</hi> .о҃. понеже</rdg>
+            <rdg wit="#ipa">приꙗ каинъ. <lb/> оубивъ авѣлѧ. ламехъ .о҃. <lb/> понеже</rdg>
+            <rdg wit="#xle">прїать каинь оубивь авелѧ. а ламе<hi rend="sup">х</hi> .о҃. поне<hi rend="sup">ж</hi>
+                <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">прия Каинъ, убивъ Авеля, а Ламехъ 70; понеже</rdg><rdg wit="#shakh">прия Каинъ, убивъ Авеля, а Ламехъ 70; понеже</rdg><rdg wit="#likh">прия Каинъ, убивъ Авеля, а Ламехъ 70; понеже</rdg></rdgGrp></app></p></div></body></text></TEI>

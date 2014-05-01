@@ -1,109 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>61, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="61"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="61,16">и</w>
-<w n="61,16">древьняя</w>
-<w n="61,16">цьсарица,</w>
-<w n="61,16">мати</w>
-<w n="61,16">великаго</w>
-<w n="61,16">Костянтина.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="61,16"><milestone unit="sic" n="start"/>и<milestone unit="sic" n="end"/><lb/></w>
-<w n="61,16">древнѧꙗ</w>
-<w n="61,16">цр҃цѧ.</w>
-<w n="61,16">м҃ти</w>
-<w n="61,16">великаго</w>
-<w n="61,16">костѧнтина.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="61,16">и</w>
-<w n="61,16">древнѧꙗ</w>
-<w n="61,16">цр҃ци</w>
-<w n="61,16">м҃ти</w>
-<w n="61,16">велика<hi rend="sup">г</hi></w>
-<w n="61,16">костѧнтина <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="61,16">и</w>
-<w n="61,16">древнѧꙗ</w>
-<w n="61,16">цр҃ци.</w>
-<w n="61,16">м҃ти</w>
-<w n="61,16">велико<lb/>го</w>
-<w n="61,16">костѧнтина.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="61,16">и</w>
-<w n="61,16">древнѧꙗ</w>
-<w n="61,16">ц<hi rend="sup">с</hi>рца.</w>
-<w n="61,16">м҃ти</w>
-<w n="61,16">велї<lb/>кого</w>
-<w n="61,16">костѧнтина.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="61,16">и</w>
-<w n="61,16">древнѧа <lb/></w>
-
-<w n="61,16">цр҃ца</w>
-<w n="61,16">м҃ти</w>
-<w n="61,16">великого</w>
-<w n="61,16">костѧнтина.</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="61,16">древнꙗꙗ</w>
-<w n="61,16">цесарицꙗ</w>
-<w n="61,16">мати</w>
-<w n="61,16">великого</w>
-<w n="61,16">костꙗнтина</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="61,16">древнꙗꙗ</w>
-<w n="61,16">царица</w>
-<w n="61,16">мати</w>
-<w n="61,16">великаго</w>
-<w n="61,16">костинтина</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="61,16">древнꙗа</w>
-<w n="61,16">царица</w>
-<w n="61,16">мати</w>
-<w n="61,16">великаго</w>
-<w n="61,16">костинтина</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="61,16">и</w>
-<w n="61,16">древняя</w>
-<w n="61,16">царица,</w>
-<w n="61,16">мати</w>
-<w n="61,16">Великаго</w>
-<w n="61,16">Костянтина.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="61,16">и</w>
-<w n="61,16">древьняя</w>
-<w n="61,16">цѣсарица,</w>
-<w n="61,16">мати</w>
-<w n="61,16">великаго</w>
-<w n="61,16">Костянтина.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="61,16">и</w>
-<w n="61,16">древняя</w>
-<w n="61,16">царица,</w>
-<w n="61,16">мати</w>
-<w n="61,16">Великаго</w>
-<w n="61,16">Костянтина.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>61, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="61"/><div type="block" n="16"><p><app><lem wit="#lem">
+            и древьняя цьсарица, мати великаго Костянтина.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav"><sic>и</sic><lb/> древнѧꙗ цр҃цѧ. м҃ти великаго костѧнтина.</rdg>
+            <rdg wit="#rad">и древнѧꙗ цр҃ци м҃ти велика<hi rend="sup">г</hi> костѧнтина <lb/></rdg>
+            <rdg wit="#aka">и древнѧꙗ цр҃ци. м҃ти велико<lb/>го костѧнтина.</rdg>
+            <rdg wit="#ipa">и древнѧꙗ ц<hi rend="sup">с</hi>рца. м҃ти велї<lb/>кого костѧнтина.</rdg>
+            <rdg wit="#xle">и древнѧа <lb/> цр҃ца м҃ти великого костѧнтина.</rdg>
+            <rdg wit="#kom">древнꙗꙗ цесарицꙗ мати великого костꙗнтина</rdg>
+            <rdg wit="#nak">древнꙗꙗ царица мати великаго костинтина</rdg>
+            <rdg wit="#tol">древнꙗа царица мати великаго костинтина</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и древняя царица, мати Великаго Костянтина.</rdg><rdg wit="#shakh">и древьняя цѣсарица, мати великаго Костянтина.</rdg><rdg wit="#likh">и древняя царица, мати Великаго Костянтина.</rdg></rdgGrp></app></p></div></body></text></TEI>

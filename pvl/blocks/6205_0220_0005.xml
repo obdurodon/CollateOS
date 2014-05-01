@@ -1,102 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>220, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="220"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="220,5">противу,</w>
-<w n="220,5">и</w>
-<w n="220,5">стрѣльци</w>
-<w n="220,5">противу</w>
-<w n="220,5">предъ</w>
-<w n="220,5">ними;</w>
-<w n="220,5">нашимъ</w>
-<w n="220,5">же</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="220,5">про<lb/>тиву·</w>
-<w n="220,5">и</w>
-<w n="220,5">стрѣлци</w>
-<w n="220,5">пред</w>
-<w n="220,5">ними· <lb/></w>
-
-<w n="220,5">нашимь</w>
-<w n="220,5">же</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="220,5">противоу.</w>
-<w n="220,5">и</w>
-<w n="220,5">стрелци·</w>
-<w n="220,5">противѹу·</w>
-<w n="220,5">пре<hi rend="sup">д</hi></w>
-<w n="220,5">ними·</w>
-<w n="220,5">нашимъ <lb/></w>
-
-<w n="220,5">же·</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="220,5">противѹ·</w>
-<w n="220,5">и</w>
-<w n="220,5">стре<lb/>лци</w>
-<w n="220,5">противѹ</w>
-<w n="220,5">пре<hi rend="sup">д</hi></w>
-<w n="220,5">ними·</w>
-<w n="220,5">нашимъ</w>
-<w n="220,5">же</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="220,5">про<lb/>тиву·</w>
-<w n="220,5">и</w>
-<w n="220,5">стрѣлци</w>
-<w n="220,5">противу <lb/></w>
-
-<w n="220,5">пред<milestone unit="sic" n="start"/>митми<milestone unit="sic" n="end"/></w>
-<w n="220,5">ними·</w>
-<w n="220,5">наши<lb/>мъ</w>
-<w n="220,5">же</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="220,5">противоу.</w>
-<w n="220,5">и</w>
-<w n="220,5">стр<hi rend="sup">л</hi>ѣци</w>
-<w n="220,5">противоу</w>
-<w n="220,5">пре<hi rend="sup">д</hi><lb/></w>
-<w n="220,5">ними.</w>
-<w n="220,5">наши<hi rend="sup">м</hi></w>
-<w n="220,5">же</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="220,5">противу,</w>
-<w n="220,5">и</w>
-<w n="220,5">стрѣлци</w>
-<w n="220,5">противу</w>
-<w n="220,5">пред</w>
-<w n="220,5">ними;</w>
-<w n="220,5">нашимь</w>
-<w n="220,5">же</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="220,5">противу,</w>
-<w n="220,5">и</w>
-<w n="220,5">стрѣльци</w>
-<w n="220,5">предъ</w>
-<w n="220,5">ними;</w>
-<w n="220,5">нашимъ</w>
-<w n="220,5">же</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="220,5">противу,</w>
-<w n="220,5">и</w>
-<w n="220,5">стрѣлци</w>
-<w n="220,5">противу</w>
-<w n="220,5">предъ</w>
-<w n="220,5">ними;</w>
-<w n="220,5">нашимь</w>
-<w n="220,5">же</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>220, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="220"/><div type="block" n="5"><p><app><lem wit="#lem">
+            противу, и стрѣльци противу предъ ними; нашимъ же
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">про<lb/>тиву· и стрѣлци пред ними· <lb/> нашимь же</rdg>
+            <rdg wit="#rad">противоу. и стрелци· противѹу· пре<hi rend="sup">д</hi> ними· нашимъ <lb/> же·</rdg>
+            <rdg wit="#aka">противѹ· и стре<lb/>лци противѹ пре<hi rend="sup">д</hi> ними· нашимъ же</rdg>
+            <rdg wit="#ipa">про<lb/>тиву· и стрѣлци противу <lb/> пред<sic>митми</sic> ними·
+                наши<lb/>мъ же</rdg>
+            <rdg wit="#xle">противоу. и стр<hi rend="sup">л</hi>ѣци противоу пре<hi rend="sup">д</hi>
+                <lb/> ними. наши<hi rend="sup">м</hi> же</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">противу, и стрѣлци противу пред ними; нашимь же</rdg><rdg wit="#shakh">противу, и стрѣльци предъ ними; нашимъ же</rdg><rdg wit="#likh">противу, и стрѣлци противу предъ ними; нашимь же</rdg></rdgGrp></app></p></div></body></text></TEI>

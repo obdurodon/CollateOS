@@ -1,89 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>6, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="6"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="6,3">пришьдъше</w>
-<w n="6,3">сѣдоша</w>
-<w n="6,3">на</w>
-<w n="6,3">рѣцѣ</w>
-<w n="6,3">именьмь</w>
-<w n="6,3">Морава,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="6,3">при<lb/>шедше</w>
-<w n="6,3">сѣдоша.</w>
-<w n="6,3">на</w>
-<w n="6,3">рѣцѣ</w>
-<w n="6,3">имѧнемъ</w>
-<w n="6,3">марава.</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="6,3">прише<hi rend="sup">д</hi>ше</w>
-<w n="6,3">седоша</w>
-<w n="6,3">на</w>
-<w n="6,3">рецѣ</w>
-<w n="6,3">имен<hi rend="sup">м</hi>е</w>
-<w n="6,3">морава</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="6,3">прише<hi rend="sup">д</hi>ше</w>
-<w n="6,3">седоша</w>
-<w n="6,3">на</w>
-<w n="6,3">рецѣ</w>
-<w n="6,3">именемъ</w>
-<w n="6,3">морава. <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="6,3">пришедше</w>
-<w n="6,3">сѣдоша. <lb/></w>
-
-<w n="6,3">на</w>
-<w n="6,3">рѣцѣ</w>
-<w n="6,3">именемъ</w>
-<w n="6,3">мор<hi rend="sup">а</hi><lb/>вѣ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="6,3">прише<hi rend="sup">д</hi>ше</w>
-<w n="6,3">сѣдоша</w>
-<w n="6,3">на</w>
-<w n="6,3">рѣцѣ</w>
-<w n="6,3">имен<hi rend="sup">м</hi>е</w>
-<w n="6,3">моурава. <pb n="4v"/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="6,3">пришедше</w>
-<w n="6,3">сѣдоша</w>
-<w n="6,3">на</w>
-<w n="6,3">рѣцѣ</w>
-<w n="6,3">имянемъ</w>
-<w n="6,3">Марава,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="6,3">пришьдъше,</w>
-<w n="6,3">сѣдоша</w>
-<w n="6,3">на</w>
-<w n="6,3">рѣцѣ</w>
-<w n="6,3">именьмь</w>
-<w n="6,3">Морава,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="6,3">пришедше</w>
-<w n="6,3">сѣдоша</w>
-<w n="6,3">на</w>
-<w n="6,3">рѣцѣ</w>
-<w n="6,3">имянемъ</w>
-<w n="6,3">Марава,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>6, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="6"/><div type="block" n="3"><p><app><lem wit="#lem">
+            пришьдъше сѣдоша на рѣцѣ именьмь Морава,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">при<lb/>шедше сѣдоша. на рѣцѣ имѧнемъ марава.</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">прише<hi rend="sup">д</hi>ше седоша на рецѣ имен<hi rend="sup">м</hi>е морава</rdg>
+            <rdg wit="#aka">прише<hi rend="sup">д</hi>ше седоша на рецѣ именемъ морава. <lb/></rdg>
+            <rdg wit="#ipa">пришедше сѣдоша. <lb/> на рѣцѣ именемъ мор<hi rend="sup">а</hi><lb/>вѣ.</rdg>
+            <rdg wit="#xle">прише<hi rend="sup">д</hi>ше  сѣдоша на рѣцѣ имен<hi rend="sup">м</hi>е моурава.
+                    <pb n="4v"/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">пришедше сѣдоша на рѣцѣ имянемъ Марава,</rdg><rdg wit="#shakh">пришьдъше, сѣдоша на рѣцѣ именьмь Морава,</rdg><rdg wit="#likh">пришедше сѣдоша на рѣцѣ имянемъ Марава,</rdg></rdgGrp></app></p></div></body></text></TEI>

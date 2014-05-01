@@ -1,92 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>158, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="158"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-<w n="158,4">ископа</w>
-<w n="158,4">печеру,</w>
-<w n="158,4">яже</w>
-<w n="158,4">есть</w>
-<w n="158,4">подъ</w>
-<w n="158,4">новымь</w>
-<w n="158,4">манастырьмь,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="158,4">и<lb/>скопа</w>
-<w n="158,4">печеру.</w>
-<w n="158,4">ꙗже</w>
-<w n="158,4">есть</w>
-<w n="158,4">подъ <lb/></w>
-
-<w n="158,4">новымь</w>
-<w n="158,4">манастыре<hi rend="sup">м</hi>.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="158,4">ископа</w>
-<w n="158,4">печерѹ.</w>
-<w n="158,4">ꙗже</w>
-<w n="158,4">е<hi rend="sup">с</hi></w>
-<w n="158,4">по<hi rend="sup">д</hi></w>
-<w n="158,4">новымъ</w>
-<w n="158,4">монастыремъ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="158,4">Ископа</w>
-<w n="158,4">печерѹ</w>
-<w n="158,4">ꙗже</w>
-<w n="158,4">есть</w>
-<w n="158,4">по<hi rend="sup">д</hi><lb/></w>
-<w n="158,4">новымъ</w>
-<w n="158,4">манастыремъ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="158,4">ископа</w>
-<w n="158,4">печеру.</w>
-<w n="158,4">ꙗже</w>
-<w n="158,4">есть <lb/></w>
-
-<w n="158,4">по<hi rend="sup">д</hi><milestone unit="sic" n="start"/><hi rend="sup">н</hi>т<hi rend="sup">о</hi>ы<hi rend="sup">в</hi><milestone unit="sic" n="end"/><hi rend="sup">ы</hi><hi rend="sup">м</hi>м<hi rend="sup">ъ</hi>анастыремь.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="158,4">и<lb/>скопа</w>
-<w n="158,4">пе<hi rend="sup">ч</hi>роу</w>
-<w n="158,4">яже</w>
-<w n="158,4">е<hi rend="sup">с</hi></w>
-<w n="158,4">пѡ<hi rend="sup">д</hi></w>
-<w n="158,4">новы<hi rend="sup">м</hi></w>
-<w n="158,4">манастыре<hi rend="sup">м</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="158,4">ископа</w>
-<w n="158,4">печеру,</w>
-<w n="158,4">яже</w>
-<w n="158,4">есть</w>
-<w n="158,4">подъ</w>
-<w n="158,4">новымь</w>
-<w n="158,4">манастыремъ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="158,4">ископа</w>
-<w n="158,4">печеру,</w>
-<w n="158,4">яже</w>
-<w n="158,4">есть</w>
-<w n="158,4">подъ</w>
-<w n="158,4">новымь</w>
-<w n="158,4">манастырьмь,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="158,4">ископа</w>
-<w n="158,4">печеру,</w>
-<w n="158,4">яже</w>
-<w n="158,4">есть</w>
-<w n="158,4">подъ</w>
-<w n="158,4">новымь</w>
-<w n="158,4">манастырем,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>158, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="158"/><div type="block" n="4"><p><app><lem wit="#lem">
+            ископа печеру, яже есть подъ новымь манастырьмь,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и<lb/>скопа печеру. ꙗже есть подъ <lb/> новымь манастыре<hi rend="sup">м</hi>.</rdg>
+            <rdg wit="#rad">ископа печерѹ. ꙗже е<hi rend="sup">с</hi> по<hi rend="sup">д</hi> новымъ монастыремъ.</rdg>
+            <rdg wit="#aka">Ископа печерѹ ꙗже есть по<hi rend="sup">д</hi>
+                <lb/> новымъ манастыремъ.</rdg>
+            <rdg wit="#ipa">ископа печеру. ꙗже есть <lb/> по<hi rend="sup">д</hi>
+                <sic><hi rend="sup">н</hi>т<hi rend="sup">о</hi>ы<hi rend="sup">в</hi></sic><hi rend="sup">ы</hi><hi rend="sup">м</hi>м<hi rend="sup">ъ</hi>анастыремь.</rdg>
+            <rdg wit="#xle">и<lb/>скопа пе<hi rend="sup">ч</hi>роу ꙗже е<hi rend="sup">с</hi> пѡ<hi rend="sup">д</hi> новы<hi rend="sup">м</hi>
+                    манастыре<hi rend="sup">м</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">ископа печеру, яже есть подъ новымь манастыремъ,</rdg><rdg wit="#shakh">ископа печеру, яже есть подъ новымь манастырьмь,</rdg><rdg wit="#likh">ископа печеру, яже есть подъ новымь манастырем,</rdg></rdgGrp></app></p></div></body></text></TEI>

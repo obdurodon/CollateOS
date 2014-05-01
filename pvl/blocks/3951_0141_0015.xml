@@ -1,93 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>141, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="141"/><div type="block" n="15"><p>
-<app>
-<lem wit="#lem">
-<w n="141,15">Глѣбову</w>
-<w n="141,15">правьдьную.</w>
-<w n="141,15">Еда</w>
-<w n="141,15">и</w>
-<w n="141,15">мънѣ</w>
-<w n="141,15">сице</w>
-<w n="141,15">же</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="141,15">глѣбо<lb/>ву</w>
-<w n="141,15">праведною.</w>
-<w n="141,15">еда</w>
-<w n="141,15">и</w>
-<w n="141,15">мнѣ</w>
-<w n="141,15">си<milestone unit="sic" n="start"/>ц<milestone unit="sic" n="end"/>е</w>
-<w n="141,15">же <pb n="48c"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="141,15">глѣбовѹ.</w>
-<w n="141,15">праве<lb/>дною.</w>
-<w n="141,15">да</w>
-<w n="141,15">и</w>
-<w n="141,15">мнѣ</w>
-<w n="141,15">сице</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="141,15">глѣбовѹ</w>
-<w n="141,15">пра<lb/>веднѹю.</w>
-<w n="141,15">да</w>
-<w n="141,15">и</w>
-<w n="141,15">мнѣ</w>
-<w n="141,15">сице</w>
-<w n="141,15">же</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="141,15">глѣ<lb/>бову.</w>
-<w n="141,15">праведною.</w>
-<w n="141,15">еда</w>
-<w n="141,15">и</w>
-<w n="141,15">мнѣ <lb/></w>
-
-<w n="141,15">си</w>
-<w n="141,15">же</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="141,15">глѣбовоу</w>
-<w n="141,15">праведною.</w>
-<w n="141,15">егда</w>
-<w n="141,15">и <lb/></w>
-
-<w n="141,15">мнѣ</w>
-<w n="141,15">се</w>
-<w n="141,15">же</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="141,15">Глѣбову</w>
-<w n="141,15">праведную:</w>
-<w n="141,15">еда</w>
-<w n="141,15">и</w>
-<w n="141,15">мнѣ</w>
-<w n="141,15">сице</w>
-<w n="141,15">же</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="141,15">Глѣбову</w>
-<w n="141,15">правьдьную.</w>
-<w n="141,15">Еда</w>
-<w n="141,15">и</w>
-<w n="141,15">мънѣ</w>
-<w n="141,15">сицеже</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="141,15">Глѣбову</w>
-<w n="141,15">праведную.</w>
-<w n="141,15">Еда</w>
-<w n="141,15">и</w>
-<w n="141,15">мнѣ</w>
-<w n="141,15">сице</w>
-<w n="141,15">же</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>141, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="141"/><div type="block" n="15"><p><app><lem wit="#lem">
+            Глѣбову правьдьную. Еда и мънѣ сице же
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">глѣбо<lb/>ву праведною. еда и мнѣ си<sic>ц</sic>е же
+                    <pb n="48c"/></rdg>
+            <rdg wit="#rad">глѣбовѹ. праве<lb/>дною. да и мнѣ сице</rdg>
+            <rdg wit="#aka">глѣбовѹ пра<lb/>веднѹю. да и мнѣ сице же</rdg>
+            <rdg wit="#ipa">глѣ<lb/>бову. праведною. еда и мнѣ <lb/> си же</rdg>
+            <rdg wit="#xle">глѣбовоу праведною. егда и <lb/> мнѣ се же</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Глѣбову праведную: еда и мнѣ сице же</rdg><rdg wit="#shakh">Глѣбову правьдьную. Еда и мънѣ сицеже</rdg><rdg wit="#likh">Глѣбову праведную. Еда и мнѣ сице же</rdg></rdgGrp></app></p></div></body></text></TEI>

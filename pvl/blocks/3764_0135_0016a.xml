@@ -1,99 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>135, 16a</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="135"/><div type="block" n="16a"><p>
-<app>
-<lem wit="#lem">
-<w n="135,16a">боить</w>
-<w n="135,16a">ся.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="135,16a">сѧ</w>
-<w n="135,16a">боить. <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="135,16a">сѧ</w>
-<w n="135,16a">боить</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="135,16a">сѧ <lb/></w>
-
-<w n="135,16a">боитъ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="135,16a">боить</w>
-<w n="135,16a">сѧ.</w>
-<w n="135,16a">тѣм</w>
-<w n="135,16a">же</w>
-<w n="135,16a">и</w>
-<w n="135,16a"><milestone unit="sic" n="start"/>д<milestone unit="sic" n="end"/>в҃дъ</w>
-<w n="135,16a">гл҃а<lb/>ше.</w>
-<w n="135,16a">аще</w>
-<w n="135,16a">во</w>
-<w n="135,16a">истину</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="135,16a">боит</w>
-<w n="135,16a">сѧ. <lb/></w>
-
-<w n="135,16a">т<hi rend="sup">м</hi>ѣ</w>
-<w n="135,16a">же</w>
-<w n="135,16a">и</w>
-<w n="135,16a">дв҃дь</w>
-<w n="135,16a">гл҃аше.</w>
-<w n="135,16a">аще</w>
-<w n="135,16a">въ</w>
-<w n="135,16a">истинну</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="135,16a">боитсꙗ</w>
-<w n="135,16a">тѣм</w>
-<w n="135,16a">же</w>
-<w n="135,16a">глаголашеть</w>
-<w n="135,16a">давыдъ</w>
-<w n="135,16a">аще</w>
-<w n="135,16a">во</w>
-<w n="135,16a">истину</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="135,16a">боитсꙗ</w>
-<w n="135,16a">тѣмь</w>
-<w n="135,16a">же</w>
-<w n="135,16a">глаголашеть</w>
-<w n="135,16a">давыдъ</w>
-<w n="135,16a">аще</w>
-<w n="135,16a">во</w>
-<w n="135,16a">истинну</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="135,16a">боитсꙗ</w>
-<w n="135,16a">тѣм</w>
-<w n="135,16a">же</w>
-<w n="135,16a">глаголашеть</w>
-<w n="135,16a">давыдъ</w>
-<w n="135,16a">аще</w>
-<w n="135,16a">во</w>
-<w n="135,16a">истинну</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="135,16a">ся</w>
-<w n="135,16a">боить.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="135,16a">ся</w>
-<w n="135,16a">боить.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="135,16a">ся</w>
-<w n="135,16a">боить.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>135, 16a</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="135"/><div type="block" n="16a"><p><app><lem wit="#lem">
+            боить ся.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">сѧ боить. <lb/></rdg>
+            <rdg wit="#rad">сѧ боить</rdg>
+            <rdg wit="#aka">сѧ <lb/> боитъ.</rdg>
+            <rdg wit="#ipa">боить сѧ. тѣм же и <sic>д</sic>в҃дъ гл҃а<lb/>ше. аще во истину</rdg>
+            <rdg wit="#xle">боит сѧ. <lb/> т<hi rend="sup">м</hi>ѣ же и дв҃дь гл҃аше. аще въ истинну</rdg>
+            <rdg wit="#kom">боитсꙗ тѣм же глаголашеть давыдъ аще во истину</rdg>
+            <rdg wit="#nak">боитсꙗ тѣмь же глаголашеть давыдъ аще во истинну</rdg>
+            <rdg wit="#tol">боитсꙗ тѣм же глаголашеть давыдъ аще во истинну</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">ся боить.</rdg><rdg wit="#shakh">ся боить.</rdg><rdg wit="#likh">ся боить.</rdg></rdgGrp></app></p></div></body></text></TEI>

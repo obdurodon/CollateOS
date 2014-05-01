@@ -1,79 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>229, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="229"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-<w n="229,10">отъ</w>
-<w n="229,10">инѣхъ;</w>
-<w n="229,10">а</w>
-<w n="229,10">Гюргевъ</w>
-<w n="229,10">зажьгоша</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="229,10">ѿ</w>
-<w n="229,10">инѣхъ</w>
-<w n="229,10">гра<lb/>дъ·</w>
-<w n="229,10">а</w>
-<w n="229,10">гюргевъ</w>
-<w n="229,10">зажгоша</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="229,10">ѿ</w>
-<w n="229,10">инѣ<hi rend="sup">х</hi>·</w>
-<w n="229,10">а</w>
-<w n="229,10">гѹрге<hi rend="sup">в</hi></w>
-<w n="229,10">зажго<hi rend="sup">ш</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="229,10">ѿ</w>
-<w n="229,10">инѣ<hi rend="sup">х</hi>·</w>
-<w n="229,10">а</w>
-<w n="229,10">гѹргевъ</w>
-<w n="229,10">зажгоша</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="229,10">ѡ</w>
-<w n="229,10">нихъ·</w>
-<w n="229,10">а</w>
-<w n="229,10">гюргевь</w>
-<w n="229,10">зазго<lb/>ша</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="229,10">ѿ</w>
-<w n="229,10">ни<hi rend="sup">х</hi>.</w>
-<w n="229,10">а</w>
-<w n="229,10">гоургевъ <lb/></w>
-
-<w n="229,10">зажгоша</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="229,10">отъ</w>
-<w n="229,10">инѣхъ</w>
-<w n="229,10">градъ;</w>
-<w n="229,10">а</w>
-<w n="229,10">Гюргевъ</w>
-<w n="229,10">зажгоша</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="229,10">отъ</w>
-<w n="229,10">инѣхъ</w>
-<w n="229,10">градъ;</w>
-<w n="229,10">а</w>
-<w n="229,10">Гургевъ</w>
-<w n="229,10">зажьгоша</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="229,10">от</w>
-<w n="229,10">инѣхъ</w>
-<w n="229,10">градъ;</w>
-<w n="229,10">а</w>
-<w n="229,10">Гюргевъ</w>
-<w n="229,10">зажгоша</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>229, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="229"/><div type="block" n="10"><p><app><lem wit="#lem">
+            отъ инѣхъ; а Гюргевъ зажьгоша
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѿ инѣхъ гра<lb/>дъ· а гюргевъ зажгоша</rdg>
+            <rdg wit="#rad">ѿ инѣ<hi rend="sup">х</hi>· а гѹрге<hi rend="sup">в</hi> зажго<hi rend="sup">ш</hi></rdg>
+            <rdg wit="#aka">ѿ инѣ<hi rend="sup">х</hi>· а гѹргевъ зажгоша</rdg>
+            <rdg wit="#ipa">ѡ нихъ· а гюргевь зазго<lb/>ша</rdg>
+            <rdg wit="#xle">ѿ ни<hi rend="sup">х</hi>. а гоургевъ <lb/> зажгоша</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">отъ инѣхъ градъ; а Гюргевъ зажгоша</rdg><rdg wit="#shakh">отъ инѣхъ градъ; а Гургевъ зажьгоша</rdg><rdg wit="#likh">от инѣхъ градъ; а Гюргевъ зажгоша</rdg></rdgGrp></app></p></div></body></text></TEI>

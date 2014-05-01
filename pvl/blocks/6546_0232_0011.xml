@@ -1,84 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>232, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="232"/><div type="block" n="11"><p>
-<app>
-<lem wit="#lem">
-<w n="232,11">отаи</w>
-<w n="232,11">хыщьникъ,</w>
-<w n="232,11">къ</w>
-<w n="232,11">Кыеву</w>
-<w n="232,11">вънезапу,</w>
-<w n="232,11">и</w>
-<w n="232,11">мало</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="232,11">ѡтаи</w>
-<w n="232,11">хыщникъ</w>
-<w n="232,11">г</w>
-<w n="232,11">кыеву</w>
-<w n="232,11">вне<lb/>запу·</w>
-<w n="232,11">и</w>
-<w n="232,11">мало</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="232,11">ѡтаи</w>
-<w n="232,11">внезапѹ.</w>
-<w n="232,11">мало</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="232,11">ѡтаи</w>
-<w n="232,11">внезапѹ·</w>
-<w n="232,11">мало</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="232,11">ѡта<lb/>и</w>
-<w n="232,11">хыщникъ</w>
-<w n="232,11">къ</w>
-<w n="232,11">киѥву</w>
-<w n="232,11">вне<lb/>запу·</w>
-<w n="232,11">и</w>
-<w n="232,11">мало</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="232,11">ѡтаи</w>
-<w n="232,11">хыщникь</w>
-<w n="232,11">къ</w>
-<w n="232,11">кїевоу</w>
-<w n="232,11">внезаа<lb/>поу.</w>
-<w n="232,11">и</w>
-<w n="232,11">мало</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="232,11">отай,</w>
-<w n="232,11">хыщникъ,</w>
-<w n="232,11">къ</w>
-<w n="232,11">Кыеву</w>
-<w n="232,11">внезапу,</w>
-<w n="232,11">и</w>
-<w n="232,11">мало</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="232,11">отаи</w>
-<w n="232,11">хыщьникъ,</w>
-<w n="232,11">къ</w>
-<w n="232,11">Кыеву</w>
-<w n="232,11">вънезапу,</w>
-<w n="232,11">и</w>
-<w n="232,11">мало</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="232,11">отай,</w>
-<w n="232,11">хыщникъ,</w>
-<w n="232,11">к</w>
-<w n="232,11">Кыеву</w>
-<w n="232,11">внезапу,</w>
-<w n="232,11">и</w>
-<w n="232,11">мало</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>232, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="232"/><div type="block" n="11"><p><app><lem wit="#lem">
+            отаи хыщьникъ, къ Кыеву вънезапу, и мало
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѡтаи хыщникъ г кыеву вне<lb/>запу· и мало</rdg>
+            <rdg wit="#rad">ѡтаи внезапѹ. мало</rdg>
+            <rdg wit="#aka">ѡтаи внезапѹ· мало</rdg>
+            <rdg wit="#ipa">ѡта<lb/>и хыщникъ къ киѥву вне<lb/>запу· и мало</rdg>
+            <rdg wit="#xle">ѡтаи хыщникь къ кїевоу внезаа<lb/>поу. и мало</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">отай, хыщникъ, къ Кыеву внезапу, и мало</rdg><rdg wit="#shakh">отаи хыщьникъ, къ Кыеву вънезапу, и мало</rdg><rdg wit="#likh">отай, хыщникъ, к Кыеву внезапу, и мало</rdg></rdgGrp></app></p></div></body></text></TEI>

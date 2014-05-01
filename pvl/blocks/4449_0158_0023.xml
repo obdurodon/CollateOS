@@ -1,75 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>158, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="158"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="158,23">хотѣли</w>
-<w n="158,23">быхомъ</w>
-<w n="158,23">поставити</w>
-<w n="158,23">манастырь”.</w>
-<w n="158,23">Антонии</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="158,23">хотѣли</w>
-<w n="158,23">быхомъ</w>
-<w n="158,23">поста<lb/>вити</w>
-<w n="158,23">манастырь.</w>
-<w n="158,23">антонии</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="158,23">хотѣли</w>
-<w n="158,23">бы<hi rend="sup">х</hi>мъ</w>
-<w n="158,23">поставити</w>
-<w n="158,23">монастырь.</w>
-<w n="158,23">антонии</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="158,23">хотѣли</w>
-<w n="158,23">быхомъ</w>
-<w n="158,23">поставити</w>
-<w n="158,23">мона<lb/>стырь.</w>
-<w n="158,23">антонїи</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="158,23">хотѣлѣ</w>
-<w n="158,23">быхомъ.</w>
-<w n="158,23">постави<lb/>ти.</w>
-<w n="158,23">ма<hi rend="sup">н</hi>с<hi rend="sup">а</hi>тырь.</w>
-<w n="158,23">антонии</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="158,23">хотѣли</w>
-<w n="158,23">быхо<hi rend="sup">м</hi></w>
-<w n="158,23">поставити <lb/></w>
-
-<w n="158,23">манастырь.</w>
-<w n="158,23">антонїи</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="158,23">хотѣли</w>
-<w n="158,23">быхомъ</w>
-<w n="158,23">поставити</w>
-<w n="158,23">манастырь”.</w>
-<w n="158,23">Антоний</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="158,23">хотѣли</w>
-<w n="158,23">быхомъ</w>
-<w n="158,23">поставити</w>
-<w n="158,23">манастырь”.</w>
-<w n="158,23">Антонии</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="158,23">хотѣли</w>
-<w n="158,23">быхомъ</w>
-<w n="158,23">поставити</w>
-<w n="158,23">манастырь”.</w>
-<w n="158,23">Антоний</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>158, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="158"/><div type="block" n="23"><p><app><lem wit="#lem">
+            хотѣли быхомъ поставити манастырь”. Антонии
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">хотѣли быхомъ поста<lb/>вити манастырь. антонии</rdg>
+            <rdg wit="#rad">хотѣли бы<hi rend="sup">х</hi>мъ поставити монастырь. антонии</rdg>
+            <rdg wit="#aka">хотѣли быхомъ поставити мона<lb/>стырь. антонїи</rdg>
+            <rdg wit="#ipa">хотѣлѣ быхомъ. постави<lb/>ти. ма<hi rend="sup">н</hi>с<hi rend="sup">а</hi>тырь. антонии</rdg>
+            <rdg wit="#xle">хотѣли быхо<hi rend="sup">м</hi> поставити <lb/> манастырь. антонїи</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">хотѣли быхомъ поставити манастырь”. Антоний</rdg><rdg wit="#shakh">хотѣли быхомъ поставити манастырь”. Антонии</rdg><rdg wit="#likh">хотѣли быхомъ поставити манастырь”. Антоний</rdg></rdgGrp></app></p></div></body></text></TEI>

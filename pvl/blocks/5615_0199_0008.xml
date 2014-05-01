@@ -1,93 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>199, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="199"/><div type="block" n="8"><p>
-<app>
-<lem wit="#lem">
-<w n="199,8">помощь</w>
-<w n="199,8">на</w>
-<w n="199,8">Чехы.</w>
-<w n="199,8">Въ</w>
-<w n="199,8">сеже</w>
-<w n="199,8">лѣто</w>
-<w n="199,8">престави</w>
-<w n="199,8">ся</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="199,8">помочь</w>
-<w n="199,8">на</w>
-<w n="199,8">чехы.</w>
-<w n="199,8">сегоже</w>
-<w n="199,8">лѣта</w>
-<w n="199,8">пре<lb/>стависѧ <pb n="67a"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="199,8">помощь.</w>
-<w n="199,8">на</w>
-<w n="199,8">чехы.</w>
-<w n="199,8">сегоже</w>
-<w n="199,8">лѣта</w>
-<w n="199,8">престави<hi rend="sup">с</hi><lb/></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="199,8">помощь</w>
-<w n="199,8">на</w>
-<w n="199,8">чехы.</w>
-<w n="199,8">сегоже</w>
-<w n="199,8">лѣта</w>
-<w n="199,8">престависѧ</w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="199,8">помочь</w>
-<w n="199,8">на</w>
-<w n="199,8">чехы.</w>
-<w n="199,8">в</w>
-<w n="199,8">сеже <lb/></w>
-
-<w n="199,8">лѣ<hi rend="sup">т</hi></w>
-<w n="199,8">престави<hi rend="sup">с</hi></w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="199,8">помочь <lb/></w>
-
-<w n="199,8">на</w>
-<w n="199,8">чехы.</w>
-<w n="199,8">В</w>
-<w n="199,8">се<hi rend="sup">ж</hi></w>
-<w n="199,8">лѣто</w>
-<w n="199,8">престависѧ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="199,8">помочь</w>
-<w n="199,8">на</w>
-<w n="199,8">Чехы.</w>
-<w n="199,8">Сего</w>
-<w n="199,8">же</w>
-<w n="199,8">лѣта</w>
-<w n="199,8">преставися</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="199,8">помощь</w>
-<w n="199,8">на</w>
-<w n="199,8">Чехы.</w>
-<w n="199,8">Сегоже</w>
-<w n="199,8">лѣта</w>
-<w n="199,8">преставися</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="199,8">помочь</w>
-<w n="199,8">на</w>
-<w n="199,8">чехы.</w>
-<w n="199,8">Сего</w>
-<w n="199,8">же</w>
-<w n="199,8">лѣта</w>
-<w n="199,8">преставися</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>199, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="199"/><div type="block" n="8"><p><app><lem wit="#lem">
+            помощь на Чехы. Въ сеже лѣто престави ся
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">помочь на чехы. сегоже лѣта пре<lb/>стависѧ <pb n="67a"/></rdg>
+            <rdg wit="#rad">помощь. на чехы. сегоже лѣта престави<hi rend="sup">с</hi>
+                <lb/></rdg>
+            <rdg wit="#aka">помощь на чехы. сегоже лѣта престависѧ </rdg>
+            <rdg wit="#ipa">помочь на чехы. в сеже <lb/> лѣ<hi rend="sup">т</hi> престави<hi rend="sup">с</hi></rdg>
+            <rdg wit="#xle">помочь <lb/> на чехы. В се<hi rend="sup">ж</hi> лѣто престависѧ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">помочь на Чехы. Сего же лѣта преставися</rdg><rdg wit="#shakh">помощь на Чехы. Сегоже лѣта преставися</rdg><rdg wit="#likh">помочь на чехы. Сего же лѣта преставися</rdg></rdgGrp></app></p></div></body></text></TEI>

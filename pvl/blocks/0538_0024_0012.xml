@@ -1,54 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>24, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="24"/><div type="block" n="12"><p>
-<app>
-<lem wit="#lem">
-<w n="24,12">нѣ</w>
-<w n="24,12">чему”.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="24,12">не</w>
-<w n="24,12">чему·:·</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="24,12">не</w>
-<w n="24,12">чему</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="24,12">не</w>
-<w n="24,12">чемѹ:- <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="24,12">не</w>
-<w n="24,12">чемѹ:·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="24,12">не</w>
-<w n="24,12">чему·:· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="24,12">нѣ</w>
-<w n="24,12">чемоу</w>
-<w n="24,12">давати.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="24,12">нечему”.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="24,12">нѣ</w>
-<w n="24,12">чему”.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="24,12">не</w>
-<w n="24,12">чему”.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>24, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="24"/><div type="block" n="12"><p><app><lem wit="#lem">
+            нѣ чему”.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">не чему·:·</rdg>
+            <rdg wit="#tro">не чему</rdg>
+            <rdg wit="#rad">не чемѹ:- <lb/></rdg>
+            <rdg wit="#aka">не чемѹ:·</rdg>
+            <rdg wit="#ipa">не чему·:· <lb/></rdg>
+            <rdg wit="#xle">нѣ чемоу давати.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">нечему”.</rdg><rdg wit="#shakh">нѣ чему”.</rdg><rdg wit="#likh">не чему”.</rdg></rdgGrp></app></p></div></body></text></TEI>

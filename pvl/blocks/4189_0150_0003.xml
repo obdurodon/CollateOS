@@ -1,86 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>150, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="150"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="150,3">Въ</w>
-<w n="150,3">лѣто 6539.</w>
-
-<w n="150,3">Ярославъ</w>
-<w n="150,3">и</w>
-<w n="150,3">Мьстиславъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="150,3">В</w>
-<w n="150,3">лѣ<hi rend="sup">т</hi></w>
-<w n="150,3">.҂ѕ҃.ф҃.л҃ѳ·:·</w>
-<w n="150,3">Ярославъ</w>
-<w n="150,3">и <lb/></w>
-
-<w n="150,3">мьстиславъ.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="150,3">В</w>
-<w n="150,3">лѣ<hi rend="sup">т</hi></w>
-<w n="150,3">҂ѕ҃</w>
-<w n="150,3">ф҃.л҃ѳ.</w>
-<w n="150,3">ꙗрославъ</w>
-<w n="150,3">и</w>
-<w n="150,3">мстиславъ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="150,3">В</w>
-<w n="150,3">лѣ<hi rend="sup">т</hi></w>
-<w n="150,3">.҂ѕ҃.ф҃.л҃ѳ.</w>
-<w n="150,3">ꙗрославъ</w>
-<w n="150,3">и</w>
-<w n="150,3">мьстїславъ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="150,3">В</w>
-<w n="150,3">лѣ<hi rend="sup">т</hi></w>
-<w n="150,3">.҂ѕ҃..ф҃..л҃ѳ.</w>
-<w n="150,3">Ярославъ <lb/></w>
-
-<w n="150,3">и</w>
-<w n="150,3">мьстиславъ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="150,3">В</w>
-<w n="150,3">лѣ<hi rend="sup">т</hi></w>
-<w n="150,3">҂ѕ҃.ф҃.л҃ѳ.</w>
-<w n="150,3">ярославь</w>
-<w n="150,3">и</w>
-<w n="150,3">мьстиславь.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="150,3">В</w>
-<w n="150,3">лѣто 6539.</w>
-
-<w n="150,3">Ярославъ</w>
-<w n="150,3">и</w>
-<w n="150,3">Мьстиславъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="150,3">Въ</w>
-<w n="150,3">лѣто 6539.</w>
-
-<w n="150,3">Ярославъ</w>
-<w n="150,3">и</w>
-<w n="150,3">Мьстиславъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="150,3">В</w>
-<w n="150,3">лѣто 6539.</w>
-
-<w n="150,3">Ярославъ</w>
-<w n="150,3">и</w>
-<w n="150,3">Мьстиславъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>150, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="150"/><div type="block" n="3"><p><app><lem wit="#lem">
+            Въ лѣто 6539. Ярославъ и Мьстиславъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">В лѣ<hi rend="sup">т</hi> .҂ѕ҃.ф҃.л҃ѳ·:· Ярославъ и <lb/> мьстиславъ.</rdg>
+            <rdg wit="#rad">В лѣ<hi rend="sup">т</hi> ҂ѕ҃ ф҃.л҃ѳ. ꙗрославъ и мстиславъ.</rdg>
+            <rdg wit="#aka">В лѣ<hi rend="sup">т</hi> .҂ѕ҃.ф҃.л҃ѳ. ꙗрославъ и мьстїславъ.</rdg>
+            <rdg wit="#ipa">В лѣ<hi rend="sup">т</hi> .҂ѕ҃..ф҃..л҃ѳ. Ꙗрославъ <lb/> и мьстиславъ.</rdg>
+            <rdg wit="#xle">В лѣ<hi rend="sup">т</hi> ҂ѕ҃.ф҃.л҃ѳ. ꙗрославь и мьстиславь.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">В лѣто 6539. Ярославъ и Мьстиславъ</rdg><rdg wit="#shakh">Въ лѣто 6539. Ярославъ и Мьстиславъ</rdg><rdg wit="#likh">В лѣто 6539. Ярославъ и Мьстиславъ</rdg></rdgGrp></app></p></div></body></text></TEI>

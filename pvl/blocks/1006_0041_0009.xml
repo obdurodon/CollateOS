@@ -1,86 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>41, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="41"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="41,9">ради</w>
-<w n="41,9">чюдесъ</w>
-<w n="41,9">и</w>
-<w n="41,9">сотонинъ</w>
-<w n="41,9">дѣлъ,</w>
-<w n="41,9">творимомъ</w>
-<w n="41,9">отъ</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="41,9">ра<hi rend="sup">д</hi></w>
-<w n="41,9">чюде<hi rend="sup">с</hi>.</w>
-<w n="41,9">и</w>
-<w n="41,9">сот<milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/>ни<lb/>нъ</w>
-<w n="41,9">дѣлъ</w>
-<w n="41,9">творимо<hi rend="sup">м</hi>.</w>
-<w n="41,9">ѿ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="41,9">ради</w>
-<w n="41,9">чюдесь.</w>
-<w n="41,9">и</w>
-<w n="41,9">сотонинь</w>
-<w n="41,9">дѣ<lb/>ль</w>
-<w n="41,9">творимомъ</w>
-<w n="41,9">ѿ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="41,9">ради <lb/></w>
-
-<w n="41,9">чюдесъ.</w>
-<w n="41,9">и</w>
-<w n="41,9">сотонинъ</w>
-<w n="41,9">дѣ<lb/>лъ.</w>
-<w n="41,9">творимомъ</w>
-<w n="41,9">ѿ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="41,9">р<hi rend="sup">д</hi>а<hi rend="sup">и</hi></w>
-<w n="41,9">чюде<hi rend="sup">с</hi>,</w>
-<w n="41,9">и</w>
-<w n="41,9">сотонинь</w>
-<w n="41,9">дѣ<hi rend="sup">л</hi></w>
-<w n="41,9">творимѡ<hi rend="sup">м</hi></w>
-<w n="41,9">ѿ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="41,9">ради</w>
-<w n="41,9">чюдесъ</w>
-<w n="41,9">и</w>
-<w n="41,9">сотонинъ</w>
-<w n="41,9">дѣлъ,</w>
-<w n="41,9">творимыхъ</w>
-<w n="41,9">отъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="41,9">ради</w>
-<w n="41,9">чюдесъ</w>
-<w n="41,9">и</w>
-<w n="41,9">сотонинъ</w>
-<w n="41,9">дѣлъ,</w>
-<w n="41,9">творимъ</w>
-<w n="41,9">отъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="41,9">ради</w>
-<w n="41,9">чюдес</w>
-<w n="41,9">и</w>
-<w n="41,9">сотонинъ</w>
-<w n="41,9">дѣлъ,</w>
-<w n="41,9">творимыхъ</w>
-<w n="41,9">от</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>41, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="41"/><div type="block" n="9"><p><app><lem wit="#lem">
+            ради чюдесъ и сотонинъ дѣлъ, творимомъ отъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">ра<hi rend="sup">д</hi> чюде<hi rend="sup">с</hi>. и сот<sic>о</sic>ни<lb/>нъ дѣлъ
+                    творимо<hi rend="sup">м</hi>. ѿ</rdg>
+            <rdg wit="#aka">ради чюдесь. и сотонинь дѣ<lb/>ль творимомъ ѿ</rdg>
+            <rdg wit="#ipa">ради <lb/> чюдесъ. и сотонинъ дѣ<lb/>лъ. творимомъ ѿ</rdg>
+            <rdg wit="#xle">р<hi rend="sup">д</hi>а<hi rend="sup">и</hi> чюде<hi rend="sup">с</hi>, и сотонинь дѣ<hi rend="sup">л</hi>
+                    творимѡ<hi rend="sup">м</hi> ѿ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">ради чюдесъ и сотонинъ дѣлъ, творимыхъ отъ</rdg><rdg wit="#shakh">ради чюдесъ и сотонинъ дѣлъ, творимъ отъ</rdg><rdg wit="#likh">ради чюдес и сотонинъ дѣлъ, творимыхъ от</rdg></rdgGrp></app></p></div></body></text></TEI>

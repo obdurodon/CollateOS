@@ -1,79 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>151, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="151"/><div type="block" n="26"><p>
-<app>
-<lem wit="#lem">
-<w n="151,26">почаша</w>
-<w n="151,26">мъножитися,</w>
-<w n="151,26">и</w>
-<w n="151,26">манастыреве</w>
-<w n="151,26">починаху</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="151,26">почаша</w>
-<w n="151,26">множитисѧ. <lb/></w>
-
-<w n="151,26">и</w>
-<w n="151,26">манастыреве</w>
-<w n="151,26">починаху <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="151,26">почаша</w>
-<w n="151,26">множити<hi rend="sup">с</hi>.</w>
-<w n="151,26">и</w>
-<w n="151,26">монастыреве</w>
-<w n="151,26">починахоу <pb n="87v"/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="151,26">почаша</w>
-<w n="151,26">множитисѧ.</w>
-<w n="151,26">и</w>
-<w n="151,26">монастыреве</w>
-<w n="151,26">починахѹ <pb n="79v"/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="151,26">поча</w>
-<w n="151,26">множитисѧ.</w>
-<w n="151,26">и</w>
-<w n="151,26">манасты<lb/>реве</w>
-<w n="151,26">почаху <pb n="57a"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="151,26">начаша</w>
-<w n="151,26">мнѡжитисѧ.</w>
-<w n="151,26">и</w>
-<w n="151,26">мо<lb/>настыреве</w>
-<w n="151,26">починахѫ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="151,26">почаша</w>
-<w n="151,26">множитися,</w>
-<w n="151,26">и</w>
-<w n="151,26">манастыреве</w>
-<w n="151,26">починаху</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="151,26">почаша</w>
-<w n="151,26">мъножитися,</w>
-<w n="151,26">и</w>
-<w n="151,26">манастыреве</w>
-<w n="151,26">починаху</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="151,26">почаша</w>
-<w n="151,26">множитися,</w>
-<w n="151,26">и</w>
-<w n="151,26">манастыреве</w>
-<w n="151,26">починаху</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>151, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="151"/><div type="block" n="26"><p><app><lem wit="#lem">
+            почаша мъножити ся, и манастыреве починаху
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">почаша множитисѧ. <lb/> и манастыреве починаху <lb/></rdg>
+            <rdg wit="#rad">почаша множити<hi rend="sup">с</hi>. и монастыреве починахоу
+                <pb n="87v"/></rdg>
+            <rdg wit="#aka">почаша множитисѧ. и монастыреве починахѹ <pb n="79v"/></rdg>
+            <rdg wit="#ipa">поча множитисѧ. и манасты<lb/>реве почаху <pb n="57a"/></rdg>
+            <rdg wit="#xle">начаша мнѡжитисѧ. и мо<lb/>настыреве починахѫ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">почаша множитися, и манастыреве починаху</rdg><rdg wit="#shakh">почаша мъножитися, и манастыреве починаху</rdg><rdg wit="#likh">почаша множитися, и манастыреве починаху</rdg></rdgGrp></app></p></div></body></text></TEI>

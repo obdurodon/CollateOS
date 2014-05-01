@@ -1,79 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>33, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="33"/><div type="block" n="28"><p>
-<app>
-<lem wit="#lem">
-<w n="33,28">Грькы,</w>
-<w n="33,28">исповѣданиемъ</w>
-<w n="33,28">и</w>
-<w n="33,28">написаниемь</w>
-<w n="33,28">съ</w>
-<w n="33,28">клятъвою</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="33,28">грекы.</w>
-<w n="33,28">исповедание<hi rend="sup">м</hi><lb/></w>
-<w n="33,28">и</w>
-<w n="33,28">написание<hi rend="sup">м</hi></w>
-<w n="33,28">со</w>
-<w n="33,28">клѧтвою.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="33,28">греки.</w>
-<w n="33,28">исповѣданїемь</w>
-<w n="33,28">и</w>
-<w n="33,28">писанїемь <lb/></w>
-
-<w n="33,28">со</w>
-<w n="33,28">клѧтвою.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="33,28">грѣкы.</w>
-<w n="33,28">и<lb/>сповѣданиемь</w>
-<w n="33,28">и</w>
-<w n="33,28">написан<hi rend="sup">и</hi><lb/>е<hi rend="sup">м</hi></w>
-<w n="33,28">съ</w>
-<w n="33,28">клѧтвою.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="33,28">грекы. <lb/></w>
-
-<w n="33,28">исповѣданїемь</w>
-<w n="33,28">и</w>
-<w n="33,28">написанїемь</w>
-<w n="33,28">съ</w>
-<w n="33,28">клѧтвою</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="33,28">Грекы,</w>
-<w n="33,28">исповеданиемъ</w>
-<w n="33,28">и</w>
-<w n="33,28">написаниемъ</w>
-<w n="33,28">со</w>
-<w n="33,28">клятвою</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="33,28">Грькы,</w>
-<w n="33,28">исповѣданую</w>
-<w n="33,28">написаниемь</w>
-<w n="33,28">и</w>
-<w n="33,28">съ</w>
-<w n="33,28">клятъвою</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="33,28">грекы,</w>
-<w n="33,28">исповеданием</w>
-<w n="33,28">и</w>
-<w n="33,28">написанием</w>
-<w n="33,28">со</w>
-<w n="33,28">клятвою</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>33, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="33"/><div type="block" n="28"><p><app><lem wit="#lem">
+            Грькы, исповѣданиемъ и написаниемь съ клятъвою
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">грекы. исповедание<hi rend="sup">м</hi>
+                <lb/> и написание<hi rend="sup">м</hi> со клѧтвою.</rdg>
+            <rdg wit="#aka">греки. исповѣданїемь и писанїемь <lb/> со клѧтвою.</rdg>
+            <rdg wit="#ipa">грѣкы. и<lb/>сповѣданиемь и написан<hi rend="sup">и</hi><lb/>е<hi rend="sup">м</hi> съ клѧтвою.</rdg>
+            <rdg wit="#xle">грекы. <lb/> исповѣданїемь и написанїемь съ клѧтвою</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Грекы, исповеданиемъ и написаниемъ со клятвою</rdg><rdg wit="#shakh">Грькы, исповѣданую написаниемь и съ клятъвою</rdg><rdg wit="#likh">грекы, исповеданием и написанием со клятвою</rdg></rdgGrp></app></p></div></body></text></TEI>

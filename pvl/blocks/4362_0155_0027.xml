@@ -1,83 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>155, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="155"/><div type="block" n="27"><p>
-<app>
-<lem wit="#lem">
-<w n="155,27">митрополитъмь</w>
-<w n="155,27">Руси</w>
-<w n="155,27">въ</w>
-<w n="155,27">святѣи</w>
-<w n="155,27">Софии,</w>
-<w n="155,27">събьравъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="155,27">митропо<lb/>литомь.</w>
-<w n="155,27">русина.</w>
-<w n="155,27">въ</w>
-<w n="155,27">с҃тѣи</w>
-<w n="155,27">со<lb/>ѳьи.</w>
-<w n="155,27">собравъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="155,27">митрополито<hi rend="sup">м</hi>.</w>
-<w n="155,27">роусина.</w>
-<w n="155,27">въ</w>
-<w n="155,27">с҃тѣ</w>
-<w n="155,27">софии. <lb/></w>
-
-<w n="155,27">собравъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="155,27">митрополи<lb/>томъ.</w>
-<w n="155,27">рѹсина.</w>
-<w n="155,27">въ</w>
-<w n="155,27">ст҃еи</w>
-<w n="155,27">софии</w>
-<w n="155,27">събравъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="155,27">митропо<lb/>литомъ.</w>
-<w n="155,27">руси</w>
-<w n="155,27">ст҃ѣи</w>
-<w n="155,27">софьи. <lb/></w>
-
-<w n="155,27">собравъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="155,27">митрополитѡ<hi rend="sup">м</hi></w>
-<w n="155,27">роуси</w>
-<w n="155,27">въ</w>
-<w n="155,27">ст҃ѣи</w>
-<w n="155,27">соѳїи.</w>
-<w n="155,27">съ<lb/>бравь</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="155,27">митрополитомь</w>
-<w n="155,27">Руси</w>
-<w n="155,27">въ</w>
-<w n="155,27">святѣй</w>
-<w n="155,27">Соѳьи,</w>
-<w n="155,27">собравъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="155,27">митрополитъмь,</w>
-<w n="155,27">Русина,</w>
-<w n="155,27">святѣи</w>
-<w n="155,27">Софии,</w>
-<w n="155,27">събьравъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="155,27">митрополитомь</w>
-<w n="155,27">русина</w>
-<w n="155,27">въ</w>
-<w n="155,27">святѣй</w>
-<w n="155,27">Софьи,</w>
-<w n="155,27">собравъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>155, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="155"/><div type="block" n="27"><p><app><lem wit="#lem">
+            митрополитъмь Руси въ святѣи Софии, събьравъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">митропо<lb/>литомь. русина. въ с҃тѣи со<lb/>ѳьи. собравъ</rdg>
+            <rdg wit="#rad">митрополито<hi rend="sup">м</hi>. роусина. въ с҃тѣ софии. <lb/> собравъ</rdg>
+            <rdg wit="#aka">митрополи<lb/>томъ. рѹсина. въ ст҃еи софии събравъ</rdg>
+            <rdg wit="#ipa">митропо<lb/>литомъ. руси ст҃ѣи софьи. <lb/> собравъ</rdg>
+            <rdg wit="#xle">митрополитѡ<hi rend="sup">м</hi> роуси въ ст҃ѣи соѳїи. съ<lb/>бравь</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">митрополитомь Руси въ святѣй Соѳьи, собравъ</rdg><rdg wit="#shakh">митрополитъмь, Русина, святѣи Софии, събьравъ</rdg><rdg wit="#likh">митрополитомь русина въ святѣй Софьи, собравъ</rdg></rdgGrp></app></p></div></body></text></TEI>

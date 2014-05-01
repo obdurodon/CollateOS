@@ -1,95 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>210, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="210"/><div type="block" n="28"><p>
-<app>
-<lem wit="#lem">
-<w n="210,28">на</w>
-<w n="210,28">конь,</w>
-<w n="210,28">въбързѣ</w>
-<w n="210,28">поѣха,</w>
-<w n="210,28">поимъ</w>
-<w n="210,28">съ</w>
-<w n="210,28">собою</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="210,28">на <lb/></w>
-
-<w n="210,28">конь</w>
-<w n="210,28">вборзѣ</w>
-<w n="210,28">поѣха.</w>
-<w n="210,28">поимъ</w>
-<w n="210,28">с</w>
-<w n="210,28">со<lb/>бою</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="210,28">на</w>
-<w n="210,28">конь.</w>
-<w n="210,28">борзо</w>
-<w n="210,28">поеха.</w>
-<w n="210,28">поимъ</w>
-<w n="210,28">с</w>
-<w n="210,28">собою <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="210,28">на</w>
-<w n="210,28">конь</w>
-<w n="210,28">борзо</w>
-<w n="210,28">поиха.</w>
-<w n="210,28">поимъ</w>
-<w n="210,28">со</w>
-<w n="210,28">собою <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="210,28">на</w>
-<w n="210,28">конь</w>
-<w n="210,28">вборзѣ</w>
-<w n="210,28">по<lb/>ѣха.</w>
-<w n="210,28">поемъ</w>
-<w n="210,28">съ</w>
-<w n="210,28">собою</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="210,28">на</w>
-<w n="210,28">ко<hi rend="sup">н</hi><lb/></w>
-<w n="210,28">въборзѣ</w>
-<w n="210,28">поеха,</w>
-<w n="210,28">пое<hi rend="sup">м</hi></w>
-<w n="210,28">съ</w>
-<w n="210,28">собою</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="210,28">на</w>
-<w n="210,28">конь</w>
-<w n="210,28">вборзѣ</w>
-<w n="210,28">поѣха,</w>
-<w n="210,28">поимъ</w>
-<w n="210,28">с</w>
-<w n="210,28">собою</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="210,28">на</w>
-<w n="210,28">конь,</w>
-<w n="210,28">въбързѣ</w>
-<w n="210,28">поѣха,</w>
-<w n="210,28">поимъ</w>
-<w n="210,28">съ</w>
-<w n="210,28">собою</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="210,28">на</w>
-<w n="210,28">конь,</w>
-<w n="210,28">вборзѣ</w>
-<w n="210,28">поѣха,</w>
-<w n="210,28">поимъ</w>
-<w n="210,28">с</w>
-<w n="210,28">собою</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>210, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="210"/><div type="block" n="28"><p><app><lem wit="#lem">
+            на конь, въбързѣ поѣха, поимъ съ собою
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">на <lb/> конь вборзѣ поѣха. поимъ с со<lb/>бою</rdg>
+            <rdg wit="#rad">на конь. борзо поеха. поимъ с собою <lb/></rdg>
+            <rdg wit="#aka">на конь борзо поиха. поимъ со собою <lb/></rdg>
+            <rdg wit="#ipa">на конь вборзѣ по<lb/>ѣха. поемъ съ собою</rdg>
+            <rdg wit="#xle">на ко<hi rend="sup">н</hi>
+                <lb/> въборзѣ поеха, пое<hi rend="sup">м</hi> съ собою</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">на конь вборзѣ поѣха, поимъ с собою</rdg><rdg wit="#shakh">на конь, въбързѣ поѣха, поимъ съ собою</rdg><rdg wit="#likh">на конь, вборзѣ поѣха, поимъ с собою</rdg></rdgGrp></app></p></div></body></text></TEI>

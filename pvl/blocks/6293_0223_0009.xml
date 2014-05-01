@@ -1,94 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>223, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="223"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="223,9">бысть:</w>
-<w n="223,9">ови</w>
-<w n="223,9">ведуть</w>
-<w n="223,9">ся</w>
-<w n="223,9">полонени,</w>
-<w n="223,9">а</w>
-<w n="223,9">друзии</w>
-<w n="223,9">посѣкаеми</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="223,9">бы<hi rend="sup">с</hi>·</w>
-<w n="223,9">ѡви</w>
-<w n="223,9">ведутьсѧ</w>
-<w n="223,9">по<lb/>лонени·</w>
-<w n="223,9">друзии</w>
-<w n="223,9">посѣкаѥми <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="223,9">бы<hi rend="sup">с</hi>. <lb/></w>
-
-<w n="223,9">ови</w>
-<w n="223,9">ведоуть<hi rend="sup">с</hi><lb/></w>
-<w n="223,9">полонени·</w>
-<w n="223,9">а</w>
-<w n="223,9">дроузии</w>
-<w n="223,9">посекаеми</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="223,9">бы<hi rend="sup">с</hi>·</w>
-<w n="223,9">ѡви</w>
-<w n="223,9">ведѹ<lb/>тсѧ</w>
-<w n="223,9">полонени·</w>
-<w n="223,9">а</w>
-<w n="223,9">дрѹзїи</w>
-<w n="223,9">посе·̏каеми</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="223,9">бы<hi rend="sup">с</hi>·</w>
-<w n="223,9">ѡви</w>
-<w n="223,9">ведутсѧ</w>
-<w n="223,9">по<lb/>лоненѣ·</w>
-<w n="223,9">а</w>
-<w n="223,9">друзии</w>
-<w n="223,9">посѣкаеми <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="223,9">бы<hi rend="sup">с</hi>.</w>
-<w n="223,9">ѡви</w>
-<w n="223,9">ведоутсѧ</w>
-<w n="223,9">полонени. <lb/></w>
-
-<w n="223,9">а</w>
-<w n="223,9">дроуѕїи</w>
-<w n="223,9">посѣкаеми</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="223,9">бысть:</w>
-<w n="223,9">ови</w>
-<w n="223,9">ведуться</w>
-<w n="223,9">полонени,</w>
-<w n="223,9">друзии</w>
-<w n="223,9">посѣкаеми</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="223,9">бысть:</w>
-<w n="223,9">ови</w>
-<w n="223,9">ведуться</w>
-<w n="223,9">полонени,</w>
-<w n="223,9">а</w>
-<w n="223,9">друзии</w>
-<w n="223,9">посѣкаеми</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="223,9">бысть:</w>
-<w n="223,9">ови</w>
-<w n="223,9">ведуться</w>
-<w n="223,9">полонени,</w>
-<w n="223,9">друзии</w>
-<w n="223,9">посѣкаеми</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>223, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="223"/><div type="block" n="9"><p><app><lem wit="#lem">
+            бысть: ови ведуть ся полонени, а друзии посѣкаеми
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">бы<hi rend="sup">с</hi>· ѡви ведутьсѧ по<lb/>лонени· друзии посѣкаѥми <lb/></rdg>
+            <rdg wit="#rad">бы<hi rend="sup">с</hi>. <lb/> ови ведоуть<hi rend="sup">с</hi>
+                <lb/> полонени· а дроузии посекаеми</rdg>
+            <rdg wit="#aka">бы<hi rend="sup">с</hi>· ѡви ведѹ<lb/>тсѧ полонени· а дрѹзїи посе·̏каеми</rdg>
+            <rdg wit="#ipa">бы<hi rend="sup">с</hi>· ѡви ведутсѧ по<lb/>лоненѣ· а друзии посѣкаеми <lb/></rdg>
+            <rdg wit="#xle">бы<hi rend="sup">с</hi>. ѡви ведоутсѧ полонени. <lb/> а дроуѕїи посѣкаеми</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">бысть: ови ведуться полонени, друзии посѣкаеми</rdg><rdg wit="#shakh">бысть: ови ведуться полонени, а друзии посѣкаеми</rdg><rdg wit="#likh">бысть: ови ведуться полонени, друзии посѣкаеми</rdg></rdgGrp></app></p></div></body></text></TEI>

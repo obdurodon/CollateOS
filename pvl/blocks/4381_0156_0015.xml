@@ -1,89 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>156, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="156"/><div type="block" n="15"><p>
-<app>
-<lem wit="#lem">
-<w n="156,15">видѣ</w>
-<w n="156,15">ту</w>
-<w n="156,15">монастыря</w>
-<w n="156,15">сущая,</w>
-<w n="156,15">и</w>
-<w n="156,15">възлюби</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="156,15">видѣ</w>
-<w n="156,15">ту</w>
-<w n="156,15">мана<lb/>стырь</w>
-<w n="156,15">сущи.</w>
-<w n="156,15">и</w>
-<w n="156,15">ѡбиходивъ</w>
-<w n="156,15">въ<lb/>злюбивъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="156,15">ви<lb/>дѣ</w>
-<w n="156,15">тѹ</w>
-<w n="156,15">монастырѧ</w>
-<w n="156,15">сѹщаꙗ.</w>
-<w n="156,15">и</w>
-<w n="156,15">ѡбходи.</w>
-<w n="156,15">и</w>
-<w n="156,15">възлюби</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="156,15">видѣ</w>
-<w n="156,15">тѹ</w>
-<w n="156,15">монастырѧ <lb/></w>
-
-<w n="156,15">сѹщаѧ.</w>
-<w n="156,15">и</w>
-<w n="156,15">ѡбьходи.</w>
-<w n="156,15">и</w>
-<w n="156,15">възлюби</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="156,15">видѣ</w>
-<w n="156,15">манастырѧ</w>
-<w n="156,15">су<lb/>щаꙗ</w>
-<w n="156,15">ту.</w>
-<w n="156,15">и</w>
-<w n="156,15">вьзлюби</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="156,15">и</w>
-<w n="156,15">възлюби <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="156,15">видѣ</w>
-<w n="156,15">ту</w>
-<w n="156,15">монастыря</w>
-<w n="156,15">сущая,</w>
-<w n="156,15">и</w>
-<w n="156,15">обиходивъ,</w>
-<w n="156,15">възлюбивъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="156,15">видѣ</w>
-<w n="156,15">ту</w>
-<w n="156,15">монастыря</w>
-<w n="156,15">сущая,</w>
-<w n="156,15">и</w>
-<w n="156,15">обиходивъ,</w>
-<w n="156,15">възлюби</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="156,15">видѣ</w>
-<w n="156,15">ту</w>
-<w n="156,15">монастыря</w>
-<w n="156,15">сущая,</w>
-<w n="156,15">и</w>
-<w n="156,15">обиходивъ,</w>
-<w n="156,15">възлюбивъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>156, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="156"/><div type="block" n="15"><p><app><lem wit="#lem">
+            видѣ ту монастыря сущая, и възлюби
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">видѣ ту мана<lb/>стырь сущи. и ѡбиходивъ въ<lb/>злюбивъ</rdg>
+            <rdg wit="#rad">ви<lb/>дѣ тѹ монастырѧ сѹщаꙗ. и ѡбходи. и възлюби</rdg>
+            <rdg wit="#aka">видѣ тѹ монастырѧ <lb/> сѹщаѧ. и ѡбьходи. и възлюби</rdg>
+            <rdg wit="#ipa">видѣ манастырѧ су<lb/>щаꙗ ту. и вьзлюби</rdg>
+            <rdg wit="#xle">и възлюби <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">видѣ ту монастыря сущая, и обиходивъ, възлюбивъ</rdg><rdg wit="#shakh">видѣ ту монастыря сущая, и обиходивъ, възлюби</rdg><rdg wit="#likh">видѣ ту монастыря сущая, и обиходивъ, възлюбивъ</rdg></rdgGrp></app></p></div></body></text></TEI>

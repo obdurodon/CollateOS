@@ -1,83 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>46, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="46"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="46,22">Русьскаго,</w>
-<w n="46,22">и</w>
-<w n="46,22">обьщии</w>
-<w n="46,22">посъли:</w>
-<w n="46,22">Вуефастъ</w>
-<w n="46,22">Святославль,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="46,22">рускаго.</w>
-<w n="46,22">и</w>
-<w n="46,22">ѡбъчии</w>
-<w n="46,22"><milestone unit="sic" n="start"/>сли<milestone unit="sic" n="end"/><lb/></w>
-<w n="46,22">вуефастъ</w>
-<w n="46,22">свѧтославль</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="46,22">роу<hi rend="sup">с</hi>ка<hi rend="sup">г</hi>.</w>
-<w n="46,22">и</w>
-<w n="46,22">ѡбщии</w>
-<w n="46,22">послы.</w>
-<w n="46,22">фоу<lb/>евастъ.</w>
-<w n="46,22">с҃тославъ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="46,22">рѹс<hi rend="sup">с</hi>каго.</w>
-<w n="46,22">ѡбщїи</w>
-<w n="46,22">послы.</w>
-<w n="46,22">фѹевастъ.</w>
-<w n="46,22">с҃то<lb/>славъ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="46,22">рускаго.</w>
-<w n="46,22">и</w>
-<w n="46,22">ѡбь<lb/>чии</w>
-<w n="46,22">сли.</w>
-<w n="46,22">вуефастъ</w>
-<w n="46,22">с҃тосла<lb/>вль</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="46,22">роу<hi rend="sup">с</hi>каго.</w>
-<w n="46,22">и</w>
-<w n="46,22">ѡбчїи</w>
-<w n="46,22">посли. <lb/></w>
-
-<w n="46,22">воуефасть</w>
-<w n="46,22">с҃тославль</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="46,22">Рускаго,</w>
-<w n="46,22">и</w>
-<w n="46,22">объчии</w>
-<w n="46,22">сли:</w>
-<w n="46,22">Вуефастъ</w>
-<w n="46,22">Святославль,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="46,22">Русьскаго,</w>
-<w n="46,22">и</w>
-<w n="46,22">обьщии</w>
-<w n="46,22">съли:</w>
-<w n="46,22">Вуефастъ</w>
-<w n="46,22">Святославль,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="46,22">рускаго,</w>
-<w n="46,22">и</w>
-<w n="46,22">объчии</w>
-<w n="46,22">сли:</w>
-<w n="46,22">Вуефастъ</w>
-<w n="46,22">Святославль,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>46, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="46"/><div type="block" n="22"><p><app><lem wit="#lem">
+            Русьскаго, и обьщии посъли: Вуефастъ Святославль,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">рускаго. и ѡбъчии <sic>сли</sic><lb/> вуефастъ свѧтославль</rdg>
+            <rdg wit="#rad">роу<hi rend="sup">с</hi>ка<hi rend="sup">г</hi>. и ѡбщии послы. фоу<lb/>евастъ. с҃тославъ.</rdg>
+            <rdg wit="#aka">рѹс<hi rend="sup">с</hi>каго. ѡбщїи послы. фѹевастъ. с҃то<lb/>славъ.</rdg>
+            <rdg wit="#ipa">рускаго. и ѡбь<lb/>чии сли. вуефастъ с҃тосла<lb/>вль</rdg>
+            <rdg wit="#xle">роу<hi rend="sup">с</hi>каго. и ѡбчїи посли. <lb/> воуефасть с҃тославль</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Рускаго, и объчии сли: Вуефастъ Святославль,</rdg><rdg wit="#shakh">Русьскаго, и обьщии съли: Вуефастъ Святославль,</rdg><rdg wit="#likh">рускаго, и объчии сли: Вуефастъ Святославль,</rdg></rdgGrp></app></p></div></body></text></TEI>

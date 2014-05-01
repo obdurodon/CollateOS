@@ -1,81 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>148, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="148"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="148,1">приде</w>
-<w n="148,1">Суждалю;</w>
-<w n="148,1">изъима</w>
-<w n="148,1">вълхвы,</w>
-<w n="148,1">расточи,</w>
-<w n="148,1">а</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="148,1">приде</w>
-<w n="148,1">суздалю. <lb/></w>
-
-<w n="148,1">изъимавъ</w>
-<w n="148,1">волхвы</w>
-<w n="148,1">расточи. <lb/></w>
-
-<w n="148,1">а</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="148,1">приде</w>
-<w n="148,1">к</w>
-<w n="148,1">су<lb/>ждалю.</w>
-<w n="148,1">изьима</w>
-<w n="148,1">волъхвы. <lb/></w>
-
-<w n="148,1">расточи</w>
-<w n="148,1">а</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="148,1">прїиде</w>
-<w n="148,1">къ</w>
-<w n="148,1">сѫж<hi rend="sup">д</hi>а<lb/>лю.</w>
-<w n="148,1">и</w>
-<w n="148,1">поима</w>
-<w n="148,1">влъхвы</w>
-<w n="148,1">и</w>
-<w n="148,1">расточи.</w>
-<w n="148,1">а</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="148,1">приде</w>
-<w n="148,1">Суздалю;</w>
-<w n="148,1">изъимавъ</w>
-<w n="148,1">волхвы,</w>
-<w n="148,1">расточи,</w>
-<w n="148,1">а <pb n="144,7"/></w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="148,1">приде</w>
-<w n="148,1">Суждалю;</w>
-<w n="148,1">изъимавъ</w>
-<w n="148,1">вълхвы,</w>
-<w n="148,1">расточи,</w>
-<w n="148,1">а <pb n="187,19"/></w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="148,1">приде</w>
-<w n="148,1">Суздалю;</w>
-<w n="148,1">изъимавъ</w>
-<w n="148,1">волхвы,</w>
-<w n="148,1">расточи,</w>
-<w n="148,1">а <pb n="100,2"/></w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>148, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="148"/><div type="block" n="1"><p><app><lem wit="#lem">
+            приде Суждалю; изъима вълхвы, расточи, а
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">приде суздалю. <lb/> изъимавъ волхвы расточи. <lb/> а</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">приде к су<lb/>ждалю. изьима волъхвы. <lb/> расточи а</rdg>
+            <rdg wit="#xle">прїиде къ сѫж<hi rend="sup">д</hi>а<lb/>лю. и поима влъхвы и расточи. а</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">приде Суздалю; изъимавъ волхвы, расточи, а <pb n="144,7"/></rdg><rdg wit="#shakh">приде Суждалю; изъимавъ вълхвы, расточи, а <pb n="187,19"/></rdg><rdg wit="#likh">приде Суздалю; изъимавъ волхвы, расточи, а <pb n="100,2"/></rdg></rdgGrp></app></p></div></body></text></TEI>

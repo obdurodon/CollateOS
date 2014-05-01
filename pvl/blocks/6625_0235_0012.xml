@@ -1,88 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>235, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="235"/><div type="block" n="12"><p>
-<app>
-<lem wit="#lem">
-<w n="235,12">кажють</w>
-<w n="235,12">желѣзо,</w>
-<w n="235,12">и</w>
-<w n="235,12">помавають</w>
-<w n="235,12">рукою,</w>
-<w n="235,12">просяще</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="235,12">кажють</w>
-<w n="235,12">на</w>
-<w n="235,12">желѣзо</w>
-<w n="235,12">и</w>
-<w n="235,12">помава<lb/>ють</w>
-<w n="235,12">рукою</w>
-<w n="235,12">просѧще</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="235,12">кажю<hi rend="sup">т</hi></w>
-<w n="235,12">желѣзо</w>
-<w n="235,12">и</w>
-<w n="235,12">помавають·</w>
-<w n="235,12">роукою·</w>
-<w n="235,12">просѧще</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="235,12">кажють</w>
-<w n="235,12">желѣзо·</w>
-<w n="235,12">и</w>
-<w n="235,12">пома<lb/>ваютъ</w>
-<w n="235,12">рѹкою.</w>
-<w n="235,12">просѧще</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="235,12">кажють</w>
-<w n="235,12">желѣзо</w>
-<w n="235,12">и</w>
-<w n="235,12">пома<lb/>вають</w>
-<w n="235,12">рукою</w>
-<w n="235,12">просѧще</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="235,12">кажоу<hi rend="sup">т</hi></w>
-<w n="235,12">желѣзо</w>
-<w n="235,12">и</w>
-<w n="235,12">помаваю<hi rend="sup">т</hi></w>
-<w n="235,12">рѫкою</w>
-<w n="235,12">просѧще <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="235,12">кажють</w>
-<w n="235,12">на</w>
-<w n="235,12">желѣзо,</w>
-<w n="235,12">и</w>
-<w n="235,12">помавають</w>
-<w n="235,12">рукою,</w>
-<w n="235,12">просяще</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="235,12">кажють</w>
-<w n="235,12">на</w>
-<w n="235,12">желѣзо,</w>
-<w n="235,12">и</w>
-<w n="235,12">помавають</w>
-<w n="235,12">рукою,</w>
-<w n="235,12">просяще</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="235,12">кажють</w>
-<w n="235,12">на</w>
-<w n="235,12">желѣзо,</w>
-<w n="235,12">и</w>
-<w n="235,12">помавають</w>
-<w n="235,12">рукою,</w>
-<w n="235,12">просяще</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>235, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="235"/><div type="block" n="12"><p><app><lem wit="#lem">
+            кажють желѣзо, и помавають рукою, просяще
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">кажють на желѣзо и помава<lb/>ють рукою просѧще</rdg>
+            <rdg wit="#rad">кажю<hi rend="sup">т</hi> желѣзо и помавають· роукою· просѧще</rdg>
+            <rdg wit="#aka">кажють желѣзо· и пома<lb/>ваютъ рѹкою. просѧще</rdg>
+            <rdg wit="#ipa">кажють желѣзо и пома<lb/>вають рукою просѧще</rdg>
+            <rdg wit="#xle">кажоу<hi rend="sup">т</hi> желѣзо и помаваю<hi rend="sup">т</hi> рѫкою просѧще <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">кажють на желѣзо, и помавають рукою, просяще</rdg><rdg wit="#shakh">кажють на желѣзо, и помавають рукою, просяще</rdg><rdg wit="#likh">кажють на желѣзо, и помавають рукою, просяще</rdg></rdgGrp></app></p></div></body></text></TEI>

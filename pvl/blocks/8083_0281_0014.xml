@@ -1,105 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>281, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="281"/><div type="block" n="14"><p>
-<app>
-<lem wit="#lem">
-<w n="281,14">вещи,</w>
-<w n="281,14">егоже</w>
-<w n="281,14">и</w>
-<w n="281,14">гробъ</w>
-<w n="281,14">есть</w>
-<w n="281,14">въ</w>
-<w n="281,14">Печерьскомь</w>
-<w n="281,14">монастыри,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="281,14">вещи <lb/></w>
-
-<w n="281,14">ѥгоже</w>
-<w n="281,14">и</w>
-<w n="281,14">гробъ</w>
-<w n="281,14">е<hi rend="sup">с</hi></w>
-<w n="281,14">в</w>
-<w n="281,14">печерьско<hi rend="sup">м</hi><lb/></w>
-<w n="281,14">монастыри</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="281,14">вещи· <lb/></w>
-
-<w n="281,14">и</w>
-<w n="281,14">е<hi rend="sup">с</hi></w>
-<w n="281,14">гробъ</w>
-<w n="281,14">е<hi rend="sup">г</hi></w>
-<w n="281,14">в</w>
-<w n="281,14">монастыри</w>
-<w n="281,14">печерьско<hi rend="sup">м</hi>·</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="281,14">вещи</w>
-<w n="281,14">и</w>
-<w n="281,14">есть <lb/></w>
-
-<w n="281,14">гробъ</w>
-<w n="281,14">его</w>
-<w n="281,14">в</w>
-<w n="281,14">манасты·̏ри</w>
-<w n="281,14">печерьскомъ·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="281,14">ве<lb/>щи·</w>
-<w n="281,14">егоже</w>
-<w n="281,14">и</w>
-<w n="281,14">гробъ</w>
-<w n="281,14">есть</w>
-<w n="281,14">в</w>
-<w n="281,14">пе<lb/>черьскомь</w>
-<w n="281,14">монастырѣ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="281,14">вещи,</w>
-<w n="281,14">егоже</w>
-<w n="281,14">и</w>
-<w n="281,14">гробъ</w>
-<w n="281,14">е<hi rend="sup">с</hi></w>
-<w n="281,14">в</w>
-<w n="281,14">печерско<hi rend="sup">м</hi></w>
-<w n="281,14">мана<lb/>стыри</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="281,14">вещи,</w>
-<w n="281,14">егоже</w>
-<w n="281,14">и</w>
-<w n="281,14">гробъ</w>
-<w n="281,14">есть</w>
-<w n="281,14">въ</w>
-<w n="281,14">Печерьскомъ</w>
-<w n="281,14">монастыри,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="281,14">вещи,</w>
-<w n="281,14">егоже</w>
-<w n="281,14">и</w>
-<w n="281,14">гробъ</w>
-<w n="281,14">есть</w>
-<w n="281,14">въ</w>
-<w n="281,14">Печерьскѣмь</w>
-<w n="281,14">монастыри,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="281,14">вещи,</w>
-<w n="281,14">его</w>
-<w n="281,14">же</w>
-<w n="281,14">и</w>
-<w n="281,14">гробъ</w>
-<w n="281,14">есть</w>
-<w n="281,14">въ</w>
-<w n="281,14">Печерьском</w>
-<w n="281,14">монастыри,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>281, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="281"/><div type="block" n="14"><p><app><lem wit="#lem">
+            вещи, егоже и гробъ есть въ Печерьскомь монастыри,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">вещи <lb/> ѥгоже и гробъ е<hi rend="sup">с</hi> в печерьско<hi rend="sup">м</hi>
+                <lb/> монастыри</rdg>
+            <rdg wit="#rad">вещи· <lb/> и е<hi rend="sup">с</hi> гробъ е<hi rend="sup">г</hi> в монастыри
+                печерьско<hi rend="sup">м</hi>·</rdg>
+            <rdg wit="#aka">вещи и есть <lb/> гробъ его в манасты·̏ри печерьскомъ·</rdg>
+            <rdg wit="#ipa">ве<lb/>щи· егоже и гробъ есть в пе<lb/>черьскомь монастырѣ</rdg>
+            <rdg wit="#xle">вещи, егоже и гробъ е<hi rend="sup">с</hi> в печерско<hi rend="sup">м</hi> мана<lb/>стыри</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">вещи, егоже и гробъ есть въ Печерьскомъ монастыри,</rdg><rdg wit="#shakh">вещи, егоже и гробъ есть въ Печерьскѣмь монастыри,</rdg><rdg wit="#likh">вещи, его же и гробъ есть въ Печерьском монастыри,</rdg></rdgGrp></app></p></div></body></text></TEI>

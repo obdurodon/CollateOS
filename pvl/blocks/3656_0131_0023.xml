@@ -1,85 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>131, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="131"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="131,23">поминающе</w>
-<w n="131,23">святое</w>
-<w n="131,23">крьщение,</w>
-<w n="131,23">и</w>
-<w n="131,23">прославляють</w>
-<w n="131,23">Бога</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="131,23">по<lb/>минающе</w>
-<w n="131,23">с҃тое</w>
-<w n="131,23">крщ҃нье.</w>
-<w n="131,23">и</w>
-<w n="131,23">про<lb/>славлѧють</w>
-<w n="131,23">б҃а</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="131,23">поминаю<hi rend="sup">ч</hi></w>
-<w n="131,23">с҃тое</w>
-<w n="131,23">крщ<hi rend="sup">с</hi>ние.</w>
-<w n="131,23">и</w>
-<w n="131,23">прославлѧють</w>
-<w n="131,23">б҃а <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="131,23">поминающе</w>
-<w n="131,23">ст҃ое</w>
-<w n="131,23">крщ҃нїе.</w>
-<w n="131,23">и</w>
-<w n="131,23">про<lb/>славлѧють</w>
-<w n="131,23">бг҃а</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="131,23">поминающе</w>
-<w n="131,23">с҃тое</w>
-<w n="131,23">крщ<hi rend="sup">с</hi>ние <lb/></w>
-
-<w n="131,23">и</w>
-<w n="131,23">прославлѧюще</w>
-<w n="131,23">б҃а</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="131,23">поминающе</w>
-<w n="131,23">ст҃ое</w>
-<w n="131,23">кре<lb/>сщенїе.</w>
-<w n="131,23">и</w>
-<w n="131,23">прославлѧю<hi rend="sup">т</hi></w>
-<w n="131,23">б҃а</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="131,23">поминающе</w>
-<w n="131,23">святое</w>
-<w n="131,23">крещенье,</w>
-<w n="131,23">и</w>
-<w n="131,23">прославляють</w>
-<w n="131,23">Бога</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="131,23">поминающе</w>
-<w n="131,23">святое</w>
-<w n="131,23">крьщение,</w>
-<w n="131,23">и</w>
-<w n="131,23">прославляють</w>
-<w n="131,23">Бога</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="131,23">поминающе</w>
-<w n="131,23">святое</w>
-<w n="131,23">крещенье,</w>
-<w n="131,23">и</w>
-<w n="131,23">прославляють</w>
-<w n="131,23">бога</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>131, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="131"/><div type="block" n="23"><p><app><lem wit="#lem">
+            поминающе святое крьщение, и прославляють Бога
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">по<lb/>минающе с҃тое крщ҃нье. и про<lb/>славлѧють б҃а</rdg>
+            <rdg wit="#rad">поминаю<hi rend="sup">ч</hi> с҃тое крщ<hi rend="sup">с</hi>ние. и прославлѧють б҃а <lb/></rdg>
+            <rdg wit="#aka">поминающе ст҃ое крщ҃нїе. и про<lb/>славлѧють бг҃а</rdg>
+            <rdg wit="#ipa">поминающе с҃тое крщ<hi rend="sup">с</hi>ние <lb/> и прославлѧюще б҃а</rdg>
+            <rdg wit="#xle">поминающе ст҃ое кре<lb/>сщенїе. и прославлѧю<hi rend="sup">т</hi> б҃а</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">поминающе святое крещенье, и прославляють Бога</rdg><rdg wit="#shakh">поминающе святое крьщение, и прославляють Бога</rdg><rdg wit="#likh">поминающе святое крещенье, и прославляють бога</rdg></rdgGrp></app></p></div></body></text></TEI>

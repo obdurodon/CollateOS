@@ -1,85 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>15, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="15"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="15,22">жены</w>
-<w n="15,22">съ</w>
-<w n="15,22">единѣмь</w>
-<w n="15,22">мужьмь</w>
-<w n="15,22">похотьствують,</w>
-<w n="15,22">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="15,22">жены</w>
-<w n="15,22">съ</w>
-<w n="15,22">единымъ</w>
-<w n="15,22">мужемъ</w>
-<w n="15,22">похотьствують.<lb/></w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="15,22">моужи</w>
-<w n="15,22">со</w>
-<w n="15,22">единою</w>
-<w n="15,22">женою</w>
-<w n="15,22">по<lb/>хотьствоую<hi rend="sup">т</hi>. <lb/></w>
-
-<w n="15,22">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="15,22">мѹжи</w>
-<w n="15,22">со</w>
-<w n="15,22">еди<lb/>ною</w>
-<w n="15,22">женою</w>
-<w n="15,22">похотьствѹютъ.</w>
-<w n="15,22">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="15,22">жены</w>
-<w n="15,22">съ</w>
-<w n="15,22">еди<lb/>нымъ</w>
-<w n="15,22">мужемъ</w>
-<w n="15,22">похоть<lb/>ствують.</w>
-<w n="15,22">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="15,22">жены</w>
-<w n="15,22">съ <lb/></w>
-
-<w n="15,22">едины<hi rend="sup">м</hi></w>
-<w n="15,22">мѫже<hi rend="sup">м</hi></w>
-<w n="15,22">похо<hi rend="sup">т</hi>ствоую<hi rend="sup">т</hi>.</w>
-<w n="15,22">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="15,22">жены</w>
-<w n="15,22">съ</w>
-<w n="15,22">единымъ</w>
-<w n="15,22">мужемъ</w>
-<w n="15,22">похотьствують:</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="15,22">жены</w>
-<w n="15,22">съ</w>
-<w n="15,22">единѣмь</w>
-<w n="15,22">мужьмь</w>
-<w n="15,22">похотьствують,</w>
-<w n="15,22">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="15,22">жены</w>
-<w n="15,22">съ</w>
-<w n="15,22">единымъ</w>
-<w n="15,22">мужемъ</w>
-<w n="15,22">похотьствують:</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>15, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="15"/><div type="block" n="22"><p><app><lem wit="#lem">
+            жены съ единѣмь мужьмь похотьствують, и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">жены съ единымъ мужемъ похотьствують.<lb/></rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">моужи со единою женою по<lb/>хотьствоую<hi rend="sup">т</hi>. <lb/> и</rdg>
+            <rdg wit="#aka">мѹжи со еди<lb/>ною женою похотьствѹютъ. и</rdg>
+            <rdg wit="#ipa">жены съ еди<lb/>нымъ мужемъ похоть<lb/>ствують. и</rdg>
+            <rdg wit="#xle">жены съ <lb/> едины<hi rend="sup">м</hi> мѫже<hi rend="sup">м</hi>
+                похо<hi rend="sup">т</hi>ствоую<hi rend="sup">т</hi>. и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">жены съ единымъ мужемъ похотьствують:</rdg><rdg wit="#shakh">жены съ единѣмь мужьмь похотьствують, и</rdg><rdg wit="#likh">жены съ единымъ мужемъ похотьствують:</rdg></rdgGrp></app></p></div></body></text></TEI>

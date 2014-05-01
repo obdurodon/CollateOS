@@ -1,49 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>247, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="247"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="247,19">володимерю· <lb/></w>
-
-<w n="247,19">тое</w>
-<w n="247,19">же</w>
-<w n="247,19">зимы·</w>
-<w n="247,19">тои</w>
-<w n="247,19">посласта</w>
-<w n="247,19">берестию <pb n="81b"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="247,19">Володимерю.</w>
-<w n="247,19">Тое</w>
-<w n="247,19">же</w>
-<w n="247,19">зимы</w>
-<w n="247,19">той</w>
-<w n="247,19">посласта</w>
-<w n="247,19">Берестию</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="247,19">Володимерю.</w>
-<w n="247,19">Тое</w>
-<w n="247,19">же</w>
-<w n="247,19">зимы</w>
-<w n="247,19">тои</w>
-<w n="247,19">посласта</w>
-<w n="247,19">Берестию</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>247, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="247"/><div type="block" n="19"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">володимерю· <lb/> тое же зимы· тои посласта берестию
+                <pb n="81b"/></rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Володимерю. Тое же зимы той посласта Берестию</rdg><rdg wit="#likh">Володимерю. Тое же зимы тои посласта Берестию</rdg></rdgGrp></app></p></div></body></text></TEI>

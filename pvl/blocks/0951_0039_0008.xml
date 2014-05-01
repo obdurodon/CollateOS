@@ -1,84 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>39, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="39"/><div type="block" n="8"><p>
-<app>
-<lem wit="#lem">
-<w n="39,8">съмьрть</w>
-<w n="39,8">мънѣ</w>
-<w n="39,8">възяти?”</w>
-<w n="39,8">И</w>
-<w n="39,8">въступи</w>
-<w n="39,8">ногою</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="39,8">смьрть <lb/></w>
-
-<w n="39,8">было</w>
-<w n="39,8">взѧти</w>
-<w n="39,8">мнѣ.</w>
-<w n="39,8">и</w>
-<w n="39,8">в<milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/>стѹпи</w>
-<w n="39,8">ногою</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="39,8">было</w>
-<w n="39,8">см҃рть <lb/></w>
-
-<w n="39,8">взѧти.</w>
-<w n="39,8">и</w>
-<w n="39,8">въстѹпи</w>
-<w n="39,8">ногою</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="39,8">см҃рть</w>
-<w n="39,8">мнѣ</w>
-<w n="39,8">взѧти.</w>
-<w n="39,8">и</w>
-<w n="39,8">въступи</w>
-<w n="39,8">ного<lb/>ю <pb n="15d"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="39,8">см҃рть</w>
-<w n="39,8">мнѣ <lb/></w>
-
-<w n="39,8">взѧти,</w>
-<w n="39,8">и</w>
-<w n="39,8">въстѫпи</w>
-<w n="39,8">ногою</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="39,8">смьрть</w>
-<w n="39,8">было</w>
-<w n="39,8">взяти</w>
-<w n="39,8">мнѣ?”</w>
-<w n="39,8">и</w>
-<w n="39,8">въступи</w>
-<w n="39,8">ногою</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="39,8">съмьрть</w>
-<w n="39,8">мънѣ</w>
-<w n="39,8">възяти?”</w>
-<w n="39,8">И</w>
-<w n="39,8">въступи</w>
-<w n="39,8">ногою</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="39,8">смьрть</w>
-<w n="39,8">было</w>
-<w n="39,8">взяти</w>
-<w n="39,8">мнѣ?”</w>
-<w n="39,8">И</w>
-<w n="39,8">въступи</w>
-<w n="39,8">ногою</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>39, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="39"/><div type="block" n="8"><p><app><lem wit="#lem">
+            съмьрть мънѣ възяти?” И въступи ногою
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">смьрть <lb/> было взѧти мнѣ. и в<sic>о</sic>стѹпи ногою</rdg>
+            <rdg wit="#aka">было см҃рть <lb/> взѧти. и въстѹпи ногою</rdg>
+            <rdg wit="#ipa">см҃рть мнѣ  взѧти. и въступи ного<lb/>ю <pb n="15d"/></rdg>
+            <rdg wit="#xle">см҃рть мнѣ <lb/> взѧти, и въстѫпи ногою</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">смьрть было взяти мнѣ?” и въступи ногою</rdg><rdg wit="#shakh">съмьрть мънѣ възяти?” И въступи ногою</rdg><rdg wit="#likh">смьрть было взяти мнѣ?” И въступи ногою</rdg></rdgGrp></app></p></div></body></text></TEI>

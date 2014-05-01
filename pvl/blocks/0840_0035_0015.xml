@@ -1,93 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>35, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="35"/><div type="block" n="15"><p>
-<app>
-<lem wit="#lem">
-<w n="35,15">тамо</w>
-<w n="35,15">иже</w>
-<w n="35,15">отъ</w>
-<w n="35,15">насъ,</w>
-<w n="35,15">Руси,</w>
-<w n="35,15">да</w>
-<w n="35,15">аще</w>
-<w n="35,15">къто</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="35,15">тамо</w>
-<w n="35,15">и<hi rend="sup">ж</hi></w>
-<w n="35,15">ѿ</w>
-<w n="35,15">на<hi rend="sup">с</hi></w>
-<w n="35,15">роу<hi rend="sup">с</hi>.</w>
-<w n="35,15">аще</w>
-<w n="35,15">кто</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="35,15">тамо</w>
-<w n="35,15">иже</w>
-<w n="35,15">ѿ</w>
-<w n="35,15">на<hi rend="sup">с</hi></w>
-<w n="35,15">рѹсь.</w>
-<w n="35,15">аще</w>
-<w n="35,15">кто</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="35,15">тамо</w>
-<w n="35,15">иже</w>
-<w n="35,15">ѿ</w>
-<w n="35,15">на<hi rend="sup">с</hi></w>
-<w n="35,15">руси. <lb/></w>
-
-<w n="35,15">да</w>
-<w n="35,15">аще</w>
-<w n="35,15">кто</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="35,15">тамо</w>
-<w n="35,15">иже</w>
-<w n="35,15">ѿ</w>
-<w n="35,15">нас <lb/></w>
-
-<w n="35,15">роуси.</w>
-<w n="35,15">да</w>
-<w n="35,15">аще</w>
-<w n="35,15">кто</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="35,15">тамо</w>
-<w n="35,15">иже</w>
-<w n="35,15">отъ</w>
-<w n="35,15">насъ</w>
-<w n="35,15">Руси,</w>
-<w n="35,15">да</w>
-<w n="35,15">аще</w>
-<w n="35,15">кто</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="35,15">тамо</w>
-<w n="35,15">иже</w>
-<w n="35,15">отъ</w>
-<w n="35,15">насъ,</w>
-<w n="35,15">Руси,</w>
-<w n="35,15">да</w>
-<w n="35,15">аще</w>
-<w n="35,15">стоить,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="35,15">тамо</w>
-<w n="35,15">иже</w>
-<w n="35,15">от</w>
-<w n="35,15">нас</w>
-<w n="35,15">Руси,</w>
-<w n="35,15">да</w>
-<w n="35,15">аще</w>
-<w n="35,15">кто</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>35, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="35"/><div type="block" n="15"><p><app><lem wit="#lem">
+            тамо иже отъ насъ, Руси, да аще къто
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">тамо и<hi rend="sup">ж</hi> ѿ на<hi rend="sup">с</hi> роу<hi rend="sup">с</hi>. аще кто</rdg>
+            <rdg wit="#aka">тамо иже ѿ на<hi rend="sup">с</hi> рѹсь. аще кто</rdg>
+            <rdg wit="#ipa">тамо иже ѿ на<hi rend="sup">с</hi> руси. <lb/> да аще кто</rdg>
+            <rdg wit="#xle">тамо иже ѿ нас <lb/> роуси. да аще кто</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">тамо иже отъ насъ Руси, да аще кто</rdg><rdg wit="#shakh">тамо иже отъ насъ, Руси, да аще стоить,</rdg><rdg wit="#likh">тамо иже от нас Руси, да аще кто</rdg></rdgGrp></app></p></div></body></text></TEI>

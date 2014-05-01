@@ -1,115 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>93, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="93"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="93,21">роди 8</w>
-
-<w n="93,21">сыновъ:</w>
-<w n="93,21">Рувима,</w>
-<w n="93,21">Семеона,</w>
-<w n="93,21">Левгию,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="93,21">роди</w>
-<w n="93,21">.и҃.</w>
-<w n="93,21">сн҃въ.</w>
-<w n="93,21">рувима.</w>
-<w n="93,21">семевона.</w>
-<w n="93,21">ль<lb/>вгию.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="93,21">роди <lb/></w>
-
-<w n="93,21">з҃.</w>
-<w n="93,21">сн҃въ.</w>
-<w n="93,21">рѹвима.</w>
-<w n="93,21">семеѡна.</w>
-<w n="93,21">левгию.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="93,21">роди</w>
-<w n="93,21">.з҃.</w>
-<w n="93,21">сн҃въ.</w>
-<w n="93,21">рѹвима.</w>
-<w n="93,21">семиѡна.</w>
-<w n="93,21">левгїю. <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="93,21">роди</w>
-<w n="93,21">.и҃. <lb/></w>
-
-<w n="93,21">с҃новъ.</w>
-<w n="93,21">рувима.</w>
-<w n="93,21">семеѡна. <lb/></w>
-
-<w n="93,21">левгию.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="93,21">р<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi></w>
-<w n="93,21">.и҃.</w>
-<w n="93,21">сыновь. <lb/></w>
-
-<w n="93,21">роувима.</w>
-<w n="93,21">семїона.</w>
-<w n="93,21">левгїю.</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="93,21">родишасꙗ 8</w>
-
-<w n="93,21">сыновъ</w>
-<w n="93,21">рувимъ</w>
-<w n="93,21">семеонъ</w>
-<w n="93,21">левгию</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="93,21">роди 8</w>
-
-<w n="93,21">сыновъ</w>
-<w n="93,21">ровимъ</w>
-<w n="93,21">симеонъ</w>
-<w n="93,21">левгию</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="93,21">роди</w>
-<w n="93,21">восмъ</w>
-<w n="93,21">сыновъ</w>
-<w n="93,21">ровимъ</w>
-<w n="93,21">симеонъ</w>
-<w n="93,21">левгию</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="93,21">роди 8</w>
-
-<w n="93,21">сыновъ:</w>
-<w n="93,21">Рувима,</w>
-<w n="93,21">Семевона,</w>
-<w n="93,21">Львгию,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="93,21">роди 8</w>
-
-<w n="93,21">сыновъ:</w>
-<w n="93,21">Рувима,</w>
-<w n="93,21">Семеона,</w>
-<w n="93,21">Левгию,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="93,21">роди 8</w>
-
-<w n="93,21">сыновъ:</w>
-<w n="93,21">Рувима,</w>
-<w n="93,21">Семевона,</w>
-<w n="93,21">Львгию,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>93, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="93"/><div type="block" n="21"><p><app><lem wit="#lem">
+            роди 8 сыновъ: Рувима, Семеона, Левгию,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">роди .и҃. сн҃въ. рувима. семевона. ль<lb/>вгию.</rdg>
+            <rdg wit="#rad">роди <lb/> з҃. сн҃въ. рѹвима. семеѡна. левгию.</rdg>
+            <rdg wit="#aka">роди .з҃. сн҃въ. рѹвима. семиѡна. левгїю. <lb/></rdg>
+            <rdg wit="#ipa">роди .и҃. <lb/> с҃новъ. рувима. семеѡна. <lb/> левгию.</rdg>
+            <rdg wit="#xle">р<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi> .и҃. сыновь. <lb/> роувима. семїона. левгїю.</rdg>
+            <rdg wit="#kom">родишасꙗ 8 сыновъ рувимъ семеонъ левгию</rdg>
+            <rdg wit="#nak">роди 8 сыновъ ровимъ симеонъ левгию</rdg>
+            <rdg wit="#tol">роди восмъ сыновъ ровимъ симеонъ левгию</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">роди 8 сыновъ: Рувима, Семевона, Львгию,</rdg><rdg wit="#shakh">роди 8 сыновъ: Рувима, Семеона, Левгию,</rdg><rdg wit="#likh">роди 8 сыновъ: Рувима, Семевона, Львгию,</rdg></rdgGrp></app></p></div></body></text></TEI>

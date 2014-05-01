@@ -1,77 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>68, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="68"/><div type="block" n="17"><p>
-<app>
-<lem wit="#lem">
-<w n="68,17">быхомъ.</w>
-<w n="68,17">Си</w>
-<w n="68,17">пьрвое</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="68,17">примир<hi rend="sup">е</hi><lb/>нью</w>
-<w n="68,17">быхомъ.</w>
-<w n="68,17">си</w>
-<w n="68,17">первое</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="68,17">быхо<hi rend="sup">м</hi>.</w>
-<w n="68,17">си</w>
-<w n="68,17">первие</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="68,17">быхомъ. <lb/></w>
-
-<w n="68,17">се</w>
-<w n="68,17">первое</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="68,17">быхо<hi rend="sup">м</hi>.</w>
-<w n="68,17">си</w>
-<w n="68,17">пѣрвое</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="68,17">быхо<hi rend="sup">м</hi>.</w>
-<w n="68,17">сїа</w>
-<w n="68,17">бо</w>
-<w n="68,17">пръвое</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="68,17">быхомъ</w>
-<w n="68,17">си</w>
-<w n="68,17">пръвое</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="68,17">быхомъ</w>
-<w n="68,17">сиа</w>
-<w n="68,17">пръвое</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="68,17">быхомъ</w>
-<w n="68,17">сиа</w>
-<w n="68,17">пръвое</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="68,17">быхомъ.</w>
-<w n="68,17">Си</w>
-<w n="68,17">первое</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="68,17">быхомъ.</w>
-<w n="68,17">Си</w>
-<w n="68,17">пьрвое</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="68,17">быхомъ.</w>
-<w n="68,17">Си</w>
-<w n="68,17">первое</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>68, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="68"/><div type="block" n="17"><p><app><lem wit="#lem">
+            быхомъ. Си пьрвое
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">примир<hi rend="sup">е</hi><lb/>нью быхомъ. си первое</rdg>
+            <rdg wit="#rad">быхо<hi rend="sup">м</hi>. си первие</rdg>
+            <rdg wit="#aka">быхомъ. <lb/> се первое</rdg>
+            <rdg wit="#ipa">быхо<hi rend="sup">м</hi>. си пѣрвое</rdg>
+            <rdg wit="#xle">быхо<hi rend="sup">м</hi>. сїа бо пръвое</rdg>
+            <rdg wit="#kom">быхомъ си пръвое</rdg>
+            <rdg wit="#nak">быхомъ сиа пръвое</rdg>
+            <rdg wit="#tol">быхомъ сиа пръвое</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">быхомъ. Си первое</rdg><rdg wit="#shakh">быхомъ. Си пьрвое</rdg><rdg wit="#likh">быхомъ. Си первое</rdg></rdgGrp></app></p></div></body></text></TEI>

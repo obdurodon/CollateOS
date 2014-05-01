@@ -1,85 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>193, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="193"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="193,16">яко</w>
-<w n="193,16">“Се</w>
-<w n="193,16">имать</w>
-<w n="193,16">быти</w>
-<w n="193,16">отъ</w>
-<w n="193,16">бѣсовьскаго</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="193,16"><milestone unit="sic" n="start"/>ꙗко<milestone unit="sic" n="end"/></w>
-<w n="193,16">се</w>
-<w n="193,16">имать</w>
-<w n="193,16">быти <lb/><milestone unit="sic" n="start"/>ѿ</w>
-
-<w n="193,16">бѣсовьскаго<milestone unit="sic" n="end"/></w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="193,16">ꙗко</w>
-<w n="193,16">сеи</w>
-<w n="193,16">иматъ</w>
-<w n="193,16">быти <lb/></w>
-
-<w n="193,16">ѿ</w>
-<w n="193,16">бесовескаго</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="193,16">ꙗко</w>
-<w n="193,16">се</w>
-<w n="193,16">иматъ</w>
-<w n="193,16">быти</w>
-<w n="193,16">ѿ</w>
-<w n="193,16">бѣсовьскаго <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="193,16">ꙗко <lb/></w>
-
-<w n="193,16">се</w>
-<w n="193,16">имать</w>
-<w n="193,16">ѿ</w>
-<w n="193,16">бѣсовьскаго</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="193,16">яко</w>
-<w n="193,16">се</w>
-<w n="193,16">има<hi rend="sup">т</hi><lb/></w>
-<w n="193,16">быти</w>
-<w n="193,16">ѿ</w>
-<w n="193,16">бѣсовскаго</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="193,16">“яко</w>
-<w n="193,16">се</w>
-<w n="193,16">имать</w>
-<w n="193,16">быти</w>
-<w n="193,16">отъ</w>
-<w n="193,16">бѣсовьскаго</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="193,16">яко</w>
-<w n="193,16">“се</w>
-<w n="193,16">имать</w>
-<w n="193,16">быти</w>
-<w n="193,16">отъ</w>
-<w n="193,16">бѣсовьскаго</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="193,16">яко</w>
-<w n="193,16">“Се</w>
-<w n="193,16">имать</w>
-<w n="193,16">быти</w>
-<w n="193,16">от</w>
-<w n="193,16">бѣсовьскаго</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>193, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="193"/><div type="block" n="16"><p><app><lem wit="#lem">
+            яко “Се имать быти отъ бѣсовьскаго
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav"><sic>ꙗко</sic> се имать быти <lb/><sic>ѿ бѣсовьскаго</sic></rdg>
+            <rdg wit="#rad">ꙗко сеи иматъ быти <lb/> ѿ бесовескаго</rdg>
+            <rdg wit="#aka">ꙗко се иматъ быти ѿ бѣсовьскаго <lb/></rdg>
+            <rdg wit="#ipa">ꙗко <lb/> се имать ѿ бѣсовьскаго</rdg>
+            <rdg wit="#xle">ꙗко се има<hi rend="sup">т</hi>
+                <lb/> быти ѿ бѣсовскаго</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">“яко се имать быти отъ бѣсовьскаго</rdg><rdg wit="#shakh">яко “се имать быти отъ бѣсовьскаго</rdg><rdg wit="#likh">яко “Се имать быти от бѣсовьскаго</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,80 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>159, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="159"/><div type="block" n="29"><p>
-<app>
-<lem wit="#lem">
-<w n="159,29">братии</w>
-<w n="159,29">числъмь 20.</w>
-
-<w n="159,29">Феодисиеви</w>
-<w n="159,29">же</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="159,29">братьѣ</w>
-<w n="159,29">чїсло<lb/>мь</w>
-<w n="159,29">.к҃.</w>
-<w n="159,29">ѳеѡдосу</w>
-<w n="159,29">же</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="159,29">бра<hi rend="sup">т</hi>и</w>
-<w n="159,29">число<hi rend="sup">м</hi></w>
-<w n="159,29">.к҃:-</w>
-<w n="159,29">Феѡ<hi rend="sup">д</hi>сиеви</w>
-<w n="159,29">же <pb n="93r"/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="159,29">братьи</w>
-<w n="159,29">числомъ</w>
-<w n="159,29">.к҃.</w>
-<w n="159,29">Федо<lb/>сьеви</w>
-<w n="159,29">же</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="159,29">братыи <lb/></w>
-
-<w n="159,29">сущеи</w>
-<w n="159,29">числомъ</w>
-<w n="159,29">.к҃.</w>
-<w n="159,29">федось<lb/>еви</w>
-<w n="159,29">же</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="159,29">братїи</w>
-<w n="159,29">сѫщи</w>
-<w n="159,29">числѡ<hi rend="sup">м</hi>,</w>
-<w n="159,29">двадесѧ<hi rend="sup">т</hi>, <lb/></w>
-
-<w n="159,29">ѳеѡ<hi rend="sup">д</hi>с<hi rend="sup">о</hi>їеви</w>
-<w n="159,29">же</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="159,29">братьѣ</w>
-<w n="159,29">чісломь 20.</w>
-
-<w n="159,29">Феодисиеви</w>
-<w n="159,29">же</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="159,29">братии</w>
-<w n="159,29">сущи</w>
-<w n="159,29">числъмь 20.</w>
-
-<w n="159,29">Феодисиеви</w>
-<w n="159,29">же</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="159,29">братьѣ</w>
-<w n="159,29">числомь 20.</w>
-
-<w n="159,29">Феодисиеви</w>
-<w n="159,29">же</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>159, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="159"/><div type="block" n="29"><p><app><lem wit="#lem">
+            братии числъмь 20. Феодисиеви же
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">братьѣ чїсло<lb/>мь .к҃. ѳеѡдосу же</rdg>
+            <rdg wit="#rad">бра<hi rend="sup">т</hi>и число<hi rend="sup">м</hi> .к҃:-  Феѡ<hi rend="sup">д</hi>сиеви же
+                    <pb n="93r"/></rdg>
+            <rdg wit="#aka">братьи числомъ .к҃. Федо<lb/>сьеви же</rdg>
+            <rdg wit="#ipa">братыи <lb/> сущеи числомъ .к҃. федось<lb/>еви же</rdg>
+            <rdg wit="#xle">братїи сѫщи числѡ<hi rend="sup">м</hi>, двадесѧ<hi rend="sup">т</hi>, <lb/>
+                    ѳеѡ<hi rend="sup">д</hi>с<hi rend="sup">о</hi>їеви же</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">братьѣ чісломь 20. Феодисиеви же</rdg><rdg wit="#shakh">братии сущи числъмь 20. Феодисиеви же</rdg><rdg wit="#likh">братьѣ числомь 20. Феодисиеви же</rdg></rdgGrp></app></p></div></body></text></TEI>

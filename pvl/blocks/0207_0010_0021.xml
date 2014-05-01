@@ -1,99 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>10, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="10"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="10,21">ихъже</w>
-<w n="10,21">и</w>
-<w n="10,21">градъ</w>
-<w n="10,21">есть</w>
-<w n="10,21">Смольньскъ;</w>
-<w n="10,21">туда</w>
-<w n="10,21">бо</w>
-<w n="10,21">сѣдять</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="10,21">ихже</w>
-<w n="10,21">градъ</w>
-<w n="10,21">есть</w>
-<w n="10,21">смолен<lb/>скъ</w>
-<w n="10,21">туда</w>
-<w n="10,21">бо</w>
-<w n="10,21">сѣдѧть</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="10,21">ихже</w>
-<w n="10,21">градъ</w>
-<w n="10,21">есть</w>
-<w n="10,21">смоленскъ</w>
-<w n="10,21">тудѣ</w>
-<w n="10,21">бо</w>
-<w n="10,21">сѣдять</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="10,21">ихже</w>
-<w n="10,21">гра<hi rend="sup">д</hi></w>
-<w n="10,21">есть</w>
-<w n="10,21">смоленьскъ:·</w>
-<w n="10,21">Тоу</w>
-<w n="10,21">бо</w>
-<w n="10,21">седѧ<hi rend="sup">т</hi><pb n="5r"/></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="10,21">ихже</w>
-<w n="10,21">гра<hi rend="sup">д</hi></w>
-<w n="10,21">есть</w>
-<w n="10,21">смоленескъ:·</w>
-<w n="10,21">И</w>
-<w n="10,21">оубо</w>
-<w n="10,21">седѧтъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="10,21">ихъ<lb/>же</w>
-<w n="10,21">и</w>
-<w n="10,21">городъ</w>
-<w n="10,21">есть</w>
-<w n="10,21">смолѣнескъ.</w>
-<w n="10,21">туда</w>
-<w n="10,21">бо</w>
-<w n="10,21">сѣдѧть <pb n="5d"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="10,21">ихже</w>
-<w n="10,21">градъ</w>
-<w n="10,21">есть</w>
-<w n="10,21">Смоленьскъ;</w>
-<w n="10,21">тудѣ</w>
-<w n="10,21">бо</w>
-<w n="10,21">сѣдять</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="10,21">ихъже</w>
-<w n="10,21">градъ</w>
-<w n="10,21">есть</w>
-<w n="10,21">Смольньскъ;</w>
-<w n="10,21">туда</w>
-<w n="10,21">бо</w>
-<w n="10,21">сѣдять</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="10,21">их</w>
-<w n="10,21">же</w>
-<w n="10,21">градъ</w>
-<w n="10,21">есть</w>
-<w n="10,21">Смоленскъ;</w>
-<w n="10,21">тудѣ</w>
-<w n="10,21">бо</w>
-<w n="10,21">сѣдять</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>10, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="10"/><div type="block" n="21"><p><app><lem wit="#lem">
+            ихъже и градъ есть Смольньскъ; туда бо сѣдять
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ихже градъ есть смолен<lb/>скъ туда бо сѣдѧть</rdg>
+            <rdg wit="#tro">ихже градъ есть смоленскъ тудѣ бо сѣдять</rdg>
+            <rdg wit="#rad">ихже гра<hi rend="sup">д</hi> есть смоленьскъ:·  Тоу бо седѧ<hi rend="sup">т</hi>
+                <pb n="5r"/></rdg>
+            <rdg wit="#aka">ихже гра<hi rend="sup">д</hi> есть смоленескъ:· И оубо седѧтъ</rdg>
+            <rdg wit="#ipa">ихъ<lb/>же и городъ есть смолѣнескъ. туда бо сѣдѧть
+                <pb n="5d"/></rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">ихже градъ есть Смоленьскъ; тудѣ бо сѣдять</rdg><rdg wit="#shakh">ихъже градъ есть Смольньскъ; туда бо сѣдять</rdg><rdg wit="#likh">их же градъ есть Смоленскъ; тудѣ бо сѣдять</rdg></rdgGrp></app></p></div></body></text></TEI>

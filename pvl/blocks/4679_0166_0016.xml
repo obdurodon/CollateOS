@@ -1,100 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>166, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="166"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="166,16">Кърсуньстии</w>
-<w n="166,16">людие.</w>
-<w n="166,16">Бѣ</w>
-<w n="166,16">же</w>
-<w n="166,16">Ростиславъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="166,16">корсуньстии</w>
-<w n="166,16">лю<lb/>дье.</w>
-<w n="166,16">бѣ</w>
-<w n="166,16">же</w>
-<w n="166,16">ростиславъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="166,16">корсѹньстии</w>
-<w n="166,16">лю<hi rend="sup">д</hi>е.</w>
-<w n="166,16">бѣ</w>
-<w n="166,16">же <lb/></w>
-
-<w n="166,16">ростиславъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="166,16">корсѹньстїи</w>
-<w n="166,16">людїе.</w>
-<w n="166,16">бѣ</w>
-<w n="166,16">же</w>
-<w n="166,16">ростиславъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="166,16">людье</w>
-<w n="166,16">корсуньстии.</w>
-<w n="166,16">бѣ <lb/></w>
-
-<w n="166,16">же</w>
-<w n="166,16">ростиславъ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="166,16">лю<hi rend="sup">д</hi>е<hi rend="sup">и</hi><lb/></w>
-<w n="166,16">корсоу<hi rend="sup">н</hi>стїи.</w>
-<w n="166,16">бѣ</w>
-<w n="166,16">же</w>
-<w n="166,16">ростиславь</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="166,16">корсуньстѣи</w>
-<w n="166,16">людие</w>
-<w n="166,16">бѣ</w>
-<w n="166,16">же</w>
-<w n="166,16">ростиславъ</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="166,16">корьсуньстии</w>
-<w n="166,16">людие</w>
-<w n="166,16">бѣ</w>
-<w n="166,16">же</w>
-<w n="166,16">ростиславъ</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="166,16">корьсунстии</w>
-<w n="166,16">людие</w>
-<w n="166,16">бѣ</w>
-<w n="166,16">же</w>
-<w n="166,16">ростиславъ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="166,16">Корсуньстии</w>
-<w n="166,16">людье.</w>
-<w n="166,16">Бѣ</w>
-<w n="166,16">же</w>
-<w n="166,16">Ростиславъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="166,16">Кърсуньстии</w>
-<w n="166,16">людие.</w>
-<w n="166,16">Бѣ</w>
-<w n="166,16">же</w>
-<w n="166,16">Ростиславъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="166,16">корсуньстии</w>
-<w n="166,16">людье.</w>
-<w n="166,16">Бѣ</w>
-<w n="166,16">же</w>
-<w n="166,16">Ростиславъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>166, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="166"/><div type="block" n="16"><p><app><lem wit="#lem">
+            Кърсуньстии людие. Бѣ же Ростиславъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">корсуньстии лю<lb/>дье. бѣ же ростиславъ</rdg>
+            <rdg wit="#rad">корсѹньстии лю<hi rend="sup">д</hi>е. бѣ же <lb/> ростиславъ</rdg>
+            <rdg wit="#aka">корсѹньстїи людїе. бѣ же ростиславъ</rdg>
+            <rdg wit="#ipa">людье корсуньстии. бѣ <lb/> же ростиславъ.</rdg>
+            <rdg wit="#xle">лю<hi rend="sup">д</hi>е<hi rend="sup">и</hi>
+                <lb/> корсоу<hi rend="sup">н</hi>стїи. бѣ же ростиславь</rdg>
+            <rdg wit="#kom">корсуньстѣи людие бѣ же ростиславъ</rdg>
+            <rdg wit="#nak">корьсуньстии людие бѣ же ростиславъ</rdg>
+            <rdg wit="#tol">корьсунстии людие бѣ же ростиславъ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Корсуньстии людье. Бѣ же Ростиславъ</rdg><rdg wit="#shakh">Кърсуньстии людие. Бѣ же Ростиславъ</rdg><rdg wit="#likh">корсуньстии людье. Бѣ же Ростиславъ</rdg></rdgGrp></app></p></div></body></text></TEI>

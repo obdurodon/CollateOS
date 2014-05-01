@@ -1,89 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>150, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="150"/><div type="block" n="29"><p>
-<app>
-<lem wit="#lem">
-<w n="150,29">Ярославу</w>
-<w n="150,29">же</w>
-<w n="150,29">сущю</w>
-<w n="150,29">въ</w>
-<w n="150,29">Новѣгородѣ</w>
-<w n="150,29">приде</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="150,29">ꙗрославу</w>
-<w n="150,29">же</w>
-<w n="150,29">сущю <lb/></w>
-
-<w n="150,29">новѣгородѣ.</w>
-<w n="150,29">вѣсть</w>
-<w n="150,29">приде</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="150,29">ꙗросла<lb/>воу<hi rend="sup">ж</hi></w>
-<w n="150,29">соущѹ</w>
-<w n="150,29">в</w>
-<w n="150,29">новѣгородѣ.</w>
-<w n="150,29">вѣсть</w>
-<w n="150,29">прииде</w>
-<w n="150,29">к</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="150,29">ꙗрославѹ</w>
-<w n="150,29">же</w>
-<w n="150,29">сѹщѹ</w>
-<w n="150,29">в</w>
-<w n="150,29">новѣгородѣ.</w>
-<w n="150,29">вѣсть</w>
-<w n="150,29">прїиде</w>
-<w n="150,29">к <pb n="79r"/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="150,29">ꙗрославу</w>
-<w n="150,29">же</w>
-<w n="150,29">су<lb/>щ<milestone unit="sic" n="start"/>оу<milestone unit="sic" n="end"/></w>
-<w n="150,29">в</w>
-<w n="150,29">новѣгородѣ.</w>
-<w n="150,29">и</w>
-<w n="150,29">приде</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="150,29">ярославоу<hi rend="sup">ж</hi><lb/></w>
-<w n="150,29">сѫщю</w>
-<w n="150,29">въ</w>
-<w n="150,29">новѣградѣ.</w>
-<w n="150,29">и</w>
-<w n="150,29">прїиде</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="150,29">Ярославу</w>
-<w n="150,29">же</w>
-<w n="150,29">сущю</w>
-<w n="150,29">Новѣгородѣ</w>
-<w n="150,29">вѣсть</w>
-<w n="150,29">приде</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="150,29">Ярославу</w>
-<w n="150,29">же</w>
-<w n="150,29">сущю</w>
-<w n="150,29">Новѣгородѣ,</w>
-<w n="150,29">вѣсть</w>
-<w n="150,29">приде</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="150,29">Ярославу</w>
-<w n="150,29">же</w>
-<w n="150,29">сущю</w>
-<w n="150,29">Новѣгородѣ</w>
-<w n="150,29">вѣсть</w>
-<w n="150,29">приде</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>150, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="150"/><div type="block" n="29"><p><app><lem wit="#lem">
+            Ярославу же сущю въ Новѣгородѣ приде
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ꙗрославу же сущю <lb/> новѣгородѣ. вѣсть приде</rdg>
+            <rdg wit="#rad">ꙗросла<lb/>воу<hi rend="sup">ж</hi> соущѹ в новѣгородѣ. вѣсть прииде к</rdg>
+            <rdg wit="#aka">ꙗрославѹ же сѹщѹ в новѣгородѣ. вѣсть прїиде к <pb n="79r"/></rdg>
+            <rdg wit="#ipa">ꙗрославу же су<lb/>щ<sic>оу</sic> в новѣгородѣ. и приде</rdg>
+            <rdg wit="#xle">ꙗрославоу<hi rend="sup">ж</hi>
+                <lb/> сѫщю въ новѣградѣ. и прїиде</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Ярославу же сущю Новѣгородѣ вѣсть приде</rdg><rdg wit="#shakh">Ярославу же сущю Новѣгородѣ, вѣсть приде</rdg><rdg wit="#likh">Ярославу же сущю Новѣгородѣ вѣсть приде</rdg></rdgGrp></app></p></div></body></text></TEI>

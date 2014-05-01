@@ -1,91 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>12, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="12"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="12,3">поѣхати</w>
-<w n="12,3">бяше</w>
-<w n="12,3">Обърину,</w>
-<w n="12,3">не</w>
-<w n="12,3">дадяше</w>
-<w n="12,3">въпрячи</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="12,3"><milestone unit="sic" n="start"/>поѣ<milestone unit="sic" n="end"/>хати</w>
-<w n="12,3">будѧше</w>
-<w n="12,3">ѡбърину.</w>
-<w n="12,3">не</w>
-<w n="12,3">дадѧше</w>
-<w n="12,3">въпрѧчи <lb/></w>
-
-</rdg>
-
-<rdg wit="#tro">
-<w n="12,3">поѣхати</w>
-<w n="12,3">будяше</w>
-<w n="12,3">обърину</w>
-<w n="12,3">не</w>
-<w n="12,3">даяше</w>
-<w n="12,3">въпрячи</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="12,3">поехати</w>
-<w n="12,3">бѧше</w>
-<w n="12,3">ѡбриноу.</w>
-<w n="12,3">не</w>
-<w n="12,3">да<lb/>ваше</w>
-<w n="12,3">въпрѧчи</w>
-<w n="12,3">ни</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="12,3">по<lb/>ѣхати</w>
-<w n="12,3">бѧше</w>
-<w n="12,3">ѡбринѹ.</w>
-<w n="12,3">не</w>
-<w n="12,3">даваше</w>
-<w n="12,3">въпрѧчи</w>
-<w n="12,3">ни</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="12,3">поѣхати <lb/></w>
-
-<w n="12,3">бѧше</w>
-<w n="12,3">ѡбрину.</w>
-<w n="12,3">не</w>
-<w n="12,3">дадѧ<lb/>ше</w>
-<w n="12,3">въпрѧ<milestone unit="sic" n="start"/>ч<milestone unit="sic" n="end"/>и</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="12,3">поѣхати</w>
-<w n="12,3">будяше</w>
-<w n="12,3">Обърину,</w>
-<w n="12,3">не</w>
-<w n="12,3">дадяше</w>
-<w n="12,3">въпрячи</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="12,3">поѣхати</w>
-<w n="12,3">будяше</w>
-<w n="12,3">Обърину,</w>
-<w n="12,3">не</w>
-<w n="12,3">дадяше</w>
-<w n="12,3">въпрячи</w>
-<w n="12,3">ни</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="12,3">поѣхати</w>
-<w n="12,3">будяше</w>
-<w n="12,3">обърину,</w>
-<w n="12,3">не</w>
-<w n="12,3">дадяше</w>
-<w n="12,3">въпрячи</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>12, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="12"/><div type="block" n="3"><p><app><lem wit="#lem">
+            поѣхати бяше Обърину, не дадяше въпрячи
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav"><sic>поѣ</sic>хати будѧше ѡбърину. не дадѧше въпрѧчи <lb/></rdg>
+            <rdg wit="#tro">поѣхати будяше обърину не даяше въпрячи</rdg>
+            <rdg wit="#rad">поехати бѧше ѡбриноу. не да<lb/>ваше въпрѧчи ни</rdg>
+            <rdg wit="#aka">по<lb/>ѣхати бѧше ѡбринѹ. не даваше въпрѧчи ни</rdg>
+            <rdg wit="#ipa">поѣхати <lb/> бѧше ѡбрину. не дадѧ<lb/>ше въпрѧ<sic>ч</sic>и</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">поѣхати будяше Обърину, не дадяше въпрячи</rdg><rdg wit="#shakh">поѣхати будяше Обърину, не дадяше въпрячи ни</rdg><rdg wit="#likh">поѣхати будяше обърину, не дадяше въпрячи</rdg></rdgGrp></app></p></div></body></text></TEI>

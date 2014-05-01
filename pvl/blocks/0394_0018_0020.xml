@@ -1,98 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="18,20">Ярославли</w>
-<w n="18,20">лѣтъ 85;</w>
-
-<w n="18,20">а</w>
-<w n="18,20">отъ</w>
-<w n="18,20">съмьрти</w>
-<w n="18,20">Ярославли</w>
-<w n="18,20">до</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="18,20">ꙗрославли.</w>
-<w n="18,20">лѣ<hi rend="sup">т</hi></w>
-<w n="18,20">п҃е҃.</w>
-<w n="18,20">а</w>
-<w n="18,20">ѿ</w>
-<w n="18,20">см҃рти</w>
-<w n="18,20">ꙗросла<lb/>вли</w>
-<w n="18,20">до</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-<w n="18,20">ꙗрославле.</w>
-<w n="18,20">лѣ<hi rend="sup">т</hi></w>
-<w n="18,20">.п҃е.</w>
-<w n="18,20">а</w>
-<w n="18,20">ѿ</w>
-<w n="18,20">см҃рти</w>
-<w n="18,20">ꙗро<lb/>славли.</w>
-<w n="18,20">до</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="18,20">ꙗрославли.</w>
-<w n="18,20">лѣ<hi rend="sup">т</hi>. <lb/></w>
-
-<w n="18,20">.п҃е.</w>
-<w n="18,20">ѿ</w>
-<w n="18,20">см҃рти</w>
-<w n="18,20">ꙗрославли.</w>
-<w n="18,20">до <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="18,20">ярославлѣ.</w>
-<w n="18,20">лѣ<hi rend="sup">т</hi></w>
-<w n="18,20">.п҃е.</w>
-<w n="18,20">а</w>
-<w n="18,20">ѿ</w>
-<w n="18,20">см҃рти</w>
-<w n="18,20">ярославли <lb/></w>
-
-<w n="18,20">до</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="18,20">Ярославли</w>
-<w n="18,20">лѣтъ 85;</w>
-
-<w n="18,20">а</w>
-<w n="18,20">отъ</w>
-<w n="18,20">смерти</w>
-<w n="18,20">Ярославли</w>
-<w n="18,20">до</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="18,20">Ярославля</w>
-<w n="18,20">лѣтъ 85;</w>
-
-<w n="18,20">а</w>
-<w n="18,20">отъ</w>
-<w n="18,20">съмьрти</w>
-<w n="18,20">Ярославля</w>
-<w n="18,20">до</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="18,20">Ярославли</w>
-<w n="18,20">лѣт 85;</w>
-
-<w n="18,20">а</w>
-<w n="18,20">от</w>
-<w n="18,20">смерти</w>
-<w n="18,20">Ярославли</w>
-<w n="18,20">до</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="20"><p><app><lem wit="#lem">
+            Ярославли лѣтъ 85; а отъ съмьрти Ярославли до
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ꙗрославли. лѣ<hi rend="sup">т</hi> п҃е҃. а ѿ см҃рти ꙗросла<lb/>вли до</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">ꙗрославле. лѣ<hi rend="sup">т</hi> .п҃е. а ѿ см҃рти ꙗро<lb/>славли. до</rdg>
+            <rdg wit="#ipa">ꙗрославли. лѣ<hi rend="sup">т</hi>. <lb/> .п҃е. ѿ см҃рти ꙗрославли. до <lb/></rdg>
+            <rdg wit="#xle">ꙗрославлѣ. лѣ<hi rend="sup">т</hi> .п҃е. а ѿ см҃рти ꙗрославли <lb/> до</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Ярославли лѣтъ 85; а отъ смерти Ярославли до</rdg><rdg wit="#shakh">Ярославля лѣтъ 85; а отъ съмьрти Ярославля до</rdg><rdg wit="#likh">Ярославли лѣт 85; а от смерти Ярославли до</rdg></rdgGrp></app></p></div></body></text></TEI>

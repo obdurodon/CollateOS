@@ -1,77 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>32, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="32"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="32,9">кропиньныя”.</w>
-<w n="32,9">И</w>
-<w n="32,9">бысть</w>
-<w n="32,9">тако.</w>
-<w n="32,9">И</w>
-<w n="32,9">повѣсиша</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="32,9">кропиньныꙗ.</w>
-<w n="32,9">и</w>
-<w n="32,9">бы<hi rend="sup">с</hi></w>
-<w n="32,9">тако.</w>
-<w n="32,9">и</w>
-<w n="32,9">повѣси</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="32,9">кропинныа.</w>
-<w n="32,9">и</w>
-<w n="32,9">бы<hi rend="sup">с</hi><lb/></w>
-<w n="32,9">тако.</w>
-<w n="32,9">и</w>
-<w n="32,9">повѣси</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="32,9">кропиинныꙗ.</w>
-<w n="32,9">и</w>
-<w n="32,9">бы<hi rend="sup">с</hi><lb/></w>
-<w n="32,9">тако.</w>
-<w n="32,9">и</w>
-<w n="32,9">повѣсиша</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="32,9">кропинныа.</w>
-<w n="32,9">и</w>
-<w n="32,9">бы<hi rend="sup">с</hi></w>
-<w n="32,9">тако.</w>
-<w n="32,9">и</w>
-<w n="32,9">по<lb/>вѣсиша</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="32,9">кропиньныя”,</w>
-<w n="32,9">и</w>
-<w n="32,9">бысть</w>
-<w n="32,9">тако;</w>
-<w n="32,9">и</w>
-<w n="32,9">повѣси</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="32,9">кропиньны”.</w>
-<w n="32,9">И</w>
-<w n="32,9">бысть</w>
-<w n="32,9">тако.</w>
-<w n="32,9">И</w>
-<w n="32,9">повѣси</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="32,9">кропиньныя”,</w>
-<w n="32,9">и</w>
-<w n="32,9">бысть</w>
-<w n="32,9">тако.</w>
-<w n="32,9">И</w>
-<w n="32,9">повѣси</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>32, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="32"/><div type="block" n="9"><p><app><lem wit="#lem">
+            кропиньныя”. И бысть тако. И повѣсиша
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">кропиньныꙗ. и бы<hi rend="sup">с</hi> тако. и повѣси</rdg>
+            <rdg wit="#aka">кропинныа. и бы<hi rend="sup">с</hi>
+                <lb/> тако. и повѣси</rdg>
+            <rdg wit="#ipa">кропиинныꙗ. и бы<hi rend="sup">с</hi>
+                <lb/> тако. и повѣсиша</rdg>
+            <rdg wit="#xle">кропинныа. и бы<hi rend="sup">с</hi> тако. и по<lb/>вѣсиша</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">кропиньныя”, и бысть тако; и повѣси</rdg><rdg wit="#shakh">кропиньны”. И бысть тако. И повѣси</rdg><rdg wit="#likh">кропиньныя”, и бысть тако. И повѣси</rdg></rdgGrp></app></p></div></body></text></TEI>

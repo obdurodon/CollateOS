@@ -1,89 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>50, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="50"/><div type="block" n="24"><p>
-<app>
-<lem wit="#lem">
-<w n="50,24">Аще</w>
-<w n="50,24">ли</w>
-<w n="50,24">купилъ</w>
-<w n="50,24">и</w>
-<w n="50,24">будетъ</w>
-<w n="50,24">Грьчинъ,</w>
-<w n="50,24">подъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="50,24">аще</w>
-<w n="50,24">ли</w>
-<w n="50,24">купилъ</w>
-<w n="50,24">буде</w>
-<w n="50,24">грь<lb/>чинъ</w>
-<w n="50,24">подъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="50,24">аще</w>
-<w n="50,24">кѹпи<hi rend="sup">л</hi></w>
-<w n="50,24">боу<hi rend="sup">д</hi>ть</w>
-<w n="50,24">гречинъ</w>
-<w n="50,24">по<hi rend="sup">д</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="50,24">аще</w>
-<w n="50,24">ли</w>
-<w n="50,24">кѹ<lb/>пиль</w>
-<w n="50,24">бѹдеть</w>
-<w n="50,24">гречинь</w>
-<w n="50,24">по<hi rend="sup">д</hi></w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="50,24">аще</w>
-<w n="50,24">ли</w>
-<w n="50,24">купилъ</w>
-<w n="50,24">и</w>
-<w n="50,24">буде<milestone unit="sic" n="start"/>де<hi rend="sup">т</hi><milestone unit="sic" n="end"/>. <lb/></w>
-
-<w n="50,24">грѣчинъ</w>
-<w n="50,24">по<hi rend="sup">д</hi></w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="50,24">аще</w>
-<w n="50,24">ли</w>
-<w n="50,24">коупи<hi rend="sup">л</hi></w>
-<w n="50,24">и</w>
-<w n="50,24">бѫде<hi rend="sup">т</hi></w>
-<w n="50,24">гречи<hi rend="sup">н</hi><lb/></w>
-<w n="50,24">пѡ<hi rend="sup">д</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="50,24">аще</w>
-<w n="50,24">ли</w>
-<w n="50,24">купилъ</w>
-<w n="50,24">и</w>
-<w n="50,24">будетъ</w>
-<w n="50,24">Грьчинъ,</w>
-<w n="50,24">подъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="50,24">аще</w>
-<w n="50,24">ли</w>
-<w n="50,24">купилъ</w>
-<w n="50,24">и</w>
-<w n="50,24">будетъ</w>
-<w n="50,24">Грьчинъ,</w>
-<w n="50,24">подъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="50,24">аще</w>
-<w n="50,24">ли</w>
-<w n="50,24">купилъ</w>
-<w n="50,24">и</w>
-<w n="50,24">будетъ</w>
-<w n="50,24">грьчинъ,</w>
-<w n="50,24">подъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>50, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="50"/><div type="block" n="24"><p><app><lem wit="#lem">
+            Аще ли купилъ и будетъ Грьчинъ, подъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">аще ли купилъ буде грь<lb/>чинъ подъ</rdg>
+            <rdg wit="#rad">аще кѹпи<hi rend="sup">л</hi> боу<hi rend="sup">д</hi>ть гречинъ по<hi rend="sup">д</hi></rdg>
+            <rdg wit="#aka">аще ли кѹ<lb/>пиль бѹдеть гречинь по<hi rend="sup">д</hi></rdg>
+            <rdg wit="#ipa">аще ли купилъ и буде<sic>де<hi rend="sup">т</hi></sic>. <lb/> грѣчинъ
+                по<hi rend="sup">д</hi></rdg>
+            <rdg wit="#xle">аще ли коупи<hi rend="sup">л</hi> и бѫде<hi rend="sup">т</hi> гречи<hi rend="sup">н</hi>
+                <lb/> пѡ<hi rend="sup">д</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">аще ли купилъ и будетъ Грьчинъ, подъ</rdg><rdg wit="#shakh">аще ли купилъ и будетъ Грьчинъ, подъ</rdg><rdg wit="#likh">аще ли купилъ и будетъ грьчинъ, подъ</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,88 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>13, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="13"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="13,20">и</w>
-<w n="13,20">Вятичи</w>
-<w n="13,20">и</w>
-<w n="13,20">Сѣверо</w>
-<w n="13,20">одинъ</w>
-<w n="13,20">обычаи</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="13,20">и <lb/></w>
-
-<w n="13,20">вѧтичи.</w>
-<w n="13,20">и</w>
-<w n="13,20">сѣверъ.</w>
-<w n="13,20">ѡдинъ</w>
-<w n="13,20">ѡбычаи</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="13,20">и</w>
-<w n="13,20">вятичи</w>
-<w n="13,20">и</w>
-<w n="13,20">сѣверъ</w>
-<w n="13,20">одиныи</w>
-<w n="13,20">обычаи</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="13,20">и</w>
-<w n="13,20">вѧти<hi rend="sup">ч</hi>.</w>
-<w n="13,20">и</w>
-<w n="13,20">сѣверо</w>
-<w n="13,20">ѡди<hi rend="sup">н</hi><lb/></w>
-<w n="13,20">ѡбычаи</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="13,20">и</w>
-<w n="13,20">вѧтї<lb/>чи.</w>
-<w n="13,20">и</w>
-<w n="13,20">сѣверо.</w>
-<w n="13,20">ѡдинъ</w>
-<w n="13,20">ѡбычаи</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="13,20">и</w>
-<w n="13,20">вѧтичи. <lb/></w>
-
-<w n="13,20">и</w>
-<w n="13,20">северо.</w>
-<w n="13,20">ѡдинъ</w>
-<w n="13,20">ѡбыча<hi rend="sup">и</hi><lb/></w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="13,20">и</w>
-<w n="13,20">Вятичи</w>
-<w n="13,20">и</w>
-<w n="13,20">Сѣверъ</w>
-<w n="13,20">одинъ</w>
-<w n="13,20">обычай</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="13,20">и</w>
-<w n="13,20">Вятичи</w>
-<w n="13,20">и</w>
-<w n="13,20">Сѣверъ</w>
-<w n="13,20">одинъ</w>
-<w n="13,20">обычаи</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="13,20">и</w>
-<w n="13,20">вятичи,</w>
-<w n="13,20">и</w>
-<w n="13,20">сѣверъ</w>
-<w n="13,20">одинъ</w>
-<w n="13,20">обычай</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>13, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="13"/><div type="block" n="20"><p><app><lem wit="#lem">
+            и Вятичи и Сѣверо одинъ обычаи
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и <lb/> вѧтичи. и сѣверъ. ѡдинъ ѡбычаи</rdg>
+            <rdg wit="#tro">и вятичи и сѣверъ одиныи обычаи</rdg>
+            <rdg wit="#rad">и вѧти<hi rend="sup">ч</hi>. и сѣверо ѡди<hi rend="sup">н</hi>
+                <lb/> ѡбычаи</rdg>
+            <rdg wit="#aka">и вѧтї<lb/>чи. и сѣверо. ѡдинъ ѡбычаи</rdg>
+            <rdg wit="#ipa">и вѧтичи. <lb/> и северо. ѡдинъ ѡбыча<hi rend="sup">и</hi>
+                <lb/></rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и Вятичи и Сѣверъ одинъ обычай</rdg><rdg wit="#shakh">и Вятичи и Сѣверъ одинъ обычаи</rdg><rdg wit="#likh">и вятичи, и сѣверъ одинъ обычай</rdg></rdgGrp></app></p></div></body></text></TEI>

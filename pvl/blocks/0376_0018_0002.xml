@@ -1,102 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-
-<w n="18,2">а</w>
-<w n="18,2">отъ</w>
-<w n="18,2">потопа</w>
-<w n="18,2">до</w>
-<w n="18,2">Аврама</w>
-<w n="18,2">лѣтъ 1082;</w>
-
-</lem>
-
-<rdg wit="#lav">
-<w n="18,2">.м҃.и.в҃.</w>
-<w n="18,2">а</w>
-<w n="18,2">ѿ</w>
-<w n="18,2">потопа</w>
-<w n="18,2">до</w>
-<w n="18,2">ѡвра<lb/>ма.</w>
-<w n="18,2">лѣ<hi rend="sup">т</hi></w>
-<w n="18,2">҂а҃.и.п҃в</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-<w n="18,2">.҂в҃.с҃.м҃в҃.</w>
-<w n="18,2">а</w>
-<w n="18,2">ѿ</w>
-<w n="18,2">потопа</w>
-<w n="18,2">до</w>
-<w n="18,2">авраама.</w>
-<w n="18,2">лѣ<hi rend="sup">т</hi></w>
-<w n="18,2">.҂а҃.п҃.в҃.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="18,2">҂в҃.с҃.м҃в.</w>
-<w n="18,2">а</w>
-<w n="18,2">ѿ</w>
-<w n="18,2">пото<lb/>па</w>
-<w n="18,2">до</w>
-<w n="18,2">аврама.</w>
-<w n="18,2">лѣ<hi rend="sup">т</hi></w>
-<w n="18,2">.҂а҃.п.<lb/>.в҃.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="18,2">҂в҃.с҃.м҃в.</w>
-<w n="18,2">а</w>
-<w n="18,2">ѿ</w>
-<w n="18,2">потопа</w>
-<w n="18,2">до</w>
-<w n="18,2">авраама</w>
-<w n="18,2">лѣ<hi rend="sup">т</hi></w>
-<w n="18,2">.҂а҃.п҃в.</w>
-</rdg>
-
-<rdg wit="#bych">
-
-<w n="18,2">а</w>
-<w n="18,2">отъ</w>
-<w n="18,2">потопа</w>
-<w n="18,2">до</w>
-<w n="18,2">Оврама</w>
-<w n="18,2">лѣтъ 1000</w>
-
-<w n="18,2">и 82;</w>
-
-</rdg>
-
-<rdg wit="#shakh">
-
-<w n="18,2">а</w>
-<w n="18,2">отъ</w>
-<w n="18,2">потопа</w>
-<w n="18,2">до</w>
-<w n="18,2">Аврама</w>
-<w n="18,2">лѣтъ 1000</w>
-
-<w n="18,2">и 82;</w>
-
-</rdg>
-
-<rdg wit="#likh">
-
-<w n="18,2">а</w>
-<w n="18,2">от</w>
-<w n="18,2">потопа</w>
-<w n="18,2">до</w>
-<w n="18,2">Оврама</w>
-<w n="18,2">лѣт 1000</w>
-
-<w n="18,2">и 82,</w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="2"><p><app><lem wit="#lem">
+            2242; а отъ потопа до Аврама лѣтъ 1082;
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">.м҃.и.в҃. а ѿ потопа до ѡвра<lb/>ма. лѣ<hi rend="sup">т</hi> ҂а҃.и.п҃в</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">.҂в҃.с҃.м҃в҃. а ѿ потопа до авраама. лѣ<hi rend="sup">т</hi> .҂а҃.п҃.в҃.</rdg>
+            <rdg wit="#ipa">҂в҃.с҃.м҃в. а ѿ пото<lb/>па до аврама. лѣ<hi rend="sup">т</hi> .҂а҃.п.<lb/>.в҃.</rdg>
+            <rdg wit="#xle">҂в҃.с҃.м҃в. а ѿ потопа до авраама лѣ<hi rend="sup">т</hi> .҂а҃.п҃в.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">2242; а отъ потопа до Оврама лѣтъ 1000 и 82;</rdg><rdg wit="#shakh">2242; а отъ потопа до Аврама лѣтъ 1000 и 82;</rdg><rdg wit="#likh">2242; а от потопа до Оврама лѣт 1000 и 82,</rdg></rdgGrp></app></p></div></body></text></TEI>

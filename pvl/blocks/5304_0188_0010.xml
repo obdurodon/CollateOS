@@ -1,81 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>188, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="188"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-<w n="188,10">заповѣдалъ</w>
-<w n="188,10">положити</w>
-<w n="188,10">ся</w>
-<w n="188,10">въ</w>
-<w n="188,10">пещерѣ,</w>
-<w n="188,10">идѣже</w>
-<w n="188,10">показа</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="188,10">заповѣдалъ</w>
-<w n="188,10">положити</w>
-<w n="188,10">сѧ</w>
-<w n="188,10">в</w>
-<w n="188,10">пе<lb/>черѣ.</w>
-<w n="188,10">идѣже</w>
-<w n="188,10">показа</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="188,10">заповѣдалъ</w>
-<w n="188,10">бра<hi rend="sup">т</hi>и <lb/></w>
-
-<w n="188,10">положити</w>
-<w n="188,10">сѧ.</w>
-<w n="188,10">в</w>
-<w n="188,10">пещерѣ.</w>
-<w n="188,10">идѣ<lb/>же</w>
-<w n="188,10">показа</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="188,10">заповѣдаль</w>
-<w n="188,10">положи<lb/>ти</w>
-<w n="188,10">сѧ</w>
-<w n="188,10">въ</w>
-<w n="188,10">пещерѣ.</w>
-<w n="188,10">идеже</w>
-<w n="188,10">показа</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="188,10">заповѣдалъ</w>
-<w n="188,10">положити</w>
-<w n="188,10">ся</w>
-<w n="188,10">в</w>
-<w n="188,10">печерѣ,</w>
-<w n="188,10">идѣже</w>
-<w n="188,10">показа</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="188,10">заповѣдалъ</w>
-<w n="188,10">положити</w>
-<w n="188,10">ся</w>
-<w n="188,10">въ</w>
-<w n="188,10">пещерѣ,</w>
-<w n="188,10">идѣже</w>
-<w n="188,10">показа</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="188,10">заповѣдалъ</w>
-<w n="188,10">положити</w>
-<w n="188,10">ся</w>
-<w n="188,10">в</w>
-<w n="188,10">печерѣ,</w>
-<w n="188,10">идѣ</w>
-<w n="188,10">же</w>
-<w n="188,10">показа</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>188, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="188"/><div type="block" n="10"><p><app><lem wit="#lem">
+            заповѣдалъ положити ся въ пещерѣ, идѣже показа
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">заповѣдалъ положити сѧ в пе<lb/>черѣ. идѣже показа</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">заповѣдалъ бра<hi rend="sup">т</hi>и <lb/> положити сѧ. в пещерѣ. идѣ<lb/>же показа</rdg>
+            <rdg wit="#xle">заповѣдаль положи<lb/>ти сѧ въ пещерѣ. идеже показа</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">заповѣдалъ положити ся в печерѣ, идѣже показа</rdg><rdg wit="#shakh">заповѣдалъ положити ся въ пещерѣ, идѣже показа</rdg><rdg wit="#likh">заповѣдалъ положити ся в печерѣ, идѣ же показа</rdg></rdgGrp></app></p></div></body></text></TEI>

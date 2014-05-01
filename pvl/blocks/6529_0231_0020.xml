@@ -1,75 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>231, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="231"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="231,20">Святопълкъ</w>
-<w n="231,20">же</w>
-<w n="231,20">и</w>
-<w n="231,20">Володимиръ</w>
-<w n="231,20">убрьдъша</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="231,20">ст҃ополъ<lb/>къ</w>
-<w n="231,20">же</w>
-<w n="231,20">и</w>
-<w n="231,20">володимеръ·</w>
-<w n="231,20">вбредоста <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="231,20">сто҃полкъ</w>
-<w n="231,20">же·</w>
-<w n="231,20">и</w>
-<w n="231,20">володимеръ·</w>
-<w n="231,20">въ<milestone unit="sic" n="start"/>б<milestone unit="sic" n="end"/>ре<hi rend="sup">д</hi>ше</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="231,20">ст҃ополкь</w>
-<w n="231,20">же <lb/></w>
-
-<w n="231,20">и</w>
-<w n="231,20">володимиръ·</w>
-<w n="231,20">вьбре<hi rend="sup">д</hi>ше</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="231,20">ст҃ополкъ</w>
-<w n="231,20">же</w>
-<w n="231,20">и</w>
-<w n="231,20">володи<lb/>меръ·</w>
-<w n="231,20">оубредша</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="231,20">ст҃ополкъ<hi rend="sup">ж</hi></w>
-<w n="231,20">и</w>
-<w n="231,20">вол<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>меръ</w>
-<w n="231,20">оубры<hi rend="sup">д</hi>ше</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="231,20">Святополъкъ</w>
-<w n="231,20">же</w>
-<w n="231,20">и</w>
-<w n="231,20">Володимеръ</w>
-<w n="231,20">вбредоста</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="231,20">Святопълкъ</w>
-<w n="231,20">же</w>
-<w n="231,20">и</w>
-<w n="231,20">Володимеръ</w>
-<w n="231,20">въбрьдоста</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="231,20">Святополъкъ</w>
-<w n="231,20">же</w>
-<w n="231,20">и</w>
-<w n="231,20">Володимеръ</w>
-<w n="231,20">вбредоста</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>231, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="231"/><div type="block" n="20"><p><app><lem wit="#lem">
+            Святопълкъ же и Володимиръ убрьдъша
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ст҃ополъ<lb/>къ же и володимеръ· вбредоста <lb/></rdg>
+            <rdg wit="#rad">сто҃полкъ же· и володимеръ· въ<sic>б</sic>ре<hi rend="sup">д</hi>ше</rdg>
+            <rdg wit="#aka">ст҃ополкь же <lb/> и володимиръ· вьбре<hi rend="sup">д</hi>ше</rdg>
+            <rdg wit="#ipa">ст҃ополкъ же и володи<lb/>меръ· оубредша</rdg>
+            <rdg wit="#xle">ст҃ополкъ<hi rend="sup">ж</hi> и вол<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>меръ оубры<hi rend="sup">д</hi>ше</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Святополъкъ же и Володимеръ вбредоста</rdg><rdg wit="#shakh">Святопълкъ же и Володимеръ въбрьдоста</rdg><rdg wit="#likh">Святополъкъ же и Володимеръ вбредоста</rdg></rdgGrp></app></p></div></body></text></TEI>

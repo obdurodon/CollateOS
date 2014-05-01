@@ -1,75 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>281, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="281"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="281,20">вънукъ</w>
-<w n="281,20">Святославль,</w>
-<w n="281,20">мѣсяца</w>
-<w n="281,20">февраля</w>
-<w n="281,20">въ 17</w>
-
-<w n="281,20">дьнь.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="281,20">внукъ</w>
-<w n="281,20">ст҃ославль· <lb/></w>
-
-<w n="281,20">мца<hi rend="sup">с</hi></w>
-<w n="281,20">ѳевра<hi rend="sup">л</hi>·</w>
-<w n="281,20">въ</w>
-<w n="281,20">·з҃і·</w>
-<w n="281,20">дн҃ь·</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-<w n="281,20">Lav&gt;</w>
-
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-<w n="281,20">вноу<hi rend="sup">к</hi></w>
-<w n="281,20">ст҃ославль</w>
-<w n="281,20">никола. <lb/></w>
-
-<w n="281,20">мц<hi rend="sup">с</hi>а</w>
-<w n="281,20">февра<hi rend="sup">л</hi>.</w>
-<w n="281,20">въ</w>
-<w n="281,20">з҃і.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="281,20">внукъ</w>
-<w n="281,20">Святославль,</w>
-<w n="281,20">мѣсяца</w>
-<w n="281,20">февраля</w>
-<w n="281,20">въ 17</w>
-
-<w n="281,20">день.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="281,20">вънукъ</w>
-<w n="281,20">Святославль,</w>
-<w n="281,20">мѣсяца</w>
-<w n="281,20">февраля</w>
-<w n="281,20">въ 17</w>
-
-<w n="281,20">дьнь.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="281,20">внукъ</w>
-<w n="281,20">Святославль,</w>
-<w n="281,20">мѣсяца</w>
-<w n="281,20">февраля</w>
-<w n="281,20">въ 17</w>
-
-<w n="281,20">день.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>281, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="281"/><div type="block" n="20"><p><app><lem wit="#lem">
+            вънукъ Святославль, мѣсяца февраля въ 17 дьнь.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">внукъ ст҃ославль· <lb/> мца<hi rend="sup">с</hi> ѳевра<hi rend="sup">л</hi>· въ ·з҃і· дн҃ь·</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka"><gap/></rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">вноу<hi rend="sup">к</hi> ст҃ославль никола. <lb/> мц<hi rend="sup">с</hi>а февра<hi rend="sup">л</hi>. въ
+                з҃і.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">внукъ Святославль, мѣсяца февраля въ 17 день.</rdg><rdg wit="#shakh">вънукъ Святославль, мѣсяца февраля въ 17 дьнь.</rdg><rdg wit="#likh">внукъ Святославль, мѣсяца февраля въ 17 день.</rdg></rdgGrp></app></p></div></body></text></TEI>

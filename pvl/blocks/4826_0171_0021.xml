@@ -1,114 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>171, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="171"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="171,21">же,</w>
-<w n="171,21">се</w>
-<w n="171,21">видѣвъ,</w>
-<w n="171,21">съ</w>
-<w n="171,21">Вьсеволодъмь</w>
-<w n="171,21">побѣгоста</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="171,21">же</w>
-<w n="171,21">се</w>
-<w n="171,21">видѣвъ</w>
-<w n="171,21">со</w>
-<w n="171,21">всеволодомъ <lb/></w>
-
-<w n="171,21">побѣгоста</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="171,21">же</w>
-<w n="171,21">се</w>
-<w n="171,21">видѣвъ. <lb/></w>
-
-<w n="171,21">со</w>
-<w n="171,21">всеволодо<hi rend="sup">м</hi>.</w>
-<w n="171,21">побегосте</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="171,21">же</w>
-<w n="171,21">си</w>
-<w n="171,21">видевъ</w>
-<w n="171,21">со</w>
-<w n="171,21">всеволодо<lb/>мъ.</w>
-<w n="171,21">побегоста</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="171,21">же</w>
-<w n="171,21">се <lb/></w>
-
-<w n="171,21">видивъ.</w>
-<w n="171,21">со</w>
-<w n="171,21">всеволодомь.</w>
-<w n="171,21">по<lb/>бѣгоста</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="171,21">же</w>
-<w n="171,21">се</w>
-<w n="171,21">видѣвь,</w>
-<w n="171,21">съ</w>
-<w n="171,21">всеволодѡ<hi rend="sup">м</hi>,</w>
-<w n="171,21">побѣгоста <pb n="77r"/></w>
-
-</rdg>
-
-<rdg wit="#kom">
-<w n="171,21">же</w>
-<w n="171,21">се</w>
-<w n="171,21">видѣвъ</w>
-<w n="171,21">со</w>
-<w n="171,21">всеволодомъ</w>
-<w n="171,21">побѣгоста</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="171,21">же</w>
-<w n="171,21">се</w>
-<w n="171,21">видѣвъ</w>
-<w n="171,21">со</w>
-<w n="171,21">всеволодомъ</w>
-<w n="171,21">побѣгоста</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="171,21">же</w>
-<w n="171,21">се</w>
-<w n="171,21">видѣвъ</w>
-<w n="171,21">со</w>
-<w n="171,21">всеволодомъ</w>
-<w n="171,21">побѣгоста</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="171,21">же</w>
-<w n="171,21">се</w>
-<w n="171,21">видѣвъ,</w>
-<w n="171,21">со</w>
-<w n="171,21">Всеволодомъ</w>
-<w n="171,21">побѣгоста</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="171,21">же,</w>
-<w n="171,21">се</w>
-<w n="171,21">видѣвъ,</w>
-<w n="171,21">съ</w>
-<w n="171,21">Вьсеволодъмь</w>
-<w n="171,21">побѣгоста</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="171,21">же</w>
-<w n="171,21">се</w>
-<w n="171,21">видѣвъ,</w>
-<w n="171,21">со</w>
-<w n="171,21">Всеволодомъ</w>
-<w n="171,21">побѣгоста</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>171, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="171"/><div type="block" n="21"><p><app><lem wit="#lem">
+            же, се видѣвъ, съ Вьсеволодъмь побѣгоста
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">же се видѣвъ со всеволодомъ <lb/> побѣгоста</rdg>
+            <rdg wit="#rad">же се видѣвъ. <lb/> со всеволодо<hi rend="sup">м</hi>. побегосте</rdg>
+            <rdg wit="#aka">же си видевъ со всеволодо<lb/>мъ. побегоста</rdg>
+            <rdg wit="#ipa">же се <lb/> видивъ. со всеволодомь. по<lb/>бѣгоста</rdg>
+            <rdg wit="#xle">же се видѣвь, съ всеволодѡ<hi rend="sup">м</hi>,  побѣгоста
+                <pb n="77r"/></rdg>
+            <rdg wit="#kom">же се видѣвъ со всеволодомъ побѣгоста</rdg>
+            <rdg wit="#nak">же се видѣвъ со всеволодомъ побѣгоста</rdg>
+            <rdg wit="#tol">же се видѣвъ со всеволодомъ побѣгоста</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">же се видѣвъ, со Всеволодомъ побѣгоста</rdg><rdg wit="#shakh">же, се видѣвъ, съ Вьсеволодъмь побѣгоста</rdg><rdg wit="#likh">же се видѣвъ, со Всеволодомъ побѣгоста</rdg></rdgGrp></app></p></div></body></text></TEI>

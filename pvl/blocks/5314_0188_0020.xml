@@ -1,81 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>188, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="188"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="188,20">ови</w>
-<w n="188,20">на</w>
-<w n="188,20">кланяние</w>
-<w n="188,20">колѣньное,</w>
-<w n="188,20">ови</w>
-<w n="188,20">на</w>
-<w n="188,20">пощение</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="188,20">ѡви</w>
-<w n="188,20">на</w>
-<w n="188,20">кланѧнье</w>
-<w n="188,20">колѣнь<lb/>ноѥ.</w>
-<w n="188,20">ѡви</w>
-<w n="188,20">на</w>
-<w n="188,20">пощенье</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="188,20">ѡвии</w>
-<w n="188,20">же</w>
-<w n="188,20">на <lb/></w>
-
-<w n="188,20">кланѧние.</w>
-<w n="188,20">коленьное.</w>
-<w n="188,20">ѡвии</w>
-<w n="188,20">на</w>
-<w n="188,20">пощение. <pb n="69d"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="188,20">ѡви</w>
-<w n="188,20">на</w>
-<w n="188,20">кланѧнїе</w>
-<w n="188,20">колѣнное.</w>
-<w n="188,20">ѡви</w>
-<w n="188,20">на</w>
-<w n="188,20">по<lb/>щенїе</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="188,20">ови</w>
-<w n="188,20">на</w>
-<w n="188,20">кланянье</w>
-<w n="188,20">колѣньное,</w>
-<w n="188,20">ови</w>
-<w n="188,20">на</w>
-<w n="188,20">пощенье</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="188,20">ови</w>
-<w n="188,20">на</w>
-<w n="188,20">кланяние</w>
-<w n="188,20">колѣньное,</w>
-<w n="188,20">ови</w>
-<w n="188,20">на</w>
-<w n="188,20">пощение</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="188,20">ови</w>
-<w n="188,20">на</w>
-<w n="188,20">кланянье</w>
-<w n="188,20">колѣньное,</w>
-<w n="188,20">ови</w>
-<w n="188,20">на</w>
-<w n="188,20">пощенье</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>188, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="188"/><div type="block" n="20"><p><app><lem wit="#lem">
+            ови на кланяние колѣньное, ови на пощение
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѡви на кланѧнье колѣнь<lb/>ноѥ. ѡви на пощенье</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">ѡвии же на <lb/> кланѧние. коленьное. ѡвии  на пощение.
+                <pb n="69d"/></rdg>
+            <rdg wit="#xle">ѡви на кланѧнїе колѣнное. ѡви на по<lb/>щенїе</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">ови на кланянье колѣньное, ови на пощенье</rdg><rdg wit="#shakh">ови на кланяние колѣньное, ови на пощение</rdg><rdg wit="#likh">ови на кланянье колѣньное, ови на пощенье</rdg></rdgGrp></app></p></div></body></text></TEI>

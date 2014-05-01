@@ -1,84 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>275, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="275"/><div type="block" n="29"><p>
-<app>
-<lem wit="#lem">
-<w n="275,29">своего,</w>
-<w n="275,29">да</w>
-<w n="275,29">се</w>
-<w n="275,29">сѣдять</w>
-<w n="275,29">Новъгородьци,</w>
-<w n="275,29">да</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="275,29">своѥго·</w>
-<w n="275,29">да</w>
-<w n="275,29">се</w>
-<w n="275,29">сѣдѧть</w>
-<w n="275,29">новго<lb/>рци·</w>
-<w n="275,29">да</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="275,29">свое<hi rend="sup">г</hi>.</w>
-<w n="275,29">да</w>
-<w n="275,29">сѧде<hi rend="sup">т</hi></w>
-<w n="275,29">в</w>
-<w n="275,29">новѣгоро<hi rend="sup">д</hi>.</w>
-<w n="275,29">да</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="275,29">своего·</w>
-<w n="275,29">да</w>
-<w n="275,29">сѧдетъ <lb/></w>
-
-<w n="275,29">в</w>
-<w n="275,29">новѣгородѣ</w>
-<w n="275,29">да</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="275,29">своего</w>
-<w n="275,29">да</w>
-<w n="275,29">се</w>
-<w n="275,29">сѣдѧть</w>
-<w n="275,29">новго<lb/>родцѣ·</w>
-<w n="275,29">да</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="275,29">своего.</w>
-<w n="275,29">да</w>
-<w n="275,29">се·̏</w>
-<w n="275,29">сѣдѧ<hi rend="sup">т</hi></w>
-<w n="275,29">новогорѡ<hi rend="sup">д</hi>ци.</w>
-<w n="275,29">да</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="275,29">своего,</w>
-<w n="275,29">да</w>
-<w n="275,29">се</w>
-<w n="275,29">сѣдять</w>
-<w n="275,29">Новгородци,</w>
-<w n="275,29">да</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="275,29">своего,</w>
-<w n="275,29">да</w>
-<w n="275,29">се,</w>
-<w n="275,29">сѣдять</w>
-<w n="275,29">Новъгородьци,</w>
-<w n="275,29">да</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="275,29">своего,</w>
-<w n="275,29">да</w>
-<w n="275,29">се</w>
-<w n="275,29">сѣдять</w>
-<w n="275,29">новгородци,</w>
-<w n="275,29">да</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>275, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="275"/><div type="block" n="29"><p><app><lem wit="#lem">
+            своего, да се сѣдять Новъгородьци, да
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">своѥго· да се сѣдѧть новго<lb/>рци· да</rdg>
+            <rdg wit="#rad">свое<hi rend="sup">г</hi>. да сѧде<hi rend="sup">т</hi> в новѣгоро<hi rend="sup">д</hi>. да</rdg>
+            <rdg wit="#aka">своего· да сѧдетъ <lb/> в новѣгородѣ да</rdg>
+            <rdg wit="#ipa">своего да се сѣдѧть новго<lb/>родцѣ· да</rdg>
+            <rdg wit="#xle">своего. да се·̏ сѣдѧ<hi rend="sup">т</hi> новогорѡ<hi rend="sup">д</hi>ци. да</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">своего, да се сѣдять Новгородци, да</rdg><rdg wit="#shakh">своего, да се, сѣдять Новъгородьци, да</rdg><rdg wit="#likh">своего, да се сѣдять новгородци, да</rdg></rdgGrp></app></p></div></body></text></TEI>

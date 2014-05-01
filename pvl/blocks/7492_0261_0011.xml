@@ -1,94 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>261, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="261"/><div type="block" n="11"><p>
-<app>
-<lem wit="#lem">
-<w n="261,11">Володимирю.</w>
-<w n="261,11">И</w>
-<w n="261,11">пришедъше,</w>
-<w n="261,11">сташа</w>
-<w n="261,11">съ</w>
-<w n="261,11">нимь,</w>
-<w n="261,11">перешьдъше</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="261,11">во<lb/>лодимерю·</w>
-<w n="261,11">и</w>
-<w n="261,11">бы<hi rend="sup">с</hi></w>
-<w n="261,11">везому</w>
-<w n="261,11">ему· <lb/></w>
-
-<w n="261,11">сташа</w>
-<w n="261,11">с</w>
-<w n="261,11">ни<hi rend="sup">м</hi></w>
-<w n="261,11">перешедше</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="261,11">володим<milestone unit="sic" n="start"/>е<milestone unit="sic" n="end"/>рю</w>
-<w n="261,11">и</w>
-<w n="261,11">превезъше</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="261,11">володимирю·</w>
-<w n="261,11">и</w>
-<w n="261,11">превезше</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="261,11">володимерю· <lb/></w>
-
-<w n="261,11">пришедъше</w>
-<w n="261,11">сташа</w>
-<w n="261,11">с</w>
-<w n="261,11">нимъ</w>
-<w n="261,11">пе<lb/>решедъше</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="261,11">вол<hi rend="sup">д</hi>о<hi rend="sup">и</hi>мерѹ. <lb/></w>
-
-<w n="261,11">и</w>
-<w n="261,11">прише<hi rend="sup">д</hi>ше</w>
-<w n="261,11">сташа</w>
-<w n="261,11">с</w>
-<w n="261,11">ни<hi rend="sup">м</hi></w>
-<w n="261,11">преше<hi rend="sup">д</hi>ше</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="261,11">Володимерю.</w>
-<w n="261,11">И</w>
-<w n="261,11">бысть</w>
-<w n="261,11">везому</w>
-<w n="261,11">ему,</w>
-<w n="261,11">сташа</w>
-<w n="261,11">с</w>
-<w n="261,11">нимъ,</w>
-<w n="261,11">перешедше</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="261,11">Володимерю.</w>
-<w n="261,11">И</w>
-<w n="261,11">бысть</w>
-<w n="261,11">везому</w>
-<w n="261,11">ему,</w>
-<w n="261,11">сташа</w>
-<w n="261,11">съ</w>
-<w n="261,11">нимь,</w>
-<w n="261,11">перешьдъше</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="261,11">Володимерю.</w>
-<w n="261,11">И</w>
-<w n="261,11">бысть</w>
-<w n="261,11">везому</w>
-<w n="261,11">ему,</w>
-<w n="261,11">сташа</w>
-<w n="261,11">с</w>
-<w n="261,11">ним,</w>
-<w n="261,11">перешедше</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>261, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="261"/><div type="block" n="11"><p><app><lem wit="#lem">
+            Володимирю. И пришедъше, сташа съ нимь, перешьдъше
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">во<lb/>лодимерю· и бы<hi rend="sup">с</hi> везому ему· <lb/> сташа с ни<hi rend="sup">м</hi>
+                перешедше</rdg>
+            <rdg wit="#rad">володим<sic>е</sic>рю и превезъше</rdg>
+            <rdg wit="#aka">володимирю· и превезше</rdg>
+            <rdg wit="#ipa">володимерю· <lb/> пришедъше сташа с нимъ пе<lb/>решедъше</rdg>
+            <rdg wit="#xle">вол<hi rend="sup">д</hi>о<hi rend="sup">и</hi>мерѹ. <lb/> и прише<hi rend="sup">д</hi>ше сташа с
+                    ни<hi rend="sup">м</hi> преше<hi rend="sup">д</hi>ше</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Володимерю. И бысть везому ему, сташа с нимъ, перешедше</rdg><rdg wit="#shakh">Володимерю. И бысть везому ему, сташа съ нимь, перешьдъше</rdg><rdg wit="#likh">Володимерю. И бысть везому ему, сташа с ним, перешедше</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,84 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>44, 31</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="44"/><div type="block" n="31"><p>
-<app>
-<lem wit="#lem">
-<w n="44,31">воду</w>
-<w n="44,31">морьскую,</w>
-<w n="44,31">хотяще</w>
-<w n="44,31">убрьсти:</w>
-<w n="44,31">и</w>
-<w n="44,31">тако</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="44,31">воду <lb/></w>
-
-<w n="44,31">морьскую.</w>
-<w n="44,31">хотѧще</w>
-<w n="44,31">оубрести.</w>
-<w n="44,31">и</w>
-<w n="44,31">тако</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="44,31">водоу</w>
-<w n="44,31">морьскоую. <lb/></w>
-
-<w n="44,31">хотѧще</w>
-<w n="44,31">оубрести.</w>
-<w n="44,31">тако</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="44,31">водѹ</w>
-<w n="44,31">морьскѹю</w>
-<w n="44,31">хотѧщѹ <lb/></w>
-
-<w n="44,31">брести.</w>
-<w n="44,31">такъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="44,31">воду</w>
-<w n="44,31">мо<lb/>рьскую.</w>
-<w n="44,31">хотѧще</w>
-<w n="44,31">оубрѣ<lb/>сти.</w>
-<w n="44,31">и</w>
-<w n="44,31">тако</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="44,31">водоу</w>
-<w n="44,31">морскоую.</w>
-<w n="44,31">хотѧще</w>
-<w n="44,31">оубре<lb/>сти.</w>
-<w n="44,31">и</w>
-<w n="44,31">тако</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="44,31">воду</w>
-<w n="44,31">морьскую,</w>
-<w n="44,31">хотяще</w>
-<w n="44,31">убрести;</w>
-<w n="44,31">и</w>
-<w n="44,31">тако</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="44,31">воду</w>
-<w n="44,31">морьскую,</w>
-<w n="44,31">хотяще</w>
-<w n="44,31">убрьсти:</w>
-<w n="44,31">и</w>
-<w n="44,31">тако</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="44,31">воду</w>
-<w n="44,31">морьскую,</w>
-<w n="44,31">хотяще</w>
-<w n="44,31">убрести:</w>
-<w n="44,31">и</w>
-<w n="44,31">тако</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>44, 31</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="44"/><div type="block" n="31"><p><app><lem wit="#lem">
+            воду морьскую, хотяще убрьсти: и тако
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">воду <lb/> морьскую. хотѧще оубрести. и тако</rdg>
+            <rdg wit="#rad">водоу морьскоую. <lb/> хотѧще оубрести. тако</rdg>
+            <rdg wit="#aka">водѹ морьскѹю хотѧщѹ <lb/> брести. такъ</rdg>
+            <rdg wit="#ipa">воду мо<lb/>рьскую. хотѧще оубрѣ<lb/>сти. и тако</rdg>
+            <rdg wit="#xle">водоу морскоую. хотѧще оубре<lb/>сти. и тако</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">воду морьскую, хотяще убрести; и тако</rdg><rdg wit="#shakh">воду морьскую, хотяще убрьсти: и тако</rdg><rdg wit="#likh">воду морьскую, хотяще убрести: и тако</rdg></rdgGrp></app></p></div></body></text></TEI>

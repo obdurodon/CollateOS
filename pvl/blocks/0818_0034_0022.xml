@@ -1,89 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>34, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="34"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="34,22">за</w>
-<w n="34,22">то</w>
-<w n="34,22">ударение</w>
-<w n="34,22">или</w>
-<w n="34,22">биение</w>
-<w n="34,22">да</w>
-<w n="34,22">въдасть</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="34,22">за <lb/></w>
-
-<w n="34,22">то</w>
-<w n="34,22">ѹдарение</w>
-<w n="34,22">или</w>
-<w n="34,22">бьенье.</w>
-<w n="34,22">да</w>
-<w n="34,22">вдасть</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="34,22">за</w>
-<w n="34,22">то</w>
-<w n="34,22">оударенїе <lb/></w>
-
-<w n="34,22">илї</w>
-<w n="34,22">бьенїе.</w>
-<w n="34,22">да</w>
-<w n="34,22">вдасть</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="34,22">за</w>
-<w n="34,22">то</w>
-<w n="34,22">оу<lb/>дарение</w>
-<w n="34,22">или</w>
-<w n="34,22">оубьение</w>
-<w n="34,22">да <lb/></w>
-
-<w n="34,22">вдасть</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="34,22">за</w>
-<w n="34,22">то</w>
-<w n="34,22">оударенїе</w>
-<w n="34,22">или <lb/></w>
-
-<w n="34,22">оубїенїе.</w>
-<w n="34,22">да</w>
-<w n="34,22">вдасть</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="34,22">за</w>
-<w n="34,22">то</w>
-<w n="34,22">ударение</w>
-<w n="34,22">или</w>
-<w n="34,22">бьенье</w>
-<w n="34,22">да</w>
-<w n="34,22">вдасть</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="34,22">за</w>
-<w n="34,22">то</w>
-<w n="34,22">ударение</w>
-<w n="34,22">или</w>
-<w n="34,22">биение</w>
-<w n="34,22">да</w>
-<w n="34,22">въдасть</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="34,22">за</w>
-<w n="34,22">то</w>
-<w n="34,22">ударение</w>
-<w n="34,22">или</w>
-<w n="34,22">бьенье</w>
-<w n="34,22">да</w>
-<w n="34,22">вдастъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>34, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="34"/><div type="block" n="22"><p><app><lem wit="#lem">
+            за то ударение или биение да въдасть
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">за <lb/> то ѹдарение или бьенье. да вдасть</rdg>
+            <rdg wit="#aka">за то оударенїе <lb/> илї бьенїе. да вдасть</rdg>
+            <rdg wit="#ipa">за то оу<lb/>дарение или оубьение да <lb/> вдасть</rdg>
+            <rdg wit="#xle">за то оударенїе или <lb/> оубїенїе. да вдасть</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">за то ударение или бьенье да вдасть</rdg><rdg wit="#shakh">за то ударение или биение да въдасть</rdg><rdg wit="#likh">за то ударение или бьенье да вдастъ</rdg></rdgGrp></app></p></div></body></text></TEI>

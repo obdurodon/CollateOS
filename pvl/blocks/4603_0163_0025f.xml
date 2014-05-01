@@ -1,43 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>163, 25f</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="163"/><div type="block" n="25f"><p>
-<app>
-<lem wit="#lem">
-<w n="163,25f">Тьмутороканю.</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="163,25f">тмутороканю.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="163,25f">тмоуторо<lb/>каню.</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="163,25f">тмутороканю</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="163,25f">тмутороканю</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="163,25f">тмутороканю</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="163,25f">Тьмутороканю;</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="163,25f">Тмутороканю.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>163, 25f</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="163"/><div type="block" n="25f"><p><app><lem wit="#lem">
+            Тьмутороканю.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">тмутороканю.</rdg>
+            <rdg wit="#xle">тмоуторо<lb/>каню.</rdg>
+            <rdg wit="#kom">тмутороканю</rdg>
+            <rdg wit="#nak">тмутороканю</rdg>
+            <rdg wit="#tol">тмутороканю</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#shakh">Тьмутороканю;</rdg><rdg wit="#likh">Тмутороканю.</rdg></rdgGrp></app></p></div></body></text></TEI>

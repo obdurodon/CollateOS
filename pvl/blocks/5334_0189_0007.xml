@@ -1,67 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>189, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="189"/><div type="block" n="7"><p>
-<app>
-<lem wit="#lem">
-<w n="189,7">Пьрвыи</w>
-<w n="189,7">Демиянъ</w>
-<w n="189,7">презвутеръ</w>
-<w n="189,7">бяше</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="189,7">Яко</w>
-<w n="189,7">се</w>
-<w n="189,7">первы<lb/>и</w>
-<w n="189,7">демьꙗнъ.</w>
-<w n="189,7">презвутеръ</w>
-<w n="189,7">бѧше. <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="189,7">первыи</w>
-<w n="189,7">дѣмьанъ.</w>
-<w n="189,7">прозвуте<lb/>рь.</w>
-<w n="189,7">бѧше <pb n="70a"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="189,7">пръвыи</w>
-<w n="189,7">демїань</w>
-<w n="189,7">прозвѵтерь.</w>
-<w n="189,7">бѧ<lb/>ше</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="189,7">Яко</w>
-<w n="189,7">се</w>
-<w n="189,7">первый</w>
-<w n="189,7">Демьянъ</w>
-<w n="189,7">презвутеръ</w>
-<w n="189,7">бяше</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="189,7">Яко</w>
-<w n="189,7">се</w>
-<w n="189,7">пьрвыи</w>
-<w n="189,7">Демиянъ</w>
-<w n="189,7">презвутеръ</w>
-<w n="189,7">бяше</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="189,7">Яко</w>
-<w n="189,7">се</w>
-<w n="189,7">первый</w>
-<w n="189,7">Демьянъ</w>
-<w n="189,7">презвутеръ</w>
-<w n="189,7">бяше</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>189, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="189"/><div type="block" n="7"><p><app><lem wit="#lem">
+            Пьрвыи Демиянъ презвутеръ бяше
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">Яко се первы<lb/>и демьꙗнъ. презвутеръ бѧше. <lb/></rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">первыи дѣмьанъ. прозвуте<lb/>рь. бѧше <pb n="70a"/></rdg>
+            <rdg wit="#xle">пръвыи демїань прозвѵтерь. бѧ<lb/>ше</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Яко се первый Демьянъ презвутеръ бяше</rdg><rdg wit="#shakh">Яко се пьрвыи Демиянъ презвутеръ бяше</rdg><rdg wit="#likh">Яко се первый Демьянъ презвутеръ бяше</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,90 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>29, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="29"/><div type="block" n="25"><p>
-<app>
-<lem wit="#lem">
-<w n="29,25">си</w>
-<w n="29,25">вьси</w>
-<w n="29,25">зъвахуть</w>
-<w n="29,25">ся</w>
-<w n="29,25">Великая</w>
-<w n="29,25">Скуѳь.</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="29,25">си</w>
-<w n="29,25">вси</w>
-<w n="29,25">звахуся</w>
-<w n="29,25">отъ</w>
-<w n="29,25">грькъ</w>
-<w n="29,25">великая</w>
-<w n="29,25">скуфь</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="29,25">си</w>
-<w n="29,25">вси</w>
-<w n="29,25">звахоуть<hi rend="sup">с</hi></w>
-<w n="29,25">ѿ</w>
-<w n="29,25">грекъ</w>
-<w n="29,25">великаꙗ</w>
-<w n="29,25">скоу<hi rend="sup">ѳ</hi>.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="29,25">си</w>
-<w n="29,25">вси</w>
-<w n="29,25">звахѹтсѧ</w>
-<w n="29,25">ѿ</w>
-<w n="29,25">гре<lb/>къ</w>
-<w n="29,25">великаа</w>
-<w n="29,25">скѹѳь.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="29,25">си</w>
-<w n="29,25">вси</w>
-<w n="29,25">зваху<lb/>ть<hi rend="sup">с</hi></w>
-<w n="29,25">великаꙗ</w>
-<w n="29,25">скуфь.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="29,25">си</w>
-<w n="29,25">вси</w>
-<w n="29,25">звахѫ<hi rend="sup">т</hi>сѧ</w>
-<w n="29,25">великаа</w>
-<w n="29,25">скѵ<hi rend="sup">ѳ</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="29,25">си</w>
-<w n="29,25">вси</w>
-<w n="29,25">звахуться</w>
-<w n="29,25">отъ</w>
-<w n="29,25">Грекъ</w>
-<w n="29,25">Великая</w>
-<w n="29,25">Скуѳь.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="29,25">си</w>
-<w n="29,25">вьси</w>
-<w n="29,25">зъвахуться</w>
-<w n="29,25">отъ</w>
-<w n="29,25">Грькъ</w>
-<w n="29,25">Великая</w>
-<w n="29,25">Скуѳь.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="29,25">си</w>
-<w n="29,25">вси</w>
-<w n="29,25">звахуться</w>
-<w n="29,25">от</w>
-<w n="29,25">грекъ</w>
-<w n="29,25">Великая</w>
-<w n="29,25">скуфь.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>29, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="29"/><div type="block" n="25"><p><app><lem wit="#lem">
+            си вьси зъвахуть ся Великая Скуѳь.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">си вси звахуся отъ грькъ великая скуфь</rdg>
+            <rdg wit="#rad">си вси звахоуть<hi rend="sup">с</hi> ѿ грекъ великаꙗ скоу<hi rend="sup">ѳ</hi>.</rdg>
+            <rdg wit="#aka">си вси звахѹтсѧ ѿ гре<lb/>къ великаа скѹѳь.</rdg>
+            <rdg wit="#ipa">си вси зваху<lb/>ть<hi rend="sup">с</hi> великаꙗ скуфь.</rdg>
+            <rdg wit="#xle">си вси звахѫ<hi rend="sup">т</hi>сѧ великаа скѵ<hi rend="sup">ѳ</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">си вси звахуться отъ Грекъ Великая Скуѳь.</rdg><rdg wit="#shakh">си вьси зъвахуться отъ Грькъ Великая Скуѳь.</rdg><rdg wit="#likh">си вси звахуться от грекъ Великая скуфь.</rdg></rdgGrp></app></p></div></body></text></TEI>

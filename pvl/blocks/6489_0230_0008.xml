@@ -1,111 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>230, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="230"/><div type="block" n="8"><p>
-<app>
-<lem wit="#lem">
-<w n="230,8">поганыя</w>
-<w n="230,8">идеши,</w>
-<w n="230,8">съ</w>
-<w n="230,8">нама</w>
-<w n="230,8">ни</w>
-<w n="230,8">на</w>
-<w n="230,8"><choice><seg>съвѣтъ</seg><seg>думу</seg></choice>,</w>
-<w n="230,8">то</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="230,8">поганыꙗ</w>
-<w n="230,8">идеши·</w>
-<w n="230,8">ни</w>
-<w n="230,8">на <lb/></w>
-
-<w n="230,8">свѣтъ</w>
-<w n="230,8">к</w>
-<w n="230,8">нама·</w>
-<w n="230,8">то</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="230,8">поганыꙗ</w>
-<w n="230,8">не</w>
-<w n="230,8">идеше.</w>
-<w n="230,8">ни</w>
-<w n="230,8">на</w>
-<w n="230,8">свѣ<lb/>тъ</w>
-<w n="230,8">к</w>
-<w n="230,8">на<hi rend="sup">м</hi>.</w>
-<w n="230,8">ино</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="230,8">поганы·̏ѧ</w>
-<w n="230,8">не</w>
-<w n="230,8">идеши·</w>
-<w n="230,8">ни</w>
-<w n="230,8">на</w>
-<w n="230,8">совѣтъ <lb/></w>
-
-<w n="230,8">к</w>
-<w n="230,8">намъ·</w>
-<w n="230,8">ино</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="230,8">поганыꙗ</w>
-<w n="230,8">идеши</w>
-<w n="230,8">с</w>
-<w n="230,8">нама· <lb/></w>
-
-<w n="230,8">ни</w>
-<w n="230,8">на</w>
-<w n="230,8">думу·</w>
-<w n="230,8">тоть</w>
-<w n="230,8">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="230,8">поганыа</w>
-<w n="230,8">идеши</w>
-<w n="230,8">с</w>
-<w n="230,8">нама</w>
-<w n="230,8">ни</w>
-<w n="230,8">на</w>
-<w n="230,8">доумѹ, <lb/></w>
-
-<w n="230,8">то<hi rend="sup">т</hi></w>
-<w n="230,8">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="230,8">поганыя</w>
-<w n="230,8">идеши,</w>
-<w n="230,8">ни</w>
-<w n="230,8">на</w>
-<w n="230,8">совѣтъ</w>
-<w n="230,8">к</w>
-<w n="230,8">нама,</w>
-<w n="230,8">то</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="230,8">поганыя</w>
-<w n="230,8">идеши</w>
-<w n="230,8">съ</w>
-<w n="230,8">нама,</w>
-<w n="230,8">ни</w>
-<w n="230,8">на</w>
-<w n="230,8">съвѣтъ</w>
-<w n="230,8">къ</w>
-<w n="230,8">нама,</w>
-<w n="230,8">то-</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="230,8">поганыя</w>
-<w n="230,8">идеши,</w>
-<w n="230,8">ни</w>
-<w n="230,8">на</w>
-<w n="230,8">совѣтъ</w>
-<w n="230,8">к</w>
-<w n="230,8">нама,</w>
-<w n="230,8">то</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>230, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="230"/><div type="block" n="8"><p><app><lem wit="#lem">
+            поганыя идеши, съ нама ни на <choice>
+                    <seg>съвѣтъ</seg>
+                    <seg>думу</seg>
+                </choice>, то
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">поганыꙗ идеши· ни на <lb/> свѣтъ к нама· то</rdg>
+            <rdg wit="#rad">поганыꙗ не идеше. ни на свѣ<lb/>тъ к на<hi rend="sup">м</hi>. ино</rdg>
+            <rdg wit="#aka">поганы·̏ѧ не идеши· ни на совѣтъ <lb/> к намъ· ино</rdg>
+            <rdg wit="#ipa">поганыꙗ идеши с нама· <lb/> ни на думу· тоть и</rdg>
+            <rdg wit="#xle">поганыа идеши с нама ни на доумѹ, <lb/> то<hi rend="sup">т</hi> и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">поганыя идеши, ни на совѣтъ к нама, то</rdg><rdg wit="#shakh">поганыя идеши съ нама, ни на съвѣтъ къ нама, то-</rdg><rdg wit="#likh">поганыя идеши, ни на совѣтъ к нама, то</rdg></rdgGrp></app></p></div></body></text></TEI>

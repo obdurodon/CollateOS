@@ -1,89 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>223, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="223"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="223,3">Израилевъ.</w>
-<w n="223,3">Ибо</w>
-<w n="223,3">лукавии</w>
-<w n="223,3">сынове</w>
-<w n="223,3">Измаилови</w>
-<w n="223,3">пожигаху</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="223,3">изл҃евъ·</w>
-<w n="223,3">идѣ</w>
-<w n="223,3">лукавии</w>
-<w n="223,3">снв҃е</w>
-<w n="223,3">и<lb/>змаилеви</w>
-<w n="223,3">пожигаху</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="223,3">изрл҃въ. <lb/></w>
-
-<w n="223,3">ибо</w>
-<w n="223,3">лоукавии</w>
-<w n="223,3">сн҃ве</w>
-<w n="223,3">излаилови</w>
-<w n="223,3">пожигахоу.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="223,3">изрл҃въ·</w>
-<w n="223,3">ибо</w>
-<w n="223,3">лѹкавїи <lb/></w>
-
-<w n="223,3">снв҃е</w>
-<w n="223,3">измаилови·</w>
-<w n="223,3">пожинахѹ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="223,3">изрлв҃ъ·</w>
-<w n="223,3">ибо <lb/></w>
-
-<w n="223,3">лукавии</w>
-<w n="223,3">снв҃е</w>
-<w n="223,3">измаилове· <lb/></w>
-
-<w n="223,3">пожи<milestone unit="sic" n="start"/>г<milestone unit="sic" n="end"/>аху</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="223,3">іил҃евъ.</w>
-<w n="223,3">ибо</w>
-<w n="223,3">лоукавии <lb/></w>
-
-<w n="223,3">сн҃ѡве</w>
-<w n="223,3">измаилови.</w>
-<w n="223,3">пожигахѫ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="223,3">Израилевъ.</w>
-<w n="223,3">Идѣ</w>
-<w n="223,3">лукавии</w>
-<w n="223,3">сынове</w>
-<w n="223,3">Измаилеви</w>
-<w n="223,3">пожигаху</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="223,3">Израилевъ.</w>
-<w n="223,3">Си</w>
-<w n="223,3">бо</w>
-<w n="223,3">лукавии</w>
-<w n="223,3">сынове</w>
-<w n="223,3">Измаилеви</w>
-<w n="223,3">пожигаху</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="223,3">израилевъ.</w>
-<w n="223,3">Ибо</w>
-<w n="223,3">лукавии</w>
-<w n="223,3">сынове</w>
-<w n="223,3">измаилеви</w>
-<w n="223,3">пожигаху</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>223, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="223"/><div type="block" n="3"><p><app><lem wit="#lem">
+            Израилевъ. Ибо лукавии сынове Измаилови пожигаху
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">изл҃евъ· идѣ лукавии снв҃е и<lb/>змаилеви пожигаху</rdg>
+            <rdg wit="#rad">изрл҃въ. <lb/> ибо лоукавии сн҃ве излаилови пожигахоу.</rdg>
+            <rdg wit="#aka">изрл҃въ· ибо лѹкавїи <lb/> снв҃е измаилови· пожинахѹ</rdg>
+            <rdg wit="#ipa">изрлв҃ъ· ибо <lb/> лукавии снв҃е измаилове· <lb/> пожи<sic>г</sic>аху</rdg>
+            <rdg wit="#xle">іил҃евъ. ибо лоукавии <lb/> сн҃ѡве измаилови. пожигахѫ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Израилевъ. Идѣ лукавии сынове Измаилеви пожигаху</rdg><rdg wit="#shakh">Израилевъ. Си бо лукавии сынове Измаилеви пожигаху</rdg><rdg wit="#likh">израилевъ. Ибо лукавии сынове измаилеви пожигаху</rdg></rdgGrp></app></p></div></body></text></TEI>

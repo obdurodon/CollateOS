@@ -1,81 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>157, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="157"/><div type="block" n="12"><p>
-<app>
-<lem wit="#lem">
-<w n="157,12">великому</w>
-<w n="157,12">кънязю</w>
-<w n="157,12">Ярославу,</w>
-<w n="157,12">прия</w>
-<w n="157,12">власть</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="157,12">великому</w>
-<w n="157,12">кнѧзю</w>
-<w n="157,12">ꙗросла<lb/>ву.</w>
-<w n="157,12">приꙗ</w>
-<w n="157,12">власть</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="157,12">великомѹ</w>
-<w n="157,12">кн҃зю</w>
-<w n="157,12">ꙗрославѹ.</w>
-<w n="157,12">и</w>
-<w n="157,12">приꙗ <lb/></w>
-
-<w n="157,12">власть</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="157,12">великомѹ</w>
-<w n="157,12">кнз҃ю</w>
-<w n="157,12">ꙗрославѹ.</w>
-<w n="157,12">и</w>
-<w n="157,12">приѧ</w>
-<w n="157,12">власть <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="157,12">великому</w>
-<w n="157,12">кь<lb/>нѧзю</w>
-<w n="157,12">ꙗрославу.</w>
-<w n="157,12">и</w>
-<w n="157,12">приꙗ. <lb/></w>
-
-<w n="157,12">власть</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="157,12">великомоу <lb/></w>
-
-<w n="157,12">кнѧѕю</w>
-<w n="157,12">ярославоу.</w>
-<w n="157,12">прїѧ</w>
-<w n="157,12">власть</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="157,12">великому</w>
-<w n="157,12">князю</w>
-<w n="157,12">Ярославу,</w>
-<w n="157,12">прия</w>
-<w n="157,12">власть</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="157,12">великому</w>
-<w n="157,12">кънязю</w>
-<w n="157,12">Ярославу,</w>
-<w n="157,12">прея</w>
-<w n="157,12">власть</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="157,12">великому</w>
-<w n="157,12">князю</w>
-<w n="157,12">Ярославу,</w>
-<w n="157,12">прия</w>
-<w n="157,12">власть</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>157, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="157"/><div type="block" n="12"><p><app><lem wit="#lem">
+            великому кънязю Ярославу, прия власть
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">великому кнѧзю ꙗросла<lb/>ву. приꙗ власть</rdg>
+            <rdg wit="#rad">великомѹ кн҃зю ꙗрославѹ. и приꙗ <lb/> власть</rdg>
+            <rdg wit="#aka">великомѹ кнз҃ю ꙗрославѹ. и приѧ власть <lb/></rdg>
+            <rdg wit="#ipa">великому кь<lb/>нѧзю ꙗрославу. и приꙗ. <lb/> власть</rdg>
+            <rdg wit="#xle">великомоу <lb/> кнѧѕю ꙗрославоу. прїѧ власть</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">великому князю Ярославу, прия власть</rdg><rdg wit="#shakh">великому кънязю Ярославу, прея власть</rdg><rdg wit="#likh">великому князю Ярославу, прия власть</rdg></rdgGrp></app></p></div></body></text></TEI>

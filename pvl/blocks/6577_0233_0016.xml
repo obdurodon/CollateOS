@@ -1,88 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>233, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="233"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="233,16">же</w>
-<w n="233,16">зажьгоша</w>
-<w n="233,16">дворъ</w>
-<w n="233,16">Красьныи,</w>
-<w n="233,16">егоже</w>
-<w n="233,16">поставилъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="233,16">же <lb/></w>
-
-<w n="233,16">зажгоша</w>
-<w n="233,16">дворъ</w>
-<w n="233,16">красныи</w>
-<w n="233,16">ѥго<lb/>же</w>
-<w n="233,16">поставилъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="233,16">же</w>
-<w n="233,16">зажгоша·</w>
-<w n="233,16">дворъ</w>
-<w n="233,16">красныи·</w>
-<w n="233,16">егоже</w>
-<w n="233,16">постави <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="233,16">же</w>
-<w n="233,16">зажгоша</w>
-<w n="233,16">дворъ</w>
-<w n="233,16">красны·̏и·</w>
-<w n="233,16">егоже</w>
-<w n="233,16">по<lb/>стави</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="233,16">же</w>
-<w n="233,16">зажгоша·</w>
-<w n="233,16">и</w>
-<w n="233,16">дворъ <lb/></w>
-
-<w n="233,16">красныи·</w>
-<w n="233,16">егоже</w>
-<w n="233,16">поставі<lb/>лъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="233,16">зажгоша</w>
-<w n="233,16">и</w>
-<w n="233,16">дворъ</w>
-<w n="233,16">красныи.</w>
-<w n="233,16">егоже</w>
-<w n="233,16">поста<lb/>ви</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="233,16">же</w>
-<w n="233,16">зажгоша</w>
-<w n="233,16">дворъ</w>
-<w n="233,16">Красный,</w>
-<w n="233,16">егоже</w>
-<w n="233,16">поставилъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="233,16">же</w>
-<w n="233,16">зажьгоша</w>
-<w n="233,16">дворъ</w>
-<w n="233,16">Красьныи,</w>
-<w n="233,16">егоже</w>
-<w n="233,16">поставилъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="233,16">же</w>
-<w n="233,16">зажгоша</w>
-<w n="233,16">дворъ</w>
-<w n="233,16">Красный,</w>
-<w n="233,16">его</w>
-<w n="233,16">же</w>
-<w n="233,16">поставилъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>233, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="233"/><div type="block" n="16"><p><app><lem wit="#lem">
+            же зажьгоша дворъ Красьныи, егоже поставилъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">же <lb/> зажгоша дворъ красныи ѥго<lb/>же поставилъ</rdg>
+            <rdg wit="#rad">же зажгоша· дворъ красныи· егоже постави <lb/></rdg>
+            <rdg wit="#aka">же зажгоша дворъ красны·̏и· егоже по<lb/>стави</rdg>
+            <rdg wit="#ipa">же зажгоша· и дворъ <lb/> красныи· егоже поставі<lb/>лъ</rdg>
+            <rdg wit="#xle">зажгоша и дворъ красныи. егоже поста<lb/>ви</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">же зажгоша дворъ Красный, егоже поставилъ</rdg><rdg wit="#shakh">же зажьгоша дворъ Красьныи, егоже поставилъ</rdg><rdg wit="#likh">же зажгоша дворъ Красный, его же поставилъ</rdg></rdgGrp></app></p></div></body></text></TEI>

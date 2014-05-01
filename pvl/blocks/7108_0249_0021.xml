@@ -1,51 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>249, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="249"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="249,21">переꙗсл<hi rend="sup">а</hi><lb/>влю·</w>
-<w n="249,21">и</w>
-<w n="249,21">внидохо<hi rend="sup">м</hi></w>
-<w n="249,21">на</w>
-<w n="249,21">ст҃го</w>
-<w n="249,21">бориса <lb/></w>
-
-<w n="249,21">дн҃ь</w>
-<w n="249,21">ис</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="249,21">Переяславлю;</w>
-<w n="249,21">и</w>
-<w n="249,21">изидохомъ</w>
-<w n="249,21">на</w>
-<w n="249,21">святаго</w>
-<w n="249,21">Бориса</w>
-<w n="249,21">день</w>
-<w n="249,21">ис</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="249,21">Переяславлю.</w>
-<w n="249,21">И</w>
-<w n="249,21">выидохом</w>
-<w n="249,21">на</w>
-<w n="249,21">святаго</w>
-<w n="249,21">Бориса</w>
-<w n="249,21">день</w>
-<w n="249,21">ис</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>249, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="249"/><div type="block" n="21"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">переꙗсл<hi rend="sup">а</hi><lb/>влю· и внидохо<hi rend="sup">м</hi> на ст҃го бориса <lb/> дн҃ь
+                ис</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Переяславлю; и изидохомъ на святаго Бориса день ис</rdg><rdg wit="#likh">Переяславлю. И выидохом на святаго Бориса день ис</rdg></rdgGrp></app></p></div></body></text></TEI>

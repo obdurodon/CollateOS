@@ -1,110 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>62, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="62"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="62,20">семь;</w>
-<w n="62,20">и</w>
-<w n="62,20">налѣзе</w>
-<w n="62,20">бисьръ</w>
-<w n="62,20">мъногоцѣньнъ,</w>
-<w n="62,20">еже</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="62,20">семь.</w>
-<w n="62,20">налѣзе <lb/></w>
-
-<w n="62,20">бисеръ</w>
-<w n="62,20">многоцѣньныхъ.</w>
-<w n="62,20">еже</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="62,20">се<hi rend="sup">м</hi>.</w>
-<w n="62,20">и</w>
-<w n="62,20">налѣзе</w>
-<w n="62,20">би<lb/>серъ</w>
-<w n="62,20">мно<hi rend="sup">г</hi>цѣне<hi rend="sup">н</hi>,</w>
-<w n="62,20">е<hi rend="sup">ж</hi>.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="62,20">семь.</w>
-<w n="62,20">и</w>
-<w n="62,20">налѣзе <lb/></w>
-
-<w n="62,20">бисеръ</w>
-<w n="62,20">многоцѣненъ.</w>
-<w n="62,20">еже</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="62,20">семъ. <lb/></w>
-
-<w n="62,20">и</w>
-<w n="62,20">налѣзе</w>
-<w n="62,20">бисеръ</w>
-<w n="62,20">много<lb/><milestone unit="sic" n="start"/>ц<milestone unit="sic" n="end"/>ѣньныи</w>
-<w n="62,20">еже</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="62,20">се<hi rend="sup">м</hi>.</w>
-<w n="62,20">и</w>
-<w n="62,20">налѣзе</w>
-<w n="62,20">би<lb/>серь</w>
-<w n="62,20">многоцѣнныи</w>
-<w n="62,20">еже</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="62,20">семъ</w>
-<w n="62,20">и</w>
-<w n="62,20">налѣзе</w>
-<w n="62,20">бисеръ</w>
-<w n="62,20">многоцѣнныи</w>
-<w n="62,20">еже</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="62,20">семь</w>
-<w n="62,20">и</w>
-<w n="62,20">налѣзе</w>
-<w n="62,20">бисеръ</w>
-<w n="62,20">многоцѣнныи</w>
-<w n="62,20">еже</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="62,20">семь</w>
-<w n="62,20">и</w>
-<w n="62,20">налѣзе</w>
-<w n="62,20">бисеръ</w>
-<w n="62,20">многоцѣнныи</w>
-<w n="62,20">еже</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="62,20">семь,</w>
-<w n="62,20">налѣзе</w>
-<w n="62,20">бисеръ</w>
-<w n="62,20">многоцѣненъ,</w>
-<w n="62,20">еже</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="62,20">семь;</w>
-<w n="62,20">и</w>
-<w n="62,20">налѣзе</w>
-<w n="62,20">бисьръ</w>
-<w n="62,20">мъногоцѣньнъ,</w>
-<w n="62,20">еже</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="62,20">семь,</w>
-<w n="62,20">налѣзе</w>
-<w n="62,20">бисеръ</w>
-<w n="62,20">многоцѣненъ,</w>
-<w n="62,20">еже</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>62, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="62"/><div type="block" n="20"><p><app><lem wit="#lem">
+            семь; и налѣзе бисьръ мъногоцѣньнъ, еже
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">семь. налѣзе <lb/> бисеръ многоцѣньныхъ. еже</rdg>
+            <rdg wit="#rad">се<hi rend="sup">м</hi>. и налѣзе би<lb/>серъ мно<hi rend="sup">г</hi>цѣне<hi rend="sup">н</hi>,
+                е<hi rend="sup">ж</hi>.</rdg>
+            <rdg wit="#aka">семь. и налѣзе <lb/> бисеръ многоцѣненъ. еже</rdg>
+            <rdg wit="#ipa">семъ. <lb/> и налѣзе бисеръ много<lb/><sic>ц</sic>ѣньныи еже</rdg>
+            <rdg wit="#xle">се<hi rend="sup">м</hi>. и налѣзе би<lb/>серь многоцѣнныи еже</rdg>
+            <rdg wit="#kom">семъ и налѣзе бисеръ многоцѣнныи еже</rdg>
+            <rdg wit="#nak">семь и налѣзе бисеръ многоцѣнныи еже</rdg>
+            <rdg wit="#tol">семь и налѣзе бисеръ многоцѣнныи еже</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">семь, налѣзе бисеръ многоцѣненъ, еже</rdg><rdg wit="#shakh">семь; и налѣзе бисьръ мъногоцѣньнъ, еже</rdg><rdg wit="#likh">семь, налѣзе бисеръ многоцѣненъ, еже</rdg></rdgGrp></app></p></div></body></text></TEI>

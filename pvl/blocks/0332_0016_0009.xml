@@ -1,105 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>16, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="16"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="16,9">вьси.</w>
-<w n="16,9">Въ</w>
-<w n="16,9">время</w>
-<w n="16,9">же</w>
-<w n="16,9">хотящимъ</w>
-<w n="16,9">родити,</w>
-<w n="16,9">аще</w>
-<w n="16,9">родить</w>
-<w n="16,9">ся</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="16,9">вси</w>
-<w n="16,9">во</w>
-<w n="16,9">времѧ</w>
-<w n="16,9">же</w>
-<w n="16,9">хотѧщихъ</w>
-<w n="16,9">родити.</w>
-<w n="16,9">а<lb/>ще</w>
-<w n="16,9">родитсѧ</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="16,9">вси.</w>
-<w n="16,9">въ</w>
-<w n="16,9">вре<lb/>мѧ</w>
-<w n="16,9">же</w>
-<w n="16,9">хотѧщи<hi rend="sup">м</hi></w>
-<w n="16,9">родити.</w>
-<w n="16,9">аще</w>
-<w n="16,9">родидитсѧ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="16,9">вси.</w>
-<w n="16,9">во</w>
-<w n="16,9">времѧ<hi rend="sup">ж</hi></w>
-<w n="16,9">хо<lb/>тѧщимь</w>
-<w n="16,9">родити.</w>
-<w n="16,9">аще</w>
-<w n="16,9">родитсѧ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="16,9">вси.</w>
-<w n="16,9">въ</w>
-<w n="16,9">вре<hi rend="sup">м</hi></w>
-<w n="16,9">же</w>
-<w n="16,9">хотѧ<lb/>щимъ</w>
-<w n="16,9">родити.</w>
-<w n="16,9">аще</w>
-<w n="16,9">роди<lb/>тсѧ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="16,9">вси.</w>
-<w n="16,9">въ</w>
-<w n="16,9">времѧ</w>
-<w n="16,9">же <lb/></w>
-
-<w n="16,9">хотѧщи<hi rend="sup">м</hi></w>
-<w n="16,9">р<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>ти.</w>
-<w n="16,9">аще</w>
-<w n="16,9">р<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>тсѧ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="16,9">вси.</w>
-<w n="16,9">Во</w>
-<w n="16,9">время</w>
-<w n="16,9">же</w>
-<w n="16,9">хотящимъ</w>
-<w n="16,9">родити,</w>
-<w n="16,9">аще</w>
-<w n="16,9">родится</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="16,9">вься;</w>
-<w n="16,9">въ</w>
-<w n="16,9">время</w>
-<w n="16,9">же</w>
-<w n="16,9">хотящимъ</w>
-<w n="16,9">родити,</w>
-<w n="16,9">аще</w>
-<w n="16,9">родиться</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="16,9">вси.</w>
-<w n="16,9">Во</w>
-<w n="16,9">время</w>
-<w n="16,9">же</w>
-<w n="16,9">хотящимъ</w>
-<w n="16,9">родити,</w>
-<w n="16,9">аще</w>
-<w n="16,9">родится</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>16, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="16"/><div type="block" n="9"><p><app><lem wit="#lem">
+            вьси. Въ время же хотящимъ родити, аще родить ся
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">вси во времѧ же хотѧщихъ родити. а<lb/>ще родитсѧ</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">вси. въ вре<lb/>мѧ же хотѧщи<hi rend="sup">м</hi> родити. аще родидитсѧ</rdg>
+            <rdg wit="#aka">вси. во времѧ<hi rend="sup">ж</hi> хо<lb/>тѧщимь родити. аще родитсѧ</rdg>
+            <rdg wit="#ipa">вси. въ вре<hi rend="sup">м</hi> же хотѧ<lb/>щимъ родити. аще роди<lb/>тсѧ</rdg>
+            <rdg wit="#xle">вси. въ времѧ же <lb/> хотѧщи<hi rend="sup">м</hi> р<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>ти. аще
+                    р<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>тсѧ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">вси. Во время же хотящимъ родити, аще родится</rdg><rdg wit="#shakh">вься; въ время же хотящимъ родити, аще родиться</rdg><rdg wit="#likh">вси. Во время же хотящимъ родити, аще родится</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,87 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-<w n="18,6">до</w>
-<w n="18,6">плѣнения</w>
-<w n="18,6">Иерусалимова</w>
-<w n="18,6">лѣтъ 448;</w>
-
-<w n="18,6">а</w>
-<w n="18,6">отъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="18,6">до</w>
-<w n="18,6">плѣненьꙗ</w>
-<w n="18,6">ꙗрлмлѧ.</w>
-<w n="18,6">лѣ<hi rend="sup">т</hi></w>
-<w n="18,6">.у҃.м҃.и.</w>
-<w n="18,6">а</w>
-<w n="18,6">ѿ</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-<w n="18,6">до</w>
-<w n="18,6">плененїа</w>
-<w n="18,6">иерѹ<lb/>солимова.</w>
-<w n="18,6">лѣ<hi rend="sup">т</hi></w>
-<w n="18,6">.у҃.м҃.и҃.</w>
-<w n="18,6">а</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="18,6">до</w>
-<w n="18,6">плѣ<lb/>нениꙗ</w>
-<w n="18,6">иер<hi rend="sup">с</hi>лмова.</w>
-<w n="18,6">лѣ<hi rend="sup">т</hi></w>
-<w n="18,6">.у҃.<lb/>м҃.и҃.</w>
-<w n="18,6">ѿ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="18,6">до</w>
-<w n="18,6">плененїа</w>
-<w n="18,6">іерл<hi rend="sup">с</hi>имова.</w>
-<w n="18,6">лѣ<hi rend="sup">т</hi></w>
-<w n="18,6">.у҃.м҃и. <lb/></w>
-
-<w n="18,6">а</w>
-<w n="18,6">ѿ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="18,6">до</w>
-<w n="18,6">плѣненья</w>
-<w n="18,6">Иерусалимля</w>
-<w n="18,6">лѣтъ 448;</w>
-
-<w n="18,6">а</w>
-<w n="18,6">отъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="18,6">до</w>
-<w n="18,6">плѣнения</w>
-<w n="18,6">Иерусалимля</w>
-<w n="18,6">лѣтъ 448;</w>
-
-<w n="18,6">а</w>
-<w n="18,6">отъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="18,6">до</w>
-<w n="18,6">плѣненья</w>
-<w n="18,6">Иерусалимля</w>
-<w n="18,6">лѣт 448:</w>
-
-<w n="18,6">а</w>
-<w n="18,6">от</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="6"><p><app><lem wit="#lem">
+            до плѣнения Иерусалимова лѣтъ 448; а отъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">до плѣненьꙗ ꙗрлмлѧ. лѣ<hi rend="sup">т</hi> .у҃.м҃.и. а ѿ</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">до плененїа иерѹ<lb/>солимова. лѣ<hi rend="sup">т</hi> .у҃.м҃.и҃. а</rdg>
+            <rdg wit="#ipa">до плѣ<lb/>нениꙗ иер<hi rend="sup">с</hi>лмова. лѣ<hi rend="sup">т</hi> .у҃.<lb/>м҃.и҃. ѿ</rdg>
+            <rdg wit="#xle">до плененїа іерл<hi rend="sup">с</hi>имова. лѣ<hi rend="sup">т</hi> .у҃.м҃и. <lb/> а ѿ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">до плѣненья Иерусалимля лѣтъ 448; а отъ</rdg><rdg wit="#shakh">до плѣнения Иерусалимля лѣтъ 448; а отъ</rdg><rdg wit="#likh">до плѣненья Иерусалимля лѣт 448: а от</rdg></rdgGrp></app></p></div></body></text></TEI>

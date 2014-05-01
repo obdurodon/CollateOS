@@ -1,87 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>193, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="193"/><div type="block" n="8"><p>
-<app>
-<lem wit="#lem">
-<w n="193,8">въкушению</w>
-<w n="193,8">хлѣба,</w>
-<w n="193,8">приде</w>
-<w n="193,8">Антонии</w>
-<w n="193,8">по</w>
-<w n="193,8">обычаю</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="193,8">вку<lb/>шенью</w>
-<w n="193,8">хлѣба.</w>
-<w n="193,8">приде</w>
-<w n="193,8">антони<lb/>и</w>
-<w n="193,8">по</w>
-<w n="193,8">ѡбычаю</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="193,8">вкѹшени<lb/>ю</w>
-<w n="193,8">хлѣба.</w>
-<w n="193,8">и</w>
-<w n="193,8">прииде</w>
-<w n="193,8">антонеи</w>
-<w n="193,8">по</w>
-<w n="193,8">ѡбычаю.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="193,8">оускѹшенїю <lb/></w>
-
-<w n="193,8">хлѣба.</w>
-<w n="193,8">и</w>
-<w n="193,8">прииде</w>
-<w n="193,8">антонии</w>
-<w n="193,8">по</w>
-<w n="193,8">ѡбычаю</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="193,8">вкушению</w>
-<w n="193,8">хлѣба.</w>
-<w n="193,8">и</w>
-<w n="193,8">прі<lb/>де</w>
-<w n="193,8">антонии</w>
-<w n="193,8">кь</w>
-<w n="193,8">концю</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="193,8">въкоушенїю</w>
-<w n="193,8">хлѣба.</w>
-<w n="193,8">прїиде</w>
-<w n="193,8">анто<lb/>нїи</w>
-<w n="193,8">къ</w>
-<w n="193,8">оконцю</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="193,8">вкушенью</w>
-<w n="193,8">хлѣба,</w>
-<w n="193,8">приде</w>
-<w n="193,8">Антоний</w>
-<w n="193,8">по</w>
-<w n="193,8">обычаю</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="193,8">въкушению</w>
-<w n="193,8">хлѣба,</w>
-<w n="193,8">приде</w>
-<w n="193,8">Антонии</w>
-<w n="193,8">по</w>
-<w n="193,8">обычаю</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="193,8">вкушенью</w>
-<w n="193,8">хлѣба,</w>
-<w n="193,8">приде</w>
-<w n="193,8">Антоний</w>
-<w n="193,8">по</w>
-<w n="193,8">обычаю</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>193, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="193"/><div type="block" n="8"><p><app><lem wit="#lem">
+            въкушению хлѣба, приде Антонии по обычаю
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">вку<lb/>шенью хлѣба. приде антони<lb/>и по ѡбычаю</rdg>
+            <rdg wit="#rad">вкѹшени<lb/>ю хлѣба. и прииде антонеи по ѡбычаю.</rdg>
+            <rdg wit="#aka">оускѹшенїю <lb/> хлѣба. и прииде антонии по ѡбычаю</rdg>
+            <rdg wit="#ipa">вкушению хлѣба. и прі<lb/>де антонии кь концю</rdg>
+            <rdg wit="#xle">въкоушенїю хлѣба. прїиде анто<lb/>нїи къ оконцю</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">вкушенью хлѣба, приде Антоний по обычаю</rdg><rdg wit="#shakh">въкушению хлѣба, приде Антонии по обычаю</rdg><rdg wit="#likh">вкушенью хлѣба, приде Антоний по обычаю</rdg></rdgGrp></app></p></div></body></text></TEI>

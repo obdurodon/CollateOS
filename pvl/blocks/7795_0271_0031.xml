@@ -1,87 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 31</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="271"/><div type="block" n="31"><p>
-<app>
-<lem wit="#lem">
-<w n="271,31">подъступиша</w>
-<w n="271,31">къ</w>
-<w n="271,31">граду</w>
-<w n="271,31">подъ</w>
-<w n="271,31">вежами,</w>
-<w n="271,31">онѣмъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="271,31">по<lb/>ступиша</w>
-<w n="271,31">к</w>
-<w n="271,31">граду</w>
-<w n="271,31">под</w>
-<w n="271,31">вежеми· <lb/></w>
-
-<w n="271,31">ѡвѣ<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="271,31">по<hi rend="sup">д</hi>стѹпиша <lb/></w>
-
-<w n="271,31">ко</w>
-<w n="271,31">грау<hi rend="sup">д</hi></w>
-<w n="271,31">по<hi rend="sup">д</hi></w>
-<w n="271,31">вежами.</w>
-<w n="271,31">ѡвѣ<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="271,31">по<hi rend="sup">д</hi>стѹпиша <lb/></w>
-
-<w n="271,31">ко</w>
-<w n="271,31">градѹ</w>
-<w n="271,31">по<hi rend="sup">д</hi></w>
-<w n="271,31">вежами·</w>
-<w n="271,31">ѡвѣмь</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="271,31">поустиша <lb/></w>
-
-<w n="271,31">къ</w>
-<w n="271,31">граду</w>
-<w n="271,31">подъ</w>
-<w n="271,31">вежами·</w>
-<w n="271,31">ѡнѣ<lb/>мь</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="271,31">пѡ<hi rend="sup">д</hi>стѫпиша</w>
-<w n="271,31">къ</w>
-<w n="271,31">грау<hi rend="sup">д</hi></w>
-<w n="271,31">пѡ<hi rend="sup">д</hi></w>
-<w n="271,31">вежами.</w>
-<w n="271,31">ѡн<hi rend="sup">м</hi>ѣ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="271,31">подступиша</w>
-<w n="271,31">к</w>
-<w n="271,31">граду</w>
-<w n="271,31">под</w>
-<w n="271,31">вежами,</w>
-<w n="271,31">онѣмъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="271,31">подъступиша</w>
-<w n="271,31">къ</w>
-<w n="271,31">граду</w>
-<w n="271,31">подъ</w>
-<w n="271,31">вежами;</w>
-<w n="271,31">онѣмъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="271,31">подступиша</w>
-<w n="271,31">к</w>
-<w n="271,31">граду</w>
-<w n="271,31">под</w>
-<w n="271,31">вежами,</w>
-<w n="271,31">онѣм</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 31</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="271"/><div type="block" n="31"><p><app><lem wit="#lem">
+            подъступиша къ граду подъ вежами, онѣмъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">по<lb/>ступиша к граду под вежеми· <lb/> ѡвѣ<hi rend="sup">м</hi></rdg>
+            <rdg wit="#rad">по<hi rend="sup">д</hi>стѹпиша <lb/> ко грау<hi rend="sup">д</hi> по<hi rend="sup">д</hi> вежами.
+                    ѡвѣ<hi rend="sup">м</hi></rdg>
+            <rdg wit="#aka">по<hi rend="sup">д</hi>стѹпиша <lb/> ко градѹ по<hi rend="sup">д</hi> вежами· ѡвѣмь</rdg>
+            <rdg wit="#ipa">поустиша <lb/> къ граду подъ вежами· ѡнѣ<lb/>мь</rdg>
+            <rdg wit="#xle">пѡ<hi rend="sup">д</hi>стѫпиша къ грау<hi rend="sup">д</hi> пѡ<hi rend="sup">д</hi> вежами.
+                ѡн<hi rend="sup">м</hi>ѣ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">подступиша к граду под вежами, онѣмъ</rdg><rdg wit="#shakh">подъступиша къ граду подъ вежами; онѣмъ</rdg><rdg wit="#likh">подступиша к граду под вежами, онѣм</rdg></rdgGrp></app></p></div></body></text></TEI>

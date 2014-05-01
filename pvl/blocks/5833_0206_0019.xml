@@ -1,95 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>206, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="206"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-<w n="206,19">и</w>
-<w n="206,19">блаженыи</w>
-<w n="206,19">митрополитъ</w>
-<w n="206,19">Иоанъ</w>
-<w n="206,19">и</w>
-<w n="206,19">чьрноризьци</w>
-<w n="206,19">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="206,19">и</w>
-<w n="206,19">блж҃ныи</w>
-<w n="206,19">митропо<lb/>литъ</w>
-<w n="206,19">іѡа<hi rend="sup">н</hi>.</w>
-<w n="206,19">с</w>
-<w n="206,19">черноризци.</w>
-<w n="206,19">и <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="206,19">и <lb/></w>
-
-<w n="206,19">блж҃ныи</w>
-<w n="206,19">митрополитъ</w>
-<w n="206,19">иѡ<hi rend="sup">н</hi>а.</w>
-<w n="206,19">и</w>
-<w n="206,19">чернорисци.</w>
-<w n="206,19">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="206,19">и</w>
-<w n="206,19">блжн҃ныи</w>
-<w n="206,19">митрополитъ <lb/></w>
-
-<w n="206,19">иѡанъ.</w>
-<w n="206,19">и</w>
-<w n="206,19">черноризци</w>
-<w n="206,19">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="206,19">ї</w>
-<w n="206,19">блж҃ныи</w>
-<w n="206,19">митро<lb/>политъ.</w>
-<w n="206,19">иванъ</w>
-<w n="206,19">и</w>
-<w n="206,19"><milestone unit="sic" n="start"/>ч<milestone unit="sic" n="end"/>ерно<lb/>рисци</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="206,19">и</w>
-<w n="206,19">блаженныи</w>
-<w n="206,19">митро<lb/>поли<hi rend="sup">т</hi>,</w>
-<w n="206,19">ивань.</w>
-<w n="206,19">и</w>
-<w n="206,19">черноризци.</w>
-<w n="206,19">и <pb n="94r"/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="206,19">и</w>
-<w n="206,19">блаженый</w>
-<w n="206,19">митрополитъ</w>
-<w n="206,19">Иоанъ</w>
-<w n="206,19">с</w>
-<w n="206,19">черноризци</w>
-<w n="206,19">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="206,19">и</w>
-<w n="206,19">блаженыи</w>
-<w n="206,19">митрополитъ</w>
-<w n="206,19">Иоанъ</w>
-<w n="206,19">съ</w>
-<w n="206,19">чьрноризьци</w>
-<w n="206,19">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="206,19">и</w>
-<w n="206,19">блаженый</w>
-<w n="206,19">митрополитъ</w>
-<w n="206,19">Иоан</w>
-<w n="206,19">с</w>
-<w n="206,19">черноризци</w>
-<w n="206,19">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>206, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="206"/><div type="block" n="19"><p><app><lem wit="#lem">
+            и блаженыи митрополитъ Иоанъ и чьрноризьци и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и блж҃ныи митропо<lb/>литъ іѡа<hi rend="sup">н</hi>. с черноризци. и <lb/></rdg>
+            <rdg wit="#rad">и <lb/> блж҃ныи митрополитъ иѡ<hi rend="sup">н</hi>а. и чернорисци. и</rdg>
+            <rdg wit="#aka">и блжн҃ныи митрополитъ <lb/> иѡанъ. и черноризци и</rdg>
+            <rdg wit="#ipa">ї блж҃ныи митро<lb/>политъ. иванъ и <sic>ч</sic>ерно<lb/>рисци</rdg>
+            <rdg wit="#xle">и блаженныи митро<lb/>поли<hi rend="sup">т</hi>,  ивань. и черноризци. и
+                    <pb n="94r"/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и блаженый митрополитъ Иоанъ с черноризци и</rdg><rdg wit="#shakh">и блаженыи митрополитъ Иоанъ съ чьрноризьци и</rdg><rdg wit="#likh">и блаженый митрополитъ Иоан с черноризци и</rdg></rdgGrp></app></p></div></body></text></TEI>

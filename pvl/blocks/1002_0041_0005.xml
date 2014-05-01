@@ -1,72 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>41, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="41"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="41,5">Божиимь</w>
-<w n="41,5">и</w>
-<w n="41,5">творениемь</w>
-<w n="41,5">бѣсовьскымь</w>
-<w n="41,5">бываеть,</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="41,5">б҃жьимъ <lb/></w>
-
-<w n="41,5">и</w>
-<w n="41,5">творение<hi rend="sup">м</hi></w>
-<w n="41,5">бесовьски<hi rend="sup">м</hi></w>
-<w n="41,5">бывае<hi rend="sup">т</hi>.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="41,5">б҃жиимь.</w>
-<w n="41,5">и</w>
-<w n="41,5">творенїемь</w>
-<w n="41,5">бе<lb/>совьскымъ</w>
-<w n="41,5">бываеть.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="41,5">б҃жиимъ.</w>
-<w n="41,5">и</w>
-<w n="41,5">творениемь <lb/></w>
-
-<w n="41,5">бѣсовьскымъ</w>
-<w n="41,5">бываеть. <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="41,5">б҃жїи<hi rend="sup">м</hi>.</w>
-<w n="41,5">и</w>
-<w n="41,5">творенїе<hi rend="sup">м</hi><lb/></w>
-<w n="41,5">бѣсовск<hi rend="sup">м</hi>ы</w>
-<w n="41,5">бывае<hi rend="sup">т</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="41,5">Божьимъ</w>
-<w n="41,5">и</w>
-<w n="41,5">творениемъ</w>
-<w n="41,5">бѣсовьскимъ</w>
-<w n="41,5">бываеть,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="41,5">Божиимь</w>
-<w n="41,5">и</w>
-<w n="41,5">творениемь</w>
-<w n="41,5">бѣсовьскымь</w>
-<w n="41,5">бываеть,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="41,5">божьимъ</w>
-<w n="41,5">и</w>
-<w n="41,5">творением</w>
-<w n="41,5">бѣсовьским</w>
-<w n="41,5">бываеть,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>41, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="41"/><div type="block" n="5"><p><app><lem wit="#lem">
+            Божиимь и творениемь бѣсовьскымь бываеть,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">б҃жьимъ <lb/> и творение<hi rend="sup">м</hi> бесовьски<hi rend="sup">м</hi> бывае<hi rend="sup">т</hi>.</rdg>
+            <rdg wit="#aka">б҃жиимь. и творенїемь бе<lb/>совьскымъ бываеть.</rdg>
+            <rdg wit="#ipa">б҃жиимъ. и творениемь <lb/> бѣсовьскымъ бываеть. <lb/></rdg>
+            <rdg wit="#xle">б҃жїи<hi rend="sup">м</hi>. и творенїе<hi rend="sup">м</hi>
+                <lb/> бѣсовск<hi rend="sup">м</hi>ы бывае<hi rend="sup">т</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Божьимъ и творениемъ бѣсовьскимъ бываеть,</rdg><rdg wit="#shakh">Божиимь и творениемь бѣсовьскымь бываеть,</rdg><rdg wit="#likh">божьимъ и творением бѣсовьским бываеть,</rdg></rdgGrp></app></p></div></body></text></TEI>

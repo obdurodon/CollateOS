@@ -1,77 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>36, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="36"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-<w n="36,4">епитемиею.</w>
-<w n="36,4">О</w>
-<w n="36,4">тѣхъ,</w>
-<w n="36,4">аще</w>
-<w n="36,4">полоняникъ</w>
-<w n="36,4">обою</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="36,4">епитемьею.</w>
-<w n="36,4">ѿ</w>
-<w n="36,4">тѣ<hi rend="sup">х</hi></w>
-<w n="36,4">аще</w>
-<w n="36,4">полонѧникъ</w>
-<w n="36,4">ѡбою</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="36,4">епитемьею.</w>
-<w n="36,4">ѿ</w>
-<w n="36,4">тѣ<hi rend="sup">х</hi></w>
-<w n="36,4">аще</w>
-<w n="36,4">по<lb/>лонѧнїкъ</w>
-<w n="36,4">ѡбою</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="36,4">епи<lb/>тѣмьею.</w>
-<w n="36,4">ѿ</w>
-<w n="36,4">тѣхъ</w>
-<w n="36,4">аще</w>
-<w n="36,4">по<lb/>лонѧникъ</w>
-<w n="36,4">ѡбою</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="36,4">епитемїею.</w>
-<w n="36,4">ѡ</w>
-<w n="36,4">тѣ<hi rend="sup">х</hi></w>
-<w n="36,4">аще</w>
-<w n="36,4">полонѧникь.</w>
-<w n="36,4">ѡбою</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="36,4">епитемьею</w>
-<w n="36,4">отъ</w>
-<w n="36,4">тѣхъ.</w>
-<w n="36,4">Аще</w>
-<w n="36,4">полоняникъ</w>
-<w n="36,4">обою</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="36,4">епитимиею.</w>
-<w n="36,4">О</w>
-<w n="36,4">тѣхъ,</w>
-<w n="36,4">аще</w>
-<w n="36,4">плѣньникъ</w>
-<w n="36,4">обою</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="36,4">епитемьею.</w>
-<w n="36,4">О</w>
-<w n="36,4">тѣх,</w>
-<w n="36,4">аще</w>
-<w n="36,4">полоняникъ</w>
-<w n="36,4">обою</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>36, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="36"/><div type="block" n="4"><p><app><lem wit="#lem">
+            епитемиею. О тѣхъ, аще полоняникъ обою
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">епитемьею. ѿ тѣ<hi rend="sup">х</hi> аще полонѧникъ ѡбою</rdg>
+            <rdg wit="#aka">епитемьею. ѿ тѣ<hi rend="sup">х</hi> аще по<lb/>лонѧнїкъ ѡбою</rdg>
+            <rdg wit="#ipa">епи<lb/>тѣмьею. ѿ тѣхъ аще по<lb/>лонѧникъ ѡбою</rdg>
+            <rdg wit="#xle">епитемїею. ѡ тѣ<hi rend="sup">х</hi> аще полонѧникь. ѡбою</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">епитемьею отъ тѣхъ. Аще полоняникъ обою</rdg><rdg wit="#shakh">епитимиею. О тѣхъ, аще плѣньникъ обою</rdg><rdg wit="#likh">епитемьею. О тѣх, аще полоняникъ обою</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,83 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>51, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="51"/><div type="block" n="24"><p>
-<app>
-<lem wit="#lem">
-<w n="51,24">да</w>
-<w n="51,24">дьржимъ</w>
-<w n="51,24">будеть</w>
-<w n="51,24">сътворивыи</w>
-<w n="51,24">убииство</w>
-<w n="51,24">отъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="51,24">да</w>
-<w n="51,24">держ<hi rend="sup">и</hi><lb/>мъ</w>
-<w n="51,24">будеть</w>
-<w n="51,24">створивыи</w>
-<w n="51,24">оубииство.</w>
-<w n="51,24">ѿ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="51,24">да</w>
-<w n="51,24">держемъ</w>
-<w n="51,24">бѹде<hi rend="sup">т</hi></w>
-<w n="51,24">створивы</w>
-<w n="51,24">оубииство.</w>
-<w n="51,24">ѿ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="51,24">да</w>
-<w n="51,24">держимь</w>
-<w n="51,24">бѹдеть</w>
-<w n="51,24">сотворивыи</w>
-<w n="51,24">оубїи<lb/>ство.</w>
-<w n="51,24">ѿ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="51,24">да</w>
-<w n="51,24">дѣржим<hi rend="sup">ъ</hi><lb/></w>
-<w n="51,24">будеть</w>
-<w n="51,24">створивыи</w>
-<w n="51,24">оубї<lb/>ство.</w>
-<w n="51,24">ѿ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="51,24">да</w>
-<w n="51,24">дръжи<hi rend="sup">м</hi></w>
-<w n="51,24">бѫде<hi rend="sup">т</hi></w>
-<w n="51,24">сътворивыи</w>
-<w n="51,24">оубїиство</w>
-<w n="51,24">ѿ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="51,24">да</w>
-<w n="51,24">держимъ</w>
-<w n="51,24">будеть</w>
-<w n="51,24">створивый</w>
-<w n="51,24">убийство</w>
-<w n="51,24">отъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="51,24">да</w>
-<w n="51,24">дьржимъ</w>
-<w n="51,24">будеть</w>
-<w n="51,24">сътворивыи</w>
-<w n="51,24">убииство</w>
-<w n="51,24">отъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="51,24">да</w>
-<w n="51,24">держимъ</w>
-<w n="51,24">будеть</w>
-<w n="51,24">створивый</w>
-<w n="51,24">убийство</w>
-<w n="51,24">от</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>51, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="51"/><div type="block" n="24"><p><app><lem wit="#lem">
+            да дьржимъ будеть сътворивыи убииство отъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">да держ<hi rend="sup">и</hi><lb/>мъ будеть створивыи оубииство. ѿ</rdg>
+            <rdg wit="#rad">да держемъ бѹде<hi rend="sup">т</hi> створивы оубииство. ѿ</rdg>
+            <rdg wit="#aka">да держимь бѹдеть сотворивыи оубїи<lb/>ство. ѿ</rdg>
+            <rdg wit="#ipa">да дѣржим<hi rend="sup">ъ</hi>
+                <lb/> будеть створивыи оубї<lb/>ство. ѿ</rdg>
+            <rdg wit="#xle">да дръжи<hi rend="sup">м</hi> бѫде<hi rend="sup">т</hi> сътворивыи оубїиство ѿ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">да держимъ будеть створивый убийство отъ</rdg><rdg wit="#shakh">да дьржимъ будеть сътворивыи убииство отъ</rdg><rdg wit="#likh">да держимъ будеть створивый убийство от</rdg></rdgGrp></app></p></div></body></text></TEI>

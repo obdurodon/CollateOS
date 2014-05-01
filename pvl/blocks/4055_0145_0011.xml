@@ -1,81 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>145, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="145"/><div type="block" n="11"><p>
-<app>
-<lem wit="#lem">
-<w n="145,11">землю,</w>
-<w n="145,11">гонимъ</w>
-<w n="145,11">гнѣвъмь</w>
-<w n="145,11">Божиимъ.</w>
-<w n="145,11">И</w>
-<w n="145,11">пробѣже</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="145,11">землю.</w>
-<w n="145,11">гонимъ</w>
-<w n="145,11">б҃ь<lb/>имъ</w>
-<w n="145,11">гнѣвомъ.</w>
-<w n="145,11">прибѣжа</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="145,11">землю.</w>
-<w n="145,11">и</w>
-<w n="145,11">гони<hi rend="sup">м</hi><lb/></w>
-<w n="145,11">бж҃ьимъ</w>
-<w n="145,11">гнево<hi rend="sup">м</hi>.</w>
-<w n="145,11">и</w>
-<w n="145,11">прибѣже</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="145,11">землю</w>
-<w n="145,11">гонїмъ</w>
-<w n="145,11">б҃жї<lb/>имъ</w>
-<w n="145,11">гнѣвомъ.</w>
-<w n="145,11">и</w>
-<w n="145,11">прибѣже</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="145,11">землю</w>
-<w n="145,11">гони<lb/>мъ</w>
-<w n="145,11">гнѣвомъ</w>
-<w n="145,11">б҃иимъ.</w>
-<w n="145,11">и</w>
-<w n="145,11">про<lb/>бѣже</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="145,11">зе<hi rend="sup">м</hi>лю.</w>
-<w n="145,11">гони<hi rend="sup">м</hi></w>
-<w n="145,11">гнѣвѡ<hi rend="sup">м</hi><lb/></w>
-<w n="145,11">бж҃їимь.</w>
-<w n="145,11">и</w>
-<w n="145,11">пробѣже</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="145,11">землю,</w>
-<w n="145,11">гонимъ</w>
-<w n="145,11">Божьимъ</w>
-<w n="145,11">гнѣвомъ,</w>
-<w n="145,11">прибѣжа</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="145,11">землю,</w>
-<w n="145,11">гонимъ</w>
-<w n="145,11">Божиимъ</w>
-<w n="145,11">гнѣвъмь,</w>
-<w n="145,11">и</w>
-<w n="145,11">прибѣже</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="145,11">землю,</w>
-<w n="145,11">гонимъ</w>
-<w n="145,11">божьимъ</w>
-<w n="145,11">гнѣвомъ,</w>
-<w n="145,11">прибѣжа</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>145, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="145"/><div type="block" n="11"><p><app><lem wit="#lem">
+            землю, гонимъ гнѣвъмь Божиимъ. И пробѣже
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">землю. гонимъ б҃ь<lb/>имъ гнѣвомъ. прибѣжа</rdg>
+            <rdg wit="#rad">землю. и гони<hi rend="sup">м</hi>
+                <lb/> бж҃ьимъ гнево<hi rend="sup">м</hi>. и прибѣже</rdg>
+            <rdg wit="#aka">землю гонїмъ б҃жї<lb/>имъ гнѣвомъ. и прибѣже</rdg>
+            <rdg wit="#ipa">землю гони<lb/>мъ гнѣвомъ б҃иимъ. и про<lb/>бѣже</rdg>
+            <rdg wit="#xle">зе<hi rend="sup">м</hi>лю. гони<hi rend="sup">м</hi> гнѣвѡ<hi rend="sup">м</hi>
+                <lb/> бж҃їимь. и пробѣже</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">землю, гонимъ Божьимъ гнѣвомъ, прибѣжа</rdg><rdg wit="#shakh">землю, гонимъ Божиимъ гнѣвъмь, и прибѣже</rdg><rdg wit="#likh">землю, гонимъ божьимъ гнѣвомъ, прибѣжа</rdg></rdgGrp></app></p></div></body></text></TEI>

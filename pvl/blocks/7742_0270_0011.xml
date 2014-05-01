@@ -1,82 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="270"/><div type="block" n="11"><p>
-<app>
-<lem wit="#lem">
-<w n="270,11">и</w>
-<w n="270,11">съступиша</w>
-<w n="270,11">ся</w>
-<w n="270,11">пълци,</w>
-<w n="270,11">и</w>
-<w n="270,11">мънози</w>
-<w n="270,11">человѣци</w>
-<w n="270,11">благовѣрьнии</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="270,11">и</w>
-<w n="270,11">сступиша</w>
-<w n="270,11">сѧ</w>
-<w n="270,11">полци·</w>
-<w n="270,11">и</w>
-<w n="270,11">мно<lb/>зи</w>
-<w n="270,11">члв҃ци</w>
-<w n="270,11">блг҃овѣрнии</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="270,11">и</w>
-<w n="270,11">съ<lb/>ступиша</w>
-<w n="270,11">сѧ</w>
-<w n="270,11">полци·</w>
-<w n="270,11">и</w>
-<w n="270,11">мнози <lb/></w>
-
-<w n="270,11">члвц҃и</w>
-<w n="270,11">блг҃овѣрнии</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="270,11">и</w>
-<w n="270,11">състѫпиша<hi rend="sup">с</hi></w>
-<w n="270,11">пол′ци.</w>
-<w n="270,11">и</w>
-<w n="270,11">мнѡѕи</w>
-<w n="270,11">чл҃ци</w>
-<w n="270,11">бл҃говѣр′нїи</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="270,11">и</w>
-<w n="270,11">сступишася</w>
-<w n="270,11">полци,</w>
-<w n="270,11">и</w>
-<w n="270,11">мнози</w>
-<w n="270,11">человѣци</w>
-<w n="270,11">благовѣрнии</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="270,11">и</w>
-<w n="270,11">съступишася</w>
-<w n="270,11">пълци,</w>
-<w n="270,11">и</w>
-<w n="270,11">мънози</w>
-<w n="270,11">человѣци</w>
-<w n="270,11">благовѣрьнии</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="270,11">и</w>
-<w n="270,11">сступишася</w>
-<w n="270,11">полци,</w>
-<w n="270,11">и</w>
-<w n="270,11">мнози</w>
-<w n="270,11">человѣци</w>
-<w n="270,11">благовѣрнии</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="270"/><div type="block" n="11"><p><app><lem wit="#lem">
+            и съступиша ся пълци, и мънози человѣци благовѣрьнии
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и сступиша сѧ полци· и мно<lb/>зи члв҃ци блг҃овѣрнии</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">и съ<lb/>ступиша сѧ полци· и мнози <lb/> члвц҃и блг҃овѣрнии</rdg>
+            <rdg wit="#xle">и състѫпиша<hi rend="sup">с</hi> пол′ци. и мнѡѕи чл҃ци бл҃говѣр′нїи</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и сступишася полци, и мнози человѣци благовѣрнии</rdg><rdg wit="#shakh">и съступишася пълци, и мънози человѣци благовѣрьнии</rdg><rdg wit="#likh">и сступишася полци, и мнози человѣци благовѣрнии</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,93 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>59, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="59"/><div type="block" n="29"><p>
-<app>
-<lem wit="#lem">
-<w n="59,29">овѣхъ</w>
-<w n="59,29">изби,</w>
-<w n="59,29">а</w>
-<w n="59,29">другыя</w>
-<w n="59,29">работѣ</w>
-<w n="59,29">предасть</w>
-<w n="59,29">мужемъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="59,29">ѡ<lb/>выхъ</w>
-<w n="59,29">изби.</w>
-<w n="59,29">а</w>
-<w n="59,29">другиꙗ</w>
-<w n="59,29">работѣ</w>
-<w n="59,29">предасть</w>
-<w n="59,29">муже<lb/>мъ.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="59,29">ѡвѣ<hi rend="sup">х</hi></w>
-<w n="59,29">и<lb/>збии.</w>
-<w n="59,29">а</w>
-<w n="59,29">дроугиа</w>
-<w n="59,29">предасть</w>
-<w n="59,29">работѣ</w>
-<w n="59,29">моужемъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="59,29">ѡвѣ<hi rend="sup">х</hi></w>
-<w n="59,29">изби.</w>
-<w n="59,29">а</w>
-<w n="59,29">дрѹгїа</w>
-<w n="59,29">преда<hi rend="sup">с</hi></w>
-<w n="59,29">работе.</w>
-<w n="59,29">мѹжемъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="59,29">ѡвѣхъ</w>
-<w n="59,29">изби.</w>
-<w n="59,29">а</w>
-<w n="59,29">другиꙗ <lb/></w>
-
-<w n="59,29">работѣ</w>
-<w n="59,29">преда</w>
-<w n="59,29">муже<hi rend="sup">м</hi><lb/></w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="59,29">ѡвѣ<hi rend="sup">х</hi></w>
-<w n="59,29">изби.</w>
-<w n="59,29">а</w>
-<w n="59,29">дроугыа</w>
-<w n="59,29">работѣ</w>
-<w n="59,29">преда</w>
-<w n="59,29">мѫже<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="59,29">овыхъ</w>
-<w n="59,29">изби,</w>
-<w n="59,29">а</w>
-<w n="59,29">другия</w>
-<w n="59,29">работѣ</w>
-<w n="59,29">предасть</w>
-<w n="59,29">мужемъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="59,29">овы</w>
-<w n="59,29">изби,</w>
-<w n="59,29">а</w>
-<w n="59,29">другыя</w>
-<w n="59,29">работѣ</w>
-<w n="59,29">предасть</w>
-<w n="59,29">мужемъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="59,29">овыхъ</w>
-<w n="59,29">изби,</w>
-<w n="59,29">а</w>
-<w n="59,29">другия</w>
-<w n="59,29">работѣ</w>
-<w n="59,29">предасть</w>
-<w n="59,29">мужемъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>59, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="59"/><div type="block" n="29"><p><app><lem wit="#lem">
+            овѣхъ изби, а другыя работѣ предасть мужемъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѡ<lb/>выхъ изби. а другиꙗ работѣ предасть муже<lb/>мъ.</rdg>
+            <rdg wit="#rad">ѡвѣ<hi rend="sup">х</hi> и<lb/>збии. а дроугиа предасть работѣ моужемъ</rdg>
+            <rdg wit="#aka">ѡвѣ<hi rend="sup">х</hi> изби. а дрѹгїа преда<hi rend="sup">с</hi> работе. мѹжемъ</rdg>
+            <rdg wit="#ipa">ѡвѣхъ изби. а другиꙗ <lb/> работѣ преда муже<hi rend="sup">м</hi>
+                <lb/></rdg>
+            <rdg wit="#xle">ѡвѣ<hi rend="sup">х</hi> изби. а дроугыа работѣ преда мѫже<hi rend="sup">м</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">овыхъ изби, а другия работѣ предасть мужемъ</rdg><rdg wit="#shakh">овы изби, а другыя работѣ предасть мужемъ</rdg><rdg wit="#likh">овыхъ изби, а другия работѣ предасть мужемъ</rdg></rdgGrp></app></p></div></body></text></TEI>

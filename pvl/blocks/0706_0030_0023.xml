@@ -1,116 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>30, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="30"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-
-<w n="30,23">мужь.</w>
-<w n="30,23">И</w>
-<w n="30,23">яша</w>
-<w n="30,23">ся</w>
-<w n="30,23">Грьци</w>
-<w n="30,23">по</w>
-<w n="30,23">се,</w>
-<w n="30,23">и</w>
-<w n="30,23">почаша</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-
-<w n="30,23">мужь</w>
-<w n="30,23">и</w>
-<w n="30,23">яшася</w>
-<w n="30,23">грьци</w>
-<w n="30,23">тако</w>
-<w n="30,23">и</w>
-<w n="30,23">посемь</w>
-<w n="30,23">и</w>
-<w n="30,23">почаша</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="30,23">м҃.</w>
-<w n="30,23">моужь</w>
-<w n="30,23">и</w>
-<w n="30,23">ꙗша<hi rend="sup">с</hi><lb/></w>
-<w n="30,23">греци</w>
-<w n="30,23">по</w>
-<w n="30,23">се.</w>
-<w n="30,23">и</w>
-<w n="30,23">почаша</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="30,23">.м҃.</w>
-<w n="30,23">мѹжь.</w>
-<w n="30,23">и</w>
-<w n="30,23">ꙗшасѧ</w>
-<w n="30,23">греци</w>
-<w n="30,23">по</w>
-<w n="30,23">се.</w>
-<w n="30,23">и</w>
-<w n="30,23">почаша</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="30,23">м҃.</w>
-<w n="30,23">мужь.</w>
-<w n="30,23">нѧшасѧ</w>
-<w n="30,23">грѣци <lb/></w>
-
-<w n="30,23">по</w>
-<w n="30,23">се.</w>
-<w n="30,23">и</w>
-<w n="30,23">почаша</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="30,23">м҃.</w>
-<w n="30,23">мѫ<hi rend="sup">ж</hi>.</w>
-<w n="30,23">и</w>
-<w n="30,23">яша<hi rend="sup">с</hi></w>
-<w n="30,23">греци</w>
-<w n="30,23">по</w>
-<w n="30,23">се,</w>
-<w n="30,23">и</w>
-<w n="30,23">начаша</w>
-
-</rdg>
-
-<rdg wit="#bych">
-
-<w n="30,23">мужь;</w>
-<w n="30,23">и</w>
-<w n="30,23">яшася</w>
-<w n="30,23">Греци</w>
-<w n="30,23">по</w>
-<w n="30,23">се,</w>
-<w n="30,23">и</w>
-<w n="30,23">почаша</w>
-</rdg>
-
-<rdg wit="#shakh">
-
-<w n="30,23">мужь.</w>
-<w n="30,23">И</w>
-<w n="30,23">яшася</w>
-<w n="30,23">Грьци</w>
-<w n="30,23">по</w>
-<w n="30,23">се,</w>
-<w n="30,23">и</w>
-<w n="30,23">почаша</w>
-</rdg>
-
-<rdg wit="#likh">
-
-<w n="30,23">мужь.</w>
-<w n="30,23">И</w>
-<w n="30,23">яшася</w>
-<w n="30,23">греци</w>
-<w n="30,23">по</w>
-<w n="30,23">се,</w>
-<w n="30,23">и</w>
-<w n="30,23">почаша</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>30, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="30"/><div type="block" n="23"><p><app><lem wit="#lem">
+            40 мужь. И яша ся Грьци по се, и почаша
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">40 мужь и яшася грьци тако и посемь и почаша</rdg>
+            <rdg wit="#rad">м҃. моужь и ꙗша<hi rend="sup">с</hi>
+                <lb/> греци по се. и почаша</rdg>
+            <rdg wit="#aka">.м҃. мѹжь. и ꙗшасѧ греци по се. и почаша</rdg>
+            <rdg wit="#ipa">м҃. мужь. нѧшасѧ грѣци <lb/> по се. и почаша</rdg>
+            <rdg wit="#xle">м҃. мѫ<hi rend="sup">ж</hi>. и ꙗша<hi rend="sup">с</hi> греци по се, и начаша </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">40 мужь; и яшася Греци по се, и почаша</rdg><rdg wit="#shakh">40 мужь. И яшася Грьци по се, и почаша</rdg><rdg wit="#likh">40 мужь. И яшася греци по се, и почаша</rdg></rdgGrp></app></p></div></body></text></TEI>

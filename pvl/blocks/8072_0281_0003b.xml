@@ -1,68 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>281, 3b</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="281"/><div type="block" n="3b"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="281,3b">тогоже</w>
-<w n="281,3b">лѣ<lb/>та</w>
-<w n="281,3b">пришедъ</w>
-<w n="281,3b">бонѧкъ</w>
-<w n="281,3b">зимѣ <lb/></w>
-
-<w n="281,3b">на</w>
-<w n="281,3b">зарубѣ</w>
-<w n="281,3b"><milestone unit="add" n="start" place="margin"/>и</w>
-<w n="281,3b">побѣди<milestone unit="add" n="end"/><lb/></w>
-<w n="281,3b">торкы·</w>
-<w n="281,3b">и</w>
-<w n="281,3b">береньдѣѣ· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="281,3b">того<hi rend="sup">ж</hi></w>
-<w n="281,3b">лѣта <lb/></w>
-
-<w n="281,3b">прише<hi rend="sup">д</hi></w>
-<w n="281,3b">бонѧкь</w>
-<w n="281,3b">ѕимѣ.</w>
-<w n="281,3b">на</w>
-<w n="281,3b">зароубѣ</w>
-<w n="281,3b">на</w>
-<w n="281,3b">торкы, <lb/></w>
-
-<w n="281,3b">и</w>
-<w n="281,3b">берендеѧ.</w>
-</rdg>
-
-<rdg wit="#bych">
-</rdg>
-
-<rdg wit="#shakh">
-<w n="281,3b">Тогоже</w>
-<w n="281,3b">лѣта</w>
-<w n="281,3b">пришьдъ</w>
-<w n="281,3b">Бонякъ</w>
-<w n="281,3b">зимѣ,</w>
-<w n="281,3b">и</w>
-<w n="281,3b">побѣди</w>
-<w n="281,3b">на</w>
-<w n="281,3b">Зарубѣ</w>
-<w n="281,3b">Търкы</w>
-<w n="281,3b">и</w>
-<w n="281,3b">Берендѣѣ.]</w>
-</rdg>
-
-<rdg wit="#likh">
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>281, 3b</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="281"/><div type="block" n="3b"><p><app><lem wit="#lem">
+            
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">тогоже лѣ<lb/>та пришедъ бонѧкъ зимѣ <lb/> на зарубѣ <add place="margin">и
+                    побѣди</add><lb/> торкы· и береньдѣѣ· <lb/></rdg>
+            <rdg wit="#xle">того<hi rend="sup">ж</hi> лѣта <lb/> прише<hi rend="sup">д</hi> бонѧкь ѕимѣ. на зароубѣ на торкы,
+                <lb/> и берендеѧ.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych"/><rdg wit="#shakh">Тогоже лѣта пришьдъ Бонякъ зимѣ, и побѣди на Зарубѣ Търкы и Берендѣѣ.]</rdg><rdg wit="#likh"/></rdgGrp></app></p></div></body></text></TEI>

@@ -1,89 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>210, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="210"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="210,9">възьмъ</w>
-<w n="210,9">рогалию</w>
-<w n="210,9">начахъ</w>
-<w n="210,9">рамяно</w>
-<w n="210,9">копати,</w>
-<w n="210,9">другу</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="210,9">вземъ</w>
-<w n="210,9">рогаль<lb/>ю</w>
-<w n="210,9">нача<hi rend="sup">х</hi></w>
-<w n="210,9">копати</w>
-<w n="210,9">рамено.</w>
-<w n="210,9">и</w>
-<w n="210,9">дру<lb/>гу</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="210,9">вземъ</w>
-<w n="210,9">рогалию.</w>
-<w n="210,9">нача<hi rend="sup">х</hi><lb/></w>
-<w n="210,9">рамено</w>
-<w n="210,9">копати.</w>
-<w n="210,9">а</w>
-<w n="210,9">дроу<hi rend="sup">г</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="210,9">взе<lb/>мь</w>
-<w n="210,9">рогалию.</w>
-<w n="210,9">нача<hi rend="sup">х</hi></w>
-<w n="210,9">рамено</w>
-<w n="210,9">копати.</w>
-<w n="210,9">а</w>
-<w n="210,9">дрѹгѹ <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="210,9">вземь</w>
-<w n="210,9">рукалью</w>
-<w n="210,9">на<lb/>чахъ</w>
-<w n="210,9">рамѧно</w>
-<w n="210,9">копати.</w>
-<w n="210,9">дру<lb/>гу</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="210,9">възе<hi rend="sup">м</hi></w>
-<w n="210,9">рѫкалїю</w>
-<w n="210,9">начѧ<hi rend="sup">х</hi><lb/></w>
-<w n="210,9">рамѧно</w>
-<w n="210,9">копати.</w>
-<w n="210,9">дроугоу</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="210,9">вземъ</w>
-<w n="210,9">рогалью</w>
-<w n="210,9">начахъ</w>
-<w n="210,9">копати</w>
-<w n="210,9">рамено,</w>
-<w n="210,9">и</w>
-<w n="210,9">другу</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="210,9">възьмъ</w>
-<w n="210,9">рогалию,</w>
-<w n="210,9">начахъ</w>
-<w n="210,9">копати</w>
-<w n="210,9">рамяно,</w>
-<w n="210,9">другу</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="210,9">вземъ</w>
-<w n="210,9">рогалью</w>
-<w n="210,9">начах</w>
-<w n="210,9">копати</w>
-<w n="210,9">рамено,</w>
-<w n="210,9">и</w>
-<w n="210,9">другу</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>210, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="210"/><div type="block" n="9"><p><app><lem wit="#lem">
+            възьмъ рогалию начахъ рамяно копати, другу
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">вземъ рогаль<lb/>ю нача<hi rend="sup">х</hi> копати рамено. и дру<lb/>гу</rdg>
+            <rdg wit="#rad">вземъ рогалию. нача<hi rend="sup">х</hi>
+                <lb/> рамено копати. а дроу<hi rend="sup">г</hi></rdg>
+            <rdg wit="#aka">взе<lb/>мь рогалию. нача<hi rend="sup">х</hi> рамено копати. а дрѹгѹ <lb/></rdg>
+            <rdg wit="#ipa">вземь рукалью на<lb/>чахъ рамѧно копати. дру<lb/>гу</rdg>
+            <rdg wit="#xle">възе<hi rend="sup">м</hi> рѫкалїю начѧ<hi rend="sup">х</hi>
+                <lb/> рамѧно копати. дроугоу</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">вземъ рогалью начахъ копати рамено, и другу</rdg><rdg wit="#shakh">възьмъ рогалию, начахъ копати рамяно, другу</rdg><rdg wit="#likh">вземъ рогалью начах копати рамено, и другу</rdg></rdgGrp></app></p></div></body></text></TEI>

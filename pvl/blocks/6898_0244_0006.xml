@@ -1,51 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>244, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="244"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="244,6">не <lb/></w>
-
-<w n="244,6">бо</w>
-<w n="244,6">суть</w>
-<w n="244,6">тѧжка·</w>
-<w n="244,6">ни</w>
-<w n="244,6">ѡдиночь<lb/>ство·</w>
-<w n="244,6">ни</w>
-<w n="244,6">чернечьство·</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="244,6">не</w>
-<w n="244,6">бо</w>
-<w n="244,6">суть</w>
-<w n="244,6">тяжка;</w>
-<w n="244,6">ни</w>
-<w n="244,6">одиночьство,</w>
-<w n="244,6">ни</w>
-<w n="244,6">чернечьство,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="244,6">не</w>
-<w n="244,6">бо</w>
-<w n="244,6">суть</w>
-<w n="244,6">тяжка;</w>
-<w n="244,6">ни</w>
-<w n="244,6">одиночьство,</w>
-<w n="244,6">ни</w>
-<w n="244,6">чернечьство,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>244, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="244"/><div type="block" n="6"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">не <lb/> бо суть тѧжка· ни ѡдиночь<lb/>ство· ни чернечьство·</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">не бо суть тяжка; ни одиночьство, ни чернечьство,</rdg><rdg wit="#likh">не бо суть тяжка; ни одиночьство, ни чернечьство,</rdg></rdgGrp></app></p></div></body></text></TEI>

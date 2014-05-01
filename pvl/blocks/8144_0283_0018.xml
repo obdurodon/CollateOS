@@ -1,93 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>283, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="283"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="283,18">въписаша,</w>
-<w n="283,18">и</w>
-<w n="283,18">поминають</w>
-<w n="283,18">его</w>
-<w n="283,18">въ</w>
-<w n="283,18">вьсѣхъ</w>
-<w n="283,18">съборехъ.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="283,18">вписа<lb/>ша·</w>
-<w n="283,18">и</w>
-<w n="283,18">поминати</w>
-<w n="283,18">и</w>
-<w n="283,18">на</w>
-<w n="283,18">вс<hi rend="sup">х</hi>ѣ</w>
-<w n="283,18">збо<lb/>рѣхъ·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="283,18">въпиша.</w>
-<w n="283,18">и</w>
-<w n="283,18">поминаю<hi rend="sup">т</hi></w>
-<w n="283,18">и</w>
-<w n="283,18">на</w>
-<w n="283,18">вс<hi rend="sup">х</hi>ѣ</w>
-<w n="283,18">собо<lb/>ре<hi rend="sup">х</hi>·</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="283,18">вопи<milestone unit="add" n="start" place="margin"/>са<milestone unit="add" n="end"/>ша·</w>
-<w n="283,18">и</w>
-<w n="283,18">по<lb/>минаютъ</w>
-<w n="283,18">и</w>
-<w n="283,18">на</w>
-<w n="283,18">вс<hi rend="sup">х</hi>ѣ</w>
-<w n="283,18">соборе<hi rend="sup">х</hi>·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="283,18">вписаша·</w>
-<w n="283,18">и</w>
-<w n="283,18">поминають</w>
-<w n="283,18">его <lb/></w>
-
-<w n="283,18">во</w>
-<w n="283,18">всѣхъ</w>
-<w n="283,18">сборѣхъ·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="283,18">вписаша.</w>
-<w n="283,18">и</w>
-<w n="283,18">поминаю<hi rend="sup">т</hi></w>
-<w n="283,18">его</w>
-<w n="283,18">въ</w>
-<w n="283,18">вс<hi rend="sup">х</hi>ѣ</w>
-<w n="283,18">съборе<hi rend="sup">х</hi><pb n="122v"/></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="283,18">вписаша,</w>
-<w n="283,18">и</w>
-<w n="283,18">поминати</w>
-<w n="283,18">и</w>
-<w n="283,18">на</w>
-<w n="283,18">всѣхъ</w>
-<w n="283,18">соборехъ.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="283,18">въписаша,</w>
-<w n="283,18">и</w>
-<w n="283,18">поминають</w>
-<w n="283,18">и</w>
-<w n="283,18">на</w>
-<w n="283,18">вьсѣхъ</w>
-<w n="283,18">съборехъ.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="283,18">вписаша,</w>
-<w n="283,18">и</w>
-<w n="283,18">поминати</w>
-<w n="283,18">и</w>
-<w n="283,18">на</w>
-<w n="283,18">всѣх</w>
-<w n="283,18">соборехъ.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>283, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="283"/><div type="block" n="18"><p><app><lem wit="#lem">
+            въписаша, и поминають его въ вьсѣхъ съборехъ.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">вписа<lb/>ша· и поминати и на вс<hi rend="sup">х</hi>ѣ збо<lb/>рѣхъ·</rdg>
+            <rdg wit="#rad">въпиша. и поминаю<hi rend="sup">т</hi> и на вс<hi rend="sup">х</hi>ѣ собо<lb/>ре<hi rend="sup">х</hi>·</rdg>
+            <rdg wit="#aka">вопи<add place="margin">са</add>ша· и по<lb/>минаютъ и на вс<hi rend="sup">х</hi>ѣ
+                    соборе<hi rend="sup">х</hi>·</rdg>
+            <rdg wit="#ipa">вписаша· и поминають его <lb/> во всѣхъ сборѣхъ·</rdg>
+            <rdg wit="#xle">вписаша. и поминаю<hi rend="sup">т</hi> его въ вс<hi rend="sup">х</hi>ѣ съборе<hi rend="sup">х</hi>
+                <pb n="122v"/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">вписаша, и поминати и на всѣхъ соборехъ.</rdg><rdg wit="#shakh">въписаша, и поминають и на вьсѣхъ съборехъ.</rdg><rdg wit="#likh">вписаша, и поминати и на всѣх соборехъ.</rdg></rdgGrp></app></p></div></body></text></TEI>

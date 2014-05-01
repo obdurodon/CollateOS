@@ -1,88 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>257, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="257"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-<w n="257,6">Теребовль</w>
-<w n="257,6">Василькови”.</w>
-<w n="257,6">И</w>
-<w n="257,6">на</w>
-<w n="257,6">томь</w>
-<w n="257,6">цѣловаша</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="257,6">теребовль</w>
-<w n="257,6"><hi rend="sup">и</hi></w>
-<w n="257,6">васи<lb/>лкови·</w>
-<w n="257,6">и</w>
-<w n="257,6">на</w>
-<w n="257,6">то<hi rend="sup">м</hi></w>
-<w n="257,6">цѣловаша</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="257,6">те<lb/>ребовль.</w>
-<w n="257,6">и</w>
-<w n="257,6">василкови·</w>
-<w n="257,6">на</w>
-<w n="257,6">то<hi rend="sup">м</hi></w>
-<w n="257,6">целоваша·</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="257,6">теребовль·</w>
-<w n="257,6">и</w>
-<w n="257,6">василькови·</w>
-<w n="257,6">на</w>
-<w n="257,6">томъ <lb/></w>
-
-<w n="257,6">целоваше</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="257,6">тере<lb/>бовлъ·</w>
-<w n="257,6">и</w>
-<w n="257,6">василкови·</w>
-<w n="257,6">и</w>
-<w n="257,6">на</w>
-<w n="257,6">томъ <lb/></w>
-
-<w n="257,6">цѣловаша</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="257,6">теребовль,</w>
-<w n="257,6">и</w>
-<w n="257,6">васил′кови.</w>
-<w n="257,6">и</w>
-<w n="257,6">на</w>
-<w n="257,6">то<hi rend="sup">м</hi></w>
-<w n="257,6">цѣловаша</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="257,6">Теребовль</w>
-<w n="257,6">Василкови”.</w>
-<w n="257,6">И</w>
-<w n="257,6">на</w>
-<w n="257,6">томъ</w>
-<w n="257,6">цѣловаша</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="257,6">Теребовль</w>
-<w n="257,6">Василькови”.</w>
-<w n="257,6">И</w>
-<w n="257,6">на</w>
-<w n="257,6">томь</w>
-<w n="257,6">цѣловаша</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="257,6">Теребовль</w>
-<w n="257,6">Василкови”.</w>
-<w n="257,6">И</w>
-<w n="257,6">на</w>
-<w n="257,6">том</w>
-<w n="257,6">цѣловаша</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>257, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="257"/><div type="block" n="6"><p><app><lem wit="#lem">
+            Теребовль Василькови”. И на томь цѣловаша
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">теребовль <hi rend="sup">и</hi> васи<lb/>лкови· и на то<hi rend="sup">м</hi> цѣловаша</rdg>
+            <rdg wit="#rad">те<lb/>ребовль. и василкови· на то<hi rend="sup">м</hi> целоваша·</rdg>
+            <rdg wit="#aka">теребовль· и василькови· на томъ <lb/> целоваше</rdg>
+            <rdg wit="#ipa">тере<lb/>бовлъ· и василкови· и на томъ <lb/> цѣловаша</rdg>
+            <rdg wit="#xle">теребовль, и васил′кови. и на то<hi rend="sup">м</hi> цѣловаша</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Теребовль Василкови”. И на томъ цѣловаша</rdg><rdg wit="#shakh">Теребовль Василькови”. И на томь цѣловаша</rdg><rdg wit="#likh">Теребовль Василкови”. И на том цѣловаша</rdg></rdgGrp></app></p></div></body></text></TEI>

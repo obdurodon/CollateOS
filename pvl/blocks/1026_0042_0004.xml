@@ -1,97 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>42, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="42"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-<w n="42,4">Ользѣ.</w>
-<w n="42,4">Въ</w>
-<w n="42,4">се</w>
-<w n="42,4">же</w>
-<w n="42,4">время</w>
-<w n="42,4">поча</w>
-<w n="42,4">цьсарьствовати</w>
-<w n="42,4">Костянтинъ,</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="42,4">ѡлзѣ.</w>
-<w n="42,4">в</w>
-<w n="42,4">се</w>
-<w n="42,4">же</w>
-<w n="42,4">времѧ <lb/></w>
-
-<w n="42,4">поча</w>
-<w n="42,4">ц҃рьствовати</w>
-<w n="42,4">костѧнтинъ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="42,4">ѡлзѣ. <lb/></w>
-
-<w n="42,4">в</w>
-<w n="42,4">се</w>
-<w n="42,4">же</w>
-<w n="42,4">времѧ</w>
-<w n="42,4">поча</w>
-<w n="42,4">црт<hi rend="sup">с</hi>вовати</w>
-<w n="42,4">костѧнтиъ. <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="42,4">ѡльзѣ.</w>
-<w n="42,4">в</w>
-<w n="42,4">се <lb/></w>
-
-<w n="42,4">же</w>
-<w n="42,4">времѧ.</w>
-<w n="42,4">поча</w>
-<w n="42,4">ц<hi rend="sup">с</hi>ртвова<lb/>ти</w>
-<w n="42,4">костѧнтинъ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="42,4">ѡлгѣ.</w>
-<w n="42,4">в</w>
-<w n="42,4">се</w>
-<w n="42,4">же</w>
-<w n="42,4">времѧ</w>
-<w n="42,4">поча</w>
-<w n="42,4">црт<hi rend="sup">с</hi>вовати <lb/></w>
-
-<w n="42,4">костѧнтинь.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="42,4">Олзѣ.</w>
-<w n="42,4">В</w>
-<w n="42,4">се</w>
-<w n="42,4">же</w>
-<w n="42,4">время</w>
-<w n="42,4">поча</w>
-<w n="42,4">царьствовати</w>
-<w n="42,4">Костянтинъ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="42,4">Ользѣ.</w>
-<w n="42,4">Въ</w>
-<w n="42,4">сеже</w>
-<w n="42,4">время</w>
-<w n="42,4">поча</w>
-<w n="42,4">цѣсарьствовати</w>
-<w n="42,4">Костянтинъ,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="42,4">Олзѣ.</w>
-<w n="42,4">В</w>
-<w n="42,4">се</w>
-<w n="42,4">же</w>
-<w n="42,4">время</w>
-<w n="42,4">поча</w>
-<w n="42,4">царьствовати</w>
-<w n="42,4">Костянтинъ,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>42, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="42"/><div type="block" n="4"><p><app><lem wit="#lem">
+            Ользѣ. Въ се же время поча цьсарьствовати Костянтинъ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">ѡлзѣ. в се же времѧ <lb/> поча ц҃рьствовати костѧнтинъ.</rdg>
+            <rdg wit="#aka">ѡлзѣ. <lb/> в се же времѧ поча црт<hi rend="sup">с</hi>вовати костѧнтиъ. <lb/></rdg>
+            <rdg wit="#ipa">ѡльзѣ. в се <lb/> же времѧ. поча ц<hi rend="sup">с</hi>ртвова<lb/>ти костѧнтинъ.</rdg>
+            <rdg wit="#xle">ѡлгѣ. в се же времѧ поча црт<hi rend="sup">с</hi>вовати <lb/> костѧнтинь.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Олзѣ. В се же время поча царьствовати Костянтинъ,</rdg><rdg wit="#shakh">Ользѣ. Въ сеже время поча цѣсарьствовати Костянтинъ,</rdg><rdg wit="#likh">Олзѣ. В се же время поча царьствовати Костянтинъ,</rdg></rdgGrp></app></p></div></body></text></TEI>

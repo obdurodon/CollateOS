@@ -1,89 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>146, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="146"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="146,1">Ламехъ</w>
-<w n="146,1">къ</w>
-<w n="146,1">своима</w>
-<w n="146,1">женама:</w>
-<w n="146,1">мужа</w>
-<w n="146,1">убихъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="146,1">ламе<lb/>хъ</w>
-<w n="146,1">къ</w>
-<w n="146,1">своима</w>
-<w n="146,1">женома.</w>
-<w n="146,1">мужа <lb/></w>
-
-<w n="146,1">оубихъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="146,1">ламе<hi rend="sup">х</hi></w>
-<w n="146,1">ко</w>
-<w n="146,1">своима</w>
-<w n="146,1">жона<hi rend="sup">м</hi>.</w>
-<w n="146,1">моу<hi rend="sup">ж</hi></w>
-<w n="146,1">оуби<hi rend="sup">х</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="146,1">ламе<hi rend="sup">х</hi></w>
-<w n="146,1">ко</w>
-<w n="146,1">своима</w>
-<w n="146,1">женама.</w>
-<w n="146,1">мѹжа <lb/></w>
-
-<w n="146,1">оуби<hi rend="sup">х</hi></w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="146,1">ламехъ</w>
-<w n="146,1">своима</w>
-<w n="146,1">женама. <lb/></w>
-
-<w n="146,1">мужа</w>
-<w n="146,1">оубихъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="146,1">ламе<hi rend="sup">х</hi></w>
-<w n="146,1">къ</w>
-<w n="146,1">своима <lb/></w>
-
-<w n="146,1">женама.</w>
-<w n="146,1">мѫжа</w>
-<w n="146,1">оуби<hi rend="sup">х</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="146,1">Ламехъ</w>
-<w n="146,1">къ</w>
-<w n="146,1">своима</w>
-<w n="146,1">женама:</w>
-<w n="146,1">мужа</w>
-<w n="146,1">убихъ <pb n="142,10"/></w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="146,1">Ламехъ</w>
-<w n="146,1">къ</w>
-<w n="146,1">своима</w>
-<w n="146,1">женама:</w>
-<w n="146,1">мужа</w>
-<w n="146,1">убихъ <pb n="185,13"/></w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="146,1">Ламехъ</w>
-<w n="146,1">къ</w>
-<w n="146,1">своима</w>
-<w n="146,1">женама:</w>
-<w n="146,1">мужа</w>
-<w n="146,1">убихъ <pb n="98,27"/></w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>146, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="146"/><div type="block" n="1"><p><app><lem wit="#lem">
+            Ламехъ къ своима женама: мужа убихъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ламе<lb/>хъ къ своима женома. мужа <lb/> оубихъ</rdg>
+            <rdg wit="#rad">ламе<hi rend="sup">х</hi> ко своима жона<hi rend="sup">м</hi>. моу<hi rend="sup">ж</hi> оуби<hi rend="sup">х</hi></rdg>
+            <rdg wit="#aka">ламе<hi rend="sup">х</hi> ко своима женама. мѹжа <lb/> оуби<hi rend="sup">х</hi></rdg>
+            <rdg wit="#ipa">ламехъ своима женама. <lb/> мужа оубихъ</rdg>
+            <rdg wit="#xle">ламе<hi rend="sup">х</hi> къ своима <lb/> женама. мѫжа оуби<hi rend="sup">х</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Ламехъ къ своима женама: мужа убихъ <pb n="142,10"/></rdg><rdg wit="#shakh">Ламехъ къ своима женама: мужа убихъ <pb n="185,13"/></rdg><rdg wit="#likh">Ламехъ къ своима женама: мужа убихъ <pb n="98,27"/></rdg></rdgGrp></app></p></div></body></text></TEI>

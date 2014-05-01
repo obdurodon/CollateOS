@@ -1,81 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>213, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="213"/><div type="block" n="28"><p>
-<app>
-<lem wit="#lem">
-<w n="213,28">великому</w>
-<w n="213,28">Феодосию</w>
-<w n="213,28">житиемь</w>
-<w n="213,28">и</w>
-<w n="213,28">нравъмь,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="213,28">великому</w>
-<w n="213,28">ѳе<lb/>ѡдосью·</w>
-<w n="213,28">нравомь</w>
-<w n="213,28">и</w>
-<w n="213,28">житьѥмь <lb/></w>
-
-<w n="213,28">подобѧсѧ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="213,28">великомѹ</w>
-<w n="213,28">феѡ<hi rend="sup">д</hi>сию.</w>
-<w n="213,28">житьемъ.</w>
-<w n="213,28">и</w>
-<w n="213,28">нравомъ·</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="213,28">великомѹ</w>
-<w n="213,28">феѡдосью</w>
-<w n="213,28">житьемь <lb/></w>
-
-<w n="213,28">и</w>
-<w n="213,28">нравомъ·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="213,28">великому <lb/></w>
-
-<w n="213,28">федосью</w>
-<w n="213,28">житьемь</w>
-<w n="213,28">и</w>
-<w n="213,28">нраво<lb/>мь·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="213,28">вели<lb/>комоу</w>
-<w n="213,28">ѳе<hi rend="sup">д</hi>ѡ<hi rend="sup">о</hi>сїю</w>
-<w n="213,28">житїемь</w>
-<w n="213,28">и</w>
-<w n="213,28">нравѡ<hi rend="sup">м</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="213,28">великому</w>
-<w n="213,28">Феодосью</w>
-<w n="213,28">нравомь</w>
-<w n="213,28">и</w>
-<w n="213,28">житьемь,</w>
-<w n="213,28">подобяся</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="213,28">великому</w>
-<w n="213,28">Феодосию</w>
-<w n="213,28">нравъмь</w>
-<w n="213,28">и</w>
-<w n="213,28">житиемь,</w>
-<w n="213,28">подобяся</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="213,28">великому</w>
-<w n="213,28">Феодосью</w>
-<w n="213,28">нравомь</w>
-<w n="213,28">и</w>
-<w n="213,28">житьемь,</w>
-<w n="213,28">подобяся</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>213, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="213"/><div type="block" n="28"><p><app><lem wit="#lem">
+            великому Феодосию житиемь и нравъмь,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">великому ѳе<lb/>ѡдосью· нравомь и житьѥмь <lb/> подобѧсѧ</rdg>
+            <rdg wit="#rad">великомѹ феѡ<hi rend="sup">д</hi>сию. житьемъ. и нравомъ·</rdg>
+            <rdg wit="#aka">великомѹ феѡдосью житьемь <lb/> и нравомъ·</rdg>
+            <rdg wit="#ipa">великому <lb/> федосью житьемь и нраво<lb/>мь·</rdg>
+            <rdg wit="#xle">вели<lb/>комоу ѳе<hi rend="sup">д</hi>ѡ<hi rend="sup">о</hi>сїю житїемь и нравѡ<hi rend="sup">м</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">великому Феодосью нравомь и житьемь, подобяся</rdg><rdg wit="#shakh">великому Феодосию нравъмь и житиемь, подобяся</rdg><rdg wit="#likh">великому Феодосью нравомь и житьемь, подобяся</rdg></rdgGrp></app></p></div></body></text></TEI>

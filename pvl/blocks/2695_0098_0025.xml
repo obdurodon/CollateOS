@@ -1,85 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>98, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="98"/><div type="block" n="25"><p>
-<app>
-<lem wit="#lem">
-<w n="98,25">на</w>
-<w n="98,25">вьсякомь</w>
-<w n="98,25">мѣстѣ</w>
-<w n="98,25">приносить</w>
-<w n="98,25">ся</w>
-<w n="98,25">кадило</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="98,25">на</w>
-<w n="98,25">всѧкомь</w>
-<w n="98,25">мѣстѣ</w>
-<w n="98,25">приноситьсѧ.</w>
-<w n="98,25">ка<lb/>дила</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="98,25">на</w>
-<w n="98,25">всѧ<lb/>ко<hi rend="sup">м</hi></w>
-<w n="98,25">мѣсте</w>
-<w n="98,25">приносѧ<hi rend="sup">т</hi></w>
-<w n="98,25">кадил<milestone unit="sic" n="start"/>а<milestone unit="sic" n="end"/></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="98,25">на</w>
-<w n="98,25">всѧ<lb/>комь</w>
-<w n="98,25">мѣсте</w>
-<w n="98,25">приносѧть</w>
-<w n="98,25">кадила</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="98,25">на</w>
-<w n="98,25">всѧ<lb/>ко<hi rend="sup">м</hi></w>
-<w n="98,25">мѣстѣ</w>
-<w n="98,25">приноситсѧ <lb/></w>
-
-<w n="98,25">кадило</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="98,25">на</w>
-<w n="98,25">всѧко<hi rend="sup">м</hi></w>
-<w n="98,25">мѣсти</w>
-<w n="98,25">приноситсѧ</w>
-<w n="98,25">кандило <lb/></w>
-
-</rdg>
-
-<rdg wit="#kom">
-<w n="98,25">на</w>
-<w n="98,25">всꙗкомъ</w>
-<w n="98,25">мѣстѣ</w>
-<w n="98,25">принесетсꙗ</w>
-<w n="98,25">кадило</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="98,25">на</w>
-<w n="98,25">всякомь</w>
-<w n="98,25">мѣстѣ</w>
-<w n="98,25">приноситься</w>
-<w n="98,25">кадила</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="98,25">на</w>
-<w n="98,25">вьсякомь</w>
-<w n="98,25">мѣстѣ</w>
-<w n="98,25">приноситься</w>
-<w n="98,25">кадило</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="98,25">на</w>
-<w n="98,25">всякомь</w>
-<w n="98,25">мѣстѣ</w>
-<w n="98,25">приноситься</w>
-<w n="98,25">кадила</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>98, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="98"/><div type="block" n="25"><p><app><lem wit="#lem">
+            на вьсякомь мѣстѣ приносить ся кадило
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">на всѧкомь мѣстѣ приноситьсѧ. ка<lb/>дила</rdg>
+            <rdg wit="#rad">на всѧ<lb/>ко<hi rend="sup">м</hi> мѣсте приносѧ<hi rend="sup">т</hi> кадил<sic>а</sic></rdg>
+            <rdg wit="#aka">на всѧ<lb/>комь мѣсте приносѧть кадила</rdg>
+            <rdg wit="#ipa">на всѧ<lb/>ко<hi rend="sup">м</hi> мѣстѣ приноситсѧ <lb/> кадило</rdg>
+            <rdg wit="#xle">на всѧко<hi rend="sup">м</hi> мѣсти приноситсѧ кандило <lb/></rdg>
+            <rdg wit="#kom">на всꙗкомъ мѣстѣ принесетсꙗ кадило</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">на всякомь мѣстѣ приноситься кадила</rdg><rdg wit="#shakh">на вьсякомь мѣстѣ приноситься кадило</rdg><rdg wit="#likh">на всякомь мѣстѣ приноситься кадила</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,92 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>31, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="31"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="31,22">странѣ</w>
-<w n="31,22">нашеи;</w>
-<w n="31,22">приходяще</w>
-<w n="31,22">Русь</w>
-<w n="31,22">да</w>
-<w n="31,22">витають</w>
-<w n="31,22">у</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="31,22">странѣ</w>
-<w n="31,22">нашеи</w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="31,22">странѣ</w>
-<w n="31,22">нашеи.</w>
-<w n="31,22">приходѧще</w>
-<w n="31,22">роу<hi rend="sup">с</hi></w>
-<w n="31,22">да</w>
-<w n="31,22">витаю<hi rend="sup">т</hi><lb/></w>
-<w n="31,22">оу</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="31,22">странѣ</w>
-<w n="31,22">нашеи.</w>
-<w n="31,22">прихо<lb/>дѧще</w>
-<w n="31,22">рѹ<hi rend="sup">с</hi></w>
-<w n="31,22">да</w>
-<w n="31,22">витаютъ</w>
-<w n="31,22">оу</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="31,22">странѣ</w>
-<w n="31,22">нашеи.</w>
-<w n="31,22">пр<hi rend="sup">и</hi><lb/>ходѧщии</w>
-<w n="31,22">русь</w>
-<w n="31,22">да</w>
-<w n="31,22">витаю<hi rend="sup">т</hi><lb/></w>
-<w n="31,22">оу</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="31,22">странѣ</w>
-<w n="31,22">нашеи.</w>
-<w n="31,22">приходѧщеи <lb/></w>
-
-<w n="31,22">роу<hi rend="sup">с</hi></w>
-<w n="31,22">да</w>
-<w n="31,22">витаю<hi rend="sup">т</hi></w>
-<w n="31,22">оу</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="31,22">странѣ</w>
-<w n="31,22">нашей;</w>
-<w n="31,22">приходяще</w>
-<w n="31,22">Русь</w>
-<w n="31,22">да</w>
-<w n="31,22">витають</w>
-<w n="31,22">у</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="31,22">странѣ</w>
-<w n="31,22">нашеи;</w>
-<w n="31,22">приходяще</w>
-<w n="31,22">Русь</w>
-<w n="31,22">да</w>
-<w n="31,22">витають</w>
-<w n="31,22">у</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="31,22">странѣ</w>
-<w n="31,22">нашей.</w>
-<w n="31,22">Приходяще</w>
-<w n="31,22">Русь</w>
-<w n="31,22">да</w>
-<w n="31,22">витают</w>
-<w n="31,22">у</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>31, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="31"/><div type="block" n="22"><p><app><lem wit="#lem">
+            странѣ нашеи; приходяще Русь да витають у
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">странѣ нашеи </rdg>
+            <rdg wit="#rad">странѣ нашеи. приходѧще роу<hi rend="sup">с</hi> да витаю<hi rend="sup">т</hi><lb/> оу</rdg>
+            <rdg wit="#aka">странѣ нашеи. прихо<lb/>дѧще рѹ<hi rend="sup">с</hi> да витаютъ оу</rdg>
+            <rdg wit="#ipa">странѣ нашеи. пр<hi rend="sup">и</hi><lb/>ходѧщии русь да витаю<hi rend="sup">т</hi><lb/> оу</rdg>
+            <rdg wit="#xle">странѣ нашеи. приходѧщеи <lb/> роу<hi rend="sup">с</hi> да витаю<hi rend="sup">т</hi> оу</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">странѣ нашей; приходяще Русь да витають у</rdg><rdg wit="#shakh">странѣ нашеи; приходяще Русь да витають у</rdg><rdg wit="#likh">странѣ нашей. Приходяще Русь да витают у</rdg></rdgGrp></app></p></div></body></text></TEI>

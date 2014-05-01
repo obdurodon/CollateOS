@@ -1,97 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="271"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="271,22">гъна</w>
-<w n="271,22">по</w>
-<w n="271,22">нихъ 2</w>
-
-<w n="271,22">дьни,</w>
-<w n="271,22">сѣкуще.</w>
-<w n="271,22">Туже</w>
-<w n="271,22">убиша</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="271,22">гнаша</w>
-<w n="271,22">по</w>
-<w n="271,22">ни<hi rend="sup">х</hi></w>
-<w n="271,22">·в҃·</w>
-<w n="271,22">дн҃и</w>
-<w n="271,22">сѣ<lb/>куще .</w>
-
-<w n="271,22">туже</w>
-<w n="271,22">оубиша</w>
-<w n="271,22">и</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="271,22">гна</w>
-<w n="271,22">по</w>
-<w n="271,22">нихъ</w>
-<w n="271,22"><milestone unit="sic" n="start"/>·в҃·<milestone unit="sic" n="end"/></w>
-<w n="271,22">два</w>
-<w n="271,22">дн҃и <lb/></w>
-
-<w n="271,22">сѣкущи</w>
-<w n="271,22">ꙗ·</w>
-<w n="271,22">туже</w>
-<w n="271,22">оубиша</w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="271,22">гна</w>
-<w n="271,22">по <lb/></w>
-
-<w n="271,22">ни<hi rend="sup">х</hi></w>
-<w n="271,22">два·̏</w>
-<w n="271,22">дн҃и</w>
-<w n="271,22">сѣкоуще</w>
-<w n="271,22">ѧ·̏.</w>
-<w n="271,22">тоужь</w>
-<w n="271,22">оубиша</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="271,22">гнаша</w>
-<w n="271,22">по</w>
-<w n="271,22">нихъ 2</w>
-
-<w n="271,22">дни,</w>
-<w n="271,22">сѣкуще;</w>
-<w n="271,22">туже</w>
-<w n="271,22">убиша</w>
-<w n="271,22">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="271,22">гънаша</w>
-<w n="271,22">по</w>
-<w n="271,22">нихъ 2</w>
-
-<w n="271,22">дьни,</w>
-<w n="271,22">сѣкуще.</w>
-<w n="271,22">Туже</w>
-<w n="271,22">убиша</w>
-<w n="271,22">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="271,22">гнаша</w>
-<w n="271,22">по</w>
-<w n="271,22">них 2</w>
-
-<w n="271,22">дни,</w>
-<w n="271,22">сѣкуще.</w>
-<w n="271,22">Ту</w>
-<w n="271,22">же</w>
-<w n="271,22">убиша</w>
-<w n="271,22">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="271"/><div type="block" n="22"><p><app><lem wit="#lem">
+            гъна по нихъ 2 дьни, сѣкуще. Туже убиша
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">гнаша по ни<hi rend="sup">х</hi> ·в҃· дн҃и сѣ<lb/>куще . туже оубиша и</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">гна по нихъ <sic>·в҃·</sic> два дн҃и <lb/> сѣкущи ꙗ· туже оубиша </rdg>
+            <rdg wit="#xle">гна по <lb/> ни<hi rend="sup">х</hi> два·̏ дн҃и сѣкоуще ѧ·̏. тоужь оубиша</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">гнаша по нихъ 2 дни, сѣкуще; туже убиша и</rdg><rdg wit="#shakh">гънаша по нихъ 2 дьни, сѣкуще. Туже убиша и</rdg><rdg wit="#likh">гнаша по них 2 дни, сѣкуще. Ту же убиша и</rdg></rdgGrp></app></p></div></body></text></TEI>

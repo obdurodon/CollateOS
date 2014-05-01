@@ -1,85 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>139, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="139"/><div type="block" n="15"><p>
-<app>
-<lem wit="#lem">
-<w n="139,15">Святопълкъ</w>
-<w n="139,15">же</w>
-<w n="139,15">оканьныи</w>
-<w n="139,15">зълыи</w>
-<w n="139,15">уби</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="139,15">Ст҃ополкъ</w>
-<w n="139,15">же</w>
-<w n="139,15">сь</w>
-<w n="139,15">ѡканьныи</w>
-<w n="139,15">и</w>
-<w n="139,15">злы<lb/>и.</w>
-<w n="139,15">оуби</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="139,15">т҃ополкъ<hi rend="sup">ж</hi></w>
-<w n="139,15">ѡканны</w>
-<w n="139,15">и</w>
-<w n="139,15">злыи.</w>
-<w n="139,15">оуби</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="139,15">Ст҃ополкь</w>
-<w n="139,15">же</w>
-<w n="139,15">ѡканныи</w>
-<w n="139,15">ѕлыи.</w>
-<w n="139,15">оуби</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="139,15">Ст҃ополкъ</w>
-<w n="139,15">же</w>
-<w n="139,15">ѡканьныи.</w>
-<w n="139,15">злы<lb/>и</w>
-<w n="139,15">оуби</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="139,15">Ст҃ополкь</w>
-<w n="139,15">же</w>
-<w n="139,15">сеи</w>
-<w n="139,15">окаанныи</w>
-<w n="139,15">ѕлыи <lb/></w>
-
-<w n="139,15">оубивь</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="139,15">Святополкъ</w>
-<w n="139,15">же</w>
-<w n="139,15">сь</w>
-<w n="139,15">оканьный</w>
-<w n="139,15">и</w>
-<w n="139,15">злый</w>
-<w n="139,15">уби</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="139,15">Святопълкъ</w>
-<w n="139,15">же</w>
-<w n="139,15">сь</w>
-<w n="139,15">оканьныи</w>
-<w n="139,15">и</w>
-<w n="139,15">зълыи,</w>
-<w n="139,15">посълавъ,</w>
-<w n="139,15">уби</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="139,15">Святополкъ</w>
-<w n="139,15">же</w>
-<w n="139,15">сь</w>
-<w n="139,15">оканьный</w>
-<w n="139,15">и</w>
-<w n="139,15">злый</w>
-<w n="139,15">уби</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>139, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="139"/><div type="block" n="15"><p><app><lem wit="#lem">
+            Святопълкъ же оканьныи зълыи уби
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">Ст҃ополкъ же сь ѡканьныи и злы<lb/>и. оуби</rdg>
+            <rdg wit="#rad">т҃ополкъ<hi rend="sup">ж</hi> ѡканны и злыи. оуби</rdg>
+            <rdg wit="#aka">Ст҃ополкь же ѡканныи ѕлыи. оуби</rdg>
+            <rdg wit="#ipa">Ст҃ополкъ же ѡканьныи. злы<lb/>и оуби</rdg>
+            <rdg wit="#xle">Ст҃ополкь же сеи окаанныи ѕлыи <lb/> оубивь</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Святополкъ же сь оканьный и злый уби</rdg><rdg wit="#shakh">Святопълкъ же сь оканьныи и зълыи, посълавъ, уби</rdg><rdg wit="#likh">Святополкъ же сь оканьный и злый уби</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,89 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>212, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="212"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="212,1">печаше</w>
-<w n="212,1">ся</w>
-<w n="212,1">душами,</w>
-<w n="212,1">како</w>
-<w n="212,1">быша</w>
-<w n="212,1">съпасли</w>
-<w n="212,1">ся,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="212,1">печа<lb/>шесѧ</w>
-<w n="212,1">ѡ</w>
-<w n="212,1">дш҃ахъ</w>
-<w n="212,1">ихъ·</w>
-<w n="212,1">како</w>
-<w n="212,1">быша· <lb/></w>
-
-<w n="212,1">спс҃лисѧ·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="212,1">печаше<hi rend="sup">с</hi></w>
-<w n="212,1">дш҃а<lb/>ми·</w>
-<w n="212,1">како</w>
-<w n="212,1">быша</w>
-<w n="212,1">спсл҃исѧ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="212,1">печашесѧ</w>
-<w n="212,1">дш҃ами· <lb/></w>
-
-<w n="212,1">како</w>
-<w n="212,1">бы·̏ша</w>
-<w n="212,1">спс҃лисѧ·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="212,1">пе<lb/>чаше<hi rend="sup">с</hi></w>
-<w n="212,1">дш҃ами·</w>
-<w n="212,1">како</w>
-<w n="212,1">быша</w>
-<w n="212,1">спс҃ли<lb/>сѧ·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="212,1">печа<lb/>шесѧ</w>
-<w n="212,1">дш҃ами</w>
-<w n="212,1">како</w>
-<w n="212,1">быша</w>
-<w n="212,1">сп<hi rend="sup">с</hi>лисѧ.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="212,1">печашеся</w>
-<w n="212,1">о</w>
-<w n="212,1">душахъ</w>
-<w n="212,1">ихъ,</w>
-<w n="212,1">како</w>
-<w n="212,1">быша</w>
-<w n="212,1">спаслися,</w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="212,1">печашеся,</w>
-<w n="212,1">о</w>
-<w n="212,1">душахъ</w>
-<w n="212,1">ихъ,</w>
-<w n="212,1">како</w>
-<w n="212,1">быша</w>
-<w n="212,1">съпаслися,</w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="212,1">печашеся</w>
-<w n="212,1">о</w>
-<w n="212,1">душахъ</w>
-<w n="212,1">ихъ,</w>
-<w n="212,1">како</w>
-<w n="212,1">быша</w>
-<w n="212,1">спаслися,</w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>212, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="212"/><div type="block" n="1"><p><app><lem wit="#lem">
+            печаше ся душами, како быша съпасли ся,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">печа<lb/>шесѧ ѡ дш҃ахъ ихъ· како быша· <lb/> спс҃лисѧ·</rdg>
+            <rdg wit="#rad">печаше<hi rend="sup">с</hi> дш҃а<lb/>ми· како быша спсл҃исѧ.</rdg>
+            <rdg wit="#aka">печашесѧ дш҃ами· <lb/> како бы·̏ша спс҃лисѧ·</rdg>
+            <rdg wit="#ipa">пе<lb/>чаше<hi rend="sup">с</hi> дш҃ами· како быша спс҃ли<lb/>сѧ·</rdg>
+            <rdg wit="#xle">печа<lb/>шесѧ дш҃ами како быша сп<hi rend="sup">с</hi>лисѧ.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">печашеся о душахъ ихъ, како быша спаслися, <add place="margin">205,6</add></rdg><rdg wit="#shakh">печашеся, о душахъ ихъ, како быша съпаслися, <add place="margin">268,14</add></rdg><rdg wit="#likh">печашеся о душахъ ихъ, како быша спаслися, <add place="margin">139,21</add></rdg></rdgGrp></app></p></div></body></text></TEI>

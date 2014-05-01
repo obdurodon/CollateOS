@@ -1,97 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>277, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="277"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="277,22">вину</w>
-<w n="277,22">река:</w>
-<w n="277,22">“Не</w>
-<w n="277,22">зъдравлю”.</w>
-<w n="277,22">Володимиръ</w>
-<w n="277,22">же</w>
-<w n="277,22">цѣловавъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="277,22">вину</w>
-<w n="277,22">река</w>
-<w n="277,22">не</w>
-<w n="277,22">д<hi rend="sup">с</hi>равь<lb/>лю·</w>
-<w n="277,22">володимеръ</w>
-<w n="277,22">же</w>
-<w n="277,22">цѣловавъ <pb n="93d"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="277,22">винѹ</w>
-<w n="277,22">река</w>
-<w n="277,22">не</w>
-<w n="277,22">зр<hi rend="sup">д</hi>авлю·</w>
-<w n="277,22">володимер</w>
-<w n="277,22">же <lb/></w>
-
-<w n="277,22">целовавъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="277,22">винѹ</w>
-<w n="277,22">река</w>
-<w n="277,22">не <lb/></w>
-
-<w n="277,22">зр<hi rend="sup">д</hi>авлю·</w>
-<w n="277,22">володимиръ</w>
-<w n="277,22">же</w>
-<w n="277,22">целовавъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="277,22">вину</w>
-<w n="277,22">река</w>
-<w n="277,22">не</w>
-<w n="277,22">здоровлю· <lb/></w>
-
-<w n="277,22">володимерь</w>
-<w n="277,22">же</w>
-<w n="277,22">цѣловавъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="277,22">винѹ <lb/></w>
-
-<w n="277,22">река.</w>
-<w n="277,22">не</w>
-<w n="277,22">здоровлю.</w>
-<w n="277,22">вол<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>мер</w>
-<w n="277,22">же</w>
-<w n="277,22">цѣловавъ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="277,22">вину</w>
-<w n="277,22">река:</w>
-<w n="277,22">“не</w>
-<w n="277,22">сдравьлю”.</w>
-<w n="277,22">Володимеръ</w>
-<w n="277,22">же</w>
-<w n="277,22">цѣловавъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="277,22">вину</w>
-<w n="277,22">река:</w>
-<w n="277,22">“не</w>
-<w n="277,22">съдравлю”.</w>
-<w n="277,22">Володимеръ</w>
-<w n="277,22">же,</w>
-<w n="277,22">цѣловавъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="277,22">вину</w>
-<w n="277,22">река:</w>
-<w n="277,22">“Не</w>
-<w n="277,22">сдравьлю”.</w>
-<w n="277,22">Володимеръ</w>
-<w n="277,22">же</w>
-<w n="277,22">цѣловавъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>277, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="277"/><div type="block" n="22"><p><app><lem wit="#lem">
+            вину река: “Не зъдравлю”. Володимиръ же цѣловавъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">вину река не д<hi rend="sup">с</hi>равь<lb/>лю· володимеръ же цѣловавъ
+                    <pb n="93d"/></rdg>
+            <rdg wit="#rad">винѹ река не зр<hi rend="sup">д</hi>авлю· володимер же <lb/> целовавъ</rdg>
+            <rdg wit="#aka">винѹ река не <lb/> зр<hi rend="sup">д</hi>авлю· володимиръ же целовавъ</rdg>
+            <rdg wit="#ipa">вину река не здоровлю· <lb/> володимерь же цѣловавъ</rdg>
+            <rdg wit="#xle">винѹ <lb/> река. не здоровлю. вол<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>мер же цѣловавъ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">вину река: “не сдравьлю”. Володимеръ же цѣловавъ</rdg><rdg wit="#shakh">вину река: “не съдравлю”. Володимеръ же, цѣловавъ</rdg><rdg wit="#likh">вину река: “Не сдравьлю”. Володимеръ же цѣловавъ</rdg></rdgGrp></app></p></div></body></text></TEI>

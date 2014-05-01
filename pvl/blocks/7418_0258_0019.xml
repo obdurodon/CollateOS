@@ -1,87 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>258, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="258"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-<w n="258,19">прочихъ</w>
-<w n="258,19">градовъ</w>
-<w n="258,19">твоихъ.</w>
-<w n="258,19">Да</w>
-<w n="258,19">помянеши</w>
-<w n="258,19">мя.</w>
-<w n="258,19">Нъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="258,19">прочи<hi rend="sup">х</hi></w>
-<w n="258,19">гра<hi rend="sup">д</hi></w>
-<w n="258,19">твои<hi rend="sup">х</hi>·</w>
-<w n="258,19">да</w>
-<w n="258,19">помѧнешь</w>
-<w n="258,19">мене·</w>
-<w n="258,19">но <pb n="87c"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="258,19">помѧнешь</w>
-<w n="258,19">мѧ.</w>
-<w n="258,19">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="258,19">помѧнешь</w>
-<w n="258,19">мѧ·</w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="258,19">прочихъ</w>
-<w n="258,19">городовъ <lb/></w>
-
-<w n="258,19">твоихъ</w>
-<w n="258,19">да</w>
-<w n="258,19">помѧнеши</w>
-<w n="258,19">мѧ·</w>
-<w n="258,19">но <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="258,19">прочи<hi rend="sup">х</hi></w>
-<w n="258,19">городо<hi rend="sup">в</hi><lb/></w>
-<w n="258,19">твои<hi rend="sup">х</hi>.</w>
-<w n="258,19">да</w>
-<w n="258,19">помѧнеши</w>
-<w n="258,19">мѧ.</w>
-<w n="258,19">но</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="258,19">прочихъ</w>
-<w n="258,19">градъ</w>
-<w n="258,19">твоихъ,</w>
-<w n="258,19">да</w>
-<w n="258,19">помянешь</w>
-<w n="258,19">мене;</w>
-<w n="258,19">но</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="258,19">прочихъ</w>
-<w n="258,19">градъ</w>
-<w n="258,19">твоихъ;</w>
-<w n="258,19">да</w>
-<w n="258,19">помянеши</w>
-<w n="258,19">мене;</w>
-<w n="258,19">нъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="258,19">прочих</w>
-<w n="258,19">град</w>
-<w n="258,19">твоих.</w>
-<w n="258,19">Да</w>
-<w n="258,19">помянешь</w>
-<w n="258,19">мене.</w>
-<w n="258,19">Но</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>258, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="258"/><div type="block" n="19"><p><app><lem wit="#lem">
+            прочихъ градовъ твоихъ. Да помянеши мя. Нъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">прочи<hi rend="sup">х</hi> гра<hi rend="sup">д</hi> твои<hi rend="sup">х</hi>· да помѧнешь  мене· но
+                    <pb n="87c"/></rdg>
+            <rdg wit="#rad">помѧнешь мѧ. и</rdg>
+            <rdg wit="#aka">помѧнешь мѧ· </rdg>
+            <rdg wit="#ipa">прочихъ городовъ <lb/> твоихъ да помѧнеши мѧ· но <lb/></rdg>
+            <rdg wit="#xle">прочи<hi rend="sup">х</hi> городо<hi rend="sup">в</hi>
+                <lb/> твои<hi rend="sup">х</hi>. да помѧнеши мѧ. но</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">прочихъ градъ твоихъ, да помянешь мене; но</rdg><rdg wit="#shakh">прочихъ градъ твоихъ; да помянеши мене; нъ</rdg><rdg wit="#likh">прочих град твоих. Да помянешь мене. Но</rdg></rdgGrp></app></p></div></body></text></TEI>

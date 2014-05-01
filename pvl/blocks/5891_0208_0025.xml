@@ -1,76 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>208, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="208"/><div type="block" n="25"><p>
-<app>
-<lem wit="#lem">
-<w n="208,25">сътвори,</w>
-<w n="208,25">украсивъ</w>
-<w n="208,25">ю</w>
-<w n="208,25">вьсякою</w>
-<w n="208,25">красотою,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="208,25">пристроею.</w>
-<w n="208,25">Оукрасивъ</w>
-<w n="208,25">ю <lb/></w>
-
-<w n="208,25">всѧкою</w>
-<w n="208,25">красотою.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="208,25">сотвори.</w>
-<w n="208,25">и</w>
-<w n="208,25">оукраси</w>
-<w n="208,25">ю</w>
-<w n="208,25">всѧкою</w>
-<w n="208,25">красотою.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="208,25">оукраси</w>
-<w n="208,25">ю <lb/></w>
-
-<w n="208,25">всѧкою</w>
-<w n="208,25">красотою</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="208,25">ство<lb/>ри.</w>
-<w n="208,25">оукрасивь</w>
-<w n="208,25">ю</w>
-<w n="208,25">всѧкою</w>
-<w n="208,25">красо<lb/>тою.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="208,25">сътвори.</w>
-<w n="208,25">оу<lb/>красивь</w>
-<w n="208,25">ю</w>
-<w n="208,25">всѧкою</w>
-<w n="208,25">красотою.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="208,25">пристроею,</w>
-<w n="208,25">украсивъ</w>
-<w n="208,25">ю</w>
-<w n="208,25">всякою</w>
-<w n="208,25">красотою,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="208,25">пристроею,</w>
-<w n="208,25">украсивъ</w>
-<w n="208,25">ю</w>
-<w n="208,25">вьсякою</w>
-<w n="208,25">красотою</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="208,25">пристроею,</w>
-<w n="208,25">украсивъ</w>
-<w n="208,25">ю</w>
-<w n="208,25">всякою</w>
-<w n="208,25">красотою,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>208, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="208"/><div type="block" n="25"><p><app><lem wit="#lem">
+            сътвори, украсивъ ю вьсякою красотою,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">пристроею. Оукрасивъ ю <lb/> всѧкою красотою.</rdg>
+            <rdg wit="#rad">сотвори. и оукраси ю всѧкою красотою.</rdg>
+            <rdg wit="#aka">оукраси ю <lb/> всѧкою красотою</rdg>
+            <rdg wit="#ipa">ство<lb/>ри. оукрасивь ю всѧкою красо<lb/>тою.</rdg>
+            <rdg wit="#xle">сътвори. оу<lb/>красивь ю всѧкою красотою.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">пристроею, украсивъ ю всякою красотою,</rdg><rdg wit="#shakh">пристроею, украсивъ ю вьсякою красотою</rdg><rdg wit="#likh">пристроею, украсивъ ю всякою красотою,</rdg></rdgGrp></app></p></div></body></text></TEI>

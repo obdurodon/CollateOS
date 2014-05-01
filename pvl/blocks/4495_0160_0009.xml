@@ -1,89 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>160, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="160"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="160,9">и</w>
-<w n="160,9">поклонъ</w>
-<w n="160,9">како</w>
-<w n="160,9">дьржати,</w>
-<w n="160,9">и</w>
-<w n="160,9">чьтения</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="160,9">и</w>
-<w n="160,9">поклонъ</w>
-<w n="160,9">какъ</w>
-<w n="160,9">держати.</w>
-<w n="160,9">и <lb/></w>
-
-<w n="160,9">чтеньꙗ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="160,9">и</w>
-<w n="160,9">поклоны</w>
-<w n="160,9">какъ</w>
-<w n="160,9">держати.</w>
-<w n="160,9">и</w>
-<w n="160,9">чтениа <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="160,9">и</w>
-<w n="160,9">поклоны</w>
-<w n="160,9">како</w>
-<w n="160,9">держати. <lb/></w>
-
-<w n="160,9">и</w>
-<w n="160,9">чтеньѧ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="160,9">и</w>
-<w n="160,9">поклонъ <lb/></w>
-
-<w n="160,9">како</w>
-<w n="160,9">держати.</w>
-<w n="160,9">и</w>
-<w n="160,9">чтениꙗ <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="160,9">и</w>
-<w n="160,9">поклѡны <lb/></w>
-
-<w n="160,9">како</w>
-<w n="160,9">дръжати.</w>
-<w n="160,9">и</w>
-<w n="160,9">чтенїа</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="160,9">и</w>
-<w n="160,9">поклонъ</w>
-<w n="160,9">какъ</w>
-<w n="160,9">держати,</w>
-<w n="160,9">и</w>
-<w n="160,9">чтенья</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="160,9">и</w>
-<w n="160,9">поклоны</w>
-<w n="160,9">како</w>
-<w n="160,9">дьржати,</w>
-<w n="160,9">и</w>
-<w n="160,9">чьтения</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="160,9">и</w>
-<w n="160,9">поклонъ</w>
-<w n="160,9">какъ</w>
-<w n="160,9">держати,</w>
-<w n="160,9">и</w>
-<w n="160,9">чтенья</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>160, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="160"/><div type="block" n="9"><p><app><lem wit="#lem">
+            и поклонъ како дьржати, и чьтения
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и поклонъ какъ держати. и <lb/> чтеньꙗ</rdg>
+            <rdg wit="#rad">и поклоны какъ держати. и чтениа <lb/></rdg>
+            <rdg wit="#aka">и поклоны како держати. <lb/> и чтеньѧ</rdg>
+            <rdg wit="#ipa">и поклонъ <lb/> како держати. и чтениꙗ <lb/></rdg>
+            <rdg wit="#xle">и поклѡны <lb/> како дръжати. и чтенїа</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и поклонъ какъ держати, и чтенья</rdg><rdg wit="#shakh">и поклоны како дьржати, и чьтения</rdg><rdg wit="#likh">и поклонъ какъ держати, и чтенья</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,101 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>166, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="166"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="166,23">Ярославичи</w>
-<w n="166,23">же</w>
-<w n="166,23">трие,</w>
-<w n="166,23">Изяславъ,</w>
-<w n="166,23">Святославъ,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="166,23">ꙗрославичи</w>
-<w n="166,23">же</w>
-<w n="166,23">три<lb/>е.</w>
-<w n="166,23">изѧславъ.</w>
-<w n="166,23">ст҃ославъ.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="166,23">ꙗрослави<hi rend="sup">ч</hi></w>
-<w n="166,23">же <lb/></w>
-
-<w n="166,23">г҃</w>
-<w n="166,23">е.</w>
-<w n="166,23">Изѧславъ.</w>
-<w n="166,23">Ст҃ославъ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="166,23">ꙗросла<lb/>вичи</w>
-<w n="166,23">же</w>
-<w n="166,23">трїе.</w>
-<w n="166,23">изѧславъ</w>
-<w n="166,23">ст҃ославъ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="166,23">ꙗро<lb/>славличи</w>
-<w n="166,23">же</w>
-<w n="166,23">трие.</w>
-<w n="166,23">изѧславъ. <lb/></w>
-
-<w n="166,23">ст҃ославъ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="166,23">ярославичи</w>
-<w n="166,23">же</w>
-<w n="166,23">трїе</w>
-<w n="166,23">изѧславь,</w>
-<w n="166,23">ст҃осла<hi rend="sup">в</hi>. <lb/></w>
-
-</rdg>
-
-<rdg wit="#kom">
-<w n="166,23">ꙗрославици</w>
-<w n="166,23">же</w>
-<w n="166,23">трие</w>
-<w n="166,23">изꙗславъ</w>
-<w n="166,23">свꙗтославъ</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="166,23">ꙗрославици</w>
-<w n="166,23">же</w>
-<w n="166,23">трие</w>
-<w n="166,23">изꙗславъ</w>
-<w n="166,23">свꙗтославъ</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="166,23">ꙗрославици</w>
-<w n="166,23">же</w>
-<w n="166,23">трие</w>
-<w n="166,23">изꙗславъ</w>
-<w n="166,23">свꙗтославъ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="166,23">Ярославичи</w>
-<w n="166,23">же</w>
-<w n="166,23">трие,</w>
-<w n="166,23">Изяславъ,</w>
-<w n="166,23">Святославъ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="166,23">Ярославичи</w>
-<w n="166,23">же</w>
-<w n="166,23">трие,</w>
-<w n="166,23">Изяславъ,</w>
-<w n="166,23">Святославъ,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="166,23">Ярославичи</w>
-<w n="166,23">же</w>
-<w n="166,23">трие,—Изяславъ,</w>
-<w n="166,23">Святославъ,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>166, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="166"/><div type="block" n="23"><p><app><lem wit="#lem">
+            Ярославичи же трие, Изяславъ, Святославъ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ꙗрославичи же три<lb/>е. изѧславъ. ст҃ославъ.</rdg>
+            <rdg wit="#rad">ꙗрослави<hi rend="sup">ч</hi> же <lb/> г҃ е. Изѧславъ. Ст҃ославъ.</rdg>
+            <rdg wit="#aka">ꙗросла<lb/>вичи же трїе. изѧславъ ст҃ославъ.</rdg>
+            <rdg wit="#ipa">ꙗро<lb/>славличи же трие. изѧславъ. <lb/> ст҃ославъ.</rdg>
+            <rdg wit="#xle">ꙗрославичи же трїе изѧславь, ст҃осла<hi rend="sup">в</hi>. <lb/></rdg>
+            <rdg wit="#kom">ꙗрославици же трие изꙗславъ свꙗтославъ</rdg>
+            <rdg wit="#nak">ꙗрославици же трие изꙗславъ свꙗтославъ</rdg>
+            <rdg wit="#tol">ꙗрославици же трие изꙗславъ свꙗтославъ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Ярославичи же трие, Изяславъ, Святославъ,</rdg><rdg wit="#shakh">Ярославичи же трие, Изяславъ, Святославъ,</rdg><rdg wit="#likh">Ярославичи же трие,—Изяславъ, Святославъ,</rdg></rdgGrp></app></p></div></body></text></TEI>

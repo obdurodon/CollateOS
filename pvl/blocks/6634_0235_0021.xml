@@ -1,75 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>235, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="235"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="235,21">царь</w>
-<w n="235,21">Макидоньскии,</w>
-<w n="235,21">възыде</w>
-<w n="235,21">на</w>
-<w n="235,21">въсточьныя</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="235,21">и</w>
-<w n="235,21">взиде</w>
-<w n="235,21">на</w>
-<w n="235,21">всточныꙗ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="235,21">цр҃ь</w>
-<w n="235,21">макидоньскии·</w>
-<w n="235,21">взыде</w>
-<w n="235,21">на</w>
-<w n="235,21">восточныа <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="235,21">цр҃ь</w>
-<w n="235,21">макы·̏доньскы·̏и·</w>
-<w n="235,21">взы·̏<lb/>де</w>
-<w n="235,21">на</w>
-<w n="235,21">въсточныѧ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="235,21">цр҃ь</w>
-<w n="235,21">ма<lb/>кидоньскии·</w>
-<w n="235,21">възыде</w>
-<w n="235,21">на</w>
-<w n="235,21">въ<lb/>сточныꙗ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="235,21">цр҃ъ</w>
-<w n="235,21">макидо<hi rend="sup">н</hi>скїи, <lb/></w>
-
-<w n="235,21">възыде</w>
-<w n="235,21">на</w>
-<w n="235,21">восточныа</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="235,21">царь</w>
-<w n="235,21">Макидоньский,</w>
-<w n="235,21">взыде</w>
-<w n="235,21">на</w>
-<w n="235,21">всточныя</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="235,21">цѣсарь</w>
-<w n="235,21">Македоньскии,</w>
-<w n="235,21">възыде</w>
-<w n="235,21">на</w>
-<w n="235,21">въсточьныя</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="235,21">царь</w>
-<w n="235,21">Макидоньский,</w>
-<w n="235,21">взыде</w>
-<w n="235,21">на</w>
-<w n="235,21">всточныя</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>235, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="235"/><div type="block" n="21"><p><app><lem wit="#lem">
+            царь Макидоньскии, възыде на въсточьныя
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и взиде на всточныꙗ</rdg>
+            <rdg wit="#rad">цр҃ь макидоньскии· взыде на восточныа <lb/></rdg>
+            <rdg wit="#aka">цр҃ь макы·̏доньскы·̏и· взы·̏<lb/>де на въсточныѧ</rdg>
+            <rdg wit="#ipa">цр҃ь ма<lb/>кидоньскии· възыде на въ<lb/>сточныꙗ</rdg>
+            <rdg wit="#xle">цр҃ъ макидо<hi rend="sup">н</hi>скїи, <lb/> възыде на восточныа</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">царь Макидоньский, взыде на всточныя</rdg><rdg wit="#shakh">цѣсарь Македоньскии, възыде на въсточьныя</rdg><rdg wit="#likh">царь Макидоньский, взыде на всточныя</rdg></rdgGrp></app></p></div></body></text></TEI>

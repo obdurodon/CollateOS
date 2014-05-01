@@ -1,43 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>155, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="155"/><div type="block" n="25"><p>
-<app>
-<lem wit="#lem">
-<w n="155,25">кънягыни.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="155,25">кнѧгы<lb/>ни·:·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="155,25">ꙗрославлѧ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="155,25">ꙗрославлѧ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="155,25">кнѧгинї <lb/></w>
-
-<w n="155,25">февралѧ.</w>
-<w n="155,25">вь</w>
-<w n="155,25">.і҃. ·:·</w>
-<w n="155,25">·:· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="155,25">княгыни.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="155,25">кънягыни.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="155,25">княгыни.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>155, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="155"/><div type="block" n="25"><p><app><lem wit="#lem">
+            кънягыни.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">кнѧгы<lb/>ни·:·</rdg>
+            <rdg wit="#rad">ꙗрославлѧ.</rdg>
+            <rdg wit="#aka">ꙗрославлѧ.</rdg>
+            <rdg wit="#ipa">кнѧгинї <lb/> февралѧ. вь .і҃.·:· <lb/></rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">княгыни.</rdg><rdg wit="#shakh">кънягыни.</rdg><rdg wit="#likh">княгыни.</rdg></rdgGrp></app></p></div></body></text></TEI>

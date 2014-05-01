@@ -1,68 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>29, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="29"/><div type="block" n="8"><p>
-<app>
-<lem wit="#lem">
-<w n="29,8">плѣноваху.</w>
-<w n="29,8">Семеонъ</w>
-<w n="29,8">же,</w>
-<w n="29,8">увѣдѣвъ,</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="29,8">поплѣниша</w>
-<w n="29,8">семеонъ</w>
-<w n="29,8">же</w>
-<w n="29,8">увидѣвъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="29,8">пленовахоу.</w>
-<w n="29,8">семиѡнъ</w>
-<w n="29,8">же</w>
-<w n="29,8">оувидѣ<lb/>въ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="29,8">плено<lb/>вахѹ.</w>
-<w n="29,8">семиѡн</w>
-<w n="29,8">же</w>
-<w n="29,8">оувидѣвь</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="29,8">плѣноваху.</w>
-<w n="29,8">сем<hi rend="sup">е</hi><lb/>нъ</w>
-<w n="29,8">же</w>
-<w n="29,8">оувѣдавъ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="29,8">плѣнова<lb/>хѫ.</w>
-<w n="29,8">Семеѡ<hi rend="sup">н</hi></w>
-<w n="29,8">же</w>
-<w n="29,8">оувѣдавь</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="29,8">плѣноваху;</w>
-<w n="29,8">Семионъ</w>
-<w n="29,8">же</w>
-<w n="29,8">увѣдѣвъ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="29,8">плѣноваху.</w>
-<w n="29,8">Семеонъ</w>
-<w n="29,8">же,</w>
-<w n="29,8">увѣдѣвъ,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="29,8">плѣноваху.</w>
-<w n="29,8">Семионъ</w>
-<w n="29,8">же</w>
-<w n="29,8">увѣдѣвъ,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>29, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="29"/><div type="block" n="8"><p><app><lem wit="#lem">
+            плѣноваху. Семеонъ же, увѣдѣвъ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">поплѣниша семеонъ же увидѣвъ</rdg>
+            <rdg wit="#rad">пленовахоу. семиѡнъ же оувидѣ<lb/>въ</rdg>
+            <rdg wit="#aka">плено<lb/>вахѹ. семиѡн же оувидѣвь</rdg>
+            <rdg wit="#ipa">плѣноваху. сем<hi rend="sup">е</hi><lb/>нъ же оувѣдавъ.</rdg>
+            <rdg wit="#xle">плѣнова<lb/>хѫ. Семеѡ<hi rend="sup">н</hi> же оувѣдавь</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">плѣноваху; Семионъ же увѣдѣвъ,</rdg><rdg wit="#shakh">плѣноваху. Семеонъ же, увѣдѣвъ,</rdg><rdg wit="#likh">плѣноваху. Семионъ же увѣдѣвъ,</rdg></rdgGrp></app></p></div></body></text></TEI>

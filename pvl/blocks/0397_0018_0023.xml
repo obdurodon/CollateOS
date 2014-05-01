@@ -1,101 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="18,23">въ</w>
-<w n="18,23">лѣта</w>
-<w n="18,23">си,</w>
-<w n="18,23">якоже</w>
-<w n="18,23">преже</w>
-<w n="18,23">почали</w>
-<w n="18,23">бяхомъ</w>
-<w n="18,23">пьрвое</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="18,23">та</w>
-<w n="18,23">си <lb/></w>
-
-<w n="18,23">ꙗкоже</w>
-<w n="18,23">преже</w>
-<w n="18,23">почали</w>
-<w n="18,23">бѧхомъ</w>
-<w n="18,23">первое</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-<w n="18,23">в</w>
-<w n="18,23">лѣта</w>
-<w n="18,23">си.</w>
-<w n="18,23">ꙗкоже</w>
-<w n="18,23">преже</w>
-<w n="18,23">почали</w>
-<w n="18,23">бѣхомъ</w>
-<w n="18,23">.а҃. <lb/></w>
-
-<w n="18,23">речеть</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="18,23">в</w>
-<w n="18,23">лѣта</w>
-<w n="18,23">си.</w>
-<w n="18,23">ꙗко<lb/>же</w>
-<w n="18,23">преже</w>
-<w n="18,23">почали</w>
-<w n="18,23">бѧхомъ. <lb/></w>
-
-<w n="18,23">пѣрвое</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="18,23">въ</w>
-<w n="18,23">лѣта</w>
-<w n="18,23">сїа. <lb/></w>
-
-<w n="18,23">яко<hi rend="sup">ж</hi></w>
-<w n="18,23">преже</w>
-<w n="18,23">почали</w>
-<w n="18,23">бѣхо<hi rend="sup">м</hi>.</w>
-<w n="18,23">Пръвое</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="18,23">в</w>
-<w n="18,23">лѣта</w>
-<w n="18,23">си,</w>
-<w n="18,23">якоже</w>
-<w n="18,23">преже</w>
-<w n="18,23">почали</w>
-<w n="18,23">бяхомъ</w>
-<w n="18,23">первое</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="18,23">въ</w>
-<w n="18,23">лѣта</w>
-<w n="18,23">си,</w>
-<w n="18,23">якоже</w>
-<w n="18,23">преже</w>
-<w n="18,23">почали</w>
-<w n="18,23">бѣхомъ</w>
-<w n="18,23">пьрвое</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="18,23">в</w>
-<w n="18,23">лѣта</w>
-<w n="18,23">си,</w>
-<w n="18,23">яко</w>
-<w n="18,23">же</w>
-<w n="18,23">преже</w>
-<w n="18,23">почали</w>
-<w n="18,23">бяхомъ</w>
-<w n="18,23">первое</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="23"><p><app><lem wit="#lem">
+            въ лѣта си, якоже преже почали бяхомъ пьрвое
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">та си <lb/> ꙗкоже преже почали бѧхомъ первое</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">в лѣта си. ꙗкоже преже почали бѣхомъ .а҃. <lb/> речеть</rdg>
+            <rdg wit="#ipa">в лѣта си. ꙗко<lb/>же преже почали бѧхомъ. <lb/> пѣрвое</rdg>
+            <rdg wit="#xle">въ лѣта сїа. <lb/> ꙗко<hi rend="sup">ж</hi> преже почали бѣхо<hi rend="sup">м</hi>. Пръвое</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">в лѣта си, якоже преже почали бяхомъ первое</rdg><rdg wit="#shakh">въ лѣта си, якоже преже почали бѣхомъ пьрвое</rdg><rdg wit="#likh">в лѣта си, яко же преже почали бяхомъ первое</rdg></rdgGrp></app></p></div></body></text></TEI>

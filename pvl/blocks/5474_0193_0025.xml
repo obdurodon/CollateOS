@@ -1,103 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>193, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="193"/><div type="block" n="25"><p>
-<app>
-<lem wit="#lem">
-<w n="193,25">святыя</w>
-<w n="193,25">Богородица,</w>
-<w n="193,25">на</w>
-<w n="193,25">Болъдинахъ</w>
-<w n="193,25">горахъ</w>
-<w n="193,25">и</w>
-<w n="193,25">до</w>
-<w n="193,25">сего</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="193,25">ст҃ое</w>
-<w n="193,25">бц҃и.</w>
-<w n="193,25">на</w>
-<w n="193,25">болдины<hi rend="sup">х</hi></w>
-<w n="193,25">горахъ.</w>
-<w n="193,25">и</w>
-<w n="193,25">до</w>
-<w n="193,25">сего <pb n="65c"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="193,25">ст҃ы</w>
-<w n="193,25">бц҃и.</w>
-<w n="193,25">на</w>
-<w n="193,25">болдина<hi rend="sup">х</hi></w>
-<w n="193,25">гора<hi rend="sup">х</hi>.</w>
-<w n="193,25">и</w>
-<w n="193,25">до</w>
-<w n="193,25">сего</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="193,25">ст҃ыѧ</w>
-<w n="193,25">бц<hi rend="sup">д</hi>а</w>
-<w n="193,25">на</w>
-<w n="193,25">болдина<hi rend="sup">х</hi><lb/></w>
-<w n="193,25">гора<hi rend="sup">х</hi></w>
-<w n="193,25">и</w>
-<w n="193,25">до</w>
-<w n="193,25">сего</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="193,25">ст҃оѣ</w>
-<w n="193,25">бц҃ѣ.</w>
-<w n="193,25">на</w>
-<w n="193,25">болдинахъ <lb/></w>
-
-<w n="193,25">горахъ.</w>
-<w n="193,25">и</w>
-<w n="193,25">до</w>
-<w n="193,25">сихъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="193,25">ст҃ыа</w>
-<w n="193,25">бц҃а</w>
-<w n="193,25">на</w>
-<w n="193,25">болди<lb/>на<hi rend="sup">х</hi></w>
-<w n="193,25">гора<hi rend="sup">х</hi>,</w>
-<w n="193,25">и</w>
-<w n="193,25">до</w>
-<w n="193,25">си<hi rend="sup">х</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="193,25">святое</w>
-<w n="193,25">Богородици,</w>
-<w n="193,25">на</w>
-<w n="193,25">Болдиныхъ</w>
-<w n="193,25">горахъ,</w>
-<w n="193,25">и</w>
-<w n="193,25">до</w>
-<w n="193,25">сего</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="193,25">святыя</w>
-<w n="193,25">Богородица</w>
-<w n="193,25">на</w>
-<w n="193,25">Болъдинахъ</w>
-<w n="193,25">горахъ</w>
-<w n="193,25">и</w>
-<w n="193,25">до</w>
-<w n="193,25">сего</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="193,25">святое</w>
-<w n="193,25">Богородици,</w>
-<w n="193,25">на</w>
-<w n="193,25">Болдиных</w>
-<w n="193,25">горахъ,</w>
-<w n="193,25">и</w>
-<w n="193,25">до</w>
-<w n="193,25">сего</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>193, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="193"/><div type="block" n="25"><p><app><lem wit="#lem">
+            святыя Богородица, на Болъдинахъ горахъ и до сего
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ст҃ое бц҃и. на  болдины<hi rend="sup">х</hi> горахъ. и до сего
+                <pb n="65c"/></rdg>
+            <rdg wit="#rad">ст҃ы бц҃и. на болдина<hi rend="sup">х</hi> гора<hi rend="sup">х</hi>. и до сего</rdg>
+            <rdg wit="#aka">ст҃ыѧ бц<hi rend="sup">д</hi>а на болдина<hi rend="sup">х</hi>
+                <lb/> гора<hi rend="sup">х</hi> и до сего</rdg>
+            <rdg wit="#ipa">ст҃оѣ бц҃ѣ. на болдинахъ <lb/> горахъ. и до сихъ</rdg>
+            <rdg wit="#xle">ст҃ыа бц҃а на болди<lb/>на<hi rend="sup">х</hi> гора<hi rend="sup">х</hi>, и до си<hi rend="sup">х</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">святое Богородици, на Болдиныхъ горахъ, и до сего</rdg><rdg wit="#shakh">святыя Богородица на Болъдинахъ горахъ и до сего</rdg><rdg wit="#likh">святое Богородици, на Болдиных горахъ, и до сего</rdg></rdgGrp></app></p></div></body></text></TEI>

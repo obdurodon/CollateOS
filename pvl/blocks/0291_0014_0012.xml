@@ -1,92 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>14, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="14"/><div type="block" n="12"><p>
-<app>
-<lem wit="#lem">
-<w n="14,12">Вятичи</w>
-<w n="14,12">и</w>
-<w n="14,12">нынѣ.</w>
-<w n="14,12">Си</w>
-<w n="14,12">же</w>
-<w n="14,12">обычаи</w>
-<w n="14,12">творяху</w>
-<w n="14,12">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="14,12">вѧтичи <lb/></w>
-
-<w n="14,12">и</w>
-<w n="14,12">нынѣ.</w>
-<w n="14,12">си</w>
-<w n="14,12">же</w>
-<w n="14,12">творѧху</w>
-<w n="14,12">ѡбычаꙗ</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="14,12">вѧти<hi rend="sup">ч</hi></w>
-<w n="14,12">н҃нѣ <lb/></w>
-
-<w n="14,12">сии<hi rend="sup">ж</hi></w>
-<w n="14,12">ѡбычаа</w>
-<w n="14,12">творѧ<hi rend="sup">т</hi></w>
-<w n="14,12">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="14,12">вѧтичи</w>
-<w n="14,12">и</w>
-<w n="14,12">н҃нѣ.</w>
-<w n="14,12">сїи</w>
-<w n="14,12">же</w>
-<w n="14,12">ѡбычаи</w>
-<w n="14,12">творѧ<hi rend="sup">т</hi></w>
-<w n="14,12">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="14,12"><milestone unit="sic" n="start"/>вѧ<milestone unit="sic" n="end"/><hi rend="sup">т</hi><lb/>вѧти<milestone unit="sic" n="start"/>ч<milestone unit="sic" n="end"/>и</w>
-<w n="14,12">и</w>
-<w n="14,12">н҃нѣ.</w>
-<w n="14,12">си</w>
-<w n="14,12">же</w>
-<w n="14,12">ѡ<lb/>бычаи</w>
-<w n="14,12">творѧху</w>
-<w n="14,12">и</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="14,12">Вятичи</w>
-<w n="14,12">и</w>
-<w n="14,12">нынѣ.</w>
-<w n="14,12">Си</w>
-<w n="14,12">же</w>
-<w n="14,12">творяху</w>
-<w n="14,12">обычая</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="14,12">Вятичи</w>
-<w n="14,12">и</w>
-<w n="14,12">нынѣ.</w>
-<w n="14,12">Сиже</w>
-<w n="14,12">творяху</w>
-<w n="14,12">обычая</w>
-<w n="14,12">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="14,12">вятичи</w>
-<w n="14,12">и</w>
-<w n="14,12">нынѣ.</w>
-<w n="14,12">Си</w>
-<w n="14,12">же</w>
-<w n="14,12">творяху</w>
-<w n="14,12">обычая</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>14, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="14"/><div type="block" n="12"><p><app><lem wit="#lem">
+            Вятичи и нынѣ. Си же обычаи творяху и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">вѧтичи <lb/> и нынѣ. си же творѧху ѡбычаꙗ</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">вѧти<hi rend="sup">ч</hi> н҃нѣ <lb/> сии<hi rend="sup">ж</hi> ѡбычаа творѧ<hi rend="sup">т</hi> и</rdg>
+            <rdg wit="#aka">вѧтичи и н҃нѣ. сїи же ѡбычаи творѧ<hi rend="sup">т</hi> и</rdg>
+            <rdg wit="#ipa"><sic>вѧ</sic><hi rend="sup">т</hi><lb/>вѧти<sic>ч</sic>и и н҃нѣ. си же
+                ѡ<lb/>бычаи творѧху и</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Вятичи и нынѣ. Си же творяху обычая</rdg><rdg wit="#shakh">Вятичи и нынѣ. Сиже творяху обычая и</rdg><rdg wit="#likh">вятичи и нынѣ. Си же творяху обычая</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,77 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>160, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="160"/><div type="block" n="24"><p>
-<app>
-<lem wit="#lem">
-<w n="160,24">зоветь</w>
-<w n="160,24">ся</w>
-<w n="160,24">Печерьскыи.</w>
-<w n="160,24">А</w>
-<w n="160,24">о</w>
-<w n="160,24">Феодосиевѣ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="160,24">зоветьсѧ</w>
-<w n="160,24">пе<lb/>черьскыи.</w>
-<w n="160,24">а</w>
-<w n="160,24">ѡ</w>
-<w n="160,24">ѳеѡдосовѣ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="160,24">зоветь<hi rend="sup">с</hi></w>
-<w n="160,24">печерскыи</w>
-<w n="160,24">а</w>
-<w n="160,24">ѡ</w>
-<w n="160,24">фе<hi rend="sup">д</hi><lb/>сиеви</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="160,24">зоветсѧ</w>
-<w n="160,24">печерьскыи. <lb/></w>
-
-<w n="160,24">а</w>
-<w n="160,24">феѡдосьевѣ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="160,24">зоветьсѧ</w>
-<w n="160,24">печерьскыи</w>
-<w n="160,24">манасты<lb/>рь.</w>
-<w n="160,24">а</w>
-<w n="160,24">ѡ</w>
-<w n="160,24">федосьевѣ <pb n="60b"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="160,24">зоветсѧ</w>
-<w n="160,24">печерскыи.</w>
-<w n="160,24">А</w>
-<w n="160,24">ѡ</w>
-<w n="160,24">ѳедосѣевѣ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="160,24">зоветься</w>
-<w n="160,24">Печерьскый.</w>
-<w n="160,24">А</w>
-<w n="160,24">о</w>
-<w n="160,24">Феодосьевѣ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="160,24">зоветься</w>
-<w n="160,24">Печерьскыи.</w>
-<w n="160,24">А</w>
-<w n="160,24">о</w>
-<w n="160,24">Феодосиевѣ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="160,24">зоветься</w>
-<w n="160,24">Печерьскый.</w>
-<w n="160,24">А</w>
-<w n="160,24">о</w>
-<w n="160,24">Феодосьевѣ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>160, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="160"/><div type="block" n="24"><p><app><lem wit="#lem">
+            зоветь ся Печерьскыи. А о Феодосиевѣ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">зоветьсѧ пе<lb/>черьскыи. а ѡ ѳеѡдосовѣ</rdg>
+            <rdg wit="#rad">зоветь<hi rend="sup">с</hi> печерскыи а ѡ фе<hi rend="sup">д</hi><lb/>сиеви</rdg>
+            <rdg wit="#aka">зоветсѧ печерьскыи. <lb/> а феѡдосьевѣ</rdg>
+            <rdg wit="#ipa">зоветьсѧ печерьскыи манасты<lb/>рь. а ѡ федосьевѣ <pb n="60b"/></rdg>
+            <rdg wit="#xle">зоветсѧ печерскыи. А ѡ ѳедосѣевѣ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">зоветься Печерьскый. А о Феодосьевѣ</rdg><rdg wit="#shakh">зоветься Печерьскыи. А о Феодосиевѣ</rdg><rdg wit="#likh">зоветься Печерьскый. А о Феодосьевѣ</rdg></rdgGrp></app></p></div></body></text></TEI>

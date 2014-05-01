@@ -1,100 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>7, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="7"/><div type="block" n="11"><p>
-<app>
-<lem wit="#lem">
-<w n="7,11">рѣка.</w>
-<w n="7,11">Дънѣпръ</w>
-<w n="7,11">бо</w>
-<w n="7,11">течеть</w>
-<w n="7,11">из</w>
-<w n="7,11">Воковьскаго</w>
-<w n="7,11">лѣса,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="7,11">рѣка</w>
-<w n="7,11">днѣпръ</w>
-<w n="7,11">бо</w>
-<w n="7,11">потече</w>
-<w n="7,11">из</w>
-<w n="7,11">оковьскаго</w>
-<w n="7,11">лѣ <lb/></w>
-
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="7,11">река</w>
-<w n="7,11">днѣпръ</w>
-<w n="7,11">бо</w>
-<w n="7,11">течеть <lb/></w>
-
-<w n="7,11">из</w>
-<w n="7,11">во<hi rend="sup">л</hi>ковьска<hi rend="sup">г</hi></w>
-<w n="7,11">лѣса</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="7,11">река. <lb/></w>
-
-<w n="7,11">днѣпръ</w>
-<w n="7,11">бо</w>
-<w n="7,11">течетъ</w>
-<w n="7,11">из</w>
-<w n="7,11">воковьскаго</w>
-<w n="7,11">лѣса.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="7,11">рѣка.</w>
-<w n="7,11">днѣпръ</w>
-<w n="7,11">бо</w>
-<w n="7,11">течеть <lb/></w>
-
-<w n="7,11">изъ</w>
-<w n="7,11">воковьского</w>
-<w n="7,11">лѣса.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="7,11">рѣка</w>
-<w n="7,11">днѣпръ</w>
-<w n="7,11">бѡ</w>
-<w n="7,11">тече<hi rend="sup">т</hi></w>
-<w n="7,11">изь</w>
-<w n="7,11">ѡковского</w>
-<w n="7,11">лѣса. <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="7,11">рѣка.</w>
-<w n="7,11">Днѣпръ</w>
-<w n="7,11">бо</w>
-<w n="7,11">потече</w>
-<w n="7,11">из</w>
-<w n="7,11">Волковьскаго</w>
-<w n="7,11">лѣса,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="7,11">рѣка.</w>
-<w n="7,11">Дънѣпръ</w>
-<w n="7,11">бо</w>
-<w n="7,11">потечеть</w>
-<w n="7,11">из</w>
-<w n="7,11">Оковьскаго</w>
-<w n="7,11">лѣса,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="7,11">рѣка.</w>
-<w n="7,11">Днѣпръ</w>
-<w n="7,11">бо</w>
-<w n="7,11">потече</w>
-<w n="7,11">из</w>
-<w n="7,11">Оковьскаго</w>
-<w n="7,11">лѣса,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>7, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="7"/><div type="block" n="11"><p><app><lem wit="#lem">
+            рѣка. Дънѣпръ бо течеть из Воковьскаго лѣса,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">рѣка днѣпръ бо потече из оковьскаго лѣ <lb/></rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">река днѣпръ бо течеть <lb/> из во<hi rend="sup">л</hi>ковьска<hi rend="sup">г</hi> лѣса</rdg>
+            <rdg wit="#aka">река. <lb/> днѣпръ бо течетъ из воковьскаго лѣса.</rdg>
+            <rdg wit="#ipa">рѣка. днѣпръ бо течеть <lb/> изъ воковьского лѣса.</rdg>
+            <rdg wit="#xle">рѣка днѣпръ бѡ тече<hi rend="sup">т</hi> изь ѡковского лѣса. <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">рѣка. Днѣпръ бо потече из Волковьскаго лѣса,</rdg><rdg wit="#shakh">рѣка. Дънѣпръ бо потечеть из Оковьскаго лѣса,</rdg><rdg wit="#likh">рѣка. Днѣпръ бо потече из Оковьскаго лѣса,</rdg></rdgGrp></app></p></div></body></text></TEI>

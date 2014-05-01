@@ -1,69 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>214, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="214"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-<w n="214,19">тенета</w>
-<w n="214,19">и</w>
-<w n="214,19"><choice><seg>кличаномъ</seg><seg>людьмъ</seg></choice></w>
-<w n="214,19">кликнувъшимъ,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="214,19">тенета· <lb/></w>
-
-<w n="214,19">и</w>
-<w n="214,19">кличаномъ</w>
-<w n="214,19">кликнувшимъ· <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="214,19">тенѧта</w>
-<w n="214,19">и</w>
-<w n="214,19">кличано<hi rend="sup">м</hi></w>
-<w n="214,19">кликнѹвши<hi rend="sup">м</hi>.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="214,19">тенета</w>
-<w n="214,19">и</w>
-<w n="214,19">кличаномъ</w>
-<w n="214,19">кликнѹвшимь·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="214,19">тенета <lb/></w>
-
-<w n="214,19">ї</w>
-<w n="214,19">людемь</w>
-<w n="214,19">кликнувшимъ· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="214,19">тенета.</w>
-<w n="214,19">и</w>
-<w n="214,19">люде<hi rend="sup">м</hi></w>
-<w n="214,19">кликноувши<hi rend="sup">м</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="214,19">тенета</w>
-<w n="214,19">и</w>
-<w n="214,19">кличаномъ</w>
-<w n="214,19">кликнувшимъ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="214,19">тенета</w>
-<w n="214,19">и</w>
-<w n="214,19">кличаномъ</w>
-<w n="214,19">кликнувъшемъ,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="214,19">тенета</w>
-<w n="214,19">и</w>
-<w n="214,19">кличаномъ</w>
-<w n="214,19">кликнувшимъ,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>214, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="214"/><div type="block" n="19"><p><app><lem wit="#lem">
+            тенета и <choice>
+                    <seg>кличаномъ</seg>
+                    <seg>людьмъ</seg>
+                </choice> кликнувъшимъ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">тенета· <lb/> и кличаномъ кликнувшимъ· <lb/></rdg>
+            <rdg wit="#rad">тенѧта и кличано<hi rend="sup">м</hi> кликнѹвши<hi rend="sup">м</hi>.</rdg>
+            <rdg wit="#aka">тенета и кличаномъ кликнѹвшимь·</rdg>
+            <rdg wit="#ipa">тенета <lb/> ї людемь кликнувшимъ· <lb/></rdg>
+            <rdg wit="#xle">тенета. и люде<hi rend="sup">м</hi> кликноувши<hi rend="sup">м</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">тенета и кличаномъ кликнувшимъ,</rdg><rdg wit="#shakh">тенета и кличаномъ кликнувъшемъ,</rdg><rdg wit="#likh">тенета и кличаномъ кликнувшимъ,</rdg></rdgGrp></app></p></div></body></text></TEI>

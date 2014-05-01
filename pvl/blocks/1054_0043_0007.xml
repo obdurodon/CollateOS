@@ -1,89 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>43, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="43"/><div type="block" n="7"><p>
-<app>
-<lem wit="#lem">
-<w n="43,7">Въ</w>
-<w n="43,7">лѣто 6428.</w>
-
-<w n="43,7">Поставленъ</w>
-<w n="43,7">Романъ</w>
-<w n="43,7">цьсарь</w>
-<w n="43,7">въ</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="43,7">В</w>
-<w n="43,7">лѣ<hi rend="sup">т</hi></w>
-<w n="43,7">҂ѕ҃</w>
-<w n="43,7">у҃</w>
-<w n="43,7">к҃и</w>
-<w n="43,7">Поставленъ</w>
-<w n="43,7">ц҃рь</w>
-<w n="43,7">романъ <lb/></w>
-
-<w n="43,7">въ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="43,7">В</w>
-<w n="43,7">лѣ<hi rend="sup">т</hi>.</w>
-<w n="43,7">҂ѕ҃.у҃.к҃и.</w>
-<w n="43,7">Поставле<lb/>нъ</w>
-<w n="43,7">ц҃рь</w>
-<w n="43,7">романъ</w>
-<w n="43,7">въ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="43,7">В</w>
-<w n="43,7">лѣ<hi rend="sup">т</hi>.</w>
-<w n="43,7">҂ѕ҃.у҃.к҃и·:·</w>
-<w n="43,7">Поставь<lb/>ленъ</w>
-<w n="43,7">романъ</w>
-<w n="43,7">цр<hi rend="sup">с</hi>мь</w>
-<w n="43,7">въ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="43,7">В</w>
-<w n="43,7">лѣ<hi rend="sup">т</hi></w>
-<w n="43,7">҂ѕ҃.у҃.к҃и. <lb/></w>
-
-<w n="43,7">поставлень</w>
-<w n="43,7">рома<hi rend="sup">н</hi></w>
-<w n="43,7">ц҃ре<hi rend="sup">м</hi></w>
-<w n="43,7">въ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="43,7">В</w>
-<w n="43,7">лѣто 6428.</w>
-
-<w n="43,7">Поставленъ</w>
-<w n="43,7">царь</w>
-<w n="43,7">Романъ</w>
-<w n="43,7">въ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="43,7">Въ</w>
-<w n="43,7">лѣто 6428.</w>
-
-<w n="43,7">Поставленъ</w>
-<w n="43,7">цѣсарь</w>
-<w n="43,7">Романъ</w>
-<w n="43,7">въ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="43,7">В</w>
-<w n="43,7">лѣто 6428.</w>
-
-<w n="43,7">Поставленъ</w>
-<w n="43,7">царь</w>
-<w n="43,7">Романъ</w>
-<w n="43,7">въ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>43, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="43"/><div type="block" n="7"><p><app><lem wit="#lem">
+            Въ лѣто 6428. Поставленъ Романъ цьсарь въ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">В лѣ<hi rend="sup">т</hi> ҂ѕ҃ у҃ к҃и Поставленъ ц҃рь романъ <lb/> въ</rdg>
+            <rdg wit="#aka">В лѣ<hi rend="sup">т</hi>. ҂ѕ҃.у҃.к҃и. Поставле<lb/>нъ ц҃рь романъ въ</rdg>
+            <rdg wit="#ipa">В лѣ<hi rend="sup">т</hi>. ҂ѕ҃.у҃.к҃и·:· Поставь<lb/>ленъ романъ цр<hi rend="sup">с</hi>мь въ</rdg>
+            <rdg wit="#xle">В лѣ<hi rend="sup">т</hi> ҂ѕ҃.у҃.к҃и. <lb/> поставлень рома<hi rend="sup">н</hi> ц҃ре<hi rend="sup">м</hi>
+                въ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">В лѣто 6428. Поставленъ царь Романъ въ</rdg><rdg wit="#shakh">Въ лѣто 6428. Поставленъ цѣсарь Романъ въ</rdg><rdg wit="#likh">В лѣто 6428. Поставленъ царь Романъ въ</rdg></rdgGrp></app></p></div></body></text></TEI>

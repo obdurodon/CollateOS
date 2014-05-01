@@ -1,66 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="271"/><div type="block" n="24"><p>
-<app>
-<lem wit="#lem">
-<w n="271,24">глаголаху</w>
-<w n="271,24">погыбло</w>
-<w n="271,24">ихъ 40</w>
-
-<w n="271,24">тысящь.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="271,24">ꙗко</w>
-<w n="271,24">погыбло</w>
-<w n="271,24">ихъ· <lb/></w>
-
-<w n="271,24">м҃·</w>
-<w n="271,24">тысѧщь·</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="271,24">глх҃у·</w>
-<w n="271,24">погыбло</w>
-<w n="271,24">оубьено <lb/></w>
-
-<w n="271,24">м҃·</w>
-<w n="271,24">тысѧщь·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="271,24">гл҃ахѫ.</w>
-<w n="271,24">погы<lb/>бло</w>
-<w n="271,24">оубїен′ны<hi rend="sup">х</hi></w>
-<w n="271,24">.м҃.</w>
-<w n="271,24">тысѧщь.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="271,24">яко</w>
-<w n="271,24">погыбло</w>
-<w n="271,24">ихъ 40</w>
-
-<w n="271,24">тысящь.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="271,24">яко</w>
-<w n="271,24">погыбло</w>
-<w n="271,24">ихъ 40</w>
-
-<w n="271,24">тысящь.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="271,24">яко</w>
-<w n="271,24">погыбло</w>
-<w n="271,24">ихъ 40</w>
-
-<w n="271,24">тысящь.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="271"/><div type="block" n="24"><p><app><lem wit="#lem">
+            глаголаху погыбло ихъ 40 тысящь.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ꙗко погыбло ихъ· <lb/> м҃· тысѧщь·</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">глх҃у· погыбло оубьено <lb/> м҃· тысѧщь·</rdg>
+            <rdg wit="#xle">гл҃ахѫ. погы<lb/>бло оубїен′ны<hi rend="sup">х</hi> .м҃. тысѧщь.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">яко погыбло ихъ 40 тысящь.</rdg><rdg wit="#shakh">яко погыбло ихъ 40 тысящь.</rdg><rdg wit="#likh">яко погыбло ихъ 40 тысящь.</rdg></rdgGrp></app></p></div></body></text></TEI>

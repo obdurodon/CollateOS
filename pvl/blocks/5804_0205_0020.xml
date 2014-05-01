@@ -1,89 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>205, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="205"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="205,20">сына</w>
-<w n="205,20">своего</w>
-<w n="205,20">Володимира.</w>
-<w n="205,20">Яропълкъ</w>
-<w n="205,20">же,</w>
-<w n="205,20">оставивъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="205,20">сн҃а</w>
-<w n="205,20">свое<lb/>го</w>
-<w n="205,20">володимера.</w>
-<w n="205,20">ꙗрополкъ</w>
-<w n="205,20">же <lb/></w>
-
-<w n="205,20">ѡставивъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="205,20">сн҃а</w>
-<w n="205,20">своего.</w>
-<w n="205,20">володимера.</w>
-<w n="205,20">ꙗрополкъ</w>
-<w n="205,20">же <lb/></w>
-
-<w n="205,20">ѡставивъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="205,20">сн҃а</w>
-<w n="205,20">своего</w>
-<w n="205,20">володимира. <lb/></w>
-
-<w n="205,20">ꙗрополкь</w>
-<w n="205,20">же</w>
-<w n="205,20">ѡставивъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="205,20">сн҃а</w>
-<w n="205,20">свое<hi rend="sup">г</hi></w>
-<w n="205,20">володиме<lb/>ра.</w>
-<w n="205,20">а</w>
-<w n="205,20">ꙗ<hi rend="sup">р</hi>п<hi rend="sup">о</hi>олкъ</w>
-<w n="205,20">же</w>
-<w n="205,20">ѡставивъ <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="205,20">сн҃а</w>
-<w n="205,20">своего</w>
-<w n="205,20">вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>мера.</w>
-<w n="205,20">а</w>
-<w n="205,20">ярополкь</w>
-<w n="205,20">же</w>
-<w n="205,20">остави<hi rend="sup">в</hi><lb/></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="205,20">сына</w>
-<w n="205,20">своего</w>
-<w n="205,20">Володимера,</w>
-<w n="205,20">Ярополкъ</w>
-<w n="205,20">же,</w>
-<w n="205,20">оставивъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="205,20">сына</w>
-<w n="205,20">своего</w>
-<w n="205,20">Володимера;</w>
-<w n="205,20">Яропълкъ</w>
-<w n="205,20">же,</w>
-<w n="205,20">оставивъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="205,20">сына</w>
-<w n="205,20">своего</w>
-<w n="205,20">Володимера.</w>
-<w n="205,20">Ярополкъ</w>
-<w n="205,20">же,</w>
-<w n="205,20">оставивъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>205, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="205"/><div type="block" n="20"><p><app><lem wit="#lem">
+            сына своего Володимира. Яропълкъ же, оставивъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">сн҃а свое<lb/>го володимера. ꙗрополкъ же <lb/> ѡставивъ</rdg>
+            <rdg wit="#rad">сн҃а своего. володимера. ꙗрополкъ же <lb/> ѡставивъ</rdg>
+            <rdg wit="#aka">сн҃а своего володимира. <lb/> ꙗрополкь же ѡставивъ</rdg>
+            <rdg wit="#ipa">сн҃а свое<hi rend="sup">г</hi> володиме<lb/>ра. а ꙗ<hi rend="sup">р</hi>п<hi rend="sup">о</hi>олкъ же ѡставивъ
+                <lb/></rdg>
+            <rdg wit="#xle">сн҃а своего вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>мера. а ꙗрополкь же остави<hi rend="sup">в</hi>
+                <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">сына своего Володимера, Ярополкъ же, оставивъ</rdg><rdg wit="#shakh">сына своего Володимера; Яропълкъ же, оставивъ</rdg><rdg wit="#likh">сына своего Володимера. Ярополкъ же, оставивъ</rdg></rdgGrp></app></p></div></body></text></TEI>

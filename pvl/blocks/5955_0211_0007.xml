@@ -1,94 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>211, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="211"/><div type="block" n="7"><p>
-<app>
-<lem wit="#lem">
-<w n="211,7">посълахъ</w>
-<w n="211,7">къ</w>
-<w n="211,7">игумену:</w>
-<w n="211,7">“Приди</w>
-<w n="211,7">да</w>
-<w n="211,7">възмемъ</w>
-<w n="211,7">и”.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="211,7">послахъ</w>
-<w n="211,7">къ</w>
-<w n="211,7">игумену·</w>
-<w n="211,7">приди <lb/></w>
-
-<w n="211,7">да</w>
-<w n="211,7">вынемемъ</w>
-<w n="211,7">и·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="211,7">посла<hi rend="sup">х</hi></w>
-<w n="211,7">ко</w>
-<w n="211,7">игѹ<lb/>меноу.</w>
-<w n="211,7">прииди</w>
-<w n="211,7">да</w>
-<w n="211,7">вымемъ</w>
-<w n="211,7">и.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="211,7">послахь</w>
-<w n="211,7">ко</w>
-<w n="211,7">игѹменѹ·</w>
-<w n="211,7">прииди</w>
-<w n="211,7">да</w>
-<w n="211,7">вы·̏име<lb/>мь</w>
-<w n="211,7">и·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="211,7">посла<hi rend="sup">х</hi><lb/></w>
-<w n="211,7">ко</w>
-<w n="211,7">игумену</w>
-<w n="211,7">прииди</w>
-<w n="211,7">да</w>
-<w n="211,7">и</w>
-<w n="211,7">во<lb/>змемъ·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="211,7">посла<hi rend="sup">х</hi></w>
-<w n="211,7">къ <lb/></w>
-
-<w n="211,7">игоуменоу,</w>
-<w n="211,7">прїиди</w>
-<w n="211,7">да</w>
-<w n="211,7">и</w>
-<w n="211,7">възме<hi rend="sup">м</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="211,7">послахъ</w>
-<w n="211,7">къ</w>
-<w n="211,7">игумену:</w>
-<w n="211,7">“приди,</w>
-<w n="211,7">да</w>
-<w n="211,7">вынемемъ</w>
-<w n="211,7">и”,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="211,7">посълахъ</w>
-<w n="211,7">къ</w>
-<w n="211,7">игумену:</w>
-<w n="211,7">“приди,</w>
-<w n="211,7">да</w>
-<w n="211,7">выимемъ</w>
-<w n="211,7">и”;</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="211,7">послахъ</w>
-<w n="211,7">къ</w>
-<w n="211,7">игумену:</w>
-<w n="211,7">“Приди</w>
-<w n="211,7">да</w>
-<w n="211,7">вынемемъ</w>
-<w n="211,7">и”.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>211, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="211"/><div type="block" n="7"><p><app><lem wit="#lem">
+            посълахъ къ игумену: “Приди да възмемъ и”.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">послахъ къ игумену· приди <lb/> да вынемемъ и·</rdg>
+            <rdg wit="#rad">посла<hi rend="sup">х</hi> ко игѹ<lb/>меноу. прииди да вымемъ и.</rdg>
+            <rdg wit="#aka">послахь ко игѹменѹ· прииди да вы·̏име<lb/>мь и·</rdg>
+            <rdg wit="#ipa">посла<hi rend="sup">х</hi>
+                <lb/> ко игумену прииди да и во<lb/>змемъ·</rdg>
+            <rdg wit="#xle">посла<hi rend="sup">х</hi> къ <lb/> игоуменоу, прїиди да и възме<hi rend="sup">м</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">послахъ къ игумену: “приди, да вынемемъ и”,</rdg><rdg wit="#shakh">посълахъ къ игумену: “приди, да выимемъ и”;</rdg><rdg wit="#likh">послахъ къ игумену: “Приди да вынемемъ и”.</rdg></rdgGrp></app></p></div></body></text></TEI>

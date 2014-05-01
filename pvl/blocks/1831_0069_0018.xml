@@ -1,106 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>69, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="69"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="69,18">рѣша</w>
-<w n="69,18">Новъгородьци</w>
-<w n="69,18">Святославу:</w>
-<w n="69,18">“Въдаи</w>
-<w n="69,18">ны</w>
-<w n="69,18">Володимира”.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="69,18">рѣша</w>
-<w n="69,18">нооугородьци</w>
-<w n="69,18">с҃тославу.</w>
-<w n="69,18">въдаи <lb/></w>
-
-<w n="69,18">ны</w>
-<w n="69,18">володимера.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="69,18">рѣ<hi rend="sup">ч</hi></w>
-<w n="69,18">нов<hi rend="sup">г</hi>родь<lb/>ци</w>
-<w n="69,18">с҃тославѹ.</w>
-<w n="69,18">даи</w>
-<w n="69,18">ны</w>
-<w n="69,18">володимира.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="69,18">рѣша</w>
-<w n="69,18">новгородци</w>
-<w n="69,18">с҃тослававѹ.</w>
-<w n="69,18">даи</w>
-<w n="69,18">ны</w>
-<w n="69,18">во<lb/>лодимира.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="69,18">рѣша <lb/></w>
-
-<w n="69,18">новгородци</w>
-<w n="69,18">с҃тославу.</w>
-<w n="69,18">въ<lb/>даи</w>
-<w n="69,18">ны</w>
-<w n="69,18">володимира.</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="69,18">рѣша</w>
-<w n="69,18">новгородци</w>
-<w n="69,18">свꙗтославу</w>
-<w n="69,18">даи</w>
-<w n="69,18">ны</w>
-<w n="69,18">володимера</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="69,18">рѣша</w>
-<w n="69,18">новгородци</w>
-<w n="69,18">свꙗтославу</w>
-<w n="69,18">даи</w>
-<w n="69,18">ны</w>
-<w n="69,18">володимера</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="69,18">рѣша</w>
-<w n="69,18">новгородци</w>
-<w n="69,18">свꙗтославу</w>
-<w n="69,18">даи</w>
-<w n="69,18">ны</w>
-<w n="69,18">володимера</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="69,18">рѣша</w>
-<w n="69,18">Ноугородьци</w>
-<w n="69,18">Святославу:</w>
-<w n="69,18">“въдай</w>
-<w n="69,18">ны</w>
-<w n="69,18">Володимера”;</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="69,18">рѣша</w>
-<w n="69,18">Новъгородьци</w>
-<w n="69,18">Святославу:</w>
-<w n="69,18">“въдаи</w>
-<w n="69,18">ны</w>
-<w n="69,18">Володимера”.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="69,18">рѣша</w>
-<w n="69,18">ноугородьци</w>
-<w n="69,18">Святославу:</w>
-<w n="69,18">“Въдай</w>
-<w n="69,18">ны</w>
-<w n="69,18">Володимира”.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>69, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="69"/><div type="block" n="18"><p><app><lem wit="#lem">
+            рѣша Новъгородьци Святославу: “Въдаи ны Володимира”.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">рѣша нооугородьци с҃тославу. въдаи <lb/> ны володимера.</rdg>
+            <rdg wit="#rad">рѣ<hi rend="sup">ч</hi> нов<hi rend="sup">г</hi>родь<lb/>ци с҃тославѹ. даи ны володимира.</rdg>
+            <rdg wit="#aka">рѣша новгородци с҃тослававѹ. даи ны во<lb/>лодимира.</rdg>
+            <rdg wit="#ipa">рѣша <lb/> новгородци с҃тославу. въ<lb/>даи ны володимира.</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">рѣша новгородци свꙗтославу даи ны володимера</rdg>
+            <rdg wit="#nak">рѣша новгородци свꙗтославу даи ны володимера</rdg>
+            <rdg wit="#tol">рѣша новгородци свꙗтославу даи ны володимера</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">рѣша Ноугородьци Святославу: “въдай ны Володимера”;</rdg><rdg wit="#shakh">рѣша Новъгородьци Святославу: “въдаи ны Володимера”.</rdg><rdg wit="#likh">рѣша ноугородьци Святославу: “Въдай ны Володимира”.</rdg></rdgGrp></app></p></div></body></text></TEI>

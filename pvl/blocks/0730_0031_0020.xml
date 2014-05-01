@@ -1,80 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>31, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="31"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="31,20">запретить</w>
-<w n="31,20">кънязь</w>
-<w n="31,20">словомъ</w>
-<w n="31,20">своимъ</w>
-<w n="31,20">и</w>
-<w n="31,20">приходящимъ</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="31,20">запрѣтитъ</w>
-<w n="31,20">князь</w>
-<w n="31,20">посломъ</w>
-<w n="31,20">своимъ</w>
-<w n="31,20">приходящимъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="31,20">запретить</w>
-<w n="31,20">кн҃зь</w>
-<w n="31,20">сло<lb/>вомъ</w>
-<w n="31,20">свои<hi rend="sup">м</hi>.</w>
-<w n="31,20">приходѧщимъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="31,20">запретить</w>
-<w n="31,20">кн҃зь</w>
-<w n="31,20">слово<lb/>мъ</w>
-<w n="31,20">своимъ.</w>
-<w n="31,20">приходѧщимъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="31,20">запрѣти<lb/>ть</w>
-<w n="31,20">кнѧзь</w>
-<w n="31,20"><milestone unit="sic" n="start"/>люде<hi rend="sup">м</hi><milestone unit="sic" n="end"/></w>
-<w n="31,20">своимъ. <lb/></w>
-
-<w n="31,20">приходѧщи<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="31,20">запрети<hi rend="sup">т</hi></w>
-<w n="31,20">кнѧ<hi rend="sup">з</hi><lb/></w>
-<w n="31,20">слѡво<hi rend="sup">м</hi></w>
-<w n="31,20">свои<hi rend="sup">м</hi>.</w>
-<w n="31,20">приходѧщи<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="31,20">запретить</w>
-<w n="31,20">князь</w>
-<w n="31,20">словомъ</w>
-<w n="31,20">своимъ</w>
-<w n="31,20">приходящимъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="31,20">запретить</w>
-<w n="31,20">кънязь</w>
-<w n="31,20">съломъ</w>
-<w n="31,20">своимъ</w>
-<w n="31,20">и</w>
-<w n="31,20">приходящимъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="31,20">запретить</w>
-<w n="31,20">князь</w>
-<w n="31,20">словомъ</w>
-<w n="31,20">своим</w>
-<w n="31,20">приходящимъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>31, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="31"/><div type="block" n="20"><p><app><lem wit="#lem">
+            запретить кънязь словомъ своимъ и приходящимъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">запрѣтитъ князь посломъ своимъ приходящимъ</rdg>
+            <rdg wit="#rad">запретить кн҃зь сло<lb/>вомъ свои<hi rend="sup">м</hi>. приходѧщимъ</rdg>
+            <rdg wit="#aka">запретить кн҃зь слово<lb/>мъ своимъ. приходѧщимъ</rdg>
+            <rdg wit="#ipa">запрѣти<lb/>ть кнѧзь <sic>люде<hi rend="sup">м</hi></sic> своимъ. <lb/>
+                    приходѧщи<hi rend="sup">м</hi></rdg>
+            <rdg wit="#xle">запрети<hi rend="sup">т</hi> кнѧ<hi rend="sup">з</hi>
+                <lb/> слѡво<hi rend="sup">м</hi> свои<hi rend="sup">м</hi>. приходѧщи<hi rend="sup">м</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">запретить князь словомъ своимъ приходящимъ</rdg><rdg wit="#shakh">запретить кънязь съломъ своимъ и приходящимъ</rdg><rdg wit="#likh">запретить князь словомъ своим приходящимъ</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,89 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>13, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="13"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-<w n="13,19">нъ</w>
-<w n="13,19">умыкываху</w>
-<w n="13,19">уводы</w>
-<w n="13,19">дѣвиця.</w>
-<w n="13,19">А</w>
-<w n="13,19">Радимичи,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="13,19">но</w>
-<w n="13,19">оумыкиваху</w>
-<w n="13,19">оуводы</w>
-<w n="13,19">дв҃цѧ.</w>
-<w n="13,19">и</w>
-<w n="13,19">радимичи</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="13,19">но</w>
-<w n="13,19">умыкываху</w>
-<w n="13,19">уводы</w>
-<w n="13,19">дѣвица</w>
-<w n="13,19">и</w>
-<w n="13,19">радимичи</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="13,19">но</w>
-<w n="13,19">оумыкахѹ</w>
-<w n="13,19">уводы</w>
-<w n="13,19">дв҃ца.</w>
-<w n="13,19">а</w>
-<w n="13,19">радимичи.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="13,19">но</w>
-<w n="13,19">оумыкахѹ.</w>
-<w n="13,19">вводы</w>
-<w n="13,19">дв҃ца.</w>
-<w n="13,19">а</w>
-<w n="13,19">радимичи.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="13,19">но</w>
-<w n="13,19">оумыкаху</w>
-<w n="13,19">оуводы</w>
-<w n="13,19">дв҃ца. <lb/></w>
-
-<w n="13,19">а</w>
-<w n="13,19">радимичи</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="13,19">но</w>
-<w n="13,19">умыкиваху</w>
-<w n="13,19">у</w>
-<w n="13,19">воды</w>
-<w n="13,19">дѣвица.</w>
-<w n="13,19">И</w>
-<w n="13,19">Радимичи,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="13,19">нъ</w>
-<w n="13,19">умыкаху</w>
-<w n="13,19">уводы</w>
-<w n="13,19">дѣвиця.</w>
-<w n="13,19">А</w>
-<w n="13,19">Радимичи</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="13,19">но</w>
-<w n="13,19">умыкиваху</w>
-<w n="13,19">у</w>
-<w n="13,19">воды</w>
-<w n="13,19">дѣвиця.</w>
-<w n="13,19">И</w>
-<w n="13,19">радимичи,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>13, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="13"/><div type="block" n="19"><p><app><lem wit="#lem">
+            нъ умыкываху уводы дѣвиця. А Радимичи,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">но оумыкиваху оуводы дв҃цѧ. и радимичи</rdg>
+            <rdg wit="#tro">но умыкываху уводы дѣвица и радимичи</rdg>
+            <rdg wit="#rad">но оумыкахѹ уводы дв҃ца. а радимичи.</rdg>
+            <rdg wit="#aka">но оумыкахѹ. вводы дв҃ца. а радимичи.</rdg>
+            <rdg wit="#ipa">но оумыкаху оуводы дв҃ца. <lb/> а радимичи</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">но умыкиваху у воды дѣвица. И Радимичи,</rdg><rdg wit="#shakh">нъ умыкаху уводы дѣвиця. А Радимичи</rdg><rdg wit="#likh">но умыкиваху у воды дѣвиця. И радимичи,</rdg></rdgGrp></app></p></div></body></text></TEI>

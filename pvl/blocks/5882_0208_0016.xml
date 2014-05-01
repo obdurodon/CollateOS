@@ -1,79 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>208, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="208"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="208,16">Янъка</w>
-<w n="208,16">митрополита</w>
-<w n="208,16">Иоана</w>
-<w n="208,16">скопьчину,</w>
-<w n="208,16">егоже</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="208,16">ꙗнка</w>
-<w n="208,16">митрополи<lb/>та.</w>
-<w n="208,16">іѡана</w>
-<w n="208,16">скопьчину</w>
-<w n="208,16">ѥгоже</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="208,16">ꙗнка.</w>
-<w n="208,16">митрополита.</w>
-<w n="208,16">иѡ<hi rend="sup">н</hi>а.</w>
-<w n="208,16">скопчинѹ.</w>
-<w n="208,16">егоже <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="208,16">ꙗнка.</w>
-<w n="208,16">митрополита.</w>
-<w n="208,16">иѡ<lb/>ана.</w>
-<w n="208,16">скопчинѹ.</w>
-<w n="208,16">егоже</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="208,16">ꙗнка <lb/></w>
-
-<w n="208,16">митрополита.</w>
-<w n="208,16">иѡ</w>
-<w n="208,16">скопьчи<lb/>ну.</w>
-<w n="208,16">егоже</w>
-<w n="208,16"><milestone unit="sic" n="start"/>не<milestone unit="sic" n="end"/></w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="208,16">янька <lb/></w>
-
-<w n="208,16">митрополита.</w>
-<w n="208,16">ио</w>
-<w n="208,16">скопьчиноу.</w>
-<w n="208,16">его<hi rend="sup">ж</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="208,16">Янка</w>
-<w n="208,16">митрополита</w>
-<w n="208,16">Иоана</w>
-<w n="208,16">скопьчину,</w>
-<w n="208,16">егоже</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="208,16">Янъка</w>
-<w n="208,16">митрополита</w>
-<w n="208,16">Иоана</w>
-<w n="208,16">скопьчину,</w>
-<w n="208,16">егоже</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="208,16">Янка</w>
-<w n="208,16">митрополита</w>
-<w n="208,16">Иоана</w>
-<w n="208,16">скопьчину,</w>
-<w n="208,16">его</w>
-<w n="208,16">же</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>208, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="208"/><div type="block" n="16"><p><app><lem wit="#lem">
+            Янъка митрополита Иоана скопьчину, егоже
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ꙗнка митрополи<lb/>та. іѡана скопьчину ѥгоже</rdg>
+            <rdg wit="#rad">ꙗнка. митрополита. иѡ<hi rend="sup">н</hi>а. скопчинѹ. егоже <lb/></rdg>
+            <rdg wit="#aka">ꙗнка. митрополита. иѡ<lb/>ана. скопчинѹ. егоже</rdg>
+            <rdg wit="#ipa">ꙗнка <lb/> митрополита. иѡ скопьчи<lb/>ну. егоже <sic>не</sic></rdg>
+            <rdg wit="#xle">ꙗнька <lb/> митрополита. ио скопьчиноу. его<hi rend="sup">ж</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Янка митрополита Иоана скопьчину, егоже</rdg><rdg wit="#shakh">Янъка митрополита Иоана скопьчину, егоже</rdg><rdg wit="#likh">Янка митрополита Иоана скопьчину, его же</rdg></rdgGrp></app></p></div></body></text></TEI>

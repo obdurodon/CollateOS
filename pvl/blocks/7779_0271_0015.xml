@@ -1,78 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="271"/><div type="block" n="15"><p>
-<app>
-<lem wit="#lem">
-<w n="271,15">възвративъ</w>
-<w n="271,15">ся</w>
-<w n="271,15">въспять,</w>
-<w n="271,15">и</w>
-<w n="271,15">не</w>
-<w n="271,15">допустяху</w>
-<w n="271,15">Угъръ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="271,15">възвратѧшеть</w>
-<w n="271,15">сѧ</w>
-<w n="271,15">вспѧть·</w>
-<w n="271,15">и</w>
-<w n="271,15">не</w>
-<w n="271,15">допустѧху</w>
-<w n="271,15">оугръ <pb n="91c"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="271,15"><milestone unit="sic" n="start"/>в<milestone unit="sic" n="end"/>зватив</w>
-<w n="271,15">сѧ</w>
-<w n="271,15">оуспѧть·</w>
-<w n="271,15">и <lb/></w>
-
-<w n="271,15">не</w>
-<w n="271,15">допустѧхоу</w>
-<w n="271,15">угоръ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="271,15">въз′вратив</w>
-<w n="271,15">сѧ</w>
-<w n="271,15">въспѧть, <lb/></w>
-
-<w n="271,15">и</w>
-<w n="271,15">не</w>
-<w n="271,15">дѡпоустѧхѫ</w>
-<w n="271,15">оугоръ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="271,15">възвратяшеться</w>
-<w n="271,15">вспять,</w>
-<w n="271,15">и</w>
-<w n="271,15">не</w>
-<w n="271,15">допустяху</w>
-<w n="271,15">Угръ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="271,15">възвратяшеться</w>
-<w n="271,15">въспять,</w>
-<w n="271,15">и</w>
-<w n="271,15">не</w>
-<w n="271,15">допустяху</w>
-<w n="271,15">Угъръ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="271,15">възвратяшеться</w>
-<w n="271,15">вспять,</w>
-<w n="271,15">и</w>
-<w n="271,15">не</w>
-<w n="271,15">допустяху</w>
-<w n="271,15">угръ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="271"/><div type="block" n="15"><p><app><lem wit="#lem">
+            възвративъ ся въспять, и не допустяху Угъръ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">възвратѧшеть сѧ вспѧть· и не допустѧху оугръ <pb n="91c"/></rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa"><sic>в</sic>зватив сѧ оуспѧть· и <lb/> не допустѧхоу угоръ</rdg>
+            <rdg wit="#xle">въз′вратив сѧ въспѧть, <lb/> и не дѡпоустѧхѫ оугоръ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">възвратяшеться вспять, и не допустяху Угръ</rdg><rdg wit="#shakh">възвратяшеться въспять, и не допустяху Угъръ</rdg><rdg wit="#likh">възвратяшеться вспять, и не допустяху угръ</rdg></rdgGrp></app></p></div></body></text></TEI>

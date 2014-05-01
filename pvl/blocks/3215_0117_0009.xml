@@ -1,103 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>117, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="117"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="117,9">проидеть,</w>
-<w n="117,9">тъгда</w>
-<w n="117,9">охабите</w>
-<w n="117,9">ся</w>
-<w n="117,9">его”.</w>
-<w n="117,9">Они</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="117,9">проидеть.</w>
-<w n="117,9">то</w>
-<w n="117,9">тогда</w>
-<w n="117,9">ѡхабитесѧ <lb/></w>
-
-<w n="117,9">ѥго.</w>
-<w n="117,9">ѡни</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="117,9">проидеть.</w>
-<w n="117,9">и</w>
-<w n="117,9">тогда <lb/></w>
-
-<w n="117,9">ѡхабите<hi rend="sup">с</hi></w>
-<w n="117,9">его.</w>
-<w n="117,9">ѡни</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="117,9">проидеть.</w>
-<w n="117,9">и</w>
-<w n="117,9">тогда</w>
-<w n="117,9">ѡхабитесѧ</w>
-<w n="117,9">его.</w>
-<w n="117,9">ѡни</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="117,9">проидеть.</w>
-<w n="117,9">то<lb/>гда</w>
-<w n="117,9">ѡхабитесѧ</w>
-<w n="117,9">его.</w>
-<w n="117,9">ѡни</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="117,9">порогы</w>
-<w n="117,9">охабитесꙗ</w>
-<w n="117,9">его</w>
-<w n="117,9">они</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="117,9">порогы</w>
-<w n="117,9">и</w>
-<w n="117,9">проидеть</w>
-<w n="117,9">охабитесꙗ</w>
-<w n="117,9">его</w>
-<w n="117,9">они</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="117,9">порогы</w>
-<w n="117,9">и</w>
-<w n="117,9">проидетъ</w>
-<w n="117,9">охабитесꙗ</w>
-<w n="117,9">его</w>
-<w n="117,9">они</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="117,9">проидеть;</w>
-<w n="117,9">то</w>
-<w n="117,9">тогда</w>
-<w n="117,9">охабитеся</w>
-<w n="117,9">его”.</w>
-<w n="117,9">Они</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="117,9">проидеть,</w>
-<w n="117,9">ти</w>
-<w n="117,9">тъгда</w>
-<w n="117,9">охабитеся</w>
-<w n="117,9">его”.</w>
-<w n="117,9">Они</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="117,9">проидеть,</w>
-<w n="117,9">то</w>
-<w n="117,9">тогда</w>
-<w n="117,9">охабитеся</w>
-<w n="117,9">его”.</w>
-<w n="117,9">Они</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>117, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="117"/><div type="block" n="9"><p><app><lem wit="#lem">
+            проидеть, тъгда охабите ся его”. Они
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">проидеть. то тогда ѡхабитесѧ <lb/> ѥго. ѡни</rdg>
+            <rdg wit="#rad">проидеть. и тогда <lb/> ѡхабите<hi rend="sup">с</hi> его. ѡни</rdg>
+            <rdg wit="#aka">проидеть. и тогда ѡхабитесѧ его. ѡни</rdg>
+            <rdg wit="#ipa">проидеть. то<lb/>гда ѡхабитесѧ его. ѡни</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">порогы охабитесꙗ его они</rdg>
+            <rdg wit="#nak">порогы и проидеть охабитесꙗ его они</rdg>
+            <rdg wit="#tol">порогы и проидетъ охабитесꙗ его они</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">проидеть; то тогда охабитеся его”. Они</rdg><rdg wit="#shakh">проидеть, ти тъгда охабитеся его”. Они</rdg><rdg wit="#likh">проидеть, то тогда охабитеся его”. Они</rdg></rdgGrp></app></p></div></body></text></TEI>

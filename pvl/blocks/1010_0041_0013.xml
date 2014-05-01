@@ -1,104 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>41, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="41"/><div type="block" n="13"><p>
-<app>
-<lem wit="#lem">
-<w n="41,13">яко</w>
-<w n="41,13">Июда</w>
-<w n="41,13">и</w>
-<w n="41,13">сынове</w>
-<w n="41,13">Скевави.</w>
-<w n="41,13">Убо</w>
-<w n="41,13">и</w>
-<w n="41,13">на</w>
-<w n="41,13">не-</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="41,13">ꙗко</w>
-<w n="41,13">июда.</w>
-<w n="41,13">и</w>
-<w n="41,13">сн҃ве</w>
-<w n="41,13">ксевави.</w>
-<w n="41,13">оубо</w>
-<w n="41,13">и</w>
-<w n="41,13">не</w>
-<w n="41,13">на</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="41,13">ꙗко</w>
-<w n="41,13">июда</w>
-<w n="41,13">и</w>
-<w n="41,13">сн҃ве</w>
-<w n="41,13">ксевави.</w>
-<w n="41,13">оубо</w>
-<w n="41,13">и</w>
-<w n="41,13">не</w>
-<w n="41,13">на</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="41,13">ꙗко</w>
-<w n="41,13">июда.</w>
-<w n="41,13">и <lb/></w>
-
-<w n="41,13">сн҃ве</w>
-<w n="41,13">скевави</w>
-<w n="41,13">оубо.</w>
-<w n="41,13">и</w>
-<w n="41,13">на <lb/></w>
-
-<w n="41,13">не</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="41,13">яко</w>
-<w n="41,13">іоуда.</w>
-<w n="41,13">и</w>
-<w n="41,13">сынове</w>
-<w n="41,13">скевови. <lb/></w>
-
-<w n="41,13">оубо,</w>
-<w n="41,13">и</w>
-<w n="41,13">на</w>
-<w n="41,13">не</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="41,13">яко</w>
-<w n="41,13">Июда</w>
-<w n="41,13">и</w>
-<w n="41,13">сынове</w>
-<w n="41,13">Скевави.</w>
-<w n="41,13">Убо</w>
-<w n="41,13">и</w>
-<w n="41,13">не</w>
-<w n="41,13">на</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="41,13">яко</w>
-<w n="41,13">Июда</w>
-<w n="41,13">и</w>
-<w n="41,13">сынове</w>
-<w n="41,13">Скевавли.</w>
-<w n="41,13">Убо</w>
-<w n="41,13">и</w>
-<w n="41,13">не</w>
-<w n="41,13">на</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="41,13">яко</w>
-<w n="41,13">Июда</w>
-<w n="41,13">и</w>
-<w n="41,13">сынове</w>
-<w n="41,13">Скевави.</w>
-<w n="41,13">Убо</w>
-<w n="41,13">и</w>
-<w n="41,13">не</w>
-<w n="41,13">на</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>41, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="41"/><div type="block" n="13"><p><app><lem wit="#lem">
+            яко Июда и сынове Скевави. Убо и на не-
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">ꙗко июда. и сн҃ве ксевави. оубо и не на</rdg>
+            <rdg wit="#aka">ꙗко июда и сн҃ве ксевави. оубо и не на</rdg>
+            <rdg wit="#ipa">ꙗко июда. и <lb/> сн҃ве скевави оубо. и на <lb/> не</rdg>
+            <rdg wit="#xle">ꙗко іоуда. и сынове скевови. <lb/> оубо, и на не</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">яко Июда и сынове Скевави. Убо и не на</rdg><rdg wit="#shakh">яко Июда и сынове Скевавли. Убо и не на</rdg><rdg wit="#likh">яко Июда и сынове Скевави. Убо и не на</rdg></rdgGrp></app></p></div></body></text></TEI>

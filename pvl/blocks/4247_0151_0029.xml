@@ -1,87 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>151, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="151"/><div type="block" n="29"><p>
-<app>
-<lem wit="#lem">
-<w n="151,29">и</w>
-<w n="151,29">кънигамъ</w>
-<w n="151,29">прилежа,</w>
-<w n="151,29">и</w>
-<w n="151,29">почитая</w>
-<w n="151,29">часто</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="151,29">и</w>
-<w n="151,29">книгамъ</w>
-<w n="151,29">приле<lb/>жа</w>
-<w n="151,29">и</w>
-<w n="151,29">почитаꙗ</w>
-<w n="151,29">е</w>
-<w n="151,29">часто</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="151,29">и</w>
-<w n="151,29">кни<lb/>га<hi rend="sup">м</hi></w>
-<w n="151,29">прилежа</w>
-<w n="151,29">и</w>
-<w n="151,29">почитаа</w>
-<w n="151,29">часто.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="151,29">и</w>
-<w n="151,29">книгамъ</w>
-<w n="151,29">прилежа</w>
-<w n="151,29">и</w>
-<w n="151,29">почита<lb/>ꙗ</w>
-<w n="151,29">ча<hi rend="sup">с</hi>то.</w>
-<w n="151,29">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="151,29">и</w>
-<w n="151,29">книгамъ</w>
-<w n="151,29">прилежа</w>
-<w n="151,29">почи<lb/>таꙗ</w>
-<w n="151,29">часто.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="151,29">и</w>
-<w n="151,29">книга<hi rend="sup">м</hi></w>
-<w n="151,29">прилежа. <lb/></w>
-
-<w n="151,29">почитаа</w>
-<w n="151,29">часто.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="151,29">и</w>
-<w n="151,29">книгамъ</w>
-<w n="151,29">прилежа,</w>
-<w n="151,29">и</w>
-<w n="151,29">почитая</w>
-<w n="151,29">е</w>
-<w n="151,29">часто</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="151,29">и</w>
-<w n="151,29">кънигамъ</w>
-<w n="151,29">прилежа,</w>
-<w n="151,29">и</w>
-<w n="151,29">почитая</w>
-<w n="151,29">я</w>
-<w n="151,29">часто</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="151,29">и</w>
-<w n="151,29">книгамъ</w>
-<w n="151,29">прилежа,</w>
-<w n="151,29">и</w>
-<w n="151,29">почитая</w>
-<w n="151,29">е</w>
-<w n="151,29">часто</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>151, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="151"/><div type="block" n="29"><p><app><lem wit="#lem">
+            и кънигамъ прилежа, и почитая часто
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и книгамъ приле<lb/>жа и почитаꙗ е часто</rdg>
+            <rdg wit="#rad">и кни<lb/>га<hi rend="sup">м</hi> прилежа и почитаа часто.</rdg>
+            <rdg wit="#aka">и книгамъ прилежа и почита<lb/>ꙗ ча<hi rend="sup">с</hi>то. и</rdg>
+            <rdg wit="#ipa">и книгамъ прилежа почи<lb/>таꙗ часто.</rdg>
+            <rdg wit="#xle">и книга<hi rend="sup">м</hi> прилежа. <lb/> почитаа часто.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и книгамъ прилежа, и почитая е часто</rdg><rdg wit="#shakh">и кънигамъ прилежа, и почитая я часто</rdg><rdg wit="#likh">и книгамъ прилежа, и почитая е часто</rdg></rdgGrp></app></p></div></body></text></TEI>

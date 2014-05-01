@@ -1,106 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>64, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="64"/><div type="block" n="27"><p>
-<app>
-<lem wit="#lem">
-<w n="64,27">издрѣзавъ</w>
-<w n="64,27">конину</w>
-<w n="64,27">или</w>
-<w n="64,27">звѣрину</w>
-<w n="64,27">или</w>
-<w n="64,27">говядину,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="64,27">изр<hi rend="sup">з</hi>ѣ<hi rend="sup">а</hi>въ.</w>
-<w n="64,27">кон<hi rend="sup">и</hi><lb/>ну</w>
-<w n="64,27">ли.</w>
-<w n="64,27">звѣрину</w>
-<w n="64,27">ли.</w>
-<w n="64,27">или</w>
-<w n="64,27">говѧдину.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="64,27">изрѣзавъ.</w>
-<w n="64,27">конинѹ</w>
-<w n="64,27">ли</w>
-<w n="64,27">зверинѹ</w>
-<w n="64,27">ли.</w>
-<w n="64,27">или</w>
-<w n="64,27">говѧдинѹ. <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="64,27">изрѣзавь.</w>
-<w n="64,27">конїнѹ</w>
-<w n="64,27">ли.</w>
-<w n="64,27">звери<lb/>нѹ</w>
-<w n="64,27">ли.</w>
-<w n="64,27">и</w>
-<w n="64,27">говѧдинѹ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="64,27">изрѣ<lb/>завъ.</w>
-<w n="64,27">конину.</w>
-<w n="64,27">или</w>
-<w n="64,27">звѣ<lb/>рину.</w>
-<w n="64,27">или</w>
-<w n="64,27">говѧдину</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="64,27">изрѣзавъ <lb/></w>
-
-<w n="64,27">кониноу.</w>
-<w n="64,27">или</w>
-<w n="64,27">звѣриноу.</w>
-<w n="64,27">или</w>
-<w n="64,27">говѧдиноу.</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="64,27">изрѣзавше</w>
-<w n="64,27">конину</w>
-<w n="64,27">или</w>
-<w n="64,27">звѣрину</w>
-<w n="64,27">грꙗдину</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="64,27">изрѣзавъ</w>
-<w n="64,27">конину</w>
-<w n="64,27">или</w>
-<w n="64,27">звѣрину</w>
-<w n="64,27">грꙗдину</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="64,27">изрѣзавъ</w>
-<w n="64,27">конину</w>
-<w n="64,27">ли,</w>
-<w n="64,27">звѣрину</w>
-<w n="64,27">ли</w>
-<w n="64,27">или</w>
-<w n="64,27">говядину</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="64,27">изрѣзавъ</w>
-<w n="64,27">конину</w>
-<w n="64,27">или</w>
-<w n="64,27">звѣрину</w>
-<w n="64,27">или</w>
-<w n="64,27">говядину,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="64,27">изрѣзавъ</w>
-<w n="64,27">конину</w>
-<w n="64,27">ли,</w>
-<w n="64,27">звѣрину</w>
-<w n="64,27">ли</w>
-<w n="64,27">или</w>
-<w n="64,27">говядину</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>64, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="64"/><div type="block" n="27"><p><app><lem wit="#lem">
+            издрѣзавъ конину или звѣрину или говядину,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">изр<hi rend="sup">з</hi>ѣ<hi rend="sup">а</hi>въ. кон<hi rend="sup">и</hi><lb/>ну ли. звѣрину ли. или
+                говѧдину.</rdg>
+            <rdg wit="#rad">изрѣзавъ. конинѹ ли зверинѹ ли. или говѧдинѹ. <lb/></rdg>
+            <rdg wit="#aka">изрѣзавь. конїнѹ ли. звери<lb/>нѹ ли. и говѧдинѹ.</rdg>
+            <rdg wit="#ipa">изрѣ<lb/>завъ. конину. или звѣ<lb/>рину. или говѧдину</rdg>
+            <rdg wit="#xle">изрѣзавъ <lb/> кониноу. или звѣриноу. или говѧдиноу.</rdg>
+            <rdg wit="#kom">изрѣзавше конину или звѣрину грꙗдину</rdg>
+            <rdg wit="#tol">изрѣзавъ конину или звѣрину грꙗдину</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">изрѣзавъ конину ли, звѣрину ли или говядину</rdg><rdg wit="#shakh">изрѣзавъ конину или звѣрину или говядину,</rdg><rdg wit="#likh">изрѣзавъ конину ли, звѣрину ли или говядину</rdg></rdgGrp></app></p></div></body></text></TEI>

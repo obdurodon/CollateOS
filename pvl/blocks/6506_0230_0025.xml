@@ -1,87 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>230, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="230"/><div type="block" n="25"><p>
-<app>
-<lem wit="#lem">
-<w n="230,25">въ</w>
-<w n="230,25">земли</w>
-<w n="230,25">нашеи</w>
-<w n="230,25">Кыевъ,</w>
-<w n="230,25">и</w>
-<w n="230,25">ту</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="230,25">гра<hi rend="sup">д</hi></w>
-<w n="230,25">в</w>
-<w n="230,25">земли</w>
-<w n="230,25">во</w>
-<w n="230,25">всеи</w>
-<w n="230,25">кыевъ· <lb/></w>
-
-<w n="230,25">ту</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="230,25">старѣи</w>
-<w n="230,25">киевъ·</w>
-<w n="230,25">и</w>
-<w n="230,25">тѹ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="230,25">стареи</w>
-<w n="230,25">к</w>
-<w n="230,25">кы·̏евъ·</w>
-<w n="230,25">и</w>
-<w n="230,25">тѹ <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="230,25">в</w>
-<w n="230,25">землѣ</w>
-<w n="230,25">нашѣ<lb/>и</w>
-<w n="230,25">кыевъ·</w>
-<w n="230,25">и</w>
-<w n="230,25">туто</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="230,25">въ</w>
-<w n="230,25">земли</w>
-<w n="230,25">на<lb/>шеи</w>
-<w n="230,25">кыевъ.</w>
-<w n="230,25">и</w>
-<w n="230,25">тоуть</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="230,25">градъ</w>
-<w n="230,25">въ</w>
-<w n="230,25">земли</w>
-<w n="230,25">во</w>
-<w n="230,25">всей,</w>
-<w n="230,25">Кыевъ,</w>
-<w n="230,25">ту</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="230,25">градъ</w>
-<w n="230,25">въ</w>
-<w n="230,25">земли</w>
-<w n="230,25">въ</w>
-<w n="230,25">вьсеи</w>
-<w n="230,25">Кыевъ,</w>
-<w n="230,25">и</w>
-<w n="230,25">ту</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="230,25">град</w>
-<w n="230,25">въ</w>
-<w n="230,25">земли</w>
-<w n="230,25">во</w>
-<w n="230,25">всей,</w>
-<w n="230,25">Кыевъ;</w>
-<w n="230,25">ту</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>230, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="230"/><div type="block" n="25"><p><app><lem wit="#lem">
+            въ земли нашеи Кыевъ, и ту
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">гра<hi rend="sup">д</hi> в земли во всеи кыевъ· <lb/> ту</rdg>
+            <rdg wit="#rad">старѣи киевъ· и тѹ</rdg>
+            <rdg wit="#aka">стареи к кы·̏евъ· и тѹ <lb/></rdg>
+            <rdg wit="#ipa">в землѣ нашѣ<lb/>и кыевъ· и туто</rdg>
+            <rdg wit="#xle">въ земли на<lb/>шеи кыевъ. и тоуть</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">градъ въ земли во всей, Кыевъ, ту</rdg><rdg wit="#shakh">градъ въ земли въ вьсеи Кыевъ, и ту</rdg><rdg wit="#likh">град въ земли во всей, Кыевъ; ту</rdg></rdgGrp></app></p></div></body></text></TEI>

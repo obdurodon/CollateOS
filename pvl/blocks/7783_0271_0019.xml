@@ -1,79 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="271"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-<w n="271,19">зъбиваеть.</w>
-<w n="271,19">И</w>
-<w n="271,19">побѣгоша</w>
-<w n="271,19">Угъре,</w>
-<w n="271,19">и</w>
-<w n="271,19">мънози</w>
-<w n="271,19">истопоша</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="271,19">галицѣ·</w>
-<w n="271,19">и</w>
-<w n="271,19">по<lb/>бѣгоша</w>
-<w n="271,19">оугри·</w>
-<w n="271,19">и</w>
-<w n="271,19">мнози</w>
-<w n="271,19">исто<lb/>поша</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="271,19">збива<lb/>еть·</w>
-<w n="271,19">и</w>
-<w n="271,19">побѣгоша</w>
-<w n="271,19">оугре·</w>
-<w n="271,19">и</w>
-<w n="271,19">мно<lb/>зи</w>
-<w n="271,19">истопоша</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="271,19">избивае<hi rend="sup">т</hi>,</w>
-<w n="271,19">и</w>
-<w n="271,19">побѣгоша</w>
-<w n="271,19">оугре.</w>
-<w n="271,19">и</w>
-<w n="271,19">мнѡѕи</w>
-<w n="271,19">истопоша <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="271,19">галицѣ.</w>
-<w n="271,19">И</w>
-<w n="271,19">побѣгоша</w>
-<w n="271,19">Угри,</w>
-<w n="271,19">и</w>
-<w n="271,19">мнози</w>
-<w n="271,19">истопоша</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="271,19">събиваеть.</w>
-<w n="271,19">И</w>
-<w n="271,19">побѣгоша</w>
-<w n="271,19">Угъри,</w>
-<w n="271,19">и</w>
-<w n="271,19">мънози</w>
-<w n="271,19">истопоша</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="271,19">галицѣ.</w>
-<w n="271,19">И</w>
-<w n="271,19">побѣгоша</w>
-<w n="271,19">угри,</w>
-<w n="271,19">и</w>
-<w n="271,19">мнози</w>
-<w n="271,19">истопоша</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="271"/><div type="block" n="19"><p><app><lem wit="#lem">
+            зъбиваеть. И побѣгоша Угъре, и мънози истопоша
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">галицѣ· и по<lb/>бѣгоша оугри· и мнози исто<lb/>поша</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">збива<lb/>еть· и побѣгоша оугре· и мно<lb/>зи истопоша</rdg>
+            <rdg wit="#xle">избивае<hi rend="sup">т</hi>, и побѣгоша оугре. и мнѡѕи истопоша <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">галицѣ. И побѣгоша Угри, и мнози истопоша</rdg><rdg wit="#shakh">събиваеть. И побѣгоша Угъри, и мънози истопоша</rdg><rdg wit="#likh">галицѣ. И побѣгоша угри, и мнози истопоша</rdg></rdgGrp></app></p></div></body></text></TEI>

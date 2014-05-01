@@ -1,113 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>130, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="130"/><div type="block" n="26"><p>
-<app>
-<lem wit="#lem">
-<w n="130,26">людие,</w>
-<w n="130,26">сънидоша</w>
-<w n="130,26">ся</w>
-<w n="130,26">бес</w>
-<w n="130,26">числа,</w>
-<w n="130,26">и</w>
-<w n="130,26">плакаша</w>
-<w n="130,26">ся</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="130,26">людье.</w>
-<w n="130,26">бе</w>
-<w n="130,26">щисла</w>
-<w n="130,26">снидошасѧ. <lb/></w>
-
-<w n="130,26">и</w>
-<w n="130,26">плакашасѧ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="130,26">людие</w>
-<w n="130,26">бес</w>
-<w n="130,26">чи<lb/>сла</w>
-<w n="130,26">снидоша<hi rend="sup">с</hi>.</w>
-<w n="130,26">и</w>
-<w n="130,26">плака<hi rend="sup">с</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="130,26">людие</w>
-<w n="130,26">бес</w>
-<w n="130,26">числа. <lb/></w>
-
-<w n="130,26">снидошасѧ.</w>
-<w n="130,26">и</w>
-<w n="130,26">плакашасѧ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="130,26">людье <lb/></w>
-
-<w n="130,26">и</w>
-<w n="130,26">снидошасѧ</w>
-<w n="130,26">бе</w>
-<w n="130,26">щисла.</w>
-<w n="130,26">и</w>
-<w n="130,26">пла<lb/>кашасѧ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="130,26">людїе,</w>
-<w n="130,26">снидоша<hi rend="sup">с</hi></w>
-<w n="130,26">бес</w>
-<w n="130,26">числа.</w>
-<w n="130,26">и</w>
-<w n="130,26">плакаша<hi rend="sup">с</hi><pb n="57r"/></w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="130,26">людие</w>
-<w n="130,26">снидошасꙗ</w>
-<w n="130,26">безъ</w>
-<w n="130,26">числа</w>
-<w n="130,26">и</w>
-<w n="130,26">плакашасꙗ</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="130,26">людие</w>
-<w n="130,26">снидошасꙗ</w>
-<w n="130,26">бещисла</w>
-<w n="130,26">и</w>
-<w n="130,26">плакашесꙗ</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="130,26">людие</w>
-<w n="130,26">снидошасꙗ</w>
-<w n="130,26">бесчисла</w>
-<w n="130,26">и</w>
-<w n="130,26">плакашесꙗ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="130,26">людье,</w>
-<w n="130,26">бес</w>
-<w n="130,26">числа</w>
-<w n="130,26">снидошася</w>
-<w n="130,26">и</w>
-<w n="130,26">плакашася</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="130,26">людие,</w>
-<w n="130,26">бес</w>
-<w n="130,26">числа</w>
-<w n="130,26">сънидошася,</w>
-<w n="130,26">и</w>
-<w n="130,26">плакашася</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="130,26">людье,</w>
-<w n="130,26">бе-щисла</w>
-<w n="130,26">снидошася</w>
-<w n="130,26">и</w>
-<w n="130,26">плакашася</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>130, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="130"/><div type="block" n="26"><p><app><lem wit="#lem">
+            людие, сънидоша ся бес числа, и плакаша ся
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">людье. бе щисла снидошасѧ. <lb/> и плакашасѧ</rdg>
+            <rdg wit="#rad">людие бес чи<lb/>сла снидоша<hi rend="sup">с</hi>. и плака<hi rend="sup">с</hi></rdg>
+            <rdg wit="#aka">людие бес числа. <lb/> снидошасѧ. и плакашасѧ</rdg>
+            <rdg wit="#ipa">людье <lb/> и снидошасѧ бе щисла. и пла<lb/>кашасѧ</rdg>
+            <rdg wit="#xle">людїе,  снидоша<hi rend="sup">с</hi> бес числа. и плакаша<hi rend="sup">с</hi>
+                <pb n="57r"/></rdg>
+            <rdg wit="#kom">людие снидошасꙗ безъ числа и плакашасꙗ</rdg>
+            <rdg wit="#nak">людие снидошасꙗ бещисла и плакашесꙗ</rdg>
+            <rdg wit="#tol">людие снидошасꙗ бесчисла и плакашесꙗ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">людье, бес числа снидошася и плакашася</rdg><rdg wit="#shakh">людие, бес числа сънидошася, и плакашася</rdg><rdg wit="#likh">людье, бе-щисла снидошася и плакашася</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,87 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>37, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="37"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="37,3">възвратять</w>
-<w n="37,3">имѣние</w>
-<w n="37,3">къ</w>
-<w n="37,3">малымъ</w>
-<w n="37,3">ближикамъ</w>
-<w n="37,3">въ</w>
-<w n="37,3">Русь.</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="37,3">възрати<hi rend="sup">т</hi></w>
-<w n="37,3">имѣнїе</w>
-<w n="37,3">к</w>
-<w n="37,3">мал<hi rend="sup">м</hi>ы</w>
-<w n="37,3">ближика<hi rend="sup">м</hi><lb/></w>
-<w n="37,3">в</w>
-<w n="37,3">роу<hi rend="sup">с</hi>.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="37,3">взрати<hi rend="sup">т</hi></w>
-<w n="37,3">имѣнїе <lb/></w>
-
-<w n="37,3">к</w>
-<w n="37,3">малымъ</w>
-<w n="37,3">блїжикамъ</w>
-<w n="37,3">в</w>
-<w n="37,3">рѹ<hi rend="sup">с</hi>.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="37,3">възва<lb/>тить</w>
-<w n="37,3">имѣнье</w>
-<w n="37,3">к</w>
-<w n="37,3">малы<lb/>мъ</w>
-<w n="37,3">ближикамъ</w>
-<w n="37,3">в</w>
-<w n="37,3">русь. <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="37,3">възврати<hi rend="sup">т</hi></w>
-<w n="37,3">имѣнїе</w>
-<w n="37,3">къ</w>
-<w n="37,3">мал<hi rend="sup">м</hi>ы</w>
-<w n="37,3">бли<lb/>жако<hi rend="sup">м</hi></w>
-<w n="37,3">в</w>
-<w n="37,3">рѹ<hi rend="sup">с</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="37,3">възратиться</w>
-<w n="37,3">имѣние</w>
-<w n="37,3">к</w>
-<w n="37,3">малымъ</w>
-<w n="37,3">ближикамъ</w>
-<w n="37,3">в</w>
-<w n="37,3">Русь;</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="37,3">възвратять</w>
-<w n="37,3">имѣние</w>
-<w n="37,3">къ</w>
-<w n="37,3">малымъ</w>
-<w n="37,3">ближикамъ</w>
-<w n="37,3">въ</w>
-<w n="37,3">Русь.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="37,3">възратить</w>
-<w n="37,3">имѣние</w>
-<w n="37,3">к</w>
-<w n="37,3">малым</w>
-<w n="37,3">ближикам</w>
-<w n="37,3">в</w>
-<w n="37,3">Русь.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>37, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="37"/><div type="block" n="3"><p><app><lem wit="#lem">
+            възвратять имѣние къ малымъ ближикамъ въ Русь.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">възрати<hi rend="sup">т</hi> имѣнїе к мал<hi rend="sup">м</hi>ы ближика<hi rend="sup">м</hi>
+                <lb/> в роу<hi rend="sup">с</hi>.</rdg>
+            <rdg wit="#aka">взрати<hi rend="sup">т</hi> имѣнїе <lb/> к малымъ блїжикамъ в рѹ<hi rend="sup">с</hi>.</rdg>
+            <rdg wit="#ipa">възва<lb/>тить имѣнье к малы<lb/>мъ ближикамъ в русь. <lb/></rdg>
+            <rdg wit="#xle">възврати<hi rend="sup">т</hi> имѣнїе къ мал<hi rend="sup">м</hi>ы бли<lb/>жако<hi rend="sup">м</hi> в
+                    рѹ<hi rend="sup">с</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">възратиться имѣние к малымъ ближикамъ в Русь;</rdg><rdg wit="#shakh">възвратять имѣние къ малымъ ближикамъ въ Русь.</rdg><rdg wit="#likh">възратить имѣние к малым ближикам в Русь.</rdg></rdgGrp></app></p></div></body></text></TEI>

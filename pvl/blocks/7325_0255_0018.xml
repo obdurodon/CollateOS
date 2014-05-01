@@ -1,56 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>255, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="255"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="255,18">и</w>
-<w n="255,18">ѿ</w>
-<w n="255,18">злы<hi rend="sup">х</hi></w>
-<w n="255,18">вс<hi rend="sup">х</hi>ѣ·</w>
-<w n="255,18">и</w>
-<w n="255,18">тебе</w>
-<w n="255,18">славлю</w>
-<w n="255,18">пре<lb/>пѣтаꙗ·</w>
-<w n="255,18">и</w>
-<w n="255,18">разумѣите</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="255,18">и</w>
-<w n="255,18">отъ</w>
-<w n="255,18">злыхъ</w>
-<w n="255,18">всѣхъ,</w>
-<w n="255,18">и</w>
-<w n="255,18">тебе</w>
-<w n="255,18">славлю,</w>
-<w n="255,18">препѣтая!</w>
-<w n="255,18">И</w>
-<w n="255,18">разумѣйте</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="255,18">и</w>
-<w n="255,18">от</w>
-<w n="255,18">злых</w>
-<w n="255,18">всѣх,</w>
-<w n="255,18">и</w>
-<w n="255,18">тебе</w>
-<w n="255,18">славлю,</w>
-<w n="255,18">препѣтая!</w>
-<w n="255,18">И</w>
-<w n="255,18">разумѣйте</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>255, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="255"/><div type="block" n="18"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и ѿ злы<hi rend="sup">х</hi> вс<hi rend="sup">х</hi>ѣ· и тебе славлю пре<lb/>пѣтаꙗ· и разумѣите</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и отъ злыхъ всѣхъ, и тебе славлю, препѣтая! И разумѣйте</rdg><rdg wit="#likh">и от злых всѣх, и тебе славлю, препѣтая! И разумѣйте</rdg></rdgGrp></app></p></div></body></text></TEI>

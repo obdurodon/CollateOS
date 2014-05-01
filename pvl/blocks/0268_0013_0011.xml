@@ -1,94 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>13, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="13"/><div type="block" n="11"><p>
-<app>
-<lem wit="#lem">
-<w n="13,11">матерьмъ</w>
-<w n="13,11">и</w>
-<w n="13,11">снъхы</w>
-<w n="13,11">къ</w>
-<w n="13,11">свекръвамъ</w>
-
-</lem>
-
-<rdg wit="#lav">
-<w n="13,11">мт҃рмъ</w>
-<w n="13,11">и</w>
-<w n="13,11">к</w>
-<w n="13,11">родителемъ</w>
-<w n="13,11">своимъ.</w>
-<w n="13,11">къ</w>
-<w n="13,11">свекровем<hi rend="sup">ъ</hi><lb/></w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="13,11">матеремъ</w>
-<w n="13,11">и</w>
-<w n="13,11">к</w>
-<w n="13,11">родителемъ</w>
-<w n="13,11">своимъ</w>
-<w n="13,11">къ</w>
-<w n="13,11">свекровемъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="13,11">мт҃рмь.</w>
-<w n="13,11">и</w>
-<w n="13,11">снохы</w>
-<w n="13,11">ко</w>
-<w n="13,11">свекрове<hi rend="sup">м</hi>.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="13,11">мт҃ремъ.</w>
-<w n="13,11">и</w>
-<w n="13,11">снохи</w>
-<w n="13,11">ко</w>
-<w n="13,11">свекромъ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="13,11">матеремъ</w>
-<w n="13,11">свои<hi rend="sup">м</hi>. <lb/></w>
-
-<w n="13,11">и</w>
-<w n="13,11">снохы</w>
-<w n="13,11">къ</w>
-<w n="13,11">свекровамъ <lb/></w>
-
-<w n="13,11">своимъ.</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="13,11">матеремъ</w>
-<w n="13,11">и</w>
-<w n="13,11">к</w>
-<w n="13,11">родителемъ</w>
-<w n="13,11">своимъ,</w>
-<w n="13,11">къ</w>
-<w n="13,11">свекровемъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="13,11">матерьмъ</w>
-<w n="13,11">и</w>
-<w n="13,11">къ</w>
-<w n="13,11">родителемъ</w>
-<w n="13,11">своимъ,</w>
-<w n="13,11">и</w>
-<w n="13,11">снъхы</w>
-<w n="13,11">къ</w>
-<w n="13,11">свекръвамъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="13,11">матеремъ</w>
-<w n="13,11">и</w>
-<w n="13,11">к</w>
-<w n="13,11">родителемъ</w>
-<w n="13,11">своимъ,</w>
-<w n="13,11">къ</w>
-<w n="13,11">свекровемъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>13, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="13"/><div type="block" n="11"><p><app><lem wit="#lem">
+            матерьмъ и снъхы къ свекръвамъ 
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">мт҃рмъ и к родителемъ своимъ. къ свекровем<hi rend="sup">ъ</hi>
+                <lb/></rdg>
+            <rdg wit="#tro">матеремъ и к родителемъ своимъ къ свекровемъ</rdg>
+            <rdg wit="#rad">мт҃рмь. и снохы ко свекрове<hi rend="sup">м</hi>.</rdg>
+            <rdg wit="#aka">мт҃ремъ. и снохи ко свекромъ.</rdg>
+            <rdg wit="#ipa">матеремъ свои<hi rend="sup">м</hi>. <lb/> и снохы къ свекровамъ <lb/> своимъ.</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">матеремъ и к родителемъ своимъ, къ свекровемъ</rdg><rdg wit="#shakh">матерьмъ и къ родителемъ своимъ, и снъхы къ свекръвамъ</rdg><rdg wit="#likh">матеремъ и к родителемъ своимъ, къ свекровемъ</rdg></rdgGrp></app></p></div></body></text></TEI>

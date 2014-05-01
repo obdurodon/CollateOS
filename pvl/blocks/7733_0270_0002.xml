@@ -1,82 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="270"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-<w n="270,2">възьмъше</w>
-<w n="270,2">крьстъ,</w>
-<w n="270,2">егоже</w>
-<w n="270,2">бѣ</w>
-<w n="270,2">цѣловалъ</w>
-<w n="270,2">къ</w>
-<w n="270,2">нима</w>
-<w n="270,2">на</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="270,2">взе<hi rend="sup">м</hi>ше</w>
-<w n="270,2">кр<hi rend="sup">с</hi>ь· <lb/></w>
-
-<w n="270,2">ѥгоже</w>
-<w n="270,2">бѣ</w>
-<w n="270,2">цѣловалъ</w>
-<w n="270,2">к</w>
-<w n="270,2">нима· <lb/></w>
-
-<w n="270,2">на</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="270,2">вземше</w>
-<w n="270,2">хрестъ <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="270,2">възе<hi rend="sup">м</hi>ше</w>
-<w n="270,2">кр<hi rend="sup">с</hi>ть.</w>
-<w n="270,2">его<hi rend="sup">ж</hi></w>
-<w n="270,2">цѣловалъ</w>
-<w n="270,2">к</w>
-<w n="270,2">ни<lb/>ма</w>
-<w n="270,2">на</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="270,2">вземша</w>
-<w n="270,2">крестъ,</w>
-<w n="270,2">егоже</w>
-<w n="270,2">бѣ</w>
-<w n="270,2">цѣловалъ</w>
-<w n="270,2">к</w>
-<w n="270,2">нима</w>
-<w n="270,2">на</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="270,2">възьмъша</w>
-<w n="270,2">крьстъ,</w>
-<w n="270,2">егоже</w>
-<w n="270,2">бѣ</w>
-<w n="270,2">цѣловалъ</w>
-<w n="270,2">къ</w>
-<w n="270,2">нима</w>
-<w n="270,2">на</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="270,2">вземша</w>
-<w n="270,2">крестъ,</w>
-<w n="270,2">его</w>
-<w n="270,2">же</w>
-<w n="270,2">бѣ</w>
-<w n="270,2">цѣловалъ</w>
-<w n="270,2">к</w>
-<w n="270,2">нима</w>
-<w n="270,2">на</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="270"/><div type="block" n="2"><p><app><lem wit="#lem">
+            възьмъше крьстъ, егоже бѣ цѣловалъ къ нима на
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">взе<hi rend="sup">м</hi>ше кр<hi rend="sup">с</hi>ь· <lb/> ѥгоже бѣ цѣловалъ к нима· <lb/> на</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">вземше хрестъ <lb/></rdg>
+            <rdg wit="#xle">възе<hi rend="sup">м</hi>ше кр<hi rend="sup">с</hi>ть. его<hi rend="sup">ж</hi> цѣловалъ к ни<lb/>ма на</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">вземша крестъ, егоже бѣ цѣловалъ к нима на</rdg><rdg wit="#shakh">възьмъша крьстъ, егоже бѣ цѣловалъ къ нима на</rdg><rdg wit="#likh">вземша крестъ, его же бѣ цѣловалъ к нима на</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,86 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>264, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="264"/><div type="block" n="14"><p>
-<app>
-<lem wit="#lem">
-<w n="264,14">матере.</w>
-<w n="264,14">И</w>
-<w n="264,14">митрополита</w>
-<w n="264,14">такоже</w>
-<w n="264,14">чьтя</w>
-<w n="264,14">санъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="264,14">мт҃ре·</w>
-<w n="264,14">и</w>
-<w n="264,14">митрополита <lb/></w>
-
-<w n="264,14">такоже</w>
-<w n="264,14">чтѧше</w>
-<w n="264,14">санъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="264,14">мт҃ре·</w>
-<w n="264,14">и</w>
-<w n="264,14">митрополита·</w>
-<w n="264,14">тако<hi rend="sup">ж</hi></w>
-<w n="264,14">чтѧ</w>
-<w n="264,14">са<lb/>нъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="264,14">мт҃ре·</w>
-<w n="264,14">и</w>
-<w n="264,14">митрополита</w>
-<w n="264,14">такоже</w>
-<w n="264,14">чтѧ·̏<lb/></w>
-<w n="264,14">санъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="264,14">мт҃ре·</w>
-<w n="264,14">и</w>
-<w n="264,14">ми<lb/>трополита·</w>
-<w n="264,14">такоже</w>
-<w n="264,14">чтѧ</w>
-<w n="264,14">санъ <pb n="90d"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="264,14">мт҃ре.</w>
-<w n="264,14">и</w>
-<w n="264,14">митро<lb/>полита.</w>
-<w n="264,14">тако<hi rend="sup">ж</hi></w>
-<w n="264,14">чтѧ·̏</w>
-<w n="264,14">санъ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="264,14">матере,</w>
-<w n="264,14">и</w>
-<w n="264,14">митрополита</w>
-<w n="264,14">такоже</w>
-<w n="264,14">чтяше,</w>
-<w n="264,14">санъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="264,14">матере.</w>
-<w n="264,14">И</w>
-<w n="264,14">митрополита</w>
-<w n="264,14">такоже</w>
-<w n="264,14">чьтя</w>
-<w n="264,14">санъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="264,14">матере,</w>
-<w n="264,14">и</w>
-<w n="264,14">митрополита</w>
-<w n="264,14">тако</w>
-<w n="264,14">же</w>
-<w n="264,14">чтяше</w>
-<w n="264,14">санъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>264, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="264"/><div type="block" n="14"><p><app><lem wit="#lem">
+            матере. И митрополита такоже чьтя санъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">мт҃ре· и митрополита <lb/> такоже чтѧше санъ</rdg>
+            <rdg wit="#rad">мт҃ре· и митрополита· тако<hi rend="sup">ж</hi> чтѧ са<lb/>нъ</rdg>
+            <rdg wit="#aka">мт҃ре· и митрополита такоже чтѧ·̏<lb/> санъ</rdg>
+            <rdg wit="#ipa">мт҃ре· и ми<lb/>трополита· такоже чтѧ санъ <pb n="90d"/></rdg>
+            <rdg wit="#xle">мт҃ре. и митро<lb/>полита. тако<hi rend="sup">ж</hi> чтѧ·̏ санъ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">матере, и митрополита такоже чтяше, санъ</rdg><rdg wit="#shakh">матере. И митрополита такоже чьтя санъ</rdg><rdg wit="#likh">матере, и митрополита тако же чтяше санъ</rdg></rdgGrp></app></p></div></body></text></TEI>

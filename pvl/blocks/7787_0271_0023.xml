@@ -1,93 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="271"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="271,23">епискупа</w>
-<w n="271,23">ихъ</w>
-<w n="271,23">Купана</w>
-<w n="271,23">и</w>
-<w n="271,23">отъ</w>
-<w n="271,23">боляръ</w>
-<w n="271,23">мъногы;</w>
-<w n="271,23">яко</w>
-<w n="271,23">же</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="271,23">пп<hi rend="sup">с</hi>а</w>
-<w n="271,23">и<lb/>хъ·</w>
-<w n="271,23">купана·</w>
-<w n="271,23">и</w>
-<w n="271,23">ѿ</w>
-<w n="271,23">болѧръ</w>
-<w n="271,23">мно<lb/>гы·</w>
-<w n="271,23">глх҃у</w>
-<w n="271,23">бо</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="271,23"><milestone unit="sic" n="start"/>еп<hi rend="sup">с</hi>па<milestone unit="sic" n="end"/></w>
-<w n="271,23">и<hi rend="sup">х</hi></w>
-<w n="271,23">купана·</w>
-<w n="271,23">и</w>
-<w n="271,23">ѿ</w>
-<w n="271,23">болѧръ</w>
-<w n="271,23">многи· <lb/></w>
-
-<w n="271,23">ꙗко</w>
-<w n="271,23">же</w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="271,23">епк<hi rend="sup">с</hi>па</w>
-<w n="271,23">и<hi rend="sup">х</hi><lb/></w>
-<w n="271,23">коупана,</w>
-<w n="271,23">и</w>
-<w n="271,23">ѿ</w>
-<w n="271,23">боѧръ</w>
-<w n="271,23">мнѡѕи,</w>
-<w n="271,23">яко<hi rend="sup">ж</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="271,23">пископа</w>
-<w n="271,23">ихъ</w>
-<w n="271,23">Купана</w>
-<w n="271,23">и</w>
-<w n="271,23">отъ</w>
-<w n="271,23">боляръ</w>
-<w n="271,23">многы;</w>
-<w n="271,23">глаголаху</w>
-<w n="271,23">бо,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="271,23">пискупа</w>
-<w n="271,23">ихъ</w>
-<w n="271,23">Купана</w>
-<w n="271,23">и</w>
-<w n="271,23">отъ</w>
-<w n="271,23">боляръ</w>
-<w n="271,23">мъногы;</w>
-<w n="271,23">глаголаху</w>
-<w n="271,23">бо,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="271,23">пископа</w>
-<w n="271,23">ихъ</w>
-<w n="271,23">Купана</w>
-<w n="271,23">и</w>
-<w n="271,23">от</w>
-<w n="271,23">боляръ</w>
-<w n="271,23">многы;</w>
-<w n="271,23">глаголаху</w>
-<w n="271,23">бо,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="271"/><div type="block" n="23"><p><app><lem wit="#lem">
+            епискупа ихъ Купана и отъ боляръ мъногы; яко же
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">пп<hi rend="sup">с</hi>а и<lb/>хъ· купана· и ѿ болѧръ мно<lb/>гы· глх҃у бо</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa"><sic>еп<hi rend="sup">с</hi>па</sic> и<hi rend="sup">х</hi> купана· и ѿ болѧръ многи· <lb/>
+                ꙗко же </rdg>
+            <rdg wit="#xle">епк<hi rend="sup">с</hi>па и<hi rend="sup">х</hi>
+                <lb/> коупана, и ѿ боѧръ мнѡѕи, ꙗко<hi rend="sup">ж</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">пископа ихъ Купана и отъ боляръ многы; глаголаху бо,</rdg><rdg wit="#shakh">пискупа ихъ Купана и отъ боляръ мъногы; глаголаху бо,</rdg><rdg wit="#likh">пископа ихъ Купана и от боляръ многы; глаголаху бо,</rdg></rdgGrp></app></p></div></body></text></TEI>

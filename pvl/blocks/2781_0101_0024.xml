@@ -1,64 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>101, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="101"/><div type="block" n="24"><p>
-<app>
-<lem wit="#lem">
-<w n="101,24">събысть</w>
-<w n="101,24">ся</w>
-<w n="101,24">вьсе”.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="101,24">сбыстьсѧ</w>
-<w n="101,24">все.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="101,24">собы<hi rend="sup">с</hi>сѧ</w>
-<w n="101,24">все.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="101,24">собы<hi rend="sup">с</hi>сѧ</w>
-<w n="101,24">все.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="101,24">събы<hi rend="sup">т</hi>сѧ</w>
-<w n="101,24">все·:· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="101,24">събы<hi rend="sup">с</hi>сѧ</w>
-<w n="101,24">все.·̏</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="101,24">сбыстьсꙗ</w>
-<w n="101,24">все</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="101,24">збыстьсꙗ</w>
-<w n="101,24">все</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="101,24">збыстьсꙗ</w>
-<w n="101,24">все</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="101,24">сбысться</w>
-<w n="101,24">все”.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="101,24">събысться</w>
-<w n="101,24">вьсе”.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="101,24">сбысться</w>
-<w n="101,24">все”.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>101, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="101"/><div type="block" n="24"><p><app><lem wit="#lem">
+            събысть ся вьсе”.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">сбыстьсѧ все.</rdg>
+            <rdg wit="#rad">собы<hi rend="sup">с</hi>сѧ все.</rdg>
+            <rdg wit="#aka">собы<hi rend="sup">с</hi>сѧ все.</rdg>
+            <rdg wit="#ipa">събы<hi rend="sup">т</hi>сѧ все·:· <lb/></rdg>
+            <rdg wit="#xle">събы<hi rend="sup">с</hi>сѧ все.·̏</rdg>
+            <rdg wit="#kom">сбыстьсꙗ все</rdg>
+            <rdg wit="#nak">збыстьсꙗ все</rdg>
+            <rdg wit="#tol">збыстьсꙗ все</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">сбысться все”.</rdg><rdg wit="#shakh">събысться вьсе”.</rdg><rdg wit="#likh">сбысться все”.</rdg></rdgGrp></app></p></div></body></text></TEI>

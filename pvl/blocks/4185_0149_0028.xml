@@ -1,91 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>149, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="149"/><div type="block" n="28"><p>
-<app>
-<lem wit="#lem">
-<w n="149,28">Въ</w>
-<w n="149,28">сеже</w>
-<w n="149,28">время</w>
-<w n="149,28">умьре</w>
-<w n="149,28">Болеславъ</w>
-<w n="149,28">Великыи</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="149,28">в</w>
-<w n="149,28">се <lb/></w>
-
-<w n="149,28">же</w>
-<w n="149,28">времѧ</w>
-<w n="149,28">оумре</w>
-<w n="149,28">болеславъ.</w>
-<w n="149,28">ве<lb/>ликыи</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="149,28">в</w>
-<w n="149,28">се</w>
-<w n="149,28">же</w>
-<w n="149,28">времѧ</w>
-<w n="149,28">оумре</w>
-<w n="149,28">болеславъ.</w>
-<w n="149,28">великыи</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="149,28">в</w>
-<w n="149,28">се</w>
-<w n="149,28">же</w>
-<w n="149,28">вре<lb/>мѧ</w>
-<w n="149,28">оумре</w>
-<w n="149,28">болеславъ.</w>
-<w n="149,28">велїкии</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="149,28">В</w>
-<w n="149,28">се</w>
-<w n="149,28">же</w>
-<w n="149,28">времѧ.</w>
-<w n="149,28">оум<hi rend="sup">е</hi>р<hi rend="sup">ш</hi><milestone unit="sic" n="start"/>ѹ<milestone unit="sic" n="end"/></w>
-<w n="149,28">бо<lb/>леславу</w>
-<w n="149,28">великому</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="149,28">в</w>
-<w n="149,28">се</w>
-<w n="149,28">же</w>
-<w n="149,28">времѧ</w>
-<w n="149,28">оумре</w>
-<w n="149,28">болеславь.</w>
-<w n="149,28">великыи</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="149,28">В</w>
-<w n="149,28">се</w>
-<w n="149,28">же</w>
-<w n="149,28">время</w>
-<w n="149,28">умре</w>
-<w n="149,28">Болеславъ</w>
-<w n="149,28">Великый</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="149,28">Въ</w>
-<w n="149,28">сеже</w>
-<w n="149,28">время</w>
-<w n="149,28">умьре</w>
-<w n="149,28">Болеславъ</w>
-<w n="149,28">Великыи</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="149,28">В</w>
-<w n="149,28">се</w>
-<w n="149,28">же</w>
-<w n="149,28">время</w>
-<w n="149,28">умре</w>
-<w n="149,28">Болеславъ</w>
-<w n="149,28">Великый</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>149, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="149"/><div type="block" n="28"><p><app><lem wit="#lem">
+            Въ сеже время умьре Болеславъ Великыи
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">в се <lb/> же времѧ оумре болеславъ. ве<lb/>ликыи</rdg>
+            <rdg wit="#rad">в се же времѧ оумре болеславъ. великыи</rdg>
+            <rdg wit="#aka">в се же вре<lb/>мѧ оумре болеславъ. велїкии</rdg>
+            <rdg wit="#ipa">В се же времѧ. оум<hi rend="sup">е</hi>р<hi rend="sup">ш</hi><sic>ѹ</sic> бо<lb/>леславу
+                великому</rdg>
+            <rdg wit="#xle">в се же времѧ оумре болеславь. великыи</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">В се же время умре Болеславъ Великый</rdg><rdg wit="#shakh">Въ сеже время умьре Болеславъ Великыи</rdg><rdg wit="#likh">В се же время умре Болеславъ Великый</rdg></rdgGrp></app></p></div></body></text></TEI>

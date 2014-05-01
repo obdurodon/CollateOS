@@ -1,87 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>50, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="50"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="50,21">въдасть</w>
-<w n="50,21">златьникъ 5.</w>
-
-<w n="50,21">Аще</w>
-<w n="50,21">ли</w>
-<w n="50,21">обрящуть</w>
-<w n="50,21">ся</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="50,21">вд<hi rend="sup">а</hi>сть</w>
-<w n="50,21">златникъ</w>
-<w n="50,21">.е҃.</w>
-<w n="50,21">аще</w>
-<w n="50,21">ли</w>
-<w n="50,21">ѡбрѧщютсѧ <pb n="13r"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="50,21">дасть <lb/></w>
-
-<w n="50,21">золотникъ</w>
-<w n="50,21">.е҃.</w>
-<w n="50,21">аще</w>
-<w n="50,21">ли</w>
-<w n="50,21">ѡбрѧщетсѧ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="50,21">дасть</w>
-<w n="50,21">ѕолотникъ</w>
-<w n="50,21">.е҃.</w>
-<w n="50,21">аще</w>
-<w n="50,21">ли</w>
-<w n="50,21">ѡбрѧще<lb/>тсѧ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="50,21">вдасть</w>
-<w n="50,21">зо<lb/>лотникъ</w>
-<w n="50,21">.е҃.</w>
-<w n="50,21">аще</w>
-<w n="50,21">ли</w>
-<w n="50,21">ѡбь<lb/>рѧщютсѧ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="50,21">вдасть <lb/></w>
-
-<w n="50,21">золотникь</w>
-<w n="50,21">.е҃.</w>
-<w n="50,21">аще</w>
-<w n="50,21">ли</w>
-<w n="50,21">обрѧщоутсѧ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="50,21">вдасть</w>
-<w n="50,21">златникъ 5.</w>
-
-<w n="50,21">Аще</w>
-<w n="50,21">ли</w>
-<w n="50,21">обрящутся</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="50,21">въдасть</w>
-<w n="50,21">златьникъ 5.</w>
-
-<w n="50,21">Аще</w>
-<w n="50,21">ли</w>
-<w n="50,21">обрящуться</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="50,21">вдасть</w>
-<w n="50,21">златникъ 5.</w>
-
-<w n="50,21">Аще</w>
-<w n="50,21">ли</w>
-<w n="50,21">обрящутся</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>50, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="50"/><div type="block" n="21"><p><app><lem wit="#lem">
+            въдасть златьникъ 5. Аще ли обрящуть ся
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">вд<hi rend="sup">а</hi>сть златникъ .е҃. аще ли ѡбрѧщютсѧ <pb n="13r"/></rdg>
+            <rdg wit="#rad">дасть <lb/> золотникъ .е҃. аще ли ѡбрѧщетсѧ</rdg>
+            <rdg wit="#aka">дасть ѕолотникъ .е҃. аще ли ѡбрѧще<lb/>тсѧ</rdg>
+            <rdg wit="#ipa">вдасть зо<lb/>лотникъ .е҃. аще ли ѡбь<lb/>рѧщютсѧ</rdg>
+            <rdg wit="#xle">вдасть <lb/> золотникь .е҃. аще ли обрѧщоутсѧ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">вдасть златникъ 5. Аще ли обрящутся</rdg><rdg wit="#shakh">въдасть златьникъ 5. Аще ли обрящуться</rdg><rdg wit="#likh">вдасть златникъ 5. Аще ли обрящутся</rdg></rdgGrp></app></p></div></body></text></TEI>

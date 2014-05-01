@@ -1,84 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>223, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="223"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-<w n="223,19">упространи</w>
-<w n="223,19">ся.</w>
-<w n="223,19">Правьдьно</w>
-<w n="223,19">и</w>
-<w n="223,19">достоино,</w>
-<w n="223,19">тако</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="223,19">оупространисѧ·</w>
-<w n="223,19">праведно <lb/></w>
-
-<w n="223,19">и</w>
-<w n="223,19">достоино</w>
-<w n="223,19">есть·</w>
-<w n="223,19">тако</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="223,19">оупространи<hi rend="sup">с</hi>·</w>
-<w n="223,19">праведно·</w>
-<w n="223,19">и</w>
-<w n="223,19">до<lb/>стоино</w>
-<w n="223,19">е<hi rend="sup">с</hi>.</w>
-<w n="223,19">тако</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="223,19">оупространїсѧ·</w>
-<w n="223,19">праведно</w>
-<w n="223,19">и</w>
-<w n="223,19">достоино</w>
-<w n="223,19">есть·</w>
-<w n="223,19">та<lb/>ко</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="223,19">оупростра<lb/>нисѧ</w>
-<w n="223,19">право</w>
-<w n="223,19">и</w>
-<w n="223,19">достоино·</w>
-<w n="223,19">тако <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="223,19">оупространисѧ</w>
-<w n="223,19">право</w>
-<w n="223,19">и</w>
-<w n="223,19">дѡ<hi rend="sup">с</hi><lb/>ино·</w>
-<w n="223,19">тако <pb n="101v"/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="223,19">упространися.</w>
-<w n="223,19">Праведно</w>
-<w n="223,19">и</w>
-<w n="223,19">достойно</w>
-<w n="223,19">есть,</w>
-<w n="223,19">тако</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="223,19">упространися.</w>
-<w n="223,19">Правьдьно</w>
-<w n="223,19">и</w>
-<w n="223,19">достоино</w>
-<w n="223,19">есть,</w>
-<w n="223,19">тако</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="223,19">упространися.</w>
-<w n="223,19">Праведно</w>
-<w n="223,19">и</w>
-<w n="223,19">достойно</w>
-<w n="223,19">есть,</w>
-<w n="223,19">тако</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>223, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="223"/><div type="block" n="19"><p><app><lem wit="#lem">
+            упространи ся. Правьдьно и достоино, тако
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">оупространисѧ· праведно <lb/> и достоино есть· тако</rdg>
+            <rdg wit="#rad">оупространи<hi rend="sup">с</hi>· праведно· и до<lb/>стоино е<hi rend="sup">с</hi>. тако</rdg>
+            <rdg wit="#aka">оупространїсѧ· праведно и достоино есть· та<lb/>ко</rdg>
+            <rdg wit="#ipa">оупростра<lb/>нисѧ право и достоино· тако <lb/></rdg>
+            <rdg wit="#xle">оупространисѧ право и дѡ<hi rend="sup">с</hi><lb/>ино·  тако
+                <pb n="101v"/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">упространися. Праведно и достойно есть, тако</rdg><rdg wit="#shakh">упространися. Правьдьно и достоино есть, тако</rdg><rdg wit="#likh">упространися. Праведно и достойно есть, тако</rdg></rdgGrp></app></p></div></body></text></TEI>

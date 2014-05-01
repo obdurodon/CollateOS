@@ -1,86 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>187, 31</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="187"/><div type="block" n="31"><p>
-<app>
-<lem wit="#lem">
-<w n="187,31">ся</w>
-<w n="187,31">начьнеть</w>
-<w n="187,31">строити</w>
-<w n="187,31">и</w>
-<w n="187,31">прибывати</w>
-<w n="187,31">въ</w>
-<w n="187,31">немъ:</w>
-<w n="187,31">то</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="187,31">начне<lb/>ть</w>
-<w n="187,31">строити.</w>
-<w n="187,31">и</w>
-<w n="187,31">прибывати</w>
-<w n="187,31">в</w>
-<w n="187,31">не<hi rend="sup">м</hi>. <lb/></w>
-
-<w n="187,31">то</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="187,31">сѧ</w>
-<w n="187,31">начнеть</w>
-<w n="187,31">строити</w>
-<w n="187,31">и</w>
-<w n="187,31">прибы<lb/>вати</w>
-<w n="187,31">в</w>
-<w n="187,31">немь.</w>
-<w n="187,31">то</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="187,31">сѧ</w>
-<w n="187,31">начнеть <lb/></w>
-
-<w n="187,31">строити</w>
-<w n="187,31">и</w>
-<w n="187,31">пр<milestone unit="sic" n="start"/>и<milestone unit="sic" n="end"/>бывати</w>
-<w n="187,31">в</w>
-<w n="187,31">не<hi rend="sup">м</hi>.</w>
-<w n="187,31">то</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="187,31">ся</w>
-<w n="187,31">начнеть</w>
-<w n="187,31">строити</w>
-<w n="187,31">и</w>
-<w n="187,31">прибывати</w>
-<w n="187,31">в</w>
-<w n="187,31">немъ:</w>
-<w n="187,31">то</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="187,31">ся</w>
-<w n="187,31">начьнеть</w>
-<w n="187,31">строити</w>
-<w n="187,31">и</w>
-<w n="187,31">прибывати</w>
-<w n="187,31">въ</w>
-<w n="187,31">немъ:</w>
-<w n="187,31">то</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="187,31">ся</w>
-<w n="187,31">начнеть</w>
-<w n="187,31">строити</w>
-<w n="187,31">и</w>
-<w n="187,31">прибывати</w>
-<w n="187,31">в</w>
-<w n="187,31">нем:</w>
-<w n="187,31">то</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>187, 31</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="187"/><div type="block" n="31"><p><app><lem wit="#lem">
+            ся начьнеть строити и прибывати въ немъ: то
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">начне<lb/>ть строити. и прибывати в не<hi rend="sup">м</hi>. <lb/> то</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">сѧ начнеть строити и прибы<lb/>вати в немь. то</rdg>
+            <rdg wit="#xle">сѧ начнеть <lb/> строити и пр<sic>и</sic>бывати в не<hi rend="sup">м</hi>. то</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">ся начнеть строити и прибывати в немъ: то</rdg><rdg wit="#shakh">ся начьнеть строити и прибывати въ немъ: то</rdg><rdg wit="#likh">ся начнеть строити и прибывати в нем: то</rdg></rdgGrp></app></p></div></body></text></TEI>

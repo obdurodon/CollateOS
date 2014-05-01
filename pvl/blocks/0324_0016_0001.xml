@@ -1,75 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>16, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="16"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="16,1">безаконьная</w>
-<w n="16,1">законъ</w>
-<w n="16,1">отьць</w>
-<w n="16,1">творять</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="16,1">безаконьнаꙗ.</w>
-<w n="16,1">законъ</w>
-<w n="16,1">ѡтець</w>
-<w n="16,1">творѧть.</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="16,1">безаконнаа</w>
-<w n="16,1">зако<hi rend="sup">н</hi></w>
-<w n="16,1">оче</w>
-<w n="16,1">творѧть.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="16,1">безаконнаа</w>
-<w n="16,1">законъ <lb/></w>
-
-<w n="16,1">ѿч҃ь</w>
-<w n="16,1">творѧтъ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="16,1">безаконьна<lb/>ꙗ</w>
-<w n="16,1">законъ</w>
-<w n="16,1">ѡц҃ь</w>
-<w n="16,1">творѧть.<lb/></w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="16,1">безако<hi rend="sup">н</hi>наа</w>
-<w n="16,1">законь <lb/></w>
-
-<w n="16,1">ѡч҃ь</w>
-<w n="16,1">творѧ<hi rend="sup">т</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="16,1">безаконьная</w>
-<w n="16,1">аки</w>
-<w n="16,1">законъ</w>
-<w n="16,1">отець</w>
-<w n="16,1">творять</w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="16,1">безаконьная</w>
-<w n="16,1">законъ</w>
-<w n="16,1">отьчь</w>
-<w n="16,1">творять</w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="16,1">безаконьная</w>
-<w n="16,1">яко</w>
-<w n="16,1">законъ</w>
-<w n="16,1">отець</w>
-<w n="16,1">творять</w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>16, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="16"/><div type="block" n="1"><p><app><lem wit="#lem">
+            безаконьная законъ отьць творять
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">безаконьнаꙗ. законъ ѡтець творѧть.</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">безаконнаа зако<hi rend="sup">н</hi> оче творѧть.</rdg>
+            <rdg wit="#aka">безаконнаа законъ <lb/> ѿч҃ь творѧтъ.</rdg>
+            <rdg wit="#ipa">безаконьна<lb/>ꙗ законъ ѡц҃ь творѧть.<lb/></rdg>
+            <rdg wit="#xle">безако<hi rend="sup">н</hi>наа законь <lb/> ѡч҃ь творѧ<hi rend="sup">т</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">безаконьная аки законъ отець творять <add place="margin">15,4</add></rdg><rdg wit="#shakh">безаконьная законъ отьчь творять <add place="margin">15,5</add></rdg><rdg wit="#likh">безаконьная яко законъ отець творять <add place="margin">16,3</add></rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,87 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>46, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="46"/><div type="block" n="28"><p>
-<app>
-<lem wit="#lem">
-<w n="46,28">Прастѣнъ</w>
-<w n="46,28">Якунь,</w>
-<w n="46,28">нетия</w>
-<w n="46,28">Игоревъ;</w>
-<w n="46,28">Кары</w>
-<w n="46,28">Тудковъ;</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="46,28">прастѣнъ.</w>
-<w n="46,28">акунъ.</w>
-<w n="46,28">нети</w>
-<w n="46,28">и<lb/>го<milestone unit="sic" n="start"/>ревъ</w>
-<w n="46,28">кары<milestone unit="sic" n="end"/>.</w>
-<w n="46,28">тудковъ.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="46,28">прастѣнъ.</w>
-<w n="46,28">ꙗкоунъ.</w>
-<w n="46,28">нетии.</w>
-<w n="46,28">игоревъ.</w>
-<w n="46,28">кары</w>
-<w n="46,28">стѹдеко<hi rend="sup">в</hi>. <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="46,28">прастѣнъ. <lb/></w>
-
-<w n="46,28">ꙗкѹнъ.</w>
-<w n="46,28">нетїи.</w>
-<w n="46,28">игоревъ.</w>
-<w n="46,28">кары</w>
-<w n="46,28">стѹдьковь.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="46,28">прастѣнъ.</w>
-<w n="46,28">ꙗкунъ.</w>
-<w n="46,28">нети<lb/>и</w>
-<w n="46,28">игоревъ.</w>
-<w n="46,28">кары</w>
-<w n="46,28">тудков<hi rend="sup">ъ</hi>. <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="46,28">прасте<hi rend="sup">н</hi></w>
-<w n="46,28">якоу<hi rend="sup">н</hi>.</w>
-<w n="46,28">нетїи</w>
-<w n="46,28">игоревь.</w>
-<w n="46,28">кары</w>
-<w n="46,28">тоу<hi rend="sup">д</hi>ковь <pb n="17v"/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="46,28">Прастѣнъ</w>
-<w n="46,28">Акунъ,</w>
-<w n="46,28">нети</w>
-<w n="46,28">Игоревъ;</w>
-<w n="46,28">Кары</w>
-<w n="46,28">Тудковъ;</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="46,28">Прастѣнъ</w>
-<w n="46,28">Акунь,</w>
-<w n="46,28">нетия</w>
-<w n="46,28">Игорева;</w>
-<w n="46,28">Кары</w>
-<w n="46,28">Студьковъ;</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="46,28">Прастѣнъ</w>
-<w n="46,28">Акунъ,</w>
-<w n="46,28">нети</w>
-<w n="46,28">Игоревъ;</w>
-<w n="46,28">Кары</w>
-<w n="46,28">Тудковъ;</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>46, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="46"/><div type="block" n="28"><p><app><lem wit="#lem">
+            Прастѣнъ Якунь, нетия Игоревъ; Кары Тудковъ;
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">прастѣнъ. акунъ. нети и<lb/>го<sic>ревъ кары</sic>. тудковъ.</rdg>
+            <rdg wit="#rad">прастѣнъ. ꙗкоунъ. нетии. игоревъ. кары стѹдеко<hi rend="sup">в</hi>. <lb/></rdg>
+            <rdg wit="#aka">прастѣнъ. <lb/> ꙗкѹнъ. нетїи. игоревъ. кары стѹдьковь.</rdg>
+            <rdg wit="#ipa">прастѣнъ. ꙗкунъ. нети<lb/>и игоревъ. кары тудков<hi rend="sup">ъ</hi>. <lb/></rdg>
+            <rdg wit="#xle">прасте<hi rend="sup">н</hi> ꙗкоу<hi rend="sup">н</hi>. нетїи игоревь. кары тоу<hi rend="sup">д</hi>ковь
+                    <pb n="17v"/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Прастѣнъ Акунъ, нети Игоревъ; Кары Тудковъ;</rdg><rdg wit="#shakh">Прастѣнъ Акунь, нетия Игорева; Кары Студьковъ;</rdg><rdg wit="#likh">Прастѣнъ Акунъ, нети Игоревъ; Кары Тудковъ;</rdg></rdgGrp></app></p></div></body></text></TEI>

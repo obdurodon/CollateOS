@@ -1,103 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>12, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="12"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="12,18">отъ</w>
-<w n="12,18">Ляховъ.</w>
-<w n="12,18">Бяста</w>
-<w n="12,18">бо</w>
-<w n="12,18">дъва</w>
-<w n="12,18">брата</w>
-<w n="12,18">въ</w>
-<w n="12,18">Лясѣхъ,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="12,18">ѿ</w>
-<w n="12,18">лѧхо<lb/>въ.</w>
-<w n="12,18">бѧста</w>
-<w n="12,18">бо</w>
-<w n="12,18">.в҃.</w>
-<w n="12,18">брата</w>
-<w n="12,18">в</w>
-<w n="12,18">лѧсѣ<hi rend="sup">х</hi>.</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="12,18">от</w>
-<w n="12,18">ляховъ</w>
-<w n="12,18">бѣста</w>
-<w n="12,18">убо 2</w>
-
-<w n="12,18">брата</w>
-<w n="12,18">в</w>
-<w n="12,18">лясѣхъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="12,18">ѿ</w>
-<w n="12,18">лѧховъ.</w>
-<w n="12,18">бѧста</w>
-<w n="12,18">бо</w>
-<w n="12,18">.в҃.</w>
-<w n="12,18">бра<hi rend="sup">т</hi></w>
-<w n="12,18">в</w>
-<w n="12,18">лѧхо<hi rend="sup">х</hi>.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="12,18">ѿ</w>
-<w n="12,18">лѧховъ.</w>
-<w n="12,18">бѧ<lb/>ста</w>
-<w n="12,18">бо</w>
-<w n="12,18">.в҃.</w>
-<w n="12,18">брата.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="12,18">ѿ</w>
-<w n="12,18">лѧховъ. <lb/></w>
-
-<w n="12,18">бѧста</w>
-<w n="12,18">бо</w>
-<w n="12,18">два</w>
-<w n="12,18">брата</w>
-<w n="12,18">в</w>
-<w n="12,18">лѧсѣ<lb/>хъ.</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="12,18">отъ</w>
-<w n="12,18">Ляховъ.</w>
-<w n="12,18">Бяста</w>
-<w n="12,18">бо 2</w>
-
-<w n="12,18">брата</w>
-<w n="12,18">в</w>
-<w n="12,18">Лясѣхъ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="12,18">отъ</w>
-<w n="12,18">Ляховъ.</w>
-<w n="12,18">Бяста</w>
-<w n="12,18">бо</w>
-<w n="12,18">дъва</w>
-<w n="12,18">брата</w>
-<w n="12,18">въ</w>
-<w n="12,18">Лясѣхъ,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="12,18">от</w>
-<w n="12,18">ляховъ.</w>
-<w n="12,18">Бяста</w>
-<w n="12,18">бо 2</w>
-
-<w n="12,18">брата</w>
-<w n="12,18">в</w>
-<w n="12,18">лясѣх,—</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>12, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="12"/><div type="block" n="18"><p><app><lem wit="#lem">
+            отъ Ляховъ. Бяста бо дъва брата въ Лясѣхъ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѿ лѧхо<lb/>въ. бѧста бо .в҃. брата в лѧсѣ<hi rend="sup">х</hi>.</rdg>
+            <rdg wit="#tro">от ляховъ бѣста убо 2 брата в лясѣхъ</rdg>
+            <rdg wit="#rad">ѿ лѧховъ. бѧста бо .в҃. бра<hi rend="sup">т</hi> в лѧхо<hi rend="sup">х</hi>.</rdg>
+            <rdg wit="#aka">ѿ лѧховъ. бѧ<lb/>ста бо .в҃. брата.</rdg>
+            <rdg wit="#ipa">ѿ лѧховъ. <lb/> бѧста бо два брата в лѧсѣ<lb/>хъ.</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">отъ Ляховъ. Бяста бо 2 брата в Лясѣхъ,</rdg><rdg wit="#shakh">отъ Ляховъ. Бяста бо дъва брата въ Лясѣхъ,</rdg><rdg wit="#likh">от ляховъ. Бяста бо 2 брата в лясѣх,—</rdg></rdgGrp></app></p></div></body></text></TEI>

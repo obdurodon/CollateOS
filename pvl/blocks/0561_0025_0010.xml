@@ -1,106 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>25, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="25"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-<w n="25,10">Въ</w>
-<w n="25,10">лѣто 6406.</w>
-
-<w n="25,10">Идоша</w>
-<w n="25,10">Угъри</w>
-<w n="25,10">мимо</w>
-<w n="25,10">Кыевъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="25,10">въ</w>
-<w n="25,10">лѣ<hi rend="sup">т</hi>.</w>
-<w n="25,10">҂ѕ҃.у҃.ѕ҃:·ь <lb/></w>
-
-<w n="25,10">и<milestone unit="sic" n="start"/>до<milestone unit="sic" n="end"/>ша</w>
-<w n="25,10">угри</w>
-<w n="25,10">мимо</w>
-<w n="25,10">киевъ</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="25,10">въ</w>
-<w n="25,10">лѣто 6405</w>
-
-<w n="25,10">идоша</w>
-<w n="25,10">угри</w>
-<w n="25,10">мимо</w>
-<w n="25,10">кыевъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="25,10">В</w>
-<w n="25,10">лѣ<hi rend="sup">т</hi>.</w>
-<w n="25,10">҂ѕ҃.у҃ѕ.</w>
-<w n="25,10">Идоша</w>
-<w n="25,10">оугре</w>
-<w n="25,10">мимо</w>
-<w n="25,10">кыевъ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="25,10">В</w>
-<w n="25,10">лѣ<hi rend="sup">т</hi>.</w>
-<w n="25,10">҂ѕ҃.у҃ѕ.</w>
-<w n="25,10">идоша</w>
-<w n="25,10">оугре</w>
-<w n="25,10">мимо <lb/></w>
-
-<w n="25,10">киевь.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="25,10">В</w>
-<w n="25,10">лѣто.</w>
-<w n="25,10">҂ѕ҃.у҃.ѕ҃:· <lb/></w>
-
-<w n="25,10">Їдоша</w>
-<w n="25,10">оугре</w>
-<w n="25,10">мимо</w>
-<w n="25,10">киевъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="25,10">В</w>
-<w n="25,10">лѣ<hi rend="sup">т</hi>.</w>
-<w n="25,10">҂ѕ҃.у҃.ѕ҃.</w>
-<w n="25,10">Идоша</w>
-<w n="25,10">оугри</w>
-<w n="25,10">мимо <lb/></w>
-
-<w n="25,10">кыевь.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="25,10">Въ</w>
-<w n="25,10">лѣто 6406.</w>
-
-<w n="25,10">Идоша</w>
-<w n="25,10">Угри</w>
-<w n="25,10">мимо</w>
-<w n="25,10">Киевъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="25,10">Въ</w>
-<w n="25,10">лѣто 6406.</w>
-
-<w n="25,10">Идоша</w>
-<w n="25,10">Угъри</w>
-<w n="25,10">мимо</w>
-<w n="25,10">Кыевъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="25,10">Въ</w>
-<w n="25,10">лѣто 6406.</w>
-
-<w n="25,10">Идоша</w>
-<w n="25,10">угри</w>
-<w n="25,10">мимо</w>
-<w n="25,10">Киевъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>25, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="25"/><div type="block" n="10"><p><app><lem wit="#lem">
+            Въ лѣто 6406. Идоша Угъри мимо Кыевъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">въ лѣ<hi rend="sup">т</hi>. ҂ѕ҃.у҃.ѕ҃:·ь <lb/> и<sic>до</sic>ша угри мимо
+                киевъ</rdg>
+            <rdg wit="#tro">въ лѣто 6405 идоша угри мимо кыевъ</rdg>
+            <rdg wit="#rad">В лѣ<hi rend="sup">т</hi>. ҂ѕ҃.у҃ѕ. Идоша оугре мимо кыевъ.</rdg>
+            <rdg wit="#aka">В лѣ<hi rend="sup">т</hi>. ҂ѕ҃.у҃ѕ. идоша оугре мимо <lb/> киевь.</rdg>
+            <rdg wit="#ipa">В лѣто. ҂ѕ҃.у҃.ѕ҃:· <lb/> Їдоша оугре мимо киевъ</rdg>
+            <rdg wit="#xle">В лѣ<hi rend="sup">т</hi>. ҂ѕ҃.у҃.ѕ҃. Идоша оугри мимо <lb/> кыевь.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Въ лѣто 6406. Идоша Угри мимо Киевъ</rdg><rdg wit="#shakh">Въ лѣто 6406. Идоша Угъри мимо Кыевъ</rdg><rdg wit="#likh">Въ лѣто 6406. Идоша угри мимо Киевъ</rdg></rdgGrp></app></p></div></body></text></TEI>

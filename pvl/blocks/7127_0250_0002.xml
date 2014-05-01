@@ -1,48 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>250, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="250"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="250,2">·г҃·</w>
-<w n="250,2">зимы</w>
-<w n="250,2">ходихо<hi rend="sup">м</hi></w>
-<w n="250,2">смолинску·</w>
-<w n="250,2">и</w>
-<w n="250,2">се</w>
-<w n="250,2">ны<lb/>нѣ</w>
-<w n="250,2">иду</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-
-<w n="250,2">зимы</w>
-<w n="250,2">ходихомъ</w>
-<w n="250,2">Смолинску;</w>
-<w n="250,2">и</w>
-<w n="250,2">се</w>
-<w n="250,2">нынѣ</w>
-<w n="250,2">иду</w>
-</rdg>
-
-<rdg wit="#likh">
-
-<w n="250,2">зимы</w>
-<w n="250,2">ходихом</w>
-<w n="250,2">Смолинску.</w>
-<w n="250,2">И-Смолиньска</w>
-<w n="250,2">идох</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>250, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="250"/><div type="block" n="2"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">·г҃· зимы ходихо<hi rend="sup">м</hi> смолинску· и се ны<lb/>нѣ иду</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">3 зимы ходихомъ Смолинску; и се нынѣ иду</rdg><rdg wit="#likh">3 зимы ходихом Смолинску. И-Смолиньска идох</rdg></rdgGrp></app></p></div></body></text></TEI>

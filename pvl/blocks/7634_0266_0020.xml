@@ -1,86 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>266, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="266"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="266,20">переяти</w>
-<w n="266,20">Българы</w>
-<w n="266,20">Дунаискыѣ</w>
-<w n="266,20">и</w>
-<w n="266,20">посадити</w>
-<w n="266,20">я</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="266,20">переꙗти</w>
-<w n="266,20">болгары</w>
-<w n="266,20">ду<lb/>наискыѣ·</w>
-<w n="266,20">и</w>
-<w n="266,20">посадити</w>
-<w n="266,20">ꙗ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="266,20">при<lb/>ꙗти</w>
-<w n="266,20">болгары·</w>
-<w n="266,20">дѹнаискиа·</w>
-<w n="266,20">и</w>
-<w n="266,20">посадити</w>
-<w n="266,20">а</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="266,20">приꙗти</w>
-<w n="266,20">болга<lb/>ры·</w>
-<w n="266,20">дѹнаискыѧ·</w>
-<w n="266,20">и</w>
-<w n="266,20">посадити</w>
-<w n="266,20">ѧ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="266,20">переꙗти <lb/></w>
-
-<w n="266,20">болгары·</w>
-<w n="266,20">дунаискыꙗ·</w>
-<w n="266,20">ї</w>
-<w n="266,20">посадити</w>
-<w n="266,20">ꙗ <pb n="91c"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="266,20">переѧти</w>
-<w n="266,20">бол′гары,</w>
-<w n="266,20">доунаискыа, <lb/></w>
-
-<w n="266,20">и</w>
-<w n="266,20">посадити</w>
-<w n="266,20">ѧ·̏</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="266,20">переяти</w>
-<w n="266,20">Болгары</w>
-<w n="266,20">Дунайскыѣ</w>
-<w n="266,20">и</w>
-<w n="266,20">посадити</w>
-<w n="266,20">я</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="266,20">преяти</w>
-<w n="266,20">Българы</w>
-<w n="266,20">Дунаискыѣ</w>
-<w n="266,20">и</w>
-<w n="266,20">посадити</w>
-<w n="266,20">я</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="266,20">переяти</w>
-<w n="266,20">болгары</w>
-<w n="266,20">дунайскыѣ</w>
-<w n="266,20">и</w>
-<w n="266,20">посадити</w>
-<w n="266,20">я</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>266, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="266"/><div type="block" n="20"><p><app><lem wit="#lem">
+            переяти Българы Дунаискыѣ и посадити я
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">переꙗти болгары ду<lb/>наискыѣ· и посадити ꙗ</rdg>
+            <rdg wit="#rad">при<lb/>ꙗти болгары· дѹнаискиа· и посадити а</rdg>
+            <rdg wit="#aka">приꙗти болга<lb/>ры· дѹнаискыѧ· и посадити ѧ</rdg>
+            <rdg wit="#ipa">переꙗти <lb/> болгары· дунаискыꙗ· ї посадити ꙗ <pb n="91c"/></rdg>
+            <rdg wit="#xle">переѧти бол′гары, доунаискыа, <lb/> и посадити ѧ·̏</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">переяти Болгары Дунайскыѣ и посадити я</rdg><rdg wit="#shakh">преяти Българы Дунаискыѣ и посадити я</rdg><rdg wit="#likh">переяти болгары дунайскыѣ и посадити я</rdg></rdgGrp></app></p></div></body></text></TEI>

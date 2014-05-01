@@ -1,90 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>143, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="143"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="143,22">и</w>
-<w n="143,22">съ</w>
-<w n="143,22">Святопълкъмь”.</w>
-<w n="143,22">Начаша</w>
-<w n="143,22">скотъ</w>
-<w n="143,22">брати</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="143,22">и</w>
-<w n="143,22">съ <lb/></w>
-
-<w n="143,22">ст҃ополкомь.</w>
-<w n="143,22">начаша</w>
-<w n="143,22">скотъ</w>
-<w n="143,22">съ<lb/>бирати.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="143,22">и</w>
-<w n="143,22">со</w>
-<w n="143,22">ст҃ополко<hi rend="sup">м</hi>.</w>
-<w n="143,22">на<hi rend="sup">ч</hi>ша</w>
-<w n="143,22">скотъ <lb/></w>
-
-<w n="143,22">брати.</w>
-<w n="143,22">а</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="143,22">и</w>
-<w n="143,22">ст҃ополкомъ.</w>
-<w n="143,22">начаша</w>
-<w n="143,22">скотъ</w>
-<w n="143,22">брати.</w>
-<w n="143,22">а</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="143,22">и</w>
-<w n="143,22">сь</w>
-<w n="143,22">ст҃ополкомъ. <lb/></w>
-
-<w n="143,22">и</w>
-<w n="143,22">начаша</w>
-<w n="143,22">скотъ</w>
-<w n="143,22">брати</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="143,22">и</w>
-<w n="143,22">съ</w>
-<w n="143,22">ст҃ополкѡ<hi rend="sup">м</hi>, <lb/></w>
-
-<w n="143,22">начаша</w>
-<w n="143,22">ско<hi rend="sup">т</hi></w>
-<w n="143,22">брати</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="143,22">и</w>
-<w n="143,22">съ</w>
-<w n="143,22">Святополкомь”.</w>
-<w n="143,22">Начаша</w>
-<w n="143,22">скотъ</w>
-<w n="143,22">събирати</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="143,22">и</w>
-<w n="143,22">съ</w>
-<w n="143,22">Святопълкъмь”.</w>
-<w n="143,22">И</w>
-<w n="143,22">начаша</w>
-<w n="143,22">скотъ</w>
-<w n="143,22">събирати</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="143,22">и</w>
-<w n="143,22">съ</w>
-<w n="143,22">Святополкомь”.</w>
-<w n="143,22">Начаша</w>
-<w n="143,22">скотъ</w>
-<w n="143,22">събирати</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>143, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="143"/><div type="block" n="22"><p><app><lem wit="#lem">
+            и съ Святопълкъмь”. Начаша скотъ брати
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и съ <lb/> ст҃ополкомь. начаша скотъ съ<lb/>бирати.</rdg>
+            <rdg wit="#rad">и со ст҃ополко<hi rend="sup">м</hi>. на<hi rend="sup">ч</hi>ша скотъ <lb/> брати. а</rdg>
+            <rdg wit="#aka">и ст҃ополкомъ. начаша скотъ брати. а</rdg>
+            <rdg wit="#ipa">и сь ст҃ополкомъ. <lb/> и начаша скотъ брати</rdg>
+            <rdg wit="#xle">и съ ст҃ополкѡ<hi rend="sup">м</hi>, <lb/> начаша ско<hi rend="sup">т</hi> брати</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и съ Святополкомь”. Начаша скотъ събирати</rdg><rdg wit="#shakh">и съ Святопълкъмь”. И начаша скотъ събирати</rdg><rdg wit="#likh">и съ Святополкомь”. Начаша скотъ събирати</rdg></rdgGrp></app></p></div></body></text></TEI>

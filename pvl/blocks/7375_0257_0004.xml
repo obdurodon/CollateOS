@@ -1,75 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>257, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="257"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-<w n="257,4">раздаялъ</w>
-<w n="257,4">Вьсеволодъ</w>
-<w n="257,4">городы:</w>
-<w n="257,4">Давыду</w>
-<w n="257,4">Володимирь,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="257,4">роздаꙗлъ</w>
-<w n="257,4">все<lb/>володъ</w>
-<w n="257,4">городы·</w>
-<w n="257,4">двд҃у</w>
-<w n="257,4">володиме<lb/>рь·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="257,4">раза<hi rend="sup">д</hi>ва<hi rend="sup">л</hi>.</w>
-<w n="257,4">всеволо<hi rend="sup">д</hi>.</w>
-<w n="257,4">городы.</w>
-<w n="257,4">двд҃ви.</w>
-<w n="257,4">володиме<lb/>рь.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="257,4">раздава<hi rend="sup">л</hi></w>
-<w n="257,4">все·̏володъ·</w>
-<w n="257,4">городы</w>
-<w n="257,4">двд҃ви</w>
-<w n="257,4">воло<lb/>димерь·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="257,4">разда<lb/>ꙗлъ</w>
-<w n="257,4">всеволодъ·</w>
-<w n="257,4">городы·</w>
-<w n="257,4">двд҃ви <lb/></w>
-
-<w n="257,4">володимерь·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="257,4">раздаль</w>
-<w n="257,4">всеволѡ<hi rend="sup">д</hi></w>
-<w n="257,4">городы.</w>
-<w n="257,4">двд҃ви.</w>
-<w n="257,4">въл<hi rend="sup">д</hi>о<hi rend="sup">и</hi><lb/>мерь.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="257,4">роздаялъ</w>
-<w n="257,4">Всеволодъ</w>
-<w n="257,4">городы,</w>
-<w n="257,4">Давыду</w>
-<w n="257,4">Володимерь,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="257,4">раздаялъ</w>
-<w n="257,4">Вьсеволодъ</w>
-<w n="257,4">городы:</w>
-<w n="257,4">Давыду</w>
-<w n="257,4">Володимерь,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="257,4">роздаялъ</w>
-<w n="257,4">Всеволодъ</w>
-<w n="257,4">городы:</w>
-<w n="257,4">Давыду</w>
-<w n="257,4">Володимерь,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>257, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="257"/><div type="block" n="4"><p><app><lem wit="#lem">
+            раздаялъ Вьсеволодъ городы: Давыду Володимирь,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">роздаꙗлъ все<lb/>володъ городы· двд҃у володиме<lb/>рь·</rdg>
+            <rdg wit="#rad">раза<hi rend="sup">д</hi>ва<hi rend="sup">л</hi>. всеволо<hi rend="sup">д</hi>. городы. двд҃ви.
+                володиме<lb/>рь.</rdg>
+            <rdg wit="#aka">раздава<hi rend="sup">л</hi> все·̏володъ· городы двд҃ви воло<lb/>димерь·</rdg>
+            <rdg wit="#ipa">разда<lb/>ꙗлъ всеволодъ· городы· двд҃ви <lb/> володимерь·</rdg>
+            <rdg wit="#xle">раздаль всеволѡ<hi rend="sup">д</hi> городы. двд҃ви.
+                въл<hi rend="sup">д</hi>о<hi rend="sup">и</hi><lb/>мерь.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">роздаялъ Всеволодъ городы, Давыду Володимерь,</rdg><rdg wit="#shakh">раздаялъ Вьсеволодъ городы: Давыду Володимерь,</rdg><rdg wit="#likh">роздаялъ Всеволодъ городы: Давыду Володимерь,</rdg></rdgGrp></app></p></div></body></text></TEI>

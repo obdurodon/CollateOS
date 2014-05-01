@@ -1,85 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>232, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="232"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="232,20">задъмь</w>
-<w n="232,20">манастыря,</w>
-<w n="232,20">а</w>
-<w n="232,20">другымъ</w>
-<w n="232,20">възбѣгъшимъ</w>
-<w n="232,20">на</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="232,20">задомъ</w>
-<w n="232,20">манастырѧ·</w>
-<w n="232,20">а <lb/></w>
-
-<w n="232,20">другимъ</w>
-<w n="232,20">възбѣгши<hi rend="sup">м</hi></w>
-<w n="232,20">на</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="232,20">задомъ</w>
-<w n="232,20">монастырѧ·</w>
-<w n="232,20">а</w>
-<w n="232,20">дрѹгимъ</w>
-<w n="232,20">възбѣ<lb/>гшимъ</w>
-<w n="232,20">на</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="232,20">задомь</w>
-<w n="232,20">монасты·̏рѧ·</w>
-<w n="232,20">а <lb/></w>
-
-<w n="232,20">дрѹгы·̏мъ</w>
-<w n="232,20">возбѣгшимь</w>
-<w n="232,20">на</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="232,20">задомъ</w>
-<w n="232,20">мо<lb/>настырѧ·</w>
-<w n="232,20">а</w>
-<w n="232,20">другымъ</w>
-<w n="232,20">оубѣ<lb/>гшимъ</w>
-<w n="232,20">на</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="232,20">задѡ<hi rend="sup">м</hi></w>
-<w n="232,20">манастырѧ.</w>
-<w n="232,20">а</w>
-<w n="232,20">дроугы<hi rend="sup">м</hi></w>
-<w n="232,20">възбѣ<lb/>гши<hi rend="sup">м</hi></w>
-<w n="232,20">на</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="232,20">задомъ</w>
-<w n="232,20">манастыря,</w>
-<w n="232,20">а</w>
-<w n="232,20">другимъ</w>
-<w n="232,20">възбѣгшимъ</w>
-<w n="232,20">на</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="232,20">задъмь</w>
-<w n="232,20">манастыря,</w>
-<w n="232,20">а</w>
-<w n="232,20">другымъ</w>
-<w n="232,20">възбѣгъшемъ</w>
-<w n="232,20">на</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="232,20">задомъ</w>
-<w n="232,20">манастыря,</w>
-<w n="232,20">а</w>
-<w n="232,20">другимъ</w>
-<w n="232,20">възбѣгшим</w>
-<w n="232,20">на</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>232, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="232"/><div type="block" n="20"><p><app><lem wit="#lem">
+            задъмь манастыря, а другымъ възбѣгъшимъ на
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">задомъ манастырѧ· а <lb/> другимъ възбѣгши<hi rend="sup">м</hi> на</rdg>
+            <rdg wit="#rad">задомъ монастырѧ· а дрѹгимъ възбѣ<lb/>гшимъ на</rdg>
+            <rdg wit="#aka">задомь монасты·̏рѧ· а <lb/> дрѹгы·̏мъ возбѣгшимь на</rdg>
+            <rdg wit="#ipa">задомъ мо<lb/>настырѧ· а другымъ оубѣ<lb/>гшимъ на</rdg>
+            <rdg wit="#xle">задѡ<hi rend="sup">м</hi> манастырѧ. а дроугы<hi rend="sup">м</hi> възбѣ<lb/>гши<hi rend="sup">м</hi> на</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">задомъ манастыря, а другимъ възбѣгшимъ на</rdg><rdg wit="#shakh">задъмь манастыря, а другымъ възбѣгъшемъ на</rdg><rdg wit="#likh">задомъ манастыря, а другимъ възбѣгшим на</rdg></rdgGrp></app></p></div></body></text></TEI>

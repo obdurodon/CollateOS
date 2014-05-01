@@ -1,84 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>41, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="41"/><div type="block" n="25"><p>
-<app>
-<lem wit="#lem">
-<w n="41,25">добраго,</w>
-<w n="41,25">якоже</w>
-<w n="41,25">бысть</w>
-<w n="41,25">Симонъ</w>
-<w n="41,25">вълхвъ</w>
-<w n="41,25">и</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="41,25">добраго.</w>
-<w n="41,25">ꙗко</w>
-<w n="41,25">же</w>
-<w n="41,25">бы<hi rend="sup">с</hi></w>
-<w n="41,25">симонъ</w>
-<w n="41,25">волхвъ <lb/></w>
-
-<w n="41,25">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="41,25">добраго.</w>
-<w n="41,25">ꙗко</w>
-<w n="41,25">же</w>
-<w n="41,25">бы<hi rend="sup">с</hi></w>
-<w n="41,25">симонь</w>
-<w n="41,25">волховь.</w>
-<w n="41,25">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="41,25">добраго.</w>
-<w n="41,25">ꙗко</w>
-<w n="41,25">же <lb/></w>
-
-<w n="41,25">бы<hi rend="sup">с</hi></w>
-<w n="41,25">симонъ</w>
-<w n="41,25">волъхвъ</w>
-<w n="41,25">и</w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="41,25">добраго.</w>
-<w n="41,25">якѡ<hi rend="sup">ж</hi><lb/></w>
-<w n="41,25">бы<hi rend="sup">с</hi></w>
-<w n="41,25">сїмѡ<hi rend="sup">н</hi></w>
-<w n="41,25">влъхвь</w>
-<w n="41,25">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="41,25">добраго,</w>
-<w n="41,25">якоже</w>
-<w n="41,25">бысть</w>
-<w n="41,25">Симонъ</w>
-<w n="41,25">волхвъ,</w>
-<w n="41,25">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="41,25">добраго;</w>
-<w n="41,25">якоже</w>
-<w n="41,25">бысть</w>
-<w n="41,25">Симонъ</w>
-<w n="41,25">вълхвъ</w>
-<w n="41,25">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="41,25">добраго,</w>
-<w n="41,25">яко</w>
-<w n="41,25">же</w>
-<w n="41,25">бысть</w>
-<w n="41,25">Симонъ</w>
-<w n="41,25">волхвъ,</w>
-<w n="41,25">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>41, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="41"/><div type="block" n="25"><p><app><lem wit="#lem">
+            добраго, якоже бысть Симонъ вълхвъ и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">добраго. ꙗко же бы<hi rend="sup">с</hi> симонъ волхвъ <lb/> и</rdg>
+            <rdg wit="#aka">добраго. ꙗко же бы<hi rend="sup">с</hi> симонь волховь. и</rdg>
+            <rdg wit="#ipa">добраго. ꙗко же <lb/> бы<hi rend="sup">с</hi> симонъ волъхвъ и </rdg>
+            <rdg wit="#xle">добраго. ꙗкѡ<hi rend="sup">ж</hi>
+                <lb/> бы<hi rend="sup">с</hi> сїмѡ<hi rend="sup">н</hi> влъхвь и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">добраго, якоже бысть Симонъ волхвъ, и</rdg><rdg wit="#shakh">добраго; якоже бысть Симонъ вълхвъ и</rdg><rdg wit="#likh">добраго, яко же бысть Симонъ волхвъ, и</rdg></rdgGrp></app></p></div></body></text></TEI>

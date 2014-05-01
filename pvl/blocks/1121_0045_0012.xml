@@ -1,92 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>45, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="45"/><div type="block" n="12"><p>
-<app>
-<lem wit="#lem">
-<w n="45,12">Петра,</w>
-<w n="45,12">сына</w>
-<w n="45,12">своего,</w>
-<w n="45,12">къняжити.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="45,12">петра</w>
-<w n="45,12">кнѧзѧ</w>
-<w n="45,12">с҃на</w>
-<w n="45,12">свое<lb/>го.</w>
-<w n="45,12">болъгаромъ.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="45,12">петра</w>
-<w n="45,12">кн҃зѧ</w>
-<w n="45,12">с҃на</w>
-<w n="45,12">свое<hi rend="sup">г</hi></w>
-<w n="45,12">богла<lb/>ромъ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="45,12">петра</w>
-<w n="45,12">кн҃зѧ</w>
-<w n="45,12">своего.</w>
-<w n="45,12">болгаромъ:· <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="45,12">петра</w>
-<w n="45,12">с҃на</w>
-<w n="45,12">своего</w>
-<w n="45,12">кнѧжи<hi rend="sup">т</hi>. <lb/></w>
-
-<w n="45,12">в</w>
-<w n="45,12">се</w>
-<w n="45,12">же</w>
-<w n="45,12">лѣто</w>
-<w n="45,12">роди</w>
-<w n="45,12">сѧ</w>
-<w n="45,12">с҃то<lb/>славъ</w>
-<w n="45,12">оу</w>
-<w n="45,12">игорѧ·:· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="45,12">петра</w>
-<w n="45,12">с҃на</w>
-<w n="45,12">своего</w>
-<w n="45,12">кнѧжити.</w>
-<w n="45,12">Въ <lb/></w>
-
-<w n="45,12">се</w>
-<w n="45,12">же</w>
-<w n="45,12">лѣто.</w>
-<w n="45,12">р<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi></w>
-<w n="45,12">сѧ</w>
-<w n="45,12">с҃тославь,</w>
-<w n="45,12">оу</w>
-<w n="45,12">игора.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="45,12">Петра</w>
-<w n="45,12">князя,</w>
-<w n="45,12">сына</w>
-<w n="45,12">своего,</w>
-<w n="45,12">Болъгаромъ.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="45,12">Петра,</w>
-<w n="45,12">сына</w>
-<w n="45,12">своего,</w>
-<w n="45,12">кънязя</w>
-<w n="45,12">Българомъ.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="45,12">Петра</w>
-<w n="45,12">князя,</w>
-<w n="45,12">сына</w>
-<w n="45,12">своего,</w>
-<w n="45,12">болъгаромъ.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>45, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="45"/><div type="block" n="12"><p><app><lem wit="#lem">
+            Петра, сына своего, къняжити.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">петра кнѧзѧ с҃на свое<lb/>го. болъгаромъ.</rdg>
+            <rdg wit="#rad">петра кн҃зѧ с҃на свое<hi rend="sup">г</hi> богла<lb/>ромъ.</rdg>
+            <rdg wit="#aka">петра кн҃зѧ своего. болгаромъ:· <lb/></rdg>
+            <rdg wit="#ipa">петра с҃на своего кнѧжи<hi rend="sup">т</hi>. <lb/> в се же лѣто роди сѧ с҃то<lb/>славъ оу
+                игорѧ·:· <lb/></rdg>
+            <rdg wit="#xle">петра с҃на своего кнѧжити. Въ <lb/> се же лѣто. р<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi> сѧ
+                с҃тославь, оу игора.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Петра князя, сына своего, Болъгаромъ.</rdg><rdg wit="#shakh">Петра, сына своего, кънязя Българомъ.</rdg><rdg wit="#likh">Петра князя, сына своего, болъгаромъ.</rdg></rdgGrp></app></p></div></body></text></TEI>

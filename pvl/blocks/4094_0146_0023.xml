@@ -1,88 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>146, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="146"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="146,23">Въ</w>
-<w n="146,23">си</w>
-<w n="146,23">же</w>
-<w n="146,23">времена</w>
-<w n="146,23">Мьстиславу</w>
-<w n="146,23">сущю</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="146,23">въ <lb/></w>
-
-<w n="146,23">си</w>
-<w n="146,23">же</w>
-<w n="146,23">времена</w>
-<w n="146,23">мьстиславу</w>
-<w n="146,23">су<lb/>щю.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="146,23">в</w>
-<w n="146,23">си<hi rend="sup">ж</hi></w>
-<w n="146,23">вре<lb/>мена</w>
-<w n="146,23">мстиславо</w>
-<w n="146,23">соущоу.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="146,23">в</w>
-<w n="146,23">си</w>
-<w n="146,23">же</w>
-<w n="146,23">времена</w>
-<w n="146,23">мстиславѹ</w>
-<w n="146,23">сѹщѹ <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="146,23">вь</w>
-<w n="146,23">си</w>
-<w n="146,23">же <lb/></w>
-
-<w n="146,23">времена</w>
-<w n="146,23">мьстиславу</w>
-<w n="146,23">сущю <lb/></w>
-
-<w n="146,23">вь</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="146,23">в</w>
-<w n="146,23">си</w>
-<w n="146,23">же</w>
-<w n="146,23">времена</w>
-<w n="146,23">мьстисла<lb/>воу</w>
-<w n="146,23">сѫщоу</w>
-<w n="146,23">въ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="146,23">Въ</w>
-<w n="146,23">си</w>
-<w n="146,23">же</w>
-<w n="146,23">времена</w>
-<w n="146,23">Мьстиславу</w>
-<w n="146,23">сущю</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="146,23">Въ</w>
-<w n="146,23">си</w>
-<w n="146,23">же</w>
-<w n="146,23">времена</w>
-<w n="146,23">Мьстиславу</w>
-<w n="146,23">сущю</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="146,23">Въ</w>
-<w n="146,23">си</w>
-<w n="146,23">же</w>
-<w n="146,23">времена</w>
-<w n="146,23">Мьстиславу</w>
-<w n="146,23">сущю</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>146, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="146"/><div type="block" n="23"><p><app><lem wit="#lem">
+            Въ си же времена Мьстиславу сущю
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">въ <lb/> си же времена мьстиславу су<lb/>щю.</rdg>
+            <rdg wit="#rad">в си<hi rend="sup">ж</hi> вре<lb/>мена мстиславо соущоу.</rdg>
+            <rdg wit="#aka">в си же времена мстиславѹ сѹщѹ <lb/></rdg>
+            <rdg wit="#ipa">вь си же <lb/> времена мьстиславу сущю <lb/> вь</rdg>
+            <rdg wit="#xle">в си же времена мьстисла<lb/>воу сѫщоу въ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Въ си же времена Мьстиславу сущю</rdg><rdg wit="#shakh">Въ си же времена Мьстиславу сущю</rdg><rdg wit="#likh">Въ си же времена Мьстиславу сущю</rdg></rdgGrp></app></p></div></body></text></TEI>

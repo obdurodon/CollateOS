@@ -1,60 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="29"><p>
-<app>
-<lem wit="#lem">
-<w n="18,29">Въ</w>
-<w n="18,29">лѣто 6365.</w>
-
-</lem>
-
-<rdg wit="#lav">
-<w n="18,29">въ</w>
-<w n="18,29">лѣ<hi rend="sup">т</hi></w>
-<w n="18,29">.҂ѕ҃.т҃.ѯ҃.е҃. <pb n="7r"/></w>
-
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-<w n="18,29">В</w>
-<w n="18,29">лѣ<hi rend="sup">т</hi></w>
-<w n="18,29">.҂ѕ҃.т҃.ѯ҃.е҃.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="18,29">В</w>
-<w n="18,29">лѣто</w>
-<w n="18,29">.҂ѕ҃.т҃.ѯ҃.е҃.</w>
-<w n="18,29">е. <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="18,29">В</w>
-<w n="18,29">лѣ<hi rend="sup">т</hi></w>
-<w n="18,29">.҂ѕ҃.т҃.ѯ҃е. <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="18,29">Въ</w>
-<w n="18,29">лѣто 6365.</w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="18,29">Въ</w>
-<w n="18,29">лѣто 6365.</w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="18,29">Въ</w>
-<w n="18,29">лѣто 6365.</w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 29</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="29"><p><app><lem wit="#lem">
+            Въ лѣто 6365.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">въ лѣ<hi rend="sup">т</hi> .҂ѕ҃.т҃.ѯ҃.е҃. <pb n="7r"/></rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">В лѣ<hi rend="sup">т</hi> .҂ѕ҃.т҃.ѯ҃.е҃.</rdg>
+            <rdg wit="#ipa">В лѣто .҂ѕ҃.т҃.ѯ҃.е҃. е. <lb/></rdg>
+            <rdg wit="#xle">В лѣ<hi rend="sup">т</hi> .҂ѕ҃.т҃.ѯ҃е. <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Въ лѣто 6365.</rdg><rdg wit="#shakh">Въ лѣто 6365.</rdg><rdg wit="#likh">Въ лѣто 6365.</rdg></rdgGrp></app></p></div></body></text></TEI>

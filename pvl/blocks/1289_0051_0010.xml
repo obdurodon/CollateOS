@@ -1,75 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>51, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="51"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-<w n="51,10">Кърсуняны</w>
-<w n="51,10">рыбы</w>
-<w n="51,10">ловяща</w>
-<w n="51,10">въ</w>
-<w n="51,10">устьи</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="51,10">вустьѣ</w>
-<w n="51,10">днѣпрьскомь</w>
-<w n="51,10">русь.</w>
-<w n="51,10">ко<lb/>рсунѧны</w>
-<w n="51,10">рыбы</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="51,10">корсѹнѧны</w>
-<w n="51,10">рыбы</w>
-<w n="51,10">ловѧщи.</w>
-<w n="51,10">въ</w>
-<w n="51,10">оусть</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="51,10">корьсѹ<lb/>нѧны</w>
-<w n="51,10">рыбы</w>
-<w n="51,10">ловѧщи.</w>
-<w n="51,10">въ</w>
-<w n="51,10">оустьи</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="51,10">ко<lb/>ръсунѧны</w>
-<w n="51,10">рыбы</w>
-<w n="51,10">ловѧща <lb/></w>
-
-<w n="51,10">въ</w>
-<w n="51,10">оустьи</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="51,10">корсоунѧны</w>
-<w n="51,10">въ</w>
-<w n="51,10">оусть<lb/>и</w>
-<w n="51,10">днѣпра</w>
-<w n="51,10">рыбы</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="51,10">вустьѣ</w>
-<w n="51,10">Днѣпрьскомь</w>
-<w n="51,10">Русь</w>
-<w n="51,10">Корсуняны</w>
-<w n="51,10">рыбы</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="51,10">устии</w>
-<w n="51,10">Дънѣпрьстѣмь</w>
-<w n="51,10">Русь</w>
-<w n="51,10">Кърсуняны,</w>
-<w n="51,10">рыбы</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="51,10">вустьѣ</w>
-<w n="51,10">Днѣпрьскомь</w>
-<w n="51,10">Русь</w>
-<w n="51,10">корсуняны</w>
-<w n="51,10">рыбы</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>51, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="51"/><div type="block" n="10"><p><app><lem wit="#lem">
+            Кърсуняны рыбы ловяща въ устьи
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">вустьѣ днѣпрьскомь русь. ко<lb/>рсунѧны рыбы</rdg>
+            <rdg wit="#rad">корсѹнѧны рыбы ловѧщи. въ оусть</rdg>
+            <rdg wit="#aka">корьсѹ<lb/>нѧны рыбы ловѧщи. въ оустьи</rdg>
+            <rdg wit="#ipa">ко<lb/>ръсунѧны рыбы ловѧща <lb/> въ оустьи</rdg>
+            <rdg wit="#xle">корсоунѧны въ оусть<lb/>и днѣпра рыбы</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">вустьѣ Днѣпрьскомь Русь Корсуняны рыбы</rdg><rdg wit="#shakh">устии Дънѣпрьстѣмь Русь Кърсуняны, рыбы</rdg><rdg wit="#likh">вустьѣ Днѣпрьскомь Русь корсуняны рыбы</rdg></rdgGrp></app></p></div></body></text></TEI>

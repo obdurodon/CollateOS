@@ -1,81 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="18,22">възвратимъ</w>
-<w n="18,22">ся,</w>
-<w n="18,22">и</w>
-<w n="18,22">съкажемъ,</w>
-<w n="18,22">чьто</w>
-<w n="18,22">ся</w>
-<w n="18,22">удѣяло</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="18,22">возъвратимсѧ.</w>
-<w n="18,22">скажемъ</w>
-<w n="18,22">што</w>
-<w n="18,22">сѧ</w>
-<w n="18,22">оудѣꙗло</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-<w n="18,22">възратимсѧ.</w>
-<w n="18,22">и</w>
-<w n="18,22">скажемъ</w>
-<w n="18,22">что</w>
-<w n="18,22">сѧ</w>
-<w n="18,22">здѣ<lb/>ꙗ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="18,22">възъ<lb/>вратимсѧ.</w>
-<w n="18,22">и</w>
-<w n="18,22">скажемъ</w>
-<w n="18,22">что <lb/></w>
-
-<w n="18,22">сѧ</w>
-<w n="18,22">оудѣꙗло</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="18,22">възвратимсѧ.</w>
-<w n="18,22">И</w>
-<w n="18,22">скаже<hi rend="sup">м</hi></w>
-<w n="18,22">что</w>
-<w n="18,22">сѧ</w>
-<w n="18,22">оудѣѧ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="18,22">возъвратимся</w>
-<w n="18,22">и</w>
-<w n="18,22">скажемъ,</w>
-<w n="18,22">что</w>
-<w n="18,22">ся</w>
-<w n="18,22">здѣя</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="18,22">възвратимъся,</w>
-<w n="18,22">и</w>
-<w n="18,22">съкажемъ,</w>
-<w n="18,22">чьто</w>
-<w n="18,22">ся</w>
-<w n="18,22">удѣя</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="18,22">возъвратимся</w>
-<w n="18,22">и</w>
-<w n="18,22">скажемъ,</w>
-<w n="18,22">што</w>
-<w n="18,22">ся</w>
-<w n="18,22">здѣя</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="22"><p><app><lem wit="#lem">
+            възвратимъ ся, и съкажемъ, чьто ся удѣяло
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">возъвратимсѧ. скажемъ што сѧ оудѣꙗло</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">възратимсѧ. и скажемъ что сѧ здѣ<lb/>ꙗ</rdg>
+            <rdg wit="#ipa">възъ<lb/>вратимсѧ. и скажемъ что <lb/> сѧ оудѣꙗло</rdg>
+            <rdg wit="#xle">възвратимсѧ. И скаже<hi rend="sup">м</hi> что сѧ оудѣѧ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">возъвратимся и скажемъ, что ся здѣя</rdg><rdg wit="#shakh">възвратимъся, и съкажемъ, чьто ся удѣя</rdg><rdg wit="#likh">возъвратимся и скажемъ, што ся здѣя</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,95 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="8"><p>
-<app>
-<lem wit="#lem">
-<w n="18,8">до</w>
-<w n="18,8">Христова</w>
-<w n="18,8">рожьства</w>
-<w n="18,8">лѣтъ 333;</w>
-
-<w n="18,8">а</w>
-<w n="18,8">отъ</w>
-<w n="18,8">Христова</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="18,8">до</w>
-<w n="18,8">ржва</w>
-<w n="18,8">х<hi rend="sup">с</hi>ва</w>
-<w n="18,8">лѣ<hi rend="sup">т</hi>.</w>
-<w n="18,8">т҃.г҃і.</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-<w n="18,8">до</w>
-<w n="18,8">хв<hi rend="sup">с</hi>а</w>
-<w n="18,8">рож<hi rend="sup">д</hi>ества.</w>
-<w n="18,8">лѣ<hi rend="sup">т</hi>. <lb/></w>
-
-<w n="18,8">.т҃.л҃.г҃.</w>
-<w n="18,8">а</w>
-<w n="18,8">ѿ</w>
-<w n="18,8">хв<hi rend="sup">с</hi>а</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="18,8">д<hi rend="sup">о</hi></w>
-<w n="18,8">х<hi rend="sup">с</hi>ва</w>
-<w n="18,8">рж<hi rend="sup">с</hi>тв. <lb/></w>
-
-<w n="18,8">лѣ<hi rend="sup">т</hi>.</w>
-<w n="18,8">т҃.л҃.г҃.</w>
-<w n="18,8">ѿ</w>
-<w n="18,8">х<hi rend="sup">с</hi>ва</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="18,8">до <lb/></w>
-
-<w n="18,8">х҃ва</w>
-<w n="18,8">рж<hi rend="sup">с</hi>тва.</w>
-<w n="18,8">лѣ<hi rend="sup">т</hi>.</w>
-<w n="18,8">т҃.л҃г.</w>
-<w n="18,8">а</w>
-<w n="18,8">ѿ</w>
-<w n="18,8">х҃ва</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="18,8">до</w>
-<w n="18,8">рожества</w>
-<w n="18,8">Христова</w>
-<w n="18,8">лѣтъ 333;</w>
-
-<w n="18,8">а</w>
-<w n="18,8">отъ</w>
-<w n="18,8">Христова</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="18,8">до</w>
-<w n="18,8">рожьства</w>
-<w n="18,8">Христова</w>
-<w n="18,8">лѣтъ 333;</w>
-
-<w n="18,8">а</w>
-<w n="18,8">отъ</w>
-<w n="18,8">Христова</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="18,8">до</w>
-<w n="18,8">рожества</w>
-<w n="18,8">Христова</w>
-<w n="18,8">лѣт 333;</w>
-
-<w n="18,8">а</w>
-<w n="18,8">от</w>
-<w n="18,8">Христова</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="8"><p><app><lem wit="#lem">
+            до Христова рожьства лѣтъ 333; а отъ Христова
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">до ржва х<hi rend="sup">с</hi>ва лѣ<hi rend="sup">т</hi>. т҃.г҃і.</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">до хв<hi rend="sup">с</hi>а рож<hi rend="sup">д</hi>ества. лѣ<hi rend="sup">т</hi>. <lb/> .т҃.л҃.г҃. а ѿ
+                    хв<hi rend="sup">с</hi>а</rdg>
+            <rdg wit="#ipa">д<hi rend="sup">о</hi> х<hi rend="sup">с</hi>ва рж<hi rend="sup">с</hi>тв. <lb/> лѣ<hi rend="sup">т</hi>. т҃.л҃.г҃. ѿ
+                    х<hi rend="sup">с</hi>ва</rdg>
+            <rdg wit="#xle">до <lb/> х҃ва рж<hi rend="sup">с</hi>тва. лѣ<hi rend="sup">т</hi>. т҃.л҃г. а ѿ х҃ва</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">до рожества Христова лѣтъ 333; а отъ Христова</rdg><rdg wit="#shakh">до рожьства Христова лѣтъ 333; а отъ Христова</rdg><rdg wit="#likh">до рожества Христова лѣт 333; а от Христова</rdg></rdgGrp></app></p></div></body></text></TEI>

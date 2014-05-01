@@ -1,92 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>144, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="144"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="144,23">Бѣ</w>
-<w n="144,23">же</w>
-<w n="144,23">пятъкъ</w>
-<w n="144,23">тъгда,</w>
-<w n="144,23">въсходящю</w>
-<w n="144,23">сълньцю,</w>
-<w n="144,23">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="144,23">бѣ <lb/></w>
-
-<w n="144,23">же</w>
-<w n="144,23">пѧтокъ</w>
-<w n="144,23">тогда</w>
-<w n="144,23">въсходѧщю <lb/></w>
-
-<w n="144,23">слн҃цю.</w>
-<w n="144,23">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="144,23">бѣ<hi rend="sup">ж</hi><lb/></w>
-<w n="144,23">пѧтокъ</w>
-<w n="144,23">тогда</w>
-<w n="144,23">въсходѧщю</w>
-<w n="144,23">слн҃цю.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="144,23">бѣ</w>
-<w n="144,23">же</w>
-<w n="144,23">пѧтокъ</w>
-<w n="144,23">тог<hi rend="sup">д</hi>а</w>
-<w n="144,23">въсхо<lb/>дѧщю</w>
-<w n="144,23">сл҃нцю.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="144,23">бѣ</w>
-<w n="144,23">же</w>
-<w n="144,23">пѧто<hi rend="sup">к</hi>.</w>
-<w n="144,23">тогда</w>
-<w n="144,23">вьсходѧщю</w>
-<w n="144,23">слн҃цю</w>
-<w n="144,23">и <pb n="54c"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="144,23">бѣ</w>
-<w n="144,23">же</w>
-<w n="144,23">пѧто<hi rend="sup">к</hi><lb/></w>
-<w n="144,23">тог<hi rend="sup">д</hi>а.</w>
-<w n="144,23">въсходѧщю</w>
-<w n="144,23">сл҃нцю,</w>
-<w n="144,23">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="144,23">Бѣ</w>
-<w n="144,23">же</w>
-<w n="144,23">пятокъ</w>
-<w n="144,23">тогда,</w>
-<w n="144,23">въсходящю</w>
-<w n="144,23">солнцю,</w>
-<w n="144,23">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="144,23">Бѣ</w>
-<w n="144,23">же</w>
-<w n="144,23">пятъкъ</w>
-<w n="144,23">тъгда,</w>
-<w n="144,23">въсходящю</w>
-<w n="144,23">сълньцю,</w>
-<w n="144,23">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="144,23">Бѣ</w>
-<w n="144,23">же</w>
-<w n="144,23">пятокъ</w>
-<w n="144,23">тогда,</w>
-<w n="144,23">въсходящю</w>
-<w n="144,23">солнцю,</w>
-<w n="144,23">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>144, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="144"/><div type="block" n="23"><p><app><lem wit="#lem">
+            Бѣ же пятъкъ тъгда, въсходящю сълньцю, и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">бѣ <lb/> же пѧтокъ тогда въсходѧщю <lb/> слн҃цю. и</rdg>
+            <rdg wit="#rad">бѣ<hi rend="sup">ж</hi>
+                <lb/> пѧтокъ тогда въсходѧщю слн҃цю.</rdg>
+            <rdg wit="#aka">бѣ же пѧтокъ тог<hi rend="sup">д</hi>а въсхо<lb/>дѧщю сл҃нцю.</rdg>
+            <rdg wit="#ipa">бѣ же пѧто<hi rend="sup">к</hi>.  тогда вьсходѧщю слн҃цю и <pb n="54c"/></rdg>
+            <rdg wit="#xle">бѣ же пѧто<hi rend="sup">к</hi>
+                <lb/> тог<hi rend="sup">д</hi>а. въсходѧщю сл҃нцю, и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Бѣ же пятокъ тогда, въсходящю солнцю, и</rdg><rdg wit="#shakh">Бѣ же пятъкъ тъгда, въсходящю сълньцю, и</rdg><rdg wit="#likh">Бѣ же пятокъ тогда, въсходящю солнцю, и</rdg></rdgGrp></app></p></div></body></text></TEI>

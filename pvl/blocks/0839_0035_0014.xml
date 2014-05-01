@@ -1,100 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>35, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="35"/><div type="block" n="14"><p>
-<app>
-<lem wit="#lem">
-<w n="35,14">лодия</w>
-<w n="35,14">вѣтръмь</w>
-<w n="35,14">великъмь</w>
-<w n="35,14">на</w>
-<w n="35,14">землю</w>
-<w n="35,14">чюжю,</w>
-<w n="35,14">и</w>
-<w n="35,14">обращуть</w>
-<w n="35,14">ся</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="35,14">лодьа</w>
-<w n="35,14">вѣтро<hi rend="sup">м</hi></w>
-<w n="35,14">велики<hi rend="sup">м</hi></w>
-<w n="35,14">на</w>
-<w n="35,14">землю</w>
-<w n="35,14">чюжю.</w>
-<w n="35,14">и</w>
-<w n="35,14">ѡбращоу<lb/>ть<hi rend="sup">с</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="35,14">лодїѧ.</w>
-<w n="35,14">вѣтромъ</w>
-<w n="35,14">великїмъ</w>
-<w n="35,14">на</w>
-<w n="35,14">землю</w>
-<w n="35,14">чюжю. <lb/></w>
-
-<w n="35,14">и</w>
-<w n="35,14">ѡбращѹт</w>
-<w n="35,14">сѧ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="35,14">буде<hi rend="sup">т</hi><lb/></w>
-<w n="35,14">вѣтромъ</w>
-<w n="35,14">велико<hi rend="sup">м</hi>.</w>
-<w n="35,14">на</w>
-<w n="35,14">зе<lb/>млю</w>
-<w n="35,14">чюжю.</w>
-<w n="35,14">и</w>
-<w n="35,14">ѡбрѧщю<lb/>ть</w>
-<w n="35,14">сѧ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="35,14">лодїа</w>
-<w n="35,14">великѡ<hi rend="sup">м</hi></w>
-<w n="35,14">вѣтро<hi rend="sup">м</hi><lb/></w>
-<w n="35,14">на</w>
-<w n="35,14">землю</w>
-<w n="35,14">чюжоу.</w>
-<w n="35,14">и</w>
-<w n="35,14">обращоут</w>
-<w n="35,14">сѧ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="35,14">лодьа</w>
-<w n="35,14">вѣтромъ</w>
-<w n="35,14">великимъ</w>
-<w n="35,14">на</w>
-<w n="35,14">землю</w>
-<w n="35,14">чюжю,</w>
-<w n="35,14">и</w>
-<w n="35,14">обращуть</w>
-<w n="35,14">ся</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="35,14">лодия</w>
-<w n="35,14">великъмь</w>
-<w n="35,14">вѣтръмь</w>
-<w n="35,14">на</w>
-<w n="35,14">землю</w>
-<w n="35,14">чюжю,</w>
-<w n="35,14">и</w>
-<w n="35,14">обращуться</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="35,14">лодьа</w>
-<w n="35,14">вѣтром</w>
-<w n="35,14">великим</w>
-<w n="35,14">на</w>
-<w n="35,14">землю</w>
-<w n="35,14">чюжю,</w>
-<w n="35,14">и</w>
-<w n="35,14">обращуть</w>
-<w n="35,14">ся</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>35, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="35"/><div type="block" n="14"><p><app><lem wit="#lem">
+            лодия вѣтръмь великъмь на землю чюжю, и обращуть ся
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">лодьа вѣтро<hi rend="sup">м</hi> велики<hi rend="sup">м</hi> на землю чюжю. и
+                    ѡбращоу<lb/>ть<hi rend="sup">с</hi></rdg>
+            <rdg wit="#aka">лодїѧ. вѣтромъ великїмъ на землю чюжю. <lb/> и ѡбращѹт сѧ</rdg>
+            <rdg wit="#ipa">буде<hi rend="sup">т</hi>
+                <lb/> вѣтромъ велико<hi rend="sup">м</hi>. на зе<lb/>млю чюжю. и ѡбрѧщю<lb/>ть сѧ</rdg>
+            <rdg wit="#xle">лодїа великѡ<hi rend="sup">м</hi> вѣтро<hi rend="sup">м</hi>
+                <lb/> на землю чюжоу. и обращоут сѧ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">лодьа вѣтромъ великимъ на землю чюжю, и обращуть ся</rdg><rdg wit="#shakh">лодия великъмь вѣтръмь на землю чюжю, и обращуться</rdg><rdg wit="#likh">лодьа вѣтром великим на землю чюжю, и обращуть ся</rdg></rdgGrp></app></p></div></body></text></TEI>

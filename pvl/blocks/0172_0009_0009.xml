@@ -1,83 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>9, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="9"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="9,9">своимь.</w>
-<w n="9,9">И</w>
-<w n="9,9">быша 3</w>
-
-<w n="9,9">брата:</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="9,9">своимъ</w>
-<w n="9,9">на</w>
-<w n="9,9">своихъ</w>
-<w n="9,9">мѣстѣ<hi rend="sup">х</hi>.</w>
-<w n="9,9">быша</w>
-<w n="9,9">.г҃.</w>
-<w n="9,9">братьꙗ.</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="9,9">своимъ</w>
-<w n="9,9">и</w>
-<w n="9,9">быша 3</w>
-
-<w n="9,9">братьѣ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="9,9">И</w>
-<w n="9,9">быша</w>
-<w n="9,9">.г҃.</w>
-<w n="9,9">бра<hi rend="sup">т</hi>ѧ <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="9,9">И</w>
-<w n="9,9">бы<lb/>ша</w>
-<w n="9,9">.г҃.</w>
-<w n="9,9">бра<hi rend="sup">т</hi>а.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="9,9">своимъ·:·</w>
-<w n="9,9">И</w>
-<w n="9,9">быша</w>
-<w n="9,9">.г҃.</w>
-<w n="9,9">брата.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="9,9">свои<hi rend="sup">м</hi>.·̏</w>
-<w n="9,9">И</w>
-<w n="9,9">быша</w>
-<w n="9,9">три</w>
-<w n="9,9">бра<hi rend="sup">т</hi>а,</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="9,9">своимъ.</w>
-<w n="9,9">И</w>
-<w n="9,9">быша 3</w>
-
-<w n="9,9">братья,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="9,9">своимь.</w>
-<w n="9,9">И</w>
-<w n="9,9">быша 3</w>
-
-<w n="9,9">братия,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="9,9">своимъ.</w>
-<w n="9,9">И</w>
-<w n="9,9">быша 3</w>
-
-<w n="9,9">братья:</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>9, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="9"/><div type="block" n="9"><p><app><lem wit="#lem">
+            своимь. И быша 3 брата:
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">своимъ на своихъ мѣстѣ<hi rend="sup">х</hi>. быша .г҃. братьꙗ.</rdg>
+            <rdg wit="#tro">своимъ и быша 3 братьѣ</rdg>
+            <rdg wit="#rad">И быша .г҃. бра<hi rend="sup">т</hi>ѧ <lb/></rdg>
+            <rdg wit="#aka">И бы<lb/>ша .г҃. бра<hi rend="sup">т</hi>а.</rdg>
+            <rdg wit="#ipa">своимъ·:· И быша .г҃. брата.</rdg>
+            <rdg wit="#xle">свои<hi rend="sup">м</hi>.·̏ И быша три бра<hi rend="sup">т</hi>а,</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">своимъ. И быша 3 братья,</rdg><rdg wit="#shakh">своимь. И быша 3 братия,</rdg><rdg wit="#likh">своимъ. И быша 3 братья:</rdg></rdgGrp></app></p></div></body></text></TEI>

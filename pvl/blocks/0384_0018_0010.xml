@@ -1,106 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-<w n="18,10">отъ</w>
-<w n="18,10">Костянтина</w>
-<w n="18,10">же</w>
-<w n="18,10">до</w>
-<w n="18,10">Михаила</w>
-<w n="18,10">сего</w>
-<w n="18,10">лѣтъ 542.</w>
-
-<w n="18,10">А</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="18,10">ѿ</w>
-<w n="18,10">костѧнтина</w>
-<w n="18,10">же</w>
-<w n="18,10">до</w>
-<w n="18,10">миха<lb/>ила</w>
-<w n="18,10">сего.</w>
-<w n="18,10">лѣ<hi rend="sup">т</hi></w>
-<w n="18,10">ф҃.м҃.в҃.</w>
-<w n="18,10">а</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-<w n="18,10">ѿ</w>
-<w n="18,10">костѧнтина</w>
-<w n="18,10">же</w>
-<w n="18,10">до</w>
-<w n="18,10">михаила</w>
-<w n="18,10">сего.</w>
-<w n="18,10">лѣ<hi rend="sup">т</hi>.</w>
-<w n="18,10">ф҃.м҃.в҃.</w>
-<w n="18,10">а <pb n="7v"/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="18,10">Ѿ</w>
-<w n="18,10">костѧнти<lb/>на</w>
-<w n="18,10">же</w>
-<w n="18,10">до</w>
-<w n="18,10">михаила</w>
-<w n="18,10">сего. <lb/></w>
-
-<w n="18,10">лѣ<hi rend="sup">т</hi>.</w>
-<w n="18,10">ф҃.м҃</w>
-<w n="18,10">в҃.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="18,10">ѿ</w>
-<w n="18,10">костѧ<hi rend="sup">н</hi>тина</w>
-<w n="18,10">до</w>
-<w n="18,10">михаила</w>
-<w n="18,10">сего,</w>
-<w n="18,10">лѣ<hi rend="sup">т</hi>.</w>
-<w n="18,10">ф҃.м҃в.</w>
-<w n="18,10">а <pb n="6r"/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="18,10">отъ</w>
-<w n="18,10">Костянтина</w>
-<w n="18,10">же</w>
-<w n="18,10">до</w>
-<w n="18,10">Михаила</w>
-<w n="18,10">сего</w>
-<w n="18,10">лѣтъ 542;</w>
-
-<w n="18,10">а</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="18,10">отъ</w>
-<w n="18,10">Костянтина</w>
-<w n="18,10">же</w>
-<w n="18,10">до</w>
-<w n="18,10">Михаила</w>
-<w n="18,10">сего</w>
-<w n="18,10">лѣтъ 542.</w>
-
-<w n="18,10">А</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="18,10">от</w>
-<w n="18,10">Костянтина</w>
-<w n="18,10">же</w>
-<w n="18,10">до</w>
-<w n="18,10">Михаила</w>
-<w n="18,10">сего</w>
-<w n="18,10">лѣт 542.”</w>
-
-<w n="18,10">А</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="10"><p><app><lem wit="#lem">
+            отъ Костянтина же до Михаила сего лѣтъ 542. А
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѿ костѧнтина же до миха<lb/>ила сего. лѣ<hi rend="sup">т</hi> ф҃.м҃.в҃. а</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">ѿ костѧнтина же до михаила сего.  лѣ<hi rend="sup">т</hi>. ф҃.м҃.в҃. а
+                    <pb n="7v"/></rdg>
+            <rdg wit="#ipa">Ѿ костѧнти<lb/>на же до михаила сего. <lb/> лѣ<hi rend="sup">т</hi>. ф҃.м҃ в҃.</rdg>
+            <rdg wit="#xle">ѿ костѧ<hi rend="sup">н</hi>тина до михаила сего,  лѣ<hi rend="sup">т</hi>. ф҃.м҃в. а
+                    <pb n="6r"/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">отъ Костянтина же до Михаила сего лѣтъ 542; а</rdg><rdg wit="#shakh">отъ Костянтина же до Михаила сего лѣтъ 542. А</rdg><rdg wit="#likh">от Костянтина же до Михаила сего лѣт 542.” А</rdg></rdgGrp></app></p></div></body></text></TEI>

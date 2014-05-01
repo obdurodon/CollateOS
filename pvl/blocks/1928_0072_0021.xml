@@ -1,85 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>72, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="72"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="72,21">къ</w>
-<w n="72,21">Иоанну,</w>
-<w n="72,21">нарицаемому</w>
-<w n="72,21">Цимьскию,</w>
-<w n="72,21">цьсарю</w>
-<w n="72,21">Грьцьскому,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="72,21">к</w>
-<w n="72,21">ивану</w>
-<w n="72,21">нарицаемому</w>
-<w n="72,21">цѣмь<lb/>скию</w>
-<w n="72,21">ц҃рю</w>
-<w n="72,21">гречьскому.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="72,21">ко</w>
-<w n="72,21">иѡнѹ</w>
-<w n="72,21">нарицаемом<hi rend="sup">ѹ</hi></w>
-<w n="72,21">цемьскию</w>
-<w n="72,21">ц҃рю</w>
-<w n="72,21">грецком<hi rend="sup">ѹ</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="72,21">ко</w>
-<w n="72,21">иѡанѹ</w>
-<w n="72,21">нарицаемомѹ</w>
-<w n="72,21">цемьскїю</w>
-<w n="72,21">ц҃рю. <lb/></w>
-
-<w n="72,21">грецкомѹ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="72,21">ко</w>
-<w n="72,21">иѡану</w>
-<w n="72,21">на<lb/>рѣ<milestone unit="sic" n="start"/>ц<milestone unit="sic" n="end"/>аемому.</w>
-<w n="72,21">цимьскому <lb/></w>
-
-<w n="72,21">цр<hi rend="sup">с</hi>ю</w>
-<w n="72,21">грѣцкому.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="72,21">къ</w>
-<w n="72,21">іѡанноу</w>
-<w n="72,21">нарицаемомоу</w>
-<w n="72,21">ци<hi rend="sup">м</hi>скомоу</w>
-<w n="72,21">цароу</w>
-<w n="72,21">гре<hi rend="sup">ц</hi><lb/>комоу.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="72,21">к</w>
-<w n="72,21">Ивану,</w>
-<w n="72,21">нарицаемому</w>
-<w n="72,21">Цѣмьскию,</w>
-<w n="72,21">царю</w>
-<w n="72,21">Гречьскому,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="72,21">къ</w>
-<w n="72,21">Иоану,</w>
-<w n="72,21">нарицаемому</w>
-<w n="72,21">Цѣмьскию,</w>
-<w n="72,21">цѣсарю</w>
-<w n="72,21">Грьчьскому,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="72,21">к</w>
-<w n="72,21">Ивану,</w>
-<w n="72,21">нарицаемому</w>
-<w n="72,21">Цѣмьскию,</w>
-<w n="72,21">царю</w>
-<w n="72,21">гречьскому,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>72, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="72"/><div type="block" n="21"><p><app><lem wit="#lem">
+            къ Иоанну, нарицаемому Цимьскию, цьсарю Грьцьскому,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">к ивану нарицаемому цѣмь<lb/>скию ц҃рю гречьскому.</rdg>
+            <rdg wit="#rad">ко иѡнѹ нарицаемом<hi rend="sup">ѹ</hi> цемьскию ц҃рю грецком<hi rend="sup">ѹ</hi></rdg>
+            <rdg wit="#aka">ко иѡанѹ нарицаемомѹ цемьскїю ц҃рю. <lb/> грецкомѹ.</rdg>
+            <rdg wit="#ipa">ко иѡану на<lb/>рѣ<sic>ц</sic>аемому. цимьскому <lb/> цр<hi rend="sup">с</hi>ю
+                грѣцкому.</rdg>
+            <rdg wit="#xle">къ іѡанноу нарицаемомоу ци<hi rend="sup">м</hi>скомоу цароу гре<hi rend="sup">ц</hi><lb/>комоу.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">к Ивану, нарицаемому Цѣмьскию, царю Гречьскому,</rdg><rdg wit="#shakh">къ Иоану, нарицаемому Цѣмьскию, цѣсарю Грьчьскому,</rdg><rdg wit="#likh">к Ивану, нарицаемому Цѣмьскию, царю гречьскому,</rdg></rdgGrp></app></p></div></body></text></TEI>

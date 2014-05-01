@@ -1,104 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>105, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="105"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="105,16">же</w>
-<w n="105,16">прообрази,</w>
-<w n="105,16">яко</w>
-<w n="105,16">иностраньни</w>
-<w n="105,16">бѣша</w>
-<w n="105,16">преже</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="105,16">же <lb/></w>
-
-<w n="105,16">преѡбрази.</w>
-<w n="105,16">ꙗко</w>
-<w n="105,16">иностраньни</w>
-<w n="105,16">бѣша</w>
-<w n="105,16">преже</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="105,16">же</w>
-<w n="105,16">проѡбра<lb/>зи</w>
-<w n="105,16">ꙗко</w>
-<w n="105,16">инострании</w>
-<w n="105,16">бѣша.</w>
-<w n="105,16">преже</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="105,16">же</w>
-<w n="105,16">проѡбрази</w>
-<w n="105,16">ꙗко</w>
-<w n="105,16">иностра<lb/>ннї</w>
-<w n="105,16">быша.</w>
-<w n="105,16">преже</w>
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-<w n="105,16">пр<milestone unit="sic" n="start"/>о<milestone unit="sic" n="end"/>обраѕи.</w>
-<w n="105,16">яко</w>
-<w n="105,16">иностраны</w>
-<w n="105,16">бѣша</w>
-<w n="105,16">пре<hi rend="sup">ж</hi></w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="105,16">же</w>
-<w n="105,16">преобрази</w>
-<w n="105,16">ꙗко</w>
-<w n="105,16">иностраннии</w>
-<w n="105,16">бѣша</w>
-<w n="105,16">суша</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="105,16">же</w>
-<w n="105,16">преобрази</w>
-<w n="105,16">ꙗко</w>
-<w n="105,16">иностраннѣи</w>
-<w n="105,16">быша</w>
-<w n="105,16">суша</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="105,16">же</w>
-<w n="105,16">преобрази</w>
-<w n="105,16">ꙗко</w>
-<w n="105,16">иностраннѣи</w>
-<w n="105,16">быша</w>
-<w n="105,16">суша</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="105,16">же</w>
-<w n="105,16">преобрази,</w>
-<w n="105,16">яко</w>
-<w n="105,16">иностраньни</w>
-<w n="105,16">бѣша</w>
-<w n="105,16">преже</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="105,16">же</w>
-<w n="105,16">прообрази,</w>
-<w n="105,16">яко</w>
-<w n="105,16">иностраньни</w>
-<w n="105,16">бѣша</w>
-<w n="105,16">преже</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="105,16">же</w>
-<w n="105,16">преобрази,</w>
-<w n="105,16">яко</w>
-<w n="105,16">иностраньни</w>
-<w n="105,16">бѣша</w>
-<w n="105,16">преже</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>105, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="105"/><div type="block" n="16"><p><app><lem wit="#lem">
+            же прообрази, яко иностраньни бѣша преже
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">же <lb/> преѡбрази. ꙗко иностраньни бѣша преже</rdg>
+            <rdg wit="#rad">же проѡбра<lb/>зи ꙗко инострании бѣша. преже</rdg>
+            <rdg wit="#aka">же проѡбрази ꙗко иностра<lb/>ннї быша. преже</rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">пр<sic>о</sic>обраѕи. ꙗко иностраны бѣша пре<hi rend="sup">ж</hi></rdg>
+            <rdg wit="#kom">же преобрази ꙗко иностраннии бѣша суша</rdg>
+            <rdg wit="#nak">же преобрази ꙗко иностраннѣи быша суша</rdg>
+            <rdg wit="#tol">же преобрази ꙗко иностраннѣи быша суша</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">же преобрази, яко иностраньни бѣша преже</rdg><rdg wit="#shakh">же прообрази, яко иностраньни бѣша преже</rdg><rdg wit="#likh">же преобрази, яко иностраньни бѣша преже</rdg></rdgGrp></app></p></div></body></text></TEI>

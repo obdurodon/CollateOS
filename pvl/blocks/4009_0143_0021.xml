@@ -1,97 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>143, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="143"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="143,21">рекуще:</w>
-<w n="143,21">“Можемъ</w>
-<w n="143,21">ся</w>
-<w n="143,21">еще</w>
-<w n="143,21">бити</w>
-<w n="143,21">съ</w>
-<w n="143,21">Болеславъмь</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="143,21">рекуще.</w>
-<w n="143,21">хочемъ</w>
-<w n="143,21">сѧ</w>
-<w n="143,21">и</w>
-<w n="143,21">е<lb/>ще</w>
-<w n="143,21">бити</w>
-<w n="143,21">съ</w>
-<w n="143,21">болеславомъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="143,21">рекѹщи</w>
-<w n="143,21">можемъ<hi rend="sup">с</hi><lb/></w>
-<w n="143,21">еще</w>
-<w n="143,21">бити.</w>
-<w n="143,21">с</w>
-<w n="143,21">болеславъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="143,21">рекѹще</w>
-<w n="143,21">можемь</w>
-<w n="143,21">сѧ</w>
-<w n="143,21">еще</w>
-<w n="143,21">бити</w>
-<w n="143,21">з</w>
-<w n="143,21">болеславо<lb/>мъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="143,21">рекоуще</w>
-<w n="143,21">мо<lb/>жемь</w>
-<w n="143,21">сѧ</w>
-<w n="143,21">еще</w>
-<w n="143,21">бити<hi rend="sup">с</hi><milestone unit="add" n="start" place="margin"/>по</w>
-<w n="143,21">тобѣ<milestone unit="add" n="end"/></w>
-<w n="143,21">с</w>
-<w n="143,21">боле<lb/>славомъ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="143,21">рекѹще, <lb/></w>
-
-<w n="143,21">може<hi rend="sup">м</hi></w>
-<w n="143,21">сѧ</w>
-<w n="143,21">еще</w>
-<w n="143,21">бити</w>
-<w n="143,21">з</w>
-<w n="143,21">болеславо<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="143,21">рекуще:</w>
-<w n="143,21">“хочемъ</w>
-<w n="143,21">ся</w>
-<w n="143,21">и</w>
-<w n="143,21">еще</w>
-<w n="143,21">бити</w>
-<w n="143,21">съ</w>
-<w n="143,21">Болеславомъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="143,21">рекуще:</w>
-<w n="143,21">“хочемъ</w>
-<w n="143,21">ся</w>
-<w n="143,21">и</w>
-<w n="143,21">еще</w>
-<w n="143,21">бити</w>
-<w n="143,21">съ</w>
-<w n="143,21">Болеславъмь</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="143,21">рекуще:</w>
-<w n="143,21">“Хочемъ</w>
-<w n="143,21">ся</w>
-<w n="143,21">и</w>
-<w n="143,21">еще</w>
-<w n="143,21">бити</w>
-<w n="143,21">съ</w>
-<w n="143,21">Болеславомъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>143, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="143"/><div type="block" n="21"><p><app><lem wit="#lem">
+            рекуще: “Можемъ ся еще бити съ Болеславъмь
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">рекуще. хочемъ сѧ и е<lb/>ще бити съ болеславомъ</rdg>
+            <rdg wit="#rad">рекѹщи можемъ<hi rend="sup">с</hi>
+                <lb/> еще бити. с болеславъ</rdg>
+            <rdg wit="#aka">рекѹще можемь сѧ еще бити з болеславо<lb/>мъ</rdg>
+            <rdg wit="#ipa">рекоуще мо<lb/>жемь сѧ еще бити<hi rend="sup">с</hi>
+                <add place="margin">по тобѣ</add> с боле<lb/>славомъ.</rdg>
+            <rdg wit="#xle">рекѹще, <lb/> може<hi rend="sup">м</hi> сѧ еще бити з болеславо<hi rend="sup">м</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">рекуще: “хочемъ ся и еще бити съ Болеславомъ</rdg><rdg wit="#shakh">рекуще: “хочемъ ся и еще бити съ Болеславъмь</rdg><rdg wit="#likh">рекуще: “Хочемъ ся и еще бити съ Болеславомъ</rdg></rdgGrp></app></p></div></body></text></TEI>

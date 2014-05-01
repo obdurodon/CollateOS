@@ -1,87 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>225, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="225"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="225,22">Якоже</w>
-<w n="225,22">паче</w>
-<w n="225,22">вьсѣхъ</w>
-<w n="225,22">просвѣщени</w>
-<w n="225,22">бывъше,</w>
-<w n="225,22">Владычню</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="225,22">ꙗкоже</w>
-<w n="225,22">па<lb/>че</w>
-<w n="225,22">всѣхъ</w>
-<w n="225,22">просвѣщени</w>
-<w n="225,22">бывше· <lb/></w>
-
-<w n="225,22">влч<hi rend="sup">д</hi>ню</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="225,22">ꙗко<hi rend="sup">ж</hi></w>
-<w n="225,22">паче</w>
-<w n="225,22">всѣ<hi rend="sup">х</hi></w>
-<w n="225,22">просвещени</w>
-<w n="225,22">бывше <lb/></w>
-
-<w n="225,22">влчн<hi rend="sup">д</hi>ю</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="225,22">ꙗкоже</w>
-<w n="225,22"><milestone unit="sic" n="start"/>паче<milestone unit="sic" n="end"/></w>
-<w n="225,22">паче</w>
-<w n="225,22">всѣ<hi rend="sup">х</hi><lb/></w>
-<w n="225,22">просвещени</w>
-<w n="225,22">бы·̏вше·</w>
-<w n="225,22">влч<hi rend="sup">д</hi>ною</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="225,22">просвѣщенье</w>
-<w n="225,22">бывше·</w>
-<w n="225,22">ї</w>
-<w n="225,22">вла<lb/>дычню</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="225,22">яко<hi rend="sup">ж</hi></w>
-<w n="225,22">паче</w>
-<w n="225,22">всѣ<hi rend="sup">х</hi></w>
-<w n="225,22">просвѣщени</w>
-<w n="225,22">бывше.</w>
-<w n="225,22">и</w>
-<w n="225,22">вл<hi rend="sup">д</hi>чню <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="225,22">якоже</w>
-<w n="225,22">паче</w>
-<w n="225,22">всѣхъ</w>
-<w n="225,22">просвѣщени</w>
-<w n="225,22">бывше,</w>
-<w n="225,22">Владычню</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="225,22">якоже</w>
-<w n="225,22">паче</w>
-<w n="225,22">вьсѣхъ</w>
-<w n="225,22">просвѣщени</w>
-<w n="225,22">бывъше</w>
-<w n="225,22">и</w>
-<w n="225,22">Владычню</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="225,22">Якоже</w>
-<w n="225,22">паче</w>
-<w n="225,22">всѣхъ</w>
-<w n="225,22">просвѣщени</w>
-<w n="225,22">бывше,</w>
-<w n="225,22">владычню</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>225, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="225"/><div type="block" n="22"><p><app><lem wit="#lem">
+            Якоже паче вьсѣхъ просвѣщени бывъше, Владычню
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ꙗкоже па<lb/>че всѣхъ просвѣщени бывше· <lb/> влч<hi rend="sup">д</hi>ню</rdg>
+            <rdg wit="#rad">ꙗко<hi rend="sup">ж</hi> паче всѣ<hi rend="sup">х</hi> просвещени бывше <lb/> влчн<hi rend="sup">д</hi>ю</rdg>
+            <rdg wit="#aka">ꙗкоже <sic>паче</sic> паче всѣ<hi rend="sup">х</hi>
+                <lb/> просвещени бы·̏вше· влч<hi rend="sup">д</hi>ною</rdg>
+            <rdg wit="#ipa">просвѣщенье бывше· ї вла<lb/>дычню</rdg>
+            <rdg wit="#xle">ꙗко<hi rend="sup">ж</hi> паче всѣ<hi rend="sup">х</hi> просвѣщени бывше. и вл<hi rend="sup">д</hi>чню
+                <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">якоже паче всѣхъ просвѣщени бывше, Владычню</rdg><rdg wit="#shakh">якоже паче вьсѣхъ просвѣщени бывъше и Владычню</rdg><rdg wit="#likh">Якоже паче всѣхъ просвѣщени бывше, владычню</rdg></rdgGrp></app></p></div></body></text></TEI>

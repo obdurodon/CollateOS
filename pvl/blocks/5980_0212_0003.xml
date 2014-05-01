@@ -1,89 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>212, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="212"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="212,3">и</w>
-<w n="212,3">наказая</w>
-<w n="212,3">приходящая</w>
-<w n="212,3">къ</w>
-<w n="212,3">нему,</w>
-<w n="212,3">другоичи</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="212,3">и</w>
-<w n="212,3">на<lb/>казаꙗ</w>
-<w n="212,3">приходѧщаꙗ</w>
-<w n="212,3">к</w>
-<w n="212,3">нему· <lb/></w>
-
-<w n="212,3">другоицѧ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="212,3">и</w>
-<w n="212,3">наказаꙗ.</w>
-<w n="212,3">приходѧщаꙗ.</w>
-<w n="212,3">к</w>
-<w n="212,3">немѹ</w>
-<w n="212,3">дрѹгоичи <lb/></w>
-
-<w n="212,3">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="212,3">и</w>
-<w n="212,3">наказаѧ·</w>
-<w n="212,3">приходѧщаѧ</w>
-<w n="212,3">к</w>
-<w n="212,3">не<lb/>мѹ·</w>
-<w n="212,3">дрѹгоичи</w>
-<w n="212,3">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="212,3">и</w>
-<w n="212,3">наказаꙗ</w>
-<w n="212,3">приходѧ<lb/>щаꙗ</w>
-<w n="212,3">к</w>
-<w n="212,3">нему·</w>
-<w n="212,3">другоичи</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="212,3">и</w>
-<w n="212,3">наказаа</w>
-<w n="212,3">приходѧщаа</w>
-<w n="212,3">къ</w>
-<w n="212,3">н<hi rend="sup">м</hi>е<hi rend="sup">ѹ</hi>. <lb/></w>
-
-<w n="212,3">дроугоичи</w>
-<w n="212,3">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="212,3">и</w>
-<w n="212,3">наказая</w>
-<w n="212,3">приходящая</w>
-<w n="212,3">к</w>
-<w n="212,3">нему,</w>
-<w n="212,3">другоици</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="212,3">и</w>
-<w n="212,3">наказая</w>
-<w n="212,3">приходящая</w>
-<w n="212,3">къ</w>
-<w n="212,3">нему,</w>
-<w n="212,3">другоици</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="212,3">и</w>
-<w n="212,3">наказая</w>
-<w n="212,3">приходящая</w>
-<w n="212,3">к</w>
-<w n="212,3">нему,</w>
-<w n="212,3">другоици</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>212, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="212"/><div type="block" n="3"><p><app><lem wit="#lem">
+            и наказая приходящая къ нему, другоичи
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и на<lb/>казаꙗ приходѧщаꙗ к нему· <lb/> другоицѧ</rdg>
+            <rdg wit="#rad">и наказаꙗ. приходѧщаꙗ. к немѹ дрѹгоичи <lb/> и</rdg>
+            <rdg wit="#aka">и наказаѧ· приходѧщаѧ к не<lb/>мѹ· дрѹгоичи и</rdg>
+            <rdg wit="#ipa">и наказаꙗ приходѧ<lb/>щаꙗ к нему· другоичи</rdg>
+            <rdg wit="#xle">и наказаа приходѧщаа къ н<hi rend="sup">м</hi>е<hi rend="sup">ѹ</hi>. <lb/> дроугоичи и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и наказая приходящая к нему, другоици</rdg><rdg wit="#shakh">и наказая приходящая къ нему, другоици</rdg><rdg wit="#likh">и наказая приходящая к нему, другоици</rdg></rdgGrp></app></p></div></body></text></TEI>

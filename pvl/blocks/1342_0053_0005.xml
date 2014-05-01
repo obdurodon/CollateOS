@@ -1,81 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>53, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="53"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="53,5">будеть</w>
-<w n="53,5">своимь</w>
-<w n="53,5">оружьемь.</w>
-<w n="53,5">А</w>
-<w n="53,5">не</w>
-<w n="53,5">крьщении</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="53,5">будеть</w>
-<w n="53,5">своимъ</w>
-<w n="53,5">ѡружь<lb/>емъ.</w>
-<w n="53,5">а</w>
-<w n="53,5">на</w>
-<w n="53,5">кр҃щньѣ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="53,5">бѹде<hi rend="sup">т</hi></w>
-<w n="53,5">своимъ</w>
-<w n="53,5">ѡрѹжье<hi rend="sup">м</hi>.</w>
-<w n="53,5">а</w>
-<w n="53,5">не</w>
-<w n="53,5">кр҃щнъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="53,5">бѹдетъ</w>
-<w n="53,5">своимъ</w>
-<w n="53,5">ѡрѹжьемь.</w>
-<w n="53,5">а</w>
-<w n="53,5">не</w>
-<w n="53,5">кр҃ще<lb/>нъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="53,5">будеть</w>
-<w n="53,5">сво<lb/>имъ</w>
-<w n="53,5">ѡружьемъ.</w>
-<w n="53,5">а</w>
-<w n="53,5">не</w>
-<w n="53,5">крѣ<lb/>щении</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="53,5">бѫде<hi rend="sup">т</hi></w>
-<w n="53,5">свои<hi rend="sup">м</hi></w>
-<w n="53,5">ѡроужїемь.</w>
-<w n="53,5">а</w>
-<w n="53,5">не</w>
-<w n="53,5">кр<hi rend="sup">с</hi>ще<lb/>нїи</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="53,5">будеть</w>
-<w n="53,5">своимъ</w>
-<w n="53,5">оружьемъ.</w>
-<w n="53,5">А</w>
-<w n="53,5">некрещеная</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="53,5">будеть</w>
-<w n="53,5">своимь</w>
-<w n="53,5">оружиемь.</w>
-<w n="53,5">А</w>
-<w n="53,5">не</w>
-<w n="53,5">крьщении</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="53,5">будеть</w>
-<w n="53,5">своимъ</w>
-<w n="53,5">оружьемъ.</w>
-<w n="53,5">А</w>
-<w n="53,5">некрещеная</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>53, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="53"/><div type="block" n="5"><p><app><lem wit="#lem">
+            будеть своимь оружьемь. А не крьщении
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">будеть своимъ ѡружь<lb/>емъ. а на кр҃щньѣ</rdg>
+            <rdg wit="#rad">бѹде<hi rend="sup">т</hi> своимъ ѡрѹжье<hi rend="sup">м</hi>. а не кр҃щнъ</rdg>
+            <rdg wit="#aka">бѹдетъ своимъ ѡрѹжьемь. а не кр҃ще<lb/>нъ</rdg>
+            <rdg wit="#ipa">будеть сво<lb/>имъ ѡружьемъ. а не крѣ<lb/>щении</rdg>
+            <rdg wit="#xle">бѫде<hi rend="sup">т</hi> свои<hi rend="sup">м</hi> ѡроужїемь. а не кр<hi rend="sup">с</hi>ще<lb/>нїи</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">будеть своимъ оружьемъ. А некрещеная</rdg><rdg wit="#shakh">будеть своимь оружиемь. А не крьщении</rdg><rdg wit="#likh">будеть своимъ оружьемъ. А некрещеная</rdg></rdgGrp></app></p></div></body></text></TEI>

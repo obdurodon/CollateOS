@@ -1,93 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>15, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="15"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="15,16">творять,</w>
-<w n="15,16">нъ</w>
-<w n="15,16">любы</w>
-<w n="15,16">творить,</w>
-<w n="15,16">елико</w>
-<w n="15,16">хощеть,</w>
-<w n="15,16">не</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="15,16">творѧть.</w>
-<w n="15,16">но</w>
-<w n="15,16">любы</w>
-<w n="15,16">тв<hi rend="sup">о</hi><lb/>рѧть</w>
-<w n="15,16">елико</w>
-<w n="15,16">хощеть.</w>
-<w n="15,16">не</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="15,16">творѧть.</w>
-<w n="15,16">но</w>
-<w n="15,16">любы</w>
-<w n="15,16">творити.</w>
-<w n="15,16">ели<lb/>ко</w>
-<w n="15,16">хоще<hi rend="sup">т</hi>.</w>
-<w n="15,16">не</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="15,16">творѧ<hi rend="sup">т</hi>.</w>
-<w n="15,16">но</w>
-<w n="15,16">любы</w>
-<w n="15,16">творѧтъ.</w>
-<w n="15,16">ели<lb/>ко</w>
-<w n="15,16">хощетъ.</w>
-<w n="15,16">не</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="15,16">творѧть. <lb/></w>
-
-<w n="15,16">но</w>
-<w n="15,16">и</w>
-<w n="15,16">любы</w>
-<w n="15,16">творить</w>
-<w n="15,16">елико</w>
-<w n="15,16">хощеть.</w>
-<w n="15,16">не <pb n="7b"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="15,16">творять,</w>
-<w n="15,16">но</w>
-<w n="15,16">и</w>
-<w n="15,16">любы</w>
-<w n="15,16">творять</w>
-<w n="15,16">елико</w>
-<w n="15,16">хощеть,</w>
-<w n="15,16">не</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="15,16">творять,</w>
-<w n="15,16">нъ</w>
-<w n="15,16">и</w>
-<w n="15,16">любы</w>
-<w n="15,16">творять,</w>
-<w n="15,16">елико</w>
-<w n="15,16">хотять,</w>
-<w n="15,16">не</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="15,16">творять,</w>
-<w n="15,16">но</w>
-<w n="15,16">любы</w>
-<w n="15,16">творять</w>
-<w n="15,16">елико</w>
-<w n="15,16">хощеть,</w>
-<w n="15,16">не</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>15, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="15"/><div type="block" n="16"><p><app><lem wit="#lem">
+            творять, нъ любы творить, елико хощеть, не
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">творѧть. но любы тв<hi rend="sup">о</hi><lb/>рѧть елико хощеть. не</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">творѧть. но любы творити. ели<lb/>ко хоще<hi rend="sup">т</hi>. не</rdg>
+            <rdg wit="#aka">творѧ<hi rend="sup">т</hi>. но любы творѧтъ. ели<lb/>ко хощетъ. не</rdg>
+            <rdg wit="#ipa">творѧть. <lb/> но и любы творить елико хощеть. не <pb n="7b"/></rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">творять, но и любы творять елико хощеть, не</rdg><rdg wit="#shakh">творять, нъ и любы творять, елико хотять, не</rdg><rdg wit="#likh">творять, но любы творять елико хощеть, не</rdg></rdgGrp></app></p></div></body></text></TEI>

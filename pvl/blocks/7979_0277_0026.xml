@@ -1,67 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>277, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="277"/><div type="block" n="26"><p>
-<app>
-<lem wit="#lem">
-<w n="277,26">Вячеславъ</w>
-<w n="277,26">Яропълчичь,</w>
-<w n="277,26">Яропълкъ</w>
-<w n="277,26">Володимиричь.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="277,26">вѧчеславъ</w>
-<w n="277,26">ꙗ<lb/>рополчичь·</w>
-<w n="277,26">ꙗрополкъ</w>
-<w n="277,26">воло<lb/>димеричь·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="277,26">вѧчеславъ</w>
-<w n="277,26">ꙗрополчичь.</w>
-<w n="277,26">ꙗрополкъ</w>
-<w n="277,26">володимири<hi rend="sup">ч</hi>· <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="277,26">вѧчеславъ</w>
-<w n="277,26">ꙗро<lb/>полчичь·</w>
-<w n="277,26">ꙗрополкъ</w>
-<w n="277,26">володимиричь·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="277,26">вѧчьславъ</w>
-<w n="277,26">ꙗро<lb/>полчичь·</w>
-<w n="277,26">ꙗрополкъ</w>
-<w n="277,26">володиме<lb/>ричь·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="277,26">вѧчеславь</w>
-<w n="277,26">ярополчичь.</w>
-<w n="277,26">ярополкь</w>
-<w n="277,26">вол<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>меричь, <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="277,26">Вячеславъ</w>
-<w n="277,26">Ярополчичь,</w>
-<w n="277,26">Ярополкъ</w>
-<w n="277,26">Володимеричь;</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="277,26">Вячеславъ</w>
-<w n="277,26">Яропълчичь,</w>
-<w n="277,26">Яропълкъ</w>
-<w n="277,26">Володимеричь.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="277,26">Вячеславъ</w>
-<w n="277,26">Ярополчичь,</w>
-<w n="277,26">Ярополкъ</w>
-<w n="277,26">Володимеричь.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>277, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="277"/><div type="block" n="26"><p><app><lem wit="#lem">
+            Вячеславъ Яропълчичь, Яропълкъ Володимиричь.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">вѧчеславъ ꙗ<lb/>рополчичь· ꙗрополкъ воло<lb/>димеричь·</rdg>
+            <rdg wit="#rad">вѧчеславъ ꙗрополчичь. ꙗрополкъ володимири<hi rend="sup">ч</hi>· <lb/></rdg>
+            <rdg wit="#aka">вѧчеславъ ꙗро<lb/>полчичь· ꙗрополкъ володимиричь·</rdg>
+            <rdg wit="#ipa">вѧчьславъ ꙗро<lb/>полчичь· ꙗрополкъ володиме<lb/>ричь·</rdg>
+            <rdg wit="#xle">вѧчеславь ꙗрополчичь. ꙗрополкь вол<hi rend="sup">д</hi>ѡ<hi rend="sup">ї</hi>меричь, <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Вячеславъ Ярополчичь, Ярополкъ Володимеричь;</rdg><rdg wit="#shakh">Вячеславъ Яропълчичь, Яропълкъ Володимеричь.</rdg><rdg wit="#likh">Вячеславъ Ярополчичь, Ярополкъ Володимеричь.</rdg></rdgGrp></app></p></div></body></text></TEI>

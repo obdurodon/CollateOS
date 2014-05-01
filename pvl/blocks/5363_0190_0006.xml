@@ -1,86 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>190, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="190"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-<w n="190,6">обличаше</w>
-<w n="190,6">мысль</w>
-<w n="190,6">его</w>
-<w n="190,6">и</w>
-<w n="190,6">утѣшаше</w>
-<w n="190,6">брата.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="190,6">ѡ<lb/>бличаше</w>
-<w n="190,6">мысль</w>
-<w n="190,6">ѥго</w>
-<w n="190,6">и</w>
-<w n="190,6">оутѣ<lb/>шаше</w>
-<w n="190,6">брата.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="190,6">ѡбличиши <lb/></w>
-
-<w n="190,6">мысль</w>
-<w n="190,6">его.</w>
-<w n="190,6">и</w>
-<w n="190,6">оутешать</w>
-<w n="190,6">бра<hi rend="sup">т</hi>.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="190,6">ѡбличи</w>
-<w n="190,6">мы<lb/>сль</w>
-<w n="190,6">его.</w>
-<w n="190,6">и</w>
-<w n="190,6">оутешаше</w>
-<w n="190,6">брата.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="190,6">ѡбличаше</w>
-<w n="190,6">мысль <lb/></w>
-
-<w n="190,6">его.</w>
-<w n="190,6">и</w>
-<w n="190,6">оутѣшаше</w>
-<w n="190,6">брата.</w>
-<w n="190,6">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="190,6">обличаше</w>
-<w n="190,6">мысль</w>
-<w n="190,6">его.</w>
-<w n="190,6">и</w>
-<w n="190,6">оутѣша<lb/>ше</w>
-<w n="190,6">брата.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="190,6">обличаше</w>
-<w n="190,6">мысль</w>
-<w n="190,6">его</w>
-<w n="190,6">и</w>
-<w n="190,6">утѣшаше</w>
-<w n="190,6">брата;</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="190,6">обличаше</w>
-<w n="190,6">мысль</w>
-<w n="190,6">его,</w>
-<w n="190,6">и</w>
-<w n="190,6">утѣшаше</w>
-<w n="190,6">брата;</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="190,6">обличаше</w>
-<w n="190,6">мысль</w>
-<w n="190,6">его</w>
-<w n="190,6">и</w>
-<w n="190,6">утѣшаше</w>
-<w n="190,6">брата.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>190, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="190"/><div type="block" n="6"><p><app><lem wit="#lem">
+            обличаше мысль его и утѣшаше брата.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѡ<lb/>бличаше мысль ѥго и оутѣ<lb/>шаше брата.</rdg>
+            <rdg wit="#rad">ѡбличиши <lb/> мысль его. и оутешать бра<hi rend="sup">т</hi>.</rdg>
+            <rdg wit="#aka">ѡбличи мы<lb/>сль его. и оутешаше брата.</rdg>
+            <rdg wit="#ipa">ѡбличаше мысль <lb/> его. и оутѣшаше брата. и</rdg>
+            <rdg wit="#xle">обличаше мысль его. и оутѣша<lb/>ше брата.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">обличаше мысль его и утѣшаше брата;</rdg><rdg wit="#shakh">обличаше мысль его, и утѣшаше брата;</rdg><rdg wit="#likh">обличаше мысль его и утѣшаше брата.</rdg></rdgGrp></app></p></div></body></text></TEI>

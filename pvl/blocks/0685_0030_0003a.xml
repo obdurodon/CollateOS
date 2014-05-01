@@ -1,70 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>30, 3a</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="30"/><div type="block" n="3a"><p>
-<app>
-<lem wit="#lem">
-<w n="30,3a">брегъ,</w>
-<w n="30,3a">и</w>
-<w n="30,3a">повелѣ</w>
-<w n="30,3a">воемъ</w>
-<w n="30,3a">извлещи</w>
-<w n="30,3a">корабля</w>
-<w n="30,3a">на</w>
-<w n="30,3a">брегъ;</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="30,3a">брегъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="30,3a">брегъ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="30,3a">брегъ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="30,3a">бере<lb/>гъ.</w>
-<w n="30,3a">и</w>
-<w n="30,3a">повелѣ</w>
-<w n="30,3a">воемъ</w>
-<w n="30,3a">изъ<lb/>волочити</w>
-<w n="30,3a">кораблѧ</w>
-<w n="30,3a">на</w>
-<w n="30,3a">бе<lb/>регъ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="30,3a">брегь.</w>
-<w n="30,3a">и</w>
-<w n="30,3a">повелѣ</w>
-<w n="30,3a">во<hi rend="sup">м</hi>е</w>
-<w n="30,3a">изъвлещи</w>
-<w n="30,3a">кораблѧ</w>
-<w n="30,3a">на <lb/></w>
-
-<w n="30,3a">брегь.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="30,3a">брегъ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="30,3a">брегъ,</w>
-<w n="30,3a">и</w>
-<w n="30,3a">повелѣ</w>
-<w n="30,3a">воемъ</w>
-<w n="30,3a">извлещи</w>
-<w n="30,3a">корабля</w>
-<w n="30,3a">на</w>
-<w n="30,3a">брегъ;</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="30,3a">брегъ,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>30, 3a</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="30"/><div type="block" n="3a"><p><app><lem wit="#lem">
+            брегъ, и повелѣ воемъ извлещи корабля на брегъ;
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">брегъ</rdg>
+            <rdg wit="#rad">брегъ.</rdg>
+            <rdg wit="#aka">брегъ.</rdg>
+            <rdg wit="#ipa">бере<lb/>гъ. и повелѣ воемъ изъ<lb/>волочити кораблѧ на бе<lb/>регъ.</rdg>
+            <rdg wit="#xle">брегь. и повелѣ во<hi rend="sup">м</hi>е изъвлещи кораблѧ на <lb/> брегь.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">брегъ,</rdg><rdg wit="#shakh">брегъ, и повелѣ воемъ извлещи корабля на брегъ;</rdg><rdg wit="#likh">брегъ,</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,91 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>5, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="5"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="5,5">и</w>
-<w n="5,5">Фалека.</w>
-<w n="5,5">И</w>
-<w n="5,5">събьравъше</w>
-<w n="5,5">ся</w>
-<w n="5,5">на</w>
-<w n="5,5">мѣстѣ</w>
-<w n="5,5">Сенаръ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="5,5">и</w>
-<w n="5,5">фалека.</w>
-<w n="5,5">и</w>
-<w n="5,5">собрашасѧ</w>
-<w n="5,5">на</w>
-<w n="5,5">мѣстѣ. <lb/></w>
-
-<w n="5,5">сенаръ</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="5,5">и</w>
-<w n="5,5">фалека</w>
-<w n="5,5">и</w>
-<w n="5,5">собрашася</w>
-<w n="5,5">на</w>
-<w n="5,5">мѣстѣ</w>
-<w n="5,5">сенари</w>
-<w n="5,5">на</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="5,5">и</w>
-<w n="5,5">фалека.</w>
-<w n="5,5">и</w>
-<w n="5,5">събравшесѧ <lb/></w>
-
-<w n="5,5">на</w>
-<w n="5,5">мѣстѣ</w>
-<w n="5,5">сенарь</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="5,5">и</w>
-<w n="5,5">фалека.</w>
-<w n="5,5">събравше<hi rend="sup">с</hi></w>
-<w n="5,5">на</w>
-<w n="5,5">мѣ<lb/>сте</w>
-<w n="5,5">сенар</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="5,5">и</w>
-<w n="5,5">Фалека.</w>
-<w n="5,5">И</w>
-<w n="5,5">собрашася</w>
-<w n="5,5">на</w>
-<w n="5,5">мѣстѣ</w>
-<w n="5,5">Сенаръ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="5,5">и</w>
-<w n="5,5">Фалека.</w>
-<w n="5,5">И</w>
-<w n="5,5">събьрашася</w>
-<w n="5,5">на</w>
-<w n="5,5">мѣстѣ</w>
-<w n="5,5">Сенаръ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="5,5">и</w>
-<w n="5,5">Фалека.</w>
-<w n="5,5">И</w>
-<w n="5,5">собрашася</w>
-<w n="5,5">на</w>
-<w n="5,5">мѣстѣ</w>
-<w n="5,5">Сенаръ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>5, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="5"/><div type="block" n="5"><p><app><lem wit="#lem">
+            и Фалека. И събьравъше ся на мѣстѣ Сенаръ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и фалека. и собрашасѧ на мѣстѣ. <lb/> сенаръ</rdg>
+            <rdg wit="#tro">и фалека и собрашася на мѣстѣ сенари на</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">и фалека. и събравшесѧ <lb/> на мѣстѣ сенарь</rdg>
+            <rdg wit="#xle">и фалека. събравше<hi rend="sup">с</hi> на мѣ<lb/>сте сенар</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и Фалека. И собрашася на мѣстѣ Сенаръ</rdg><rdg wit="#shakh">и Фалека. И събьрашася на мѣстѣ Сенаръ</rdg><rdg wit="#likh">и Фалека. И собрашася на мѣстѣ Сенаръ</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,89 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>144, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="144"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="144,1">Ляхы;</w>
-<w n="144,1">Болеславъ</w>
-<w n="144,1">же</w>
-<w n="144,1">побѣже</w>
-<w n="144,1">ис</w>
-<w n="144,1">Кыева,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="144,1">лѧхы.</w>
-<w n="144,1">бо<lb/>леславъ</w>
-<w n="144,1">же</w>
-<w n="144,1">побѣже</w>
-<w n="144,1">ис</w>
-<w n="144,1">кыева. <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="144,1">лѧхи.</w>
-<w n="144,1">болеслав</w>
-<w n="144,1">же</w>
-<w n="144,1">побежа</w>
-<w n="144,1">ис</w>
-<w n="144,1">кие<lb/>ва</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="144,1">лѧхи.</w>
-<w n="144,1">болеслав</w>
-<w n="144,1">же</w>
-<w n="144,1">побѣжа</w>
-<w n="144,1">ис</w>
-<w n="144,1">кї<lb/>ева.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="144,1">лѧхы <lb/></w>
-
-<w n="144,1">болеслав</w>
-<w n="144,1">же</w>
-<w n="144,1">бѣжа</w>
-<w n="144,1">ис</w>
-<w n="144,1">кые<lb/>ва</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="144,1">лѧхи <lb/></w>
-
-<w n="144,1">болеслав</w>
-<w n="144,1">же</w>
-<w n="144,1">побѣжа</w>
-<w n="144,1">ис</w>
-<w n="144,1">кыева.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="144,1">Ляхы.</w>
-<w n="144,1">Болеславъ</w>
-<w n="144,1">же</w>
-<w n="144,1">побѣже</w>
-<w n="144,1">ис</w>
-<w n="144,1">Кыева, <pb n="140,15"/></w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="144,1">Ляхы;</w>
-<w n="144,1">Болеславъ</w>
-<w n="144,1">же</w>
-<w n="144,1">побѣже</w>
-<w n="144,1">ис</w>
-<w n="144,1">Кыева, <pb n="183,3"/></w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="144,1">ляхы.</w>
-<w n="144,1">Болеславъ</w>
-<w n="144,1">же</w>
-<w n="144,1">побѣже</w>
-<w n="144,1">ис</w>
-<w n="144,1">Кыева, <pb n="97,20"/></w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>144, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="144"/><div type="block" n="1"><p><app><lem wit="#lem">
+            Ляхы; Болеславъ же побѣже ис Кыева,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">лѧхы. бо<lb/>леславъ же побѣже ис кыева. <lb/></rdg>
+            <rdg wit="#rad">лѧхи. болеслав же побежа ис кие<lb/>ва</rdg>
+            <rdg wit="#aka">лѧхи. болеслав же побѣжа ис кї<lb/>ева.</rdg>
+            <rdg wit="#ipa">лѧхы <lb/> болеслав же бѣжа ис кые<lb/>ва</rdg>
+            <rdg wit="#xle">лѧхи <lb/> болеслав же побѣжа ис кыева.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Ляхы. Болеславъ же побѣже ис Кыева, <pb n="140,15"/></rdg><rdg wit="#shakh">Ляхы; Болеславъ же побѣже ис Кыева, <pb n="183,3"/></rdg><rdg wit="#likh">ляхы. Болеславъ же побѣже ис Кыева, <pb n="97,20"/></rdg></rdgGrp></app></p></div></body></text></TEI>

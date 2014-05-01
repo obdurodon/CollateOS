@@ -1,97 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>36, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="36"/><div type="block" n="26"><p>
-<app>
-<lem wit="#lem">
-<w n="36,26">поимуть</w>
-<w n="36,26">и</w>
-<w n="36,26">въ</w>
-<w n="36,26">Русь;</w>
-<w n="36,26">нъ</w>
-<w n="36,26">и</w>
-<w n="36,26">гостие,</w>
-<w n="36,26">аще,</w>
-<w n="36,26">погубивъше</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="36,26">поимѹть</w>
-<w n="36,26">в</w>
-<w n="36,26">роу<hi rend="sup">с</hi>.</w>
-<w n="36,26">но</w>
-<w n="36,26">и</w>
-<w n="36,26">гостие</w>
-<w n="36,26">погѹби<lb/>ша</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="36,26">поимѹтъ</w>
-<w n="36,26">и</w>
-<w n="36,26">в</w>
-<w n="36,26">рѹ<hi rend="sup">с</hi>.</w>
-<w n="36,26">ино</w>
-<w n="36,26">гости</w>
-<w n="36,26">погѹбиша <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="36,26">имуть</w>
-<w n="36,26">и</w>
-<w n="36,26">в<hi rend="sup">ъ</hi><lb/></w>
-<w n="36,26">русь.</w>
-<w n="36,26">но</w>
-<w n="36,26">и</w>
-<w n="36,26">гостье</w>
-<w n="36,26">погубїша <pb n="14d"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="36,26">поимоу<hi rend="sup">т</hi></w>
-<w n="36,26">и</w>
-<w n="36,26">в</w>
-<w n="36,26">роу<hi rend="sup">с</hi>.</w>
-<w n="36,26">но</w>
-<w n="36,26">и</w>
-<w n="36,26">гостїе, <lb/></w>
-
-<w n="36,26">погоубиша</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="36,26">поимуть</w>
-<w n="36,26">и</w>
-<w n="36,26">в</w>
-<w n="36,26">Русь;</w>
-<w n="36,26">но</w>
-<w n="36,26">и</w>
-<w n="36,26">гостие</w>
-<w n="36,26">аще</w>
-<w n="36,26">погубиша</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="36,26">поимуть</w>
-<w n="36,26">и</w>
-<w n="36,26">Русь;</w>
-<w n="36,26">нъ</w>
-<w n="36,26">и</w>
-<w n="36,26">гостие,</w>
-<w n="36,26">аще,</w>
-<w n="36,26">погубивъше</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="36,26">поимуть</w>
-<w n="36,26">и</w>
-<w n="36,26">в</w>
-<w n="36,26">Русь;</w>
-<w n="36,26">но</w>
-<w n="36,26">и</w>
-<w n="36,26">гостие</w>
-<w n="36,26">аще</w>
-<w n="36,26">погубиша</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>36, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="36"/><div type="block" n="26"><p><app><lem wit="#lem">
+            поимуть и въ Русь; нъ и гостие, аще, погубивъше
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">поимѹть в роу<hi rend="sup">с</hi>. но и гостие погѹби<lb/>ша</rdg>
+            <rdg wit="#aka">поимѹтъ и в рѹ<hi rend="sup">с</hi>. ино гости погѹбиша <lb/></rdg>
+            <rdg wit="#ipa">имуть и в<hi rend="sup">ъ</hi>
+                <lb/> русь. но и гостье погубїша <pb n="14d"/></rdg>
+            <rdg wit="#xle">поимоу<hi rend="sup">т</hi> и в роу<hi rend="sup">с</hi>. но и гостїе, <lb/> погоубиша</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">поимуть и в Русь; но и гостие аще погубиша</rdg><rdg wit="#shakh">поимуть и Русь; нъ и гостие, аще, погубивъше</rdg><rdg wit="#likh">поимуть и в Русь; но и гостие аще погубиша</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,52 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>250, 35</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="250"/><div type="block" n="35"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="250,35">ѡвчины</w>
-<w n="250,35">бр<hi rend="sup">т</hi>аѣ <lb/></w>
-
-<w n="250,35">·д҃·</w>
-<w n="250,35">а</w>
-<w n="250,35">вс<hi rend="sup">х</hi>ѣ</w>
-<w n="250,35">лѣпши<hi rend="sup">х</hi></w>
-<w n="250,35">кнѧзии</w>
-<w n="250,35">инѣхъ· <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="250,35">Овчины</w>
-<w n="250,35">братьѣ 4,</w>
-
-<w n="250,35">а</w>
-<w n="250,35">всѣхъ</w>
-<w n="250,35">лѣпшихъ</w>
-<w n="250,35">князий</w>
-<w n="250,35">инѣхъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="250,35">Осеня</w>
-<w n="250,35">братьѣ 4,</w>
-
-<w n="250,35">а</w>
-<w n="250,35">всѣх</w>
-<w n="250,35">лѣпшихъ</w>
-<w n="250,35">князий</w>
-<w n="250,35">инѣхъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>250, 35</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="250"/><div type="block" n="35"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѡвчины бр<hi rend="sup">т</hi>аѣ <lb/> ·д҃· а вс<hi rend="sup">х</hi>ѣ лѣпши<hi rend="sup">х</hi> кнѧзии
+                инѣхъ· <lb/></rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Овчины братьѣ 4, а всѣхъ лѣпшихъ князий инѣхъ</rdg><rdg wit="#likh">Осеня братьѣ 4, а всѣх лѣпшихъ князий инѣхъ</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,78 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>202, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="202"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-<w n="202,4">поставиша</w>
-<w n="202,4">противу</w>
-<w n="202,4">Городьцю.</w>
-<w n="202,4">Изидоша</w>
-<w n="202,4">противу</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="202,4">поставиша</w>
-<w n="202,4">противу</w>
-<w n="202,4">горо<lb/>дьцю.</w>
-<w n="202,4">изиде</w>
-<w n="202,4">противу</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="202,4">поставиша</w>
-<w n="202,4">противоу</w>
-<w n="202,4">городъцю <lb/></w>
-
-<w n="202,4">изыдоша</w>
-<w n="202,4">противѹ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="202,4">поставиша</w>
-<w n="202,4">противѹ</w>
-<w n="202,4">горо<hi rend="sup">д</hi>цю.</w>
-<w n="202,4">изыи<lb/>доша</w>
-<w n="202,4">противѹ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="202,4">поставиша</w>
-<w n="202,4">противу</w>
-<w n="202,4">го<lb/>род<milestone unit="sic" n="start"/>ц<milestone unit="sic" n="end"/>ю.</w>
-<w n="202,4">и</w>
-<w n="202,4">изидоша</w>
-<w n="202,4">проти<lb/>воу</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="202,4">поставиша</w>
-<w n="202,4">противоу</w>
-<w n="202,4">горѡ<hi rend="sup">д</hi>цю.</w>
-<w n="202,4">и</w>
-<w n="202,4">и<lb/>зыдоша</w>
-<w n="202,4">противоу</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="202,4">поставиша</w>
-<w n="202,4">противу</w>
-<w n="202,4">Городьцю,</w>
-<w n="202,4">изиде</w>
-<w n="202,4">противу</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="202,4">поставиша</w>
-<w n="202,4">противу</w>
-<w n="202,4">Городьцю.</w>
-<w n="202,4">И</w>
-<w n="202,4">изиде</w>
-<w n="202,4">противу</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="202,4">поставиша</w>
-<w n="202,4">противу</w>
-<w n="202,4">Городьцю,</w>
-<w n="202,4">изиде</w>
-<w n="202,4">противу</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>202, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="202"/><div type="block" n="4"><p><app><lem wit="#lem">
+            поставиша противу Городьцю. Изидоша противу
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">поставиша противу горо<lb/>дьцю. изиде противу</rdg>
+            <rdg wit="#rad">поставиша противоу городъцю <lb/> изыдоша противѹ</rdg>
+            <rdg wit="#aka">поставиша противѹ горо<hi rend="sup">д</hi>цю. изыи<lb/>доша противѹ</rdg>
+            <rdg wit="#ipa">поставиша противу го<lb/>род<sic>ц</sic>ю. и изидоша проти<lb/>воу</rdg>
+            <rdg wit="#xle">поставиша противоу горѡ<hi rend="sup">д</hi>цю. и и<lb/>зыдоша противоу</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">поставиша противу Городьцю, изиде противу</rdg><rdg wit="#shakh">поставиша противу Городьцю. И изиде противу</rdg><rdg wit="#likh">поставиша противу Городьцю, изиде противу</rdg></rdgGrp></app></p></div></body></text></TEI>

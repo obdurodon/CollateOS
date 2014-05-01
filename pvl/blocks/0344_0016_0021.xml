@@ -1,106 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>16, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="16"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="16,21">По</w>
-<w n="16,21">сихъ</w>
-<w n="16,21">же</w>
-<w n="16,21">лѣтѣхъ,</w>
-<w n="16,21">по</w>
-<w n="16,21">съмьрти</w>
-<w n="16,21">братия</w>
-<w n="16,21">сея</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="16,21">По</w>
-<w n="16,21">сихъ</w>
-<w n="16,21">же</w>
-<w n="16,21">лѣ<lb/>тѣхъ</w>
-<w n="16,21">по</w>
-<w n="16,21">см҃рти</w>
-<w n="16,21">братьѣ</w>
-<w n="16,21">сеꙗ</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="16,21">По</w>
-<w n="16,21">си<hi rend="sup">х</hi></w>
-<w n="16,21">же</w>
-<w n="16,21">лѣ<lb/>те<hi rend="sup">х</hi>.</w>
-<w n="16,21">по</w>
-<w n="16,21">см҃рти</w>
-<w n="16,21">бра<hi rend="sup">т</hi>и</w>
-<w n="16,21">сеа</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="16,21">По</w>
-<w n="16,21">сих</w>
-<w n="16,21">же <lb/></w>
-
-<w n="16,21">лѣте<hi rend="sup">х</hi>.</w>
-<w n="16,21">по</w>
-<w n="16,21">см҃рти</w>
-<w n="16,21">братии</w>
-<w n="16,21">сеꙗ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="16,21">По</w>
-<w n="16,21">сихъ</w>
-<w n="16,21">же</w>
-<w n="16,21">лѣтехъ</w>
-<w n="16,21">по <lb/></w>
-
-<w n="16,21">см҃рти</w>
-<w n="16,21">братьꙗ</w>
-<w n="16,21">сеꙗ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="16,21">По</w>
-<w n="16,21">си<hi rend="sup">х</hi></w>
-<w n="16,21">же</w>
-<w n="16,21">лѣте<hi rend="sup">х</hi></w>
-<w n="16,21">по</w>
-<w n="16,21">см҃рти</w>
-<w n="16,21">бра<hi rend="sup">т</hi>а</w>
-<w n="16,21">сеѧ.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="16,21">По</w>
-<w n="16,21">сихъ</w>
-<w n="16,21">же</w>
-<w n="16,21">лѣтѣхъ,</w>
-<w n="16,21">по</w>
-<w n="16,21">смерти</w>
-<w n="16,21">братьѣ</w>
-<w n="16,21">сея</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="16,21">По</w>
-<w n="16,21">сихъ</w>
-<w n="16,21">же</w>
-<w n="16,21">лѣтѣхъ,</w>
-<w n="16,21">по</w>
-<w n="16,21">съмьрти</w>
-<w n="16,21">братия</w>
-<w n="16,21">сея,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="16,21">По</w>
-<w n="16,21">сихъ</w>
-<w n="16,21">же</w>
-<w n="16,21">лѣтѣхъ,</w>
-<w n="16,21">по</w>
-<w n="16,21">смерти</w>
-<w n="16,21">братьѣ</w>
-<w n="16,21">сея</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>16, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="16"/><div type="block" n="21"><p><app><lem wit="#lem">
+            По сихъ же лѣтѣхъ, по съмьрти братия сея
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">По сихъ же лѣ<lb/>тѣхъ по см҃рти братьѣ сеꙗ</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">По си<hi rend="sup">х</hi> же лѣ<lb/>те<hi rend="sup">х</hi>. по см҃рти бра<hi rend="sup">т</hi>и сеа</rdg>
+            <rdg wit="#aka">По сих же <lb/> лѣте<hi rend="sup">х</hi>. по см҃рти братии сеꙗ</rdg>
+            <rdg wit="#ipa">По сихъ же лѣтехъ по <lb/> см҃рти братьꙗ сеꙗ.</rdg>
+            <rdg wit="#xle">По си<hi rend="sup">х</hi> же лѣте<hi rend="sup">х</hi> по см҃рти бра<hi rend="sup">т</hi>а сеѧ.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">По сихъ же лѣтѣхъ, по смерти братьѣ сея</rdg><rdg wit="#shakh">По сихъ же лѣтѣхъ, по съмьрти братия сея,</rdg><rdg wit="#likh">По сихъ же лѣтѣхъ, по смерти братьѣ сея</rdg></rdgGrp></app></p></div></body></text></TEI>

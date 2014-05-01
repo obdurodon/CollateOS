@@ -1,43 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>217, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="217"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="217,20">рекохомъ</w>
-<w n="217,20">преже.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="217,20">реко<lb/>хо<hi rend="sup">м</hi></w>
-<w n="217,20">преже·</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="217,20">ре<lb/>кохомъ</w>
-<w n="217,20">преже·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="217,20">реко<hi rend="sup">х</hi></w>
-<w n="217,20">преж<hi rend="sup">д</hi>е.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="217,20">рекохомъ</w>
-<w n="217,20">преже.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="217,20">рекохомъ</w>
-<w n="217,20">преже.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="217,20">рекохом</w>
-<w n="217,20">преже.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>217, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="217"/><div type="block" n="20"><p><app><lem wit="#lem">
+            рекохомъ преже.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">реко<lb/>хо<hi rend="sup">м</hi> преже·</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">ре<lb/>кохомъ преже·</rdg>
+            <rdg wit="#xle">реко<hi rend="sup">х</hi> преж<hi rend="sup">д</hi>е.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">рекохомъ преже.</rdg><rdg wit="#shakh">рекохомъ преже.</rdg><rdg wit="#likh">рекохом преже.</rdg></rdgGrp></app></p></div></body></text></TEI>

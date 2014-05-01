@@ -1,86 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>195, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="195"/><div type="block" n="17"><p>
-<app>
-<lem wit="#lem">
-<w n="195,17">ногама,</w>
-<w n="195,17">доньдеже</w>
-<w n="195,17">отъпояху</w>
-<w n="195,17">заутрьню.</w>
-<w n="195,17">И</w>
-<w n="195,17">по</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="195,17">ногама. <lb/></w>
-
-<w n="195,17">дондеже</w>
-<w n="195,17">ѿпоꙗху</w>
-<w n="195,17">заоутреню. <lb/></w>
-
-<w n="195,17">и</w>
-<w n="195,17">по</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="195,17">ногама.</w>
-<w n="195,17">дондеже</w>
-<w n="195,17">ѿпоꙗхѹ</w>
-<w n="195,17">оутренюю.</w>
-<w n="195,17">и</w>
-<w n="195,17">по</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="195,17">но<lb/>гама.</w>
-<w n="195,17">дондеже</w>
-<w n="195,17">ѿпоꙗхѹ</w>
-<w n="195,17">оутренюю.</w>
-<w n="195,17">и</w>
-<w n="195,17">по</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="195,17">ногами.</w>
-<w n="195,17">дондеже</w>
-<w n="195,17">ѿпоꙗху</w>
-<w n="195,17">за<lb/>оутренюю.</w>
-<w n="195,17">и</w>
-<w n="195,17">по</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="195,17">ногами,</w>
-<w n="195,17">до<hi rend="sup">н</hi>деже</w>
-<w n="195,17">ѿпоѧхѫ <lb/></w>
-
-<w n="195,17">зау<hi rend="sup">т</hi>реню.</w>
-<w n="195,17">и</w>
-<w n="195,17">по</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="195,17">ногама,</w>
-<w n="195,17">дондеже</w>
-<w n="195,17">отпояху</w>
-<w n="195,17">заутреню.</w>
-<w n="195,17">И</w>
-<w n="195,17">по</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="195,17">ногама,</w>
-<w n="195,17">доньдеже</w>
-<w n="195,17">отъпояху</w>
-<w n="195,17">заутрьню.</w>
-<w n="195,17">И</w>
-<w n="195,17">по</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="195,17">ногама,</w>
-<w n="195,17">дондеже</w>
-<w n="195,17">отпояху</w>
-<w n="195,17">заутреню.</w>
-<w n="195,17">И</w>
-<w n="195,17">по</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>195, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="195"/><div type="block" n="17"><p><app><lem wit="#lem">
+            ногама, доньдеже отъпояху заутрьню. И по
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ногама. <lb/> дондеже ѿпоꙗху заоутреню. <lb/> и по</rdg>
+            <rdg wit="#rad">ногама. дондеже ѿпоꙗхѹ оутренюю. и по</rdg>
+            <rdg wit="#aka">но<lb/>гама. дондеже ѿпоꙗхѹ оутренюю. и по</rdg>
+            <rdg wit="#ipa">ногами. дондеже ѿпоꙗху за<lb/>оутренюю. и по</rdg>
+            <rdg wit="#xle">ногами, до<hi rend="sup">н</hi>деже ѿпоѧхѫ <lb/> зау<hi rend="sup">т</hi>реню. и по</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">ногама, дондеже отпояху заутреню. И по</rdg><rdg wit="#shakh">ногама, доньдеже отъпояху заутрьню. И по</rdg><rdg wit="#likh">ногама, дондеже отпояху заутреню. И по</rdg></rdgGrp></app></p></div></body></text></TEI>

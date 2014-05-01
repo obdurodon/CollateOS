@@ -1,105 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>7, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="7"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="7,21">Хамова.</w>
-<w n="7,21">А</w>
-<w n="7,21">Дънѣпръ</w>
-<w n="7,21">вътечеть</w>
-<w n="7,21">въ</w>
-<w n="7,21">Поньтьское</w>
-<w n="7,21">море</w>
-<w n="7,21">трьми</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="7,21">хамова</w>
-<w n="7,21">а <lb/></w>
-
-<w n="7,21">днѣпръ</w>
-<w n="7,21">втечеть</w>
-<w n="7,21">в</w>
-<w n="7,21">понетьское</w>
-<w n="7,21">море</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="7,21">хамова <lb/></w>
-
-<w n="7,21">и</w>
-<w n="7,21">днѣпръ</w>
-<w n="7,21">втече<hi rend="sup">т</hi></w>
-<w n="7,21">в</w>
-<w n="7,21">поньтьское</w>
-<w n="7,21">море</w>
-<w n="7,21">треми</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="7,21">хамова.</w>
-<w n="7,21">а</w>
-<w n="7,21">днѣпръ</w>
-<w n="7,21">втечетъ.</w>
-<w n="7,21">в</w>
-<w n="7,21">понтьское</w>
-<w n="7,21">мо<lb/>ре.</w>
-<w n="7,21">треми</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="7,21">хамова <lb/></w>
-
-<w n="7,21">а</w>
-<w n="7,21">днепръ</w>
-<w n="7,21">втече<hi rend="sup">т</hi></w>
-<w n="7,21">в</w>
-<w n="7,21">понтеское</w>
-<w n="7,21">море.</w>
-<w n="7,21">треми</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="7,21">хамова.</w>
-<w n="7,21">а</w>
-<w n="7,21">днѣпрь</w>
-<w n="7,21">втече<hi rend="sup">т</hi></w>
-<w n="7,21">в</w>
-<w n="7,21">по<hi rend="sup">н</hi>теское</w>
-<w n="7,21">море <lb/></w>
-
-<w n="7,21">треми</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="7,21">Хамова.</w>
-<w n="7,21">А</w>
-<w n="7,21">Днѣпръ</w>
-<w n="7,21">втечеть</w>
-<w n="7,21">в</w>
-<w n="7,21">Понетьское</w>
-<w n="7,21">море</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="7,21">Хамова.</w>
-<w n="7,21">А</w>
-<w n="7,21">Дънѣпръ</w>
-<w n="7,21">вътечеть</w>
-<w n="7,21">въ</w>
-<w n="7,21">Понтьское</w>
-<w n="7,21">море</w>
-<w n="7,21">трьми</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="7,21">Хамова.</w>
-<w n="7,21">А</w>
-<w n="7,21">Днѣпръ</w>
-<w n="7,21">втечеть</w>
-<w n="7,21">в</w>
-<w n="7,21">Понетьское</w>
-<w n="7,21">море</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>7, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="7"/><div type="block" n="21"><p><app><lem wit="#lem">
+            Хамова. А Дънѣпръ вътечеть въ Поньтьское море трьми
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">хамова а <lb/> днѣпръ втечеть в понетьское море</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">хамова <lb/> и днѣпръ втече<hi rend="sup">т</hi> в поньтьское море треми</rdg>
+            <rdg wit="#aka">хамова. а днѣпръ втечетъ. в понтьское мо<lb/>ре. треми</rdg>
+            <rdg wit="#ipa">хамова <lb/> а днепръ втече<hi rend="sup">т</hi> в понтеское море. треми</rdg>
+            <rdg wit="#xle">хамова. а днѣпрь втече<hi rend="sup">т</hi> в по<hi rend="sup">н</hi>теское море <lb/> треми</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Хамова. А Днѣпръ втечеть в Понетьское море</rdg><rdg wit="#shakh">Хамова. А Дънѣпръ вътечеть въ Понтьское море трьми</rdg><rdg wit="#likh">Хамова. А Днѣпръ втечеть в Понетьское море</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,39 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>131, 5aa</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="131"/><div type="block" n="5aa"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="131,5aa">анг҃лъ</w>
-<w n="131,5aa">корнильеві <lb/></w>
-
-<w n="131,5aa">ре<hi rend="sup">ч</hi></w>
-<w n="131,5aa">млт҃вы</w>
-<w n="131,5aa">твоꙗ</w>
-<w n="131,5aa">и</w>
-<w n="131,5aa">млт<hi rend="sup">с</hi>нѧ</w>
-<w n="131,5aa">тво<lb/>ꙗ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="131,5aa">агг҃лъ</w>
-<w n="131,5aa">къ</w>
-<w n="131,5aa">корнилїеви</w>
-<w n="131,5aa">ре<hi rend="sup">ч</hi>,</w>
-<w n="131,5aa">м҃лтвы <lb/></w>
-
-<w n="131,5aa">твоѧ</w>
-<w n="131,5aa">и</w>
-<w n="131,5aa">мл<hi rend="sup">с</hi>тыни</w>
-<w n="131,5aa">твоѧ.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>131, 5aa</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="131"/><div type="block" n="5aa"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">анг҃лъ корнильеві <lb/> ре<hi rend="sup">ч</hi> млт҃вы твоꙗ и млт<hi rend="sup">с</hi>нѧ
+                тво<lb/>ꙗ.</rdg>
+            <rdg wit="#xle">агг҃лъ къ корнилїеви ре<hi rend="sup">ч</hi>, м҃лтвы <lb/> твоѧ и мл<hi rend="sup">с</hi>тыни
+                твоѧ.</rdg>
+        </rdgGrp></app></p></div></body></text></TEI>

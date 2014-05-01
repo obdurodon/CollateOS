@@ -1,93 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>212, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="212"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="212,5">Единою</w>
-<w n="212,5">бо</w>
-<w n="212,5">ему</w>
-<w n="212,5">пришьдъшю</w>
-<w n="212,5">въ</w>
-<w n="212,5">домъ</w>
-<w n="212,5">Яневъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="212,5">ѥди<lb/>ною</w>
-<w n="212,5">бо</w>
-<w n="212,5">ѥму</w>
-<w n="212,5">пришедшю</w>
-<w n="212,5">в</w>
-<w n="212,5">домъ <lb/></w>
-
-<w n="212,5">ꙗневъ·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="212,5">единою</w>
-<w n="212,5">же</w>
-<w n="212,5">емоу</w>
-<w n="212,5">прише<hi rend="sup">д</hi>шю.</w>
-<w n="212,5">в</w>
-<w n="212,5">домъ</w>
-<w n="212,5">ꙗновъ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="212,5">единое</w>
-<w n="212,5">же</w>
-<w n="212,5">емѹ</w>
-<w n="212,5">при<lb/>ше<hi rend="sup">д</hi>шю</w>
-<w n="212,5">в</w>
-<w n="212,5">домь</w>
-<w n="212,5">ꙗновъ·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="212,5">единою</w>
-<w n="212,5">бо</w>
-<w n="212,5">ему</w>
-<w n="212,5">при<lb/>шедшю</w>
-<w n="212,5"><milestone unit="sic" n="start"/>в<milestone unit="sic" n="end"/></w>
-<w n="212,5">домь</w>
-<w n="212,5">ꙗновъ·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="212,5">е<hi rend="sup">д</hi>н<hi rend="sup">и</hi>ою</w>
-<w n="212,5">бо</w>
-<w n="212,5">емоу</w>
-<w n="212,5">прише<hi rend="sup">д</hi>шѫ</w>
-<w n="212,5">въ</w>
-<w n="212,5">дѡ<hi rend="sup">м</hi></w>
-<w n="212,5">яневь.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="212,5">Единою</w>
-<w n="212,5">бо</w>
-<w n="212,5">ему</w>
-<w n="212,5">пришедшю</w>
-<w n="212,5">в</w>
-<w n="212,5">домъ</w>
-<w n="212,5">Яневъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="212,5">Единою</w>
-<w n="212,5">бо</w>
-<w n="212,5">ему</w>
-<w n="212,5">пришьдъшю</w>
-<w n="212,5">въ</w>
-<w n="212,5">домъ</w>
-<w n="212,5">Яневъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="212,5">Единою</w>
-<w n="212,5">бо</w>
-<w n="212,5">ему</w>
-<w n="212,5">пришедшю</w>
-<w n="212,5">в</w>
-<w n="212,5">домъ</w>
-<w n="212,5">Яневъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>212, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="212"/><div type="block" n="5"><p><app><lem wit="#lem">
+            Единою бо ему пришьдъшю въ домъ Яневъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѥди<lb/>ною бо ѥму пришедшю в домъ <lb/> ꙗневъ·</rdg>
+            <rdg wit="#rad">единою же емоу прише<hi rend="sup">д</hi>шю. в домъ ꙗновъ.</rdg>
+            <rdg wit="#aka">единое же емѹ при<lb/>ше<hi rend="sup">д</hi>шю в домь ꙗновъ·</rdg>
+            <rdg wit="#ipa">единою бо ему при<lb/>шедшю <sic>в</sic> домь ꙗновъ·</rdg>
+            <rdg wit="#xle">е<hi rend="sup">д</hi>н<hi rend="sup">и</hi>ою бо емоу прише<hi rend="sup">д</hi>шѫ въ дѡ<hi rend="sup">м</hi>
+                ꙗневь.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Единою бо ему пришедшю в домъ Яневъ</rdg><rdg wit="#shakh">Единою бо ему пришьдъшю въ домъ Яневъ</rdg><rdg wit="#likh">Единою бо ему пришедшю в домъ Яневъ</rdg></rdgGrp></app></p></div></body></text></TEI>

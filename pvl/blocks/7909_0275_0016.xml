@@ -1,85 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>275, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="275"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="275,16">Въ</w>
-<w n="275,16">лѣто 6610.</w>
-
-<w n="275,16">Выбѣже</w>
-<w n="275,16">Ярославъ</w>
-<w n="275,16">Яропълчичь</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="275,16">В</w>
-<w n="275,16">лѣ<hi rend="sup">т</hi></w>
-<w n="275,16">·҂ѕ҃·х҃і·</w>
-<w n="275,16">Выбѣже</w>
-<w n="275,16">ꙗросла<lb/>въ</w>
-<w n="275,16">ꙗрополчичь·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="275,16">лѣ<hi rend="sup">т</hi></w>
-<w n="275,16">҂ѕ҃</w>
-<w n="275,16">х҃і.</w>
-<w n="275,16">ыбе<hi rend="sup">ж</hi></w>
-<w n="275,16">ꙗрославъ·</w>
-<w n="275,16">ꙗрополчичь· <pb n="148v"/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="275,16">В</w>
-<w n="275,16">лѣ<hi rend="sup">т</hi></w>
-<w n="275,16">·҂ѕ҃·х҃і· <lb/></w>
-
-<w n="275,16">вы·̏беже</w>
-<w n="275,16">ꙗрославъ</w>
-<w n="275,16">ꙗрополчичь</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="275,16">В</w>
-<w n="275,16">л<hi rend="sup">т</hi>ѣ</w>
-<w n="275,16">҂ѕ҃·х҃·і҃·</w>
-<w n="275,16">Выбѣже</w>
-<w n="275,16">ꙗро<lb/>славъ·</w>
-<w n="275,16">ꙗрополчичь</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="275,16">В</w>
-<w n="275,16">лѣ<hi rend="sup">т</hi>.</w>
-<w n="275,16">҂ѕ҃.х҃.і҃.</w>
-<w n="275,16">Выбѣже</w>
-<w n="275,16">ярославь</w>
-<w n="275,16">яропо<hi rend="sup">л</hi><lb/>чичь</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="275,16">В</w>
-<w n="275,16">лѣто 6610.</w>
-
-<w n="275,16">Выбѣже</w>
-<w n="275,16">Ярославъ</w>
-<w n="275,16">Ярополчичь</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="275,16">Въ</w>
-<w n="275,16">лѣто 6610.</w>
-
-<w n="275,16">Выбѣже</w>
-<w n="275,16">Ярославъ</w>
-<w n="275,16">Яропълчичь</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="275,16">В</w>
-<w n="275,16">лѣто 6610.</w>
-
-<w n="275,16">Выбѣже</w>
-<w n="275,16">Ярославъ</w>
-<w n="275,16">Ярополчичь</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>275, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="275"/><div type="block" n="16"><p><app><lem wit="#lem">
+            Въ лѣто 6610. Выбѣже Ярославъ Яропълчичь
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">В лѣ<hi rend="sup">т</hi> ·҂ѕ҃·х҃і· Выбѣже ꙗросла<lb/>въ ꙗрополчичь·</rdg>
+            <rdg wit="#rad">лѣ<hi rend="sup">т</hi> ҂ѕ҃ х҃і. ыбе<hi rend="sup">ж</hi> ꙗрославъ· ꙗрополчичь·
+                    <pb n="148v"/></rdg>
+            <rdg wit="#aka">В лѣ<hi rend="sup">т</hi> ·҂ѕ҃·х҃і· <lb/> вы·̏беже ꙗрославъ ꙗрополчичь</rdg>
+            <rdg wit="#ipa">В л<hi rend="sup">т</hi>ѣ ҂ѕ҃·х҃·і҃· Выбѣже ꙗро<lb/>славъ· ꙗрополчичь</rdg>
+            <rdg wit="#xle">В лѣ<hi rend="sup">т</hi>. ҂ѕ҃.х҃.і҃. Выбѣже ꙗрославь ꙗропо<hi rend="sup">л</hi><lb/>чичь</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">В лѣто 6610. Выбѣже Ярославъ Ярополчичь</rdg><rdg wit="#shakh">Въ лѣто 6610. Выбѣже Ярославъ Яропълчичь</rdg><rdg wit="#likh">В лѣто 6610. Выбѣже Ярославъ Ярополчичь</rdg></rdgGrp></app></p></div></body></text></TEI>

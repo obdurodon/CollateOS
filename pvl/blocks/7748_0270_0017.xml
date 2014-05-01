@@ -1,85 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="270"/><div type="block" n="17"><p>
-<app>
-<lem wit="#lem">
-<w n="270,17">стаста</w>
-<w n="270,17">ту,</w>
-<w n="270,17">рекуща:</w>
-<w n="270,17">“Довълѣеть</w>
-<w n="270,17">нама</w>
-<w n="270,17">на</w>
-<w n="270,17">межи</w>
-<w n="270,17">своеи</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="270,17">стаста</w>
-<w n="270,17">ту·</w>
-<w n="270,17">довлѣе<hi rend="sup">т</hi></w>
-<w n="270,17">на<hi rend="sup">м</hi><lb/></w>
-<w n="270,17">на</w>
-<w n="270,17">межи</w>
-<w n="270,17">своеи</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="270,17">стаста</w>
-<w n="270,17">ту·</w>
-<w n="270,17">реку<lb/>ща</w>
-<w n="270,17">доволѣеть</w>
-<w n="270,17">нама·</w>
-<w n="270,17">на</w>
-<w n="270,17">ме<lb/>жи</w>
-<w n="270,17">своеи</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="270,17">стаста</w>
-<w n="270,17">тоу, <lb/></w>
-
-<w n="270,17">рекоуще.</w>
-<w n="270,17">доволѣе<hi rend="sup">т</hi></w>
-<w n="270,17">нама</w>
-<w n="270,17">на</w>
-<w n="270,17">межи</w>
-<w n="270,17">своеи</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="270,17">стаста</w>
-<w n="270,17">ту,</w>
-<w n="270,17">рекуща:</w>
-<w n="270,17">“довлѣеть</w>
-<w n="270,17">нама</w>
-<w n="270,17">на</w>
-<w n="270,17">межи</w>
-<w n="270,17">своей</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="270,17">стаста</w>
-<w n="270,17">ту,</w>
-<w n="270,17">рекуща:</w>
-<w n="270,17">“довълѣеть</w>
-<w n="270,17">нама</w>
-<w n="270,17">на</w>
-<w n="270,17">межи</w>
-<w n="270,17">своеи</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="270,17">стаста</w>
-<w n="270,17">ту,</w>
-<w n="270,17">рекуща:</w>
-<w n="270,17">“Довлѣеть</w>
-<w n="270,17">нама</w>
-<w n="270,17">на</w>
-<w n="270,17">межи</w>
-<w n="270,17">своей</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="270"/><div type="block" n="17"><p><app><lem wit="#lem">
+            стаста ту, рекуща: “Довълѣеть нама на межи своеи
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">стаста ту· довлѣе<hi rend="sup">т</hi> на<hi rend="sup">м</hi>
+                <lb/> на межи своеи</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">стаста ту· реку<lb/>ща доволѣеть нама· на ме<lb/>жи своеи</rdg>
+            <rdg wit="#xle">стаста тоу, <lb/> рекоуще. доволѣе<hi rend="sup">т</hi> нама на межи своеи</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">стаста ту, рекуща: “довлѣеть нама на межи своей</rdg><rdg wit="#shakh">стаста ту, рекуща: “довълѣеть нама на межи своеи</rdg><rdg wit="#likh">стаста ту, рекуща: “Довлѣеть нама на межи своей</rdg></rdgGrp></app></p></div></body></text></TEI>

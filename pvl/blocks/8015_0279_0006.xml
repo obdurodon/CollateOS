@@ -1,75 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>279, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="279"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-<w n="279,6">Къчия,</w>
-<w n="279,6">Аръсланопу,</w>
-<w n="279,6">Китанопу,</w>
-<w n="279,6">Кунама,</w>
-<w n="279,6">Асупа,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="279,6">кчиꙗ·</w>
-<w n="279,6">аръсла<lb/>напу</w>
-<w n="279,6">ки·танопу·</w>
-<w n="279,6">кумана· <lb/></w>
-
-<w n="279,6">асупа·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="279,6">кочиꙗ.</w>
-<w n="279,6">ꙗросланопоу·</w>
-<w n="279,6">кѹнама· <pb n="151r"/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="279,6">кочиѧ·</w>
-<w n="279,6">аросла<lb/>нопѹ·</w>
-<w n="279,6">кѹнама·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="279,6">кочиꙗ·</w>
-<w n="279,6">ꙗросланопу <lb/></w>
-
-<w n="279,6">китанопу·</w>
-<w n="279,6">кунама·</w>
-<w n="279,6">асупа <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="279,6">кочїѧ.</w>
-<w n="279,6">яросланопоу.</w>
-<w n="279,6">китанопоу, <lb/></w>
-
-<w n="279,6">коунама.</w>
-<w n="279,6">асѫпа.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="279,6">Кчия,</w>
-<w n="279,6">Аръсланапу,</w>
-<w n="279,6">Китанопу,</w>
-<w n="279,6">Кумана,</w>
-<w n="279,6">Асупа,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="279,6">Къчия,</w>
-<w n="279,6">Аръсланопу,</w>
-<w n="279,6">Китанопу,</w>
-<w n="279,6">Кумана,</w>
-<w n="279,6">Асупа,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="279,6">Кчия,</w>
-<w n="279,6">Аръсланапу,</w>
-<w n="279,6">Китанопу,</w>
-<w n="279,6">Кумана,</w>
-<w n="279,6">Асупа,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>279, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="279"/><div type="block" n="6"><p><app><lem wit="#lem">
+            Къчия, Аръсланопу, Китанопу, Кунама, Асупа,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">кчиꙗ· аръсла<lb/>напу ки·танопу· кумана· <lb/> асупа·</rdg>
+            <rdg wit="#rad">кочиꙗ. ꙗросланопоу· кѹнама· <pb n="151r"/></rdg>
+            <rdg wit="#aka">кочиѧ· аросла<lb/>нопѹ· кѹнама·</rdg>
+            <rdg wit="#ipa">кочиꙗ· ꙗросланопу <lb/> китанопу· кунама· асупа <lb/></rdg>
+            <rdg wit="#xle">кочїѧ. ꙗросланопоу. китанопоу, <lb/> коунама. асѫпа.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Кчия, Аръсланапу, Китанопу, Кумана, Асупа,</rdg><rdg wit="#shakh">Къчия, Аръсланопу, Китанопу, Кумана, Асупа,</rdg><rdg wit="#likh">Кчия, Аръсланапу, Китанопу, Кумана, Асупа,</rdg></rdgGrp></app></p></div></body></text></TEI>

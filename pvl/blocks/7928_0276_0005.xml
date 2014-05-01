@@ -1,103 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>276, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="276"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="276,5">то</w>
-<w n="276,5">посъли</w>
-<w n="276,5">и.</w>
-<w n="276,5">Сего</w>
-<w n="276,5">ны</w>
-<w n="276,5">далъ</w>
-<w n="276,5">Вьсеволодъ,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="276,5">то</w>
-<w n="276,5">пошли</w>
-<w n="276,5">и·</w>
-<w n="276,5">се<lb/>го</w>
-<w n="276,5">ны</w>
-<w n="276,5">далъ</w>
-<w n="276,5">всеволодъ·</w>
-<w n="276,5">а</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="276,5">то</w>
-<w n="276,5">посли·</w>
-<w n="276,5">а</w>
-<w n="276,5">сего</w>
-<w n="276,5">ны</w>
-<w n="276,5">да<hi rend="sup">л</hi><lb/></w>
-<w n="276,5">всеволо<hi rend="sup">д</hi>.</w>
-<w n="276,5">да</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="276,5">то</w>
-<w n="276,5">посли·</w>
-<w n="276,5">а</w>
-<w n="276,5">се·̏го</w>
-<w n="276,5">ны·̏</w>
-<w n="276,5">далъ</w>
-<w n="276,5">все·̏воло<lb/>дъ.</w>
-<w n="276,5">да</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="276,5">то</w>
-<w n="276,5">посли</w>
-<w n="276,5">и·</w>
-<w n="276,5">сего</w>
-<w n="276,5">ны</w>
-<w n="276,5">далъ <lb/></w>
-
-<w n="276,5">всеволодъ·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="276,5">то</w>
-<w n="276,5">посли</w>
-<w n="276,5">его,</w>
-<w n="276,5">сего</w>
-<w n="276,5">на<hi rend="sup">м</hi></w>
-<w n="276,5">да<hi rend="sup">л</hi><lb/></w>
-<w n="276,5">всеволѡ<hi rend="sup">д</hi></w>
-<w n="276,5">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="276,5">то</w>
-<w n="276,5">пошли</w>
-<w n="276,5">и;</w>
-<w n="276,5">а</w>
-<w n="276,5">сего</w>
-<w n="276,5">ны</w>
-<w n="276,5">далъ</w>
-<w n="276,5">Всеволодъ,</w>
-<w n="276,5">а</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="276,5">то</w>
-<w n="276,5">посъли</w>
-<w n="276,5">и;</w>
-<w n="276,5">а</w>
-<w n="276,5">сего</w>
-<w n="276,5">ны</w>
-<w n="276,5">далъ</w>
-<w n="276,5">Вьсеволодъ</w>
-<w n="276,5">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="276,5">то</w>
-<w n="276,5">пошли</w>
-<w n="276,5">и;</w>
-<w n="276,5">а</w>
-<w n="276,5">сего</w>
-<w n="276,5">ны</w>
-<w n="276,5">далъ</w>
-<w n="276,5">Всеволодъ,</w>
-<w n="276,5">а</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>276, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="276"/><div type="block" n="5"><p><app><lem wit="#lem">
+            то посъли и. Сего ны далъ Вьсеволодъ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">то пошли и· се<lb/>го ны далъ всеволодъ· а</rdg>
+            <rdg wit="#rad">то посли· а сего ны да<hi rend="sup">л</hi>
+                <lb/> всеволо<hi rend="sup">д</hi>. да</rdg>
+            <rdg wit="#aka">то посли· а се·̏го ны·̏ далъ все·̏воло<lb/>дъ. да</rdg>
+            <rdg wit="#ipa">то посли и· сего ны далъ <lb/> всеволодъ·</rdg>
+            <rdg wit="#xle">то посли его, сего на<hi rend="sup">м</hi> да<hi rend="sup">л</hi>
+                <lb/> всеволѡ<hi rend="sup">д</hi> и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">то пошли и; а сего ны далъ Всеволодъ, а</rdg><rdg wit="#shakh">то посъли и; а сего ны далъ Вьсеволодъ и</rdg><rdg wit="#likh">то пошли и; а сего ны далъ Всеволодъ, а</rdg></rdgGrp></app></p></div></body></text></TEI>

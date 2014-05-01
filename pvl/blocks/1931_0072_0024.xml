@@ -1,90 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>72, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="72"/><div type="block" n="24"><p>
-<app>
-<lem wit="#lem">
-<w n="72,24">Азъ</w>
-<w n="72,24">Святославъ,</w>
-<w n="72,24">кънязь</w>
-<w n="72,24">Русьскыи,</w>
-<w n="72,24">якоже</w>
-<w n="72,24">кляхъ</w>
-<w n="72,24">ся,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="72,24">Азъ</w>
-<w n="72,24">с҃тославъ.</w>
-<w n="72,24">кнѧзь</w>
-<w n="72,24">рускии.</w>
-<w n="72,24">ꙗкоже</w>
-<w n="72,24">клѧхъсѧ. <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="72,24">Азъ</w>
-<w n="72,24">с҃тославъ <lb/></w>
-
-<w n="72,24">кн҃зь</w>
-<w n="72,24">роускии.</w>
-<w n="72,24">ꙗкоже</w>
-<w n="72,24">клѧ<hi rend="sup">х</hi>сѧ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="72,24">Азь</w>
-<w n="72,24">с҃тославь</w>
-<w n="72,24">кн҃зь</w>
-<w n="72,24">рѹс<hi rend="sup">с</hi>кїи</w>
-<w n="72,24">ꙗкоже <lb/></w>
-
-<w n="72,24">клѧ<hi rend="sup">х</hi>сѧ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="72,24">Азъ</w>
-<w n="72,24">с҃тосла<lb/>въ</w>
-<w n="72,24">кн҃зь</w>
-<w n="72,24">ру<hi rend="sup">с</hi>кыи.</w>
-<w n="72,24">ꙗко<hi rend="sup">ж</hi></w>
-<w n="72,24">клѧ<lb/>хсѧ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="72,24">Азь</w>
-<w n="72,24">с҃тославь</w>
-<w n="72,24">великїи</w>
-<w n="72,24">кнѧ<hi rend="sup">з</hi></w>
-<w n="72,24">роу<hi rend="sup">с</hi>кїи <lb/></w>
-
-<w n="72,24">яко<hi rend="sup">ж</hi></w>
-<w n="72,24">клѧ<hi rend="sup">х</hi>сѧ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="72,24">Азъ</w>
-<w n="72,24">Святославъ,</w>
-<w n="72,24">князь</w>
-<w n="72,24">Руский,</w>
-<w n="72,24">якоже</w>
-<w n="72,24">кляхъся,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="72,24">Азъ</w>
-<w n="72,24">Святославъ,</w>
-<w n="72,24">кънязь</w>
-<w n="72,24">Русьскыи,</w>
-<w n="72,24">якоже</w>
-<w n="72,24">кляхъся,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="72,24">Азъ</w>
-<w n="72,24">Святославъ,</w>
-<w n="72,24">князь</w>
-<w n="72,24">руский,</w>
-<w n="72,24">яко</w>
-<w n="72,24">же</w>
-<w n="72,24">кляхъся,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>72, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="72"/><div type="block" n="24"><p><app><lem wit="#lem">
+            Азъ Святославъ, кънязь Русьскыи, якоже кляхъ ся,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">Азъ с҃тославъ. кнѧзь рускии. ꙗкоже клѧхъсѧ. <lb/></rdg>
+            <rdg wit="#rad">Азъ с҃тославъ <lb/> кн҃зь роускии. ꙗкоже клѧ<hi rend="sup">х</hi>сѧ</rdg>
+            <rdg wit="#aka">Азь с҃тославь кн҃зь рѹс<hi rend="sup">с</hi>кїи ꙗкоже <lb/> клѧ<hi rend="sup">х</hi>сѧ</rdg>
+            <rdg wit="#ipa">Азъ с҃тосла<lb/>въ кн҃зь ру<hi rend="sup">с</hi>кыи. ꙗко<hi rend="sup">ж</hi> клѧ<lb/>хсѧ.</rdg>
+            <rdg wit="#xle">Азь с҃тославь великїи кнѧ<hi rend="sup">з</hi> роу<hi rend="sup">с</hi>кїи <lb/> ꙗко<hi rend="sup">ж</hi>
+                    клѧ<hi rend="sup">х</hi>сѧ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Азъ Святославъ, князь Руский, якоже кляхъся,</rdg><rdg wit="#shakh">Азъ Святославъ, кънязь Русьскыи, якоже кляхъся,</rdg><rdg wit="#likh">Азъ Святославъ, князь руский, яко же кляхъся,</rdg></rdgGrp></app></p></div></body></text></TEI>

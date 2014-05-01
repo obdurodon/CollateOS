@@ -1,76 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>219, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="219"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="219,5">Переяславлю,</w>
-<w n="219,5">веля</w>
-<w n="219,5">ему</w>
-<w n="219,5">помагати</w>
-<w n="219,5">Святопълку.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="219,5">пере<lb/>ꙗславлю·</w>
-<w n="219,5">велѧ</w>
-<w n="219,5">ѥму</w>
-<w n="219,5">помага<lb/>ти</w>
-<w n="219,5">ст҃ополку·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="219,5">переꙗславлѧ.</w>
-<w n="219,5">велѧ</w>
-<w n="219,5">емоу</w>
-<w n="219,5">помогати</w>
-<w n="219,5">ст҃опо<lb/>лкоу.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="219,5">переꙗславлѧ·</w>
-<w n="219,5">велѧ</w>
-<w n="219,5">емѹ <lb/></w>
-
-<w n="219,5">помагати</w>
-<w n="219,5">ст҃ополкѹ·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="219,5">переꙗславлѧ· <lb/></w>
-
-<w n="219,5">велѧ</w>
-<w n="219,5">ему</w>
-<w n="219,5">помогати</w>
-<w n="219,5">ст҃опо<lb/>лку·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="219,5">переѧславлѧ.</w>
-<w n="219,5">велѧ</w>
-<w n="219,5">емоу</w>
-<w n="219,5">помаг<hi rend="sup">т</hi>а<hi rend="sup">и</hi><lb/></w>
-<w n="219,5">ст҃ополкоу.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="219,5">Переяславлю,</w>
-<w n="219,5">веля</w>
-<w n="219,5">ему</w>
-<w n="219,5">помагати</w>
-<w n="219,5">Святополку.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="219,5">Переяславлю,</w>
-<w n="219,5">веля</w>
-<w n="219,5">ему</w>
-<w n="219,5">помагати</w>
-<w n="219,5">Святопълку.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="219,5">Переяславлю,</w>
-<w n="219,5">веля</w>
-<w n="219,5">ему</w>
-<w n="219,5">помагати</w>
-<w n="219,5">Святополку.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>219, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="219"/><div type="block" n="5"><p><app><lem wit="#lem">
+            Переяславлю, веля ему помагати Святопълку.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">пере<lb/>ꙗславлю· велѧ ѥму помага<lb/>ти ст҃ополку·</rdg>
+            <rdg wit="#rad">переꙗславлѧ. велѧ емоу помогати ст҃опо<lb/>лкоу.</rdg>
+            <rdg wit="#aka">переꙗславлѧ· велѧ емѹ <lb/> помагати ст҃ополкѹ·</rdg>
+            <rdg wit="#ipa">переꙗславлѧ· <lb/> велѧ ему помогати ст҃опо<lb/>лку·</rdg>
+            <rdg wit="#xle">переѧславлѧ. велѧ емоу помаг<hi rend="sup">т</hi>а<hi rend="sup">и</hi>
+                <lb/> ст҃ополкоу.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Переяславлю, веля ему помагати Святополку.</rdg><rdg wit="#shakh">Переяславлю, веля ему помагати Святопълку.</rdg><rdg wit="#likh">Переяславлю, веля ему помагати Святополку.</rdg></rdgGrp></app></p></div></body></text></TEI>

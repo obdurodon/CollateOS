@@ -1,103 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>201, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="201"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-<w n="201,2">Вьсеволода,</w>
-<w n="201,2">и</w>
-<w n="201,2">повелѣ</w>
-<w n="201,2">събирати</w>
-<w n="201,2">вои</w>
-<w n="201,2">отъ</w>
-<w n="201,2">мала</w>
-<w n="201,2">до</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="201,2">всеволода.</w>
-<w n="201,2">и</w>
-<w n="201,2">повелѣ</w>
-<w n="201,2">сбир<hi rend="sup">а</hi><lb/>ти</w>
-<w n="201,2">вои</w>
-<w n="201,2">ѿ</w>
-<w n="201,2">мала</w>
-<w n="201,2">до</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="201,2">всеволода.</w>
-<w n="201,2">и</w>
-<w n="201,2">по<lb/>велѣ</w>
-<w n="201,2">собирати</w>
-<w n="201,2">вои</w>
-<w n="201,2">ѿ</w>
-<w n="201,2"><milestone unit="add" n="start" place="margin"/>ма<milestone unit="add" n="end"/>ла</w>
-<w n="201,2">до</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="201,2">всеволода.</w>
-<w n="201,2">и</w>
-<w n="201,2">повелѣ</w>
-<w n="201,2">собирати</w>
-<w n="201,2">воѧ <lb/></w>
-
-<w n="201,2">ѿ</w>
-<w n="201,2">мала</w>
-<w n="201,2">и</w>
-<w n="201,2">до</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="201,2">всеволода.</w>
-<w n="201,2">и</w>
-<w n="201,2">пове<hi rend="sup">л</hi><lb/></w>
-<w n="201,2">збирати</w>
-<w n="201,2">воꙗ.</w>
-<w n="201,2">ѿ</w>
-<w n="201,2">мала</w>
-<w n="201,2">до</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="201,2">в<hi rend="sup">в</hi>о<hi rend="sup">с</hi>л<hi rend="sup">е</hi>ода.</w>
-<w n="201,2">и</w>
-<w n="201,2">повелѣ</w>
-<w n="201,2">събирати</w>
-<w n="201,2">воѧ</w>
-<w n="201,2">ѿ</w>
-<w n="201,2">ма<lb/>ла</w>
-<w n="201,2">до</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="201,2">Всеволода,</w>
-<w n="201,2">и</w>
-<w n="201,2">повелѣ</w>
-<w n="201,2">сбирати</w>
-<w n="201,2">вои</w>
-<w n="201,2">отъ</w>
-<w n="201,2">мала</w>
-<w n="201,2">до</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="201,2">Вьсеволода,</w>
-<w n="201,2">и</w>
-<w n="201,2">повелѣ</w>
-<w n="201,2">събирати</w>
-<w n="201,2">вои</w>
-<w n="201,2">отъ</w>
-<w n="201,2">мала</w>
-<w n="201,2">до</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="201,2">Всеволода,</w>
-<w n="201,2">и</w>
-<w n="201,2">повелѣ</w>
-<w n="201,2">сбирати</w>
-<w n="201,2">вои</w>
-<w n="201,2">от</w>
-<w n="201,2">мала</w>
-<w n="201,2">до</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>201, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="201"/><div type="block" n="2"><p><app><lem wit="#lem">
+            Вьсеволода, и повелѣ събирати вои отъ мала до
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">всеволода. и повелѣ сбир<hi rend="sup">а</hi><lb/>ти вои ѿ мала до</rdg>
+            <rdg wit="#rad">всеволода. и по<lb/>велѣ собирати вои ѿ <add place="margin">ма</add>ла до</rdg>
+            <rdg wit="#aka">всеволода. и повелѣ собирати воѧ <lb/> ѿ мала и до</rdg>
+            <rdg wit="#ipa">всеволода. и пове<hi rend="sup">л</hi>
+                <lb/> збирати воꙗ. ѿ мала до</rdg>
+            <rdg wit="#xle">в<hi rend="sup">в</hi>о<hi rend="sup">с</hi>л<hi rend="sup">е</hi>ода. и повелѣ събирати воѧ ѿ ма<lb/>ла
+                до</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Всеволода, и повелѣ сбирати вои отъ мала до</rdg><rdg wit="#shakh">Вьсеволода, и повелѣ събирати вои отъ мала до</rdg><rdg wit="#likh">Всеволода, и повелѣ сбирати вои от мала до</rdg></rdgGrp></app></p></div></body></text></TEI>

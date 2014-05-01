@@ -1,115 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>70, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="70"/><div type="block" n="14"><p>
-<app>
-<lem wit="#lem">
-<w n="70,14">нъ</w>
-<w n="70,14">лязѣмъ</w>
-<w n="70,14">костию</w>
-<w n="70,14">ту.</w>
-<w n="70,14">Мьртвыи</w>
-<w n="70,14">бо</w>
-<w n="70,14">срама</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="70,14">но</w>
-<w n="70,14">лѧжемъ</w>
-<w n="70,14">костьми</w>
-<w n="70,14">мертвы.</w>
-<w n="70,14">ибо</w>
-<w n="70,14">срама</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="70,14">но</w>
-<w n="70,14">лѧже<hi rend="sup">м</hi></w>
-<w n="70,14">костьми</w>
-<w n="70,14">тоу.</w>
-<w n="70,14">мр҃твыи</w>
-<w n="70,14">бо</w>
-<w n="70,14">срама</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="70,14">но</w>
-<w n="70,14">лѧжемь</w>
-<w n="70,14">костьми</w>
-<w n="70,14">тѹ.</w>
-<w n="70,14">мер҃твыи</w>
-<w n="70,14">бо <lb/></w>
-
-<w n="70,14">срама</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="70,14">но</w>
-<w n="70,14">лѧ<milestone unit="sic" n="start"/>з<milestone unit="sic" n="end"/>емы</w>
-<w n="70,14">кость<lb/>ю</w>
-<w n="70,14">ту.</w>
-<w n="70,14">и</w>
-<w n="70,14">мр҃тьвы</w>
-<w n="70,14">бо</w>
-<w n="70,14">соро<lb/>ма</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="70,14">но</w>
-<w n="70,14">лꙗжемъ</w>
-<w n="70,14">костью</w>
-<w n="70,14">ту</w>
-<w n="70,14">мертвии</w>
-<w n="70,14">бо</w>
-<w n="70,14">срама</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="70,14">но</w>
-<w n="70,14">лꙗжемъ</w>
-<w n="70,14">костью</w>
-<w n="70,14">ту</w>
-<w n="70,14">мертвии</w>
-<w n="70,14">бо</w>
-<w n="70,14">срама</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="70,14">но</w>
-<w n="70,14">лꙗжемъ</w>
-<w n="70,14">костью</w>
-<w n="70,14">ту</w>
-<w n="70,14">мертвии</w>
-<w n="70,14">бо</w>
-<w n="70,14">срама</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="70,14">но</w>
-<w n="70,14">ляжемъ</w>
-<w n="70,14">костьми</w>
-<w n="70,14">ту,</w>
-<w n="70,14">мертвыи</w>
-<w n="70,14">бо</w>
-<w n="70,14">срама</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="70,14">нъ</w>
-<w n="70,14">лязѣмъ</w>
-<w n="70,14">костию</w>
-<w n="70,14">ту;</w>
-<w n="70,14">мьртви</w>
-<w n="70,14">бо</w>
-<w n="70,14">срама</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="70,14">но</w>
-<w n="70,14">ляжемъ</w>
-<w n="70,14">костьми,</w>
-<w n="70,14">мертвыи</w>
-<w n="70,14">бо</w>
-<w n="70,14">срама</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>70, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="70"/><div type="block" n="14"><p><app><lem wit="#lem">
+            нъ лязѣмъ костию ту. Мьртвыи бо срама
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">но лѧжемъ костьми мертвы. ибо срама</rdg>
+            <rdg wit="#rad">но лѧже<hi rend="sup">м</hi> костьми тоу. мр҃твыи бо срама</rdg>
+            <rdg wit="#aka">но лѧжемь костьми тѹ. мер҃твыи бо <lb/> срама</rdg>
+            <rdg wit="#ipa">но лѧ<sic>з</sic>емы кость<lb/>ю ту. и мр҃тьвы бо соро<lb/>ма</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">но лꙗжемъ костью ту мертвии бо срама</rdg>
+            <rdg wit="#nak">но лꙗжемъ костью ту мертвии бо срама</rdg>
+            <rdg wit="#tol">но лꙗжемъ костью ту мертвии бо срама</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">но ляжемъ костьми ту, мертвыи бо срама</rdg><rdg wit="#shakh">нъ лязѣмъ костию ту; мьртви бо срама</rdg><rdg wit="#likh">но ляжемъ костьми, мертвыи бо срама</rdg></rdgGrp></app></p></div></body></text></TEI>

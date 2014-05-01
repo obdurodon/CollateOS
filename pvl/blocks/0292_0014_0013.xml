@@ -1,81 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>14, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="14"/><div type="block" n="13"><p>
-<app>
-<lem wit="#lem">
-<w n="14,13">Кривичи</w>
-<w n="14,13">и</w>
-<w n="14,13">прочии</w>
-<w n="14,13">погании,</w>
-<w n="14,13">не</w>
-<w n="14,13">вѣдуще</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="14,13">кривичи.</w>
-<w n="14,13">прочии <lb/></w>
-
-<w n="14,13">погании.</w>
-<w n="14,13">не</w>
-<w n="14,13">вѣдуще</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="14,13">криви<hi rend="sup">ч</hi>.</w>
-<w n="14,13">и</w>
-<w n="14,13">прочїи</w>
-<w n="14,13">погании.</w>
-<w n="14,13">не</w>
-<w n="14,13">ве<lb/>доуще</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="14,13">криви<lb/>чи.</w>
-<w n="14,13">и</w>
-<w n="14,13">прочии</w>
-<w n="14,13">поганїи.</w>
-<w n="14,13">не</w>
-<w n="14,13">ведѹще</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="14,13">кривї<lb/>чи.</w>
-<w n="14,13">и</w>
-<w n="14,13">прочии</w>
-<w n="14,13">погании.</w>
-<w n="14,13">не <lb/></w>
-
-<w n="14,13">вѣдуще</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="14,13">Кривичи</w>
-<w n="14,13">и</w>
-<w n="14,13">прочии</w>
-<w n="14,13">погании,</w>
-<w n="14,13">не</w>
-<w n="14,13">вѣдуще</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="14,13">Кривичи</w>
-<w n="14,13">и</w>
-<w n="14,13">прочии</w>
-<w n="14,13">погании,</w>
-<w n="14,13">не</w>
-<w n="14,13">вѣдуще</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="14,13">кривичи</w>
-<w n="14,13">и</w>
-<w n="14,13">прочии</w>
-<w n="14,13">погании,</w>
-<w n="14,13">не</w>
-<w n="14,13">вѣдуще</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>14, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="14"/><div type="block" n="13"><p><app><lem wit="#lem">
+            Кривичи и прочии погании, не вѣдуще
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">кривичи. прочии <lb/> погании. не вѣдуще</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">криви<hi rend="sup">ч</hi>. и прочїи погании. не ве<lb/>доуще</rdg>
+            <rdg wit="#aka">криви<lb/>чи. и прочии поганїи. не ведѹще</rdg>
+            <rdg wit="#ipa">кривї<lb/>чи. и прочии погании. не <lb/> вѣдуще</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Кривичи и прочии погании, не вѣдуще</rdg><rdg wit="#shakh">Кривичи и прочии погании, не вѣдуще</rdg><rdg wit="#likh">кривичи и прочии погании, не вѣдуще</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,72 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>229, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="229"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="229,21">придоша</w>
-<w n="229,21">прузи,</w>
-<w n="229,21">мѣсяца</w>
-<w n="229,21">августа 28,</w>
-
-</lem>
-
-<rdg wit="#lav">
-<w n="229,21">Придоша</w>
-<w n="229,21">прузи</w>
-<w n="229,21">въ· <lb/></w>
-
-<w n="229,21">·к҃и·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="229,21">приидоша</w>
-<w n="229,21">прѹзи·</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="229,21">приидоша</w>
-<w n="229,21">прѹ<lb/>зи·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="229,21">приидоша</w>
-<w n="229,21">прузѣ·</w>
-<w n="229,21">мц҃а</w>
-<w n="229,21">авг<hi rend="sup">с</hi>у· <lb/></w>
-
-<w n="229,21">к҃и·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="229,21">прїидоша</w>
-<w n="229,21">проуѕи.</w>
-<w n="229,21">мц<hi rend="sup">с</hi>а</w>
-<w n="229,21">авгѹ<lb/>ста</w>
-<w n="229,21">.к҃и.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="229,21">придоша</w>
-<w n="229,21">прузи,</w>
-<w n="229,21">мѣсяца</w>
-<w n="229,21">августа</w>
-<w n="229,21">въ 28,</w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="229,21">придоша</w>
-<w n="229,21">прузи,</w>
-<w n="229,21">мѣсяца</w>
-<w n="229,21">августа</w>
-<w n="229,21">въ 28,</w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="229,21">придоша</w>
-<w n="229,21">прузи,</w>
-<w n="229,21">мѣсяца</w>
-<w n="229,21">августа</w>
-<w n="229,21">въ 28,</w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>229, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="229"/><div type="block" n="21"><p><app><lem wit="#lem">
+            придоша прузи, мѣсяца августа 28,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">Придоша прузи въ· <lb/> ·к҃и·</rdg>
+            <rdg wit="#rad">приидоша прѹзи·</rdg>
+            <rdg wit="#aka">приидоша прѹ<lb/>зи·</rdg>
+            <rdg wit="#ipa">приидоша прузѣ· мц҃а авг<hi rend="sup">с</hi>у· <lb/> к҃и·</rdg>
+            <rdg wit="#xle">прїидоша проуѕи. мц<hi rend="sup">с</hi>а авгѹ<lb/>ста .к҃и.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">придоша прузи, мѣсяца августа въ 28,</rdg><rdg wit="#shakh">придоша прузи, мѣсяца августа въ 28,</rdg><rdg wit="#likh">придоша прузи, мѣсяца августа въ 28,</rdg></rdgGrp></app></p></div></body></text></TEI>

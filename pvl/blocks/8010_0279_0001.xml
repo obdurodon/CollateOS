@@ -1,89 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>279, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="279"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="279,1">Русьское</w>
-<w n="279,1">на</w>
-<w n="279,1">ся,</w>
-<w n="279,1">не</w>
-<w n="279,1">доступивъше</w>
-<w n="279,1">побѣгоша</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="279,1">руско<lb/>е</w>
-<w n="279,1">на</w>
-<w n="279,1">сѧ</w>
-<w n="279,1">не</w>
-<w n="279,1">доступившо</w>
-<w n="279,1">бо</w>
-<w n="279,1">по<lb/>бѣгоша·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="279,1">роу<hi rend="sup">с</hi>кое</w>
-<w n="279,1">на</w>
-<w n="279,1">сѧ·</w>
-<w n="279,1">не</w>
-<w n="279,1">достоупивше <lb/></w>
-
-<w n="279,1">побегоша</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="279,1">рѹс<hi rend="sup">с</hi>кое</w>
-<w n="279,1">на</w>
-<w n="279,1">сѧ·</w>
-<w n="279,1">не</w>
-<w n="279,1">достѹ<lb/>пивше</w>
-<w n="279,1">побегоша</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="279,1">руское <lb/></w>
-
-<w n="279,1">на</w>
-<w n="279,1">сѧ·</w>
-<w n="279,1">не</w>
-<w n="279,1">доступивше</w>
-<w n="279,1">погѣ<lb/>гоша·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="279,1">роу<hi rend="sup">с</hi>кое</w>
-<w n="279,1">на</w>
-<w n="279,1">сѧ.</w>
-<w n="279,1">не</w>
-<w n="279,1">достѫ<lb/>пив′ше</w>
-<w n="279,1">побѣгоша</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="279,1">Руское</w>
-<w n="279,1">на</w>
-<w n="279,1">ся,</w>
-<w n="279,1">не</w>
-<w n="279,1">доступивше</w>
-<w n="279,1">побѣгоша</w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="279,1">Русьское</w>
-<w n="279,1">на</w>
-<w n="279,1">ся,</w>
-<w n="279,1">не</w>
-<w n="279,1">доступивъше,</w>
-<w n="279,1">побѣгоша</w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="279,1">руское</w>
-<w n="279,1">на</w>
-<w n="279,1">ся,</w>
-<w n="279,1">не</w>
-<w n="279,1">доступивше</w>
-<w n="279,1">побѣгоша</w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>279, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="279"/><div type="block" n="1"><p><app><lem wit="#lem">
+            Русьское на ся, не доступивъше побѣгоша
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">руско<lb/>е на сѧ не доступившо бо по<lb/>бѣгоша·</rdg>
+            <rdg wit="#rad">роу<hi rend="sup">с</hi>кое на сѧ· не достоупивше <lb/> побегоша</rdg>
+            <rdg wit="#aka">рѹс<hi rend="sup">с</hi>кое на сѧ· не достѹ<lb/>пивше побегоша</rdg>
+            <rdg wit="#ipa">руское <lb/> на сѧ· не доступивше погѣ<lb/>гоша·</rdg>
+            <rdg wit="#xle">роу<hi rend="sup">с</hi>кое на сѧ. не достѫ<lb/>пив′ше побѣгоша</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Руское на ся, не доступивше побѣгоша <add place="margin">268,20</add></rdg><rdg wit="#shakh">Русьское на ся, не доступивъше, побѣгоша <add place="margin">325,7</add></rdg><rdg wit="#likh">руское на ся, не доступивше побѣгоша <add place="margin">184,23</add></rdg></rdgGrp></app></p></div></body></text></TEI>

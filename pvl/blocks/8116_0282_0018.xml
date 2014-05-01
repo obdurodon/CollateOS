@@ -1,80 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>282, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="282"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="282,18">великою,</w>
-<w n="282,18">яко</w>
-<w n="282,18">врази</w>
-<w n="282,18">наша</w>
-<w n="282,18">побѣжени</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="282,18">великою·</w>
-<w n="282,18">ꙗко <lb/></w>
-
-<w n="282,18">врази</w>
-<w n="282,18">наша</w>
-<w n="282,18">побѣжени</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="282,18">великою·</w>
-<w n="282,18">ꙗко</w>
-<w n="282,18">врази</w>
-<w n="282,18">наши</w>
-<w n="282,18">побежь<hi rend="sup">д</hi>ни</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="282,18">великою·</w>
-<w n="282,18">ꙗко</w>
-<w n="282,18">врази</w>
-<w n="282,18">наши <lb/></w>
-
-<w n="282,18">побеже<hi rend="sup">д</hi>ни</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="282,18">великою·</w>
-<w n="282,18">ꙗко</w>
-<w n="282,18">врази <lb/></w>
-
-<w n="282,18">наши</w>
-<w n="282,18">побѣжены</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="282,18">великою.</w>
-<w n="282,18">яко</w>
-<w n="282,18">враѕи</w>
-<w n="282,18">наша</w>
-<w n="282,18">по<lb/>бѣжени</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="282,18">великою,</w>
-<w n="282,18">глаголюще,</w>
-<w n="282,18">яко</w>
-<w n="282,18">врази</w>
-<w n="282,18">наша</w>
-<w n="282,18">побѣжени</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="282,18">великою,</w>
-<w n="282,18">глаголюще,</w>
-<w n="282,18">яко</w>
-<w n="282,18">врази</w>
-<w n="282,18">наша</w>
-<w n="282,18">побѣжени</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="282,18">великою,</w>
-<w n="282,18">глаголюще,</w>
-<w n="282,18">яко</w>
-<w n="282,18">врази</w>
-<w n="282,18">наша</w>
-<w n="282,18">побѣжени</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>282, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="282"/><div type="block" n="18"><p><app><lem wit="#lem">
+            великою, яко врази наша побѣжени
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">великою· ꙗко <lb/> врази наша побѣжени</rdg>
+            <rdg wit="#rad">великою· ꙗко врази наши побежь<hi rend="sup">д</hi>ни</rdg>
+            <rdg wit="#aka">великою· ꙗко врази наши <lb/> побеже<hi rend="sup">д</hi>ни</rdg>
+            <rdg wit="#ipa">великою· ꙗко врази <lb/> наши побѣжены</rdg>
+            <rdg wit="#xle">великою. ꙗко враѕи наша по<lb/>бѣжени</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">великою, глаголюще, яко врази наша побѣжени</rdg><rdg wit="#shakh">великою, глаголюще, яко врази наша побѣжени</rdg><rdg wit="#likh">великою, глаголюще, яко врази наша побѣжени</rdg></rdgGrp></app></p></div></body></text></TEI>

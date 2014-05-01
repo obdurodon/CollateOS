@@ -1,77 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>47, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="47"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-<w n="47,19">великымъ</w>
-<w n="47,19">цьсаремъ</w>
-<w n="47,19">Грьчьскымъ,</w>
-<w n="47,19">сътворити</w>
-<w n="47,19">любъвь</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="47,19">великимъ</w>
-<w n="47,19">цр҃мъ <lb/></w>
-
-<w n="47,19">гречьскимъ.</w>
-<w n="47,19">створити</w>
-<w n="47,19">любовь</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="47,19">велики<hi rend="sup">м</hi></w>
-<w n="47,19">кн҃змъ</w>
-<w n="47,19">грецьки<hi rend="sup">м</hi>.</w>
-<w n="47,19">сотворити <lb/></w>
-
-<w n="47,19">любовь</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="47,19">великимь</w>
-<w n="47,19">ц҃ремь</w>
-<w n="47,19">гре<lb/>цкимь.</w>
-<w n="47,19">сотворити</w>
-<w n="47,19">любовь</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="47,19">великы<lb/>мъ</w>
-<w n="47,19">ц<hi rend="sup">с</hi>ремъ</w>
-<w n="47,19">грѣцкымъ. <lb/></w>
-
-<w n="47,19">створити</w>
-<w n="47,19">любовь</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="47,19">великы<hi rend="sup">м</hi></w>
-<w n="47,19">ц҃ре<hi rend="sup">м</hi></w>
-<w n="47,19">грецкы<hi rend="sup">м</hi><lb/></w>
-<w n="47,19">сътворити</w>
-<w n="47,19">любовь</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="47,19">великимъ</w>
-<w n="47,19">царемъ</w>
-<w n="47,19">Гречьскимъ,</w>
-<w n="47,19">створити</w>
-<w n="47,19">любовь</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="47,19">великымъ</w>
-<w n="47,19">цѣсаремъ</w>
-<w n="47,19">Грьчьскымъ,</w>
-<w n="47,19">сътворити</w>
-<w n="47,19">любъвь</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="47,19">великимъ</w>
-<w n="47,19">царемъ</w>
-<w n="47,19">гречьскимъ,</w>
-<w n="47,19">створити</w>
-<w n="47,19">любовь</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>47, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="47"/><div type="block" n="19"><p><app><lem wit="#lem">
+            великымъ цьсаремъ Грьчьскымъ, сътворити любъвь
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">великимъ цр҃мъ <lb/> гречьскимъ. створити любовь</rdg>
+            <rdg wit="#rad">велики<hi rend="sup">м</hi> кн҃змъ грецьки<hi rend="sup">м</hi>. сотворити <lb/> любовь</rdg>
+            <rdg wit="#aka">великимь ц҃ремь гре<lb/>цкимь. сотворити любовь</rdg>
+            <rdg wit="#ipa">великы<lb/>мъ ц<hi rend="sup">с</hi>ремъ грѣцкымъ. <lb/> створити любовь</rdg>
+            <rdg wit="#xle">великы<hi rend="sup">м</hi> ц҃ре<hi rend="sup">м</hi> грецкы<hi rend="sup">м</hi>
+                <lb/> сътворити любовь</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">великимъ царемъ Гречьскимъ, створити любовь</rdg><rdg wit="#shakh">великымъ цѣсаремъ Грьчьскымъ, сътворити любъвь</rdg><rdg wit="#likh">великимъ царемъ гречьскимъ, створити любовь</rdg></rdgGrp></app></p></div></body></text></TEI>

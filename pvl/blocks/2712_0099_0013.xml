@@ -1,95 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>99, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="99"/><div type="block" n="13"><p>
-<app>
-<lem wit="#lem">
-<w n="99,13">судъ</w>
-<w n="99,13">мои</w>
-<w n="99,13">свѣтъ</w>
-<w n="99,13">странамъ.</w>
-<w n="99,13">Приближаеть</w>
-<w n="99,13">ся</w>
-<w n="99,13">скоро</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="99,13">судъ</w>
-<w n="99,13">мои <lb/></w>
-
-<w n="99,13">свѣтъ</w>
-<w n="99,13">странамъ.</w>
-<w n="99,13">приближаетсѧ</w>
-<w n="99,13">скоро</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="99,13">соу<hi rend="sup">д</hi></w>
-<w n="99,13">мои</w>
-<w n="99,13">свѣ<lb/>тъ</w>
-<w n="99,13">страна<hi rend="sup">м</hi>.</w>
-<w n="99,13">приближаеть<hi rend="sup">с</hi></w>
-<w n="99,13">скоро</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="99,13">сѹдъ</w>
-<w n="99,13">мои</w>
-<w n="99,13">свѣтъ</w>
-<w n="99,13">стра<lb/>намъ.</w>
-<w n="99,13">прїближаетсѧ</w>
-<w n="99,13">скоро</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="99,13">судъ</w>
-<w n="99,13">мои</w>
-<w n="99,13">свѣтъ</w>
-<w n="99,13">странамъ.</w>
-<w n="99,13">прибли<lb/>жаетсѧ</w>
-<w n="99,13">скоро <pb n="39a"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="99,13">сѫ<hi rend="sup">д</hi></w>
-<w n="99,13">мои</w>
-<w n="99,13">свѣ<hi rend="sup">т</hi></w>
-<w n="99,13">страна<hi rend="sup">м</hi>.</w>
-<w n="99,13">приближаетсѧ</w>
-<w n="99,13">скоро</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="99,13">суд</w>
-<w n="99,13">мои</w>
-<w n="99,13">свѣт</w>
-<w n="99,13">странамъ</w>
-<w n="99,13">приближаетсꙗ</w>
-<w n="99,13">скоро</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="99,13">судъ</w>
-<w n="99,13">мой</w>
-<w n="99,13">свѣтъ</w>
-<w n="99,13">странамъ;</w>
-<w n="99,13">приближается</w>
-<w n="99,13">скоро</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="99,13">судъ</w>
-<w n="99,13">мои</w>
-<w n="99,13">свѣтъ</w>
-<w n="99,13">странамъ.</w>
-<w n="99,13">Приближаеться</w>
-<w n="99,13">скоро</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="99,13">судъ</w>
-<w n="99,13">мой</w>
-<w n="99,13">свѣтъ</w>
-<w n="99,13">странамъ.</w>
-<w n="99,13">Приближается</w>
-<w n="99,13">скоро</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>99, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="99"/><div type="block" n="13"><p><app><lem wit="#lem">
+            судъ мои свѣтъ странамъ. Приближаеть ся скоро
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">судъ мои <lb/> свѣтъ странамъ. приближаетсѧ скоро</rdg>
+            <rdg wit="#rad">соу<hi rend="sup">д</hi> мои свѣ<lb/>тъ страна<hi rend="sup">м</hi>. приближаеть<hi rend="sup">с</hi>
+                скоро</rdg>
+            <rdg wit="#aka">сѹдъ мои свѣтъ стра<lb/>намъ. прїближаетсѧ скоро</rdg>
+            <rdg wit="#ipa">судъ мои свѣтъ странамъ. прибли<lb/>жаетсѧ скоро <pb n="39a"/></rdg>
+            <rdg wit="#xle">сѫ<hi rend="sup">д</hi> мои свѣ<hi rend="sup">т</hi> страна<hi rend="sup">м</hi>. приближаетсѧ скоро</rdg>
+            <rdg wit="#kom">суд мои свѣт странамъ приближаетсꙗ скоро</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">судъ мой свѣтъ странамъ; приближается скоро</rdg><rdg wit="#shakh">судъ мои свѣтъ странамъ. Приближаеться скоро</rdg><rdg wit="#likh">судъ мой свѣтъ странамъ. Приближается скоро</rdg></rdgGrp></app></p></div></body></text></TEI>

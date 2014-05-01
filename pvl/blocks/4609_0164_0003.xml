@@ -1,112 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>164, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="164"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="164,3">пришьдъ</w>
-<w n="164,3">выгъна</w>
-<w n="164,3">Глѣба,</w>
-<w n="164,3">и</w>
-<w n="164,3">приде</w>
-<w n="164,3">Глѣбъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="164,3">пакы</w>
-<w n="164,3">выгна</w>
-<w n="164,3">глѣ<lb/>ба.</w>
-<w n="164,3">и</w>
-<w n="164,3">приде</w>
-<w n="164,3">глѣбъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="164,3">прише<hi rend="sup">д</hi>.</w>
-<w n="164,3">выгна</w>
-<w n="164,3">глѣба.</w>
-<w n="164,3">и</w>
-<w n="164,3">при<hi rend="sup">д</hi></w>
-<w n="164,3">глѣбъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="164,3">прише<hi rend="sup">д</hi>.</w>
-<w n="164,3">выгна</w>
-<w n="164,3">глѣ<lb/>ба.</w>
-<w n="164,3">и</w>
-<w n="164,3">прииде</w>
-<w n="164,3">глѣбъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="164,3">ро<lb/>стиславъ.</w>
-<w n="164,3">и</w>
-<w n="164,3">выгна</w>
-<w n="164,3">глѣба.</w>
-<w n="164,3">и <lb/></w>
-
-<w n="164,3">приде</w>
-<w n="164,3">глѣбъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="164,3">опѧ<hi rend="sup">т</hi>,</w>
-<w n="164,3">выгна</w>
-<w n="164,3">глѣба.</w>
-<w n="164,3">и</w>
-<w n="164,3">прїиде</w>
-<w n="164,3">глѣ<hi rend="sup">б</hi><lb/></w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="164,3">пришед</w>
-<w n="164,3">выгна</w>
-<w n="164,3">глѣба</w>
-<w n="164,3">и</w>
-<w n="164,3">прииде</w>
-<w n="164,3">глѣбъ</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="164,3">пришед</w>
-<w n="164,3">выгна</w>
-<w n="164,3">глѣба</w>
-<w n="164,3">и</w>
-<w n="164,3">прииде</w>
-<w n="164,3">глѣбъ</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="164,3">пришед</w>
-<w n="164,3">выгна</w>
-<w n="164,3">глѣба</w>
-<w n="164,3">и</w>
-<w n="164,3">прииде</w>
-<w n="164,3">глѣбъ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="164,3">пакы</w>
-<w n="164,3">выгна</w>
-<w n="164,3">Глѣба,</w>
-<w n="164,3">и</w>
-<w n="164,3">приде</w>
-<w n="164,3">Глѣбъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="164,3">пакы</w>
-<w n="164,3">выгъна</w>
-<w n="164,3">Глѣба,</w>
-<w n="164,3">и</w>
-<w n="164,3">приде</w>
-<w n="164,3">Глѣбъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="164,3">пакы</w>
-<w n="164,3">выгна</w>
-<w n="164,3">Глѣба,</w>
-<w n="164,3">и</w>
-<w n="164,3">приде</w>
-<w n="164,3">Глѣбъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>164, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="164"/><div type="block" n="3"><p><app><lem wit="#lem">
+            пришьдъ выгъна Глѣба, и приде Глѣбъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">пакы выгна глѣ<lb/>ба. и приде глѣбъ</rdg>
+            <rdg wit="#rad">прише<hi rend="sup">д</hi>. выгна глѣба. и при<hi rend="sup">д</hi> глѣбъ</rdg>
+            <rdg wit="#aka">прише<hi rend="sup">д</hi>. выгна глѣ<lb/>ба. и прииде глѣбъ</rdg>
+            <rdg wit="#ipa">ро<lb/>стиславъ. и выгна глѣба. и <lb/> приде глѣбъ</rdg>
+            <rdg wit="#xle">опѧ<hi rend="sup">т</hi>, выгна глѣба. и прїиде глѣ<hi rend="sup">б</hi>
+                <lb/></rdg>
+            <rdg wit="#kom">пришед выгна глѣба и прииде глѣбъ</rdg>
+            <rdg wit="#nak">пришед выгна глѣба и прииде глѣбъ</rdg>
+            <rdg wit="#tol">пришед выгна глѣба и прииде глѣбъ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">пакы выгна Глѣба, и приде Глѣбъ</rdg><rdg wit="#shakh">пакы выгъна Глѣба, и приде Глѣбъ</rdg><rdg wit="#likh">пакы выгна Глѣба, и приде Глѣбъ</rdg></rdgGrp></app></p></div></body></text></TEI>

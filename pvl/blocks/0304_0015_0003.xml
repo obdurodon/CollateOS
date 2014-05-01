@@ -1,91 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>15, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="15"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="15,3">вина</w>
-<w n="15,3">пиюще,</w>
-<w n="15,3">ни</w>
-<w n="15,3">блуда</w>
-<w n="15,3">творяще,</w>
-<w n="15,3">никакоя</w>
-<w n="15,3">же</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="15,3">вина</w>
-<w n="15,3">пьющ<milestone unit="sic" n="start"/>е. <lb/></w>
-
-<w n="15,3">ни</w>
-<w n="15,3">блу<milestone unit="sic" n="end"/>да</w>
-<w n="15,3">творѧще.</w>
-<w n="15,3">никакоꙗ</w>
-<w n="15,3">же</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="15,3">вина</w>
-<w n="15,3">пьюще.</w>
-<w n="15,3">ни</w>
-<w n="15,3">блоуда</w>
-<w n="15,3">творѧще. <lb/></w>
-
-<w n="15,3">никоеа</w>
-<w n="15,3">же</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="15,3">вина</w>
-<w n="15,3">пьюще.</w>
-<w n="15,3">ни</w>
-<w n="15,3">блѹда</w>
-<w n="15,3">творѧще. <lb/></w>
-
-<w n="15,3">никоеꙗ</w>
-<w n="15,3">же</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="15,3">вина</w>
-<w n="15,3">пьюще.</w>
-<w n="15,3">ни</w>
-<w n="15,3">блуда <lb/></w>
-
-<w n="15,3">творѧще.</w>
-<w n="15,3">никакоꙗ</w>
-<w n="15,3">же <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="15,3">вина</w>
-<w n="15,3">пьюще,</w>
-<w n="15,3">ни</w>
-<w n="15,3">блуда</w>
-<w n="15,3">творяще,</w>
-<w n="15,3">никакояже</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="15,3">вина</w>
-<w n="15,3">пиюще,</w>
-<w n="15,3">ни</w>
-<w n="15,3">блуда</w>
-<w n="15,3">творяще,</w>
-<w n="15,3">никоеяже</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="15,3">вина</w>
-<w n="15,3">пьюще,</w>
-<w n="15,3">ни</w>
-<w n="15,3">блуда</w>
-<w n="15,3">творяще,</w>
-<w n="15,3">никакоя</w>
-<w n="15,3">же</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>15, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="15"/><div type="block" n="3"><p><app><lem wit="#lem">
+            вина пиюще, ни блуда творяще, никакоя же
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">вина пьющ<sic>е. <lb/> ни блу</sic>да творѧще. никакоꙗ же</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">вина пьюще. ни блоуда творѧще. <lb/> никоеа же</rdg>
+            <rdg wit="#aka">вина пьюще. ни блѹда творѧще. <lb/> никоеꙗ же</rdg>
+            <rdg wit="#ipa">вина пьюще. ни блуда <lb/> творѧще. никакоꙗ же <lb/></rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">вина пьюще, ни блуда творяще, никакояже</rdg><rdg wit="#shakh">вина пиюще, ни блуда творяще, никоеяже</rdg><rdg wit="#likh">вина пьюще, ни блуда творяще, никакоя же</rdg></rdgGrp></app></p></div></body></text></TEI>

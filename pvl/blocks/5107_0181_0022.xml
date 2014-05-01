@@ -1,73 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>181, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="181"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="181,22">Михаилъ</w>
-<w n="181,22">Юриевьскыи,</w>
-<w n="181,22">Феодосии</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="181,22">феѡдосии</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="181,22">михаилъ</w>
-<w n="181,22">гоургевьскии.</w>
-<w n="181,22">феѡдосеи</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="181,22">михаило</w>
-<w n="181,22">гѹргевьскыи.</w>
-<w n="181,22">феѡдосїи <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="181,22">михаилъ</w>
-<w n="181,22">юрье<lb/>вьскыи.</w>
-<w n="181,22">федосии</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="181,22">михаиль</w>
-<w n="181,22">юрьевьскыи.</w>
-<w n="181,22">ѳеѡ<hi rend="sup">д</hi>с<hi rend="sup">о</hi>їи<hi rend="sup">ж</hi><lb/></w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="181,22">михаилъ</w>
-<w n="181,22">юрьевьскыи</w>
-<w n="181,22">феодосии</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="181,22">михаилъ</w>
-<w n="181,22">юрьевъскыи</w>
-<w n="181,22">феодосии</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="181,22">михаилъ</w>
-<w n="181,22">юрьевъскыи</w>
-<w n="181,22">феодосии</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="181,22">Михаилъ</w>
-<w n="181,22">Гургевьский,</w>
-<w n="181,22">Ѳеодосий</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="181,22">Михаилъ</w>
-<w n="181,22">Гургевьскыи,</w>
-<w n="181,22">Феодосии</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="181,22">Михаилъ</w>
-<w n="181,22">Гургевьский,</w>
-<w n="181,22">Феодосий</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>181, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="181"/><div type="block" n="22"><p><app><lem wit="#lem">
+            Михаилъ Юриевьскыи, Феодосии
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">феѡдосии</rdg>
+            <rdg wit="#rad">михаилъ гоургевьскии. феѡдосеи</rdg>
+            <rdg wit="#aka">михаило гѹргевьскыи. феѡдосїи <lb/></rdg>
+            <rdg wit="#ipa">михаилъ юрье<lb/>вьскыи. федосии</rdg>
+            <rdg wit="#xle">михаиль юрьевьскыи. ѳеѡ<hi rend="sup">д</hi>с<hi rend="sup">о</hi>їи<hi rend="sup">ж</hi>
+                <lb/></rdg>
+            <rdg wit="#kom">михаилъ юрьевьскыи феодосии</rdg>
+            <rdg wit="#nak">михаилъ юрьевъскыи феодосии</rdg>
+            <rdg wit="#tol">михаилъ юрьевъскыи феодосии</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Михаилъ Гургевьский, Ѳеодосий</rdg><rdg wit="#shakh">Михаилъ Гургевьскыи, Феодосии</rdg><rdg wit="#likh">Михаилъ Гургевьский, Феодосий</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,87 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>141, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="141"/><div type="block" n="17"><p>
-<app>
-<lem wit="#lem">
-<w n="141,17">зълоба</w>
-<w n="141,17">грѣшьнаго”.</w>
-<w n="141,17">И</w>
-<w n="141,17">поиде</w>
-<w n="141,17">на</w>
-<w n="141,17">Святопълка.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="141,17">злоба <lb/></w>
-
-<w n="141,17">грѣшнаго.</w>
-<w n="141,17">и</w>
-<w n="141,17">поиде</w>
-<w n="141,17">на</w>
-<w n="141,17">ст҃ополъ<lb/>ка.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="141,17">злоба</w>
-<w n="141,17">грѣшны<hi rend="sup">х</hi>.</w>
-<w n="141,17">и</w>
-<w n="141,17">поиде</w>
-<w n="141,17">на</w>
-<w n="141,17">с҃тополка. <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="141,17">ѕлоба</w>
-<w n="141,17">грѣшны<hi rend="sup">х</hi>.</w>
-<w n="141,17">и</w>
-<w n="141,17">поиде</w>
-<w n="141,17">на</w>
-<w n="141,17">ст҃ополка. <pb n="74v"/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="141,17">злоба</w>
-<w n="141,17">грѣшнаго.</w>
-<w n="141,17">и</w>
-<w n="141,17">по<lb/>иде</w>
-<w n="141,17">на</w>
-<w n="141,17">ст҃ополка.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="141,17">ѕлѡба</w>
-<w n="141,17">грѣшнаго.</w>
-<w n="141,17">и</w>
-<w n="141,17">поиде</w>
-<w n="141,17">на</w>
-<w n="141,17">ст҃опо<hi rend="sup">л</hi>ка <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="141,17">злоба</w>
-<w n="141,17">грѣшнаго”.</w>
-<w n="141,17">И</w>
-<w n="141,17">поиде</w>
-<w n="141,17">на</w>
-<w n="141,17">Святополъка;</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="141,17">зълоба</w>
-<w n="141,17">грѣшьнаго”.</w>
-<w n="141,17">И</w>
-<w n="141,17">поиде</w>
-<w n="141,17">на</w>
-<w n="141,17">Святопълка.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="141,17">злоба</w>
-<w n="141,17">грѣшнаго”.</w>
-<w n="141,17">И</w>
-<w n="141,17">поиде</w>
-<w n="141,17">на</w>
-<w n="141,17">Святополъка.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>141, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="141"/><div type="block" n="17"><p><app><lem wit="#lem">
+            зълоба грѣшьнаго”. И поиде на Святопълка.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">злоба <lb/> грѣшнаго. и поиде на ст҃ополъ<lb/>ка.</rdg>
+            <rdg wit="#rad">злоба грѣшны<hi rend="sup">х</hi>. и поиде на с҃тополка. <lb/></rdg>
+            <rdg wit="#aka">ѕлоба грѣшны<hi rend="sup">х</hi>.  и поиде на ст҃ополка. <pb n="74v"/></rdg>
+            <rdg wit="#ipa">злоба грѣшнаго. и по<lb/>иде на ст҃ополка.</rdg>
+            <rdg wit="#xle">ѕлѡба грѣшнаго. и поиде на ст҃опо<hi rend="sup">л</hi>ка <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">злоба грѣшнаго”. И поиде на Святополъка;</rdg><rdg wit="#shakh">зълоба грѣшьнаго”. И поиде на Святопълка.</rdg><rdg wit="#likh">злоба грѣшнаго”. И поиде на Святополъка.</rdg></rdgGrp></app></p></div></body></text></TEI>

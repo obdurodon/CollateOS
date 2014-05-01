@@ -1,97 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>11, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="11"/><div type="block" n="17"><p>
-<app>
-<lem wit="#lem">
-<w n="11,17">Козаръ,</w>
-<w n="11,17">рекомии</w>
-<w n="11,17">Българе,</w>
-<w n="11,17">и</w>
-<w n="11,17">сѣдоша</w>
-<w n="11,17">по</w>
-<w n="11,17">Дунаеви,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="11,17">козаръ.</w>
-<w n="11,17">рекомии</w>
-<w n="11,17">болгаре <lb/></w>
-
-<w n="11,17">сѣдоша</w>
-<w n="11,17">по</w>
-<w n="11,17">дунаеви.</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="11,17">козаръ</w>
-<w n="11,17">рекомии</w>
-<w n="11,17">болгарѣ</w>
-<w n="11,17">сѣдоша</w>
-<w n="11,17">по</w>
-<w n="11,17">дунаеви <pb n="56"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-
-<w n="11,17">рекомии</w>
-<w n="11,17">болгари.</w>
-<w n="11,17">и</w>
-<w n="11,17">седоша</w>
-<w n="11,17">по</w>
-<w n="11,17">доун<milestone unit="sic" n="start"/>----<milestone unit="sic" n="end"/></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="11,17">казарь.</w>
-<w n="11,17">рекомии</w>
-<w n="11,17">болгари. <lb/></w>
-
-<w n="11,17">и</w>
-<w n="11,17">седоша</w>
-<w n="11,17">по</w>
-<w n="11,17">дѹнаеви.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="11,17">козаръ.</w>
-<w n="11,17">реко<lb/>мии</w>
-<w n="11,17">болгаре.</w>
-<w n="11,17">и</w>
-<w n="11,17">сѣдоша <lb/></w>
-
-<w n="11,17">по</w>
-<w n="11,17">дунаеви.</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="11,17">Козаръ,</w>
-<w n="11,17">рекомии</w>
-<w n="11,17">Болгаре,</w>
-<w n="11,17">и</w>
-<w n="11,17">сѣдоша</w>
-<w n="11,17">по</w>
-<w n="11,17">Дунаеви,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="11,17">Козаръ,</w>
-<w n="11,17">рекомии</w>
-<w n="11,17">Българе,</w>
-<w n="11,17">и</w>
-<w n="11,17">сѣдоша</w>
-<w n="11,17">по</w>
-<w n="11,17">Дунаеви,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="11,17">козаръ,</w>
-<w n="11,17">рекомии</w>
-<w n="11,17">болгаре</w>
-<w n="11,17">и</w>
-<w n="11,17">сѣдоша</w>
-<w n="11,17">по</w>
-<w n="11,17">Дунаеви,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>11, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="11"/><div type="block" n="17"><p><app><lem wit="#lem">
+            Козаръ, рекомии Българе, и сѣдоша по Дунаеви,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">козаръ. рекомии болгаре <lb/> сѣдоша по дунаеви.</rdg>
+            <rdg wit="#tro">козаръ рекомии болгарѣ сѣдоша по дунаеви <pb n="56"/></rdg>
+            <rdg wit="#rad"><sic>------</sic><lb/> рекомии болгари. и седоша по
+                    доун<sic>----</sic></rdg>
+            <rdg wit="#aka">казарь. рекомии болгари. <lb/> и седоша по дѹнаеви.</rdg>
+            <rdg wit="#ipa">козаръ. реко<lb/>мии болгаре. и сѣдоша <lb/> по дунаеви.</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Козаръ, рекомии Болгаре, и сѣдоша по Дунаеви,</rdg><rdg wit="#shakh">Козаръ, рекомии Българе, и сѣдоша по Дунаеви,</rdg><rdg wit="#likh">козаръ, рекомии болгаре и сѣдоша по Дунаеви,</rdg></rdgGrp></app></p></div></body></text></TEI>

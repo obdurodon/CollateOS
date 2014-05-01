@@ -1,87 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="18,18">Володимиръ</w>
-<w n="18,18">къняжи</w>
-<w n="18,18">лѣтъ 37;</w>
-
-<w n="18,18">а</w>
-<w n="18,18">Ярославъ</w>
-<w n="18,18">къняжи</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="18,18">володимеръ.</w>
-<w n="18,18">лѣ<hi rend="sup">т</hi></w>
-<w n="18,18">.л҃з.</w>
-<w n="18,18">а</w>
-<w n="18,18">ꙗ<lb/>рославъ</w>
-<w n="18,18">кнѧжи.</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-<w n="18,18">володимеръ</w>
-<w n="18,18">кнѧжи</w>
-<w n="18,18">лѣ<hi rend="sup">т</hi></w>
-<w n="18,18">.л҃з.</w>
-<w n="18,18">а</w>
-<w n="18,18">ꙗро<lb/>славь</w>
-<w n="18,18">кн҃жи</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="18,18">володимеръ</w>
-<w n="18,18">кнѧжи</w>
-<w n="18,18">лѣ<hi rend="sup">т</hi>. <lb/></w>
-
-<w n="18,18">.л҃з.</w>
-<w n="18,18">ꙗрославъ</w>
-<w n="18,18">кнѧжи</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="18,18">володимерь</w>
-<w n="18,18">кнѧжи</w>
-<w n="18,18">лѣ<hi rend="sup">т</hi></w>
-<w n="18,18">.л҃з.</w>
-<w n="18,18">а</w>
-<w n="18,18">яро<lb/>славь</w>
-<w n="18,18">кнѧжи</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="18,18">Володимеръ</w>
-<w n="18,18">княжи</w>
-<w n="18,18">лѣтъ 37;</w>
-
-<w n="18,18">а</w>
-<w n="18,18">Ярославъ</w>
-<w n="18,18">княжи</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="18,18">Володимеръ</w>
-<w n="18,18">къняжи</w>
-<w n="18,18">лѣтъ 37;</w>
-
-<w n="18,18">а</w>
-<w n="18,18">Ярославъ</w>
-<w n="18,18">къняжи</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="18,18">Володимеръ</w>
-<w n="18,18">княжи</w>
-<w n="18,18">лѣт 37;</w>
-
-<w n="18,18">а</w>
-<w n="18,18">Ярославъ</w>
-<w n="18,18">княжи</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>18, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="18"/><div type="block" n="18"><p><app><lem wit="#lem">
+            Володимиръ къняжи лѣтъ 37; а Ярославъ къняжи
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">володимеръ. лѣ<hi rend="sup">т</hi> .л҃з. а ꙗ<lb/>рославъ кнѧжи.</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">володимеръ кнѧжи лѣ<hi rend="sup">т</hi> .л҃з. а ꙗро<lb/>славь кн҃жи</rdg>
+            <rdg wit="#ipa">володимеръ кнѧжи лѣ<hi rend="sup">т</hi>. <lb/> .л҃з. ꙗрославъ кнѧжи</rdg>
+            <rdg wit="#xle">володимерь кнѧжи лѣ<hi rend="sup">т</hi> .л҃з. а ꙗро<lb/>славь кнѧжи</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Володимеръ княжи лѣтъ 37; а Ярославъ княжи</rdg><rdg wit="#shakh">Володимеръ къняжи лѣтъ 37; а Ярославъ къняжи</rdg><rdg wit="#likh">Володимеръ княжи лѣт 37; а Ярославъ княжи</rdg></rdgGrp></app></p></div></body></text></TEI>

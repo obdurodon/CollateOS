@@ -1,92 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>14, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="14"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="14,3">селы.</w>
-<w n="14,3">Съхожахуся</w>
-<w n="14,3">на</w>
-<w n="14,3">игрища,</w>
-<w n="14,3">на</w>
-<w n="14,3">плясания</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="14,3">селы.</w>
-<w n="14,3">схо<lb/>жахусѧ.</w>
-<w n="14,3">на</w>
-<w n="14,3">игрища</w>
-<w n="14,3">на</w>
-<w n="14,3">плѧсанье.</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="14,3">селы</w>
-<w n="14,3">схожахуся</w>
-<w n="14,3">на</w>
-<w n="14,3">игрища</w>
-<w n="14,3">на</w>
-<w n="14,3">плясание</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="14,3">селы:· <lb/></w>
-
-<w n="14,3">Въсхожахоу<hi rend="sup">с</hi></w>
-<w n="14,3">на</w>
-<w n="14,3">игрища</w>
-<w n="14,3">на</w>
-<w n="14,3">плѧсаниꙗ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="14,3">селы:·</w>
-<w n="14,3">Въсхожахѹсѧ <lb/></w>
-
-<w n="14,3">на</w>
-<w n="14,3">игрища</w>
-<w n="14,3">на</w>
-<w n="14,3">плесанїа.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="14,3">селы. <lb/></w>
-
-<w n="14,3">и</w>
-<w n="14,3">схожахусѧ</w>
-<w n="14,3">на</w>
-<w n="14,3">игрищ<hi rend="sup">а</hi>. <lb/></w>
-
-<w n="14,3">на</w>
-<w n="14,3">плѧсаньꙗ.</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="14,3">селы,</w>
-<w n="14,3">схожахуся</w>
-<w n="14,3">на</w>
-<w n="14,3">игрища,</w>
-<w n="14,3">на</w>
-<w n="14,3">плясанье</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="14,3">селы,</w>
-<w n="14,3">и</w>
-<w n="14,3">съхожахуся</w>
-<w n="14,3">на</w>
-<w n="14,3">игрища,</w>
-<w n="14,3">на</w>
-<w n="14,3">плясания</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="14,3">селы,</w>
-<w n="14,3">схожахуся</w>
-<w n="14,3">на</w>
-<w n="14,3">игрища,</w>
-<w n="14,3">на</w>
-<w n="14,3">плясанье</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>14, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="14"/><div type="block" n="3"><p><app><lem wit="#lem">
+            селы. Съхожаху ся на игрища, на плясания
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">селы. схо<lb/>жахусѧ. на игрища на плѧсанье.</rdg>
+            <rdg wit="#tro">селы схожахуся на игрища на плясание</rdg>
+            <rdg wit="#rad">селы:· <lb/> Въсхожахоу<hi rend="sup">с</hi> на игрища на плѧсаниꙗ.</rdg>
+            <rdg wit="#aka">селы:· Въсхожахѹсѧ <lb/> на игрища на плесанїа.</rdg>
+            <rdg wit="#ipa">селы. <lb/> и схожаху сѧ на игрищ<hi rend="sup">а</hi>. <lb/> на плѧсаньꙗ.</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">селы, схожахуся на игрища, на плясанье</rdg><rdg wit="#shakh">селы, и съхожахуся на игрища, на плясания</rdg><rdg wit="#likh">селы, схожахуся на игрища, на плясанье</rdg></rdgGrp></app></p></div></body></text></TEI>

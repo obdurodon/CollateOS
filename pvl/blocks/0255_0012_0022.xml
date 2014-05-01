@@ -1,100 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>12, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="12"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="12,22">по</w>
-<w n="12,22">Оцѣ,</w>
-<w n="12,22">отъ</w>
-<w n="12,22">него</w>
-<w n="12,22">прозъваша</w>
-<w n="12,22">ся</w>
-<w n="12,22">Вятичи.</w>
-<w n="12,22">И</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="12,22">по</w>
-<w n="12,22">ѡцѣ.</w>
-<w n="12,22">ѿ</w>
-<w n="12,22">него</w>
-<w n="12,22">же</w>
-<w n="12,22">прозвашасѧ</w>
-<w n="12,22">вѧтичи.</w>
-<w n="12,22">иже <lb/></w>
-
-</rdg>
-
-<rdg wit="#tro">
-<w n="12,22">по</w>
-<w n="12,22">оцѣ</w>
-<w n="12,22">от</w>
-<w n="12,22">него</w>
-<w n="12,22">же</w>
-<w n="12,22">прозвася</w>
-<w n="12,22">вятичи</w>
-<w n="12,22">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="12,22">по</w>
-<w n="12,22">ѡцѣ.</w>
-<w n="12,22">ѿ</w>
-<w n="12,22">него</w>
-<w n="12,22">прозва<lb/>ша<hi rend="sup">с</hi></w>
-<w n="12,22">вѧтичи.</w>
-<w n="12,22">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="12,22">по</w>
-<w n="12,22">ѡцѣ.</w>
-<w n="12,22">ѿ</w>
-<w n="12,22">него</w>
-<w n="12,22">прозва<lb/>ша<hi rend="sup">с</hi></w>
-<w n="12,22">вѧтичи.</w>
-<w n="12,22">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="12,22">по</w>
-<w n="12,22">ѡ<lb/>цѣ.</w>
-<w n="12,22">ѿ</w>
-<w n="12,22">него</w>
-<w n="12,22">прозвашасѧ</w>
-<w n="12,22">вѧ<lb/>ти<milestone unit="sic" n="start"/>чи<milestone unit="sic" n="end"/>.</w>
-<w n="12,22">и</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="12,22">по</w>
-<w n="12,22">Оцѣ,</w>
-<w n="12,22">отъ</w>
-<w n="12,22">негоже</w>
-<w n="12,22">прозвашася</w>
-<w n="12,22">Вятичи.</w>
-<w n="12,22">И</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="12,22">по</w>
-<w n="12,22">Оцѣ,</w>
-<w n="12,22">отъ</w>
-<w n="12,22">негоже</w>
-<w n="12,22">прозъвашася</w>
-<w n="12,22">Вятичи.</w>
-<w n="12,22">И</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="12,22">по</w>
-<w n="12,22">Оцѣ,</w>
-<w n="12,22">от</w>
-<w n="12,22">него</w>
-<w n="12,22">же</w>
-<w n="12,22">прозвашася</w>
-<w n="12,22">вятичи.</w>
-<w n="12,22">И</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>12, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="12"/><div type="block" n="22"><p><app><lem wit="#lem">
+            по Оцѣ, отъ него прозъваша ся Вятичи. И
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">по ѡцѣ. ѿ него же прозвашасѧ вѧтичи. иже <lb/></rdg>
+            <rdg wit="#tro">по оцѣ от него же прозвася вятичи и</rdg>
+            <rdg wit="#rad">по ѡцѣ. ѿ него прозва<lb/>ша<hi rend="sup">с</hi> вѧтичи. и</rdg>
+            <rdg wit="#aka">по ѡцѣ. ѿ него прозва<lb/>ша<hi rend="sup">с</hi> вѧтичи. и</rdg>
+            <rdg wit="#ipa">по ѡ<lb/>цѣ. ѿ него прозвашасѧ вѧ<lb/>ти<sic>чи</sic>. и</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">по Оцѣ, отъ негоже прозвашася Вятичи. И</rdg><rdg wit="#shakh">по Оцѣ, отъ негоже прозъвашася Вятичи. И</rdg><rdg wit="#likh">по Оцѣ, от него же прозвашася вятичи. И</rdg></rdgGrp></app></p></div></body></text></TEI>

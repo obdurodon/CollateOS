@@ -1,85 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>150, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="150"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="150,5">грады</w>
-<w n="150,5">Чьрвеньскыя</w>
-<w n="150,5">опять,</w>
-<w n="150,5">и</w>
-<w n="150,5">повоеваста</w>
-<w n="150,5">Лядьскую</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="150,5">грады</w>
-<w n="150,5">червеньскыꙗ</w>
-<w n="150,5">ѡпѧть.</w>
-<w n="150,5">и <lb/></w>
-
-<w n="150,5">повоеваста</w>
-<w n="150,5">лѧдьскую</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="150,5">гр<hi rend="sup">д</hi>а</w>
-<w n="150,5">червеньскиꙗ</w>
-<w n="150,5">ѡпѧ<hi rend="sup">т</hi>.</w>
-<w n="150,5">и</w>
-<w n="150,5">повоеваста</w>
-<w n="150,5">лѧ<hi rend="sup">д</hi>цкѹю</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="150,5">грады.</w>
-<w n="150,5">червеньскы<lb/>ѧ</w>
-<w n="150,5">ѡпѧтъ.</w>
-<w n="150,5">и</w>
-<w n="150,5">повоеваста</w>
-<w n="150,5">лѧцкѹю</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="150,5">градъ</w>
-<w n="150,5">червенъскы<lb/>ꙗ</w>
-<w n="150,5">ѡпѧть.</w>
-<w n="150,5">и</w>
-<w n="150,5">повоевоста</w>
-<w n="150,5">лѧ<lb/>дьскую</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="150,5">грады <lb/></w>
-
-<w n="150,5">червенскыа</w>
-<w n="150,5">опѧ<hi rend="sup">т</hi></w>
-<w n="150,5">и</w>
-<w n="150,5">повоеваста</w>
-<w n="150,5">лѧ<hi rend="sup">д</hi>скоую</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="150,5">грады</w>
-<w n="150,5">Червеньскыя</w>
-<w n="150,5">опять,</w>
-<w n="150,5">и</w>
-<w n="150,5">повоеваста</w>
-<w n="150,5">Лядьскую</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="150,5">грады</w>
-<w n="150,5">Чьрвеньскыя</w>
-<w n="150,5">опять,</w>
-<w n="150,5">и</w>
-<w n="150,5">повоеваста</w>
-<w n="150,5">Лядьскую</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="150,5">грады</w>
-<w n="150,5">червеньскыя</w>
-<w n="150,5">опять,</w>
-<w n="150,5">и</w>
-<w n="150,5">повоеваста</w>
-<w n="150,5">Лядьскую</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>150, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="150"/><div type="block" n="5"><p><app><lem wit="#lem">
+            грады Чьрвеньскыя опять, и повоеваста Лядьскую
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">грады червеньскыꙗ ѡпѧть. и <lb/> повоеваста лѧдьскую</rdg>
+            <rdg wit="#rad">гр<hi rend="sup">д</hi>а червеньскиꙗ ѡпѧ<hi rend="sup">т</hi>. и повоеваста лѧ<hi rend="sup">д</hi>цкѹю</rdg>
+            <rdg wit="#aka">грады. червеньскы<lb/>ѧ ѡпѧтъ. и повоеваста лѧцкѹю</rdg>
+            <rdg wit="#ipa">градъ червенъскы<lb/>ꙗ ѡпѧть. и повоевоста лѧ<lb/>дьскую</rdg>
+            <rdg wit="#xle">грады <lb/> червенскыа опѧ<hi rend="sup">т</hi> и повоеваста лѧ<hi rend="sup">д</hi>скоую</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">грады Червеньскыя опять, и повоеваста Лядьскую</rdg><rdg wit="#shakh">грады Чьрвеньскыя опять, и повоеваста Лядьскую</rdg><rdg wit="#likh">грады червеньскыя опять, и повоеваста Лядьскую</rdg></rdgGrp></app></p></div></body></text></TEI>

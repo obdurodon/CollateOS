@@ -1,81 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>149, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="149"/><div type="block" n="26"><p>
-<app>
-<lem wit="#lem">
-<w n="149,26">Вьсеволодъ.</w>
-<w n="149,26">Сего</w>
-<w n="149,26">лѣта</w>
-<w n="149,26">иде</w>
-<w n="149,26">Ярославъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="149,26">всеволодъ.</w>
-<w n="149,26">семьже</w>
-<w n="149,26">лѣ<hi rend="sup">т</hi></w>
-<w n="149,26">Иде</w>
-<w n="149,26">ꙗрославъ <pb n="51a"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="149,26">все<lb/>во<hi rend="sup">л</hi>дъ.</w>
-<w n="149,26">в</w>
-<w n="149,26">семже</w>
-<w n="149,26">лѣ<hi rend="sup">т</hi></w>
-<w n="149,26">иде</w>
-<w n="149,26">ꙗрославъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="149,26">всеволодъ.</w>
-<w n="149,26">в</w>
-<w n="149,26">семьже</w>
-<w n="149,26">лѣте</w>
-<w n="149,26">иде</w>
-<w n="149,26">ꙗрославъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="149,26">всеволодъ.</w>
-<w n="149,26">сего</w>
-<w n="149,26">лѣта.</w>
-<w n="149,26">иде</w>
-<w n="149,26">ꙗрославъ <pb n="56b"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="149,26">всеволѡ<hi rend="sup">д</hi>.</w>
-<w n="149,26">сего</w>
-<w n="149,26">лѣта</w>
-<w n="149,26">иде <lb/></w>
-
-<w n="149,26">ярославь</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="149,26">Всеволодъ.</w>
-<w n="149,26">Семь</w>
-<w n="149,26">же</w>
-<w n="149,26">лѣтѣ</w>
-<w n="149,26">иде</w>
-<w n="149,26">Ярославъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="149,26">Вьсеволодъ.</w>
-<w n="149,26">Семьже</w>
-<w n="149,26">лѣтѣ</w>
-<w n="149,26">иде</w>
-<w n="149,26">Ярославъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="149,26">Всеволодъ.</w>
-<w n="149,26">Семь</w>
-<w n="149,26">же</w>
-<w n="149,26">лѣтѣ</w>
-<w n="149,26">иде</w>
-<w n="149,26">Ярославъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>149, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="149"/><div type="block" n="26"><p><app><lem wit="#lem">
+            Вьсеволодъ. Сего лѣта иде Ярославъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">всеволодъ. семьже лѣ<hi rend="sup">т</hi>
+                 Иде ꙗрославъ <pb n="51a"/></rdg>
+            <rdg wit="#rad">все<lb/>во<hi rend="sup">л</hi>дъ. в семже лѣ<hi rend="sup">т</hi> иде ꙗрославъ</rdg>
+            <rdg wit="#aka">всеволодъ. в семьже лѣте иде ꙗрославъ</rdg>
+            <rdg wit="#ipa">всеволодъ. сего лѣта.  иде ꙗрославъ <pb n="56b"/></rdg>
+            <rdg wit="#xle">всеволѡ<hi rend="sup">д</hi>. сего лѣта иде <lb/> ꙗрославь</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Всеволодъ. Семь же лѣтѣ иде Ярославъ</rdg><rdg wit="#shakh">Вьсеволодъ. Семьже лѣтѣ иде Ярославъ</rdg><rdg wit="#likh">Всеволодъ. Семь же лѣтѣ иде Ярославъ</rdg></rdgGrp></app></p></div></body></text></TEI>

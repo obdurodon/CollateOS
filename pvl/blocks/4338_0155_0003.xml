@@ -1,47 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>155, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="155"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="155,3">победивъ</w>
-<w n="155,3">Ярослава.</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="155,3">победи<hi rend="sup">в</hi></w>
-<w n="155,3">ꙗрослава:- <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="155,3">победївъ</w>
-<w n="155,3">ꙗросла<lb/>ва:·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="155,3">победивъ</w>
-<w n="155,3">ꙗрослава·:· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="155,3">поб<hi rend="sup">д</hi>ѣ<hi rend="sup">и</hi>вь</w>
-<w n="155,3">ярослава.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="155,3">победивъ</w>
-<w n="155,3">Ярослава.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="155,3">победивъ</w>
-<w n="155,3">Ярослава.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="155,3">победив</w>
-<w n="155,3">Ярослава.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>155, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="155"/><div type="block" n="3"><p><app><lem wit="#lem">
+            победивъ Ярослава.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">победи<hi rend="sup">в</hi> ꙗрослава:- <lb/></rdg>
+            <rdg wit="#aka">победївъ ꙗросла<lb/>ва:·</rdg>
+            <rdg wit="#ipa">победивъ ꙗрослава·:· <lb/></rdg>
+            <rdg wit="#xle">поб<hi rend="sup">д</hi>ѣ<hi rend="sup">и</hi>вь ꙗрослава.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">победивъ Ярослава.</rdg><rdg wit="#shakh">победивъ Ярослава.</rdg><rdg wit="#likh">победив Ярослава.</rdg></rdgGrp></app></p></div></body></text></TEI>

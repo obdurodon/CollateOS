@@ -1,86 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>263, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="263"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="263,20">даша</w>
-<w n="263,20">ему</w>
-<w n="263,20">Кыяне</w>
-<w n="263,20">побѣгнути,</w>
-<w n="263,20">нъ</w>
-<w n="263,20">посълаша</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="263,20">даша</w>
-<w n="263,20">ѥму</w>
-<w n="263,20">кыꙗне·</w>
-<w n="263,20">но <lb/></w>
-
-<w n="263,20">послаша</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="263,20">даша <lb/></w>
-
-<w n="263,20">емѹ</w>
-<w n="263,20">киꙗне</w>
-<w n="263,20">побѣгноути.</w>
-<w n="263,20">но</w>
-<w n="263,20">послаша</w>
-<w n="263,20">ꙗ·</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="263,20">даша</w>
-<w n="263,20">емѹ</w>
-<w n="263,20">киꙗне</w>
-<w n="263,20">побѣгнѹти·</w>
-<w n="263,20">ино</w>
-<w n="263,20">послѹшаѧ <pb n="131r"/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="263,20">даша</w>
-<w n="263,20">ему</w>
-<w n="263,20">киꙗ·не</w>
-<w n="263,20">побѣгнути·</w>
-<w n="263,20">но</w>
-<w n="263,20">послаша <pb n="90c"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="263,20">даша</w>
-<w n="263,20">емоу</w>
-<w n="263,20">киѧне</w>
-<w n="263,20">побѣгноути.</w>
-<w n="263,20">но</w>
-<w n="263,20">послаша</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="263,20">даша</w>
-<w n="263,20">ему</w>
-<w n="263,20">Кыяне</w>
-<w n="263,20">побѣгнути,</w>
-<w n="263,20">но</w>
-<w n="263,20">послаша</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="263,20">даша</w>
-<w n="263,20">ему</w>
-<w n="263,20">Кыяне</w>
-<w n="263,20">нъ</w>
-<w n="263,20">посълаша</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="263,20">даша</w>
-<w n="263,20">ему</w>
-<w n="263,20">кыяне</w>
-<w n="263,20">побѣгнути,</w>
-<w n="263,20">но</w>
-<w n="263,20">послаша</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>263, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="263"/><div type="block" n="20"><p><app><lem wit="#lem">
+            даша ему Кыяне побѣгнути, нъ посълаша
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">даша ѥму кыꙗне· но <lb/> послаша</rdg>
+            <rdg wit="#rad">даша <lb/> емѹ киꙗне побѣгноути. но послаша ꙗ·</rdg>
+            <rdg wit="#aka">даша емѹ киꙗне побѣгнѹти·  ино послѹшаѧ <pb n="131r"/></rdg>
+            <rdg wit="#ipa">даша ему киꙗ·не побѣгнути· но послаша <pb n="90c"/></rdg>
+            <rdg wit="#xle">даша емоу киѧне побѣгноути. но послаша</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">даша ему Кыяне побѣгнути, но послаша</rdg><rdg wit="#shakh">даша ему Кыяне нъ посълаша</rdg><rdg wit="#likh">даша ему кыяне побѣгнути, но послаша</rdg></rdgGrp></app></p></div></body></text></TEI>

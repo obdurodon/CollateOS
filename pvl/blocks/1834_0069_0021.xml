@@ -1,93 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>69, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="69"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="69,21">Володимиръ</w>
-<w n="69,21">съ</w>
-<w n="69,21">Добрынею,</w>
-<w n="69,21">уемь</w>
-<w n="69,21">своимь,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="69,21">володим<hi rend="sup">и</hi><lb/>ръ</w>
-<w n="69,21">съ</w>
-<w n="69,21">брыною</w>
-<w n="69,21">воемь</w>
-<w n="69,21">своимь</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="69,21">володи<lb/>меръ</w>
-<w n="69,21">со</w>
-<w n="69,21">добрынею</w>
-<w n="69,21">оуемъ</w>
-<w n="69,21">своимъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="69,21">володїми<lb/>ръ</w>
-<w n="69,21">со</w>
-<w n="69,21">добрынею</w>
-<w n="69,21">уемь</w>
-<w n="69,21">своимъ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="69,21">володи<lb/>миръ</w>
-<w n="69,21">съ</w>
-<w n="69,21">добрынею</w>
-<w n="69,21">оуем<hi rend="sup">ъ</hi><lb/></w>
-<w n="69,21">свои<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="69,21">володимеръ</w>
-<w n="69,21">с</w>
-<w n="69,21">добрынею</w>
-<w n="69,21">уемъ</w>
-<w n="69,21">своим</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="69,21">володимеръ</w>
-<w n="69,21">с</w>
-<w n="69,21">добрынею</w>
-<w n="69,21">уемь</w>
-<w n="69,21">своим</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="69,21">володимеръ</w>
-<w n="69,21">с</w>
-<w n="69,21">добрынею</w>
-<w n="69,21">уемъ</w>
-<w n="69,21">своим</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="69,21">Володимиръ</w>
-<w n="69,21">съ</w>
-<w n="69,21">Добрынею</w>
-<w n="69,21">уемъ</w>
-<w n="69,21">своимь</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="69,21">Володимеръ</w>
-<w n="69,21">съ</w>
-<w n="69,21">Добрынею,</w>
-<w n="69,21">уемь</w>
-<w n="69,21">своимь,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="69,21">Володимиръ</w>
-<w n="69,21">съ</w>
-<w n="69,21">Добрынею,</w>
-<w n="69,21">уемъ</w>
-<w n="69,21">своимь</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>69, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="69"/><div type="block" n="21"><p><app><lem wit="#lem">
+            Володимиръ съ Добрынею, уемь своимь,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">володим<hi rend="sup">и</hi><lb/>ръ съ брыною воемь своимь</rdg>
+            <rdg wit="#rad">володи<lb/>меръ со добрынею оуемъ своимъ</rdg>
+            <rdg wit="#aka">володїми<lb/>ръ со добрынею уемь своимъ.</rdg>
+            <rdg wit="#ipa">володи<lb/>миръ съ добрынею оуем<hi rend="sup">ъ</hi>
+                <lb/> свои<hi rend="sup">м</hi></rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">володимеръ с добрынею уемъ своим</rdg>
+            <rdg wit="#nak">володимеръ с добрынею уемь своим</rdg>
+            <rdg wit="#tol">володимеръ с добрынею уемъ своим</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Володимиръ съ Добрынею уемъ своимь</rdg><rdg wit="#shakh">Володимеръ съ Добрынею, уемь своимь,</rdg><rdg wit="#likh">Володимиръ съ Добрынею, уемъ своимь</rdg></rdgGrp></app></p></div></body></text></TEI>

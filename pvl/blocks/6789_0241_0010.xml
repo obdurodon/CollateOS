@@ -1,52 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>241, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="241"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="241,10">такоже</w>
-<w n="241,10">и</w>
-<w n="241,10">тружатисѧ·</w>
-<w n="241,10">первое</w>
-<w n="241,10">б҃а</w>
-<w n="241,10">дѣлѧ·</w>
-<w n="241,10">и</w>
-<w n="241,10">дш҃а <pb n="78b"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="241,10">такоже</w>
-<w n="241,10">и</w>
-<w n="241,10">тружатися:</w>
-<w n="241,10">первое,</w>
-<w n="241,10">Бога</w>
-<w n="241,10">дѣля</w>
-<w n="241,10">и</w>
-<w n="241,10">душа</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="241,10">тако</w>
-<w n="241,10">же</w>
-<w n="241,10">и</w>
-<w n="241,10">тружатися.</w>
-<w n="241,10">Первое,</w>
-<w n="241,10">бога</w>
-<w n="241,10">дѣля</w>
-<w n="241,10">и</w>
-<w n="241,10">душа</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>241, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="241"/><div type="block" n="10"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">такоже и тружатисѧ· первое б҃а дѣлѧ· и дш҃а <pb n="78b"/></rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">такоже и тружатися: первое, Бога дѣля и душа</rdg><rdg wit="#likh">тако же и тружатися. Первое, бога дѣля и душа</rdg></rdgGrp></app></p></div></body></text></TEI>

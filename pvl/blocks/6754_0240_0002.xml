@@ -1,74 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>240, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="240"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-<w n="240,2">и</w>
-<w n="240,2">съступиша</w>
-<w n="240,2">ся</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="240,2">и</w>
-<w n="240,2">сступишасѧ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="240,2">сседоша</w>
-<w n="240,2">с</w>
-<w n="240,2">конеи <lb/></w>
-
-<w n="240,2">новгоро<hi rend="sup">д</hi>ци.</w>
-<w n="240,2">и</w>
-<w n="240,2">стѹпиша<hi rend="sup">с</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="240,2">и</w>
-<w n="240,2">сседоша</w>
-<w n="240,2">с</w>
-<w n="240,2">конеи</w>
-<w n="240,2">новогородци· <lb/></w>
-
-<w n="240,2">и</w>
-<w n="240,2">стѹпишасѧ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="240,2">и</w>
-<w n="240,2">ступишасѧ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="240,2">и</w>
-<w n="240,2">състоупиша<hi rend="sup">с</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="240,2">и</w>
-<w n="240,2">сседоша</w>
-<w n="240,2">с</w>
-<w n="240,2">коней</w>
-<w n="240,2">Новгородци,</w>
-<w n="240,2">и</w>
-<w n="240,2">сступишася</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="240,2">и</w>
-<w n="240,2">съсѣдоша</w>
-<w n="240,2">съ</w>
-<w n="240,2">конь</w>
-<w n="240,2">Новъгородьци,</w>
-<w n="240,2">и</w>
-<w n="240,2">съступишася</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="240,2">и</w>
-<w n="240,2">сседоша</w>
-<w n="240,2">с</w>
-<w n="240,2">коней</w>
-<w n="240,2">новгородци,</w>
-<w n="240,2">и</w>
-<w n="240,2">сступишася</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>240, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="240"/><div type="block" n="2"><p><app><lem wit="#lem">
+            и съступиша ся
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и сступишасѧ</rdg>
+            <rdg wit="#rad">сседоша с конеи <lb/> новгоро<hi rend="sup">д</hi>ци. и стѹпиша<hi rend="sup">с</hi></rdg>
+            <rdg wit="#aka">и сседоша с конеи новогородци· <lb/> и стѹпишасѧ</rdg>
+            <rdg wit="#ipa">и ступишасѧ</rdg>
+            <rdg wit="#xle">и състоупиша<hi rend="sup">с</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и сседоша с коней Новгородци, и сступишася</rdg><rdg wit="#shakh">и съсѣдоша съ конь Новъгородьци, и съступишася</rdg><rdg wit="#likh">и сседоша с коней новгородци, и сступишася</rdg></rdgGrp></app></p></div></body></text></TEI>

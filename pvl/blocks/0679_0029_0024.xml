@@ -1,87 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>29, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="29"/><div type="block" n="24"><p>
-<app>
-<lem wit="#lem">
-<w n="29,24">Дулѣбы</w>
-<w n="29,24">и</w>
-<w n="29,24">Тиверьцѣ,</w>
-<w n="29,24">яже</w>
-<w n="29,24">суть</w>
-<w n="29,24">тълковины:</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="29,24">дулѣбы</w>
-<w n="29,24">и</w>
-<w n="29,24">тиверьць</w>
-<w n="29,24">яже</w>
-<w n="29,24">суть</w>
-<w n="29,24">толковины</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="29,24">доулѣбы.</w>
-<w n="29,24">и</w>
-<w n="29,24">тиверци.</w>
-<w n="29,24">ꙗже</w>
-<w n="29,24">соу<hi rend="sup">т</hi></w>
-<w n="29,24">толко<lb/>вины.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="29,24">дѹлѣбы.</w>
-<w n="29,24">и</w>
-<w n="29,24">тиве<lb/>рци.</w>
-<w n="29,24">ꙗже</w>
-<w n="29,24">сѹть</w>
-<w n="29,24">толковїны.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="29,24">дулѣбы. <lb/></w>
-
-<w n="29,24">и</w>
-<w n="29,24">тиверци.</w>
-<w n="29,24">ꙗже</w>
-<w n="29,24">суть</w>
-<w n="29,24">то<lb/>лковины.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="29,24">доулѣбы.</w>
-<w n="29,24">и</w>
-<w n="29,24">тиверци.</w>
-<w n="29,24">иже</w>
-<w n="29,24">сѫ<hi rend="sup">т</hi></w>
-<w n="29,24">толкови<lb/>ны.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="29,24">Дулѣбы,</w>
-<w n="29,24">и</w>
-<w n="29,24">Тиверци,</w>
-<w n="29,24">яже</w>
-<w n="29,24">суть</w>
-<w n="29,24">толковины:</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="29,24">Дулѣбы</w>
-<w n="29,24">и</w>
-<w n="29,24">Тиверьцѣ,</w>
-<w n="29,24">иже</w>
-<w n="29,24">суть</w>
-<w n="29,24">тълковины:</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="29,24">дулѣбы,</w>
-<w n="29,24">и</w>
-<w n="29,24">тиверци,</w>
-<w n="29,24">яже</w>
-<w n="29,24">суть</w>
-<w n="29,24">толковины:</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>29, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="29"/><div type="block" n="24"><p><app><lem wit="#lem">
+            Дулѣбы и Тиверьцѣ, яже суть тълковины:
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">дулѣбы и тиверьць яже суть толковины</rdg>
+            <rdg wit="#rad">доулѣбы. и тиверци. ꙗже соу<hi rend="sup">т</hi> толко<lb/>вины.</rdg>
+            <rdg wit="#aka">дѹлѣбы. и тиве<lb/>рци. ꙗже сѹть толковїны.</rdg>
+            <rdg wit="#ipa">дулѣбы. <lb/> и тиверци. ꙗже суть то<lb/>лковины.</rdg>
+            <rdg wit="#xle">доулѣбы. и тиверци. иже сѫ<hi rend="sup">т</hi> толкови<lb/>ны.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Дулѣбы, и Тиверци, яже суть толковины:</rdg><rdg wit="#shakh">Дулѣбы и Тиверьцѣ, иже суть тълковины:</rdg><rdg wit="#likh">дулѣбы, и тиверци, яже суть толковины:</rdg></rdgGrp></app></p></div></body></text></TEI>

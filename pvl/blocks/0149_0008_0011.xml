@@ -1,108 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>8, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="8"/><div type="block" n="11"><p>
-<app>
-<lem wit="#lem">
-<w n="8,11">крьстъ.</w>
-<w n="8,11">И</w>
-<w n="8,11">помоливъ</w>
-<w n="8,11">ся</w>
-<w n="8,11">Богу,</w>
-<w n="8,11">и</w>
-<w n="8,11">сълѣзе</w>
-<w n="8,11">съ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="8,11">кр<hi rend="sup">с</hi>тъ</w>
-<w n="8,11">и</w>
-<w n="8,11">помоли<lb/>въсѧ</w>
-<w n="8,11">б҃у.</w>
-<w n="8,11">и</w>
-<w n="8,11">сълѣзъ</w>
-<w n="8,11">съ</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="8,11">крестъ</w>
-<w n="8,11">и</w>
-<w n="8,11">помолися</w>
-<w n="8,11">богу</w>
-<w n="8,11">и</w>
-<w n="8,11">сниде</w>
-<w n="8,11">съ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="8,11">кр<hi rend="sup">с</hi>тъ</w>
-<w n="8,11">и</w>
-<w n="8,11">помоли<hi rend="sup">с</hi></w>
-<w n="8,11">бг҃оу</w>
-<w n="8,11">и</w>
-<w n="8,11">слѣзе</w>
-<w n="8,11">с <pb n="4r"/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="8,11">кр<hi rend="sup">с</hi>тъ:·</w>
-<w n="8,11">И</w>
-<w n="8,11">помолисѧ <lb/></w>
-
-<w n="8,11">къ</w>
-<w n="8,11">бг҃ѹ.</w>
-<w n="8,11">и</w>
-<w n="8,11">слѣзе</w>
-<w n="8,11">з</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="8,11">кр<hi rend="sup">с</hi>тъ.</w>
-<w n="8,11">и</w>
-<w n="8,11">помоливсѧ</w>
-<w n="8,11">б҃у. <lb/></w>
-
-<w n="8,11">и</w>
-<w n="8,11">слѣзе</w>
-<w n="8,11">съ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="8,11">кр<hi rend="sup">с</hi>тъ. <lb/></w>
-
-<w n="8,11">и</w>
-<w n="8,11">помоливсѧ</w>
-<w n="8,11">б҃оу</w>
-<w n="8,11">и</w>
-<w n="8,11">злѣзе</w>
-<w n="8,11">з</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="8,11">крестъ,</w>
-<w n="8,11">и</w>
-<w n="8,11">помоливъся</w>
-<w n="8,11">Богу,</w>
-<w n="8,11">и</w>
-<w n="8,11">сълѣзъ</w>
-<w n="8,11">съ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="8,11">крьстъ,</w>
-<w n="8,11">и</w>
-<w n="8,11">помоливъся</w>
-<w n="8,11">Богу,</w>
-<w n="8,11">и</w>
-<w n="8,11">сълѣзъ</w>
-<w n="8,11">съ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="8,11">крестъ,</w>
-<w n="8,11">и</w>
-<w n="8,11">помоливъся</w>
-<w n="8,11">богу,</w>
-<w n="8,11">и</w>
-<w n="8,11">сълѣзъ</w>
-<w n="8,11">съ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>8, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="8"/><div type="block" n="11"><p><app><lem wit="#lem">
+            крьстъ. И помоливъ ся Богу, и сълѣзе съ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">кр<hi rend="sup">с</hi>тъ и помоли<lb/>въсѧ б҃у. и сълѣзъ съ</rdg>
+            <rdg wit="#tro">крестъ и помолися богу и сниде съ</rdg>
+            <rdg wit="#rad">кр<hi rend="sup">с</hi>тъ  и помоли<hi rend="sup">с</hi> бг҃оу и слѣзе с
+                <pb n="4r"/></rdg>
+            <rdg wit="#aka">кр<hi rend="sup">с</hi>тъ:· И помолисѧ <lb/> къ бг҃ѹ. и слѣзе з</rdg>
+            <rdg wit="#ipa">кр<hi rend="sup">с</hi>тъ. и помоливсѧ б҃у. <lb/> и слѣзе съ</rdg>
+            <rdg wit="#xle">кр<hi rend="sup">с</hi>тъ. <lb/> и помоливсѧ б҃оу и злѣзе з</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">крестъ, и помоливъся Богу, и сълѣзъ съ</rdg><rdg wit="#shakh">крьстъ, и помоливъся Богу, и сълѣзъ съ</rdg><rdg wit="#likh">крестъ, и помоливъся богу, и сълѣзъ съ</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,96 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>280, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="280"/><div type="block" n="11"><p>
-<app>
-<lem wit="#lem">
-<w n="280,11">въ</w>
-<w n="280,11">Русь,</w>
-<w n="280,11">мѣсяца</w>
-<w n="280,11">декабря</w>
-<w n="280,11">въ 6</w>
-
-<w n="280,11">дьнь.</w>
-<w n="280,11"><choice><seg>Тогоже</seg><seg>Въ томъ
-                        же</seg></choice></w>
-</lem>
-
-<rdg wit="#lav">
-<w n="280,11">в</w>
-<w n="280,11">русь·</w>
-<w n="280,11">мц<hi rend="sup">с</hi>а·</w>
-<w n="280,11">дека<hi rend="sup">б</hi>·</w>
-<w n="280,11">въ· <lb/></w>
-
-<w n="280,11">·ѕ҃·</w>
-<w n="280,11">дн҃ь·</w>
-<w n="280,11">того<hi rend="sup">ж</hi>·</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="280,11">в</w>
-<w n="280,11">русь· <lb/></w>
-
-<w n="280,11">мц<hi rend="sup">с</hi>а·</w>
-<w n="280,11">декабрѧ·</w>
-<w n="280,11">въ</w>
-<w n="280,11">·ѕ҃·</w>
-<w n="280,11">дн҃ь·:· <lb/></w>
-
-<w n="280,11">В</w>
-<w n="280,11">томъ</w>
-<w n="280,11">же</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="280,11">въ</w>
-<w n="280,11">роу<hi rend="sup">с</hi>,</w>
-<w n="280,11">мц<hi rend="sup">с</hi>а, <lb/></w>
-
-<w n="280,11">декабрѧ,</w>
-<w n="280,11">въ</w>
-<w n="280,11">ѕ҃.</w>
-<w n="280,11">дн҃ь.</w>
-<w n="280,11">в</w>
-<w n="280,11">тѡ<hi rend="sup">м</hi></w>
-<w n="280,11">же</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="280,11">в</w>
-<w n="280,11">Русь,</w>
-<w n="280,11">мѣсяца</w>
-<w n="280,11">декабря</w>
-<w n="280,11">въ 6</w>
-
-<w n="280,11">день.</w>
-<w n="280,11">Того</w>
-<w n="280,11">же</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="280,11">въ</w>
-<w n="280,11">Русь,</w>
-<w n="280,11">мѣсяца</w>
-<w n="280,11">декабря</w>
-<w n="280,11">въ 6</w>
-
-<w n="280,11">дьнь.</w>
-<w n="280,11">Тогоже</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="280,11">в</w>
-<w n="280,11">Русь,</w>
-<w n="280,11">мѣсяца</w>
-<w n="280,11">декабря</w>
-<w n="280,11">въ 6</w>
-
-<w n="280,11">день.</w>
-<w n="280,11">Того</w>
-<w n="280,11">же</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>280, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="280"/><div type="block" n="11"><p><app><lem wit="#lem">
+            въ Русь, мѣсяца декабря въ 6 дьнь. <choice>
+                    <seg>Тогоже</seg>
+                    <seg>Въ томъ же</seg>
+                </choice>
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">в русь· мц<hi rend="sup">с</hi>а· дека<hi rend="sup">б</hi>· въ· <lb/> ·ѕ҃· дн҃ь·
+                того<hi rend="sup">ж</hi>·</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">в русь· <lb/> мц<hi rend="sup">с</hi>а· декабрѧ· въ ·ѕ҃· дн҃ь·:· <lb/> В томъ же</rdg>
+            <rdg wit="#xle">въ роу<hi rend="sup">с</hi>, мц<hi rend="sup">с</hi>а, <lb/> декабрѧ, въ ѕ҃. дн҃ь. в тѡ<hi rend="sup">м</hi>
+                же</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">в Русь, мѣсяца декабря въ 6 день. Того же</rdg><rdg wit="#shakh">въ Русь, мѣсяца декабря въ 6 дьнь. Тогоже</rdg><rdg wit="#likh">в Русь, мѣсяца декабря въ 6 день. Того же</rdg></rdgGrp></app></p></div></body></text></TEI>

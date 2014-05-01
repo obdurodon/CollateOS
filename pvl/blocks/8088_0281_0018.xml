@@ -1,66 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>281, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="281"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="281,18">Тогоже</w>
-<w n="281,18">лѣто</w>
-<w n="281,18">прибѣже</w>
-<w n="281,18">Избыгнѣвъ</w>
-<w n="281,18">къ</w>
-<w n="281,18">Святопълку.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="281,18">в</w>
-<w n="281,18">тоже</w>
-<w n="281,18">лѣ<hi rend="sup">т</hi>·</w>
-<w n="281,18">при<lb/>бѣже</w>
-<w n="281,18">избыгнѣвъ</w>
-<w n="281,18">к</w>
-<w n="281,18">ст҃ополку· <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="281,18">В</w>
-<w n="281,18">то</w>
-<w n="281,18">же</w>
-<w n="281,18">лѣто</w>
-<w n="281,18">прибѣже</w>
-<w n="281,18">Избыгнѣвъ</w>
-<w n="281,18">к</w>
-<w n="281,18">Святополку.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="281,18">Въ</w>
-<w n="281,18">тоже</w>
-<w n="281,18">лѣто</w>
-<w n="281,18">прибѣже</w>
-<w n="281,18">Избыгнѣвъ</w>
-<w n="281,18">къ</w>
-<w n="281,18">Святопълку.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="281,18">В</w>
-<w n="281,18">то</w>
-<w n="281,18">же</w>
-<w n="281,18">лѣто</w>
-<w n="281,18">прибѣже</w>
-<w n="281,18">Избыгнѣвъ</w>
-<w n="281,18">к</w>
-<w n="281,18">Святополку.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>281, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="281"/><div type="block" n="18"><p><app><lem wit="#lem">
+            Тогоже лѣто прибѣже Избыгнѣвъ къ Святопълку.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">в тоже лѣ<hi rend="sup">т</hi>· при<lb/>бѣже избыгнѣвъ к ст҃ополку· <lb/></rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">В то же лѣто прибѣже Избыгнѣвъ к Святополку.</rdg><rdg wit="#shakh">Въ тоже лѣто прибѣже Избыгнѣвъ къ Святопълку.</rdg><rdg wit="#likh">В то же лѣто прибѣже Избыгнѣвъ к Святополку.</rdg></rdgGrp></app></p></div></body></text></TEI>

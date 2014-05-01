@@ -1,86 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>31, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="31"/><div type="block" n="27"><p>
-<app>
-<lem wit="#lem">
-<w n="31,27">въходять</w>
-<w n="31,27">въ</w>
-<w n="31,27">градъ</w>
-<w n="31,27">единѣми</w>
-<w n="31,27">враты</w>
-<w n="31,27">съ</w>
-<w n="31,27">цьсаревъмь</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="31,27">входѧ<hi rend="sup">т</hi></w>
-<w n="31,27">в</w>
-<w n="31,27">гра<hi rend="sup">д</hi></w>
-<w n="31,27">ѡдними</w>
-<w n="31,27">вороты.</w>
-<w n="31,27">со</w>
-<w n="31,27">цр҃вымъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="31,27">вхо<lb/>дѧтъ</w>
-<w n="31,27">в</w>
-<w n="31,27">гра<hi rend="sup">д</hi></w>
-<w n="31,27">ѡдиними</w>
-<w n="31,27">вороты.</w>
-<w n="31,27">со</w>
-<w n="31,27">цр҃вы<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="31,27">входѧть</w>
-<w n="31,27">в</w>
-<w n="31,27">городъ</w>
-<w n="31,27">ѡді<lb/>ными</w>
-<w n="31,27">вороты.</w>
-<w n="31,27">съ</w>
-<w n="31,27">цр<hi rend="sup">с</hi>евы<lb/>мъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="31,27">входѧ<hi rend="sup">т</hi></w>
-<w n="31,27">въ <lb/></w>
-
-<w n="31,27">горѡ<hi rend="sup">д</hi></w>
-<w n="31,27">единѣми</w>
-<w n="31,27">вороты.</w>
-<w n="31,27">съ</w>
-<w n="31,27">ц҃ревы<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="31,27">входять</w>
-<w n="31,27">въ</w>
-<w n="31,27">градъ</w>
-<w n="31,27">одними</w>
-<w n="31,27">вороты</w>
-<w n="31,27">со</w>
-<w n="31,27">царевымъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="31,27">въходять</w>
-<w n="31,27">въ</w>
-<w n="31,27">градъ</w>
-<w n="31,27">единѣми</w>
-<w n="31,27">враты</w>
-<w n="31,27">съ</w>
-<w n="31,27">цѣсаревъмь</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="31,27">входят</w>
-<w n="31,27">в</w>
-<w n="31,27">град</w>
-<w n="31,27">одними</w>
-<w n="31,27">вороты</w>
-<w n="31,27">со</w>
-<w n="31,27">царевымъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>31, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="31"/><div type="block" n="27"><p><app><lem wit="#lem">
+            въходять въ градъ единѣми враты съ цьсаревъмь
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">входѧ<hi rend="sup">т</hi> в гра<hi rend="sup">д</hi> ѡдними вороты. со цр҃вымъ</rdg>
+            <rdg wit="#aka">вхо<lb/>дѧтъ в гра<hi rend="sup">д</hi> ѡдиними вороты. со цр҃вы<hi rend="sup">м</hi></rdg>
+            <rdg wit="#ipa">входѧть в городъ ѡді<lb/>ными вороты. съ цр<hi rend="sup">с</hi>евы<lb/>мъ</rdg>
+            <rdg wit="#xle">входѧ<hi rend="sup">т</hi> въ <lb/> горѡ<hi rend="sup">д</hi> единѣми вороты. съ
+                ц҃ревы<hi rend="sup">м</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">входять въ градъ одними вороты со царевымъ</rdg><rdg wit="#shakh">въходять въ градъ единѣми враты съ цѣсаревъмь</rdg><rdg wit="#likh">входят в град одними вороты со царевымъ</rdg></rdgGrp></app></p></div></body></text></TEI>

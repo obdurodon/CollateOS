@@ -1,106 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>134, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="134"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="134,5">отрокъ</w>
-<w n="134,5">сь</w>
-<w n="134,5">родомъ</w>
-<w n="134,5">Угъринъ,</w>
-<w n="134,5">именьмь</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="134,5">ѡтрокъ</w>
-<w n="134,5">сь</w>
-<w n="134,5">родомь <lb/></w>
-
-<w n="134,5">сн҃ъ</w>
-<w n="134,5">оугърескъ.</w>
-<w n="134,5">именемь</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="134,5">ѿрокъ</w>
-<w n="134,5">сеи</w>
-<w n="134,5">ро<hi rend="sup">д</hi>мъ <lb/></w>
-
-<w n="134,5">оугринъ.</w>
-<w n="134,5">а</w>
-<w n="134,5">именемъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="134,5">ѡтрокь</w>
-<w n="134,5">сеи</w>
-<w n="134,5">родомъ</w>
-<w n="134,5">оугрїнь.</w>
-<w n="134,5">и</w>
-<w n="134,5">именемъ <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="134,5">ѡтрокъ.</w>
-<w n="134,5">сь</w>
-<w n="134,5">родомъ</w>
-<w n="134,5">оугри<milestone unit="sic" n="start"/>чи<milestone unit="sic" n="end"/><lb/>нъ.</w>
-<w n="134,5">именемь</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="134,5">ѡтрокь</w>
-<w n="134,5">сїи</w>
-<w n="134,5">рѡдо<hi rend="sup">м</hi></w>
-<w n="134,5">оугринь.</w>
-<w n="134,5">имене<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="134,5">отрокъ</w>
-<w n="134,5">сь</w>
-<w n="134,5">сынъ</w>
-<w n="134,5">угорескъ</w>
-<w n="134,5">именемъ</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="134,5">отрокъ</w>
-<w n="134,5">сеи</w>
-<w n="134,5">сынъ</w>
-<w n="134,5">угорескъ</w>
-<w n="134,5">именемь</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="134,5">отрокъ</w>
-<w n="134,5">сеи</w>
-<w n="134,5">сынъ</w>
-<w n="134,5">угорескъ</w>
-<w n="134,5">именемъ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="134,5">отрокъ</w>
-<w n="134,5">сь</w>
-<w n="134,5">родомь</w>
-<w n="134,5">сынъ</w>
-<w n="134,5">Угърескъ,</w>
-<w n="134,5">именемь</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="134,5">отрокъ</w>
-<w n="134,5">сь</w>
-<w n="134,5">сынъ</w>
-<w n="134,5">Угърьскъ,</w>
-<w n="134,5">именьмь</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="134,5">отрокъ</w>
-<w n="134,5">сь</w>
-<w n="134,5">родомь</w>
-<w n="134,5">сынъ</w>
-<w n="134,5">угърескъ,</w>
-<w n="134,5">именемь</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>134, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="134"/><div type="block" n="5"><p><app><lem wit="#lem">
+            отрокъ сь родомъ Угъринъ, именьмь
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѡтрокъ сь родомь <lb/> сн҃ъ оугърескъ. именемь</rdg>
+            <rdg wit="#rad">ѿрокъ сеи ро<hi rend="sup">д</hi>мъ <lb/> оугринъ. а именемъ</rdg>
+            <rdg wit="#aka">ѡтрокь сеи родомъ оугрїнь. и именемъ <lb/></rdg>
+            <rdg wit="#ipa">ѡтрокъ. сь родомъ оугри<sic>чи</sic><lb/>нъ. именемь</rdg>
+            <rdg wit="#xle">ѡтрокь сїи рѡдо<hi rend="sup">м</hi> оугринь. имене<hi rend="sup">м</hi></rdg>
+            <rdg wit="#kom">отрокъ сь сынъ угорескъ именемъ</rdg>
+            <rdg wit="#nak">отрокъ сеи сынъ угорескъ именемь</rdg>
+            <rdg wit="#tol">отрокъ сеи сынъ угорескъ именемъ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">отрокъ сь родомь сынъ Угърескъ, именемь</rdg><rdg wit="#shakh">отрокъ сь сынъ Угърьскъ, именьмь</rdg><rdg wit="#likh">отрокъ сь родомь сынъ угърескъ, именемь</rdg></rdgGrp></app></p></div></body></text></TEI>

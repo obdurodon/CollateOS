@@ -1,97 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>236, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="236"/><div type="block" n="11"><p>
-<app>
-<lem wit="#lem">
-<w n="236,11">можеть</w>
-<w n="236,11">иждьжещи</w>
-<w n="236,11">его,</w>
-<w n="236,11">ни</w>
-<w n="236,11">желѣзо</w>
-<w n="236,11">его</w>
-<w n="236,11">прииметь.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="236,11">можеть</w>
-<w n="236,11">вжещи <lb/></w>
-
-<w n="236,11">ѥго</w>
-<w n="236,11">ни</w>
-<w n="236,11">желѣзо</w>
-<w n="236,11">его</w>
-<w n="236,11">приметь·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="236,11">можеть.</w>
-<w n="236,11">исжещи</w>
-<w n="236,11">его·</w>
-<w n="236,11">ни</w>
-<w n="236,11">желѣзо</w>
-<w n="236,11">е<hi rend="sup">г</hi></w>
-<w n="236,11">прииметь· <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="236,11">можеть <lb/></w>
-
-<w n="236,11">изжещи</w>
-<w n="236,11">его·</w>
-<w n="236,11">ни</w>
-<w n="236,11">желѣзо</w>
-<w n="236,11">его</w>
-<w n="236,11">прииметь·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="236,11">можеть <lb/></w>
-
-<w n="236,11">ижьжещи</w>
-<w n="236,11">его·</w>
-<w n="236,11">ни</w>
-<w n="236,11">желѣзо</w>
-<w n="236,11">его</w>
-<w n="236,11">прі<lb/>иметь·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="236,11">може<hi rend="sup">т</hi></w>
-<w n="236,11">ижжещи</w>
-<w n="236,11">е<hi rend="sup">г</hi>, <lb/></w>
-
-<w n="236,11">ни</w>
-<w n="236,11">желѣзо</w>
-<w n="236,11">его</w>
-<w n="236,11">прїиме<hi rend="sup">т</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="236,11">можеть</w>
-<w n="236,11">вжещи</w>
-<w n="236,11">его,</w>
-<w n="236,11">ни</w>
-<w n="236,11">желѣзо</w>
-<w n="236,11">его</w>
-<w n="236,11">приметь.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="236,11">можеть</w>
-<w n="236,11">въжещи</w>
-<w n="236,11">его,</w>
-<w n="236,11">ни</w>
-<w n="236,11">желѣзо</w>
-<w n="236,11">его</w>
-<w n="236,11">прииметь.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="236,11">можеть</w>
-<w n="236,11">вжещи</w>
-<w n="236,11">его,</w>
-<w n="236,11">ни</w>
-<w n="236,11">желѣзо</w>
-<w n="236,11">его</w>
-<w n="236,11">приметь.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>236, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="236"/><div type="block" n="11"><p><app><lem wit="#lem">
+            можеть иждьжещи его, ни желѣзо его прииметь.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">можеть вжещи <lb/> ѥго ни желѣзо его приметь·</rdg>
+            <rdg wit="#rad">можеть. исжещи его· ни желѣзо е<hi rend="sup">г</hi> прииметь· <lb/></rdg>
+            <rdg wit="#aka">можеть <lb/> изжещи его· ни желѣзо его прииметь·</rdg>
+            <rdg wit="#ipa">можеть <lb/> ижьжещи его· ни желѣзо его прі<lb/>иметь·</rdg>
+            <rdg wit="#xle">може<hi rend="sup">т</hi> ижжещи е<hi rend="sup">г</hi>, <lb/> ни желѣзо его
+                прїиме<hi rend="sup">т</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">можеть вжещи его, ни желѣзо его приметь.</rdg><rdg wit="#shakh">можеть въжещи его, ни желѣзо его прииметь.</rdg><rdg wit="#likh">можеть вжещи его, ни желѣзо его приметь.</rdg></rdgGrp></app></p></div></body></text></TEI>

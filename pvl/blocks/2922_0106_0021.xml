@@ -1,107 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>106, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="106"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="106,21">вься</w>
-<w n="106,21">законы,</w>
-<w n="106,21">свои</w>
-<w n="106,21">же</w>
-<w n="106,21">хваляще;</w>
-<w n="106,21">и</w>
-<w n="106,21">мъного</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="106,21">вси</w>
-<w n="106,21">законы.</w>
-<w n="106,21">свои</w>
-<w n="106,21">же</w>
-<w n="106,21">хвалѧше.</w>
-<w n="106,21">и</w>
-<w n="106,21">много</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="106,21">всѣ</w>
-<w n="106,21"><milestone unit="sic" n="start"/>закон<milestone unit="sic" n="end"/>ы.</w>
-<w n="106,21">свои</w>
-<w n="106,21">же</w>
-<w n="106,21">хвалѧще.</w>
-<w n="106,21">и</w>
-<w n="106,21">мно<lb/>го</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="106,21">всѣ</w>
-<w n="106,21">законы. <lb/></w>
-
-<w n="106,21">свои</w>
-<w n="106,21">же</w>
-<w n="106,21">хвалѧще.</w>
-<w n="106,21">и</w>
-<w n="106,21">много</w>
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-<w n="106,21">всѣ</w>
-<w n="106,21">законы.</w>
-<w n="106,21">свои</w>
-<w n="106,21">же</w>
-<w n="106,21">хвалѧще</w>
-<w n="106,21">и</w>
-<w n="106,21">мнѡго</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="106,21">всѣх</w>
-<w n="106,21">законы</w>
-<w n="106,21">а</w>
-<w n="106,21">свои</w>
-<w n="106,21">законъ</w>
-<w n="106,21">хвалꙗще</w>
-<w n="106,21">и</w>
-<w n="106,21">много</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="106,21">всѣхъ</w>
-<w n="106,21">законы</w>
-<w n="106,21">свои</w>
-<w n="106,21">же</w>
-<w n="106,21">хвалꙗще</w>
-<w n="106,21">и</w>
-<w n="106,21">много</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="106,21">вси</w>
-<w n="106,21">законы,</w>
-<w n="106,21">свой</w>
-<w n="106,21">же</w>
-<w n="106,21">хваляще,</w>
-<w n="106,21">и</w>
-<w n="106,21">много</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="106,21">вься</w>
-<w n="106,21">законы,</w>
-<w n="106,21">свои</w>
-<w n="106,21">же</w>
-<w n="106,21">хваляще;</w>
-<w n="106,21">и</w>
-<w n="106,21">мъного</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="106,21">вси</w>
-<w n="106,21">законы,</w>
-<w n="106,21">свой</w>
-<w n="106,21">же</w>
-<w n="106,21">хваляще,</w>
-<w n="106,21">и</w>
-<w n="106,21">много</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>106, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="106"/><div type="block" n="21"><p><app><lem wit="#lem">
+            вься законы, свои же хваляще; и мъного
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">вси законы. свои же хвалѧше. и много</rdg>
+            <rdg wit="#rad">всѣ <sic>закон</sic>ы. свои же хвалѧще. и мно<lb/>го</rdg>
+            <rdg wit="#aka">всѣ законы. <lb/> свои же хвалѧще. и много</rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">всѣ законы. свои же хвалѧще и мнѡго</rdg>
+            <rdg wit="#kom">всѣх законы а свои законъ хвалꙗще и много</rdg>
+            <rdg wit="#tol">всѣхъ законы свои же хвалꙗще и много</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">вси законы, свой же хваляще, и много</rdg><rdg wit="#shakh">вься законы, свои же хваляще; и мъного</rdg><rdg wit="#likh">вси законы, свой же хваляще, и много</rdg></rdgGrp></app></p></div></body></text></TEI>

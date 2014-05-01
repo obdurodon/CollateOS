@@ -1,45 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>242, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="242"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="242,6">се</w>
-<w n="242,6">грѣшници</w>
-<w n="242,6">погы<lb/>бну<hi rend="sup">т</hi>·</w>
-<w n="242,6">праведныꙗ</w>
-<w n="242,6">же</w>
-<w n="242,6">милуꙗ <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="242,6">се</w>
-<w n="242,6">грѣшници</w>
-<w n="242,6">погыбнуть;</w>
-<w n="242,6">праведныя</w>
-<w n="242,6">же</w>
-<w n="242,6">милуя</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="242,6">се</w>
-<w n="242,6">грѣшници</w>
-<w n="242,6">погыбнуть;</w>
-<w n="242,6">праведныя</w>
-<w n="242,6">же</w>
-<w n="242,6">милуя</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>242, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="242"/><div type="block" n="6"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">се грѣшници погы<lb/>бну<hi rend="sup">т</hi>· праведныꙗ же милуꙗ <lb/></rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">се грѣшници погыбнуть; праведныя же милуя</rdg><rdg wit="#likh">се грѣшници погыбнуть; праведныя же милуя</rdg></rdgGrp></app></p></div></body></text></TEI>

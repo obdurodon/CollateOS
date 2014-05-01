@@ -1,81 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>14, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="14"/><div type="block" n="15"><p>
-<app>
-<lem wit="#lem">
-<w n="14,15">Глаголеть</w>
-<w n="14,15">Георгии</w>
-<w n="14,15">въ</w>
-<w n="14,15">лѣтописьцѣ:</w>
-<w n="14,15">“Ибо</w>
-<w n="14,15">комужьдо</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="14,15">Гл҃ть</w>
-<w n="14,15">геѡргии</w>
-<w n="14,15">в</w>
-<w n="14,15">лѣтописаньи. <lb/></w>
-
-<w n="14,15">ибо</w>
-<w n="14,15">комуждо</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="14,15">Гл҃ть</w>
-<w n="14,15">геѡгрїи</w>
-<w n="14,15">в</w>
-<w n="14,15">лѣтописанїи</w>
-<w n="14,15">ибо</w>
-<w n="14,15">коемоуж<hi rend="sup">д</hi>о</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="14,15">Гл҃ть</w>
-<w n="14,15">геѡргїи</w>
-<w n="14,15">в</w>
-<w n="14,15">лѣтопи<lb/>санїи.</w>
-<w n="14,15">ибо</w>
-<w n="14,15">коемѹжо<hi rend="sup">д</hi></w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="14,15">Гл҃ть</w>
-<w n="14,15">геѡргии</w>
-<w n="14,15">в</w>
-<w n="14,15">лѣтопи<lb/>сьцѣ.</w>
-<w n="14,15">ибо</w>
-<w n="14,15">комуждо</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="14,15">Глаголеть</w>
-<w n="14,15">Георгий</w>
-<w n="14,15">в</w>
-<w n="14,15">лѣтописаньи:</w>
-<w n="14,15">ибо</w>
-<w n="14,15">коемуждо</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="14,15">Глаголеть</w>
-<w n="14,15">Георгии</w>
-<w n="14,15">въ</w>
-<w n="14,15">лѣтописании:</w>
-<w n="14,15">ибо</w>
-<w n="14,15">коемужьдо</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="14,15">Глаголеть</w>
-<w n="14,15">Георгий</w>
-<w n="14,15">в</w>
-<w n="14,15">лѣтописаньи:</w>
-<w n="14,15">“Ибо</w>
-<w n="14,15">комуждо</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>14, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="14"/><div type="block" n="15"><p><app><lem wit="#lem">
+            Глаголеть Георгии въ лѣтописьцѣ: “Ибо комужьдо
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">Гл҃ть геѡргии в лѣтописаньи. <lb/> ибо комуждо</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">Гл҃ть геѡгрїи в лѣтописанїи ибо коемоуж<hi rend="sup">д</hi>о</rdg>
+            <rdg wit="#aka">Гл҃ть геѡргїи в лѣтопи<lb/>санїи. ибо коемѹжо<hi rend="sup">д</hi></rdg>
+            <rdg wit="#ipa">Гл҃ть геѡргии в лѣтопи<lb/>сьцѣ. ибо комуждо</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Глаголеть Георгий в лѣтописаньи: ибо коемуждо</rdg><rdg wit="#shakh">Глаголеть Георгии въ лѣтописании: ибо коемужьдо</rdg><rdg wit="#likh">Глаголеть Георгий в лѣтописаньи: “Ибо комуждо</rdg></rdgGrp></app></p></div></body></text></TEI>

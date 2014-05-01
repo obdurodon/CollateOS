@@ -1,94 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>32, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="32"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-<w n="32,10">щиты</w>
-<w n="32,10">своя</w>
-<w n="32,10">въ</w>
-<w n="32,10">вратѣхъ</w>
-<w n="32,10">показающе</w>
-<w n="32,10">побѣду,</w>
-<w n="32,10">и</w>
-<w n="32,10">поиде</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="32,10">щи<hi rend="sup">т</hi></w>
-<w n="32,10">свои</w>
-<w n="32,10">въ</w>
-<w n="32,10">вра<lb/>те<hi rend="sup">х</hi></w>
-<w n="32,10">показоуа</w>
-<w n="32,10">победѹ.</w>
-<w n="32,10">и</w>
-<w n="32,10">поиде</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="32,10">щитъ</w>
-<w n="32,10">свои</w>
-<w n="32,10">во</w>
-<w n="32,10">вратѣ<hi rend="sup">х</hi></w>
-<w n="32,10">показѹа</w>
-<w n="32,10">по<lb/>бѣдѹ.</w>
-<w n="32,10">и</w>
-<w n="32,10">поиде</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="32,10">щиты <lb/></w>
-
-<w n="32,10">своꙗ.</w>
-<w n="32,10">въ</w>
-<w n="32,10">вратѣхъ</w>
-<w n="32,10">по<lb/>казающе</w>
-<w n="32,10">побѣду.</w>
-<w n="32,10">и</w>
-<w n="32,10">по<lb/>иде</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="32,10">щиты</w>
-<w n="32,10">своѧ</w>
-<w n="32,10">оу</w>
-<w n="32,10">воротѣ<hi rend="sup">х</hi></w>
-<w n="32,10">пок<hi rend="sup">з</hi>а<hi rend="sup">а</hi>юще</w>
-<w n="32,10">побѣдоу.</w>
-<w n="32,10">и</w>
-<w n="32,10">поиде</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="32,10">щитъ</w>
-<w n="32,10">свой</w>
-<w n="32,10">въ</w>
-<w n="32,10">вратехъ</w>
-<w n="32,10">показуа</w>
-<w n="32,10">побѣду,</w>
-<w n="32,10">и</w>
-<w n="32,10">поиде</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="32,10">щитъ</w>
-<w n="32,10">свои</w>
-<w n="32,10">въ</w>
-<w n="32,10">вратѣхъ,</w>
-<w n="32,10">показая</w>
-<w n="32,10">побѣду,</w>
-<w n="32,10">и</w>
-<w n="32,10">поиде</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="32,10">щит</w>
-<w n="32,10">свой</w>
-<w n="32,10">въ</w>
-<w n="32,10">вратех</w>
-<w n="32,10">показуа</w>
-<w n="32,10">побѣду,</w>
-<w n="32,10">и</w>
-<w n="32,10">поиде</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>32, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="32"/><div type="block" n="10"><p><app><lem wit="#lem">
+            щиты своя въ вратѣхъ показающе побѣду, и поиде
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">щи<hi rend="sup">т</hi> свои въ вра<lb/>те<hi rend="sup">х</hi> показоуа победѹ. и поиде</rdg>
+            <rdg wit="#aka">щитъ свои во вратѣ<hi rend="sup">х</hi> показѹа по<lb/>бѣдѹ. и поиде</rdg>
+            <rdg wit="#ipa">щиты <lb/> своꙗ. въ вратѣхъ по<lb/>казающе побѣду. и по<lb/>иде</rdg>
+            <rdg wit="#xle">щиты своѧ оу воротѣ<hi rend="sup">х</hi> пок<hi rend="sup">з</hi>а<hi rend="sup">а</hi>юще побѣдоу. и
+                поиде</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">щитъ свой въ вратехъ показуа побѣду, и поиде</rdg><rdg wit="#shakh">щитъ свои въ вратѣхъ, показая побѣду, и поиде</rdg><rdg wit="#likh">щит свой въ вратех показуа побѣду, и поиде</rdg></rdgGrp></app></p></div></body></text></TEI>

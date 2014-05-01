@@ -1,86 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>277, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="277"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-<w n="277,6">“Не</w>
-<w n="277,6">веремя</w>
-<w n="277,6">веснѣ</w>
-<w n="277,6">ити,</w>
-<w n="277,6">хочемъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="277,6">ꙗко</w>
-<w n="277,6">негодно</w>
-<w n="277,6">нынѣ</w>
-<w n="277,6">веснѣ <lb/></w>
-
-<w n="277,6">ити</w>
-<w n="277,6">хоче<hi rend="sup">м</hi></w>
-<w n="277,6">на</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="277,6">ꙗко</w>
-<w n="277,6">негодно</w>
-<w n="277,6">нн҃ѣ</w>
-<w n="277,6">ве<lb/>снѣ</w>
-<w n="277,6">ити</w>
-<w n="277,6">хочемъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="277,6">ꙗко</w>
-<w n="277,6">него<hi rend="sup">д</hi>но</w>
-<w n="277,6">нн҃ѣ <lb/></w>
-
-<w n="277,6">веснѣ·</w>
-<w n="277,6">ити</w>
-<w n="277,6">хочемъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="277,6">не</w>
-<w n="277,6">веремѧ</w>
-<w n="277,6">веснѣ</w>
-<w n="277,6">воевати·</w>
-<w n="277,6">хо<lb/>чемь</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="277,6">не <lb/></w>
-
-<w n="277,6">веремѧ,</w>
-<w n="277,6">веснѣ</w>
-<w n="277,6">воевати.</w>
-<w n="277,6">хоче<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="277,6">“яко</w>
-<w n="277,6">негодно</w>
-<w n="277,6">нынѣ</w>
-<w n="277,6">веснѣ</w>
-<w n="277,6">ити,</w>
-<w n="277,6">хочемъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="277,6">яко</w>
-<w n="277,6">“не</w>
-<w n="277,6">веремя</w>
-<w n="277,6">нынѣ</w>
-<w n="277,6">веснѣ</w>
-<w n="277,6">ити,</w>
-<w n="277,6">хочемъ</w>
-<w n="277,6">наша</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="277,6">яко</w>
-<w n="277,6">“Негодно</w>
-<w n="277,6">нынѣ</w>
-<w n="277,6">веснѣ</w>
-<w n="277,6">ити,</w>
-<w n="277,6">хочем</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>277, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="277"/><div type="block" n="6"><p><app><lem wit="#lem">
+            “Не веремя веснѣ ити, хочемъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ꙗко негодно нынѣ веснѣ <lb/> ити хоче<hi rend="sup">м</hi> на</rdg>
+            <rdg wit="#rad">ꙗко негодно нн҃ѣ ве<lb/>снѣ ити хочемъ</rdg>
+            <rdg wit="#aka">ꙗко него<hi rend="sup">д</hi>но нн҃ѣ <lb/> веснѣ· ити хочемъ</rdg>
+            <rdg wit="#ipa">не веремѧ веснѣ воевати· хо<lb/>чемь</rdg>
+            <rdg wit="#xle">не <lb/> веремѧ, веснѣ воевати. хоче<hi rend="sup">м</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">“яко негодно нынѣ веснѣ ити, хочемъ</rdg><rdg wit="#shakh">яко “не веремя нынѣ веснѣ ити, хочемъ наша</rdg><rdg wit="#likh">яко “Негодно нынѣ веснѣ ити, хочем</rdg></rdgGrp></app></p></div></body></text></TEI>

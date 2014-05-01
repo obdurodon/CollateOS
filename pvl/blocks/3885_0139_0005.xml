@@ -1,71 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>139, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="139"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="139,5">въсходъ</w>
-<w n="139,5">вьсьгда</w>
-<w n="139,5">просвѣщаеть</w>
-<w n="139,5">въ</w>
-<w n="139,5">страдании</w>
-<w n="139,5">ваю,</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="139,5">въсхо<hi rend="sup">д</hi><lb/></w>
-<w n="139,5">всегда</w>
-<w n="139,5">просвещаеть.</w>
-<w n="139,5">въ</w>
-<w n="139,5">страдании</w>
-<w n="139,5">ваю.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="139,5">въсхо<hi rend="sup">д</hi></w>
-<w n="139,5">всег<hi rend="sup">д</hi>а</w>
-<w n="139,5">просвещаеть.</w>
-<w n="139,5">въ</w>
-<w n="139,5">стра<hi rend="sup">д</hi>нїи</w>
-<w n="139,5">ваю.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="139,5">вьсходъ. <lb/></w>
-
-<w n="139,5">всегда.</w>
-<w n="139,5">просвѣщаеть</w>
-<w n="139,5">вь <lb/></w>
-
-<w n="139,5">страданьи</w>
-<w n="139,5">вь</w>
-<w n="139,5">славу</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="139,5">въсхѡ<hi rend="sup">д</hi></w>
-<w n="139,5">всег<hi rend="sup">д</hi>а</w>
-<w n="139,5">просвѣщае<hi rend="sup">т</hi></w>
-<w n="139,5">въ</w>
-<w n="139,5">стра<hi rend="sup">д</hi>нїи</w>
-<w n="139,5">ваю <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="139,5">въсходъ</w>
-<w n="139,5">всегда</w>
-<w n="139,5">просвещаеть</w>
-<w n="139,5">въ</w>
-<w n="139,5">страдании</w>
-<w n="139,5">ваю</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="139,5">страдании</w>
-<w n="139,5">ваю,</w>
-</rdg>
-
-<rdg wit="#likh">
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>139, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="139"/><div type="block" n="5"><p><app><lem wit="#lem">
+            въсходъ вьсьгда просвѣщаеть въ страдании ваю,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">въсхо<hi rend="sup">д</hi>
+                <lb/> всегда просвещаеть. въ страдании ваю.</rdg>
+            <rdg wit="#aka">въсхо<hi rend="sup">д</hi> всег<hi rend="sup">д</hi>а просвещаеть. въ стра<hi rend="sup">д</hi>нїи ваю.</rdg>
+            <rdg wit="#ipa">вьсходъ. <lb/> всегда. просвѣщаеть вь <lb/> страданьи вь славу</rdg>
+            <rdg wit="#xle">въсхѡ<hi rend="sup">д</hi> всег<hi rend="sup">д</hi>а просвѣщае<hi rend="sup">т</hi> въ стра<hi rend="sup">д</hi>нїи
+                ваю <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">въсходъ всегда просвещаеть въ страдании ваю</rdg><rdg wit="#shakh">страдании ваю,</rdg><rdg wit="#likh"/></rdgGrp></app></p></div></body></text></TEI>

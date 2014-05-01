@@ -1,92 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>281, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="281"/><div type="block" n="11"><p>
-<app>
-<lem wit="#lem">
-<w n="281,11">мънога</w>
-<w n="281,11">словеса,</w>
-<w n="281,11">яже</w>
-<w n="281,11">въписахъ</w>
-<w n="281,11">въ</w>
-<w n="281,11">лѣтописьць.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="281,11">словеса</w>
-<w n="281,11">слыша<hi rend="sup">х</hi>·</w>
-<w n="281,11">еже</w>
-<w n="281,11">и</w>
-<w n="281,11">вписа<hi rend="sup">х</hi><lb/></w>
-<w n="281,11">в</w>
-<w n="281,11">лѣтописаньи</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="281,11">словеса·</w>
-<w n="281,11">слыша<hi rend="sup">х</hi></w>
-<w n="281,11">еже <lb/></w>
-
-<w n="281,11">и</w>
-<w n="281,11">писа<hi rend="sup">х</hi>.</w>
-<w n="281,11">въ</w>
-<w n="281,11">лѣтописании</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="281,11">словеса</w>
-<w n="281,11">слы·̏ша<hi rend="sup">х</hi>·</w>
-<w n="281,11">еже</w>
-<w n="281,11">и</w>
-<w n="281,11">писа<hi rend="sup">х</hi></w>
-<w n="281,11">в</w>
-<w n="281,11">лѣтописанїи</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="281,11">мно<lb/>га</w>
-<w n="281,11">словеса·</w>
-<w n="281,11">ꙗже</w>
-<w n="281,11">вписахъ <lb/></w>
-
-<w n="281,11">в</w>
-<w n="281,11">лѣтописиць· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="281,11">мнѡга</w>
-<w n="281,11">слѡвеса</w>
-<w n="281,11">яже</w>
-<w n="281,11">вписа<hi rend="sup">х</hi></w>
-<w n="281,11">в</w>
-<w n="281,11">лѣтописець,</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="281,11">словеса</w>
-<w n="281,11">слышахъ,</w>
-<w n="281,11">еже</w>
-<w n="281,11">и</w>
-<w n="281,11">вписахъ</w>
-<w n="281,11">в</w>
-<w n="281,11">лѣтописаньи</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="281,11">словеса</w>
-<w n="281,11">слышахъ,</w>
-<w n="281,11">яже</w>
-<w n="281,11">и</w>
-<w n="281,11">въписахъ</w>
-<w n="281,11">въ</w>
-<w n="281,11">лѣтописании</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="281,11">словеса</w>
-<w n="281,11">слышах,</w>
-<w n="281,11">еже</w>
-<w n="281,11">и</w>
-<w n="281,11">вписах</w>
-<w n="281,11">в</w>
-<w n="281,11">лѣтописаньи</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>281, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="281"/><div type="block" n="11"><p><app><lem wit="#lem">
+            мънога словеса, яже въписахъ въ лѣтописьць.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">словеса слыша<hi rend="sup">х</hi>· еже и вписа<hi rend="sup">х</hi>
+                <lb/> в лѣтописаньи</rdg>
+            <rdg wit="#rad">словеса· слыша<hi rend="sup">х</hi> еже <lb/> и писа<hi rend="sup">х</hi>. въ лѣтописании</rdg>
+            <rdg wit="#aka">словеса слы·̏ша<hi rend="sup">х</hi>· еже и писа<hi rend="sup">х</hi> в лѣтописанїи</rdg>
+            <rdg wit="#ipa">мно<lb/>га словеса· ꙗже вписахъ <lb/> в лѣтописиць· <lb/></rdg>
+            <rdg wit="#xle">мнѡга слѡвеса ꙗже вписа<hi rend="sup">х</hi> в лѣтописець,</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">словеса слышахъ, еже и вписахъ в лѣтописаньи</rdg><rdg wit="#shakh">словеса слышахъ, яже и въписахъ въ лѣтописании</rdg><rdg wit="#likh">словеса слышах, еже и вписах в лѣтописаньи</rdg></rdgGrp></app></p></div></body></text></TEI>

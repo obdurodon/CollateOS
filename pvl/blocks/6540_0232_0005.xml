@@ -1,103 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>232, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="232"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="232,5">и</w>
-<w n="232,5">възя</w>
-<w n="232,5">и</w>
-<w n="232,5">Святопълкъ,</w>
-<w n="232,5">акы</w>
-<w n="232,5">тьстя</w>
-<w n="232,5">своего</w>
-<w n="232,5">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="232,5">и</w>
-<w n="232,5">взѧша</w>
-<w n="232,5">и</w>
-<w n="232,5">ст҃ополкъ·</w>
-<w n="232,5">акы</w>
-<w n="232,5">тьстѧ</w>
-<w n="232,5">своѥго</w>
-<w n="232,5">и <pb n="77b"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="232,5">и</w>
-<w n="232,5">взѧ<lb/></w>
-<w n="232,5">и</w>
-<w n="232,5">ст҃ополкъ.</w>
-<w n="232,5">аки</w>
-<w n="232,5">стѧ</w>
-<w n="232,5">своего</w>
-<w n="232,5">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="232,5">и</w>
-<w n="232,5">взѧ</w>
-<w n="232,5">и</w>
-<w n="232,5">ст҃ополкь</w>
-<w n="232,5">акы·̏ <lb/></w>
-
-<w n="232,5">стѧ</w>
-<w n="232,5">своего</w>
-<w n="232,5">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="232,5">и</w>
-<w n="232,5">взѧ<lb/></w>
-<w n="232,5">и</w>
-<w n="232,5">ст҃ополкъ</w>
-<w n="232,5"><milestone unit="sic" n="start"/>аки<milestone unit="sic" n="end"/><milestone unit="sic" n="start"/>ць<milestone unit="sic" n="end"/>стѧ</w>
-<w n="232,5">своего</w>
-<w n="232,5">и <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="232,5">и</w>
-<w n="232,5">взѧ</w>
-<w n="232,5">е<hi rend="sup">г</hi><lb/></w>
-<w n="232,5">ст҃ополкь.</w>
-<w n="232,5">акы</w>
-<w n="232,5">тестѧ</w>
-<w n="232,5">своего</w>
-<w n="232,5">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="232,5">и</w>
-<w n="232,5">взя</w>
-<w n="232,5">и</w>
-<w n="232,5">Святополкъ,</w>
-<w n="232,5">акы</w>
-<w n="232,5">тьстя</w>
-<w n="232,5">своего</w>
-<w n="232,5">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="232,5">и</w>
-<w n="232,5">възя</w>
-<w n="232,5">и</w>
-<w n="232,5">Святопълкъ,</w>
-<w n="232,5">акы</w>
-<w n="232,5">тьстя</w>
-<w n="232,5">своего</w>
-<w n="232,5">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="232,5">и</w>
-<w n="232,5">взя</w>
-<w n="232,5">и</w>
-<w n="232,5">Святополкъ,</w>
-<w n="232,5">акы</w>
-<w n="232,5">тьстя</w>
-<w n="232,5">своего</w>
-<w n="232,5">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>232, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="232"/><div type="block" n="5"><p><app><lem wit="#lem">
+            и възя и Святопълкъ, акы тьстя своего и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и взѧша и ст҃ополкъ· акы тьстѧ своѥго и <pb n="77b"/></rdg>
+            <rdg wit="#rad">и взѧ<lb/> и ст҃ополкъ. аки стѧ своего и</rdg>
+            <rdg wit="#aka">и взѧ и ст҃ополкь акы·̏ <lb/> стѧ своего и</rdg>
+            <rdg wit="#ipa">и взѧ<lb/> и ст҃ополкъ <sic>аки</sic><sic>ць</sic>стѧ своего и
+                <lb/></rdg>
+            <rdg wit="#xle">и взѧ е<hi rend="sup">г</hi>
+                <lb/> ст҃ополкь. акы тестѧ своего и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и взя и Святополкъ, акы тьстя своего и</rdg><rdg wit="#shakh">и възя и Святопълкъ, акы тьстя своего и</rdg><rdg wit="#likh">и взя и Святополкъ, акы тьстя своего и</rdg></rdgGrp></app></p></div></body></text></TEI>

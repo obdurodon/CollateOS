@@ -1,104 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>260, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="260"/><div type="block" n="14"><p>
-<app>
-<lem wit="#lem">
-<w n="260,14">привезоша</w>
-<w n="260,14">и</w>
-<w n="260,14">на</w>
-<w n="260,14">колѣхъ,</w>
-<w n="260,14">окована</w>
-<w n="260,14">суща,</w>
-<w n="260,14">и</w>
-<w n="260,14">съсадиша</w>
-<w n="260,14">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="260,14">при<lb/>везоша</w>
-<w n="260,14">и</w>
-<w n="260,14">на</w>
-<w n="260,14">кол<hi rend="sup">х</hi>ѣ</w>
-<w n="260,14">ѡкована</w>
-<w n="260,14">сущ<hi rend="sup">а</hi><lb/></w>
-<w n="260,14">ссадиша</w>
-<w n="260,14">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="260,14">привезша</w>
-<w n="260,14">на</w>
-<w n="260,14">коле<hi rend="sup">х</hi>·</w>
-<w n="260,14">ѡкована</w>
-<w n="260,14">сѹща·</w>
-<w n="260,14">и</w>
-<w n="260,14">всадиша·</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="260,14">привезше</w>
-<w n="260,14">на</w>
-<w n="260,14">ко<lb/>ле<hi rend="sup">х</hi></w>
-<w n="260,14">ѡкована</w>
-<w n="260,14">сѹще·</w>
-<w n="260,14">и</w>
-<w n="260,14">всадиша</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="260,14">привез<milestone unit="sic" n="start"/>ъ<milestone unit="sic" n="end"/>ше</w>
-<w n="260,14">и</w>
-<w n="260,14">на</w>
-<w n="260,14">колѣхъ <lb/></w>
-
-<w n="260,14">ѡкована</w>
-<w n="260,14">суща·</w>
-<w n="260,14">и</w>
-<w n="260,14">съсадиша</w>
-<w n="260,14">и <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="260,14">приве<hi rend="sup">з</hi><lb/>ше</w>
-<w n="260,14">его</w>
-<w n="260,14">на</w>
-<w n="260,14">коле<hi rend="sup">х</hi></w>
-<w n="260,14">окована</w>
-<w n="260,14">сѫща.</w>
-<w n="260,14">и</w>
-<w n="260,14">с′с<hi rend="sup">д</hi>а<hi rend="sup">и</hi>ша</w>
-<w n="260,14">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="260,14">привезоша</w>
-<w n="260,14">и</w>
-<w n="260,14">на</w>
-<w n="260,14">колѣхъ,</w>
-<w n="260,14">окована</w>
-<w n="260,14">суща,</w>
-<w n="260,14">ссадиша</w>
-<w n="260,14">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="260,14">привезоша</w>
-<w n="260,14">и</w>
-<w n="260,14">на</w>
-<w n="260,14">колѣхъ,</w>
-<w n="260,14">окована</w>
-<w n="260,14">суща,</w>
-<w n="260,14">съсадиша</w>
-<w n="260,14">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="260,14">привезоша</w>
-<w n="260,14">и</w>
-<w n="260,14">на</w>
-<w n="260,14">колѣх,</w>
-<w n="260,14">окована</w>
-<w n="260,14">суща,</w>
-<w n="260,14">ссадиша</w>
-<w n="260,14">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>260, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="260"/><div type="block" n="14"><p><app><lem wit="#lem">
+            привезоша и на колѣхъ, окована суща, и съсадиша и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">при<lb/>везоша и на кол<hi rend="sup">х</hi>ѣ ѡкована сущ<hi rend="sup">а</hi>
+                <lb/> ссадиша и</rdg>
+            <rdg wit="#rad">привезша на коле<hi rend="sup">х</hi>· ѡкована сѹща· и всадиша·</rdg>
+            <rdg wit="#aka">привезше на ко<lb/>ле<hi rend="sup">х</hi> ѡкована сѹще· и всадиша</rdg>
+            <rdg wit="#ipa">привез<sic>ъ</sic>ше и на колѣхъ <lb/> ѡкована суща· и съсадиша и
+                <lb/></rdg>
+            <rdg wit="#xle">приве<hi rend="sup">з</hi><lb/>ше его на коле<hi rend="sup">х</hi> окована сѫща. и
+                    с′с<hi rend="sup">д</hi>а<hi rend="sup">и</hi>ша и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">привезоша и на колѣхъ, окована суща, ссадиша и</rdg><rdg wit="#shakh">привезоша и на колѣхъ, окована суща, съсадиша и</rdg><rdg wit="#likh">привезоша и на колѣх, окована суща, ссадиша и</rdg></rdgGrp></app></p></div></body></text></TEI>

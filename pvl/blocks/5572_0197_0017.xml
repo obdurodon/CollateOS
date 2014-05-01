@@ -1,95 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>197, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="197"/><div type="block" n="17"><p>
-<app>
-<lem wit="#lem">
-<w n="197,17">сътворити,</w>
-<w n="197,17">и</w>
-<w n="197,17">рекоша</w>
-<w n="197,17">ему:</w>
-<w n="197,17">“Исакие!</w>
-<w n="197,17">Побѣдилъ</w>
-<w n="197,17">ны</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="197,17">створити.</w>
-<w n="197,17">и</w>
-<w n="197,17">рѣша</w>
-<w n="197,17">ѥму. <lb/></w>
-
-<w n="197,17">исакие</w>
-<w n="197,17">побѣди<hi rend="sup">л</hi></w>
-<w n="197,17">ѥси</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="197,17">сотворити.</w>
-<w n="197,17">и</w>
-<w n="197,17">рекоша</w>
-<w n="197,17">ем<hi rend="sup">ѹ</hi><lb/></w>
-<w n="197,17">исакие</w>
-<w n="197,17">победил</w>
-<w n="197,17">ны</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="197,17">сотворити.</w>
-<w n="197,17">и</w>
-<w n="197,17">рекоша <lb/></w>
-
-<w n="197,17">емѹ</w>
-<w n="197,17">исакие</w>
-<w n="197,17">победил</w>
-<w n="197,17">ны</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="197,17">створити.</w>
-<w n="197,17">и</w>
-<w n="197,17">рекоша</w>
-<w n="197,17">е<lb/>му</w>
-<w n="197,17">исакии</w>
-<w n="197,17">побѣдилъ</w>
-<w n="197,17">ны</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="197,17">сътворити.</w>
-<w n="197,17">и</w>
-<w n="197,17">рекоша</w>
-<w n="197,17">емоу</w>
-<w n="197,17">исакїе <lb/></w>
-
-<w n="197,17">побѣди<hi rend="sup">л</hi></w>
-<w n="197,17">ны</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="197,17">створити,</w>
-<w n="197,17">и</w>
-<w n="197,17">рѣша</w>
-<w n="197,17">ему:</w>
-<w n="197,17">“Исакие!</w>
-<w n="197,17">побѣдилъ</w>
-<w n="197,17">еси</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="197,17">сътворити,</w>
-<w n="197,17">и</w>
-<w n="197,17">рѣша</w>
-<w n="197,17">ему:</w>
-<w n="197,17">“Исакие!</w>
-<w n="197,17">побѣдилъ</w>
-<w n="197,17">еси</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="197,17">створити,</w>
-<w n="197,17">и</w>
-<w n="197,17">рѣша</w>
-<w n="197,17">ему:</w>
-<w n="197,17">“Исакие!</w>
-<w n="197,17">Побѣдил</w>
-<w n="197,17">еси</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>197, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="197"/><div type="block" n="17"><p><app><lem wit="#lem">
+            сътворити, и рекоша ему: “Исакие! Побѣдилъ ны
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">створити. и рѣша ѥму. <lb/> исакие побѣди<hi rend="sup">л</hi> ѥси</rdg>
+            <rdg wit="#rad">сотворити. и рекоша ем<hi rend="sup">ѹ</hi>
+                <lb/> исакие победил ны</rdg>
+            <rdg wit="#aka">сотворити. и рекоша <lb/> емѹ исакие победил ны</rdg>
+            <rdg wit="#ipa">створити. и рекоша е<lb/>му исакии побѣдилъ ны</rdg>
+            <rdg wit="#xle">сътворити. и рекоша емоу исакїе <lb/> побѣди<hi rend="sup">л</hi> ны</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">створити, и рѣша ему: “Исакие! побѣдилъ еси</rdg><rdg wit="#shakh">сътворити, и рѣша ему: “Исакие! побѣдилъ еси</rdg><rdg wit="#likh">створити, и рѣша ему: “Исакие! Побѣдил еси</rdg></rdgGrp></app></p></div></body></text></TEI>

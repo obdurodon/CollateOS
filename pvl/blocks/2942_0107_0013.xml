@@ -1,105 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>107, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="107"/><div type="block" n="13"><p>
-<app>
-<lem wit="#lem">
-<w n="107,13">“Идѣте</w>
-<w n="107,13">пакы</w>
-<w n="107,13">въ</w>
-<w n="107,13">Нѣмьцѣ,</w>
-<w n="107,13">и</w>
-<w n="107,13">съглядаите</w>
-<w n="107,13">такоже,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="107,13">идѣте</w>
-<w n="107,13">паки</w>
-<w n="107,13">в</w>
-<w n="107,13">нѣмци</w>
-<w n="107,13">съглѧдаи<hi rend="sup">т</hi><lb/></w>
-<w n="107,13">такоже.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="107,13">идѣте</w>
-<w n="107,13">пакы</w>
-<w n="107,13">в</w>
-<w n="107,13">нѣмци.</w>
-<w n="107,13">и</w>
-<w n="107,13">соглѧдаите</w>
-<w n="107,13">тако<hi rend="sup">ж</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="107,13">идѣте</w>
-<w n="107,13">паки</w>
-<w n="107,13">в</w>
-<w n="107,13">нѣмци.</w>
-<w n="107,13">и</w>
-<w n="107,13">соглѧдаите</w>
-<w n="107,13">такоже. <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="107,13">идете <lb/></w>
-
-<w n="107,13">пакы</w>
-<w n="107,13">в</w>
-<w n="107,13">нѣмцѣ</w>
-<w n="107,13">и</w>
-<w n="107,13">сглѧдаите <lb/></w>
-
-<w n="107,13">такоже.</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="107,13">идете</w>
-<w n="107,13">пакы</w>
-<w n="107,13">к</w>
-<w n="107,13">нѣмцемъ</w>
-<w n="107,13">и</w>
-<w n="107,13">соглꙗдаите</w>
-<w n="107,13">такоже</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="107,13">идѣте</w>
-<w n="107,13">паки</w>
-<w n="107,13">к</w>
-<w n="107,13">нѣмцем</w>
-<w n="107,13">и</w>
-<w n="107,13">сглꙗдаите</w>
-<w n="107,13">такоже</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="107,13">“идѣте</w>
-<w n="107,13">паки</w>
-<w n="107,13">в</w>
-<w n="107,13">Нѣмци,</w>
-<w n="107,13">съглядайте</w>
-<w n="107,13">такоже,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="107,13">“идѣте</w>
-<w n="107,13">пакы</w>
-<w n="107,13">въ</w>
-<w n="107,13">Нѣмьцѣ,</w>
-<w n="107,13">и</w>
-<w n="107,13">съглядаите</w>
-<w n="107,13">такоже,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="107,13">“Идѣте</w>
-<w n="107,13">паки</w>
-<w n="107,13">в</w>
-<w n="107,13">нѣмци,</w>
-<w n="107,13">съглядайте</w>
-<w n="107,13">такоже,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>107, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="107"/><div type="block" n="13"><p><app><lem wit="#lem">
+            “Идѣте пакы въ Нѣмьцѣ, и съглядаите такоже,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">идѣте паки в нѣмци съглѧдаи<hi rend="sup">т</hi>
+                <lb/> такоже.</rdg>
+            <rdg wit="#rad">идѣте пакы в нѣмци. и соглѧдаите тако<hi rend="sup">ж</hi></rdg>
+            <rdg wit="#aka">идѣте паки в нѣмци. и соглѧдаите такоже. <lb/></rdg>
+            <rdg wit="#ipa">идете <lb/> пакы в нѣмцѣ и сглѧдаите <lb/> такоже.</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">идете пакы к нѣмцемъ и соглꙗдаите такоже</rdg>
+            <rdg wit="#tol">идѣте паки к нѣмцем и сглꙗдаите такоже</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">“идѣте паки в Нѣмци, съглядайте такоже,</rdg><rdg wit="#shakh">“идѣте пакы въ Нѣмьцѣ, и съглядаите такоже,</rdg><rdg wit="#likh">“Идѣте паки в нѣмци, съглядайте такоже,</rdg></rdgGrp></app></p></div></body></text></TEI>

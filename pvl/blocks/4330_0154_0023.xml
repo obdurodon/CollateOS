@@ -1,95 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>154, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="154"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="154,23">въ</w>
-<w n="154,23">Русь,</w>
-<w n="154,23">съсѣдавъши</w>
-<w n="154,23">ся</w>
-<w n="154,23">въ</w>
-<w n="154,23">кораблѣ</w>
-<w n="154,23">своѣ.</w>
-<w n="154,23">Вышату</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="154,23">в</w>
-<w n="154,23">русь.</w>
-<w n="154,23">ссѣдавшесѧ</w>
-<w n="154,23">в</w>
-<w n="154,23">кораблѣ <lb/></w>
-
-<w n="154,23">своѣ.</w>
-<w n="154,23">вышату</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="154,23">в</w>
-<w n="154,23">роу<hi rend="sup">с</hi></w>
-<w n="154,23">всѣдъше</w>
-<w n="154,23">в</w>
-<w n="154,23">ко<lb/>рабли</w>
-<w n="154,23">своꙗ:-</w>
-<w n="154,23">Вышатоу <pb n="89r"/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="154,23">в</w>
-<w n="154,23">рѹсь.</w>
-<w n="154,23">вс<hi rend="sup">д</hi>ѣше</w>
-<w n="154,23">в</w>
-<w n="154,23">ко<lb/>рабли</w>
-<w n="154,23">своѧ:·</w>
-<w n="154,23">Свышетѹ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="154,23">в</w>
-<w n="154,23">русь.</w>
-<w n="154,23">сьсѣ<lb/>давшисѧ</w>
-<w n="154,23">в</w>
-<w n="154,23">кораблѣ</w>
-<w n="154,23">своѣ</w>
-<w n="154,23">вы<lb/>шату</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="154,23">в</w>
-<w n="154,23">роус. <lb/></w>
-
-<w n="154,23">съсѣдавшисѧ</w>
-<w n="154,23">в</w>
-<w n="154,23">кораблѧ</w>
-<w n="154,23">своѧ.</w>
-<w n="154,23">вышатоу<hi rend="sup">ж</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="154,23">в</w>
-<w n="154,23">Русь,</w>
-<w n="154,23">всѣдъше</w>
-<w n="154,23">в</w>
-<w n="154,23">кораблѣ</w>
-<w n="154,23">своѣ.</w>
-<w n="154,23">Вышату</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="154,23">Русь,</w>
-<w n="154,23">въсѣдавъшеся</w>
-<w n="154,23">въ</w>
-<w n="154,23">кораблѣ</w>
-<w n="154,23">своѣ.</w>
-<w n="154,23">Вышату</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="154,23">в</w>
-<w n="154,23">Русь,</w>
-<w n="154,23">всѣдъше</w>
-<w n="154,23">в</w>
-<w n="154,23">кораблѣ</w>
-<w n="154,23">своѣ.</w>
-<w n="154,23">Вышату</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>154, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="154"/><div type="block" n="23"><p><app><lem wit="#lem">
+            въ Русь, съсѣдавъши ся въ кораблѣ своѣ. Вышату
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">в русь. ссѣдавшесѧ в кораблѣ <lb/> своѣ. вышату</rdg>
+            <rdg wit="#rad">в роу<hi rend="sup">с</hi> всѣдъше в ко<lb/>рабли своꙗ:-  Вышатоу
+                    <pb n="89r"/></rdg>
+            <rdg wit="#aka">в рѹсь. вс<hi rend="sup">д</hi>ѣше в ко<lb/>рабли своѧ:· Свышетѹ</rdg>
+            <rdg wit="#ipa">в русь. сьсѣ<lb/>давшисѧ в кораблѣ своѣ вы<lb/>шату</rdg>
+            <rdg wit="#xle">в роус. <lb/> съсѣдавшисѧ в кораблѧ своѧ. вышатоу<hi rend="sup">ж</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">в Русь, всѣдъше в кораблѣ своѣ. Вышату</rdg><rdg wit="#shakh">Русь, въсѣдавъшеся въ кораблѣ своѣ. Вышату</rdg><rdg wit="#likh">в Русь, всѣдъше в кораблѣ своѣ. Вышату</rdg></rdgGrp></app></p></div></body></text></TEI>

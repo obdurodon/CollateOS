@@ -1,87 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>261, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="261"/><div type="block" n="14"><p>
-<app>
-<lem wit="#lem">
-<w n="261,14">въдаша</w>
-<w n="261,14">попадии</w>
-<w n="261,14">съпьрати.</w>
-<w n="261,14">Попадия</w>
-<w n="261,14">же</w>
-<w n="261,14">опьравъши</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="261,14">вдаша</w>
-<w n="261,14">попадь <lb/></w>
-
-<w n="261,14">ѡпрати·</w>
-<w n="261,14">попадьꙗ</w>
-<w n="261,14">же</w>
-<w n="261,14">ѡправши· <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="261,14">даша <lb/></w>
-
-<w n="261,14">мыти</w>
-<w n="261,14">попа<hi rend="sup">д</hi></w>
-<w n="261,14">и.</w>
-<w n="261,14">и</w>
-<w n="261,14">исправше</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="261,14">даша</w>
-<w n="261,14">мы·̏ти</w>
-<w n="261,14">попадьи·</w>
-<w n="261,14">исправши·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="261,14">вдаша</w>
-<w n="261,14">попадьи</w>
-<w n="261,14">с<hi rend="sup">ї</hi>прати· <lb/></w>
-
-<w n="261,14">попадьꙗ</w>
-<w n="261,14">же</w>
-<w n="261,14">ѡправъши</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="261,14">вдаша</w>
-<w n="261,14">попадїи</w>
-<w n="261,14">измыти.</w>
-<w n="261,14">попадїа</w>
-<w n="261,14">же <lb/></w>
-
-<w n="261,14">измыв′ше</w>
-<w n="261,14">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="261,14">вдаша</w>
-<w n="261,14">попадьи</w>
-<w n="261,14">опрати;</w>
-<w n="261,14">попадья</w>
-<w n="261,14">же</w>
-<w n="261,14">оправши</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="261,14">въдаша</w>
-<w n="261,14">попадии</w>
-<w n="261,14">опьрати;</w>
-<w n="261,14">попадия</w>
-<w n="261,14">же,</w>
-<w n="261,14">опьравъши,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="261,14">вдаша</w>
-<w n="261,14">попадьи</w>
-<w n="261,14">опрати.</w>
-<w n="261,14">Попадья</w>
-<w n="261,14">же</w>
-<w n="261,14">оправши</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>261, 14</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="261"/><div type="block" n="14"><p><app><lem wit="#lem">
+            въдаша попадии съпьрати. Попадия же опьравъши
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">вдаша попадь <lb/> ѡпрати· попадьꙗ же ѡправши· <lb/></rdg>
+            <rdg wit="#rad">даша <lb/> мыти попа<hi rend="sup">д</hi> и. и исправше</rdg>
+            <rdg wit="#aka">даша мы·̏ти попадьи· исправши·</rdg>
+            <rdg wit="#ipa">вдаша попадьи с<hi rend="sup">ї</hi>прати· <lb/> попадьꙗ же ѡправъши</rdg>
+            <rdg wit="#xle">вдаша попадїи измыти. попадїа же <lb/> измыв′ше и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">вдаша попадьи опрати; попадья же оправши</rdg><rdg wit="#shakh">въдаша попадии опьрати; попадия же, опьравъши,</rdg><rdg wit="#likh">вдаша попадьи опрати. Попадья же оправши</rdg></rdgGrp></app></p></div></body></text></TEI>

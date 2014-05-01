@@ -1,79 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>6, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="6"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-<w n="6,6">и</w>
-<w n="6,6">Хорутане.</w>
-<w n="6,6">Волохомъ</w>
-<w n="6,6">бо</w>
-<w n="6,6">нашьдъшимъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="6,6">и</w>
-<w n="6,6">хо<lb/>рутане.</w>
-<w n="6,6">волхомъ</w>
-<w n="6,6">бо</w>
-<w n="6,6">нашедшемъ</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="6,6">и</w>
-<w n="6,6">хорутане</w>
-<w n="6,6">воло<milestone unit="sic" n="start"/>-<milestone unit="sic" n="end"/><hi rend="sup">м</hi>о</w>
-<w n="6,6">бо</w>
-<w n="6,6">на<lb/>ше<hi rend="sup">д</hi>ш<hi rend="sup">м</hi>и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="6,6">и</w>
-<w n="6,6">хорѹтане. <lb/></w>
-
-<w n="6,6">вол<hi rend="sup">о</hi>хомъ</w>
-<w n="6,6">бо</w>
-<w n="6,6">нашедшимъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="6,6">и</w>
-<w n="6,6">хутанѣ.</w>
-<w n="6,6">волохо<lb/>мъ</w>
-<w n="6,6">бо</w>
-<w n="6,6">нашедш<hi rend="sup">м</hi>и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="6,6">и</w>
-<w n="6,6">хобоутане.</w>
-<w n="6,6">волохомъ <lb/></w>
-
-<w n="6,6">бѡ</w>
-<w n="6,6">нашедш<hi rend="sup">м</hi>и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="6,6">и</w>
-<w n="6,6">Хорутане</w>
-<w n="6,6">Волхомъ</w>
-<w n="6,6">бо</w>
-<w n="6,6">нашедшемъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="6,6">и</w>
-<w n="6,6">Хорутане.</w>
-<w n="6,6">Волохомъ</w>
-<w n="6,6">бо</w>
-<w n="6,6">нашьдъшемъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="6,6">и</w>
-<w n="6,6">хорутане.</w>
-<w n="6,6">Волхомъ</w>
-<w n="6,6">бо</w>
-<w n="6,6">нашедшемъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>6, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="6"/><div type="block" n="6"><p><app><lem wit="#lem">
+            и Хорутане. Волохомъ бо нашьдъшимъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и хо<lb/>рутане. волхомъ бо нашедшемъ</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">и хорутане воло<sic>-</sic><hi rend="sup">м</hi>о бо
+                    на<lb/>ше<hi rend="sup">д</hi>ш<hi rend="sup">м</hi>и</rdg>
+            <rdg wit="#aka">и хорѹтане. <lb/> вол<hi rend="sup">о</hi>хомъ бо нашедшимъ</rdg>
+            <rdg wit="#ipa">и хутанѣ. волохо<lb/>мъ бо нашедш<hi rend="sup">м</hi>и</rdg>
+            <rdg wit="#xle">и хобоутане. волохомъ <lb/> бѡ нашедш<hi rend="sup">м</hi>и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и Хорутане Волхомъ бо нашедшемъ</rdg><rdg wit="#shakh">и Хорутане. Волохомъ бо нашьдъшемъ</rdg><rdg wit="#likh">и хорутане. Волхомъ бо нашедшемъ</rdg></rdgGrp></app></p></div></body></text></TEI>

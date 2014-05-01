@@ -1,83 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>223, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="223"/><div type="block" n="25"><p>
-<app>
-<lem wit="#lem">
-<w n="223,25">достоиная,</w>
-<w n="223,25">яже</w>
-<w n="223,25">съдѣяхомъ,</w>
-<w n="223,25">прияхомъ”.</w>
-<w n="223,25">Рьцѣмъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="223,25">достоинаꙗ·</w>
-<w n="223,25">ꙗже</w>
-<w n="223,25">сдѣ<lb/>ꙗхомъ</w>
-<w n="223,25">приꙗхо<hi rend="sup">м</hi>·</w>
-<w n="223,25">рцѣмъ</w>
-<w n="223,25">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="223,25">достоинаꙗ</w>
-<w n="223,25">ꙗ<hi rend="sup">ж</hi></w>
-<w n="223,25">содеꙗхомъ·</w>
-<w n="223,25">приꙗхо<hi rend="sup">м</hi>·</w>
-<w n="223,25">рце<hi rend="sup">м</hi><lb/></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="223,25">достоинаѧ <lb/></w>
-
-<w n="223,25">ꙗже</w>
-<w n="223,25">содѣꙗхомъ·</w>
-<w n="223,25">приꙗхомъ·</w>
-<w n="223,25">и</w>
-<w n="223,25">рцѣмъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="223,25">достоинаꙗ</w>
-<w n="223,25">ꙗже</w>
-<w n="223,25">сдѣꙗхомъ·</w>
-<w n="223,25">и</w>
-<w n="223,25">п<lb/>риꙗхомъ·</w>
-<w n="223,25">рцѣмь <pb n="82c"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="223,25">дѡ<hi rend="sup">с</hi>инаа</w>
-<w n="223,25">яже</w>
-<w n="223,25">съдѣахо<hi rend="sup">м</hi></w>
-<w n="223,25">и</w>
-<w n="223,25">прїахо<hi rend="sup">м</hi><lb/></w>
-<w n="223,25">рцѣ<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="223,25">достойная,</w>
-<w n="223,25">яже</w>
-<w n="223,25">сдѣяхомъ,</w>
-<w n="223,25">прияхомъ.</w>
-<w n="223,25">Рцѣмъ</w>
-<w n="223,25">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="223,25">достоиная,</w>
-<w n="223,25">яже</w>
-<w n="223,25">съдѣяхомъ,</w>
-<w n="223,25">прияхомъ”.</w>
-<w n="223,25">Рьцѣмъ</w>
-<w n="223,25">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="223,25">достойная,</w>
-<w n="223,25">яже</w>
-<w n="223,25">сдѣяхомъ,</w>
-<w n="223,25">прияхом”.</w>
-<w n="223,25">Рцѣмъ</w>
-<w n="223,25">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>223, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="223"/><div type="block" n="25"><p><app><lem wit="#lem">
+            достоиная, яже съдѣяхомъ, прияхомъ”. Рьцѣмъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">достоинаꙗ· ꙗже сдѣ<lb/>ꙗхомъ приꙗхо<hi rend="sup">м</hi>· рцѣмъ и</rdg>
+            <rdg wit="#rad">достоинаꙗ ꙗ<hi rend="sup">ж</hi> содеꙗхомъ· приꙗхо<hi rend="sup">м</hi>· рце<hi rend="sup">м</hi>
+                <lb/></rdg>
+            <rdg wit="#aka">достоинаѧ <lb/> ꙗже содѣꙗхомъ· приꙗхомъ· и рцѣмъ</rdg>
+            <rdg wit="#ipa">достоинаꙗ ꙗже сдѣꙗхомъ· и п<lb/>риꙗхомъ· рцѣмь <pb n="82c"/></rdg>
+            <rdg wit="#xle">дѡ<hi rend="sup">с</hi>инаа ꙗже съдѣахо<hi rend="sup">м</hi> и прїахо<hi rend="sup">м</hi>
+                <lb/> рцѣ<hi rend="sup">м</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">достойная, яже сдѣяхомъ, прияхомъ. Рцѣмъ и</rdg><rdg wit="#shakh">достоиная, яже съдѣяхомъ, прияхомъ”. Рьцѣмъ и</rdg><rdg wit="#likh">достойная, яже сдѣяхомъ, прияхом”. Рцѣмъ и</rdg></rdgGrp></app></p></div></body></text></TEI>

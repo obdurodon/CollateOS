@@ -1,104 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>110, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="110"/><div type="block" n="26"><p>
-<app>
-<lem wit="#lem">
-<w n="110,26">намъ”.</w>
-<w n="110,26">И</w>
-<w n="110,26">одъва</w>
-<w n="110,26">ю</w>
-<w n="110,26">принудиша.</w>
-<w n="110,26">Она</w>
-<w n="110,26">же,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="110,26">намъ.</w>
-<w n="110,26">и</w>
-<w n="110,26">ѡдва</w>
-<w n="110,26">ю</w>
-<w n="110,26">прі<lb/>нудиша</w>
-<w n="110,26">ѡна.</w>
-<w n="110,26">же</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="110,26">намъ.</w>
-<w n="110,26">ѡдва</w>
-<w n="110,26">ю</w>
-<w n="110,26">принѹдиша. <lb/></w>
-
-<w n="110,26">ѡна</w>
-<w n="110,26">же</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="110,26">намъ.</w>
-<w n="110,26">ѡдва</w>
-<w n="110,26">ю</w>
-<w n="110,26">принѹдиша.</w>
-<w n="110,26">ѡна</w>
-<w n="110,26">же</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="110,26">намъ.</w>
-<w n="110,26">и</w>
-<w n="110,26">ѡдва</w>
-<w n="110,26">принудиста.</w>
-<w n="110,26">ѡна</w>
-<w n="110,26">же <pb n="42b"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="110,26">намъ</w>
-<w n="110,26">и</w>
-<w n="110,26">одва</w>
-<w n="110,26">ю</w>
-<w n="110,26">принудиша</w>
-<w n="110,26">она</w>
-<w n="110,26">же</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="110,26">намъ</w>
-<w n="110,26">и</w>
-<w n="110,26">одва</w>
-<w n="110,26">ю</w>
-<w n="110,26">принудиша</w>
-<w n="110,26">она</w>
-<w n="110,26">же</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="110,26">намъ”;</w>
-<w n="110,26">и</w>
-<w n="110,26">одва</w>
-<w n="110,26">ю</w>
-<w n="110,26">принудиша.</w>
-<w n="110,26">Она</w>
-<w n="110,26">же</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="110,26">намъ”.</w>
-<w n="110,26">И</w>
-<w n="110,26">одъва</w>
-<w n="110,26">ю</w>
-<w n="110,26">принудиша.</w>
-<w n="110,26">Она</w>
-<w n="110,26">же,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="110,26">намъ”.</w>
-<w n="110,26">И</w>
-<w n="110,26">одва</w>
-<w n="110,26">ю</w>
-<w n="110,26">принудиша.</w>
-<w n="110,26">Она</w>
-<w n="110,26">же,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>110, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="110"/><div type="block" n="26"><p><app><lem wit="#lem">
+            намъ”. И одъва ю принудиша. Она же,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">намъ. и ѡдва ю прі<lb/>нудиша ѡна. же</rdg>
+            <rdg wit="#rad">намъ. ѡдва ю принѹдиша. <lb/> ѡна же</rdg>
+            <rdg wit="#aka">намъ. ѡдва ю принѹдиша. ѡна же</rdg>
+            <rdg wit="#ipa">намъ. и ѡдва принудиста. ѡна же <pb n="42b"/></rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">намъ и одва ю принудиша она же</rdg>
+            <rdg wit="#tol">намъ и одва ю принудиша она же</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">намъ”; и одва ю принудиша. Она же</rdg><rdg wit="#shakh">намъ”. И одъва ю принудиша. Она же,</rdg><rdg wit="#likh">намъ”. И одва ю принудиша. Она же,</rdg></rdgGrp></app></p></div></body></text></TEI>

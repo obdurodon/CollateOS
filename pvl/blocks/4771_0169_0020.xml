@@ -1,113 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>169, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="169"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="169,20">пролѣють</w>
-<w n="169,20">ся</w>
-<w n="169,20">точила</w>
-<w n="169,20">виньная</w>
-<w n="169,20">и</w>
-<w n="169,20">маслиньная.</w>
-<w n="169,20">И</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="169,20">пролѣ<lb/>ютсѧ</w>
-<w n="169,20">точила</w>
-<w n="169,20">виннаꙗ</w>
-<w n="169,20">и</w>
-<w n="169,20">ма<lb/>сльнаꙗ.</w>
-<w n="169,20">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="169,20">прольють<hi rend="sup">с</hi></w>
-<w n="169,20">точила</w>
-<w n="169,20">виннаꙗ</w>
-<w n="169,20">и</w>
-<w n="169,20">масленаа. <lb/></w>
-
-<w n="169,20">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="169,20">пролѣютьсѧ</w>
-<w n="169,20">тоцила</w>
-<w n="169,20">виннаѧ</w>
-<w n="169,20">и</w>
-<w n="169,20">маслиннаѧ</w>
-<w n="169,20">и <pb n="89v"/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="169,20">прольютьсѧ <lb/></w>
-
-<w n="169,20">точила</w>
-<w n="169,20">виньнаꙗ.</w>
-<w n="169,20">и</w>
-<w n="169,20">маслиньна<lb/>ꙗ.</w>
-<w n="169,20">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="169,20">пролїютсѧ</w>
-<w n="169,20">точила</w>
-<w n="169,20">виннаа.</w>
-<w n="169,20">и <lb/></w>
-
-<w n="169,20">масличнаа.</w>
-<w n="169,20">и</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="169,20">пролиютьсꙗ</w>
-<w n="169,20">точила</w>
-<w n="169,20">виннаꙗ</w>
-<w n="169,20">и</w>
-<w n="169,20">масличнаꙗ</w>
-<w n="169,20">и</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="169,20">прольютсꙗ</w>
-<w n="169,20">точила</w>
-<w n="169,20">виннаа</w>
-<w n="169,20">масличнаа</w>
-<w n="169,20">и</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="169,20">прольютсꙗ</w>
-<w n="169,20">точила</w>
-<w n="169,20">виннаꙗ</w>
-<w n="169,20">масличнаꙗ</w>
-<w n="169,20">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="169,20">пролиються</w>
-<w n="169,20">точила</w>
-<w n="169,20">винная</w>
-<w n="169,20">и</w>
-<w n="169,20">масльная.</w>
-<w n="169,20">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="169,20">пролѣються</w>
-<w n="169,20">точила</w>
-<w n="169,20">виньная</w>
-<w n="169,20">и</w>
-<w n="169,20">масличьная.</w>
-<w n="169,20">И</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="169,20">Пролѣются</w>
-<w n="169,20">точила</w>
-<w n="169,20">винная</w>
-<w n="169,20">и</w>
-<w n="169,20">масльная.</w>
-<w n="169,20">И</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>169, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="169"/><div type="block" n="20"><p><app><lem wit="#lem">
+            пролѣють ся точила виньная и маслиньная. И
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">пролѣ<lb/>ютсѧ точила виннаꙗ и ма<lb/>сльнаꙗ. и</rdg>
+            <rdg wit="#rad">прольють<hi rend="sup">с</hi> точила виннаꙗ и масленаа. <lb/> и</rdg>
+            <rdg wit="#aka">пролѣютьсѧ тоцила  виннаѧ и маслиннаѧ и <pb n="89v"/></rdg>
+            <rdg wit="#ipa">прольютьсѧ <lb/> точила виньнаꙗ. и маслиньна<lb/>ꙗ. и</rdg>
+            <rdg wit="#xle">пролїютсѧ точила виннаа. и <lb/> масличнаа. и</rdg>
+            <rdg wit="#kom">пролиютьсꙗ точила виннаꙗ и масличнаꙗ и</rdg>
+            <rdg wit="#nak">прольютсꙗ точила виннаа масличнаа и</rdg>
+            <rdg wit="#tol">прольютсꙗ точила виннаꙗ масличнаꙗ и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">пролиються точила винная и масльная. и</rdg><rdg wit="#shakh">пролѣються точила виньная и масличьная. И</rdg><rdg wit="#likh">Пролѣются точила винная и масльная. И</rdg></rdgGrp></app></p></div></body></text></TEI>

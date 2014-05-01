@@ -1,110 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>69, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="69"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="69,20">пояша</w>
-<w n="69,20">Новъгородьци</w>
-<w n="69,20">Володимира</w>
-<w n="69,20">къ</w>
-<w n="69,20">себѣ.</w>
-<w n="69,20">И</w>
-<w n="69,20">иде</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="69,20">поꙗ<lb/>ша</w>
-<w n="69,20">нооугородьци</w>
-<w n="69,20">володимера</w>
-<w n="69,20">к</w>
-<w n="69,20">собѣ.</w>
-<w n="69,20">и</w>
-<w n="69,20">иде</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="69,20">поꙗша</w>
-<w n="69,20">новгоро<hi rend="sup">д</hi>ци</w>
-<w n="69,20">володимера</w>
-<w n="69,20">к</w>
-<w n="69,20">собѣ.</w>
-<w n="69,20">иде</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="69,20">поꙗша</w>
-<w n="69,20">но<lb/>вогородци</w>
-<w n="69,20">володимира</w>
-<w n="69,20">к</w>
-<w n="69,20">себѣ.</w>
-<w n="69,20">иде</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="69,20">по<lb/>ꙗша</w>
-<w n="69,20">новгородьци</w>
-<w n="69,20">володї<lb/>мира</w>
-<w n="69,20">себѣ.</w>
-<w n="69,20">и</w>
-<w n="69,20">иде</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="69,20">поꙗша</w>
-<w n="69,20">новгородци</w>
-<w n="69,20">володимира</w>
-<w n="69,20">к</w>
-<w n="69,20">собѣ</w>
-<w n="69,20">и</w>
-<w n="69,20">поиде</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="69,20">поꙗша</w>
-<w n="69,20">новгородци</w>
-<w n="69,20">володимера</w>
-<w n="69,20">к</w>
-<w n="69,20">себѣ</w>
-<w n="69,20">иде</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="69,20">поꙗша</w>
-<w n="69,20">новгородци</w>
-<w n="69,20">володимера</w>
-<w n="69,20">к</w>
-<w n="69,20">себѣ</w>
-<w n="69,20">иде</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="69,20">пояша</w>
-<w n="69,20">Ноугородьци</w>
-<w n="69,20">Володимера</w>
-<w n="69,20">к</w>
-<w n="69,20">собѣ,</w>
-<w n="69,20">и</w>
-<w n="69,20">иде</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="69,20">пояша</w>
-<w n="69,20">Новъгородьци</w>
-<w n="69,20">Володимера</w>
-<w n="69,20">къ</w>
-<w n="69,20">собѣ.</w>
-<w n="69,20">И</w>
-<w n="69,20">иде</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="69,20">пояша</w>
-<w n="69,20">ноугородьци</w>
-<w n="69,20">Володимера</w>
-<w n="69,20">к</w>
-<w n="69,20">собѣ,</w>
-<w n="69,20">и</w>
-<w n="69,20">иде</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>69, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="69"/><div type="block" n="20"><p><app><lem wit="#lem">
+            пояша Новъгородьци Володимира къ себѣ. И иде
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">поꙗ<lb/>ша нооугородьци володимера к собѣ. и иде</rdg>
+            <rdg wit="#rad">поꙗша новгоро<hi rend="sup">д</hi>ци володимера к собѣ. иде</rdg>
+            <rdg wit="#aka">поꙗша но<lb/>вогородци володимира к себѣ. иде</rdg>
+            <rdg wit="#ipa">по<lb/>ꙗша новгородьци володї<lb/>мира себѣ. и иде</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">поꙗша новгородци володимира к собѣ и поиде</rdg>
+            <rdg wit="#nak">поꙗша новгородци володимера к себѣ иде</rdg>
+            <rdg wit="#tol">поꙗша новгородци володимера к себѣ иде</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">пояша Ноугородьци Володимера к собѣ, и иде</rdg><rdg wit="#shakh">пояша Новъгородьци Володимера къ собѣ. И иде</rdg><rdg wit="#likh">пояша ноугородьци Володимера к собѣ, и иде</rdg></rdgGrp></app></p></div></body></text></TEI>

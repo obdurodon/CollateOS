@@ -1,47 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>253, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="253"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="253,6">смѣренье<hi rend="sup">м</hi></w>
-<w n="253,6">и</w>
-<w n="253,6">покаꙗнь<lb/>е<hi rend="sup">м</hi>·</w>
-<w n="253,6">хотѧ</w>
-<w n="253,6">ѿ</w>
-<w n="253,6">б҃а</w>
-<w n="253,6">ветхыхъ</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="253,6">смѣреньемъ</w>
-<w n="253,6">и</w>
-<w n="253,6">покаяньемъ,</w>
-<w n="253,6">хотя</w>
-<w n="253,6">отъ</w>
-<w n="253,6">Бога</w>
-<w n="253,6">ветхыхъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="253,6">смѣреньем</w>
-<w n="253,6">и</w>
-<w n="253,6">покаяньем,</w>
-<w n="253,6">хотя</w>
-<w n="253,6">от</w>
-<w n="253,6">бога</w>
-<w n="253,6">ветхыхъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>253, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="253"/><div type="block" n="6"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">смѣренье<hi rend="sup">м</hi> и покаꙗнь<lb/>е<hi rend="sup">м</hi>· хотѧ ѿ б҃а ветхыхъ</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">смѣреньемъ и покаяньемъ, хотя отъ Бога ветхыхъ</rdg><rdg wit="#likh">смѣреньем и покаяньем, хотя от бога ветхыхъ</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,79 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>148, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="148"/><div type="block" n="25"><p>
-<app>
-<lem wit="#lem">
-<w n="148,25">есть,</w>
-<w n="148,25">побѣже</w>
-<w n="148,25">съ</w>
-<w n="148,25">Якунъмь,</w>
-<w n="148,25">кънязьмь</w>
-<w n="148,25">Варяжьскымь,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="148,25">есть.</w>
-<w n="148,25">побѣже</w>
-<w n="148,25">съ</w>
-<w n="148,25">ꙗку<lb/>номъ</w>
-<w n="148,25">кнѧземь</w>
-<w n="148,25">варѧжьскы<hi rend="sup">м</hi>. <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="148,25">е<hi rend="sup">с</hi>.</w>
-<w n="148,25">побе<hi rend="sup">ж</hi></w>
-<w n="148,25">со</w>
-<w n="148,25">анакѹно<hi rend="sup">м</hi></w>
-<w n="148,25">кнз҃мь</w>
-<w n="148,25">варѧ<hi rend="sup">ж</hi><lb/>скимъ.</w>
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="148,25">есть.</w>
-<w n="148,25">и</w>
-<w n="148,25">побѣже</w>
-<w n="148,25">сь</w>
-<w n="148,25">ꙗкоу<lb/>номъ</w>
-<w n="148,25">кнѧземь.</w>
-<w n="148,25">варѧжьки<lb/>мь.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="148,25">е<hi rend="sup">с</hi>.</w>
-<w n="148,25">побѣже</w>
-<w n="148,25">съ</w>
-<w n="148,25">якоуно<hi rend="sup">м</hi></w>
-<w n="148,25">кнѧѕе<hi rend="sup">м</hi></w>
-<w n="148,25">варѧ<hi rend="sup">ж</hi><lb/>скы<hi rend="sup">м</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="148,25">есть,</w>
-<w n="148,25">побѣже</w>
-<w n="148,25">съ</w>
-<w n="148,25">Якуномъ,</w>
-<w n="148,25">княземь</w>
-<w n="148,25">Варяжьскымъ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="148,25">есть,</w>
-<w n="148,25">побѣже</w>
-<w n="148,25">съ</w>
-<w n="148,25">Якунъмь,</w>
-<w n="148,25">кънязьмь</w>
-<w n="148,25">Варяжьскымь,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="148,25">есть,</w>
-<w n="148,25">побѣже</w>
-<w n="148,25">съ</w>
-<w n="148,25">Якуномъ,</w>
-<w n="148,25">княземь</w>
-<w n="148,25">варяжьскым,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>148, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="148"/><div type="block" n="25"><p><app><lem wit="#lem">
+            есть, побѣже съ Якунъмь, кънязьмь Варяжьскымь,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">есть. побѣже съ ꙗку<lb/>номъ кнѧземь варѧжьскы<hi rend="sup">м</hi>. <lb/></rdg>
+            <rdg wit="#rad">е<hi rend="sup">с</hi>. побе<hi rend="sup">ж</hi> со анакѹно<hi rend="sup">м</hi> кнз҃мь
+                варѧ<hi rend="sup">ж</hi><lb/>скимъ.</rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">есть. и побѣже сь ꙗкоу<lb/>номъ кнѧземь. варѧжьки<lb/>мь.</rdg>
+            <rdg wit="#xle">е<hi rend="sup">с</hi>. побѣже съ ꙗкоуно<hi rend="sup">м</hi> кнѧѕе<hi rend="sup">м</hi>
+                    варѧ<hi rend="sup">ж</hi><lb/>скы<hi rend="sup">м</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">есть, побѣже съ Якуномъ, княземь Варяжьскымъ,</rdg><rdg wit="#shakh">есть, побѣже съ Якунъмь, кънязьмь Варяжьскымь,</rdg><rdg wit="#likh">есть, побѣже съ Якуномъ, княземь варяжьскым,</rdg></rdgGrp></app></p></div></body></text></TEI>

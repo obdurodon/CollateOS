@@ -1,85 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>214, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="214"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-<w n="214,6">сего,</w>
-<w n="214,6">супротивьника</w>
-<w n="214,6">попьравъ</w>
-<w n="214,6">диявола</w>
-<w n="214,6">и</w>
-<w n="214,6">его</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="214,6">сего·</w>
-<w n="214,6">супротивника</w>
-<w n="214,6">по<lb/>правъ·</w>
-<w n="214,6">дьꙗвола</w>
-<w n="214,6">и</w>
-<w n="214,6">ѥго</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="214,6">сего·</w>
-<w n="214,6">соупротивника</w>
-<w n="214,6">поправъ</w>
-<w n="214,6">дьꙗвола·</w>
-<w n="214,6">и</w>
-<w n="214,6">его</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="214,6">сего·</w>
-<w n="214,6">сѹпротивника</w>
-<w n="214,6">поправъ</w>
-<w n="214,6">дьꙗвола·</w>
-<w n="214,6">и</w>
-<w n="214,6">его <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="214,6">се<hi rend="sup">г</hi>·</w>
-<w n="214,6">супротивника</w>
-<w n="214,6">поправъ <lb/></w>
-
-<w n="214,6">дьꙗвола</w>
-<w n="214,6">ї</w>
-<w n="214,6">его</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="214,6">сего.</w>
-<w n="214,6">съпро<lb/>тивника</w>
-<w n="214,6">поправь</w>
-<w n="214,6">діавола</w>
-<w n="214,6">и</w>
-<w n="214,6">его</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="214,6">сего,</w>
-<w n="214,6">супротивника</w>
-<w n="214,6">поправъ</w>
-<w n="214,6">дьявола</w>
-<w n="214,6">и</w>
-<w n="214,6">его</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="214,6">сего,</w>
-<w n="214,6">супротивьника</w>
-<w n="214,6">попьравъ</w>
-<w n="214,6">диявола</w>
-<w n="214,6">и</w>
-<w n="214,6">его</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="214,6">сего,</w>
-<w n="214,6">супротивника</w>
-<w n="214,6">поправъ</w>
-<w n="214,6">дьявола</w>
-<w n="214,6">и</w>
-<w n="214,6">его</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>214, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="214"/><div type="block" n="6"><p><app><lem wit="#lem">
+            сего, супротивьника попьравъ диявола и его
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">сего· супротивника по<lb/>правъ· дьꙗвола и ѥго</rdg>
+            <rdg wit="#rad">сего· соупротивника поправъ дьꙗвола· и его</rdg>
+            <rdg wit="#aka">сего· сѹпротивника поправъ дьꙗвола· и его <lb/></rdg>
+            <rdg wit="#ipa">се<hi rend="sup">г</hi>· супротивника поправъ <lb/> дьꙗвола ї его</rdg>
+            <rdg wit="#xle">сего. съпро<lb/>тивника поправь діавола и его</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">сего, супротивника поправъ дьявола и его</rdg><rdg wit="#shakh">сего, супротивьника попьравъ диявола и его</rdg><rdg wit="#likh">сего, супротивника поправъ дьявола и его</rdg></rdgGrp></app></p></div></body></text></TEI>

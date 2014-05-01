@@ -1,94 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>46, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="46"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="46,3">имати</w>
-<w n="46,3">злато</w>
-<w n="46,3">и</w>
-<w n="46,3">сьребро</w>
-<w n="46,3">и</w>
-<w n="46,3">паволокы?</w>
-<w n="46,3">Егда</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="46,3">има<lb/>ти</w>
-<w n="46,3">злато</w>
-<w n="46,3">и</w>
-<w n="46,3">сребро.</w>
-<w n="46,3">и</w>
-<w n="46,3">паволоки.</w>
-<w n="46,3">егда</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="46,3">имати.</w>
-<w n="46,3">зла<lb/>то</w>
-<w n="46,3">и</w>
-<w n="46,3">сребро</w>
-<w n="46,3">и</w>
-<w n="46,3">паволокы.</w>
-<w n="46,3">егда</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="46,3">имати.</w>
-<w n="46,3">ѕлато</w>
-<w n="46,3">и</w>
-<w n="46,3">сребро</w>
-<w n="46,3">и</w>
-<w n="46,3">паволокы. <lb/></w>
-
-<w n="46,3">ег<hi rend="sup">д</hi>а</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="46,3">имати</w>
-<w n="46,3">злато</w>
-<w n="46,3">и</w>
-<w n="46,3">серебро. <lb/></w>
-
-<w n="46,3">и</w>
-<w n="46,3">паволокы.</w>
-<w n="46,3">еда</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="46,3">им<hi rend="sup">т</hi>а<hi rend="sup">и</hi><lb/></w>
-<w n="46,3">золото</w>
-<w n="46,3">и</w>
-<w n="46,3">сребро</w>
-<w n="46,3">и</w>
-<w n="46,3">паволокы;</w>
-<w n="46,3">ег<hi rend="sup">д</hi>а</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="46,3">имати</w>
-<w n="46,3">злато,</w>
-<w n="46,3">и</w>
-<w n="46,3">сребро,</w>
-<w n="46,3">и</w>
-<w n="46,3">паволоки?</w>
-<w n="46,3">егда</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="46,3">имати</w>
-<w n="46,3">злато</w>
-<w n="46,3">и</w>
-<w n="46,3">сьребро</w>
-<w n="46,3">и</w>
-<w n="46,3">паволокы?</w>
-<w n="46,3">еда</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="46,3">имати</w>
-<w n="46,3">злато,</w>
-<w n="46,3">и</w>
-<w n="46,3">сребро,</w>
-<w n="46,3">и</w>
-<w n="46,3">паволоки?</w>
-<w n="46,3">Егда</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>46, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="46"/><div type="block" n="3"><p><app><lem wit="#lem">
+            имати злато и сьребро и паволокы? Егда
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">има<lb/>ти злато и сребро. и паволоки. егда</rdg>
+            <rdg wit="#rad">имати. зла<lb/>то и сребро и паволокы. егда</rdg>
+            <rdg wit="#aka">имати. ѕлато и сребро и паволокы. <lb/> ег<hi rend="sup">д</hi>а</rdg>
+            <rdg wit="#ipa">имати злато и серебро. <lb/> и паволокы. еда</rdg>
+            <rdg wit="#xle">им<hi rend="sup">т</hi>а<hi rend="sup">и</hi>
+                <lb/> золото и сребро и паволокы; ег<hi rend="sup">д</hi>а</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">имати злато, и сребро, и паволоки? егда</rdg><rdg wit="#shakh">имати злато и сьребро и паволокы? еда</rdg><rdg wit="#likh">имати злато, и сребро, и паволоки? Егда</rdg></rdgGrp></app></p></div></body></text></TEI>

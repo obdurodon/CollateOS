@@ -1,94 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>183, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="183"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="183,23">имяше</w>
-<w n="183,23">приходящю</w>
-<w n="183,23">постьному</w>
-<w n="183,23">времени,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="183,23">имѧше. <lb/></w>
-
-<w n="183,23">приходѧще</w>
-<w n="183,23">постному</w>
-<w n="183,23">време<lb/>ни.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="183,23">ѡбычаи.</w>
-<w n="183,23">прихо<lb/>дѧщѹ</w>
-<w n="183,23">постномѹ</w>
-<w n="183,23">временоу.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="183,23">ѡбычаи.</w>
-<w n="183,23">приходѧщю <lb/></w>
-
-<w n="183,23">постномѹ</w>
-<w n="183,23">времени.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="183,23">имѧше.</w>
-<w n="183,23">приходѧ<lb/>щю</w>
-<w n="183,23">бо</w>
-<w n="183,23">постьному</w>
-<w n="183,23">времени. <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="183,23">имѧше.</w>
-<w n="183,23">приходѧщѫ</w>
-<w n="183,23">бѡ</w>
-<w n="183,23">постномоу</w>
-<w n="183,23">времени. <lb/></w>
-
-</rdg>
-
-<rdg wit="#kom">
-<w n="183,23">обычаи</w>
-<w n="183,23">внегда</w>
-<w n="183,23">же</w>
-<w n="183,23">приходꙗщю</w>
-<w n="183,23">постному</w>
-<w n="183,23">времени</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="183,23">имꙗше</w>
-<w n="183,23">приходꙗщю</w>
-<w n="183,23">постъному</w>
-<w n="183,23">времени</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="183,23">имꙗше</w>
-<w n="183,23">приходꙗщю</w>
-<w n="183,23">постному</w>
-<w n="183,23">времени</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="183,23">имяше,</w>
-<w n="183,23">приходящю</w>
-<w n="183,23">постному</w>
-<w n="183,23">времени,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="183,23">имѣяше:</w>
-<w n="183,23">приходящю</w>
-<w n="183,23">постьному</w>
-<w n="183,23">времени,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="183,23">имяше</w>
-<w n="183,23">приходящю</w>
-<w n="183,23">постному</w>
-<w n="183,23">времени,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>183, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="183"/><div type="block" n="23"><p><app><lem wit="#lem">
+            имяше приходящю постьному времени,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">имѧше. <lb/> приходѧще постному време<lb/>ни.</rdg>
+            <rdg wit="#rad">ѡбычаи. прихо<lb/>дѧщѹ постномѹ временоу.</rdg>
+            <rdg wit="#aka">ѡбычаи. приходѧщю <lb/> постномѹ времени.</rdg>
+            <rdg wit="#ipa">имѧше. приходѧ<lb/>щю бо постьному времени. <lb/></rdg>
+            <rdg wit="#xle">имѧше. приходѧщѫ бѡ постномоу времени. <lb/></rdg>
+            <rdg wit="#kom">обычаи внегда же приходꙗщю постному времени</rdg>
+            <rdg wit="#nak">имꙗше приходꙗщю постъному времени</rdg>
+            <rdg wit="#tol">имꙗше приходꙗщю постному времени</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">имяше, приходящю постному времени,</rdg><rdg wit="#shakh">имѣяше: приходящю постьному времени,</rdg><rdg wit="#likh">имяше приходящю постному времени,</rdg></rdgGrp></app></p></div></body></text></TEI>

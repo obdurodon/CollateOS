@@ -1,100 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>283, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="283"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="283,3">генваря 12</w>
-
-<w n="283,3">дьнь.</w>
-<w n="283,3"><choice><seg>А февраля 5</seg><seg>Месяца въ
-                    15</seg></choice></w>
-<w n="283,3">трясе</w>
-<w n="283,3">земля</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="283,3">генв<hi rend="sup">р</hi></w>
-<w n="283,3">·в҃і·</w>
-<w n="283,3">дн҃ь·:·</w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="283,3">ге<hi rend="sup">н</hi><lb/>варѧ</w>
-<w n="283,3">·в҃і·</w>
-<w n="283,3">а</w>
-<w n="283,3">февр<hi rend="sup">л</hi>а</w>
-<w n="283,3">·е҃·</w>
-<w n="283,3">трѧсесѧ</w>
-<w n="283,3">землѧ·</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="283,3">ге<hi rend="sup">н</hi></w>
-<w n="283,3">·в҃і·</w>
-<w n="283,3">а</w>
-<w n="283,3">фе<hi rend="sup">в</hi></w>
-<w n="283,3">·е҃·</w>
-<w n="283,3">трѧсе·̏сѧ</w>
-<w n="283,3">землѧ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="283,3">генва<lb/>рѧ·</w>
-<w n="283,3">во</w>
-<w n="283,3">вторы</w>
-<w n="283,3">на</w>
-<w n="283,3">·і҃·</w>
-<w n="283,3">дн҃ь·</w>
-<w n="283,3">мц<hi rend="sup">с</hi>а</w>
-<w n="283,3">въ</w>
-<w n="283,3">·е҃і·</w>
-<w n="283,3">дн҃ь·</w>
-<w n="283,3">трѧсе</w>
-<w n="283,3"><milestone unit="sic" n="start"/>землѧ<milestone unit="sic" n="end"/></w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="283,3">ге<hi rend="sup">н</hi>варѧ</w>
-<w n="283,3">въ</w>
-<w n="283,3">.в҃і.</w>
-<w n="283,3">дн҃ь. <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="283,3">генваря 12</w>
-
-<w n="283,3">день.</w>
-<w n="283,3">А</w>
-<w n="283,3">февраля 5</w>
-
-<w n="283,3">трясеся</w>
-<w n="283,3">земля</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="283,3">генваря</w>
-<w n="283,3">въ 12</w>
-
-<w n="283,3">дьнь.</w>
-<w n="283,3">[А</w>
-<w n="283,3">февраля 5</w>
-
-<w n="283,3">трясеся</w>
-<w n="283,3">земля</w>
-<w n="283,3">{ассигнед</w>
-<w n="283,3">то</w>
-<w n="283,3">3рд</w>
-<w n="283,3">редацтион}</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="283,3">генваря 12</w>
-
-<w n="283,3">день.</w>
-<w n="283,3">А</w>
-<w n="283,3">февраля 5</w>
-
-<w n="283,3">трясеся</w>
-<w n="283,3">земля</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>283, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="283"/><div type="block" n="3"><p><app><lem wit="#lem">
+            генваря 12 дьнь. <choice>
+                    <seg>А февраля 5</seg>
+                    <seg>Месяца въ 15</seg>
+                </choice> трясе земля
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">генв<hi rend="sup">р</hi> ·в҃і· дн҃ь·:· </rdg>
+            <rdg wit="#rad">ге<hi rend="sup">н</hi><lb/>варѧ ·в҃і· а февр<hi rend="sup">л</hi>а ·е҃· трѧсесѧ землѧ·</rdg>
+            <rdg wit="#aka">ге<hi rend="sup">н</hi> ·в҃і· а фе<hi rend="sup">в</hi> ·е҃· трѧсе·̏сѧ землѧ</rdg>
+            <rdg wit="#ipa">генва<lb/>рѧ· во вторы на ·і҃· дн҃ь· мц<hi rend="sup">с</hi>а въ ·е҃і· дн҃ь· трѧсе
+                    <sic>землѧ</sic></rdg>
+            <rdg wit="#xle">ге<hi rend="sup">н</hi>варѧ въ .в҃і. дн҃ь. <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">генваря 12 день. А февраля 5 трясеся земля</rdg><rdg wit="#shakh">генваря въ 12 дьнь. [А февраля 5 трясеся земля {assigned to 3rd redaction}</rdg><rdg wit="#likh">генваря 12 день. А февраля 5 трясеся земля</rdg></rdgGrp></app></p></div></body></text></TEI>

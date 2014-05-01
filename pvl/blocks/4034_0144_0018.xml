@@ -1,98 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>144, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="144"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="144,18">рекъ:</w>
-<w n="144,18">“Брата</w>
-<w n="144,18">моя,</w>
-<w n="144,18">аще</w>
-<w n="144,18">еста</w>
-<w n="144,18">тѣлъмь</w>
-<w n="144,18">отъшьла</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="144,18">и</w>
-<w n="144,18">рекъ.</w>
-<w n="144,18">брата</w>
-<w n="144,18">моꙗ</w>
-<w n="144,18">аще</w>
-<w n="144,18">е<lb/>ста</w>
-<w n="144,18">и</w>
-<w n="144,18">тѣломь</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="144,18">рекъ.</w>
-<w n="144,18">бра<hi rend="sup">т</hi>а</w>
-<w n="144,18">моа</w>
-<w n="144,18">аще</w>
-<w n="144,18">еста</w>
-<w n="144,18">тѣло<hi rend="sup">м</hi></w>
-<w n="144,18">ѿшла</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="144,18">рекь.</w>
-<w n="144,18">брать<lb/>ꙗ</w>
-<w n="144,18">моѧ</w>
-<w n="144,18">аще</w>
-<w n="144,18">еста</w>
-<w n="144,18">тѣломъ</w>
-<w n="144,18">ѿош<hi rend="sup">л</hi>а</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="144,18">рекъ.</w>
-<w n="144,18">бра<lb/>та</w>
-<w n="144,18">моꙗ.</w>
-<w n="144,18">аще</w>
-<w n="144,18">есте</w>
-<w n="144,18">ѿсюду <lb/></w>
-
-<w n="144,18">тѣломъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="144,18">ре<hi rend="sup">к</hi>,</w>
-<w n="144,18">бра<hi rend="sup">т</hi>а</w>
-<w n="144,18">моа</w>
-<w n="144,18">аще</w>
-<w n="144,18">еста</w>
-<w n="144,18">тѣлѡ<hi rend="sup">м</hi><lb/></w>
-<w n="144,18">далеча</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="144,18">рекъ:</w>
-<w n="144,18">“брата</w>
-<w n="144,18">моя!</w>
-<w n="144,18">аще</w>
-<w n="144,18">еста</w>
-<w n="144,18">и</w>
-<w n="144,18">тѣломь</w>
-<w n="144,18">отошла</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="144,18">рекъ:</w>
-<w n="144,18">“брата</w>
-<w n="144,18">моя!</w>
-<w n="144,18">аще</w>
-<w n="144,18">еста</w>
-<w n="144,18">и</w>
-<w n="144,18">тѣлъмь</w>
-<w n="144,18">отъшьла</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="144,18">и</w>
-<w n="144,18">рекъ:</w>
-<w n="144,18">“Брата</w>
-<w n="144,18">моя!</w>
-<w n="144,18">Аще</w>
-<w n="144,18">еста</w>
-<w n="144,18">и</w>
-<w n="144,18">тѣломь</w>
-<w n="144,18">отошла</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>144, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="144"/><div type="block" n="18"><p><app><lem wit="#lem">
+            рекъ: “Брата моя, аще еста тѣлъмь отъшьла
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и рекъ. брата моꙗ аще е<lb/>ста и тѣломь</rdg>
+            <rdg wit="#rad">рекъ. бра<hi rend="sup">т</hi>а моа аще еста тѣло<hi rend="sup">м</hi> ѿшла</rdg>
+            <rdg wit="#aka">рекь. брать<lb/>ꙗ моѧ аще еста тѣломъ ѿош<hi rend="sup">л</hi>а</rdg>
+            <rdg wit="#ipa">рекъ. бра<lb/>та моꙗ. аще есте ѿсюду <lb/> тѣломъ</rdg>
+            <rdg wit="#xle">ре<hi rend="sup">к</hi>, бра<hi rend="sup">т</hi>а моа аще еста тѣлѡ<hi rend="sup">м</hi>
+                <lb/> далеча</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">рекъ: “брата моя! аще еста и тѣломь отошла</rdg><rdg wit="#shakh">рекъ: “брата моя! аще еста и тѣлъмь отъшьла</rdg><rdg wit="#likh">и рекъ: “Брата моя! Аще еста и тѣломь отошла</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,93 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>260, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="260"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="260,16">ему,</w>
-<w n="260,16">узьрѣ</w>
-<w n="260,16">Василько</w>
-<w n="260,16">Търчина</w>
-<w n="260,16">остряща</w>
-<w n="260,16">ножь,</w>
-<w n="260,16">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="260,16">ему</w>
-<w n="260,16">оу<lb/>зрѣ</w>
-<w n="260,16">василко</w>
-<w n="260,16">торчина</w>
-<w n="260,16">ѡстрѧ</w>
-<w n="260,16">но<lb/>жь·</w>
-<w n="260,16">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="260,16">видѣ</w>
-<w n="260,16">василко·</w>
-<w n="260,16">торчина·</w>
-<w n="260,16">ѡстрѧща</w>
-<w n="260,16">но<lb/>жь·</w>
-<w n="260,16">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="260,16">видѣ</w>
-<w n="260,16">васил′ко</w>
-<w n="260,16">торчина</w>
-<w n="260,16">ѡстрѧща</w>
-<w n="260,16">ножь·</w>
-<w n="260,16">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="260,16">ему</w>
-<w n="260,16">оузрѣ <lb/></w>
-
-<w n="260,16">василко</w>
-<w n="260,16">торчина</w>
-<w n="260,16">ѡстрѧща <lb/></w>
-
-<w n="260,16">ножь·</w>
-<w n="260,16">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="260,16">емѹ</w>
-<w n="260,16">оузрѣ·̏</w>
-<w n="260,16">васи<hi rend="sup">л</hi>ко</w>
-<w n="260,16">тор′чина</w>
-<w n="260,16">ѡстрѧща</w>
-<w n="260,16">ножъ.</w>
-<w n="260,16">и <pb n="111r"/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="260,16">ему,</w>
-<w n="260,16">узрѣ</w>
-<w n="260,16">Василко</w>
-<w n="260,16">Торчина</w>
-<w n="260,16">остряща</w>
-<w n="260,16">ножь,</w>
-<w n="260,16">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="260,16">ему,</w>
-<w n="260,16">узьрѣ</w>
-<w n="260,16">Василько</w>
-<w n="260,16">Търчина,</w>
-<w n="260,16">остряща</w>
-<w n="260,16">ножь,</w>
-<w n="260,16">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="260,16">ему,</w>
-<w n="260,16">узрѣ</w>
-<w n="260,16">Василко</w>
-<w n="260,16">торчина</w>
-<w n="260,16">остряща</w>
-<w n="260,16">ножь,</w>
-<w n="260,16">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>260, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="260"/><div type="block" n="16"><p><app><lem wit="#lem">
+            ему, узьрѣ Василько Търчина остряща ножь, и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ему оу<lb/>зрѣ василко торчина ѡстрѧ но<lb/>жь· и</rdg>
+            <rdg wit="#rad">видѣ василко· торчина· ѡстрѧща но<lb/>жь· и</rdg>
+            <rdg wit="#aka">видѣ васил′ко торчина ѡстрѧща ножь· и</rdg>
+            <rdg wit="#ipa">ему оузрѣ <lb/> василко торчина ѡстрѧща <lb/> ножь· и</rdg>
+            <rdg wit="#xle">емѹ  оузрѣ·̏ васи<hi rend="sup">л</hi>ко тор′чина ѡстрѧща ножъ. и
+                    <pb n="111r"/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">ему, узрѣ Василко Торчина остряща ножь, и</rdg><rdg wit="#shakh">ему, узьрѣ Василько Търчина, остряща ножь, и</rdg><rdg wit="#likh">ему, узрѣ Василко торчина остряща ножь, и</rdg></rdgGrp></app></p></div></body></text></TEI>

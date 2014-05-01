@@ -1,103 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>73, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="73"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="73,5">ни</w>
-<w n="73,5">на</w>
-<w n="73,5">власть</w>
-<w n="73,5">Кърсуньскую,</w>
-<w n="73,5">и</w>
-<w n="73,5">елико</w>
-<w n="73,5">есть</w>
-<w n="73,5">градовъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="73,5">ни</w>
-<w n="73,5">на</w>
-<w n="73,5">власт<hi rend="sup">ь</hi><lb/></w>
-<w n="73,5">корсуньскую.</w>
-<w n="73,5">и</w>
-<w n="73,5">елико</w>
-<w n="73,5">есть</w>
-<w n="73,5">городовъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="73,5">ни</w>
-<w n="73,5">на</w>
-<w n="73,5">власть</w>
-<w n="73,5">корсоуньскѹю.</w>
-<w n="73,5">и</w>
-<w n="73,5">елико</w>
-<w n="73,5">е<hi rend="sup">с</hi></w>
-<w n="73,5">горо<hi rend="sup">д</hi>въ <pb n="40r"/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="73,5">ни</w>
-<w n="73,5">власть</w>
-<w n="73,5">корсуньскую. <lb/></w>
-
-<w n="73,5">и</w>
-<w n="73,5">елико</w>
-<w n="73,5">есть</w>
-<w n="73,5">городовъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="73,5">ни <lb/></w>
-
-<w n="73,5">на</w>
-<w n="73,5">власть</w>
-<w n="73,5">коръсуньску<lb/>ю.</w>
-<w n="73,5">и</w>
-<w n="73,5">елико</w>
-<w n="73,5">есть</w>
-<w n="73,5">го<milestone unit="sic" n="start"/>д<milestone unit="sic" n="end"/>ъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="73,5">ни</w>
-<w n="73,5">власть <lb/></w>
-
-<w n="73,5">корсоу<hi rend="sup">н</hi>скоую.</w>
-<w n="73,5">и</w>
-<w n="73,5">елико</w>
-<w n="73,5">е<hi rend="sup">с</hi></w>
-<w n="73,5">градовь</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="73,5">ни</w>
-<w n="73,5">на</w>
-<w n="73,5">власть</w>
-<w n="73,5">Корсуньскую</w>
-<w n="73,5">и</w>
-<w n="73,5">елико</w>
-<w n="73,5">есть</w>
-<w n="73,5">городовъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="73,5">ни</w>
-<w n="73,5">на</w>
-<w n="73,5">власть</w>
-<w n="73,5">Кърсуньскую,</w>
-<w n="73,5">и</w>
-<w n="73,5">елико</w>
-<w n="73,5">есть</w>
-<w n="73,5">градъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="73,5">ни</w>
-<w n="73,5">на</w>
-<w n="73,5">власть</w>
-<w n="73,5">корсуньскую</w>
-<w n="73,5">и</w>
-<w n="73,5">елико</w>
-<w n="73,5">есть</w>
-<w n="73,5">городовъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>73, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="73"/><div type="block" n="5"><p><app><lem wit="#lem">
+            ни на власть Кърсуньскую, и елико есть градовъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ни на власт<hi rend="sup">ь</hi>
+                <lb/> корсуньскую. и елико есть городовъ</rdg>
+            <rdg wit="#rad">ни на власть корсоуньскѹю. и елико е<hi rend="sup">с</hi> горо<hi rend="sup">д</hi>въ
+                    <pb n="40r"/></rdg>
+            <rdg wit="#aka">ни власть корсуньскую. <lb/> и елико есть городовъ</rdg>
+            <rdg wit="#ipa">ни <lb/> на власть коръсуньску<lb/>ю. и елико есть го<sic>д</sic>ъ</rdg>
+            <rdg wit="#xle">ни власть <lb/> корсоу<hi rend="sup">н</hi>скоую. и елико е<hi rend="sup">с</hi> градовь</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">ни на власть Корсуньскую и елико есть городовъ</rdg><rdg wit="#shakh">ни на власть Кърсуньскую, и елико есть градъ</rdg><rdg wit="#likh">ни на власть корсуньскую и елико есть городовъ</rdg></rdgGrp></app></p></div></body></text></TEI>

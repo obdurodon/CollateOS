@@ -1,80 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>32, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="32"/><div type="block" n="27"><p>
-<app>
-<lem wit="#lem">
-<w n="32,27">“Равьно</w>
-<w n="32,27">другаго</w>
-<w n="32,27">съвещания,</w>
-<w n="32,27">бывъшаго</w>
-<w n="32,27">при</w>
-<w n="32,27">тѣхъ-</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="32,27">равно</w>
-<w n="32,27">дрѹгаго</w>
-<w n="32,27">свещаниꙗ. <lb/></w>
-
-<w n="32,27">бывша<hi rend="sup">г</hi></w>
-<w n="32,27">при</w>
-<w n="32,27">тѣ<hi rend="sup">х</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="32,27">равно <lb/></w>
-
-<w n="32,27">дрѹгаго</w>
-<w n="32,27">свещанїа.</w>
-<w n="32,27">бывшаго</w>
-<w n="32,27">прї</w>
-<w n="32,27">тѣх</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="32,27">равно</w>
-<w n="32,27">другаго <lb/></w>
-
-<w n="32,27">свѣщаниꙗ.</w>
-<w n="32,27">бывшаго</w>
-<w n="32,27">пр<hi rend="sup">и</hi><lb/></w>
-<w n="32,27">тѣхъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="32,27">равно</w>
-<w n="32,27">дроугаго</w>
-<w n="32,27">съвѣщанїа</w>
-<w n="32,27">бывша</w>
-<w n="32,27">при</w>
-<w n="32,27">тѣ<hi rend="sup">х</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="32,27">“Равно</w>
-<w n="32,27">другаго</w>
-<w n="32,27">свещания,</w>
-<w n="32,27">бывшаго</w>
-<w n="32,27">при</w>
-<w n="32,27">тѣх-</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="32,27">Равьно</w>
-<w n="32,27">другаго</w>
-<w n="32,27">съвещания,</w>
-<w n="32,27">бывъшаго</w>
-<w n="32,27">при</w>
-<w n="32,27">тѣхъ-</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="32,27">“Равно</w>
-<w n="32,27">другаго</w>
-<w n="32,27">свещания,</w>
-<w n="32,27">бывшаго</w>
-<w n="32,27">при</w>
-<w n="32,27">тѣх</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>32, 27</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="32"/><div type="block" n="27"><p><app><lem wit="#lem">
+            “Равьно другаго съвещания, бывъшаго при тѣхъ-
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">равно дрѹгаго свещаниꙗ. <lb/> бывша<hi rend="sup">г</hi> при тѣ<hi rend="sup">х</hi></rdg>
+            <rdg wit="#aka">равно <lb/> дрѹгаго свещанїа. бывшаго прї тѣх</rdg>
+            <rdg wit="#ipa">равно другаго <lb/> свѣщаниꙗ. бывшаго пр<hi rend="sup">и</hi>
+                <lb/> тѣхъ</rdg>
+            <rdg wit="#xle">равно дроугаго съвѣщанїа бывша при тѣ<hi rend="sup">х</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">“Равно другаго свещания, бывшаго при тѣх-</rdg><rdg wit="#shakh">Равьно другаго съвещания, бывъшаго при тѣхъ-</rdg><rdg wit="#likh">“Равно другаго свещания, бывшаго при тѣх</rdg></rdgGrp></app></p></div></body></text></TEI>

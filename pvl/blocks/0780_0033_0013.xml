@@ -1,87 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>33, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="33"/><div type="block" n="13"><p>
-<app>
-<lem wit="#lem">
-<w n="33,13">свѣтьлость,</w>
-<w n="33,13">боле</w>
-<w n="33,13">инѣхъ</w>
-<w n="33,13">хотящи</w>
-<w n="33,13">же</w>
-<w n="33,13">о</w>
-<w n="33,13">Бозѣ</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="33,13">свѣтлость</w>
-<w n="33,13">болѣ</w>
-<w n="33,13">инѣ<hi rend="sup">х</hi></w>
-<w n="33,13">хотѧщихъ <lb/></w>
-
-<w n="33,13">еже</w>
-<w n="33,13">ѡ</w>
-<w n="33,13">б҃зѣ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="33,13">свѣтлость</w>
-<w n="33,13">боле</w>
-<w n="33,13">иныхъ</w>
-<w n="33,13">еже <lb/></w>
-
-<w n="33,13">ѡ</w>
-<w n="33,13">б҃зѣ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="33,13">свѣт<milestone unit="sic" n="start"/>ло<milestone unit="sic" n="end"/>сть</w>
-<w n="33,13">бо<lb/>ле</w>
-<w n="33,13">инѣхъ.</w>
-<w n="33,13">хотѧщихъ</w>
-<w n="33,13">же</w>
-<w n="33,13">ѡ <lb/></w>
-
-<w n="33,13">б҃зѣ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="33,13">свѣтлѡ<hi rend="sup">с</hi><lb/></w>
-<w n="33,13">боле</w>
-<w n="33,13">инѣ<hi rend="sup">х</hi>.</w>
-<w n="33,13">хотѧщи<hi rend="sup">х</hi></w>
-<w n="33,13">же</w>
-<w n="33,13">ѡ</w>
-<w n="33,13">б҃ѕѣ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="33,13">свѣтлость</w>
-<w n="33,13">болѣ</w>
-<w n="33,13">инѣхъ</w>
-<w n="33,13">хотящи</w>
-<w n="33,13">еже</w>
-<w n="33,13">о</w>
-<w n="33,13">Бозѣ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="33,13">свѣтьлость,</w>
-<w n="33,13">боле</w>
-<w n="33,13">инѣхъ</w>
-<w n="33,13">хотящи</w>
-<w n="33,13">еже</w>
-<w n="33,13">о</w>
-<w n="33,13">Бозѣ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="33,13">свѣтлость</w>
-<w n="33,13">болѣ</w>
-<w n="33,13">инѣх</w>
-<w n="33,13">хотящи</w>
-<w n="33,13">еже</w>
-<w n="33,13">о</w>
-<w n="33,13">бозѣ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>33, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="33"/><div type="block" n="13"><p><app><lem wit="#lem">
+            свѣтьлость, боле инѣхъ хотящи же о Бозѣ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">свѣтлость болѣ инѣ<hi rend="sup">х</hi> хотѧщихъ <lb/> еже ѡ б҃зѣ</rdg>
+            <rdg wit="#aka">свѣтлость боле иныхъ еже <lb/> ѡ б҃зѣ</rdg>
+            <rdg wit="#ipa">свѣт<sic>ло</sic>сть бо<lb/>ле инѣхъ. хотѧщихъ же ѡ <lb/> б҃зѣ</rdg>
+            <rdg wit="#xle">свѣтлѡ<hi rend="sup">с</hi>
+                <lb/> боле инѣ<hi rend="sup">х</hi>. хотѧщи<hi rend="sup">х</hi> же ѡ б҃ѕѣ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">свѣтлость болѣ инѣхъ хотящи еже о Бозѣ</rdg><rdg wit="#shakh">свѣтьлость, боле инѣхъ хотящи еже о Бозѣ</rdg><rdg wit="#likh">свѣтлость болѣ инѣх хотящи еже о бозѣ</rdg></rdgGrp></app></p></div></body></text></TEI>

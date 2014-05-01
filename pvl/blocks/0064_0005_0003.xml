@@ -1,105 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>5, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="5"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="5,3">И</w>
-<w n="5,3">умъноживъшимъ</w>
-<w n="5,3">ся</w>
-<w n="5,3">человѣкомъ</w>
-<w n="5,3">на</w>
-<w n="5,3">земли,</w>
-<w n="5,3">и</w>
-<w n="5,3">помыслиша</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="5,3">и</w>
-<w n="5,3">оумножившемъсѧ</w>
-<w n="5,3">чл҃вкомъ</w>
-<w n="5,3">на <lb/></w>
-
-<w n="5,3">земли</w>
-<w n="5,3">помыслиша</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="5,3">и</w>
-<w n="5,3">умножившемъся</w>
-<w n="5,3">человѣкомъ</w>
-<w n="5,3">на</w>
-<w n="5,3">земли</w>
-<w n="5,3">и</w>
-<w n="5,3">помыслиша</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="5,3">и</w>
-<w n="5,3">умножившимъсѧ <lb/></w>
-
-<w n="5,3">ч҃лкомъ</w>
-<w n="5,3">на</w>
-<w n="5,3">земли</w>
-<w n="5,3">и</w>
-<w n="5,3">помыслыша</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="5,3">и</w>
-<w n="5,3">оумножившимсѧ</w>
-<w n="5,3">чл҃вкомъ</w>
-<w n="5,3">на</w>
-<w n="5,3">земли.</w>
-<w n="5,3">и</w>
-<w n="5,3">помы<lb/>слиша</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="5,3">и</w>
-<w n="5,3">оумноживши<milestone unit="sic" n="start"/>вши<milestone unit="sic" n="end"/>мсѧ <lb/></w>
-
-<w n="5,3">члвк<hi rend="sup">м</hi>о</w>
-<w n="5,3">на</w>
-<w n="5,3">земли.</w>
-<w n="5,3">и</w>
-<w n="5,3">помы<lb/>слиша</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="5,3">оумнѡжившимсѧ <lb/></w>
-
-<w n="5,3">члк<hi rend="sup">м</hi>ѡ</w>
-<w n="5,3">на</w>
-<w n="5,3">зе<hi rend="sup">м</hi>ли.</w>
-<w n="5,3">и</w>
-<w n="5,3">помыслиша</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="5,3">И</w>
-<w n="5,3">умножившемъся</w>
-<w n="5,3">человѣкомъ</w>
-<w n="5,3">на</w>
-<w n="5,3">земли,</w>
-<w n="5,3">и</w>
-<w n="5,3">помыслиша</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="5,3">И</w>
-<w n="5,3">умъноживъшемъся</w>
-<w n="5,3">человѣкомъ</w>
-<w n="5,3">на</w>
-<w n="5,3">земли,</w>
-<w n="5,3">и</w>
-<w n="5,3">помыслиша</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="5,3">И</w>
-<w n="5,3">умножившемъся</w>
-<w n="5,3">человѣкомъ</w>
-<w n="5,3">на</w>
-<w n="5,3">земли,</w>
-<w n="5,3">и</w>
-<w n="5,3">помыслиша</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>5, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="5"/><div type="block" n="3"><p><app><lem wit="#lem">
+            И умъноживъшимъ ся человѣкомъ на земли, и помыслиша
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и оумножившемъсѧ чл҃вкомъ на <lb/> земли помыслиша</rdg>
+            <rdg wit="#tro">и умножившемъся человѣкомъ на земли и помыслиша</rdg>
+            <rdg wit="#rad">и умножившимъсѧ <lb/> ч҃лкомъ на земли и помыслыша</rdg>
+            <rdg wit="#aka">и оумножившимсѧ чл҃вкомъ на земли. и помы<lb/>слиша</rdg>
+            <rdg wit="#ipa">и оумноживши<sic>вши</sic>мсѧ <lb/> члвк<hi rend="sup">м</hi>о на земли. и
+                помы<lb/>слиша</rdg>
+            <rdg wit="#xle">оумнѡжившимсѧ <lb/> члк<hi rend="sup">м</hi>ѡ на зе<hi rend="sup">м</hi>ли. и помыслиша</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">И умножившемъся человѣкомъ на земли, и помыслиша</rdg><rdg wit="#shakh">И умъноживъшемъся человѣкомъ на земли, и помыслиша</rdg><rdg wit="#likh">И умножившемъся человѣкомъ на земли, и помыслиша</rdg></rdgGrp></app></p></div></body></text></TEI>

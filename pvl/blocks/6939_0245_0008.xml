@@ -1,51 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>245, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="245"/><div type="block" n="8"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="245,8">ѡ</w>
-<w n="245,8">грѣсѣ<hi rend="sup">х</hi></w>
-<w n="245,8">свои<hi rend="sup">х</hi></w>
-<w n="245,8">ре<lb/>куще·</w>
-<w n="245,8">ꙗко<hi rend="sup">ж</hi></w>
-<w n="245,8">блудницю</w>
-<w n="245,8">и</w>
-<w n="245,8">разбо<lb/>иника·</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="245,8">о</w>
-<w n="245,8">грѣсѣхъ</w>
-<w n="245,8">своихъ,</w>
-<w n="245,8">рекуще:</w>
-<w n="245,8">якоже</w>
-<w n="245,8">блудницю</w>
-<w n="245,8">и</w>
-<w n="245,8">разбойника</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="245,8">о</w>
-<w n="245,8">грѣсѣх</w>
-<w n="245,8">своих,</w>
-<w n="245,8">рекуще:</w>
-<w n="245,8">яко</w>
-<w n="245,8">же</w>
-<w n="245,8">блудницю</w>
-<w n="245,8">и</w>
-<w n="245,8">разбойника</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>245, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="245"/><div type="block" n="8"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѡ грѣсѣ<hi rend="sup">х</hi> свои<hi rend="sup">х</hi> ре<lb/>куще· ꙗко<hi rend="sup">ж</hi> блудницю и
+                разбо<lb/>иника·</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">о грѣсѣхъ своихъ, рекуще: якоже блудницю и разбойника</rdg><rdg wit="#likh">о грѣсѣх своих, рекуще: яко же блудницю и разбойника</rdg></rdgGrp></app></p></div></body></text></TEI>

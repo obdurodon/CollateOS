@@ -1,99 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>173, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="173"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-<w n="173,2">отъ</w>
-<w n="173,2">бѣсовъ</w>
-<w n="173,2">мьчьтания,</w>
-<w n="173,2">знаменавъше</w>
-<w n="173,2">лице</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="173,2">ѿ</w>
-<w n="173,2">бѣсъ</w>
-<w n="173,2">мечтань<lb/>ꙗ</w>
-<w n="173,2">знаменавше</w>
-<w n="173,2">лице</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="173,2">ѿ</w>
-<w n="173,2">бесовъ</w>
-<w n="173,2">мечтаниꙗ.</w>
-<w n="173,2">знаменавше <lb/></w>
-
-<w n="173,2">лице</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="173,2">ѿ</w>
-<w n="173,2">бе<lb/>совъ</w>
-<w n="173,2">мечтанїѧ.</w>
-<w n="173,2">знаменавше</w>
-<w n="173,2">лице</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="173,2">ѿ</w>
-<w n="173,2">бѣ<lb/>совъ</w>
-<w n="173,2">мѣчтание.</w>
-<w n="173,2">знаменавъ<lb/>ше</w>
-<w n="173,2">лице</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="173,2">ѿ</w>
-<w n="173,2">бѣсовь</w>
-<w n="173,2">мечтанїе.</w>
-<w n="173,2">знаменавше</w>
-<w n="173,2">лице</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="173,2">от</w>
-<w n="173,2">бѣсовъ</w>
-<w n="173,2">мечтаниа</w>
-<w n="173,2">знаменавше</w>
-<w n="173,2">лице</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="173,2">от</w>
-<w n="173,2">бѣсовъ</w>
-<w n="173,2">мьчтаниа</w>
-<w n="173,2">знаменавши</w>
-<w n="173,2">лице</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="173,2">от</w>
-<w n="173,2">бѣсовъ</w>
-<w n="173,2">мечтаниꙗ</w>
-<w n="173,2">знаменавши</w>
-<w n="173,2">лице</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="173,2">отъ</w>
-<w n="173,2">бѣсъ</w>
-<w n="173,2">мечтанья,</w>
-<w n="173,2">знаменавше</w>
-<w n="173,2">лице</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="173,2">отъ</w>
-<w n="173,2">бѣсъ</w>
-<w n="173,2">мьчьтания,</w>
-<w n="173,2">знаменавъше</w>
-<w n="173,2">лице</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="173,2">от</w>
-<w n="173,2">бѣсъ</w>
-<w n="173,2">мечтанья,</w>
-<w n="173,2">знаменавше</w>
-<w n="173,2">лице</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>173, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="173"/><div type="block" n="2"><p><app><lem wit="#lem">
+            отъ бѣсовъ мьчьтания, знаменавъше лице
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѿ бѣсъ мечтань<lb/>ꙗ знаменавше лице</rdg>
+            <rdg wit="#rad">ѿ бесовъ мечтаниꙗ. знаменавше <lb/> лице</rdg>
+            <rdg wit="#aka">ѿ бе<lb/>совъ мечтанїѧ. знаменавше лице</rdg>
+            <rdg wit="#ipa">ѿ бѣ<lb/>совъ мѣчтание. знаменавъ<lb/>ше лице</rdg>
+            <rdg wit="#xle">ѿ бѣсовь мечтанїе. знаменавше лице</rdg>
+            <rdg wit="#kom">от бѣсовъ мечтаниа знаменавше лице</rdg>
+            <rdg wit="#nak">от бѣсовъ мьчтаниа знаменавши лице</rdg>
+            <rdg wit="#tol">от бѣсовъ мечтаниꙗ знаменавши лице</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">отъ бѣсъ мечтанья, знаменавше лице</rdg><rdg wit="#shakh">отъ бѣсъ мьчьтания, знаменавъше лице</rdg><rdg wit="#likh">от бѣсъ мечтанья, знаменавше лице</rdg></rdgGrp></app></p></div></body></text></TEI>

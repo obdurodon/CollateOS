@@ -1,88 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>21, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="21"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="21,3">дань</w>
-<w n="21,3">Козаромъ”.</w>
-<w n="21,3">Асколдъ</w>
-<w n="21,3">же</w>
-<w n="21,3">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="21,3">дань</w>
-<w n="21,3">родомъ</w>
-<w n="21,3">и<hi rend="sup">х</hi></w>
-<w n="21,3">козаромъ.</w>
-<w n="21,3">аколъдо</w>
-<w n="21,3">же.</w>
-<w n="21,3">и</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="21,3">дань</w>
-<w n="21,3">родомъ</w>
-<w n="21,3">ихъ</w>
-<w n="21,3">козаромъ</w>
-<w n="21,3">асколдъ</w>
-<w n="21,3">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="21,3">дань</w>
-<w n="21,3">козаромъ <lb/></w>
-
-<w n="21,3">асколдъ<hi rend="sup">ж</hi></w>
-<w n="21,3">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="21,3">дань <lb/></w>
-
-<w n="21,3">козарѡмъ.</w>
-<w n="21,3">асколдъ</w>
-<w n="21,3">же</w>
-<w n="21,3">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="21,3">дань</w>
-<w n="21,3">козаро<hi rend="sup">м</hi>.</w>
-<w n="21,3">аск<hi rend="sup">о</hi><lb/>лдъ</w>
-<w n="21,3">же</w>
-<w n="21,3">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="21,3">дань</w>
-<w n="21,3">козарѡ<hi rend="sup">м</hi>.</w>
-<w n="21,3">асколдь</w>
-<w n="21,3">же</w>
-<w n="21,3">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="21,3">дань</w>
-<w n="21,3">родомъ</w>
-<w n="21,3">ихъ</w>
-<w n="21,3">Козаромъ”.</w>
-<w n="21,3">Асколдъ</w>
-<w n="21,3">же</w>
-<w n="21,3">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="21,3">дань</w>
-<w n="21,3">Козаромъ”.</w>
-<w n="21,3">Асколдъ</w>
-<w n="21,3">же</w>
-<w n="21,3">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="21,3">дань</w>
-<w n="21,3">козаромъ”.</w>
-<w n="21,3">Асколдъ</w>
-<w n="21,3">же</w>
-<w n="21,3">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>21, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="21"/><div type="block" n="3"><p><app><lem wit="#lem">
+            дань Козаромъ”. Асколдъ же и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">дань родомъ и<hi rend="sup">х</hi> козаромъ. аколъдо же. и</rdg>
+            <rdg wit="#tro">дань родомъ ихъ козаромъ асколдъ и</rdg>
+            <rdg wit="#rad">дань козаромъ <lb/> асколдъ<hi rend="sup">ж</hi> и</rdg>
+            <rdg wit="#aka">дань <lb/> козарѡмъ. асколдъ же и</rdg>
+            <rdg wit="#ipa">дань козаро<hi rend="sup">м</hi>. аск<hi rend="sup">о</hi><lb/>лдъ же и</rdg>
+            <rdg wit="#xle">дань козарѡ<hi rend="sup">м</hi>. асколдь же и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">дань родомъ ихъ Козаромъ”. Асколдъ же и</rdg><rdg wit="#shakh">дань Козаромъ”. Асколдъ же и</rdg><rdg wit="#likh">дань козаромъ”. Асколдъ же и</rdg></rdgGrp></app></p></div></body></text></TEI>

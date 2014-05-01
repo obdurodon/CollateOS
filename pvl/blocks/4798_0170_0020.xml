@@ -1,105 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>170, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="170"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="170,20">повелѣнию</w>
-<w n="170,20">приемлемъ</w>
-<w n="170,20">казнь</w>
-<w n="170,20">грѣхъ</w>
-<w n="170,20">ради</w>
-<w n="170,20">нашихъ”.</w>
-<w n="170,20">И</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="170,20">повелѣнью.</w>
-<w n="170,20">приѥмле<hi rend="sup">м</hi></w>
-<w n="170,20">казнь <lb/></w>
-
-<w n="170,20">грѣхъ</w>
-<w n="170,20">ради</w>
-<w n="170,20">наши<hi rend="sup">х</hi>.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="170,20">повелѣ<lb/>нию.</w>
-<w n="170,20">приемлемъ</w>
-<w n="170,20">казнь.</w>
-<w n="170,20">грѣ<hi rend="sup">х</hi></w>
-<w n="170,20">ради</w>
-<w n="170,20">наши<hi rend="sup">х</hi>.</w>
-<w n="170,20">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="170,20">повелению.</w>
-<w n="170,20">приемле<lb/>мь</w>
-<w n="170,20">казнь</w>
-<w n="170,20">грѣ<hi rend="sup">х</hi></w>
-<w n="170,20">ради</w>
-<w n="170,20">наши<hi rend="sup">х</hi>.</w>
-<w n="170,20">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="170,20">повелению.</w>
-<w n="170,20">приемлемь <lb/></w>
-
-<w n="170,20">казнь</w>
-<w n="170,20">грѣ<milestone unit="sic" n="start"/>х<milestone unit="sic" n="end"/>ъ</w>
-<w n="170,20">ради</w>
-<w n="170,20">нашихъ.</w>
-<w n="170,20">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="170,20">повеленїю <lb/></w>
-
-<w n="170,20">прїемле<hi rend="sup">м</hi></w>
-<w n="170,20">казнь</w>
-<w n="170,20">грѣ<hi rend="sup">х</hi></w>
-<w n="170,20">р<hi rend="sup">д</hi>а<hi rend="sup">и</hi></w>
-<w n="170,20">наши<hi rend="sup">х</hi>.</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="170,20">повелѣнию</w>
-<w n="170,20">приемлемъ</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="170,20">повелѣнию</w>
-<w n="170,20">приемлемъ</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="170,20">повелѣнию</w>
-<w n="170,20">приемлемъ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="170,20">повелѣнью</w>
-<w n="170,20">приемлем</w>
-<w n="170,20">казнь</w>
-<w n="170,20">грѣхъ</w>
-<w n="170,20">ради</w>
-<w n="170,20">нашихъ.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="170,20">повелѣнию</w>
-<w n="170,20">приемлемъ</w>
-<w n="170,20">казнь</w>
-<w n="170,20">грѣхъ</w>
-<w n="170,20">ради</w>
-<w n="170,20">нашихъ”.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="170,20">повелѣнью</w>
-<w n="170,20">приемлем</w>
-<w n="170,20">казнь</w>
-<w n="170,20">грѣхъ</w>
-<w n="170,20">ради</w>
-<w n="170,20">наших”.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>170, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="170"/><div type="block" n="20"><p><app><lem wit="#lem">
+            повелѣнию приемлемъ казнь грѣхъ ради нашихъ”. И
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">повелѣнью. приѥмле<hi rend="sup">м</hi> казнь <lb/> грѣхъ ради наши<hi rend="sup">х</hi>.</rdg>
+            <rdg wit="#rad">повелѣ<lb/>нию. приемлемъ казнь. грѣ<hi rend="sup">х</hi> ради наши<hi rend="sup">х</hi>. и</rdg>
+            <rdg wit="#aka">повелению. приемле<lb/>мь казнь грѣ<hi rend="sup">х</hi> ради наши<hi rend="sup">х</hi>. и</rdg>
+            <rdg wit="#ipa">повелению. приемлемь <lb/> казнь грѣ<sic>х</sic>ъ ради нашихъ. и</rdg>
+            <rdg wit="#xle">повеленїю <lb/> прїемле<hi rend="sup">м</hi> казнь грѣ<hi rend="sup">х</hi>
+                    р<hi rend="sup">д</hi>а<hi rend="sup">и</hi> наши<hi rend="sup">х</hi>.</rdg>
+            <rdg wit="#kom">повелѣнию приемлемъ</rdg>
+            <rdg wit="#nak">повелѣнию приемлемъ</rdg>
+            <rdg wit="#tol">повелѣнию приемлемъ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">повелѣнью приемлем казнь грѣхъ ради нашихъ.</rdg><rdg wit="#shakh">повелѣнию приемлемъ казнь грѣхъ ради нашихъ”.</rdg><rdg wit="#likh">повелѣнью приемлем казнь грѣхъ ради наших”.</rdg></rdgGrp></app></p></div></body></text></TEI>

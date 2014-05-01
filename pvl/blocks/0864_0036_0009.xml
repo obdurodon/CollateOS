@@ -1,92 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>36, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="36"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="36,9">цѣну</w>
-<w n="36,9">его</w>
-<w n="36,9">купящии,</w>
-<w n="36,9">или</w>
-<w n="36,9">мьниться</w>
-<w n="36,9">въ</w>
-<w n="36,9">куплю</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="36,9">цѣнѹ</w>
-<w n="36,9">е<hi rend="sup">г</hi></w>
-<w n="36,9">коупѧщїи.</w>
-<w n="36,9">или</w>
-<w n="36,9">мни<lb/>ть<hi rend="sup">с</hi></w>
-<w n="36,9">в</w>
-<w n="36,9">коуплю</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="36,9">ценѹ</w>
-<w n="36,9">его</w>
-<w n="36,9">кѹпѧщїи. <lb/></w>
-
-<w n="36,9">илї</w>
-<w n="36,9">мнїть</w>
-<w n="36,9">сѧ</w>
-<w n="36,9">в</w>
-<w n="36,9">кѹплю</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="36,9"><milestone unit="sic" n="start"/>ц<milestone unit="sic" n="end"/>ѣну <lb/></w>
-
-<w n="36,9">его</w>
-<w n="36,9">купѧщии.</w>
-<w n="36,9">или</w>
-<w n="36,9">мнить <lb/></w>
-
-<w n="36,9">сѧ</w>
-<w n="36,9">въ</w>
-<w n="36,9">куплю</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="36,9">цѣноу</w>
-<w n="36,9">е<hi rend="sup">г</hi></w>
-<w n="36,9">коупѧщїи.</w>
-<w n="36,9">или</w>
-<w n="36,9">мнит</w>
-<w n="36,9">сѧ</w>
-<w n="36,9">в</w>
-<w n="36,9">коуплю <pb n="13r"/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="36,9">цѣну</w>
-<w n="36,9">его</w>
-<w n="36,9">купящии,</w>
-<w n="36,9">или</w>
-<w n="36,9">мниться</w>
-<w n="36,9">в</w>
-<w n="36,9">куплю</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="36,9">цѣну</w>
-<w n="36,9">его</w>
-<w n="36,9">купящии,</w>
-<w n="36,9">и</w>
-<w n="36,9">мьниться</w>
-<w n="36,9">въ</w>
-<w n="36,9">куплю</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="36,9">цѣну</w>
-<w n="36,9">его</w>
-<w n="36,9">купящии,</w>
-<w n="36,9">или</w>
-<w n="36,9">мниться</w>
-<w n="36,9">в</w>
-<w n="36,9">куплю</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>36, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="36"/><div type="block" n="9"><p><app><lem wit="#lem">
+            цѣну его купящии, или мьнить ся въ куплю
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">цѣнѹ е<hi rend="sup">г</hi> коупѧщїи. или мни<lb/>ть<hi rend="sup">с</hi> в коуплю</rdg>
+            <rdg wit="#aka">ценѹ его кѹпѧщїи. <lb/> илї мнїть сѧ в кѹплю</rdg>
+            <rdg wit="#ipa"><sic>ц</sic>ѣну <lb/> его купѧщии. или мнить <lb/> сѧ въ куплю</rdg>
+            <rdg wit="#xle">цѣноу е<hi rend="sup">г</hi> коупѧщїи.  или мнит сѧ в коуплю
+                <pb n="13r"/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">цѣну его купящии, или мниться в куплю</rdg><rdg wit="#shakh">цѣну его купящии, и мьниться въ куплю</rdg><rdg wit="#likh">цѣну его купящии, или мниться в куплю</rdg></rdgGrp></app></p></div></body></text></TEI>

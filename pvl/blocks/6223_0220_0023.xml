@@ -1,88 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>220, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="220"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="220,23">ону</w>
-<w n="220,23">страну</w>
-<w n="220,23">Дънѣпра,</w>
-<w n="220,23">плака</w>
-<w n="220,23">ся</w>
-<w n="220,23">по</w>
-<w n="220,23">братѣ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="220,23">ѡну</w>
-<w n="220,23">сторо<lb/>ну</w>
-<w n="220,23">днѣпра·</w>
-<w n="220,23">плакасѧ</w>
-<w n="220,23">по</w>
-<w n="220,23">брат<hi rend="sup">ѣ</hi><lb/></w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="220,23">ѡноу</w>
-<w n="220,23">страноу</w>
-<w n="220,23">дне<lb/>пра·</w>
-<w n="220,23">и</w>
-<w n="220,23">плакасѧ</w>
-<w n="220,23">по</w>
-<w n="220,23">брате</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="220,23">ѡнѹ</w>
-<w n="220,23">странѹ</w>
-<w n="220,23">дн҃епра· <lb/></w>
-
-<w n="220,23">и</w>
-<w n="220,23">плакасѧ</w>
-<w n="220,23">по</w>
-<w n="220,23">братѣ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="220,23">ѡну</w>
-<w n="220,23">сторону <lb/></w>
-
-<w n="220,23">днѣпра·</w>
-<w n="220,23">плакасѧ</w>
-<w n="220,23">по</w>
-<w n="220,23">бра<hi rend="sup">т</hi><lb/></w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="220,23">оноу</w>
-<w n="220,23">страу<hi rend="sup">н</hi><lb/></w>
-<w n="220,23">днѣпра.</w>
-<w n="220,23">плакасѧ</w>
-<w n="220,23">по</w>
-<w n="220,23">братѣ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="220,23">ону</w>
-<w n="220,23">сторону</w>
-<w n="220,23">Днѣпра,</w>
-<w n="220,23">плакася</w>
-<w n="220,23">по</w>
-<w n="220,23">братѣ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="220,23">ону</w>
-<w n="220,23">страну</w>
-<w n="220,23">Дънѣпра,</w>
-<w n="220,23">плакася</w>
-<w n="220,23">по</w>
-<w n="220,23">братѣ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="220,23">ону</w>
-<w n="220,23">сторону</w>
-<w n="220,23">Днѣпра,</w>
-<w n="220,23">плакася</w>
-<w n="220,23">по</w>
-<w n="220,23">братѣ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>220, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="220"/><div type="block" n="23"><p><app><lem wit="#lem">
+            ону страну Дънѣпра, плака ся по братѣ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѡну сторо<lb/>ну днѣпра· плакасѧ по брат<hi rend="sup">ѣ</hi>
+                <lb/></rdg>
+            <rdg wit="#rad">ѡноу страноу дне<lb/>пра· и плакасѧ по брате</rdg>
+            <rdg wit="#aka">ѡнѹ странѹ дн҃епра· <lb/> и плакасѧ по братѣ</rdg>
+            <rdg wit="#ipa">ѡну сторону <lb/> днѣпра· плакасѧ по бра<hi rend="sup">т</hi>
+                <lb/></rdg>
+            <rdg wit="#xle">оноу страу<hi rend="sup">н</hi>
+                <lb/> днѣпра. плакасѧ по братѣ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">ону сторону Днѣпра, плакася по братѣ</rdg><rdg wit="#shakh">ону страну Дънѣпра, плакася по братѣ</rdg><rdg wit="#likh">ону сторону Днѣпра, плакася по братѣ</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,88 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>6, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="6"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="6,20">Илмеря,</w>
-<w n="6,20">и</w>
-<w n="6,20">прозъваша</w>
-<w n="6,20">ся</w>
-<w n="6,20">своимь</w>
-<w n="6,20">именьмь,</w>
-<w n="6,20">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="6,20">илмерѧ.</w>
-<w n="6,20">прозвашасѧ</w>
-<w n="6,20"><milestone unit="sic" n="start"/>св<hi rend="sup">о</hi><milestone unit="sic" n="end"/><lb/>имъ</w>
-<w n="6,20">имѧнем<milestone unit="sic" n="start"/>ъ</w>
-<w n="6,20">и<milestone unit="sic" n="end"/></w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="6,20">ильменѧ</w>
-<w n="6,20">и</w>
-<w n="6,20">прозваша<hi rend="sup">с</hi></w>
-<w n="6,20">сво<hi rend="sup">м</hi>и</w>
-<w n="6,20">имен<hi rend="sup">м</hi>е</w>
-<w n="6,20">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="6,20">ильмерѧ.</w>
-<w n="6,20">и</w>
-<w n="6,20">прозвашасѧ</w>
-<w n="6,20">сво<hi rend="sup">м</hi>и <lb/></w>
-
-<w n="6,20">именемь.</w>
-<w n="6,20">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="6,20">илмера. <lb/></w>
-
-<w n="6,20">и</w>
-<w n="6,20">прозвашасѧ</w>
-<w n="6,20">своимъ</w>
-<w n="6,20">име<lb/>немъ.</w>
-<w n="6,20">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="6,20">илме<milestone unit="sic" n="start"/>р<milestone unit="sic" n="end"/>и.</w>
-<w n="6,20">и</w>
-<w n="6,20">прозва<lb/>ша<hi rend="sup">с</hi></w>
-<w n="6,20">сво<hi rend="sup">м</hi>и</w>
-<w n="6,20">имен<hi rend="sup">м</hi>е.</w>
-<w n="6,20">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="6,20">Илмеря,</w>
-<w n="6,20">и</w>
-<w n="6,20">прозвашася</w>
-<w n="6,20">своимъ</w>
-<w n="6,20">имянемъ,</w>
-<w n="6,20">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="6,20">Илмеря,</w>
-<w n="6,20">и</w>
-<w n="6,20">прозъвашася</w>
-<w n="6,20">своимь</w>
-<w n="6,20">именьмь,</w>
-<w n="6,20">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="6,20">Илмеря,</w>
-<w n="6,20">и</w>
-<w n="6,20">прозвашася</w>
-<w n="6,20">своимъ</w>
-<w n="6,20">имянемъ,</w>
-<w n="6,20">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>6, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="6"/><div type="block" n="20"><p><app><lem wit="#lem">
+            Илмеря, и прозъваша ся своимь именьмь, и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">илмерѧ. прозвашасѧ <sic>св<hi rend="sup">о</hi></sic><lb/>имъ имѧнем<sic>ъ
+                    и</sic></rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">ильменѧ и прозваша<hi rend="sup">с</hi> сво<hi rend="sup">м</hi>и имен<hi rend="sup">м</hi>е и</rdg>
+            <rdg wit="#aka">ильмерѧ. и прозвашасѧ сво<hi rend="sup">м</hi>и <lb/> именемь. и</rdg>
+            <rdg wit="#ipa">илмера. <lb/> и прозвашасѧ своимъ име<lb/>немъ. и</rdg>
+            <rdg wit="#xle">илме<sic>р</sic>и. и прозва<lb/>ша<hi rend="sup">с</hi> сво<hi rend="sup">м</hi>и
+                    имен<hi rend="sup">м</hi>е. и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Илмеря, и прозвашася своимъ имянемъ, и</rdg><rdg wit="#shakh">Илмеря, и прозъвашася своимь именьмь, и</rdg><rdg wit="#likh">Илмеря, и прозвашася своимъ имянемъ, и</rdg></rdgGrp></app></p></div></body></text></TEI>

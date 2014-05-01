@@ -1,88 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>144, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="144"/><div type="block" n="28"><p>
-<app>
-<lem wit="#lem">
-<w n="144,28">а</w>
-<w n="144,28">Святопълкъ</w>
-<w n="144,28">бѣжа.</w>
-<w n="144,28">И</w>
-<w n="144,28">бѣжащю</w>
-<w n="144,28">ему,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="144,28">а</w>
-<w n="144,28">с҃тополкъ</w>
-<w n="144,28">бѣжа.</w>
-<w n="144,28">и</w>
-<w n="144,28">бѣжащю <lb/></w>
-
-<w n="144,28">ему</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="144,28">а</w>
-<w n="144,28">с҃тополкъ</w>
-<w n="144,28">побе<hi rend="sup">ж</hi>:- <lb/></w>
-
-<w n="144,28">И</w>
-<w n="144,28">бѣжащѹ</w>
-<w n="144,28">емоу</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="144,28">а</w>
-<w n="144,28">с҃то<lb/>полкь</w>
-<w n="144,28">побѣже:·</w>
-<w n="144,28">И</w>
-<w n="144,28">бѣжащю</w>
-<w n="144,28">емѹ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="144,28">а</w>
-<w n="144,28">ст҃опо<lb/>лкъ</w>
-<w n="144,28">бѣжа.</w>
-<w n="144,28">бѣжащю</w>
-<w n="144,28">же</w>
-<w n="144,28">ему <lb/></w>
-
-<w n="144,28">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="144,28">а</w>
-<w n="144,28">ст҃ополкь</w>
-<w n="144,28">побѣжа.</w>
-<w n="144,28">и</w>
-<w n="144,28">бѣжащоу</w>
-<w n="144,28">емоу <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="144,28">а</w>
-<w n="144,28">Святополкъ</w>
-<w n="144,28">бѣжа.</w>
-<w n="144,28">И</w>
-<w n="144,28">бѣжащю</w>
-<w n="144,28">ему,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="144,28">а</w>
-<w n="144,28">Святопълкъ</w>
-<w n="144,28">побѣже.</w>
-<w n="144,28">И</w>
-<w n="144,28">бѣжащю</w>
-<w n="144,28">ему,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="144,28">а</w>
-<w n="144,28">Святополкъ</w>
-<w n="144,28">бѣжа.</w>
-<w n="144,28">И</w>
-<w n="144,28">бѣжащю</w>
-<w n="144,28">ему,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>144, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="144"/><div type="block" n="28"><p><app><lem wit="#lem">
+            а Святопълкъ бѣжа. И бѣжащю ему,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">а с҃тополкъ бѣжа. и бѣжащю <lb/> ему</rdg>
+            <rdg wit="#rad">а с҃тополкъ побе<hi rend="sup">ж</hi>:- <lb/> И бѣжащѹ емоу</rdg>
+            <rdg wit="#aka">а с҃то<lb/>полкь побѣже:· И бѣжащю емѹ</rdg>
+            <rdg wit="#ipa">а ст҃опо<lb/>лкъ бѣжа. бѣжащю же ему <lb/> и</rdg>
+            <rdg wit="#xle">а ст҃ополкь побѣжа. и бѣжащоу емоу <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">а Святополкъ бѣжа. И бѣжащю ему,</rdg><rdg wit="#shakh">а Святопълкъ побѣже. И бѣжащю ему,</rdg><rdg wit="#likh">а Святополкъ бѣжа. И бѣжащю ему,</rdg></rdgGrp></app></p></div></body></text></TEI>

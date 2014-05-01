@@ -1,87 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>225, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="225"/><div type="block" n="13"><p>
-<app>
-<lem wit="#lem">
-<w n="225,13">тако</w>
-<w n="225,13">съвъпрашаху</w>
-<w n="225,13">ся</w>
-<w n="225,13">съ</w>
-<w n="225,13">сльзами,</w>
-<w n="225,13">родъ</w>
-<w n="225,13">свои</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="225,13">тако</w>
-<w n="225,13">съѹпраша<lb/>ютсѧ</w>
-<w n="225,13">со</w>
-<w n="225,13">слезами</w>
-<w n="225,13">родъ</w>
-<w n="225,13">свои</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="225,13">та<lb/>ко</w>
-<w n="225,13">въспрашають<hi rend="sup">с</hi></w>
-<w n="225,13">со</w>
-<w n="225,13">слезами·</w>
-<w n="225,13">ро<hi rend="sup">д</hi></w>
-<w n="225,13">свои</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="225,13">тако</w>
-<w n="225,13">въспрашаютьсѧ</w>
-<w n="225,13">со</w>
-<w n="225,13">слезами·</w>
-<w n="225,13">родъ</w>
-<w n="225,13">свои <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="225,13">тако</w>
-<w n="225,13">съвъспрошахусѧ</w>
-<w n="225,13">со <lb/></w>
-
-<w n="225,13">слезами·</w>
-<w n="225,13">родъ</w>
-<w n="225,13">свои</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="225,13">тако</w>
-<w n="225,13">съвопрашахѫсѧ</w>
-<w n="225,13">съ</w>
-<w n="225,13">слъзами.</w>
-<w n="225,13">рѡ<hi rend="sup">д</hi><lb/></w>
-<w n="225,13">свои</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="225,13">тако</w>
-<w n="225,13">съупрашаются</w>
-<w n="225,13">со</w>
-<w n="225,13">слезами,</w>
-<w n="225,13">родъ</w>
-<w n="225,13">свой</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="225,13">и</w>
-<w n="225,13">тако</w>
-<w n="225,13">съвъпрашахутъся</w>
-<w n="225,13">съ</w>
-<w n="225,13">сльзами,</w>
-<w n="225,13">родъ</w>
-<w n="225,13">свои</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="225,13">тако</w>
-<w n="225,13">съупрашаются</w>
-<w n="225,13">со</w>
-<w n="225,13">слезами,</w>
-<w n="225,13">родъ</w>
-<w n="225,13">свой</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>225, 13</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="225"/><div type="block" n="13"><p><app><lem wit="#lem">
+            тако съвъпрашаху ся съ сльзами, родъ свои
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">тако съѹпраша<lb/>ютсѧ со слезами родъ свои</rdg>
+            <rdg wit="#rad">та<lb/>ко въспрашають<hi rend="sup">с</hi> со слезами· ро<hi rend="sup">д</hi> свои</rdg>
+            <rdg wit="#aka">тако въспрашаютьсѧ со слезами· родъ свои <lb/></rdg>
+            <rdg wit="#ipa">тако съвъспрошахусѧ со <lb/> слезами· родъ свои</rdg>
+            <rdg wit="#xle">тако съвопрашахѫсѧ съ слъзами. рѡ<hi rend="sup">д</hi>
+                <lb/> свои</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">тако съупрашаются со слезами, родъ свой</rdg><rdg wit="#shakh">и тако съвъпрашахутъся съ сльзами, родъ свои</rdg><rdg wit="#likh">тако съупрашаются со слезами, родъ свой</rdg></rdgGrp></app></p></div></body></text></TEI>

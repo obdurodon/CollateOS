@@ -1,49 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>251, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="251"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="251,6">лѣта</w>
-<w n="251,6">по</w>
-<w n="251,6">сту</w>
-<w n="251,6">оуга<lb/>нив<milestone unit="sic" n="start"/>а---<milestone unit="sic" n="end"/>и</w>
-<w n="251,6">имь</w>
-<w n="251,6">даро<hi rend="sup">м</hi>·</w>
-<w n="251,6">всею</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="251,6">лѣта</w>
-<w n="251,6">по</w>
-<w n="251,6">сту</w>
-<w n="251,6">уганивалъ</w>
-<w n="251,6">и</w>
-<w n="251,6">имь</w>
-<w n="251,6">даромъ</w>
-<w n="251,6">всею</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="251,6">лѣта</w>
-<w n="251,6">по</w>
-<w n="251,6">сту</w>
-<w n="251,6">уганивал</w>
-<w n="251,6">и</w>
-<w n="251,6">имь</w>
-<w n="251,6">даром</w>
-<w n="251,6">всею</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>251, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="251"/><div type="block" n="6"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">лѣта по сту оуга<lb/>нив<sic>а---</sic>и имь даро<hi rend="sup">м</hi>· всею</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">лѣта по сту уганивалъ и имь даромъ всею</rdg><rdg wit="#likh">лѣта по сту уганивал и имь даром всею</rdg></rdgGrp></app></p></div></body></text></TEI>

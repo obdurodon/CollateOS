@@ -1,70 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>189, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="189"/><div type="block" n="11"><p>
-<app>
-<lem wit="#lem">
-<w n="189,11">одьржимъ,</w>
-<w n="189,11">приношаху</w>
-<w n="189,11">въ</w>
-<w n="189,11">манастырь,</w>
-<w n="189,11">ли</w>
-<w n="189,11">съвьршенъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="189,11">одержи<hi rend="sup">м</hi>.</w>
-<w n="189,11">принесѧху</w>
-<w n="189,11">в</w>
-<w n="189,11">манасты<lb/>рь.</w>
-<w n="189,11">ли</w>
-<w n="189,11">сверженъ</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="189,11">ѡдерь<lb/>жимъ.</w>
-<w n="189,11">приношаху</w>
-<w n="189,11">в</w>
-<w n="189,11">мана<lb/>стырь.</w>
-<w n="189,11">или</w>
-<w n="189,11">свѣршенъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="189,11">ѡдръжи<hi rend="sup">м</hi>.</w>
-<w n="189,11">приношахѫ</w>
-<w n="189,11">в</w>
-<w n="189,11">манасты<hi rend="sup">р</hi><lb/></w>
-<w n="189,11">или</w>
-<w n="189,11">свершень</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="189,11">одержимъ,</w>
-<w n="189,11">принесяху</w>
-<w n="189,11">в</w>
-<w n="189,11">манастырь,</w>
-<w n="189,11">ли</w>
-<w n="189,11">свершенъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="189,11">одьржимъ,</w>
-<w n="189,11">въ</w>
-<w n="189,11">манастырь,</w>
-<w n="189,11">ли</w>
-<w n="189,11">съвьршенъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="189,11">одержим,</w>
-<w n="189,11">принесяху</w>
-<w n="189,11">в</w>
-<w n="189,11">манастырь,</w>
-<w n="189,11">ли</w>
-<w n="189,11">свершенъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>189, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="189"/><div type="block" n="11"><p><app><lem wit="#lem">
+            одьржимъ, приношаху въ манастырь, ли съвьршенъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">одержи<hi rend="sup">м</hi>. принесѧху в манасты<lb/>рь. ли сверженъ</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">ѡдерь<lb/>жимъ. приношаху в мана<lb/>стырь. или свѣршенъ</rdg>
+            <rdg wit="#xle">ѡдръжи<hi rend="sup">м</hi>. приношахѫ в манасты<hi rend="sup">р</hi>
+                <lb/> или свершень</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">одержимъ, принесяху в манастырь, ли свершенъ</rdg><rdg wit="#shakh">одьржимъ, въ манастырь, ли съвьршенъ</rdg><rdg wit="#likh">одержим, принесяху в манастырь, ли свершенъ</rdg></rdgGrp></app></p></div></body></text></TEI>

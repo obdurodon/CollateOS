@@ -1,103 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>24, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="24"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="24,1">устави</w>
-<w n="24,1">дани</w>
-<w n="24,1">Словѣномъ</w>
-<w n="24,1">и</w>
-<w n="24,1">Кривичемъ</w>
-<w n="24,1">и</w>
-<w n="24,1">Мерямъ;</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="24,1">оустави</w>
-<w n="24,1">дани</w>
-<w n="24,1">словѣномъ</w>
-<w n="24,1">кривичемъ</w>
-<w n="24,1">и</w>
-<w n="24,1">ме<milestone unit="sic" n="start"/>ри<milestone unit="sic" n="end"/><pb n="8v"/></w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="24,1">устави</w>
-<w n="24,1">дани</w>
-<w n="24,1">словѣномъ</w>
-<w n="24,1">кривичемъ</w>
-<w n="24,1">и</w>
-<w n="24,1">мери</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="24,1">оустави</w>
-<w n="24,1">дани</w>
-<w n="24,1">словено<hi rend="sup">м</hi></w>
-<w n="24,1">и</w>
-<w n="24,1">кривиче<hi rend="sup">м</hi></w>
-<w n="24,1">и</w>
-<w n="24,1">мерѧмъ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="24,1">оустави</w>
-<w n="24,1">дани</w>
-<w n="24,1">словѣномь. <lb/></w>
-
-<w n="24,1">и</w>
-<w n="24,1">кривичемь.</w>
-<w n="24,1">и</w>
-<w n="24,1">мерѧмъ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="24,1">оустави</w>
-<w n="24,1">дани</w>
-<w n="24,1">словѣно<hi rend="sup">м</hi></w>
-<w n="24,1">и</w>
-<w n="24,1">кривичемъ.</w>
-<w n="24,1">и</w>
-<w n="24,1">мерѧмъ. <lb/><pb n="10a"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="24,1">оустави</w>
-<w n="24,1">дани.</w>
-<w n="24,1">слѡве<lb/>нѡ<hi rend="sup">м</hi>,</w>
-<w n="24,1">и</w>
-<w n="24,1">кривиче<hi rend="sup">м</hi>.</w>
-<w n="24,1">и</w>
-<w n="24,1">мерѧ<hi rend="sup">м</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="24,1">устави</w>
-<w n="24,1">дани</w>
-<w n="24,1">Словѣномъ,</w>
-<w n="24,1">Кривичемъ</w>
-<w n="24,1">и</w>
-<w n="24,1">Мери, <pb n="23,7"/></w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="24,1">устави</w>
-<w n="24,1">дани</w>
-<w n="24,1">Словѣномъ</w>
-<w n="24,1">и</w>
-<w n="24,1">Кривичемъ</w>
-<w n="24,1">и</w>
-<w n="24,1">Мери; <pb n="24,3"/></w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="24,1">устави</w>
-<w n="24,1">дани</w>
-<w n="24,1">словѣномъ,</w>
-<w n="24,1">кривичемъ</w>
-<w n="24,1">и</w>
-<w n="24,1">мери, <pb n="20,23"/></w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>24, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="24"/><div type="block" n="1"><p><app><lem wit="#lem">
+            устави дани Словѣномъ и Кривичемъ и Мерямъ;
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">оустави дани словѣномъ кривичемъ и
+                    ме<sic>ри</sic><pb n="8v"/></rdg>
+            <rdg wit="#tro">устави дани словѣномъ кривичемъ и мери</rdg>
+            <rdg wit="#rad">оустави дани словено<hi rend="sup">м</hi> и кривиче<hi rend="sup">м</hi> и мерѧмъ.</rdg>
+            <rdg wit="#aka">оустави дани словѣномь. <lb/> и кривичемь. и мерѧмъ.</rdg>
+            <rdg wit="#ipa">оустави дани словѣно<hi rend="sup">м</hi>
+                 и кривичемъ. и мерѧмъ. <lb/><pb n="10a"/></rdg>
+            <rdg wit="#xle">оустави дани. слѡве<lb/>нѡ<hi rend="sup">м</hi>, и кривиче<hi rend="sup">м</hi>. и
+                мерѧ<hi rend="sup">м</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">устави дани Словѣномъ, Кривичемъ и Мери, <pb n="23,7"/></rdg><rdg wit="#shakh">устави дани Словѣномъ и Кривичемъ и Мери; <pb n="24,3"/></rdg><rdg wit="#likh">устави дани словѣномъ, кривичемъ и мери, <pb n="20,23"/></rdg></rdgGrp></app></p></div></body></text></TEI>

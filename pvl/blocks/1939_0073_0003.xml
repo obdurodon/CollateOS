@@ -1,96 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>73, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="73"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="73,3">людии,</w>
-<w n="73,3">ни</w>
-<w n="73,3">языка</w>
-<w n="73,3">иного</w>
-<w n="73,3">приведу</w>
-<w n="73,3">на</w>
-<w n="73,3">страну</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="73,3">во<lb/>и</w>
-<w n="73,3">ни</w>
-<w n="73,3">ꙗзыка.</w>
-<w n="73,3">ни</w>
-<w n="73,3">иного</w>
-<w n="73,3">приведу</w>
-<w n="73,3">на</w>
-<w n="73,3">страну</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="73,3">воины</w>
-<w n="73,3">и</w>
-<w n="73,3">ни</w>
-<w n="73,3">ꙗзыка</w>
-<w n="73,3">иного</w>
-<w n="73,3">приведѹ <lb/></w>
-
-<w n="73,3">на</w>
-<w n="73,3">страноу</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="73,3">воивоины.</w>
-<w n="73,3">ни</w>
-<w n="73,3">ꙗзы<lb/>ка</w>
-<w n="73,3">иного.</w>
-<w n="73,3">приведу</w>
-<w n="73,3">на</w>
-<w n="73,3">страну</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="73,3">людии</w>
-<w n="73,3">ни</w>
-<w n="73,3">ꙗзы<lb/>ка</w>
-<w n="73,3">иного</w>
-<w n="73,3">приведу.</w>
-<w n="73,3">на</w>
-<w n="73,3">стра<lb/>ну</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="73,3">л<hi rend="sup">д</hi>ю<hi rend="sup">ї</hi>и.</w>
-<w n="73,3">ни</w>
-<w n="73,3">языка</w>
-<w n="73,3">иного</w>
-<w n="73,3">привожоу.</w>
-<w n="73,3">на</w>
-<w n="73,3">страноу <pb n="31r"/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="73,3">вой,</w>
-<w n="73,3">ни</w>
-<w n="73,3">языка</w>
-<w n="73,3">иного</w>
-<w n="73,3">приведу</w>
-<w n="73,3">на</w>
-<w n="73,3">страну</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="73,3">вои,</w>
-<w n="73,3">ни</w>
-<w n="73,3">языка</w>
-<w n="73,3">иного</w>
-<w n="73,3">приведу</w>
-<w n="73,3">на</w>
-<w n="73,3">страну</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="73,3">вой,</w>
-<w n="73,3">ни</w>
-<w n="73,3">языка</w>
-<w n="73,3">иного</w>
-<w n="73,3">приведу</w>
-<w n="73,3">на</w>
-<w n="73,3">страну</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>73, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="73"/><div type="block" n="3"><p><app><lem wit="#lem">
+            людии, ни языка иного приведу на страну
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">во<lb/>и ни ꙗзыка. ни иного приведу на страну</rdg>
+            <rdg wit="#rad">воины и ни ꙗзыка иного приведѹ <lb/> на страноу</rdg>
+            <rdg wit="#aka">воивоины. ни ꙗзы<lb/>ка иного. приведу на страну</rdg>
+            <rdg wit="#ipa">людии ни ꙗзы<lb/>ка иного приведу. на стра<lb/>ну</rdg>
+            <rdg wit="#xle">л<hi rend="sup">д</hi>ю<hi rend="sup">ї</hi>и.  ни ꙗзыка иного привожоу. на страноу
+                    <pb n="31r"/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">вой, ни языка иного приведу на страну</rdg><rdg wit="#shakh">вои, ни языка иного приведу на страну</rdg><rdg wit="#likh">вой, ни языка иного приведу на страну</rdg></rdgGrp></app></p></div></body></text></TEI>

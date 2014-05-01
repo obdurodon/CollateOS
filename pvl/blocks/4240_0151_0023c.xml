@@ -1,39 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>151, 23c</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="151"/><div type="block" n="23c"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="151,23c">радость</w>
-<w n="151,23c">градоу</w>
-<w n="151,23c">тому <lb/></w>
-
-<w n="151,23c">ст҃мь</w>
-<w n="151,23c">блгв҃щениемь.</w>
-<w n="151,23c">гн<hi rend="sup">с</hi>и<lb/>мь.</w>
-<w n="151,23c">и</w>
-<w n="151,23c">млт҃вою</w>
-<w n="151,23c">ст҃ыꙗ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="151,23c">радѡ<hi rend="sup">с</hi></w>
-<w n="151,23c">гра<hi rend="sup">д</hi>у</w>
-<w n="151,23c">томоу.</w>
-<w n="151,23c">ст҃ы<hi rend="sup">м</hi></w>
-<w n="151,23c">бл҃говѣщенїе<hi rend="sup">м</hi><lb/></w>
-<w n="151,23c">гд<hi rend="sup">с</hi>ни<hi rend="sup">м</hi>,</w>
-<w n="151,23c">и</w>
-<w n="151,23c">мл҃твою</w>
-<w n="151,23c">ст҃ыа</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>151, 23c</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="151"/><div type="block" n="23c"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">радость градоу тому <lb/> ст҃мь блгв҃щениемь. гн<hi rend="sup">с</hi>и<lb/>мь. и млт҃вою
+                ст҃ыꙗ</rdg>
+            <rdg wit="#xle">радѡ<hi rend="sup">с</hi> гра<hi rend="sup">д</hi>у томоу. ст҃ы<hi rend="sup">м</hi> бл҃говѣщенїе<hi rend="sup">м</hi>
+                <lb/> гд<hi rend="sup">с</hi>ни<hi rend="sup">м</hi>, и мл҃твою ст҃ыа</rdg>
+        </rdgGrp></app></p></div></body></text></TEI>

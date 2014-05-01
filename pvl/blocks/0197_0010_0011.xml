@@ -1,79 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>10, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="10"/><div type="block" n="11"><p>
-<app>
-<lem wit="#lem">
-<w n="10,11">донынѣ</w>
-<w n="10,11">наричють</w>
-<w n="10,11">Дунаици</w>
-<w n="10,11">городище</w>
-<w n="10,11">Кыевьць.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="10,11">донынѣ</w>
-<w n="10,11">наречють</w>
-<w n="10,11">дуиц<milestone unit="sic" n="start"/>и</w>
-<w n="10,11">городі<milestone unit="sic" n="end"/><lb/>ще</w>
-<w n="10,11">киевець.</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="10,11">донынѣ</w>
-<w n="10,11">наричють</w>
-<w n="10,11">дунаици</w>
-<w n="10,11">городище</w>
-<w n="10,11">киевець</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="10,11">донн҃ѣ <lb/></w>
-
-<w n="10,11">наричю<hi rend="sup">т</hi></w>
-<w n="10,11">доунаици.</w>
-<w n="10,11">городище</w>
-<w n="10,11">кыевець.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="10,11">донн҃ѣ</w>
-<w n="10,11">наричютъ</w>
-<w n="10,11">дѹнаици.</w>
-<w n="10,11">городище</w>
-<w n="10,11">кїеве<lb/>ць.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="10,11">дон<hi rend="sup">н</hi>ѣ</w>
-<w n="10,11">на<lb/>рѣчють</w>
-<w n="10,11">дунаици.</w>
-<w n="10,11">городі<lb/>ще</w>
-<w n="10,11">киевѣць.</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="10,11">до</w>
-<w n="10,11">нынѣ</w>
-<w n="10,11">наричють</w>
-<w n="10,11">Дунайци</w>
-<w n="10,11">городище</w>
-<w n="10,11">Киевець.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="10,11">донынѣ</w>
-<w n="10,11">нарячють</w>
-<w n="10,11">Дунаици</w>
-<w n="10,11">городище</w>
-<w n="10,11">Кыевьць.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="10,11">донынѣ</w>
-<w n="10,11">наречють</w>
-<w n="10,11">дунайци</w>
-<w n="10,11">городище</w>
-<w n="10,11">Киевець.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>10, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="10"/><div type="block" n="11"><p><app><lem wit="#lem">
+            донынѣ наричють Дунаици городище Кыевьць.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">донынѣ наречють дуиц<sic>и городі</sic><lb/>ще киевець.</rdg>
+            <rdg wit="#tro">донынѣ наричють дунаици городище киевець</rdg>
+            <rdg wit="#rad">донн҃ѣ <lb/> наричю<hi rend="sup">т</hi> доунаици. городище кыевець.</rdg>
+            <rdg wit="#aka">донн҃ѣ наричютъ дѹнаици. городище кїеве<lb/>ць.</rdg>
+            <rdg wit="#ipa">дон<hi rend="sup">н</hi>ѣ на<lb/>рѣчють дунаици. городі<lb/>ще киевѣць.</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">до нынѣ наричють Дунайци городище Киевець.</rdg><rdg wit="#shakh">донынѣ нарячють Дунаици городище Кыевьць.</rdg><rdg wit="#likh">донынѣ наречють дунайци городище Киевець.</rdg></rdgGrp></app></p></div></body></text></TEI>

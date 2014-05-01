@@ -1,93 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>21, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="21"/><div type="block" n="25"><p>
-<app>
-<lem wit="#lem">
-<w n="21,25">Руси</w>
-<w n="21,25">корабля</w>
-<w n="21,25">съмяте,</w>
-<w n="21,25">и</w>
-<w n="21,25">къ</w>
-<w n="21,25">брегу</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="21,25">руси</w>
-<w n="21,25">корабл<milestone unit="sic" n="start"/>ь<milestone unit="sic" n="end"/><lb/></w>
-<w n="21,25">смѧте</w>
-<w n="21,25">к</w>
-<w n="21,25">берегу</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="21,25">руси</w>
-<w n="21,25">корабля</w>
-<w n="21,25">смяте</w>
-<w n="21,25">к</w>
-<w n="21,25">берегу</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="21,25">роуси</w>
-<w n="21,25">корабли <lb/></w>
-
-<w n="21,25">смѧт<milestone unit="sic" n="start"/>ь<milestone unit="sic" n="end"/></w>
-<w n="21,25">и</w>
-<w n="21,25">ко</w>
-<w n="21,25">брегоу</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="21,25">рѹси</w>
-<w n="21,25">корабли</w>
-<w n="21,25">смѧте.</w>
-<w n="21,25">и</w>
-<w n="21,25">ко</w>
-<w n="21,25">брегѹ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="21,25">руси <lb/></w>
-
-<w n="21,25">кораблѧ</w>
-<w n="21,25">смѧте.</w>
-<w n="21,25">и</w>
-<w n="21,25">къ</w>
-<w n="21,25">бе<lb/>регу</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="21,25">роуси</w>
-<w n="21,25">кораблѧ</w>
-<w n="21,25">смѧте.</w>
-<w n="21,25">и</w>
-<w n="21,25">къ <lb/></w>
-
-<w n="21,25">брегоу</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="21,25">Руси</w>
-<w n="21,25">корабля</w>
-<w n="21,25">смяте,</w>
-<w n="21,25">и</w>
-<w n="21,25">к</w>
-<w n="21,25">берегу</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="21,25">Руси</w>
-<w n="21,25">корабля</w>
-<w n="21,25">съмяте,</w>
-<w n="21,25">и</w>
-<w n="21,25">къ</w>
-<w n="21,25">брегу</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="21,25">Руси</w>
-<w n="21,25">корабля</w>
-<w n="21,25">смяте,</w>
-<w n="21,25">и</w>
-<w n="21,25">к</w>
-<w n="21,25">берегу</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>21, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="21"/><div type="block" n="25"><p><app><lem wit="#lem">
+            Руси корабля съмяте, и къ брегу
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">руси корабл<sic>ь</sic><lb/> смѧте к берегу</rdg>
+            <rdg wit="#tro">руси корабля смяте к берегу</rdg>
+            <rdg wit="#rad">роуси корабли <lb/> смѧт<sic>ь</sic> и ко брегоу</rdg>
+            <rdg wit="#aka">рѹси корабли смѧте. и ко брегѹ</rdg>
+            <rdg wit="#ipa">руси <lb/> кораблѧ смѧте. и къ бе<lb/>регу</rdg>
+            <rdg wit="#xle">роуси кораблѧ смѧте. и къ <lb/> брегоу</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Руси корабля смяте, и к берегу</rdg><rdg wit="#shakh">Руси корабля съмяте, и къ брегу</rdg><rdg wit="#likh">Руси корабля смяте, и к берегу</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,85 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>54, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="54"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-<w n="54,2">къде</w>
-<w n="54,2">стояше</w>
-<w n="54,2">Перунъ;</w>
-<w n="54,2">и</w>
-<w n="54,2">покладоша</w>
-<w n="54,2">оружия</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="54,2">кде</w>
-<w n="54,2">стоꙗше</w>
-<w n="54,2">перунъ. <lb/></w>
-
-<w n="54,2">покладоша</w>
-<w n="54,2">ѡружье</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="54,2">гдѣ</w>
-<w n="54,2">стоаше</w>
-<w n="54,2">перѹнъ.</w>
-<w n="54,2">и</w>
-<w n="54,2">покладоша</w>
-<w n="54,2">ѡроу<hi rend="sup">ж</hi>а <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="54,2">гдѣ</w>
-<w n="54,2">стоꙗше</w>
-<w n="54,2">перѹ<lb/>нъ.</w>
-<w n="54,2">и</w>
-<w n="54,2">покладаша</w>
-<w n="54,2">ѡрѹжїꙗ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="54,2">кде <lb/></w>
-
-<w n="54,2">стоꙗше</w>
-<w n="54,2">перунъ.</w>
-<w n="54,2">и</w>
-<w n="54,2">покла<lb/>доша</w>
-<w n="54,2">ѡружьꙗ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="54,2">где</w>
-<w n="54,2">стоаше</w>
-<w n="54,2">пероу<hi rend="sup">н</hi>.</w>
-<w n="54,2">и</w>
-<w n="54,2">покла<lb/>доша</w>
-<w n="54,2">ороужїа</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="54,2">кде</w>
-<w n="54,2">стояше</w>
-<w n="54,2">Перунъ,</w>
-<w n="54,2">и</w>
-<w n="54,2">покладоша</w>
-<w n="54,2">оружье</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="54,2">къде</w>
-<w n="54,2">стояше</w>
-<w n="54,2">Перунъ;</w>
-<w n="54,2">и</w>
-<w n="54,2">покладоша</w>
-<w n="54,2">оружие</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="54,2">кде</w>
-<w n="54,2">стояше</w>
-<w n="54,2">Перунъ,</w>
-<w n="54,2">и</w>
-<w n="54,2">покладоша</w>
-<w n="54,2">оружье</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>54, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="54"/><div type="block" n="2"><p><app><lem wit="#lem">
+            къде стояше Перунъ; и покладоша оружия
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">кде стоꙗше перунъ. <lb/> покладоша ѡружье</rdg>
+            <rdg wit="#rad">гдѣ стоаше перѹнъ. и покладоша ѡроу<hi rend="sup">ж</hi>а <lb/></rdg>
+            <rdg wit="#aka">гдѣ стоꙗше перѹ<lb/>нъ. и покладаша ѡрѹжїꙗ</rdg>
+            <rdg wit="#ipa">кде <lb/> стоꙗше перунъ. и покла<lb/>доша ѡружьꙗ</rdg>
+            <rdg wit="#xle">где стоаше пероу<hi rend="sup">н</hi>. и покла<lb/>доша ороужїа</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">кде стояше Перунъ, и покладоша оружье</rdg><rdg wit="#shakh">къде стояше Перунъ; и покладоша оружие</rdg><rdg wit="#likh">кде стояше Перунъ, и покладоша оружье</rdg></rdgGrp></app></p></div></body></text></TEI>

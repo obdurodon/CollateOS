@@ -1,100 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>35, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="35"/><div type="block" n="28"><p>
-<app>
-<lem wit="#lem">
-<w n="35,28">влачимъ</w>
-<w n="35,28">мы,</w>
-<w n="35,28">Русь;</w>
-<w n="35,28">да</w>
-<w n="35,28">егда</w>
-<w n="35,28">ходимъ</w>
-<w n="35,28">въ</w>
-<w n="35,28">Грькы</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="35,28">волочи<hi rend="sup">м</hi></w>
-<w n="35,28">мы</w>
-<w n="35,28">роу<hi rend="sup">с</hi><lb/></w>
-<w n="35,28">да</w>
-<w n="35,28">ег<hi rend="sup">д</hi>а</w>
-<w n="35,28">ходи<hi rend="sup">м</hi></w>
-<w n="35,28">в</w>
-<w n="35,28">грекы.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="35,28">волочїмь</w>
-<w n="35,28">мы</w>
-<w n="35,28">рѹ<hi rend="sup">с</hi>.</w>
-<w n="35,28">да</w>
-<w n="35,28">ег<hi rend="sup">д</hi>а</w>
-<w n="35,28">ходїмъ</w>
-<w n="35,28">во</w>
-<w n="35,28">греки.</w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="35,28">воволочимъ</w>
-<w n="35,28"><milestone unit="add" n="start" place="margin"/>имъ<milestone unit="add" n="end"/></w>
-<w n="35,28">мы</w>
-<w n="35,28">русь.</w>
-<w n="35,28">да <lb/></w>
-
-<w n="35,28">егда</w>
-<w n="35,28">ходимъ</w>
-<w n="35,28">въвъ</w>
-<w n="35,28">грѣкы <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="35,28">въволочи<hi rend="sup">м</hi></w>
-<w n="35,28">имь</w>
-<w n="35,28">мы</w>
-<w n="35,28">роу<hi rend="sup">с</hi>.</w>
-<w n="35,28">да</w>
-<w n="35,28">ег<hi rend="sup">д</hi>а</w>
-<w n="35,28">ходи<hi rend="sup">м</hi></w>
-<w n="35,28">въ</w>
-<w n="35,28">грекы, <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="35,28">во-волочимъ</w>
-<w n="35,28">мы,</w>
-<w n="35,28">Русь;</w>
-<w n="35,28">да</w>
-<w n="35,28">егда</w>
-<w n="35,28">ходимъ</w>
-<w n="35,28">в</w>
-<w n="35,28">Грекы</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="35,28">влачимъ</w>
-<w n="35,28">имъ</w>
-<w n="35,28">мы,</w>
-<w n="35,28">Русь;</w>
-<w n="35,28">да</w>
-<w n="35,28">егда</w>
-<w n="35,28">ходимъ</w>
-<w n="35,28">въ</w>
-<w n="35,28">Грькы</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="35,28">во-волочим</w>
-<w n="35,28">мы,</w>
-<w n="35,28">Русь.</w>
-<w n="35,28">Да</w>
-<w n="35,28">егда</w>
-<w n="35,28">ходим</w>
-<w n="35,28">в</w>
-<w n="35,28">Грекы</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>35, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="35"/><div type="block" n="28"><p><app><lem wit="#lem">
+            влачимъ мы, Русь; да егда ходимъ въ Грькы
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">волочи<hi rend="sup">м</hi> мы роу<hi rend="sup">с</hi>
+                <lb/> да ег<hi rend="sup">д</hi>а ходи<hi rend="sup">м</hi> в грекы.</rdg>
+            <rdg wit="#aka">волочїмь мы рѹ<hi rend="sup">с</hi>. да ег<hi rend="sup">д</hi>а ходїмъ во греки. </rdg>
+            <rdg wit="#ipa">воволочимъ <add place="margin">имъ</add> мы русь. да <lb/> егда ходимъ въвъ грѣкы
+                <lb/></rdg>
+            <rdg wit="#xle">въволочи<hi rend="sup">м</hi> имь мы роу<hi rend="sup">с</hi>. да ег<hi rend="sup">д</hi>а ходи<hi rend="sup">м</hi> въ
+                грекы, <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">во-волочимъ мы, Русь; да егда ходимъ в Грекы</rdg><rdg wit="#shakh">влачимъ имъ мы, Русь; да егда ходимъ въ Грькы</rdg><rdg wit="#likh">во-волочим мы, Русь. Да егда ходим в Грекы</rdg></rdgGrp></app></p></div></body></text></TEI>

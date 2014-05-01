@@ -1,88 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>25, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="25"/><div type="block" n="15"><p>
-<app>
-<lem wit="#lem">
-<w n="25,15">яже</w>
-<w n="25,15">прозъваша</w>
-<w n="25,15">ся</w>
-<w n="25,15">горы</w>
-<w n="25,15">Угърьскыя,</w>
-<w n="25,15">и</w>
-<w n="25,15">почаша</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="25,15">иже</w>
-<w n="25,15">прозвашася</w>
-<w n="25,15">горы</w>
-<w n="25,15">угорския</w>
-<w n="25,15">и</w>
-<w n="25,15">почаша</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="25,15">ꙗже</w>
-<w n="25,15">прозваша<hi rend="sup">с</hi></w>
-<w n="25,15">горы</w>
-<w n="25,15">ѹгорьскиа. <lb/></w>
-
-<w n="25,15">И</w>
-<w n="25,15">почаша</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="25,15">ꙗже</w>
-<w n="25,15">прозвашасѧ</w>
-<w n="25,15">горы</w>
-<w n="25,15">оугорь<lb/>скыа:·</w>
-<w n="25,15">И</w>
-<w n="25,15">почаша</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="25,15">иже</w>
-<w n="25,15">пр<hi rend="sup">о</hi><lb/>звашасѧ</w>
-<w n="25,15">горы</w>
-<w n="25,15">оугорьскы<lb/>ꙗ.</w>
-<w n="25,15">и</w>
-<w n="25,15">почаша</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="25,15">иже</w>
-<w n="25,15">прозваша<hi rend="sup">с</hi></w>
-<w n="25,15">горы</w>
-<w n="25,15">оуго<lb/>рскыа.</w>
-<w n="25,15">и</w>
-<w n="25,15">почаша</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="25,15">яже</w>
-<w n="25,15">прозвашася</w>
-<w n="25,15">горы</w>
-<w n="25,15">Угорьскиа,</w>
-<w n="25,15">и</w>
-<w n="25,15">почаша</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="25,15">яже</w>
-<w n="25,15">прозъвашася</w>
-<w n="25,15">горы</w>
-<w n="25,15">Угърьскыя,</w>
-<w n="25,15">и</w>
-<w n="25,15">почаша</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="25,15">яже</w>
-<w n="25,15">прозвашася</w>
-<w n="25,15">горы</w>
-<w n="25,15">Угорьскиа,</w>
-<w n="25,15">и</w>
-<w n="25,15">почаша</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>25, 15</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="25"/><div type="block" n="15"><p><app><lem wit="#lem">
+            яже прозъваша ся горы Угърьскыя, и почаша
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">иже прозвашася горы угорския и почаша</rdg>
+            <rdg wit="#rad">ꙗже прозваша<hi rend="sup">с</hi> горы ѹгорьскиа. <lb/> И почаша</rdg>
+            <rdg wit="#aka">ꙗже прозвашасѧ горы оугорь<lb/>скыа:· И почаша</rdg>
+            <rdg wit="#ipa">иже пр<hi rend="sup">о</hi><lb/>звашасѧ горы оугорьскы<lb/>ꙗ. и почаша</rdg>
+            <rdg wit="#xle">иже прозваша<hi rend="sup">с</hi> горы оуго<lb/>рскыа. и почаша</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">яже прозвашася горы Угорьскиа, и почаша</rdg><rdg wit="#shakh">яже прозъвашася горы Угърьскыя, и почаша</rdg><rdg wit="#likh">яже прозвашася горы Угорьскиа, и почаша</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,113 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>6, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="6"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="6,5">А</w>
-<w n="6,5">се</w>
-<w n="6,5">ти</w>
-<w n="6,5">же</w>
-<w n="6,5">Словѣни:</w>
-<w n="6,5">Хървати</w>
-<w n="6,5">Бѣлии</w>
-<w n="6,5">и</w>
-<w n="6,5">Сьрбь</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="6,5">а</w>
-<w n="6,5">се</w>
-<w n="6,5">ти</w>
-<w n="6,5">же</w>
-<w n="6,5">словѣни.</w>
-<w n="6,5">хровате</w>
-<w n="6,5">бѣлии.</w>
-<w n="6,5">и</w>
-<w n="6,5">серебь.</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="6,5">а</w>
-<w n="6,5">се</w>
-<w n="6,5">ти</w>
-<w n="6,5">же</w>
-<w n="6,5">словѣ<lb/>не<hi rend="sup">ж</hi></w>
-<w n="6,5">хорвате</w>
-<w n="6,5">бѣлии</w>
-<w n="6,5">и</w>
-<w n="6,5">сербь</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="6,5">а</w>
-<w n="6,5">се</w>
-<w n="6,5">ти</w>
-<w n="6,5">же</w>
-<w n="6,5">словѣне</w>
-<w n="6,5">хорвате</w>
-<w n="6,5">бѣлїи.</w>
-<w n="6,5">и</w>
-<w n="6,5">сербь. <pb n="2v"/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="6,5">а</w>
-<w n="6,5">се</w>
-<w n="6,5">ти</w>
-<w n="6,5">же</w>
-<w n="6,5">словѣ<lb/>н<milestone unit="sic" n="start"/>и<milestone unit="sic" n="end"/>.</w>
-<w n="6,5">хорвати</w>
-<w n="6,5">бѣлии.</w>
-<w n="6,5">се<lb/>рпь.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="6,5">а</w>
-<w n="6,5">се</w>
-<w n="6,5">ти</w>
-<w n="6,5">же</w>
-<w n="6,5">слѡвени. <lb/></w>
-
-<w n="6,5">хорвати</w>
-<w n="6,5">бѣлїи.</w>
-<w n="6,5">и</w>
-<w n="6,5">серби.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="6,5">а</w>
-<w n="6,5">се</w>
-<w n="6,5">ти</w>
-<w n="6,5">же</w>
-<w n="6,5">Словѣни:</w>
-<w n="6,5">Хорвате</w>
-<w n="6,5">Бѣлии,</w>
-<w n="6,5">и</w>
-<w n="6,5">Серебь</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="6,5">а</w>
-<w n="6,5">се</w>
-<w n="6,5">тиже</w>
-<w n="6,5">Словѣне:</w>
-<w n="6,5">Хървати</w>
-<w n="6,5">Бѣлии</w>
-<w n="6,5">и</w>
-<w n="6,5">Сьрбь</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="6,5">А</w>
-<w n="6,5">се</w>
-<w n="6,5">ти</w>
-<w n="6,5">же</w>
-<w n="6,5">словѣни:</w>
-<w n="6,5">хровате</w>
-<w n="6,5">бѣлии</w>
-<w n="6,5">и</w>
-<w n="6,5">серебь</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>6, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="6"/><div type="block" n="5"><p><app><lem wit="#lem">
+            А се ти же Словѣни: Хървати Бѣлии и Сьрбь
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">а се ти же словѣни. хровате бѣлии. и серебь.</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">а се ти же словѣ<lb/>не<hi rend="sup">ж</hi> хорвате бѣлии и сербь</rdg>
+            <rdg wit="#aka">а се ти же словѣне хорвате бѣлїи. и сербь. <pb n="2v"/></rdg>
+            <rdg wit="#ipa">а се ти же словѣ<lb/>н<sic>и</sic>. хорвати бѣлии. се<lb/>рпь.</rdg>
+            <rdg wit="#xle">а се ти же слѡвени. <lb/> хорвати бѣлїи. и серби.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">а се ти же Словѣни: Хорвате Бѣлии, и Серебь</rdg><rdg wit="#shakh">а се тиже Словѣне: Хървати Бѣлии и Сьрбь</rdg><rdg wit="#likh">А се ти же словѣни: хровате бѣлии и серебь</rdg></rdgGrp></app></p></div></body></text></TEI>

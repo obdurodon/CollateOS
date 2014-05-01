@@ -1,90 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>260, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="260"/><div type="block" n="7"><p>
-<app>
-<lem wit="#lem">
-<w n="260,7">имъ</w>
-<w n="260,7">Святопълкъ:</w>
-<w n="260,7">“Ото</w>
-<w n="260,7">Давыдъ”.</w>
-<w n="260,7">Давыдъ</w>
-<w n="260,7">же</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="260,7">имъ</w>
-<w n="260,7">ст҃ополкъ</w>
-<w n="260,7">ѡто</w>
-<w n="260,7">дв҃дъ· <lb/></w>
-
-<w n="260,7">оувѣдѣв</w>
-<w n="260,7">же</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="260,7">имъ</w>
-<w n="260,7">ст҃ополкъ·</w>
-<w n="260,7">ѡто</w>
-<w n="260,7">дв<hi rend="sup">д</hi>ъ·</w>
-<w n="260,7">дв҃дъ</w>
-<w n="260,7">же</w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="260,7">имъ</w>
-<w n="260,7">ст҃о<lb/>полкъ·</w>
-<w n="260,7">ѡто</w>
-<w n="260,7">дв҃дъ·</w>
-<w n="260,7">двд҃ъ</w>
-<w n="260,7">же</w>
-<w n="260,7">се·̏</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="260,7">имъ</w>
-<w n="260,7">ст҃ополкъ·</w>
-<w n="260,7">ѡ<lb/>то</w>
-<w n="260,7">двд҃ъ</w>
-<w n="260,7">двд҃ъ</w>
-<w n="260,7">же</w>
-<w n="260,7">се</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="260,7">и<hi rend="sup">м</hi><lb/></w>
-<w n="260,7">ст҃ополкь.</w>
-<w n="260,7">ѡто</w>
-<w n="260,7">дв҃дь,</w>
-<w n="260,7">давы<hi rend="sup">д</hi></w>
-<w n="260,7">же</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="260,7">имъ</w>
-<w n="260,7">Святополкъ:</w>
-<w n="260,7">“ото</w>
-<w n="260,7">Давыдъ”.</w>
-<w n="260,7">Увѣдѣвъ</w>
-<w n="260,7">же</w>
-<w n="260,7">се</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="260,7">имъ</w>
-<w n="260,7">Святопълкъ:</w>
-<w n="260,7">“ото</w>
-<w n="260,7">Давыдъ”.</w>
-<w n="260,7">Увѣдѣвъ</w>
-<w n="260,7">же</w>
-<w n="260,7">се</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="260,7">имъ</w>
-<w n="260,7">Святополкъ:</w>
-<w n="260,7">“Ото</w>
-<w n="260,7">Давыдъ”.</w>
-<w n="260,7">Увѣдѣв</w>
-<w n="260,7">же</w>
-<w n="260,7">се</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>260, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="260"/><div type="block" n="7"><p><app><lem wit="#lem">
+            имъ Святопълкъ: “Ото Давыдъ”. Давыдъ же
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">имъ ст҃ополкъ ѡто дв҃дъ· <lb/> оувѣдѣв же</rdg>
+            <rdg wit="#rad">имъ ст҃ополкъ· ѡто дв<hi rend="sup">д</hi>ъ· дв҃дъ же </rdg>
+            <rdg wit="#aka">имъ ст҃о<lb/>полкъ· ѡто дв҃дъ· двд҃ъ же се·̏</rdg>
+            <rdg wit="#ipa">имъ ст҃ополкъ· ѡ<lb/>то двд҃ъ двд҃ъ же се</rdg>
+            <rdg wit="#xle">и<hi rend="sup">м</hi>
+                <lb/> ст҃ополкь. ѡто дв҃дь, давы<hi rend="sup">д</hi> же</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">имъ Святополкъ: “ото Давыдъ”. Увѣдѣвъ же се</rdg><rdg wit="#shakh">имъ Святопълкъ: “ото Давыдъ”. Увѣдѣвъ же се</rdg><rdg wit="#likh">имъ Святополкъ: “Ото Давыдъ”. Увѣдѣв же се</rdg></rdgGrp></app></p></div></body></text></TEI>

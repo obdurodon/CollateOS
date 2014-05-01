@@ -1,94 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>281, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="281"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="281,16">мѣсяца</w>
-<w n="281,16">июня</w>
-<w n="281,16">въ 24.</w>
-
-<w n="281,16">Въ</w>
-<w n="281,16">тоже</w>
-<w n="281,16">лѣто</w>
-<w n="281,16">постриже</w>
-<w n="281,16">ся</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="281,16">мц<hi rend="sup">с</hi>а· <lb/></w>
-
-<w n="281,16">иоунѧ</w>
-<w n="281,16">въ</w>
-<w n="281,16">·к҃д·</w>
-<w n="281,16">в</w>
-<w n="281,16">сеже</w>
-<w n="281,16">лѣ<hi rend="sup">т</hi>·</w>
-<w n="281,16">пострї<lb/>жесѧ</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-<w n="281,16">в</w>
-<w n="281,16">се·̏же <lb/></w>
-
-<w n="281,16">лѣто</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="281,16">мц<hi rend="sup">с</hi>а·</w>
-<w n="281,16">ию<lb/>нѧ·</w>
-<w n="281,16">въ</w>
-<w n="281,16">·к҃д·</w>
-<w n="281,16">в</w>
-<w n="281,16">тоже</w>
-<w n="281,16">лѣто</w>
-<w n="281,16">пост<lb/>рижесѧ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="281,16">мц<hi rend="sup">с</hi>а</w>
-<w n="281,16">іюнѧ</w>
-<w n="281,16">въ</w>
-<w n="281,16">.к҃д.</w>
-<w n="281,16">в</w>
-<w n="281,16">тоже</w>
-<w n="281,16">лѣто</w>
-<w n="281,16">по<lb/>стрижесѧ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="281,16">мѣсяца</w>
-<w n="281,16">иуня</w>
-<w n="281,16">въ 24.</w>
-
-<w n="281,16">Въ</w>
-<w n="281,16">се</w>
-<w n="281,16">же</w>
-<w n="281,16">лѣто</w>
-<w n="281,16">постріжеся</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="281,16">мѣсяца</w>
-<w n="281,16">иуня</w>
-<w n="281,16">въ 24</w>
-
-<w n="281,16">дьнь.</w>
-<w n="281,16">Въ</w>
-<w n="281,16">сеже</w>
-<w n="281,16">лѣто</w>
-<w n="281,16">пострижеся</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="281,16">мѣсяца</w>
-<w n="281,16">иуня</w>
-<w n="281,16">въ 24.</w>
-
-<w n="281,16">В</w>
-<w n="281,16">се</w>
-<w n="281,16">же</w>
-<w n="281,16">лѣто</w>
-<w n="281,16">пострижеся</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>281, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="281"/><div type="block" n="16"><p><app><lem wit="#lem">
+            мѣсяца июня въ 24. Въ тоже лѣто постриже ся
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">мц<hi rend="sup">с</hi>а· <lb/> иоунѧ въ ·к҃д· в сеже лѣ<hi rend="sup">т</hi>· пострї<lb/>жесѧ</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">в се·̏же <lb/> лѣто</rdg>
+            <rdg wit="#ipa">мц<hi rend="sup">с</hi>а· ию<lb/>нѧ· въ ·к҃д· в тоже лѣто пост<lb/>рижесѧ</rdg>
+            <rdg wit="#xle">мц<hi rend="sup">с</hi>а іюнѧ въ .к҃д. в тоже лѣто по<lb/>стрижесѧ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">мѣсяца иуня въ 24. Въ се же лѣто постріжеся</rdg><rdg wit="#shakh">мѣсяца иуня въ 24 дьнь. Въ сеже лѣто пострижеся</rdg><rdg wit="#likh">мѣсяца иуня въ 24. В се же лѣто пострижеся</rdg></rdgGrp></app></p></div></body></text></TEI>

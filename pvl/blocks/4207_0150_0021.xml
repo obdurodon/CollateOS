@@ -1,98 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>150, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="150"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="150,21">очима,</w>
-<w n="150,21">храбръ</w>
-<w n="150,21">на</w>
-<w n="150,21">рати,</w>
-<w n="150,21">милостивъ,</w>
-<w n="150,21">и</w>
-<w n="150,21">любяше</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="150,21">ѡчима.</w>
-<w n="150,21">храборъ</w>
-<w n="150,21">на <lb/></w>
-
-<w n="150,21">рати.</w>
-<w n="150,21">млт<hi rend="sup">с</hi>въ.</w>
-<w n="150,21">любѧше</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="150,21">ѡчима.</w>
-<w n="150,21">храборъ</w>
-<w n="150,21">на</w>
-<w n="150,21">рати.</w>
-<w n="150,21">и</w>
-<w n="150,21">мл<hi rend="sup">с</hi>ти<lb/>въ.</w>
-<w n="150,21">и</w>
-<w n="150,21">любѧше</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="150,21">ѡчима.</w>
-<w n="150,21">храборъ <lb/></w>
-
-<w n="150,21">на</w>
-<w n="150,21">рати.</w>
-<w n="150,21">и</w>
-<w n="150,21">млт<hi rend="sup">с</hi>ивъ.</w>
-<w n="150,21">и</w>
-<w n="150,21">любѧше</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="150,21">ѡчима.</w>
-<w n="150,21">храбръ</w>
-<w n="150,21">на</w>
-<w n="150,21">рати.</w>
-<w n="150,21">и</w>
-<w n="150,21">млт<hi rend="sup">с</hi>въ.</w>
-<w n="150,21">и</w>
-<w n="150,21">лю<lb/>бѧше <pb n="56c"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="150,21">очи.</w>
-<w n="150,21">храбръ <lb/></w>
-
-<w n="150,21">на</w>
-<w n="150,21">рати</w>
-<w n="150,21">и.</w>
-<w n="150,21">мл<hi rend="sup">с</hi>тивь.</w>
-<w n="150,21">и</w>
-<w n="150,21">любѧше</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="150,21">очима,</w>
-<w n="150,21">храборъ</w>
-<w n="150,21">на</w>
-<w n="150,21">рати,</w>
-<w n="150,21">милостивъ,</w>
-<w n="150,21">любяше</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="150,21">очима,</w>
-<w n="150,21">храбръ</w>
-<w n="150,21">на</w>
-<w n="150,21">рати</w>
-<w n="150,21">и</w>
-<w n="150,21">милостивъ,</w>
-<w n="150,21">и</w>
-<w n="150,21">любяше</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="150,21">очима,</w>
-<w n="150,21">храборъ</w>
-<w n="150,21">на</w>
-<w n="150,21">рати,</w>
-<w n="150,21">милостивъ,</w>
-<w n="150,21">любяше</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>150, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="150"/><div type="block" n="21"><p><app><lem wit="#lem">
+            очима, храбръ на рати, милостивъ, и любяше
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѡчима. храборъ на <lb/> рати. млт<hi rend="sup">с</hi>въ. любѧше</rdg>
+            <rdg wit="#rad">ѡчима. храборъ на рати. и мл<hi rend="sup">с</hi>ти<lb/>въ. и любѧше</rdg>
+            <rdg wit="#aka">ѡчима. храборъ <lb/> на рати. и млт<hi rend="sup">с</hi>ивъ. и любѧше</rdg>
+            <rdg wit="#ipa">ѡчима.  храбръ на рати. и млт<hi rend="sup">с</hi>въ. и лю<lb/>бѧше
+                    <pb n="56c"/></rdg>
+            <rdg wit="#xle">очи. храбръ <lb/> на рати и. мл<hi rend="sup">с</hi>тивь. и любѧше</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">очима, храборъ на рати, милостивъ, любяше</rdg><rdg wit="#shakh">очима, храбръ на рати и милостивъ, и любяше</rdg><rdg wit="#likh">очима, храборъ на рати, милостивъ, любяше</rdg></rdgGrp></app></p></div></body></text></TEI>

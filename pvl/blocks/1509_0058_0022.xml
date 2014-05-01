@@ -1,92 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>58, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="58"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="58,22">же</w>
-<w n="58,22">рекоша:</w>
-<w n="58,22">“Ради</w>
-<w n="58,22">быхомъ</w>
-<w n="58,22">ся</w>
-<w n="58,22">яли</w>
-<w n="58,22">по</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="58,22">же</w>
-<w n="58,22">рекоша.</w>
-<w n="58,22">ради <lb/></w>
-
-<w n="58,22">сѧ</w>
-<w n="58,22">быхомъ</w>
-<w n="58,22">ꙗли</w>
-<w n="58,22">по</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="58,22">рекоша.</w>
-<w n="58,22">ра<hi rend="sup">д</hi></w>
-<w n="58,22">быхомъ</w>
-<w n="58,22">ꙗли<hi rend="sup">с</hi><lb/></w>
-<w n="58,22">по</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="58,22">же</w>
-<w n="58,22">рекоша.</w>
-<w n="58,22">ради</w>
-<w n="58,22">быхомь <lb/></w>
-
-<w n="58,22">ꙗли</w>
-<w n="58,22">по</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="58,22">же</w>
-<w n="58,22">рь<lb/>коша.</w>
-<w n="58,22">ради</w>
-<w n="58,22">быхомъ</w>
-<w n="58,22">сѧ</w>
-<w n="58,22">ꙗ<lb/>ли</w>
-<w n="58,22">по</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="58,22">же</w>
-<w n="58,22">рекоша,</w>
-<w n="58,22">р<hi rend="sup">д</hi>а<hi rend="sup">и</hi></w>
-<w n="58,22">быхо<hi rend="sup">м</hi></w>
-<w n="58,22">сѧ</w>
-<w n="58,22">яли</w>
-<w n="58,22">по <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="58,22">же</w>
-<w n="58,22">рекоша:</w>
-<w n="58,22">“ради</w>
-<w n="58,22">ся</w>
-<w n="58,22">быхомъ</w>
-<w n="58,22">яли</w>
-<w n="58,22">по</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="58,22">же</w>
-<w n="58,22">рекоша:</w>
-<w n="58,22">“ради</w>
-<w n="58,22">ся</w>
-<w n="58,22">быхомъ</w>
-<w n="58,22">яли</w>
-<w n="58,22">по</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="58,22">же</w>
-<w n="58,22">рекоша:</w>
-<w n="58,22">“Ради</w>
-<w n="58,22">ся</w>
-<w n="58,22">быхомъ</w>
-<w n="58,22">яли</w>
-<w n="58,22">по</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>58, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="58"/><div type="block" n="22"><p><app><lem wit="#lem">
+            же рекоша: “Ради быхомъ ся яли по
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">же рекоша. ради <lb/> сѧ быхомъ ꙗли по</rdg>
+            <rdg wit="#rad">рекоша. ра<hi rend="sup">д</hi> быхомъ ꙗли<hi rend="sup">с</hi>
+                <lb/> по</rdg>
+            <rdg wit="#aka">же рекоша. ради быхомь <lb/> ꙗли по</rdg>
+            <rdg wit="#ipa">же рь<lb/>коша. ради быхомъ сѧ ꙗ<lb/>ли по</rdg>
+            <rdg wit="#xle">же рекоша, р<hi rend="sup">д</hi>а<hi rend="sup">и</hi> быхо<hi rend="sup">м</hi> сѧ ꙗли по <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">же рекоша: “ради ся быхомъ яли по</rdg><rdg wit="#shakh">же рекоша: “ради ся быхомъ яли по</rdg><rdg wit="#likh">же рекоша: “Ради ся быхомъ яли по</rdg></rdgGrp></app></p></div></body></text></TEI>

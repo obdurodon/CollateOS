@@ -1,86 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>205, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="205"/><div type="block" n="16"><p>
-<app>
-<lem wit="#lem">
-<w n="205,16">приведе</w>
-<w n="205,16">и,</w>
-<w n="205,16">и</w>
-<w n="205,16">въдасть</w>
-<w n="205,16">ему</w>
-<w n="205,16">Дорогобужь.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="205,16">приведе</w>
-<w n="205,16">и.</w>
-<w n="205,16">и</w>
-<w n="205,16">вда</w>
-<w n="205,16">ѥму</w>
-<w n="205,16">доро<lb/>гобужь·:·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="205,16">приведе</w>
-<w n="205,16">и.</w>
-<w n="205,16">и</w>
-<w n="205,16">дасть</w>
-<w n="205,16">емѹ</w>
-<w n="205,16">дорогобѹжь. <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="205,16">приведе</w>
-<w n="205,16">и.</w>
-<w n="205,16">и</w>
-<w n="205,16">дасть</w>
-<w n="205,16">емѹ</w>
-<w n="205,16">дорогобѹ<lb/>жь:·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="205,16">приведе</w>
-<w n="205,16">и</w>
-<w n="205,16">и <lb/></w>
-
-<w n="205,16">вдасть</w>
-<w n="205,16">ему</w>
-<w n="205,16">дорогобужь·:· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="205,16">приведе</w>
-<w n="205,16">и,</w>
-<w n="205,16">и</w>
-<w n="205,16">въдасть</w>
-<w n="205,16">емоу</w>
-<w n="205,16">дорого<lb/>боу<hi rend="sup">ж</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="205,16">приведе</w>
-<w n="205,16">и,</w>
-<w n="205,16">и</w>
-<w n="205,16">вда</w>
-<w n="205,16">ему</w>
-<w n="205,16">Дорогобужь.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="205,16">приведе</w>
-<w n="205,16">и,</w>
-<w n="205,16">и</w>
-<w n="205,16">въдасть</w>
-<w n="205,16">ему</w>
-<w n="205,16">Дорогобужь.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="205,16">приведе</w>
-<w n="205,16">и,</w>
-<w n="205,16">и</w>
-<w n="205,16">вда</w>
-<w n="205,16">ему</w>
-<w n="205,16">Дорогобужь.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>205, 16</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="205"/><div type="block" n="16"><p><app><lem wit="#lem">
+            приведе и, и въдасть ему Дорогобужь.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">приведе и. и вда ѥму доро<lb/>гобужь·:·</rdg>
+            <rdg wit="#rad">приведе и. и дасть емѹ дорогобѹжь. <lb/></rdg>
+            <rdg wit="#aka">приведе и. и дасть емѹ дорогобѹ<lb/>жь:·</rdg>
+            <rdg wit="#ipa">приведе и и <lb/> вдасть ему дорогобужь·:· <lb/></rdg>
+            <rdg wit="#xle">приведе и, и въдасть емоу дорого<lb/>боу<hi rend="sup">ж</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">приведе и, и вда ему Дорогобужь.</rdg><rdg wit="#shakh">приведе и, и въдасть ему Дорогобужь.</rdg><rdg wit="#likh">приведе и, и вда ему Дорогобужь.</rdg></rdgGrp></app></p></div></body></text></TEI>

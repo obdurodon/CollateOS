@@ -1,90 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>199, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="199"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="199,18">Изяславу</w>
-<w n="199,18">на</w>
-<w n="199,18">Волынь,</w>
-<w n="199,18">и</w>
-<w n="199,18">сътвори</w>
-<w n="199,18">миръ.</w>
-<w n="199,18">И</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="199,18">изѧславу</w>
-<w n="199,18">на</w>
-<w n="199,18">волынь.</w>
-<w n="199,18">и</w>
-<w n="199,18">ство<lb/>риста</w>
-<w n="199,18">миръ.</w>
-<w n="199,18">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="199,18">на</w>
-<w n="199,18">волынь.</w>
-<w n="199,18">и</w>
-<w n="199,18">сотвориста</w>
-<w n="199,18">миръ.</w>
-<w n="199,18">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="199,18">на</w>
-<w n="199,18">волынь.</w>
-<w n="199,18">и</w>
-<w n="199,18">сътвориста</w>
-<w n="199,18">миръ.</w>
-<w n="199,18">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="199,18">изѧславу</w>
-<w n="199,18">на</w>
-<w n="199,18">волынь.</w>
-<w n="199,18">и</w>
-<w n="199,18">ство<lb/>ри</w>
-<w n="199,18">миръ.</w>
-<w n="199,18">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="199,18">изѧславоу</w>
-<w n="199,18">на</w>
-<w n="199,18">волы<hi rend="sup">н</hi>.</w>
-<w n="199,18">и</w>
-<w n="199,18">сътвори</w>
-<w n="199,18">миръ.</w>
-<w n="199,18">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="199,18">Изяславу</w>
-<w n="199,18">на</w>
-<w n="199,18">Волынь,</w>
-<w n="199,18">и</w>
-<w n="199,18">створиста</w>
-<w n="199,18">миръ,</w>
-<w n="199,18">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="199,18">Изяславу</w>
-<w n="199,18">на</w>
-<w n="199,18">Волынь,</w>
-<w n="199,18">и</w>
-<w n="199,18">сътвориста</w>
-<w n="199,18">миръ.</w>
-<w n="199,18">И</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="199,18">Изяславу</w>
-<w n="199,18">на</w>
-<w n="199,18">Волынь,</w>
-<w n="199,18">и</w>
-<w n="199,18">створиста</w>
-<w n="199,18">миръ,</w>
-<w n="199,18">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>199, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="199"/><div type="block" n="18"><p><app><lem wit="#lem">
+            Изяславу на Волынь, и сътвори миръ. И
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">изѧславу на волынь. и ство<lb/>риста миръ. и</rdg>
+            <rdg wit="#rad">на волынь. и сотвориста миръ. и</rdg>
+            <rdg wit="#aka">на волынь. и сътвориста миръ. и</rdg>
+            <rdg wit="#ipa">изѧславу на волынь. и ство<lb/>ри миръ. и</rdg>
+            <rdg wit="#xle">изѧславоу на волы<hi rend="sup">н</hi>. и сътвори миръ. и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Изяславу на Волынь, и створиста миръ, и</rdg><rdg wit="#shakh">Изяславу на Волынь, и сътвориста миръ. И</rdg><rdg wit="#likh">Изяславу на Волынь, и створиста миръ, и</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,85 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>227, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="227"/><div type="block" n="7"><p>
-<app>
-<lem wit="#lem">
-<w n="227,7">дружиною.</w>
-<w n="227,7">Въ</w>
-<w n="227,7">сеже</w>
-<w n="227,7">время</w>
-<w n="227,7">бяше</w>
-<w n="227,7">пришьлъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="227,7">друженою·</w>
-<w n="227,7">в</w>
-<w n="227,7">тоже</w>
-<w n="227,7">времѧ</w>
-<w n="227,7">бѧше</w>
-<w n="227,7">пришелъ <pb n="75d"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="227,7">в</w>
-<w n="227,7">граде:· <lb/></w>
-
-<w n="227,7">тоже</w>
-<w n="227,7">времѧ·</w>
-<w n="227,7">славѧта·</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="227,7">въ</w>
-<w n="227,7">градѣ:·</w>
-<w n="227,7">И</w>
-<w n="227,7">в</w>
-<w n="227,7">то<lb/>же</w>
-<w n="227,7">времѧ</w>
-<w n="227,7">славѧта</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="227,7">дружиною·</w>
-<w n="227,7">в</w>
-<w n="227,7">сеже</w>
-<w n="227,7">веремѧ</w>
-<w n="227,7">прі<lb/>шелъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="227,7">дроужиною.</w>
-<w n="227,7">в</w>
-<w n="227,7">се<hi rend="sup">ж</hi></w>
-<w n="227,7">времѧ</w>
-<w n="227,7">пришель</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="227,7">дружиною.</w>
-<w n="227,7">В</w>
-<w n="227,7">то</w>
-<w n="227,7">же</w>
-<w n="227,7">время</w>
-<w n="227,7">бяше</w>
-<w n="227,7">пришелъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="227,7">дружиною.</w>
-<w n="227,7">Въ</w>
-<w n="227,7">сеже</w>
-<w n="227,7">время</w>
-<w n="227,7">бяше</w>
-<w n="227,7">пришьлъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="227,7">дружиною.</w>
-<w n="227,7">В</w>
-<w n="227,7">то</w>
-<w n="227,7">же</w>
-<w n="227,7">время</w>
-<w n="227,7">бяше</w>
-<w n="227,7">пришелъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>227, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="227"/><div type="block" n="7"><p><app><lem wit="#lem">
+            дружиною. Въ сеже время бяше пришьлъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">друженою· в тоже времѧ бѧше пришелъ <pb n="75d"/></rdg>
+            <rdg wit="#rad">в граде:· <lb/> тоже времѧ· славѧта·</rdg>
+            <rdg wit="#aka">въ градѣ:· И в то<lb/>же времѧ славѧта</rdg>
+            <rdg wit="#ipa">дружиною· в сеже веремѧ прі<lb/>шелъ</rdg>
+            <rdg wit="#xle">дроужиною. в се<hi rend="sup">ж</hi> времѧ пришель</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">дружиною. В то же время бяше пришелъ</rdg><rdg wit="#shakh">дружиною. Въ сеже время бяше пришьлъ</rdg><rdg wit="#likh">дружиною. В то же время бяше пришелъ</rdg></rdgGrp></app></p></div></body></text></TEI>

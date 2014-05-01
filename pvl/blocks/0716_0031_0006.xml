@@ -1,112 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>31, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="31"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-<w n="31,6">пьрвое</w>
-<w n="31,6">на</w>
-<w n="31,6">Кыевъ,</w>
-<w n="31,6">таже</w>
-<w n="31,6">на</w>
-<w n="31,6">Чьрниговъ</w>
-<w n="31,6">и</w>
-<w n="31,6">на</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#tro">
-<w n="31,6">первое</w>
-<w n="31,6">на</w>
-<w n="31,6">киевъ</w>
-<w n="31,6">та</w>
-<w n="31,6">же</w>
-<w n="31,6">на</w>
-<w n="31,6">черниговъ</w>
-<w n="31,6">и</w>
-<w n="31,6">на</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="31,6">первое</w>
-<w n="31,6">на</w>
-<w n="31,6">киевъ.</w>
-<w n="31,6">та<hi rend="sup">ж</hi></w>
-<w n="31,6">на</w>
-<w n="31,6">черниго<hi rend="sup">в</hi>. <lb/></w>
-
-<w n="31,6">на</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="31,6">первое</w>
-<w n="31,6">на</w>
-<w n="31,6">кїевь.</w>
-<w n="31,6">та</w>
-<w n="31,6">же <lb/></w>
-
-<w n="31,6">на</w>
-<w n="31,6">чернїговь.</w>
-<w n="31,6">на</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="31,6">пѣрвое</w>
-<w n="31,6">на</w>
-<w n="31,6">кі<lb/>евъ.</w>
-<w n="31,6">та</w>
-<w n="31,6">же</w>
-<w n="31,6">и</w>
-<w n="31,6"><milestone unit="sic" n="start"/>н<milestone unit="sic" n="end"/>а</w>
-<w n="31,6">чернигов<hi rend="sup">ъ</hi>. <lb/></w>
-
-<w n="31,6">и</w>
-<w n="31,6">на</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="31,6">первое</w>
-<w n="31,6">на</w>
-<w n="31,6">кыевь.</w>
-<w n="31,6">та</w>
-<w n="31,6">же</w>
-<w n="31,6">и</w>
-<w n="31,6">на</w>
-<w n="31,6">чернѣговь. <lb/></w>
-
-<w n="31,6">и</w>
-<w n="31,6">на</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="31,6">первое</w>
-<w n="31,6">на</w>
-<w n="31,6">Киевъ,</w>
-<w n="31,6">таже</w>
-<w n="31,6">на</w>
-<w n="31,6">Черниговъ,</w>
-<w n="31,6">и</w>
-<w n="31,6">на</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="31,6">пьрвое</w>
-<w n="31,6">на</w>
-<w n="31,6">Кыевъ,</w>
-<w n="31,6">таже</w>
-<w n="31,6">на</w>
-<w n="31,6">Чьрниговъ</w>
-<w n="31,6">и</w>
-<w n="31,6">на</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="31,6">первое</w>
-<w n="31,6">на</w>
-<w n="31,6">Киевъ,</w>
-<w n="31,6">та</w>
-<w n="31,6">же</w>
-<w n="31,6">на</w>
-<w n="31,6">Чернигов,</w>
-<w n="31,6">на</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>31, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="31"/><div type="block" n="6"><p><app><lem wit="#lem">
+            пьрвое на Кыевъ, таже на Чьрниговъ и на
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#tro">первое на киевъ та же на черниговъ и на</rdg>
+            <rdg wit="#rad">первое на киевъ. та<hi rend="sup">ж</hi> на черниго<hi rend="sup">в</hi>. <lb/> на</rdg>
+            <rdg wit="#aka">первое на кїевь. та же <lb/> на чернїговь. на</rdg>
+            <rdg wit="#ipa">пѣрвое на кі<lb/>евъ. та же и <sic>н</sic>а чернигов<hi rend="sup">ъ</hi>. <lb/> и
+                на</rdg>
+            <rdg wit="#xle">первое на кыевь. та же и на чернѣговь. <lb/> и на</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">первое на Киевъ, таже на Черниговъ, и на</rdg><rdg wit="#shakh">пьрвое на Кыевъ, таже на Чьрниговъ и на</rdg><rdg wit="#likh">первое на Киевъ, та же на Чернигов, на</rdg></rdgGrp></app></p></div></body></text></TEI>

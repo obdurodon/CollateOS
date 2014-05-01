@@ -1,94 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>284, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="284"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="284,5">дошьдъше</w>
-<w n="284,5">Воиня,</w>
-<w n="284,5">и</w>
-<w n="284,5">воротиша</w>
-<w n="284,5">ся.</w>
-<w n="284,5">Томьже</w>
-<w n="284,5">лѣтѣ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="284,5">дошедше</w>
-<w n="284,5">воинѧ</w>
-<w n="284,5">и</w>
-<w n="284,5">воротиша<lb/>сѧ·</w>
-<w n="284,5">том</w>
-<w n="284,5">же·</w>
-<w n="284,5">лѣ<hi rend="sup">т</hi>·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="284,5">доше<hi rend="sup">д</hi>ше</w>
-<w n="284,5">воїнѧ <lb/></w>
-
-<w n="284,5">воротиша<hi rend="sup">с</hi>:-</w>
-<w n="284,5">томъ<hi rend="sup">ж</hi></w>
-<w n="284,5">лѣте· <pb n="154v"/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="284,5">доше<hi rend="sup">д</hi>ше</w>
-<w n="284,5">воинѧ</w>
-<w n="284,5">вороти<lb/>шасѧ:· <lb/></w>
-
-<w n="284,5">В</w>
-<w n="284,5">том</w>
-<w n="284,5">же</w>
-<w n="284,5">лѣте·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="284,5">дошедше <lb/></w>
-
-<w n="284,5">воинѧ</w>
-<w n="284,5">воротишасѧ·</w>
-<w n="284,5">того</w>
-<w n="284,5">же <lb/></w>
-
-<w n="284,5">лѣта</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="284,5">доше<hi rend="sup">д</hi>ше</w>
-<w n="284,5">воинѧ,</w>
-<w n="284,5">и</w>
-<w n="284,5">вороти<lb/>ша<hi rend="sup">с</hi>.</w>
-<w n="284,5">того<hi rend="sup">ж</hi></w>
-<w n="284,5">лѣта</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="284,5">дошедше</w>
-<w n="284,5">Воиня,</w>
-<w n="284,5">и</w>
-<w n="284,5">воротишася.</w>
-<w n="284,5">Томже</w>
-<w n="284,5">лѣтѣ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="284,5">дошьдъше</w>
-<w n="284,5">Воиня,</w>
-<w n="284,5">воротишася.</w>
-<w n="284,5">[Тогоже</w>
-<w n="284,5">лѣтѣ</w>
-<w n="284,5">{ассигнед</w>
-<w n="284,5">то</w>
-<w n="284,5">3рд</w>
-<w n="284,5">редацтион}</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="284,5">дошедше</w>
-<w n="284,5">Воиня,</w>
-<w n="284,5">и</w>
-<w n="284,5">воротишася.</w>
-<w n="284,5">Том</w>
-<w n="284,5">же</w>
-<w n="284,5">лѣтѣ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>284, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="284"/><div type="block" n="5"><p><app><lem wit="#lem">
+            дошьдъше Воиня, и воротиша ся. Томьже лѣтѣ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">дошедше воинѧ и воротиша<lb/>сѧ· том же· лѣ<hi rend="sup">т</hi>·</rdg>
+            <rdg wit="#rad">доше<hi rend="sup">д</hi>ше воїнѧ <lb/> воротиша<hi rend="sup">с</hi>:-  томъ<hi rend="sup">ж</hi> лѣте·
+                    <pb n="154v"/></rdg>
+            <rdg wit="#aka">доше<hi rend="sup">д</hi>ше воинѧ вороти<lb/>шасѧ:· <lb/> В том же лѣте·</rdg>
+            <rdg wit="#ipa">дошедше <lb/> воинѧ воротишасѧ· того же <lb/> лѣта</rdg>
+            <rdg wit="#xle">доше<hi rend="sup">д</hi>ше воинѧ, и вороти<lb/>ша<hi rend="sup">с</hi>. того<hi rend="sup">ж</hi> лѣта</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">дошедше Воиня, и воротишася. Томже лѣтѣ</rdg><rdg wit="#shakh">дошьдъше Воиня, воротишася. [Тогоже лѣтѣ {assigned to 3rd redaction}</rdg><rdg wit="#likh">дошедше Воиня, и воротишася. Том же лѣтѣ</rdg></rdgGrp></app></p></div></body></text></TEI>

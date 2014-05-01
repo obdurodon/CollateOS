@@ -1,85 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>194, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="194"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-<w n="194,4">мощи</w>
-<w n="194,4">ему</w>
-<w n="194,4">обратити</w>
-<w n="194,4">ся</w>
-<w n="194,4">на</w>
-<w n="194,4">другую</w>
-<w n="194,4">страну,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="194,4">мощи</w>
-<w n="194,4">ѥму</w>
-<w n="194,4">обра<lb/>титисѧ</w>
-<w n="194,4">на</w>
-<w n="194,4">другую</w>
-<w n="194,4">страну.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="194,4">имоу<lb/>щи</w>
-<w n="194,4">емоу</w>
-<w n="194,4">ѡбратить<hi rend="sup">с</hi></w>
-<w n="194,4">на</w>
-<w n="194,4">дрѹгоую</w>
-<w n="194,4">страноу.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="194,4">мощи</w>
-<w n="194,4">емѹ</w>
-<w n="194,4">ѡбрати<lb/>тисѧ</w>
-<w n="194,4">на</w>
-<w n="194,4">дрѹгѹю</w>
-<w n="194,4">сторонѹ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="194,4">мощи</w>
-<w n="194,4">ему</w>
-<w n="194,4">ѡ<lb/>братитисѧ</w>
-<w n="194,4">на</w>
-<w n="194,4">другую</w>
-<w n="194,4">стра<lb/>ну.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="194,4">мощи</w>
-<w n="194,4">емоу</w>
-<w n="194,4">обратитисѧ</w>
-<w n="194,4">на</w>
-<w n="194,4">дроугѹю <lb/></w>
-
-<w n="194,4">страноу.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="194,4">мощи</w>
-<w n="194,4">ему</w>
-<w n="194,4">обратитися</w>
-<w n="194,4">на</w>
-<w n="194,4">другую</w>
-<w n="194,4">страну,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="194,4">мощи</w>
-<w n="194,4">ему</w>
-<w n="194,4">обратитися</w>
-<w n="194,4">на</w>
-<w n="194,4">другую</w>
-<w n="194,4">страну,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="194,4">мощи</w>
-<w n="194,4">ему</w>
-<w n="194,4">обратитися</w>
-<w n="194,4">на</w>
-<w n="194,4">другую</w>
-<w n="194,4">страну,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>194, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="194"/><div type="block" n="4"><p><app><lem wit="#lem">
+            мощи ему обратити ся на другую страну,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">мощи ѥму обра<lb/>титисѧ на другую страну.</rdg>
+            <rdg wit="#rad">имоу<lb/>щи емоу ѡбратить<hi rend="sup">с</hi> на дрѹгоую страноу.</rdg>
+            <rdg wit="#aka">мощи емѹ ѡбрати<lb/>тисѧ на дрѹгѹю сторонѹ.</rdg>
+            <rdg wit="#ipa">мощи ему ѡ<lb/>братитисѧ на другую стра<lb/>ну.</rdg>
+            <rdg wit="#xle">мощи емоу обратитисѧ на дроугѹю <lb/> страноу.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">мощи ему обратитися на другую страну,</rdg><rdg wit="#shakh">мощи ему обратитися на другую страну,</rdg><rdg wit="#likh">мощи ему обратитися на другую страну,</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,82 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>188, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="188"/><div type="block" n="28"><p>
-<app>
-<lem wit="#lem">
-<w n="188,28">Аще</w>
-<w n="188,28">которыи</w>
-<w n="188,28">брать</w>
-<w n="188,28">въ</w>
-<w n="188,28">етеро</w>
-<w n="188,28">прегрѣшение</w>
-<w n="188,28">въпадаше,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="188,28">аще</w>
-<w n="188,28">которыи</w>
-<w n="188,28">братъ</w>
-<w n="188,28">въ</w>
-<w n="188,28">етеро</w>
-<w n="188,28">пре<lb/>грѣшеньѥ</w>
-<w n="188,28">впадаше.</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="188,28">аще</w>
-<w n="188,28">которыи</w>
-<w n="188,28">братъ <lb/></w>
-
-<w n="188,28">впадеть</w>
-<w n="188,28">в</w>
-<w n="188,28">кое</w>
-<w n="188,28">любо</w>
-<w n="188,28">согрѣ<lb/>шение</w>
-<w n="188,28">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="188,28">аще</w>
-<w n="188,28">которыи</w>
-<w n="188,28">бра<hi rend="sup">т</hi><lb/></w>
-<w n="188,28">впаде</w>
-<w n="188,28">в</w>
-<w n="188,28">кое</w>
-<w n="188,28">любо</w>
-<w n="188,28">съгрѣшенїе.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="188,28">Аще</w>
-<w n="188,28">который</w>
-<w n="188,28">братъ</w>
-<w n="188,28">въ</w>
-<w n="188,28">етеро</w>
-<w n="188,28">прегрѣшенье</w>
-<w n="188,28">впадаше,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="188,28">Аще</w>
-<w n="188,28">которыи</w>
-<w n="188,28">брать</w>
-<w n="188,28">въ</w>
-<w n="188,28">етеро</w>
-<w n="188,28">прегрѣшение</w>
-<w n="188,28">въпадаше,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="188,28">Аще</w>
-<w n="188,28">который</w>
-<w n="188,28">братъ</w>
-<w n="188,28">въ</w>
-<w n="188,28">етеро</w>
-<w n="188,28">прегрѣшенье</w>
-<w n="188,28">впадаше,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>188, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="188"/><div type="block" n="28"><p><app><lem wit="#lem">
+            Аще которыи брать въ етеро прегрѣшение въпадаше,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">аще которыи братъ въ етеро пре<lb/>грѣшеньѥ впадаше.</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">аще которыи братъ <lb/> впадеть в кое любо согрѣ<lb/>шение и</rdg>
+            <rdg wit="#xle">аще которыи бра<hi rend="sup">т</hi>
+                <lb/> впаде в кое любо съгрѣшенїе.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Аще который братъ въ етеро прегрѣшенье впадаше,</rdg><rdg wit="#shakh">Аще которыи брать въ етеро прегрѣшение въпадаше,</rdg><rdg wit="#likh">Аще который братъ въ етеро прегрѣшенье впадаше,</rdg></rdgGrp></app></p></div></body></text></TEI>

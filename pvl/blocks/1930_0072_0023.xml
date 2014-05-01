@@ -1,73 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>72, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="72"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-
-<w n="72,23">въ</w>
-<w n="72,23">лѣто 6479.</w>
-
-</lem>
-
-<rdg wit="#lav">
-<w n="72,23">въ</w>
-<w n="72,23">.д҃і·:·</w>
-<w n="72,23">В</w>
-<w n="72,23">лѣ<hi rend="sup">т</hi>.</w>
-<w n="72,23">҂ѕ҃.у҃.о҃ѳ·:- <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="72,23">д҃і.</w>
-<w n="72,23">В</w>
-<w n="72,23">в</w>
-<w n="72,23">лѣ<hi rend="sup">т</hi></w>
-<w n="72,23">҂ѕ҃</w>
-<w n="72,23">у҃.о҃ѳ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="72,23">.д҃і. <lb/></w>
-
-<w n="72,23">В</w>
-<w n="72,23">лѣ<hi rend="sup">т</hi>.</w>
-<w n="72,23">҂ѕ҃.у҃о҃ѳ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="72,23">д҃і·:·</w>
-<w n="72,23"><milestone unit="sic" n="start"/>в</w>
-<w n="72,23">лѣ<hi rend="sup">т</hi>.</w>
-<w n="72,23">҂ѕ҃.у҃.о҃ѳ<milestone unit="sic" n="end"/><pb n="29a"/></w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="72,23">.д҃і. <lb/></w>
-
-<w n="72,23">в</w>
-<w n="72,23">лѣ<hi rend="sup">т</hi></w>
-<w n="72,23">҂ѕ҃.у҃.о҃ѳ.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="72,23">въ 14,</w>
-
-<w n="72,23">в</w>
-<w n="72,23">лѣто 6479.</w>
-
-</rdg>
-
-<rdg wit="#shakh">
-
-<w n="72,23">въ</w>
-<w n="72,23">лѣто 6479.</w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="72,23">в 14,</w>
-
-<w n="72,23">в</w>
-<w n="72,23">лѣто 6479.</w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>72, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="72"/><div type="block" n="23"><p><app><lem wit="#lem">
+            14, въ лѣто 6479.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">въ .д҃і·:· В лѣ<hi rend="sup">т</hi>. ҂ѕ҃.у҃.о҃ѳ·:- <lb/></rdg>
+            <rdg wit="#rad">д҃і. В в лѣ<hi rend="sup">т</hi> ҂ѕ҃ у҃.о҃ѳ.</rdg>
+            <rdg wit="#aka">.д҃і. <lb/> В лѣ<hi rend="sup">т</hi>. ҂ѕ҃.у҃о҃ѳ.</rdg>
+            <rdg wit="#ipa">д҃і·:· <sic>в лѣ<hi rend="sup">т</hi>.
+                ҂ѕ҃.у҃.о҃ѳ</sic><pb n="29a"/></rdg>
+            <rdg wit="#xle">.д҃і. <lb/> в лѣ<hi rend="sup">т</hi> ҂ѕ҃.у҃.о҃ѳ.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">въ 14, в лѣто 6479.</rdg><rdg wit="#shakh">14, въ лѣто 6479.</rdg><rdg wit="#likh">в 14, в лѣто 6479.</rdg></rdgGrp></app></p></div></body></text></TEI>

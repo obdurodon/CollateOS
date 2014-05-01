@@ -1,79 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>48, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="48"/><div type="block" n="11"><p>
-<app>
-<lem wit="#lem">
-<w n="48,11">иже</w>
-<w n="48,11">посылаеми</w>
-<w n="48,11">бывають</w>
-<w n="48,11">отъ</w>
-<w n="48,11">нихъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="48,11">иже</w>
-<w n="48,11">посылаеми</w>
-<w n="48,11">бывають</w>
-<w n="48,11">ѿ</w>
-<w n="48,11">нихъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="48,11">иже</w>
-<w n="48,11">посылаеми</w>
-<w n="48,11">бываю<hi rend="sup">т</hi>.</w>
-<w n="48,11">ѿ</w>
-<w n="48,11">ни<hi rend="sup">х</hi></w>
-<w n="48,11">же</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="48,11">иже</w>
-<w n="48,11">посылаеми</w>
-<w n="48,11">бывають.</w>
-<w n="48,11">ѿ</w>
-<w n="48,11">них</w>
-<w n="48,11">же <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="48,11">иже</w>
-<w n="48,11">посылае<lb/>ми</w>
-<w n="48,11">бывають</w>
-<w n="48,11">ѿ</w>
-<w n="48,11">нихъ <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="48,11">иже</w>
-<w n="48,11">посылаеми</w>
-<w n="48,11">быва<lb/>ю<hi rend="sup">т</hi></w>
-<w n="48,11">ѿ</w>
-<w n="48,11">ни<hi rend="sup">х</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="48,11">иже</w>
-<w n="48,11">посылаеми</w>
-<w n="48,11">бывають</w>
-<w n="48,11">отъ</w>
-<w n="48,11">нихъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="48,11">и</w>
-<w n="48,11">иже</w>
-<w n="48,11">посылаеми</w>
-<w n="48,11">бывають</w>
-<w n="48,11">отъ</w>
-<w n="48,11">нихъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="48,11">иже</w>
-<w n="48,11">посылаеми</w>
-<w n="48,11">бывають</w>
-<w n="48,11">от</w>
-<w n="48,11">нихъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>48, 11</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="48"/><div type="block" n="11"><p><app><lem wit="#lem">
+            иже посылаеми бывають отъ нихъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">иже посылаеми бывають ѿ нихъ</rdg>
+            <rdg wit="#rad">иже посылаеми бываю<hi rend="sup">т</hi>. ѿ ни<hi rend="sup">х</hi> же</rdg>
+            <rdg wit="#aka">иже посылаеми бывають. ѿ них же <lb/></rdg>
+            <rdg wit="#ipa">иже посылае<lb/>ми бывають ѿ нихъ <lb/></rdg>
+            <rdg wit="#xle">иже посылаеми быва<lb/>ю<hi rend="sup">т</hi> ѿ ни<hi rend="sup">х</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">иже посылаеми бывають отъ нихъ</rdg><rdg wit="#shakh">и иже посылаеми бывають отъ нихъ</rdg><rdg wit="#likh">иже посылаеми бывають от нихъ</rdg></rdgGrp></app></p></div></body></text></TEI>

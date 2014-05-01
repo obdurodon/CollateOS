@@ -1,87 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>167, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="167"/><div type="block" n="28"><p>
-<app>
-<lem wit="#lem">
-<w n="167,28">клеветы.</w>
-<w n="167,28">Земли</w>
-<w n="167,28">же</w>
-<w n="167,28">съгрѣшивъши</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="167,28">клеветы. <lb/></w>
-
-<w n="167,28">земли</w>
-<w n="167,28">же</w>
-<w n="167,28">согрѣшивше</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="167,28">клеветы.</w>
-<w n="167,28">земли <lb/></w>
-
-<w n="167,28">же</w>
-<w n="167,28">согрешивши</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="167,28">клеветы.</w>
-<w n="167,28">земли</w>
-<w n="167,28">же <lb/></w>
-
-<w n="167,28">съгрешивши</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="167,28">кле<lb/>веты.</w>
-<w n="167,28">земли</w>
-<w n="167,28">же</w>
-<w n="167,28">согрѣшивши <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="167,28">клеветы.</w>
-<w n="167,28">земли</w>
-<w n="167,28">же</w>
-<w n="167,28">съгрѣшивши</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="167,28">клеветы</w>
-<w n="167,28">земли</w>
-<w n="167,28">согрешивши</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="167,28">клеветы</w>
-<w n="167,28">земли</w>
-<w n="167,28">съгрѣшившеи</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="167,28">клеветы</w>
-<w n="167,28">земли</w>
-<w n="167,28">сгрѣшившеи</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="167,28">клеветы.</w>
-<w n="167,28">Земли</w>
-<w n="167,28">же</w>
-<w n="167,28">согрешивши</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="167,28">клеветы.</w>
-<w n="167,28">Земли</w>
-<w n="167,28">же</w>
-<w n="167,28">съгрѣшивъши</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="167,28">клеветы.</w>
-<w n="167,28">Земли</w>
-<w n="167,28">же</w>
-<w n="167,28">согрешивши</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>167, 28</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="167"/><div type="block" n="28"><p><app><lem wit="#lem">
+            клеветы. Земли же съгрѣшивъши
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">клеветы. <lb/> земли же согрѣшивше</rdg>
+            <rdg wit="#rad">клеветы. земли <lb/> же согрешивши</rdg>
+            <rdg wit="#aka">клеветы. земли же <lb/> съгрешивши</rdg>
+            <rdg wit="#ipa">кле<lb/>веты. земли же согрѣшивши <lb/></rdg>
+            <rdg wit="#xle">клеветы. земли же съгрѣшивши</rdg>
+            <rdg wit="#kom">клеветы земли согрешивши</rdg>
+            <rdg wit="#nak">клеветы земли съгрѣшившеи</rdg>
+            <rdg wit="#tol">клеветы земли сгрѣшившеи</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">клеветы. Земли же согрешивши</rdg><rdg wit="#shakh">клеветы. Земли же съгрѣшивъши</rdg><rdg wit="#likh">клеветы. Земли же согрешивши</rdg></rdgGrp></app></p></div></body></text></TEI>

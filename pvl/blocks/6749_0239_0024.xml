@@ -1,95 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>239, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="239"/><div type="block" n="24"><p>
-<app>
-<lem wit="#lem">
-<w n="239,24">Володимирь,</w>
-<w n="239,24">и</w>
-<w n="239,24">убоя</w>
-<w n="239,24">ся,</w>
-<w n="239,24">и</w>
-<w n="239,24">ужасъ</w>
-<w n="239,24">нападе</w>
-<w n="239,24">на</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="239,24">володимерь</w>
-<w n="239,24">и</w>
-<w n="239,24">оу<lb/>боꙗсѧ·</w>
-<w n="239,24">и</w>
-<w n="239,24">оужасъ</w>
-<w n="239,24">нападе</w>
-<w n="239,24">на</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="239,24">володимерь· <lb/></w>
-
-<w n="239,24">и</w>
-<w n="239,24">оубоꙗ<hi rend="sup">с</hi>·</w>
-<w n="239,24">и</w>
-<w n="239,24">оужасъ</w>
-<w n="239,24">напа<hi rend="sup">д</hi></w>
-<w n="239,24">на</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="239,24"><milestone unit="add" n="start" place="margin"/>володимерь<milestone unit="add" n="end"/></w>
-<w n="239,24">и</w>
-<w n="239,24">оубоꙗсѧ</w>
-<w n="239,24">и</w>
-<w n="239,24">оужа<hi rend="sup">с</hi></w>
-<w n="239,24">нападе</w>
-<w n="239,24">на</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="239,24">во<lb/>лодимерь</w>
-<w n="239,24">и</w>
-<w n="239,24"><milestone unit="sic" n="start"/>у<milestone unit="sic" n="end"/>боꙗсѧ·</w>
-<w n="239,24">и</w>
-<w n="239,24">оужа<lb/>сь</w>
-<w n="239,24">нападе</w>
-<w n="239,24">на</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="239,24">вол<hi rend="sup">д</hi>ѡ<hi rend="sup">о</hi>имеровъ <lb/></w>
-
-<w n="239,24">и</w>
-<w n="239,24">оубоѧсѧ.</w>
-<w n="239,24">и</w>
-<w n="239,24">оужась</w>
-<w n="239,24">нападе</w>
-<w n="239,24">на<hi rend="sup">н</hi>.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="239,24">Володимерь,</w>
-<w n="239,24">и</w>
-<w n="239,24">убояся,</w>
-<w n="239,24">и</w>
-<w n="239,24">ужасъ</w>
-<w n="239,24">нападе</w>
-<w n="239,24">на</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="239,24">Володимерь,</w>
-<w n="239,24">и</w>
-<w n="239,24">убояся,</w>
-<w n="239,24">и</w>
-<w n="239,24">ужасъ</w>
-<w n="239,24">нападе</w>
-<w n="239,24">на</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="239,24">Володимерь,</w>
-<w n="239,24">и</w>
-<w n="239,24">убояся,</w>
-<w n="239,24">и</w>
-<w n="239,24">ужасъ</w>
-<w n="239,24">нападе</w>
-<w n="239,24">на</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>239, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="239"/><div type="block" n="24"><p><app><lem wit="#lem">
+            Володимирь, и убоя ся, и ужасъ нападе на
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">володимерь и оу<lb/>боꙗсѧ· и оужасъ нападе на</rdg>
+            <rdg wit="#rad">володимерь· <lb/> и оубоꙗ<hi rend="sup">с</hi>· и оужасъ напа<hi rend="sup">д</hi> на</rdg>
+            <rdg wit="#aka"><add place="margin">володимерь</add> и оубоꙗсѧ и оужа<hi rend="sup">с</hi> нападе на</rdg>
+            <rdg wit="#ipa">во<lb/>лодимерь и <sic>у</sic>боꙗсѧ· и оужа<lb/>сь нападе на</rdg>
+            <rdg wit="#xle">вол<hi rend="sup">д</hi>ѡ<hi rend="sup">о</hi>имеровъ <lb/> и оубоѧсѧ. и оужась нападе
+                на<hi rend="sup">н</hi>.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Володимерь, и убояся, и ужасъ нападе на</rdg><rdg wit="#shakh">Володимерь, и убояся, и ужасъ нападе на</rdg><rdg wit="#likh">Володимерь, и убояся, и ужасъ нападе на</rdg></rdgGrp></app></p></div></body></text></TEI>

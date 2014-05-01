@@ -1,105 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>118, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="118"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-<w n="118,19">рубити</w>
-<w n="118,19">цьркъви</w>
-<w n="118,19">и</w>
-<w n="118,19">поставляти</w>
-<w n="118,19">по</w>
-<w n="118,19">мѣстомъ,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="118,19">рубити</w>
-<w n="118,19">цр҃кви.</w>
-<w n="118,19">и</w>
-<w n="118,19">поста<lb/>влѧти</w>
-<w n="118,19">по</w>
-<w n="118,19">мѣстомъ.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="118,19">роубити</w>
-<w n="118,19">цр҃квь.</w>
-<w n="118,19">и</w>
-<w n="118,19">поставлѧти</w>
-<w n="118,19">по</w>
-<w n="118,19">мѣ<lb/>стомъ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="118,19">рѹ<lb/>бити</w>
-<w n="118,19">цр҃квь.</w>
-<w n="118,19">и</w>
-<w n="118,19">поставити</w>
-<w n="118,19">по</w>
-<w n="118,19">мѣстомъ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="118,19">рубити</w>
-<w n="118,19">цр҃ь<lb/>кви</w>
-<w n="118,19">и</w>
-<w n="118,19">поставлѧти</w>
-<w n="118,19">по</w>
-<w n="118,19">мѣстомъ. <pb n="44d"/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="118,19">рубити</w>
-<w n="118,19">церкви</w>
-<w n="118,19">и</w>
-<w n="118,19">поставлꙗти</w>
-<w n="118,19">по</w>
-<w n="118,19">мѣстомъ</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="118,19">рубити</w>
-<w n="118,19">церкви</w>
-<w n="118,19">и</w>
-<w n="118,19">поставлꙗти</w>
-<w n="118,19">по</w>
-<w n="118,19">мѣстомъ</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="118,19">рубити</w>
-<w n="118,19">церкви</w>
-<w n="118,19">и</w>
-<w n="118,19">поставлꙗти</w>
-<w n="118,19">по</w>
-<w n="118,19">мѣстомъ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="118,19">рубити</w>
-<w n="118,19">церкви</w>
-<w n="118,19">и</w>
-<w n="118,19">поставляти</w>
-<w n="118,19">по</w>
-<w n="118,19">мѣстомъ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="118,19">рубити</w>
-<w n="118,19">цьркъви</w>
-<w n="118,19">и</w>
-<w n="118,19">поставляти</w>
-<w n="118,19">по</w>
-<w n="118,19">мѣстомъ,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="118,19">рубити</w>
-<w n="118,19">церкви</w>
-<w n="118,19">и</w>
-<w n="118,19">поставляти</w>
-<w n="118,19">по</w>
-<w n="118,19">мѣстомъ,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>118, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="118"/><div type="block" n="19"><p><app><lem wit="#lem">
+            рубити цьркъви и поставляти по мѣстомъ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">рубити цр҃кви. и поста<lb/>влѧти по мѣстомъ.</rdg>
+            <rdg wit="#rad">роубити цр҃квь. и поставлѧти по мѣ<lb/>стомъ.</rdg>
+            <rdg wit="#aka">рѹ<lb/>бити цр҃квь. и поставити по мѣстомъ.</rdg>
+            <rdg wit="#ipa">рубити цр҃ь<lb/>кви и поставлѧти по мѣстомъ. <pb n="44d"/></rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">рубити церкви и поставлꙗти по мѣстомъ</rdg>
+            <rdg wit="#nak">рубити церкви и поставлꙗти по мѣстомъ</rdg>
+            <rdg wit="#tol">рубити церкви и поставлꙗти по мѣстомъ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">рубити церкви и поставляти по мѣстомъ,</rdg><rdg wit="#shakh">рубити цьркъви и поставляти по мѣстомъ,</rdg><rdg wit="#likh">рубити церкви и поставляти по мѣстомъ,</rdg></rdgGrp></app></p></div></body></text></TEI>

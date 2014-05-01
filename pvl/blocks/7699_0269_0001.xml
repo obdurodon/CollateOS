@@ -1,102 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>269, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="269"/><div type="block" n="1"><p>
-<app>
-<lem wit="#lem">
-<w n="269,1">и</w>
-<w n="269,1">въздасть</w>
-<w n="269,1">мьсть</w>
-<w n="269,1">врагомъ</w>
-<w n="269,1">и</w>
-<w n="269,1">ненавидящимъ</w>
-<w n="269,1">его”.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="269,1">и</w>
-<w n="269,1">вздасть</w>
-<w n="269,1">месть</w>
-<w n="269,1">враго<hi rend="sup">м</hi></w>
-<w n="269,1">и <lb/></w>
-
-<w n="269,1">ненавидѧщи<hi rend="sup">м</hi></w>
-<w n="269,1">ѥго·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="269,1">и</w>
-<w n="269,1">воз<hi rend="sup">д</hi>асть</w>
-<w n="269,1">месть</w>
-<w n="269,1">враго<hi rend="sup">м</hi></w>
-<w n="269,1">и</w>
-<w n="269,1">ненавидѧщи<hi rend="sup">м</hi></w>
-<w n="269,1">е<hi rend="sup">г</hi>. <pb n="145r,5"/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="269,1">воза<hi rend="sup">д</hi><lb/>сть</w>
-<w n="269,1">месть</w>
-<w n="269,1">врагомъ·</w>
-<w n="269,1">и</w>
-<w n="269,1">ненавидѧщимь</w>
-<w n="269,1">его· <lb/><pb n="133v,14"/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="269,1">и</w>
-<w n="269,1">въздасть <lb/></w>
-
-<w n="269,1">месть</w>
-<w n="269,1">врагомъ·</w>
-<w n="269,1">и</w>
-<w n="269,1">ненавидѧ<lb/>щимъ</w>
-<w n="269,1">его</w>
-<w n="269,1">въздасть·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="269,1">и</w>
-<w n="269,1">въздасть <lb/></w>
-
-<w n="269,1">месть</w>
-<w n="269,1">врагѡ<hi rend="sup">м</hi>.</w>
-<w n="269,1">и</w>
-<w n="269,1">ненавидѧщи<hi rend="sup">м</hi></w>
-<w n="269,1">его</w>
-<w n="269,1">въздасть.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="269,1">и</w>
-<w n="269,1">вздасть</w>
-<w n="269,1">месть</w>
-<w n="269,1">врагомъ</w>
-<w n="269,1">и</w>
-<w n="269,1">ненавидящимъ</w>
-<w n="269,1">его.</w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="269,1">и</w>
-<w n="269,1">въздасть</w>
-<w n="269,1">мьсть</w>
-<w n="269,1">врагомъ,</w>
-<w n="269,1">и</w>
-<w n="269,1">ненавидящимъ</w>
-<w n="269,1">его</w>
-<w n="269,1">въздасть”.</w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="269,1">и</w>
-<w n="269,1">вздасть</w>
-<w n="269,1">месть</w>
-<w n="269,1">врагом</w>
-<w n="269,1">и</w>
-<w n="269,1">ненавидящим</w>
-<w n="269,1">его”.</w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>269, 1</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="269"/><div type="block" n="1"><p><app><lem wit="#lem">
+            и въздасть мьсть врагомъ и ненавидящимъ его”.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и вздасть месть враго<hi rend="sup">м</hi> и <lb/> ненавидѧщи<hi rend="sup">м</hi> ѥго·</rdg>
+            <rdg wit="#rad">и воз<hi rend="sup">д</hi>асть месть враго<hi rend="sup">м</hi> и ненавидѧщи<hi rend="sup">м</hi>
+                    е<hi rend="sup">г</hi>. <pb n="145r,5"/></rdg>
+            <rdg wit="#aka">воза<hi rend="sup">д</hi><lb/>сть месть врагомъ· и ненавидѧщимь его·
+                    <lb/><pb n="133v,14"/></rdg>
+            <rdg wit="#ipa">и въздасть <lb/> месть врагомъ· и ненавидѧ<lb/>щимъ его въздасть·</rdg>
+            <rdg wit="#xle">и въздасть <lb/> месть врагѡ<hi rend="sup">м</hi>. и ненавидѧщи<hi rend="sup">м</hi> его
+                въздасть.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и вздасть месть врагомъ и ненавидящимъ его. <add place="margin">259,6</add></rdg><rdg wit="#shakh">и въздасть мьсть врагомъ, и ненавидящимъ его въздасть”.
+                <add place="margin">313,11</add></rdg><rdg wit="#likh">и вздасть месть врагом и ненавидящим его”. <add place="margin">178,1</add></rdg></rdgGrp></app></p></div></body></text></TEI>

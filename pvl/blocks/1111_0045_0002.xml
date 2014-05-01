@@ -1,78 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>45, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="45"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-<w n="45,2">въ</w>
-<w n="45,2">землю</w>
-<w n="45,2">свою,</w>
-<w n="45,2">повѣдаху</w>
-<w n="45,2">къжьдо</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="45,2">въ</w>
-<w n="45,2">землю</w>
-<w n="45,2">свою</w>
-<w n="45,2">и</w>
-<w n="45,2">повѣдаху</w>
-<w n="45,2">кождо</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="45,2">въ</w>
-<w n="45,2">землю</w>
-<w n="45,2">свою.</w>
-<w n="45,2">поведахоу</w>
-<w n="45,2">кождо</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="45,2">во</w>
-<w n="45,2">землю</w>
-<w n="45,2">свою.</w>
-<w n="45,2">поведахѹ <lb/></w>
-
-<w n="45,2">кож<hi rend="sup">д</hi>о</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="45,2">в</w>
-<w n="45,2">землю</w>
-<w n="45,2">свою.</w>
-<w n="45,2">по<lb/>вѣдаху</w>
-<w n="45,2">кождо</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="45,2">въ</w>
-<w n="45,2">землю</w>
-<w n="45,2">свою.</w>
-<w n="45,2">повѣдахѫ</w>
-<w n="45,2">къж<hi rend="sup">д</hi>о</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="45,2">въ</w>
-<w n="45,2">землю</w>
-<w n="45,2">свою,</w>
-<w n="45,2">и</w>
-<w n="45,2">повѣдаху</w>
-<w n="45,2">кождо</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="45,2">въ</w>
-<w n="45,2">землю</w>
-<w n="45,2">свою,</w>
-<w n="45,2">повѣдаху</w>
-<w n="45,2">къжьдо</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="45,2">въ</w>
-<w n="45,2">землю</w>
-<w n="45,2">свою,</w>
-<w n="45,2">и</w>
-<w n="45,2">повѣдаху</w>
-<w n="45,2">кождо</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>45, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="45"/><div type="block" n="2"><p><app><lem wit="#lem">
+            въ землю свою, повѣдаху къжьдо
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">въ землю свою и повѣдаху кождо</rdg>
+            <rdg wit="#rad">въ землю свою. поведахоу кождо</rdg>
+            <rdg wit="#aka">во землю свою. поведахѹ <lb/> кож<hi rend="sup">д</hi>о</rdg>
+            <rdg wit="#ipa">в землю свою. по<lb/>вѣдаху кождо</rdg>
+            <rdg wit="#xle">въ землю свою. повѣдахѫ къж<hi rend="sup">д</hi>о</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">въ землю свою, и повѣдаху кождо</rdg><rdg wit="#shakh">въ землю свою, повѣдаху къжьдо</rdg><rdg wit="#likh">въ землю свою, и повѣдаху кождо</rdg></rdgGrp></app></p></div></body></text></TEI>

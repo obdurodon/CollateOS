@@ -1,85 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>240, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="240"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="240,20">въ</w>
-<w n="240,20">градъ</w>
-<w n="240,20">свои,</w>
-<w n="240,20">молитвами</w>
-<w n="240,20">преподобьнаго</w>
-<w n="240,20">епископа</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="240,20">в</w>
-<w n="240,20">свои</w>
-<w n="240,20">гра<hi rend="sup">д</hi></w>
-<w n="240,20">мл҃тва<lb/>ми</w>
-<w n="240,20">прп<hi rend="sup">д</hi>бнаго</w>
-<w n="240,20">епп<hi rend="sup">с</hi>а</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="240,20">в</w>
-<w n="240,20">гро<hi rend="sup">д</hi></w>
-<w n="240,20">свои·</w>
-<w n="240,20">млтв҃ми</w>
-<w n="240,20">прп<hi rend="sup">д</hi>бна<lb/>го</w>
-<w n="240,20">епп<hi rend="sup">с</hi>а·</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="240,20">в</w>
-<w n="240,20">горо<hi rend="sup">д</hi></w>
-<w n="240,20">свои</w>
-<w n="240,20">мл҃твами</w>
-<w n="240,20">прп<hi rend="sup">д</hi>бна<lb/>го</w>
-<w n="240,20">епп<hi rend="sup">с</hi>а</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="240,20">в</w>
-<w n="240,20">городъ <lb/></w>
-
-<w n="240,20">свои·</w>
-<w n="240,20">млт҃вами</w>
-<w n="240,20">прп<hi rend="sup">д</hi>бнаго</w>
-<w n="240,20">е<lb/>п<hi rend="sup">с</hi>па</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="240,20">въ</w>
-<w n="240,20">горѡ<hi rend="sup">д</hi></w>
-<w n="240,20">свои.</w>
-<w n="240,20">мл҃твами</w>
-<w n="240,20">прп<hi rend="sup">д</hi>бнаго</w>
-<w n="240,20">епк<hi rend="sup">с</hi>па <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="240,20">в</w>
-<w n="240,20">свой</w>
-<w n="240,20">градъ,</w>
-<w n="240,20">молитвами</w>
-<w n="240,20">преподобнаго</w>
-<w n="240,20">епископа</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="240,20">въ</w>
-<w n="240,20">свои</w>
-<w n="240,20">градъ,</w>
-<w n="240,20">молитвами</w>
-<w n="240,20">преподобьнаго</w>
-<w n="240,20">епископа</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="240,20">в</w>
-<w n="240,20">свой</w>
-<w n="240,20">град,</w>
-<w n="240,20">молитвами</w>
-<w n="240,20">преподобнаго</w>
-<w n="240,20">епископа</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>240, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="240"/><div type="block" n="20"><p><app><lem wit="#lem">
+            въ градъ свои, молитвами преподобьнаго епископа
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">в свои гра<hi rend="sup">д</hi> мл҃тва<lb/>ми прп<hi rend="sup">д</hi>бнаго епп<hi rend="sup">с</hi>а</rdg>
+            <rdg wit="#rad">в гро<hi rend="sup">д</hi> свои· млтв҃ми прп<hi rend="sup">д</hi>бна<lb/>го епп<hi rend="sup">с</hi>а·</rdg>
+            <rdg wit="#aka">в горо<hi rend="sup">д</hi> свои мл҃твами прп<hi rend="sup">д</hi>бна<lb/>го епп<hi rend="sup">с</hi>а</rdg>
+            <rdg wit="#ipa">в городъ <lb/> свои· млт҃вами прп<hi rend="sup">д</hi>бнаго е<lb/>п<hi rend="sup">с</hi>па</rdg>
+            <rdg wit="#xle">въ горѡ<hi rend="sup">д</hi> свои. мл҃твами прп<hi rend="sup">д</hi>бнаго епк<hi rend="sup">с</hi>па
+                <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">в свой градъ, молитвами преподобнаго епископа</rdg><rdg wit="#shakh">въ свои градъ, молитвами преподобьнаго епископа</rdg><rdg wit="#likh">в свой град, молитвами преподобнаго епископа</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,86 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>33, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="33"/><div type="block" n="12"><p>
-<app>
-<lem wit="#lem">
-<w n="33,12">суть</w>
-<w n="33,12">подъ</w>
-<w n="33,12">рукою</w>
-<w n="33,12">его</w>
-<w n="33,12">сущихъ</w>
-<w n="33,12">Руси.</w>
-<w n="33,12">Наша</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="33,12">соу<hi rend="sup">т</hi></w>
-<w n="33,12">по<hi rend="sup">д</hi></w>
-<w n="33,12">роукою</w>
-<w n="33,12">его <lb/></w>
-
-<w n="33,12">соущи<hi rend="sup">х</hi></w>
-<w n="33,12">роуси.</w>
-<w n="33,12">наша</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="33,12">сѹть</w>
-<w n="33,12">по<hi rend="sup">д</hi></w>
-<w n="33,12">рѹкою</w>
-<w n="33,12">его.</w>
-<w n="33,12">сѹщихъ</w>
-<w n="33,12">рѹси</w>
-<w n="33,12">наша <pb n="14r"/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="33,12">суть</w>
-<w n="33,12">подъ</w>
-<w n="33,12">рукою</w>
-<w n="33,12"><milestone unit="sic" n="start"/>е<milestone unit="sic" n="end"/>го.</w>
-<w n="33,12">сущи<hi rend="sup">х</hi><lb/></w>
-<w n="33,12">руси.</w>
-<w n="33,12">наша</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="33,12">сѫ<hi rend="sup">т</hi></w>
-<w n="33,12">пѡ<hi rend="sup">д</hi></w>
-<w n="33,12">рѫкою</w>
-<w n="33,12">его</w>
-<w n="33,12">сѫщи<hi rend="sup">х</hi></w>
-<w n="33,12">роусїи.</w>
-<w n="33,12">наша</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="33,12">суть</w>
-<w n="33,12">подъ</w>
-<w n="33,12">рукою</w>
-<w n="33,12">его</w>
-<w n="33,12">сущихъ</w>
-<w n="33,12">Руси.</w>
-<w n="33,12">Наша</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="33,12">подъ</w>
-<w n="33,12">рукою</w>
-<w n="33,12">его</w>
-<w n="33,12">сущихъ</w>
-<w n="33,12">Руси.</w>
-<w n="33,12">Наша</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="33,12">суть</w>
-<w n="33,12">под</w>
-<w n="33,12">рукою</w>
-<w n="33,12">его</w>
-<w n="33,12">сущих</w>
-<w n="33,12">Руси.</w>
-<w n="33,12">Наша</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>33, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="33"/><div type="block" n="12"><p><app><lem wit="#lem">
+            суть подъ рукою его сущихъ Руси. Наша
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">соу<hi rend="sup">т</hi> по<hi rend="sup">д</hi> роукою его <lb/> соущи<hi rend="sup">х</hi> роуси. наша</rdg>
+            <rdg wit="#aka">сѹть по<hi rend="sup">д</hi> рѹкою его.  сѹщихъ рѹси наша <pb n="14r"/></rdg>
+            <rdg wit="#ipa">суть подъ рукою <sic>е</sic>го. сущи<hi rend="sup">х</hi>
+                <lb/> руси. наша</rdg>
+            <rdg wit="#xle">сѫ<hi rend="sup">т</hi> пѡ<hi rend="sup">д</hi> рѫкою его сѫщи<hi rend="sup">х</hi> роусїи. наша</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">суть подъ рукою его сущихъ Руси. Наша</rdg><rdg wit="#shakh">подъ рукою его сущихъ Руси. Наша</rdg><rdg wit="#likh">суть под рукою его сущих Руси. Наша</rdg></rdgGrp></app></p></div></body></text></TEI>

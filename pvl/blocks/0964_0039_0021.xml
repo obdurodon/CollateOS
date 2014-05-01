@@ -1,90 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>39, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="39"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="39,21">чюдеса.</w>
-<w n="39,21">Отъ</w>
-<w n="39,21">Рима</w>
-<w n="39,21">бо</w>
-<w n="39,21">пришьдъ</w>
-<w n="39,21">въ</w>
-<w n="39,21">Узантию,</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="39,21">чюдеса.</w>
-<w n="39,21">ѿ</w>
-<w n="39,21">рима</w>
-<w n="39,21">бо</w>
-<w n="39,21">при<lb/>ш<hi rend="sup">д</hi>е</w>
-<w n="39,21">въ</w>
-<w n="39,21">византию.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="39,21">чюдеса.</w>
-<w n="39,21">ѿ</w>
-<w n="39,21">рима <lb/></w>
-
-<w n="39,21">бо</w>
-<w n="39,21">приш<hi rend="sup">д</hi>е</w>
-<w n="39,21">въ</w>
-<w n="39,21">византїю.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="39,21">чюдеса</w>
-<w n="39,21">творѧ.</w>
-<w n="39,21">ѿ</w>
-<w n="39,21">рима</w>
-<w n="39,21">бо <lb/></w>
-
-<w n="39,21">пришедъ</w>
-<w n="39,21">въ</w>
-<w n="39,21">оузантию. <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="39,21">чю<lb/>деса</w>
-<w n="39,21">творѧ.</w>
-<w n="39,21">ѿ</w>
-<w n="39,21">рима</w>
-<w n="39,21">бо</w>
-<w n="39,21">приш<hi rend="sup">д</hi>е</w>
-<w n="39,21">въ</w>
-<w n="39,21">оузантїю.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="39,21">чюдеса;</w>
-<w n="39,21">отъ</w>
-<w n="39,21">Рима</w>
-<w n="39,21">бо</w>
-<w n="39,21">пришедъ</w>
-<w n="39,21">въ</w>
-<w n="39,21">Византию,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="39,21">чюдеса.</w>
-<w n="39,21">Отъ</w>
-<w n="39,21">Рима</w>
-<w n="39,21">бо</w>
-<w n="39,21">пришьдъ</w>
-<w n="39,21">въ</w>
-<w n="39,21">Византию,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="39,21">чюдеса.</w>
-<w n="39,21">От</w>
-<w n="39,21">Рима</w>
-<w n="39,21">бо</w>
-<w n="39,21">пришед</w>
-<w n="39,21">въ</w>
-<w n="39,21">Византию,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>39, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="39"/><div type="block" n="21"><p><app><lem wit="#lem">
+            чюдеса. Отъ Рима бо пришьдъ въ Узантию,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">чюдеса. ѿ рима бо при<lb/>ш<hi rend="sup">д</hi>е въ византию.</rdg>
+            <rdg wit="#aka">чюдеса. ѿ рима <lb/> бо приш<hi rend="sup">д</hi>е въ византїю.</rdg>
+            <rdg wit="#ipa">чюдеса творѧ. ѿ рима бо <lb/> пришедъ въ оузантию. <lb/></rdg>
+            <rdg wit="#xle">чю<lb/>деса творѧ. ѿ рима бо приш<hi rend="sup">д</hi>е въ оузантїю.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">чюдеса; отъ Рима бо пришедъ въ Византию,</rdg><rdg wit="#shakh">чюдеса. Отъ Рима бо пришьдъ въ Византию,</rdg><rdg wit="#likh">чюдеса. От Рима бо пришед въ Византию,</rdg></rdgGrp></app></p></div></body></text></TEI>

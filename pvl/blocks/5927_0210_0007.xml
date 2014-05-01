@@ -1,79 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>210, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="210"/><div type="block" n="7"><p>
-<app>
-<lem wit="#lem">
-<w n="210,7">не</w>
-<w n="210,7">могуще</w>
-<w n="210,7">ся</w>
-<w n="210,7">докопати,</w>
-<w n="210,7">начахъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="210,7">и</w>
-<w n="210,7">не <lb/></w>
-
-<w n="210,7">могуче</w>
-<w n="210,7">сѧ</w>
-<w n="210,7">докопати.</w>
-<w n="210,7">нача<hi rend="sup">х</hi></w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="210,7">не</w>
-<w n="210,7">могоще</w>
-<w n="210,7">сѧ</w>
-<w n="210,7">докопати.</w>
-<w n="210,7">нача<hi rend="sup">х</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="210,7">не</w>
-<w n="210,7">могѹще</w>
-<w n="210,7">докопати.</w>
-<w n="210,7">нача<hi rend="sup">х</hi></w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="210,7">не</w>
-<w n="210,7">могуще</w>
-<w n="210,7">сѧ</w>
-<w n="210,7">до<lb/>копати.</w>
-<w n="210,7">начахъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="210,7">не</w>
-<w n="210,7">могоуще</w>
-<w n="210,7">сѧ</w>
-<w n="210,7">докопати.</w>
-<w n="210,7">и</w>
-<w n="210,7">нача<hi rend="sup">х</hi><pb n="95v"/></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="210,7">и</w>
-<w n="210,7">не</w>
-<w n="210,7">могуще</w>
-<w n="210,7">ся</w>
-<w n="210,7">докопати,</w>
-<w n="210,7">начахъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="210,7">не</w>
-<w n="210,7">могуще</w>
-<w n="210,7">ся</w>
-<w n="210,7">докопати,</w>
-<w n="210,7">и</w>
-<w n="210,7">начахъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="210,7">и</w>
-<w n="210,7">не</w>
-<w n="210,7">могуче</w>
-<w n="210,7">ся</w>
-<w n="210,7">докопати,</w>
-<w n="210,7">начах</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>210, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="210"/><div type="block" n="7"><p><app><lem wit="#lem">
+            не могуще ся докопати, начахъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и не <lb/> могуче сѧ докопати. нача<hi rend="sup">х</hi></rdg>
+            <rdg wit="#rad">не могоще сѧ докопати. нача<hi rend="sup">х</hi></rdg>
+            <rdg wit="#aka">не могѹще докопати. нача<hi rend="sup">х</hi></rdg>
+            <rdg wit="#ipa">не могуще сѧ до<lb/>копати. начахъ</rdg>
+            <rdg wit="#xle">не могоуще сѧ докопати. и нача<hi rend="sup">х</hi>
+                <pb n="95v"/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и не могуще ся докопати, начахъ</rdg><rdg wit="#shakh">не могуще ся докопати, и начахъ</rdg><rdg wit="#likh">и не могуче ся докопати, начах</rdg></rdgGrp></app></p></div></body></text></TEI>

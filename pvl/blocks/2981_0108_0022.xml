@@ -1,104 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>108, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="108"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="108,22">и</w>
-<w n="108,22">есть</w>
-<w n="108,22">служьба</w>
-<w n="108,22">ихъ</w>
-<w n="108,22">паче</w>
-<w n="108,22">вьсѣхъ</w>
-<w n="108,22">странъ.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="108,22">и</w>
-<w n="108,22">есть</w>
-<w n="108,22">служба</w>
-<w n="108,22">и<hi rend="sup">х</hi></w>
-<w n="108,22">паче</w>
-<w n="108,22">всѣхъ</w>
-<w n="108,22">странъ. <pb n="37v"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="108,22">и</w>
-<w n="108,22">е<hi rend="sup">с</hi></w>
-<w n="108,22">слоу<hi rend="sup">ж</hi>ба</w>
-<w n="108,22">и<hi rend="sup">х</hi>.</w>
-<w n="108,22">па<hi rend="sup">ч</hi></w>
-<w n="108,22">всѣ<hi rend="sup">х</hi></w>
-<w n="108,22">странъ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="108,22">и</w>
-<w n="108,22">есть</w>
-<w n="108,22">слѹжба</w>
-<w n="108,22">и<hi rend="sup">х</hi></w>
-<w n="108,22">паче</w>
-<w n="108,22">всѣ<hi rend="sup">х</hi></w>
-<w n="108,22">стра<lb/>нъ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="108,22">и</w>
-<w n="108,22">есть</w>
-<w n="108,22">служба</w>
-<w n="108,22">ихъ</w>
-<w n="108,22">паче</w>
-<w n="108,22">вси<hi rend="sup">х</hi><lb/></w>
-<w n="108,22">странъ.</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="108,22">ес</w>
-<w n="108,22">служба</w>
-<w n="108,22">их</w>
-<w n="108,22">паче</w>
-<w n="108,22">всѣх</w>
-<w n="108,22">странъ</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="108,22">есть</w>
-<w n="108,22">служба</w>
-<w n="108,22">их</w>
-<w n="108,22">паче</w>
-<w n="108,22">всѣхъ</w>
-<w n="108,22">странъ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="108,22">и</w>
-<w n="108,22">есть</w>
-<w n="108,22">служба</w>
-<w n="108,22">ихъ</w>
-<w n="108,22">паче</w>
-<w n="108,22">всѣхъ</w>
-<w n="108,22">странъ.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="108,22">ие</w>
-<w n="108,22">сть</w>
-<w n="108,22">служьба</w>
-<w n="108,22">ихъ</w>
-<w n="108,22">паче</w>
-<w n="108,22">вьсѣхъ</w>
-<w n="108,22">странъ.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="108,22">и</w>
-<w n="108,22">есть</w>
-<w n="108,22">служба</w>
-<w n="108,22">их</w>
-<w n="108,22">паче</w>
-<w n="108,22">всѣхъ</w>
-<w n="108,22">странъ.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>108, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="108"/><div type="block" n="22"><p><app><lem wit="#lem">
+            и есть служьба ихъ паче вьсѣхъ странъ.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">и есть служба и<hi rend="sup">х</hi> паче всѣхъ  странъ. <pb n="37v"/></rdg>
+            <rdg wit="#rad">и е<hi rend="sup">с</hi> слоу<hi rend="sup">ж</hi>ба и<hi rend="sup">х</hi>. па<hi rend="sup">ч</hi> всѣ<hi rend="sup">х</hi>
+                странъ.</rdg>
+            <rdg wit="#aka">и есть слѹжба и<hi rend="sup">х</hi> паче всѣ<hi rend="sup">х</hi> стра<lb/>нъ.</rdg>
+            <rdg wit="#ipa">и есть служба ихъ паче вси<hi rend="sup">х</hi>
+                <lb/> странъ.</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">ес служба их паче всѣх странъ</rdg>
+            <rdg wit="#tol">есть служба их паче всѣхъ странъ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">и есть служба ихъ паче всѣхъ странъ.</rdg><rdg wit="#shakh">ие сть служьба ихъ паче вьсѣхъ странъ.</rdg><rdg wit="#likh">и есть служба их паче всѣхъ странъ.</rdg></rdgGrp></app></p></div></body></text></TEI>

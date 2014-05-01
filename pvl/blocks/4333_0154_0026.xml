@@ -1,95 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>154, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="154"/><div type="block" n="26"><p>
-<app>
-<lem wit="#lem">
-<w n="154,26">мъного.</w>
-<w n="154,26">По</w>
-<w n="154,26">трьхъ</w>
-<w n="154,26">же</w>
-<w n="154,26">лѣтѣхъ</w>
-<w n="154,26">миру</w>
-<w n="154,26">бывъшю,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="154,26">много.</w>
-<w n="154,26">по</w>
-<w n="154,26">трехъ</w>
-<w n="154,26">же</w>
-<w n="154,26">лѣтѣ<lb/>хъ</w>
-<w n="154,26">миру</w>
-<w n="154,26">бывшю.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="154,26">много.</w>
-<w n="154,26">по</w>
-<w n="154,26">.г<hi rend="sup">х</hi>.</w>
-<w n="154,26">же <lb/></w>
-
-<w n="154,26">лѣте<hi rend="sup">х</hi></w>
-<w n="154,26">мирѹ</w>
-<w n="154,26">бывшю.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="154,26">много.</w>
-<w n="154,26">по</w>
-<w n="154,26">тре<hi rend="sup">х</hi></w>
-<w n="154,26">же</w>
-<w n="154,26">лѣте<hi rend="sup">х</hi></w>
-<w n="154,26">мирѹ</w>
-<w n="154,26">бывшю. <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="154,26">много.</w>
-<w n="154,26">по</w>
-<w n="154,26">.г҃.</w>
-<w n="154,26">хъ</w>
-<w n="154,26">же</w>
-<w n="154,26">лѣ<hi rend="sup">т</hi>хъ.</w>
-<w n="154,26">ми<lb/>ру</w>
-<w n="154,26">бывшю.</w>
-<w n="154,26">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="154,26">мнѡго.</w>
-<w n="154,26">по</w>
-<w n="154,26">тре<hi rend="sup">х</hi></w>
-<w n="154,26">же</w>
-<w n="154,26">лѣте<hi rend="sup">х</hi><lb/>мироу</w>
-<w n="154,26">бывшоу.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="154,26">много;</w>
-<w n="154,26">по</w>
-<w n="154,26">трехъ</w>
-<w n="154,26">же</w>
-<w n="154,26">лѣтѣхъ</w>
-<w n="154,26">миру</w>
-<w n="154,26">бывшю,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="154,26">мъного.</w>
-<w n="154,26">По</w>
-<w n="154,26">трьхъ</w>
-<w n="154,26">же</w>
-<w n="154,26">лѣтѣхъ,</w>
-<w n="154,26">миру</w>
-<w n="154,26">бывъшю,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="154,26">много.</w>
-<w n="154,26">По</w>
-<w n="154,26">трехъ</w>
-<w n="154,26">же</w>
-<w n="154,26">лѣтѣхъ</w>
-<w n="154,26">миру</w>
-<w n="154,26">бывшю,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>154, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="154"/><div type="block" n="26"><p><app><lem wit="#lem">
+            мъного. По трьхъ же лѣтѣхъ миру бывъшю,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">много. по трехъ же лѣтѣ<lb/>хъ миру бывшю.</rdg>
+            <rdg wit="#rad">много. по .г<hi rend="sup">х</hi>. же <lb/> лѣте<hi rend="sup">х</hi> мирѹ бывшю.</rdg>
+            <rdg wit="#aka">много. по тре<hi rend="sup">х</hi> же лѣте<hi rend="sup">х</hi> мирѹ бывшю. <lb/></rdg>
+            <rdg wit="#ipa">много. по .г҃. хъ же лѣ<hi rend="sup">т</hi>хъ. ми<lb/>ру бывшю. и</rdg>
+            <rdg wit="#xle">мнѡго. по тре<hi rend="sup">х</hi> же лѣте<hi rend="sup">х</hi>
+                <lb/>мироу бывшоу.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">много; по трехъ же лѣтѣхъ миру бывшю,</rdg><rdg wit="#shakh">мъного. По трьхъ же лѣтѣхъ, миру бывъшю,</rdg><rdg wit="#likh">много. По трехъ же лѣтѣхъ миру бывшю,</rdg></rdgGrp></app></p></div></body></text></TEI>

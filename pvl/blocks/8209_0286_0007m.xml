@@ -1,30 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>286, 7m</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="286"/><div type="block" n="7m"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#ipa">
-<w n="286,7m">да</w>
-<w n="286,7m">слыши<lb/>ть</w>
-<w n="286,7m">ꙗко</w>
-<w n="286,7m">ѡлександру</w>
-<w n="286,7m">макидонь<lb/>скому·</w>
-<w n="286,7m">ѡполчившю</w>
-<w n="286,7m">на</w>
-<w n="286,7m">дарьꙗ· <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="286,7m">да</w>
-<w n="286,7m">слыши<hi rend="sup">т</hi></w>
-<w n="286,7m">яко</w>
-<w n="286,7m">але<lb/>ѯанд′роу</w>
-<w n="286,7m">макидо<hi rend="sup">н</hi>скомоу.</w>
-<w n="286,7m">ѡпол′чив′шоу</w>
-<w n="286,7m">сѧ</w>
-<w n="286,7m">на</w>
-<w n="286,7m">дарїа <lb/></w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>286, 7m</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="286"/><div type="block" n="7m"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#ipa">да слыши<lb/>ть ꙗко ѡлександру макидонь<lb/>скому· ѡполчившю на дарьꙗ· <lb/></rdg>
+            <rdg wit="#xle">да слыши<hi rend="sup">т</hi> ꙗко але<lb/>ѯанд′роу макидо<hi rend="sup">н</hi>скомоу. ѡпол′чив′шоу сѧ
+                на дарїа <lb/></rdg>
+        </rdgGrp></app></p></div></body></text></TEI>

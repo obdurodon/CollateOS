@@ -1,98 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>39, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="39"/><div type="block" n="26"><p>
-<app>
-<lem wit="#lem">
-<w n="39,26">Такоже</w>
-<w n="39,26">и</w>
-<w n="39,26">въ</w>
-<w n="39,26">Антиохию</w>
-<w n="39,26">пришьдъ,</w>
-<w n="39,26">и</w>
-<w n="39,26">умоленъ</w>
-<w n="39,26">бывъ</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="39,26">тако<hi rend="sup">ж</hi></w>
-<w n="39,26">и</w>
-<w n="39,26">во</w>
-<w n="39,26">анти<milestone unit="sic" n="start"/><hi rend="sup">ѡ</hi><milestone unit="sic" n="end"/>хию</w>
-<w n="39,26">прише<hi rend="sup">д</hi>.</w>
-<w n="39,26">и</w>
-<w n="39,26">оумоле<hi rend="sup">н</hi><lb/></w>
-<w n="39,26">бывъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="39,26">тако</w>
-<w n="39,26">же</w>
-<w n="39,26">и</w>
-<w n="39,26">въ</w>
-<w n="39,26">антѡ<lb/>хѣю</w>
-<w n="39,26">прише<hi rend="sup">д</hi>.</w>
-<w n="39,26">и</w>
-<w n="39,26">оумолень</w>
-<w n="39,26">бывь</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="39,26">тако</w>
-<w n="39,26">же</w>
-<w n="39,26">и <lb/></w>
-
-<w n="39,26">въ</w>
-<w n="39,26">антиѡхию</w>
-<w n="39,26">пришед<hi rend="sup">ъ</hi>. <lb/></w>
-
-<w n="39,26">и</w>
-<w n="39,26">оумо<hi rend="sup">л</hi>н<hi rend="sup">е</hi>ъ</w>
-<w n="39,26">бывъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="39,26">тако</w>
-<w n="39,26">же</w>
-<w n="39,26">и</w>
-<w n="39,26">въ</w>
-<w n="39,26">а<hi rend="sup">н</hi>ти<lb/>ѡхїю</w>
-<w n="39,26">прише<hi rend="sup">д</hi>,</w>
-<w n="39,26">оумолень</w>
-<w n="39,26">бывь</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="39,26">Такоже</w>
-<w n="39,26">и</w>
-<w n="39,26">во</w>
-<w n="39,26">Антиохию</w>
-<w n="39,26">пришедъ,</w>
-<w n="39,26">и</w>
-<w n="39,26">умоленъ</w>
-<w n="39,26">бывъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="39,26">Такоже</w>
-<w n="39,26">и</w>
-<w n="39,26">въ</w>
-<w n="39,26">Антиохию</w>
-<w n="39,26">пришьдъ,</w>
-<w n="39,26">и</w>
-<w n="39,26">умоленъ</w>
-<w n="39,26">бывъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="39,26">Тако</w>
-<w n="39,26">же</w>
-<w n="39,26">и</w>
-<w n="39,26">во</w>
-<w n="39,26">Антиохию</w>
-<w n="39,26">пришед,</w>
-<w n="39,26">и</w>
-<w n="39,26">умолен</w>
-<w n="39,26">бывъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>39, 26</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="39"/><div type="block" n="26"><p><app><lem wit="#lem">
+            Такоже и въ Антиохию пришьдъ, и умоленъ бывъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">тако<hi rend="sup">ж</hi> и во анти<sic><hi rend="sup">ѡ</hi></sic>хию прише<hi rend="sup">д</hi>. и
+                    оумоле<hi rend="sup">н</hi>
+                <lb/> бывъ</rdg>
+            <rdg wit="#aka">тако же и въ антѡ<lb/>хѣю прише<hi rend="sup">д</hi>. и оумолень бывь</rdg>
+            <rdg wit="#ipa">тако же и <lb/> въ антиѡхию пришед<hi rend="sup">ъ</hi>. <lb/> и
+                    оумо<hi rend="sup">л</hi>н<hi rend="sup">е</hi>ъ бывъ</rdg>
+            <rdg wit="#xle">тако же и въ а<hi rend="sup">н</hi>ти<lb/>ѡхїю прише<hi rend="sup">д</hi>, оумолень бывь</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Такоже и во Антиохию пришедъ, и умоленъ бывъ</rdg><rdg wit="#shakh">Такоже и въ Антиохию пришьдъ, и умоленъ бывъ</rdg><rdg wit="#likh">Тако же и во Антиохию пришед, и умолен бывъ</rdg></rdgGrp></app></p></div></body></text></TEI>

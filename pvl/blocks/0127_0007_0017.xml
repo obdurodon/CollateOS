@@ -1,117 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>7, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="7"/><div type="block" n="17"><p>
-<app>
-<lem wit="#lem">
-<w n="7,17">из</w>
-<w n="7,17">Руси</w>
-<w n="7,17">можеть</w>
-<w n="7,17">ити</w>
-<w n="7,17">по</w>
-<w n="7,17">Вълзѣ</w>
-<w n="7,17">въ</w>
-<w n="7,17">Българы</w>
-<w n="7,17">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="7,17">из</w>
-<w n="7,17">руси</w>
-<w n="7,17">можеть</w>
-<w n="7,17">ити <lb/></w>
-
-<w n="7,17">в</w>
-<w n="7,17">болгары</w>
-<w n="7,17">и</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="7,17">из</w>
-<w n="7,17">роуси <lb/></w>
-
-<w n="7,17">можеть</w>
-<w n="7,17">ити</w>
-<w n="7,17">по</w>
-<w n="7,17">волзе</w>
-<w n="7,17">в</w>
-<w n="7,17">болгары</w>
-<w n="7,17">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="7,17">и<lb/>з</w>
-<w n="7,17">рѹси</w>
-<w n="7,17">можетъ</w>
-<w n="7,17">ити.</w>
-<w n="7,17">и</w>
-<w n="7,17">по</w>
-<w n="7,17">волзе</w>
-<w n="7,17">в</w>
-<w n="7,17">болгары.</w>
-<w n="7,17">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="7,17">из</w>
-<w n="7,17">русі <lb/></w>
-
-<w n="7,17">можеть</w>
-<w n="7,17">ити</w>
-<w n="7,17">по</w>
-<w n="7,17">волзѣ. <lb/></w>
-
-<w n="7,17">в</w>
-<w n="7,17">болгары.</w>
-<w n="7,17">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="7,17">из</w>
-<w n="7,17">роуси <lb/></w>
-
-<w n="7,17">може<hi rend="sup">т</hi></w>
-<w n="7,17">ити</w>
-<w n="7,17">по</w>
-<w n="7,17">волѕѣ</w>
-<w n="7,17">в</w>
-<w n="7,17">болгары,</w>
-<w n="7,17">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="7,17">из</w>
-<w n="7,17">Руси</w>
-<w n="7,17">можеть</w>
-<w n="7,17">ити</w>
-<w n="7,17">по</w>
-<w n="7,17">Волзѣ</w>
-<w n="7,17">в</w>
-<w n="7,17">Болгары</w>
-<w n="7,17">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="7,17">из</w>
-<w n="7,17">Руси</w>
-<w n="7,17">можеть</w>
-<w n="7,17">ити</w>
-<w n="7,17">по</w>
-<w n="7,17">Вълзѣ</w>
-<w n="7,17">въ</w>
-<w n="7,17">Българы</w>
-<w n="7,17">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="7,17">из</w>
-<w n="7,17">Руси</w>
-<w n="7,17">можеть</w>
-<w n="7,17">ити</w>
-<w n="7,17">по</w>
-<w n="7,17">Волзѣ</w>
-<w n="7,17">в</w>
-<w n="7,17">Болгары</w>
-<w n="7,17">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>7, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="7"/><div type="block" n="17"><p><app><lem wit="#lem">
+            из Руси можеть ити по Вълзѣ въ Българы и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">из руси можеть ити <lb/> в болгары и</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">из роуси <lb/> можеть ити по волзе в болгары и</rdg>
+            <rdg wit="#aka">и<lb/>з рѹси можетъ ити. и по волзе в болгары. и</rdg>
+            <rdg wit="#ipa">из русі <lb/> можеть ити по волзѣ. <lb/> в болгары. и</rdg>
+            <rdg wit="#xle">из роуси <lb/> може<hi rend="sup">т</hi> ити по волѕѣ в болгары, и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">из Руси можеть ити по Волзѣ в Болгары и</rdg><rdg wit="#shakh">из Руси можеть ити по Вълзѣ въ Българы и</rdg><rdg wit="#likh">из Руси можеть ити по Волзѣ в Болгары и</rdg></rdgGrp></app></p></div></body></text></TEI>

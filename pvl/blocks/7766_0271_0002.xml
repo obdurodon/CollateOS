@@ -1,81 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="271"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-<w n="271,2">начаша</w>
-<w n="271,2">мънози</w>
-<w n="271,2">выти</w>
-<w n="271,2">вълци.</w>
-<w n="271,2">Бонякъ</w>
-<w n="271,2">же</w>
-<w n="271,2">приѣха</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="271,2">начаша</w>
-<w n="271,2">волци</w>
-<w n="271,2">выти· <lb/></w>
-
-<w n="271,2">мнози</w>
-<w n="271,2">бонѧкъ</w>
-<w n="271,2">же</w>
-<w n="271,2">приѣхавъ <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="271,2">нача<lb/>ша</w>
-<w n="271,2">мнози</w>
-<w n="271,2">вол<milestone unit="sic" n="start"/>ц<milestone unit="sic" n="end"/>и</w>
-<w n="271,2">выти·</w>
-<w n="271,2">бо<lb/>нѧкъ</w>
-<w n="271,2">же</w>
-<w n="271,2">приѣха</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="271,2">начаша</w>
-<w n="271,2">мнѡѕи</w>
-<w n="271,2">волци</w>
-<w n="271,2">выти.</w>
-<w n="271,2">бонѧкь</w>
-<w n="271,2">же</w>
-<w n="271,2">прїеха <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="271,2">начаша</w>
-<w n="271,2">волци</w>
-<w n="271,2">выти</w>
-<w n="271,2">мнози;</w>
-<w n="271,2">Бонякъ</w>
-<w n="271,2">же</w>
-<w n="271,2">приѣхавъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="271,2">начаша</w>
-<w n="271,2">вълци</w>
-<w n="271,2">выти</w>
-<w n="271,2">мънози;</w>
-<w n="271,2">Бонякъ</w>
-<w n="271,2">же,</w>
-<w n="271,2">приѣхавъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="271,2">начаша</w>
-<w n="271,2">волци</w>
-<w n="271,2">выти</w>
-<w n="271,2">мнози.</w>
-<w n="271,2">Бонякъ</w>
-<w n="271,2">же</w>
-<w n="271,2">приѣхавъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="271"/><div type="block" n="2"><p><app><lem wit="#lem">
+            начаша мънози выти вълци. Бонякъ же приѣха
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">начаша волци выти· <lb/> мнози бонѧкъ же приѣхавъ <lb/></rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">нача<lb/>ша мнози вол<sic>ц</sic>и выти· бо<lb/>нѧкъ же приѣха</rdg>
+            <rdg wit="#xle">начаша мнѡѕи волци выти. бонѧкь же прїеха <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">начаша волци выти мнози; Бонякъ же приѣхавъ</rdg><rdg wit="#shakh">начаша вълци выти мънози; Бонякъ же, приѣхавъ</rdg><rdg wit="#likh">начаша волци выти мнози. Бонякъ же приѣхавъ</rdg></rdgGrp></app></p></div></body></text></TEI>

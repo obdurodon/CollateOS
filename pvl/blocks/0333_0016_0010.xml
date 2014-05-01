@@ -1,92 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>16, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="16"/><div type="block" n="10"><p>
-<app>
-<lem wit="#lem">
-<w n="16,10">отроча,</w>
-<w n="16,10">погубять.</w>
-<w n="16,10">Аще</w>
-<w n="16,10">ли</w>
-<w n="16,10">дѣвичьскъ</w>
-<w n="16,10">полъ,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="16,10">ѡтроча</w>
-<w n="16,10">погубѧть.</w>
-<w n="16,10">аще</w>
-<w n="16,10">дѣвоческъ</w>
-<w n="16,10">по<lb/>лъ</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="16,10">ѡтроча</w>
-<w n="16,10">по<lb/>гоубѧть.</w>
-<w n="16,10">аще</w>
-<w n="16,10">ли</w>
-<w n="16,10">дв҃ческъ</w>
-<w n="16,10">полъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="16,10">ѡтроча</w>
-<w n="16,10">погѹбѧть.</w>
-<w n="16,10">аще</w>
-<w n="16,10">ли</w>
-<w n="16,10">дв҃ческъ</w>
-<w n="16,10">поль</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="16,10">ѡтроча</w>
-<w n="16,10">погубѧть <lb/></w>
-
-<w n="16,10">и.</w>
-<w n="16,10">аще</w>
-<w n="16,10">ли</w>
-<w n="16,10">дв҃ческъ</w>
-<w n="16,10">полъ <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="16,10">отроча</w>
-<w n="16,10">погоубѧ<hi rend="sup">т</hi></w>
-<w n="16,10">е. <lb/></w>
-
-<w n="16,10">аще</w>
-<w n="16,10">ли</w>
-<w n="16,10">деви<hi rend="sup">ч</hi>скь</w>
-<w n="16,10">поль</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="16,10">отроча,</w>
-<w n="16,10">погубять;</w>
-<w n="16,10">аще</w>
-<w n="16,10">ли</w>
-<w n="16,10">дѣвическъ</w>
-<w n="16,10">полъ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="16,10">отроча,</w>
-<w n="16,10">то</w>
-<w n="16,10">погубять</w>
-<w n="16,10">е;</w>
-<w n="16,10">аще</w>
-<w n="16,10">ли</w>
-<w n="16,10">дѣвичьскъ</w>
-<w n="16,10">полъ,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="16,10">отроча,</w>
-<w n="16,10">погубять;</w>
-<w n="16,10">аще</w>
-<w n="16,10">ли</w>
-<w n="16,10">дѣвическъ</w>
-<w n="16,10">полъ,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>16, 10</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="16"/><div type="block" n="10"><p><app><lem wit="#lem">
+            отроча, погубять. Аще ли дѣвичьскъ полъ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѡтроча погубѧть. аще дѣвоческъ по<lb/>лъ</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">ѡтроча по<lb/>гоубѧть. аще ли дв҃ческъ полъ</rdg>
+            <rdg wit="#aka">ѡтроча погѹбѧть. аще ли дв҃ческъ поль</rdg>
+            <rdg wit="#ipa">ѡтроча погубѧть <lb/> и. аще ли дв҃ческъ полъ <lb/></rdg>
+            <rdg wit="#xle">отроча погоубѧ<hi rend="sup">т</hi> е. <lb/> аще ли деви<hi rend="sup">ч</hi>скь поль</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">отроча, погубять; аще ли дѣвическъ полъ,</rdg><rdg wit="#shakh">отроча, то погубять е; аще ли дѣвичьскъ полъ,</rdg><rdg wit="#likh">отроча, погубять; аще ли дѣвическъ полъ,</rdg></rdgGrp></app></p></div></body></text></TEI>

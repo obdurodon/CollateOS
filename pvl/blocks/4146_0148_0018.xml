@@ -1,84 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>148, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="148"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="148,18">Ярославъ</w>
-<w n="148,18">противу,</w>
-<w n="148,18">и</w>
-<w n="148,18">съступиша</w>
-<w n="148,18">ся</w>
-<w n="148,18">въ</w>
-<w n="148,18">чело</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="148,18">ꙗрославъ</w>
-<w n="148,18">противу</w>
-<w n="148,18">со<lb/>бѣ.</w>
-<w n="148,18">и</w>
-<w n="148,18">сступисѧ</w>
-<w n="148,18">чело</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="148,18">ꙗрославъ</w>
-<w n="148,18">противѹ</w>
-<w n="148,18">емѹ.</w>
-<w n="148,18">и</w>
-<w n="148,18">стѹпиша<hi rend="sup">с</hi></w>
-<w n="148,18">в</w>
-<w n="148,18">чело</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="148,18"><milestone unit="add" n="start" place="margin"/>ꙗросл<hi rend="sup">в</hi>а<milestone unit="add" n="end"/></w>
-<w n="148,18">противѹ</w>
-<w n="148,18">емѹ.</w>
-<w n="148,18">и</w>
-<w n="148,18">стѹ<lb/>пишасѧ</w>
-<w n="148,18">в</w>
-<w n="148,18">чело</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="148,18">ꙗрославъ</w>
-<w n="148,18">противу.</w>
-<w n="148,18">и</w>
-<w n="148,18">състу<lb/>п<hi rend="sup">ш</hi>и<hi rend="sup">а</hi>сѧ</w>
-<w n="148,18">ч<hi rend="sup">в</hi>е<hi rend="sup">ъ</hi>ло</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="148,18">ярославь</w>
-<w n="148,18">противоу.</w>
-<w n="148,18">и</w>
-<w n="148,18">зстоупиша<hi rend="sup">с</hi></w>
-<w n="148,18">в</w>
-<w n="148,18">чело</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="148,18">Ярославъ</w>
-<w n="148,18">противу</w>
-<w n="148,18">ему,</w>
-<w n="148,18">и</w>
-<w n="148,18">сступися</w>
-<w n="148,18">чело</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="148,18">Ярославъ</w>
-<w n="148,18">противу,</w>
-<w n="148,18">и</w>
-<w n="148,18">съступися</w>
-<w n="148,18">чело,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="148,18">Ярославъ</w>
-<w n="148,18">противу</w>
-<w n="148,18">ему,</w>
-<w n="148,18">и</w>
-<w n="148,18">сступися</w>
-<w n="148,18">чело</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>148, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="148"/><div type="block" n="18"><p><app><lem wit="#lem">
+            Ярославъ противу, и съступиша ся въ чело
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ꙗрославъ противу со<lb/>бѣ. и сступисѧ чело</rdg>
+            <rdg wit="#rad">ꙗрославъ противѹ емѹ. и стѹпиша<hi rend="sup">с</hi> в чело</rdg>
+            <rdg wit="#aka"><add place="margin">ꙗросл<hi rend="sup">в</hi>а</add> противѹ емѹ. и стѹ<lb/>пишасѧ в
+                чело</rdg>
+            <rdg wit="#ipa">ꙗрославъ противу. и състу<lb/>п<hi rend="sup">ш</hi>и<hi rend="sup">а</hi>сѧ
+                    ч<hi rend="sup">в</hi>е<hi rend="sup">ъ</hi>ло</rdg>
+            <rdg wit="#xle">ꙗрославь противоу. и зстоупиша<hi rend="sup">с</hi> в чело</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Ярославъ противу ему, и сступися чело</rdg><rdg wit="#shakh">Ярославъ противу, и съступися чело,</rdg><rdg wit="#likh">Ярославъ противу ему, и сступися чело</rdg></rdgGrp></app></p></div></body></text></TEI>

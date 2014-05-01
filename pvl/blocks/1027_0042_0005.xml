@@ -1,75 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>42, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="42"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="42,5">сынъ</w>
-<w n="42,5">Леонтовъ.</w>
-<w n="42,5">И</w>
-<w n="42,5">Деревляне</w>
-<w n="42,5"><choice><seg>затвориша ся</seg><seg>заратиша
-                        ся</seg></choice></w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="42,5">с҃нъ</w>
-<w n="42,5">леѡнтовъ.</w>
-<w n="42,5">и</w>
-<w n="42,5">деревлѧ<lb/>не</w>
-<w n="42,5">затвориша<hi rend="sup">с</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="42,5">с҃нъ</w>
-<w n="42,5">леѡнтовь.</w>
-<w n="42,5">и</w>
-<w n="42,5">деревлѧне</w>
-<w n="42,5">затворишасѧ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="42,5">с҃нъ</w>
-<w n="42,5">ле<lb/>ѡнтовъ</w>
-<w n="42,5">зѧть</w>
-<w n="42,5">романовъ. <lb/></w>
-
-<w n="42,5">и</w>
-<w n="42,5">деревлѧнѣ</w>
-<w n="42,5">заратиша<lb/>сѧ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="42,5">с҃нь</w>
-<w n="42,5">леѡнтовь.</w>
-<w n="42,5">зѧ<hi rend="sup">т</hi></w>
-<w n="42,5">романовь.</w>
-<w n="42,5">и</w>
-<w n="42,5">де<lb/>ревлѧне</w>
-<w n="42,5">заратиша<hi rend="sup">с</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="42,5">сынъ</w>
-<w n="42,5">Леонтовъ.</w>
-<w n="42,5">И</w>
-<w n="42,5">Деревляне</w>
-<w n="42,5">затворишася</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="42,5">сынъ</w>
-<w n="42,5">Леонтовъ.</w>
-<w n="42,5">И</w>
-<w n="42,5">Древляне</w>
-<w n="42,5">затворишася</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="42,5">сынъ</w>
-<w n="42,5">Леонтовъ.</w>
-<w n="42,5">И</w>
-<w n="42,5">деревляне</w>
-<w n="42,5">затворишася</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>42, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="42"/><div type="block" n="5"><p><app><lem wit="#lem">
+            сынъ Леонтовъ. И Деревляне <choice>
+                    <seg>затвориша ся</seg>
+                    <seg>заратиша ся</seg>
+                </choice>
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">с҃нъ леѡнтовъ. и деревлѧ<lb/>не затвориша<hi rend="sup">с</hi></rdg>
+            <rdg wit="#aka">с҃нъ леѡнтовь. и деревлѧне затворишасѧ</rdg>
+            <rdg wit="#ipa">с҃нъ ле<lb/>ѡнтовъ зѧть романовъ. <lb/> и деревлѧнѣ заратиша<lb/>сѧ.</rdg>
+            <rdg wit="#xle">с҃нь леѡнтовь. зѧ<hi rend="sup">т</hi> романовь. и де<lb/>ревлѧне заратиша<hi rend="sup">с</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">сынъ Леонтовъ. И Деревляне затворишася</rdg><rdg wit="#shakh">сынъ Леонтовъ. И Древляне затворишася</rdg><rdg wit="#likh">сынъ Леонтовъ. И деревляне затворишася</rdg></rdgGrp></app></p></div></body></text></TEI>

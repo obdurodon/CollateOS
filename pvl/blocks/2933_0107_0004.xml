@@ -1,98 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>107, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="107"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-<w n="107,4">гораздо,</w>
-<w n="107,4">то</w>
-<w n="107,4">имаши</w>
-<w n="107,4">у</w>
-<w n="107,4">себе</w>
-<w n="107,4">мужѣ:</w>
-<w n="107,4">посълавъ,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="107,4">гораздо <lb/></w>
-
-<w n="107,4">то</w>
-<w n="107,4">имаши</w>
-<w n="107,4">оу</w>
-<w n="107,4">собе</w>
-<w n="107,4">мужи.</w>
-<w n="107,4">пославъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="107,4">гораз<hi rend="sup">д</hi></w>
-<w n="107,4">то</w>
-<w n="107,4">има<lb/>ши</w>
-<w n="107,4">ѹ</w>
-<w n="107,4">себе</w>
-<w n="107,4">му<hi rend="sup">ж</hi>.</w>
-<w n="107,4">посла<hi rend="sup">в</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="107,4">гораздо.</w>
-<w n="107,4">то</w>
-<w n="107,4">имаши <lb/></w>
-
-<w n="107,4">оу</w>
-<w n="107,4">себе</w>
-<w n="107,4">мѹжи.</w>
-<w n="107,4">пославь</w>
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="107,4">то</w>
-<w n="107,4">имаши</w>
-<w n="107,4">у</w>
-<w n="107,4">себе</w>
-<w n="107,4">мужи</w>
-<w n="107,4">пославъ</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="107,4">то</w>
-<w n="107,4">имаши</w>
-<w n="107,4">у</w>
-<w n="107,4">себе</w>
-<w n="107,4">мужи</w>
-<w n="107,4">пославъ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="107,4">гораздо,</w>
-<w n="107,4">то</w>
-<w n="107,4">имаши</w>
-<w n="107,4">у</w>
-<w n="107,4">собе</w>
-<w n="107,4">мужи:</w>
-<w n="107,4">пославъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="107,4">гораздо,</w>
-<w n="107,4">то</w>
-<w n="107,4">имаши</w>
-<w n="107,4">у</w>
-<w n="107,4">себе</w>
-<w n="107,4">мужѣ:</w>
-<w n="107,4">посълавъ,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="107,4">гораздо,</w>
-<w n="107,4">то</w>
-<w n="107,4">имаши</w>
-<w n="107,4">у</w>
-<w n="107,4">собе</w>
-<w n="107,4">мужи:</w>
-<w n="107,4">пославъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>107, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="107"/><div type="block" n="4"><p><app><lem wit="#lem">
+            гораздо, то имаши у себе мужѣ: посълавъ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">гораздо <lb/> то имаши оу собе мужи. пославъ</rdg>
+            <rdg wit="#rad">гораз<hi rend="sup">д</hi> то има<lb/>ши ѹ себе му<hi rend="sup">ж</hi>. посла<hi rend="sup">в</hi></rdg>
+            <rdg wit="#aka">гораздо. то имаши <lb/> оу себе мѹжи. пославь</rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">то имаши у себе мужи пославъ</rdg>
+            <rdg wit="#tol">то имаши у себе мужи пославъ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">гораздо, то имаши у собе мужи: пославъ</rdg><rdg wit="#shakh">гораздо, то имаши у себе мужѣ: посълавъ,</rdg><rdg wit="#likh">гораздо, то имаши у собе мужи: пославъ</rdg></rdgGrp></app></p></div></body></text></TEI>

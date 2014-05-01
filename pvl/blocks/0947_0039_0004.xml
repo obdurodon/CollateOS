@@ -1,95 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>39, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="39"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-<w n="39,4">живъ”.</w>
-<w n="39,4">И</w>
-<w n="39,4">повелѣ</w>
-<w n="39,4">осѣдьлати</w>
-<w n="39,4">конь:</w>
-<w n="39,4">“Атъ</w>
-<w n="39,4">вижю</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="39,4"><hi rend="sup">ж</hi>въ:·</w>
-<w n="39,4">И</w>
-<w n="39,4">повелѣ</w>
-<w n="39,4">ѡседлати</w>
-<w n="39,4">конь.</w>
-<w n="39,4">а</w>
-<w n="39,4">то</w>
-<w n="39,4">вижю</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="39,4">живъ:·</w>
-<w n="39,4">И</w>
-<w n="39,4">повелѣ</w>
-<w n="39,4">ѡседлати</w>
-<w n="39,4">собѣ</w>
-<w n="39,4">конь.</w>
-<w n="39,4">атъ <lb/></w>
-
-<w n="39,4">вижю</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="39,4">живъ.</w>
-<w n="39,4">и</w>
-<w n="39,4">по<lb/>велѣ</w>
-<w n="39,4">ѡсѣдлати</w>
-<w n="39,4">конь.</w>
-<w n="39,4">да <lb/></w>
-
-<w n="39,4">ть</w>
-<w n="39,4">вижю</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="39,4">живь.</w>
-<w n="39,4">и</w>
-<w n="39,4">повелѣ</w>
-<w n="39,4">ѡседлати</w>
-<w n="39,4">ко<hi rend="sup">н</hi></w>
-<w n="39,4">ать</w>
-<w n="39,4">вижѹ <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="39,4">живъ”.</w>
-<w n="39,4">И</w>
-<w n="39,4">повелѣ</w>
-<w n="39,4">оседлати</w>
-<w n="39,4">конь:</w>
-<w n="39,4">“а</w>
-<w n="39,4">то</w>
-<w n="39,4">вижю</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="39,4">живъ”.</w>
-<w n="39,4">И</w>
-<w n="39,4">повелѣ</w>
-<w n="39,4">оседьлати</w>
-<w n="39,4">си</w>
-<w n="39,4">конь:</w>
-<w n="39,4">“да</w>
-<w n="39,4">ти</w>
-<w n="39,4">вижю</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="39,4">живъ”.</w>
-<w n="39,4">И</w>
-<w n="39,4">повелѣ</w>
-<w n="39,4">оседлати</w>
-<w n="39,4">конь:</w>
-<w n="39,4">“А</w>
-<w n="39,4">то</w>
-<w n="39,4">вижю</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>39, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="39"/><div type="block" n="4"><p><app><lem wit="#lem">
+            живъ”. И повелѣ осѣдьлати конь: “Атъ вижю
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad"><hi rend="sup">ж</hi>въ:· И повелѣ ѡседлати конь. а то вижю</rdg>
+            <rdg wit="#aka">живъ:· И повелѣ ѡседлати собѣ конь. атъ <lb/> вижю</rdg>
+            <rdg wit="#ipa">живъ. и по<lb/>велѣ ѡсѣдлати конь. да <lb/> ть вижю</rdg>
+            <rdg wit="#xle">живь. и повелѣ ѡседлати ко<hi rend="sup">н</hi> ать вижѹ <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">живъ”. И повелѣ оседлати конь: “а то вижю</rdg><rdg wit="#shakh">живъ”. И повелѣ оседьлати си конь: “да ти вижю</rdg><rdg wit="#likh">живъ”. И повелѣ оседлати конь: “А то вижю</rdg></rdgGrp></app></p></div></body></text></TEI>

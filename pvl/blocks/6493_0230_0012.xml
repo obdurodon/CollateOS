@@ -1,86 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>230, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="230"/><div type="block" n="12"><p>
-<app>
-<lem wit="#lem">
-<w n="230,12">Чьрнигову;</w>
-<w n="230,12">и</w>
-<w n="230,12">выбѣже</w>
-<w n="230,12">Ольгъ</w>
-<w n="230,12">ис</w>
-<w n="230,12">Чьрнигова,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="230,12">чернигову·</w>
-<w n="230,12">ѡлег</w>
-<w n="230,12">же</w>
-<w n="230,12">выбѣже</w>
-<w n="230,12">изъ</w>
-<w n="230,12">чернигова· <pb n="76d"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="230,12">черниговоу·</w>
-<w n="230,12">и</w>
-<w n="230,12">выбеже <lb/></w>
-
-<w n="230,12">ѡлегъ</w>
-<w n="230,12">ис</w>
-<w n="230,12">чернигова·</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="230,12">черниговѹ·</w>
-<w n="230,12">и</w>
-<w n="230,12">вебеже</w>
-<w n="230,12">ѡлегъ·</w>
-<w n="230,12">ис</w>
-<w n="230,12">чернигова·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="230,12">черниго<lb/>ву</w>
-<w n="230,12">ї</w>
-<w n="230,12">выбѣже</w>
-<w n="230,12">ѡлегъ</w>
-<w n="230,12">їс</w>
-<w n="230,12">черь<lb/>нѣгова·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="230,12">чернѣговоу.</w>
-<w n="230,12">и</w>
-<w n="230,12">выбѣже <lb/></w>
-
-<w n="230,12">олегь</w>
-<w n="230,12">ис</w>
-<w n="230,12">чернѣгова.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="230,12">Чернигову;</w>
-<w n="230,12">Олегъ</w>
-<w n="230,12">же</w>
-<w n="230,12">выбѣже</w>
-<w n="230,12">изъ</w>
-<w n="230,12">Чернигова,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="230,12">Чьрнигову;</w>
-<w n="230,12">Ольгъ</w>
-<w n="230,12">же</w>
-<w n="230,12">выбѣже</w>
-<w n="230,12">ис</w>
-<w n="230,12">Чьрнигова,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="230,12">Чернигову;</w>
-<w n="230,12">Олег</w>
-<w n="230,12">же</w>
-<w n="230,12">выбѣже</w>
-<w n="230,12">изъ</w>
-<w n="230,12">Чернигова,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>230, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="230"/><div type="block" n="12"><p><app><lem wit="#lem">
+            Чьрнигову; и выбѣже Ольгъ ис Чьрнигова,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">чернигову· ѡлег же выбѣже изъ чернигова· <pb n="76d"/></rdg>
+            <rdg wit="#rad">черниговоу· и выбеже <lb/> ѡлегъ ис чернигова·</rdg>
+            <rdg wit="#aka">черниговѹ· и вебеже ѡлегъ· ис чернигова·</rdg>
+            <rdg wit="#ipa">черниго<lb/>ву ї выбѣже ѡлегъ їс черь<lb/>нѣгова·</rdg>
+            <rdg wit="#xle">чернѣговоу. и выбѣже <lb/> олегь ис чернѣгова.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Чернигову; Олегъ же выбѣже изъ Чернигова,</rdg><rdg wit="#shakh">Чьрнигову; Ольгъ же выбѣже ис Чьрнигова,</rdg><rdg wit="#likh">Чернигову; Олег же выбѣже изъ Чернигова,</rdg></rdgGrp></app></p></div></body></text></TEI>

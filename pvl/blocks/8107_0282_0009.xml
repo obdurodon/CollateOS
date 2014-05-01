@@ -1,93 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>282, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="282"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="282,9">сѣщи,</w>
-<w n="282,9">женущи</w>
-<w n="282,9">я,</w>
-<w n="282,9">а</w>
-<w n="282,9">другыѣ</w>
-<w n="282,9">руками</w>
-<w n="282,9">имати,</w>
-<w n="282,9">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="282,9">сѣчи</w>
-<w n="282,9">женущи</w>
-<w n="282,9">ꙗ·</w>
-<w n="282,9">а</w>
-<w n="282,9">другыѣ</w>
-<w n="282,9">ру<lb/>ками</w>
-<w n="282,9">имати·</w>
-<w n="282,9">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="282,9">сещи</w>
-<w n="282,9">женѹщи</w>
-<w n="282,9">ꙗ.</w>
-<w n="282,9">а</w>
-<w n="282,9">дрѹгиꙗ</w>
-<w n="282,9">рѹками</w>
-<w n="282,9">имати <lb/></w>
-
-<w n="282,9">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="282,9">сѣщи</w>
-<w n="282,9">женѹщаа·</w>
-<w n="282,9">а</w>
-<w n="282,9">дрѹгиѧ</w>
-<w n="282,9">рѹкама</w>
-<w n="282,9">има<lb/>ти·</w>
-<w n="282,9">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-<w n="282,9">сѣщи</w>
-<w n="282,9">ѧ·̏.</w>
-<w n="282,9">а</w>
-<w n="282,9">дроугыа</w>
-<w n="282,9">рѫками <lb/></w>
-
-<w n="282,9">имати.</w>
-<w n="282,9">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="282,9">сѣчи,</w>
-<w n="282,9">женущи</w>
-<w n="282,9">я,</w>
-<w n="282,9">а</w>
-<w n="282,9">другыѣ</w>
-<w n="282,9">руками</w>
-<w n="282,9">имати,</w>
-<w n="282,9">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="282,9">сѣщи,</w>
-<w n="282,9">женуще</w>
-<w n="282,9">я,</w>
-<w n="282,9">а</w>
-<w n="282,9">другыѣ</w>
-<w n="282,9">руками</w>
-<w n="282,9">имати,</w>
-<w n="282,9">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="282,9">сѣчи,</w>
-<w n="282,9">женущи</w>
-<w n="282,9">я,</w>
-<w n="282,9">а</w>
-<w n="282,9">другыѣ</w>
-<w n="282,9">руками</w>
-<w n="282,9">имати,</w>
-<w n="282,9">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>282, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="282"/><div type="block" n="9"><p><app><lem wit="#lem">
+            сѣщи, женущи я, а другыѣ руками имати, и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">сѣчи женущи ꙗ· а другыѣ ру<lb/>ками имати· и</rdg>
+            <rdg wit="#rad">сещи женѹщи ꙗ. а дрѹгиꙗ рѹками имати <lb/> и</rdg>
+            <rdg wit="#aka">сѣщи женѹщаа· а дрѹгиѧ рѹкама има<lb/>ти· и</rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">сѣщи ѧ·̏. а дроугыа рѫками <lb/> имати. и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">сѣчи, женущи я, а другыѣ руками имати, и</rdg><rdg wit="#shakh">сѣщи, женуще я, а другыѣ руками имати, и</rdg><rdg wit="#likh">сѣчи, женущи я, а другыѣ руками имати, и</rdg></rdgGrp></app></p></div></body></text></TEI>

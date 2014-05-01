@@ -1,90 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>26, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="26"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="26,9">научилъ,</w>
-<w n="26,9">и</w>
-<w n="26,9">наказалъ,</w>
-<w n="26,9">и</w>
-<w n="26,9">протълковалъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="26,9">наказалъ</w>
-<w n="26,9">и</w>
-<w n="26,9">поучалъ</w>
-<w n="26,9">насъ.</w>
-<w n="26,9">и</w>
-<w n="26,9">протолкова<lb/>лъ</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="26,9">наказалъ</w>
-<w n="26,9">и</w>
-<w n="26,9">поучалъ</w>
-<w n="26,9">ны</w>
-<w n="26,9">и</w>
-<w n="26,9">протолковалъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="26,9">на<hi rend="sup">с</hi>.</w>
-<w n="26,9">и</w>
-<w n="26,9">поѹчилъ</w>
-<w n="26,9">на<hi rend="sup">с</hi>.</w>
-<w n="26,9">и</w>
-<w n="26,9">протолкова<hi rend="sup">л</hi></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="26,9">насъ</w>
-<w n="26,9">и</w>
-<w n="26,9">пооу<lb/>чалъ</w>
-<w n="26,9">на<hi rend="sup">с</hi>.</w>
-<w n="26,9">и</w>
-<w n="26,9">протолковалъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="26,9">оучилъ. <lb/></w>
-
-<w n="26,9">и</w>
-<w n="26,9">казалъ.</w>
-<w n="26,9">и</w>
-<w n="26,9">протолкова<lb/>лъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="26,9">наоучиль</w>
-<w n="26,9">и</w>
-<w n="26,9">наказа<hi rend="sup">л</hi>.</w>
-<w n="26,9">и</w>
-<w n="26,9">прото<hi rend="sup">л</hi>ко<lb/>валь</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="26,9">наказалъ,</w>
-<w n="26,9">и</w>
-<w n="26,9">поучалъ</w>
-<w n="26,9">насъ,</w>
-<w n="26,9">и</w>
-<w n="26,9">протолковалъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="26,9">наказалъ,</w>
-<w n="26,9">и</w>
-<w n="26,9">поучилъ</w>
-<w n="26,9">ны,</w>
-<w n="26,9">и</w>
-<w n="26,9">протълковалъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="26,9">наказалъ,</w>
-<w n="26,9">и</w>
-<w n="26,9">поучалъ</w>
-<w n="26,9">насъ,</w>
-<w n="26,9">и</w>
-<w n="26,9">протолковалъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>26, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="26"/><div type="block" n="9"><p><app><lem wit="#lem">
+            научилъ, и наказалъ, и протълковалъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">наказалъ и поучалъ насъ. и протолкова<lb/>лъ</rdg>
+            <rdg wit="#tro">наказалъ и поучалъ ны и протолковалъ</rdg>
+            <rdg wit="#rad">на<hi rend="sup">с</hi>. и поѹчилъ на<hi rend="sup">с</hi>. и протолкова<hi rend="sup">л</hi></rdg>
+            <rdg wit="#aka">насъ и пооу<lb/>чалъ на<hi rend="sup">с</hi>. и протолковалъ</rdg>
+            <rdg wit="#ipa">оучилъ. <lb/> и казалъ. и протолкова<lb/>лъ</rdg>
+            <rdg wit="#xle">наоучиль и наказа<hi rend="sup">л</hi>. и прото<hi rend="sup">л</hi>ко<lb/>валь</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">наказалъ, и поучалъ насъ, и протолковалъ</rdg><rdg wit="#shakh">наказалъ, и поучилъ ны, и протълковалъ</rdg><rdg wit="#likh">наказалъ, и поучалъ насъ, и протолковалъ</rdg></rdgGrp></app></p></div></body></text></TEI>

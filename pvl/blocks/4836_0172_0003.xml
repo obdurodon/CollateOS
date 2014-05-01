@@ -1,111 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>172, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="172"/><div type="block" n="3"><p>
-<app>
-<lem wit="#lem">
-<w n="172,3">къ</w>
-<w n="172,3">Снъвьску.</w>
-<w n="172,3">И</w>
-<w n="172,3">узьрѣша</w>
-<w n="172,3">Половци</w>
-<w n="172,3">идуща</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="172,3">ко</w>
-<w n="172,3">сновь<lb/>ску.</w>
-<w n="172,3">и</w>
-<w n="172,3">оузрѣша</w>
-<w n="172,3">половци</w>
-<w n="172,3">иду<lb/>щь</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="172,3">къ</w>
-<w n="172,3">сновенскѹ.</w>
-<w n="172,3">и</w>
-<w n="172,3">стрѣша</w>
-<w n="172,3">половци</w>
-<w n="172,3">идѹчи</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="172,3">ко</w>
-<w n="172,3">сн҃овьскѹ.</w>
-<w n="172,3">и</w>
-<w n="172,3">зрѣша</w>
-<w n="172,3">половци</w>
-<w n="172,3">идѹчи</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="172,3">ко</w>
-<w n="172,3">сновьску.</w>
-<w n="172,3">и</w>
-<w n="172,3">оузрѣша</w>
-<w n="172,3">половци <lb/></w>
-
-<w n="172,3">идуща</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="172,3">къ</w>
-<w n="172,3">сновскоу.</w>
-<w n="172,3">оузрѣ<lb/>ша</w>
-<w n="172,3">же</w>
-<w n="172,3">половци</w>
-<w n="172,3">идоуща</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="172,3">ко</w>
-<w n="172,3">сновьску</w>
-<w n="172,3">и</w>
-<w n="172,3">узрѣша</w>
-<w n="172,3">половци</w>
-<w n="172,3">идущии</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="172,3">ко</w>
-<w n="172,3">сновьску</w>
-<w n="172,3">и</w>
-<w n="172,3">узрѣша</w>
-<w n="172,3">половци</w>
-<w n="172,3">идущи</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="172,3">ко</w>
-<w n="172,3">сновьску</w>
-<w n="172,3">и</w>
-<w n="172,3">узрѣша</w>
-<w n="172,3">половци</w>
-<w n="172,3">идущи</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="172,3">ко</w>
-<w n="172,3">Сновьску.</w>
-<w n="172,3">И</w>
-<w n="172,3">узрѣша</w>
-<w n="172,3">половци</w>
-<w n="172,3">идущь</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="172,3">къ</w>
-<w n="172,3">Снъвьску.</w>
-<w n="172,3">И</w>
-<w n="172,3">узьрѣша</w>
-<w n="172,3">Половци</w>
-<w n="172,3">идуща</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="172,3">ко</w>
-<w n="172,3">Сновьску.</w>
-<w n="172,3">И</w>
-<w n="172,3">узрѣша</w>
-<w n="172,3">половци</w>
-<w n="172,3">идущь</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>172, 3</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="172"/><div type="block" n="3"><p><app><lem wit="#lem">
+            къ Снъвьску. И узьрѣша Половци идуща
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ко сновь<lb/>ску. и оузрѣша половци иду<lb/>щь</rdg>
+            <rdg wit="#rad">къ сновенскѹ. и стрѣша половци идѹчи</rdg>
+            <rdg wit="#aka">ко сн҃овьскѹ. и зрѣша половци идѹчи</rdg>
+            <rdg wit="#ipa">ко сновьску. и оузрѣша половци <lb/> идуща</rdg>
+            <rdg wit="#xle">къ сновскоу. оузрѣ<lb/>ша же половци идоуща</rdg>
+            <rdg wit="#kom">ко сновьску и узрѣша половци идущии</rdg>
+            <rdg wit="#nak">ко сновьску и узрѣша половци идущи</rdg>
+            <rdg wit="#tol">ко сновьску и узрѣша половци идущи</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">ко Сновьску. И узрѣша половци идущь</rdg><rdg wit="#shakh">къ Снъвьску. И узьрѣша Половци идуща</rdg><rdg wit="#likh">ко Сновьску. И узрѣша половци идущь</rdg></rdgGrp></app></p></div></body></text></TEI>

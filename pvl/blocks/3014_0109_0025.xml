@@ -1,115 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>109, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="109"/><div type="block" n="25"><p>
-<app>
-<lem wit="#lem">
-<w n="109,25">къ</w>
-<w n="109,25">цьсарема,</w>
-<w n="109,25">Василью</w>
-<w n="109,25">и</w>
-<w n="109,25">Костянтину,</w>
-<w n="109,25">глаголя</w>
-<w n="109,25">сице:</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="109,25">ко</w>
-<w n="109,25">цр҃в<milestone unit="sic" n="start"/>і<milestone unit="sic" n="end"/><lb/></w>
-<w n="109,25">василью</w>
-<w n="109,25">и</w>
-<w n="109,25">костѧнтину</w>
-<w n="109,25">гл҃ѧ</w>
-<w n="109,25">сице.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="109,25">къ</w>
-<w n="109,25">цр҃ма.</w>
-<w n="109,25">василью</w>
-<w n="109,25">и</w>
-<w n="109,25">костѧнтину <lb/></w>
-
-<w n="109,25">гл҃ѧ</w>
-<w n="109,25">сице.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="109,25">ко</w>
-<w n="109,25">ц҃рема.</w>
-<w n="109,25">васїлїю. <lb/></w>
-
-<w n="109,25">и</w>
-<w n="109,25">костѧнтинѹ</w>
-<w n="109,25">гл҃ѧ</w>
-<w n="109,25">сице.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="109,25">къ</w>
-<w n="109,25">ц<hi rend="sup">с</hi>рви <lb/></w>
-
-<w n="109,25">василию</w>
-<w n="109,25">и</w>
-<w n="109,25">костѧнтину.</w>
-<w n="109,25">гл҃ѧ <lb/></w>
-
-<w n="109,25">сице.</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="109,25">рекъ</w>
-<w n="109,25">цесарема</w>
-<w n="109,25">василию</w>
-<w n="109,25">и</w>
-<w n="109,25">костꙗнтину</w>
-<w n="109,25">глаголꙗ</w>
-<w n="109,25">сице</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="109,25">ю</w>
-<w n="109,25">и</w>
-<w n="109,25">костꙗнтину</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="109,25">рекъ</w>
-<w n="109,25">цесарема</w>
-<w n="109,25">василию</w>
-<w n="109,25">и</w>
-<w n="109,25">костꙗнтину</w>
-<w n="109,25">глаголꙗ</w>
-<w n="109,25">сице</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="109,25">ко</w>
-<w n="109,25">царема,</w>
-<w n="109,25">Василью</w>
-<w n="109,25">и</w>
-<w n="109,25">Костянтину,</w>
-<w n="109,25">глаголя</w>
-<w n="109,25">сице:</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="109,25">къ</w>
-<w n="109,25">цѣсарема</w>
-<w n="109,25">Василию</w>
-<w n="109,25">и</w>
-<w n="109,25">Костянтину,</w>
-<w n="109,25">глаголя</w>
-<w n="109,25">сице:</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="109,25">ко</w>
-<w n="109,25">царема,</w>
-<w n="109,25">Василью</w>
-<w n="109,25">и</w>
-<w n="109,25">Костянтину,</w>
-<w n="109,25">глаголя</w>
-<w n="109,25">сице:</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>109, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="109"/><div type="block" n="25"><p><app><lem wit="#lem">
+            къ цьсарема, Василью и Костянтину, глаголя сице:
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ко цр҃в<sic>і</sic><lb/> василью и костѧнтину гл҃ѧ сице.</rdg>
+            <rdg wit="#rad">къ цр҃ма. василью и костѧнтину <lb/> гл҃ѧ сице.</rdg>
+            <rdg wit="#aka">ко ц҃рема. васїлїю. <lb/> и костѧнтинѹ гл҃ѧ сице.</rdg>
+            <rdg wit="#ipa">къ ц<hi rend="sup">с</hi>рви <lb/> василию и костѧнтину. гл҃ѧ <lb/> сице.</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">рекъ цесарема василию и костꙗнтину глаголꙗ сице</rdg>
+            <rdg wit="#nak">ю и костꙗнтину</rdg>
+            <rdg wit="#tol">рекъ цесарема василию и костꙗнтину глаголꙗ сице</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">ко царема, Василью и Костянтину, глаголя сице:</rdg><rdg wit="#shakh">къ цѣсарема Василию и Костянтину, глаголя сице:</rdg><rdg wit="#likh">ко царема, Василью и Костянтину, глаголя сице:</rdg></rdgGrp></app></p></div></body></text></TEI>

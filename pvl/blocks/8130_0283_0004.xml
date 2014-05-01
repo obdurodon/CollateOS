@@ -1,55 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>283, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="283"/><div type="block" n="4"><p>
-<app>
-<lem wit="#lem">
-<w n="283,4">предъ</w>
-<w n="283,4">зорями.</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="283,4">пр<hi rend="sup">д</hi>е</w>
-<w n="283,4">зорѧми</w>
-<w n="283,4">в</w>
-<w n="283,4">но<hi rend="sup">щ</hi>:- <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="283,4">пре<hi rend="sup">д</hi></w>
-<w n="283,4">зорѧми</w>
-<w n="283,4">в</w>
-<w n="283,4">но<lb/>щи:·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="283,4">пере<lb/>дъ</w>
-<w n="283,4"><milestone unit="sic" n="start"/>ла<milestone unit="sic" n="end"/>зорѧми·:·- <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="283,4">предъ</w>
-<w n="283,4">зорями</w>
-<w n="283,4">в</w>
-<w n="283,4">нощи.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="283,4">предъ</w>
-<w n="283,4">зорями</w>
-<w n="283,4">въ</w>
-<w n="283,4">нощи.]</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="283,4">пред</w>
-<w n="283,4">зорями</w>
-<w n="283,4">в</w>
-<w n="283,4">нощи.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>283, 4</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="283"/><div type="block" n="4"><p><app><lem wit="#lem">
+            предъ зорями.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">пр<hi rend="sup">д</hi>е зорѧми в но<hi rend="sup">щ</hi>:- <lb/></rdg>
+            <rdg wit="#aka">пре<hi rend="sup">д</hi> зорѧми в но<lb/>щи:·</rdg>
+            <rdg wit="#ipa">пере<lb/>дъ <sic>ла</sic>зорѧми·:·- <lb/></rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">предъ зорями в нощи.</rdg><rdg wit="#shakh">предъ зорями въ нощи.]</rdg><rdg wit="#likh">пред зорями в нощи.</rdg></rdgGrp></app></p></div></body></text></TEI>

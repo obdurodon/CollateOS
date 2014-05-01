@@ -1,76 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>20, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="20"/><div type="block" n="9"><p>
-<app>
-<lem wit="#lem">
-<w n="20,9">земля.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="20,9">зе<lb/>млѧ</w>
-<w n="20,9">новугородьци</w>
-<w n="20,9">ти</w>
-<w n="20,9">суть</w>
-<w n="20,9">людье</w>
-<w n="20,9">нооугородьци <lb/></w>
-
-</rdg>
-
-<rdg wit="#tro">
-<w n="20,9">земля</w>
-<w n="20,9">а</w>
-<w n="20,9">новгородци</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="20,9">землѧ</w>
-<w n="20,9">новгоро<hi rend="sup">д</hi></w>
-<w n="20,9">тїи</w>
-<w n="20,9">сѹ<hi rend="sup">т</hi></w>
-<w n="20,9">лю<hi rend="sup">д</hi>е</w>
-<w n="20,9">новгоро<hi rend="sup">д</hi>ци</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="20,9">землѧ.</w>
-<w n="20,9">новгоро<hi rend="sup">д</hi>. <lb/></w>
-
-<w n="20,9">тїи</w>
-<w n="20,9">сѹть</w>
-<w n="20,9">людїе</w>
-<w n="20,9">новогородци</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="20,9">землѧ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="20,9">землѧ.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="20,9">земля,</w>
-<w n="20,9">Новугородьци,</w>
-<w n="20,9">ти</w>
-<w n="20,9">суть</w>
-<w n="20,9">людье</w>
-<w n="20,9">Новогородьци</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="20,9">земля,</w>
-<w n="20,9">Новъгородъ,</w>
-<w n="20,9">ти</w>
-<w n="20,9">суть</w>
-<w n="20,9">людие</w>
-<w n="20,9">Новъгородьстии</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="20,9">земля,</w>
-<w n="20,9">новугородьци,</w>
-<w n="20,9">ти</w>
-<w n="20,9">суть</w>
-<w n="20,9">людье</w>
-<w n="20,9">Ноугородьци</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>20, 9</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="20"/><div type="block" n="9"><p><app><lem wit="#lem">
+            земля.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">зе<lb/>млѧ новугородьци ти суть людье нооугородьци <lb/></rdg>
+            <rdg wit="#tro">земля а новгородци</rdg>
+            <rdg wit="#rad">землѧ новгоро<hi rend="sup">д</hi> тїи сѹ<hi rend="sup">т</hi> лю<hi rend="sup">д</hi>е
+                новгоро<hi rend="sup">д</hi>ци</rdg>
+            <rdg wit="#aka">землѧ. новгоро<hi rend="sup">д</hi>. <lb/> тїи сѹть людїе новогородци</rdg>
+            <rdg wit="#ipa">землѧ.</rdg>
+            <rdg wit="#xle">землѧ.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">земля, Новугородьци, ти суть людье Новогородьци</rdg><rdg wit="#shakh">земля, Новъгородъ, ти суть людие Новъгородьстии</rdg><rdg wit="#likh">земля, новугородьци, ти суть людье Ноугородьци</rdg></rdgGrp></app></p></div></body></text></TEI>

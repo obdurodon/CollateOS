@@ -1,86 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>220, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="220"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="220,18">Володимирима.</w>
-<w n="220,18">И</w>
-<w n="220,18">хотѣ</w>
-<w n="220,18">похватити</w>
-<w n="220,18">брата</w>
-<w n="220,18">своего</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="220,18">воло<lb/>димерима·</w>
-<w n="220,18">и</w>
-<w n="220,18">хотѣ</w>
-<w n="220,18">похвати<lb/>ти</w>
-<w n="220,18">брата</w>
-<w n="220,18">своѥго</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="220,18">володимеровыми·</w>
-<w n="220,18">и</w>
-<w n="220,18">хотѣ</w>
-<w n="220,18">похватити <lb/></w>
-
-<w n="220,18">бра</w>
-<w n="220,18">своего.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="220,18">володимировы·̏ма·</w>
-<w n="220,18">и</w>
-<w n="220,18">хотѣ</w>
-<w n="220,18">по<lb/>хватити</w>
-<w n="220,18">брата</w>
-<w n="220,18">своего·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="220,18">володиме<lb/>ровы<hi rend="sup">м</hi></w>
-<w n="220,18">и</w>
-<w n="220,18">хотѣ</w>
-<w n="220,18">по<hi rend="sup">д</hi>хва<milestone unit="sic" n="start"/>ли<milestone unit="sic" n="end"/>тити <lb/></w>
-
-<w n="220,18">брата</w>
-<w n="220,18">своего·</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="220,18">въл<hi rend="sup">д</hi>о<hi rend="sup">и</hi><lb/>меровыма.</w>
-<w n="220,18">и</w>
-<w n="220,18">хотѣ</w>
-<w n="220,18">похватити</w>
-<w n="220,18">брата</w>
-<w n="220,18">своего, <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="220,18">Володимерима,</w>
-<w n="220,18">и</w>
-<w n="220,18">хотѣ</w>
-<w n="220,18">похватити</w>
-<w n="220,18">брата</w>
-<w n="220,18">своего,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="220,18">Володимерима;</w>
-<w n="220,18">и</w>
-<w n="220,18">хотѣ</w>
-<w n="220,18">похватити</w>
-<w n="220,18">брата</w>
-<w n="220,18">своего,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="220,18">Володимерима.</w>
-<w n="220,18">И</w>
-<w n="220,18">хотѣ</w>
-<w n="220,18">похватити</w>
-<w n="220,18">брата</w>
-<w n="220,18">своего</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>220, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="220"/><div type="block" n="18"><p><app><lem wit="#lem">
+            Володимирима. И хотѣ похватити брата своего
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">воло<lb/>димерима· и хотѣ похвати<lb/>ти брата своѥго</rdg>
+            <rdg wit="#rad">володимеровыми· и хотѣ похватити <lb/> бра своего.</rdg>
+            <rdg wit="#aka">володимировы·̏ма· и хотѣ по<lb/>хватити брата своего·</rdg>
+            <rdg wit="#ipa">володиме<lb/>ровы<hi rend="sup">м</hi> и хотѣ по<hi rend="sup">д</hi>хва<sic>ли</sic>тити
+                <lb/> брата своего·</rdg>
+            <rdg wit="#xle">въл<hi rend="sup">д</hi>о<hi rend="sup">и</hi><lb/>меровыма. и хотѣ похватити брата своего,
+                <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Володимерима, и хотѣ похватити брата своего,</rdg><rdg wit="#shakh">Володимерима; и хотѣ похватити брата своего,</rdg><rdg wit="#likh">Володимерима. И хотѣ похватити брата своего</rdg></rdgGrp></app></p></div></body></text></TEI>

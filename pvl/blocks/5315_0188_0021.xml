@@ -1,95 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>188, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="188"/><div type="block" n="21"><p>
-<app>
-<lem wit="#lem">
-<w n="188,21">чресъ</w>
-<w n="188,21">дьнь</w>
-<w n="188,21">и</w>
-<w n="188,21">чресъ</w>
-<w n="188,21">дъва</w>
-<w n="188,21">дьни,</w>
-<w n="188,21"><choice><seg>ини</seg><seg>овии</seg></choice></w>
-<w n="188,21">же</w>
-<w n="188,21">ядуще</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="188,21">чресъ <lb/></w>
-
-<w n="188,21">дн҃ь.</w>
-<w n="188,21">и</w>
-<w n="188,21">чресъ</w>
-<w n="188,21">два</w>
-<w n="188,21">дн҃и.</w>
-<w n="188,21">ини</w>
-<w n="188,21">же <lb/></w>
-
-<w n="188,21">ꙗдуще</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="188,21">чересъ</w>
-<w n="188,21">дн҃ь.</w>
-<w n="188,21">и</w>
-<w n="188,21">чере<lb/>съ</w>
-<w n="188,21">два</w>
-<w n="188,21">дн҃и.</w>
-<w n="188,21">ѡвии</w>
-<w n="188,21">же</w>
-<w n="188,21">ꙗдѧху. <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="188,21">чре<hi rend="sup">з</hi></w>
-<w n="188,21">дн҃ь.</w>
-<w n="188,21">и</w>
-<w n="188,21">чре<hi rend="sup">з</hi></w>
-<w n="188,21">два</w>
-<w n="188,21">дн҃и.</w>
-<w n="188,21">ѡви</w>
-<w n="188,21">же</w>
-<w n="188,21">ѧдѧхѫ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="188,21">чресъ</w>
-<w n="188,21">день</w>
-<w n="188,21">и</w>
-<w n="188,21">чресъ</w>
-<w n="188,21">два</w>
-<w n="188,21">дни,</w>
-<w n="188,21">ини</w>
-<w n="188,21">же</w>
-<w n="188,21">ядуще</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="188,21">чресъ</w>
-<w n="188,21">дьнь</w>
-<w n="188,21">и</w>
-<w n="188,21">чресъ</w>
-<w n="188,21">дъва</w>
-<w n="188,21">дьни,</w>
-<w n="188,21">ини</w>
-<w n="188,21">же</w>
-<w n="188,21">ядуще</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="188,21">чресъ</w>
-<w n="188,21">день</w>
-<w n="188,21">и</w>
-<w n="188,21">чресъ</w>
-<w n="188,21">два</w>
-<w n="188,21">дни,</w>
-<w n="188,21">ини</w>
-<w n="188,21">же</w>
-<w n="188,21">ядуще</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>188, 21</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="188"/><div type="block" n="21"><p><app><lem wit="#lem">
+            чресъ дьнь и чресъ дъва дьни, <choice>
+                    <seg>ини</seg>
+                    <seg>овии</seg>
+                </choice> же ядуще
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">чресъ <lb/> дн҃ь. и чресъ два дн҃и. ини же <lb/> ꙗдуще</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">чересъ дн҃ь. и чере<lb/>съ два дн҃и. ѡвии же ꙗдѧху. <lb/></rdg>
+            <rdg wit="#xle">чре<hi rend="sup">з</hi> дн҃ь. и чре<hi rend="sup">з</hi> два дн҃и. ѡви же ѧдѧхѫ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">чресъ день и чресъ два дни, ини же ядуще</rdg><rdg wit="#shakh">чресъ дьнь и чресъ дъва дьни, ини же ядуще</rdg><rdg wit="#likh">чресъ день и чресъ два дни, ини же ядуще</rdg></rdgGrp></app></p></div></body></text></TEI>

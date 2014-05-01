@@ -1,78 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>142, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="142"/><div type="block" n="8"><p>
-<app>
-<lem wit="#lem">
-<w n="142,8">стояше</w>
-<w n="142,8">межю</w>
-<w n="142,8">дъвѣма</w>
-<w n="142,8">озерома,</w>
-<w n="142,8">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="142,8">сто<lb/>ꙗше</w>
-<w n="142,8">межи</w>
-<w n="142,8">двѣма</w>
-<w n="142,8">ѡзерома.</w>
-<w n="142,8">и <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="142,8">стоꙗше</w>
-<w n="142,8">межи</w>
-<w n="142,8">двема <lb/></w>
-
-<w n="142,8">ѡзеры.</w>
-<w n="142,8">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="142,8">стоꙗше</w>
-<w n="142,8">межи</w>
-<w n="142,8">две<lb/>ма</w>
-<w n="142,8">ѡзеры.</w>
-<w n="142,8">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="142,8">сто<lb/>ꙗше</w>
-<w n="142,8"><milestone unit="add" n="start" place="margin"/>ст҃ополкъ<milestone unit="add" n="end"/>.</w>
-<w n="142,8"><milestone unit="sic" n="start"/>двѣима<milestone unit="sic" n="end"/></w>
-<w n="142,8">межи</w>
-<w n="142,8"><milestone unit="add" n="start" place="margin"/>двѣима<milestone unit="add" n="end"/></w>
-<w n="142,8">ѡзеро<lb/>ма.</w>
-<w n="142,8">и</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="142,8">ст҃ополкь.</w>
-<w n="142,8">межи</w>
-<w n="142,8">двѣ<lb/>ма</w>
-<w n="142,8">ѡзерома.</w>
-<w n="142,8">и</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="142,8">стояше</w>
-<w n="142,8">межи</w>
-<w n="142,8">двѣма</w>
-<w n="142,8">озерома,</w>
-<w n="142,8">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="142,8">Святопълкъ</w>
-<w n="142,8">межю</w>
-<w n="142,8">дъвѣма</w>
-<w n="142,8">озерома,</w>
-<w n="142,8">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="142,8">стояше</w>
-<w n="142,8">межи</w>
-<w n="142,8">двѣма</w>
-<w n="142,8">озерома,</w>
-<w n="142,8">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>142, 8</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="142"/><div type="block" n="8"><p><app><lem wit="#lem">
+            стояше межю дъвѣма озерома, и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">сто<lb/>ꙗше межи двѣма ѡзерома. и <lb/></rdg>
+            <rdg wit="#rad">стоꙗше межи двема <lb/> ѡзеры. и</rdg>
+            <rdg wit="#aka">стоꙗше межи две<lb/>ма ѡзеры. и</rdg>
+            <rdg wit="#ipa">сто<lb/>ꙗше <add place="margin">ст҃ополкъ</add>. <sic>двѣима</sic> межи
+                    <add place="margin">двѣима</add> ѡзеро<lb/>ма. и</rdg>
+            <rdg wit="#xle">ст҃ополкь. межи двѣ<lb/>ма ѡзерома. и</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">стояше межи двѣма озерома, и</rdg><rdg wit="#shakh">Святопълкъ межю дъвѣма озерома, и</rdg><rdg wit="#likh">стояше межи двѣма озерома, и</rdg></rdgGrp></app></p></div></body></text></TEI>

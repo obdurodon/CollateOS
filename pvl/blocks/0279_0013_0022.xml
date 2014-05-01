@@ -1,87 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>13, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="13"/><div type="block" n="22"><p>
-<app>
-<lem wit="#lem">
-<w n="13,22">звѣрь,</w>
-<w n="13,22">ядуще</w>
-<w n="13,22">вьсе</w>
-<w n="13,22">нечисто,</w>
-<w n="13,22">и</w>
-<w n="13,22">срамословие</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="13,22">звѣрь.</w>
-<w n="13,22">ꙗдуще</w>
-<w n="13,22">все</w>
-<w n="13,22">нечисто <lb/></w>
-
-<w n="13,22">срамословье</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="13,22">звѣрь</w>
-<w n="13,22">ядуще</w>
-<w n="13,22">все</w>
-<w n="13,22">нечистое</w>
-<w n="13,22">срамословье</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="13,22">звѣрь.</w>
-<w n="13,22">ꙗдоуще</w>
-<w n="13,22">все</w>
-<w n="13,22">нечт<hi rend="sup">с</hi>о.</w>
-<w n="13,22">и</w>
-<w n="13,22">срамословие</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="13,22">ѕвѣрь.</w>
-<w n="13,22">ꙗдѹще</w>
-<w n="13,22">все</w>
-<w n="13,22">нечт<hi rend="sup">с</hi>о. <lb/></w>
-
-<w n="13,22">и</w>
-<w n="13,22">срамословїе</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="13,22">звѣрь. <lb/></w>
-
-<w n="13,22">ꙗдуще</w>
-<w n="13,22">все</w>
-<w n="13,22">нечт<hi rend="sup">с</hi>о.</w>
-<w n="13,22">и</w>
-<w n="13,22">сра<lb/>мословье</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="13,22">звѣрь,</w>
-<w n="13,22">ядуще</w>
-<w n="13,22">все</w>
-<w n="13,22">нечисто,</w>
-<w n="13,22">и</w>
-<w n="13,22">срамословье</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="13,22">звѣрь,</w>
-<w n="13,22">ядуще</w>
-<w n="13,22">вьсе</w>
-<w n="13,22">нечисто,</w>
-<w n="13,22">и</w>
-<w n="13,22">срамословие</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="13,22">звѣрь,</w>
-<w n="13,22">ядуще</w>
-<w n="13,22">все</w>
-<w n="13,22">нечисто,</w>
-<w n="13,22">и</w>
-<w n="13,22">срамословье</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>13, 22</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="13"/><div type="block" n="22"><p><app><lem wit="#lem">
+            звѣрь, ядуще вьсе нечисто, и срамословие
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">звѣрь. ꙗдуще все нечисто <lb/> срамословье</rdg>
+            <rdg wit="#tro">звѣрь ядуще все нечистое срамословье</rdg>
+            <rdg wit="#rad">звѣрь. ꙗдоуще все нечт<hi rend="sup">с</hi>о. и срамословие</rdg>
+            <rdg wit="#aka">ѕвѣрь. ꙗдѹще все нечт<hi rend="sup">с</hi>о. <lb/> и срамословїе</rdg>
+            <rdg wit="#ipa">звѣрь. <lb/> ꙗдуще все нечт<hi rend="sup">с</hi>о. и сра<lb/>мословье</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">звѣрь, ядуще все нечисто, и срамословье</rdg><rdg wit="#shakh">звѣрь, ядуще вьсе нечисто, и срамословие</rdg><rdg wit="#likh">звѣрь, ядуще все нечисто, и срамословье</rdg></rdgGrp></app></p></div></body></text></TEI>

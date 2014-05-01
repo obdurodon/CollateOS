@@ -1,90 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>36, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="36"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="36,20">отъ</w>
-<w n="36,20">плѣненыхъ,</w>
-<w n="36,20">мъногашьды</w>
-<w n="36,20">отъ</w>
-<w n="36,20">коея</w>
-<w n="36,20">любо</w>
-<w n="36,20">страны</w>
-<w n="36,20">приходящемъ</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="36,20">ѡ</w>
-<w n="36,20">полонены<hi rend="sup">х</hi></w>
-<w n="36,20">ѿ</w>
-<w n="36,20">коеа</w>
-<w n="36,20">любо</w>
-<w n="36,20">страны</w>
-<w n="36,20">приходѧщи<hi rend="sup">м</hi><lb/></w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="36,20">ѡ</w>
-<w n="36,20">полонены<hi rend="sup">х</hi>.</w>
-<w n="36,20">ѿ</w>
-<w n="36,20">коеꙗ</w>
-<w n="36,20">любо</w>
-<w n="36,20">страны <lb/></w>
-
-<w n="36,20">прїходѧщимъ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="36,20">полонныхъ</w>
-<w n="36,20">мь<lb/>ногажды</w>
-<w n="36,20">ѿ</w>
-<w n="36,20">коеꙗ</w>
-<w n="36,20">любо <lb/></w>
-
-<w n="36,20">страны</w>
-<w n="36,20">приходѧщимъ <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="36,20">полонены<hi rend="sup">х</hi></w>
-<w n="36,20">мнѡгаж<hi rend="sup">д</hi>ы,</w>
-<w n="36,20">ѿ</w>
-<w n="36,20">коея</w>
-<w n="36,20">оубо</w>
-<w n="36,20">стра<lb/>ны</w>
-<w n="36,20">приходѧщи<hi rend="sup">м</hi></w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="36,20">о</w>
-<w n="36,20">полоненыхъ</w>
-<w n="36,20">отъ</w>
-<w n="36,20">коеа</w>
-<w n="36,20">любо</w>
-<w n="36,20">страны</w>
-<w n="36,20">приходящимъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="36,20">отъ</w>
-<w n="36,20">плѣненыхъ,</w>
-<w n="36,20">мъногашьды</w>
-<w n="36,20">отъ</w>
-<w n="36,20">коея</w>
-<w n="36,20">любо</w>
-<w n="36,20">страны</w>
-<w n="36,20">приходящемъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="36,20">о</w>
-<w n="36,20">полоненых</w>
-<w n="36,20">от</w>
-<w n="36,20">коеа</w>
-<w n="36,20">любо</w>
-<w n="36,20">страны</w>
-<w n="36,20">приходящим</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>36, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="36"/><div type="block" n="20"><p><app><lem wit="#lem">
+            отъ плѣненыхъ, мъногашьды отъ коея любо страны приходящемъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">ѡ полонены<hi rend="sup">х</hi> ѿ коеа любо страны приходѧщи<hi rend="sup">м</hi>
+                <lb/></rdg>
+            <rdg wit="#aka">ѡ полонены<hi rend="sup">х</hi>. ѿ коеꙗ любо страны <lb/> прїходѧщимъ</rdg>
+            <rdg wit="#ipa">полонныхъ мь<lb/>ногажды ѿ коеꙗ любо <lb/> страны приходѧщимъ <lb/></rdg>
+            <rdg wit="#xle">полонены<hi rend="sup">х</hi> мнѡгаж<hi rend="sup">д</hi>ы, ѿ коеꙗ оубо стра<lb/>ны
+                    приходѧщи<hi rend="sup">м</hi></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">о полоненыхъ отъ коеа любо страны приходящимъ</rdg><rdg wit="#shakh">отъ плѣненыхъ, мъногашьды отъ коея любо страны приходящемъ</rdg><rdg wit="#likh">о полоненых от коеа любо страны приходящим</rdg></rdgGrp></app></p></div></body></text></TEI>

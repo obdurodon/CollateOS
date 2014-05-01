@@ -1,75 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>129, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="129"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-<w n="129,19">Брячиславль,</w>
-<w n="129,19">сынъ</w>
-<w n="129,19">Володимирь.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="129,19">брѧчиславль</w>
-<w n="129,19">сн҃ъ</w>
-<w n="129,19">володиме<lb/>рь·:·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="129,19">брѧчи<lb/>славлъ.</w>
-<w n="129,19">с҃нъ</w>
-<w n="129,19">володимирь</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="129,19">брѧчиславль.</w>
-<w n="129,19">сн҃ъ</w>
-<w n="129,19">володи<lb/>мирь:·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="129,19">брѧ<milestone unit="sic" n="start"/>ч<milestone unit="sic" n="end"/>ьславль.</w>
-<w n="129,19">сн҃ъ</w>
-<w n="129,19">володимѣрь. <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="129,19">брѧчиславль.</w>
-<w n="129,19">сн҃ь</w>
-<w n="129,19">вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>мерь.</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="129,19">брꙗчиславль</w>
-<w n="129,19">сынь</w>
-<w n="129,19">володимиръ</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="129,19">брꙗчиславль</w>
-<w n="129,19">сынъ</w>
-<w n="129,19">володимиръ</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="129,19">брꙗчиславль</w>
-<w n="129,19">сынъ</w>
-<w n="129,19">володимиръ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="129,19">Брячиславль,</w>
-<w n="129,19">сынъ</w>
-<w n="129,19">Володимерь.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="129,19">Брячиславль,</w>
-<w n="129,19">сынъ</w>
-<w n="129,19">Володимерь.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="129,19">Брячиславль,</w>
-<w n="129,19">сынъ</w>
-<w n="129,19">Володимерь.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>129, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="129"/><div type="block" n="19"><p><app><lem wit="#lem">
+            Брячиславль, сынъ Володимирь.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">брѧчиславль сн҃ъ володиме<lb/>рь·:·</rdg>
+            <rdg wit="#rad">брѧчи<lb/>славлъ. с҃нъ володимирь</rdg>
+            <rdg wit="#aka">брѧчиславль. сн҃ъ володи<lb/>мирь:·</rdg>
+            <rdg wit="#ipa">брѧ<sic>ч</sic>ьславль. сн҃ъ володимѣрь. <lb/></rdg>
+            <rdg wit="#xle">брѧчиславль. сн҃ь вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>мерь.</rdg>
+            <rdg wit="#kom">брꙗчиславль сынь володимиръ</rdg>
+            <rdg wit="#nak">брꙗчиславль сынъ володимиръ</rdg>
+            <rdg wit="#tol">брꙗчиславль сынъ володимиръ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Брячиславль, сынъ Володимерь.</rdg><rdg wit="#shakh">Брячиславль, сынъ Володимерь.</rdg><rdg wit="#likh">Брячиславль, сынъ Володимерь.</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,101 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>32, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="32"/><div type="block" n="24"><p>
-<app>
-<lem wit="#lem">
-<w n="32,24">Въ</w>
-<w n="32,24">лѣто 6420.</w>
-
-<w n="32,24">Посъла</w>
-<w n="32,24">Ольгъ</w>
-<w n="32,24">мужи</w>
-<w n="32,24">свои</w>
-<w n="32,24">построитъ</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="32,24">В</w>
-<w n="32,24">лѣ<hi rend="sup">т</hi></w>
-<w n="32,24">҂ѕ҃.у҃.к҃.</w>
-<w n="32,24">Посла</w>
-<w n="32,24">му<hi rend="sup">ж</hi><milestone unit="sic" n="start"/><hi rend="sup">и</hi><milestone unit="sic" n="end"/></w>
-<w n="32,24">свои</w>
-<w n="32,24">ѡлегъ.</w>
-<w n="32,24">построити</w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="32,24">В</w>
-<w n="32,24">лѣ<hi rend="sup">т</hi>.</w>
-<w n="32,24">҂ѕ҃.у҃.к҃.- <lb/></w>
-
-<w n="32,24">Посла</w>
-<w n="32,24">мѹжи</w>
-<w n="32,24">свои</w>
-<w n="32,24">ѡлегъ.</w>
-<w n="32,24">построити</w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="32,24">В</w>
-<w n="32,24">лѣто.</w>
-<w n="32,24">҂ѕ҃.у҃.к҃.</w>
-<w n="32,24">Посла</w>
-<w n="32,24">ѡле<lb/>гъ</w>
-<w n="32,24">мужи</w>
-<w n="32,24">свои</w>
-<w n="32,24">построити <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="32,24">В</w>
-<w n="32,24">лѣ<hi rend="sup">т</hi></w>
-<w n="32,24">҂ѕ҃.<lb/>у҃.к҃.</w>
-<w n="32,24">Посла</w>
-<w n="32,24">ѡлегь</w>
-<w n="32,24">мужи</w>
-<w n="32,24">свои</w>
-<w n="32,24">построити</w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="32,24">Въ</w>
-<w n="32,24">лѣто 6420.</w>
-
-<w n="32,24">Посла</w>
-<w n="32,24">мужи</w>
-<w n="32,24">свои</w>
-<w n="32,24">Олегъ</w>
-<w n="32,24">построити</w>
-
-</rdg>
-
-<rdg wit="#shakh">
-<w n="32,24">Въ</w>
-<w n="32,24">лѣто 6420.</w>
-
-<w n="32,24">Посъла</w>
-<w n="32,24">Ольгъ</w>
-<w n="32,24">мужа</w>
-<w n="32,24">своя</w>
-<w n="32,24">построитъ</w>
-
-</rdg>
-
-<rdg wit="#likh">
-<w n="32,24">Въ</w>
-<w n="32,24">лѣто 6420.</w>
-
-<w n="32,24">Посла</w>
-<w n="32,24">мужи</w>
-<w n="32,24">свои</w>
-<w n="32,24">Олегъ</w>
-<w n="32,24">построити</w>
-
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>32, 24</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="32"/><div type="block" n="24"><p><app><lem wit="#lem">
+            Въ лѣто 6420. Посъла Ольгъ мужи свои построитъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">В лѣ<hi rend="sup">т</hi> ҂ѕ҃.у҃.к҃. Посла му<hi rend="sup">ж</hi><sic><hi rend="sup">и</hi></sic>
+                свои ѡлегъ. построити </rdg>
+            <rdg wit="#aka">В лѣ<hi rend="sup">т</hi>. ҂ѕ҃.у҃.к҃.- <lb/> Посла мѹжи свои ѡлегъ. построити </rdg>
+            <rdg wit="#ipa">В лѣто. ҂ѕ҃.у҃.к҃. Посла ѡле<lb/>гъ мужи свои построити <lb/></rdg>
+            <rdg wit="#xle">В лѣ<hi rend="sup">т</hi> ҂ѕ҃.<lb/>у҃.к҃. Посла ѡлегь мужи свои построити </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Въ лѣто 6420. Посла мужи свои Олегъ построити </rdg><rdg wit="#shakh">Въ лѣто 6420. Посъла Ольгъ мужа своя построитъ </rdg><rdg wit="#likh">Въ лѣто 6420. Посла мужи свои Олегъ построити </rdg></rdgGrp></app></p></div></body></text></TEI>

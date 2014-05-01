@@ -1,80 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>37, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="37"/><div type="block" n="5"><p>
-<app>
-<lem wit="#lem">
-<w n="37,5">уряженое</w>
-<w n="37,5">его;</w>
-<w n="37,5">кому</w>
-<w n="37,5">будеть</w>
-<w n="37,5">писалъ</w>
-<w n="37,5">наслѣдити</w>
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-<w n="37,5">оурѧ<lb/>женое</w>
-<w n="37,5">е<hi rend="sup">г</hi>.</w>
-<w n="37,5">кому</w>
-<w n="37,5">бѹде<hi rend="sup">т</hi></w>
-<w n="37,5">писа<hi rend="sup">л</hi></w>
-<w n="37,5">наследити</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="37,5">оурѧженое</w>
-<w n="37,5">его. <lb/></w>
-
-<w n="37,5">комѹ</w>
-<w n="37,5">бѹдетъ</w>
-<w n="37,5">писалъ.</w>
-<w n="37,5">наследити</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="37,5">оурѧженое</w>
-<w n="37,5">его.</w>
-<w n="37,5">кому</w>
-<w n="37,5">бу<lb/>деть</w>
-<w n="37,5">писалъ</w>
-<w n="37,5">наслѣдити <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="37,5">оурѧженое</w>
-<w n="37,5">его</w>
-<w n="37,5">комоу</w>
-<w n="37,5">бѫде<hi rend="sup">т</hi></w>
-<w n="37,5">писа<hi rend="sup">л</hi></w>
-<w n="37,5">насл<hi rend="sup">д</hi>ѣ<hi rend="sup">и</hi>ти <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="37,5">уряженое</w>
-<w n="37,5">его,</w>
-<w n="37,5">кому</w>
-<w n="37,5">будеть</w>
-<w n="37,5">писалъ</w>
-<w n="37,5">наследити</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="37,5">уряженое</w>
-<w n="37,5">его;</w>
-<w n="37,5">кому</w>
-<w n="37,5">будеть</w>
-<w n="37,5">писалъ</w>
-<w n="37,5">наслѣдити</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="37,5">уряженое</w>
-<w n="37,5">его,</w>
-<w n="37,5">кому</w>
-<w n="37,5">будеть</w>
-<w n="37,5">писал</w>
-<w n="37,5">наследити</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>37, 5</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="37"/><div type="block" n="5"><p><app><lem wit="#lem">
+            уряженое его; кому будеть писалъ наслѣдити
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">оурѧ<lb/>женое е<hi rend="sup">г</hi>. кому бѹде<hi rend="sup">т</hi> писа<hi rend="sup">л</hi>
+                наследити</rdg>
+            <rdg wit="#aka">оурѧженое его. <lb/> комѹ бѹдетъ писалъ. наследити</rdg>
+            <rdg wit="#ipa">оурѧженое его. кому бу<lb/>деть писалъ наслѣдити <lb/></rdg>
+            <rdg wit="#xle">оурѧженое его комоу бѫде<hi rend="sup">т</hi> писа<hi rend="sup">л</hi>
+                насл<hi rend="sup">д</hi>ѣ<hi rend="sup">и</hi>ти <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">уряженое его, кому будеть писалъ наследити</rdg><rdg wit="#shakh">уряженое его; кому будеть писалъ наслѣдити</rdg><rdg wit="#likh">уряженое его, кому будеть писал наследити</rdg></rdgGrp></app></p></div></body></text></TEI>

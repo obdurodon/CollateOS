@@ -1,80 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>137, 7d</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="137"/><div type="block" n="7d"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="137,7d">ради</w>
-<w n="137,7d">б҃ъ</w>
-<w n="137,7d">ра<lb/>здрушить</w>
-<w n="137,7d">тѧ</w>
-<w n="137,7d">до</w>
-<w n="137,7d">конца.</w>
-<w n="137,7d">и</w>
-<w n="137,7d">вь<lb/>стерьгнеть</w>
-<w n="137,7d">тѧ</w>
-<w n="137,7d">ѿ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="137,7d">р<hi rend="sup">д</hi>а<hi rend="sup">и</hi></w>
-<w n="137,7d">раз<hi rend="sup">д</hi>роуши<hi rend="sup">т</hi></w>
-<w n="137,7d">тѧ</w>
-<w n="137,7d">б҃ъ</w>
-<w n="137,7d">до</w>
-<w n="137,7d">конца.</w>
-<w n="137,7d">въстръгне<hi rend="sup">т</hi></w>
-<w n="137,7d">тѧ <lb/></w>
-
-<w n="137,7d">ѿ</w>
-</rdg>
-
-<rdg wit="#kom">
-<w n="137,7d">слышавше</w>
-<w n="137,7d">послаша</w>
-<w n="137,7d">искатъ</w>
-<w n="137,7d">телесе</w>
-<w n="137,7d">свꙗтого</w>
-<w n="137,7d">съ</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="137,7d">слышавше</w>
-<w n="137,7d">послаша</w>
-<w n="137,7d">искать</w>
-<w n="137,7d">телесе</w>
-<w n="137,7d">свꙗтого</w>
-<w n="137,7d">съ</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="137,7d">слышавше</w>
-<w n="137,7d">послаша</w>
-<w n="137,7d">искать</w>
-<w n="137,7d">телесе</w>
-<w n="137,7d">свꙗтого</w>
-<w n="137,7d">съ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="137,7d">ради</w>
-<w n="137,7d">раздрушить</w>
-<w n="137,7d">тя</w>
-<w n="137,7d">Богъ</w>
-<w n="137,7d">до</w>
-<w n="137,7d">коньца,</w>
-<w n="137,7d">и</w>
-<w n="137,7d">въстьргнеть</w>
-<w n="137,7d">тя...</w>
-<w n="137,7d">отъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>137, 7d</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="137"/><div type="block" n="7d"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">ради б҃ъ ра<lb/>здрушить тѧ до конца. и вь<lb/>стерьгнеть тѧ ѿ</rdg>
+            <rdg wit="#xle">р<hi rend="sup">д</hi>а<hi rend="sup">и</hi> раз<hi rend="sup">д</hi>роуши<hi rend="sup">т</hi> тѧ б҃ъ до конца.
+                    въстръгне<hi rend="sup">т</hi> тѧ <lb/> ѿ</rdg>
+            <rdg wit="#kom">слышавше послаша искатъ телесе свꙗтого съ</rdg>
+            <rdg wit="#nak">слышавше послаша искать телесе свꙗтого съ</rdg>
+            <rdg wit="#tol">слышавше послаша искать телесе свꙗтого съ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#shakh">ради раздрушить тя Богъ до коньца, и въстьргнеть тя... отъ</rdg></rdgGrp></app></p></div></body></text></TEI>

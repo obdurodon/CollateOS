@@ -1,92 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>217, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="217"/><div type="block" n="25"><p>
-<app>
-<lem wit="#lem">
-<w n="217,25">Турову,</w>
-<w n="217,25">а</w>
-<w n="217,25">самъ</w>
-<w n="217,25">иде</w>
-<w n="217,25">Чьрнигову,</w>
-<w n="217,25">а</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="217,25">турову·</w>
-<w n="217,25">а</w>
-<w n="217,25">самъ</w>
-<w n="217,25">иде <lb/></w>
-
-<w n="217,25">чернигову·</w>
-<w n="217,25">а</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="217,25">к</w>
-<w n="217,25">тоуровоу.</w>
-<w n="217,25">а</w>
-<w n="217,25">самъ</w>
-<w n="217,25">иде</w>
-<w n="217,25">черниговѹ.</w>
-<w n="217,25">а</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="217,25">к</w>
-<w n="217,25">тѹровѹ·</w>
-<w n="217,25">а</w>
-<w n="217,25">самъ</w>
-<w n="217,25">иде</w>
-<w n="217,25">к</w>
-<w n="217,25">черниговѹ·</w>
-<w n="217,25">а <pb n="115r"/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="217,25">туро<lb/>ву·</w>
-<w n="217,25">а</w>
-<w n="217,25">с<milestone unit="sic" n="start"/>а<milestone unit="sic" n="end"/>м<milestone unit="sic" n="start"/>ъ<milestone unit="sic" n="end"/></w>
-<w n="217,25">иде</w>
-<w n="217,25">чернѣгову·</w>
-<w n="217,25">а <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="217,25">къ</w>
-<w n="217,25">тоуровоу.</w>
-<w n="217,25">а</w>
-<w n="217,25">са<hi rend="sup">м</hi></w>
-<w n="217,25">иде</w>
-<w n="217,25">к</w>
-<w n="217,25">чернѣговоу. <lb/></w>
-
-<w n="217,25">а</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="217,25">Турову,</w>
-<w n="217,25">а</w>
-<w n="217,25">самъ</w>
-<w n="217,25">иде</w>
-<w n="217,25">Чернигову,</w>
-<w n="217,25">а</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="217,25">Турову,</w>
-<w n="217,25">а</w>
-<w n="217,25">самъ</w>
-<w n="217,25">иде</w>
-<w n="217,25">Чьрнигову,</w>
-<w n="217,25">а</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="217,25">Турову,</w>
-<w n="217,25">а</w>
-<w n="217,25">самъ</w>
-<w n="217,25">иде</w>
-<w n="217,25">Чернигову,</w>
-<w n="217,25">а</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>217, 25</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="217"/><div type="block" n="25"><p><app><lem wit="#lem">
+            Турову, а самъ иде Чьрнигову, а
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">турову· а самъ иде <lb/> чернигову· а</rdg>
+            <rdg wit="#rad">к тоуровоу. а самъ иде черниговѹ. а</rdg>
+            <rdg wit="#aka">к тѹровѹ· а самъ иде к черниговѹ· а <pb n="115r"/></rdg>
+            <rdg wit="#ipa">туро<lb/>ву· а с<sic>а</sic>м<sic>ъ</sic> иде чернѣгову· а
+                <lb/></rdg>
+            <rdg wit="#xle">къ тоуровоу. а са<hi rend="sup">м</hi> иде к чернѣговоу. <lb/> а</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Турову, а самъ иде Чернигову, а</rdg><rdg wit="#shakh">Турову, а самъ иде Чьрнигову, а</rdg><rdg wit="#likh">Турову, а самъ иде Чернигову, а</rdg></rdgGrp></app></p></div></body></text></TEI>

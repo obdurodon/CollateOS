@@ -1,79 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>149, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="149"/><div type="block" n="7"><p>
-<app>
-<lem wit="#lem">
-<w n="149,7">съмириста</w>
-<w n="149,7">ся.</w>
-<w n="149,7">И</w>
-<w n="149,7">сѣдяше</w>
-<w n="149,7">Мьстиславъ</w>
-<w n="149,7">Чьрниговѣ,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="149,7">смиристасѧ.</w>
-<w n="149,7">и</w>
-<w n="149,7">сѣдѧше <lb/></w>
-
-<w n="149,7">мьстиславъ</w>
-<w n="149,7">черниговѣ.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="149,7">смириста<hi rend="sup">с</hi>.</w>
-<w n="149,7">и</w>
-<w n="149,7">седѧ<lb/>ше</w>
-<w n="149,7">мстиславъ</w>
-<w n="149,7">в</w>
-<w n="149,7">черниговѣ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="149,7">сми<lb/>ристасѧ.</w>
-<w n="149,7">и</w>
-<w n="149,7">седѧше</w>
-<w n="149,7">мьстиславъ</w>
-<w n="149,7">в</w>
-<w n="149,7">черниговѣ. <lb/></w>
-
-</rdg>
-
-<rdg wit="#ipa">
-<w n="149,7">смири<lb/>стасѧ.</w>
-<w n="149,7">и</w>
-<w n="149,7">сѣдѧше</w>
-<w n="149,7"><milestone unit="sic" n="start"/>м<hi rend="sup">ѧ</hi>ь<hi rend="sup">р</hi>с<hi rend="sup">о</hi>ти<milestone unit="sic" n="end"/>сла<lb/>въ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="149,7">смиристасѧ.</w>
-<w n="149,7">и</w>
-<w n="149,7">сѣдѧше</w>
-<w n="149,7">мьстиславь</w>
-<w n="149,7">в</w>
-<w n="149,7">че<lb/>рнѣговѣ.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="149,7">смиристася.</w>
-<w n="149,7">И</w>
-<w n="149,7">сѣдяше</w>
-<w n="149,7">Мьстиславъ</w>
-<w n="149,7">Черниговѣ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="149,7">съмиристася.</w>
-<w n="149,7">И</w>
-<w n="149,7">сѣдяше</w>
-<w n="149,7">Мьстиславъ</w>
-<w n="149,7">Чьрниговѣ,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="149,7">смиристася.</w>
-<w n="149,7">И</w>
-<w n="149,7">сѣдяше</w>
-<w n="149,7">Мьстиславъ</w>
-<w n="149,7">Черниговѣ,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>149, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="149"/><div type="block" n="7"><p><app><lem wit="#lem">
+            съмириста ся. И сѣдяше Мьстиславъ Чьрниговѣ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">смиристасѧ. и сѣдѧше <lb/> мьстиславъ черниговѣ.</rdg>
+            <rdg wit="#rad">смириста<hi rend="sup">с</hi>. и седѧ<lb/>ше мстиславъ в черниговѣ.</rdg>
+            <rdg wit="#aka">сми<lb/>ристасѧ. и седѧше мьстиславъ в черниговѣ. <lb/></rdg>
+            <rdg wit="#ipa">смири<lb/>стасѧ. и сѣдѧше
+                    <sic>м<hi rend="sup">ѧ</hi>ь<hi rend="sup">р</hi>с<hi rend="sup">о</hi>ти</sic>сла<lb/>въ</rdg>
+            <rdg wit="#xle">смиристасѧ. и сѣдѧше мьстиславь в че<lb/>рнѣговѣ.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">смиристася. И сѣдяше Мьстиславъ Черниговѣ,</rdg><rdg wit="#shakh">съмиристася. И сѣдяше Мьстиславъ Чьрниговѣ,</rdg><rdg wit="#likh">смиристася. И сѣдяше Мьстиславъ Черниговѣ,</rdg></rdgGrp></app></p></div></body></text></TEI>

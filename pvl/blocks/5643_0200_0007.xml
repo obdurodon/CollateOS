@@ -1,84 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>200, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="200"/><div type="block" n="7"><p>
-<app>
-<lem wit="#lem">
-<w n="200,7">съ</w>
-<w n="200,7">Половьци.</w>
-<w n="200,7">Вьсеволодъ</w>
-<w n="200,7">же</w>
-<w n="200,7">изиде</w>
-<w n="200,7">противу</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="200,7">с</w>
-<w n="200,7">половци.</w>
-<w n="200,7">все<lb/>володъ</w>
-<w n="200,7">же</w>
-<w n="200,7">изиде</w>
-<w n="200,7">противу</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="200,7">с</w>
-<w n="200,7">половци</w>
-<w n="200,7">всеволо<hi rend="sup">д</hi></w>
-<w n="200,7">же</w>
-<w n="200,7">изы<hi rend="sup">д</hi><lb/></w>
-<w n="200,7">противѹ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="200,7">с</w>
-<w n="200,7">половци.</w>
-<w n="200,7">всеволо<hi rend="sup">д</hi></w>
-<w n="200,7">же</w>
-<w n="200,7">изыиде</w>
-<w n="200,7">противѹ</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="200,7">с</w>
-<w n="200,7">половцѣ.</w>
-<w n="200,7">всеволодъ</w>
-<w n="200,7">же</w>
-<w n="200,7">и<lb/>зоиде</w>
-<w n="200,7">противу</w>
-<w n="200,7">ему</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="200,7">с</w>
-<w n="200,7">половци.</w>
-<w n="200,7">всеволѡ<hi rend="sup">д</hi></w>
-<w n="200,7">же</w>
-<w n="200,7">изыде</w>
-<w n="200,7">противоу</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="200,7">с</w>
-<w n="200,7">Половци.</w>
-<w n="200,7">Всеволодъ</w>
-<w n="200,7">же</w>
-<w n="200,7">изиде</w>
-<w n="200,7">противу</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="200,7">съ</w>
-<w n="200,7">Половьци.</w>
-<w n="200,7">Вьсеволодъ</w>
-<w n="200,7">же</w>
-<w n="200,7">изиде</w>
-<w n="200,7">противу</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="200,7">с</w>
-<w n="200,7">половци.</w>
-<w n="200,7">Всеволодъ</w>
-<w n="200,7">же</w>
-<w n="200,7">изиде</w>
-<w n="200,7">противу</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>200, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="200"/><div type="block" n="7"><p><app><lem wit="#lem">
+            съ Половьци. Вьсеволодъ же изиде противу
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">с половци. все<lb/>володъ же изиде противу</rdg>
+            <rdg wit="#rad">с половци всеволо<hi rend="sup">д</hi> же изы<hi rend="sup">д</hi>
+                <lb/> противѹ.</rdg>
+            <rdg wit="#aka">с половци. всеволо<hi rend="sup">д</hi> же изыиде противѹ</rdg>
+            <rdg wit="#ipa">с половцѣ. всеволодъ же и<lb/>зоиде противу ему</rdg>
+            <rdg wit="#xle">с половци. всеволѡ<hi rend="sup">д</hi> же изыде противоу</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">с Половци. Всеволодъ же изиде противу</rdg><rdg wit="#shakh">съ Половьци. Вьсеволодъ же изиде противу</rdg><rdg wit="#likh">с половци. Всеволодъ же изиде противу</rdg></rdgGrp></app></p></div></body></text></TEI>

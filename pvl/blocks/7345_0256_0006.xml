@@ -1,51 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>256, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="256"/><div type="block" n="6"><p>
-<app>
-<lem wit="#lem">
-</lem>
-
-<rdg wit="#lav">
-<w n="256,6">сп҃си <lb/></w>
-
-<w n="256,6">ны</w>
-<w n="256,6">в</w>
-<w n="256,6">скорб<hi rend="sup">х</hi>е</w>
-<w n="256,6">погружающасѧ</w>
-<w n="256,6">при<hi rend="sup">с</hi><lb/></w>
-<w n="256,6">и</w>
-<w n="256,6">сблюди</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="256,6">спаси</w>
-<w n="256,6">ны</w>
-<w n="256,6">в</w>
-<w n="256,6">скорбехъ</w>
-<w n="256,6">погружающа(я)ся</w>
-<w n="256,6">присно,</w>
-<w n="256,6">и</w>
-<w n="256,6">сблюди</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="256,6">спаси</w>
-<w n="256,6">ны</w>
-<w n="256,6">в</w>
-<w n="256,6">скорбех</w>
-<w n="256,6">погружающаяся</w>
-<w n="256,6">присно,</w>
-<w n="256,6">и</w>
-<w n="256,6">сблюди</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>256, 6</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="256"/><div type="block" n="6"><p><app><lem wit="#lem"/><rdgGrp type="manuscripts">
+            <rdg wit="#lav">сп҃си <lb/> ны в скорб<hi rend="sup">х</hi>е погружающасѧ при<hi rend="sup">с</hi>
+                <lb/> и сблюди</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">
+                <gap/>
+            </rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">спаси ны в скорбехъ погружающа(я)ся присно, и сблюди</rdg><rdg wit="#likh">спаси ны в скорбех погружающаяся присно, и сблюди</rdg></rdgGrp></app></p></div></body></text></TEI>

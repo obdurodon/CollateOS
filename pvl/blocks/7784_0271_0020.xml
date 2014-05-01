@@ -1,83 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="271"/><div type="block" n="20"><p>
-<app>
-<lem wit="#lem">
-<w n="271,20">въ</w>
-<w n="271,20">Вягру,</w>
-<w n="271,20">а</w>
-<w n="271,20">друзии</w>
-<w n="271,20">въ</w>
-<w n="271,20">Сану.</w>
-<w n="271,20">И</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="271,20">в</w>
-<w n="271,20">вѧгру·</w>
-<w n="271,20">а</w>
-<w n="271,20">друзии</w>
-<w n="271,20">в</w>
-<w n="271,20">са<lb/>ну·</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="271,20">оу</w>
-<w n="271,20">вѧгру·</w>
-<w n="271,20">а</w>
-<w n="271,20">друзи<lb/>и</w>
-<w n="271,20">ѣ</w>
-<w n="271,20">въ</w>
-<w n="271,20">сану·</w>
-<w n="271,20">и</w>
-<w n="271,20">бѣжаще</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="271,20">въ</w>
-<w n="271,20">вѧгроу,</w>
-<w n="271,20">дроуѕїи</w>
-<w n="271,20">же</w>
-<w n="271,20">в</w>
-<w n="271,20">сѧноу.</w>
-<w n="271,20">и</w>
-<w n="271,20">бѣжаща</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="271,20">в</w>
-<w n="271,20">Вягру,</w>
-<w n="271,20">а</w>
-<w n="271,20">друзии</w>
-<w n="271,20">в</w>
-<w n="271,20">Сану;</w>
-<w n="271,20">и</w>
-<w n="271,20">бѣжаще</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="271,20">въ</w>
-<w n="271,20">Вягру,</w>
-<w n="271,20">а</w>
-<w n="271,20">друзии</w>
-<w n="271,20">въ</w>
-<w n="271,20">Сану;</w>
-<w n="271,20">и</w>
-<w n="271,20">бѣжаще</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="271,20">в</w>
-<w n="271,20">Вягру,</w>
-<w n="271,20">а</w>
-<w n="271,20">друзии</w>
-<w n="271,20">в</w>
-<w n="271,20">Сану.</w>
-<w n="271,20">И</w>
-<w n="271,20">бѣжаще</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>271, 20</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="271"/><div type="block" n="20"><p><app><lem wit="#lem">
+            въ Вягру, а друзии въ Сану. И
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">в вѧгру· а друзии в са<lb/>ну·</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">оу вѧгру· а друзи<lb/>и ѣ въ сану· и бѣжаще</rdg>
+            <rdg wit="#xle">въ вѧгроу, дроуѕїи же в сѧноу. и бѣжаща</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">в Вягру, а друзии в Сану; и бѣжаще</rdg><rdg wit="#shakh">въ Вягру, а друзии въ Сану; и бѣжаще</rdg><rdg wit="#likh">в Вягру, а друзии в Сану. И бѣжаще</rdg></rdgGrp></app></p></div></body></text></TEI>

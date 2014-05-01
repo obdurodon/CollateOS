@@ -1,107 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>115, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="115"/><div type="block" n="18"><p>
-<app>
-<lem wit="#lem">
-<w n="115,18">На</w>
-<w n="115,18">шестѣмь</w>
-<w n="115,18">съборѣ:</w>
-<w n="115,18">отъ</w>
-<w n="115,18">Рима</w>
-<w n="115,18">Агафонъ,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="115,18">на</w>
-<w n="115,18">.ѕ҃.</w>
-<w n="115,18">мь</w>
-<w n="115,18">сборѣ.</w>
-<w n="115,18">ѿ</w>
-<w n="115,18">рима</w>
-<w n="115,18">агафо<lb/>нъ.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="115,18">на</w>
-<w n="115,18">ѕ҃.</w>
-<w n="115,18">соборѣ.</w>
-<w n="115,18">ѿ</w>
-<w n="115,18">рима</w>
-<w n="115,18">агафонъ.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="115,18">на</w>
-<w n="115,18">шестомъ</w>
-<w n="115,18">соборе.</w>
-<w n="115,18">ѿ</w>
-<w n="115,18">рима</w>
-<w n="115,18">агафонъ.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="115,18">на</w>
-<w n="115,18">шесто<hi rend="sup">м</hi><lb/></w>
-<w n="115,18">сборѣ</w>
-<w n="115,18">ѿ</w>
-<w n="115,18">рима</w>
-<w n="115,18">агафонь.</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="115,18">на 6</w>
-
-<w n="115,18">мь</w>
-<w n="115,18">съборѣ</w>
-<w n="115,18">от</w>
-<w n="115,18">рима</w>
-<w n="115,18">агафонъ</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="115,18">на</w>
-<w n="115,18">шестом</w>
-<w n="115,18">соборѣ</w>
-<w n="115,18">от</w>
-<w n="115,18">рима</w>
-<w n="115,18">агафонъ</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="115,18">на</w>
-<w n="115,18">шестом</w>
-<w n="115,18">соборѣ</w>
-<w n="115,18">от</w>
-<w n="115,18">рима</w>
-<w n="115,18">агафонъ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="115,18">На</w>
-<w n="115,18">6-мь</w>
-<w n="115,18">сборѣ</w>
-<w n="115,18">отъ</w>
-<w n="115,18">Рима</w>
-<w n="115,18">Агафонъ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="115,18">На</w>
-<w n="115,18">шестѣмь</w>
-<w n="115,18">же</w>
-<w n="115,18">съборѣ:</w>
-<w n="115,18">отъ</w>
-<w n="115,18">Рима</w>
-<w n="115,18">Агафонъ,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="115,18">На</w>
-<w n="115,18">6-мь</w>
-<w n="115,18">сборѣ</w>
-<w n="115,18">от</w>
-<w n="115,18">Рима</w>
-<w n="115,18">Агафонъ,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>115, 18</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="115"/><div type="block" n="18"><p><app><lem wit="#lem">
+            На шестѣмь съборѣ: отъ Рима Агафонъ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">на .ѕ҃. мь сборѣ. ѿ рима агафо<lb/>нъ.</rdg>
+            <rdg wit="#rad">на ѕ҃. соборѣ. ѿ рима агафонъ.</rdg>
+            <rdg wit="#aka">на шестомъ соборе. ѿ рима агафонъ.</rdg>
+            <rdg wit="#ipa">на шесто<hi rend="sup">м</hi>
+                <lb/> сборѣ ѿ рима агафонь.</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">на 6 мь съборѣ от рима агафонъ</rdg>
+            <rdg wit="#nak">на шестом соборѣ от рима агафонъ</rdg>
+            <rdg wit="#tol">на шестом соборѣ от рима агафонъ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">На 6-мь сборѣ отъ Рима Агафонъ,</rdg><rdg wit="#shakh">На шестѣмь же съборѣ: отъ Рима Агафонъ,</rdg><rdg wit="#likh">На 6-мь сборѣ от Рима Агафонъ,</rdg></rdgGrp></app></p></div></body></text></TEI>

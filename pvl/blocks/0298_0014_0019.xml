@@ -1,91 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>14, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="14"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-<w n="14,19">живущии</w>
-<w n="14,19">на</w>
-<w n="14,19">коньць</w>
-<w n="14,19">земля,</w>
-<w n="14,19">законъ</w>
-<w n="14,19">имуть</w>
-<w n="14,19">отьць</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="14,19">жиоуще</w>
-<w n="14,19">на</w>
-<w n="14,19">конець</w>
-<w n="14,19">землѧ.</w>
-<w n="14,19">законъ</w>
-<w n="14,19">имуть <lb/></w>
-
-<w n="14,19">ѿ</w>
-</rdg>
-
-<rdg wit="#tro">
-</rdg>
-
-<rdg wit="#rad">
-<w n="14,19">жи<lb/>воуще</w>
-<w n="14,19">на</w>
-<w n="14,19">конець</w>
-<w n="14,19">землѧ.</w>
-<w n="14,19">законъ</w>
-<w n="14,19">имоуть</w>
-<w n="14,19">ѿць</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="14,19">живѹще</w>
-<w n="14,19">на <lb/></w>
-
-<w n="14,19">конець</w>
-<w n="14,19">землѧ.</w>
-<w n="14,19">законъ</w>
-<w n="14,19">имѹтъ</w>
-<w n="14,19">ѿц҃ь</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="14,19">живущии</w>
-<w n="14,19">на <lb/></w>
-
-<w n="14,19">конѣць</w>
-<w n="14,19">землѧ.</w>
-<w n="14,19">закон<hi rend="sup">ъ</hi><lb/></w>
-<w n="14,19">имуть</w>
-<w n="14,19">ѡ҃ць</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#bych">
-<w n="14,19">живущеи</w>
-<w n="14,19">на</w>
-<w n="14,19">конець</w>
-<w n="14,19">земля,</w>
-<w n="14,19">законъ</w>
-<w n="14,19">имуть</w>
-<w n="14,19">отець</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="14,19">живущии</w>
-<w n="14,19">на</w>
-<w n="14,19">коньць</w>
-<w n="14,19">земля,</w>
-<w n="14,19">законъ</w>
-<w n="14,19">имуть</w>
-<w n="14,19">отьць</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="14,19">живуще</w>
-<w n="14,19">на</w>
-<w n="14,19">конець</w>
-<w n="14,19">земля,</w>
-<w n="14,19">законъ</w>
-<w n="14,19">имуть</w>
-<w n="14,19">отець</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>14, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="14"/><div type="block" n="19"><p><app><lem wit="#lem">
+            живущии на коньць земля, законъ имуть отьць
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">жиоуще на конець землѧ. законъ имуть <lb/> ѿ</rdg>
+            <rdg wit="#tro">
+                <gap/>
+            </rdg>
+            <rdg wit="#rad">жи<lb/>воуще на конець землѧ. законъ имоуть ѿць</rdg>
+            <rdg wit="#aka">живѹще на <lb/> конець землѧ. законъ имѹтъ ѿц҃ь</rdg>
+            <rdg wit="#ipa">живущии на <lb/> конѣць землѧ. закон<hi rend="sup">ъ</hi>
+                <lb/> имуть ѡ҃ць</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">живущеи на конець земля, законъ имуть отець</rdg><rdg wit="#shakh">живущии на коньць земля, законъ имуть отьць</rdg><rdg wit="#likh">живуще на конець земля, законъ имуть отець</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,90 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>2, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="2"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-<w n="2,2">Чьрмьна,</w>
-<w n="2,2">текущия</w>
-<w n="2,2">на</w>
-<w n="2,2">въстокъ,</w>
-<w n="2,2">Фива,</w>
-<w n="2,2">Лувуи,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="2,2">чермна</w>
-<w n="2,2">те<lb/>кущи.</w>
-<w n="2,2">на</w>
-<w n="2,2">въстокъ.</w>
-<w n="2,2">авифаникии</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="2,2">чермна</w>
-<w n="2,2">текущи.</w>
-<w n="2,2">на</w>
-<w n="2,2">въстокъ</w>
-<w n="2,2">фиф<milestone unit="sic" n="start"/>...<milestone unit="sic" n="end"/></w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="2,2">черм<hi rend="sup">н</hi>а</w>
-<w n="2,2">текоущиꙗ. <lb/></w>
-
-<w n="2,2">на</w>
-<w n="2,2">встокъ</w>
-<w n="2,2">ѳивѹлии</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="2,2">чермна</w>
-<w n="2,2">текѹщїа.</w>
-<w n="2,2">на</w>
-<w n="2,2">встокъ</w>
-<w n="2,2">фивѹлїи</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="2,2">чермьна</w>
-<w n="2,2">те<lb/>кущиꙗ</w>
-<w n="2,2">на</w>
-<w n="2,2">въстокъ.</w>
-<w n="2,2">фива <lb/></w>
-
-<w n="2,2">луви</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="2,2">чермна</w>
-<w n="2,2">текоущаа</w>
-<w n="2,2">на</w>
-<w n="2,2">въ<lb/>стокь.</w>
-<w n="2,2">ѳива</w>
-<w n="2,2">лѵвїѧ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="2,2">Чермна,</w>
-<w n="2,2">текущи</w>
-<w n="2,2">на</w>
-<w n="2,2">въстокъ,</w>
-<w n="2,2">Ѳива,</w>
-<w n="2,2">Ливия</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="2,2">Чьрмьна,</w>
-<w n="2,2">текущи</w>
-<w n="2,2">на</w>
-<w n="2,2">въстокъ,</w>
-<w n="2,2">Ѳива,</w>
-<w n="2,2">Ливуи,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="2,2">Чермна,</w>
-<w n="2,2">текущи</w>
-<w n="2,2">на</w>
-<w n="2,2">въстокъ,</w>
-<w n="2,2">Фива,</w>
-<w n="2,2">Ливия</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>2, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="2"/><div type="block" n="2"><p><app><lem wit="#lem">
+            Чьрмьна, текущия на въстокъ, Фива, Лувуи,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">чермна те<lb/>кущи. на въстокъ. авифаникии</rdg>
+            <rdg wit="#tro">чермна текущи. на въстокъ фиф<sic>...</sic></rdg>
+            <rdg wit="#rad">черм<hi rend="sup">н</hi>а текоущиꙗ. <lb/> на встокъ ѳивѹлии</rdg>
+            <rdg wit="#aka">чермна текѹщїа. на встокъ фивѹлїи</rdg>
+            <rdg wit="#ipa">чермьна те<lb/>кущиꙗ на въстокъ. фива <lb/> луви</rdg>
+            <rdg wit="#xle">чермна текоущаа на въ<lb/>стокь. ѳива лѵвїѧ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">Чермна, текущи на въстокъ, Ѳива, Ливия</rdg><rdg wit="#shakh">Чьрмьна, текущи на въстокъ, Ѳива, Ливуи,</rdg><rdg wit="#likh">Чермна, текущи на въстокъ, Фива, Ливия</rdg></rdgGrp></app></p></div></body></text></TEI>

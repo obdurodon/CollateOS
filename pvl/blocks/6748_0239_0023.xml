@@ -1,93 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>239, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="239"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="239,23">напя</w>
-<w n="239,23">стягъ</w>
-<w n="239,23">Володимирь,</w>
-<w n="239,23">и</w>
-<w n="239,23">узьрѣ</w>
-<w n="239,23">Ольгъ</w>
-<w n="239,23">стягъ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="239,23">н<hi rend="sup">а</hi><lb/>пѧ</w>
-<w n="239,23">стѧгъ</w>
-<w n="239,23">володимерь·</w>
-<w n="239,23">и</w>
-<w n="239,23">оузрѣ <lb/></w>
-
-<w n="239,23">ѡлегъ</w>
-<w n="239,23">стѧгъ</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="239,23">напѧ</w>
-<w n="239,23">стѧ<lb/>гъ·</w>
-<w n="239,23">володимерь·</w>
-<w n="239,23">и</w>
-<w n="239,23">оузрѣ</w>
-<w n="239,23">ѡлегъ·</w>
-<w n="239,23">стѧгъ</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="239,23">напѧ</w>
-<w n="239,23">стѧгъ</w>
-<w n="239,23">володимирь· <lb/><milestone unit="add" n="start" place="margin"/>и</w>
-
-<w n="239,23">оузрѣ</w>
-<w n="239,23">ѡлегъ</w>
-<w n="239,23">стѧгъ<milestone unit="add" n="end"/></w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="239,23">напѧ</w>
-<w n="239,23">стѧг<milestone unit="sic" n="start"/>ъ<milestone unit="sic" n="end"/></w>
-<w n="239,23">володиме<lb/>рь·</w>
-<w n="239,23">и</w>
-<w n="239,23">оузри</w>
-<w n="239,23">ѡлегъ</w>
-<w n="239,23">стѧгъ</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="239,23">напѧ</w>
-<w n="239,23">стѧ<hi rend="sup">г</hi><lb/></w>
-<w n="239,23">вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>мерь.</w>
-<w n="239,23">и</w>
-<w n="239,23">оузрѣ·̏</w>
-<w n="239,23">олегь</w>
-<w n="239,23">стѧгь</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="239,23">напя</w>
-<w n="239,23">стягъ</w>
-<w n="239,23">Володимерь,</w>
-<w n="239,23">и</w>
-<w n="239,23">узрѣ</w>
-<w n="239,23">Олегъ</w>
-<w n="239,23">стягъ</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="239,23">напя</w>
-<w n="239,23">стягъ</w>
-<w n="239,23">Володимерь,</w>
-<w n="239,23">и</w>
-<w n="239,23">узьрѣ</w>
-<w n="239,23">Ольгъ</w>
-<w n="239,23">стягъ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="239,23">напя</w>
-<w n="239,23">стягъ</w>
-<w n="239,23">Володимерь,</w>
-<w n="239,23">и</w>
-<w n="239,23">узрѣ</w>
-<w n="239,23">Олегъ</w>
-<w n="239,23">стягъ</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>239, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="239"/><div type="block" n="23"><p><app><lem wit="#lem">
+            напя стягъ Володимирь, и узьрѣ Ольгъ стягъ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">н<hi rend="sup">а</hi><lb/>пѧ стѧгъ володимерь· и оузрѣ <lb/> ѡлегъ стѧгъ</rdg>
+            <rdg wit="#rad">напѧ стѧ<lb/>гъ· володимерь· и оузрѣ ѡлегъ· стѧгъ</rdg>
+            <rdg wit="#aka">напѧ стѧгъ володимирь· <lb/><add place="margin">и оузрѣ ѡлегъ стѧгъ</add></rdg>
+            <rdg wit="#ipa">напѧ стѧг<sic>ъ</sic> володиме<lb/>рь· и оузри ѡлегъ стѧгъ</rdg>
+            <rdg wit="#xle">напѧ стѧ<hi rend="sup">г</hi>
+                <lb/> вол<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi>мерь. и оузрѣ·̏ олегь стѧгь</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">напя стягъ Володимерь, и узрѣ Олегъ стягъ</rdg><rdg wit="#shakh">напя стягъ Володимерь, и узьрѣ Ольгъ стягъ</rdg><rdg wit="#likh">напя стягъ Володимерь, и узрѣ Олегъ стягъ</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,105 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>119, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="119"/><div type="block" n="19"><p>
-<app>
-<lem wit="#lem">
-<w n="119,19">въздати.</w>
-<w n="119,19">“Велии</w>
-<w n="119,19">бо</w>
-<w n="119,19">еси,</w>
-<w n="119,19">и</w>
-<w n="119,19">чюдьна</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="119,19">въздаꙗньꙗ <lb/></w>
-
-<w n="119,19">въздати.</w>
-<w n="119,19">велии</w>
-<w n="119,19">бо</w>
-<w n="119,19">ѥси</w>
-<w n="119,19">и</w>
-<w n="119,19">чюна <pb n="41c"/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="119,19">въздати.</w>
-<w n="119,19">велии</w>
-<w n="119,19">бо</w>
-<w n="119,19">еси</w>
-<w n="119,19">г҃и</w>
-<w n="119,19">и</w>
-<w n="119,19">чюдна <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="119,19"><milestone unit="add" n="start" place="margin"/>во<milestone unit="add" n="end"/>здати.</w>
-<w n="119,19">велїи</w>
-<w n="119,19">бо</w>
-<w n="119,19">еси</w>
-<w n="119,19">и</w>
-<w n="119,19">чю<lb/>дна</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="119,19">въздати.</w>
-<w n="119,19">велии</w>
-<w n="119,19">бо</w>
-<w n="119,19">еси</w>
-<w n="119,19">и</w>
-<w n="119,19">чю<lb/>дна</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="119,19">възданиа</w>
-<w n="119,19">велии</w>
-<w n="119,19">еси</w>
-<w n="119,19">господи</w>
-<w n="119,19">чюдна</w>
-<w n="119,19">суть</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="119,19">въздааниꙗ</w>
-<w n="119,19">велии</w>
-<w n="119,19">еси</w>
-<w n="119,19">господи</w>
-<w n="119,19">и</w>
-<w n="119,19">чюдна</w>
-<w n="119,19">суть</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="119,19">въздаянья</w>
-<w n="119,19">въздати;</w>
-<w n="119,19">велий</w>
-<w n="119,19">бо</w>
-<w n="119,19">еси</w>
-<w n="119,19">и</w>
-<w n="119,19">чюдна</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="119,19">въздаяния</w>
-<w n="119,19">въздати.</w>
-<w n="119,19">Велии</w>
-<w n="119,19">бо</w>
-<w n="119,19">еси,</w>
-<w n="119,19">Господи,</w>
-<w n="119,19">и</w>
-<w n="119,19">чюдьна</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="119,19">въздаянья</w>
-<w n="119,19">въздати.</w>
-<w n="119,19">“Велий</w>
-<w n="119,19">бо</w>
-<w n="119,19">еси</w>
-<w n="119,19">и</w>
-<w n="119,19">чюдна</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>119, 19</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="119"/><div type="block" n="19"><p><app><lem wit="#lem">
+            въздати. “Велии бо еси, и чюдьна
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">въздаꙗньꙗ <lb/> въздати. велии бо ѥси и чюна <pb n="41c"/></rdg>
+            <rdg wit="#rad">въздати. велии бо еси г҃и и чюдна <lb/></rdg>
+            <rdg wit="#aka"><add place="margin">во</add>здати. велїи бо еси и чю<lb/>дна</rdg>
+            <rdg wit="#ipa">въздати. велии бо еси и чю<lb/>дна</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">възданиа велии еси господи чюдна суть</rdg>
+            <rdg wit="#tol">въздааниꙗ велии еси господи и чюдна суть</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">въздаянья въздати; велий бо еси и чюдна</rdg><rdg wit="#shakh">въздаяния въздати. Велии бо еси, Господи, и чюдьна</rdg><rdg wit="#likh">въздаянья въздати. “Велий бо еси и чюдна</rdg></rdgGrp></app></p></div></body></text></TEI>

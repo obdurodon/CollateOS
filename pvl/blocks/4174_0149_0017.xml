@@ -1,94 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>149, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="149"/><div type="block" n="17"><p>
-<app>
-<lem wit="#lem">
-<w n="149,17">мирьно</w>
-<w n="149,17">и</w>
-<w n="149,17">въ</w>
-<w n="149,17">братолюбьствѣ,</w>
-<w n="149,17">и</w>
-<w n="149,17">преста</w>
-<w n="149,17">усобица</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="149,17">мирно.</w>
-<w n="149,17">и</w>
-<w n="149,17">в</w>
-<w n="149,17">братолю<lb/>бьствѣ.</w>
-<w n="149,17">и</w>
-<w n="149,17">оуста</w>
-<w n="149,17">оусобица</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="149,17">мирно.</w>
-<w n="149,17">и</w>
-<w n="149,17">въ</w>
-<w n="149,17">братолюбьствѣ.</w>
-<w n="149,17">и</w>
-<w n="149,17">преста</w>
-<w n="149,17">ѹсоб<hi rend="sup">ц</hi>и <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="149,17">мирно.</w>
-<w n="149,17">и</w>
-<w n="149,17">въ</w>
-<w n="149,17">бра<lb/>толюбьствѣ.</w>
-<w n="149,17">и</w>
-<w n="149,17">преста</w>
-<w n="149,17">оусобица.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="149,17">мирно.</w>
-<w n="149,17">и</w>
-<w n="149,17">вь</w>
-<w n="149,17">братолюбьи.</w>
-<w n="149,17">и</w>
-<w n="149,17"><milestone unit="sic" n="start"/>пре<milestone unit="sic" n="end"/><lb/>ста</w>
-<w n="149,17">оусоби<milestone unit="sic" n="start"/>ц<milestone unit="sic" n="end"/>а</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="149,17">мирно.</w>
-<w n="149,17">и</w>
-<w n="149,17">въ</w>
-<w n="149,17">братолюбьствѣ.</w>
-<w n="149,17">и</w>
-<w n="149,17">преста</w>
-<w n="149,17">оусобица <lb/></w>
-
-</rdg>
-
-<rdg wit="#bych">
-<w n="149,17">мирно</w>
-<w n="149,17">и</w>
-<w n="149,17">в</w>
-<w n="149,17">братолюбьствѣ,</w>
-<w n="149,17">и</w>
-<w n="149,17">уста</w>
-<w n="149,17">усобица</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="149,17">мирьно</w>
-<w n="149,17">и</w>
-<w n="149,17">въ</w>
-<w n="149,17">братолюбьствѣ,</w>
-<w n="149,17">и</w>
-<w n="149,17">преста</w>
-<w n="149,17">усобица</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="149,17">мирно</w>
-<w n="149,17">и</w>
-<w n="149,17">в</w>
-<w n="149,17">братолюбьствѣ,</w>
-<w n="149,17">и</w>
-<w n="149,17">уста</w>
-<w n="149,17">усобица</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>149, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="149"/><div type="block" n="17"><p><app><lem wit="#lem">
+            мирьно и въ братолюбьствѣ, и преста усобица
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">мирно. и в братолю<lb/>бьствѣ. и оуста оусобица</rdg>
+            <rdg wit="#rad">мирно. и въ братолюбьствѣ. и преста ѹсоб<hi rend="sup">ц</hi>и <lb/></rdg>
+            <rdg wit="#aka">мирно. и въ бра<lb/>толюбьствѣ. и преста оусобица.</rdg>
+            <rdg wit="#ipa">мирно. и вь братолюбьи. и <sic>пре</sic><lb/>ста
+                оусоби<sic>ц</sic>а</rdg>
+            <rdg wit="#xle">мирно. и въ братолюбьствѣ. и преста оусобица <lb/></rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">мирно и в братолюбьствѣ, и уста усобица</rdg><rdg wit="#shakh">мирьно и въ братолюбьствѣ, и преста усобица</rdg><rdg wit="#likh">мирно и в братолюбьствѣ, и уста усобица</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,81 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>129, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="129"/><div type="block" n="12"><p>
-<app>
-<lem wit="#lem">
-<w n="129,12">отъ</w>
-<w n="129,12">града,</w>
-<w n="129,12">и</w>
-<w n="129,12">въ</w>
-<w n="129,12">своя</w>
-<w n="129,12">идоша.</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="129,12">ѿ</w>
-<w n="129,12">града</w>
-<w n="129,12">въ</w>
-<w n="129,12">своꙗ</w>
-<w n="129,12">си</w>
-<w n="129,12">идо<lb/>ша·:·</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="129,12">ѿ</w>
-<w n="129,12">гра<hi rend="sup">д</hi></w>
-<w n="129,12">поидоша</w>
-<w n="129,12">въ</w>
-<w n="129,12">своꙗ</w>
-<w n="129,12">си:- <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="129,12">ѿ</w>
-<w n="129,12">града</w>
-<w n="129,12">поидоша</w>
-<w n="129,12">во</w>
-<w n="129,12">своꙗ</w>
-<w n="129,12">си:·</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="129,12">ѿ</w>
-<w n="129,12">града.</w>
-<w n="129,12">и</w>
-<w n="129,12">вь</w>
-<w n="129,12">своꙗ</w>
-<w n="129,12">идоша·:·а <lb/></w>
-
-</rdg>
-
-<rdg wit="#xle">
-<w n="129,12">ѿ</w>
-<w n="129,12">града.</w>
-<w n="129,12">и</w>
-<w n="129,12">въ</w>
-<w n="129,12">своа</w>
-<w n="129,12">идоша.·̏</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="129,12">отъ</w>
-<w n="129,12">града,</w>
-<w n="129,12">въсвояси</w>
-<w n="129,12">идоша.</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="129,12">отъ</w>
-<w n="129,12">града,</w>
-<w n="129,12">и</w>
-<w n="129,12">въ</w>
-<w n="129,12">свояси</w>
-<w n="129,12">идоша.</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="129,12">от</w>
-<w n="129,12">града,</w>
-<w n="129,12">въсвояси</w>
-<w n="129,12">идоша.</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>129, 12</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="129"/><div type="block" n="12"><p><app><lem wit="#lem">
+            отъ града, и въ своя идоша.
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѿ града въ своꙗ си идо<lb/>ша·:·</rdg>
+            <rdg wit="#rad">ѿ гра<hi rend="sup">д</hi> поидоша въ своꙗ си:- <lb/></rdg>
+            <rdg wit="#aka">ѿ града поидоша во своꙗ си:·</rdg>
+            <rdg wit="#ipa">ѿ града. и вь своꙗ идоша·:·а <lb/></rdg>
+            <rdg wit="#xle">ѿ града. и въ своа идоша.·̏</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">отъ града, въсвояси идоша.</rdg><rdg wit="#shakh">отъ града, и въ свояси идоша.</rdg><rdg wit="#likh">от града, въсвояси идоша.</rdg></rdgGrp></app></p></div></body></text></TEI>

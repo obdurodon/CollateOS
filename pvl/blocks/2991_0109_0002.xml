@@ -1,103 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>109, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="109"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-<w n="109,2">съ</w>
-<w n="109,2">вои</w>
-<w n="109,2">на</w>
-<w n="109,2">Кърсунь,</w>
-<w n="109,2">градъ</w>
-<w n="109,2">Грьчьскыи,</w>
-<w n="109,2">и</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="109,2">съ</w>
-<w n="109,2">вои</w>
-<w n="109,2">на</w>
-<w n="109,2">корсунь</w>
-<w n="109,2">гра<hi rend="sup">д</hi><lb/></w>
-<w n="109,2">гречьскии.</w>
-<w n="109,2">и</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="109,2">с</w>
-<w n="109,2">вои.</w>
-<w n="109,2">на</w>
-<w n="109,2">корсоунь. <lb/></w>
-
-<w n="109,2">гра<hi rend="sup">д</hi>.</w>
-<w n="109,2">греческыи.</w>
-<w n="109,2">и</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="109,2">на</w>
-<w n="109,2">ко<lb/>рсѹнь</w>
-<w n="109,2">градъ.</w>
-<w n="109,2">грецкїи.</w>
-<w n="109,2">и</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="109,2">с</w>
-<w n="109,2">вои</w>
-<w n="109,2">на</w>
-<w n="109,2">корсунь</w>
-<w n="109,2">гра<hi rend="sup">д</hi></w>
-<w n="109,2">грѣ<lb/>чкыи.</w>
-<w n="109,2">и</w>
-</rdg>
-
-<rdg wit="#xle">
-</rdg>
-
-<rdg wit="#kom">
-<w n="109,2">въ</w>
-<w n="109,2">силѣ</w>
-<w n="109,2">велицѣ</w>
-<w n="109,2">на</w>
-<w n="109,2">коръсунъ</w>
-<w n="109,2">град</w>
-<w n="109,2">грѣческыи</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="109,2">с</w>
-<w n="109,2">вои</w>
-<w n="109,2">на</w>
-<w n="109,2">коръсунъ</w>
-<w n="109,2">град</w>
-<w n="109,2">грѣчкии</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="109,2">съ</w>
-<w n="109,2">вои</w>
-<w n="109,2">на</w>
-<w n="109,2">Корсунь,</w>
-<w n="109,2">градъ</w>
-<w n="109,2">Гречьский,</w>
-<w n="109,2">и</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="109,2">съ</w>
-<w n="109,2">вои</w>
-<w n="109,2">на</w>
-<w n="109,2">Кърсунь,</w>
-<w n="109,2">градъ</w>
-<w n="109,2">Грьчьскыи,</w>
-<w n="109,2">и</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="109,2">съ</w>
-<w n="109,2">вои</w>
-<w n="109,2">на</w>
-<w n="109,2">Корсунь,</w>
-<w n="109,2">град</w>
-<w n="109,2">гречьский,</w>
-<w n="109,2">и</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>109, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="109"/><div type="block" n="2"><p><app><lem wit="#lem">
+            съ вои на Кърсунь, градъ Грьчьскыи, и
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">съ вои на корсунь гра<hi rend="sup">д</hi>
+                <lb/> гречьскии. и</rdg>
+            <rdg wit="#rad">с вои. на корсоунь. <lb/> гра<hi rend="sup">д</hi>. греческыи. и</rdg>
+            <rdg wit="#aka">на ко<lb/>рсѹнь градъ. грецкїи. и</rdg>
+            <rdg wit="#ipa">с вои на корсунь гра<hi rend="sup">д</hi> грѣ<lb/>чкыи. и</rdg>
+            <rdg wit="#xle">
+                <gap/>
+            </rdg>
+            <rdg wit="#kom">въ силѣ велицѣ на коръсунъ град грѣческыи</rdg>
+            <rdg wit="#tol">с вои на коръсунъ град грѣчкии</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">съ вои на Корсунь, градъ Гречьский, и</rdg><rdg wit="#shakh">съ вои на Кърсунь, градъ Грьчьскыи, и</rdg><rdg wit="#likh">съ вои на Корсунь, град гречьский, и</rdg></rdgGrp></app></p></div></body></text></TEI>

@@ -1,88 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>141, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="141"/><div type="block" n="7"><p>
-<app>
-<lem wit="#lem">
-<w n="141,7">мои</w>
-<w n="141,7">умьрлъ,</w>
-<w n="141,7">а</w>
-<w n="141,7">Святопълкъ</w>
-<w n="141,7">сѣдить</w>
-<w n="141,7">Кыевѣ,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="141,7">мои</w>
-<w n="141,7">оуме<lb/>рлъ.</w>
-<w n="141,7">а</w>
-<w n="141,7">с҃тополкъ</w>
-<w n="141,7">сѣди</w>
-<w n="141,7">кыевѣ. <lb/></w>
-
-</rdg>
-
-<rdg wit="#rad">
-<w n="141,7">мої.</w>
-<w n="141,7">оумре.</w>
-<w n="141,7">а</w>
-<w n="141,7">с҃тополкъ</w>
-<w n="141,7">седить</w>
-<w n="141,7">в</w>
-<w n="141,7">киеве.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="141,7">мои</w>
-<w n="141,7">оумре.</w>
-<w n="141,7">а</w>
-<w n="141,7">ст҃ополкь</w>
-<w n="141,7">сиди<lb/>тъ</w>
-<w n="141,7">в</w>
-<w n="141,7">кїеве</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="141,7">мои</w>
-<w n="141,7">оумерлъ.</w>
-<w n="141,7">а</w>
-<w n="141,7">ст҃ополкъ.</w>
-<w n="141,7">сѣ<lb/>дить</w>
-<w n="141,7">в</w>
-<w n="141,7">кыевѣ.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="141,7">мои</w>
-<w n="141,7">оумерлъ.</w>
-<w n="141,7">а</w>
-<w n="141,7">с҃то<lb/>полкь</w>
-<w n="141,7">сѣди<hi rend="sup">т</hi></w>
-<w n="141,7">въ</w>
-<w n="141,7">кыевѣ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="141,7">мой</w>
-<w n="141,7">умерлъ,</w>
-<w n="141,7">а</w>
-<w n="141,7">Святополкъ</w>
-<w n="141,7">седить</w>
-<w n="141,7">Кыевѣ,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="141,7">мои</w>
-<w n="141,7">умьрлъ,</w>
-<w n="141,7">а</w>
-<w n="141,7">Святопълкъ</w>
-<w n="141,7">сѣдить</w>
-<w n="141,7">Кыевѣ,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="141,7">мой</w>
-<w n="141,7">умерлъ,</w>
-<w n="141,7">а</w>
-<w n="141,7">Святополкъ</w>
-<w n="141,7">седить</w>
-<w n="141,7">Кыевѣ,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>141, 7</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="141"/><div type="block" n="7"><p><app><lem wit="#lem">
+            мои умьрлъ, а Святопълкъ сѣдить Кыевѣ,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">мои оуме<lb/>рлъ. а с҃тополкъ сѣди кыевѣ. <lb/></rdg>
+            <rdg wit="#rad">мої.  оумре. а с҃тополкъ седить в киеве.</rdg>
+            <rdg wit="#aka">мои оумре. а ст҃ополкь сиди<lb/>тъ в кїеве</rdg>
+            <rdg wit="#ipa">мои оумерлъ. а ст҃ополкъ. сѣ<lb/>дить в кыевѣ.</rdg>
+            <rdg wit="#xle">мои оумерлъ. а с҃то<lb/>полкь сѣди<hi rend="sup">т</hi> въ кыевѣ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">мой умерлъ, а Святополкъ седить Кыевѣ,</rdg><rdg wit="#shakh">мои умьрлъ, а Святопълкъ сѣдить Кыевѣ,</rdg><rdg wit="#likh">мой умерлъ, а Святополкъ седить Кыевѣ,</rdg></rdgGrp></app></p></div></body></text></TEI>

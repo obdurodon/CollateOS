@@ -1,103 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>26, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="26"/><div type="block" n="17"><p>
-<app>
-<lem wit="#lem">
-<w n="26,17">рѣчи</w>
-<w n="26,17">вься</w>
-<w n="26,17">Словѣньскыхъ</w>
-<w n="26,17">кънязь.</w>
-<w n="26,17">И</w>
-<w n="26,17">рѣша</w>
-<w n="26,17">философи:</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="26,17">рѣчи</w>
-<w n="26,17">всѧ</w>
-<w n="26,17">словѣньскихъ <lb/></w>
-
-<w n="26,17">кнѧзь.</w>
-<w n="26,17">и</w>
-<w n="26,17">рѣша</w>
-<w n="26,17">философи</w>
-</rdg>
-
-<rdg wit="#tro">
-<w n="26,17">рѣчи</w>
-<w n="26,17">вся</w>
-<w n="26,17">словѣньскыхъ</w>
-<w n="26,17">князь</w>
-<w n="26,17">и</w>
-<w n="26,17">рѣша</w>
-<w n="26,17">философы</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="26,17">рѣ<hi rend="sup">ч</hi></w>
-<w n="26,17">словеньски<hi rend="sup">х</hi></w>
-<w n="26,17">кнзь.</w>
-<w n="26,17">и</w>
-<w n="26,17">рѣша</w>
-<w n="26,17">филосоѳи. <lb/></w>
-
-</rdg>
-
-<rdg wit="#aka">
-<w n="26,17">рѣчь</w>
-<w n="26,17">сло<lb/>вѣньскихъ</w>
-<w n="26,17">кн҃зь.</w>
-<w n="26,17">и</w>
-<w n="26,17">рѣша</w>
-<w n="26,17">философи.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="26,17">рѣчи</w>
-<w n="26,17">всѧ</w>
-<w n="26,17">словень<lb/>скыхъ</w>
-<w n="26,17">кнѧзь.</w>
-<w n="26,17">и</w>
-<w n="26,17">ркош<hi rend="sup">а</hi><lb/></w>
-<w n="26,17">философы.</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="26,17">рѣчи</w>
-<w n="26,17">всѧ</w>
-<w n="26,17">слѡвенскы<hi rend="sup">х</hi></w>
-<w n="26,17">кнѧѕь,</w>
-<w n="26,17">и <lb/></w>
-
-<w n="26,17">рекоша</w>
-<w n="26,17">филѡсофи.</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="26,17">рѣчи</w>
-<w n="26,17">вся</w>
-<w n="26,17">Словѣньскихъ</w>
-<w n="26,17">князь.</w>
-<w n="26,17">И</w>
-<w n="26,17">рѣша</w>
-<w n="26,17">философи:</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="26,17">рѣчи</w>
-<w n="26,17">вься</w>
-<w n="26,17">Словѣньскыхъ</w>
-<w n="26,17">кънязь.</w>
-<w n="26,17">И</w>
-<w n="26,17">рѣша</w>
-<w n="26,17">философи:</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="26,17">рѣчи</w>
-<w n="26,17">вся</w>
-<w n="26,17">словѣньскихъ</w>
-<w n="26,17">князь.</w>
-<w n="26,17">И</w>
-<w n="26,17">рѣша</w>
-<w n="26,17">философи:</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>26, 17</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="26"/><div type="block" n="17"><p><app><lem wit="#lem">
+            рѣчи вься Словѣньскыхъ кънязь. И рѣша философи:
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">рѣчи всѧ словѣньскихъ <lb/> кнѧзь. и рѣша философи</rdg>
+            <rdg wit="#tro">рѣчи вся словѣньскыхъ князь и рѣша философы</rdg>
+            <rdg wit="#rad">рѣ<hi rend="sup">ч</hi> словеньски<hi rend="sup">х</hi> кнзь. и рѣша филосоѳи. <lb/></rdg>
+            <rdg wit="#aka">рѣчь сло<lb/>вѣньскихъ кн҃зь. и рѣша философи.</rdg>
+            <rdg wit="#ipa">рѣчи всѧ словень<lb/>скыхъ кнѧзь. и ркош<hi rend="sup">а</hi>
+                <lb/> философы.</rdg>
+            <rdg wit="#xle">рѣчи всѧ слѡвенскы<hi rend="sup">х</hi> кнѧѕь, и <lb/> рекоша филѡсофи.</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">рѣчи вся Словѣньскихъ князь. И рѣша философи:</rdg><rdg wit="#shakh">рѣчи вься Словѣньскыхъ кънязь. И рѣша философи:</rdg><rdg wit="#likh">рѣчи вся словѣньскихъ князь. И рѣша философи:</rdg></rdgGrp></app></p></div></body></text></TEI>

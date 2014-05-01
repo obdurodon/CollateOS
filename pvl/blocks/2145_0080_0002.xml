@@ -1,113 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>80, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="80"/><div type="block" n="2"><p>
-<app>
-<lem wit="#lem">
-<w n="80,2">Отъ</w>
-<w n="80,2">неяже</w>
-<w n="80,2">роди 4</w>
-
-<w n="80,2">сыны:</w>
-<w n="80,2">Изяслава,</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="80,2">ѿ</w>
-<w n="80,2">неꙗже</w>
-<w n="80,2">роди</w>
-<w n="80,2">.д҃.</w>
-<w n="80,2">с҃ны. <lb/></w>
-
-<w n="80,2">изеслава.</w>
-</rdg>
-
-<rdg wit="#rad">
-<w n="80,2">ѿ</w>
-<w n="80,2">неꙗ<hi rend="sup">ж</hi></w>
-<w n="80,2">роди</w>
-<w n="80,2">.д҃</w>
-<w n="80,2">с҃ны.</w>
-<w n="80,2">изѧ<lb/>слава.</w>
-</rdg>
-
-<rdg wit="#aka">
-<w n="80,2">ѿ</w>
-<w n="80,2">неꙗже</w>
-<w n="80,2">ро<lb/>ди</w>
-<w n="80,2">.д҃.</w>
-<w n="80,2">с҃ны</w>
-<w n="80,2">изѧслава.</w>
-</rdg>
-
-<rdg wit="#ipa">
-<w n="80,2">ѿ</w>
-<w n="80,2">неꙗже</w>
-<w n="80,2">роди</w>
-<w n="80,2">.д҃.</w>
-<w n="80,2">сы<lb/>ны.</w>
-<w n="80,2">изеслава</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="80,2">ѿ</w>
-<w n="80,2">неѧже</w>
-<w n="80,2">р<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi></w>
-<w n="80,2">.д҃</w>
-<w n="80,2">с҃ны,</w>
-<w n="80,2">изѧслава. <lb/></w>
-
-</rdg>
-
-<rdg wit="#kom">
-<w n="80,2">от</w>
-<w n="80,2">неꙗже</w>
-<w n="80,2">родишасꙗ 4</w>
-
-<w n="80,2">сыны</w>
-<w n="80,2">изꙗслава</w>
-</rdg>
-
-<rdg wit="#nak">
-<w n="80,2">от</w>
-<w n="80,2">неꙗже</w>
-<w n="80,2">родисꙗ 4</w>
-
-<w n="80,2">сыны</w>
-<w n="80,2">изꙗслава</w>
-</rdg>
-
-<rdg wit="#tol">
-<w n="80,2">от</w>
-<w n="80,2">неꙗже</w>
-<w n="80,2">родисꙗ</w>
-<w n="80,2">четыре</w>
-<w n="80,2">сыны</w>
-<w n="80,2">изꙗслава</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="80,2">отъ</w>
-<w n="80,2">неяже</w>
-<w n="80,2">роди 4</w>
-
-<w n="80,2">сыны:</w>
-<w n="80,2">Изеслава,</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="80,2">отъ</w>
-<w n="80,2">неяже</w>
-<w n="80,2">роди 4</w>
-
-<w n="80,2">сыны:</w>
-<w n="80,2">Изяслава,</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="80,2">от</w>
-<w n="80,2">нея</w>
-<w n="80,2">же</w>
-<w n="80,2">роди 4</w>
-
-<w n="80,2">сыны:</w>
-<w n="80,2">Изеслава,</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>80, 2</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="80"/><div type="block" n="2"><p><app><lem wit="#lem">
+            Отъ неяже роди 4 сыны: Изяслава,
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">ѿ неꙗже роди .д҃. с҃ны. <lb/> изеслава.</rdg>
+            <rdg wit="#rad">ѿ неꙗ<hi rend="sup">ж</hi> роди .д҃ с҃ны. изѧ<lb/>слава.</rdg>
+            <rdg wit="#aka">ѿ неꙗже ро<lb/>ди .д҃. с҃ны изѧслава.</rdg>
+            <rdg wit="#ipa">ѿ неꙗже роди .д҃. сы<lb/>ны. изеслава</rdg>
+            <rdg wit="#xle">ѿ неѧже р<hi rend="sup">д</hi>ѡ<hi rend="sup">и</hi> .д҃ с҃ны, изѧслава. <lb/></rdg>
+            <rdg wit="#kom">от неꙗже родишасꙗ 4 сыны изꙗслава</rdg>
+            <rdg wit="#nak">от неꙗже родисꙗ 4 сыны изꙗслава</rdg>
+            <rdg wit="#tol">от неꙗже родисꙗ четыре сыны изꙗслава</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">отъ неяже роди 4 сыны: Изеслава,</rdg><rdg wit="#shakh">отъ неяже роди 4 сыны: Изяслава,</rdg><rdg wit="#likh">от нея же роди 4 сыны: Изеслава,</rdg></rdgGrp></app></p></div></body></text></TEI>

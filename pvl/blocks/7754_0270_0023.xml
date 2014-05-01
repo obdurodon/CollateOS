@@ -1,87 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="270"/><div type="block" n="23"><p>
-<app>
-<lem wit="#lem">
-<w n="270,23">бѣ</w>
-<w n="270,23">отъ</w>
-<w n="270,23">наложьницѣ</w>
-<w n="270,23">ему,</w>
-<w n="270,23">а</w>
-<w n="270,23">Ярослава</w>
-<w n="270,23">посъла</w>
-<w n="270,23">въ</w>
-</lem>
-
-<rdg wit="#lav">
-<w n="270,23">бѣ</w>
-<w n="270,23">ѥму</w>
-<w n="270,23">ѿ</w>
-<w n="270,23">на<lb/>ложницѣ·</w>
-<w n="270,23">а</w>
-<w n="270,23">ꙗрослава</w>
-<w n="270,23">посла <lb/></w>
-
-<w n="270,23">в</w>
-</rdg>
-
-<rdg wit="#rad">
-</rdg>
-
-<rdg wit="#aka">
-</rdg>
-
-<rdg wit="#ipa">
-<w n="270,23">бѣ</w>
-<w n="270,23">ѿ</w>
-<w n="270,23">наложницѣ</w>
-<w n="270,23">ему· <lb/></w>
-
-<w n="270,23">а</w>
-<w n="270,23">ꙗрослава</w>
-<w n="270,23">посла</w>
-</rdg>
-
-<rdg wit="#xle">
-<w n="270,23">бѣ·̏</w>
-<w n="270,23">ѿ</w>
-<w n="270,23">наложници</w>
-<w n="270,23">своеѧ,</w>
-<w n="270,23">а</w>
-<w n="270,23">ярослава</w>
-<w n="270,23">посла <lb/></w>
-
-<w n="270,23">въ</w>
-</rdg>
-
-<rdg wit="#bych">
-<w n="270,23">бѣ</w>
-<w n="270,23">ему</w>
-<w n="270,23">отъ</w>
-<w n="270,23">наложницѣ,</w>
-<w n="270,23">а</w>
-<w n="270,23">Ярослава</w>
-<w n="270,23">посла</w>
-<w n="270,23">в</w>
-</rdg>
-
-<rdg wit="#shakh">
-<w n="270,23">бѣ</w>
-<w n="270,23">ему</w>
-<w n="270,23">отъ</w>
-<w n="270,23">наложьницѣ,</w>
-<w n="270,23">а</w>
-<w n="270,23">Ярослава</w>
-<w n="270,23">посъла</w>
-<w n="270,23">въ</w>
-</rdg>
-
-<rdg wit="#likh">
-<w n="270,23">бѣ</w>
-<w n="270,23">ему</w>
-<w n="270,23">от</w>
-<w n="270,23">наложницѣ,</w>
-<w n="270,23">а</w>
-<w n="270,23">Ярослава</w>
-<w n="270,23">посла</w>
-<w n="270,23">в</w>
-</rdg>
-</app></p></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"--><!--xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"--><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>270, 23</title></titleStmt><publicationStmt><p>Unpublished interim file for collation</p></publicationStmt><sourceDesc><p>Extracted from pvl-tei.xml</p></sourceDesc></fileDesc></teiHeader><text><body><milestone unit="column" n="270"/><div type="block" n="23"><p><app><lem wit="#lem">
+            бѣ отъ наложьницѣ ему, а Ярослава посъла въ
+        </lem><rdgGrp type="manuscripts">
+            <rdg wit="#lav">бѣ ѥму ѿ на<lb/>ложницѣ· а ꙗрослава посла <lb/> в</rdg>
+            <rdg wit="#rad">
+                <gap/>
+            </rdg>
+            <rdg wit="#aka">
+                <gap/>
+            </rdg>
+            <rdg wit="#ipa">бѣ ѿ наложницѣ ему· <lb/> а ꙗрослава посла</rdg>
+            <rdg wit="#xle">бѣ·̏ ѿ наложници своеѧ, а ꙗрослава посла <lb/> въ</rdg>
+        </rdgGrp><rdgGrp type="editions"><rdg wit="#bych">бѣ ему отъ наложницѣ, а Ярослава посла в</rdg><rdg wit="#shakh">бѣ ему отъ наложьницѣ, а Ярослава посъла въ</rdg><rdg wit="#likh">бѣ ему от наложницѣ, а Ярослава посла в</rdg></rdgGrp></app></p></div></body></text></TEI>
