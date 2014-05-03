@@ -50,4 +50,5 @@ else:
         checkStatus(p)
         print 'Passing command: python jsontoxml.py -i ' + os.path.abspath(Out)
         subprocess.Popen(['python', 'jsontoxml.py', '-i', os.path.abspath(Out)]).wait()
+subprocess.Popen(['python', 'Postprocessing.py', '-i', os.path.join(os.path.abspath(In), 'collatexoutput')]).wait()
 print 'Took', datetime.datetime.now()-startTimeWP, 'to execute wrapper.py'

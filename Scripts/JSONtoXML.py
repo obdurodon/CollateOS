@@ -3,7 +3,7 @@ import datetime, codecs, json, os, Preprocessing, sys, xml.dom.minidom as minido
 startTimeJ2X = datetime.datetime.now()
 os.chdir(os.path.abspath(os.path.dirname(__file__)))
 args = sys.argv
-assert len(sys.argv) == 3, "Expected exactly 2 arguments!\n\n-i followed by input directory path"
+assert len(args) == 3, "Expected exactly 2 arguments!\n\n-i followed by input directory path"
 assert '-i' in args and os.path.exists(args[args.index('-i')+1]), "Invalid input directory"
 
 def normalChars(l):
@@ -24,8 +24,12 @@ for afile in jsons:
         doc = minidom.Document()
         witnessElement = doc.createElement('witnesses')
         doc.appendChild(witnessElement)
+        blockc = 0
         for block in data['table']:
+            blockc += 1
             blockElement = doc.createElement('block')
+            blockElement.setAttributeNode(doc.createAttribute('n'))
+            blockElement.setAttribute('n', str(blockc-1))
             number = 0
             for token in block:
                 tokenElement = doc.createElement('token')
