@@ -56,16 +56,22 @@ for afile in xmls:
             for tokenNode in row:
                 if isBlank(tokenNode):
                     temp.append(tokenNode)
+                    if int(tokenNode.parentNode.getAttribute('n')) == len(row)-1:
+                        temp.append(tokenNode)
+                        fin.append(temp)
+                        temp = []
                 elif temp:
                     fin.append(temp)
                     temp = []
             column2lev = {}
             for i in fin:
+                nothingBefore = False
                 column2words = {}
                 for ind, j in enumerate(i):
                     if ind == 0:
                         PCID = int(j.parentNode.getAttribute('n'))-1
                         if PCID == -1:
+                            nothingBefore = True
                             continue
                         previousColumn = [block for block in blocks if int(block.getAttribute('n')) == PCID][0].getElementsByTagName('token')
                         previousWord = [tok for tok in previousColumn if tok.getAttribute('witness') == wit][0]
@@ -78,7 +84,7 @@ for afile in xmls:
                     currentToks = j.parentNode.getElementsByTagName('token')
                     currentWords = set([w.getAttribute('n') for w in currentToks if w.getAttribute('n') != ''])
                     column2words[int(j.parentNode.getAttribute('n'))] = currentWords
-                if column2words:
+                if column2words and not nothingBefore:
                     for k in column2words:
                         column2lev[k] = min([levenshtein(previousWord.getAttribute('n'), w) for w in column2words[k]])
                     smallestEditDistance = min(column2lev.values())
@@ -89,6 +95,7 @@ for afile in xmls:
                     for block in blocks:
                         if int(block.getAttribute('n')) == To:
                             tokenList = block.getElementsByTagName('token')
+                            
                             moving = [tok for tok in tokenList if tok.getAttribute('witness') == From.getAttribute('witness')][0]
                             block.replaceChild(From.cloneNode(True), moving)
                             for child in From.childNodes:
