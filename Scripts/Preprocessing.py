@@ -3,7 +3,7 @@
 #This script is called by others, not ran by itself. Mainly calling collate function, which uses the rest.
 
 
-import re, xml.dom.minidom as minidom
+import re, sys, xml.dom.minidom as minidom
 
 numberSplitter = re.compile('\d+|\D+')
 
@@ -135,6 +135,17 @@ def parseName(f): #generate u values from filename
     f = f[:-distance].split('_')
     return ','.join([getNumber(i) for i in f[1:]])
 
+def Round(n):
+    return str("{0:.2f}".format(n))
+
+def updateProgressBar(scriptName, percentage):
+    width = 20
+    done = width * int(percentage)/100
+    splitUp = scriptName.split('.')
+    if len(splitUp[0]) > 10:
+        scriptName = splitUp[0][:10] + '~.py'
+    sys.stdout.write('\r' + scriptName + '\t[' + done * '*' + (width-done) * ' ' + ']\t' + Round(percentage) + '%')
+    
 
 def conflate(w): # main function that calls all of the above. Currently under reconstruction.
     """Execute conflation rules in a given order"""

@@ -1,4 +1,4 @@
-import datetime, os, shutil, sys
+import datetime, os, Preprocessing, shutil, sys
 startTimeRC = datetime.datetime.now()
 os.chdir(os.path.abspath(os.path.dirname(__file__)))
 args = sys.argv
@@ -18,14 +18,12 @@ if os.path.exists(os.path.join(path, 'collatexOutput')):
 if not overwrite:
     os.mkdir(os.path.join(path, 'collatexOutput'))
 
-    
+print
 for afile in jsons:
     if overwrite:
         outpath = os.path.join(path, afile)
     else:
         outpath = os.path.join(path, 'collatexOutput', afile)
     c += 1
-    print 'runCollatex.py: Processing', afile, 'file', c, 'out of', l
+    Preprocessing.updateProgressBar('runCollatex.py', float(100)*c/l)
     os.popen(os.path.join('.', 'collatex') + ' -t  -o ' + outpath + ' ' + os.path.join(path,afile))
-        
-print 'Took', datetime.datetime.now()-startTimeRC, 'to execute runCollatex.py'

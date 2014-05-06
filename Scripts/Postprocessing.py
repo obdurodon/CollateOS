@@ -1,4 +1,4 @@
-import datetime, codecs, os, shutil, sys, xml.dom.minidom as minidom
+import datetime, codecs, os, Preprocessing, shutil, sys, xml.dom.minidom as minidom
 
 startTimePP = datetime.datetime.now()
 os.chdir(os.path.abspath(os.path.dirname(__file__)))
@@ -35,15 +35,16 @@ if os.path.exists('Postprocessed'):
     shutil.rmtree('Postprocessed')
 os.mkdir('Postprocessed')
 
+print
 for afile in xmls:
     c += 1
-    print 'Preprocssing.py: Processing', afile, 'file', c, 'out of', x
+    Preprocessing.updateProgressBar('Postprocessing.py', float(100)*c/x)
     doc = minidom.parse(os.path.join(path, afile))
     blocks = doc.getElementsByTagName('block')
     tokens = doc.getElementsByTagName('token')
     blanks = [token for token in tokens if token.getAttribute('n') == '']
     if blanks:
-        blocks = doc.getElementsByTagName('block')
+        #generate dictionary of witness to its token nodes for each row
         column1Toks = blocks[0].getElementsByTagName('token')
         wit2toks = {}
         for token in column1Toks:
@@ -51,13 +52,13 @@ for afile in xmls:
             row = [token for token in doc.getElementsByTagName('token') if token.nodeType == 1 and token.getAttribute('witness') == wit]
             wit2toks[wit] = row
         for (wit, row) in wit2toks.items():
+            #generate list of lists of sequences of empty tokens
             fin = []
             temp = []
             for tokenNode in row:
                 if isBlank(tokenNode):
                     temp.append(tokenNode)
                     if int(tokenNode.parentNode.getAttribute('n')) == len(row)-1:
-                        temp.append(tokenNode)
                         fin.append(temp)
                         temp = []
                 elif temp:
@@ -67,16 +68,16 @@ for afile in xmls:
             for i in fin:
                 nothingBefore = False
                 column2words = {}
-                for ind, j in enumerate(i):
+                for ind, j in enumerate(i): 
                     if ind == 0:
+                        #dealing with the first blank in a sequence of N
                         PCID = int(j.parentNode.getAttribute('n'))-1
                         if PCID == -1:
-                            nothingBefore = True
+                            nothingBefore = True #no previous column, aka we're in the first one
                             continue
                         previousColumn = [block for block in blocks if int(block.getAttribute('n')) == PCID][0].getElementsByTagName('token')
-                        previousWord = [tok for tok in previousColumn if tok.getAttribute('witness') == wit][0]
-                        From = previousWord
-                        previousWords = set([w.getAttribute('n') for w in previousColumn if w.getAttribute('n') != previousWord.getAttribute('n')])
+                        previousWordNode = [tok for tok in previousColumn if tok.getAttribute('witness') == wit][0]
+                        previousWords = set([w.getAttribute('n') for w in previousColumn if w.getAttribute('n') != previousWordNode.getAttribute('n')])
                         if previousWords:
                             column2words[PCID] = previousWords
                         else:
@@ -86,22 +87,21 @@ for afile in xmls:
                     column2words[int(j.parentNode.getAttribute('n'))] = currentWords
                 if column2words and not nothingBefore:
                     for k in column2words:
-                        column2lev[k] = min([levenshtein(previousWord.getAttribute('n'), w) for w in column2words[k]])
+                        column2lev[k] = min([levenshtein(previousWordNode.getAttribute('n'), w) for w in column2words[k]])
                     smallestEditDistance = min(column2lev.values())
                     for l in column2lev:
                         if column2lev[l] == smallestEditDistance:
-                            To = l
+                            moveTo = l
                             break
                     for block in blocks:
-                        if int(block.getAttribute('n')) == To:
+                        if int(block.getAttribute('n')) == moveTo:
                             tokenList = block.getElementsByTagName('token')
-                            
-                            moving = [tok for tok in tokenList if tok.getAttribute('witness') == From.getAttribute('witness')][0]
-                            block.replaceChild(From.cloneNode(True), moving)
-                            for child in From.childNodes:
-                                From.removeChild(child)
-                            From.setAttribute('n', '')
+                            moving = [tok for tok in tokenList if tok.getAttribute('witness') == previousWordNode.getAttribute('witness')][0]
+                            #effectively duplicate the node being moved.
+                            block.replaceChild(previousWordNode.cloneNode(True), moving) 
+                            #iteratively delete all of old node's children (text and/or elements)
+                            for child in previousWordNode.childNodes:
+                                previousWordNode.removeChild(child)
+                            #set its @n to blank. Technically, no reason to do this, but in case we do more postprocessing, will be necessary.
+                            previousWordNode.setAttribute('n', '')
     doc.writexml(codecs.open(os.path.join(path, 'Postprocessed', afile), 'w', 'utf-8'))
-
-
-print 'Took', datetime.datetime.now()-startTimePP, 'to execute Postprocessing.py'

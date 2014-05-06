@@ -15,9 +15,10 @@ os.chdir(path)
 c = 0
 l = len(jsons)
 couldnt = []
+print
 for afile in jsons:
     c += 1
-    print 'JSONToXML.py: Processing', afile, 'file', c, 'out of', l
+    Preprocessing.updateProgressBar('JSONtoXML.py', float(100)*c/l)
     data = json.loads(open(afile, 'r').read())
     nameToNumber = {number:name for number, name in enumerate(data['witnesses'])}
     with codecs.open(afile[:-4] + 'xml','w') as out:
@@ -52,4 +53,3 @@ for afile in jsons:
             witnessElement.appendChild(blockElement)
         for ln in doc.toprettyxml().split('\n'):
             out.write(normalChars(ln).encode('utf-8') + '\n')
-print 'Took', datetime.datetime.now()-startTimeJ2X, 'to execute JSONToXML.py'
