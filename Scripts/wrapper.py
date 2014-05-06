@@ -22,7 +22,7 @@ script = args[1]
 In = os.path.join(curDir, args[args.index('-i')+1])            
 ##print '\nPassing command: python xmltojson.py -i ' + In + '\n'
 x2j = datetime.datetime.now()
-p = subprocess.Popen(['python', 'xmltojson.py', '-i', In]).wait()
+p = subprocess.Popen(['python', 'XMLtoJSON.py', '-i', In]).wait()
 checkStatus(p)
 timeLog.extend('Took ' + str(datetime.datetime.now() - x2j) + ' to execute XMLtoJSON.py\n')
 
@@ -34,7 +34,7 @@ if '-new' in args:
     timeLog.extend('Took ' + str(datetime.datetime.now() - rc) + ' to execute runCollatex.py\n')
 ##    print '\nPassing command: python jsontoxml.py -i ' + os.path.join(os.path.abspath(In), 'collatexoutput') + '\n'
     j2x = datetime.datetime.now()
-    p = subprocess.Popen(['python', 'jsontoxml.py', '-i', os.path.join(os.path.abspath(In), 'collatexoutput')]).wait()
+    p = subprocess.Popen(['python', 'JSONtoXML.py', '-i', os.path.join(os.path.abspath(In), 'collatexoutput')]).wait()
     checkStatus(p)
     timeLog.extend('Took ' + str(datetime.datetime.now() - j2x) + ' to execute JSONtoXML.py\n')
 else:
@@ -44,7 +44,7 @@ else:
     timeLog.extend('Took ' + str(datetime.datetime.now() - rc) + ' to execute runCollatex.py\n')
 ##    print '\nPassing command: python jsontoxml.py -i ' + os.path.abspath(In) + '\n'
     j2x = datetime.datetime.now()
-    p = subprocess.Popen(['python', 'jsontoxml.py', '-i', os.path.abspath(In)]).wait()
+    p = subprocess.Popen(['python', 'JSONtoXML.py', '-i', os.path.abspath(In)]).wait()
     checkStatus(p)
     timeLog.extend('Took ' + str(datetime.datetime.now() - j2x) + ' to execute JSONtoXML.py\n')
 ##print '\nPassing command: python Preprocessing.py -i', os.path.join(os.path.abspath(In), 'collatexoutput') + '\n'
