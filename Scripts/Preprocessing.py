@@ -145,6 +145,7 @@ def updateProgressBar(scriptName, percentage):
     if len(splitUp[0]) > 10:
         scriptName = splitUp[0][:10] + '~.py'
     sys.stdout.write('\r' + scriptName + '\t[' + done * '*' + (width-done) * ' ' + ']\t' + Round(percentage) + '%')
+    sys.stdout.flush()
     
 
 def conflate(w): # main function that calls all of the above. Currently under reconstruction.
