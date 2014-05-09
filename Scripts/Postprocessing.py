@@ -40,12 +40,11 @@ print
 for afile in xmls:
 
     c += 1
-    #Preprocessing.updateProgressBar('Postprocessing.py', float(100)*c/x)
+    Preprocessing.updateProgressBar('Postprocessing.py', float(100)*c/x)
     doc = minidom.parse(os.path.join(path, afile))
     blocks = doc.getElementsByTagName('block')
     tokens = doc.getElementsByTagName('token')
     blanks = [token for token in tokens if token.getAttribute('n') == '']
-    print blanks
     if blanks:
         #generate dictionary of witness to its token nodes for each row
         column1Toks = blocks[0].getElementsByTagName('token')
@@ -54,7 +53,7 @@ for afile in xmls:
             wit = token.getAttribute('witness')
             row = [token for token in doc.getElementsByTagName('token') if token.nodeType == 1 and token.getAttribute('witness') == wit]
             wit2toks[wit] = row
-            for (wit, row) in wit2toks.items():
+        for (wit, row) in wit2toks.items():
             #generate list of lists of sequences of empty tokens
             fin = []
             temp = []
