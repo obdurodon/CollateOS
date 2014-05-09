@@ -54,8 +54,7 @@ for afile in xmls:
             wit = token.getAttribute('witness')
             row = [token for token in doc.getElementsByTagName('token') if token.nodeType == 1 and token.getAttribute('witness') == wit]
             wit2toks[wit] = row
-            print wit, row
-        for (wit, row) in wit2toks.items():
+            for (wit, row) in wit2toks.items():
             #generate list of lists of sequences of empty tokens
             fin = []
             temp = []

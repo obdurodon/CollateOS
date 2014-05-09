@@ -172,6 +172,7 @@ def conflate(w): # main function that calls all of the above. Currently under re
     oneToOne = rules.getElementsByTagName('oneToOne')[0].getElementsByTagName('set')
     generalVowels = vowels.getElementsByTagName('general')[0].getElementsByTagName('vowel')
     specialVowels = vowels.getElementsByTagName('special')[0].getElementsByTagName('vowel')
+    sVowels = [v.firstChild.nodeValue for v in specialVowels]
     wlist = []
     for i in list(splitTagsFromText(w.toxml())):
         if not i.startswith('<'):
@@ -194,6 +195,8 @@ def conflate(w): # main function that calls all of the above. Currently under re
     word = applyRule(word, oneToMany)
     word = applyRule(word, oneToOne)
     if len(word) < 3:
+        if len(word) == 2 and word[1] in sVowels:
+            word = word[0]
         return word
     
 # entirely eliminating vowels in the special category from all words
