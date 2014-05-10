@@ -1,0 +1,16 @@
+Check these:
+211,13: "въ" in Rad is missing leading "в"; check for alignment, which should work on edit distance adjustment because short words should be a priority match
+
+David needs to fix the tokenization of:
+211,13: Ipa is misaligned; "на" is being combined in a single token with the following word 
+29,16: Date is misdivided (fixed)
+Passim: No witness line should end in whitespace (fixed: Lav, Rad, Aka, Ipa, Xle, Bych, Shakh, Likh, Ost)
+
+David will create test directory of problem files
+
+Minas will fix:
+0,1: Superscript "т" is being copied in Lav (independently of the rest of the word)
+29,11: Semion should be an exact match, but "в" in Xle has two possible loci. We should favor the column with the largest number of matches, which in this case is the second one
+
+Minas has fixed:
+12,21: Keep both letters of two-letter words unless the second is a jer
