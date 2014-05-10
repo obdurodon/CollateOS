@@ -12,6 +12,7 @@ xmls = filter(lambda x: str(x.split('.')[len(x.split('.'))-1]) == 'xml' , os.lis
 c = 0
 x = len(xmls)
 def levenshtein(s1, s2):
+    #taken from http://en.wikibooks.org/wiki/Algorithm_Implementation/Strings/Levenshtein_distance#Python
     if len(s1) < len(s2):
         return levenshtein(s2, s1)
     if len(s2) == 0:
@@ -31,14 +32,15 @@ def levenshtein(s1, s2):
 def isBlank(node):
     return node.getAttribute('n') == ''
 
+   
 os.chdir(path)
 if os.path.exists('Postprocessed'):
     shutil.rmtree('Postprocessed')
 os.mkdir('Postprocessed')
 
 print
-for afile in xmls:
 
+for afile in xmls:
     c += 1
     Preprocessing.updateProgressBar('Postprocessing.py', float(100)*c/x)
     doc = minidom.parse(os.path.join(path, afile))
@@ -84,9 +86,10 @@ for afile in xmls:
                             column2words[PCID] = previousWords
                         else:
                             continue
-                    currentToks = j.parentNode.getElementsByTagName('token')
-                    currentWords = set([w.getAttribute('n') for w in currentToks if w.getAttribute('n') != ''])
-                    column2words[int(j.parentNode.getAttribute('n'))] = currentWords
+                    if previousWords:
+                        currentToks = j.parentNode.getElementsByTagName('token')
+                        currentWords = set([w.getAttribute('n') for w in currentToks if w.getAttribute('n') != ''])
+                        column2words[int(j.parentNode.getAttribute('n'))] = currentWords
                 if column2words and not nothingBefore:
                     for k in column2words:
                         column2lev[k] = min([levenshtein(previousWordNode.getAttribute('n'), w) for w in column2words[k]])
@@ -99,8 +102,8 @@ for afile in xmls:
                         if int(block.getAttribute('n')) == moveTo:
                             tokenList = block.getElementsByTagName('token')
                             moving = [tok for tok in tokenList if tok.getAttribute('witness') == previousWordNode.getAttribute('witness')][0]
-                            #effectively duplicate the node being moved.
-                            block.replaceChild(previousWordNode.cloneNode(True), moving) 
+                            #duplicate the node being moved.
+                            block.replaceChild(previousWordNode.cloneNode(True), moving)
                             #iteratively delete all of old node's children (text and/or elements)
                             for child in previousWordNode.childNodes:
                                 previousWordNode.removeChild(child)
