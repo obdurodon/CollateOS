@@ -1,0 +1,130 @@
+<!DOCTYPE html SYSTEM "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>PVL test blocks</title>
+    </head>
+    <body>
+        <h1>Test blocks</h1>
+        <table border="1">
+            <tr>
+                <td>0,1</td>
+                <td>Superscript "t" was erroneously copied into an adjacent empty slot in Lav</td>
+            </tr>
+            <tr>
+                <td>0,3</td>
+                <td>Mistokenized around <code>&lt;sic&gt;</code>. Awaiting fix from david.</td>
+            </tr>
+            <tr>
+                <td>2,1</td>
+                <td>Word division disagreement in edtions, needs to be united (see also 117,17); fix
+                    by adding markup to force two words into one <code>&lt;w&gt;</code>. Assuming all of же in
+                    Lix, find all lower-case words that can precede же, edit manually, and then do
+                    an XPath-constrained find-and-replace. Status: awaiting fix from David. There are 222 such words, plus one blank, most of which
+                    are not candidates for reunion.</td>
+            </tr>
+            <tr>
+                <td>3,1</td>
+                <td>sja erroneously isn't separated from verb in paradosis; fix as editing error in
+                    pvl.xml</td>
+            </tr>
+            <tr>
+                <td>3,5</td>
+                <td>Thracians are one Levenshtein unit away</td>
+            </tr>
+            <tr>
+                <td>3,7</td>
+                <td>sja is separate in paradosis but united in mss. Fix by modifying tokenization
+                    routine to merge sja with preceding word inside single &lt;w&gt; only in
+                    paradosis.</td>
+            </tr>
+            <tr>
+                <td>3,8</td>
+                <td>Wrong ja letter in Tro and Xle. Global replacement in Xle and Ipa already
+                    implemented, Tro should not be fixed, other mss awaiting treatment.</td>
+            </tr>
+            <tr>
+                <td>6,16</td>
+                <td>Silent omission vs lacuna in Tro (compare to print edition). Ask Don. See also
+                    8,3a.</td>
+            </tr>
+            <tr>
+                <td>8,3a</td>
+                <td>Explicit omission. Ask Don. See also 6,16.</td>
+            </tr>
+            <tr>
+                <td>9,2</td>
+                <td>short matches; mytvu ~ movenie</td>
+            </tr>
+            <tr>
+                <td>9,7</td>
+                <td>transposition (fix in postprocessing?)</td>
+            </tr>
+            <tr>
+                <td>9,9</td>
+                <td>CollateX misaligns a perfect match</td>
+            </tr>
+            <tr>
+                <td>9,12</td>
+                <td>need to shift by two columns</td>
+            </tr>
+            <tr>
+                <td>9,19</td>
+                <td>mismatches synonyms that share no characters (fix in eventual thesaurus)</td>
+            </tr>
+            <tr>
+                <td>9,23</td>
+                <td>need to move several words in Tro to the left</td>
+            </tr>
+            <tr>
+                <td>10,6</td>
+                <td>"tsar" and "tsEsar" should be aligned (fix in eventual thesaurus)</td>
+            </tr>
+            <tr>
+                <td>12,21</td>
+                <td>Keep both letters of a two letter unless the second is a jer, in which case it
+                    should be deleted</td>
+            </tr>
+            <tr>
+                <td>17,25</td>
+                <td>Arabic digits not tokenized as their own words. Fix by correcting XSLT
+                    tokenization (error isn't present in $second). Awaiting fix by David</td>
+            </tr>
+            <tr>
+                <td>19,14</td>
+                <td>iz- ~ vy- (fix in thesaurus?)</td>
+            </tr>
+            <tr>
+                <td>19,24</td>
+                <td>Tro page number shows (tokenization error in XSLT?)</td>
+            </tr>
+            <tr>
+                <td>29,11</td>
+                <td>"v" in Xle has two possible loci; should to into the column with the largest
+                    number of matches (in this case, the second one)</td>
+            </tr>
+            <tr>
+                <td>96,19</td>
+                <td>Curly quotes caused CollateX to fail silently. Needs fix by Minas (done)</td>
+            </tr>
+            <tr>
+                <td>178,11</td>
+                <td>Repeated phrases (tokenization error in input file in Ipa)</td>
+            </tr>
+            <tr>
+                <td>179,24</td>
+                <td>Word in wrong block (editing error; fixed by David)</td>
+            </tr>
+            <tr>
+                <td>211,13</td>
+                <td>"na" in Ipa is being combined into a single token with the following word</td>
+            </tr>
+            <tr>
+                <td>227,17</td>
+                <td>discrepancy in word division in editions, needs to be split (see also 2,1); fix
+                    by adding markup to change "firstsecond" to "first[-] second"; find examples by
+                    searching for word count mismatches within editions (most of which are not
+                    errors of this type)</td>
+            </tr>
+        </table>
+    </body>
+</html>
