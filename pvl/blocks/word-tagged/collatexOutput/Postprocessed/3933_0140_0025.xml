@@ -14,12 +14,12 @@
 		<token n="облс" u="140,25." witness="#aka">ѡболстивь</token>
 		<token n="облс" u="140,25." witness="#bych">обльстивъ</token>
 		<token n="облс" u="140,25." witness="#ipa">ѡблѣсти</token>
-		<token n="" u="140,25." witness="#lav"/>
+		<token n="облс" u="140,25." witness="#lav">ѡбльстивъ</token>
 		<token n="облс" u="140,25." witness="#lem">обльсти</token>
 		<token n="облс" u="140,25." witness="#likh">обльстивъ</token>
 		<token n="облс" u="140,25." witness="#rad">ѡбольстивъ</token>
 		<token n="облс" u="140,25." witness="#shakh">обльстивъ</token>
-		<token n="" u="140,25." witness="#xle"/>
+		<token n="облс" u="140,25." witness="#xle">ѡблъсти</token>
 	</block>
 	<block n="2">
 		<token n="ѧ" u="140,25." witness="#aka">ѧ <lb/></token>
@@ -29,28 +29,28 @@
 		<token n="ѧ" u="140,25." witness="#lem">я</token>
 		<token n="ѧ" u="140,25." witness="#likh">я</token>
 		<token n="ѧ" u="140,25." witness="#rad">ꙗ</token>
-		<token n="тж" u="140,25." witness="#shakh">туже</token>
+		<token n="ѧ" u="140,25." witness="#shakh">я,</token>
 		<token n="" u="140,25." witness="#xle"/>
 	</block>
 	<block n="3">
 		<token n="" u="140,25." witness="#aka"/>
 		<token n="" u="140,25." witness="#bych"/>
 		<token n="сц" u="140,25." witness="#ipa">сице.</token>
-		<token n="и" u="140,25." witness="#lav">и</token>
-		<token n="" u="140,25." witness="#lem"/>
-		<token n="" u="140,25." witness="#likh"/>
-		<token n="" u="140,25." witness="#rad"/>
-		<token n="" u="140,25." witness="#shakh"/>
-		<token n="облс" u="140,25." witness="#xle">ѡблъсти</token>
-	</block>
-	<block n="4">
-		<token n="" u="140,25." witness="#aka"/>
-		<token n="" u="140,25." witness="#bych"/>
-		<token n="и" u="140,25." witness="#ipa"><milestone n="start" place="margin" unit="add"/>и</token>
 		<token n="" u="140,25." witness="#lav"/>
 		<token n="" u="140,25." witness="#lem"/>
 		<token n="" u="140,25." witness="#likh"/>
 		<token n="" u="140,25." witness="#rad"/>
+		<token n="" u="140,25." witness="#shakh"/>
+		<token n="" u="140,25." witness="#xle"/>
+	</block>
+	<block n="4">
+		<token n="и" u="140,25." witness="#aka">и</token>
+		<token n="" u="140,25." witness="#bych"/>
+		<token n="и" u="140,25." witness="#ipa"><milestone n="start" place="margin" unit="add"/>и</token>
+		<token n="и" u="140,25." witness="#lav">и</token>
+		<token n="и" u="140,25." witness="#lem">и</token>
+		<token n="" u="140,25." witness="#likh"/>
+		<token n="и" u="140,25." witness="#rad">и</token>
 		<token n="" u="140,25." witness="#shakh"/>
 		<token n="" u="140,25." witness="#xle"/>
 	</block>
@@ -77,13 +77,13 @@
 		<token n="их" u="140,25." witness="#xle">и<hi rend="sup">х</hi></token>
 	</block>
 	<block n="7">
-		<token n="и" u="140,25." witness="#aka">и</token>
+		<token n="" u="140,25." witness="#aka"/>
 		<token n="" u="140,25." witness="#bych"/>
 		<token n="҂а" u="140,25." witness="#ipa">҂а҃<milestone n="end" unit="add"/>. <lb/></token>
 		<token n="" u="140,25." witness="#lav"/>
-		<token n="тж" u="140,25." witness="#lem">туже</token>
+		<token n="" u="140,25." witness="#lem"/>
 		<token n="" u="140,25." witness="#likh"/>
-		<token n="тж" u="140,25." witness="#rad">тѹ<hi rend="sup">ж</hi> <lb/></token>
+		<token n="" u="140,25." witness="#rad"/>
 		<token n="" u="140,25." witness="#shakh"/>
 		<token n="и" u="140,25." witness="#xle">и</token>
 	</block>
@@ -103,10 +103,10 @@
 		<token n="в" u="140,25." witness="#bych">В</token>
 		<token n="в" u="140,25." witness="#ipa">в</token>
 		<token n="в" u="140,25." witness="#lav">в</token>
-		<token n="вь" u="140,25." witness="#lem">Въ</token>
+		<token n="в" u="140,25." witness="#lem">Въ</token>
 		<token n="в" u="140,25." witness="#likh">В</token>
 		<token n="в" u="140,25." witness="#rad">в</token>
-		<token n="вь" u="140,25." witness="#shakh">Въ</token>
+		<token n="в" u="140,25." witness="#shakh">Въ</token>
 		<token n="в" u="140,25." witness="#xle">в</token>
 	</block>
 	<block n="10">
@@ -114,10 +114,10 @@
 		<token n="ту" u="140,25." witness="#bych">ту</token>
 		<token n="ту" u="140,25." witness="#ipa">ту</token>
 		<token n="ту" u="140,25." witness="#lav">ту</token>
-		<token n="" u="140,25." witness="#lem"/>
+		<token n="тж" u="140,25." witness="#lem">туже</token>
 		<token n="ту" u="140,25." witness="#likh">ту</token>
-		<token n="" u="140,25." witness="#rad"><hi rend="sup">ж</hi><lb/></token>
-		<token n="" u="140,25." witness="#shakh"/>
+		<token n="тж" u="140,25." witness="#rad">тѹ<hi rend="sup">ж</hi> <lb/></token>
+		<token n="тж" u="140,25." witness="#shakh">туже</token>
 		<token n="тж" u="140,25." witness="#xle">тоу<hi rend="sup">ж</hi></token>
 	</block>
 	<block n="11">

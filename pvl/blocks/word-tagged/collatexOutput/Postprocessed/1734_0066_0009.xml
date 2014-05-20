@@ -5,12 +5,12 @@
 		<token n="к" u="66,9." witness="#ipa">к</token>
 		<token n="к" u="66,9." witness="#kom">к</token>
 		<token n="к" u="66,9." witness="#lav">к</token>
-		<token n="кь" u="66,9." witness="#lem">къ</token>
+		<token n="к" u="66,9." witness="#lem">къ</token>
 		<token n="к" u="66,9." witness="#likh">к</token>
 		<token n="к" u="66,9." witness="#rad">к</token>
-		<token n="кь" u="66,9." witness="#shakh">къ</token>
+		<token n="к" u="66,9." witness="#shakh">къ</token>
 		<token n="к" u="66,9." witness="#tol">к</token>
-		<token n="кь" u="66,9." witness="#xle">къ <lb/></token>
+		<token n="к" u="66,9." witness="#xle">къ <lb/></token>
 	</block>
 	<block n="1">
 		<token n="рц" u="66,9." witness="#aka">рецѣ.</token>
@@ -52,32 +52,19 @@
 		<token n="сврг" u="66,9." witness="#xle">свергь</token>
 	</block>
 	<block n="4">
-		<token n="прт" u="66,9." witness="#aka">порты</token>
+		<token n="" u="66,9." witness="#aka"/>
 		<token n="" u="66,9." witness="#bych"/>
-		<token n="прт" u="66,9." witness="#ipa">порты</token>
-		<token n="прт" u="66,9." witness="#kom">порты</token>
+		<token n="" u="66,9." witness="#ipa"/>
+		<token n="" u="66,9." witness="#kom"/>
 		<token n="" u="66,9." witness="#lav"/>
-		<token n="прт" u="66,9." witness="#lem">пърты,</token>
+		<token n="" u="66,9." witness="#lem"/>
 		<token n="" u="66,9." witness="#likh"/>
-		<token n="прт" u="66,9." witness="#rad">порты</token>
-		<token n="прт" u="66,9." witness="#shakh">пърты</token>
-		<token n="" u="66,9." witness="#tol"/>
-		<token n="прт" u="66,9." witness="#xle">порты</token>
+		<token n="" u="66,9." witness="#rad"/>
+		<token n="" u="66,9." witness="#shakh"/>
+		<token n="с" u="66,9." witness="#tol">с</token>
+		<token n="" u="66,9." witness="#xle"/>
 	</block>
 	<block n="5">
-		<token n="и" u="66,9." witness="#aka">и</token>
-		<token n="" u="66,9." witness="#bych"/>
-		<token n="сь" u="66,9." witness="#ipa">съ</token>
-		<token n="сь" u="66,9." witness="#kom">съ</token>
-		<token n="" u="66,9." witness="#lav"/>
-		<token n="сн" u="66,9." witness="#lem">суну</token>
-		<token n="" u="66,9." witness="#likh"/>
-		<token n="и" u="66,9." witness="#rad">и</token>
-		<token n="сь" u="66,9." witness="#shakh">съ</token>
-		<token n="с" u="66,9." witness="#tol">с</token>
-		<token n="с" u="66,9." witness="#xle">с</token>
-	</block>
-	<block n="6">
 		<token n="" u="66,9." witness="#aka"/>
 		<token n="" u="66,9." witness="#bych"/>
 		<token n="" u="66,9." witness="#ipa"/>
@@ -90,18 +77,31 @@
 		<token n="сб" u="66,9." witness="#tol">себе</token>
 		<token n="" u="66,9." witness="#xle"/>
 	</block>
-	<block n="7">
-		<token n="" u="66,9." witness="#aka"/>
+	<block n="6">
+		<token n="прт" u="66,9." witness="#aka">порты</token>
 		<token n="прт" u="66,9." witness="#bych">порты</token>
-		<token n="" u="66,9." witness="#ipa"/>
-		<token n="" u="66,9." witness="#kom"/>
+		<token n="прт" u="66,9." witness="#ipa">порты</token>
+		<token n="прт" u="66,9." witness="#kom">порты</token>
 		<token n="прт" u="66,9." witness="#lav">порты</token>
-		<token n="" u="66,9." witness="#lem"/>
+		<token n="прт" u="66,9." witness="#lem">пърты,</token>
 		<token n="прт" u="66,9." witness="#likh">порты</token>
-		<token n="" u="66,9." witness="#rad"/>
-		<token n="" u="66,9." witness="#shakh"/>
+		<token n="прт" u="66,9." witness="#rad">порты</token>
+		<token n="прт" u="66,9." witness="#shakh">пърты</token>
 		<token n="прт" u="66,9." witness="#tol">порты</token>
-		<token n="" u="66,9." witness="#xle"/>
+		<token n="прт" u="66,9." witness="#xle">порты</token>
+	</block>
+	<block n="7">
+		<token n="и" u="66,9." witness="#aka">и</token>
+		<token n="" u="66,9." witness="#bych"/>
+		<token n="с" u="66,9." witness="#ipa">съ</token>
+		<token n="с" u="66,9." witness="#kom">съ</token>
+		<token n="" u="66,9." witness="#lav"/>
+		<token n="сн" u="66,9." witness="#lem">суну</token>
+		<token n="" u="66,9." witness="#likh"/>
+		<token n="и" u="66,9." witness="#rad">и</token>
+		<token n="с" u="66,9." witness="#shakh">съ</token>
+		<token n="" u="66,9." witness="#tol"/>
+		<token n="с" u="66,9." witness="#xle">с</token>
 	</block>
 	<block n="8">
 		<token n="" u="66,9." witness="#aka"/>
@@ -131,15 +131,15 @@
 	</block>
 	<block n="10">
 		<token n="во" u="66,9." witness="#aka">во</token>
-		<token n="вь" u="66,9." witness="#bych">въ</token>
-		<token n="вь" u="66,9." witness="#ipa">въ <lb/></token>
+		<token n="в" u="66,9." witness="#bych">въ</token>
+		<token n="в" u="66,9." witness="#ipa">въ <lb/></token>
 		<token n="во" u="66,9." witness="#kom">во</token>
-		<token n="вь" u="66,9." witness="#lav">въ</token>
-		<token n="вь" u="66,9." witness="#lem">въ</token>
-		<token n="вь" u="66,9." witness="#likh">въ</token>
+		<token n="в" u="66,9." witness="#lav">въ</token>
+		<token n="в" u="66,9." witness="#lem">въ</token>
+		<token n="в" u="66,9." witness="#likh">въ</token>
 		<token n="в" u="66,9." witness="#rad">в</token>
-		<token n="вь" u="66,9." witness="#shakh">въ</token>
+		<token n="в" u="66,9." witness="#shakh">въ</token>
 		<token n="в" u="66,9." witness="#tol">в</token>
-		<token n="вь" u="66,9." witness="#xle">въ</token>
+		<token n="в" u="66,9." witness="#xle">въ</token>
 	</block>
 </witnesses>

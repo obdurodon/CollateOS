@@ -58,7 +58,7 @@
 	<block n="4">
 		<token n="нч" u="132,3." witness="#aka">нача</token>
 		<token n="нч" u="132,3." witness="#bych">нача</token>
-		<token n="" u="132,3." witness="#ipa"/>
+		<token n="нч" u="132,3." witness="#ipa">нача</token>
 		<token n="нч" u="132,3." witness="#kom">нача</token>
 		<token n="нч" u="132,3." witness="#lav">нача</token>
 		<token n="нч" u="132,3." witness="#lem">нача</token>
@@ -86,7 +86,7 @@
 	<block n="6">
 		<token n="им" u="132,3." witness="#aka"><milestone n="start" place="margin" unit="add"/>имь<milestone n="end" unit="add"/></token>
 		<token n="им" u="132,3." witness="#bych">имъ</token>
-		<token n="нч" u="132,3." witness="#ipa">нача</token>
+		<token n="" u="132,3." witness="#ipa"/>
 		<token n="" u="132,3." witness="#kom"/>
 		<token n="им" u="132,3." witness="#lav">имъ</token>
 		<token n="" u="132,3." witness="#lem"/>
@@ -98,15 +98,15 @@
 		<token n="" u="132,3." witness="#xle"/>
 	</block>
 	<block n="7">
-		<token n="" u="132,3." witness="#aka"/>
-		<token n="" u="132,3." witness="#bych"/>
+		<token n="имн" u="132,3." witness="#aka">имѣнїе.</token>
+		<token n="имн" u="132,3." witness="#bych">имѣнье;</token>
 		<token n="имн" u="132,3." witness="#ipa">имѣние</token>
 		<token n="имн" u="132,3." witness="#kom">имѣние</token>
-		<token n="" u="132,3." witness="#lav"><milestone n="start" unit="sic"/><milestone n="end" unit="sic"/></token>
+		<token n="имн" u="132,3." witness="#lav">имѣнь<milestone n="start" unit="sic"/>е<milestone n="end" unit="sic"/>.</token>
 		<token n="имн" u="132,3." witness="#lem">имѣние</token>
-		<token n="" u="132,3." witness="#likh"/>
+		<token n="имн" u="132,3." witness="#likh">имѣнье.</token>
 		<token n="имн" u="132,3." witness="#nak">имѣние</token>
-		<token n="" u="132,3." witness="#rad"/>
+		<token n="имн" u="132,3." witness="#rad">имѣние.</token>
 		<token n="имн" u="132,3." witness="#shakh">имѣние</token>
 		<token n="имн" u="132,3." witness="#tol">имѣние</token>
 		<token n="имн" u="132,3." witness="#xle">имѣнїе</token>
@@ -115,6 +115,20 @@
 		<token n="" u="132,3." witness="#aka"/>
 		<token n="" u="132,3." witness="#bych"/>
 		<token n="им" u="132,3." witness="#ipa">и<lb/>мь</token>
+		<token n="им" u="132,3." witness="#kom">имъ</token>
+		<token n="" u="132,3." witness="#lav"/>
+		<token n="им" u="132,3." witness="#lem">имъ.</token>
+		<token n="" u="132,3." witness="#likh"/>
+		<token n="им" u="132,3." witness="#nak">имъ</token>
+		<token n="" u="132,3." witness="#rad"/>
+		<token n="им" u="132,3." witness="#shakh">имъ;</token>
+		<token n="им" u="132,3." witness="#tol">имъ</token>
+		<token n="им" u="132,3." witness="#xle">имь.</token>
+	</block>
+	<block n="9">
+		<token n="" u="132,3." witness="#aka"/>
+		<token n="" u="132,3." witness="#bych"/>
+		<token n="дт" u="132,3." witness="#ipa">даꙗти</token>
 		<token n="" u="132,3." witness="#kom"/>
 		<token n="" u="132,3." witness="#lav"/>
 		<token n="" u="132,3." witness="#lem"/>
@@ -122,22 +136,8 @@
 		<token n="" u="132,3." witness="#nak"/>
 		<token n="" u="132,3." witness="#rad"/>
 		<token n="" u="132,3." witness="#shakh"/>
-		<token n="им" u="132,3." witness="#tol">имъ</token>
-		<token n="" u="132,3." witness="#xle"/>
-	</block>
-	<block n="9">
-		<token n="имн" u="132,3." witness="#aka">имѣнїе.</token>
-		<token n="имн" u="132,3." witness="#bych">имѣнье;</token>
-		<token n="дт" u="132,3." witness="#ipa">даꙗти</token>
-		<token n="им" u="132,3." witness="#kom">имъ</token>
-		<token n="имн" u="132,3." witness="#lav">имѣнь<milestone n="start" unit="sic"/>е<milestone n="end" unit="sic"/>.</token>
-		<token n="им" u="132,3." witness="#lem">имъ.</token>
-		<token n="имн" u="132,3." witness="#likh">имѣнье.</token>
-		<token n="им" u="132,3." witness="#nak">имъ</token>
-		<token n="имн" u="132,3." witness="#rad">имѣние.</token>
-		<token n="им" u="132,3." witness="#shakh">имъ;</token>
 		<token n="" u="132,3." witness="#tol"/>
-		<token n="им" u="132,3." witness="#xle">имь.</token>
+		<token n="" u="132,3." witness="#xle"/>
 	</block>
 	<block n="10">
 		<token n="" u="132,3." witness="#aka"/>

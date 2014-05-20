@@ -1,14 +1,14 @@
 <?xml version="1.0" ?><witnesses>
 	<block n="0">
-		<token n="" u="179,2." witness="#aka"/>
-		<token n="" u="179,2." witness="#bych"/>
+		<token n="бс" u="179,2." witness="#aka">бѣси</token>
+		<token n="бс" u="179,2." witness="#bych">бѣси</token>
 		<token n="бс" u="179,2." witness="#ipa">бѣси</token>
 		<token n="бс" u="179,2." witness="#kom">бѣси</token>
-		<token n="" u="179,2." witness="#lav"><lb/></token>
+		<token n="бс" u="179,2." witness="#lav">бѣ<lb/>си</token>
 		<token n="бс" u="179,2." witness="#lem">бѣси</token>
-		<token n="" u="179,2." witness="#likh"/>
+		<token n="бс" u="179,2." witness="#likh">бѣси</token>
 		<token n="бс" u="179,2." witness="#nak">бѣси</token>
-		<token n="" u="179,2." witness="#rad"/>
+		<token n="бс" u="179,2." witness="#rad">бѣси</token>
 		<token n="бс" u="179,2." witness="#shakh">бѣси</token>
 		<token n="бс" u="179,2." witness="#tol">бѣси</token>
 		<token n="бс" u="179,2." witness="#xle">бѣси</token>
@@ -17,6 +17,20 @@
 		<token n="" u="179,2." witness="#aka"/>
 		<token n="" u="179,2." witness="#bych"/>
 		<token n="бо" u="179,2." witness="#ipa">бо</token>
+		<token n="бо" u="179,2." witness="#kom">бо</token>
+		<token n="" u="179,2." witness="#lav"/>
+		<token n="бо" u="179,2." witness="#lem">бо</token>
+		<token n="" u="179,2." witness="#likh"/>
+		<token n="бо" u="179,2." witness="#nak">бо</token>
+		<token n="" u="179,2." witness="#rad"/>
+		<token n="бо" u="179,2." witness="#shakh">бо</token>
+		<token n="бо" u="179,2." witness="#tol">бо</token>
+		<token n="бо" u="179,2." witness="#xle">бо</token>
+	</block>
+	<block n="2">
+		<token n="" u="179,2." witness="#aka"/>
+		<token n="" u="179,2." witness="#bych"/>
+		<token n="не" u="179,2." witness="#ipa">не</token>
 		<token n="" u="179,2." witness="#kom"/>
 		<token n="" u="179,2." witness="#lav"/>
 		<token n="" u="179,2." witness="#lem"/>
@@ -24,22 +38,8 @@
 		<token n="" u="179,2." witness="#nak"/>
 		<token n="" u="179,2." witness="#rad"/>
 		<token n="" u="179,2." witness="#shakh"/>
-		<token n="бо" u="179,2." witness="#tol">бо</token>
-		<token n="" u="179,2." witness="#xle"/>
-	</block>
-	<block n="2">
-		<token n="бс" u="179,2." witness="#aka">бѣси</token>
-		<token n="бс" u="179,2." witness="#bych">бѣси</token>
-		<token n="не" u="179,2." witness="#ipa">не</token>
-		<token n="бо" u="179,2." witness="#kom">бо</token>
-		<token n="бс" u="179,2." witness="#lav">бѣ<lb/>си</token>
-		<token n="бо" u="179,2." witness="#lem">бо</token>
-		<token n="бс" u="179,2." witness="#likh">бѣси</token>
-		<token n="бо" u="179,2." witness="#nak">бо</token>
-		<token n="бс" u="179,2." witness="#rad">бѣси</token>
-		<token n="бо" u="179,2." witness="#shakh">бо</token>
 		<token n="" u="179,2." witness="#tol"/>
-		<token n="бо" u="179,2." witness="#xle">бо</token>
+		<token n="" u="179,2." witness="#xle"/>
 	</block>
 	<block n="3">
 		<token n="" u="179,2." witness="#aka"/>
@@ -72,7 +72,7 @@
 	<block n="5">
 		<token n="же" u="179,2." witness="#aka">же</token>
 		<token n="же" u="179,2." witness="#bych">же</token>
-		<token n="" u="179,2." witness="#ipa"><lb/></token>
+		<token n="же" u="179,2." witness="#ipa">же <lb/></token>
 		<token n="" u="179,2." witness="#kom"/>
 		<token n="же" u="179,2." witness="#lav">же</token>
 		<token n="" u="179,2." witness="#lem"/>
@@ -86,7 +86,7 @@
 	<block n="6">
 		<token n="не" u="179,2." witness="#aka">не</token>
 		<token n="не" u="179,2." witness="#bych">не</token>
-		<token n="же" u="179,2." witness="#ipa">же <lb/></token>
+		<token n="" u="179,2." witness="#ipa"/>
 		<token n="не" u="179,2." witness="#kom">не</token>
 		<token n="не" u="179,2." witness="#lav">не</token>
 		<token n="не" u="179,2." witness="#lem">не</token>

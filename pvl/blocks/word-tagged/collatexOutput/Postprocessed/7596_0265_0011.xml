@@ -13,12 +13,12 @@
 	<block n="1">
 		<token n="" u="265,11." witness="#aka"/>
 		<token n="" u="265,11." witness="#bych"/>
-		<token n="кь" u="265,11." witness="#ipa">къ</token>
+		<token n="к" u="265,11." witness="#ipa">къ</token>
 		<token n="" u="265,11." witness="#lav"/>
-		<token n="кь" u="265,11." witness="#lem">къ</token>
+		<token n="к" u="265,11." witness="#lem">къ</token>
 		<token n="" u="265,11." witness="#likh"/>
 		<token n="" u="265,11." witness="#rad"/>
-		<token n="кь" u="265,11." witness="#shakh">къ</token>
+		<token n="к" u="265,11." witness="#shakh">къ</token>
 		<token n="ко" u="265,11." witness="#xle">ко</token>
 	</block>
 	<block n="2">
@@ -28,7 +28,7 @@
 		<token n="клч" u="265,11." witness="#lav">колчи·</token>
 		<token n="клч" u="265,11." witness="#lem">Кълчи,</token>
 		<token n="клч" u="265,11." witness="#likh">Колчи,</token>
-		<token n="" u="265,11." witness="#rad"><milestone n="start" unit="sic"/>лчю· </token>
+		<token n="клч" u="265,11." witness="#rad">ко<milestone n="start" unit="sic"/><milestone n="end" unit="sic"/>лчю· <lb/></token>
 		<token n="клч" u="265,11." witness="#shakh">Кълчи,</token>
 		<token n="клч" u="265,11." witness="#xle">ко<hi rend="sup">л</hi>чи.</token>
 	</block>
@@ -45,24 +45,24 @@
 	</block>
 	<block n="4">
 		<token n="" u="265,11." witness="#aka"><lb/></token>
-		<token n="тк" u="265,11." witness="#bych">тако:</token>
-		<token n="тк" u="265,11." witness="#ipa">тако</token>
-		<token n="тк" u="265,11." witness="#lav">тако</token>
-		<token n="тк" u="265,11." witness="#lem">тако:</token>
-		<token n="тк" u="265,11." witness="#likh">тако:</token>
-		<token n="клч" u="265,11." witness="#rad">ко<milestone n="start" unit="sic"/><milestone n="end" unit="sic"/>лчю· <lb/></token>
-		<token n="тк" u="265,11." witness="#shakh">тако:</token>
-		<token n="тк" u="265,11." witness="#xle">тако <lb/></token>
-	</block>
-	<block n="5">
-		<token n="" u="265,11." witness="#aka"/>
 		<token n="" u="265,11." witness="#bych"/>
-		<token n="вслк" u="265,11." witness="#ipa">василко·</token>
+		<token n="тк" u="265,11." witness="#ipa">тако</token>
 		<token n="" u="265,11." witness="#lav"/>
 		<token n="" u="265,11." witness="#lem"/>
 		<token n="" u="265,11." witness="#likh"/>
 		<token n="" u="265,11." witness="#rad"/>
 		<token n="" u="265,11." witness="#shakh"/>
+		<token n="тк" u="265,11." witness="#xle">тако <lb/></token>
+	</block>
+	<block n="5">
+		<token n="" u="265,11." witness="#aka"/>
+		<token n="тк" u="265,11." witness="#bych">тако:</token>
+		<token n="вслк" u="265,11." witness="#ipa">василко·</token>
+		<token n="тк" u="265,11." witness="#lav">тако</token>
+		<token n="тк" u="265,11." witness="#lem">тако:</token>
+		<token n="тк" u="265,11." witness="#likh">тако:</token>
+		<token n="" u="265,11." witness="#rad"/>
+		<token n="тк" u="265,11." witness="#shakh">тако:</token>
 		<token n="вслк" u="265,11." witness="#xle">васи<hi rend="sup">л</hi>ко.</token>
 	</block>
 	<block n="6">
