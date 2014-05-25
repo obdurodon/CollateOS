@@ -15,7 +15,7 @@ def allSame(b):
 
 def getAllToks(b):
     toks = b.getElementsByTagName('token')
-    return [tok.getAttribute('n') for tok in toks]
+    return [tok.getAttribute('n') for tok in toks if tok.getAttribute('n') != '']
 
 c = 0
 l = len(xmls)
@@ -47,3 +47,10 @@ for k, v in thes.items():
 with codecs.open(r'c:/users/minas/desktop/thes.txt', 'w', encoding='utf-8') as t:
     for i in inverse:
         t.write(i + ' : ' + ', '.join(inverse[i]) + '\n')
+
+with codecs.open(r'c:/users/minas/desktop/thes.txt', 'r', encoding='utf-8') as t1:
+    with codecs.open(r'c:/users/minas/desktop/thes2.txt', 'w', encoding='utf-8') as t2:
+        wordList = [i.split(':')[0].replace('; ', ';').strip().split(';') for i in t1.readlines()]
+        for i in wordList:
+            l = ';'.join(i) + '\n'
+            t2.write(l)

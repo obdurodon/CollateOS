@@ -1,17 +1,14 @@
 <?xml version="1.0" ?><witnesses>
 	<block n="0">
-		<token n="пгн̏" u="230,8." witness="#aka">поганы·̏ѧ</token>
+		<token n="пгн" u="230,8." witness="#aka">поганы·̏ѧ</token>
 		<token n="пгн" u="230,8." witness="#bych">поганыя</token>
-		<token n="и" u="230,8." witness="#ipa">и</token>
+		<token n="пгн" u="230,8." witness="#ipa">поганыꙗ</token>
 		<token n="пгн" u="230,8." witness="#lav">поганыꙗ</token>
-		<token n="свт" u="230,8." witness="#lem"><choice>
-                    <seg>съвѣтъ</seg>
-                    <seg>думу</seg>
-                </choice>,</token>
+		<token n="пгн" u="230,8." witness="#lem">поганыя</token>
 		<token n="пгн" u="230,8." witness="#likh">поганыя</token>
 		<token n="пгн" u="230,8." witness="#rad">поганыꙗ</token>
 		<token n="пгн" u="230,8." witness="#shakh">поганыя</token>
-		<token n="и" u="230,8." witness="#xle">и</token>
+		<token n="пгн" u="230,8." witness="#xle">поганыа</token>
 	</block>
 	<block n="1">
 		<token n="не" u="230,8." witness="#aka">не</token>
@@ -95,7 +92,10 @@
 		<token n="к" u="230,8." witness="#bych">к</token>
 		<token n="тт" u="230,8." witness="#ipa">тоть</token>
 		<token n="к" u="230,8." witness="#lav">к</token>
-		<token n="" u="230,8." witness="#lem"/>
+		<token n="свт" u="230,8." witness="#lem"><choice>
+                    <seg>съвѣтъ</seg>
+                    <seg>думу</seg>
+                </choice>,</token>
 		<token n="к" u="230,8." witness="#likh">к</token>
 		<token n="к" u="230,8." witness="#rad">к</token>
 		<token n="к" u="230,8." witness="#shakh">къ</token>
@@ -115,12 +115,12 @@
 	<block n="10">
 		<token n="ин" u="230,8." witness="#aka">ино</token>
 		<token n="то" u="230,8." witness="#bych">то</token>
-		<token n="" u="230,8." witness="#ipa"/>
+		<token n="и" u="230,8." witness="#ipa">и</token>
 		<token n="то" u="230,8." witness="#lav">то</token>
 		<token n="то" u="230,8." witness="#lem">то</token>
 		<token n="то" u="230,8." witness="#likh">то</token>
 		<token n="ин" u="230,8." witness="#rad">ино</token>
 		<token n="то" u="230,8." witness="#shakh">то-</token>
-		<token n="" u="230,8." witness="#xle"/>
+		<token n="и" u="230,8." witness="#xle">и</token>
 	</block>
 </witnesses>
