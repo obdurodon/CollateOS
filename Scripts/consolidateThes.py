@@ -17,4 +17,4 @@ with codecs.open(inPath, 'r', encoding='utf-8') as t1:
                             wordList.remove(j)
                             continue
         for i in wordList:
-            t2.write(';'.join(set(i)) + '\n')
+            t2.write(';'.join(sorted(set(i))) + '\n')
