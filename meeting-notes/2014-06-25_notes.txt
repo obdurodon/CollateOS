@@ -1,0 +1,25 @@
+2014-06-25 collation meeting, David and Minas
+
+Installed CollateX in Minas's Windows 8 machine. 
+
+Started by installing ipython with:
+
+pip install ipython[notebook]
+
+Then clone https://github.com/obdurodon/collatex, which is the only fork that currently includes the ClusterShell support needed for Windows.
+
+Install other CollateX dependencies, using "pip install X", replacing X with the following: 
+networkx
+prettytable
+
+pygraphviz isn't available in an official Windows binary, and can't be installed with pip. Instead, download it from http://www.lfd.uci.edu/~gohlke/pythonlibs/, along with the Graphviz .msi linked there, and install them both. Then add the full path to the directory that contains dot.exe, which is probably "c:\Program Files (x86)\graphviz2.38\bin".
+
+To do:
+
+Ronald: what's wrong with collate_pretokenized_json()
+
+David: convert pvl-tei.xml to word-tokenized full file
+
+Minas: 
+Change XMLtoJSON and JSONtoXML to deal with full file
+Move post-processing deeper into the process pipeline
