@@ -32,9 +32,11 @@ sys.stdout.write(' Done.\n')
 apps = doc.getElementsByTagName('app')
 l = len(apps)
 c = 0
+def getUnit(app):
+    return app.getElementsByTagName('w')[0].getAttribute('n')
 
 def createJsonRepresentation(app):
-    unit = app.parentNode.parentNode.parentNode.getAttribute('n') + ',' + app.parentNode.parentNode.getAttribute('n')
+    unit = getUnit(app)
     root = {}
     allWits = []
     rdgs = [el for el in app.childNodes if el.nodeType == 1]
@@ -64,52 +66,46 @@ def createJsonRepresentation(app):
 def normalChars(l):
     return l.replace('&lt;', '<').replace('&gt;','>').replace('&quot;', '"')
 
-def createColumn(Json):
-    with codecs.open('testDumpJSON.txt', 'w') as dump1:
-        dump1.write(Json.encode('utf-8') + '\n\n')
+def processColumn(Json, unitValue):
     data = json.loads(Json)
-    print data['witnesses']
-    for number, name in enumerate(data['witnesses']):
-        print number, name, type(number), type(name)
     nameToNumber = {number:name for number, name in enumerate(data['witnesses'])}
     temp = minidom.Document()
-    root = temp.createElement('column')
-    temp.appendChild(root)
+    line = temp.createElement('line')
+    temp.appendChild(line)
+    number = 0
     for block in data['table']:
         blockElement = temp.createElement('block')
-        number = 0
         for token in block:
             tokenElement = temp.createElement('token')
             tokenElement.setAttributeNode(doc.createAttribute('n'))
             tokenElement.setAttributeNode(doc.createAttribute('witness'))
-            #tokenElement.setAttributeNode(doc.createAttribute('u'))
+            tokenElement.setAttributeNode(doc.createAttribute('u'))
             textNodeValue = token[0]['t']
             if textNodeValue != '-':
                 normalizedAttrValue = token[0]['n']
             else:
+                textNodeValue = ''
                 normalizedAttrValue = ''
             tokenElement.appendChild(doc.createTextNode(textNodeValue))
             tokenElement.setAttribute('n', normalizedAttrValue)
-            #tokenElement.setAttribute('u', unitValue)
+            tokenElement.setAttribute('u', unitValue)
             tokenElement.setAttribute('witness', nameToNumber[number])
             blockElement.appendChild(tokenElement)
-            number += 1
-        root.appendChild(blockElement)
-    with codecs.open('testDumpXML.txt', 'w') as dump:
-        dump.write(root.toxml().encode('utf-8') + '\n\n')
+        number += 1
+        line.appendChild(blockElement)
+    return normalChars(line.toxml().encode('utf-8'))
 
+if os.path.exists('output.xml'):
+    os.remove('output.xml')
+with codecs.open('output.xml', 'a') as out:
+    out.write('<collationOutput>')
+    for app in apps:
+        c += 1
+        Preprocessing.updateProgressBar('Collation', float(100)*c/l)
+        collationResults = collate_pretokenized_json(createJsonRepresentation(app), 'json')
+        out.write(processColumn(collationResults, getUnit(app)))
+        if c % FLUSH == 0:
+            gc.collect()
+    out.write('</collationOutput>')
 
-
-
-for app in apps:
-    c += 1
-    Preprocessing.updateProgressBar('Collation', float(100)*c/l)
-    collationResults = collate_pretokenized_json(createJsonRepresentation(app), 'json')
-    createColumn(collationResults)
-    with codecs.open('testDump.txt', 'w') as dump:
-        dump.write(collationResults.encode('utf-8') + '\n\n')
-    if c % FLUSH == 0:
-        gc.collect()
-    if c == 100:
-        break
-print 'Took', datetime.datetime.now() - startTime, 'to execute.'
+print '\nTook', datetime.datetime.now() - startTime, 'to execute.'
