@@ -16,8 +16,6 @@ COLLATEX_PATH = 'collatex/collatex-pythonport'
 sys.path.append(os.path.join(RESOURCE_HOME, COLLATEX_PATH))
 FLUSH = 100
 
-
-
 from collatex import *
 import Preprocessing
 args = sys.argv
@@ -32,6 +30,7 @@ sys.stdout.write(' Done.\n')
 apps = doc.getElementsByTagName('app')
 l = len(apps)
 c = 0
+
 def getUnit(app):
     return app.getElementsByTagName('w')[0].getAttribute('n')
 
@@ -66,6 +65,10 @@ def createJsonRepresentation(app):
 def normalChars(l):
     return l.replace('&lt;', '<').replace('&gt;','>').replace('&quot;', '"')
 
+def pseudoPrettyPrint(xml):
+    return xml.replace('<token', '\t<token').replace('<block', '\t<block').replace('</block', '\t</block').replace('<line', '\t<line').replace('</line', '\t</line')
+
+
 def processColumn(Json, unitValue):
     data = json.loads(Json)
     nameToNumber = {number:name for number, name in enumerate(data['witnesses'])}
@@ -93,19 +96,21 @@ def processColumn(Json, unitValue):
             blockElement.appendChild(tokenElement)
         number += 1
         line.appendChild(blockElement)
-    return normalChars(line.toxml().encode('utf-8'))
+    return pseudoPrettyPrint(normalChars(line.toprettyxml().encode('utf-8')))
 
 if os.path.exists('output.xml'):
     os.remove('output.xml')
 with codecs.open('output.xml', 'a') as out:
-    out.write('<collationOutput>')
+    out.write('<collationOutput>\n')
     for app in apps:
         c += 1
         Preprocessing.updateProgressBar('Collation', float(100)*c/l)
         collationResults = collate_pretokenized_json(createJsonRepresentation(app), 'json')
         out.write(processColumn(collationResults, getUnit(app)))
         if c % FLUSH == 0:
+            Preprocessing.updateProgressBar('Collation', float(100)*c/l, True)
             gc.collect()
+
     out.write('</collationOutput>')
 
 print '\nTook', datetime.datetime.now() - startTime, 'to execute.'

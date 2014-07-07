@@ -138,13 +138,18 @@ def parseName(f): #generate u values from filename
 def Round(n):
     return str("{0:.2f}".format(n))
 
-def updateProgressBar(scriptName, percentage):
+def updateProgressBar(scriptName, percentage, gc = False):
     width = 20
     done = width * int(percentage)/100
     splitUp = scriptName.split('.')
+    msg = '\r' + scriptName + '\t[' + done * '*' + (width-done) * ' ' + ']\t' + Round(percentage) + '%'
     if len(splitUp[0]) > 10:
         scriptName = splitUp[0][:10] + '~.py'
-    sys.stdout.write('\r' + scriptName + '\t[' + done * '*' + (width-done) * ' ' + ']\t' + Round(percentage) + '%')
+    if gc:
+        msg += '\tCLEARING MEMORY...'
+    else:
+        msg += '\t'*4
+    sys.stdout.write(msg)
     sys.stdout.flush()
     
 
