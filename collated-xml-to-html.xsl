@@ -96,4 +96,23 @@
             <xsl:apply-templates/>
         </sup>
     </xsl:template>
+    <xsl:template match="lb">
+        <xsl:text> | </xsl:text>
+    </xsl:template>
+    <xsl:template match="pb">
+        <xsl:text> |[</xsl:text>
+        <xsl:value-of select="@n"/>
+        <xsl:text>]| </xsl:text>
+    </xsl:template>
+    <xsl:template match="choide">
+        <xsl:text> {</xsl:text>
+        <xsl:apply-templates/>
+        <xsl:text>} </xsl:text>
+    </xsl:template>
+    <xsl:template match="seg">
+        <xsl:if test="preceding-sibling::seg">
+            <xsl:text> | </xsl:text>
+        </xsl:if>
+        <xsl:apply-templates/>
+    </xsl:template>
 </xsl:stylesheet>
