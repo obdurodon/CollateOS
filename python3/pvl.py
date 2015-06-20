@@ -10,7 +10,8 @@ Input: pvl.xml
 
 from collatex import *
 from lxml import etree
-import re, json
+from collatex import *
+import re, json, dicttoxml
 
 class Block:
     'An instance of Block represents a Karskii block in the PVL edition'
@@ -23,7 +24,8 @@ class Block:
             witness = Witness(item)
             self.allWitnesses.append(witness.witData)
         self.root['witnesses'] = self.allWitnesses
-        print(json.dumps(self.root,ensure_ascii=False,indent=2))
+        self.json = json.dumps(self.root,ensure_ascii=False,indent=2)
+        # print(self.json)
         
 class Witness:
     'An instance of Witness represents a witness line within a Karskii block'
@@ -51,7 +53,7 @@ class Witness:
         </xsl:template>
         <xsl:template match="text()">
             <xsl:call-template name="whiteSpace">
-                <xsl:with-param name="input" select="normalize-space(.)"/>
+                <xsl:with-param name="input" select="translate(.,'&#x0a;',' ')"/>
             </xsl:call-template>
         </xsl:template>
         <xsl:template name="whiteSpace">
@@ -84,7 +86,7 @@ class Witness:
             <!-- faking the "except" operator -->
             <xsl:variable name="tooFar" select="following-sibling::w[1] | following-sibling::w[1]/following::node()"/>
             <w>
-                <xsl:copy-of select="following::node()[count(. | $tooFar) != count($tooFar)]"/>
+                <xsl:copy-of select="following-sibling::node()[count(. | $tooFar) != count($tooFar)]"/>
             </w>
         </xsl:template>
     </xsl:stylesheet>    
@@ -99,30 +101,38 @@ class Witness:
         except AttributeError:
             self.witContents = ''
         self.witContentsWMilestones = Witness.transformAddW(self.witness)
+        # print(self.witContentsWMilestones)
         self.witContentsWWrappers = Witness.transformWrapW(self.witContentsWMilestones)
         self.witWords = self.witContentsWWrappers.xpath('w')
         self.witData = {}
         self.tokenList = []
-        for word in self.witWords:
-            stringified = etree.tostring(word, encoding='unicode')
-            stripped = Witness.witRegex.match(stringified).group(1)
+        for item in self.witWords:
+            word = Word(item)
             token = {}
-            token['t'] = stripped
-            token['n'] = stripped
-            self.tokenList.append(token)
+            token['t'] = word.stringified
+            token['n'] = word.noTags
+            if word.stringified != '<w/>': # leading spaces generate spurious empty words
+                self.tokenList.append(token)
         self.witData['id'] = self.witIdentifier
         self.witData['tokens'] = self.tokenList
 
 class Word:
     'An instance of Word represents a word from a witness, which serves as a collation token'
-    def soundex(self):
-        return 'hi:' + self + ':bye'
+    puncRegex = re.compile('[“̈҃ⸯ·҇!#$%&=\'()*+,-.:;?@[\\]^_`{|}~”̏′]')
+    tagRegex = re.compile('<.*?>')
+    def __init__(self,word):
+        self.word = word
+        self.stringified = etree.tostring(self.word, encoding='unicode')
+        self.noPunc = Word.puncRegex.sub('',self.stringified)
+        self.noTags = Word.tagRegex.sub('',self.noPunc)
 
 def main():
     tree = etree.parse('01_input_xml/pvl-1.xml')
     blocks = tree.xpath('//block')
     for item in blocks:
         block = Block(item) 
-    print('Done!')
+        # alignmentTable = collate_pretokenized_json(block.json)
+        # print(alignmentTable)
+        print(block.json)
 
 if __name__ == "__main__": main()
