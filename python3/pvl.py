@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 Filename: test.py
 Author: David J. Birnbaum (djbpitt@gmail.com; http://www.obdurodon.org)
@@ -11,7 +12,7 @@ Input: pvl.xml
 from collatex import *
 from lxml import etree
 from collatex import *
-import re, json, dicttoxml
+import re, json
 
 class Block:
     'An instance of Block represents a Karskii block in the PVL edition'
@@ -25,8 +26,14 @@ class Block:
             self.allWitnesses.append(witness.witData)
         self.root['witnesses'] = self.allWitnesses
         self.json = json.dumps(self.root,ensure_ascii=False,indent=2)
-        # print(self.json)
-        
+        self.alignment = collate_pretokenized_json(self.root,output='json')
+        self.alignmentJson = json.loads(self.alignment)
+    def XMLify(self):
+        witnesses = etree.Element('witnesses')
+        for block in self.alignmentJson['table']:
+            etree.SubElement(witnesses,'block')
+            return witnesses
+
 class Witness:
     'An instance of Witness represents a witness line within a Karskii block'
     witRegex = re.compile('<.*?>\s*(.*)\s*</.*?>',re.DOTALL) # witness contents without wrapper tags
@@ -109,20 +116,42 @@ class Witness:
         for item in self.witWords:
             word = Word(item)
             token = {}
-            token['t'] = word.stringified
+            token['t'] = word.unwrapped
             token['n'] = word.noTags
-            if word.stringified != '<w/>': # leading spaces generate spurious empty words
+            if word.stringified != '<w/>': # leading spaces in the input generate spurious empty words
                 self.tokenList.append(token)
         self.witData['id'] = self.witIdentifier
         self.witData['tokens'] = self.tokenList
 
 class Word:
     'An instance of Word represents a word from a witness, which serves as a collation token'
+    unwrapRegex = re.compile('<.*?>\s*(.*)\s*</.*?>')
     puncRegex = re.compile('[“̈҃ⸯ·҇!#$%&=\'()*+,-.:;?@[\\]^_`{|}~”̏′]')
     tagRegex = re.compile('<.*?>')
+    # Multiple replacements from: http://stackoverflow.com/questions/6116978/python-replace-multiple-strings
+    soundexMappings = {
+        "[оу]" : "у",
+        "[шт]" : "щ",
+        "[ѿ]" : "ѡт",
+        "[ѯ]" : "кс",
+        "[ѱ]" : "пс",
+        "[ѧѩꙙꙝꙗя]" : "ѧ",
+        "[еєѥ]" : "е",
+        "[ыꙑиіїꙇй]" : "и",
+        "[оꙩꙫꙭꙮѡꙍѽѻ]" : "о",
+        "[уꙋюꙕѵѷӱѹ]" : "у",
+        "[ѫѭꙛ]" : "ѫ",
+        "[ѣꙓ]" : "ѣ",
+        "[ьъ]" : "ь",
+        "[зꙁꙃѕꙅ]" : "з"
+    }
     def __init__(self,word):
         self.word = word
         self.stringified = etree.tostring(self.word, encoding='unicode')
+        try:
+            self.unwrapped = Word.unwrapRegex.match(self.stringified).group(1)
+        except AttributeError:
+            self.unwrapped = ''
         self.noPunc = Word.puncRegex.sub('',self.stringified)
         self.noTags = Word.tagRegex.sub('',self.noPunc)
 
@@ -131,8 +160,7 @@ def main():
     blocks = tree.xpath('//block')
     for item in blocks:
         block = Block(item) 
-        # alignmentTable = collate_pretokenized_json(block.json)
-        # print(alignmentTable)
-        print(block.json)
+        # print(block.alignmentJson['table'])
+        print(etree.tostring(block.XMLify(),pretty_print=True))
 
 if __name__ == "__main__": main()
