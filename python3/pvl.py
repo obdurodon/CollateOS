@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 """
-Filename: test.py
+test.py
+
 Author: David J. Birnbaum (djbpitt@gmail.com; http://www.obdurodon.org)
 First version: 2015-06-18
-Based on Python 2 / XSLT application developed by Minas Abovyan and David J. Birnbaum
+Based on: Python 2 / XSLT application 
+    developed by Minas Abovyan and David J. Birnbaum
     (http://pvl.obdurodon.org/doc/manual.html)
 Input: pvl.xml
 
@@ -18,7 +20,9 @@ class Block:
     'An instance of Block represents a Karskii block in the PVL edition'
     def __init__(self,block):
         self.block = block
-        self.witnessInput = self.block.xpath('manuscripts/* | Bych | Shakh | Likh | paradosis/Ost') # retrieve all witnesses in order
+        self.witnessInput = self.block.xpath(
+            'manuscripts/* | Bych | Shakh | Likh | paradosis/Ost'
+            ) # retrieve all witnesses in order
         self.root = {}
         self.allWitnesses = []
         for item in self.witnessInput:

@@ -1,0 +1,20 @@
+{
+  "witnesses" : [
+    {
+      "id" : "A",
+      "tokens" : [
+          { "t" : "A", "ref" : 123 },
+          { "t" : "black" , "adj" : true },
+          { "t" : "cat", "id" : "xyz" }
+      ]
+    },
+    {
+      "id" : "B",
+      "tokens" : [
+          { "t" : "A" },
+          { "t" : "white" , "adj" : true },
+          { "t" : "kitten.", "n" : "cat" }
+      ]
+    }
+  ]
+}
